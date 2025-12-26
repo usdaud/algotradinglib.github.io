@@ -46,11 +46,11 @@ The Taper Tantrum highlighted the importance of effective communication by centr
 
 ## Implications for Algorithmic Trading and FinTech
 
-The Taper Tantrum presents several lessons for [algorithmic trading](../a/accountability.md) and financial technology (FinTech) sectors:
+The Taper Tantrum presents several lessons for [algorithmic trading](../a/algorithmic_trading.md) and financial technology (FinTech) sectors:
 
 ### Risk Management
 
-[Algorithmic trading](../a/accountability.md) systems and FinTech platforms must incorporate [robust](../r/robust.md) [risk management](../r/risk_management.md) practices to [handle](../h/handle.md) sudden [market](../m/market.md) [volatility](../v/volatility.md). The Taper Tantrum demonstrated how quickly [market](../m/market.md) conditions can change, underscoring the need for adaptive and resilient [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems and FinTech platforms must incorporate [robust](../r/robust.md) [risk management](../r/risk_management.md) practices to [handle](../h/handle.md) sudden [market](../m/market.md) [volatility](../v/volatility.md). The Taper Tantrum demonstrated how quickly [market](../m/market.md) conditions can change, underscoring the need for adaptive and resilient [trading strategies](../t/trading_strategies.md).
 
 ### Predictive Analytics
 

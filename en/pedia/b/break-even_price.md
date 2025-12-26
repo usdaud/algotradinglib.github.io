@@ -81,4 +81,4 @@ Algo-traders can develop custom algorithms to calculate the break-even price dyn
 ## Conclusion
 Understanding the break-even price is fundamental for traders, investors, and businesses seeking to optimize profitability and manage risks. In the context of [algorithmic trading](../a/accountability.md), the break-even price serves as a critical parameter for developing, monitoring, and optimizing [trading strategies](../t/trading_strategies.md). By incorporating [break-even analysis](../b/break-even_analysis.md), traders can make informed decisions, manage costs effectively, and achieve long-term success in the competitive world of trading.
 
-For more details on companies specializing in [algorithmic trading](../a/accountability.md), please visit [Two Sigma](https://www.twosigma.com/) and [Virtu Financial](https://www.virtu.com/).
+For more details on companies specializing in [algorithmic trading](../a/accountability.md), please visit Two Sigma and Virtu Financial.

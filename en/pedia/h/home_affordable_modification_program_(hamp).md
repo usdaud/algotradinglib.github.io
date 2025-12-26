@@ -47,12 +47,7 @@ The HAMP program helped millions of homeowners by modifying their [mortgage](../
 
 Major banks and [mortgage](../m/mortgage.md) servicers participated in the HAMP program. Some of the prominent institutions include:
 
-- **JPMorgan Chase**: <https://www.jpmorganchase.com>
-- **[Bank](../b/bank.md) of America**: <https://www.bankofamerica.com>
-- **Wells Fargo**: <https://www.wellsfargo.com>
-- **CitiMortgage**: <https://www.citi.com>
-- **Ocwen Financial [Corporation](../c/corporation.md)**: <https://www.ocwen.com>
-
+- **JPMorgan Chase**- **[Bank](../b/bank.md) of America**- **Wells Fargo**- **CitiMortgage**- **Ocwen Financial [Corporation](../c/corporation.md)**
 ## Criticisms and Challenges
 
 Despite its success in helping many homeowners, HAMP faced several criticisms:

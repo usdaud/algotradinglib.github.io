@@ -1,4 +1,4 @@
-# Hong Kong Stock Exchange (HKG) .HK
+# Hong Kong Stock Exchange (HKG).HK
 
 The Hong Kong Stock [Exchange](../e/exchange.md) (HKEX), located in Hong Kong, is one of the largest [financial markets](../f/financial_market.md) globally and an essential gateway between mainland China and international [capital](../c/capital.md). With its modern [infrastructure](../i/infrastructure.md), efficient regulatory framework, and strategic geographic location, HKEX plays a crucial role in the global trading ecosystem.
 
@@ -12,7 +12,7 @@ After numerous mergers and reforms, the current iteration of HKEX was establishe
 
 ### Trading Hours
 
-HKEX operates with a typical trading day divided into three main sessions: 
+HKEX operates with a typical trading day divided into three main sessions:
 1. The pre-opening or "[pre-market](../p/pre-market.md)" session (9:00 AM - 9:30 AM).
 2. The continuous [trading session](../t/trading_session.md) (9:30 AM - 12:00 PM and 1:00 PM - 4:00 PM).
 3. The closing auction session (4:00 PM - 4:10 PM).
@@ -55,7 +55,7 @@ These initiatives have strengthened Hong Kong’s role as a major international 
 ## Technology and Innovation
 
 HKEX is at the forefront of leveraging technology to enhance [market efficiency](../m/market_efficiency.md) and reliability. Key technological advancements include:
-- **The Orion [Trading Platform](../t/trading_platform.md) (OTP)**: An ultra-low latency trading system that supports high-frequency trading and [algorithmic trading](../a/accountability.md).
+- **The Orion [Trading Platform](../t/trading_platform.md) (OTP)**: An ultra-low latency trading system that supports high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md).
 - **[Blockchain](../b/blockchain_in_trading.md)**: [Distributed ledger technology](../d/distributed_ledger_technology.md) is being explored for [clearing and settlement](../c/clearing_and_settlement.md) processes.
 - **Next-Generation Data Centers**: HKEX maintains [robust](../r/robust.md) data centers to support its trading and [clearing](../c/clearing.md) needs, ensuring minimal downtime and high availability.
 
@@ -67,4 +67,4 @@ HKEX’s strategic location and dual role as a gateway to mainland China and a g
 
 The Hong Kong Stock [Exchange](../e/exchange.md) stands as a pivotal institution in global [finance](../f/finance.md), serving as a bridge between East and West. Its comprehensive [market](../m/market.md) structure, diverse product offerings, advanced technology, and regulatory framework provide a [robust](../r/robust.md) environment for investors and companies alike. As global financial dynamics continue to evolve, HKEX is set to maintain its crucial role in the global trading landscape.
 
-For more information about the Hong Kong Stock [Exchange](../e/exchange.md), you can visit their official website: [HKEX Official Website](https://www.hkex.com.hk).
+For more information about the Hong Kong Stock [Exchange](../e/exchange.md),

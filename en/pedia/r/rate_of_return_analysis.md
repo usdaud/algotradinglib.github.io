@@ -78,15 +78,15 @@ There are several platforms and tools available for conducting [rate of return](
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and live trading. They provide detailed [performance metrics](../p/performance_metrics.md), including various [rate of return](../r/rate_of_return.md) calculations. [Visit QuantConnect](https://www.quantconnect.com)
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and live trading. They provide detailed [performance metrics](../p/performance_metrics.md), including various [rate of return](../r/rate_of_return.md) calculations. Visit QuantConnect
 
 ### MetaTrader
 
-MetaTrader is a popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced charting and [algorithmic trading](../a/algorithmic_trading.md) capabilities. Through its analytical tools, traders can calculate and visualize [rate of return](../r/rate_of_return.md) efficiently. [Visit MetaTrader](https://www.metatrader4.com/en)
+MetaTrader is a popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced charting and [algorithmic trading](../a/algorithmic_trading.md) capabilities. Through its analytical tools, traders can calculate and visualize [rate of return](../r/rate_of_return.md) efficiently. Visit MetaTrader
 
 ### NinjaTrader
 
-[NinjaTrader](../n/ninjatrader.md) is an advanced [trading platform](../t/trading_platform.md) providing a comprehensive suite of tools for strategy development, [backtesting](../b/backtesting.md), and live trading. It offers detailed RoR analysis to optimize [trading strategies](../t/trading_strategies.md). [Visit NinjaTrader](https://ninjatrader.com/)
+[NinjaTrader](../n/ninjatrader.md) is an advanced [trading platform](../t/trading_platform.md) providing a comprehensive suite of tools for strategy development, [backtesting](../b/backtesting.md), and live trading. It offers detailed RoR analysis to optimize [trading strategies](../t/trading_strategies.md). Visit NinjaTrader
 
 ## Case Studies
 

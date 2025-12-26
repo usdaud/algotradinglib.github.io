@@ -35,19 +35,19 @@ Recently, [deep learning](../d/deep_learning.md) models have gained prominence i
 Several platforms and tools facilitate OPS:
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) provides an [open](../o/open.md)-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of [asset](../a/asset.md) classes and research environments. Users can backtest strategies on historical data and deploy them in live trading.
+[QuantConnect](../q/quantconnect.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of [asset](../a/asset.md) classes and research environments. Users can backtest strategies on historical data and deploy them in live trading.
 
-Website: [QuantConnect](https://www.quantconnect.com/)
+online platform: QuantConnect
 
 ### Interactive Brokers (IBKR)
 IBKR offers a rich API that allows for custom OPS implementations with real-time data feeds and a [robust](../r/robust.md) trading [infrastructure](../i/infrastructure.md) suited for both retail and institutional traders.
 
-Website: [Interactive Brokers](https://www.interactivebrokers.com/)
+online platform: Interactive Brokers
 
 ### Alpaca
 [Alpaca](../a/alpaca.md) provides [commission](../c/commission.md)-free trading APIs that are particularly welcoming to developers and quants interested in OPS. The platform supports Python and offers tools for [backtesting](../b/backtesting.md) and live trading.
 
-Website: [Alpaca](https://alpaca.markets/)
+online platform: Alpaca
 
 ## Challenges and Considerations
 
@@ -71,12 +71,12 @@ OPS strategies must comply with regulatory requirements, varying based on jurisd
 ### Renaissance Technologies
 Renaissance Technologies, founded by James Simons, is one of the most successful [hedge](../h/hedge.md) funds employing OPS. Using [quantitative models](../q/quantitative_models.md) and a vast array of [market](../m/market.md) data, Renaissance's Medallion [Fund](../f/fund.md) has achieved astronomical returns.
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
+online platform: Renaissance Technologies
 
 ### Two Sigma
 Two Sigma Investments leverages [machine learning](../m/machine_learning.md) and distributed computing for OPS. Their strategies integrate diverse data sources, including non-traditional datasets, to anticipate [market](../m/market.md) movements.
 
-Website: [Two Sigma](https://www.twosigma.com/)
+online platform: Two Sigma
 
 ## Future Trends
 

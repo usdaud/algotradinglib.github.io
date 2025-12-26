@@ -1,6 +1,6 @@
 # Peer Group
 
-In the realm of [finance](../f/finance.md) and trading, a "peer group" is a fundamental concept that is used for various analytical purposes. Peer groups are assembled with the objective of comparing and contrasting performance, valuations, and [business](../b/business.md) metrics across similar entities. This comparison plays an indispensable role in investment decision-making, [risk](../r/risk.md) assessment, and strategic planning. 
+In the realm of [finance](../f/finance.md) and trading, a "peer group" is a fundamental concept that is used for various analytical purposes. Peer groups are assembled with the objective of comparing and contrasting performance, valuations, and [business](../b/business.md) metrics across similar entities. This comparison plays an indispensable role in investment decision-making, [risk](../r/risk.md) assessment, and strategic planning.
 
 ## Definition and Purpose
 
@@ -41,7 +41,7 @@ Management teams use peer group comparisons for strategic planning, especially f
 Creating an effective peer group is not without challenges. Some common issues include:
 
 ### Inconsistent Data
-Differences in [accounting](../a/accounting.md) standards and reporting practices can make data inconsistent across companies. 
+Differences in [accounting](../a/accounting.md) standards and reporting practices can make data inconsistent across companies.
 
 ### Dynamic Landscape
 Industries evolve, and companies diversify, making it difficult to maintain a constant peer group. Regular updates are essential.
@@ -59,23 +59,23 @@ Coca-Cola's peer group typically includes PepsiCo, Dr Pepper Snapple Group, and 
 
 ## Use in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), peer groups are utilized to develop [trading strategies](../t/trading_strategies.md) based on relative performance. Algorithms may trigger trades when a company's performance deviates significantly from its peers, assuming [mean reversion](../m/mean_reversion.md) or other stat-arb strategies.
+In [algorithmic trading](../a/algorithmic_trading.md), peer groups are utilized to develop [trading strategies](../t/trading_strategies.md) based on relative performance. Algorithms may trigger trades when a company's performance deviates significantly from its peers, assuming [mean reversion](../m/mean_reversion.md) or other stat-arb strategies.
 
 ### Example: Pair Trading
 In this strategy, an algorithm might simultaneously go long on Company A while shorting Company B within the same peer group, based on historical price correlations and current deviations.
 
 ## Fintech Solutions
 
-Several fintech companies provide tools for automated peer group analysis, enabling instant comparisons and real-time updates. Platforms like [FactSet](../f/factset.md), [Bloomberg Terminal](../b/bloomberg_terminal.md), and S&P [Capital IQ](../c/capital_iq.md) [offer](../o/offer.md) comprehensive solutions for peer group analytics. 
+Several fintech companies provide tools for automated peer group analysis, enabling instant comparisons and real-time updates. Platforms like [FactSet](../f/factset.md), [Bloomberg Terminal](../b/bloomberg_terminal.md), and S&P [Capital IQ](../c/capital_iq.md) [offer](../o/offer.md) comprehensive solutions for peer group analytics.
 
 ### FactSet
-More information on [FactSet](../f/factset.md)'s peer group analysis tools can be found on their [official website](https://www.factset.com).
+More information on [FactSet](../f/factset.md)'s
 
 ### Bloomberg Terminal
-[Bloomberg Terminal](../b/bloomberg_terminal.md) offers a [robust](../r/robust.md) set of tools for peer group formation and analysis, details of which are available on [Bloomberg](../b/bloomberg.md)'s [site](https://www.bloomberg.com/professional/solution/data-and-content).
+[Bloomberg Terminal](../b/bloomberg_terminal.md) offers a [robust](../r/robust.md) set of tools for peer group formation and analysis, details of which are available in Bloomberg Terminal materials.
 
 ### S&P Capital IQ
-Known for its [data analytics](../d/data_analytics.md) capabilities, S&P [Capital IQ](../c/capital_iq.md) provides extensive peer group analysis features, available on their [site](https://www.spglobal.com/marketintelligence/en/campaigns/capital-iq).
+Known for its [data analytics](../d/data_analytics.md) capabilities, S&P [Capital IQ](../c/capital_iq.md) provides extensive peer group analysis features, available in their materials.
 
 ## Conclusion
 

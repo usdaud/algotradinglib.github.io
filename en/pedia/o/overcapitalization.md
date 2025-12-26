@@ -68,13 +68,11 @@ To address overcapitalization, companies must implement effective financial and 
 
 General Electric (GE) is a notable example of a company that faced overcapitalization. GE expanded aggressively through acquisitions, increasing its [debt](../d/debt.md) [load](../l/load.md) significantly. Over time, the company encountered difficulties in servicing its [debt](../d/debt.md), leading to a decline in [financial performance](../f/financial_performance.md) and [investor](../i/investor.md) confidence. GE had to undertake significant [restructuring](../r/restructuring.md) efforts, including [asset](../a/asset.md) sales and cost-cutting measures, to address its overcapitalization issues.
 
-[Link to General Electric](https://www.ge.com)
 
 ### Ford Motor Company
 
 Ford Motor Company experienced overcapitalization during the early 2000s when it had amassed significant [debt](../d/debt.md) to [finance](../f/finance.md) its operations and investments. The excessive [debt](../d/debt.md) burden strained Ford’s financials, leading to lower profitability. The company initiated a series of measures including [debt restructuring](../d/debt_restructuring.md), [operational efficiency](../o/operational_efficiency_in_trading.md) programs, and strategic divestitures to manage its [capital](../c/capital.md) effectively.
 
-[Link to Ford Motor Company](https://www.ford.com)
 
 ## Conclusion
 

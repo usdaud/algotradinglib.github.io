@@ -69,4 +69,3 @@ In light of changing [economic conditions](../e/economic_conditions.md) and demo
 
 Social [Security](../s/security.md) remains a cornerstone of the American social safety net, providing critical financial support to millions of retirees, disabled individuals, and survivors. While it faces financial challenges, its foundational role in reducing [poverty](../p/poverty.md) and providing economic [security](../s/security.md) underscores its importance. Ensuring the program's long-term sustainability [will](../w/will.md) require thoughtful policy reforms and bipartisan cooperation.
 
-For more information, refer to the [official Social Security Administration website](https://www.ssa.gov/).

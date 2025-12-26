@@ -1,6 +1,6 @@
 # Bitcoin
 
-Bitcoin is a decentralized [digital currency](../d/digital_currency.md) that was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. It was released as [open](../o/open.md)-source software in 2009. Bitcoins are created as a reward for a process known as [mining](../m/mining.md). They can be exchanged for other currencies, products, and services. As of February 2021, over 18.6 million bitcoins were in circulation with a total [market value](../m/market_value.md) of around $1 trillion.
+Bitcoin is a decentralized [digital currency](../d/digital_currency.md) that was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. It was released as [open](../o/open.md)-source software in 2009. Bitcoins are created as a reward for a process known as [mining](../m/mining.md). They can be exchanged for other currencies, products, and services.
 
 ## History and Creation
 
@@ -44,15 +44,15 @@ Miners are responsible for validating transactions and securing the network. The
 
 ### Exchanges
 
-Bitcoin exchanges facilitate the buying and selling of bitcoins using traditional currencies. They act as intermediaries, providing [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md) for the Bitcoin [market](../m/market.md). Prominent exchanges include [Coinbase](../c/coinbase.md) (https://www.[coinbase](../c/coinbase.md).com/), [Binance](../b/binance.md) (https://www.[binance](../b/binance.md).com/), and [Kraken](../k/kraken.md) (https://www.[kraken](../k/kraken.md).com/).
+Bitcoin exchanges facilitate the buying and selling of bitcoins using traditional currencies. They act as intermediaries, providing [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md) for the Bitcoin [market](../m/market.md). Prominent exchanges include [Coinbase](../c/coinbase.md) ( [Binance](../b/binance.md) ( and [Kraken](../k/kraken.md) (
 
 ### Wallet Providers
 
-Wallet providers [offer](../o/offer.md) software or hardware solutions for storing and managing bitcoins. Wallets can be hot (connected to the internet) or cold (offline and more secure). Popular wallet providers include Ledger (https://www.ledger.com/), Trezor (https://trezor.io/), and Electrum (https://electrum.org/).
+Wallet providers [offer](../o/offer.md) software or hardware solutions for storing and managing bitcoins. Wallets can be hot (connected to the internet) or cold (offline and more secure). Popular wallet providers include Ledger ( Trezor ( and Electrum (
 
 ### Merchants
 
-Merchants accept bitcoin as a [payment](../p/payment.md) method for goods and services. By integrating Bitcoin [payment](../p/payment.md) gateways, they can cater to a growing [customer](../c/customer.md) base that prefers using cryptocurrencies. Notable merchants accepting Bitcoin include Overstock (https://www.overstock.com/), Microsoft (https://www.microsoft.com/), and Newegg (https://www.newegg.com/).
+Merchants accept bitcoin as a [payment](../p/payment.md) method for goods and services. By integrating Bitcoin [payment](../p/payment.md) gateways, they can cater to a growing [customer](../c/customer.md) base that prefers using cryptocurrencies. Notable merchants accepting Bitcoin include Overstock ( Microsoft ( and Newegg (
 
 ## Bitcoin's Impact on Finance
 

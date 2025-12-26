@@ -86,18 +86,18 @@ The education and skill levels of the labor force directly impact labor [supply]
 
 ### Labor Market Platforms
 
-- **LinkedIn** - [LinkedIn](https://www.linkedin.com) connects professionals and employers, facilitating [labor market](../l/labor_market.md) transactions.
-- **Indeed** - [Indeed](https://www.indeed.com) is a job site aggregating listings from various sources and allowing for direct applications.
+- **LinkedIn** - LinkedIn connects professionals and employers, facilitating [labor market](../l/labor_market.md) transactions.
+- **Indeed** - Indeed is a job site aggregating listings from various sources and allowing for direct applications.
 
 ### Capital Market Platforms
 
-- **NYSE (New York Stock [Exchange](../e/exchange.md))** - [NYSE](https://www.nyse.com) is a [primary market](../p/primary_market.md) for trading [stocks](../s/stock.md) and other financial instruments.
-- **[NASDAQ](../n/nasdaq.md)** - [NASDAQ](https://www.nasdaq.com) is a global electronic marketplace for buying and selling securities.
+- **NYSE (New York Stock [Exchange](../e/exchange.md))** - NYSE is a [primary market](../p/primary_market.md) for trading [stocks](../s/stock.md) and other financial instruments.
+- **[NASDAQ](../n/nasdaq.md)** - NASDAQ is a global electronic marketplace for buying and selling securities.
 
 ### Real Estate Platforms
 
-- **Zillow** - [Zillow](https://www.zillow.com) provides an online platform for buyers, sellers, and renters to engage in the land and [real estate](../r/real_estate.md) [market](../m/market.md).
-- **Redfin** - [Redfin](https://www.redfin.com) is a [real estate](../r/real_estate.md) brokerage [offering](../o/offering.md) comprehensive [real estate](../r/real_estate.md) data and services.
+- **Zillow** - Zillow provides an online platform for buyers, sellers, and renters to engage in the land and [real estate](../r/real_estate.md) [market](../m/market.md).
+- **Redfin** - Redfin is a [real estate](../r/real_estate.md) brokerage [offering](../o/offering.md) comprehensive [real estate](../r/real_estate.md) data and services.
 
 ## Conclusion
 

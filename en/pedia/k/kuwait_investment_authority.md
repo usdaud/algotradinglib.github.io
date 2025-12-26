@@ -87,4 +87,3 @@ To address these varied challenges and sustain its mission, KIA continually adap
 
 The Kuwait Investment Authority stands as a testament to visionary financial management, balancing the dual goals of safeguarding and growing sovereign [wealth](../w/wealth.md). Through prudent and diversified investments, KIA not only seeks to protect Kuwait's financial future but also to wield significant influence in global financial arenas, shaping economic trends and fostering sustainable growth.
 
-For more information, visit the official Kuwait Investment Authority website: [KIA Official Site](https://www.kia.gov.kw).

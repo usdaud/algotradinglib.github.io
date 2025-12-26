@@ -12,7 +12,7 @@ At its core, [Market](../m/market.md) Profile is a graphical organization of pri
 
 ### Building the Profile: The TPO Chart
 
-A typical TPO chart is constructed by breaking the trading day into [multiple](../m/multiple.md) time brackets, commonly 30-minute intervals. Each interval (A, B, C, etc.) is plotted against its respective [price level](../p/price_level.md). 
+A typical TPO chart is constructed by breaking the trading day into [multiple](../m/multiple.md) time brackets, commonly 30-minute intervals. Each interval (A, B, C, etc.) is plotted against its respective [price level](../p/price_level.md).
 
 #### Example:
 Consider a [market](../m/market.md) opening at 100, trading as high as 110, and as low as 90, then closing at 105. If each 30-minute period shows trading activity at these prices, the TPO chart [will](../w/will.md) mark these prices accordingly. The result is a bell-shaped [distribution](../d/distribution.md) graph, indicating the frequency and price levels where most trading occurred.
@@ -41,7 +41,7 @@ Single prints are areas where the price spiked quickly without much trading acti
 
 #### Trends and Ranges
 
-By examining the shape of the profile, traders can discern between trending and ranging markets. A D-shaped profile suggests a balanced or ranging [market](../m/market.md), while a P or b-shaped profile indicates trending or imbalanced conditions. 
+By examining the shape of the profile, traders can discern between trending and ranging markets. A D-shaped profile suggests a balanced or ranging [market](../m/market.md), while a P or b-shaped profile indicates trending or imbalanced conditions.
 
 - **D-Shaped Profile**: Balanced [market](../m/market.md)
 - **P-Shaped Profile**: [Uptrend](../u/uptrend.md) with weak close
@@ -66,11 +66,8 @@ While traditional [Market](../m/market.md) Profiles use time as a constant, some
 Several tools and [software platforms](../s/software_platforms_for_trading.md) provide [Market](../m/market.md) Profile charting capabilities. Some of the notable ones include:
 
 - **[Sierra Chart](../s/sierra_chart.md)**: Known for its [robust](../r/robust.md) [market](../m/market.md) analysis tools, including [Market](../m/market.md) Profile charts.
-  [Sierra Chart](https://www.sierrachart.com/)
 - **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers comprehensive [Market](../m/market.md) Profile features integrated with other trading tools.
-  [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **[NinjaTrader](../n/ninjatrader.md)**: A popular choice for [futures](../f/futures.md) traders, [offering](../o/offering.md) advanced [Market](../m/market.md) Profile analytics.
-  [NinjaTrader](https://ninjatrader.com/)
 
 ### Conclusion
 

@@ -31,26 +31,26 @@ For the [Chi-Square test](../c/chi-square_test.md) to be valid, certain assumpti
 
 ### Steps for Conducting a Chi-Square Test
 1. **State Hypotheses**:
-   - [Null Hypothesis](../n/null_hypothesis.md) (\(H_0\)): Assumes no effect or no association.
-   - Alternative Hypothesis (\(H_1\)): Assumes an effect or association exists.
-   
+ - [Null Hypothesis](../n/null_hypothesis.md) (\(H_0\)): Assumes no effect or no association.
+ - Alternative Hypothesis (\(H_1\)): Assumes an effect or association exists.
+
 2. **Calculate Expected Frequencies**:
-   - For a Goodness of Fit test: Use theoretical probabilities.
-   - For a Test of Independence: Use the formula - \( E_{ij} = \frac{(Row_i \times Column_j)}{Total} \)
-     
+ - For a Goodness of Fit test: Use theoretical probabilities.
+ - For a Test of Independence: Use the formula - \( E_{ij} = \frac{(Row_i \times Column_j)}{Total} \)
+
 3. **Compute the Chi-Square Statistic**:
-   - Use the formula \( \chi^2 = \sum \frac{(O_i - E_i)^2}{E_i} \)
-    
+ - Use the formula \( \chi^2 = \sum \frac{(O_i - E_i)^2}{E_i} \)
+
 4. **Determine [Degrees of Freedom](../d/degrees_of_freedom.md) (df)**:
-   - Goodness of Fit: \( df = k - 1 \) (where \( k \) is the number of categories)
-   - Test of Independence: \( df = (Rows - 1) \times (Columns - 1) \)
-     
+ - Goodness of Fit: \( df = k - 1 \) (where \( k \) is the number of categories)
+ - Test of Independence: \( df = (Rows - 1) \times (Columns - 1) \)
+
 5. **Find the P-[value](../v/value.md)**:
-   - Use Chi-Square [distribution](../d/distribution.md) tables or a statistical software to find the p-[value](../v/value.md) corresponding to the computed \( \chi^2 \) and \( df \).
-   
+ - Use Chi-Square [distribution](../d/distribution.md) tables or a statistical software to find the p-[value](../v/value.md) corresponding to the computed \( \chi^2 \) and \( df \).
+
 6. **Make a Decision**:
-   - Compare the p-[value](../v/value.md) with the chosen significance level (\(\[alpha](../a/alpha.md)\), typically 0.05).
-   - If \( p \leq \[alpha](../a/alpha.md) \), reject the [null hypothesis](../n/null_hypothesis.md).
+ - Compare the p-[value](../v/value.md) with the chosen significance level (\(\[alpha](../a/alpha.md)\), typically 0.05).
+ - If \( p \leq \[alpha](../a/alpha.md) \), reject the [null hypothesis](../n/null_hypothesis.md).
 
 ## Applications in Algorithmic Trading
 
@@ -77,6 +77,6 @@ Suppose a [trader](../t/trader.md) believes that certain stock returns deviate f
 An algorithmic [trader](../t/trader.md) collects sentiment data from [social media](../s/social_media.md) and categorizes it as positive, negative, or [neutral](../n/neutral.md). They want to test if there is a significant association between these sentiment categories and daily stock price movements. Using the [Chi-Square Test](../c/chi-square_test.md) of Independence, they analyze the observed frequency of price changes across sentiment categories against what would be expected if there were no association.
 
 ### Industry Application: Kinetix Trading Solutions
-[Kinetix Trading Solutions](https://kinetix.com) utilizes advanced statistical analysis, including the Chi-Square statistic, to develop [robust](../r/robust.md) [algorithmic trading](../a/accountability.md) systems. Their platforms integrate various data sources to perform real-time [market](../m/market.md) [anomaly detection](../a/anomaly_detection.md) and strategy performance analysis, providing traders with valuable insights and edge in the markets.
+Kinetix Trading Solutions utilizes advanced statistical analysis, including the Chi-Square statistic, to develop [robust](../r/robust.md) [algorithmic trading](../a/accountability.md) systems. Their platforms integrate various data sources to perform real-time [market](../m/market.md) [anomaly detection](../a/anomaly_detection.md) and strategy performance analysis, providing traders with valuable insights and edge in the markets.
 
 By integrating the Chi-Square statistic in their analytical toolbox, algorithmic traders can enhance their decision-making processes, detect significant [market](../m/market.md) patterns, and optimize [trading strategies](../t/trading_strategies.md) for better performance and [risk management](../r/risk_management.md).

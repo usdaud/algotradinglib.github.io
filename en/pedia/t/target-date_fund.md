@@ -10,7 +10,7 @@ Target-date funds are typically composed of a mix of [stocks](../s/stock.md), bo
 
 ### Glide Path
 
-The transition in [asset allocation](../a/asset_allocation.md) over time follows a predefined "[glide path](../g/glide_path.md)." The [glide path](../g/glide_path.md) starts with a higher allocation to equities ([stocks](../s/stock.md)) when the target date is far away. This higher allocation seeks to provide growth potential by taking advantage of the longer [time horizon](../t/time_horizon.md). As the target date draws nearer, the allocation steadily shifts toward more conservative investments like bonds to reduce [risk](../r/risk.md). 
+The transition in [asset allocation](../a/asset_allocation.md) over time follows a predefined "[glide path](../g/glide_path.md)." The [glide path](../g/glide_path.md) starts with a higher allocation to equities ([stocks](../s/stock.md)) when the target date is far away. This higher allocation seeks to provide growth potential by taking advantage of the longer [time horizon](../t/time_horizon.md). As the target date draws nearer, the allocation steadily shifts toward more conservative investments like bonds to reduce [risk](../r/risk.md).
 
 ### Lifecycle of Investment
 
@@ -36,29 +36,29 @@ After reaching the target retirement date, the [fund](../f/fund.md) continues to
 
 Consider the Fidelity Freedom 2030 [Fund](../f/fund.md) (Ticker: FFFEX) as an example:
 
-- **Initial Allocation**: 
-  - Equities: 90%
-  - Bonds: 10%
-  - Others (e.g., cash, [real estate](../r/real_estate.md)): 0%
-  
+- **Initial Allocation**:
+ - Equities: 90%
+ - Bonds: 10%
+ - Others (e.g., cash, [real estate](../r/real_estate.md)): 0%
+
 - **10 Years Before Target Date**:
-  - Equities: 70%
-  - Bonds: 25%
-  - Others: 5%
-  
+ - Equities: 70%
+ - Bonds: 25%
+ - Others: 5%
+
 - **At Target Date**:
-  - Equities: 50%
-  - Bonds: 45%
-  - Others: 5%
+ - Equities: 50%
+ - Bonds: 45%
+ - Others: 5%
 
 - **10 Years After Target Date**:
-  - Equities: 30%
-  - Bonds: 65%
-  - Others: 5%
+ - Equities: 30%
+ - Bonds: 65%
+ - Others: 5%
 
 This gradual shift in allocation represents a decreasing [risk tolerance](../r/risk_tolerance.md) as the target retirement date approaches and eventually is designed to preserve [capital](../c/capital.md) and provide steady [income](../i/income.md) post-retirement.
 
-For more details about the Fidelity Freedom 2030 [Fund](../f/fund.md), you can visit their official page: [Fidelity Freedom 2030 Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31617R605)
+For more details about the Fidelity Freedom 2030 [Fund](../f/fund.md), you can
 
 ## Conclusion
 

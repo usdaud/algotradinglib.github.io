@@ -64,10 +64,10 @@ Conducting simulations and [stress testing](../s/stress_testing_in_trading.md) u
 ### Case Studies and Industry Examples
 
 #### **Example: Goldman Sachs**
-Goldman Sachs has been known for its sophisticated [trading systems](../t/trading_systems.md) and [risk management](../r/risk_management.md) strategies. They employ a mix of the above strategies to [handle](../h/handle.md) high-frequency trading demands and oversubscription effects. Their approach often involves massive computational capabilities and cutting-edge algorithms [Goldman Sachs](https://www.goldmansachs.com/).
+Goldman Sachs has been known for its sophisticated [trading systems](../t/trading_systems.md) and [risk management](../r/risk_management.md) strategies. They employ a mix of the above strategies to [handle](../h/handle.md) high-frequency trading demands and oversubscription effects. Their approach often involves massive computational capabilities and cutting-edge algorithms Goldman Sachs.
 
 #### **Example: Renaissance Technologies**
-Renaissance Technologies, famous for its Medallion [Fund](../f/fund.md), uses intricate algorithmic strategies to manage [market](../m/market.md) orders and [execution](../e/execution.md) speed, ensuring that oversubscription does not impact their [trading performance](../t/trading_performance.md). Their success lies in their research-driven approach to [algorithmic trading](../a/algorithmic_trading.md) and constant refinement of models [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, famous for its Medallion [Fund](../f/fund.md), uses intricate algorithmic strategies to manage [market](../m/market.md) orders and [execution](../e/execution.md) speed, ensuring that oversubscription does not impact their [trading performance](../t/trading_performance.md). Their success lies in their research-driven approach to [algorithmic trading](../a/algorithmic_trading.md) and constant refinement of models Renaissance Technologies.
 
 ### Future Trends
 

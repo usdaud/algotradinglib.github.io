@@ -71,13 +71,13 @@ Investors and portfolio managers use various tools and techniques to assess and 
 ## Technological Advances in Portfolio Investment
 
 ### 1. **Algorithmic Trading**
-[Algorithmic trading](../a/accountability.md) uses computer programs to execute trades based on predefined criteria. These algorithms can analyze vast amounts of data, identify trading opportunities, and execute orders at high speeds. [Algorithmic trading](../a/accountability.md) aims to improve [efficiency](../e/efficiency.md), reduce [transaction costs](../t/transaction_costs.md), and minimize human errors.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer programs to execute trades based on predefined criteria. These algorithms can analyze vast amounts of data, identify trading opportunities, and execute orders at high speeds. [Algorithmic trading](../a/algorithmic_trading.md) aims to improve [efficiency](../e/efficiency.md), reduce [transaction costs](../t/transaction_costs.md), and minimize human errors.
 
 ### 2. **Robo-Advisors**
 Robo-advisors are automated platforms that provide [investment management](../i/investment_management.md) services through algorithms and digital interfaces. They [offer](../o/offer.md) personalized [portfolio management](../p/par.md) based on an individual’s [risk tolerance](../r/risk_tolerance.md), financial goals, and [investment horizon](../i/investment_horizon.md). Robo-advisors make [investing](../i/investing.md) accessible to a broader audience by [offering](../o/offering.md) low-cost advisory services.
 
 ### 3. **FinTech Solutions**
-FinTech solutions, including mobile apps and online platforms, have revolutionized [portfolio management](../p/par.md) by providing tools for real-time analytics, tracking performance, and executing trades. Companies like [Robinhood](../r/robinhood.md) [offer](../o/offer.md) [commission](../c/commission.md)-free trading, while platforms like Betterment provide automated, [goal-based investing](../g/goal-based_investing.md) solutions (source: [Robinhood](https://robinhood.com), [Betterment](https://www.betterment.com)).
+FinTech solutions, including mobile apps and online platforms, have revolutionized [portfolio management](../p/par.md) by providing tools for real-time analytics, tracking performance, and executing trades. Companies like [Robinhood](../r/robinhood.md) [offer](../o/offer.md) [commission](../c/commission.md)-free trading, while platforms like Betterment provide automated, [goal-based investing](../g/goal-based_investing.md) solutions (source: Robinhood, Betterment).
 
 ### 4. **Big Data and Predictive Analytics**
 [Big data](../b/big_data_in_trading.md) and [predictive analytics](../p/predictive_analytics.md) involve using large datasets and advanced analytical techniques to forecast [market](../m/market.md) trends and inform investment decisions. By analyzing historical data and real-time [market](../m/market.md) information, portfolio managers can better understand [market dynamics](../m/market_dynamics.md) and make more informed decisions.

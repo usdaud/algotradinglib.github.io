@@ -48,23 +48,23 @@ Secondary offerings occur when existing shareholders sell their stakes in the co
 
 [Investment banks](../i/investment_bank_(ib).md) play a crucial role in ECM by providing [underwriting](../u/underwriting.md) services, advisory, and broking. Two prominent [investment banks](../i/investment_bank_(ib).md) are:
 
-- **Goldman Sachs**: [Goldman Sachs ECM](https://www.goldmansachs.com/what-we-do/investing-and-lending/equity/)
-- **Morgan Stanley**: [Morgan Stanley ECM](https://www.morganstanley.com/what-we-do/investment-banking/equity-underwriting)
+- **Goldman Sachs**: Goldman Sachs ECM
+- **Morgan Stanley**: Morgan Stanley ECM
 
 ### Stock Exchanges
 
 Stock exchanges provide the [infrastructure](../i/infrastructure.md) and regulatory framework necessary for [equity trading](../e/equity_trading.md). Major stock exchanges include:
 
-- **New York Stock [Exchange](../e/exchange.md) (NYSE)**: [NYSE](https://www.nyse.com/)
-- **[NASDAQ](../n/nasdaq.md)**: [NASDAQ](https://www.nasdaq.com/)
-- **London Stock [Exchange](../e/exchange.md) (LSE)**: [LSE](https://www.londonstockexchange.com/)
+- **New York Stock [Exchange](../e/exchange.md) (NYSE)**: NYSE
+- **[NASDAQ](../n/nasdaq.md)**: NASDAQ
+- **London Stock [Exchange](../e/exchange.md) (LSE)**: LSE
 
 ### Regulatory Bodies
 
 Regulatory bodies ensure that issuances comply with legal and [transparency](../t/transparency.md) requirements to protect investors. Prominent regulatory bodies include:
 
-- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: [SEC](https://www.sec.gov/)
-- **Financial Conduct Authority (FCA)**: [FCA](https://www.fca.org.uk/)
+- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: SEC
+- **Financial Conduct Authority (FCA)**: FCA
 
 ## Advantages and Disadvantages of ECM
 

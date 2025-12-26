@@ -124,13 +124,12 @@ results = run_algorithm(start=start, end=end, initialize=initialize, handle_data
 
 [Alpaca](../a/alpaca.md) provides a [commission](../c/commission.md)-free trading API.
 
-[Alpaca Platform](https://alpaca.markets/)
 
 ```python
 [import](../i/import.md) alpaca_trade_api as tradeapi
 
 # Initialize API connection
-api = tradeapi.REST('<API_KEY>', '<API_SECRET>', base_url='https://paper-api.[alpaca](../a/alpaca.md).markets')
+api = tradeapi.REST'<API_KEY>', '<API_SECRET>', base_url='
 
 # Get account info
 account = api.get_account()
@@ -144,7 +143,6 @@ api.submit_order(symbol='AAPL', qty=1, side='buy', type='[market](../m/market.md
 
 CCXT is a cryptocurrency trading library that supports many exchanges.
 
-[CCXT Documentation](https://github.com/ccxt/ccxt)
 
 ```python
 [import](../i/import.md) ccxt
@@ -277,4 +275,4 @@ High-Frequency Trading involves placing a large number of orders at extremely hi
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) with Python is a powerful approach that combines programming with [trading strategies](../t/trading_strategies.md) to automate trading processes. By leveraging Python's extensive libraries, one can easily develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). However, it's essential to understand the [underlying](../u/underlying.md) principles, manage risks appropriately, and continuously refine the strategies to remain competitive in the dynamic [financial markets](../f/financial_market.md).
+[Algorithmic trading](../a/algorithmic_trading.md) with Python is a powerful approach that combines programming with [trading strategies](../t/trading_strategies.md) to automate trading processes. By leveraging Python's extensive libraries, one can easily develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). However, it's essential to understand the [underlying](../u/underlying.md) principles, manage risks appropriately, and continuously refine the strategies to remain competitive in the dynamic [financial markets](../f/financial_market.md).

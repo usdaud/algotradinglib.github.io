@@ -52,12 +52,12 @@ While the strategy aims to [hedge](../h/hedge.md) against [market risk](../m/mar
 ### Bridgewater Associates
 Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h/hedge.md) funds in the world and is known for its long/short [equity](../e/equity.md) strategies. The [firm](../f/firm.md) utilizes macroeconomic research and [quantitative models](../q/quantitative_models.md) to inform its investment decisions.
 
-**[Bridgewater Associates](https://www.bridgewater.com/)**
+**Bridgewater Associates**
 
 ### Renaissance Technologies
-Renaissance Technologies, founded by Jim Simons, employs sophisticated [quantitative models](../q/quantitative_models.md) to drive its long/short [equity](../e/equity.md) strategies. The [firm](../f/firm.md)’s Medallion [Fund](../f/fund.md) is famous for its exceptional performance, often attributed to its advanced [algorithmic trading](../a/accountability.md) techniques.
+Renaissance Technologies, founded by Jim Simons, employs sophisticated [quantitative models](../q/quantitative_models.md) to drive its long/short [equity](../e/equity.md) strategies. The [firm](../f/firm.md)’s Medallion [Fund](../f/fund.md) is famous for its exceptional performance, often attributed to its advanced [algorithmic trading](../a/algorithmic_trading.md) techniques.
 
-**[Renaissance Technologies](https://www.rentec.com/)**
+**Renaissance Technologies**
 
 ## Conclusion
 

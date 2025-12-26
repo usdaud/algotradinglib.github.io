@@ -86,9 +86,8 @@ Conventional government bonds have various maturities and can be more complex th
 
 ### Direct Purchase
 
-Investors can purchase [Kiwi](../k/kiwi.md) Bonds directly from the New Zealand [Debt](../d/debt.md) Management Office. The process involves filling out an application form, providing identification, and transferring the investment amount. Direct purchases can usually be made by visiting the NZDMO's official website.
+Investors can purchase [Kiwi](../k/kiwi.md) Bonds directly from the New Zealand [Debt](../d/debt.md) Management Office. The process involves filling out an application form, providing identification, and transferring the investment amount. Direct purchases can usually be made by visiting the NZDMO's
 
-[New Zealand Debt Management Office - Kiwi Bonds](https://www.nzdmo.govt.nz)
 
 ### Through Authorized Agents
 

@@ -11,9 +11,9 @@ The legal framework surrounding profits interests is complex and derives from se
 ### Key IRS Guidelines
 
 1. **Rev. Proc. 93-27**: This [revenue](../r/revenue.md) procedure provides that a profits [interest](../i/interest.md) received for services rendered to a partnership or LLC is generally not taxable upon receipt. However, there are exceptions, such as:
-   - The profits [interest](../i/interest.md) relates to a substantially certain and predictable stream of [income](../i/income.md) from partnership assets.
-   - The service provider disposes of the profits [interest](../i/interest.md) within two years of receipt.
-   - The profits [interest](../i/interest.md) is a limited partnership [interest](../i/interest.md) in a "publicly traded partnership."
+ - The profits [interest](../i/interest.md) relates to a substantially certain and predictable stream of [income](../i/income.md) from partnership assets.
+ - The service provider disposes of the profits [interest](../i/interest.md) within two years of receipt.
+ - The profits [interest](../i/interest.md) is a limited partnership [interest](../i/interest.md) in a "publicly traded partnership."
 
 2. **Rev. Proc. 2001-43**: Clarifies that the [grant](../g/grant.md) of a profits [interest](../i/interest.md) is not taxable when certain conditions are met, such as the recipient not disposing of the profits [interest](../i/interest.md) within two years and the profits [interest](../i/interest.md) not being related to a predictable [income](../i/income.md) stream.
 

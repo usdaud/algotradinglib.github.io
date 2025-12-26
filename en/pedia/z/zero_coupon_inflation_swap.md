@@ -46,7 +46,7 @@ The [value](../v/value.md) of a Zero Coupon [Inflation Swap](../i/inflation_swap
 
 ## Applications
 ### Hedging
-ZCIS are largely used for hedging [inflation](../i/inflation.md) [risk](../r/risk.md). Institutions with long-term, [inflation](../i/inflation.md)-sensitive liabilities, such as pension funds and [insurance](../i/insurance.md) firms, utilize these swaps to manage the [risk](../r/risk.md) that rising prices [will](../w/will.md) erode their [capital](../c/capital.md). 
+ZCIS are largely used for hedging [inflation](../i/inflation.md) [risk](../r/risk.md). Institutions with long-term, [inflation](../i/inflation.md)-sensitive liabilities, such as pension funds and [insurance](../i/insurance.md) firms, utilize these swaps to manage the [risk](../r/risk.md) that rising prices [will](../w/will.md) erode their [capital](../c/capital.md).
 
 ### Speculation
 Speculators can use ZCIS to bet on future [inflation](../i/inflation.md) movements. If a [trader](../t/trader.md) expects higher [inflation](../i/inflation.md) than what is currently priced into the [swap](../s/swap.md)'s fixed rate, they might receive the [inflation](../i/inflation.md)-linked [leg](../l/leg.md).
@@ -58,13 +58,13 @@ By incorporating ZCIS, an [investor](../i/investor.md) can diversify their portf
 ### Investors
 - **Institutional Investors**: Pension funds, [insurance](../i/insurance.md) companies, mutual funds.
 - **[Hedge](../h/hedge.md) Funds**: Engage in speculative trades on [inflation](../i/inflation.md) movements.
-  
+
 ### Corporates
 - **Corporate Treasurers**: Use ZCIS to manage the company’s exposure to [inflation](../i/inflation.md) [risk](../r/risk.md), especially if their revenues or costs are sensitive to [inflation](../i/inflation.md).
 
 ### Financial Intermediaries
 - **Banks and [Investment Banks](../i/investment_bank_(ib).md)**: Facilitate the creation and trading of ZCIS, acting as counterparties or [market](../m/market.md) makers.
-  
+
 ## Risks
 ### Inflation Risk
 The primary [risk](../r/risk.md) managed by ZCIS is [inflation](../i/inflation.md) [risk](../r/risk.md), which is the [risk](../r/risk.md) that [inflation](../i/inflation.md) [will](../w/will.md) erode the [value](../v/value.md) of future cash flows.
@@ -94,4 +94,4 @@ The COVID-19 pandemic has had profound effects on global economies and [inflatio
 ## Conclusion
 Zero Coupon [Inflation](../i/inflation.md) Swaps stand as a powerful tool for managing [inflation](../i/inflation.md) [risk](../r/risk.md), appealing to a [range](../r/range.md) of [market](../m/market.md) participants from institutional investors to corporates and banking institutions. Their unique structure allows for effective hedging and speculative opportunities, playing a crucial role in modern [financial risk management](../f/financial_risk_management.md) strategies. While they [offer](../o/offer.md) substantial benefits, it's essential to understand the associated risks and [market dynamics](../m/market_dynamics.md) to effectively utilize ZCIS in a diversified investment portfolio.
 
-For more detailed and specific information on ZCIS, [market](../m/market.md) trends, and central [clearing](../c/clearing.md) mechanisms, institutional investors and financial professionals can refer to the offerings and insights from major financial institutions such as [Goldman Sachs](https://www.goldmansachs.com/), [JPMorgan Chase](https://www.jpmorganchase.com/), and [Deutsche Bank](https://www.db.com/).
+For more detailed and specific information on ZCIS, [market](../m/market.md) trends, and central [clearing](../c/clearing.md) mechanisms, institutional investors and financial professionals can refer to the offerings and insights from major financial institutions such as Goldman Sachs, JPMorgan Chase, and Deutsche Bank.

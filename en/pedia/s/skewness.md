@@ -35,19 +35,19 @@ Skewness is particularly useful in [finance](../f/finance.md) and trading for un
 In [financial markets](../f/financial_market.md), skewness impacts [options](../o/options.md) pricing, [portfolio management](../p/par.md), and [risk](../r/risk.md) assessments. For example:
 
 - **[Options](../o/options.md) Pricing**: Skewness affects the pricing of [options](../o/options.md) as the [Black-Scholes model](../b/black-scholes_model.md) assumes lognormal [distribution](../d/distribution.md) of [asset](../a/asset.md) prices. Negative skew suggests higher [demand](../d/demand.md) for puts relative to calls, implying higher premiums for [tail risk](../t/tail_risk.md) protection.
-  
+
 - **[Portfolio Management](../p/par.md)**: Portfolio managers aim to construct portfolios with desirable skew properties. [Positive skewness](../p/positive_skewness.md) is often preferred as it implies the potential for higher returns.
 
 - **[Risk Management](../r/risk_management.md)**: Skewness informs [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) models, helping in understanding the likelihood of extreme losses or gains.
 
 ## Skewness in Algorithmic Trading:
 
-In [algorithmic trading](../a/accountability.md), skewness can be used for:
+In [algorithmic trading](../a/algorithmic_trading.md), skewness can be used for:
 
 - **Signal Generation**: Algorithms can be designed to capture skewness in price movements, anticipating sharp moves in a specific direction.
-  
+
 - **Strategy Evaluation**: Evaluating the skewness of strategy returns to ensure the robustness and suitability under different [market](../m/market.md) conditions.
-  
+
 - **[Risk](../r/risk.md) Adjustments**: Adjusting position sizes based on skewness to manage tail risks effectively.
 
 ### Case Study:
@@ -87,7 +87,7 @@ skewness = returns_series.skew()
 print(f'Skewness: {skewness}')
 ```
 
-This code calculates the skewness of a list of returns using the Pandas library in Python. 
+This code calculates the skewness of a list of returns using the Pandas library in Python.
 
 ### R:
 
@@ -107,8 +107,8 @@ This R script calculates the skewness using the `moments` package.
 
 For more information about skewness, you may visit the corporate documentation or research papers of prominent financial firms, such as:
 
-- [Bloomberg](https://www.bloomberg.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
+- Bloomberg
+- Goldman Sachs
+- J.P. Morgan
 
 Each of these firms provides comprehensive research and tools related to skewness and its applications in [financial markets](../f/financial_market.md).

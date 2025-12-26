@@ -41,7 +41,7 @@ Throughout history, [estate](../e/estate.md) [taxes](../t/taxes.md) have undergo
 
 ## State Estate Taxes
 
-Several states in the U.S. impose their own [estate](../e/estate.md) or inheritance [taxes](../t/taxes.md) alongside the federal tax. States like New York, New Jersey, and Maryland have their own [estate](../e/estate.md) tax systems with varying thresholds and rates. 
+Several states in the U.S. impose their own [estate](../e/estate.md) or inheritance [taxes](../t/taxes.md) alongside the federal tax. States like New York, New Jersey, and Maryland have their own [estate](../e/estate.md) tax systems with varying thresholds and rates.
 
 1. **New York**: As of the latest legislation, New York State imposes an [estate](../e/estate.md) tax on estates exceeding $5.93 million. The [tax rate](../t/tax_rate.md) ranges between 3.06% and 16%, depending primarily on the size of the taxable [estate](../e/estate.md).
 2. **New Jersey**: New Jersey abolished its [estate](../e/estate.md) tax in 2018 but still imposes an [inheritance tax](../i/inheritance_tax.md) applicable to certain classes of beneficiaries like non-lineal descendants and friends.

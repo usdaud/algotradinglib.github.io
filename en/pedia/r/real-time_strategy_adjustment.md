@@ -24,7 +24,7 @@ Real-time strategy adjustment refers to the capability of [trading algorithms](.
 
 ### Machine Learning
 
-Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly used for real-time strategy adjustment. Techniques such as [reinforcement learning](../r/reinforcement_learning.md), [supervised learning](../s/supervised_learning.md), and [unsupervised learning](../u/unsupervised_learning.md) enable algorithms to learn from historical data and adapt to new [market](../m/market.md) conditions. 
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly used for real-time strategy adjustment. Techniques such as [reinforcement learning](../r/reinforcement_learning.md), [supervised learning](../s/supervised_learning.md), and [unsupervised learning](../u/unsupervised_learning.md) enable algorithms to learn from historical data and adapt to new [market](../m/market.md) conditions.
 
 - **[Reinforcement Learning](../r/reinforcement_learning.md) (RL)**: RL algorithms learn to make trading decisions by interacting with the [market](../m/market.md) environment. They receive rewards or penalties based on the outcomes of their actions, enabling them to optimize their strategies over time.
 
@@ -66,19 +66,19 @@ Effective [risk management](../r/risk_management.md) is crucial for real-time st
 
 High-frequency trading firms are at the forefront of real-time strategy adjustment. They employ sophisticated algorithms to [trade](../t/trade.md) large volumes of assets at high speeds. HFT algorithms continually adapt their strategies based on [real-time market data](../r/real-time_market_data.md), enabling them to [capitalize](../c/capitalize.md) on fleeting [arbitrage](../a/arbitrage.md) opportunities and price discrepancies.
 
-- [Citadel Securities](https://www.citadelsecurities.com/): Citadel Securities is a leading [market maker](../m/market_maker.md) that employs advanced algorithms for high-frequency trading. Their algorithms continuously adapt to [market](../m/market.md) conditions to provide [liquidity](../l/liquidity.md) and optimize [trading performance](../t/trading_performance.md).
+- Citadel Securities: Citadel Securities is a leading [market maker](../m/market_maker.md) that employs advanced algorithms for high-frequency trading. Their algorithms continuously adapt to [market](../m/market.md) conditions to provide [liquidity](../l/liquidity.md) and optimize [trading performance](../t/trading_performance.md).
 
 ### Institutional Trading
 
 Institutional investors, such as [hedge](../h/hedge.md) funds and [investment banks](../i/investment_bank_(ib).md), use real-time strategy adjustment to enhance their trading operations. These institutions [leverage](../l/leverage.md) advanced analytics and [machine learning](../m/machine_learning.md) to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
 
-- [Two Sigma](https://www.twosigma.com/): Two Sigma is a data-driven investment [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and advanced analytics for [quantitative trading](../q/quantitative_trading.md). Their [adaptive algorithms](../a/adaptive_algorithms.md) continuously adjust strategies based on real-time data to achieve consistent returns.
+- Two Sigma: Two Sigma is a data-driven investment [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and advanced analytics for [quantitative trading](../q/quantitative_trading.md). Their [adaptive algorithms](../a/adaptive_algorithms.md) continuously adjust strategies based on real-time data to achieve consistent returns.
 
 ### Retail Trading Platforms
 
 Retail trading platforms are increasingly incorporating real-time strategy adjustment features to cater to individual traders. These platforms provide tools and algorithms that enable retail traders to adapt their strategies based on live [market](../m/market.md) conditions.
 
-- [Robinhood](https://www.robinhood.com/): [Robinhood](../r/robinhood.md) is a popular retail [trading platform](../t/trading_platform.md) that offers [algorithmic trading](../a/algorithmic_trading.md) features. Their platform provides [real-time market data](../r/real-time_market_data.md) and [execution](../e/execution.md) capabilities, allowing retail traders to implement and adjust [trading strategies](../t/trading_strategies.md) dynamically.
+- Robinhood: [Robinhood](../r/robinhood.md) is a popular retail [trading platform](../t/trading_platform.md) that offers [algorithmic trading](../a/algorithmic_trading.md) features. Their platform provides [real-time market data](../r/real-time_market_data.md) and [execution](../e/execution.md) capabilities, allowing retail traders to implement and adjust [trading strategies](../t/trading_strategies.md) dynamically.
 
 ## Challenges and Future Trends
 

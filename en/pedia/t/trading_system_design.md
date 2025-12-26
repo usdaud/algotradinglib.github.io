@@ -34,9 +34,9 @@ There are various types of data sources to consider:
 - **[Alternative Data](../a/alternative_data.md):** News sentiment, [social media](../s/social_media.md) activity, and other [non-traditional data sources](../n/non-traditional_data_sources.md).
 
 Some platforms that provide such data include:
-- [Quandl](https://www.quandl.com/)
-- [Bloomberg](https://www.bloomberg.com/)
-- [Alpha Vantage](https://www.alphavantage.co/)
+- Quandl
+- Bloomberg
+- Alpha Vantage
 
 ### 2.2 Data Cleaning
 Raw data often contains inaccuracies or incomplete information. [Data cleaning](../d/data_cleaning.md) involves:
@@ -107,7 +107,7 @@ Efficient [order](../o/order.md) [execution](../e/execution.md) minimizes the im
 Various platforms facilitate automated [order](../o/order.md) [execution](../e/execution.md). Examples include:
 - **[Interactive Brokers](../i/interactive_brokers.md):** Popular for its comprehensive API and low latency.
 - **MetaTrader:** Widely used in forex trading for executing algorithmic strategies.
-- **[QuantConnect](../q/quantconnect.md):** Provides a cloud-based [trading environment](../t/trading_environment.md).
+- **[StockSharp](../s/stocksharp.md):** Provides a [trading environment](../t/trading_environment.md).
 
 ### 5.3 Real-Time Monitoring
 Continuous monitoring is essential for maintaining the reliability of a trading system. Features include:

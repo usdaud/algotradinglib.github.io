@@ -65,7 +65,7 @@ While the role of an ombudsman is integral in various sectors, there are certain
 
 ## Case Study: Financial Ombudsman Service (FOS)
 
-The Financial Ombudsman Service (FOS) in the UK exemplifies an effective financial ombudsman. Established to resolve disputes between consumers and financial institutions, the FOS operates independently of the government and financial [industry](../i/industry.md). For more information, visit their website at [Financial Ombudsman Service](https://www.financial-ombudsman.org.uk).
+The Financial Ombudsman Service (FOS) in the UK exemplifies an effective financial ombudsman. Established to resolve disputes between consumers and financial institutions, the FOS operates independently of the government and financial [industry](../i/industry.md).
 
 The FOS handles a wide [range](../r/range.md) of financial disputes, including those involving:
 - Banking

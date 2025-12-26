@@ -30,7 +30,7 @@ The types of loans reported under HMDA include:
 - [Home](../h/home.md) purchase loans.
 - [Home](../h/home.md) improvement loans.
 - Refinancing loans.
-  
+
 For each [loan](../l/loan.md) application, the institution must report whether the [loan](../l/loan.md) was originated, approved but not accepted, denied, withdrawn, or closed for incompleteness.
 
 ### Public and Release of Data
@@ -44,20 +44,20 @@ HMDA is implemented by the Federal Reserve Board's Regulation C. This regulation
 ### Role of Regulatory Agencies
 Several regulatory agencies are tasked with enforcing HMDA, including:
 
-- The Consumer Financial Protection Bureau (CFPB) 
-  - [CFPB](https://www.consumerfinance.gov/)
-  
+- The Consumer Financial Protection Bureau (CFPB)
+ - CFPB
+
 - The Federal Reserve
-  - [Federal Reserve](https://www.federalreserve.gov/)
+ - Federal Reserve
 
 - The Federal [Deposit](../d/deposit.md) [Insurance](../i/insurance.md) [Corporation](../c/corporation.md) (FDIC)
-  - [FDIC](https://www.fdic.gov/)
-  
+ - FDIC
+
 - The Office of the Comptroller of the [Currency](../c/currency.md) (OCC)
-  - [OCC](https://www.occ.gov/)
-  
+ - OCC
+
 - The National [Credit](../c/credit.md) Union Administration (NCUA)
-  - [NCUA](https://www.ncua.gov/)
+ - NCUA
 
 These agencies review the data and take action against institutions found to be in violation of fair lending laws.
 

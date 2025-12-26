@@ -1,6 +1,6 @@
 # Knowledge Engineering
 
-Knowledge Engineering is a discipline in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) that revolves around the integration, management, and utilization of information in a way that enables machines to perform complex problem-solving and decision-making tasks. It involves designing, building, and maintaining systems that can simulate human decision-making processes by using vast amounts of structured and unstructured information. This field is critical in several applications, ranging from [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), robotics, and expert systems to the more specialized domain of [algorithmic trading](../a/accountability.md).
+Knowledge Engineering is a discipline in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) that revolves around the integration, management, and utilization of information in a way that enables machines to perform complex problem-solving and decision-making tasks. It involves designing, building, and maintaining systems that can simulate human decision-making processes by using vast amounts of structured and unstructured information. This field is critical in several applications, ranging from [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), robotics, and expert systems to the more specialized domain of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Foundations of Knowledge Engineering
 
@@ -42,10 +42,10 @@ NLP techniques allow systems to process and understand human language. This is p
 
 ## Applications of Knowledge Engineering in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo trading, refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage investments within [financial markets](../f/financial_market.md). Knowledge Engineering methods significantly enhance the performance and capabilities of these systems.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage investments within [financial markets](../f/financial_market.md). Knowledge Engineering methods significantly enhance the performance and capabilities of these systems.
 
 ### Strategy Design and Optimization
-In [algorithmic trading](../a/accountability.md), various [trading strategies](../t/trading_strategies.md) are designed based on historical data and expert knowledge. Knowledge Engineering techniques facilitate the formulation and [optimization](../o/optimization.md) of these strategies by:
+In [algorithmic trading](../a/algorithmic_trading.md), various [trading strategies](../t/trading_strategies.md) are designed based on historical data and expert knowledge. Knowledge Engineering techniques facilitate the formulation and [optimization](../o/optimization.md) of these strategies by:
 - Simulating various [market](../m/market.md) conditions and scenarios.
 - Analyzing historical trends and patterns.
 - Testing and validating strategy performance using [backtesting](../b/backtesting.md).
@@ -57,29 +57,29 @@ Knowledge Engineering plays a crucial role in developing advanced [risk manageme
 - Continuously learn and adapt to changing [market](../m/market.md) conditions.
 
 ### Sentiment Analysis
-[Sentiment analysis](../s/sentiment_analysis.md), a common NLP technique, is used in [algorithmic trading](../a/accountability.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and financial reports. This information contributes to making more informed trading decisions.
+[Sentiment analysis](../s/sentiment_analysis.md), a common NLP technique, is used in [algorithmic trading](../a/algorithmic_trading.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and financial reports. This information contributes to making more informed trading decisions.
 
 ### Decision Support Systems
 Knowledge-based Decision Support Systems (DSS) [offer](../o/offer.md) valuable insights and recommendations to traders. These systems employ case-based reasoning, [neural networks](../n/neural_networks_in_trading.md), and other AI techniques to provide actionable intelligence based on historical data and real-time [market](../m/market.md) analysis.
 
 ### Example Companies
-Several companies are at the forefront of integrating Knowledge Engineering into [algorithmic trading](../a/accountability.md) systems:
+Several companies are at the forefront of integrating Knowledge Engineering into [algorithmic trading](../a/algorithmic_trading.md) systems:
 
-- **Numerai:** Numerai is a [hedge fund](../h/hedge_fund.md) that leverages data scientists globally using [machine learning](../m/machine_learning.md) and Knowledge Engineering techniques to crowdsource [trading strategies](../t/trading_strategies.md). [Numerai](https://numer.ai/)
+- **Numerai:** Numerai is a [hedge fund](../h/hedge_fund.md) that leverages data scientists globally using [machine learning](../m/machine_learning.md) and Knowledge Engineering techniques to crowdsource [trading strategies](../t/trading_strategies.md). Numerai
 
-- **Kensho Technologies:** Kensho uses advanced Knowledge Engineering and AI to make financial predictions and provide comprehensive economic analyses. Kensho's systems can analyze large datasets and provide contextual insights for better decision-making. [Kensho Technologies](https://www.kensho.com/)
+- **Kensho Technologies:** Kensho uses advanced Knowledge Engineering and AI to make financial predictions and provide comprehensive economic analyses. Kensho's systems can analyze large datasets and provide contextual insights for better decision-making. Kensho Technologies
 
-- **Bridgewater Associates:** Bridgewater is one of the largest [hedge](../h/hedge.md) funds globally. They incorporate Knowledge Engineering principles into their systematic investment processes to understand [market](../m/market.md) correlations and predict economic movements. [Bridgewater Associates](https://www.bridgewater.com/)
+- **Bridgewater Associates:** Bridgewater is one of the largest [hedge](../h/hedge.md) funds globally. They incorporate Knowledge Engineering principles into their systematic investment processes to understand [market](../m/market.md) correlations and predict economic movements. Bridgewater Associates
 
-- **Two Sigma:** An investment [firm](../f/firm.md) specializing in systematic strategies and quantitative modeling. Two Sigma leverages extensive data and AI techniques, including Knowledge Engineering, to inform their trading decisions. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma:** An investment [firm](../f/firm.md) specializing in systematic strategies and quantitative modeling. Two Sigma leverages extensive data and AI techniques, including Knowledge Engineering, to inform their trading decisions. Two Sigma
 
 ## Challenges and Future Directions
 
-Knowledge Engineering faces several challenges, particularly in highly dynamic and data-intensive domains like [algorithmic trading](../a/accountability.md). These include the difficulties in:
+Knowledge Engineering faces several challenges, particularly in highly dynamic and data-intensive domains like [algorithmic trading](../a/algorithmic_trading.md). These include the difficulties in:
 - Continuously updating and maintaining accurate knowledge bases.
 - Integrating heterogeneous sources of data seamlessly.
 - Addressing the [scalability](../s/scalability.md) and speed of reasoning processes in real-time applications.
-  
+
 However, the field is rapidly evolving, with advancements in technologies like [deep learning](../d/deep_learning.md), edge computing, and [quantum computing](../q/quantum_computing_in_trading.md) promising to push the boundaries of what is possible. Future directions may involve more seamless integration of human and machine intelligence, more sophisticated models for [predictive analytics](../p/predictive_analytics.md), and the development of more [robust](../r/robust.md) frameworks for the automatic updating and verification of knowledge.
 
 By effectively harnessing the principles of Knowledge Engineering, industries, particularly [finance](../f/finance.md), stand to [gain](../g/gain.md) significantly in terms of improved efficiencies, better decision-making, and more adaptive and resilient systems.

@@ -44,13 +44,13 @@ Walras' Law is sometimes confused with Say's Law, which states that [supply](../
 Despite its wide acceptance in economic theory, Walras' Law is not without its criticisms:
 
 1. **Assumptions of Perfect Information and Flexibility:**
-   - Walras' Law relies on the assumptions of perfect information and price flexibility, which are rarely met in the real world. Many markets experience sticky prices and imperfect information.
-   
+ - Walras' Law relies on the assumptions of perfect information and price flexibility, which are rarely met in the real world. Many markets experience sticky prices and imperfect information.
+
 2. **Single-Period Analysis:**
-   - It is inherently a static theory, as it examines a single period rather than considering dynamic changes over time.
+ - It is inherently a static theory, as it examines a single period rather than considering dynamic changes over time.
 
 3. **Neglect of Monetary Aspects:**
-   - Walras' Law largely ignores the role of [money](../m/money.md), [financial markets](../f/financial_market.md), and [credit](../c/credit.md) systems, which can lead to significant imbalances in a real [economy](../e/economy.md).
+ - Walras' Law largely ignores the role of [money](../m/money.md), [financial markets](../f/financial_market.md), and [credit](../c/credit.md) systems, which can lead to significant imbalances in a real [economy](../e/economy.md).
 
 ## Conclusion
 

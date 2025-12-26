@@ -27,14 +27,14 @@ To conduct a comprehensive weekly [yield analysis](../y/yield_analysis.md), seve
 Accurate and high-frequency data is crucial for effective weekly [yield analysis](../y/yield_analysis.md). Common data sources include:
 
 - **Financial [Market](../m/market.md) Data Providers**: Companies like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md) [offer](../o/offer.md) comprehensive financial data.
-  - [Bloomberg](https://www.bloomberg.com)
-  - [Thomson Reuters](https://www.refinitiv.com)
-  - [Morningstar](https://www.morningstar.com)
+ - Bloomberg
+ - Thomson Reuters
+ - Morningstar
 
 - **Trading Platforms**: Advanced trading platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [TradingView](../t/tradingview.md) [offer](../o/offer.md) tools for real-time analysis.
-  - [MetaTrader](https://www.metatrader4.com)
-  - [NinjaTrader](https://ninjatrader.com)
-  - [TradingView](https://www.tradingview.com)
+ - MetaTrader
+ - NinjaTrader
+ - TradingView
 
 ### 5. Algorithmic Trading Strategies for Weekly Yield
 
@@ -67,11 +67,11 @@ Consider a [hedge fund](../h/hedge_fund.md) employing [algorithmic trading](../a
 ### 8. Challenges and Solutions
 
 - **Data Quality**: Ensuring the integrity and accuracy of data used.
-  - **Solution**: Employing [multiple](../m/multiple.md) data sources and data validation techniques.
+ - **Solution**: Employing [multiple](../m/multiple.md) data sources and data validation techniques.
 - **[Market](../m/market.md) [Volatility](../v/volatility.md)**: Sudden [market](../m/market.md) changes can skew weekly results.
-  - **Solution**: Incorporating [volatility](../v/volatility.md) measures and [dynamic hedging](../d/dynamic_hedging.md) strategies.
+ - **Solution**: Incorporating [volatility](../v/volatility.md) measures and [dynamic hedging](../d/dynamic_hedging.md) strategies.
 - **Algorithm [Overfitting](../o/overfitting.md)**: Algorithms may perform well in [backtesting](../b/backtesting.md) but poorly in real-world scenarios.
-  - **Solution**: Regularly updating models and avoiding over-[optimization](../o/optimization.md).
+ - **Solution**: Regularly updating models and avoiding over-[optimization](../o/optimization.md).
 
 ### 9. Future Trends
 

@@ -11,19 +11,19 @@ Incoterms are crucial as they help prevent confusion by clearly defining the [ob
 Incoterms are divided into two main categories:
 
 1. **Rules for any [mode](../m/mode.md) of transport:**
-   - **EXW (Ex Works)**: The seller makes the goods available at their premises. The buyer bears all costs and risks involved in taking the goods from the seller's location to the destination.
-   - **FCA (Free Carrier)**: The seller delivers the goods to a carrier or another person nominated by the buyer at the seller’s premises or another named place.
-   - **CPT (Carriage Paid To)**: The seller pays for the carriage of goods to the named place of destination. [Risk](../r/risk.md) transfers to the buyer upon handing over the goods to the carrier.
-   - **CIP (Carriage and [Insurance](../i/insurance.md) Paid To)**: Similar to CPT but includes [insurance](../i/insurance.md) coverage by the seller.
-   - **DPU (Delivered at Place Unloaded)**: The seller bears all risks and costs associated with delivering and unloading the goods at the named place of destination.
-   - **DAP (Delivered at Place)**: The seller bears all risks and costs associated with delivering the goods to the named place of destination, but not unloading them.
-   - **DDP (Delivered Duty Paid)**: The seller delivers the goods to the buyer and bears all costs, including duty payments, until the goods reach the final destination.
+ - **EXW (Ex Works)**: The seller makes the goods available at their premises. The buyer bears all costs and risks involved in taking the goods from the seller's location to the destination.
+ - **FCA (Free Carrier)**: The seller delivers the goods to a carrier or another person nominated by the buyer at the seller’s premises or another named place.
+ - **CPT (Carriage Paid To)**: The seller pays for the carriage of goods to the named place of destination. [Risk](../r/risk.md) transfers to the buyer upon handing over the goods to the carrier.
+ - **CIP (Carriage and [Insurance](../i/insurance.md) Paid To)**: Similar to CPT but includes [insurance](../i/insurance.md) coverage by the seller.
+ - **DPU (Delivered at Place Unloaded)**: The seller bears all risks and costs associated with delivering and unloading the goods at the named place of destination.
+ - **DAP (Delivered at Place)**: The seller bears all risks and costs associated with delivering the goods to the named place of destination, but not unloading them.
+ - **DDP (Delivered Duty Paid)**: The seller delivers the goods to the buyer and bears all costs, including duty payments, until the goods reach the final destination.
 
 2. **Rules for sea and inland waterway transport:**
-   - **FAS (Free Alongside Ship)**: The seller delivers the goods alongside the named vessel. The [risk](../r/risk.md) and cost transfer to the buyer at that point.
-   - **FOB (Free on Board)**: The seller delivers the goods on board the vessel. The [risk](../r/risk.md) and cost transfer to the buyer once the goods are on the vessel.
-   - **CFR (Cost and Freight)**: The seller pays the costs and freight to bring the goods to the port of destination. The [risk](../r/risk.md) transfers to the buyer once the goods are on the vessel.
-   - **CIF (Cost, [Insurance](../i/insurance.md), and Freight)**: Similar to CFR but includes [insurance](../i/insurance.md) coverage by the seller.
+ - **FAS (Free Alongside Ship)**: The seller delivers the goods alongside the named vessel. The [risk](../r/risk.md) and cost transfer to the buyer at that point.
+ - **FOB (Free on Board)**: The seller delivers the goods on board the vessel. The [risk](../r/risk.md) and cost transfer to the buyer once the goods are on the vessel.
+ - **CFR (Cost and Freight)**: The seller pays the costs and freight to bring the goods to the port of destination. The [risk](../r/risk.md) transfers to the buyer once the goods are on the vessel.
+ - **CIF (Cost, [Insurance](../i/insurance.md), and Freight)**: Similar to CFR but includes [insurance](../i/insurance.md) coverage by the seller.
 
 ## Key Differences Among Incoterms
 
@@ -78,6 +78,6 @@ Failing to specify the named place alongside the Incoterm can lead to confusion 
 
 ## Conclusion
 
-Incoterms play a pivotal role in international [trade](../t/trade.md) by providing clear, standardized terms that define the responsibilities, costs, and risks associated with the transportation of goods. Understanding and correctly applying the appropriate Incoterm can significantly enhance the [efficiency](../e/efficiency.md) and clarity of international [trade](../t/trade.md) transactions, helping to mitigate risks and avoid disputes. By keeping up-to-date with the latest revisions and understanding the nuances of each term, businesses can ensure smooth, successful trading operations across borders. 
+Incoterms play a pivotal role in international [trade](../t/trade.md) by providing clear, standardized terms that define the responsibilities, costs, and risks associated with the transportation of goods. Understanding and correctly applying the appropriate Incoterm can significantly enhance the [efficiency](../e/efficiency.md) and clarity of international [trade](../t/trade.md) transactions, helping to mitigate risks and avoid disputes. By keeping up-to-date with the latest revisions and understanding the nuances of each term, businesses can ensure smooth, successful trading operations across borders.
 
-For detailed information on Incoterms, visit the [International Chamber of Commerce (ICC)](https://iccwbo.org/resources-for-business/incoterms-rules/incoterms-2020/) website.
+For detailed information on Incoterms,

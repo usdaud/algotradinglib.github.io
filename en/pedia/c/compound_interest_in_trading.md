@@ -30,7 +30,7 @@ In the context of trading, compound [interest](../i/interest.md) can be applied 
 
 Consider a [trader](../t/trader.md) who starts with $10,000 and earns an [annual return](../a/annual_return.md) of 10%. If these profits are reinvested, here’s how the [account balance](../a/account_balance.md) grows over 5 years:
 
-\[ 
+\[
 A = 10000 \left(1 + \frac{0.10}{1}\right)^{1 \times 5} = 10000 \left(1.10\right)^5 = 16105.10
 \]
 
@@ -40,9 +40,9 @@ After 5 years, the [trader](../t/trader.md)'s account would grow to $16,105.10, 
 
 Many notable [hedge](../h/hedge.md) funds and traders have leveraged the power of compound [interest](../i/interest.md) to achieve [exponential growth](../e/exponential_growth.md) in their portfolios. For instance:
 
-- **Renaissance Technologies**: This [firm](../f/firm.md), founded by Jim Simons, has applied [algorithmic trading](../a/algorithmic_trading.md) strategies that [capitalize](../c/capitalize.md) on the power of [compounding](../c/compounding.md) to deliver impressive annualized returns exceeding 30% over [multiple](../m/multiple.md) decades. For more information, you can visit their [website](https://www.rentec.com/).
+- **Renaissance Technologies**: This [firm](../f/firm.md), founded by Jim Simons, has applied [algorithmic trading](../a/algorithmic_trading.md) strategies that [capitalize](../c/capitalize.md) on the power of [compounding](../c/compounding.md) to deliver impressive annualized returns exceeding 30% over [multiple](../m/multiple.md) decades.
 
-- **Bridgewater Associates**: Ray Dalio’s [hedge fund](../h/hedge_fund.md), one of the largest in the world, has also effectively used [compounding](../c/compounding.md) [interest](../i/interest.md) strategies in its [algorithmic trading](../a/algorithmic_trading.md) models to [outperform](../o/outperform.md) benchmarks consistently. More details can be found on their [website](https://www.bridgewater.com/).
+- **Bridgewater Associates**: Ray Dalio’s [hedge fund](../h/hedge_fund.md), one of the largest in the world, has also effectively used [compounding](../c/compounding.md) [interest](../i/interest.md) strategies in its [algorithmic trading](../a/algorithmic_trading.md) models to [outperform](../o/outperform.md) benchmarks consistently. More
 
 ### Risks and Rewards
 
@@ -66,4 +66,4 @@ Advancements in trading technology have made it easier for traders to compute an
 
 ### Conclusion
 
-Understanding and leveraging the power of compound [interest](../i/interest.md) can significantly enhance a [trader](../t/trader.md)'s ability to grow their portfolio. By reinvesting profits and carefully managing risks, traders can achieve [exponential growth](../e/exponential_growth.md), although it's essential to be mindful of the associated volatile [market](../m/market.md) and regulatory risks. Effective use of technology and strategic planning can help in maximizing the benefits of compound [interest](../i/interest.md) in trading.
+Understanding and leveraging the power of compound [interest](../i/interest.md) can significantly enhance a [trader](../t/trader.md)'s ability to grow their portfolio. By reinvesting profits and carefully managing risks, traders can achieve [exponential growth](../e/exponential_growth.md), although it's essential to be mindful of the associated volatile [market](../m/market.md) and regulatory risks. Effective use of technology and strategic planning can help in maximizing the benefits of compound [interest](../i/interest.md) in trading.

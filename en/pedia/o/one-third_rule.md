@@ -36,7 +36,7 @@ The One-Third Rule is also applied to [profit](../p/profit.md)-taking strategies
 
 ## Application to Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) (or algo trading) involves using computer algorithms to automate trading decisions. The One-Third Rule can be integrated into [trading algorithms](../t/trading_algorithms.md) to create a systematic approach to [position sizing](../p/position_sizing.md), [risk management](../r/risk_management.md), and [profit](../p/profit.md)-taking.
+[Algorithmic trading](../a/algorithmic_trading.md) (or algo trading) involves using computer algorithms to automate trading decisions. The One-Third Rule can be integrated into [trading algorithms](../t/trading_algorithms.md) to create a systematic approach to [position sizing](../p/position_sizing.md), [risk management](../r/risk_management.md), and [profit](../p/profit.md)-taking.
 
 ### Implementing the One-Third Rule in Algorithmic Trading:
 
@@ -58,4 +58,4 @@ If the stock continues to perform well, the [trader](../t/trader.md) can then ap
 
 ## Conclusion
 
-The One-Third Rule provides a balanced approach to trading and [investing](../i/investing.md), [offering](../o/offering.md) a structured method for managing [risk](../r/risk.md) and optimizing profits. By dividing [capital](../c/capital.md) and trading actions into smaller fractions, traders can achieve better control over their investments, adapt to [market](../m/market.md) conditions, and make informed decisions that enhance their overall strategy. Whether used manually or integrated into [algorithmic trading](../a/accountability.md) systems, the One-Third Rule is a valuable tool for anyone looking to improve their [trading performance](../t/trading_performance.md).
+The One-Third Rule provides a balanced approach to trading and [investing](../i/investing.md), [offering](../o/offering.md) a structured method for managing [risk](../r/risk.md) and optimizing profits. By dividing [capital](../c/capital.md) and trading actions into smaller fractions, traders can achieve better control over their investments, adapt to [market](../m/market.md) conditions, and make informed decisions that enhance their overall strategy. Whether used manually or integrated into [algorithmic trading](../a/algorithmic_trading.md) systems, the One-Third Rule is a valuable tool for anyone looking to improve their [trading performance](../t/trading_performance.md).

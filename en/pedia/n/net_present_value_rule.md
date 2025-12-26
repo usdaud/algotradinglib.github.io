@@ -44,7 +44,7 @@ In [corporate finance](../c/corporate_finance.md), the NPV rule assists in makin
 
 - **Mergers and Acquisitions (M&A)**: Calculating the NPV of [acquisition](../a/acquisition.md) targets to determine if the purchase [will](../w/will.md) create or destroy [shareholder value](../s/shareholder_value.md).
 - **Divestitures**: Assessing whether selling a part of the [business](../b/business.md) [will](../w/will.md) be beneficial. If the divested unit has a negative NPV, it could indicate that selling it is a wise decision.
-  
+
 ### Personal Finance
 
 Individual investors also employ the NPV rule for personal investment decisions, such as:
@@ -89,4 +89,4 @@ The Net [Present Value](../p/present_value.md) rule is a quintessential tool in 
 
 ---
 
-For more information on the NPV rule and its applications, please visit [Investopedia](https://www.investopedia.com/terms/n/npv.asp).
+For more information on the NPV rule and its applications, please visit Investopedia.

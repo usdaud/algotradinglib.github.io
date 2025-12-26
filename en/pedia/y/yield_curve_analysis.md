@@ -76,7 +76,7 @@ Several models are available for interpreting and predicting [yield](../y/yield.
 
 ### Example: BlackRock
 
-BlackRock is a leading company utilizing [algorithmic trading](../a/algorithmic_trading.md) strategies that incorporate [yield curve](../y/yield_curve.md) analysis. They employ quantitative methods to manage [bond](../b/bond.md) portfolios and maximize returns relative to benchmarks. For more information, visit [BlackRock](https://www.blackrock.com).
+BlackRock is a leading company utilizing [algorithmic trading](../a/algorithmic_trading.md) strategies that incorporate [yield curve](../y/yield_curve.md) analysis. They employ quantitative methods to manage [bond](../b/bond.md) portfolios and maximize returns relative to benchmarks. For more information, visit BlackRock.
 
 ## 9. Challenges in Yield Curve Analysis
 

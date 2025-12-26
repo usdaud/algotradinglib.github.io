@@ -83,11 +83,11 @@ Platforms that facilitate [peer-to-peer lending](../p/peer-to-peer_lending.md), 
 
 ## Use in Algorithmic Trading
 
-While not directly related to trading instruments, [open](../o/open.md) loop cards can play a role in the [infrastructure](../i/infrastructure.md) surrounding [algorithmic trading](../a/accountability.md) and the financial services that support it.
+While not directly related to trading instruments, [open](../o/open.md) loop cards can play a role in the [infrastructure](../i/infrastructure.md) surrounding [algorithmic trading](../a/algorithmic_trading.md) and the financial services that support it.
 
 ### Real-Time Data Access
 
-[Open](../o/open.md) loop cards provide real-time data for transactions. This data can be invaluable when integrated into broader financial platforms that support [algorithmic trading](../a/accountability.md). Knowing how and where funds are being spent can [offer](../o/offer.md) insights into consumer behavior, aiding in the creation of more effective [trading algorithms](../t/trading_algorithms.md).
+[Open](../o/open.md) loop cards provide real-time data for transactions. This data can be invaluable when integrated into broader financial platforms that support [algorithmic trading](../a/algorithmic_trading.md). Knowing how and where funds are being spent can [offer](../o/offer.md) insights into consumer behavior, aiding in the creation of more effective [trading algorithms](../t/trading_algorithms.md).
 
 ### Funding Mechanisms
 
@@ -95,7 +95,7 @@ In some cases, [open](../o/open.md) loop cards are used to facilitate quick fund
 
 ### Financial Tracking
 
-For firms and individuals engaged in [algorithmic trading](../a/accountability.md), keeping track of expenses and revenues is crucial. [Open](../o/open.md) loop cards, with their extensive acceptance and integration into financial platforms, provide a reliable way to monitor and manage financial transactions related to trading activities.
+For firms and individuals engaged in [algorithmic trading](../a/algorithmic_trading.md), keeping track of expenses and revenues is crucial. [Open](../o/open.md) loop cards, with their extensive acceptance and integration into financial platforms, provide a reliable way to monitor and manage financial transactions related to trading activities.
 
 ### Reward Systems
 

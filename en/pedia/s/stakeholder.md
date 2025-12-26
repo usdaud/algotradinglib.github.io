@@ -13,7 +13,7 @@ Internal stakeholders are those who are directly connected to the company throug
 1. **Shareholders/Owners**: These are individuals or entities that own [shares](../s/shares.md) in a company. They have a financial stake in the company's performance and profitability.
 2. **Employees**: This group includes all the individuals who work for the company. They have a [vested interest](../v/vested_interest.md) in the company's operational success as it directly impacts their job [security](../s/security.md) and compensation.
 3. **Management**: Senior executives and managers who are responsible for implementing strategies and ensuring the company's goals are met.
-   
+
 #### External Stakeholders
 
 External stakeholders do not have direct employment or ownership connections with the company but are still affected by its activities. Important types include:
@@ -55,7 +55,6 @@ Companies often engage in CSR activities to address stakeholder concerns related
 
 Many companies establish governance frameworks that include stakeholder representation to ensure diverse perspectives are considered in decision-making. This can involve stakeholder advisory boards, public consultations, and transparent reporting practices.
 
-#### Investor Relations
 
 For publicly traded companies, maintaining positive relationships with shareholders and analysts through clear communication and reporting is crucial.
 
@@ -68,7 +67,7 @@ Pfizer, a global pharmaceutical company, exemplifies comprehensive stakeholder e
 - **Governments and Regulators**: Complying with health regulations and contributing to public health policies.
 - **Communities**: Participating in local health initiatives and sustainability projects.
 
-For more information, you can visit their [website](https://www.pfizer.com).
+
 
 ### Management Software
 

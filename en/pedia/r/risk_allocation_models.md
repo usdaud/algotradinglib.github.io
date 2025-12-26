@@ -11,7 +11,7 @@ Modern Portfolio Theory, introduced by [Harry Markowitz](../h/harry_markowitz.md
 - **[Portfolio Diversification](../p/portfolio_diversification.md)**: Spreading investments across various assets to reduce [risk](../r/risk.md).
 
 ### Application in Algorithmic Trading:
-In [algorithmic trading](../a/algorithmic_trading.md), MPT principles can guide the selection and weighting of assets in a portfolio to achieve desired [risk](../r/risk.md) and [return](../r/return.md) profiles. Algorithms can continuously rebalance portfolios to maintain alignment with the [efficient frontier](../e/efficient_frontier.md). 
+In [algorithmic trading](../a/algorithmic_trading.md), MPT principles can guide the selection and weighting of assets in a portfolio to achieve desired [risk](../r/risk.md) and [return](../r/return.md) profiles. Algorithms can continuously rebalance portfolios to maintain alignment with the [efficient frontier](../e/efficient_frontier.md).
 
 ## 2. Value at Risk (VaR)
 [Value](../v/value.md) at [Risk](../r/risk.md) is a statistical technique used to measure and quantify the level of [financial risk](../f/financial_risk.md) within a portfolio over a specific timeframe. VaR calculates the maximum potential loss with a given confidence level.
@@ -57,9 +57,9 @@ The [Kelly Criterion](../k/kelly_criterion.md) is a formula used to determine th
 
 ### Key Formula:
 - **Kelly Fraction**: \( f^* = \frac{bp - q}{b} \)
-  - **b**: Odds received on the bet.
-  - **p**: Probability of winning.
-  - **q**: Probability of losing (\( q = 1 - p \)).
+ - **b**: Odds received on the bet.
+ - **p**: Probability of winning.
+ - **q**: Probability of losing (\( q = 1 - p \)).
 
 ### Application:
 In [algorithmic trading](../a/algorithmic_trading.md), the [Kelly Criterion](../k/kelly_criterion.md) can be used to size trades optimally. [Trading algorithms](../t/trading_algorithms.md) can integrate the Kelly fraction to dynamically adjust [trade](../t/trade.md) sizes based on assessed probabilities of success.
@@ -107,12 +107,12 @@ Algorithmic systems leveraging dynamic [risk budgeting](../r/risk_budgeting.md) 
 ## Companies Implementing Risk Allocation Models
 
 1. **BlackRock**:
-   BlackRock is a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) known for utilizing sophisticated [risk](../r/risk.md) allocation models in its [trading strategies](../t/trading_strategies.md). Learn more at [BlackRock](https://www.blackrock.com).
+ BlackRock is a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) known for utilizing sophisticated [risk](../r/risk.md) allocation models in its [trading strategies](../t/trading_strategies.md). Learn more at BlackRock.
 
 2. **Two Sigma**:
-   Two Sigma is a quantitative [hedge fund](../h/hedge_fund.md) that integrates various [risk management](../r/risk_management.md) models into its [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at [Two Sigma](https://www.twosigma.com).
+ Two Sigma is a quantitative [hedge fund](../h/hedge_fund.md) that integrates various [risk management](../r/risk_management.md) models into its [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at Two Sigma.
 
 3. **AQR [Capital](../c/capital.md) Management**:
-   AQR employs advanced [quantitative models](../q/quantitative_models.md), including [risk](../r/risk.md) allocation techniques, to manage its portfolios. Visit [AQR Capital Management](https://www.aqr.com).
+ AQR employs advanced [quantitative models](../q/quantitative_models.md), including [risk](../r/risk.md) allocation techniques, to manage its portfolios. Visit AQR Capital Management.
 
 In conclusion, [risk](../r/risk.md) allocation models are crucial in the domain of [algorithmic trading](../a/algorithmic_trading.md) to ensure balanced and optimized portfolios. By leveraging these models, [trading algorithms](../t/trading_algorithms.md) can achieve enhanced performance, reduced [volatility](../v/volatility.md), and better [risk management](../r/risk_management.md). Whether through traditional methods like MPT and VaR or more advanced approaches like [stochastic control](../s/stochastic_control.md) and dynamic [risk budgeting](../r/risk_budgeting.md), each model offers unique benefits tailored to different [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) conditions.

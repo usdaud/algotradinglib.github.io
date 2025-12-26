@@ -75,7 +75,7 @@ Governments with high [Debt](../d/debt.md)-to-GDP ratios may need to adopt strin
 
 - **Austerity Measures**: Reducing government spending and increasing [taxes](../t/taxes.md) to lower deficits.
 - **Structural Reforms**: Policies aimed at boosting [economic growth](../e/economic_growth.md) to improve the GDP component of the ratio.
-  
+
 ### Monetary Policy
 
 Central banks might also adjust [monetary policy](../m/monetary_policy.md) in response to changing [Debt](../d/debt.md)-to-GDP ratios, such as:

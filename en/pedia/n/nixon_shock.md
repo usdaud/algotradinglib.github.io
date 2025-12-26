@@ -54,7 +54,7 @@ By ending the dollar's convertibility into gold, the Nixon Shock significantly r
 
 The Nixon Shock is often seen as a pivotal moment in the history of the global economic system. It marked the end of the Bretton Woods era and the beginning of a more flexible, [market](../m/market.md)-driven approach to international [finance](../f/finance.md). The consequences of these measures are still felt today, influencing how economies and markets operate on a global scale.
 
-For more detailed information on the Nixon Shock and its economic context, you can visit the [Federal Reserve History website](https://www.federalreservehistory.org/essays/nixon-ends-bretton-woods-system).
+For more detailed information on the Nixon Shock and its economic context,
 
 ## Conclusion
 

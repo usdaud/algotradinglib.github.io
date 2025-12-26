@@ -22,7 +22,7 @@ Obtaining an EIN is for free through the IRS and can be accomplished in several 
 - **Mail**: It is also possible to apply via mail using Form SS-4.
 - **Phone**: International applicants can request an EIN by phone.
 
-For more detailed instructions and to apply online, you can visit the [IRS website](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online).
+For more detailed instructions and to apply online,
 
 ## EIN in Algo Trading
 [Algorithmic trading](../a/accountability.md), or algo trading, involves using computer algorithms to [trade](../t/trade.md) in the [financial markets](../f/financial_market.md). These algorithms can execute orders at high speeds, decisively and without human intervention. While the EIN itself isn’t directly related to the process of [algorithmic trading](../a/accountability.md), it is essential for the [business](../b/business.md) operations of firms engaged in algo trading.
@@ -51,7 +51,6 @@ Once an EIN has been assigned, it becomes the permanent Federal [taxpayer](../t/
 - **Dissolution**: If the [business](../b/business.md) is dissolved, the IRS should be informed, but the EIN [will](../w/will.md) not be reassigned.
 - **Errors in Issuance**: If an EIN was issued in error, the IRS may cancel it upon request.
 
-For more details on managing EIN changes, the IRS provides a dedicated page [here](https://www.irs.gov/businesses/small-businesses-self-employed/canceling-an-ein).
 
 ## Conclusion
 The Employer Identification Number (EIN) is a vital component of any [business](../b/business.md) entity operating in the United States. Even though it may not directly influence the day-to-day [algorithmic trading](../a/accountability.md) calculations or strategies, it is essential for the overall [business](../b/business.md) operations, regulatory compliance, and tax responsibilities of algo trading firms. Being aware of how to obtain, use, and maintain an EIN can ensure that businesses run smoothly and stay compliant with all necessary regulations.

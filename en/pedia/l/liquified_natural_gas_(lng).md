@@ -73,7 +73,7 @@ LNG prices can be volatile, influenced by factors such as geopolitical tensions,
 Liquified Natural Gas (LNG) plays a crucial role in the global energy landscape, [offering](../o/offering.md) a flexible and viable solution for transporting natural gas across the world. Despite its challenges, ongoing technological advancements and [market](../m/market.md) developments ensure that LNG remains a critical component of the [energy sector](../e/energy_sector.md)'s future.
 
 For more information about specific LNG companies, you can visit:
-- [Qatar Petroleum](https://www.qp.qa/)
-- [Chevron](https://www.chevron.com/)
-- [Shell](https://www.shell.com/)
-- [Cheniere Energy](https://www.cheniere.com/)
+- Qatar Petroleum
+- Chevron
+- Shell
+- Cheniere Energy

@@ -30,7 +30,7 @@ Algorithms can efficiently identify the optimal mix of assets that lie on the [e
 
 ### Diversification
 
-Algorithmic [diversification](../d/diversification.md) helps reduce [unsystematic risk](../u/unsystematic_risk.md) by spreading investments across various assets, sectors, and geographies. 
+Algorithmic [diversification](../d/diversification.md) helps reduce [unsystematic risk](../u/unsystematic_risk.md) by spreading investments across various assets, sectors, and geographies.
 
 ## 5. Algorithmic Models and Techniques
 
@@ -110,25 +110,25 @@ Algorithmic portfolio management must comply with regulatory standards to ensure
 
 ### SEC Regulations
 
-In the United States, the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) oversees and regulates [algorithmic trading](../a/algorithmic_trading.md) practices, ensuring they are conducted in a fair and transparent manner. For more details, visit [SEC](https://www.sec.gov/).
+In the United States, the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) oversees and regulates [algorithmic trading](../a/algorithmic_trading.md) practices, ensuring they are conducted in a fair and transparent manner. For more details, visit SEC.
 
 ### MiFID II
 
-In Europe, the Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) sets stringent requirements for [algorithmic trading](../a/algorithmic_trading.md), including [risk](../r/risk.md) controls and reporting [obligations](../o/obligation.md). For more details, visit [MiFID II](https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir).
+In Europe, the Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) sets stringent requirements for [algorithmic trading](../a/algorithmic_trading.md), including [risk](../r/risk.md) controls and reporting [obligations](../o/obligation.md). For more details, visit MiFID II.
 
 ## 12. Case Studies and Practical Applications
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is renowned for its pioneering work in quantitative and [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has achieved remarkable returns using sophisticated algorithms. For more details, visit [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, founded by Jim Simons, is renowned for its pioneering work in quantitative and [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has achieved remarkable returns using sophisticated algorithms. For more details, visit Renaissance Technologies.
 
 ### Two Sigma
 
-Two Sigma employs advanced [data science](../d/data_science_in_trading.md) and technology to develop cutting-edge [trading strategies](../t/trading_strategies.md). Their approach combines [machine learning](../m/machine_learning.md), AI, and [big data](../b/big_data_in_trading.md) to optimize portfolio management. For more details, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma employs advanced [data science](../d/data_science_in_trading.md) and technology to develop cutting-edge [trading strategies](../t/trading_strategies.md). Their approach combines [machine learning](../m/machine_learning.md), AI, and [big data](../b/big_data_in_trading.md) to optimize portfolio management. For more details, visit Two Sigma.
 
 ### Bridgewater Associates
 
-Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h/hedge.md) funds globally, known for its principled, algorithm-driven investment strategies. Bridgewater's Pure [Alpha](../a/alpha.md) [Fund](../f/fund.md) exemplifies the application of algorithmic portfolio management. For more details, visit [Bridgewater Associates](https://www.bridgewater.com/).
+Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h/hedge.md) funds globally, known for its principled, algorithm-driven investment strategies. Bridgewater's Pure [Alpha](../a/alpha.md) [Fund](../f/fund.md) exemplifies the application of algorithmic portfolio management. For more details, visit Bridgewater Associates.
 
 ## 13. Future Directions
 

@@ -30,7 +30,7 @@ The [inflation](../i/inflation.md) rate measures the [percentage change](../p/pe
 ### Unemployment Rate
 The [unemployment rate](../u/unemployment_rate.md) is the percentage of the labor force that is jobless and actively looking for employment. High [unemployment](../u/unemployment.md) signifies that a significant portion of the population is without [income](../i/income.md), which can lead to lower consumer spending and diminished [economic growth](../e/economic_growth.md).
 
-## Extended Versions 
+## Extended Versions
 
 Over time, various economists have extended the Misery [Index](../i/index_instrument.md) to include other factors, such as [interest](../i/interest.md) rates, GDP growth, and even public [debt](../d/debt.md). Some of these extended versions include:
 

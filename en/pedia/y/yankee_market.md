@@ -46,7 +46,7 @@ The Yankee [market](../m/market.md) encompasses a wide [range](../r/range.md) of
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has become increasingly prevalent in the Yankee [market](../m/market.md), leveraging sophisticated algorithms to execute high-frequency trades. The primary benefits include:
+[Algorithmic trading](../a/algorithmic_trading.md) has become increasingly prevalent in the Yankee [market](../m/market.md), leveraging sophisticated algorithms to execute high-frequency trades. The primary benefits include:
 
 - **Speed:** Algorithms can execute trades in milliseconds, capturing fleeting [market](../m/market.md) opportunities.
 - **[Efficiency](../e/efficiency.md):** Automation reduces the potential for human error and allows for more complex [trading strategies](../t/trading_strategies.md).
@@ -60,7 +60,7 @@ Fintech companies have revolutionized the Yankee [market](../m/market.md) by int
 - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI):** Employed for [predictive analytics](../p/predictive_analytics.md), [risk](../r/risk.md) assessment, and personalized investment advice.
 - **Robo-Advisors:** Automated platforms providing algorithm-driven [financial planning](../f/financial_planning.md) services with minimal human intervention.
 
-One such example is [Robinhood](../r/robinhood.md), a pioneer in [offering](../o/offering.md) [commission](../c/commission.md)-free trading through a mobile app. The company's innovative approach has democratized access to [financial markets](../f/financial_market.md) for retail investors. For more information, visit [Robinhood](https://robinhood.com/).
+One such example is [Robinhood](../r/robinhood.md), a pioneer in [offering](../o/offering.md) [commission](../c/commission.md)-free trading through a mobile app. The company's innovative approach has democratized access to [financial markets](../f/financial_market.md) for retail investors. For more information, visit Robinhood.
 
 ## Recent Trends and Developments
 

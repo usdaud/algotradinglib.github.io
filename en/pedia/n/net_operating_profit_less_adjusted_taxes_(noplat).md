@@ -21,7 +21,7 @@ where:
 NOPLAT is pivotal for several reasons:
 
 1. **[Neutral](../n/neutral.md) Measure of Operational Performance**: It excludes the effects of [debt](../d/debt.md) and non-operational factors, making it a purer measure of a company's performance from its core [business](../b/business.md).
-  
+
 2. **Used in [Valuation Models](../v/valuation_models.md)**: Metrics like [Economic Value](../e/economic_value.md) Added (EVA) and the Free [Cash Flow](../c/cash_flow.md) to [Firm](../f/firm.md) (FCFF) model utilize NOPLAT because it represents the core operational earning power of a company.
 
 3. **Performance Comparison**: By removing the effect of [financing](../f/financing.md), it allows for better comparisons between companies within the same [industry](../i/industry.md), regardless of their [capital structure](../c/capital_structure.md).
@@ -68,14 +68,13 @@ where:
 
 #### Discounted Cash Flow (DCF)
 
-NOPLAT is also used in Discounted [Cash Flow](../c/cash_flow.md) (DCF) models, particularly when calculating the Free [Cash Flow](../c/cash_flow.md) to [Firm](../f/firm.md) (FCFF). 
+NOPLAT is also used in Discounted [Cash Flow](../c/cash_flow.md) (DCF) models, particularly when calculating the Free [Cash Flow](../c/cash_flow.md) to [Firm](../f/firm.md) (FCFF).
 
 \[ \text{FCFF} = \text{NOPLAT} + \text{[Depreciation](../d/depreciation.md)} - \text{Change in Working [Capital](../c/capital.md)} - \text{[Capital](../c/capital.md) Expenditures} \]
 
 ### Real-World Example
 
-Consider a tech company, Oracle [Corporation](../c/corporation.md). For detailed financial metrics, one could refer to [Oracle's Investor Relations](https://www.oracle.com/investor/). Here's an extract from a hypothetical financial statement:
-
+Consider a tech company, Oracle [Corporation](../c/corporation.md). For detailed financial metrics, one could refer to Oracle's company filings. Here's an extract from a hypothetical financial statement
 - [Operating Income](../o/operating_income.md) (EBIT): $20 billion
 - [Corporate Tax](../c/corporate_tax.md) Rate: 25%
 
@@ -94,11 +93,11 @@ This $15 billion would reflect Oracle's profitability from its core [business](.
 While NOPLAT is an invaluable metric, it does have some limitations:
 
 - **[Tax Rate](../t/tax_rate.md) Assumptions**: The accuracy of NOPLAT heavily relies on the appropriate estimation of the [tax rate](../t/tax_rate.md), which can fluctuate due to changes in tax laws.
-  
+
 - **Non-Recurring Items**: Sometimes distinguishing operational [income](../i/income.md) from non-recurring items can be challenging, which might skew the NOPLAT if not adjusted properly.
 
 ### Conclusion
 
-NOPLAT is integral for assessing the true [operational efficiency](../o/operational_efficiency_in_trading.md) of a company. By removing the distortions brought by [financing](../f/financing.md) decisions, it provides analysts and investors with a consistent and comparable measure of a company's core profitability. It is widely utilized in [financial modeling](../f/financial_modeling.md) and [valuation](../v/valuation.md) to [offer](../o/offer.md) a purer view of the company's operational success and its potential to generate [shareholder value](../s/shareholder_value.md). 
+NOPLAT is integral for assessing the true [operational efficiency](../o/operational_efficiency_in_trading.md) of a company. By removing the distortions brought by [financing](../f/financing.md) decisions, it provides analysts and investors with a consistent and comparable measure of a company's core profitability. It is widely utilized in [financial modeling](../f/financial_modeling.md) and [valuation](../v/valuation.md) to [offer](../o/offer.md) a purer view of the company's operational success and its potential to generate [shareholder value](../s/shareholder_value.md).
 
 Understanding and utilizing NOPLAT is crucial for thorough [financial analysis](../f/financial_analysis.md) and strategic decision-making in both investment and [corporate finance](../c/corporate_finance.md) contexts.

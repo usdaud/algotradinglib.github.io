@@ -1,6 +1,6 @@
 # Open Interest Analysis
 
-[Open Interest](../o/open_interest.md) (OI) is a crucial concept in the world of [futures](../f/futures.md) and [options](../o/options.md) trading, and its analysis offers traders deep insights into [market sentiment](../m/market_sentiment.md) and [liquidity](../l/liquidity.md). [Open interest](../o/open_interest.md), in essence, represents the total number of outstanding [derivatives](../d/derivatives.md) contracts, such as [futures](../f/futures.md) or [options](../o/options.md), that have not been settled yet. [Open interest](../o/open_interest.md) can provide significant information regarding the strength of a particular [trend](../t/trend.md) and potential reversals. 
+[Open Interest](../o/open_interest.md) (OI) is a crucial concept in the world of [futures](../f/futures.md) and [options](../o/options.md) trading, and its analysis offers traders deep insights into [market sentiment](../m/market_sentiment.md) and [liquidity](../l/liquidity.md). [Open interest](../o/open_interest.md), in essence, represents the total number of outstanding [derivatives](../d/derivatives.md) contracts, such as [futures](../f/futures.md) or [options](../o/options.md), that have not been settled yet. [Open interest](../o/open_interest.md) can provide significant information regarding the strength of a particular [trend](../t/trend.md) and potential reversals.
 
 ## What is Open Interest?
 
@@ -11,10 +11,10 @@
 When a new contract is created (a buyer and a seller come together to form a new [trade](../t/trade.md) that has not been seen before), [open interest](../o/open_interest.md) increases. Conversely, when an existing contract is closed either through an offsetting [trade](../t/trade.md) or by the contract expiring without being exercised, [open interest](../o/open_interest.md) decreases. It’s important to [note](../n/note.md) that [open interest](../o/open_interest.md) only changes when a new contract is created or an existing contract is closed, but not when an existing contract changes hands.
 
 ### Increase in Open Interest
-An increase in [open interest](../o/open_interest.md) represents new [money](../m/money.md) coming into the [market](../m/market.md). This indicates that the existing [trend](../t/trend.md) is likely to continue. 
+An increase in [open interest](../o/open_interest.md) represents new [money](../m/money.md) coming into the [market](../m/market.md). This indicates that the existing [trend](../t/trend.md) is likely to continue.
 
 ### Decrease in Open Interest
-A decrease in [open interest](../o/open_interest.md) suggests that the [market](../m/market.md) is liquidating, and that the current [trend](../t/trend.md) could be coming to an end. 
+A decrease in [open interest](../o/open_interest.md) suggests that the [market](../m/market.md) is liquidating, and that the current [trend](../t/trend.md) could be coming to an end.
 
 ## Open Interest vs. Volume
 
@@ -51,12 +51,11 @@ For example, suppose a [trader](../t/trader.md) observes that the price of a [fu
 
 Several companies and platforms provide tools and services specifically for [open interest](../o/open_interest.md) analysis:
 
-- **[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com/) offers comprehensive charts and analytical tools that incorporate [open interest](../o/open_interest.md) data.
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/) provides extensive financial information services, including [open interest](../o/open_interest.md) data.
-- **CME Group**: [CME Group](https://www.cmegroup.com/) provides [open interest](../o/open_interest.md) data for [futures contracts](../f/futures_contracts.md) traded on its exchanges.
-- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com/) offers advanced charting tools for [futures](../f/futures.md) and [options](../o/options.md) trading that include [open interest](../o/open_interest.md) analysis.
+- **[TradingView](../t/tradingview.md)**: TradingView offers comprehensive charts and analytical tools that incorporate [open interest](../o/open_interest.md) data.
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg provides extensive financial information services, including [open interest](../o/open_interest.md) data.
+- **CME Group**: CME Group provides [open interest](../o/open_interest.md) data for [futures contracts](../f/futures_contracts.md) traded on its exchanges.
+- **[NinjaTrader](../n/ninjatrader.md)**: NinjaTrader offers advanced charting tools for [futures](../f/futures.md) and [options](../o/options.md) trading that include [open interest](../o/open_interest.md) analysis.
 
 ## Conclusion
 
 Understanding and analyzing [open interest](../o/open_interest.md) is integral for traders looking to gauge [market sentiment](../m/market_sentiment.md), confirm trends, and assess [liquidity](../l/liquidity.md). By incorporating [open interest](../o/open_interest.md) analysis into their [trading strategies](../t/trading_strategies.md), traders can make more informed decisions and potentially improve their [trading performance](../t/trading_performance.md).
-

@@ -4,7 +4,7 @@
 
 ## Purpose and Importance of Market Segmentation
 
-[Market segmentation](../m/market_segmentation.md) allows businesses to better identify and more easily reach their target audience, subsequently tailoring their [marketing](../m/marketing.md) efforts to meet the specific needs of different groups. This approach leads to higher [customer](../c/customer.md) satisfaction, as products and services are better aligned with consumer desires. Additionally, efficient segmentation can significantly enhance a company’s strategic planning and competitive positioning, as it enables more accurate and effective [marketing](../m/marketing.md) efforts. 
+[Market segmentation](../m/market_segmentation.md) allows businesses to better identify and more easily reach their target audience, subsequently tailoring their [marketing](../m/marketing.md) efforts to meet the specific needs of different groups. This approach leads to higher [customer](../c/customer.md) satisfaction, as products and services are better aligned with consumer desires. Additionally, efficient segmentation can significantly enhance a company’s strategic planning and competitive positioning, as it enables more accurate and effective [marketing](../m/marketing.md) efforts.
 
 ## Types of Market Segmentation
 
@@ -14,7 +14,7 @@ There are several methods of [market segmentation](../m/market_segmentation.md),
 
 This involves dividing the [market](../m/market.md) based on measurable [statistics](../s/statistics.md) such as age, gender, [income](../i/income.md), education, occupation, and family size. For example:
 
-- **Age**: Marketers often segment markets based on age groups such as children, teenagers, adults, and seniors. 
+- **Age**: Marketers often segment markets based on age groups such as children, teenagers, adults, and seniors.
 - **Gender**: Products like cosmetics, clothing, and magazines often target specific genders differently.
 - **[Income](../i/income.md)**: Products and services can be targeted to different [income](../i/income.md) levels, from low-[income](../i/income.md) families to high-net-worth individuals.
 - **Education and Occupation**: These factors can lead to tailoring [marketing](../m/marketing.md) messages that resonate with an individual's career and knowledge level.
@@ -119,7 +119,7 @@ There's a [risk](../r/risk.md) of dividing the [market](../m/market.md) into too
 ### Technology Sector
 
 - **Apple** targets tech-savvy and brand-loyal consumers with a [range](../r/range.md) of products including iPhones, iPads, and Macs, each targeting specific segments such as students, professionals, and creative individuals.
-- **Amazon Web Services (AWS)** segments its [market](../m/market.md) by [offering](../o/offering.md) tailored cloud solutions for startups, enterprises, government agencies, and education providers. [AWS](https://aws.amazon.com/)
+- **Amazon Web Services (AWS)** segments its [market](../m/market.md) by [offering](../o/offering.md) tailored cloud solutions for startups, enterprises, government agencies, and education providers. AWS
 
 ## Conclusion
 

@@ -73,9 +73,9 @@ The [Bloomberg Terminal](../b/bloomberg_terminal.md) provides in-depth financial
 
 [Reuters](../r/reuters.md) Eikon offers comprehensive data sets and analytic tools for understanding [market](../m/market.md) demand. It integrates economic data, news sentiment, and historical [data analytics](../d/data_analytics.md).
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/accountability.md) platform that allows traders to build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It includes tools for analyzing [market](../m/market.md) demand through various data feeds.
+[StockSharp](../s/stocksharp.md) is a [algorithmic trading](../a/accountability.md) platform that allows traders to build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It includes tools for analyzing [market](../m/market.md) demand through various data feeds.
 
 ### Alpha Vantage
 
@@ -85,11 +85,11 @@ The [Bloomberg Terminal](../b/bloomberg_terminal.md) provides in-depth financial
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a prominent [hedge fund](../h/hedge_fund.md), has successfully leveraged [algorithmic trading](../a/accountability.md) by focusing on [market](../m/market.md) demand patterns. Their Medallion [Fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to predict demand and generate significant returns. [Website](https://www.rentec.com/Home.action)
+Renaissance Technologies, a prominent [hedge fund](../h/hedge_fund.md), has successfully leveraged [algorithmic trading](../a/accountability.md) by focusing on [market](../m/market.md) demand patterns. Their Medallion [Fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md)
 
 ### Two Sigma
 
-Two Sigma leverages [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) demand and enhance its [trading strategies](../t/trading_strategies.md). Their approach heavily relies on analyzing vast quantities of data to make informed trading decisions. [Website](https://www.twosigma.com)
+Two Sigma leverages [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) demand and enhance its [trading strategies](../t/trading_strategies.md). Their approach heavily relies on analyzing
 
 ## Challenges in Demand Analysis
 

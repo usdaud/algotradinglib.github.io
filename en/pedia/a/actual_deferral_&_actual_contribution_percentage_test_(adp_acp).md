@@ -6,7 +6,7 @@ The Actual Deferral Percentage (ADP) and Actual Contribution Percentage (ACP) te
 
 ## Actual Deferral Percentage (ADP) Test
 
-The ADP Test compares the average percentages of salary deferred (contributed) to the 401(k) plans between HCEs and NHCEs. 
+The ADP Test compares the average percentages of salary deferred (contributed) to the 401(k) plans between HCEs and NHCEs.
 
 ### Determining Highly Compensated Employees (HCEs)
 
@@ -70,11 +70,11 @@ If the plan fails either the ADP or ACP test, corrective actions must be taken p
 
 Several firms provide ADP/ACP testing assistance, [offering](../o/offering.md) automated solutions and tailored consulting to ensure compliance. For instance:
 
-- **ADP Retirement Services**: Automated testing and [correction](../c/correction.md) process provided by ADP. [ADP Retirement Services](https://www.adp.com/what-we-offer/benefits/retirement/401k.aspx)
+- **ADP Retirement Services**: Automated testing and [correction](../c/correction.md) process provided by ADP. ADP Retirement Services
 
-- **Paychex**: Comprehensive [401(k) plan](../1/401(k)_plan.md) administration including non-discrimination testing and corrections. [Paychex](https://www.paychex.com/retirement-services/401k)
+- **Paychex**: Comprehensive [401(k) plan](../1/401(k)_plan.md) administration including non-discrimination testing and corrections. Paychex
 
-- **Fidelity**: Offers 401(k) plans and services, including non-discrimination testing. [Fidelity](https://www.fidelity.com/retirement-ira/small-business/401k)
+- **Fidelity**: Offers 401(k) plans and services, including non-discrimination testing. Fidelity
 
 ## Conclusion
 

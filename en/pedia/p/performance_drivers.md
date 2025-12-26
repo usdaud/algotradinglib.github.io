@@ -98,5 +98,4 @@ Key Points:
 
 In conclusion, performance drivers are multifaceted, each with a significant impact on the outcomes of [algorithmic trading](../a/algorithmic_trading.md) strategies. By optimizing these drivers, traders can enhance the [efficiency](../e/efficiency.md), profitability, and resilience of their [trading systems](../t/trading_systems.md).
 
-For more detailed information and in-depth tools, platforms and services, and [industry](../i/industry.md) updates, interested readers can explore resources provided by leading firms such as [QuantConnect](https://www.quantconnect.com), [Kx Systems](https://kx.com/), or [Virtu Financial](https://www.virtu.com/).
-
+For more detailed information and in-depth tools, platforms and services, and [industry](../i/industry.md) updates, interested readers can explore resources provided by leading firms such as QuantConnect, Kx Systems, or Virtu Financial.

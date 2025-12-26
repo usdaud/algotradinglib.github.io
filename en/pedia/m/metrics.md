@@ -151,11 +151,11 @@ Analyzing posts on [social media](../s/social_media.md) platforms like Twitter a
 
 ### In Algorithmic Trading
 
-Metrics play a crucial role in [algorithmic trading](../a/accountability.md), where automated systems execute trades based on predefined criteria. Performance, [risk](../r/risk.md), and technical metrics help in developing and fine-tuning [trading algorithms](../t/trading_algorithms.md) to maximize returns and minimize risks.
+Metrics play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on predefined criteria. Performance, [risk](../r/risk.md), and technical metrics help in developing and fine-tuning [trading algorithms](../t/trading_algorithms.md) to maximize returns and minimize risks.
 
 ### In Financial Technology (FinTech)
 
-FinTech companies [leverage](../l/leverage.md) metrics to [offer](../o/offer.md) innovative financial services and products. They use various metrics to assess [creditworthiness](../c/creditworthiness.md), detect [fraud](../f/fraud.md), optimize lending, and enhance [customer](../c/customer.md) experience. Companies like [Affirm](https://www.affirm.com), [PayPal](https://www.paypal.com), and [Robinhood](https://www.robinhood.com) utilize these metrics extensively in their operations.
+FinTech companies [leverage](../l/leverage.md) metrics to [offer](../o/offer.md) innovative financial services and products. They use various metrics to assess [creditworthiness](../c/creditworthiness.md), detect [fraud](../f/fraud.md), optimize lending, and enhance [customer](../c/customer.md) experience. Companies like Affirm, PayPal, and Robinhood utilize these metrics extensively in their operations.
 
 ## Conclusion
 

@@ -82,4 +82,4 @@ print(df)
 
 The [Parabolic SAR](../p/parabolic_sar.md) remains a popular tool among traders for identifying trends and potential reversals. While it may not be foolproof, its simplicity and [efficiency](../e/efficiency.md) make it a valuable component of any [trader](../t/trader.md)'s [technical analysis](../t/technical_analysis.md) toolkit, especially when used in conjunction with other indicators and analysis techniques.
 
-For more detailed information on the [Parabolic SAR](../p/parabolic_sar.md), you can refer to resources provided by [TradingView](https://www.tradingview.com) and [Investopedia](https://www.investopedia.com).
+For more detailed information on the [Parabolic SAR](../p/parabolic_sar.md), you can refer to resources provided by TradingView and Investopedia.

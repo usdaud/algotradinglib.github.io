@@ -4,7 +4,7 @@ Off-the-Run Treasuries refer to [U.S. Treasury](../u/u.s._treasury.md) securitie
 
 ## Understanding Off-the-Run Treasuries
 
-When the U.S. Department of Treasury issues a new [security](../s/security.md) within a particular [maturity](../m/maturity.md) [range](../r/range.md) (e.g., 2-year, 5-year, 10-year), this new [security](../s/security.md) becomes the On-the-Run [security](../s/security.md). Each new issuance supersedes the previous one. Once a [new issue](../n/new_issue.md) is introduced, the older [security](../s/security.md) of the same [maturity](../m/maturity.md) transitions to Off-the-Run status. 
+When the U.S. Department of Treasury issues a new [security](../s/security.md) within a particular [maturity](../m/maturity.md) [range](../r/range.md) (e.g., 2-year, 5-year, 10-year), this new [security](../s/security.md) becomes the On-the-Run [security](../s/security.md). Each new issuance supersedes the previous one. Once a [new issue](../n/new_issue.md) is introduced, the older [security](../s/security.md) of the same [maturity](../m/maturity.md) transitions to Off-the-Run status.
 
 ### Characteristics
 
@@ -50,8 +50,8 @@ Trading of Off-the-Run treasuries can be conducted through various platforms:
 - **[Over-the-Counter (OTC) Markets](../o/over-the-counter_markets.md)**: Many Off-the-Run treasuries are traded in OTC markets where [broker](../b/broker.md)-dealers facilitate trades.
 - **Electronic Trading Platforms**: Platforms like Tradeweb and [Bloomberg](../b/bloomberg.md) facilitate electronic trading of Off-the-Run treasuries, providing greater [transparency](../t/transparency.md) and access to a larger pool of [market](../m/market.md) participants.
 
-Tradeweb: [Tradeweb](https://www.tradeweb.com)
-[Bloomberg](../b/bloomberg.md): [Bloomberg](https://www.bloomberg.com/professional/solution/fixed-income/)
+Tradeweb: Tradeweb
+[Bloomberg](../b/bloomberg.md): Bloomberg
 
 ### Market Participants
 
@@ -72,6 +72,6 @@ Despite their benefits, Off-the-Run treasuries carry specific risks that investo
 
 ## Conclusion
 
-Off-the-Run Treasuries play an essential role in the [U.S. Treasury](../u/u.s._treasury.md) [market](../m/market.md) landscape, [offering](../o/offering.md) opportunities for [yield](../y/yield.md) enhancement, [diversification](../d/diversification.md), and hedging to sophisticated [market](../m/market.md) participants. Understanding their characteristics, trading mechanisms, and associated risks is crucial for effectively incorporating these securities into investment and [trading strategies](../t/trading_strategies.md). Though they may present challenges, particularly around [liquidity](../l/liquidity.md) and pricing, the benefits provided by Off-the-Run treasuries make them a valuable addition to many fixed-[income](../i/income.md) portfolios. 
+Off-the-Run Treasuries play an essential role in the [U.S. Treasury](../u/u.s._treasury.md) [market](../m/market.md) landscape, [offering](../o/offering.md) opportunities for [yield](../y/yield.md) enhancement, [diversification](../d/diversification.md), and hedging to sophisticated [market](../m/market.md) participants. Understanding their characteristics, trading mechanisms, and associated risks is crucial for effectively incorporating these securities into investment and [trading strategies](../t/trading_strategies.md). Though they may present challenges, particularly around [liquidity](../l/liquidity.md) and pricing, the benefits provided by Off-the-Run treasuries make them a valuable addition to many fixed-[income](../i/income.md) portfolios.
 
 For investors aiming to maximize their returns while managing risks, a thoughtful approach to including Off-the-Run treasuries can help achieve a well-balanced, resilient portfolio, capable of navigating various [market](../m/market.md) conditions.

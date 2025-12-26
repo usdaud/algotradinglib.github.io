@@ -25,14 +25,11 @@ Upon successful testing, a block number is designated as the point at which the 
 
 [Bitcoin Cash](../b/bitcoin_cash.md) is perhaps the most well-known example of a hard fork. It was created on August 1, 2017, as a result of a disagreement in the [Bitcoin](../b/bitcoin.md) community regarding how to scale the network. The [Bitcoin Cash](../b/bitcoin_cash.md) proponents advocated for increasing the block size to 8MB to allow more transactions to be processed per block, as opposed to 1MB in [Bitcoin](../b/bitcoin.md). This disagreement led to a hard fork, creating two separate chains: [Bitcoin](../b/bitcoin.md) (BTC) and [Bitcoin Cash](../b/bitcoin_cash.md) (BCH).
 
-[Bitcoin Cash Official Website](https://www.bitcoincash.org/)
 
 ### Ethereum (ETH) and Ethereum Classic (ETC)
 
 Another significant example of a hard fork is the split between [Ethereum](../e/ethereum_.md) (ETH) and [Ethereum](../e/ethereum_.md) Classic (ETC). This fork occurred in July 2016 following the infamous DAO hack, where an attacker exploited a vulnerability in the DAO’s smart contract code and managed to siphon away millions of dollars worth of Ether. The community reached a consensus to perform a hard fork to [return](../r/return.md) the stolen funds, resulting in two blockchains: [Ethereum](../e/ethereum_.md) (with the restored funds) and [Ethereum](../e/ethereum_.md) Classic (where the theft is part of the immutable history).
 
-[Ethereum Official Website](https://ethereum.org/)
-[Ethereum Classic Official Website](https://ethereumclassic.org/)
 
 ## Reasons for Hard Forks
 

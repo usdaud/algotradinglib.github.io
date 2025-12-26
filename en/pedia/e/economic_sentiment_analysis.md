@@ -56,20 +56,15 @@ Statements, minutes, and reports from central banks like the Federal Reserve or 
 
 ## Tools and Platforms for Economic Sentiment Analysis
 
-### Lexalytics (www.lexalytics.com)
-Lexalytics offers text analytics and [sentiment analysis](../s/sentiment_analysis.md) solutions designed to [handle](../h/handle.md) large volumes of textual content. Their tools can be customized for financial [sentiment analysis](../s/sentiment_analysis.md).
+### Lexalytics Lexalytics offers text analytics and [sentiment analysis](../s/sentiment_analysis.md) solutions designed to [handle](../h/handle.md) large volumes of textual content. Their tools can be customized for financial [sentiment analysis](../s/sentiment_analysis.md).
 
-### Thasos (www.thasos.com)
-Thasos is a [data analytics](../d/data_analytics.md) company that uses real-time location data to measure economic activity and sentiment, providing traders with actionable insights.
+### Thasos Thasos is a [data analytics](../d/data_analytics.md) company that uses real-time location data to measure economic activity and sentiment, providing traders with actionable insights.
 
-### RavenPack (www.ravenpack.com)
-[RavenPack](../r/ravenpack.md) provides structured [data analytics](../d/data_analytics.md) from unstructured content like news articles and [social media](../s/social_media.md). Their platform is highly popular for financial [sentiment analysis](../s/sentiment_analysis.md).
+### RavenPack [RavenPack](../r/ravenpack.md) provides structured [data analytics](../d/data_analytics.md) from unstructured content like news articles and [social media](../s/social_media.md). Their platform is highly popular for financial [sentiment analysis](../s/sentiment_analysis.md).
 
-### Bloomberg Terminal (www.bloomberg.com/professional/solution/bloomberg-terminal)
-The [Bloomberg](../b/bloomberg.md) Terminal offers [sentiment analysis](../s/sentiment_analysis.md) tools integrated with its vast financial data resources. Users can access real-time sentiment scores and historical data.
+### Bloomberg Terminal The [Bloomberg](../b/bloomberg.md) Terminal offers [sentiment analysis](../s/sentiment_analysis.md) tools integrated with its vast financial data resources. Users can access real-time sentiment scores and historical data.
 
-### Refinitiv (www.refinitiv.com)
-Refinitiv offers news analytics solutions that include sentiment scores and trends. Their Eikon platform integrates with these tools to provide [trader](../t/trader.md)-specific insights.
+### Refinitiv Refinitiv offers news analytics solutions that include sentiment scores and trends. Their Eikon platform integrates with these tools to provide [trader](../t/trader.md)-specific insights.
 
 ## Challenges and Limitations
 

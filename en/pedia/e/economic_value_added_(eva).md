@@ -4,7 +4,7 @@
 
 ## Introduction
 
-EVA is essentially the [surplus](../s/surplus.md) [value](../v/value.md) created over the required [return](../r/return.md) of a company’s shareholders. The main idea behind EVA is to measure whether the [business](../b/business.md)’ [earnings](../e/earnings.md) are sufficient to compensate for the [opportunity cost](../o/opportunity_cost.md) of [capital](../c/capital.md). Developed by Stern Stewart & Co., EVA encourages companies to focus on generating [value](../v/value.md) rather than just hitting [earnings](../e/earnings.md) targets. 
+EVA is essentially the [surplus](../s/surplus.md) [value](../v/value.md) created over the required [return](../r/return.md) of a company’s shareholders. The main idea behind EVA is to measure whether the [business](../b/business.md)’ [earnings](../e/earnings.md) are sufficient to compensate for the [opportunity cost](../o/opportunity_cost.md) of [capital](../c/capital.md). Developed by Stern Stewart & Co., EVA encourages companies to focus on generating [value](../v/value.md) rather than just hitting [earnings](../e/earnings.md) targets.
 
 EVA is calculated using the following formula:
 ```
@@ -107,12 +107,11 @@ While EVA aims to foster long-term [value](../v/value.md) creation, excessive fo
 
 ## Conclusion
 
-[Economic Value](../e/economic_value.md) Added (EVA) is a powerful tool for evaluating a company's true economic [profit](../p/profit.md) by incorporating the [cost of capital](../c/cost_of_capital.md) into financial assessments. By focusing on EVA, companies can align management objectives with [shareholder](../s/shareholder.md) interests, enhance strategic decision-making, and improve performance measurement. While complex and subjective in nature, the advantages of driving [capital](../c/capital.md)-efficient decisions and fostering long-term [value](../v/value.md) creation make EVA an indispensable metric in [finance](../f/finance.md) and corporate management. 
+[Economic Value](../e/economic_value.md) Added (EVA) is a powerful tool for evaluating a company's true economic [profit](../p/profit.md) by incorporating the [cost of capital](../c/cost_of_capital.md) into financial assessments. By focusing on EVA, companies can align management objectives with [shareholder](../s/shareholder.md) interests, enhance strategic decision-making, and improve performance measurement. While complex and subjective in nature, the advantages of driving [capital](../c/capital.md)-efficient decisions and fostering long-term [value](../v/value.md) creation make EVA an indispensable metric in [finance](../f/finance.md) and corporate management.
 
 For more detailed corporate use and [best practices](../b/best_practices.md) regarding EVA, visit:
-- [Stern Stewart & Co.](http://www.sternstewart.com/) 
-- [Dell Technologies](https://www.dell.com/)
-- [UPS](https://www.ups.com/)
-- [Coca-Cola](https://www.coca-colacompany.com/)
+- Stern Stewart & Co. - Dell Technologies
+- UPS
+- Coca-Cola
 
 By incorporating EVA into their financial strategies, companies can better navigate economic challenges, ensure [robust](../r/robust.md) evaluation frameworks, and secure sustainable growth trajectories.

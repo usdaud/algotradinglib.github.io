@@ -9,10 +9,10 @@ The Volcker Rule is a specific section (Section 619) of the [Dodd-Frank Wall Str
 2. **Ownership Interests in Covered Funds:** Banks are restricted from owning, sponsoring, or having certain relationships with [hedge](../h/hedge.md) funds or [private equity](../p/private_equity.md) funds ("covered funds").
 
 3. **Exemptions:** The rule allows for several exemptions including:
-   - Trading in U.S. government, state and municipal securities.
-   - [Market](../m/market.md) making and hedging activities.
-   - Activities on behalf of customers.
-   - Certain foreign activities.
+ - Trading in U.S. government, state and municipal securities.
+ - [Market](../m/market.md) making and hedging activities.
+ - Activities on behalf of customers.
+ - Certain foreign activities.
 
 4. **Compliance Programs:** Banks are required to implement compliance programs that ensure adherence to the rule, including detailed documentation and monitoring of their trading activities.
 
@@ -75,4 +75,4 @@ While the Volcker Rule is specific to the United States, its principles have inf
 
 The Volcker Rule represents a critical element of post-crisis financial reform aimed at reducing [systemic risk](../s/systemic_risk.md) and ensuring the stability of financial institutions. By restricting banks from engaging in [proprietary trading](../p/proprietary_trading.md) and limiting their involvement with [hedge](../h/hedge.md) funds and [private equity](../p/private_equity.md) funds, the rule seeks to create a safer banking environment. Ongoing revisions and regulatory oversight ensure that the rule remains relevant and effective in a continually evolving financial landscape.
 
-For more detailed information, you can visit the United States Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)'s page on the Volcker Rule [here](https://www.sec.gov/spotlight/dodd-frank/volckerrule.shtml).
+For more detailed information, refer to United States Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) materials on the Volcker Rule.

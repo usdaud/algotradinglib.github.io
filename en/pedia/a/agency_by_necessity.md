@@ -17,7 +17,7 @@ In the realm of [algorithmic trading](../a/accountability.md), agency by necessi
 ### Key Principles
 
 1. **Dynamic Decision-Making**: Algorithms must be equipped to make rapid decisions in the face of [market](../m/market.md) abnormalities. These decisions should aim to mitigate [risk](../r/risk.md) and preserve the [value](../v/value.md) of the assets under management.
-   
+
 2. **Fallback Protocols**: [Trading systems](../t/trading_systems.md) should incorporate fallback protocols that allow for pre-approved emergency measures. These might include auto-[liquidation](../l/liquidation.md) rules or preset protective trades.
 
 3. **Regulatory Compliance**: Actions taken by an automated system under the doctrine of agency by necessity must comply with existing financial regulations. Such compliance ensures the legality and ethicality of the measures.
@@ -77,9 +77,9 @@ Proactively engaging with regulatory bodies to shape policies that accommodate t
 
 Several companies and trading platforms are known for their advanced [algorithmic trading](../a/accountability.md) systems that incorporate aspects of agency by necessity:
 
-- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that utilizes sophisticated algorithms capable of real-time decision-making in dynamic [market](../m/market.md) conditions. Learn more at [Jane Street](https://www.janestreet.com).
-- **Two Sigma**: Another leader in applying [data science](../d/data_science_in_trading.md) and technology to [trade](../t/trade.md) profitably, ensuring their systems can respond to [market](../m/market.md) emergencies effectively. Visit [Two Sigma](https://www.twosigma.com).
-- **Virtu Financial**: Renowned for its role in high-frequency trading and adept at managing rapid [market](../m/market.md) changes. More information can be found at [Virtu Financial](https://www.virtu.com).
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that utilizes sophisticated algorithms capable of real-time decision-making in dynamic [market](../m/market.md) conditions. Learn more at Jane Street.
+- **Two Sigma**: Another leader in applying [data science](../d/data_science_in_trading.md) and technology to [trade](../t/trade.md) profitably, ensuring their systems can respond to [market](../m/market.md) emergencies effectively. Visit Two Sigma.
+- **Virtu Financial**: Renowned for its role in high-frequency trading and adept at managing rapid [market](../m/market.md) changes. More information can be found at Virtu Financial.
 
 ## Conclusion
 

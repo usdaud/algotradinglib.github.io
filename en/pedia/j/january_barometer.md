@@ -74,4 +74,4 @@ Given the [variability](../v/variability.md) in its predictive power, continuous
 
 The January Barometer remains a fascinating financial theory with a historical track record that [warrants](../w/warrants_in_trading.md) attention. While it is not foolproof, its integration into [algorithmic trading](../a/algorithmic_trading.md) and broader investment strategies can enhance decision-making processes, provided it is used prudently and in conjunction with other analytical tools. As with any [market](../m/market.md) theory, a critical and nuanced approach is essential for maximizing its potential benefits.
 
-For more detailed information and continuous updates on [market](../m/market.md) trends and seasonal patterns, investors can refer to resources like the [Stock Trader's Almanac](https://www.stocktradersalmanac.com/).
+For more detailed information and continuous updates on [market](../m/market.md) trends and seasonal patterns, investors can refer to resources like the Stock Trader's Almanac.

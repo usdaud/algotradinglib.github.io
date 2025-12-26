@@ -31,7 +31,7 @@ Ex-post analyses also serve as the [basis](../b/basis.md) for refining [trading 
 
 Ex-post analysis plays a pivotal role in [risk management](../r/risk_management.md). By retrospectively analyzing trades, analysts can identify periods of excessive [risk](../r/risk.md)-taking or systemic vulnerabilities. Some [risk management](../r/risk_management.md) aspects reviewed in ex-post analysis include:
 
-- **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR):** Calculating the potential loss in [value](../v/value.md) of a portfolio at a given confidence level over a specified [time horizon](../t/time_horizon.md). 
+- **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR):** Calculating the potential loss in [value](../v/value.md) of a portfolio at a given confidence level over a specified [time horizon](../t/time_horizon.md).
 - **[Stress Testing](../s/stress_testing.md):** Assessing how strategies perform under adverse conditions that mimic historical financial crises or extreme [market](../m/market.md) movements.
 - **[Scenario Analysis](../s/scenario_analysis.md):** Evaluating how portfolio values change under simulated economic and [market](../m/market.md) scenarios, helping to pinpoint and [hedge](../h/hedge.md) against potential risks.
 
@@ -41,17 +41,17 @@ Traders and firms use a variety of tools and platforms for conducting ex-post an
 
 ### Example Platforms and Tools
 
-1. **[QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)):**
-   An [algorithmic trading](../a/accountability.md) platform that offers a broad [range](../r/range.md) of tools for [backtesting](../b/backtesting.md), researching, and live trading. [QuantConnect](../q/quantconnect.md)’s [backtesting](../b/backtesting.md) engine supports detailed ex-post analysis with [performance metrics](../p/performance_metrics.md), [risk](../r/risk.md) assessment, and strategy comparisons.
+1. **[QuantConnect](../q/quantconnect.md) (QuantConnect):**
+ An [algorithmic trading](../a/accountability.md) platform that offers a broad [range](../r/range.md) of tools for [backtesting](../b/backtesting.md), researching, and live trading. [QuantConnect](../q/quantconnect.md)’s [backtesting](../b/backtesting.md) engine supports detailed ex-post analysis with [performance metrics](../p/performance_metrics.md), [risk](../r/risk.md) assessment, and strategy comparisons.
 
-2. **[Quantlib](../q/quantlib.md) ([Quantlib](http://quantlib.org/)):**
-   An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides a [range](../r/range.md) of tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It supports ex-post analysis for various financial instruments and [derivative](../d/derivative.md) products.
+2. **[Quantlib](../q/quantlib.md) (Quantlib):**
+ An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides a [range](../r/range.md) of tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It supports ex-post analysis for various financial instruments and [derivative](../d/derivative.md) products.
 
-3. **[Bloomberg Terminal](../b/bloomberg_terminal.md) ([Bloomberg](https://www.bloomberg.com/professional/solution/guid-1-bloomberg-terminal/?utm_medium=bcom_site&utm_source=bmb-banner&utm_campaign=bps1&utm_content=top-growing-business)):**
-   A widely-used professional service [offering](../o/offering.md) real-time and historical financial data, analytics, [execution](../e/execution.md), and trading capabilities. It includes advanced tools for ex-post performance evaluation and [risk analysis](../r/risk_analysis.md).
+3. **[Bloomberg Terminal](../b/bloomberg_terminal.md) (Bloomberg):**
+ A widely-used professional service [offering](../o/offering.md) real-time and historical financial data, analytics, [execution](../e/execution.md), and trading capabilities. It includes advanced tools for ex-post performance evaluation and [risk analysis](../r/risk_analysis.md).
 
 4. **Python and R Programming:**
-   Many traders and quantitative analysts use programming languages such as Python and R for custom ex-post analyses. They [leverage](../l/leverage.md) libraries like Pandas, NumPy, and SciPy in Python, or packages like quantmod and PerformanceAnalytics in R.
+ Many traders and quantitative analysts use programming languages such as Python and R for custom ex-post analyses. They [leverage](../l/leverage.md) libraries like Pandas, NumPy, and SciPy in Python, or packages like quantmod and PerformanceAnalytics in R.
 
 ## Conclusion
 

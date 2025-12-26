@@ -84,9 +84,9 @@ Consider an [investor](../i/investor.md) looking to enter a [variance swap](../v
 
 Key institutions in the [market](../m/market.md) for variance swaps include major [investment banks](../i/investment_bank_(ib).md) like Goldman Sachs, Morgan Stanley, and JP Morgan. These banks provide [liquidity](../l/liquidity.md) and employ sophisticated [risk management](../r/risk_management.md) practices to [hedge](../h/hedge.md) their positions. They also [offer](../o/offer.md) various [derivative](../d/derivative.md) products to their clients, facilitating customized [volatility](../v/volatility.md) [trading strategies](../t/trading_strategies.md).
 
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [Morgan Stanley](https://www.morganstanley.com)
-- [JP Morgan](https://www.jpmorgan.com)
+- Goldman Sachs
+- Morgan Stanley
+- JP Morgan
 
 ## Conclusion
 

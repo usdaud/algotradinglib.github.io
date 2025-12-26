@@ -63,7 +63,7 @@ In today's digital age, technology plays a significant role in determining repla
 
 ### Companies Utilizing Technology for Replacement Cost Assessment
 
-Several companies specialize in providing technological solutions for assessing replacement costs. One such company is Verisk Analytics ([Verisk](https://www.verisk.com/)), which offers [data analytics](../d/data_analytics.md) and [risk](../r/risk.md) assessment services, including replacement cost calculators and [predictive models](../p/predictive_models_in_trading.md).
+Several companies specialize in providing technological solutions for assessing replacement costs. One such company is Verisk Analytics (Verisk), which offers [data analytics](../d/data_analytics.md) and [risk](../r/risk.md) assessment services, including replacement cost calculators and [predictive models](../p/predictive_models_in_trading.md).
 
 ## Conclusion
 

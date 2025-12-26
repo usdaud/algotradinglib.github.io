@@ -12,7 +12,7 @@ In the realm of [financial markets](../f/financial_market.md) and [options](../o
 ## Types of Vertical Credit Spreads
 
 ### 1. Bull Put Spread
-This strategy is employed when a [trader](../t/trader.md) expects the [underlying asset](../u/underlying_asset.md) to increase or exhibit bullish behavior. 
+This strategy is employed when a [trader](../t/trader.md) expects the [underlying asset](../u/underlying_asset.md) to increase or exhibit bullish behavior.
 
 - **Initiation**: Sell a higher [strike price](../s/strike_price.md) [put option](../p/put.md) and buy a lower [strike price](../s/strike_price.md) [put option](../p/put.md).
 - **[Profit](../p/profit.md)**: The maximum [profit](../p/profit.md) is the [net premium](../n/net_premium.md) received.
@@ -70,7 +70,7 @@ Advanced traders may employ adjustments if the [market](../m/market.md) moves un
 ### Usage by Professional Traders
 Professional traders, including [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms, regularly use vertical [credit](../c/credit.md) [spreads](../s/spreads.md) as part of complex [trading systems](../t/trading_systems.md). These institutions rely on sophisticated models to predict [market](../m/market.md) movements and optimize their spread strategies.
 
-For instance, **TD [Ameritrade](../a/ameritrade.md)** provides comprehensive resources for [options](../o/options.md) trading, including educational materials on strategies like vertical [credit](../c/credit.md) [spreads](../s/spreads.md). (Visit: [TD Ameritrade](https://www.tdameritrade.com))
+For instance, **TD [Ameritrade](../a/ameritrade.md)** provides comprehensive resources for [options](../o/options.md) trading, including educational materials on strategies like vertical [credit](../c/credit.md) [spreads](../s/spreads.md). (Visit: TD Ameritrade)
 
 ### Retail Investor Use
 Increasing numbers of retail investors are utilizing online platforms like **[Robinhood](../r/robinhood.md)** and **[E*TRADE](../e/e_trade.md)** to access [options](../o/options.md) trading. These platforms [offer](../o/offer.md) tools and educational content to help individual investors understand and implement strategies like vertical [credit](../c/credit.md) [spreads](../s/spreads.md).

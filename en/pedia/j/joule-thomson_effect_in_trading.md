@@ -1,7 +1,7 @@
 # Joule-Thomson Effect
 
 ### Introduction
-The Joule-Thomson effect, named after James Prescott Joule and William Thomson (Lord Kelvin), typically refers to the temperature change of a real gas when it is allowed to expand or is compressed at constant enthalpy. In the field of trading, this principle can be loosely adapted as an analogy to describe certain [market](../m/market.md) phenomena and [algorithmic trading](../a/algorithmic_trading.md) strategies. 
+The Joule-Thomson effect, named after James Prescott Joule and William Thomson (Lord Kelvin), typically refers to the temperature change of a real gas when it is allowed to expand or is compressed at constant enthalpy. In the field of trading, this principle can be loosely adapted as an analogy to describe certain [market](../m/market.md) phenomena and [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Background
 
@@ -24,7 +24,7 @@ When a stock or [asset](../a/asset.md) is traded (i.e., pressure is applied or r
 
 ### Algorithmic Application
 
-Algorithmic traders can apply the Joule-Thomson analogy to develop [trading strategies](../t/trading_strategies.md) that anticipate [market](../m/market.md) conditions based on buying and selling pressures and their effects on [volatility](../v/volatility.md). 
+Algorithmic traders can apply the Joule-Thomson analogy to develop [trading strategies](../t/trading_strategies.md) that anticipate [market](../m/market.md) conditions based on buying and selling pressures and their effects on [volatility](../v/volatility.md).
 
 #### Key Metrics
 - **[Volume](../v/volume.md)-[weighted Average](../w/weighted_average.md) Price (VWAP):** VWAP can help traders understand the average price at which assets are traded during a specific time period, aiding in identifying pressure points.
@@ -38,9 +38,9 @@ Consider a scenario where a significant stock is experiencing high buying pressu
 ### Companies and Tools
 
 Several companies specialize in providing tools and services essential for implementing such strategies:
-- **[TradeStation](../t/tradestation.md)**: Known for their comprehensive trading platforms that support custom algorithm development. [TradeStation](https://www.tradestation.com/)
-- **[QuantConnect](../q/quantconnect.md)**: Offers a platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
-- **[AlgoTrader](../a/algotrader.md)**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software for automated trading and [execution](../e/execution.md) management. [AlgoTrader](https://www.algotrader.com/)
+- **[TradeStation](../t/tradestation.md)**: Known for their comprehensive trading platforms that support custom algorithm development. TradeStation
+- **[QuantConnect](../q/quantconnect.md)**: Offers a platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. QuantConnect
+- **[AlgoTrader](../a/algotrader.md)**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software for automated trading and [execution](../e/execution.md) management. AlgoTrader
 
 ### Conclusion
 
@@ -51,7 +51,7 @@ The Joule-Thomson Effect, while a concept from thermodynamics, provides a compel
 For those interested in a deeper dive into the thermodynamic principles and their relation to [trading strategies](../t/trading_strategies.md), consider exploring the following resources:
 - "The Principles of Thermodynamics" by Herbert Callen
 - "[Algorithmic Trading](../a/algorithmic_trading.md): Winning Strategies and Their Rationale" by Ernest P. Chan
-- Online resources and courses on [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/)
+- Online resources and courses on Coursera and edX
 
 ### Disclaimer
 

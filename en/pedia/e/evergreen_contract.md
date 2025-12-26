@@ -66,9 +66,9 @@ Despite the automatic renewal feature, it is crucial for [algorithmic trading](.
 
 Several leading firms in the [algorithmic trading](../a/accountability.md) [industry](../i/industry.md) utilize Evergreen Contracts to manage their operations efficiently. For instance:
 
-- **Citadel Securities** (https://www.citadelsecurities.com/): As a major player in [market](../m/market.md) making and [algorithmic trading](../a/accountability.md), Citadel relies on Evergreen Contracts to maintain uninterrupted access to trading software and data feeds.
-- **Virtu Financial** (https://www.virtu.com/): Virtu employs Evergreen Contracts to ensure continuous low-latency connectivity and data services, which are critical to its high-frequency [trading strategies](../t/trading_strategies.md).
-- **Flow Traders** (https://www.flowtraders.com/): Flow Traders uses Evergreen Contracts for maintaining relationships with data providers and clearinghouses, ensuring smooth post-[trade](../t/trade.md) processes.
+- **Citadel Securities** ( As a major player in [market](../m/market.md) making and [algorithmic trading](../a/accountability.md), Citadel relies on Evergreen Contracts to maintain uninterrupted access to trading software and data feeds.
+- **Virtu Financial** ( Virtu employs Evergreen Contracts to ensure continuous low-latency connectivity and data services, which are critical to its high-frequency [trading strategies](../t/trading_strategies.md).
+- **Flow Traders** ( Flow Traders uses Evergreen Contracts for maintaining relationships with data providers and clearinghouses, ensuring smooth post-[trade](../t/trade.md) processes.
 
 ## Conclusion
 

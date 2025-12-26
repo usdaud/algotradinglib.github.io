@@ -42,7 +42,7 @@ Based on their research and data, the OECD provides policy recommendations that 
 Member countries undergo peer reviews where their policies are examined by experts from other OECD countries. This process promotes [transparency](../t/transparency.md) and accountability.
 
 ### 4. Setting Standards
-The OECD sets international standards in various domains such as [taxation](../t/taxation.md), [corporate governance](../c/corporate_governance.md), and financial regulations. One significant example is the OECD's work on tax cooperation through the Base Erosion and [Profit](../p/profit.md) Shifting (BEPS) initiative. 
+The OECD sets international standards in various domains such as [taxation](../t/taxation.md), [corporate governance](../c/corporate_governance.md), and financial regulations. One significant example is the OECD's work on tax cooperation through the Base Erosion and [Profit](../p/profit.md) Shifting (BEPS) initiative.
 
 ### 5. Capacity Building
 The OECD helps its member and partner countries by providing technical support and training to help them implement [best practices](../b/best_practices.md).
@@ -72,7 +72,7 @@ The OECD examines the impacts of technological advances and formulates policies 
 The OECD also runs several specialized programs and initiatives, including:
 
 - **OECD Guidelines for Multinational Enterprises**: These are recommendations addressed by governments to multinational enterprises operating in or from adhering countries. They provide non-binding principles and standards for responsible [business](../b/business.md) conduct.
-  
+
 - **Anti-Bribery Convention**: Aims to prevent bribery in international [business](../b/business.md) transactions by criminalizing the act.
 
 ## Global Relations
@@ -82,4 +82,4 @@ The OECD collaborates with numerous non-member countries and other international
 The OECD is continuously evolving to address new global challenges. Areas such as digital transformation, aging populations, and [income inequality](../i/income_inequality.md) are gaining increasing focus to formulate policies for a balanced, inclusive, and sustainable future.
 
 ## Conclusion
-The OECD acts as a cornerstone for international economic collaboration, providing a forum for its member countries to work together and improve the global [economy](../e/economy.md)'s health. Through its wide-ranging research, policy recommendations, and standards, the OECD has a lasting impact on global economic and social policies. For more information on their work and current initiatives, you can visit the OECD’s official website: [OECD](https://www.oecd.org).
+The OECD acts as a cornerstone for international economic collaboration, providing a forum for its member countries to work together and improve the global [economy](../e/economy.md)'s health. Through its wide-ranging research, policy recommendations, and standards, the OECD has a lasting impact on global economic and social policies.

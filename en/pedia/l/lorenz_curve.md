@@ -42,32 +42,32 @@ In [social sciences](../s/social_sciences.md), the Lorenz curve helps to study t
 Here’s a basic outline using Python and libraries like NumPy and Matplotlib:
 
 1. **Data Preparation**: Collect and sort data on [income](../i/income.md) or [wealth](../w/wealth.md).
-   ```python
-   [import](../i/import.md) numpy as np
+ ```python
+ [import](../i/import.md) numpy as np
 
-   # Example data: [Income](../i/income.md) in thousands
-   [income](../i/income.md) = np.array([10, 20, 30, 40, 50, 60, 70, 80, 90, 100])
-   [income](../i/income.md).sort()
-   ```
+ # Example data: [Income](../i/income.md) in thousands
+ [income](../i/income.md) = np.array([10, 20, 30, 40, 50, 60, 70, 80, 90, 100])
+ [income](../i/income.md).sort()
+ ```
 
 2. **Cumulative [Shares](../s/shares.md) Calculation**: Compute the cumulative [shares](../s/shares.md) of the population and [income](../i/income.md).
-   ```python
-   cum_population = np.arange(1, len([income](../i/income.md)) + 1) / len([income](../i/income.md))
-   cum_income = np.cumsum([income](../i/income.md)) / sum([income](../i/income.md))
-   ```
+ ```python
+ cum_population = np.arange(1, len([income](../i/income.md)) + 1) / len([income](../i/income.md))
+ cum_income = np.cumsum([income](../i/income.md)) / sum([income](../i/income.md))
+ ```
 
 3. **Plotting the Lorenz Curve**: Use Matplotlib to plot the data.
-   ```python
-   [import](../i/import.md) matplotlib.pyplot as plt
+ ```python
+ [import](../i/import.md) matplotlib.pyplot as plt
 
-   fig, ax = plt.subplots()
-   ax.plot(cum_population, cum_income, label='Lorenz Curve')
-   ax.plot([0, 1], [0, 1], label='Equality Line', linestyle='--')
-   ax.set_xlabel('Cumulative Share of Population')
-   ax.set_ylabel('Cumulative Share of [Income](../i/income.md)')
-   ax.legend()
-   plt.show()
-   ```
+ fig, ax = plt.subplots()
+ ax.plot(cum_population, cum_income, label='Lorenz Curve')
+ ax.plot([0, 1], [0, 1], label='Equality Line', linestyle='--')
+ ax.set_xlabel('Cumulative Share of Population')
+ ax.set_ylabel('Cumulative Share of [Income](../i/income.md)')
+ ax.legend()
+ plt.show()
+ ```
 
 ## Limitations and Advantages
 

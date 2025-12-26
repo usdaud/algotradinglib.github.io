@@ -1,6 +1,6 @@
 # Earned Premium
 
-Earned [Premium](../p/premium.md) is a term primarily used in the [insurance](../i/insurance.md) [industry](../i/industry.md) to describe the portion of the [premium](../p/premium.md) that corresponds to the [insurance](../i/insurance.md) coverage that has already been provided. It's an essential concept for both [insurance](../i/insurance.md) companies and policyholders, as it gives an indication of the financial status of an [insurance](../i/insurance.md) contract over a specific period. 
+Earned [Premium](../p/premium.md) is a term primarily used in the [insurance](../i/insurance.md) [industry](../i/industry.md) to describe the portion of the [premium](../p/premium.md) that corresponds to the [insurance](../i/insurance.md) coverage that has already been provided. It's an essential concept for both [insurance](../i/insurance.md) companies and policyholders, as it gives an indication of the financial status of an [insurance](../i/insurance.md) contract over a specific period.
 
 ## Definition and Calculation
 
@@ -23,7 +23,7 @@ Earned [Premium](../p/premium.md) = $1,200 * (180/365) = $600
 For [insurance](../i/insurance.md) companies, determining the earned [premium](../p/premium.md) accurately is crucial for several reasons:
 
 1. **Profitability Analysis:** The earned [premium](../p/premium.md) is directly related to the company's [revenue](../r/revenue.md) within a specific [accounting](../a/accounting.md) period. Insurers need to match their [revenue](../r/revenue.md) with corresponding expenses to accurately measure profitability.
-  
+
 2. **Reserves Management:** [Insurance](../i/insurance.md) companies must set aside reserves to cover future claims. The portion of the [premium](../p/premium.md) not yet earned (the [unearned premium](../u/unearned_premium.md)) needs to be calculated and reported separately to manage these reserves properly.
 
 3. **Regulatory Compliance:** [Insurance](../i/insurance.md) companies operate under strict regulatory frameworks. Accurate reporting of earned premiums is necessary to comply with these regulations.
@@ -43,7 +43,7 @@ An important [accounting](../a/accounting.md) concept associated with earned pre
 In [accounting](../a/accounting.md), [revenue recognition](../r/revenue_recognition.md) is the principle that dictates how and when [revenue](../r/revenue.md) is recognized in the [financial statements](../f/financial_statements.md). For earned premiums:
 
 - **[Accrual Accounting](../a/accrual_accounting.md):** Under the accrual [basis](../b/basis.md) of [accounting](../a/accounting.md), [revenue](../r/revenue.md) is recognized when it is earned, and not necessarily when the [payment](../p/payment.md) is received. This means insurers must properly calculate the portion of the [premium](../p/premium.md) that has been earned over the coverage period.
-  
+
 - **[Deferred Revenue](../d/deferred_revenue.md):** [Premium](../p/premium.md) received in advance but relating to future coverage is recorded as [deferred revenue](../d/deferred_revenue.md) ([liability](../l/liability.md)) and recognized as earned [premium](../p/premium.md) over the coverage period.
 
 ## Earned Premium in Various Lines of Business
@@ -117,7 +117,7 @@ To illustrate the concept of earned [premium](../p/premium.md), let's consider a
 ### Example Scenario
 
 1. **Policy Issuance:** On January 1, 2023, [Alpha](../a/alpha.md) Insure issues an auto [insurance](../i/insurance.md) policy with a [premium](../p/premium.md) of $1,200, covering the period from January 1, 2023, to December 31, 2023.
-  
+
 2. **[Premium](../p/premium.md) [Payment](../p/payment.md):** The policyholder pays the $1,200 [premium](../p/premium.md) upfront.
 
 3. **Mid-Year Calculation:** On June 30, 2023, [Alpha](../a/alpha.md) Insure needs to calculate the earned [premium](../p/premium.md) for financial reporting.

@@ -10,7 +10,7 @@ A deposit is a financial term that refers to [money](../m/money.md) placed into 
 
 ### Time Deposits
 
-Time deposits refer to deposits that are made for a specific period. The depositor cannot withdraw the funds before the [maturity date](../m/maturity_date.md) without incurring penalties. Certificates of Deposit (CDs) are a common example, [offering](../o/offering.md) higher [interest](../i/interest.md) rates than [demand](../d/demand.md) deposits. 
+Time deposits refer to deposits that are made for a specific period. The depositor cannot withdraw the funds before the [maturity date](../m/maturity_date.md) without incurring penalties. Certificates of Deposit (CDs) are a common example, [offering](../o/offering.md) higher [interest](../i/interest.md) rates than [demand](../d/demand.md) deposits.
 
 ### Savings Deposits
 
@@ -72,19 +72,19 @@ Different jurisdictions have various regulatory requirements related to deposits
 
 ### JPMorgan Chase
 
-JPMorgan Chase is a leading global financial institution that offers a [range](../r/range.md) of deposit accounts, including checking, savings, and time deposits. More information can be found on their [official website](https://www.jpmorganchase.com).
+JPMorgan Chase is a leading global financial institution that offers a [range](../r/range.md) of deposit accounts, including checking, savings, and time deposits.
 
 ### Bank of America
 
-[Bank](../b/bank.md) of America provides various types of deposits to individual and corporate customers. They [offer](../o/offer.md) competitive [interest](../i/interest.md) rates and flexible terms. Details are available on their [official website](https://www.bankofamerica.com).
+[Bank](../b/bank.md) of America provides various types of deposits to individual and corporate customers. They [offer](../o/offer.md) competitive [interest](../i/interest.md) rates and flexible terms.
 
 ### Goldman Sachs
 
-Goldman Sachs, through its Marcus platform, offers high-[yield](../y/yield.md) savings and time deposits [options](../o/options.md). It is recognized for competitive [interest](../i/interest.md) rates and [robust](../r/robust.md) [customer service](../c/customer_service.md). More information can be accessed on their [official website](https://www.goldmansachs.com).
+Goldman Sachs, through its Marcus platform, offers high-[yield](../y/yield.md) savings and time deposits [options](../o/options.md). It is recognized for competitive [interest](../i/interest.md) rates and [robust](../r/robust.md) [customer service](../c/customer_service.md).
 
 ### Citibank
 
-Citibank offers a wide [range](../r/range.md) of deposit products, including CDs, savings accounts, and more. They cater to both retail and institutional clients and provide advanced [online banking](../o/online_banking.md) features. For more details, visit their [official website](https://www.citigroup.com).
+Citibank offers a wide [range](../r/range.md) of deposit products, including CDs, savings accounts, and more. They cater to both retail and institutional clients and provide advanced [online banking](../o/online_banking.md) features.
 
 ## Conclusion
 

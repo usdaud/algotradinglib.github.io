@@ -4,7 +4,7 @@ Book building is a systematic process used in various [financial markets](../f/f
 
 ## Overview
 
-Book building is predominantly used during IPOs, where a company [offering](../o/offering.md) its [shares](../s/shares.md) to the public for the first time collaborates with underwriters or [investment banks](../i/investment_bank_(ib).md). It involves inviting institutional investors and, sometimes, retail investors to submit bids or indications of [interest](../i/interest.md) for the [shares](../s/shares.md) being issued. 
+Book building is predominantly used during IPOs, where a company [offering](../o/offering.md) its [shares](../s/shares.md) to the public for the first time collaborates with underwriters or [investment banks](../i/investment_bank_(ib).md). It involves inviting institutional investors and, sometimes, retail investors to submit bids or indications of [interest](../i/interest.md) for the [shares](../s/shares.md) being issued.
 
 The process culminates in the establishment of an [offer](../o/offer.md) price at which the securities [will](../w/will.md) be issued, with a view to balancing the [demand](../d/demand.md) and [supply](../s/supply.md) dynamics closely. This contrasts with a fixed-price [offering](../o/offering.md), where the price is set beforehand without gauging [investor](../i/investor.md) [interest](../i/interest.md) in such a detailed manner.
 
@@ -75,13 +75,11 @@ In a direct listing, the company does not [issue](../i/issue.md) new [shares](..
 ## Prominent Examples
 
 1. **Alibaba Group IPO (2014)**: The Chinese e-[commerce](../c/commerce.md) giant used book building to raise $25 billion in what was the world's largest IPO at the time. It underscores the [efficiency](../e/efficiency.md) of book building in [price discovery](../p/price_discovery.md) for massive global offerings.
-   [Alibaba Group](https://www.alibabagroup.com/en/global/home)
 
 2. **Facebook IPO (2012)**: Facebook utilized book building to manage its $16 billion IPO. Despite facing some initial trading glitches, the IPO's success underscores the method's capacity for handling large and complex offerings.
-   [Meta Platforms, Inc.](https://about.fb.com/)
+ Meta Platforms, Inc.
 
 3. **Saudi Aramco IPO (2019)**: Saudi Aramco’s IPO, the largest in history, raising $29.4 billion, involved an extensive book-building process to globalize its [investor](../i/investor.md) base.
-   [Saudi Aramco](https://www.aramco.com/)
 
 ## The Role of Technology
 
@@ -89,11 +87,9 @@ In a direct listing, the company does not [issue](../i/issue.md) new [shares](..
 
 With advances in technology, electronic book building platforms have emerged. These platforms streamline the book-building process by facilitating the submission and collection of bids from investors. Examples include:
 
-- **Ipreo**: Now part of IHS Markit, it offers solutions for electronic book building, streamlining the IPO process.
-  [IHS Markit](https://ihsmarkit.com/)
-  
+- **Ipreo**: Now part of S&P Global (following the IHS Markit merger in February 2022), it offers solutions for electronic book building, streamlining the IPO process.
+
 - **Dealogic**: Provides an integrated platform for [book runners](../b/book_runners.md) and [syndicate](../s/syndicate.md) members to manage the deal process seamlessly.
-  [Dealogic](https://dealogic.com/)
 
 ### Big Data and Analytics
 

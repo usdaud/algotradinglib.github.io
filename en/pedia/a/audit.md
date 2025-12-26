@@ -21,9 +21,9 @@ Algorithms can analyze sentiment from [social media](../s/social_media.md), news
 
 ### 6. **Execution Strategies**
 [Execution algorithms](../e/execution_algorithms.md) aim to minimize [market](../m/market.md) impact and optimize [order](../o/order.md) [execution](../e/execution.md) by fractioning a large [order](../o/order.md) into smaller parts. Techniques include:
-   - [Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price (VWAP)
-   - Time [Weighted Average](../w/weighted_average.md) Price (TWAP)
-   - Implementation [Shortfall](../s/shortfall.md)
+ - [Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price (VWAP)
+ - Time [Weighted Average](../w/weighted_average.md) Price (TWAP)
+ - Implementation [Shortfall](../s/shortfall.md)
 
 ## Benefits of Algorithmic Trading
 
@@ -79,26 +79,26 @@ By automating repetitive trading tasks, algotrading reduces the incidence of hum
 
 ### 1. **Citadel Securities**
 Citadel Securities is among the largest algorithmic trading firms globally, employing sophisticated [quantitative models](../q/quantitative_models.md) to execute trades across a [range](../r/range.md) of [asset](../a/asset.md) classes.
-   - [Citadel Securities](https://www.citadelsecurities.com/)
+ - Citadel Securities
 
 ### 2. **Two Sigma**
 Two Sigma utilizes [machine learning](../m/machine_learning.md) and distributed computing for their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), focusing on data-driven decision-making.
-   - [Two Sigma](https://www.twosigma.com/)
+ - Two Sigma
 
 ### 3. **Renaissance Technologies**
 Renowned for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs [quantitative models](../q/quantitative_models.md) based on mathematical and statistical methods for [market](../m/market.md) prediction and trading.
-   - [Renaissance Technologies](https://www.rentec.com/)
+ - Renaissance Technologies
 
 ### 4. **Jane Street**
 Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) with a focus on using innovative technology and [quantitative analysis](../q/quantitative_analysis.md) for trading in a [wide variety](../w/wide_variety.md) of financial products.
-   - [Jane Street](https://www.janestreet.com/)
+ - Jane Street
 
 ### 5. **DRW Trading**
 DRW leverages a blend of quantitative and [discretionary trading strategies](../d/discretionary_trading_strategies.md), focusing heavily on technology and research to maintain competitiveness in the [market](../m/market.md).
-   - [DRW Trading](https://www.drw.com/)
+ - DRW Trading
 
 ## Conclusion
 
-Algorithmic trading has revolutionized the [financial markets](../f/financial_market.md) by leveraging advanced computational techniques to enhance trading [efficiency](../e/efficiency.md), accuracy, and [market](../m/market.md) [liquidity](../l/liquidity.md). However, it also presents challenges and risks that necessitate [robust](../r/robust.md) regulatory oversight and continuous model validation. As technology evolves, the landscape of algorithmic trading continues to expand, [offering](../o/offering.md) new opportunities and challenges for [market](../m/market.md) participants. 
+Algorithmic trading has revolutionized the [financial markets](../f/financial_market.md) by leveraging advanced computational techniques to enhance trading [efficiency](../e/efficiency.md), accuracy, and [market](../m/market.md) [liquidity](../l/liquidity.md). However, it also presents challenges and risks that necessitate [robust](../r/robust.md) regulatory oversight and continuous model validation. As technology evolves, the landscape of algorithmic trading continues to expand, [offering](../o/offering.md) new opportunities and challenges for [market](../m/market.md) participants.
 
 Addressing the pitfalls while leveraging the benefits [will](../w/will.md) be critical in shaping the future of global [financial markets](../f/financial_market.md), enabling a more efficient, transparent, and fair [trading environment](../t/trading_environment.md).

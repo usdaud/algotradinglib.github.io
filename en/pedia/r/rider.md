@@ -1,6 +1,6 @@
 # Rider
 
-Rider, predominantly known as JetBrains Rider, is an integrated development environment (IDE) developed by JetBrains specifically for .NET development. Rider is known for its comprehensive suite of tools, high performance, and extensive support for [multiple](../m/multiple.md) programming languages which makes it a versatile and critical tool for software developers.
+Rider, predominantly known as JetBrains Rider, is an integrated development environment (IDE) developed by JetBrains specifically for.NET development. Rider is known for its comprehensive suite of tools, high performance, and extensive support for [multiple](../m/multiple.md) programming languages which makes it a versatile and critical tool for software developers.
 
 ## Overview
 
@@ -10,7 +10,7 @@ JetBrains Rider combines the best of IntelliJ IDEA and ReSharper, providing deve
 
 ### Multi-Language Support
 
-Rider provides support for a wide [range](../r/range.md) of programming languages, making it suitable for a multitude of development projects. It primarily focuses on .NET but also supports JavaScript, TypeScript, HTML, CSS, XML, and more.
+Rider provides support for a wide [range](../r/range.md) of programming languages, making it suitable for a multitude of development projects. It primarily focuses on.NET but also supports JavaScript, TypeScript, HTML, CSS, XML, and more.
 
 ### Cross-Platform
 
@@ -30,7 +30,7 @@ Built-in support for unit testing in Rider allows developers to write, run, and 
 
 ### Debugging
 
-Rider provides a powerful debugging experience, with advanced capabilities like expression evaluation, variable inspection, and watch windows. The debugger supports .NET core, Mono, and Unity, making it versatile for various .NET applications.
+Rider provides a powerful debugging experience, with advanced capabilities like expression evaluation, variable inspection, and watch windows. The debugger supports.NET core, Mono, and Unity, making it versatile for various.NET applications.
 
 ### Database Tools
 
@@ -56,7 +56,7 @@ One of the strong points of Rider is its performance. Despite its comprehensive 
 
 ### Installation
 
-Rider can be installed from the JetBrains website. [Download Rider](https://www.jetbrains.com/rider/download/)
+Rider can be installed from the JetBrains online platform. Download Rider
 
 ### Project Setup
 
@@ -76,4 +76,4 @@ Rider streamlines the deployment process with integrated tools for packaging and
 
 ## Conclusion
 
-JetBrains Rider stands out as a premier IDE for .NET development due to its extensive feature set, performance, and cross-platform capabilities. It combines the power of ReSharper and the flexibility of IntelliJ IDEA, providing developers with a [robust](../r/robust.md) and efficient development environment. With support for [multiple](../m/multiple.md) languages, advanced debugging tools, seamless version control integration, and extensive customization [options](../o/options.md), Rider is an invaluable tool for modern software development.
+JetBrains Rider stands out as a premier IDE for.NET development due to its extensive feature set, performance, and cross-platform capabilities. It combines the power of ReSharper and the flexibility of IntelliJ IDEA, providing developers with a [robust](../r/robust.md) and efficient development environment. With support for [multiple](../m/multiple.md) languages, advanced debugging tools, seamless version control integration, and extensive customization [options](../o/options.md), Rider is an invaluable tool for modern software development.

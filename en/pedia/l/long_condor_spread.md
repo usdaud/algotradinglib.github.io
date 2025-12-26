@@ -66,11 +66,11 @@ Implied [volatility](../v/volatility.md) has a vital role in setting up a Long C
 
 ### Transaction Costs
 
-As with any multi-[leg](../l/leg.md) [options](../o/options.md) strategy, [transaction costs](../t/transaction_costs.md) can significantly affect the overall profitability of the [trade](../t/trade.md). Modern trading platforms and brokers, such as [Interactive Brokers](https://www.interactivebrokers.com) or [TradeStation](https://www.tradestation.com), [offer](../o/offer.md) tools and lower [commission](../c/commission.md) rates to manage [spreads](../s/spreads.md) efficiently.
+As with any multi-[leg](../l/leg.md) [options](../o/options.md) strategy, [transaction costs](../t/transaction_costs.md) can significantly affect the overall profitability of the [trade](../t/trade.md). Modern trading platforms and brokers, such as Interactive Brokers or TradeStation, [offer](../o/offer.md) tools and lower [commission](../c/commission.md) rates to manage [spreads](../s/spreads.md) efficiently.
 
 ## Examples of Usage in the Real Trading World
 
-High [market](../m/market.md) participants like [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) desks use variations of condor [spreads](../s/spreads.md) to manage their exposure and [capitalize](../c/capitalize.md) on their specific [market](../m/market.md) outlook. Tools like those provided by [ThinkOrSwim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html) [offer](../o/offer.md) traders the ability to analyze and implement complex spread strategies, including Long Condor [Spreads](../s/spreads.md).
+High [market](../m/market.md) participants like [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) desks use variations of condor [spreads](../s/spreads.md) to manage their exposure and [capitalize](../c/capitalize.md) on their specific [market](../m/market.md) outlook. Tools like those provided by ThinkOrSwim by TD Ameritrade [offer](../o/offer.md) traders the ability to analyze and implement complex spread strategies, including Long Condor [Spreads](../s/spreads.md).
 
 ## Adjusting the Long Condor Spread
 

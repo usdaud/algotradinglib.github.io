@@ -4,7 +4,7 @@ The Muscat Securities [Market](../m/market.md) (MSM), established in 1988, is th
 
 ## Introduction to MSM
 
-As Oman's premier securities [exchange](../e/exchange.md), MSM lists a wide [range](../r/range.md) of companies, predominantly from the regional [economy](../e/economy.md). Its inception served the need to create a structured environment for securities trading, enhancing [market efficiency](../m/market_efficiency.md), [transparency](../t/transparency.md), and [investor](../i/investor.md) protection. The MSM adheres to strict regulations and operates under the supervision of the [Capital](../c/capital.md) [Market](../m/market.md) Authority (CMA) of Oman. 
+As Oman's premier securities [exchange](../e/exchange.md), MSM lists a wide [range](../r/range.md) of companies, predominantly from the regional [economy](../e/economy.md). Its inception served the need to create a structured environment for securities trading, enhancing [market efficiency](../m/market_efficiency.md), [transparency](../t/transparency.md), and [investor](../i/investor.md) protection. The MSM adheres to strict regulations and operates under the supervision of the [Capital](../c/capital.md) [Market](../m/market.md) Authority (CMA) of Oman.
 
 ## Structure and Divisions
 
@@ -82,9 +82,9 @@ Over the recent years, MSM has shown steady growth, reflecting the increasing [i
 
 Prominent companies [listed](../l/listed.md) on MSM include:
 
-- **[Bank](../b/bank.md) Muscat:** One of the largest banks in Oman, [offering](../o/offering.md) a [range](../r/range.md) of banking and financial services. [Website](https://www.bankmuscat.com)
-- **Oman Telecommunications Company (Omantel):** Leading telecommunications service provider in Oman. [Website](https://www.omantel.om)
-- **Raysut Cement Company:** Major cement producer in the region. [Website](http://raysutcement.om)
+- **[Bank](../b/bank.md) Muscat:** One of the largest banks in Oman, [offering](../o/offering.md) a [range](../r/range.md)
+- **Oman Telecommunications Company (Omantel):**
+- **Raysut Cement Company:**
 
 ## Investor Services
 
@@ -106,4 +106,4 @@ The Muscat Securities [Market](../m/market.md) is poised for further growth, dri
 
 The Muscat Securities [Market](../m/market.md) stands as a cornerstone of the Omani [financial system](../f/financial_system.md), promoting [economic growth](../e/economic_growth.md) and development through a well-regulated and efficient securities marketplace. With ongoing improvements and a commitment to [investor](../i/investor.md) protection, MSM remains a vital component for investors and companies seeking [capital](../c/capital.md) and growth opportunities.
 
-Visit the official [Muscat Securities Market](https://msm.gov.om) for more information.
+Visit the official Muscat Securities Market for more information.

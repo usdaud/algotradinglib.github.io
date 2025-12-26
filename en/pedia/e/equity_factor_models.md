@@ -93,19 +93,19 @@ Several companies and financial institutions specialize in the development and a
 
 ### MSCI Inc.
 
-[MSCI Inc.](https://www.msci.com/) offers a [range](../r/range.md) of [factor models](../f/factor_models.md), including their widely used Barra [factor models](../f/factor_models.md). These models are instrumental in portfolio construction, [risk management](../r/risk_management.md), and [performance attribution](../p/performance_attribution.md).
+MSCI Inc. offers a [range](../r/range.md) of [factor models](../f/factor_models.md), including their widely used Barra [factor models](../f/factor_models.md). These models are instrumental in portfolio construction, [risk management](../r/risk_management.md), and [performance attribution](../p/performance_attribution.md).
 
 ### APT (Advanced Portfolio Technologies)
 
-[APT](https://www.apt.com/) provides advanced multi-[factor models](../f/factor_models.md) and analytics to manage and optimize investment portfolios. Their models are used by [asset](../a/asset.md) managers and institutional investors globally.
+APT provides advanced multi-[factor models](../f/factor_models.md) and analytics to manage and optimize investment portfolios. Their models are used by [asset](../a/asset.md) managers and institutional investors globally.
 
 ### Bloomberg
 
-[Bloomberg](https://www.bloomberg.com/) offers a suite of multi-[factor](../f/factor.md) [risk models](../r/risk_models_in_trading.md) through their [Bloomberg](../b/bloomberg.md) Terminal. These models are used for [risk](../r/risk.md) assessment, [portfolio analysis](../p/portfolio_analysis.md), and [investment strategy](../i/investment_strategy.md) development.
+Bloomberg offers a suite of multi-[factor](../f/factor.md) [risk models](../r/risk_models_in_trading.md) through their [Bloomberg](../b/bloomberg.md) Terminal. These models are used for [risk](../r/risk.md) assessment, [portfolio analysis](../p/portfolio_analysis.md), and [investment strategy](../i/investment_strategy.md) development.
 
 ### Morningstar
 
-[Morningstar](https://www.morningstar.com/) provides [factor](../f/factor.md)-based analytics and research tools, helping investors better understand the factors driving portfolio returns and risks.
+Morningstar provides [factor](../f/factor.md)-based analytics and research tools, helping investors better understand the factors driving portfolio returns and risks.
 
 ## Conclusion
 

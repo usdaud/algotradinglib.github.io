@@ -71,5 +71,4 @@ Although the [money](../m/money.md) [market](../m/market.md) is considered safe,
 
 The [money](../m/money.md) [market](../m/market.md) is a critical component of the global [financial system](../f/financial_system.md), providing a platform for short-term borrowing and lending, facilitating [liquidity](../l/liquidity.md) management, and helping in the implementation of monetary policies. Its instruments, such as Treasury bills, [commercial paper](../c/commercial_paper.md), and certificates of [deposit](../d/deposit.md), [offer](../o/offer.md) relatively safe and [liquid](../l/liquid.md) investment [options](../o/options.md). While it carries lower [risk](../r/risk.md) compared to long-term markets, it is not without its own set of risks, including [credit](../c/credit.md) and [interest rate](../i/interest_rate.md) risks. Nonetheless, it remains a vital mechanism for governments, corporations, and financial institutions to manage their short-term funding needs efficiently.
 
-For more information, you can visit the [Investment Company](../i/investment_company.md) Institute's page on [Money Market Funds](https://www.ici.org/research/stats).
-
+For more information, see [Investment Company](../i/investment_company.md) Institute materials on Money Market Funds.

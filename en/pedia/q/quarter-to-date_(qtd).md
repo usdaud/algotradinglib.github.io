@@ -10,7 +10,7 @@ Fiscal quarters divide the financial year into four equal parts, each lasting th
 - **Q2:** April 1 - June 30
 - **Q3:** July 1 - September 30
 - **Q4:** October 1 - December 31
-  
+
 Some companies follow a fiscal year that begins in a month other than January, resulting in different quarterly timeframes.
 
 ## Importance of QTD Metrics
@@ -30,19 +30,19 @@ Calculating QTD performance involves summing up relevant data from the beginning
 
 Suppose a company's Q2 [revenue](../r/revenue.md) data is as follows:
 
-| Date       | [Revenue](../r/revenue.md) ($) |
+| Date | [Revenue](../r/revenue.md) ($) |
 |------------|--------------|
-| April 1    | 10,000       |
-| April 2    | 12,000       |
-| April 3    | 8,000        |
-| ...        | ...          |
-| June 29    | 15,000       |
-| June 30    | 20,000       |
+| April 1 | 10,000 |
+| April 2 | 12,000 |
+| April 3 | 8,000 |
+|... |... |
+| June 29 | 15,000 |
+| June 30 | 20,000 |
 
 To calculate QTD [revenue](../r/revenue.md) for data available up to June 30:
 
 \[
-QTD \ [Revenue](../r/revenue.md) = 10,000 + 12,000 + 8,000 + ... + 15,000 + 20,000
+QTD \ [Revenue](../r/revenue.md) = 10,000 + 12,000 + 8,000 +... + 15,000 + 20,000
 \]
 
 Summing up all [revenue](../r/revenue.md) entries from April 1 to June 30 gives the QTD [revenue](../r/revenue.md).
@@ -54,7 +54,7 @@ QTD is just one of several time-based metrics used for performance analysis. Oth
 - **Year-to-Date (YTD):** Measures performance from the beginning of the fiscal year to the present date.
 - **Month-to-Date (MTD):** Measures performance from the start of the current month to the present date.
 - **Week-to-Date (WTD):** Measures performance from the first day of the current week to the present date.
-  
+
 Each of these metrics provides a different perspective on financial and operational performance, helping organizations tailor their strategies based on the timeframe.
 
 ## Applications in Financial Analysis
@@ -85,7 +85,7 @@ Automation in financial reporting minimizes errors and speeds up the process. To
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), QTD [performance metrics](../p/performance_metrics.md) can be integrated into [trading algorithms](../t/trading_algorithms.md) to adjust strategies based on short-term performance. Since these algorithms react to live [market](../m/market.md) data, incorporating QTD metrics can help in making more precise and profitable trades.
+In [algorithmic trading](../a/algorithmic_trading.md), QTD [performance metrics](../p/performance_metrics.md) can be integrated into [trading algorithms](../t/trading_algorithms.md) to adjust strategies based on short-term performance. Since these algorithms react to live [market](../m/market.md) data, incorporating QTD metrics can help in making more precise and profitable trades.
 
 ## Advanced QTD Insights through Data Analytics
 
@@ -128,4 +128,4 @@ Small to medium-sized enterprises (SMEs) may lack the resources to implement adv
 
 Quarter-to-Date (QTD) is a critical metric for businesses and investors alike, [offering](../o/offering.md) a snapshot of performance over the current fiscal quarter. Through advanced financial technologies and [data analytics](../d/data_analytics.md), QTD insights can be leveraged to make informed, timely decisions. By understanding and effectively utilizing QTD metrics, organizations can improve [operational efficiency](../o/operational_efficiency_in_trading.md), maximize profits, and stay agile in a dynamic [market](../m/market.md) landscape.
 
-Companies interested in exploring [financial performance](../f/financial_performance.md) solutions can visit [SAP's website](https://www.sap.com/), [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/), or [Tableau](https://www.tableau.com/).
+Companies interested in exploring [financial performance](../f/financial_performance.md) solutions can

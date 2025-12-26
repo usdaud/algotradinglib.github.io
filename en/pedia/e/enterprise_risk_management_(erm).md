@@ -63,13 +63,13 @@ A [risk](../r/risk.md) register is a documented record of identified risks, thei
 ## ERM in Practice: Case Studies
 
 ### 1. **IBM**
-IBM has implemented a [robust](../r/robust.md) ERM program that integrates [risk management](../r/risk_management.md) with strategic planning and [business](../b/business.md) operations. Their approach involves regular [risk](../r/risk.md) assessments, continuous monitoring, and a strong governance framework led by a dedicated [risk management](../r/risk_management.md) team. For more details, visit [IBM's risk management page](https://www.ibm.com/).
+IBM has implemented a [robust](../r/robust.md) ERM program that integrates [risk management](../r/risk_management.md) with strategic planning and [business](../b/business.md) operations. Their approach involves regular [risk](../r/risk.md) assessments, continuous monitoring, and a strong governance framework led by a dedicated [risk management](../r/risk_management.md) team.
 
 ### 2. **General Electric (GE)**
-GE employs ERM to manage a wide [range](../r/range.md) of risks across its diverse [business](../b/business.md) units. Their process includes detailed [risk](../r/risk.md) assessments, [scenario analysis](../s/scenario_analysis.md), and centralized [risk](../r/risk.md) reporting. GE's ERM practices are designed to support sustainable growth and [operational efficiency](../o/operational_efficiency_in_trading.md). For more information, visit [GE's official site](https://www.ge.com/).
+GE employs ERM to manage a wide [range](../r/range.md) of risks across its diverse [business](../b/business.md) units. Their process includes detailed [risk](../r/risk.md) assessments, [scenario analysis](../s/scenario_analysis.md), and centralized [risk](../r/risk.md) reporting. GE's ERM practices are designed to support sustainable growth and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### 3. **Deloitte**
-Deloitte helps clients design and implement ERM frameworks tailored to their specific needs. Their comprehensive services include [risk](../r/risk.md) assessments, development of [risk](../r/risk.md) response strategies, and integration of ERM with [corporate governance](../c/corporate_governance.md). To learn more about Deloitte's ERM services, visit [Deloitte's ERM page](https://www2.deloitte.com/).
+Deloitte helps clients design and implement ERM frameworks tailored to their specific needs. Their comprehensive services include [risk](../r/risk.md) assessments, development of [risk](../r/risk.md) response strategies, and integration of ERM with [corporate governance](../c/corporate_governance.md). To learn more about Deloitte's ERM services,
 
 ## Challenges in Implementing ERM
 

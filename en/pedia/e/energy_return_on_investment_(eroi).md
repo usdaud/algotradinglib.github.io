@@ -27,28 +27,28 @@ Different energy sources have varying EROIs, and understanding these differences
 ### Fossil Fuels
 
 1. **Oil**
-   - **Conventional Oil:** Conventional oil extraction typically has a higher EROI compared to unconventional methods. Historical EROI values for conventional oil have been around 10:1 to 30:1, but newer finds in more challenging environments tend to have lower EROIs.
-   - **Shale Oil/Tar Sands:** These sources have significantly lower EROIs, often less than 5:1, due to the high energy costs involved in extraction and processing.
+ - **Conventional Oil:** Conventional oil extraction typically has a higher EROI compared to unconventional methods. Historical EROI values for conventional oil have been around 10:1 to 30:1, but newer finds in more challenging environments tend to have lower EROIs.
+ - **Shale Oil/Tar Sands:** These sources have significantly lower EROIs, often less than 5:1, due to the high energy costs involved in extraction and processing.
 
 2. **Natural Gas**
-   - Conventional natural gas has a relatively high EROI, often around 10:1 to 20:1. However, EROIs for unconventional sources like shale gas are lower due to the energy-intensive extraction process (e.g., [hydraulic fracturing](../h/hydraulic_fracturing.md)).
+ - Conventional natural gas has a relatively high EROI, often around 10:1 to 20:1. However, EROIs for unconventional sources like shale gas are lower due to the energy-intensive extraction process (e.g., [hydraulic fracturing](../h/hydraulic_fracturing.md)).
 
 3. **Coal**
-   - Coal generally has a high EROI, with values often cited around 50:1. The high energy density of coal and relatively low extraction costs contribute to its high EROI.
+ - Coal generally has a high EROI, with values often cited around 50:1. The high energy density of coal and relatively low extraction costs contribute to its high EROI.
 
 ### Renewable Energy
 
 1. **Solar Photovoltaic (PV)**
-   - Early solar PV technology had low EROIs, sometimes below 5:1, due to the high energy costs of producing silicon wafers and panels. Advances in technology and [manufacturing](../m/manufacturing.md) processes have improved these figures, and modern solar PV systems may exhibit EROIs around 10:1 to 20:1.
+ - Early solar PV technology had low EROIs, sometimes below 5:1, due to the high energy costs of producing silicon wafers and panels. Advances in technology and [manufacturing](../m/manufacturing.md) processes have improved these figures, and modern solar PV systems may exhibit EROIs around 10:1 to 20:1.
 
 2. **Wind Power**
-   - Wind turbines typically have a high EROI, ranging from 20:1 to 80:1. The [variability](../v/variability.md) in these figures is influenced by factors such as turbine design, location, and the quality of the wind resource.
+ - Wind turbines typically have a high EROI, ranging from 20:1 to 80:1. The [variability](../v/variability.md) in these figures is influenced by factors such as turbine design, location, and the quality of the wind resource.
 
 3. **Hydropower**
-   - Hydroelectric dams generally exhibit very high EROIs, often exceeding 100:1, due to the long operational lifespan of dams and the relatively low energy inputs required after construction.
+ - Hydroelectric dams generally exhibit very high EROIs, often exceeding 100:1, due to the long operational lifespan of dams and the relatively low energy inputs required after construction.
 
 4. **Biofuels**
-   - Biofuels like ethanol from corn or sugarcane have lower EROIs compared to fossil fuels and other renewables. Corn ethanol, for instance, often has an EROI of around 1:1 to 1.5:1, while sugarcane ethanol can have higher values, around 5:1.
+ - Biofuels like ethanol from corn or sugarcane have lower EROIs compared to fossil fuels and other renewables. Corn ethanol, for instance, often has an EROI of around 1:1 to 1.5:1, while sugarcane ethanol can have higher values, around 5:1.
 
 ### Nuclear Energy
 

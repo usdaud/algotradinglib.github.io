@@ -8,7 +8,7 @@ Organic growth refers to the [expansion](../e/expansion.md) of a [business](../b
 Organic growth is essentially the increase in a company's sales, revenues, and profits stemming from its own internal processes and resources. This could involve expanding product lines, increasing [market share](../m/market_share.md), improving [customer service](../c/customer_service.md), or optimizing operational efficiencies.
 
 ### Measurement
-Organic growth is usually measured by comparing current period outcomes to previous period outcomes, eliminating any additional revenues from acquisitions, divestitures, or other external activities. For instance, a company might report a 10% increase in [revenue](../r/revenue.md), where 5% comes from a recent [acquisition](../a/acquisition.md) and 5% from organic growth. 
+Organic growth is usually measured by comparing current period outcomes to previous period outcomes, eliminating any additional revenues from acquisitions, divestitures, or other external activities. For instance, a company might report a 10% increase in [revenue](../r/revenue.md), where 5% comes from a recent [acquisition](../a/acquisition.md) and 5% from organic growth.
 
 ### Contrast with Inorganic Growth
 [Inorganic growth](../i/inorganic_growth.md), on the other hand, occurs through mergers, acquisitions, and partnerships. This type of growth is often more immediate but can come with integration challenges and potential risks. Organic growth tends to be slower but is often more sustainable in the [long run](../l/long_run.md).
@@ -53,7 +53,7 @@ A high NPS suggests strong [customer](../c/customer.md) satisfaction and loyalty
 Economies that are growing tend to [offer](../o/offer.md) more opportunities for organic growth. Higher disposable incomes can lead to higher consumption of products and services.
 
 ### Competitive Landscape
-A highly competitive [market](../m/market.md) can constrain organic growth unless the company can differentiate itself effectively. 
+A highly competitive [market](../m/market.md) can constrain organic growth unless the company can differentiate itself effectively.
 
 ### Technological Advances
 Keeping up with technological trends can [offer](../o/offer.md) competitive advantages. Companies that adopt new technologies often find more opportunities for organic growth.
@@ -98,4 +98,4 @@ Starbucks’ consistent efforts in enhancing [customer](../c/customer.md) experi
 
 Organic growth remains an essential marker of a company’s health and potential for sustainable long-term success. Investors often favor companies that demonstrate strong organic growth as it typically implies effective management, [robust](../r/robust.md) internal processes, and a solid [market](../m/market.md) position. While organic growth presents certain challenges, its benefits in terms of lower [risk](../r/risk.md) and sustainability make it an attractive growth strategy for companies across various industries.
 
-For more information regarding firms excelling in organic growth, visit [Apple](https://www.apple.com), [Amazon](https://www.amazon.com), and [Starbucks](https://www.starbucks.com).
+For more information regarding firms excelling in organic growth, visit Apple, Amazon, and Starbucks.

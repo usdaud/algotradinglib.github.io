@@ -34,7 +34,7 @@ Significant events such as economic liberalization in the 1990s, the dot-com bub
 
 ## Nifty 50 and Algorithmic Trading
 
-In modern [finance](../f/finance.md), [algorithmic trading](../a/accountability.md), or algo-trading, has seen a meteoric rise due to its [efficiency](../e/efficiency.md) and speed. The Nifty 50, given its [liquidity](../l/liquidity.md) and significance, is a prominent target for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Here’s how:
+In modern [finance](../f/finance.md), [algorithmic trading](../a/algorithmic_trading.md), or algo-trading, has seen a meteoric rise due to its [efficiency](../e/efficiency.md) and speed. The Nifty 50, given its [liquidity](../l/liquidity.md) and significance, is a prominent target for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Here’s how:
 
 1. **[Liquidity](../l/liquidity.md) and [Volume](../v/volume.md)**: Due to its high [liquidity](../l/liquidity.md) and trading [volume](../v/volume.md), the Nifty 50 is an attractive [index](../i/index_instrument.md) for high-frequency trading (HFT) algorithms. HFT strategies, which [capitalize](../c/capitalize.md) on minute price discrepancies, thrive in such environments.
 2. **[Arbitrage Opportunities](../a/arbitrage_opportunities.md)**: Algo-traders often look for [arbitrage opportunities](../a/arbitrage_opportunities.md) between Nifty 50 [futures](../f/futures.md) and cash markets. Given the popularity of the Nifty 50 [futures contracts](../f/futures_contracts.md), there are frequent opportunities for such trades.
@@ -84,14 +84,14 @@ Nifty 50 [options](../o/options.md) provide the buyer the right, but not the obl
 
 Here are a few examples of prominent companies that are part of the Nifty 50 [index](../i/index_instrument.md):
 
-1. **Reliance Industries**: A diversified [conglomerate](../c/conglomerate.md) with interests in petrochemicals, refining, oil & gas exploration, retail, and telecommunications. [Reliance Industries](https://www.ril.com/)
-2. **Tata Consultancy Services (TCS)**: One of the largest IT services companies in the world, [offering](../o/offering.md) IT and [business](../b/business.md) solutions. [TCS](https://www.tcs.com/)
-3. **HDFC [Bank](../b/bank.md)**: A leading [private sector](../p/private_sector.md) [bank](../b/bank.md) providing a wide [range](../r/range.md) of banking and financial services. [HDFC Bank](https://www.hdfcbank.com/)
-4. **Infosys**: A global leader in technology services & consulting. [Infosys](https://www.infosys.com/)
-5. **Hindustan Unilever**: A major FMCG company with a vast portfolio of products in categories like food, beverages, cleaning agents, and personal care. [Hindustan Unilever](https://www.hul.co.in/)
+1. **Reliance Industries**: A diversified [conglomerate](../c/conglomerate.md) with interests in petrochemicals, refining, oil & gas exploration, retail, and telecommunications. Reliance Industries
+2. **Tata Consultancy Services (TCS)**: One of the largest IT services companies in the world, [offering](../o/offering.md) IT and [business](../b/business.md) solutions. TCS
+3. **HDFC [Bank](../b/bank.md)**: A leading [private sector](../p/private_sector.md) [bank](../b/bank.md) providing a wide [range](../r/range.md) of banking and financial services. HDFC Bank
+4. **Infosys**: A global leader in technology services & consulting. Infosys
+5. **Hindustan Unilever**: A major FMCG company with a vast portfolio of products in categories like food, beverages, cleaning agents, and personal care. Hindustan Unilever
 
 ## Conclusion
 
-The Nifty 50 [index](../i/index_instrument.md) is not just a set of 50 [stocks](../s/stock.md) but an essential component of the Indian financial [market](../m/market.md). It serves [multiple](../m/multiple.md) roles, from being a barometer of economic health to providing avenues for sophisticated [trading strategies](../t/trading_strategies.md) like [algorithmic trading](../a/accountability.md). Its diverse composition and rigorous selection ensure that it represents the best of the Indian corporate sector, making it an indispensable tool for investors, traders, and policymakers alike.
+The Nifty 50 [index](../i/index_instrument.md) is not just a set of 50 [stocks](../s/stock.md) but an essential component of the Indian financial [market](../m/market.md). It serves [multiple](../m/multiple.md) roles, from being a barometer of economic health to providing avenues for sophisticated [trading strategies](../t/trading_strategies.md) like [algorithmic trading](../a/algorithmic_trading.md). Its diverse composition and rigorous selection ensure that it represents the best of the Indian corporate sector, making it an indispensable tool for investors, traders, and policymakers alike.
 
 Whether you’re a long-term [investor](../i/investor.md), a [market](../m/market.md) analyst, or an algorithmic [trader](../t/trader.md), understanding the Nifty 50 and its intricacies is fundamental to navigating the Indian equities [market](../m/market.md) successfully.

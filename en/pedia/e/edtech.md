@@ -51,27 +51,27 @@ Mobile learning or m-learning utilizes smartphones and tablets to deliver educat
 ## Coursera
 
 Coursera provides universal access to the world’s best education, partnering with top universities and organizations to [offer](../o/offer.md) courses online. They [offer](../o/offer.md) courses, specializations, and even degrees in a variety of subjects.
-Website: [Coursera](https://www.coursera.org/)
+online platform: Coursera
 
 ## Khan Academy
 
 Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empowers learners to study at their own pace in and outside of the classroom. They cover subjects like math, science, computer programming, history, art history, [economics](../e/economics.md), and more.
-Website: [Khan Academy](https://www.khanacademy.org/)
+online platform: Khan Academy
 
 ## Udacity
 
 Udacity offers an education focused on free courses in programming and [industry](../i/industry.md)-specific technology courses and nanodegrees. Their partnerships with tech giants like Google and IBM ensure they provide pertinent and specialized education.
-Website: [Udacity](https://www.udacity.com/)
+online platform: Udacity
 
 ## Duolingo
 
 Duolingo provides a [freemium](../f/freemium.md) model for language learning through a mobile app. It uses [gamification](../g/gamification.md) to keep users engaged and [offer](../o/offer.md) bite-sized lessons in various languages.
-Website: [Duolingo](https://www.duolingo.com/)
+online platform: Duolingo
 
 ## EdX
 
 EdX is another major player, founded by Harvard and MIT, which offers MOOCs (Massive [Open](../o/open.md) Online Courses). They provide university-level courses in a variety of disciplines to a worldwide audience.
-Website: [EdX](https://www.edx.org/)
+online platform: EdX
 
 # Challenges and Future Trends
 

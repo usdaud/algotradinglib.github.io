@@ -70,7 +70,7 @@ Several tools and software solutions focus on mitigating [cognitive biases](../c
 
 #### Example: QuantConnect
 
-[QuantConnect](../q/quantconnect.md) ([www.quantconnect.com](https://www.quantconnect.com)) is a platform that provides tools for [algorithmic trading](../a/accountability.md) and [quantitative finance](../q/quantitative_finance.md). It includes features for [backtesting](../b/backtesting.md) and live [trading algorithms](../t/trading_algorithms.md). By utilizing extensive historical and real-time data, it helps traders design and test models that can account for and mitigate [anchoring](../a/anchoring.md) bias.
+[QuantConnect](../q/quantconnect.md) ( is a platform that provides tools for [algorithmic trading](../a/accountability.md) and [quantitative finance](../q/quantitative_finance.md). It includes features for [backtesting](../b/backtesting.md) and live [trading algorithms](../t/trading_algorithms.md). By utilizing extensive historical and real-time data, it helps traders design and test models that can account for and mitigate [anchoring](../a/anchoring.md) bias.
 
 ### Conclusion
 

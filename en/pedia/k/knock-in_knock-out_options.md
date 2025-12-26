@@ -4,7 +4,7 @@ Knock-In [Knock-Out options](../k/knock-out_options.md) (KIKO [options](../o/opt
 
 ## Knock-In Options
 
-[Knock-in options](../k/knock-in_options.md) are a type of [barrier option](../b/barrier_option.md) that only becomes active (or "knocks in") when the price of the [underlying asset](../u/underlying_asset.md) reaches a particular barrier level. If the barrier level is never breached, the option expires worthless. [Knock-in options](../k/knock-in_options.md) can be categorized further into two types: 
+[Knock-in options](../k/knock-in_options.md) are a type of [barrier option](../b/barrier_option.md) that only becomes active (or "knocks in") when the price of the [underlying asset](../u/underlying_asset.md) reaches a particular barrier level. If the barrier level is never breached, the option expires worthless. [Knock-in options](../k/knock-in_options.md) can be categorized further into two types:
 
 ### Up-and-In Options
 
@@ -108,14 +108,14 @@ Financial institutions dealing in KIKO [options](../o/options.md) must comply wi
 
 While numerous financial institutions and trading firms deal in KIKO [options](../o/options.md), some notable players include:
 
-- **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com)
-  Goldman Sachs offers various structured products, including KIKO [options](../o/options.md), tailored to meet their clients' [risk management](../r/risk_management.md) and investment needs.
+- **Goldman Sachs**: Goldman Sachs
+ Goldman Sachs offers various structured products, including KIKO [options](../o/options.md), tailored to meet their clients' [risk management](../r/risk_management.md) and investment needs.
 
-- **J.P. Morgan**: [J.P. Morgan](https://www.jpmorgan.com)
-  J.P. Morgan provides a [range](../r/range.md) of [exotic options](../e/exotic_options.md) and structured financial products, among which KIKO [options](../o/options.md) play a significant role in hedging and speculative strategies.
+- **J.P. Morgan**: J.P. Morgan
+ J.P. Morgan provides a [range](../r/range.md) of [exotic options](../e/exotic_options.md) and structured financial products, among which KIKO [options](../o/options.md) play a significant role in hedging and speculative strategies.
 
-- **Barclays**: [Barclays](https://www.barclays.com)
-  Barclays engages in advanced [derivative](../d/derivative.md) solutions, including the issuance and trading of KIKO [options](../o/options.md), to facilitate [risk management](../r/risk_management.md) and bespoke investment strategies for clients.
+- **Barclays**: Barclays
+ Barclays engages in advanced [derivative](../d/derivative.md) solutions, including the issuance and trading of KIKO [options](../o/options.md), to facilitate [risk management](../r/risk_management.md) and bespoke investment strategies for clients.
 
 ## Conclusion
 

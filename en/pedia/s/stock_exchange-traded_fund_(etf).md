@@ -44,23 +44,23 @@ This process helps to maintain the price of the ETF close to the net [asset](../
 
 1. **SPDR S&P 500 ETF (SPY)**: Tracks the S&P 500 [index](../i/index_instrument.md), providing exposure to 500 of the largest companies in the U.S.
 
-   [SPDR S&P 500 ETF (SPY)](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-sp-500-etf-trust-spy)
+ SPDR S&P 500 ETF (SPY)
 
 2. **[iShares](../i/ishares.md) MSCI Emerging Markets ETF (EEM)**: Tracks the MSCI Emerging Markets [index](../i/index_instrument.md), providing exposure to emerging [market](../m/market.md) economies.
 
-   [iShares MSCI Emerging Markets ETF (EEM)](https://www.ishares.com/us/products/239637/ishares-msci-emerging-markets-etf)
+ iShares MSCI Emerging Markets ETF (EEM)
 
 3. **Invesco QQQ ETF (QQQ)**: Tracks the [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md), consisting of 100 of the largest non-financial companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [stock market](../s/stock_market.md).
 
-   [Invesco QQQ ETF (QQQ)](https://www.invesco.com/qqq-etf/)
+ Invesco QQQ ETF (QQQ)
 
 4. **Vanguard Total [Stock Market](../s/stock_market.md) ETF (VTI)**: Tracks the CRSP US Total [Market index](../m/market_index.md), providing exposure to the entire U.S. [stock market](../s/stock_market.md).
 
-   [Vanguard Total Stock Market ETF (VTI)](https://investor.vanguard.com/etf/profile/VTI)
+ Vanguard Total Stock Market ETF (VTI)
 
 5. **[iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md) (GOVT)**: Tracks an [index](../i/index_instrument.md) of [U.S. Treasury](../u/u.s._treasury.md) bonds, providing exposure to the U.S. [government bond](../g/government_bond.md) [market](../m/market.md).
 
-   [iShares U.S. Treasury Bond ETF (GOVT)](https://www.ishares.com/us/products/239458/ishares-us-treasury-bond-etf)
+ iShares U.S. Treasury Bond ETF (GOVT)
 
 ## Risks of ETFs
 

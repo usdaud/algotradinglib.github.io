@@ -18,9 +18,9 @@ The regulation places limitations on the amount of [credit](../c/credit.md) that
 The primary objectives of Regulation U are:
 
 1. **Prevent Excessive [Leverage](../l/leverage.md)**: By limiting the amount of [credit](../c/credit.md) that can be extended for the purchase of securities, the regulation aims to prevent [market](../m/market.md) participants from taking on excessive [debt](../d/debt.md), which can lead to financial instability.
-  
+
 2. **Maintain [Market](../m/market.md) Integrity**: Ensuring that [market](../m/market.md) participants cannot borrow excessively to inflate stock prices contributes to a more stable and fair [market](../m/market.md).
-  
+
 3. **Protect Financial Institutions**: By regulating the amount of [credit](../c/credit.md) provided, banks are less exposed to the risks associated with volatile securities markets.
 
 ## Key Provisions of Regulation U
@@ -115,8 +115,8 @@ Regulation U creates a level playing field by ensuring that all institutions adh
 
 For those seeking additional information on Regulation U, the [Board of Governors](../b/board_of_governors.md) of the Federal Reserve System provides extensive resources, including the full text of Regulation U and instructional materials:
 
-* [Board of Governors of the Federal Reserve System](https://www.federalreserve.gov/supervisionreg/regu.htm)
-* [Federal Reserve Form U-1](https://www.federalreserve.gov/apps/reportforms/default.aspx)
-* [Federal Reserve Bank Compliance Guide](https://www.federalreserve.gov/publications/compliance-guide.htm)
+* Board of Governors of the Federal Reserve System
+* Federal Reserve Form U-1
+* Federal Reserve Bank Compliance Guide
 
 Understanding and complying with Regulation U is crucial for financial institutions engaged in extending [credit](../c/credit.md) for the purpose of purchasing or carrying [margin](../m/margin.md) stock. By adhering to these regulations, institutions contribute to a more stable and fair financial marketplace.

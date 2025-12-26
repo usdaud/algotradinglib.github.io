@@ -75,17 +75,17 @@ Despite criticisms, the investment [multiplier](../m/multiplier.md) is relevant 
 
 Investment firms often analyze the [multiplier effect](../m/multiplier_effect.md) when devising strategies for their portfolios. Investments in sectors deemed to have high [multiplier](../m/multiplier.md) effects are often prioritized, as these sectors provide [robust](../r/robust.md) growth avenues. For instance, sustainable investments or green energy projects are considered [lucrative](../l/lucrative.md) for their high [multiplier effect](../m/multiplier_effect.md), given the ancillary industries and jobs they create.
 
-**BlackRock**: [BlackRock](https://www.blackrock.com) has been known to incorporate macroeconomic understanding, including the [multiplier effect](../m/multiplier_effect.md), in its investment strategies.
+**BlackRock**: BlackRock has been known to incorporate macroeconomic understanding, including the [multiplier effect](../m/multiplier_effect.md), in its investment strategies.
 
-**Vanguard**: [Vanguard](https://www.vanguard.com) also integrates economic multipliers in their [fund](../f/fund.md) management approach, ensuring diverse, growth-centric portfolios.
+**Vanguard**: Vanguard also integrates economic multipliers in their [fund](../f/fund.md) management approach, ensuring diverse, growth-centric portfolios.
 
 ### Public Policy and Economic Recovery
 
 Governments utilize the concept of Investment [Multiplier](../m/multiplier.md) in crafting public policies, especially during economic downturns. Evidence-based policy driven by economic models highlighting [multiplier](../m/multiplier.md) effects enables targeted investments, maximizing societal and economic benefits.
 
-**U.S. Federal Reserve**: [U.S. Federal Reserve](https://www.federalreserve.gov) frequently examines [multiplier](../m/multiplier.md) effects in their [monetary policy](../m/monetary_policy.md) reports.
+**U.S. Federal Reserve**: U.S. Federal Reserve frequently examines [multiplier](../m/multiplier.md) effects in their [monetary policy](../m/monetary_policy.md) reports.
 
-**European Central [Bank](../b/bank.md) (ECB)**: [European Central Bank](https://www.ecb.europa.eu) leverages [multiplier](../m/multiplier.md)-related insights to guide their fiscal and monetary interventions in the [Eurozone](../e/eurozone.md) economies.
+**European Central [Bank](../b/bank.md) (ECB)**: European Central Bank leverages [multiplier](../m/multiplier.md)-related insights to guide their fiscal and monetary interventions in the [Eurozone](../e/eurozone.md) economies.
 
 ## Conclusion
 

@@ -7,8 +7,8 @@ The VIE structure emerged prominently due to the evolution of [accounting](../a/
 ## Key Components of VIEs
 
 1. **Primary [Beneficiary](../b/beneficiary.md)**: This is an entity (typically a company) that consolidates the VIE because it has both:
-   - The power to direct the activities that most significantly impact the VIE's economic performance, and 
-   - The obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant.
+ - The power to direct the activities that most significantly impact the VIE's economic performance, and
+ - The obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant.
 
 2. **Variable Interests**: These refer to financial interests or contractual arrangements that absorb portions of the VIE's expected losses or receive portions of the VIE's residual returns. They can include [equity](../e/equity.md) investments, loans, guarantees, or other forms of financial arrangements.
 
@@ -20,7 +20,7 @@ Understanding these components is key for dissecting how VIEs operate in various
 
 ### Regulatory and Ownership Circumvention
 
-Companies, particularly those in the technology, education, or financial industries in countries like China, use VIEs to circumvent strict regulatory environments that prohibit or limit foreign ownership of certain types of businesses. A classic example is that of Alibaba Group Holding Limited. Due to Chinese regulations against foreign ownership in sectors like the internet [industry](../i/industry.md), Alibaba operates partially through VIE structures to maintain control over its [underlying](../u/underlying.md) businesses. The structure enables Alibaba to attract foreign [capital](../c/capital.md) while complying with local laws. More information can be found on Alibaba’s [official website](https://www.alibabagroup.com).
+Companies, particularly those in the technology, education, or financial industries in countries like China, use VIEs to circumvent strict regulatory environments that prohibit or limit foreign ownership of certain types of businesses. A classic example is that of Alibaba Group Holding Limited. Due to Chinese regulations against foreign ownership in sectors like the internet [industry](../i/industry.md), Alibaba operates partially through VIE structures to maintain control over its [underlying](../u/underlying.md) businesses. The structure enables Alibaba to attract foreign [capital](../c/capital.md) while complying with local laws.
 
 ### Financial Statement Consolidation
 
@@ -73,4 +73,4 @@ Investors dealing with corporations utilizing VIE structures also face specific 
 
 Variable [Interest](../i/interest.md) Entities (VIEs) play a crucial role in the modern financial and regulatory landscape, [offering](../o/offering.md) substantial strategic advantages for multinational corporations. However, with these benefits come intricate [accounting](../a/accounting.md) guidelines, legal [obligations](../o/obligation.md), and ethical considerations that companies must navigate carefully. As financial landscapes evolve, ongoing scrutiny and regulatory adjustments [will](../w/will.md) likely continue, shaping the utilization and administration of VIEs in corporate strategies.
 
-For further reading and a deeper dive into the complexities of VIEs, consider exploring resources from the [Financial Accounting](../f/financial_accounting.md) Standards Board (**FASB**)[https://www.fasb.org/] or consultancy firms with expertise in tax and corporate structuring.
+For further reading and a deeper dive into the complexities of VIEs, consider exploring resources from the [Financial Accounting](../f/financial_accounting.md) Standards Board (**FASB**)[ or consultancy firms with expertise in tax and corporate structuring.

@@ -27,7 +27,7 @@ Expected recovery rates in the event of [default](../d/default.md) are calculate
 
 Based on the recovery rates and structural hierarchy, the base [credit rating](../c/credit_rating.md) of the [issuer](../i/issuer.md) is adjusted. The most secured [debt](../d/debt.md) often retains or receives a [rating](../r/rating.md) closest to the [issuer](../i/issuer.md)’s base [rating](../r/rating.md). In contrast, subordinated or [unsecured debt](../u/unsecured_debt.md) is typically notched down, reflecting their higher [risk](../r/risk.md).
 
-## Examples of Notching 
+## Examples of Notching
 
 Consider a hypothetical [corporation](../c/corporation.md), XYZ Corp, with an [issuer](../i/issuer.md) [credit rating](../c/credit_rating.md) of 'A'. XYZ Corp may have [multiple](../m/multiple.md) [debt](../d/debt.md) issues, such as:
 
@@ -95,8 +95,8 @@ Notching remains a fundamental aspect of [credit rating](../c/credit_rating.md),
 
 For further details and updates on how [rating](../r/rating.md) agencies implement notching, you may refer to their official methodologies and publications:
 
-- [Moody's Investors Service](https://www.moodys.com)
-- [S&P Global Ratings](https://www.spglobal.com)
-- [Fitch Ratings](https://www.fitchratings.com)
+- Moody's Investors Service
+- S&P Global Ratings
+- Fitch Ratings
 
 These resources [offer](../o/offer.md) expansive insights into their specific notching practices, criteria, and ongoing developments in the field.

@@ -91,18 +91,18 @@ Focusing solely on [yield](../y/yield.md) can be misleading. High yields may be 
 Several companies are popular among [dividend](../d/dividend.md)-focused investors for their consistent [dividend](../d/dividend.md) payments and attractive Forward [Dividend](../d/dividend.md) Yields. Below are examples of such companies:
 
 1. **AT&T Inc.** (NYSE: T)
-   - AT&T has a history of providing substantial dividends, making it a favorite among [income](../i/income.md) investors.
+ - AT&T has a history of providing substantial dividends, making it a favorite among [income](../i/income.md) investors.
 
 2. **The Coca-Cola Company** (NYSE: KO)
-   - Known for its reliable [dividend](../d/dividend.md) payments and stable [business](../b/business.md) model.
+ - Known for its reliable [dividend](../d/dividend.md) payments and stable [business](../b/business.md) model.
 
 3. **Realty [Income](../i/income.md) [Corporation](../c/corporation.md)** (NYSE: O)
-   - A REIT that pays monthly dividends, often referred to as "The Monthly [Dividend](../d/dividend.md) Company."
+ - A REIT that pays monthly dividends, often referred to as "The Monthly [Dividend](../d/dividend.md) Company."
 
 For more detailed information about these companies and their [dividend](../d/dividend.md) policies, investors can visit their official websites:
-- [AT&T Inc.](https://www.att.com/)
-- [The Coca-Cola Company](https://www.coca-colacompany.com/)
-- [Realty Income Corporation](https://www.realtyincome.com/)
+- AT&T Inc.
+- The Coca-Cola Company
+- Realty Income Corporation
 
 ### Analytical Tools
 

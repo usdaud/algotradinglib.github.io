@@ -27,7 +27,7 @@ Obtaining a [Writ](../w/writ.md) of Seizure and [Sale](../s/sale.md) involves se
 
 A [Writ](../w/writ.md) of Seizure and [Sale](../s/sale.md) can be executed against various types of property:
 
-- **[Real Property](../r/real_property.md)**: This includes land and buildings owned by the debtor. 
+- **[Real Property](../r/real_property.md)**: This includes land and buildings owned by the debtor.
 - **[Personal Property](../p/personal_property.md)**: Items such as vehicles, equipment, [inventory](../i/inventory.md), and other movable assets.
 - **Financial Assets**: [Bank](../b/bank.md) accounts, [stocks](../s/stock.md), bonds, and other financial instruments may also be subject to seizure.
 
@@ -58,7 +58,7 @@ Debtors have a few potential defenses and avenues for relief against a [Writ](..
 
 ## Technological Considerations in Enforcement
 
-The advancement of technology has introduced modern methods for enforcing writs. Electronic databases and digital tracking have made it easier to identify and seize assets. Various financial technology (fintech) solutions also help streamline the process for both creditors and enforcement officers. 
+The advancement of technology has introduced modern methods for enforcing writs. Electronic databases and digital tracking have made it easier to identify and seize assets. Various financial technology (fintech) solutions also help streamline the process for both creditors and enforcement officers.
 
 ## Best Practices for Creditors
 

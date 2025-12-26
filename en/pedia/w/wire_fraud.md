@@ -36,7 +36,7 @@ Investment scams lured investors into bogus opportunities with promises of high 
 
 ### Online Auction Fraud
 
-Online auction [fraud](../f/fraud.md) occurs when a fraudster lists a non-existent item for [sale](../s/sale.md) on an auction website, luring in buyers with attractive prices. Once [payment](../p/payment.md) is wired, the fraudster disappears, and the item is never delivered.
+Online auction [fraud](../f/fraud.md) occurs when a fraudster lists a non-existent item for [sale](../s/sale.md) on an auction online platform, luring in buyers with attractive prices. Once [payment](../p/payment.md) is wired, the fraudster disappears, and the item is never delivered.
 
 ### Lottery Scams
 
@@ -75,8 +75,8 @@ Preventing wire [fraud](../f/fraud.md) requires a combination of awareness, educ
 
 In the United States, wire [fraud](../f/fraud.md) victims should report incidents to the following authorities:
 
-- **Federal Bureau of Investigation (FBI)**: The FBI investigates wire [fraud](../f/fraud.md) as part of its mission to combat cybercrime and financial crimes. Victims can file complaints via the Internet Crime Complaint Center (IC3) [https://www.ic3.gov].
-- **Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC)**: The FTC handles complaints about deceptive or fraudulent practices. Complaints can be filed online at [https://www.ftc.gov/].
+- **Federal Bureau of Investigation (FBI)**: The FBI investigates wire [fraud](../f/fraud.md) as part of its mission to combat cybercrime and financial crimes. Victims can file complaints via the Internet Crime Complaint Center (IC3) [
+- **Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC)**: The FTC handles complaints about deceptive or fraudulent practices. Complaints can be filed online at [
 - **Local Law Enforcement**: Victims can also report wire [fraud](../f/fraud.md) to local police or sheriff’s offices, which may coordinate with [federal agencies](../f/federal_agencies.md).
 
 ## High-Profile Wire Fraud Cases
@@ -105,8 +105,7 @@ Wire [fraud](../f/fraud.md) not only has legal and financial repercussions but a
 
 ### The Role of Technology Companies
 
-Technology companies play a critical role in preventing wire [fraud](../f/fraud.md). They bear the responsibility of designing secure systems, adhering to [best practices](../b/best_practices.md), and collaborating with law enforcement agencies to track and mitigate fraudulent activities. Companies like Google, Microsoft, and Apple have implemented comprehensive [security](../s/security.md) measures to protect users against phishing and other forms of wire [fraud](../f/fraud.md) [https://www.google.com, https://www.microsoft.com, https://www.apple.com].
-
+Technology companies play a critical role in preventing wire [fraud](../f/fraud.md). They bear the responsibility of designing secure systems, adhering to [best practices](../b/best_practices.md), and collaborating with law enforcement agencies to track and mitigate fraudulent activities. Companies like Google, Microsoft, and Apple have implemented comprehensive [security](../s/security.md) measures to protect users against phishing and other forms of wire [fraud](../f/fraud.md) [
 ### Consumer Education
 
 Empowering consumers with knowledge and tools to protect themselves against wire [fraud](../f/fraud.md) is essential. Awareness campaigns, educational resources, and easy-to-use [security](../s/security.md) measures can significantly reduce the [risk](../r/risk.md) of individuals falling victim to these schemes.

@@ -80,13 +80,13 @@ Regularly reviewing and understanding all fees associated with their investments
 Several well-known financial services companies [offer](../o/offer.md) mutual funds that include front-end loads:
 
 ### 1. American Funds
-[American Funds](https://www.americanfunds.com/) is known for its [range](../r/range.md) of mutual funds, many of which have front-end loads to compensate advisors.
+American Funds is known for its [range](../r/range.md) of mutual funds, many of which have front-end loads to compensate advisors.
 
 ### 2. Franklin Templeton
-[Franklin Templeton](https://www.franklintempleton.com/) provides various mutual funds with different [load](../l/load.md) structures, including front-end loads.
+Franklin Templeton provides various mutual funds with different [load](../l/load.md) structures, including front-end loads.
 
 ### 3. Morgan Stanley
-[Morgan Stanley](https://www.morganstanley.com/) offers mutual funds and financial advisory services where front-end loads might apply.
+Morgan Stanley offers mutual funds and financial advisory services where front-end loads might apply.
 
 ## Conclusion
 

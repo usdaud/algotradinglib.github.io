@@ -35,4 +35,3 @@ In the financial context, a **Kicker** refers to an additional feature or incent
 
 ## Conclusion
 A kicker is an additional feature or incentive attached to financial instruments to make them more attractive to investors. By [offering](../o/offering.md) potential extra returns under certain conditions, kickers can enhance the overall appeal and [value](../v/value.md) of investments. Understanding the types, importance, and [best practices](../b/best_practices.md) associated with kickers can help investors make informed decisions and optimize their investment portfolios.
-

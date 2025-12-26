@@ -5,7 +5,7 @@ Held-to-[Maturity](../m/maturity.md) (HTM) securities are a category of [debt](.
 ## Characteristics of HTM Securities
 
 1. **[Debt](../d/debt.md) Instruments**: HTM securities are typically bonds or other forms of [debt](../d/debt.md) that provide regular [interest](../i/interest.md) payments known as coupon payments and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md).
-   
+
 2. **Intent and Ability**: The holder must have both the intention and the ability to [hold](../h/hold.md) these securities to [maturity](../m/maturity.md). This is a critical condition that distinguishes HTM from other categories.
 
 3. **Amortized Cost**: The [accounting](../a/accounting.md) treatment for HTM securities is different from other securities. They are recorded at amortized cost rather than fair [market value](../m/market_value.md), meaning that the [value](../v/value.md) on the [balance sheet](../b/balance_sheet.md) is adjusted for the purchase price, plus any amortization of a [premium](../p/premium.md) or [accretion](../a/accretion.md) of a [discount](../d/discount.md) over the life of the [bond](../b/bond.md).
@@ -33,8 +33,8 @@ The purchase of HTM securities is recorded as an [investing](../i/investing.md) 
 A company buys a [bond](../b/bond.md) for $900 (a [discount](../d/discount.md)) that [will](../w/will.md) be worth $1,000 at [maturity](../m/maturity.md) in 5 years, and pays a [coupon rate](../c/coupon_rate.md) of 5% annually.
 
 - **Year-end 1**: Recognize [interest](../i/interest.md) [income](../i/income.md) based on the effective [interest rate](../i/interest_rate.md) that considers the amortized cost. For simplicity, let's use an effective rate of 6%.
-  - [Interest](../i/interest.md) [income](../i/income.md) = $900 * 6% = $54.
-  - Adjusted carrying amount = $900 + ($54 - $50) = $904.
+ - [Interest](../i/interest.md) [income](../i/income.md) = $900 * 6% = $54.
+ - Adjusted carrying amount = $900 + ($54 - $50) = $904.
 
 This process [will](../w/will.md) continue annually, progressively “accreting” the [discount](../d/discount.md) until the [bond](../b/bond.md) reaches its [par value](../p/par_value.md) of $1,000 at [maturity](../m/maturity.md).
 
@@ -51,7 +51,7 @@ According to International Financial Reporting Standards (IFRS), particularly IF
 ## Advantages of HTM Securities
 
 1. **Predictability**: Given that these instruments are held to [maturity](../m/maturity.md), there is predictability in cash flows related to coupon payments and [principal](../p/principal.md) [repayment](../r/repayment.md).
-   
+
 2. **Financial Stability**: As HTM securities are not affected by [market](../m/market.md) [volatility](../v/volatility.md) in the [financial statements](../f/financial_statements.md), they provide a semblance of stability and reduce perceived [risk](../r/risk.md) in the [balance sheet](../b/balance_sheet.md).
 
 3. **[Interest Rate Risk Management](../i/interest_rate_risk_management.md)**: By holding these instruments to [maturity](../m/maturity.md), entities mitigate the [risk](../r/risk.md) associated with [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md) affecting their [principal](../p/principal.md) investment.

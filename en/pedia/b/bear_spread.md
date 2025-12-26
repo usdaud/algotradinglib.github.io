@@ -4,7 +4,7 @@ A Bear Spread is a type of [options](../o/options.md) strategy used primarily wh
 
 ## Bear Put Spread
 
-A [Bear Put Spread](../b/bear_put_spread.md) involves buying a [put option](../p/put.md) with a higher [strike price](../s/strike_price.md) while simultaneously selling a [put option](../p/put.md) with a lower [strike price](../s/strike_price.md). This strategy is ideal if you anticipate a moderate decline in the price of the [underlying asset](../u/underlying_asset.md). 
+A [Bear Put Spread](../b/bear_put_spread.md) involves buying a [put option](../p/put.md) with a higher [strike price](../s/strike_price.md) while simultaneously selling a [put option](../p/put.md) with a lower [strike price](../s/strike_price.md). This strategy is ideal if you anticipate a moderate decline in the price of the [underlying asset](../u/underlying_asset.md).
 
 ### Mechanics
 
@@ -70,10 +70,10 @@ Suppose an [investor](../i/investor.md) sells a [call option](../c/call_option.m
 
 - **Initial Investment vs. Upfront [Income](../i/income.md):** [Bear Put Spread](../b/bear_put_spread.md) requires an initial investment ([net premium](../n/net_premium.md) paid), whereas [Bear Call Spread](../b/bear_call_spread.md) generates upfront [income](../i/income.md) ([net premium](../n/net_premium.md) received).
 - **[Risk](../r/risk.md) and Reward Profiles:** Both have limited [risk](../r/risk.md) and reward, but they differ in their application based on [market](../m/market.md) outlook and initial [capital](../c/capital.md) requirements.
-  
+
 ## Real-world Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo trading, can integrate bear spread strategies to automate the trading process, manage [risk](../r/risk.md), and optimize trading outcomes. 
+[Algorithmic trading](../a/accountability.md), or algo trading, can integrate bear spread strategies to automate the trading process, manage [risk](../r/risk.md), and optimize trading outcomes.
 
 1. **Automated [Execution](../e/execution.md):** Algorithms can automatically execute trades to establish bear [spreads](../s/spreads.md) based on predefined conditions and [market](../m/market.md) data.
 2. **[Backtesting](../b/backtesting.md):** Using historical data to test the effectiveness of bear spread strategies under various [market](../m/market.md) conditions.
@@ -81,12 +81,12 @@ Suppose an [investor](../i/investor.md) sells a [call option](../c/call_option.m
 
 ### Companies Involved in Algorithmic Trading for Options
 
-1. **[QuantConnect](../q/quantconnect.md):** Offers an [open](../o/open.md) platform that allows users to backtest and deploy [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
-2. **AlgoTrader:** Provides an institutional-grade [algorithmic trading](../a/accountability.md) platform that supports [options trading strategies](../o/options_trading_strategies.md) such as bear [spreads](../s/spreads.md). [AlgoTrader](https://www.algotrader.com/)
-3. **[TradeStation](../t/tradestation.md):** A platform known for its advanced tools and technology for [algorithmic trading](../a/accountability.md), especially in [options](../o/options.md). [TradeStation](https://www.tradestation.com/)
+1. **[QuantConnect](../q/quantconnect.md):** Offers an [open](../o/open.md) platform that allows users to backtest and deploy [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). QuantConnect
+2. **AlgoTrader:** Provides an institutional-grade [algorithmic trading](../a/accountability.md) platform that supports [options trading strategies](../o/options_trading_strategies.md) such as bear [spreads](../s/spreads.md). AlgoTrader
+3. **[TradeStation](../t/tradestation.md):** A platform known for its advanced tools and technology for [algorithmic trading](../a/accountability.md), especially in [options](../o/options.md). TradeStation
 
 ## Conclusion
 
-Bear [Spreads](../s/spreads.md), whether it be Bear Put [Spreads](../s/spreads.md) or Bear Call [Spreads](../s/spreads.md), [offer](../o/offer.md) a versatile set of strategies for investors bearish on the [underlying asset](../u/underlying_asset.md). They provide a structured approach to limit both potential gains and losses while requiring a calculated initial investment. Integration with [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) like [QuantConnect](../q/quantconnect.md), AlgoTrader, and [TradeStation](../t/tradestation.md) can further enhance the [efficiency](../e/efficiency.md) and effectiveness of these strategies, allowing for automated [execution](../e/execution.md) and continuous [risk management](../r/risk_management.md).
+Bear [Spreads](../s/spreads.md), whether it be Bear Put [Spreads](../s/spreads.md) or Bear Call [Spreads](../s/spreads.md), [offer](../o/offer.md) a versatile set of strategies for investors bearish on the [underlying asset](../u/underlying_asset.md). They provide a structured approach to limit both potential gains and losses while requiring a calculated initial investment. Integration with [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) like [StockSharp](../s/stocksharp.md), AlgoTrader, and [TradeStation](../t/tradestation.md) can further enhance the [efficiency](../e/efficiency.md) and effectiveness of these strategies, allowing for automated [execution](../e/execution.md) and continuous [risk management](../r/risk_management.md).
 
 Understanding the mechanics, advantages, and disadvantages of bear [spreads](../s/spreads.md), as well as leveraging [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), can help traders and investors make informed decisions in a dynamic [market](../m/market.md) environment.

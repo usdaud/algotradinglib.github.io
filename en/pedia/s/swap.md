@@ -2,6 +2,8 @@
 
 A swap is a [derivative](../d/derivative.md) [financial instrument](../f/financial_instrument.md) in which two parties agree to [exchange](../e/exchange.md) cash flows or other financial instruments over a specified period of time. Swaps are widely used to manage [risk](../r/risk.md), speculate, or achieve a desired financial position. They are commonly utilized in [financial markets](../f/financial_market.md) for hedging, [income](../i/income.md) generation, and achieving more favorable [loan](../l/loan.md) terms.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Types of Swaps
 
 Swaps come in various forms, with the most common ones being:
@@ -15,7 +17,7 @@ Swaps come in various forms, with the most common ones being:
 
 ### 2. Currency Swaps
 
-[Currency](../c/currency.md) swaps involve the [exchange](../e/exchange.md) of [principal](../p/principal.md) and [interest](../i/interest.md) payments in one [currency](../c/currency.md) for [principal](../p/principal.md) and [interest](../i/interest.md) payments in another [currency](../c/currency.md). These swaps are used to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of [exchange rate](../e/exchange_rate.md) fluctuations, engage in [arbitrage](../a/arbitrage.md), or facilitate loans in foreign currencies. 
+[Currency](../c/currency.md) swaps involve the [exchange](../e/exchange.md) of [principal](../p/principal.md) and [interest](../i/interest.md) payments in one [currency](../c/currency.md) for [principal](../p/principal.md) and [interest](../i/interest.md) payments in another [currency](../c/currency.md). These swaps are used to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of [exchange rate](../e/exchange_rate.md) fluctuations, engage in [arbitrage](../a/arbitrage.md), or facilitate loans in foreign currencies.
 
 - **Fixed-for-Floating [Currency](../c/currency.md) Swaps:** This involves exchanging fixed [interest](../i/interest.md) payments in one [currency](../c/currency.md) for floating [interest](../i/interest.md) payments in another [currency](../c/currency.md).
 - **Fixed-for-Fixed [Currency](../c/currency.md) Swaps:** Both parties [exchange](../e/exchange.md) fixed [interest](../i/interest.md) payments but in different currencies.
@@ -23,13 +25,13 @@ Swaps come in various forms, with the most common ones being:
 
 ### 3. Commodity Swaps
 
-[Commodity](../c/commodity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the price of a [commodity](../c/commodity.md), such as oil, gold, or agricultural products. They are often used by producers and consumers of commodities to manage price [risk](../r/risk.md). 
+[Commodity](../c/commodity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the price of a [commodity](../c/commodity.md), such as oil, gold, or agricultural products. They are often used by producers and consumers of commodities to manage price [risk](../r/risk.md).
 
 - **Fixed-for-Floating [Commodity](../c/commodity.md) Swaps:** One party pays a fixed price for the [commodity](../c/commodity.md), while the other pays a price that fluctuates based on [market](../m/market.md) conditions.
 
 ### 4. Equity Swaps
 
-[Equity](../e/equity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the performance of an [equity](../e/equity.md) [index](../i/index_instrument.md) or individual [stocks](../s/stock.md). They provide a way to [gain](../g/gain.md) exposure to [equity](../e/equity.md) markets without directly owning the [underlying](../u/underlying.md) [stocks](../s/stock.md). 
+[Equity](../e/equity.md) swaps involve the [exchange](../e/exchange.md) of cash flows based on the performance of an [equity](../e/equity.md) [index](../i/index_instrument.md) or individual [stocks](../s/stock.md). They provide a way to [gain](../g/gain.md) exposure to [equity](../e/equity.md) markets without directly owning the [underlying](../u/underlying.md) [stocks](../s/stock.md).
 
 - **[Total Return](../t/total_return.md) Swaps:** One party receives the [total return](../t/total_return.md) on an [equity](../e/equity.md) [index](../i/index_instrument.md) or individual stock, including dividends and [capital](../c/capital.md) gains, while the other party pays a fixed or floating rate.
 

@@ -37,9 +37,6 @@ Net Cash = Cash and [Cash Equivalents](../c/cash_equivalents.md) - [Total Liabil
 
 ## Examples of Companies with Strong Net Cash Positions
 
-1. **Apple Inc. (AAPL)**: Known for its substantial cash reserves, Apple consistently maintains a strong net cash position. [Apple Investor Relations](https://investor.apple.com/)
-2. **Google (Alphabet Inc.) (GOOGL)**: Google also boasts significant net cash, allowing it to invest heavily in research and development. [Alphabet Investor Relations](https://abc.xyz/investor/)
-3. **Microsoft [Corporation](../c/corporation.md) (MSFT)**: Microsoft's [robust](../r/robust.md) net cash position supports its extensive investment in [cloud computing](../c/cloud_computing_in_trading.md) and other growth initiatives. [Microsoft Investor Relations](https://www.microsoft.com/investor)
 
 ## Net Cash and Financial Ratios
 

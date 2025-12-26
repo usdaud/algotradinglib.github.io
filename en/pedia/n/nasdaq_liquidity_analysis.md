@@ -71,15 +71,15 @@ Higher [liquidity](../l/liquidity.md) allows for better [risk management](../r/r
 ## Tools and Platforms for Analyzing NASDAQ Liquidity
 Several tools and platforms aid traders in analyzing [liquidity](../l/liquidity.md) on [NASDAQ](../n/nasdaq.md):
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data on trading volumes, [bid](../b/bid.md)-ask [spreads](../s/spreads.md), [order book depth](../o/order_book_depth.md), and other [liquidity](../l/liquidity.md) metrics. (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data on trading volumes, [bid](../b/bid.md)-ask [spreads](../s/spreads.md), [order book depth](../o/order_book_depth.md), and other [liquidity](../l/liquidity.md) metrics. (
 
-2. **Thomson [Reuters](../r/reuters.md) Eikon**: Provides in-depth analysis on [market](../m/market.md) conditions, including [liquidity](../l/liquidity.md) indicators. (https://www.refinitiv.com/en/products/eikon-trading-software)
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: Provides in-depth analysis on [market](../m/market.md) conditions, including [liquidity](../l/liquidity.md) indicators. (
 
-3. **[NASDAQ](../n/nasdaq.md) TotalView**: An advanced [market](../m/market.md) data solution that provides insight into the full depth of the [market](../m/market.md) by showing price levels for [NASDAQ](../n/nasdaq.md)-[listed](../l/listed.md) securities. (https://www.[nasdaq](../n/nasdaq.md).com/solutions/[nasdaq](../n/nasdaq.md)-totalview)
+3. **[NASDAQ](../n/nasdaq.md) TotalView**: An advanced [market](../m/market.md) data solution that provides insight into the full depth of the [market](../m/market.md) by showing price levels for [NASDAQ](../n/nasdaq.md)-[listed](../l/listed.md) securities. (
 
-4. **[AlgoTrader](../a/algotrader.md)**: A platform for [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) that includes [robust](../r/robust.md) tools for [liquidity analysis](../l/liquidity_analysis.md). (https://www.[algotrader](../a/algotrader.md).com/)
+4. **[AlgoTrader](../a/algotrader.md)**: A platform for [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) that includes [robust](../r/robust.md) tools for [liquidity analysis](../l/liquidity_analysis.md). (
 
-5. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports back-testing and live trading, providing access to extensive [market](../m/market.md) data. (https://www.[quantconnect](../q/quantconnect.md).com/)
+5. **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports back-testing and live trading, providing access to extensive [market](../m/market.md) data.
 
 6. **Python Libraries**: Libraries such as pandas, NumPy, and matplotlib can be used for custom [liquidity analysis](../l/liquidity_analysis.md) by accessing [NASDAQ](../n/nasdaq.md)'s raw data through APIs.
 

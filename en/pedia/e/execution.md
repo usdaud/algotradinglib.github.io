@@ -11,7 +11,7 @@ Execution in the context of [algorithmic trading](../a/accountability.md) (algot
 Limit orders specify the maximum or minimum price at which a [trader](../t/trader.md) is willing to buy or sell a [security](../s/security.md). Unlike [market](../m/market.md) orders, limit orders provide price protection but do not guarantee execution. The [order](../o/order.md) [will](../w/will.md) only be filled if the [market price](../m/market_price.md) reaches the specified limit.
 
 ### Stop Orders
-Stop orders become [market](../m/market.md) orders once a specified price, known as the stop price, is reached. These are often used to protect against significant losses or to [lock in profits](../l/lock_in_profits.md). 
+Stop orders become [market](../m/market.md) orders once a specified price, known as the stop price, is reached. These are often used to protect against significant losses or to [lock in profits](../l/lock_in_profits.md).
 
 ### Stop-Limit Orders
 [Stop-limit orders](../s/stop-limit_orders.md) combine the characteristics of stop orders and limit orders. They become limit orders once the stop price is reached, allowing traders to specify a price [range](../r/range.md) within which they are willing to execute the [trade](../t/trade.md).
@@ -72,13 +72,13 @@ SOR systems dynamically route orders to the trading venues [offering](../o/offer
 ## Execution Platforms
 
 ### MetaTrader
-MetaTrader is a popular electronic [trading platform](../t/trading_platform.md) used by retail traders for executing trades in forex, commodities, and other markets. More information can be found on the [MetaTrader website](https://www.metatrader4.com/).
+MetaTrader is a popular electronic [trading platform](../t/trading_platform.md) used by retail traders for executing trades in forex, commodities, and other markets.
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) offers advanced execution platforms and tools for both retail and institutional traders. Their GlobalTrader platform aims to deliver optimal execution quality across various [asset](../a/asset.md) classes. More details are available on the [Interactive Brokers website](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) offers advanced execution platforms and tools for both retail and institutional traders. Their GlobalTrader platform aims to deliver optimal execution quality across various [asset](../a/asset.md) classes. More
 
 ### FIX Protocol
-The Financial Information [eXchange](../e/exchange.md) (FIX) protocol is a standardized electronic communication protocol used by [broker](../b/broker.md)-dealers, institutional investors, and other [market](../m/market.md) participants to facilitate the [exchange](../e/exchange.md) of trading information and ensure efficient [order](../o/order.md) execution. More information is available on the [FIX Trading Community website](https://www.fixtrading.org/).
+The Financial Information [eXchange](../e/exchange.md) (FIX) protocol is a standardized electronic communication protocol used by [broker](../b/broker.md)-dealers, institutional investors, and other [market](../m/market.md) participants to facilitate the [exchange](../e/exchange.md) of trading information and ensure efficient [order](../o/order.md) execution.
 
 ## Regulatory Considerations
 

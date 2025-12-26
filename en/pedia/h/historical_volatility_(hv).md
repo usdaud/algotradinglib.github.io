@@ -1,27 +1,27 @@
 # Historical Volatility (HV)
 
-[Historical Volatility](../h/historical_volatility.md) (HV) is a statistical measure of the [dispersion](../d/dispersion.md) of returns for a given [security](../s/security.md) or [market index](../m/market_index.md) over a specified period of time. Unlike implied [volatility](../v/volatility.md), which is derived from the [market](../m/market.md) prices of [options](../o/options.md) and reflects the [market](../m/market.md)'s expectations of future [volatility](../v/volatility.md), [historical volatility](../h/historical_volatility.md) is based on actual past [market](../m/market.md) prices. HV provides insights into the past fluctuations of an [asset](../a/asset.md) and can be a crucial element in various [trading strategies](../t/trading_strategies.md), particularly in [algorithmic trading](../a/accountability.md).
+[Historical Volatility](../h/historical_volatility.md) (HV) is a statistical measure of the [dispersion](../d/dispersion.md) of returns for a given [security](../s/security.md) or [market index](../m/market_index.md) over a specified period of time. Unlike implied [volatility](../v/volatility.md), which is derived from the [market](../m/market.md) prices of [options](../o/options.md) and reflects the [market](../m/market.md)'s expectations of future [volatility](../v/volatility.md), [historical volatility](../h/historical_volatility.md) is based on actual past [market](../m/market.md) prices. HV provides insights into the past fluctuations of an [asset](../a/asset.md) and can be a crucial element in various [trading strategies](../t/trading_strategies.md), particularly in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition and Calculation
 
 [Historical volatility](../h/historical_volatility.md) is commonly defined as the [standard deviation](../s/standard_deviation.md) of [logarithmic returns](../l/logarithmic_returns.md). The process of calculating HV can be summarized in several steps:
 
 1. **[Logarithmic Returns](../l/logarithmic_returns.md)**: Calculate the [logarithmic returns](../l/logarithmic_returns.md) of the [asset](../a/asset.md) for each trading period within the chosen time frame. The formula for logarithmic [return](../r/return.md) is given by:
-    \[
-    R_t = \ln \left( \frac{P_t}{P_{t-1}} \right)
-    \]
-   where \( R_t \) is the [return](../r/return.md), \( P_t \) is the price at time \( t \), and \( P_{t-1} \) is the price at time \( t-1 \).
+ \[
+ R_t = \ln \left( \frac{P_t}{P_{t-1}} \right)
+ \]
+ where \( R_t \) is the [return](../r/return.md), \( P_t \) is the price at time \( t \), and \( P_{t-1} \) is the price at time \( t-1 \).
 
 2. **Mean of Returns**: Compute the mean (average) of these [logarithmic returns](../l/logarithmic_returns.md):
-    \[
-    \bar{R} = \frac{1}{N} \sum_{t=1}^{N} R_t
-    \]
-   where \( N \) is the number of periods in the chosen time frame.
+ \[
+ \bar{R} = \frac{1}{N} \sum_{t=1}^{N} R_t
+ \]
+ where \( N \) is the number of periods in the chosen time frame.
 
 3. **[Standard Deviation](../s/standard_deviation.md)**: Calculate the [standard deviation](../s/standard_deviation.md) of the returns, which then represents the [historical volatility](../h/historical_volatility.md):
-    \[
-    \sigma = \sqrt{ \frac{1}{N-1} \sum_{t=1}^{N} (R_t - \bar{R})^2}
-    \]
+ \[
+ \sigma = \sqrt{ \frac{1}{N-1} \sum_{t=1}^{N} (R_t - \bar{R})^2}
+ \]
 
 The result is typically annualized by multiplying by the square root of the number of trading periods in a year (e.g., 252 for daily returns).
 
@@ -49,7 +49,7 @@ HV is a fundamental input in the Black-Scholes option pricing model and other mo
 
 Several tools and [software platforms](../s/software_platforms_for_trading.md) provide the capability to calculate and analyze [historical volatility](../h/historical_volatility.md). Some notable ones include:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/accountability.md) platform that provides historical data and tools to calculate HV.
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides historical data and tools to calculate HV.
 - **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that includes functions for calculating [historical volatility](../h/historical_volatility.md).
 
 These platforms often have APIs that can be utilized to integrate HV calculations into custom [trading algorithms](../t/trading_algorithms.md).
@@ -58,11 +58,11 @@ These platforms often have APIs that can be utilized to integrate HV calculation
 
 ### Goldman Sachs
 
-Goldman Sachs is known for its high-frequency and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). The [firm](../f/firm.md) extensively uses [historical volatility](../h/historical_volatility.md) in its models to forecast risks and returns, enabling them to make informed trading decisions. More information about their approach can be found on their website: [Goldman Sachs](https://www.goldmansachs.com/).
+Goldman Sachs is known for its high-frequency and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). The [firm](../f/firm.md) extensively uses [historical volatility](../h/historical_volatility.md) in its models to forecast risks and returns, enabling them to make informed trading decisions.
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a highly successful [hedge fund](../h/hedge_fund.md) that leverages statistical [arbitrage](../a/arbitrage.md) strategies. [Historical volatility](../h/historical_volatility.md) is one of the many metrics they use to assess [market](../m/market.md) conditions and develop [trading strategies](../t/trading_strategies.md). Their [quantitative models](../q/quantitative_models.md) rely heavily on historical data to identify patterns and predict future movements. Visit their page for more information: [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies is a highly successful [hedge fund](../h/hedge_fund.md) that leverages statistical [arbitrage](../a/arbitrage.md) strategies. [Historical volatility](../h/historical_volatility.md) is one of the many metrics they use to assess [market](../m/market.md) conditions and develop [trading strategies](../t/trading_strategies.md). Their [quantitative models](../q/quantitative_models.md) rely heavily on historical data to identify patterns and predict future movements.
 
 ## Challenges in Using HV
 
@@ -80,8 +80,8 @@ One of the challenges with HV is its sensitivity to the chosen time frame. Diffe
 
 ### Overfitting
 
-In [algorithmic trading](../a/accountability.md), there's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) strategies to [historical volatility](../h/historical_volatility.md) data. While past price movements can inform future trends, they do not guarantee them. Overreliance on HV can lead to models that perform well in sample data but poorly in real-world trading.
+In [algorithmic trading](../a/algorithmic_trading.md), there's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) strategies to [historical volatility](../h/historical_volatility.md) data. While past price movements can inform future trends, they do not guarantee them. Overreliance on HV can lead to models that perform well in sample data but poorly in real-world trading.
 
 ## Conclusion
 
-[Historical volatility](../h/historical_volatility.md) is a vital tool in the arsenal of algorithmic traders. It offers insights into the past behavior of [asset](../a/asset.md) prices, helping traders manage [risk](../r/risk.md), develop strategies, and price [derivatives](../d/derivatives.md) accurately. While it has its limitations and challenges, when used in conjunction with other indicators and sound [judgment](../j/judgment.md), HV can significantly enhance [trading performance](../t/trading_performance.md). As the trading landscape continues to evolve with advancements in technology and [data analytics](../d/data_analytics.md), the importance of [historical volatility](../h/historical_volatility.md) in [algorithmic trading](../a/accountability.md) remains undiminished.
+[Historical volatility](../h/historical_volatility.md) is a vital tool in the arsenal of algorithmic traders. It offers insights into the past behavior of [asset](../a/asset.md) prices, helping traders manage [risk](../r/risk.md), develop strategies, and price [derivatives](../d/derivatives.md) accurately. While it has its limitations and challenges, when used in conjunction with other indicators and sound [judgment](../j/judgment.md), HV can significantly enhance [trading performance](../t/trading_performance.md). As the trading landscape continues to evolve with advancements in technology and [data analytics](../d/data_analytics.md), the importance of [historical volatility](../h/historical_volatility.md) in [algorithmic trading](../a/algorithmic_trading.md) remains undiminished.

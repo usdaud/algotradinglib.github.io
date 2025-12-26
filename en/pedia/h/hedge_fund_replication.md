@@ -8,7 +8,7 @@
 
 ### Key Concepts
 
-1. **Alternative [Beta](../b/beta.md)**: This involves constructing portfolios that aim to capture the [hedge fund](../h/hedge_fund.md) returns attributable to [systematic risk](../s/systematic_risk.md) factors, such as [market](../m/market.md), [value](../v/value.md), size, [momentum](../m/momentum.md), and [volatility](../v/volatility.md). 
+1. **Alternative [Beta](../b/beta.md)**: This involves constructing portfolios that aim to capture the [hedge fund](../h/hedge_fund.md) returns attributable to [systematic risk](../s/systematic_risk.md) factors, such as [market](../m/market.md), [value](../v/value.md), size, [momentum](../m/momentum.md), and [volatility](../v/volatility.md).
 
 2. **[Factor Models](../f/factor_models.md)**: These models quantify and decompose the returns of [hedge](../h/hedge.md) funds into different [risk factors](../r/risk_factors_in_trading.md). The most prominent models include the Fama-French three-[factor](../f/factor.md) model, Carhart four-[factor](../f/factor.md) model, and more complex multi-[factor models](../f/factor_models.md).
 
@@ -72,9 +72,9 @@ Due to the difference in [underlying](../u/underlying.md) assets and strategies,
 
 Several financial institutions and [asset](../a/asset.md) managers have launched products aimed at replicating [hedge fund strategies](../h/hedge_fund_strategies.md).
 
-- **IndexIQ**: [IndexIQ](https://www.indexiq.com) offers a suite of [alternative investment](../a/alternative_investment.md) strategies, including [hedge fund](../h/hedge_fund.md) replication ETFs.
-- **Goldman Sachs**: Goldman Sachs [Asset Management](../a/asset_management.md) has launched products such as [Goldman Sachs Absolute Return Tracker Fund](https://www.gsam.com/content/gsam/us/en/advisors/products/mutual-funds/gs-absolute-return-tracker-fund.html), aimed at providing [hedge fund](../h/hedge_fund.md)-like returns.
-- **AQR [Capital](../c/capital.md) Management**: [AQR Capital Management](https://www.aqr.com) is known for its research and products focused on [factor investing](../f/factor_investing.md), some of which are built on [hedge fund](../h/hedge_fund.md) replication concepts.
+- **IndexIQ**: IndexIQ offers a suite of [alternative investment](../a/alternative_investment.md) strategies, including [hedge fund](../h/hedge_fund.md) replication ETFs.
+- **Goldman Sachs**: Goldman Sachs [Asset Management](../a/asset_management.md) has launched products such as Goldman Sachs Absolute Return Tracker Fund, aimed at providing [hedge fund](../h/hedge_fund.md)-like returns.
+- **AQR [Capital](../c/capital.md) Management**: AQR Capital Management is known for its research and products focused on [factor investing](../f/factor_investing.md), some of which are built on [hedge fund](../h/hedge_fund.md) replication concepts.
 
 ## Conclusion
 

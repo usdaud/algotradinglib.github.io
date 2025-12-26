@@ -33,29 +33,29 @@ Negative [gamma](../g/gamma.md) strategies [capitalize](../c/capitalize.md) on t
 
 A [short straddle](../s/short_straddle.md) involves selling both a [call option](../c/call_option.md) and a [put option](../p/put.md) with the same [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md). This strategy profits from minimal movement in the [underlying asset](../u/underlying_asset.md)'s price, as the premiums collected from selling the [options](../o/options.md) [will](../w/will.md) exceed any losses if the price remains stable.
 
-    - **[Risk](../r/risk.md)/Reward Profile**: While the potential [profit](../p/profit.md) is limited to the premiums received, the [risk](../r/risk.md) can be substantial if the [underlying](../u/underlying.md) price moves significantly in either direction.
-    - **Example**: Selling a call and [put option](../p/put.md) on XYZ stock, both with a [strike price](../s/strike_price.md) of $100 and expiration in one month, aiming to [profit](../p/profit.md) from low [volatility](../v/volatility.md) in XYZ’s stock price.
+ - **[Risk](../r/risk.md)/Reward Profile**: While the potential [profit](../p/profit.md) is limited to the premiums received, the [risk](../r/risk.md) can be substantial if the [underlying](../u/underlying.md) price moves significantly in either direction.
+ - **Example**: Selling a call and [put option](../p/put.md) on XYZ stock, both with a [strike price](../s/strike_price.md) of $100 and expiration in one month, aiming to [profit](../p/profit.md) from low [volatility](../v/volatility.md) in XYZ’s stock price.
 
 2. **[Short Strangle](../s/short_strangle.md)**
 
 A [short strangle](../s/short_strangle.md) involves selling an out-of-the-[money](../m/money.md) call and an out-of-the-[money](../m/money.md) put with different strike prices but the same [expiration date](../e/expiration_date.md). This strategy also benefits from low [volatility](../v/volatility.md), but it provides a larger [range](../r/range.md) within which the [underlying asset](../u/underlying_asset.md)’s price can move without causing a loss.
 
-    - **[Risk](../r/risk.md)/Reward Profile**: Similar to a [short straddle](../s/short_straddle.md), but with a potentially wider [profit](../p/profit.md) [range](../r/range.md) and correspondingly lower premiums collected compared to a [straddle](../s/straddle.md).
-    - **Example**: Selling a [call option](../c/call_option.md) on XYZ stock with a [strike price](../s/strike_price.md) of $110 and a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $90, both expiring in one month.
+ - **[Risk](../r/risk.md)/Reward Profile**: Similar to a [short straddle](../s/short_straddle.md), but with a potentially wider [profit](../p/profit.md) [range](../r/range.md) and correspondingly lower premiums collected compared to a [straddle](../s/straddle.md).
+ - **Example**: Selling a [call option](../c/call_option.md) on XYZ stock with a [strike price](../s/strike_price.md) of $110 and a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $90, both expiring in one month.
 
 3. **[Iron Condor](../i/iron_condor.md)**
 
 An [iron condor](../i/iron_condor.md) involves selling an out-of-the-[money](../m/money.md) call and an out-of-the-[money](../m/money.md) put while simultaneously buying a further out-of-the-[money](../m/money.md) call and a further out-of-the-[money](../m/money.md) put. This creates a position with limited [risk](../r/risk.md) and limited [profit](../p/profit.md) potential, benefiting from low [volatility](../v/volatility.md) in the [underlying asset](../u/underlying_asset.md)’s price.
 
-    - **[Risk](../r/risk.md)/Reward Profile**: The maximum [profit](../p/profit.md) is achieved if the [underlying](../u/underlying.md) price remains between the two strike prices of the sold [options](../o/options.md), with the maximum loss limited to the difference between the strike prices of the sold and bought [options](../o/options.md) minus the [net premium](../n/net_premium.md) received.
-    - **Example**: Selling a [call option](../c/call_option.md) on XYZ stock with a [strike price](../s/strike_price.md) of $105 and a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $95, while buying a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $110 and a put with a [strike price](../s/strike_price.md) of $90, all expiring in one month.
+ - **[Risk](../r/risk.md)/Reward Profile**: The maximum [profit](../p/profit.md) is achieved if the [underlying](../u/underlying.md) price remains between the two strike prices of the sold [options](../o/options.md), with the maximum loss limited to the difference between the strike prices of the sold and bought [options](../o/options.md) minus the [net premium](../n/net_premium.md) received.
+ - **Example**: Selling a [call option](../c/call_option.md) on XYZ stock with a [strike price](../s/strike_price.md) of $105 and a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $95, while buying a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $110 and a put with a [strike price](../s/strike_price.md) of $90, all expiring in one month.
 
 4. **[Short Call](../s/short_call.md) or Put Spread**
 
 A [short call spread](../s/short_call_spread.md) involves selling a [call option](../c/call_option.md) and buying another [call option](../c/call_option.md) with a higher [strike price](../s/strike_price.md) and the same [expiration date](../e/expiration_date.md). Similarly, a [short put spread](../s/short_put_spread.md) involves selling a [put option](../p/put.md) and buying another [put option](../p/put.md) with a lower [strike price](../s/strike_price.md).
 
-    - **[Risk](../r/risk.md)/Reward Profile**: These [spreads](../s/spreads.md) limit both the potential [profit](../p/profit.md) and potential loss, making them a more controlled negative [gamma](../g/gamma.md) strategy compared to outright short [options](../o/options.md) positions.
-    - **Example**: Selling a [call option](../c/call_option.md) on XYZ stock with a [strike price](../s/strike_price.md) of $100 and buying a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $105, both expiring in one month.
+ - **[Risk](../r/risk.md)/Reward Profile**: These [spreads](../s/spreads.md) limit both the potential [profit](../p/profit.md) and potential loss, making them a more controlled negative [gamma](../g/gamma.md) strategy compared to outright short [options](../o/options.md) positions.
+ - **Example**: Selling a [call option](../c/call_option.md) on XYZ stock with a [strike price](../s/strike_price.md) of $100 and buying a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $105, both expiring in one month.
 
 ### Managing Risk in Negative Gamma Strategies
 
@@ -70,15 +70,15 @@ Negative [gamma](../g/gamma.md) strategies inherently involve significant risks,
 
 ### Market Makers
 
-[Market](../m/market.md) makers, such as Virtu Financial [https://www.virtu.com/] and Citadel Securities [https://www.citadelsecurities.com/], frequently employ negative gamma strategies. Their role in providing [liquidity](../l/liquidity.md) involves continuously quoting buy and sell prices, necessitating the writing of [options](../o/options.md) and maintaining [delta](../d/delta.md)-[neutral](../n/neutral.md) portfolios through active hedging.
+[Market](../m/market.md) makers, such as Virtu Financial [ and Citadel Securities [ frequently employ negative gamma strategies. Their role in providing [liquidity](../l/liquidity.md) involves continuously quoting buy and sell prices, necessitating the writing of [options](../o/options.md) and maintaining [delta](../d/delta.md)-[neutral](../n/neutral.md) portfolios through active hedging.
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds specializing in [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md), like those managed by AQR [Capital](../c/capital.md) Management [https://www.aqr.com/] and options-focused funds, often utilize negative gamma strategies to exploit differences between implied and realized volatility. These funds deploy sophisticated algorithms and risk management frameworks to capture premiums from writing options while controlling [gamma exposure](../g/gamma_exposure.md).
+[Hedge](../h/hedge.md) funds specializing in [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md), like those managed by AQR [Capital](../c/capital.md) Management [ and options-focused funds, often utilize negative gamma strategies to exploit differences between implied and realized volatility. These funds deploy sophisticated algorithms and risk management frameworks to capture premiums from writing options while controlling [gamma exposure](../g/gamma_exposure.md).
 
 ### Proprietary Trading Firms
 
-[Proprietary trading](../p/proprietary_trading.md) firms, such as Jane Street [https://www.janestreet.com/] and DRW [https://drw.com/], leverage their advanced trading systems and large capital bases to implement negative gamma strategies effectively. These firms utilize high-frequency trading algorithms to dynamically hedge their [gamma exposure](../g/gamma_exposure.md) in real-time.
+[Proprietary trading](../p/proprietary_trading.md) firms, such as Jane Street [ and DRW [ leverage their advanced trading systems and large capital bases to implement negative gamma strategies effectively. These firms utilize high-frequency trading algorithms to dynamically hedge their [gamma exposure](../g/gamma_exposure.md) in real-time.
 
 ## Advanced Considerations
 

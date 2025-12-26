@@ -10,9 +10,9 @@ The concept of B2C isn't entirely new. It originated in the traditional brick-an
 
 The late 1990s and early 2000s saw the emergence of numerous online marketplaces and platforms which redefined B2C [networking](../n/networking.md). Pioneers such as Amazon and eBay laid the groundwork for what became the bustling e-[commerce](../c/commerce.md) ecosystem.
 
-- **Amazon** (https://www.amazon.com) initially started as an online bookstore but quickly diversified, [offering](../o/offering.md) a wide [range](../r/range.md) of products across various categories. Amazon's platform also enabled third-party sellers to reach consumers globally, creating a vast digital marketplace.
+- **Amazon** ( initially started as an online bookstore but quickly diversified, [offering](../o/offering.md) a wide [range](../r/range.md) of products across various categories. Amazon's platform also enabled third-party sellers to reach consumers globally, creating a vast digital marketplace.
 
-- **eBay** (https://www.ebay.com), on the other hand, revolutionized online auctions, allowing individuals and businesses to buy and sell a plethora of goods in a competitive auction format. Today, eBay also supports direct sales, further solidifying its place in the e-[commerce](../c/commerce.md) domain.
+- **eBay** ( on the other hand, revolutionized online auctions, allowing individuals and businesses to buy and sell a plethora of goods in a competitive auction format. Today, eBay also supports direct sales, further solidifying its place in the e-[commerce](../c/commerce.md) domain.
 
 ## Key Elements of B2C
 
@@ -20,7 +20,7 @@ There are several critical components to the B2C model that ensure its effective
 
 ### User Experience (UX)
 
-A significant advantage of B2C lies in its ability to [offer](../o/offer.md) an unparalleled user experience. Companies invest heavily in intuitive website design, seamless navigation, and personalized recommendations to enhance [customer](../c/customer.md) satisfaction and retention.
+A significant advantage of B2C lies in its ability to [offer](../o/offer.md) an unparalleled user experience. Companies invest heavily in intuitive online experience design, seamless navigation, and personalized recommendations to enhance [customer](../c/customer.md) satisfaction and retention.
 
 ### Digital Marketing
 
@@ -36,7 +36,7 @@ Efficient [supply chain](../s/supply_chain.md) management and [logistics](../l/l
 
 ### Customer Support
 
-Exceptional [customer service](../c/customer_service.md) is a cornerstone of B2C success. Businesses provide [multiple](../m/multiple.md) touchpoints, including live chat, email, and telephone support, to assist customers promptly and effectively. 
+Exceptional [customer service](../c/customer_service.md) is a cornerstone of B2C success. Businesses provide [multiple](../m/multiple.md) touchpoints, including live chat, email, and telephone support, to assist customers promptly and effectively.
 
 ## B2C Business Models
 
@@ -46,34 +46,34 @@ Various B2C [business models](../b/business_models.md) have emerged, each cateri
 
 These are businesses that operate exclusively online without any physical retail presence. Examples include:
 
-- **Zappos** (https://www.zappos.com) specializes in shoes and clothing and is renowned for its outstanding [customer service](../c/customer_service.md).
-- **Overstock** (https://www.overstock.com) offers a broad [range](../r/range.md) of products including furniture, [home](../h/home.md) goods, and electronics.
+- **Zappos** ( specializes in shoes and clothing and is renowned for its outstanding [customer service](../c/customer_service.md).
+- **Overstock** ( offers a broad [range](../r/range.md) of products including furniture, [home](../h/home.md) goods, and electronics.
 
 ### Brick-and-Click
 
 These businesses have both online and physical retail stores, providing consumers with the flexibility to shop both ways. Examples include:
 
-- **Walmart** (https://www.walmart.com) started as physical supermarket stores and later expanded to an online marketplace.
-- **Best Buy** (https://www.bestbuy.com) operates both online and offline, giving customers the choice of how and where to shop.
+- **Walmart** started as physical supermarket stores and later expanded to an online marketplace.
+- **Best Buy** operates both online and offline, giving customers the choice of how and where to shop.
 
 ### Subscription-Based
 
 In this model, consumers pay a recurring [fee](../f/fee.md) to receive products or services regularly. Examples include:
 
-- **Netflix** (https://www.netflix.com) offers streaming services with a subscription [fee](../f/fee.md).
-- **Dollar Shave Club** (https://www.dollarshaveclub.com) provides grooming products on a subscription [basis](../b/basis.md).
+- **Netflix** ( offers streaming services with a subscription [fee](../f/fee.md).
+- **Dollar Shave Club** ( provides grooming products on a subscription [basis](../b/basis.md).
 
 ### Freemium
 
 [Freemium](../f/freemium.md) businesses [offer](../o/offer.md) basic services for free while charging for [premium](../p/premium.md) features. Examples include:
 
-- **Spotify** (https://www.spotify.com) provides free music streaming with ads and charges for an ad-free experience.
+- **Spotify** provides free music streaming with ads and charges for an ad-free experience.
 
 ### Marketplaces
 
 These platforms connect buyers and sellers, taking a [commission](../c/commission.md) on sales. Examples include:
 
-- **Etsy** (https://www.etsy.com), specializing in handmade, [vintage](../v/vintage.md) items and craft supplies.
+- **Etsy** ( specializing in handmade, [vintage](../v/vintage.md) items and craft supplies.
 
 ## Technological Advancements in B2C
 

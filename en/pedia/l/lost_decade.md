@@ -103,4 +103,4 @@ A balanced policy approach is crucial:
 
 The term "Lost Decade" encapsulates the challenges of prolonged economic [stagnation](../s/stagnation.md). Japan’s Lost Decade offers valuable insights into the causes, effects, and responses to such periods. While each Lost Decade has unique characteristics, the lessons learned can help guide policymakers in preventing and mitigating future economic crises.
 
-For more information, refer to the [Bank](../b/bank.md) of Japan's official page: [Bank of Japan](https://www.boj.or.jp/en/index.htm).
+For more information, refer to the [Bank](../b/bank.md) of Japan's public materials: Bank of Japan.

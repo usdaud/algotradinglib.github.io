@@ -9,19 +9,19 @@ NCDEX was incorporated on April 23, 2003, and commenced operations on December 1
 ## Key Features
 
 1. **Wide [Range](../r/range.md) of Commodities**:
-   - NCDEX offers [futures](../f/futures.md) trading in a variety of commodities including grains, pulses, spices, oilseeds, and other agricultural products. These contracts help [market](../m/market.md) participants [hedge](../h/hedge.md) risks and discover prices effectively.
+ - NCDEX offers [futures](../f/futures.md) trading in a variety of commodities including grains, pulses, spices, oilseeds, and other agricultural products. These contracts help [market](../m/market.md) participants [hedge](../h/hedge.md) risks and discover prices effectively.
 
 2. **Technology-Driven Platform**:
-   - The [exchange](../e/exchange.md) leverages advanced technology to facilitate seamless trading. Its electronic platform ensures [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and real-time [transaction execution](../t/transaction_execution.md).
+ - The [exchange](../e/exchange.md) leverages advanced technology to facilitate seamless trading. Its electronic platform ensures [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and real-time [transaction execution](../t/transaction_execution.md).
 
 3. **[Risk Management](../r/risk_management.md) and Mitigation**:
-   - Through [futures contracts](../f/futures_contracts.md), NCDEX helps participants [hedge](../h/hedge.md) against price [volatility](../v/volatility.md). This is particularly beneficial for farmers and agribusinesses, enabling them to lock in prices for their produce.
+ - Through [futures contracts](../f/futures_contracts.md), NCDEX helps participants [hedge](../h/hedge.md) against price [volatility](../v/volatility.md). This is particularly beneficial for farmers and agribusinesses, enabling them to lock in prices for their produce.
 
 4. **Regulation and Compliance**:
-   - NCDEX operates under the regulatory framework of SEBI, ensuring strict compliance with rules and regulations. This promotes a secure and reliable [trading environment](../t/trading_environment.md).
+ - NCDEX operates under the regulatory framework of SEBI, ensuring strict compliance with rules and regulations. This promotes a secure and reliable [trading environment](../t/trading_environment.md).
 
 5. **[Clearing and Settlement](../c/clearing_and_settlement.md)**:
-   - The [exchange](../e/exchange.md) has a [robust](../r/robust.md) [clearing and settlement](../c/clearing_and_settlement.md) mechanism, reducing [counterparty risk](../c/counterparty_risk.md) and ensuring the integrity of trades.
+ - The [exchange](../e/exchange.md) has a [robust](../r/robust.md) [clearing and settlement](../c/clearing_and_settlement.md) mechanism, reducing [counterparty risk](../c/counterparty_risk.md) and ensuring the integrity of trades.
 
 ## Trading Mechanism
 
@@ -48,30 +48,30 @@ Institutions participate in NCDEX for [diversification](../d/diversification.md)
 ## Benefits of NCDEX
 
 1. **[Price Discovery](../p/price_discovery.md)**:
-   - The [futures market](../f/futures_market.md) on NCDEX plays a vital role in [price discovery](../p/price_discovery.md), helping [market](../m/market.md) participants make informed decisions based on transparent price signals.
+ - The [futures market](../f/futures_market.md) on NCDEX plays a vital role in [price discovery](../p/price_discovery.md), helping [market](../m/market.md) participants make informed decisions based on transparent price signals.
 
 2. **Hedging**:
-   - NCDEX provides mechanisms for hedging risks associated with [commodity](../c/commodity.md) price [volatility](../v/volatility.md), benefiting various [market](../m/market.md) participants.
+ - NCDEX provides mechanisms for hedging risks associated with [commodity](../c/commodity.md) price [volatility](../v/volatility.md), benefiting various [market](../m/market.md) participants.
 
 3. **[Transparency](../t/transparency.md)**:
-   - The electronic [trading platform](../t/trading_platform.md) ensures [transparency](../t/transparency.md) in prices and trades, promoting [trust](../t/trust.md) and reliability in the [market](../m/market.md).
+ - The electronic [trading platform](../t/trading_platform.md) ensures [transparency](../t/transparency.md) in prices and trades, promoting [trust](../t/trust.md) and reliability in the [market](../m/market.md).
 
 4. **[Market Efficiency](../m/market_efficiency.md)**:
-   - Efficient settlement and [clearing](../c/clearing.md) processes make NCDEX a reliable venue for [commodity](../c/commodity.md) trading.
+ - Efficient settlement and [clearing](../c/clearing.md) processes make NCDEX a reliable venue for [commodity](../c/commodity.md) trading.
 
 5. **Support for Agriculture**:
-   - By [offering](../o/offering.md) a platform for agricultural commodities, NCDEX supports India's agricultural sector, contributing to the overall [economic growth](../e/economic_growth.md).
+ - By [offering](../o/offering.md) a platform for agricultural commodities, NCDEX supports India's agricultural sector, contributing to the overall [economic growth](../e/economic_growth.md).
 
 ## Challenges
 
 1. **[Market](../m/market.md) Awareness**:
-   - Despite its benefits, [market](../m/market.md) awareness and education among farmers and small traders remain challenges. Many are still unaware of how to effectively utilize the [exchange](../e/exchange.md) for hedging.
+ - Despite its benefits, [market](../m/market.md) awareness and education among farmers and small traders remain challenges. Many are still unaware of how to effectively utilize the [exchange](../e/exchange.md) for hedging.
 
 2. **Regulatory Hurdles**:
-   - Regulatory changes and compliance requirements can sometimes pose challenges, necessitating continuous adaptation by the [exchange](../e/exchange.md) and its participants.
+ - Regulatory changes and compliance requirements can sometimes pose challenges, necessitating continuous adaptation by the [exchange](../e/exchange.md) and its participants.
 
 3. **[Infrastructure](../i/infrastructure.md)**:
-   - Ensuring adequate storage and transportation [infrastructure](../i/infrastructure.md) for the [physical delivery](../p/physical_delivery_in_trading.md) of commodities is crucial, especially for agricultural products.
+ - Ensuring adequate storage and transportation [infrastructure](../i/infrastructure.md) for the [physical delivery](../p/physical_delivery_in_trading.md) of commodities is crucial, especially for agricultural products.
 
 ## Future Prospects
 
@@ -87,4 +87,4 @@ The [exchange](../e/exchange.md) is also exploring new product offerings, includ
 
 The National Commodities and [Derivatives](../d/derivatives.md) [Exchange](../e/exchange.md) (NCDEX) is a vital institution in India's [commodity](../c/commodity.md) [market](../m/market.md) landscape. By providing a transparent, efficient, and regulatory-compliant [trading platform](../t/trading_platform.md), NCDEX facilitates [price discovery](../p/price_discovery.md), [risk management](../r/risk_management.md), and [market efficiency](../m/market_efficiency.md). Despite challenges, the [exchange](../e/exchange.md)'s commitment to technology and innovation positions it well for future growth and increased [market](../m/market.md) participation.
 
-For more detailed information about NCDEX, you can visit their [official website](https://www.ncdex.com/).
+For more detailed information about NCDEX,

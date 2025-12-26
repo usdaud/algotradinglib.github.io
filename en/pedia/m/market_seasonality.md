@@ -5,7 +5,7 @@
 ## Types of Market Seasonality
 
 ### Calendar-Based Seasonality
-This type of [seasonality](../s/seasonality.md) is derived from the calendar dates and includes monthly, quarterly, and yearly patterns. 
+This type of [seasonality](../s/seasonality.md) is derived from the calendar dates and includes monthly, quarterly, and yearly patterns.
 
 - **Monthly [Seasonality](../s/seasonality.md)**: Some assets exhibit patterns across months. For instance, the [January Effect](../j/january_effect.md) is a famous [stock market](../s/stock_market.md) [anomaly](../a/anomaly.md) where stock prices, particularly small-cap [stocks](../s/stock.md), tend to rise more in January than in other months.
 
@@ -48,17 +48,17 @@ Using [machine learning](../m/machine_learning.md), traders can develop [predict
 ## Tools and Resources for Market Seasonality
 
 ### Data Providers
-- **[Quandl](https://www.quandl.com/)**: Offers extensive datasets that can be used to analyze seasonal trends.
-- **[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)**: Provides in-depth historical financial data, which is crucial for identifying seasonal patterns.
-- **[Yahoo Finance](https://finance.yahoo.com/)**: Offers basic historical [market](../m/market.md) data suitable for initial analysis.
+- **Quandl**: Offers extensive datasets that can be used to analyze seasonal trends.
+- **Bloomberg Terminal**: Provides in-depth historical financial data, which is crucial for identifying seasonal patterns.
+- **Yahoo Finance**: Offers basic historical [market](../m/market.md) data suitable for initial analysis.
 
 ### Algorithm Development Platforms
-- **[QuantConnect](https://www.quantconnect.com/)**: A cloud-based platform for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md) that can take [seasonality](../s/seasonality.md) into account.
-- **[AlgoTrader](https://www.algotrader.com/)**: Another [robust](../r/robust.md) platform that supports [algorithmic trading](../a/algorithmic_trading.md) with features for seasonal analysis.
+- **QuantConnect**: A cloud-based platform for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md) that can take [seasonality](../s/seasonality.md) into account.
+- **AlgoTrader**: Another [robust](../r/robust.md) platform that supports [algorithmic trading](../a/algorithmic_trading.md) with features for seasonal analysis.
 
 ### Analytical Software
-- **[Python with Pandas](https://pandas.pydata.org/)**: This [open](../o/open.md)-source library is extensively used for data analysis and can be employed to identify and backtest seasonal trends.
-- **[Matlab](https://www.mathworks.com/products/matlab.html)**: Offers advanced analytical capabilities for in-depth seasonal analysis.
+- **Python with Pandas**: This [open](../o/open.md)-source library is extensively used for data analysis and can be employed to identify and backtest seasonal trends.
+- **Matlab**: Offers advanced analytical capabilities for in-depth seasonal analysis.
 
 ## Examples of Seasonality in Practice
 

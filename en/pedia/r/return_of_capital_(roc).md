@@ -68,4 +68,4 @@ Companies in various sectors use ROC as part of their financial practices. Finan
 
 ### 10. References and Further Reading
 
-For more in-depth information, readers can refer to financial textbooks, investment guides, and publications by financial institutions. Websites such as [Investopedia](https://www.investopedia.com) also [offer](../o/offer.md) detailed entries and articles on ROC and related financial concepts.
+For more in-depth information, readers can refer to financial textbooks, investment guides, and publications by financial institutions. Websites such as Investopedia also [offer](../o/offer.md) detailed entries and articles on ROC and related financial concepts.

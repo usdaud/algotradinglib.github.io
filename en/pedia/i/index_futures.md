@@ -1,6 +1,6 @@
 # Index Futures
 
-[Index](../i/index_instrument.md) [futures](../f/futures.md) are [futures contracts](../f/futures_contracts.md) where the [underlying asset](../u/underlying_asset.md) is a stock [index](../i/index_instrument.md), such as the S&P 500 or the [NASDAQ](../n/nasdaq.md)-100. These financial [derivatives](../d/derivatives.md) are agreements to buy or sell the [value](../v/value.md) of an [underlying](../u/underlying.md) stock [index](../i/index_instrument.md) at a predetermined future date and price. 
+[Index](../i/index_instrument.md) [futures](../f/futures.md) are [futures contracts](../f/futures_contracts.md) where the [underlying asset](../u/underlying_asset.md) is a stock [index](../i/index_instrument.md), such as the S&P 500 or the [NASDAQ](../n/nasdaq.md)-100. These financial [derivatives](../d/derivatives.md) are agreements to buy or sell the [value](../v/value.md) of an [underlying](../u/underlying.md) stock [index](../i/index_instrument.md) at a predetermined future date and price.
 
 ## Definition and Basic Concepts
 
@@ -16,7 +16,7 @@ A stock [index](../i/index_instrument.md) measures the [value](../v/value.md) of
 
 ### Contract Specifications
 
-[Index](../i/index_instrument.md) [futures](../f/futures.md) are typically standardized in terms of contract size, expiration dates, and price increments, which are determined by the [exchange](../e/exchange.md) on which they [trade](../t/trade.md). 
+[Index](../i/index_instrument.md) [futures](../f/futures.md) are typically standardized in terms of contract size, expiration dates, and price increments, which are determined by the [exchange](../e/exchange.md) on which they [trade](../t/trade.md).
 
 #### Key Specifications
 
@@ -70,7 +70,7 @@ The Chicago Mercantile [Exchange](../e/exchange.md) (CME) is one of the largest 
 - [NASDAQ](../n/nasdaq.md)-100 [Futures](../f/futures.md)
 - Dow Jones Industrial Average [Futures](../f/futures.md)
 
-For more details, visit the [CME Group Website](https://www.cmegroup.com).
+
 
 ### Eurex Exchange
 
@@ -80,7 +80,7 @@ Eurex is a European [derivatives](../d/derivatives.md) [exchange](../e/exchange.
 - DAX [Futures](../f/futures.md)
 - FTSE 100 [Futures](../f/futures.md)
 
-For more details, visit the [Eurex Website](https://www.eurex.com).
+
 
 ## Risk Management
 

@@ -10,25 +10,25 @@ Kalman Smoothing, also known as Rauch-Tung-Striebel (RTS) smoother, is a method 
 
 The system can be described by a set of linear stochastic difference equations:
 
-1. **State Equation**: 
-   \[
-   x_{k+1} = F_k \cdot x_k + B_k \cdot u_k + w_k
-   \]
-   where:
-   - \(x_k\) is the state vector at time \(k\),
-   - \(F_k\) is the state transition matrix,
-   - \(u_k\) is the control input,
-   - \(B_k\) is the control input matrix,
-   - \(w_k\) is the process [noise](../n/noise.md) (typically Gaussian with zero mean).
+1. **State Equation**:
+ \[
+ x_{k+1} = F_k \cdot x_k + B_k \cdot u_k + w_k
+ \]
+ where:
+ - \(x_k\) is the state vector at time \(k\),
+ - \(F_k\) is the state transition matrix,
+ - \(u_k\) is the control input,
+ - \(B_k\) is the control input matrix,
+ - \(w_k\) is the process [noise](../n/noise.md) (typically Gaussian with zero mean).
 
-2. **Measurement Equation**: 
-   \[
-   z_k = H_k \cdot x_k + v_k
-   \]
-   where:
-   - \(z_k\) is the observation vector,
-   - \(H_k\) is the observation matrix,
-   - \(v_k\) is the measurement [noise](../n/noise.md) (typically Gaussian with zero mean).
+2. **Measurement Equation**:
+ \[
+ z_k = H_k \cdot x_k + v_k
+ \]
+ where:
+ - \(z_k\) is the observation vector,
+ - \(H_k\) is the observation matrix,
+ - \(v_k\) is the measurement [noise](../n/noise.md) (typically Gaussian with zero mean).
 
 ### Forward and Backward Pass
 
@@ -38,21 +38,21 @@ Kalman Smoothing involves two key passes through the data:
 
 2. **Backward pass (RTS Smoother)**: This pass refines the forward estimates by incorporating future data. It calculates the smoothed state estimates by working backward through the data using the following equations:
 
-   - Smoothing [gain](../g/gain.md):
-     \[
-     G_k = P_k \cdot F_k^T \cdot P_{k+1}^{-1} 
-     \]
-     where \(P_k\) is the estimation error [covariance](../c/covariance.md).
+ - Smoothing [gain](../g/gain.md):
+ \[
+ G_k = P_k \cdot F_k^T \cdot P_{k+1}^{-1}
+ \]
+ where \(P_k\) is the estimation error [covariance](../c/covariance.md).
 
-   - Smoothed state estimate:
-     \[
-     \hat{x}_k^s = \hat{x}_k + G_k \cdot (\hat{x}_{k+1}^s - \hat{x}_{k+1})
-     \]
+ - Smoothed state estimate:
+ \[
+ \hat{x}_k^s = \hat{x}_k + G_k \cdot (\hat{x}_{k+1}^s - \hat{x}_{k+1})
+ \]
 
-   - Smoothed error [covariance](../c/covariance.md):
-     \[
-     P_k^s = P_k + G_k \cdot (P_{k+1}^s - P_{k+1}) \cdot G_k^T
-     \]
+ - Smoothed error [covariance](../c/covariance.md):
+ \[
+ P_k^s = P_k + G_k \cdot (P_{k+1}^s - P_{k+1}) \cdot G_k^T
+ \]
 
 ## Applications in Algorithmic Trading
 
@@ -104,15 +104,15 @@ Since Kalman Smoothing requires future data for refining past estimates, it is n
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a pioneering quantitative [hedge fund](../h/hedge_fund.md) management [firm](../f/firm.md), uses advanced statistical and [mathematical models](../m/mathematical_models_in_trading.md), including techniques similar to Kalman Smoothing, to exploit inefficiencies in [financial markets](../f/financial_market.md). [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies, a pioneering quantitative [hedge fund](../h/hedge_fund.md) management [firm](../f/firm.md), uses advanced statistical and [mathematical models](../m/mathematical_models_in_trading.md), including techniques similar to Kalman Smoothing, to exploit inefficiencies in [financial markets](../f/financial_market.md). Renaissance Technologies
 
 ### Two Sigma
 
-Two Sigma, another leader in [quantitative trading](../q/quantitative_trading.md), leverages sophisticated [data analysis techniques](../d/data_analysis_techniques.md), including Kalman Smoothing, to inform its [algorithmic trading](../a/algorithmic_trading.md) strategies. [Two Sigma](https://www.twosigma.com/)
+Two Sigma, another leader in [quantitative trading](../q/quantitative_trading.md), leverages sophisticated [data analysis techniques](../d/data_analysis_techniques.md), including Kalman Smoothing, to inform its [algorithmic trading](../a/algorithmic_trading.md) strategies. Two Sigma
 
 ### DE Shaw
 
-DE Shaw, one of the earliest adopters of [algorithmic trading](../a/algorithmic_trading.md), employs advanced statistical methods, possibly including Kalman Smoothing, to manage its diverse portfolio of investment strategies. [DE Shaw](https://www.deshaw.com/)
+DE Shaw, one of the earliest adopters of [algorithmic trading](../a/algorithmic_trading.md), employs advanced statistical methods, possibly including Kalman Smoothing, to manage its diverse portfolio of investment strategies. DE Shaw
 
 ## Conclusion
 

@@ -7,28 +7,28 @@ The [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI) is 
 The MFI is calculated through a multi-step process that involves the use of typical price, [money flow](../m/money_flow.md), and [money flow](../m/money_flow.md) ratio:
 
 1. **Typical Price (TP):**
-   \[
-   TP = \frac{\text{High} + \text{Low} + \text{Close}}{3}
-   \]
+ \[
+ TP = \frac{\text{High} + \text{Low} + \text{Close}}{3}
+ \]
 
 2. **Raw [Money Flow](../m/money_flow.md) (RMF):**
-   \[
-   RMF = TP \times \text{[Volume](../v/volume.md)}
-   \]
+ \[
+ RMF = TP \times \text{[Volume](../v/volume.md)}
+ \]
 
 3. **Positive and Negative [Money Flow](../m/money_flow.md):**
-   - If today's Typical Price is greater than yesterday's Typical Price, it is considered a positive [money flow](../m/money_flow.md).
-   - If today's Typical Price is less than yesterday's Typical Price, it is considered a negative [money flow](../m/money_flow.md).
+ - If today's Typical Price is greater than yesterday's Typical Price, it is considered a positive [money flow](../m/money_flow.md).
+ - If today's Typical Price is less than yesterday's Typical Price, it is considered a negative [money flow](../m/money_flow.md).
 
 4. **[Money Flow](../m/money_flow.md) Ratio (MFR):**
-   \[
-   MFR = \frac{\text{Positive [Money Flow](../m/money_flow.md) (over 14 periods)}}{\text{Negative [Money Flow](../m/money_flow.md) (over 14 periods)}}
-   \]
+ \[
+ MFR = \frac{\text{Positive [Money Flow](../m/money_flow.md) (over 14 periods)}}{\text{Negative [Money Flow](../m/money_flow.md) (over 14 periods)}}
+ \]
 
 5. **[Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI):**
-   \[
-   MFI = 100 - \frac{100}{1 + MFR}
-   \]
+ \[
+ MFI = 100 - \frac{100}{1 + MFR}
+ \]
 
 ### Interpretation of MFI
 
@@ -44,7 +44,7 @@ The MFI is typically calculated over a 14-day period and ranges between 0 and 10
 When the MFI crosses below 20, it indicates that the [security](../s/security.md) is potentially [oversold](../o/oversold.md) and could be a buying opportunity. Conversely, when the MFI exceeds 80, the [security](../s/security.md) could be [overbought](../o/overbought.md) and present a selling opportunity. This concept can be especially useful for swing traders.
 
 #### Divergences
-Detected divergences between the MFI and the price can serve as a signal for traders. For instance, if a stock price is reaching higher highs but the MFI is not, this [bearish divergence](../b/bearish_divergence.md) might suggest that the upward [momentum](../m/momentum.md) could be weakening. 
+Detected divergences between the MFI and the price can serve as a signal for traders. For instance, if a stock price is reaching higher highs but the MFI is not, this [bearish divergence](../b/bearish_divergence.md) might suggest that the upward [momentum](../m/momentum.md) could be weakening.
 
 ### Example Calculation
 
@@ -56,45 +56,45 @@ Assume the following data points (for simplicity):
 #### Step-by-Step Calculation:
 
 1. **Typical Price (TP):**
-   \[
-   TP_1 = \frac{50 + 42 + 46}{3} = 46
-   \]
-   \[
-   TP_2 = \frac{48 + 41 + 44}{3} = 44.33
-   \]
+ \[
+ TP_1 = \frac{50 + 42 + 46}{3} = 46
+ \]
+ \[
+ TP_2 = \frac{48 + 41 + 44}{3} = 44.33
+ \]
 
 2. **Raw [Money Flow](../m/money_flow.md) (RMF):**
-   \[
-   RMF_1 = 46 \times 200000 = 9200000
-   \]
-   \[
-   RMF_2 = 44.33 \times 220000 = 9752600
-   \]
+ \[
+ RMF_1 = 46 \times 200000 = 9200000
+ \]
+ \[
+ RMF_2 = 44.33 \times 220000 = 9752600
+ \]
 
 3. **Positive and Negative [Money Flow](../m/money_flow.md):**
-   - For TP_2 (44.33 < 46), RMF is negative
-   - For TP_1 (no previous day to compare yet)
+ - For TP_2 (44.33 < 46), RMF is negative
+ - For TP_1 (no previous day to compare yet)
 
-   Let's assume you have 14 periods and sum positive and negative [money](../m/money.md) flows accordingly.
+ Let's assume you have 14 periods and sum positive and negative [money](../m/money.md) flows accordingly.
 
 4. **[Money Flow](../m/money_flow.md) Ratio (MFR):**
-   Suppose,
-   \[
-   \text{Sum of Positive [Money Flow](../m/money_flow.md)} = 50000000
-   \]
-   \[
-   \text{Sum of Negative [Money Flow](../m/money_flow.md)} = 30000000
-   \]
-   \[
-   MFR = \frac{50000000}{30000000} = 1.67
-   \]
+ Suppose,
+ \[
+ \text{Sum of Positive [Money Flow](../m/money_flow.md)} = 50000000
+ \]
+ \[
+ \text{Sum of Negative [Money Flow](../m/money_flow.md)} = 30000000
+ \]
+ \[
+ MFR = \frac{50000000}{30000000} = 1.67
+ \]
 
 5. **[Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) (MFI):**
-   \[
-   MFI = 100 - \frac{100}{1 + 1.67} \approx 62.5
-   \]
+ \[
+ MFI = 100 - \frac{100}{1 + 1.67} \approx 62.5
+ \]
 
-   With an MFI of 62.5, the [security](../s/security.md) isn’t in [overbought](../o/overbought.md) or [oversold](../o/oversold.md) territory.
+ With an MFI of 62.5, the [security](../s/security.md) isn’t in [overbought](../o/overbought.md) or [oversold](../o/oversold.md) territory.
 
 ### Practical Use Cases
 
@@ -111,12 +111,12 @@ In [algorithmic trading](../a/algorithmic_trading.md), the MFI can be incorporat
 - **Data Input:** Fetch daily high, low, close, and [volume](../v/volume.md) data for the target [security](../s/security.md).
 - **MFI Calculation:** Implement the MFI calculation formula within the trading system.
 - **Trigger Conditions:** Set conditions for triggering trades, such as:
-  ```python
-  if MFI < 20:
-      Buy()
-  elif MFI > 80:
-      Sell()
-  ```
+ ```python
+ if MFI < 20:
+ Buy()
+ elif MFI > 80:
+ Sell()
+ ```
 - **[Backtesting](../b/backtesting.md):** Test the strategy using historical data to validate its effectiveness.
 
 ### Popular Platforms and Tools
@@ -130,9 +130,9 @@ Several trading platforms and tools [offer](../o/offer.md) built-in MFI indicato
 
 ### References and Resources
 
-- [TD Ameritrade Thinkorswim Platform](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [TradingView Platform](https://www.tradingview.com/)
-- [MetaTrader Platform](https://www.metatrader4.com/en)
+- TD Ameritrade Thinkorswim Platform
+- TradingView Platform
+- MetaTrader Platform
 
 ### Conclusion
 

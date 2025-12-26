@@ -27,46 +27,46 @@ The [Kelly criterion](../k/kelly_criterion.md) aims to find a balance between [r
 The Kelly formula is derived from the concept of maximizing the expected logarithm of [wealth](../w/wealth.md). Here's the step-by-step derivation:
 
 1. **Expected Logarithmic Growth**:
-    The [Kelly criterion](../k/kelly_criterion.md) focuses on maximizing the geometric rate of growth of the [capital](../c/capital.md), which translates to maximizing the [expected value](../e/expected_value.md) of the logarithm of [wealth](../w/wealth.md).
-    
-    If \( W_0 \) is the initial [wealth](../w/wealth.md) and \( f \) is the fraction of [wealth](../w/wealth.md) to bet, after one round the [wealth](../w/wealth.md) is:
-    
-    \[
-    W_1 = W_0 (1 + f b) \quad \text{(if win)}
-    \]
-    
-    \[
-    W_1 = W_0 (1 - f) \quad \text{(if loss)}
-    \]
-    
-    Considering the probabilities of winning \( p \) and losing \( q \):
-    
-    \[
-    E[\log(W)] = p \log(W_0 (1 + f b)) + q \log(W_0 (1 - f))
-    \]
-    
+ The [Kelly criterion](../k/kelly_criterion.md) focuses on maximizing the geometric rate of growth of the [capital](../c/capital.md), which translates to maximizing the [expected value](../e/expected_value.md) of the logarithm of [wealth](../w/wealth.md).
+
+ If \( W_0 \) is the initial [wealth](../w/wealth.md) and \( f \) is the fraction of [wealth](../w/wealth.md) to bet, after one round the [wealth](../w/wealth.md) is:
+
+ \[
+ W_1 = W_0 (1 + f b) \quad \text{(if win)}
+ \]
+
+ \[
+ W_1 = W_0 (1 - f) \quad \text{(if loss)}
+ \]
+
+ Considering the probabilities of winning \( p \) and losing \( q \):
+
+ \[
+ E[\log(W)] = p \log(W_0 (1 + f b)) + q \log(W_0 (1 - f))
+ \]
+
 2. **Simplification**:
-    \[
-    E[\log(W)] = \log(W_0) + p \log(1 + f b) + q \log(1 - f)
-    \]
-    
-    Since \(\log(W_0)\) is a constant, we only need to maximize:
-    
-    \[
-    E = p \log(1 + f b) + q \log(1 - f)
-    \]
-    
+ \[
+ E[\log(W)] = \log(W_0) + p \log(1 + f b) + q \log(1 - f)
+ \]
+
+ Since \(\log(W_0)\) is a constant, we only need to maximize:
+
+ \[
+ E = p \log(1 + f b) + q \log(1 - f)
+ \]
+
 3. **First [Order](../o/order.md) Condition**:
-    To find the optimal \( f^* \), take the [derivative](../d/derivative.md) of \( E \) with respect to \( f \) and set it to zero:
-    
-    \[
-    \frac{dE}{df} = \frac{p b}{1 + f b} - \frac{q}{1 - f} = 0
-    \]
+ To find the optimal \( f^* \), take the [derivative](../d/derivative.md) of \( E \) with respect to \( f \) and set it to zero:
+
+ \[
+ \frac{dE}{df} = \frac{p b}{1 + f b} - \frac{q}{1 - f} = 0
+ \]
 
 4. **Solve for \( f \)**:
-    \[
-    f^* = \frac{p b - q}{b}
-    \]
+ \[
+ f^* = \frac{p b - q}{b}
+ \]
 
 This yields the Kelly formula as defined earlier.
 
@@ -126,11 +126,11 @@ Ed Thorp, a mathematician, applied the [Kelly criterion](../k/kelly_criterion.md
 
 ### Hedge Funds
 
-Some [hedge](../h/hedge.md) funds use the [Kelly criterion](../k/kelly_criterion.md) for portfolio allocation. For example, the [portfolio management](../p/portfolio_management.md) strategies at [Renaissance Technologies](https://www.rentec.com/) are believed to incorporate aspects of the Kelly formula, contributing to their extraordinary returns.
+Some [hedge](../h/hedge.md) funds use the [Kelly criterion](../k/kelly_criterion.md) for portfolio allocation. For example, the [portfolio management](../p/portfolio_management.md) strategies at Renaissance Technologies are believed to incorporate aspects of the Kelly formula, contributing to their extraordinary returns.
 
 ### High-Frequency Trading Firms
 
-High-frequency trading (HFT) firms employ the [Kelly criterion](../k/kelly_criterion.md) to optimize their [trade](../t/trade.md) sizes based on algorithmic predictions of short-term [market](../m/market.md) movements. Companies like [Jane Street](https://www.janestreet.com/) have [robust](../r/robust.md) algorithmic frameworks that potentially [leverage](../l/leverage.md) such [optimization](../o/optimization.md) techniques.
+High-frequency trading (HFT) firms employ the [Kelly criterion](../k/kelly_criterion.md) to optimize their [trade](../t/trade.md) sizes based on algorithmic predictions of short-term [market](../m/market.md) movements. Companies like Jane Street have [robust](../r/robust.md) algorithmic frameworks that potentially [leverage](../l/leverage.md) such [optimization](../o/optimization.md) techniques.
 
 ## Conclusion
 

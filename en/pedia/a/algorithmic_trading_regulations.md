@@ -14,14 +14,14 @@ The Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)
 
 - **[Market](../m/market.md) Access Rule (Rule 15c3-5)**: This rule requires brokers and dealers with [market](../m/market.md) access to establish pre-[trade](../t/trade.md) [risk](../r/risk.md) controls and supervisory procedures designed to ensure compliance with all applicable regulatory requirements.
 - **Regulation SCI (Systems Compliance and Integrity)**: Aimed at ensuring the resilience and operational capacity of trading markets by requiring certain entities to establish and enforce policies and procedures to safeguard their automated systems.
-- [SEC Website](https://www.sec.gov/)
+-
 
 ### 2.2 Commodity Futures Trading Commission (CFTC)
 
 The CFTC is responsible for regulating [algorithmic trading](../a/algorithmic_trading.md) in [futures](../f/futures.md) and [derivatives](../d/derivatives.md) markets. Key initiatives include:
 
 - **Regulation Automated Trading (Reg AT)**: Although not fully adopted, Reg AT proposed enhanced [transparency](../t/transparency.md) and [risk](../r/risk.md) controls for [algorithmic trading](../a/algorithmic_trading.md) activities, including registration requirements for [proprietary trading](../p/proprietary_trading.md) firms.
-- [CFTC Website](https://www.cftc.gov/)
+-
 
 ## 3. European Regulations
 
@@ -30,18 +30,18 @@ The CFTC is responsible for regulating [algorithmic trading](../a/algorithmic_tr
 ESMA serves as the overarching regulatory body within the [European Union](../e/european_union_(eu).md) (EU) for securities markets. Key regulatory frameworks related to [algorithmic trading](../a/algorithmic_trading.md) include:
 
 - **Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md))**:
-  - **[Algorithmic Trading](../a/algorithmic_trading.md) Definition**: [MiFID II](../m/mifid_ii.md) defines [algorithmic trading](../a/algorithmic_trading.md) and sets the framework for what constitutes high-frequency trading (HFT).
-  - **[Risk](../r/risk.md) Controls**: Includes mandatory pre-[trade](../t/trade.md) [risk](../r/risk.md) controls and post-[trade](../t/trade.md) surveillance.
-  - **[Liquidity](../l/liquidity.md) Provider [Obligations](../o/obligation.md)**: Requires algo traders to maintain [liquidity](../l/liquidity.md) and follow [risk management](../r/risk_management.md) protocols, including [kill](../k/kill.md) switches to terminate algorithms rapidly in case of malfunction.
-- [ESMA Website](https://www.esma.europa.eu/)
+ - **[Algorithmic Trading](../a/algorithmic_trading.md) Definition**: [MiFID II](../m/mifid_ii.md) defines [algorithmic trading](../a/algorithmic_trading.md) and sets the framework for what constitutes high-frequency trading (HFT).
+ - **[Risk](../r/risk.md) Controls**: Includes mandatory pre-[trade](../t/trade.md) [risk](../r/risk.md) controls and post-[trade](../t/trade.md) surveillance.
+ - **[Liquidity](../l/liquidity.md) Provider [Obligations](../o/obligation.md)**: Requires algo traders to maintain [liquidity](../l/liquidity.md) and follow [risk management](../r/risk_management.md) protocols, including [kill](../k/kill.md) switches to terminate algorithms rapidly in case of malfunction.
+-
 
 ### 3.2 United Kingdom's Financial Conduct Authority (FCA)
 
 FCA, although currently departing slightly from ESMA guidelines due to [Brexit](../b/brexit.md), still places strict demands on [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Senior Management Arrangements, Systems, and Controls (SYSC)**:
-  - **Governance:** Requires adequate systems and controls for [algorithmic trading](../a/algorithmic_trading.md) strategies, including [stress testing](../s/stress_testing_in_trading.md) and [risk](../r/risk.md) assessment.
-  - **Record Keeping**: Detailed record-keeping of [trading algorithms](../t/trading_algorithms.md)’ purpose and functionality, with specific conditions for firms engaged in HFT.
+ - **Governance:** Requires adequate systems and controls for [algorithmic trading](../a/algorithmic_trading.md) strategies, including [stress testing](../s/stress_testing_in_trading.md) and [risk](../r/risk.md) assessment.
+ - **Record Keeping**: Detailed record-keeping of [trading algorithms](../t/trading_algorithms.md)’ purpose and functionality, with specific conditions for firms engaged in HFT.
 
 ## 4. Asia-Pacific Regulations
 
@@ -52,8 +52,8 @@ FCA, although currently departing slightly from ESMA guidelines due to [Brexit](
 Japan's Financial Services Agency has implemented rules to enhance [transparency](../t/transparency.md) and stability in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Financial Instruments and [Exchange](../e/exchange.md) Act (FIEA)**:
-  - **[Algorithmic Trading](../a/algorithmic_trading.md) Notification**: Requirements for traders to notify exchanges if they engage in [algorithmic trading](../a/algorithmic_trading.md).
-  - **[Risk Management](../r/risk_management.md)**: [Obligations](../o/obligation.md) for pre-[trade](../t/trade.md) [risk](../r/risk.md) controls and constant monitoring of [trading systems](../t/trading_systems.md).
+ - **[Algorithmic Trading](../a/algorithmic_trading.md) Notification**: Requirements for traders to notify exchanges if they engage in [algorithmic trading](../a/algorithmic_trading.md).
+ - **[Risk Management](../r/risk_management.md)**: [Obligations](../o/obligation.md) for pre-[trade](../t/trade.md) [risk](../r/risk.md) controls and constant monitoring of [trading systems](../t/trading_systems.md).
 
 ### 4.2 Singapore
 
@@ -62,10 +62,10 @@ Japan's Financial Services Agency has implemented rules to enhance [transparency
 MAS has structured its regulatory approach to balance innovation with [market](../m/market.md) integrity and stability:
 
 - **Securities and [Futures](../f/futures.md) Act (SFA)**:
-  - **[Trade](../t/trade.md) Surveillance**: Regular monitoring of [algorithmic trading](../a/algorithmic_trading.md) activities.
-  - **[Risk](../r/risk.md) Controls**: Utilization of [risk management](../r/risk_management.md) and control systems to prevent erroneous trades and [market](../m/market.md) disruptions.
+ - **[Trade](../t/trade.md) Surveillance**: Regular monitoring of [algorithmic trading](../a/algorithmic_trading.md) activities.
+ - **[Risk](../r/risk.md) Controls**: Utilization of [risk management](../r/risk_management.md) and control systems to prevent erroneous trades and [market](../m/market.md) disruptions.
 
-- [MAS Website](https://www.mas.gov.sg/)
+-
 
 ## 5. Risk Control Measures and Compliance
 
@@ -91,7 +91,7 @@ MAS has structured its regulatory approach to balance innovation with [market](.
 Given the global nature of [financial markets](../f/financial_market.md), international regulatory cooperation is critical for the effective oversight of [algorithmic trading](../a/algorithmic_trading.md):
 
 - **IOSCO**: The International Organization of Securities Commissions works to establish international standards and policies for financial regulation, including [algorithmic trading](../a/algorithmic_trading.md).
-- [IOSCO Website](https://www.iosco.org/)
+-
 
 Coordination among regulatory bodies helps ensure harmonized approaches to supervision and reduces the [risk](../r/risk.md) of regulatory [arbitrage](../a/arbitrage.md).
 
@@ -109,4 +109,4 @@ With technological advancements, AI and [machine learning](../m/machine_learning
 
 The regulation of [algorithmic trading](../a/algorithmic_trading.md) is a dynamic and complex area, requiring continuous adaptation to technological advancements and evolving [market](../m/market.md) structures. Regulatory bodies worldwide are dedicated to ensuring that these activities are conducted within a framework that prioritizes [market](../m/market.md) [transparency](../t/transparency.md), fairness, and integrity.
 
-[Trade](../t/trade.md) participants must remain vigilant and proactive in maintaining compliance with all applicable regulations, employing [robust](../r/robust.md) [risk management](../r/risk_management.md) practices to safeguard their operations and contribute to the overall stability of [financial markets](../f/financial_market.md).
+[Trade](../t/trade.md) participants must remain vigilant and proactive in maintaining compliance with all applicable regulations, employing [robust](../r/robust.md) [risk management](../r/risk_management.md) practices to safeguard their operations and contribute to the overall stability of [financial markets](../f/financial_market.md).

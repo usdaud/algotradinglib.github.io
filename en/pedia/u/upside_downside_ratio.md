@@ -38,7 +38,7 @@ For a given stock XYZ, suppose we have the following daily returns over a 10-day
 The [upside](../u/upside.md) days are: Day 1, Day 3, Day 5, Day 6, Day 8, Day 10
 The downside days are: Day 2, Day 4, Day 7, Day 9
 
-Average [gain](../g/gain.md) on [upside](../u/upside.md) days: 
+Average [gain](../g/gain.md) on [upside](../u/upside.md) days:
 \[
 \frac{2\% + 1.5\% + 1\% + 2.5\% + 2\% + 3\%}{6} = 2\%
 \]

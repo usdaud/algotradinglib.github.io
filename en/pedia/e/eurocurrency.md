@@ -52,16 +52,16 @@ Arbitrageurs [capitalize](../c/capitalize.md) on the [interest rate](../i/intere
 ## Major Players in the Eurocurrency Market
 
 ### 1. **HSBC Holdings plc**
-HSBC is one of the world's largest banking and financial services organizations and a major player in the [Eurocurrency market](../e/eurocurrency_market.md). Its global footprint and extensive operations in Asia and Europe make it a key participant in Eurocurrency transactions. [HSBC Holdings plc](https://www.hsbc.com)
+HSBC is one of the world's largest banking and financial services organizations and a major player in the [Eurocurrency market](../e/eurocurrency_market.md). Its global footprint and extensive operations in Asia and Europe make it a key participant in Eurocurrency transactions. HSBC Holdings plc
 
 ### 2. **Citigroup Inc.**
-Citigroup is a leading global [bank](../b/bank.md) that provides a wide [range](../r/range.md) of financial products and services, including those in the [Eurocurrency market](../e/eurocurrency_market.md). Their extensive global network supports international corporations and governments in managing [foreign exchange](../f/foreign_exchange.md) risks. [Citigroup](https://www.citigroup.com)
+Citigroup is a leading global [bank](../b/bank.md) that provides a wide [range](../r/range.md) of financial products and services, including those in the [Eurocurrency market](../e/eurocurrency_market.md). Their extensive global network supports international corporations and governments in managing [foreign exchange](../f/foreign_exchange.md) risks. Citigroup
 
 ### 3. **JPMorgan Chase & Co.**
-JPMorgan Chase is a major American multinational banking and financial services [holding company](../h/holding_company.md). It has a strong presence in the [Eurodollar](../e/eurodollar.md) [market](../m/market.md), providing [liquidity](../l/liquidity.md) and financial solutions to its clients around the globe. [JPMorgan Chase & Co.](https://www.jpmorganchase.com)
+JPMorgan Chase is a major American multinational banking and financial services [holding company](../h/holding_company.md). It has a strong presence in the [Eurodollar](../e/eurodollar.md) [market](../m/market.md), providing [liquidity](../l/liquidity.md) and financial solutions to its clients around the globe. JPMorgan Chase & Co.
 
 ### 4. **Deutsche Bank AG**
-Deutsche [Bank](../b/bank.md) is a German investment [bank](../b/bank.md) and financial services company with a significant presence in the Eurocurrency markets. They are heavily involved in [Euro](../e/euro.md) transactions, providing a wide [range](../r/range.md) of financial products and services. [Deutsche Bank AG](https://www.db.com)
+Deutsche [Bank](../b/bank.md) is a German investment [bank](../b/bank.md) and financial services company with a significant presence in the Eurocurrency markets. They are heavily involved in [Euro](../e/euro.md) transactions, providing a wide [range](../r/range.md) of financial products and services. Deutsche Bank AG
 
 ## Regulatory Environment
 

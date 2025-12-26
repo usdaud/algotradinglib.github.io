@@ -61,6 +61,6 @@ The theory also tends to focus on aggregate [economic growth](../e/economic_grow
 New Growth Theory represents a significant advancement in understanding the drivers of long-term [economic growth](../e/economic_growth.md). By focusing on endogenous factors like technology, innovation, and [human capital](../h/human_capital.md), it provides a more comprehensive and dynamic view of economic development. However, it also presents challenges in terms of measurement, policy implementation, and addressing inequalities. As the global [economy](../e/economy.md) continues to evolve, the principles of New Growth Theory [will](../w/will.md) remain crucial in shaping policies and strategies for sustainable and inclusive growth.
 
 For more in-depth resources on New Growth Theory, you can refer to academic publications and leading economic institutions such as:
-- [Stanford Center for International Development](https://scid.stanford.edu/)
-- [National Bureau of Economic Research](https://www.nber.org/)
-- [International Monetary Fund](https://www.imf.org/)
+- Stanford Center for International Development
+- National Bureau of Economic Research
+- International Monetary Fund

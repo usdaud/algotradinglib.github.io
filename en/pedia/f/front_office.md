@@ -37,13 +37,10 @@ Modern trading platforms are essential tools for front office operations. These 
 #### Key Companies in Algorithmic Trading
 
 **Virtu Financial**
-- Website: [Virtu Financial](https://www.virtu.com)
 
 **Jane Street**
-- Website: [Jane Street](https://www.janestreet.com)
 
 **Two Sigma**
-- Website: [Two Sigma](https://www.twosigma.com)
 
 ### Risk Management Systems
 

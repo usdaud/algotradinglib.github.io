@@ -17,15 +17,15 @@
 
 ## Types of Interactive Media
 1. **Websites and Web Applications**: Sites that [offer](../o/offer.md) interactive features such as forms, quizzes, and user-generated content.
-   - **Example**: [Social media](../s/social_media.md) platforms like Facebook and Instagram.
+ - **Example**: [Social media](../s/social_media.md) platforms like Facebook and Instagram.
 2. **Video Games**: Games that involve user control and decision-making, [offering](../o/offering.md) various outcomes based on player choices.
-   - **Example**: Popular video games like "The Legend of Zelda" and "Fortnite."
+ - **Example**: Popular video games like "The Legend of Zelda" and "Fortnite."
 3. **Mobile Apps**: Applications designed for smartphones and tablets that [offer](../o/offer.md) interactive functionalities.
-   - **Example**: Fitness apps that track user progress and provide personalized workout plans.
+ - **Example**: Fitness apps that track user progress and provide personalized workout plans.
 4. **[Virtual Reality](../v/virtual_reality.md) (VR) and Augmented Reality (AR)**: Immersive environments where users interact with virtual elements in real-time.
-   - **Example**: VR games and AR apps like "Pokemon Go."
+ - **Example**: VR games and AR apps like "Pokemon Go."
 5. **Interactive Videos**: Videos that allow users to make choices that affect the storyline or outcome.
-   - **Example**: Interactive films on platforms like Netflix.
+ - **Example**: Interactive films on platforms like Netflix.
 
 ## Example Scenarios
 1. **Educational Tools**: An interactive e-learning platform where students can take quizzes, participate in simulations, and receive instant feedback.
@@ -47,4 +47,3 @@
 
 ## Conclusion
 Interactive media represents a dynamic and engaging way to create and consume digital content. By allowing users to actively participate and influence their experiences, interactive media enhances engagement, personalization, and effectiveness across various fields, including education, [marketing](../m/marketing.md), and entertainment. Understanding its key components, types, and [best practices](../b/best_practices.md) is essential for developing successful interactive media solutions.
-

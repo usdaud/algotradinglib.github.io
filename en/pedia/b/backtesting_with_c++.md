@@ -25,10 +25,10 @@ To backtest [trading strategies](../t/trading_strategies.md) using C++, we need 
 
 1. **Compiler**: GCC or Visual Studio can be used to compile the C++ code.
 2. **IDE**: Visual Studio, CLion, or other C++ IDEs can be used for ease of development.
-3. **Libraries**: 
-   - [Boost](https://www.boost.org/): Provides many useful utilities like date-time manipulation, file I/O, and more.
-   - [QT](https://www.qt.io/): A powerful framework that can be used for creating graphical user interfaces if needed.
-   - [Talib](https://github.com/mrjbq7/ta-lib): For [technical analysis](../t/technical_analysis.md) functions (this however is primarily in Python, but can be interfaced with C++ using various methods).
+3. **Libraries**:
+ - Boost: Provides many useful utilities like date-time manipulation, file I/O, and more.
+ - QT: A powerful framework that can be used for creating graphical user interfaces if needed.
+ - Talib: For [technical analysis](../t/technical_analysis.md) functions (this however is primarily in Python, but can be interfaced with C++ using various methods).
 
 ### Installing Required Libraries
 
@@ -226,4 +226,4 @@ public:
 
 [Backtesting](../b/backtesting.md) is a pivotal aspect of [algorithmic trading](../a/algorithmic_trading.md) that enables traders to validate strategies by simulating their performance on historical data. Using C++ for [backtesting](../b/backtesting.md) offers speed and [efficiency](../e/efficiency.md), enabling the handling of large datasets and the implementation of complex strategies.
 
-In this article, we covered the entire spectrum of [backtesting](../b/backtesting.md) using C++, from reading data, designing strategies, simulating trades, to evaluating performance. This foundational guide equips you with the tools and knowledge required to develop [robust](../r/robust.md) [backtesting](../b/backtesting.md) systems and refine [trading strategies](../t/trading_strategies.md) for better [market](../m/market.md) performance.
+In this article, we covered the entire spectrum of [backtesting](../b/backtesting.md) using C++, from reading data, designing strategies, simulating trades, to evaluating performance. This foundational guide equips you with the tools and knowledge required to develop [robust](../r/robust.md) [backtesting](../b/backtesting.md) systems and refine [trading strategies](../t/trading_strategies.md) for better [market](../m/market.md) performance.

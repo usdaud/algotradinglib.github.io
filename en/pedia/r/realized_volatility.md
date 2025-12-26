@@ -15,22 +15,22 @@ Realized [volatility](../v/volatility.md) measures the historical fluctuations o
 #### Calculation Methods
 
 1. **[Standard Deviation](../s/standard_deviation.md) of Returns**:
-    - The simplest method to calculate realized [volatility](../v/volatility.md) is to compute the [standard deviation](../s/standard_deviation.md) of [logarithmic returns](../l/logarithmic_returns.md) of the [asset](../a/asset.md) over a specified period. 
+ - The simplest method to calculate realized [volatility](../v/volatility.md) is to compute the [standard deviation](../s/standard_deviation.md) of [logarithmic returns](../l/logarithmic_returns.md) of the [asset](../a/asset.md) over a specified period.
 
-    - Formula:
-      \[
-      \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (r_i - \bar{r})^2}
-      \]
-      where \( \sigma \) is the realized [volatility](../v/volatility.md), \( \bar{r} \) is the mean [return](../r/return.md), \( r_i \) is the [return](../r/return.md) on day \( i \), and \( N \) is the number of observations.
+ - Formula:
+ \[
+ \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (r_i - \bar{r})^2}
+ \]
+ where \( \sigma \) is the realized [volatility](../v/volatility.md), \( \bar{r} \) is the mean [return](../r/return.md), \( r_i \) is the [return](../r/return.md) on day \( i \), and \( N \) is the number of observations.
 
 2. **High-Low [Range](../r/range.md) Measures**:
-    - An alternative approach involves using intraday high and low prices to compute [volatility](../v/volatility.md), such as the Parkinson or Garman-Klass estimators. These methods can provide a more accurate estimate of [volatility](../v/volatility.md) by [accounting](../a/accounting.md) for the [range](../r/range.md) within each trading day.
+ - An alternative approach involves using intraday high and low prices to compute [volatility](../v/volatility.md), such as the Parkinson or Garman-Klass estimators. These methods can provide a more accurate estimate of [volatility](../v/volatility.md) by [accounting](../a/accounting.md) for the [range](../r/range.md) within each trading day.
 
-    - Parkinson Estimator:
-      \[
-      \sigma_P = \frac{1}{N} \sum_{i=1}^{N} \left( \ln \frac{H_i}{L_i} \right)^2
-      \]
-      where \( H_i \) and \( L_i \) are the high and low prices on day \( i \), respectively.
+ - Parkinson Estimator:
+ \[
+ \sigma_P = \frac{1}{N} \sum_{i=1}^{N} \left( \ln \frac{H_i}{L_i} \right)^2
+ \]
+ where \( H_i \) and \( L_i \) are the high and low prices on day \( i \), respectively.
 
 #### Data Frequency and Sample Period
 
@@ -84,35 +84,35 @@ Estimation of realized [volatility](../v/volatility.md) is subject to several ch
 Several advanced techniques have been developed to enhance the accuracy and robustness of realized [volatility](../v/volatility.md) estimates:
 
 1. **Realized Variance and Bipower Variation**:
-    - Realized variance involves summing squared returns over a certain period. Bipower variation uses absolute returns to account for jumps and better estimate continuous variation components.
+ - Realized variance involves summing squared returns over a certain period. Bipower variation uses absolute returns to account for jumps and better estimate continuous variation components.
 
-    - Formula for Realized Variance:
-      \[
-      RV_t = \sum_{i=1}^{N} r_{t,i}^2
-      \]
-      where \( RV_t \) is the realized variance on day \( t \), and \( r_{t,i} \) is the [return](../r/return.md) in intraday interval \( i \).
+ - Formula for Realized Variance:
+ \[
+ RV_t = \sum_{i=1}^{N} r_{t,i}^2
+ \]
+ where \( RV_t \) is the realized variance on day \( t \), and \( r_{t,i} \) is the [return](../r/return.md) in intraday interval \( i \).
 
-    - Formula for Bipower Variation:
-      \[
-      BV_t = \sum_{i=2}^{N} |r_{t,i-1}| \cdot |r_{t,i}|
-      \]
+ - Formula for Bipower Variation:
+ \[
+ BV_t = \sum_{i=2}^{N} |r_{t,i-1}| \cdot |r_{t,i}|
+ \]
 
 2. **Multivariate Models**:
-    - Multivariate extensions, such as dynamic conditional [correlation](../c/correlation.md) (DCC) models, capture the time-varying [correlation](../c/correlation.md) between [multiple](../m/multiple.md) assets, improving [portfolio risk management](../p/portfolio_risk_management.md) and [trading strategies](../t/trading_strategies.md).
+ - Multivariate extensions, such as dynamic conditional [correlation](../c/correlation.md) (DCC) models, capture the time-varying [correlation](../c/correlation.md) between [multiple](../m/multiple.md) assets, improving [portfolio risk management](../p/portfolio_risk_management.md) and [trading strategies](../t/trading_strategies.md).
 
-    - DCC Model:
-      \[
-      Q_t = (1 - a - b)Q + a (r_{t-1}r_{t-1}^T) + b Q_{t-1}
-      \]
-      where \( Q_t \) is the [covariance](../c/covariance.md) matrix, and \( a \) and \( b \) are parameters.
+ - DCC Model:
+ \[
+ Q_t = (1 - a - b)Q + a (r_{t-1}r_{t-1}^T) + b Q_{t-1}
+ \]
+ where \( Q_t \) is the [covariance](../c/covariance.md) matrix, and \( a \) and \( b \) are parameters.
 
 3. **Integrated [Volatility](../v/volatility.md)**:
-    - Uses finer time intervals to capture aggregate [return](../r/return.md) variation. Methods like pre-averaging can smooth out [noise](../n/noise.md) and provide [robust](../r/robust.md) [volatility](../v/volatility.md) estimates.
+ - Uses finer time intervals to capture aggregate [return](../r/return.md) variation. Methods like pre-averaging can smooth out [noise](../n/noise.md) and provide [robust](../r/robust.md) [volatility](../v/volatility.md) estimates.
 
-    - Pre-averaging Method:
-      \[
-      IV_t = \sum_{i=1}^{N} \left( \frac{1}{h} \sum_{j=i}^{i+h-1} r_{t,j} \right)^2
-      \]
+ - Pre-averaging Method:
+ \[
+ IV_t = \sum_{i=1}^{N} \left( \frac{1}{h} \sum_{j=i}^{i+h-1} r_{t,j} \right)^2
+ \]
 
 ### Tools and Resources for Realized Volatility
 
@@ -121,36 +121,36 @@ Professionals in [finance](../f/finance.md) and trading use various tools and pl
 #### Software Packages
 
 1. **Python Libraries**:
-    - Libraries such as NumPy, SciPy, and pandas [offer](../o/offer.md) functions for calculating [standard deviation](../s/standard_deviation.md) and other statistical measures. Specialized packages like statsmodels and arch provide advanced econometric modeling capabilities.
+ - Libraries such as NumPy, SciPy, and pandas [offer](../o/offer.md) functions for calculating [standard deviation](../s/standard_deviation.md) and other statistical measures. Specialized packages like statsmodels and arch provide advanced econometric modeling capabilities.
 
-    - Example using Python (NumPy):
-      ```python
-      [import](../i/import.md) numpy as np
+ - Example using Python (NumPy):
+ ```python
+ [import](../i/import.md) numpy as np
 
-      returns = np.array([0.01, -0.02, 0.015, -0.005, 0.02])
-      realized_volatility = np.std(returns, ddof=1)
-      ```
+ returns = np.array([0.01, -0.02, 0.015, -0.005, 0.02])
+ realized_volatility = np.std(returns, ddof=1)
+ ```
 
 2. **R Packages**:
-    - R packages like quantmod, xts, and TTR provide functionalities for financial data analysis. The rugarch package supports GARCH modeling, useful for [volatility estimation](../v/volatility_estimation.md).
+ - R packages like quantmod, xts, and TTR provide functionalities for financial data analysis. The rugarch package supports GARCH modeling, useful for [volatility estimation](../v/volatility_estimation.md).
 
-    - Example using R (quantmod):
-      ```R
-      library(quantmod)
-      prices <- getSymbols("AAPL", src="yahoo", auto.assign=FALSE)
-      returns <- dailyReturn(Cl(prices))
-      realized_volatility <- sd(returns, na.rm=TRUE)
-      ```
+ - Example using R (quantmod):
+ ```R
+ library(quantmod)
+ prices <- getSymbols("AAPL", src="yahoo", auto.assign=FALSE)
+ returns <- dailyReturn(Cl(prices))
+ realized_volatility <- sd(returns, na.rm=TRUE)
+ ```
 
 #### Online Platforms
 
 Several online platforms [offer](../o/offer.md) tools and services for [volatility analysis](../v/volatility_analysis.md):
 
 1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive historical data and [backtesting](../b/backtesting.md) capabilities. Users can develop and test [volatility](../v/volatility.md)-based [trading strategies](../t/trading_strategies.md).
-   - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 
 2. **Kensho Technologies**: Offers actionable analytics and insights, including [volatility analysis](../v/volatility_analysis.md), for institutional investors.
-   - [Kensho Technologies](https://www.kensho.com/)
+ - Kensho Technologies
 
 3. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive tools for financial data analysis, including [volatility](../v/volatility.md) tracking and [risk management](../r/risk_management.md) modules.
 

@@ -1,10 +1,9 @@
 # Mexican Stock Exchange (BMV)
 
-The Mexican Stock [Exchange](../e/exchange.md), referred to in Spanish as the Bolsa Mexicana de Valores (BMV), is the primary stock [exchange](../e/exchange.md) in Mexico. Founded in 1894, the BMV plays a vital role in the Mexican financial [market](../m/market.md) by facilitating the trading of equities, [debt](../d/debt.md) instruments, and [derivatives](../d/derivatives.md). The BMV is headquartered in Mexico City and is a publicly traded company itself. This stock [exchange](../e/exchange.md) is pivotal for both domestic and international investors seeking to expand their portfolios with Mexican securities. The official website for the BMV is [www.bmv.com.mx](https://www.bmv.com.mx).
-
+The Mexican Stock [Exchange](../e/exchange.md), referred to in Spanish as the Bolsa Mexicana de Valores (BMV), is the primary stock [exchange](../e/exchange.md) in Mexico. Founded in 1894, the BMV plays a vital role in the Mexican financial [market](../m/market.md) by facilitating the trading of equities, [debt](../d/debt.md) instruments, and [derivatives](../d/derivatives.md). The BMV is headquartered in Mexico City and is a publicly traded company itself. This stock [exchange](../e/exchange.md) is pivotal for both domestic and international investors seeking to expand their portfolios with Mexican securities. The public materials for the BMV is
 ## Overview of the BMV
 
-The BMV has a diverse [range](../r/range.md) of [listed](../l/listed.md) companies from various sectors, including financial services, telecommunications, [consumer goods](../c/consumer_goods.md), and industrials. It operates under the regulatory framework set by the Mexican government and is supervised by the National Banking and Securities [Commission](../c/commission.md) (CNBV). 
+The BMV has a diverse [range](../r/range.md) of [listed](../l/listed.md) companies from various sectors, including financial services, telecommunications, [consumer goods](../c/consumer_goods.md), and industrials. It operates under the regulatory framework set by the Mexican government and is supervised by the National Banking and Securities [Commission](../c/commission.md) (CNBV).
 
 ### Key Functions
 1. **[Equity Trading](../e/equity_trading.md):** The BMV enables the buying and selling of [shares](../s/shares.md) in publicly [listed](../l/listed.md) companies.
@@ -34,7 +33,7 @@ Some of the most influential companies [listed](../l/listed.md) on the BMV inclu
 
 ## Trading Mechanism
 
-The BMV employs a continuous trading system where buy and sell orders are matched electronically. 
+The BMV employs a continuous trading system where buy and sell orders are matched electronically.
 
 ### Trading Sessions
 - **Opening Auction:** Determines the [opening price](../o/opening_price.md) for securities based on accumulated buy and sell orders.
@@ -52,10 +51,10 @@ The BMV is regulated by several governmental and non-governmental organizations 
 
 ## Technology and Innovation
 
-The BMV has continually incorporated technology to enhance trading [efficiency](../e/efficiency.md). The implementation of the electronic [trading platform](../t/trading_platform.md) "SENTRA" in the 1990s was a significant milestone. The [exchange](../e/exchange.md) has since upgraded its [infrastructure](../i/infrastructure.md) to support high-frequency trading (HFT) and [algorithmic trading](../a/accountability.md).
+The BMV has continually incorporated technology to enhance trading [efficiency](../e/efficiency.md). The implementation of the electronic [trading platform](../t/trading_platform.md) "SENTRA" in the 1990s was a significant milestone. The [exchange](../e/exchange.md) has since upgraded its [infrastructure](../i/infrastructure.md) to support high-frequency trading (HFT) and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Algorithms in the BMV
-- **[Quantitative Strategies](../q/quantitative_strategies_in_trading.md):** [Algorithmic trading](../a/accountability.md) is widely used for executing large orders efficiently.
+- **[Quantitative Strategies](../q/quantitative_strategies_in_trading.md):** [Algorithmic trading](../a/algorithmic_trading.md) is widely used for executing large orders efficiently.
 - **Latency:** The BMV aims to minimize latency to attract global high-frequency traders.
 - **[Data Analytics](../d/data_analytics.md):** Advanced analytics are employed to predict [market](../m/market.md) trends and optimize [trading algorithms](../t/trading_algorithms.md).
 
@@ -73,7 +72,7 @@ The BMV has continually incorporated technology to enhance trading [efficiency](
 
 ## International Relations
 
-The BMV has established cross-listing agreements with other global exchanges to attract [foreign investment](../f/foreign_investment.md) and provide Mexican investors with more diversified investment opportunities. 
+The BMV has established cross-listing agreements with other global exchanges to attract [foreign investment](../f/foreign_investment.md) and provide Mexican investors with more diversified investment opportunities.
 
 ### Notable Partnerships
 - **International Securities [Exchange](../e/exchange.md) (ISE):** Agreement to cross-list [derivative](../d/derivative.md) products.

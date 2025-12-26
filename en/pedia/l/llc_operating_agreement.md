@@ -70,7 +70,7 @@ An operating agreement also outlines conditions for the dissolution of the LLC a
 ## Legal Considerations
 
 ### State Requirements
-While operating agreements are not always required by state law, they are highly recommended. Some states, such as California and New York, require LLCs to have a written operating agreement. 
+While operating agreements are not always required by state law, they are highly recommended. Some states, such as California and New York, require LLCs to have a written operating agreement.
 
 ### Customization
 Given the different statutory requirements and [business](../b/business.md) needs, it is crucial to customize the operating agreement to suit the specific circumstances of your LLC. A generic template often fails to capture critical nuances that can protect members' interests.
@@ -82,4 +82,4 @@ It is advisable to consult with a legal professional when drafting an LLC Operat
 
 An LLC Operating Agreement is essential for clearly defining the structure, responsibilities, and processes of your LLC. It provides legal recognition, protects [limited liability](../l/limited_liability.md) status, and sets out clear rules for governance, decision-making, financial arrangements, and exit strategies. By taking the time to create a comprehensive and customized operating agreement, LLC members can avoid potential disputes and ensure smooth [business](../b/business.md) operations.
 
-For further information on how to create a comprehensive LLC Operating Agreement, you can visit sites that [offer](../o/offer.md) legal advice and document templates tailored to your state's requirements. One such resource is [LegalZoom](https://www.legalzoom.com), which provides various tools and services to assist in forming an LLC and crafting an operating agreement. Additionally, exploring resources from law firms specializing in [business](../b/business.md) law, such as [Nolo](https://www.nolo.com), can provide further detailed [guidance](../g/guidance.md) and templates to better understand the process and essential components of an LLC Operating Agreement.
+For further information on how to create a comprehensive LLC Operating Agreement, you can visit sites that [offer](../o/offer.md) legal advice and document templates tailored to your state's requirements. One such resource is LegalZoom, which provides various tools and services to assist in forming an LLC and crafting an operating agreement. Additionally, exploring resources from law firms specializing in [business](../b/business.md) law, such as Nolo, can provide further detailed [guidance](../g/guidance.md) and templates to better understand the process and essential components of an LLC Operating Agreement.

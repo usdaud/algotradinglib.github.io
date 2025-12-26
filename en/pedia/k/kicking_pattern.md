@@ -80,10 +80,10 @@ While the Kicking Pattern can provide valuable insights, it is essential to inte
 The Kicking Pattern is a powerful tool in the arsenal of algorithmic traders. Through meticulous identification of its components and incorporating automated detection methods, traders can enhance their decision-making processes and potentially [capitalize](../c/capitalize.md) on [market](../m/market.md) reversals. However, like all [trading strategies](../t/trading_strategies.md), it requires diligent [risk management](../r/risk_management.md) and continuous refinement to adapt to the ever-changing [market dynamics](../m/market_dynamics.md).
 
 To learn more about companies leveraging such patterns and their [trading strategies](../t/trading_strategies.md), you can visit the following links:
-- [Jane Street](https://www.janestreet.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Jump Trading](https://www.jumptrading.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
-- [D.E. Shaw](https://www.deshaw.com/)
+- Jane Street
+- Citadel Securities
+- Jump Trading
+- Renaissance Technologies
+- D.E. Shaw
 
 *[Note](../n/note.md): The provided pseudocode is for educational purposes. Real-world [trading algorithms](../t/trading_algorithms.md) should be optimized for performance and integrated with live data feeds.*

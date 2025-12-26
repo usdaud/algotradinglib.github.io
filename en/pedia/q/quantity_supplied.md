@@ -11,7 +11,7 @@ The **[Law of Supply](../l/law_of_supply.md)** states that, all else being equal
 ### Supply Schedule and Supply Curve
 
 - **[Supply](../s/supply.md) Schedule**: A table that shows the quantity of a good that producers are willing and able to [supply](../s/supply.md) at various prices.
-  
+
 - **[Supply Curve](../s/supply_curve.md)**: A graphical representation of the [supply](../s/supply.md) schedule, typically drawn with the price on the vertical axis and quantity supplied on the horizontal axis.
 
 ### Shifts in Supply
@@ -61,13 +61,12 @@ So, the quantity supplied would be 500 widgets.
 
 ## Real-World Examples in Fintech and Algo Trading
 
-In the context of fintech and [algorithmic trading](../a/accountability.md), the concept of quantity supplied is crucial in designing [trading algorithms](../t/trading_algorithms.md) that respond to [market](../m/market.md) conditions. These algorithms often take into account real-time data feeds and adjust [supply](../s/supply.md) conditions dynamically. Companies like **[QuantConnect](../q/quantconnect.md)** provide platforms for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that incorporate [supply](../s/supply.md) functions:
+In the context of fintech and [algorithmic trading](../a/algorithmic_trading.md), the concept of quantity supplied is crucial in designing [trading algorithms](../t/trading_algorithms.md) that respond to [market](../m/market.md) conditions. These algorithms often take into account real-time data feeds and adjust [supply](../s/supply.md) conditions dynamically. Companies like **[StockSharp](../s/stocksharp.md)** provide platforms for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that incorporate [supply](../s/supply.md) functions:
 
-[QuantConnect](https://www.quantconnect.com/)
 
 ### High-Frequency Trading (HFT)
 
-High-Frequency Trading (HFT) firms use sophisticated algorithms to execute orders at extremely high speeds. These algorithms take into account the quantity supplied and [demand](../d/demand.md) data in milliseconds to optimize [trading strategies](../t/trading_strategies.md). 
+High-Frequency Trading (HFT) firms use sophisticated algorithms to execute orders at extremely high speeds. These algorithms take into account the quantity supplied and [demand](../d/demand.md) data in milliseconds to optimize [trading strategies](../t/trading_strategies.md).
 
 For example, an HFT algorithm may detect an increase in the quantity supplied of a particular stock due to a large number of sell orders and respond accordingly by executing buy orders if the price is expected to rise.
 
@@ -75,8 +74,6 @@ For example, an HFT algorithm may detect an increase in the quantity supplied of
 
 Cryptocurrency markets are characterized by high [volatility](../v/volatility.md), making the concept of quantity supplied particularly relevant. Platforms like **[Coinbase](../c/coinbase.md)** and **[Binance](../b/binance.md)** often provide detailed analytics about [supply](../s/supply.md) and [demand](../d/demand.md) to help traders make informed decisions. For instance, if the quantity supplied of [Bitcoin](../b/bitcoin.md) increases significantly due to a large-scale [mining](../m/mining.md) operation, the algorithms might predict a potential price drop and adjust [trading strategies](../t/trading_strategies.md) accordingly.
 
-[Coinbase](https://www.coinbase.com/)
-[Binance](https://www.binance.com/)
 
 ## Conclusion
 

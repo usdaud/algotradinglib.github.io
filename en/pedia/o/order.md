@@ -1,6 +1,6 @@
 # Order
 
-In [finance](../f/finance.md) and trading, an order is an instruction given by an [investor](../i/investor.md) or [trader](../t/trader.md) to buy or sell a [security](../s/security.md). These instructions are provided to brokers or directly to the [market](../m/market.md) through electronic trading platforms. Orders can take many forms and [offer](../o/offer.md) various features, allowing traders to implement different strategies depending on their goals, time horizons, [risk tolerance](../r/risk_tolerance.md), and [market](../m/market.md) conditions. Here, we'll delve deep into the different types of orders, their purposes, the mechanics behind them, and their relevance in the domain of [algorithmic trading](../a/accountability.md) and fintech.
+In [finance](../f/finance.md) and trading, an order is an instruction given by an [investor](../i/investor.md) or [trader](../t/trader.md) to buy or sell a [security](../s/security.md). These instructions are provided to brokers or directly to the [market](../m/market.md) through electronic trading platforms. Orders can take many forms and [offer](../o/offer.md) various features, allowing traders to implement different strategies depending on their goals, time horizons, [risk tolerance](../r/risk_tolerance.md), and [market](../m/market.md) conditions. Here, we'll delve deep into the different types of orders, their purposes, the mechanics behind them, and their relevance in the domain of [algorithmic trading](../a/algorithmic_trading.md) and fintech.
 
 ## Types of Orders
 
@@ -69,7 +69,7 @@ GFD orders are used by those who are trading based on daily price movements.
 
 ## Algorithmic Trading and Order Types
 
-[Algorithmic trading](../a/accountability.md), also known as algo trading, involves using computer algorithms to automate trading decisions. Understanding different [order types](../o/order_types_in_trading.md) is crucial for developing efficient and effective [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves using computer algorithms to automate trading decisions. Understanding different [order types](../o/order_types_in_trading.md) is crucial for developing efficient and effective [trading algorithms](../t/trading_algorithms.md).
 
 ### Limit Order Book Dynamics
 High-frequency trading (HFT) firms often engage with [limit order](../l/limit_order.md) books, which aggregate all limit orders and provide a snapshot of [supply](../s/supply.md) and [demand](../d/demand.md) at different price levels. Algorithms optimize order placements based on the [order book](../o/order_book.md) state to minimize [market](../m/market.md) impact and avoid [adverse selection](../a/adverse_selection.md).
@@ -91,11 +91,11 @@ These technologies are being used to predict [market](../m/market.md) movements,
 [Blockchain](../b/blockchain_in_trading.md) technology is facilitating more transparent, immutable, and efficient [execution](../e/execution.md) of financial transactions. [Smart contracts](../s/smart_contracts_in_trading.md) automate the [execution](../e/execution.md) of orders based on predetermined conditions.
 
 ### API Integrations
-Many fintech companies [offer](../o/offer.md) APIs that allow traders to programmatically place and manage orders. One example is [Alpaca](../a/alpaca.md), a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides API-first stock and crypto trading services. More details can be found on their official website: [Alpaca](https://alpaca.markets/).
+Many fintech companies [offer](../o/offer.md) APIs that allow traders to programmatically place and manage orders. One example is [Alpaca](../a/alpaca.md), a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides API-first stock and crypto trading services. More
 
 ### Dark Pools
 [Dark pools](../d/dark_pools.md) are private exchanges for trading securities, owned by banks or [broker](../b/broker.md)-dealers. They allow large orders to be executed without impacting the public markets, taking advantage of advanced [order types](../o/order_types_in_trading.md) and routing mechanisms to optimize [execution](../e/execution.md).
 
 ## Conclusion
 
-Understanding the intricacies of various types of orders is foundational for anyone involved in trading and [investing](../i/investing.md). Whether you're an individual retail [trader](../t/trader.md) or an [institutional investor](../i/institutional_investor.md) engaged in high-frequency trading, knowing when and how to utilize different [order types](../o/order_types_in_trading.md) can significantly impact your [trading performance](../t/trading_performance.md). Advancements in [algorithmic trading](../a/accountability.md) and fintech continue to push the boundaries, making it ever more critical to stay informed and adaptable in this ever-evolving landscape.
+Understanding the intricacies of various types of orders is foundational for anyone involved in trading and [investing](../i/investing.md). Whether you're an individual retail [trader](../t/trader.md) or an [institutional investor](../i/institutional_investor.md) engaged in high-frequency trading, knowing when and how to utilize different [order types](../o/order_types_in_trading.md) can significantly impact your [trading performance](../t/trading_performance.md). Advancements in [algorithmic trading](../a/algorithmic_trading.md) and fintech continue to push the boundaries, making it ever more critical to stay informed and adaptable in this ever-evolving landscape.

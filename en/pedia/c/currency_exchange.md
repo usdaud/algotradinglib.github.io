@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Currency](../c/currency.md) [exchange](../e/exchange.md), also known as Forex trading, involves buying and selling different currencies in [order](../o/order.md) to [profit](../p/profit.md) from fluctuations in their [exchange](../e/exchange.md) rates. This financial activity forms the [basis](../b/basis.md) of the global [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md), or Forex [market](../m/market.md), which is the largest and most [liquid](../l/liquid.md) financial [market](../m/market.md) in the world, with a daily trading [volume](../v/volume.md) exceeding $6 trillion.
+[Currency](../c/currency.md) [exchange](../e/exchange.md), also known as Forex trading, involves buying and selling different currencies in [order](../o/order.md) to [profit](../p/profit.md) from fluctuations in their [exchange](../e/exchange.md) rates. This financial activity forms the [basis](../b/basis.md) of the global [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md), or Forex [market](../m/market.md), which is the largest and most [liquid](../l/liquid.md) financial [market](../m/market.md) in the world, with a daily trading [volume](../v/volume.md) reaching $9.6 trillion as of April 2025.
 
 ## Overview of Currency Exchange Market
 

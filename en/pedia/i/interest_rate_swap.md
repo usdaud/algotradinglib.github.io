@@ -1,6 +1,6 @@
 # Interest Rate Swap
 
-An [Interest Rate](../i/interest_rate.md) [Swap](../s/swap.md) (IRS) is a financial [derivative](../d/derivative.md) contract in which two parties agree to [exchange](../e/exchange.md) [interest rate](../i/interest_rate.md) payments on a specified notional amount over a stated period. These swaps are primarily used to [hedge](../h/hedge.md) or manage exposure to fluctuations in [interest](../i/interest.md) rates, or to speculate on changes in [interest rate](../i/interest_rate.md) movements. 
+An [Interest Rate](../i/interest_rate.md) [Swap](../s/swap.md) (IRS) is a financial [derivative](../d/derivative.md) contract in which two parties agree to [exchange](../e/exchange.md) [interest rate](../i/interest_rate.md) payments on a specified notional amount over a stated period. These swaps are primarily used to [hedge](../h/hedge.md) or manage exposure to fluctuations in [interest](../i/interest.md) rates, or to speculate on changes in [interest rate](../i/interest_rate.md) movements.
 
 ## Key Components of Interest Rate Swap
 
@@ -64,7 +64,7 @@ Traders might use [interest rate swaps](../i/interest_rate_swaps.md) to bet on c
 ## Market Participants
 
 ### 1. **Corporations**
-Use swaps to manage [debt](../d/debt.md) profiles or expectations of [interest rate](../i/interest_rate.md) movements. 
+Use swaps to manage [debt](../d/debt.md) profiles or expectations of [interest rate](../i/interest_rate.md) movements.
 
 ### 2. **Banks and Financial Institutions**
 Major players in the IRS [market](../m/market.md), these entities act both as [swap](../s/swap.md) dealers and users managing [interest rate](../i/interest_rate.md) risks.
@@ -81,7 +81,7 @@ May engage in swaps for [debt](../d/debt.md) management and to achieve budgetary
 Associated with fluctuations in [interest](../i/interest.md) rates impacting the [value](../v/value.md) of the [swap](../s/swap.md).
 
 ### 2. **Credit Risk**
-The [risk](../r/risk.md) of a [counterparty](../c/counterparty.md) defaulting on its [obligations](../o/obligation.md). 
+The [risk](../r/risk.md) of a [counterparty](../c/counterparty.md) defaulting on its [obligations](../o/obligation.md).
 
 ### 3. **Liquidity Risk**
 The [risk](../r/risk.md) that a participant cannot easily exit or [unwind](../u/unwind.md) a [swap](../s/swap.md) position without significant cost.
@@ -93,7 +93,7 @@ Stemming from failures in processes, systems, or human errors during the [swap](
 
 JP Morgan Chase & Co., a global leader in financial services, uses [interest rate swaps](../i/interest_rate_swaps.md) extensively. They enter into these contracts to [hedge](../h/hedge.md) their own [interest rate risk](../i/interest_rate_risk.md) as well as to [offer](../o/offer.md) bespoke solutions to their clients.
 
-For instance, you can refer to their annual reports which detail their [derivative](../d/derivative.md) exposure, including [interest rate swaps](../i/interest_rate_swaps.md): [JP Morgan Chase & Co. Annual Reports](https://jpmorganchaseco.gcs-web.com/financial-information/annual-reports).
+For instance, you can refer to their annual reports which detail their [derivative](../d/derivative.md) exposure, including [interest rate swaps](../i/interest_rate_swaps.md): JP Morgan Chase & Co. Annual Reports.
 
 ## Regulatory Framework
 

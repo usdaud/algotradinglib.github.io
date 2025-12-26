@@ -5,14 +5,14 @@ A shareholder, also known as a stockholder, is an individual or institution that
 ## Types of Shareholders
 
 1. **Individual Shareholders:**
-   - **Retail Investors:** These are individual investors who buy [shares](../s/shares.md) for personal investment. They typically own a smaller number of [shares](../s/shares.md) compared to institutional investors.
-   - **Employee Shareholders:** Employees of the company who receive [shares](../s/shares.md) as part of their compensation package. This can be through stock [options](../o/options.md) or employee stock ownership plans (ESOPs).
+ - **Retail Investors:** These are individual investors who buy [shares](../s/shares.md) for personal investment. They typically own a smaller number of [shares](../s/shares.md) compared to institutional investors.
+ - **Employee Shareholders:** Employees of the company who receive [shares](../s/shares.md) as part of their compensation package. This can be through stock [options](../o/options.md) or employee stock ownership plans (ESOPs).
 
 2. **Institutional Shareholders:**
-   - **Mutual Funds:** Investment vehicles that pool funds from many investors to purchase a diversified portfolio of [stocks](../s/stock.md).
-   - **Pension Funds:** Funds created by companies or public entities to provide retirement benefits to their employees. They invest in a variety of assets, including equities.
-   - **[Hedge](../h/hedge.md) Funds:** Investment funds that employ various strategies to earn active returns for their investors.
-   - **[Insurance](../i/insurance.md) Companies:** These institutions invest premiums collected from policyholders in various assets, including [stocks](../s/stock.md), to generate returns that help in paying out claims.
+ - **Mutual Funds:** Investment vehicles that pool funds from many investors to purchase a diversified portfolio of [stocks](../s/stock.md).
+ - **Pension Funds:** Funds created by companies or public entities to provide retirement benefits to their employees. They invest in a variety of assets, including equities.
+ - **[Hedge](../h/hedge.md) Funds:** Investment funds that employ various strategies to earn active returns for their investors.
+ - **[Insurance](../i/insurance.md) Companies:** These institutions invest premiums collected from policyholders in various assets, including [stocks](../s/stock.md), to generate returns that help in paying out claims.
 
 ## Rights of Shareholders
 

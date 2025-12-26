@@ -1,13 +1,13 @@
 # Banner Advertising
 
 ## Definition
-**Banner Advertising** refers to the use of rectangular graphic displays that stretch across the top, bottom, or sides of a webpage. Banner ads are a form of online advertising that involves embedding an advertisement into a web page. They are designed to attract traffic to a website by linking to the advertiser's website or landing page.
+**Banner Advertising** refers to the use of rectangular graphic displays that stretch across the top, bottom, or sides of a webpage. Banner ads are a form of online advertising that involves embedding an advertisement into a web page. They are designed to attract traffic to a landing page by linking to the advertiser's destination or a specific offer page.
 
 ## Key Components
 1. **Banner**: A graphic image or animation that serves as the advertisement.
 2. **Placement**: Banners are strategically placed on web pages where they can catch the viewer's attention.
-3. **Call to Action (CTA)**: Banners often include a CTA to encourage users to click on the ad and visit the advertiser's site.
-4. **Link**: A hyperlink embedded in the banner that redirects users to the advertiser's website or a specific landing page.
+3. **Call to Action (CTA)**: Banners often include a CTA to encourage users to click on the ad and reach the advertiser's landing page.
+4. **Link**: A hyperlink embedded in the banner that redirects users to the advertiser's destination page or a specific landing page.
 
 ## Types of Banner Ads
 1. **Static Banner Ads**: Simple images with text and a call to action. They do not move or change.
@@ -17,7 +17,7 @@
 
 ## Importance
 1. **[Brand Awareness](../b/brand_awareness.md)**: Helps increase brand [visibility](../v/visibility.md) and recognition by placing the brand in front of a large audience.
-2. **Traffic Generation**: Drives traffic to the advertiser’s website by encouraging clicks.
+2. **Traffic Generation**: Drives traffic to the advertiser's landing page by encouraging clicks.
 3. **Targeted Advertising**: Allows advertisers to target specific [demographics](../d/demographics.md), interests, and behaviors, increasing the relevance of the ads to the audience.
 4. **Measurable Results**: Provides detailed analytics on ad performance, including impressions, clicks, and conversions.
 
@@ -48,4 +48,3 @@
 
 ## Conclusion
 Banner advertising is a powerful tool for online [marketing](../m/marketing.md), providing a visual and interactive way to reach and engage with potential customers. By following design [best practices](../b/best_practices.md) and effectively measuring [performance metrics](../p/performance_metrics.md), advertisers can create impactful banner ads that drive traffic, increase [brand awareness](../b/brand_awareness.md), and generate conversions.
-

@@ -100,18 +100,18 @@ BCLs serve as proof for contractors bidding on government projects, meeting stri
 Several major financial institutions provide specialized services for issuing [Bank](../b/bank.md) Confirmation Letters. A few notable examples include:
 
 ### 1. **J.P. Morgan Chase**
-   J.P. Morgan Chase offers a wide [range](../r/range.md) of financial services, including the issuance of BCLs to corporate clients. More details about their services can be found [here](https://www.jpmorgan.com/).
+ J.P. Morgan Chase offers a wide [range](../r/range.md) of financial services, including the issuance of BCLs to corporate clients. More details about their services can be found here.
 
 ### 2. **HSBC**
-   HSBC is a global [bank](../b/bank.md) with extensive experience in [trade finance](../t/trade_finance.md) and BCL issuance. More information can be found on their website [here](https://www.hsbc.com/).
+ HSBC is a global [bank](../b/bank.md) with extensive experience in [trade finance](../t/trade_finance.md) and BCL issuance.
 
 ### 3. **Deutsche Bank**
-   Deutsche [Bank](../b/bank.md) provides comprehensive financial solutions, including [Bank](../b/bank.md) Confirmation Letters for various needs. To know more, visit [here](https://www.db.com/).
+ Deutsche [Bank](../b/bank.md) provides comprehensive financial solutions, including [Bank](../b/bank.md) Confirmation Letters for various needs. To know more, visit here.
 
 ### 4. **Citibank**
-   Citibank offers extensive commercial banking services, including BCLs for international [trade](../t/trade.md) and [corporate finance](../c/corporate_finance.md). Learn more at [this link](https://www.citigroup.com/).
+ Citibank offers extensive commercial banking services, including BCLs for international [trade](../t/trade.md) and [corporate finance](../c/corporate_finance.md). Learn more at this link.
 
 ### 5. **Standard Chartered Bank**
-   Standard Chartered [Bank](../b/bank.md) specializes in [trade finance](../t/trade_finance.md) solutions and BCLs for its global clientele. Detailed information is available [here](https://www.sc.com/).
+ Standard Chartered [Bank](../b/bank.md) specializes in [trade finance](../t/trade_finance.md) solutions and BCLs for its global clientele. Detailed information is available here.
 
 In summary, [Bank](../b/bank.md) Confirmation Letters play a pivotal role in the financial landscape, bridging [trust](../t/trust.md) in high-[value](../v/value.md) transactions and ensuring financial [transparency](../t/transparency.md). By understanding their function, types, issuance, and regulatory framework, stakeholders can better navigate financial dealings with greater [assurance](../a/assurance.md) and reduced [risk](../r/risk.md).

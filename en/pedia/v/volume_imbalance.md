@@ -11,11 +11,11 @@
 ### Calculation
 
 To calculate [volume](../v/volume.md) imbalance, one typically compares the cumulative [volume](../v/volume.md) of buy orders (or trades) against the cumulative [volume](../v/volume.md) of sell orders. The formula can be expressed as:
-\[ 
+\[
 \text{[Volume](../v/volume.md) Imbalance} = \text{Buy [Volume](../v/volume.md)} - \text{Sell [Volume](../v/volume.md)}
 \]
 Alternatively, one might use a ratio-based approach to normalize the comparison:
-\[ 
+\[
 \text{[Volume](../v/volume.md) Imbalance Ratio} = \frac{\text{Buy [Volume](../v/volume.md)}}{\text{Sell [Volume](../v/volume.md)}}
 \]
 
@@ -77,7 +77,7 @@ HFT strategies often rely on detecting and exploiting [volume](../v/volume.md) i
 
 ### Algorithmic Trading Platforms
 
-Many [algorithmic trading](../a/algorithmic_trading.md) platforms [offer](../o/offer.md) built-in tools for analyzing [volume](../v/volume.md) imbalances. These platforms integrate [order book](../o/order_book.md) data, historical [volume](../v/volume.md) profiles, and real-time [trade](../t/trade.md) data to help traders develop and execute strategies. Examples include MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md).
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms [offer](../o/offer.md) built-in tools for analyzing [volume](../v/volume.md) imbalances. These platforms integrate [order book](../o/order_book.md) data, historical [volume](../v/volume.md) profiles, and real-time [trade](../t/trade.md) data to help traders develop and execute strategies. Examples include MetaTrader, [StockSharp](../s/stocksharp.md), and [NinjaTrader](../n/ninjatrader.md).
 
 ### Custom Indicators
 
@@ -99,7 +99,7 @@ Retail traders [leverage](../l/leverage.md) [volume](../v/volume.md) imbalance i
 
 ### Real-Life Example: XTX Markets
 
-XTX Markets (https://www.xtxmarkets.com/) is an example of a financial services company that leverages advanced [trading algorithms](../t/trading_algorithms.md), including those based on [volume](../v/volume.md) imbalance analysis. They are known for their use of [quantitative models](../q/quantitative_models.md) to improve trading [efficiency](../e/efficiency.md) and [liquidity](../l/liquidity.md).
+XTX Markets ( is an example of a financial services company that leverages advanced [trading algorithms](../t/trading_algorithms.md), including those based on [volume](../v/volume.md) imbalance analysis. They are known for their use of [quantitative models](../q/quantitative_models.md) to improve trading [efficiency](../e/efficiency.md) and [liquidity](../l/liquidity.md).
 
 ## Risks and Considerations
 

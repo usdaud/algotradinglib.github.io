@@ -64,9 +64,9 @@ Algorithmic traders can integrate geopolitical [risk analysis](../r/risk_analysi
 
 Several platforms provide specialized geopolitical [risk analysis](../r/risk_analysis.md) and data services. These include:
 
-- **[Stratfor](https://worldview.stratfor.com/)**: Provides geopolitical intelligence and analysis to support decision-making.
-- **[Eurasia Group](https://www.eurasiagroup.net/)**: Offers insights and analysis on political risks and their impacts on markets.
-- **[Political Risk Services (PRS) Group](https://www.prsgroup.com/)**: Provides country [risk](../r/risk.md) assessments and forecasts to help investors manage geopolitical risks.
+- **Stratfor**: Provides geopolitical intelligence and analysis to support decision-making.
+- **Eurasia Group**: Offers insights and analysis on political risks and their impacts on markets.
+- **Political Risk Services (PRS) Group**: Provides country [risk](../r/risk.md) assessments and forecasts to help investors manage geopolitical risks.
 
 ### Data Sources
 

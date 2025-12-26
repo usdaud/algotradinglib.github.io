@@ -24,7 +24,7 @@ The main takeaway from identifying an [Upside](../u/upside.md) Tasuki Gap on a [
 
 ### Identifying the Pattern
 To effectively use the [Upside](../u/upside.md) Tasuki Gap pattern in trading, one must first be able to spot it on a [candlestick](../c/candlestick.md) chart. Here’s a step-by-step process:
-1. **Confirm the [Uptrend](../u/uptrend.md)**: Ensure that the [asset](../a/asset.md) is in an [uptrend](../u/uptrend.md) by examining the broader chart. 
+1. **Confirm the [Uptrend](../u/uptrend.md)**: Ensure that the [asset](../a/asset.md) is in an [uptrend](../u/uptrend.md) by examining the broader chart.
 2. **Identify the First Bullish Candle**: Locate a bullish candle within the [trend](../t/trend.md).
 3. **Spot the Gap**: The second candle should [open](../o/open.md) above the first candle’s close, creating a gap.
 4. **Assess the Third Candle**: The third candle should [open](../o/open.md) within the body of the second candle but not close the gap entirely.
@@ -48,4 +48,4 @@ Given this pattern, a [trader](../t/trader.md) might decide to go long, anticipa
 
 The [Upside](../u/upside.md) Tasuki Gap is a valuable pattern for traders looking to [leverage](../l/leverage.md) [technical analysis](../t/technical_analysis.md) for better decision-making in [financial markets](../f/financial_market.md). Although it is not infallible, when correctly identified and used in conjunction with other [technical indicators](../t/technical_indicator.md), it can significantly enhance the probability of making profitable trades. As with all [trading strategies](../t/trading_strategies.md), it is crucial to use this pattern within the context of broader [market](../m/market.md) conditions and to apply adequate [risk management](../r/risk_management.md) practices.
 
-For more detailed resources on [technical analysis](../t/technical_analysis.md) and [candlestick patterns](../c/candlestick_patterns.md), you can visit [Investopedia](https://www.investopedia.com) and other reputable financial education websites.
+For more detailed resources on [technical analysis](../t/technical_analysis.md) and [candlestick patterns](../c/candlestick_patterns.md), you can visit Investopedia and other reputable financial education websites.

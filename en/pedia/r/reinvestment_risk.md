@@ -4,7 +4,7 @@
 
 ## Understanding Reinvestment Risk
 
-[Reinvestment](../r/reinvestment.md) [risk](../r/risk.md) is the likelihood that an [investor](../i/investor.md) [will](../w/will.md) not be able to reinvest the cash flows from their investments at a rate comparable to their current investment’s [rate of return](../r/rate_of_return.md). This scenario is most common when [market](../m/market.md) [interest](../i/interest.md) rates decline over time, forcing investors to reinvest at lower rates. 
+[Reinvestment](../r/reinvestment.md) [risk](../r/risk.md) is the likelihood that an [investor](../i/investor.md) [will](../w/will.md) not be able to reinvest the cash flows from their investments at a rate comparable to their current investment’s [rate of return](../r/rate_of_return.md). This scenario is most common when [market](../m/market.md) [interest](../i/interest.md) rates decline over time, forcing investors to reinvest at lower rates.
 
 For instance, when a [bond](../b/bond.md) matures or pays [interest](../i/interest.md), the [bondholder](../b/bondholder.md) may face difficulty finding a new investment with a similar [yield](../y/yield.md), especially if [market](../m/market.md) rates have dropped since the original [bond](../b/bond.md) was purchased. [Reinvestment](../r/reinvestment.md) [risk](../r/risk.md) often becomes more pronounced during periods of falling [interest](../i/interest.md) rates and can impact long-term fixed-[income](../i/income.md) investors the most.
 
@@ -43,7 +43,7 @@ Mutual funds and [exchange](../e/exchange.md)-traded funds (ETFs) that invest in
 
 ## Strategies to Mitigate Reinvestment Risk
 
-There are several strategies that investors can employ to manage or reduce [reinvestment](../r/reinvestment.md) [risk](../r/risk.md) effectively. 
+There are several strategies that investors can employ to manage or reduce [reinvestment](../r/reinvestment.md) [risk](../r/risk.md) effectively.
 
 ### Diversification
 

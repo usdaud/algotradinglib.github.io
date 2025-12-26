@@ -8,13 +8,13 @@
 
 [Factor models](../f/factor_models.md) are mathematical representations that describe how various factors contribute to the returns of an [asset](../a/asset.md) or a portfolio. These factors can be economic, fundamental, technical, or derived from statistical methods. The general form of a [factor](../f/factor.md) model is expressed as:
 
-\[ R_i = α_i + β_i1F_1 + β_i2F_2 + ... + β_inF_n + ε_i \]
+\[ R_i = α_i + β_i1F_1 + β_i2F_2 +... + β_inF_n + ε_i \]
 
 Where:
 - \( R_i \) is the [return](../r/return.md) of [asset](../a/asset.md) \( i \).
 - \( α_i \) is the [asset](../a/asset.md)-specific [return](../r/return.md).
-- \( β_i1, β_i2, ..., β_in \) are the [factor](../f/factor.md) loadings.
-- \( F_1, F_2, ..., F_n \) are the factors.
+- \( β_i1, β_i2,..., β_in \) are the [factor](../f/factor.md) loadings.
+- \( F_1, F_2,..., F_n \) are the factors.
 - \( ε_i \) is the [error term](../e/error_term.md).
 
 ### Types of Factor Models
@@ -57,13 +57,13 @@ Financial institutions and quantitative firms often develop proprietary [factor]
 
 Barra, a subsidiary of MSCI, offers a [range](../r/range.md) of [equity factor models](../e/equity_factor_models.md) that are widely used in the [investment management](../i/investment_management.md) [industry](../i/industry.md). These models help investors analyze the sources of [risk](../r/risk.md) and [return](../r/return.md) in their portfolios, leveraging a rich set of [risk factors](../r/risk_factors_in_trading.md) including country, [currency](../c/currency.md), sector, and style factors.
 
-For further details: [MSCI Barra](https://www.msci.com/factor-investing)
+For further details: MSCI Barra
 
 ### Axioma Risk Models
 
 Axioma, now part of Qontigo, provides [factor](../f/factor.md) [risk models](../r/risk_models_in_trading.md) that integrate [multiple](../m/multiple.md) sources of [risk](../r/risk.md), capturing nuances across markets and [asset](../a/asset.md) classes. Their models are designed to support portfolio construction, [performance attribution](../p/performance_attribution.md), and regulatory compliance.
 
-For further details: [Qontigo Axioma](https://www.qontigo.com/risk-solutions/)
+For further details: Qontigo Axioma
 
 ## Machine Learning and AI in Factor Analysis
 

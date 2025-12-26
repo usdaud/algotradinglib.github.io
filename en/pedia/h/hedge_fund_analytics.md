@@ -9,12 +9,12 @@
 
 - **Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV)**: The total [value](../v/value.md) of the [fund](../f/fund.md)'s assets minus its liabilities.
 - **Returns**: This measures the performance over a specific period.
-  - **Absolute Returns**: The raw percentage increase or decrease in the [fund](../f/fund.md)'s NAV.
-  - **Relative Returns**: The performance of the [fund](../f/fund.md) compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
+ - **Absolute Returns**: The raw percentage increase or decrease in the [fund](../f/fund.md)'s NAV.
+ - **Relative Returns**: The performance of the [fund](../f/fund.md) compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: A measure of [risk-adjusted return](../r/risk-adjusted_return.md). It is calculated by dividing the [excess return](../e/excess_return.md) of the portfolio over the [risk](../r/risk.md)-free rate by its [standard deviation](../s/standard_deviation.md).
 - **[Alpha](../a/alpha.md)**: The [excess return](../e/excess_return.md) of the [fund](../f/fund.md) compared to the [benchmark](../b/benchmark.md), adjusting for [market risk](../m/market_risk.md).
 - **[Beta](../b/beta.md)**: The measure of the [fund](../f/fund.md)'s [volatility](../v/volatility.md) in relation to the [market](../m/market.md).
-  
+
 ### 2. Risk Management
 [Risk management](../r/risk_management.md) involves identifying, analyzing, and mitigating risks to minimize the potential for losses.
 
@@ -53,23 +53,18 @@ These models are paramount for proper analysis and strategy development in [hedg
 
 ### 1. Two Sigma
 Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to find connections in the world’s data. They manage over $60 billion in assets and employ over 1,600 people.
-- Website: [Two Sigma](https://www.twosigma.com/)
 
 ### 2. Renaissance Technologies
 Founded by Jim Simons, Renaissance Technologies employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in markets. The [firm](../f/firm.md) manages several funds including the famous Medallion [Fund](../f/fund.md).
-- Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 3. AQR Capital Management
 AQR combines rigorous research and cutting-edge technology to pursue a broad [range](../r/range.md) of traditional and [alternative investment](../a/alternative_investment.md) opportunities.
-- Website: [AQR Capital Management](https://www.aqr.com/)
 
 ### 4. D.E. Shaw
 D.E. Shaw uses quantitative and computational techniques to develop and apply [trading strategies](../t/trading_strategies.md) across a broad [range](../r/range.md) of [asset](../a/asset.md) classes and geographic regions.
-- Website: [D.E. Shaw](https://www.deshaw.com/)
 
 ### 5. Citadel
 Citadel employs advanced analytics and proprietary technology to build portfolios that balance [risk](../r/risk.md) and [return](../r/return.md) across a wide array of [asset](../a/asset.md) classes.
-- Website: [Citadel](https://www.citadel.com/)
 
 ## Machine Learning in Hedge Fund Analytics
 [Machine learning](../m/machine_learning.md) (ML) plays a pivotal role in enhancing the capabilities of [hedge fund](../h/hedge_fund.md) analytics.

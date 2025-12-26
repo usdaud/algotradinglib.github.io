@@ -63,7 +63,7 @@ Delivery Versus [Payment](../p/payment.md) is an indispensable principle in the 
 
 For more information on DVP and their specific implementations, you can visit the official websites of notable [clearing](../c/clearing.md) houses:
 
-- [Depository Trust & Clearing Corporation (DTCC)](https://www.dtcc.com/)
-- [Euroclear](https://www.euroclear.com/)
+- Depository Trust & Clearing Corporation (DTCC)
+- Euroclear
 
 Understanding DVP and its intricacies is crucial for anyone involved in financial trading and investments, as it underpins the [security](../s/security.md) and [efficiency](../e/efficiency.md) of modern [financial markets](../f/financial_market.md).

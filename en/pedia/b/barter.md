@@ -21,8 +21,8 @@ Barter systems date back to ancient times when [money](../m/money.md) did not ex
 With the advent of technology, various forms of barter have emerged that [leverage](../l/leverage.md) digital platforms and algorithms. In these modern contexts, barter systems can involve complex algorithms that match parties based on their needs and offerings.
 
 ### Digital Platforms Facilitating Barter
-- **[Trade](../t/trade.md) Exchanges**: Companies like **ITEX [Corporation](../c/corporation.md)** (www.itex.com) and **BizX** (www.bizx.com) facilitate barter among businesses using sophisticated platforms that act as intermediaries.
-- **Online Barter Services**: Websites and apps like **[Swap](../s/swap.md).com** (www.[swap](../s/swap.md).com) and **BarterOnly.com** (www.barteronly.com) [offer](../o/offer.md) consumers platforms to [trade](../t/trade.md) goods and services.
+- **[Trade](../t/trade.md) Exchanges**: Companies like **ITEX [Corporation](../c/corporation.md)** ( and **BizX** ( facilitate barter among businesses using sophisticated platforms that act as intermediaries.
+- **Online Barter Services**: Websites and apps like **[Swap](../s/swap.md).com** ( and **BarterOnly.com** ( [offer](../o/offer.md) consumers platforms to [trade](../t/trade.md) goods and services.
 
 ### Mechanisms of Digital Barter
 - **Matchmaking Algorithms**: Using algorithms to match parties based on their requirements and offerings can significantly reduce the double coincidence of wants problem.
@@ -39,7 +39,7 @@ With the advent of technology, various forms of barter have emerged that [levera
 
 ### Examples of Barter in Algorithmic Trading
 - **Collaborative Development**: Firms might collaborate by bartering resources such as computational power or access to financial experts, to jointly develop and refine [trading algorithms](../t/trading_algorithms.md).
-- **Secondary Markets**: Platforms such as **[QuantConnect](../q/quantconnect.md)** (www.[quantconnect](../q/quantconnect.md).com) allow coders to share and barter their algorithms, fostering a community where ideas and strategies are traded rather than sold.
+- **Secondary Markets**: Platforms such as **[StockSharp](../s/stocksharp.md)** allow coders to share and barter their algorithms, fostering a community where ideas and strategies are traded rather than sold.
 
 ## 4. Implementing Barter Systems in Algo-Trading Firms
 

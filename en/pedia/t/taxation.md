@@ -83,4 +83,4 @@ In response to growing economic inequality, some governments are considering or 
 
 Understanding the complex landscape of taxation is essential for individuals, businesses, and traders alike. By effectively navigating the various types of [taxes](../t/taxes.md) and principles, one can ensure compliance, optimize tax liabilities, and contribute to the broader societal good through fair tax practices.
 
-For further reading and detailed guidelines, please refer to reputable sources such as the IRS [https://www.irs.gov/](https://www.irs.gov/) for U.S. taxpayers or HMRC [https://www.gov.uk/government/organisations/hm-revenue-customs](https://www.gov.uk/government/organisations/hm-revenue-customs) for UK taxpayers.
+For further reading and detailed guidelines, please refer to reputable sources such as the IRS for U.S. taxpayers or HMRC for UK taxpayers.

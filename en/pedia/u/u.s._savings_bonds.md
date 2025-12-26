@@ -1,6 +1,6 @@
 # U.S. Savings Bonds
 
-U.S. Savings Bonds are government-issued securities that [offer](../o/offer.md) a way for individuals to lend [money](../m/money.md) to the U.S. government in [exchange](../e/exchange.md) for [interest](../i/interest.md) payments over a specific period of time. They are considered one of the safest investments because they are backed by the full faith and [credit](../c/credit.md) of the United States government. In this detailed guide, we [will](../w/will.md) delve deep into the characteristics, types, benefits, and methods of [investing](../i/investing.md) in U.S. Savings Bonds. 
+U.S. Savings Bonds are government-issued securities that [offer](../o/offer.md) a way for individuals to lend [money](../m/money.md) to the U.S. government in [exchange](../e/exchange.md) for [interest](../i/interest.md) payments over a specific period of time. They are considered one of the safest investments because they are backed by the full faith and [credit](../c/credit.md) of the United States government. In this detailed guide, we [will](../w/will.md) delve deep into the characteristics, types, benefits, and methods of [investing](../i/investing.md) in U.S. Savings Bonds.
 
 ## What Are U.S. Savings Bonds?
 
@@ -54,8 +54,7 @@ Series I Bonds [offer](../o/offer.md) a [hedge](../h/hedge.md) against [inflatio
 
 ### Electronic Version
 
-The electronic form of U.S. Savings Bonds can be purchased through the TreasuryDirect website (https://www.treasurydirect.gov). Here's a brief step-by-step process:
-
+The electronic form of U.S. Savings Bonds can be purchased
 1. **[Open](../o/open.md) an Account**: Create a TreasuryDirect account by providing your personal information and setting up a login.
 2. **[Fund](../f/fund.md) Your Account**: Link a [bank](../b/bank.md) account to transfer funds into your TreasuryDirect account.
 3. **Purchase Bonds**: Select the type and amount of bonds you want to purchase, confirming the [transaction](../t/transaction.md).
@@ -76,7 +75,7 @@ To redeem paper bonds, visit a financial institution that handles savings [bond]
 
 [Interest](../i/interest.md) on U.S. Savings Bonds is subject to [federal income](../f/federal_income.md) tax. However, you can choose to defer reporting the [interest](../i/interest.md) until the year you redeem the [bond](../b/bond.md) or the [bond](../b/bond.md) matures, whichever comes first.
 
-### State and Local Taxes 
+### State and Local Taxes
 
 U.S. Savings Bonds are exempt from state and local [income](../i/income.md) [taxes](../t/taxes.md), making them especially attractive for investors in high-tax areas.
 
@@ -104,6 +103,6 @@ Assuming a [Series I Bond](../s/series_i_bond.md) is purchased for $100 with a [
 
 ## Conclusion
 
-U.S. Savings Bonds [offer](../o/offer.md) a secure, low-[risk](../r/risk.md) investment choice for individuals aiming to save conservatively. With tax advantages, affordability, and protections against [inflation](../i/inflation.md), both Series EE and Series I Bonds cater to diverse financial goals. Whether you are seeking a [risk](../r/risk.md)-free investment or planning for future educational expenses, U.S. Savings Bonds provide an effective means to achieve financial stability. 
+U.S. Savings Bonds [offer](../o/offer.md) a secure, low-[risk](../r/risk.md) investment choice for individuals aiming to save conservatively. With tax advantages, affordability, and protections against [inflation](../i/inflation.md), both Series EE and Series I Bonds cater to diverse financial goals. Whether you are seeking a [risk](../r/risk.md)-free investment or planning for future educational expenses, U.S. Savings Bonds provide an effective means to achieve financial stability.
 
-For more information about purchasing or redeeming U.S. Savings Bonds, visit TreasuryDirect: [https://www.treasurydirect.gov](https://www.treasurydirect.gov).
+For more information about purchasing or redeeming U.S. Savings Bonds, visit TreasuryDirect

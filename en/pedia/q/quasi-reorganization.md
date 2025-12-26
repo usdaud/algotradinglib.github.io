@@ -105,6 +105,6 @@ A quasi-[reorganization](../r/reorganization.md) is a valuable financial [restru
 
 For additional resources and information on quasi-[reorganization](../r/reorganization.md), you can visit:
 
-- Deloitte: [Financial Restructuring](https://www2.deloitte.com/global/en.html)
-- EY: [Corporate Restructuring](https://www.ey.com/en_gl/corporate-restructuring)
-- PwC: [Corporate Finance Services](https://www.pwc.com/gx/en/services/advisory/deals.html)
+- Deloitte: Financial Restructuring
+- EY: Corporate Restructuring
+- PwC: Corporate Finance Services

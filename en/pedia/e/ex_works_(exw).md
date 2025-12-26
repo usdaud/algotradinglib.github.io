@@ -13,7 +13,7 @@ Under the EXW terms, the seller’s responsibilities are minimal and include:
 1. **Providing the Goods**: The seller must make the goods available at the agreed place and time.
 2. **Packaging**: The seller must properly package the goods for transport to prevent damage.
 3. **Documentation**: The seller must provide the buyer with any necessary documents that [will](../w/will.md) assist in the transfer and transport of the goods.
-   
+
 The seller is not responsible for loading the goods onto the vehicle provided by the buyer or for any freight or [insurance](../i/insurance.md) costs.
 
 ## Responsibilities of the Buyer
@@ -39,7 +39,7 @@ The buyer under EXW terms assumes a significant portion of the responsibilities 
 
 ## Practical Example
 
-A company in Germany, for instance, sells specialized machinery to a buyer in Thailand. Under the EXW term, the German company [will](../w/will.md) make the machinery available at their warehouse. The Thai buyer has to arrange for the machinery to be picked up from the specified warehouse, manage all the [logistics](../l/logistics.md), [handle](../h/handle.md) [export](../e/export.md) documentation, shipping costs, [import](../i/import.md) documentation, and final delivery to their factory in Thailand. 
+A company in Germany, for instance, sells specialized machinery to a buyer in Thailand. Under the EXW term, the German company [will](../w/will.md) make the machinery available at their warehouse. The Thai buyer has to arrange for the machinery to be picked up from the specified warehouse, manage all the [logistics](../l/logistics.md), [handle](../h/handle.md) [export](../e/export.md) documentation, shipping costs, [import](../i/import.md) documentation, and final delivery to their factory in Thailand.
 
 ## When to Use EXW
 
@@ -49,7 +49,7 @@ EXW is best utilized when the buyer has the capability and resources to [handle]
 
 1. **[Liability](../l/liability.md)**: Many assume that the seller remains liable for the goods until they are handed over to the first carrier, but under EXW, the buyer assumes the risks once the goods are made available at the seller's site.
 2. **Loading**: It's a common misconception that the seller is responsible for loading the goods onto the buying party’s transportation; however, the buyer must [handle](../h/handle.md) and bear this [risk](../r/risk.md) under EXW terms.
-   
+
 ## Alternatives to EXW
 
 Ex Works is just one of many [Incoterms](../i/incoterms.md). Depending on the level of control and responsibility the trading parties are comfortable with, other terms such as FOB (Free On Board), CIF (Cost, [Insurance](../i/insurance.md), and Freight), or DDP (Delivered Duty Paid) may be more suitable. Each term allocates responsibilities and risks differently, to better align with the specific needs and capabilities of the buyer and seller involved.
@@ -58,6 +58,6 @@ Ex Works is just one of many [Incoterms](../i/incoterms.md). Depending on the le
 
 In conclusion, Ex Works (EXW) is a fundamental Incoterm that offers sellers minimal responsibility and shifts the [logistics](../l/logistics.md), cost, and risks significantly towards the buyer. This term is advantageous for sellers looking to [leverage](../l/leverage.md) a hands-off approach in their [sale](../s/sale.md) of goods. However, buyers should be prepared to manage more complex [logistics](../l/logistics.md) and higher costs when agreeing to an EXW term.
 
-For a comprehensive understanding of [Incoterms](../i/incoterms.md) including EXW, visit the International Chamber of [Commerce](../c/commerce.md)'s official website: [International Chamber of Commerce](https://iccwbo.org).
+For a comprehensive understanding of [Incoterms](../i/incoterms.md) including EXW, visit the International Chamber of [Commerce](../c/commerce.md)'s public materials: International Chamber of Commerce.
 
 Understanding and effectively negotiating [Incoterms](../i/incoterms.md) is crucial for any entity involved in international [trade](../t/trade.md), ensuring that both buyer and seller know their [obligations](../o/obligation.md), minimize risks, and fulfill their legal and operational responsibilities.

@@ -11,28 +11,28 @@
 ### Methods of Depreciation
 
 1. **Straight-Line [Depreciation](../d/depreciation.md)**
-   - The simplest and most commonly used method.
-   - Calculates an equal [expense](../e/expense.md) for each year of the [asset](../a/asset.md)’s [useful life](../u/useful_life.md).
-   - Formula: (Cost of [Asset](../a/asset.md) - [Salvage Value](../s/salvage_value.md)) / [Useful Life](../u/useful_life.md).
-   - Example: A machine purchased for $10,000 with a [salvage value](../s/salvage_value.md) of $2,000 and a [useful life](../u/useful_life.md) of 5 years would have an annual [depreciation](../d/depreciation.md) [expense](../e/expense.md) of ($10,000 - $2,000) / 5 = $1,600.
+ - The simplest and most commonly used method.
+ - Calculates an equal [expense](../e/expense.md) for each year of the [asset](../a/asset.md)’s [useful life](../u/useful_life.md).
+ - Formula: (Cost of [Asset](../a/asset.md) - [Salvage Value](../s/salvage_value.md)) / [Useful Life](../u/useful_life.md).
+ - Example: A machine purchased for $10,000 with a [salvage value](../s/salvage_value.md) of $2,000 and a [useful life](../u/useful_life.md) of 5 years would have an annual [depreciation](../d/depreciation.md) [expense](../e/expense.md) of ($10,000 - $2,000) / 5 = $1,600.
 
 2. **Declining Balance [Depreciation](../d/depreciation.md)**
-   - An [accelerated depreciation](../a/accelerated_depreciation.md) method that expenses a higher amount in the earlier years of the [asset](../a/asset.md)’s life.
-   - Commonly used version is the Double Declining Balance (DDB) method.
-   - Formula: 2 x (Straight-Line [Depreciation](../d/depreciation.md) Rate) x [Book Value](../b/book_value.md) at Beginning of Year.
-   - Example: Using the same machine, the first year’s [depreciation](../d/depreciation.md) would be 2 x (1/5) x $10,000 = $4,000. 
+ - An [accelerated depreciation](../a/accelerated_depreciation.md) method that expenses a higher amount in the earlier years of the [asset](../a/asset.md)’s life.
+ - Commonly used version is the Double Declining Balance (DDB) method.
+ - Formula: 2 x (Straight-Line [Depreciation](../d/depreciation.md) Rate) x [Book Value](../b/book_value.md) at Beginning of Year.
+ - Example: Using the same machine, the first year’s [depreciation](../d/depreciation.md) would be 2 x (1/5) x $10,000 = $4,000.
 
 3. **Sum-of-the-Years’-Digits (SYD) [Depreciation](../d/depreciation.md)**
-   - Another [accelerated depreciation](../a/accelerated_depreciation.md) method.
-   - [Depreciation](../d/depreciation.md) is based on the sum of the years of the [asset](../a/asset.md)’s life.
-   - Formula: [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = (Remaining [Useful Life](../u/useful_life.md) / Sum of the Years’ Digits) x (Cost - [Salvage Value](../s/salvage_value.md)).
-   - Example: For the machine, the sum of the digits for 5 years is 15 (1+2+3+4+5). The first year’s [depreciation](../d/depreciation.md) would be 5/15 x ($10,000 - $2,000) = $2,666.67.
+ - Another [accelerated depreciation](../a/accelerated_depreciation.md) method.
+ - [Depreciation](../d/depreciation.md) is based on the sum of the years of the [asset](../a/asset.md)’s life.
+ - Formula: [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = (Remaining [Useful Life](../u/useful_life.md) / Sum of the Years’ Digits) x (Cost - [Salvage Value](../s/salvage_value.md)).
+ - Example: For the machine, the sum of the digits for 5 years is 15 (1+2+3+4+5). The first year’s [depreciation](../d/depreciation.md) would be 5/15 x ($10,000 - $2,000) = $2,666.67.
 
 4. **Units of Production [Depreciation](../d/depreciation.md)**
-   - [Depreciation](../d/depreciation.md) based on the actual usage of the [asset](../a/asset.md).
-   - Useful for assets whose wear and tear are more related to usage rather than time.
-   - Formula: (Cost - [Salvage Value](../s/salvage_value.md)) / Total Units of Production x Units Produced in Period.
-   - Example: If the machine is expected to produce 50,000 units over its lifetime, and it produces 5,000 units in the first year, the [depreciation](../d/depreciation.md) [expense](../e/expense.md) would be ($10,000 - $2,000) / 50,000 x 5,000 = $800.
+ - [Depreciation](../d/depreciation.md) based on the actual usage of the [asset](../a/asset.md).
+ - Useful for assets whose wear and tear are more related to usage rather than time.
+ - Formula: (Cost - [Salvage Value](../s/salvage_value.md)) / Total Units of Production x Units Produced in Period.
+ - Example: If the machine is expected to produce 50,000 units over its lifetime, and it produces 5,000 units in the first year, the [depreciation](../d/depreciation.md) [expense](../e/expense.md) would be ($10,000 - $2,000) / 50,000 x 5,000 = $800.
 
 ## Depletion
 
@@ -41,16 +41,16 @@
 ### Methods of Depletion
 
 1. **Cost [Depletion](../d/depletion.md)**
-   - This method allocates a proportional part of the total cost of resource extraction to each period based on the amount extracted.
-   - More accurate as it is tied directly to the actual physical usage.
-   - Formula: ([Cost Basis](../c/cost_basis.md) - [Salvage Value](../s/salvage_value.md)) / Total Recoverable Units x Units Recovered in Period.
-   - Example: If an oil well is purchased for $1 million, with no [salvage value](../s/salvage_value.md), and it is expected to produce 100,000 barrels, and 10,000 barrels are extracted in the first year, the [depletion](../d/depletion.md) [expense](../e/expense.md) would be ($1,000,000 / 100,000) x 10,000 = $100,000.
+ - This method allocates a proportional part of the total cost of resource extraction to each period based on the amount extracted.
+ - More accurate as it is tied directly to the actual physical usage.
+ - Formula: ([Cost Basis](../c/cost_basis.md) - [Salvage Value](../s/salvage_value.md)) / Total Recoverable Units x Units Recovered in Period.
+ - Example: If an oil well is purchased for $1 million, with no [salvage value](../s/salvage_value.md), and it is expected to produce 100,000 barrels, and 10,000 barrels are extracted in the first year, the [depletion](../d/depletion.md) [expense](../e/expense.md) would be ($1,000,000 / 100,000) x 10,000 = $100,000.
 
 2. **Percentage [Depletion](../d/depletion.md)**
-   - This method uses a fixed percentage of the [gross income](../g/gross_income.md) generated by the resource extraction.
-   - Simpler but less accurate as it doesn’t account for the actual amount extracted.
-   - The specific percentage rates vary by resource and are specified in tax regulations.
-   - Example: If the [gross income](../g/gross_income.md) from the oil well is $500,000 in a year, and the [depletion](../d/depletion.md) percentage is 15%, the [depletion](../d/depletion.md) [expense](../e/expense.md) would be 0.15 x $500,000 = $75,000.
+ - This method uses a fixed percentage of the [gross income](../g/gross_income.md) generated by the resource extraction.
+ - Simpler but less accurate as it doesn’t account for the actual amount extracted.
+ - The specific percentage rates vary by resource and are specified in tax regulations.
+ - Example: If the [gross income](../g/gross_income.md) from the oil well is $500,000 in a year, and the [depletion](../d/depletion.md) percentage is 15%, the [depletion](../d/depletion.md) [expense](../e/expense.md) would be 0.15 x $500,000 = $75,000.
 
 ## Amortization
 
@@ -59,13 +59,13 @@ Amortization is similar to [depreciation](../d/depreciation.md), but it applies 
 ### Methods of Amortization
 
 1. **Straight-Line Amortization**
-   - Similar to straight-line [depreciation](../d/depreciation.md), it [spreads](../s/spreads.md) the cost evenly over the [asset](../a/asset.md)’s [useful life](../u/useful_life.md).
-   - Formula: Cost of [Intangible Asset](../i/intangible_asset.md) / [Useful Life](../u/useful_life.md).
-   - Example: A [patent](../p/patent.md) purchased for $100,000 with a [useful life](../u/useful_life.md) of 10 years would have an annual amortization [expense](../e/expense.md) of $100,000 / 10 = $10,000.
+ - Similar to straight-line [depreciation](../d/depreciation.md), it [spreads](../s/spreads.md) the cost evenly over the [asset](../a/asset.md)’s [useful life](../u/useful_life.md).
+ - Formula: Cost of [Intangible Asset](../i/intangible_asset.md) / [Useful Life](../u/useful_life.md).
+ - Example: A [patent](../p/patent.md) purchased for $100,000 with a [useful life](../u/useful_life.md) of 10 years would have an annual amortization [expense](../e/expense.md) of $100,000 / 10 = $10,000.
 
 2. **Declining Balance Amortization**
-   - Less common for intangibles due to the nature of their [useful life](../u/useful_life.md).
-   - Accelerates the [expense](../e/expense.md) in the earlier years similar to declining balance [depreciation](../d/depreciation.md).
+ - Less common for intangibles due to the nature of their [useful life](../u/useful_life.md).
+ - Accelerates the [expense](../e/expense.md) in the earlier years similar to declining balance [depreciation](../d/depreciation.md).
 
 ### Specific Considerations for Intangible Assets
 

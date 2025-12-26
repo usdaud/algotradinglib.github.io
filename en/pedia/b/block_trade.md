@@ -76,14 +76,14 @@ Navigating complex regulatory requirements demands a thorough understanding of f
 
 Large [investment banks](../i/investment_bank_(ib).md) often play a central role in facilitating block trades. For instance:
 
-- **Goldman Sachs:** Known for its trading and [market](../m/market.md)-making capabilities, assists institutional clients in executing block trades efficiently. [Goldman Sachs - Trading and Execution](https://www.goldmansachs.com/what-we-do/global-markets/trading.html)
-- **Morgan Stanley:** Offers bespoke trading solutions, including block trading across various [asset](../a/asset.md) classes. [Morgan Stanley - Trading Services](https://www.morganstanley.com/institutional-sales/solutions/trading-services)
+- **Goldman Sachs:** Known for its trading and [market](../m/market.md)-making capabilities, assists institutional clients in executing block trades efficiently. Goldman Sachs - Trading and Execution
+- **Morgan Stanley:** Offers bespoke trading solutions, including block trading across various [asset](../a/asset.md) classes. Morgan Stanley - Trading Services
 
 ### Hedge Funds
 
 [Hedge](../h/hedge.md) funds frequently engage in block trades to establish or [liquidate](../l/liquidate.md) large positions due to their substantial [capital](../c/capital.md) bases.
 
-- **Bridgewater Associates:** One of the largest [hedge](../h/hedge.md) funds globally, it leverages block trades in its [trading strategies](../t/trading_strategies.md). [Bridgewater Associates - Bridgewater.com](https://www.bridgewater.com)
+- **Bridgewater Associates:** One of the largest [hedge](../h/hedge.md) funds globally, it leverages block trades in its [trading strategies](../t/trading_strategies.md). Bridgewater Associates - Bridgewater.com
 
 ## Technological Developments
 

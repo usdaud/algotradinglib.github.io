@@ -53,19 +53,15 @@ Financial institutions use term structure analysis for:
 
 ### 1. BlackRock
 BlackRock, a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), employs advanced term structure analysis for fixed-[income](../i/income.md) [portfolio management](../p/portfolio_management.md), [risk](../r/risk.md) assessment, and strategic [asset allocation](../a/asset_allocation.md). Their sophisticated models and analytics ensure effective management of [interest rate](../i/interest_rate.md) risks and [optimization](../o/optimization.md) of client investments.
-[BlackRock Fixed Income](https://www.blackrock.com/us/individual/investment-ideas/fixed-income)
 
 ### 2. Morningstar
 [Morningstar](../m/morningstar.md), a leading provider of independent investment research, uses term structure analysis to evaluate and rate various [bond](../b/bond.md) funds and fixed-[income](../i/income.md) securities. Their insights are invaluable for investors looking to make informed decisions about [bond](../b/bond.md) investments.
-[Morningstar Fixed Income Research](https://www.morningstar.com/lp/fixed-income-solutions)
 
 ### 3. Pacific Investment Management Company (PIMCO)
 PIMCO specializes in active fixed-[income](../i/income.md) management and extensively uses term structure analysis to navigate [global bond](../g/global_bond.md) markets. Their research and investment strategies [leverage](../l/leverage.md) [yield curve](../y/yield_curve.md) insights to manage portfolios effectively.
-[PIMCO Fixed Income](https://www.pimco.com/en-us/our-firm/duration/our-fixed-income-focus)
 
 ### 4. JPMorgan Chase
 JPMorgan Chase integrates term structure analysis into their [investment banking](../i/investment_banking.md) and [asset management](../a/asset_management.md) services. Their quantitative analytics team uses these models to predict [interest rate](../i/interest_rate.md) movements and optimize [bond](../b/bond.md) [trading strategies](../t/trading_strategies.md).
-[JPMorgan Fixed Income Research](https://www.jpmorgan.com/global/research/fixed-income)
 
 ## Advanced Topics in Term Structure Analysis
 

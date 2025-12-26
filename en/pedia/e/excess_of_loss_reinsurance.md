@@ -81,9 +81,9 @@ Consider a primary insurer with an annual [premium](../p/premium.md) [income](..
 The insurer's financial commitment remains manageable, preserving [capital](../c/capital.md) and allowing them to meet regulatory requirements and [creditor](../c/creditor.md) expectations.
 
 ### Industry Examples
-1. **Munich Re** (https://www.munichre.com): One of the world's leading [reinsurance](../r/reinsurance.md) companies, Munich Re offers a variety of excess of loss [reinsurance](../r/reinsurance.md) products tailored to different segments of the [industry](../i/industry.md), including property, casualty, and life [reinsurance](../r/reinsurance.md).
-2. **Swiss Re** (https://www.swissre.com): Swiss Re, another global leader in [reinsurance](../r/reinsurance.md), provides innovative XOL solutions. They [leverage](../l/leverage.md) [data analytics](../d/data_analytics.md) and advanced modeling techniques to [offer](../o/offer.md) tailored [reinsurance](../r/reinsurance.md) products.
-3. **Hannover Re** (https://www.hannover-re.com): Hannover Re provides excess of loss [reinsurance](../r/reinsurance.md) solutions that address both common and complex [risk](../r/risk.md) scenarios for insurers around the globe.
+1. **Munich Re** ( One of the world's leading [reinsurance](../r/reinsurance.md) companies, Munich Re offers a variety of excess of loss [reinsurance](../r/reinsurance.md) products tailored to different segments of the [industry](../i/industry.md), including property, casualty, and life [reinsurance](../r/reinsurance.md).
+2. **Swiss Re** ( Swiss Re, another global leader in [reinsurance](../r/reinsurance.md), provides innovative XOL solutions. They [leverage](../l/leverage.md) [data analytics](../d/data_analytics.md) and advanced modeling techniques to [offer](../o/offer.md) tailored [reinsurance](../r/reinsurance.md) products.
+3. **Hannover Re** ( Hannover Re provides excess of loss [reinsurance](../r/reinsurance.md) solutions that address both common and complex [risk](../r/risk.md) scenarios for insurers around the globe.
 
 ## Challenges and Considerations
 

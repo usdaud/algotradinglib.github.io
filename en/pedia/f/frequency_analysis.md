@@ -9,8 +9,8 @@ High-Frequency Trading refers to automated trading platforms that execute a larg
 
 - **Latency [Arbitrage](../a/arbitrage.md)**: A form of HFT which takes advantage of price differences between different markets or [order](../o/order.md) books.
 - **[Market](../m/market.md) Making**: HFTs frequently act as [market](../m/market.md) makers, providing [liquidity](../l/liquidity.md) and profiting from [bid](../b/bid.md)-ask [spreads](../s/spreads.md). They place orders on both sides of the [order book](../o/order_book.md).
-  
-Key players in the HFT realm include [proprietary trading](../p/proprietary_trading.md) firms like [Citadel Securities](https://www.citadelsecurities.com/) and [Two Sigma Securities](https://www.twosigma.com/).
+
+Key players in the HFT realm include [proprietary trading](../p/proprietary_trading.md) firms like Citadel Securities and Two Sigma Securities.
 
 ### 2. Mid-Frequency Trading
 Mid-frequency trading operates on a lower frequency compared to HFT but still on a shorter timeframe than traditional investment strategies. It includes strategies that [hold](../h/hold.md) positions for days, hours, or even minutes.
@@ -30,7 +30,7 @@ Mid-frequency trading operates on a lower frequency compared to HFT but still on
 [Spectral analysis](../s/spectral_analysis.md) involves transforming [time series](../t/time_series.md) data into frequency components using methods such as the Fourier Transform. This helps in identifying cycles and patterns in trading data that are not easily visible in the time domain.
 
 - **Fast Fourier Transform (FFT)**: A computational algorithm to compute the discrete Fourier transform (DFT) and its inverse. It helps in breaking down complex signals into simpler parts.
-  
+
 ### Autocorrelation
 [Autocorrelation](../a/autocorrelation.md) measures the [correlation](../c/correlation.md) of a signal with a delayed copy of itself as a function of delay. In trading, it’s used to identify whether current prices are useful predictors of future prices.
 
@@ -44,7 +44,7 @@ Mid-frequency trading operates on a lower frequency compared to HFT but still on
 ### Backtesting
 [Backtesting](../b/backtesting.md) involves testing [trading strategies](../t/trading_strategies.md) using historical data to evaluate their performance. Frequency analysis helps identify the optimal timeframe and frequency at which a strategy performs best.
 
-- **Python Libraries**: Libraries such as `[Backtrader](../b/backtrader.md)`, `Zipline`, and `[QuantConnect](../q/quantconnect.md)` allow for comprehensive [backtesting](../b/backtesting.md) environments that support frequency analysis.
+- **Backtesting Tools**: Tools such as `[Backtrader](../b/backtrader.md)`, `Zipline`, and `[StockSharp](../s/stocksharp.md)` allow for comprehensive [backtesting](../b/backtesting.md) environments that support frequency analysis.
 
 ### Real-Time Data Analysis
 Analyzing real-time data to make quick trading decisions is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md). Frequency analysis tools help in filtering [noise](../n/noise.md) from significant signals.
@@ -73,8 +73,8 @@ Python has become a popular language in the [algorithmic trading](../a/algorithm
 ### Trading Platforms
 Several trading platforms incorporate frequency analysis tools directly into their systems, allowing traders to design, test, and implement strategies without requiring extensive coding knowledge.
 
-- [MetaTrader](https://www.metatrader4.com/): Provides a popular [trading platform](../t/trading_platform.md) equipped with various analytical tools, including those for frequency analysis.
-- [Interactive Brokers](https://www.interactivebrokers.com/): Offers an automated [trading platform](../t/trading_platform.md) that supports scripting in several languages, including Python, for extensive frequency analysis.
+- MetaTrader: Provides a popular [trading platform](../t/trading_platform.md) equipped with various analytical tools, including those for frequency analysis.
+- Interactive Brokers: Offers an automated [trading platform](../t/trading_platform.md) that supports scripting in several languages, including Python, for extensive frequency analysis.
 
 ## Advanced Topics
 

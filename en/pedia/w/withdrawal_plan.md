@@ -66,13 +66,13 @@ Modern [financial planning](../f/financial_planning.md) [software tools](../s/so
 
 Robo-advisors [offer](../o/offer.md) automated, algorithm-driven [financial planning](../f/financial_planning.md) services with minimal human supervision. Several robo-advisors now incorporate retirement [income](../i/income.md) planning, helping users to manage withdrawals efficiently:
 
-- **Betterment**: [Betterment](https://www.betterment.com/) provides automated [withdrawal](../w/withdrawal.md) plans based on user goals, employing tax-efficient strategies.
-- **Wealthfront**: [Wealthfront](https://www.wealthfront.com/) offers [retirement planning](../r/retirement_planning.md) solutions integrated with dynamic [withdrawal](../w/withdrawal.md) strategies.
-- **Schwab Intelligent Portfolios**: [Schwab](https://www.schwab.com/intelligent-portfolios) provides a robo-advisory service that includes retirement [income](../i/income.md) planning features.
+- **Betterment**: Betterment provides automated [withdrawal](../w/withdrawal.md) plans based on user goals, employing tax-efficient strategies.
+- **Wealthfront**: Wealthfront offers [retirement planning](../r/retirement_planning.md) solutions integrated with dynamic [withdrawal](../w/withdrawal.md) strategies.
+- **Schwab Intelligent Portfolios**: Schwab provides a robo-advisory service that includes retirement [income](../i/income.md) planning features.
 
 ### Online Annuity Marketplaces
 
-Platforms such as [Blueprint Income](https://www.blueprintincome.com/) allow consumers to shop for and purchase annuities online, simplifying the process of obtaining guaranteed [income](../i/income.md) products to be included in [withdrawal](../w/withdrawal.md) plans.
+Platforms such as Blueprint Income allow consumers to shop for and purchase annuities online, simplifying the process of obtaining guaranteed [income](../i/income.md) products to be included in [withdrawal](../w/withdrawal.md) plans.
 
 ### Mobile Applications
 

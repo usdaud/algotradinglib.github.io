@@ -20,14 +20,14 @@ Loss carryforward involves the [accounting](../a/accounting.md) practice of carr
 
 Several corporations apply loss carryforward strategies to manage their tax [obligations](../o/obligation.md) effectively. Here are some notable examples:
 
-- **Tesla, Inc.**: Tesla has utilized loss carryforwards extensively to [offset](../o/offset.md) its future taxable profits due to several years of substantial operational losses. Tesla's detailed financial reports and tax filings often showcase how they strategically plan their NOL carryforwards. For more information, visit Tesla's official website [here](https://www.tesla.com/).
+- **Tesla, Inc.**: Tesla has utilized loss carryforwards extensively to [offset](../o/offset.md) its future taxable profits due to several years of substantial operational losses. Tesla's detailed financial reports and tax filings often showcase how they strategically plan their NOL carryforwards.
 
-- **Amazon.com, Inc.**: Amazon reported significant losses in its early years, which were used to [offset](../o/offset.md) subsequent profits when the company turned profitable. Amazon's financial growth and tax strategies can be further explored on their [investor relations](../i/investor_relations.md) page [here](https://www.amazon.com/ir).
+- **online resource, Inc.**: Amazon reported significant losses in its early years, which were used to [offset](../o/offset.md) subsequent profits when the company turned profitable. Amazon's financial growth and tax strategies can be further explored on their [company filings](../i/investor_relations.md) page here.
 
 ### Benefits of Loss Carryforward
 
 1. **[Tax Relief](../t/tax_relief.md)**: By offsetting future profits, businesses can lower their tax burden, leading to improved [cash flow](../c/cash_flow.md) and financial stability.
-   
+
 2. **Investment Encouragement**: It encourages investment, as companies enduring initial losses can look forward to future tax benefits.
 
 3. **[Income Smoothing](../i/income_smoothing.md)**: It aids in creating more stable financial profiles for businesses by spreading the financial impact of losses across [multiple](../m/multiple.md) years.
@@ -57,12 +57,12 @@ The manner in which loss carryforward is treated varies internationally:
 ### Case Studies
 
 1. **Case Study: The Airline [Industry](../i/industry.md)**
-   - **Example**: Many airlines, such as [Delta](../d/delta.md) Airlines, have utilized loss carryforwards extensively, especially in the years following significant [industry](../i/industry.md)-wide losses due to 9/11 and the 2008 [financial crisis](../f/financial_crisis.md).
-   - **Impact**: By carrying forward these losses, airlines have managed to cushion their [taxable income](../t/taxable_income.md) during the recovery years, stabilizing their operations financially.
+ - **Example**: Many airlines, such as [Delta](../d/delta.md) Airlines, have utilized loss carryforwards extensively, especially in the years following significant [industry](../i/industry.md)-wide losses due to 9/11 and the 2008 [financial crisis](../f/financial_crisis.md).
+ - **Impact**: By carrying forward these losses, airlines have managed to cushion their [taxable income](../t/taxable_income.md) during the recovery years, stabilizing their operations financially.
 
 2. **Case Study: Technology Startups**
-   - **Example**: Technology startups often incur heavy losses in initial development phases. Companies like Uber Technologies Inc. have significantly relied on loss carryforwards as they moved towards profitability.
-   - **Impact**: This approach has provided these startups the financial leeway to continue their investment in innovation without the immediate pressure of high tax liabilities.
+ - **Example**: Technology startups often incur heavy losses in initial development phases. Companies like Uber Technologies Inc. have significantly relied on loss carryforwards as they moved towards profitability.
+ - **Impact**: This approach has provided these startups the financial leeway to continue their investment in innovation without the immediate pressure of high tax liabilities.
 
 ### Best Practices
 

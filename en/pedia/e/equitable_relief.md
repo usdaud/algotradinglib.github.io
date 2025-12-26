@@ -46,21 +46,21 @@ Given the high stakes in algo trading, disputes can arise regarding the ownershi
 
 The SEC has taken action against various high-frequency trading firms engaging in manipulative practices. In several cases, the court has used equitable relief to address these issues.
 
-**Notable Case**: [SEC vs. Athena Capital Research](https://www.sec.gov/litigation/admin/2014/34-73369.pdf)
+**Notable Case**: SEC vs. Athena Capital Research
  - Athena [Capital](../c/capital.md) Research was found guilty of using complex algorithms to manipulate the end-of-day prices of [stocks](../s/stock.md). The court issued an injunction to prevent Athena from engaging in similar practices and required the [firm](../f/firm.md) to submit regular compliance reports.
 
 ### Intellectual Property Disputes
 
 Algo trading firms often engage in litigation to protect their [proprietary algorithms](../p/proprietary_algorithms.md). Equitable relief plays a crucial role in these litigations.
 
-**Notable Case**: [TwoSigma Investments vs. Former Employees](https://www.bloomberg.com/news/articles/2018-12-18/two-sigma-trademark-suit-against-former-employee-is-dismissed)
+**Notable Case**: TwoSigma Investments vs. Former Employees
  - Two Sigma took legal action against former employees who allegedly took [proprietary algorithms](../p/proprietary_algorithms.md) to a competitor. The court issued an injunction preventing the use of these algorithms, thereby protecting Two Sigma’s intellectual property.
 
-### Algorithmic Trading Compliance 
+### Algorithmic Trading Compliance
 
 Regulatory bodies collaborate with courts to ensure that algo trading firms maintain fair practices. Equitable relief ensures that compliance is enforced effectively.
 
-**Example**: [CFTC’s Action against Navinder Sarao](https://www.cftc.gov/PressRoom/PressReleases/7389-16)
+**Example**: CFTC’s Action against Navinder Sarao
  - The U.S. [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) took action against Navinder Sarao for manipulating the [E-mini](../e/e-mini.md) S&P 500 [futures contract](../f/futures_contract.md) [market](../m/market.md) using [algorithmic trading](../a/accountability.md). The court used equitable relief in the form of a permanent injunction prohibiting Sarao from trading.
 
 ## Challenges and Considerations

@@ -1,6 +1,8 @@
-# Underlying Security 
+# Underlying Security
 
 In the [financial markets](../f/financial_market.md), the term **[underlying](../u/underlying.md) [security](../s/security.md)** refers to the fundamental [financial instrument](../f/financial_instrument.md) upon which [derivative](../d/derivative.md) instruments, such as [futures](../f/futures.md), [options](../o/options.md), or swaps, are based. Understanding the [underlying](../u/underlying.md) [security](../s/security.md) is crucial for traders and investors as it directly influences the [value](../v/value.md) and behavior of the [derivative](../d/derivative.md) instruments associated with it. Below, we'll delve into the various aspects of [underlying](../u/underlying.md) securities, their types, importance in trading, and examples to provide a comprehensive understanding.
+
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
 
 ## What is an Underlying Security?
 
@@ -100,7 +102,7 @@ Events such as corporate actions (mergers, acquisitions), regulatory changes, or
 Advancements in technology have revolutionized the trading of [underlying](../u/underlying.md) securities and their [derivatives](../d/derivatives.md). Here are some of the key technological developments:
 
 ### 1. **Algorithmic Trading**
-[Algorithmic trading](../a/accountability.md) employs algorithms to execute trades based on predefined criteria. It allows for high-frequency trading, leveraging small price movements in the [underlying](../u/underlying.md) [security](../s/security.md) to achieve gains at lightning speed.
+[Algorithmic trading](../a/algorithmic_trading.md) employs algorithms to execute trades based on predefined criteria. It allows for high-frequency trading, leveraging small price movements in the [underlying](../u/underlying.md) [security](../s/security.md) to achieve gains at lightning speed.
 
 ### 2. **Artificial Intelligence and Machine Learning**
 AI and [machine learning](../m/machine_learning.md) help in predictive analysis of price movements by analyzing vast datasets, including price trends, news, [social media sentiment](../s/social_media_sentiment.md), and more. They provide insights that manual analysis might miss.
@@ -126,4 +128,4 @@ By incorporating [derivatives](../d/derivatives.md), such as [options](../o/opti
 
 Understanding the concept of [underlying](../u/underlying.md) [security](../s/security.md) is fundamental for anyone involved in the [financial markets](../f/financial_market.md). Whether you're a novice [investor](../i/investor.md), an experienced [trader](../t/trader.md), or a financial professional, recognizing how [underlying](../u/underlying.md) securities influence the [value](../v/value.md) and behavior of [derivatives](../d/derivatives.md) is essential. By grasping the various types of [underlying](../u/underlying.md) securities, their importance in trading, and the factors that affect their [value](../v/value.md), you can make more informed trading decisions and effectively manage financial risks.
 
-For more information on trading securities and [derivatives](../d/derivatives.md), you can visit the websites of prominent financial institutions like the Chicago Mercantile [Exchange](../e/exchange.md) [CME Group](https://www.cmegroup.com) or the New York Stock [Exchange](../e/exchange.md) [NYSE](https://www.nyse.com).
+For more information on trading securities and [derivatives](../d/derivatives.md), you can visit the websites of prominent financial institutions like the Chicago Mercantile [Exchange](../e/exchange.md) CME Group or the New York Stock [Exchange](../e/exchange.md) NYSE.

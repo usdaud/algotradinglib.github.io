@@ -82,8 +82,8 @@ A guaranteed renewable policy offers significant benefits in terms of [security]
 
 For more comprehensive information on related services, you can visit the websites of leading [insurance](../i/insurance.md) providers such as:
 
-- [Aetna](https://www.aetna.com)
-- [Cigna](https://www.cigna.com)
-- [Humana](https://www.humana.com)
+- Aetna
+- Cigna
+- Humana
 
 These resources can provide further insights and detailed breakdowns of available policies and benefits.

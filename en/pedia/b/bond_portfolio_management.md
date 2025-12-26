@@ -127,23 +127,19 @@ Robo-advisors use algorithms to create and manage [bond](../b/bond.md) portfolio
 
 ### PIMCO
 PIMCO (Pacific [Investment Management](../i/investment_management.md) Company) is a leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [fixed income](../f/fixed_income.md). Founded in 1971, PIMCO manages [bond](../b/bond.md) portfolios for institutions, governments, and individual investors.
-[Visit PIMCO](https://www.pimco.com)
 
 ### BlackRock
 BlackRock is one of the world's largest [investment management](../i/investment_management.md) firms, [offering](../o/offering.md) a wide [range](../r/range.md) of [bond](../b/bond.md) funds and ETFs. BlackRock's [fixed income](../f/fixed_income.md) strategies span government, corporate, municipal, and international bonds.
-[Visit BlackRock](https://www.blackrock.com)
 
 ### Fidelity Investments
 [Fidelity Investments](../f/fidelity_investments.md) provides comprehensive [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) services, including mutual funds, ETFs, and individual bonds. Fidelity's [fixed income](../f/fixed_income.md) team emphasizes research-driven investment strategies.
-[Visit Fidelity Investments](https://www.fidelity.com)
 
 ### Vanguard
 Vanguard is known for its low-cost [bond](../b/bond.md) [index](../i/index_instrument.md) funds and ETFs. The [firm](../f/firm.md)'s [bond](../b/bond.md) [portfolio management](../p/portfolio_management.md) approach focuses on broad [diversification](../d/diversification.md) and cost [efficiency](../e/efficiency.md).
-[Visit Vanguard](https://www.vanguard.com)
 
 ### T. Rowe Price
 T. Rowe Price offers actively managed [bond](../b/bond.md) portfolios with a focus on fundamental research and [credit](../c/credit.md) analysis. The [firm](../f/firm.md)'s [fixed income](../f/fixed_income.md) strategies aim to achieve superior [risk](../r/risk.md)-adjusted returns.
-[Visit T. Rowe Price](https://www.troweprice.com)
+Visit T. Rowe Price
 
 ## Conclusion
 

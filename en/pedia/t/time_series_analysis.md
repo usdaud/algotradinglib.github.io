@@ -92,6 +92,6 @@ As the [volume](../v/volume.md) of [time series](../t/time_series.md) data incre
 [Time series](../t/time_series.md) analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) invaluable insights into historical data to forecast future trends and make data-driven trading decisions. Its techniques and applications are vast, ranging from simple moving averages to complex [neural networks](../n/neural_networks_in_trading.md). Given the dynamic nature of [financial markets](../f/financial_market.md), continuous advancements and refinements in [time series](../t/time_series.md) analysis methods are essential for maintaining a competitive edge in trading.
 
 For more information on companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and [time series](../t/time_series.md) analysis, you may [check](../c/check.md) out:
-- [QuantConnect](https://www.quantconnect.com/)
-- [Kensho](https://www.kensho.com/)
-- [Numerai](https://numer.ai/)
+- QuantConnect
+- Kensho
+- Numerai

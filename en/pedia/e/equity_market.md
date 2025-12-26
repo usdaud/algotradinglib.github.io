@@ -30,9 +30,9 @@ In addition to IPOs, companies may also [issue](../i/issue.md) additional rounds
 
 Stock exchanges are central venues where securities are [listed](../l/listed.md) and traded. Major global stock exchanges include:
 
-- **New York Stock [Exchange](../e/exchange.md) (NYSE):** One of the largest and most well-known stock exchanges globally. [NYSE](https://www.nyse.com/)
-- **[NASDAQ](../n/nasdaq.md):** A highly technological stock [exchange](../e/exchange.md) known for listing many tech giants. [NASDAQ](https://www.nasdaq.com/)
-- **London Stock [Exchange](../e/exchange.md) (LSE):** A key player in European markets. [LSE](https://www.londonstockexchange.com/)
+- **New York Stock [Exchange](../e/exchange.md) (NYSE):** One of the largest and most well-known stock exchanges globally. NYSE
+- **[NASDAQ](../n/nasdaq.md):** A highly technological stock [exchange](../e/exchange.md) known for listing many tech giants. NASDAQ
+- **London Stock [Exchange](../e/exchange.md) (LSE):** A key player in European markets. LSE
 
 ### Over-the-Counter (OTC) Markets
 
@@ -149,4 +149,4 @@ The [equity](../e/equity.md) [market](../m/market.md) is a dynamic and complex e
 
 Understanding the intricacies of the [equity](../e/equity.md) [market](../m/market.md), from primary and secondary markets to trading mechanisms and [market](../m/market.md) participants, is essential for anyone looking to navigate this financial landscape. As technology continues to evolve, the [equity](../e/equity.md) [market](../m/market.md) [will](../w/will.md) likely see further transformations, [offering](../o/offering.md) both challenges and opportunities for investors.
 
-For more detailed insights and up-to-date information, you can visit the official websites of major stock exchanges and financial institutions, such as the [New York Stock Exchange (NYSE)](https://www.nyse.com/) and [NASDAQ](https://www.nasdaq.com/).
+For more detailed insights and up-to-date information, you can visit the official websites of major stock exchanges and financial institutions, such as the New York Stock Exchange (NYSE) and NASDAQ.

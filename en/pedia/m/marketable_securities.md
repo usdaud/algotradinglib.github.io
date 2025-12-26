@@ -16,7 +16,7 @@ Treasury Bills are [short-term debt](../s/short-term_debt.md) [obligations](../o
 
 #### 2. Commercial Paper
 
-[Commercial paper](../c/commercial_paper.md) is an unsecured, short-term [debt instrument](../d/debt_instrument.md) issued by corporations to [finance](../f/finance.md) their short-term liabilities. It typically has maturities of up to 270 days. 
+[Commercial paper](../c/commercial_paper.md) is an unsecured, short-term [debt instrument](../d/debt_instrument.md) issued by corporations to [finance](../f/finance.md) their short-term liabilities. It typically has maturities of up to 270 days.
 
 #### 3. Certificates of Deposit (CDs)
 
@@ -152,19 +152,19 @@ Several prominent financial institutions and companies [offer](../o/offer.md) a 
 
 ### 1. Vanguard
 
-Vanguard is one of the largest global investment companies, [offering](../o/offering.md) a vast array of marketable securities, including mutual funds, ETFs, and bonds. More information can be found on their [website](https://www.vanguard.com).
+Vanguard is one of the largest global investment companies, [offering](../o/offering.md) a vast array of marketable securities, including mutual funds, ETFs, and bonds.
 
 ### 2. BlackRock
 
-BlackRock is a multinational [investment management](../i/investment_management.md) [corporation](../c/corporation.md) providing an extensive [range](../r/range.md) of marketable securities through its investment products and services. Their offerings can be explored on their [website](https://www.blackrock.com).
+BlackRock is a multinational [investment management](../i/investment_management.md) [corporation](../c/corporation.md) providing an extensive [range](../r/range.md) of marketable securities through its investment products
 
 ### 3. JPMorgan Chase
 
-JPMorgan Chase, one of the world's leading financial institutions, offers various marketable securities through its [investment banking](../i/investment_banking.md) and [asset management](../a/asset_management.md) services. Detailed information is available on their [website](https://www.jpmorganchase.com).
+JPMorgan Chase, one of the world's leading financial institutions, offers various marketable securities through its [investment banking](../i/investment_banking.md) and [asset management](../a/asset_management.md)
 
 ### 4. Fidelity Investments
 
-[Fidelity Investments](../f/fidelity_investments.md) provides a comprehensive suite of investment [options](../o/options.md), including marketable securities like mutual funds, ETFs, and fixed-[income](../i/income.md) products. Visit their [website](https://www.fidelity.com) for more information.
+[Fidelity Investments](../f/fidelity_investments.md) provides a comprehensive suite of investment [options](../o/options.md), including marketable securities like mutual funds, ETFs, and fixed-[income](../i/income.md) products.
 
 ## Conclusion
 

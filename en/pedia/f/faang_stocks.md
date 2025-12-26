@@ -17,8 +17,7 @@ Facebook's [business](../b/business.md) model is primarily based on advertising.
 ### Financial Performance
 As of 2021, Meta Platforms reported [revenue](../r/revenue.md) of $117 billion and a net [income](../i/income.md) of $39 billion, showcasing [robust](../r/robust.md) [financial health](../f/financial_health.md) driven by its advertising empire.
 
-### Website
-For more information, visit [Meta Platforms, Inc.](https://about.fb.com/)
+For more information, visit Meta Platforms, Inc.
 
 ## Amazon
 Founded by Jeff Bezos in 1994, Amazon started as an online bookstore and quickly diversified into various sectors, including e-[commerce](../c/commerce.md), [cloud computing](../c/cloud_computing_in_trading.md), digital streaming, and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
@@ -40,8 +39,7 @@ Amazon operates a diversified [business](../b/business.md) model:
 ### Financial Performance
 In 2021, Amazon's [revenue](../r/revenue.md) reached $469 billion with a net [income](../i/income.md) of $33 billion, largely attributed to its expansive e-[commerce](../c/commerce.md) operations and AWS.
 
-### Website
-For more information, visit [Amazon](https://www.amazon.com/)
+For more information, visit Amazon
 
 ## Apple
 Apple Inc., founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, revolutionized personal computing and consumer electronics. Its products, such as the iPhone, iPad, and Mac computers, have become cultural icons.
@@ -63,8 +61,7 @@ Apple's [revenue](../r/revenue.md) primarily comes from:
 ### Financial Performance
 Apple reported a [revenue](../r/revenue.md) of $365 billion and a net [income](../i/income.md) of $94 billion in 2021, bolstered by [robust](../r/robust.md) sales of iPhones and the growth of its services segment.
 
-### Website
-For more information, visit [Apple](https://www.apple.com/)
+For more information, visit Apple
 
 ## Netflix
 Netflix, founded by Reed Hastings and Marc Randolph in 1997, started as a DVD rental service but later pivoted to streaming, fundamentally changing how people consume media.
@@ -81,8 +78,7 @@ Netflix operates a subscription-based model, [offering](../o/offering.md) variou
 ### Financial Performance
 In 2021, Netflix generated $29.7 billion in [revenue](../r/revenue.md) with a net [income](../i/income.md) of $5.1 billion, driven by its expanding subscriber base and international growth.
 
-### Website
-For more information, visit [Netflix](https://www.netflix.com/)
+For more information, visit Netflix
 
 ## Google (Now Alphabet Inc.)
 Founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University, Google revolutionized search and later diversified into various tech-related areas.
@@ -102,8 +98,7 @@ Alphabet's [revenue](../r/revenue.md) streams include:
 ### Financial Performance
 In 2021, Alphabet reported [revenue](../r/revenue.md) of $257 billion and a net [income](../i/income.md) of $76 billion, buoyed by its dominant position in digital advertising and strong performance in cloud services.
 
-### Website
-For more information, visit [Alphabet Inc.](https://abc.xyz/)
+For more information, visit Alphabet Inc.
 
 ## Importance in Algorithmic Trading
 

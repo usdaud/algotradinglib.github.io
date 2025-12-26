@@ -17,9 +17,9 @@ Here, \( R_p - R_f \) is also known as the [excess return](../e/excess_return.md
 
 ### Components:
 1. **Expected Portfolio [Return](../r/return.md) (\( R_p \))**: This is the [return](../r/return.md) that an [investor](../i/investor.md) predicts or expects from their portfolio, based on historical performance or [predictive models](../p/predictive_models_in_trading.md).
-  
+
 2. **[Risk](../r/risk.md)-Free Rate (\( R_f \))**: Typically, the [yield](../y/yield.md) on government bonds (such as [U.S. Treasury](../u/u.s._treasury.md) bills) is used as the [risk](../r/risk.md)-free rate since they are considered free from [default risk](../d/default_risk.md).
-  
+
 3. **[Standard Deviation](../s/standard_deviation.md) (\( \sigma_p \))**: This statistic measures the [volatility](../v/volatility.md) or the degree of variation in the portfolio's returns. A higher [standard deviation](../s/standard_deviation.md) indicates higher [risk](../r/risk.md).
 
 ## Importance of the Sharpe Ratio
@@ -27,11 +27,11 @@ Here, \( R_p - R_f \) is also known as the [excess return](../e/excess_return.md
 The [Sharpe Ratio](../s/sharpe_ratio.md) allows investors to differentiate between an investment's potential for generating returns and the actual [risk](../r/risk.md) that must be undertaken:
 
 1. **[Risk](../r/risk.md)-adjusted Returns**: It helps in adjusting returns on a like-for-like [basis](../b/basis.md), meaning two different portfolios or investments can be compared in terms of [risk](../r/risk.md)-adjusted performance.
-  
+
 2. **[Performance Benchmarking](../p/performance_benchmarking.md)**: Investors can [benchmark](../b/benchmark.md) portfolios against others. A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates a better [risk-adjusted return](../r/risk-adjusted_return.md).
-  
+
 3. **Optimizing Portfolios**: It is instrumental in the Modern Portfolio Theory (MPT) for selecting an optimal portfolio. An optimal portfolio should have the highest [Sharpe Ratio](../s/sharpe_ratio.md) possible.
-  
+
 4. **[Investor](../i/investor.md) Reassurance**: Investors can be informed about the [efficiency](../e/efficiency.md) of their investments enabling a more informed decision-making process.
 
 ## Optimization Methods
@@ -42,27 +42,27 @@ One of the primary methods to optimize the [Sharpe Ratio](../s/sharpe_ratio.md) 
 
 **Steps in [Mean-Variance Optimization](../m/mean-variance_optimization.md):**
 1. **Define Investment Universe**: Selecting a set of securities to be included in the portfolio.
-  
+
 2. **Calculate Expected Returns and [Covariance](../c/covariance.md)**: Estimating the expected returns and the [covariance](../c/covariance.md) matrix of the returns for the securities.
-  
+
 3. **Formulate [Optimization](../o/optimization.md) Problem**: Using the [Sharpe Ratio](../s/sharpe_ratio.md) formula as the objective function, the portfolio weights are adjusted to maximize this ratio subject to constraints (e.g., no [short selling](../s/short_selling.md) or specific weight limits).
-  
+
 4. **Solve [Optimization](../o/optimization.md) Model**: Employing [optimization](../o/optimization.md) algorithms or software (e.g., MATLAB, R, Python libraries like CVXPY) to find the optimal weights.
-  
+
 5. **Allocate [Capital](../c/capital.md)**: Applying the weights to construct the portfolio.
 
 ### Enhancements and Extensions
 
 - **[Robust Optimization](../r/robust_optimization.md)**: Considering the estimation errors in expected returns and the [covariance](../c/covariance.md) matrix. Incorporating [uncertainty](../u/uncertainty_in_trading.md) can lead to more realistic portfolio constructions.
-  
+
 - **[Black-Litterman Model](../b/black-litterman_model.md)**: Adds [investor](../i/investor.md) views to the [Mean-Variance Optimization](../m/mean-variance_optimization.md) framework for a more tailored and subjective point of view on expected returns.
-  
+
 - **Bayesian Approach**: Integrating probabilistic approaches in parameter estimation to better [handle](../h/handle.md) [sampling](../s/sampling.md) [variability](../v/variability.md) and to update beliefs based on new information.
 
 ### Common Pitfalls and Considerations
 
 - **Estimation Errors**: The accuracy of input parameters like [expected return](../e/expected_return.md), [risk](../r/risk.md)-free rate, and [standard deviation](../s/standard_deviation.md) can greatly affect the resulting [Sharpe Ratio](../s/sharpe_ratio.md). Techniques like [shrinkage](../s/shrinkage.md) estimation and [robust statistics](../r/robust_statistics_in_trading.md) can help.
-  
+
 - **Non-normality of Returns**: The assumption of normally distributed returns might not always [hold](../h/hold.md) true in real [market](../m/market.md) conditions. Consideration of [skewness](../s/skewness.md), [kurtosis](../k/kurtosis.md), and other higher moments can improve the [optimization](../o/optimization.md).
 
 - **Dynamic Markets**: [Financial markets](../f/financial_market.md) are dynamic, and static [optimization](../o/optimization.md) might not be sufficient. Incorporating dynamic or adaptive models can better capture changing [market](../m/market.md) conditions.
@@ -93,7 +93,7 @@ def optimize_portfolio(returns, risk_free_rate):
     args = (returns, risk_free_rate)
     constraints = ({'type': 'eq', 'fun': [lambda](../l/lambda.md) x: np.sum(x) - 1}) 
     bounds = tuple((0, 1) for [asset](../a/asset.md) in [range](../r/range.md)(num_assets))
-    result = minimize(
+ result = minimize
         [lambda](../l/lambda.md) weights: -sharpe_ratio(weights, *args),
         num_assets * [1. / num_assets,],
         method='SLSQP',
@@ -113,13 +113,13 @@ print("Optimal Weights:", optimal_weights.x)
 ### Case Studies and Real-world Applications
 
 **1. [Hedge](../h/hedge.md) Funds:**
-[Hedge](../h/hedge.md) funds actively use [Sharpe Ratio](../s/sharpe_ratio.md) [optimization](../o/optimization.md) to design portfolios that promise high returns without excessive [risk](../r/risk.md). For instance, the Bridgewater Associates (https://www.bridgewater.com) utilizes sophisticated [quantitative models](../q/quantitative_models.md) to ensure a high [Sharpe Ratio](../s/sharpe_ratio.md) for its investments, aiming for [robust](../r/robust.md) [risk management](../r/risk_management.md) and [return](../r/return.md) performance.
+[Hedge](../h/hedge.md) funds actively use [Sharpe Ratio](../s/sharpe_ratio.md) [optimization](../o/optimization.md) to design portfolios that promise high returns without excessive [risk](../r/risk.md). For instance, the Bridgewater Associates ( utilizes sophisticated [quantitative models](../q/quantitative_models.md) to ensure a high [Sharpe Ratio](../s/sharpe_ratio.md) for its investments, aiming for [robust](../r/robust.md) [risk management](../r/risk_management.md) and [return](../r/return.md) performance.
 
 **2. Robo-advisors:**
-Robo-advisors like Betterment (https://www.betterment.com) [leverage](../l/leverage.md) [Sharpe Ratio](../s/sharpe_ratio.md) [optimization](../o/optimization.md) in their [underlying](../u/underlying.md) algorithms to automatically construct portfolios for retail investors, balancing [risk](../r/risk.md) and [return](../r/return.md) while minimizing human intervention.
+Robo-advisors like Betterment ( [leverage](../l/leverage.md) [Sharpe Ratio](../s/sharpe_ratio.md) [optimization](../o/optimization.md) in their [underlying](../u/underlying.md) algorithms to automatically construct portfolios for retail investors, balancing [risk](../r/risk.md) and [return](../r/return.md) while minimizing human intervention.
 
 **3. [Asset Management](../a/asset_management.md) Firms:**
-[Asset management](../a/asset_management.md) firms, such as BlackRock (https://www.blackrock.com), use [Sharpe Ratio](../s/sharpe_ratio.md) [optimization](../o/optimization.md) to manage large institutional portfolios with billions of dollars in assets, ensuring an optimal [risk](../r/risk.md)-[return](../r/return.md) balance for their clients.
+[Asset management](../a/asset_management.md) firms, such as BlackRock ( use [Sharpe Ratio](../s/sharpe_ratio.md) [optimization](../o/optimization.md) to manage large institutional portfolios with billions of dollars in assets, ensuring an optimal [risk](../r/risk.md)-[return](../r/return.md) balance for their clients.
 
 ## Conclusion
 

@@ -4,7 +4,7 @@ In the context of [financial markets](../f/financial_market.md) and trading, "ov
 
 ## Definition and Importance
 
-The concept of being oversold is crucial in both [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/accountability.md). It serves as a signal that a stock or other [asset](../a/asset.md) has been subjected to excessive selling pressure, often resulting in a steep decline in its price. The oversold condition indicates that investors have possibly overreacted to recent news or events, leading to a potential buying opportunity as the price may correct itself to more accurately reflect the true [value](../v/value.md) of the [asset](../a/asset.md).
+The concept of being oversold is crucial in both [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). It serves as a signal that a stock or other [asset](../a/asset.md) has been subjected to excessive selling pressure, often resulting in a steep decline in its price. The oversold condition indicates that investors have possibly overreacted to recent news or events, leading to a potential buying opportunity as the price may correct itself to more accurately reflect the true [value](../v/value.md) of the [asset](../a/asset.md).
 
 ## Technical Indicators
 
@@ -51,7 +51,7 @@ This [momentum](../m/momentum.md) [indicator](../i/indicator.md) compares a clos
 
 ## Algorithmic Strategies
 
-In [algorithmic trading](../a/accountability.md), recognizing and acting on oversold conditions is typically automated through pre-defined [trading rules](../t/trading_rules.md) and criteria. Here are some common algorithmic strategies used to identify and [trade](../t/trade.md) oversold conditions:
+In [algorithmic trading](../a/algorithmic_trading.md), recognizing and acting on oversold conditions is typically automated through pre-defined [trading rules](../t/trading_rules.md) and criteria. Here are some common algorithmic strategies used to identify and [trade](../t/trade.md) oversold conditions:
 
 ### Mean Reversion
 
@@ -73,7 +73,7 @@ Institutional investors like [hedge](../h/hedge.md) funds and [proprietary tradi
 
 Renaissance Technologies, founded by Jim Simons, is known for its [quantitative trading](../q/quantitative_trading.md) strategies that encompass [multiple](../m/multiple.md) [technical indicators](../t/technical_indicator.md), including those for detecting oversold conditions. Their Medallion [Fund](../f/fund.md) is a prime example of how advanced algorithms and statistical models can achieve consistent profits from [mean reversion](../m/mean_reversion.md) and other strategies.
 
-More information can be found about Renaissance Technologies at: [Renaissance Technologies](https://www.rentec.com/)
+More information can be found about Renaissance Technologies at: Renaissance Technologies
 
 ## Conclusion
 

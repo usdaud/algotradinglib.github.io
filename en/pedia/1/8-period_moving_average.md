@@ -87,7 +87,7 @@ Retail investors can also benefit from using the 8-Period MA, especially those w
 
 ### Brokerages
 
-Brokerage firms like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) and [Charles Schwab](../c/charles_schwab.md) (https://www.schwab.com/) [offer](../o/offer.md) advanced charting tools that help clients implement moving averages and other [technical indicators](../t/technical_indicators.md) easily on their platforms.
+Brokerage firms like [Interactive Brokers](../i/interactive_brokers.md) ( and [Charles Schwab](../c/charles_schwab.md) ( [offer](../o/offer.md) advanced charting tools that help clients implement moving averages and other [technical indicators](../t/technical_indicators.md) easily on their platforms.
 
 ## Limitations
 
@@ -107,4 +107,4 @@ The 8-Period MA might not perform well in ranging or sideways markets where ther
 
 The 8-Period Moving Average is a versatile and straightforward tool that can significantly enhance [trading strategies](../t/trading_strategies.md) by helping traders identify short-term trends, confirming signals from other indicators, and acting as dynamic [support and resistance](../s/support_and_resistance.md) levels. While it has its limitations, its ease of calculation and effective application in various trading scenarios make it a valuable component of both manual and [algorithmic trading](../a/algorithmic_trading.md) systems.
 
-Whether you're an institutional [trader](../t/trader.md) or a [retail investor](../r/retail_investor.md), incorporating the 8-Period MA into your [trading strategy](../t/trading_strategy.md) can provide you with valuable insights and potentially improve your overall [trading performance](../t/trading_performance.md). However, like any other trading tool, it should be used in conjunction with comprehensive [risk management](../r/risk_management.md) practices and other analytical methods to maximize its effectiveness.
+Whether you're an institutional [trader](../t/trader.md) or a [retail investor](../r/retail_investor.md), incorporating the 8-Period MA into your [trading strategy](../t/trading_strategy.md) can provide you with valuable insights and potentially improve your overall [trading performance](../t/trading_performance.md). However, like any other trading tool, it should be used in conjunction with comprehensive [risk management](../r/risk_management.md) practices and other analytical methods to maximize its effectiveness.

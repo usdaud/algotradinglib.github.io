@@ -1,6 +1,6 @@
 # Monetary Policy
 
-Monetary policy is a critical economic tool employed by central banks to regulate a country's [money supply](../m/money_supply.md), manage [interest](../i/interest.md) rates, and oversee the [liquidity](../l/liquidity.md) of [financial markets](../f/financial_market.md) to achieve macroeconomic objectives such as controlling [inflation](../i/inflation.md), stabilizing [currency](../c/currency.md), attaining [full employment](../f/full_employment.md), and fostering [economic growth](../e/economic_growth.md). One of the most prominent central banks responsible for monetary policy is the Federal Reserve in the United States (https://www.federalreserve.gov/).
+Monetary policy is a critical economic tool employed by central banks to regulate a country's [money supply](../m/money_supply.md), manage [interest](../i/interest.md) rates, and oversee the [liquidity](../l/liquidity.md) of [financial markets](../f/financial_market.md) to achieve macroeconomic objectives such as controlling [inflation](../i/inflation.md), stabilizing [currency](../c/currency.md), attaining [full employment](../f/full_employment.md), and fostering [economic growth](../e/economic_growth.md). One of the most prominent central banks responsible for monetary policy is the Federal Reserve in the United States (
 
 ### Types of Monetary Policy
 
@@ -19,7 +19,7 @@ Each of these policies utilizes various tools and mechanisms, which are discusse
 OMO is a fundamental tool of monetary policy, involving the buying and selling of government securities in the [open market](../o/open_market.md). These operations are conducted by central banks and directly impact the [liquidity](../l/liquidity.md) levels in the banking system.
 
 - **Purchasing Government Securities**: When a central [bank](../b/bank.md) buys government securities, it injects [liquidity](../l/liquidity.md) into the banking system, lowering [interest](../i/interest.md) rates and encouraging lending and investment. This action is typical of an expansionary monetary policy.
-  
+
 - **Selling Government Securities**: When the central [bank](../b/bank.md) sells government securities, it absorbs [liquidity](../l/liquidity.md) from the banking system, increasing [interest](../i/interest.md) rates and discouraging excessive borrowing and spending. This action is typical of a contractionary monetary policy.
 
 #### Discount Rate
@@ -27,7 +27,7 @@ OMO is a fundamental tool of monetary policy, involving the buying and selling o
 The [discount rate](../d/discount_rate.md) (also known as the policy rate in some countries) is the [interest rate](../i/interest_rate.md) charged by central banks on short-term loans to commercial banks. Adjusting the [discount rate](../d/discount_rate.md) influences the overall levels of borrowing and spending in the [economy](../e/economy.md):
 
 - **Lowering the [Discount Rate](../d/discount_rate.md)**: Reduces borrowing costs for commercial banks, encouraging them to lend more to businesses and consumers. This action supports expansionary monetary policy.
-  
+
 - **Raising the [Discount Rate](../d/discount_rate.md)**: Increases borrowing costs, causing commercial banks to reduce lending. This action supports contractionary monetary policy.
 
 #### Reserve Requirements
@@ -35,7 +35,7 @@ The [discount rate](../d/discount_rate.md) (also known as the policy rate in som
 [Reserve requirements](../r/reserve_requirements.md) refer to the minimum amount of reserves that commercial banks must [hold](../h/hold.md) against their deposits. By altering these requirements, central banks can directly influence the lending capacity of the banking sector.
 
 - **Reducing [Reserve Requirements](../r/reserve_requirements.md)**: Lowers the amount of reserves that banks must [hold](../h/hold.md), freeing up more funds for lending and injecting [liquidity](../l/liquidity.md) into the [economy](../e/economy.md).
-  
+
 - **Increasing [Reserve Requirements](../r/reserve_requirements.md)**: Forces banks to [hold](../h/hold.md) a larger portion of their deposits as reserves, reducing the amount available for lending and thus curbing [liquidity](../l/liquidity.md).
 
 #### Interest on Excess Reserves (IOER)
@@ -43,7 +43,7 @@ The [discount rate](../d/discount_rate.md) (also known as the policy rate in som
 IOER is the [interest rate](../i/interest_rate.md) paid by central banks on reserves that commercial banks [hold](../h/hold.md) in excess of the required minimum. By adjusting the IOER, central banks can influence the amount of reserves held by banks and thus control overall [liquidity](../l/liquidity.md).
 
 - **Raising IOER**: Encourages banks to [hold](../h/hold.md) more [excess reserves](../e/excess_reserves.md), reducing the amount of [money](../m/money.md) available for lending and contracting the [money supply](../m/money_supply.md).
-  
+
 - **Lowering IOER**: Encourages banks to lend more of their [excess reserves](../e/excess_reserves.md), increasing the [money supply](../m/money_supply.md).
 
 ### Strategies of Monetary Policy
@@ -83,19 +83,14 @@ Beyond traditional monetary policy, central banks also engage in prudential regu
 Several prominent central banks worldwide are responsible for implementing monetary policy in their respective jurisdictions. Some of the key central banks include:
 
 - **Federal Reserve (United States)**
-  - Website: [Federal Reserve](https://www.federalreserve.gov/)
 
 - **European Central [Bank](../b/bank.md) ([Eurozone](../e/eurozone.md))**
-  - Website: [European Central Bank](https://www.ecb.europa.eu/)
 
 - **[Bank](../b/bank.md) of Japan (Japan)**
-  - Website: [Bank of Japan](https://www.boj.or.jp/en/)
 
 - **[Bank](../b/bank.md) of England (United Kingdom)**
-  - Website: [Bank of England](https://www.bankofengland.co.uk/)
 
 - **People's [Bank](../b/bank.md) of China (China)**
-  - Website: [People's Bank of China](http://www.pbc.gov.cn/)
 
 These institutions play crucial roles in shaping global [economic conditions](../e/economic_conditions.md) through their monetary policy actions and strategic decisions.
 

@@ -89,7 +89,7 @@ leading to a survival function:
 
 ### R
 
-R is a powerful statistical programming language widely used for survival analysis. Packages like `survival`, `survminer`, and `flexsurv` provide [robust](../r/robust.md) tools for fitting, visualizing, and interpreting survival models. 
+R is a powerful statistical programming language widely used for survival analysis. Packages like `survival`, `survminer`, and `flexsurv` provide [robust](../r/robust.md) tools for fitting, visualizing, and interpreting survival models.
 
 ### Python
 

@@ -111,11 +111,11 @@ OAS analysis takes into account the impact of embedded [options](../o/options.md
 
 ## Conclusion
 
-The [Economic Value](../e/economic_value.md) of [Equity](../e/equity.md) (EVE) is a critical metric in managing [interest rate risk](../i/interest_rate_risk.md) for financial institutions. It provides a long-term perspective on the impact of [interest rate](../i/interest_rate.md) changes on the [market value](../m/market_value.md) of a [bank](../b/bank.md)’s [equity](../e/equity.md). By understanding and managing the sensitivity of EVE through diversified strategies such as ALM, [derivatives](../d/derivatives.md), and gap management, institutions can safeguard their [economic value](../e/economic_value.md) against adverse [interest rate](../i/interest_rate.md) movements. Regular [stress testing](../s/stress_testing.md), [scenario analysis](../s/scenario_analysis.md), and adherence to regulatory requirements further enhance the effectiveness of EVE as a [risk management](../r/risk_management.md) tool. In today’s dynamic financial environment, a [robust](../r/robust.md) approach to managing EVE is indispensable for achieving sustained financial stability and profitability. 
+The [Economic Value](../e/economic_value.md) of [Equity](../e/equity.md) (EVE) is a critical metric in managing [interest rate risk](../i/interest_rate_risk.md) for financial institutions. It provides a long-term perspective on the impact of [interest rate](../i/interest_rate.md) changes on the [market value](../m/market_value.md) of a [bank](../b/bank.md)’s [equity](../e/equity.md). By understanding and managing the sensitivity of EVE through diversified strategies such as ALM, [derivatives](../d/derivatives.md), and gap management, institutions can safeguard their [economic value](../e/economic_value.md) against adverse [interest rate](../i/interest_rate.md) movements. Regular [stress testing](../s/stress_testing.md), [scenario analysis](../s/scenario_analysis.md), and adherence to regulatory requirements further enhance the effectiveness of EVE as a [risk management](../r/risk_management.md) tool. In today’s dynamic financial environment, a [robust](../r/robust.md) approach to managing EVE is indispensable for achieving sustained financial stability and profitability.
 
 For more detailed information about EVE and related [risk management](../r/risk_management.md) strategies, you can visit the following references:
 
-- [Basel Committee on Banking Supervision](https://www.bis.org/bcbs/index.htm)
-- [Office of the Comptroller of the Currency (OCC)](https://www.occ.treas.gov/)
-- [Federal Reserve Board](https://www.federalreserve.gov/)
-- [International Swap and Derivatives Association (ISDA)](https://www.isda.org/)
+- Basel Committee on Banking Supervision
+- Office of the Comptroller of the Currency (OCC)
+- Federal Reserve Board
+- International Swap and Derivatives Association (ISDA)

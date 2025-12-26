@@ -7,7 +7,7 @@ A horizontal channel, also known as a sideways [trend](../t/trend.md) or [range]
 ### Characteristics
 
 1. **Upper Boundary (Resistance Level)**: This is the line that connects at least two of the highest highs in the given time period. The resistance level acts as a ceiling that the price has trouble breaking through.
-  
+
 2. **Lower Boundary (Support Level)**: This is the line that connects at least two of the lowest lows in the given time period. The support level acts as a floor that the price has trouble falling below.
 
 3. **Parallel Lines**: For a channel to be considered horizontal, the lines must be more or less parallel, indicating that the [asset](../a/asset.md)'s price is moving sideways rather than trending upwards or downwards.
@@ -43,9 +43,9 @@ Another effective strategy is [breakout trading](../b/breakout_trading.md), whic
 Traders often use [technical indicators](../t/technical_indicator.md) to confirm the signals provided by a horizontal channel. Some commonly used indicators include:
 
 1. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: This [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) can help identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
-  
+
 2. **Moving Averages**: Simple moving averages (SMA) or exponential moving averages (EMA) can help determine [trend](../t/trend.md) direction and potential [reversal](../r/reversal.md) points.
-  
+
 3. **[Volume Indicators](../v/volume_indicators.md)**: Indicators like On-Balance [Volume](../v/volume.md) (OBV) can provide insights into the strength of the buying or selling pressure.
 
 ## Examples of Horizontal Channels

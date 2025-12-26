@@ -20,7 +20,7 @@ The most important requirement of the 1933 Act is the registration of securities
 - A description of the [security](../s/security.md) being offered.
 - Information about the management of the company.
 - [Financial statements](../f/financial_statements.md) certified by independent accountants.
-  
+
 ### Prospectus
 
 Part of the registration statement is a [prospectus](../p/prospectus.md), which must be provided to potential buyers and contains essential facts about the investment [offering](../o/offering.md). This guarantees that investors receive critical information to make sound investment decisions.
@@ -108,4 +108,4 @@ The integration of technology in regulatory compliance, known as [RegTech](../r/
 
 The Securities Act of 1933 remains a cornerstone of securities regulation in the United States, embodying fundamental principles of [transparency](../t/transparency.md) and [investor](../i/investor.md) protection. Its historical context, significant impact, and continued relevance underscore its importance in shaping the functioning of the securities markets. As the financial landscape continues to evolve, the Act's principles [will](../w/will.md) undoubtedly continue to guide efforts to ensure a fair, efficient, and transparent [market](../m/market.md) for investors.
 
-For more information on the Securities Act of 1933, visit the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)'s website [here](https://www.sec.gov).
+For more information on the Securities Act of 1933, visit the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)'s online platform here.

@@ -53,10 +53,9 @@ Event-driven strategies focus on [yield forecasting](../y/yield_forecasting.md) 
 
 Several tools and platforms help implement [yield forecasting](../y/yield_forecasting.md) techniques effectively. Some of the notable ones include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal:** [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides comprehensive data and analytics for financial professionals. 
-- **[Reuters](../r/reuters.md) Eikon:** [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html) offers powerful tools for [financial analysis](../f/financial_analysis.md), including [yield forecasting](../y/yield_forecasting.md).
-- **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/) provides an [open](../o/open.md) platform for [algorithmic trading](../a/algorithmic_trading.md) and [financial analysis](../f/financial_analysis.md).
-- **Kensho:** [Kensho](https://www.kensho.com/) employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide actionable insights and real-time [yield forecasting](../y/yield_forecasting.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Bloomberg L.P. provides comprehensive data and analytics for financial professionals. - **[Reuters](../r/reuters.md) Eikon:** Refinitiv Eikon offers powerful tools for [financial analysis](../f/financial_analysis.md), including [yield forecasting](../y/yield_forecasting.md).
+- **[QuantConnect](../q/quantconnect.md):** QuantConnect provides an [open](../o/open.md) platform for [algorithmic trading](../a/algorithmic_trading.md) and [financial analysis](../f/financial_analysis.md).
+- **Kensho:** Kensho employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide actionable insights and real-time [yield forecasting](../y/yield_forecasting.md).
 
 ## Conclusion
 

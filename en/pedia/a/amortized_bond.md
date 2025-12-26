@@ -42,54 +42,54 @@ Let’s consider a simplified example of an amortized [bond](../b/bond.md):
 ### Calculation
 
 1. **Annual [Payment](../p/payment.md) Calculation**:
-   Given the [bond](../b/bond.md) is an amortized [bond](../b/bond.md), the payments are calculated to include both [principal](../p/principal.md) and [interest](../i/interest.md). Using an amortization formula, or an [amortization schedule](../a/amortization.md) tool, we determine the annual [payment](../p/payment.md):
-   
-   ```
-   [Payment](../p/payment.md) = P [ r(1+r)^n ] / [ (1+r)^n – 1 ]
-   Where:
-   P = [Principal](../p/principal.md) ([Face Value](../f/face_value.md)) = $1,000
-   r = [Periodic Interest Rate](../p/periodic_interest_rate.md) = 5%
-   n = Number of periods = 5
-   ```
+ Given the [bond](../b/bond.md) is an amortized [bond](../b/bond.md), the payments are calculated to include both [principal](../p/principal.md) and [interest](../i/interest.md). Using an amortization formula, or an [amortization schedule](../a/amortization.md) tool, we determine the annual [payment](../p/payment.md):
 
-   Plugging in the values:
-   
-   ```
-   [Payment](../p/payment.md) = 1000 [ 0.05(1+0.05)^5 ] / [ (1+0.05)^5 – 1 ]
-           ≈ $230.97
-   ```
+ ```
+ [Payment](../p/payment.md) = P [ r(1+r)^n ] / [ (1+r)^n – 1 ]
+ Where:
+ P = [Principal](../p/principal.md) ([Face Value](../f/face_value.md)) = $1,000
+ r = [Periodic Interest Rate](../p/periodic_interest_rate.md) = 5%
+ n = Number of periods = 5
+ ```
 
-   Therefore, the borrower [will](../w/will.md) make annual payments of approximately $230.97.
+ Plugging in the values:
+
+ ```
+ [Payment](../p/payment.md) = 1000 [ 0.05(1+0.05)^5 ] / [ (1+0.05)^5 – 1 ]
+ ≈ $230.97
+ ```
+
+ Therefore, the borrower [will](../w/will.md) make annual payments of approximately $230.97.
 
 2. **[Amortization Schedule](../a/amortization.md)**:
-   We create an [amortization schedule](../a/amortization.md) that breaks down each annual [payment](../p/payment.md) into [interest](../i/interest.md) and [principal](../p/principal.md).
+ We create an [amortization schedule](../a/amortization.md) that breaks down each annual [payment](../p/payment.md) into [interest](../i/interest.md) and [principal](../p/principal.md).
 
-   - **Year 1**:
-     - [Interest](../i/interest.md): $1,000 * 5% = $50
-     - [Principal](../p/principal.md): $230.97 - $50 = $180.97
-     - Remaining [Principal](../p/principal.md): $1,000 - $180.97 = $819.03
+ - **Year 1**:
+ - [Interest](../i/interest.md): $1,000 * 5% = $50
+ - [Principal](../p/principal.md): $230.97 - $50 = $180.97
+ - Remaining [Principal](../p/principal.md): $1,000 - $180.97 = $819.03
 
-   - **Year 2**:
-     - [Interest](../i/interest.md): $819.03 * 5% = $40.95
-     - [Principal](../p/principal.md): $230.97 - $40.95 = $190.02
-     - Remaining [Principal](../p/principal.md): $819.03 - $190.02 = $629.02
+ - **Year 2**:
+ - [Interest](../i/interest.md): $819.03 * 5% = $40.95
+ - [Principal](../p/principal.md): $230.97 - $40.95 = $190.02
+ - Remaining [Principal](../p/principal.md): $819.03 - $190.02 = $629.02
 
-   - **Year 3**:
-     - [Interest](../i/interest.md): $629.02 * 5% = $31.45
-     - [Principal](../p/principal.md): $230.97 - $31.45 = $199.52
-     - Remaining [Principal](../p/principal.md): $629.02 - $199.52 = $429.50
+ - **Year 3**:
+ - [Interest](../i/interest.md): $629.02 * 5% = $31.45
+ - [Principal](../p/principal.md): $230.97 - $31.45 = $199.52
+ - Remaining [Principal](../p/principal.md): $629.02 - $199.52 = $429.50
 
-   - **Year 4**:
-     - [Interest](../i/interest.md): $429.50 * 5% = $21.48
-     - [Principal](../p/principal.md): $230.97 - $21.48 = $209.49
-     - Remaining [Principal](../p/principal.md): $429.50 - $209.49 = $220.01
+ - **Year 4**:
+ - [Interest](../i/interest.md): $429.50 * 5% = $21.48
+ - [Principal](../p/principal.md): $230.97 - $21.48 = $209.49
+ - Remaining [Principal](../p/principal.md): $429.50 - $209.49 = $220.01
 
-   - **Year 5**:
-     - [Interest](../i/interest.md): $220.01 * 5% = $11.00
-     - [Principal](../p/principal.md): $230.97 - $11.00 = $219.97
-     - Remaining [Principal](../p/principal.md): $220.01 - $219.97 = $0.04
+ - **Year 5**:
+ - [Interest](../i/interest.md): $220.01 * 5% = $11.00
+ - [Principal](../p/principal.md): $230.97 - $11.00 = $219.97
+ - Remaining [Principal](../p/principal.md): $220.01 - $219.97 = $0.04
 
-   Across five years, the [bond](../b/bond.md) is paid off completely, with [interest](../i/interest.md) costs decreasing each year as the [principal](../p/principal.md) balance goes down.
+ Across five years, the [bond](../b/bond.md) is paid off completely, with [interest](../i/interest.md) costs decreasing each year as the [principal](../p/principal.md) balance goes down.
 
 ## Real-World Applications
 

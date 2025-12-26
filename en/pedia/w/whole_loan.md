@@ -1,6 +1,6 @@
 # Whole Loan
 
-In the realms of [finance](../f/finance.md) and trading, particularly within [mortgage](../m/mortgage.md) and [real estate](../r/real_estate.md) markets, the term "Whole [Loan](../l/loan.md)" refers to a type of financial product that is sold in its entirety by the originator, usually a [lender](../l/lender.md) like a [bank](../b/bank.md) or a financial institution, to an [investor](../i/investor.md) or another [lender](../l/lender.md). Unlike securities, whole loans are not pooled together and sliced into various [tranches](../t/tranches.md); rather, they remain as individual, distinct loans. 
+In the realms of [finance](../f/finance.md) and trading, particularly within [mortgage](../m/mortgage.md) and [real estate](../r/real_estate.md) markets, the term "Whole [Loan](../l/loan.md)" refers to a type of financial product that is sold in its entirety by the originator, usually a [lender](../l/lender.md) like a [bank](../b/bank.md) or a financial institution, to an [investor](../i/investor.md) or another [lender](../l/lender.md). Unlike securities, whole loans are not pooled together and sliced into various [tranches](../t/tranches.md); rather, they remain as individual, distinct loans.
 
 ## Key Characteristics
 
@@ -30,7 +30,7 @@ Whole loans provide a more [direct investment](../d/direct_investment.md) compar
 ## Market Participants
 
 ### 1. **Banks & Financial Institutions**
-Banks originating the loans often sell these assets to manage [capital](../c/capital.md) more efficiently and to comply with regulatory requirements. 
+Banks originating the loans often sell these assets to manage [capital](../c/capital.md) more efficiently and to comply with regulatory requirements.
 
 ### 2. **Investment Firms & Hedge Funds**
 These entities purchase whole loans to diversify their portfolios and seek higher returns. They conduct in-depth [risk](../r/risk.md) assessments to determine the viability of these investments.
@@ -74,13 +74,13 @@ Whole loans are generally less [liquid](../l/liquid.md) than other securities, m
 Several platforms and companies specialize in the [trade](../t/trade.md) of whole loans, [offering](../o/offering.md) a marketplace for buyers and sellers to connect. Some of these platforms include:
 
 ### PeerStreet
-[PeerStreet](https://www.peerstreet.com) specializes in the trading of [real estate](../r/real_estate.md) backed loans, providing a marketplace for both accredited investors and lenders.
+PeerStreet specializes in the trading of [real estate](../r/real_estate.md) backed loans, providing a marketplace for both accredited investors and lenders.
 
 ### LoanStreet
-[LoanStreet](https://www.loan-street.com) offers solutions for financial institutions to manage, share, and [trade](../t/trade.md) whole loans, facilitating easier access to these financial instruments.
+LoanStreet offers solutions for financial institutions to manage, share, and [trade](../t/trade.md) whole loans, facilitating easier access to these financial instruments.
 
 ### Angel Oak Capital
-[Angel Oak Capital](https://angeloakcapital.com) is an [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [mortgage](../m/mortgage.md)-backed and structured [credit](../c/credit.md) markets, often dealing in whole loans as part of its investment strategies.
+Angel Oak Capital is an [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [mortgage](../m/mortgage.md)-backed and structured [credit](../c/credit.md) markets, often dealing in whole loans as part of its investment strategies.
 
 ## Technological Aspects in Whole Loan Trading
 

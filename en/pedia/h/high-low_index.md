@@ -4,7 +4,7 @@ The High-Low [Index](../i/index_instrument.md) is a technical [indicator](../i/i
 
 ### Concept Overview
 
-The High-Low [Index](../i/index_instrument.md) is typically calculated over a fixed period, commonly 10 days. The formula involves creating a ratio of the number of new highs to the number of new lows, and then smoothing this ratio using a simple moving average (SMA). The interpretation of the [index](../i/index_instrument.md) is straightforward: 
+The High-Low [Index](../i/index_instrument.md) is typically calculated over a fixed period, commonly 10 days. The formula involves creating a ratio of the number of new highs to the number of new lows, and then smoothing this ratio using a simple moving average (SMA). The interpretation of the [index](../i/index_instrument.md) is straightforward:
 - When the [index](../i/index_instrument.md) is above 50, it suggests that more [stocks](../s/stock.md) are reaching new highs compared to new lows, indicating a potential bullish [trend](../t/trend.md).
 - Conversely, an [index](../i/index_instrument.md) below 50 suggests a greater number of new lows, indicating a potential bearish [trend](../t/trend.md).
 
@@ -25,16 +25,16 @@ Mathematically, the High-Low [Index](../i/index_instrument.md) \( HLI \) for a p
 1. **Data Collection:** Algorithms must collect real-time data on stock highs and lows.
 2. **Real-Time Calculation:** The algorithm calculates the High-Low [Index](../i/index_instrument.md) in real-time, continuously updating as new data comes in.
 3. **Decision Rules:** The algorithm implements [trading rules](../t/trading_rules.md) based on the High-Low [Index](../i/index_instrument.md) [value](../v/value.md). For example:
-   - If the HLI is above a certain threshold, the algorithm might initiate or increase long positions.
-   - If the HLI is below a certain threshold, the algorithm might initiate or increase short positions or decrease long positions.
+ - If the HLI is above a certain threshold, the algorithm might initiate or increase long positions.
+ - If the HLI is below a certain threshold, the algorithm might initiate or increase short positions or decrease long positions.
 
 ### Practical Examples
 
 Several trading platforms and fintech companies incorporate the High-Low [Index](../i/index_instrument.md) within their [trading strategies](../t/trading_strategies.md). Here are a few notable examples:
 
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build and backtest [trading strategies](../t/trading_strategies.md) using a wide [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), including the High-Low [Index](../i/index_instrument.md). [Visit QuantConnect](https://www.quantconnect.com)
-- **Algoriz:** A platform that offers a user-friendly interface for creating [algorithmic trading](../a/algorithmic_trading.md) strategies. The High-Low [Index](../i/index_instrument.md) can be integrated into strategies using Algoriz’s tools. [Visit Algoriz](https://www.algoriz.com)
-- **Kavout:** Known for its AI-driven [trading strategies](../t/trading_strategies.md), Kavout leverages a variety of [technical indicators](../t/technical_indicators.md), including the High-Low [Index](../i/index_instrument.md), to inform its trading decisions. [Visit Kavout](https://www.kavout.com)
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build and backtest [trading strategies](../t/trading_strategies.md) using a wide [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), including the High-Low [Index](../i/index_instrument.md). Visit QuantConnect
+- **Algoriz:** A platform that offers a user-friendly interface for creating [algorithmic trading](../a/algorithmic_trading.md) strategies. The High-Low [Index](../i/index_instrument.md) can be integrated into strategies using Algoriz’s tools. Visit Algoriz
+- **Kavout:** Known for its AI-driven [trading strategies](../t/trading_strategies.md), Kavout leverages a variety of [technical indicators](../t/technical_indicators.md), including the High-Low [Index](../i/index_instrument.md), to inform its trading decisions. Visit Kavout
 
 ### Advantages of Using High-Low Index in Algorithmic Trading
 
@@ -53,4 +53,3 @@ Despite its advantages, the High-Low [Index](../i/index_instrument.md) has certa
 ### Conclusion
 
 The High-Low [Index](../i/index_instrument.md) is a valuable tool in the arsenal of algorithmic traders, [offering](../o/offering.md) a systematic way to gauge [market sentiment](../m/market_sentiment.md) and [trend](../t/trend.md) strength. By integrating this [index](../i/index_instrument.md) into their algorithms, traders can enhance decision-making processes and potentially improve trading outcomes. However, like all [technical indicators](../t/technical_indicators.md), it should be used in conjunction with other tools and strategies to mitigate its limitations and ensure [robust](../r/robust.md) [trading performance](../t/trading_performance.md).
-

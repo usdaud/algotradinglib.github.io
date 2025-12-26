@@ -58,7 +58,7 @@ Designing the visual elements such as the logo, color palette, typography, and g
 Creating comprehensive guidelines ensures consistency across all touchpoints. The guidelines should include specifications for logo use, color codes, typography guides, imagery styles, and more.
 
 ### 5. Implementation
-Roll out the brand identity across all platforms and mediums. This includes website, [social media](../s/social_media.md), print materials, packaging, and any other [customer](../c/customer.md) touchpoints.
+Roll out the brand identity across all platforms and mediums. This includes online channels, [social media](../s/social_media.md), print materials, packaging, and any other [customer](../c/customer.md) touchpoints.
 
 ### 6. Monitor and Evolve
 Post-launch, it’s essential to continuously monitor the effectiveness of the brand identity and be [open](../o/open.md) to evolution. Brands need to adapt to [market](../m/market.md) trends, [customer](../c/customer.md) preferences, and other external factors.
@@ -80,27 +80,21 @@ Numerous tools and resources can aid in the development and management of brand 
 
 ### 1. Adobe Creative Suite
 [Software tools](../s/software_tools_for_trading.md) like Adobe Illustrator, Photoshop, and InDesign are indispensable for designing elements like logos, graphics, and [marketing](../m/marketing.md) materials.
-[Adobe Creative Suite](https://www.adobe.com/creativecloud)
 
 ### 2. Canva
 Canva is a user-friendly design tool that allows businesses to create professional visuals with ease, incorporating brand guidelines and templates.
-[Canva](https://www.canva.com/)
 
 ### 3. Pantone
 Pantone provides color insights and tools to choose consistent and precise colors for brand identity.
-[Pantone](https://www.pantone.com/)
 
 ### 4. Google Fonts
 A library of free licensed fonts that can be used across platforms to maintain typographic consistency.
-[Google Fonts](https://fonts.google.com/)
 
 ### 5. Sketch
 A digital design toolkit for creating, prototyping, and collaborating on UI and UX elements, essential for brand identity development.
-[Sketch](https://www.sketch.com/)
 
 ### 6. Brandfolder
 Brandfolder is a digital [asset management](../a/asset_management.md) platform where businesses can store, organize, and share their brand assets.
-[Brandfolder](https://brandfolder.com/)
 
 ## Conclusion
 Brand identity is a critical aspect of any [business](../b/business.md), encompassing a variety of visual and verbal elements that collectively portray the brand's values, personality, and promises to its audience. A well-crafted brand identity differentiates a brand from its competitors, fosters [trust](../t/trust.md) and loyalty, and establishes an emotional connection with customers. With careful research, strategic planning, and consistent application, businesses of any size can create a compelling brand identity that resonates deeply with their target [market](../m/market.md).

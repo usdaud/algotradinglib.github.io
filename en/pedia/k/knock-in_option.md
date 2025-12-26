@@ -55,7 +55,7 @@ Various [mathematical models](../m/mathematical_models_in_trading.md) are used t
 ## Use Cases & Strategies
 
 ### Speculative Strategies
-Traders who believe that a certain [price level](../p/price_level.md) [will](../w/will.md) be breached but are unsure about maintaining that level can [leverage](../l/leverage.md) [knock-in options](../k/knock-in_options.md). 
+Traders who believe that a certain [price level](../p/price_level.md) [will](../w/will.md) be breached but are unsure about maintaining that level can [leverage](../l/leverage.md) [knock-in options](../k/knock-in_options.md).
 
 ### Hedging Strategies
 They can also be used for partial [hedging strategies](../h/hedging_strategies.md) at a lower cost. For instance, investors might use knock-in puts as a form of [insurance](../i/insurance.md) against significant downturns in a stock’s price.
@@ -76,7 +76,7 @@ Vanilla [options](../o/options.md) are standard, unconditional [derivative](../d
 
 ## Industry Application and Real-World Examples
 
-Several firms and platforms specialize in [offering](../o/offering.md) and managing barrier [options](../o/options.md), including [knock-in options](../k/knock-in_options.md). 
+Several firms and platforms specialize in [offering](../o/offering.md) and managing barrier [options](../o/options.md), including [knock-in options](../k/knock-in_options.md).
 
 ### Financial Institutions
 Large financial institutions such as **Goldman Sachs** and **Morgan Stanley** actively create, [trade](../t/trade.md), and manage [knock-in options](../k/knock-in_options.md).
@@ -88,7 +88,7 @@ Large financial institutions such as **Goldman Sachs** and **Morgan Stanley** ac
 Corporations with exposure to [foreign exchange](../f/foreign_exchange.md) rates or [commodity](../c/commodity.md) prices might use [knock-in options](../k/knock-in_options.md) to [hedge](../h/hedge.md) against adverse movements that could impact their [bottom line](../b/bottom_line.md).
 
 ### Platforms
-**[Interactive Brokers](../i/interactive_brokers.md) (IBKR)** offers trading in [exotic options](../e/exotic_option.md), including [knock-in options](../k/knock-in_options.md), and provides educational resources for traders to understand the mechanics and strategies involved. (https://www.interactivebrokers.com/)
+**[Interactive Brokers](../i/interactive_brokers.md) (IBKR)** offers trading in [exotic options](../e/exotic_option.md), including [knock-in options](../k/knock-in_options.md), and provides educational resources for traders to understand the mechanics and strategies involved. (
 
 ## Conclusion
 

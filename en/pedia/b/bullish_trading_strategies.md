@@ -19,7 +19,7 @@ The Moving Average (MA) is one of the simplest and most effective tools for iden
 
 MACD is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of an [asset](../a/asset.md)'s price. It consists of the MACD line, the signal line, and the [histogram](../h/histogram.md).
 
-**[Execution](../e/execution.md):** A bullish signal occurs when the MACD line crosses above the signal line. 
+**[Execution](../e/execution.md):** A bullish signal occurs when the MACD line crosses above the signal line.
 
 ### Bollinger Bands
 
@@ -121,17 +121,16 @@ Individual investors can use bullish [trading strategies](../t/trading_strategie
 
 [Hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms often employ bullish strategies along with [leverage](../l/leverage.md) to maximize their returns. Examples include Renaissance Technologies and Bridgewater Associates.
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Bridgewater Associates](https://www.bridgewater.com/)
+- Renaissance Technologies
+- Bridgewater Associates
 
 ### Automated Trading Systems
 
 Automated trading platforms like MetaTrader and [NinjaTrader](../n/ninjatrader.md) can execute bullish [trading strategies](../t/trading_strategies.md) based on pre-defined criteria.
 
-- [MetaTrader](https://www.metatrader4.com/en/trading-platform)
-- [NinjaTrader](https://www.ninjatrader.com/)
+- MetaTrader
+- NinjaTrader
 
 ## Conclusion
 
 Bullish [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) a variety of methods to [profit](../p/profit.md) from rising markets. Whether through basic [trend](../t/trend.md)-following techniques, more advanced [options](../o/options.md) strategies, or a combination of technical and [fundamental analysis](../f/fundamental_analysis.md), traders have numerous tools at their disposal to harness upward price movements. Effective [risk management](../r/risk_management.md) and continuous learning are crucial components to succeed in employing these strategies.
-

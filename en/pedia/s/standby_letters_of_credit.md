@@ -13,19 +13,19 @@ There are various types of SBLCs, tailored for different purposes, such as perfo
 ### Mechanism
 
 1. **Application and Issuance**:
-   - An applicant (the party seeking the letter) approaches a [bank](../b/bank.md) and requests an SBLC.
-   - The [bank](../b/bank.md) evaluates the applicant's [creditworthiness](../c/creditworthiness.md) and ability to meet the required [obligations](../o/obligation.md) if the stand-by is called upon.
-   - Upon approval, the [bank](../b/bank.md) issues the SBLC in favor of the [beneficiary](../b/beneficiary.md) (the party requiring the guarantee).
+ - An applicant (the party seeking the letter) approaches a [bank](../b/bank.md) and requests an SBLC.
+ - The [bank](../b/bank.md) evaluates the applicant's [creditworthiness](../c/creditworthiness.md) and ability to meet the required [obligations](../o/obligation.md) if the stand-by is called upon.
+ - Upon approval, the [bank](../b/bank.md) issues the SBLC in favor of the [beneficiary](../b/beneficiary.md) (the party requiring the guarantee).
 
 2. **Terms and Usage**:
-   - The SBLC outlines specific conditions under which the [beneficiary](../b/beneficiary.md) can draw on the letter.
-   - Typically includes documentation or evidence that the applicant has failed to fulfill their contractual [obligations](../o/obligation.md).
-   - Once these conditions are met, the [beneficiary](../b/beneficiary.md) can present the SBLC to the issuing [bank](../b/bank.md).
+ - The SBLC outlines specific conditions under which the [beneficiary](../b/beneficiary.md) can draw on the letter.
+ - Typically includes documentation or evidence that the applicant has failed to fulfill their contractual [obligations](../o/obligation.md).
+ - Once these conditions are met, the [beneficiary](../b/beneficiary.md) can present the SBLC to the issuing [bank](../b/bank.md).
 
 3. **[Payment](../p/payment.md)**:
-   - The issuing [bank](../b/bank.md) verifies the presented documents and ensures compliance with the terms of the SBLC.
-   - Upon successful verification, the [bank](../b/bank.md) makes the [payment](../p/payment.md) to the [beneficiary](../b/beneficiary.md).
-   - Subsequently, the [bank](../b/bank.md) seeks [reimbursement](../r/reimbursement.md) from the applicant.
+ - The issuing [bank](../b/bank.md) verifies the presented documents and ensures compliance with the terms of the SBLC.
+ - Upon successful verification, the [bank](../b/bank.md) makes the [payment](../p/payment.md) to the [beneficiary](../b/beneficiary.md).
+ - Subsequently, the [bank](../b/bank.md) seeks [reimbursement](../r/reimbursement.md) from the applicant.
 
 ### Document Flow
 
@@ -36,19 +36,19 @@ There are various types of SBLCs, tailored for different purposes, such as perfo
 ## Key Elements
 
 1. **Parties Involved**:
-   - Applicant (Client): The party requesting the SBLC.
-   - Issuing [Bank](../b/bank.md): The financial institution issuing the SBLC.
-   - [Beneficiary](../b/beneficiary.md): The recipient of the SBLC who benefits from the guarantee.
+ - Applicant (Client): The party requesting the SBLC.
+ - Issuing [Bank](../b/bank.md): The financial institution issuing the SBLC.
+ - [Beneficiary](../b/beneficiary.md): The recipient of the SBLC who benefits from the guarantee.
 
 2. **Types**:
-   - **Performance SBLCs**: Guarantees that contractual performance or delivery terms [will](../w/will.md) be met.
-   - **Financial SBLCs**: Ensures that financial [obligations](../o/obligation.md), such as [loan](../l/loan.md) repayments or rental payments, are honored.
+ - **Performance SBLCs**: Guarantees that contractual performance or delivery terms [will](../w/will.md) be met.
+ - **Financial SBLCs**: Ensures that financial [obligations](../o/obligation.md), such as [loan](../l/loan.md) repayments or rental payments, are honored.
 
 3. **Typical Uses**:
-   - Support for commercial transactions.
-   - Ensuring the performance of contracts (construction, [supply](../s/supply.md), etc.).
-   - Securing loans or [credit](../c/credit.md) lines.
-   - Bonding commitments or guarantees in public and private [procurement](../p/procurement.md).
+ - Support for commercial transactions.
+ - Ensuring the performance of contracts (construction, [supply](../s/supply.md), etc.).
+ - Securing loans or [credit](../c/credit.md) lines.
+ - Bonding commitments or guarantees in public and private [procurement](../p/procurement.md).
 
 ## Advantages and Disadvantages
 
@@ -77,20 +77,20 @@ Adherence to these rules ensures that SBLCs maintain legal validity and operatio
 ## Real-World Applications and Examples
 
 1. **[Trade Finance](../t/trade_finance.md)**:
-   - A U.S. company exports machinery to a buyer in Asia. To mitigate [payment](../p/payment.md) [risk](../r/risk.md), the exporter requires an SBLC from the buyer's [bank](../b/bank.md), ensuring that [payment](../p/payment.md) [will](../w/will.md) be received even if the buyer defaults.
+ - A U.S. company exports machinery to a buyer in Asia. To mitigate [payment](../p/payment.md) [risk](../r/risk.md), the exporter requires an SBLC from the buyer's [bank](../b/bank.md), ensuring that [payment](../p/payment.md) [will](../w/will.md) be received even if the buyer defaults.
 
 2. **Construction Projects**:
-   - A contractor working on a large [infrastructure](../i/infrastructure.md) project provides an SBLC to ensure the project owner that the construction milestones [will](../w/will.md) be met. If the contractor fails to deliver as per the contract, the project owner can claim compensation through the SBLC.
+ - A contractor working on a large [infrastructure](../i/infrastructure.md) project provides an SBLC to ensure the project owner that the construction milestones [will](../w/will.md) be met. If the contractor fails to deliver as per the contract, the project owner can claim compensation through the SBLC.
 
 3. **Public [Procurement](../p/procurement.md)**:
-   - Government agencies may require bidders for large contracts to submit SBLCs to guarantee their commitment. This ensures that only serious and capable bidders participate, accrediting their ability to deliver on the contract.
+ - Government agencies may require bidders for large contracts to submit SBLCs to guarantee their commitment. This ensures that only serious and capable bidders participate, accrediting their ability to deliver on the contract.
 
 ## Notable Entities Offering Standby Letters of Credit
 
-1. [HSBC Bank](https://www.hsbc.com): HSBC is a global banking entity that provides comprehensive [trade finance](../t/trade_finance.md) and SBLC services across [multiple](../m/multiple.md) regions.
-2. [J.P. Morgan](https://www.jpmorgan.com): J.P. Morgan offers SBLCs as part of its Corporate & Investment [Bank](../b/bank.md)’s [trade finance](../t/trade_finance.md) services.
-3. [Citibank](https://www.citigroup.com): Citibank facilitates SBLCs to meet client needs in international [commerce](../c/commerce.md), ensuring [security](../s/security.md) and mitigating [risk](../r/risk.md).
-4. [Deutsche Bank](https://www.db.com): Deutsche [Bank](../b/bank.md) delivers structured [trade finance](../t/trade_finance.md) solutions, including stand-by letters of [credit](../c/credit.md) tailored to clients’ requirements.
+1. HSBC Bank: HSBC is a global banking entity that provides comprehensive [trade finance](../t/trade_finance.md) and SBLC services across [multiple](../m/multiple.md) regions.
+2. J.P. Morgan: J.P. Morgan offers SBLCs as part of its Corporate & Investment [Bank](../b/bank.md)’s [trade finance](../t/trade_finance.md) services.
+3. Citibank: Citibank facilitates SBLCs to meet client needs in international [commerce](../c/commerce.md), ensuring [security](../s/security.md) and mitigating [risk](../r/risk.md).
+4. Deutsche Bank: Deutsche [Bank](../b/bank.md) delivers structured [trade finance](../t/trade_finance.md) solutions, including stand-by letters of [credit](../c/credit.md) tailored to clients’ requirements.
 
 ## Conclusion
 

@@ -102,34 +102,30 @@ The application and approval process for commercial loans can be stringent and t
 
 ### JPMorgan Chase
 JPMorgan Chase is one of the largest and most respected financial institutions [offering](../o/offering.md) a wide [range](../r/range.md) of commercial loans.
-Website: [JPMorgan Chase](https://www.jpmorganchase.com/)
 
 ### Wells Fargo
 Wells Fargo provides various commercial [loan](../l/loan.md) [options](../o/options.md) to small and large businesses, including term loans, lines of [credit](../c/credit.md), and SBA loans.
-Website: [Wells Fargo](https://www.wellsfargo.com/)
 
 ### Bank of America
 [Bank](../b/bank.md) of America offers a broad array of commercial [loan](../l/loan.md) products and services tailored to businesses of different sizes and industries.
-Website: [Bank of America](https://www.bankofamerica.com/)
 
 ### Citibank
 Citibank specializes in providing commercial loans for growth and [expansion](../e/expansion.md), with products designed for various [business](../b/business.md) needs.
-Website: [Citibank](https://www.citigroup.com/)
 
 ### U.S. Bank
 U.S. [Bank](../b/bank.md) offers flexible commercial [loan](../l/loan.md) [options](../o/options.md), including equipment [financing](../f/financing.md) and lines of [credit](../c/credit.md), to help businesses manage operations and growth.
-Website: [U.S. Bank](https://www.usbank.com/)
 
-### Silicon Valley Bank
-Recognized for its focus on the technology and life sciences sectors, Silicon Valley [Bank](../b/bank.md) provides innovative commercial [loan](../l/loan.md) solutions to high-growth startups.
-Website: [Silicon Valley Bank](https://www.svb.com/)
+### Silicon Valley Bank (Historical)
+**Note:** Silicon Valley Bank collapsed in March 2023 in one of the largest U.S. bank failures in history. The bank was seized by the FDIC, and its assets were subsequently acquired by First Citizens Bank.
+
+Prior to its collapse, SVB was recognized for its focus on the technology and life sciences sectors, providing innovative commercial [loan](../l/loan.md) solutions to high-growth startups. The tech sector has since diversified its banking relationships following this event.
 
 ## Innovations and Trends
 
 ### Fintech and Online Lenders
 The rise of fintech has revolutionized the commercial lending landscape. Online lenders such as Kabbage and OnDeck [offer](../o/offer.md) faster [loan](../l/loan.md) approval and [disbursement](../d/disbursement.md) processes using algorithms and digital platforms.
-- [Kabbage](https://www.kabbage.com/)
-- [OnDeck](https://www.ondeck.com/)
+- Kabbage
+- OnDeck
 
 ### Blockchain and Smart Contracts
 [Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) are gradually transforming the [loan](../l/loan.md) process by enhancing [security](../s/security.md), [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md). These technologies eliminate intermediaries and reduce the time required for processing loans.

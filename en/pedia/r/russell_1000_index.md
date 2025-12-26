@@ -47,11 +47,9 @@ The sector [distribution](../d/distribution.md) within the Russell 1000 [Index](
 ### Examples of Notable Companies
 
 The [index](../i/index_instrument.md) includes major companies such as:
-- Apple Inc. (https://www.apple.com/)
-- Microsoft [Corporation](../c/corporation.md) (https://www.microsoft.com/)
-- Amazon.com Inc. (https://www.amazon.com/)
-- Alphabet Inc. (Google) (https://www.alphabet.com/)
-- Facebook Inc. (Meta Platforms) (https://about.fb.com/meta/)
+- Apple Inc. - Microsoft [Corporation](../c/corporation.md) (
+- Amazon.com Inc. - Alphabet Inc. (Google) (
+- Facebook Inc. (Meta Platforms) (
 
 These companies represent a significant portion of the [index](../i/index_instrument.md)'s [market value](../m/market_value.md) due to their substantial [market](../m/market.md) capitalizations.
 
@@ -64,8 +62,8 @@ The Russell 1000 [Index](../i/index_instrument.md) serves as a crucial [benchmar
 ### ETFs and Mutual Funds
 
 The [index](../i/index_instrument.md) is the [basis](../b/basis.md) for several [exchange](../e/exchange.md)-traded funds (ETFs) and mutual funds, allowing investors to [gain](../g/gain.md) exposure to a broad spectrum of large-cap U.S. companies. Examples include:
-- [iShares](../i/ishares.md) Russell 1000 ETF (IWB) (https://www.[ishares](../i/ishares.md).com/us/products/239726/)
-- Vanguard Russell 1000 ETF (VONE) (https://[investor](../i/investor.md).vanguard.com/etf/profile/VONE)
+- [iShares](../i/ishares.md) Russell 1000 ETF (IWB) (
+- Vanguard Russell 1000 ETF (VONE) (
 
 ### Performance Analysis
 
@@ -87,7 +85,7 @@ The [index](../i/index_instrument.md) is a valuable resource for traders impleme
 
 ### Algorithmic Trading
 
-In the world of [algorithmic trading](../a/accountability.md), the Russell 1000 [Index](../i/index_instrument.md) provides a [robust](../r/robust.md) data set for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). Quantitative analysts utilize historical data from the [index](../i/index_instrument.md) to design algorithms that can predict [market](../m/market.md) movements, optimize portfolio allocation, and manage [risk](../r/risk.md).
+In the world of [algorithmic trading](../a/algorithmic_trading.md), the Russell 1000 [Index](../i/index_instrument.md) provides a [robust](../r/robust.md) data set for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). Quantitative analysts utilize historical data from the [index](../i/index_instrument.md) to design algorithms that can predict [market](../m/market.md) movements, optimize portfolio allocation, and manage [risk](../r/risk.md).
 
 ### Financial Products
 

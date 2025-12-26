@@ -2,7 +2,7 @@
 
 Per stirpes is a legal term of Latin origin used in the context of [estate planning](../e/estate_planning.md) and inheritance [distribution](../d/distribution.md). It directly translates to "by roots" or "by branch," and it establishes how a deceased person's [estate](../e/estate.md) is divided among their descendants. Specifically, per stirpes indicates that if a [beneficiary](../b/beneficiary.md) predeceases the testator (the person who made the [will](../w/will.md)), their share of the inheritance automatically passes to their descendants.
 
-In the realm of trading and [finance](../f/finance.md), particularly in [wealth management](../w/wealth_management.md) and [estate planning](../e/estate_planning.md), understanding the term per stirpes is vital for professionals advising clients on how to structure the [distribution](../d/distribution.md) of their assets. This ensures that a client's [wealth](../w/wealth.md) is allocated according to their wishes, even if unforeseen circumstances arise. 
+In the realm of trading and [finance](../f/finance.md), particularly in [wealth management](../w/wealth_management.md) and [estate planning](../e/estate_planning.md), understanding the term per stirpes is vital for professionals advising clients on how to structure the [distribution](../d/distribution.md) of their assets. This ensures that a client's [wealth](../w/wealth.md) is allocated according to their wishes, even if unforeseen circumstances arise.
 
 ## Mechanics of Per Stirpes Distribution
 
@@ -42,7 +42,7 @@ Bob's children would not inherit because the [estate](../e/estate.md) is redistr
 
 Laws governing inheritance can vary significantly across different jurisdictions. Some states or countries may favor per stirpes methods, while others might implement [per capita](../p/per_capita.md) [distribution](../d/distribution.md) by [default](../d/default.md). Therefore, it’s crucial for individuals to clearly specify in their wills how they want their [estate](../e/estate.md) to be distributed to avoid any legal disputes or unintended consequences.
 
-Most jurisdictions recognize per stirpes because it ensures a more predictable and equitable [distribution](../d/distribution.md) of assets among family members, especially when dealing with multi-generational estates. For example, in the United States, many states abide by the Uniform [Probate](../p/probate.md) Code (UPC), which defaultly applies the per stirpes method unless otherwise specified. 
+Most jurisdictions recognize per stirpes because it ensures a more predictable and equitable [distribution](../d/distribution.md) of assets among family members, especially when dealing with multi-generational estates. For example, in the United States, many states abide by the Uniform [Probate](../p/probate.md) Code (UPC), which defaultly applies the per stirpes method unless otherwise specified.
 
 ## Importance in Estate Planning and Wealth Management
 

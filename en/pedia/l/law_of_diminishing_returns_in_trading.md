@@ -50,7 +50,7 @@ Renaissance Technologies, a prominent [hedge fund](../h/hedge_fund.md) known for
 
 The [fund](../f/fund.md)'s managers, aware of the Law of Diminishing Returns, have consciously restricted the amount of [capital](../c/capital.md) deployed in Medallion. By maintaining a relatively small [asset](../a/asset.md) base, they can better manage [market](../m/market.md) impact and maintain higher returns. The [fund](../f/fund.md)'s stellar performance over decades underscores the importance of recognizing diminishing returns and optimizing [capital allocation](../c/capital_allocation.md) accordingly.
 
-For more information, visit [Renaissance Technologies](https://www.rentec.com/).
+For more information, visit Renaissance Technologies.
 
 #### Two Sigma
 
@@ -58,7 +58,7 @@ Two Sigma, another leading quantitative [hedge fund](../h/hedge_fund.md), also e
 
 Two Sigma's approach involves balancing resource allocation, avoiding [overfitting](../o/overfitting.md) through rigorous model validation, and ensuring efficient [capital](../c/capital.md) deployment. By recognizing the diminishing [marginal benefits](../m/marginal_benefits.md) of additional inputs, Two Sigma can sustain high performance and adapt to evolving [market](../m/market.md) conditions.
 
-For more information, visit [Two Sigma](https://www.twosigma.com/).
+For more information, visit Two Sigma.
 
 ### Strategies to Mitigate Diminishing Returns
 

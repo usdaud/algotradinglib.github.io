@@ -1,6 +1,6 @@
 # On-Chain Governance
 
-On-chain governance is a decentralized approach to decision-making and protocol upgrades within [blockchain](../b/blockchain_in_trading.md) networks. This framework leverages [smart contracts](../s/smart_contracts_in_trading.md) and [blockchain](../b/blockchain_in_trading.md) technology to facilitate transparent, immutable, and automated governance processes. It aims to address several key issues present in traditional governance models, such as inefficiency, lack of [transparency](../t/transparency.md), and centralization of power. 
+On-chain governance is a decentralized approach to decision-making and protocol upgrades within [blockchain](../b/blockchain_in_trading.md) networks. This framework leverages [smart contracts](../s/smart_contracts_in_trading.md) and [blockchain](../b/blockchain_in_trading.md) technology to facilitate transparent, immutable, and automated governance processes. It aims to address several key issues present in traditional governance models, such as inefficiency, lack of [transparency](../t/transparency.md), and centralization of power.
 
 On-chain governance ensures that the collective decision-making process is democratized, allowing stakeholders to participate directly in protocol changes. This method is instrumental in fostering community [trust](../t/trust.md) and engagement and often leads to more resilient and sustainable [blockchain](../b/blockchain_in_trading.md) ecosystems.
 
@@ -74,21 +74,21 @@ In some cases, on-chain governance can lead to gridlock, where stakeholders are 
 
 ### 1. **Tezos**
 
-[Tezos](../t/tezos.md) is a prominent example of on-chain governance in action. It allows stakeholders to propose and vote on protocol upgrades directly on the [blockchain](../b/blockchain_in_trading.md). Using its native staking system, token holders can delegate their voting power to validators who vote on their behalf. 
+[Tezos](../t/tezos.md) is a prominent example of on-chain governance in action. It allows stakeholders to propose and vote on protocol upgrades directly on the [blockchain](../b/blockchain_in_trading.md). Using its native staking system, token holders can delegate their voting power to validators who vote on their behalf.
 
-For more information: [Tezos](https://tezos.com/)
+For more information: Tezos
 
 ### 2. **Decred**
 
 Decred integrates on-chain governance through its Politeia proposal system. Stakeholders can discuss, submit, and vote on governance proposals. Decred’s hybrid consensus algorithm combines proof-of-work and proof-of-stake to ensure [security](../s/security.md) and equitable governance.
 
-For more information: [Decred](https://decred.org/)
+For more information: Decred
 
 ### 3. **MakerDAO**
 
 MakerDAO operates a decentralized autonomous organization (DAO) on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md), utilizing on-chain governance to manage the DAI stablecoin system. MKR token holders vote on proposals affecting the stability and functionality of the system, including adjustments to [interest](../i/interest.md) rates and collateralization ratios.
 
-For more information: [MakerDAO](https://makerdao.com/)
+For more information: MakerDAO
 
 ## Future Directions
 

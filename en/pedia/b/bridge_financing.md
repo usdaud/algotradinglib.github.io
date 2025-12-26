@@ -50,7 +50,7 @@ A tech company identifies a smaller [startup](../s/startup.md) with innovative t
 
 ### Startup Preparing for IPO
 
-A [startup](../s/startup.md) in the healthcare [industry](../i/industry.md) is in the advanced stages of IPO preparation. The IPO process involves significant costs, including legal fees, [marketing](../m/marketing.md), and underwriters. To cover these expenses, the [startup](../s/startup.md) secures a [bridge loan](../b/bridge_loan.md), which is then repaid from the funds raised in the IPO. 
+A [startup](../s/startup.md) in the healthcare [industry](../i/industry.md) is in the advanced stages of IPO preparation. The IPO process involves significant costs, including legal fees, [marketing](../m/marketing.md), and underwriters. To cover these expenses, the [startup](../s/startup.md) secures a [bridge loan](../b/bridge_loan.md), which is then repaid from the funds raised in the IPO.
 
 ## Leading Providers of Bridge Financing
 
@@ -60,19 +60,13 @@ There are several financial institutions and private lenders specializing in bri
 
 LoanStar is known for its quick and flexible [bridge loan](../b/bridge_loan.md) solutions tailored for [real estate](../r/real_estate.md) investors and small businesses.
 
-Website: [LoanStar Funding](https://www.loanstar.com)
-
 ### 2. Commercial Real Estate Loans, Inc.
 
 [Commercial Real Estate](../c/commercial_real_estate.md) Loans, Inc. offers bridge loans specifically for [real estate](../r/real_estate.md) developers and investors looking to secure properties quickly.
 
-Website: [Commercial Real Estate Loans, Inc.](https://www.crelEND.com)
-
 ### 3. New Bridge Capital
 
 New Bridge [Capital](../c/capital.md) provides tailored bridge [financing](../f/financing.md) solutions for businesses undergoing rapid growth or [restructuring](../r/restructuring.md).
-
-Website: [New Bridge Capital](https://www.newbridgecapital.com)
 
 ## Advantages of Bridge Financing
 
@@ -102,7 +96,7 @@ Because bridge loans are generally secured by [collateral](../c/collateral.md), 
 
 The short-term nature of bridge loans requires borrowers to quickly secure long-term [financing](../f/financing.md) or another source of funds to repay the [loan](../l/loan.md). Failure to do so can result in significant financial strain.
 
-## Risk Management in Bridge Financing 
+## Risk Management in Bridge Financing
 
 Effective [risk management](../r/risk_management.md) is paramount when engaging in bridge [financing](../f/financing.md). Here are some strategies that can mitigate risks:
 

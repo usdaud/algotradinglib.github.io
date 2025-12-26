@@ -5,7 +5,7 @@ Functional [currency](../c/currency.md) is a fundamental concept in the world of
 ## Definition and Importance
 
 ### Definition
-Functional [currency](../c/currency.md) is defined as the [currency](../c/currency.md) of the primary economic environment in which an entity operates. Essentially, it is the [currency](../c/currency.md) that most faithfully represents the economic effects of the [underlying](../u/underlying.md) transactions, events, and conditions of the entity. The primary economic environment is typically where the entity generates and expends cash. 
+Functional [currency](../c/currency.md) is defined as the [currency](../c/currency.md) of the primary economic environment in which an entity operates. Essentially, it is the [currency](../c/currency.md) that most faithfully represents the economic effects of the [underlying](../u/underlying.md) transactions, events, and conditions of the entity. The primary economic environment is typically where the entity generates and expends cash.
 
 ### Importance
 The concept of functional [currency](../c/currency.md) is critical for financial reporting and compliance with [accounting](../a/accounting.md) standards such as the International Financial Reporting Standards (IFRS) and Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP). It ensures consistency and comparability in [financial statements](../f/financial_statements.md), allowing stakeholders such as investors, regulators, and management to make informed decisions.
@@ -44,7 +44,7 @@ When an entity changes its functional [currency](../c/currency.md), it should ap
 ## Functional Currency and Foreign Currency Translation
 
 ### Foreign Currency Transactions
-Foreign [currency](../c/currency.md) transactions are those that are denominated or require settlement in a foreign [currency](../c/currency.md). The initial recognition is made at the functional [currency](../c/currency.md) using the [exchange rate](../e/exchange_rate.md) at the date of the [transaction](../t/transaction.md). 
+Foreign [currency](../c/currency.md) transactions are those that are denominated or require settlement in a foreign [currency](../c/currency.md). The initial recognition is made at the functional [currency](../c/currency.md) using the [exchange rate](../e/exchange_rate.md) at the date of the [transaction](../t/transaction.md).
 
 ### Reporting Foreign Currency
 At each subsequent [balance sheet](../b/balance_sheet.md) date:

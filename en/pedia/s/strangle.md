@@ -28,7 +28,7 @@ In a strangle strategy, the [trader](../t/trader.md) buys ([long strangle](../l/
 
 ### Premium Calculation
 
-The [premium](../p/premium.md) of an option is its price in the [market](../m/market.md). For a strangle, the combined [premium](../p/premium.md) is the sum of the premiums for both the call and [put options](../p/put_options.md). The size of the [premium](../p/premium.md) directly affects the potential [profit](../p/profit.md) and loss of the strangle [trade](../t/trade.md). 
+The [premium](../p/premium.md) of an option is its price in the [market](../m/market.md). For a strangle, the combined [premium](../p/premium.md) is the sum of the premiums for both the call and [put options](../p/put_options.md). The size of the [premium](../p/premium.md) directly affects the potential [profit](../p/profit.md) and loss of the strangle [trade](../t/trade.md).
 
 ### Breakeven Points
 
@@ -68,7 +68,7 @@ The main limitation of a [long strangle](../l/long_strangle.md) is the high [pre
 
 #### Risk of Unlimited Losses
 
-For a [short strangle](../s/short_strangle.md), the potential for unlimited losses makes it a highly risky strategy, suitable only for experienced traders with a strong assessment of [market](../m/market.md) stability. 
+For a [short strangle](../s/short_strangle.md), the potential for unlimited losses makes it a highly risky strategy, suitable only for experienced traders with a strong assessment of [market](../m/market.md) stability.
 
 ## Advanced Strategies
 
@@ -85,32 +85,32 @@ Traders often adjust their strangle positions based on [market](../m/market.md) 
 ### Example of a Long Strangle
 
 - **[Underlying Asset](../u/underlying_asset.md)**: Stock trading at $100
-- **[Options](../o/options.md) Purchased**: 
-  - $105 Call [option premium](../o/option_premium.md): $2
-  - $95 Put [option premium](../o/option_premium.md): $3
+- **[Options](../o/options.md) Purchased**:
+ - $105 Call [option premium](../o/option_premium.md): $2
+ - $95 Put [option premium](../o/option_premium.md): $3
 - **Total [Premium](../p/premium.md) Paid**: $2 + $3 = $5
-- **Breakeven Points**: 
-  - Upper: $105 + $5 = $110
-  - Lower: $95 - $5 = $90
+- **Breakeven Points**:
+ - Upper: $105 + $5 = $110
+ - Lower: $95 - $5 = $90
 
 If the stock price moves to $115, the [profit](../p/profit.md) [will](../w/will.md) be ($115 - $105) - $5 = $5.
 
 ### Example of a Short Strangle
 
 - **[Underlying Asset](../u/underlying_asset.md)**: Stock trading at $100
-- **[Options](../o/options.md) Sold**: 
-  - $105 Call [option premium](../o/option_premium.md): $2
-  - $95 Put [option premium](../o/option_premium.md): $3
+- **[Options](../o/options.md) Sold**:
+ - $105 Call [option premium](../o/option_premium.md): $2
+ - $95 Put [option premium](../o/option_premium.md): $3
 - **Total [Premium](../p/premium.md) Received**: $2 + $3 = $5
-- **Breakeven Points**: 
-  - Upper: $105 + $5 = $110
-  - Lower: $95 - $5 = $90
+- **Breakeven Points**:
+ - Upper: $105 + $5 = $110
+ - Lower: $95 - $5 = $90
 
 If the stock price stays at $100, the [profit](../p/profit.md) [will](../w/will.md) be the total [premium](../p/premium.md) received = $5.
 
 ## Tools and Platforms
 
-Many trading platforms and tools exist to assist traders in executing strangle strategies. Among them, [automated trading systems](../a/automated_trading_systems.md) and [algorithmic trading](../a/accountability.md) have become increasingly popular. These systems can be programmed to place strangle trades when certain [market](../m/market.md) conditions are met, removing the need for manual intervention. 
+Many trading platforms and tools exist to assist traders in executing strangle strategies. Among them, [automated trading systems](../a/automated_trading_systems.md) and [algorithmic trading](../a/algorithmic_trading.md) have become increasingly popular. These systems can be programmed to place strangle trades when certain [market](../m/market.md) conditions are met, removing the need for manual intervention.
 
 ### Tools for Analysis
 
@@ -120,9 +120,9 @@ Many trading platforms and tools exist to assist traders in executing strangle s
 
 ### Automated Trading Platforms
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) offers extensive tools and platforms for [options](../o/options.md) trading, including automated trading capabilities.
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A powerful platform [offering](../o/offering.md) advanced [options](../o/options.md) trading tools and educational resources. More at [Thinkorswim](https://www.thinkorswim.com).
-- **[TradeStation](../t/tradestation.md)**: Offers [robust](../r/robust.md) [options](../o/options.md) trading and [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). Discover more at [TradeStation](https://www.tradestation.com).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers offers extensive tools and platforms for [options](../o/options.md) trading, including automated trading capabilities.
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A powerful platform [offering](../o/offering.md) advanced [options](../o/options.md) trading tools and educational resources. More at Thinkorswim.
+- **[TradeStation](../t/tradestation.md)**: Offers [robust](../r/robust.md) [options](../o/options.md) trading and [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). Discover more at TradeStation.
 
 ## Regulatory Considerations
 

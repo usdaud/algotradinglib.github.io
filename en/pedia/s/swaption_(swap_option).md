@@ -8,13 +8,13 @@
 Swaptions have several key components that define their structure and [utility](../u/utility.md):
 
 1. **Type**: There are two types of swaptions:
-   - **Payer Swaption**: This gives the holder the right to enter into a [swap](../s/swap.md) where they [will](../w/will.md) pay the fixed rate and receive the floating rate.
-   - **Receiver Swaption**: This provides the holder the right to enter into a [swap](../s/swap.md) where they [will](../w/will.md) receive the fixed rate and pay the floating rate.
+ - **Payer Swaption**: This gives the holder the right to enter into a [swap](../s/swap.md) where they [will](../w/will.md) pay the fixed rate and receive the floating rate.
+ - **Receiver Swaption**: This provides the holder the right to enter into a [swap](../s/swap.md) where they [will](../w/will.md) receive the fixed rate and pay the floating rate.
 
 2. **[Exercise](../e/exercise.md) Style**: Swaptions can be exercised differently based on the following styles:
-   - **European Swaption**: Can only be exercised on the [expiration date](../e/expiration_date.md).
-   - **Bermudan Swaption**: Can be exercised on predetermined dates throughout the life of the swaption.
-   - **American Swaption**: Can be exercised at any time up until the [expiration date](../e/expiration_date.md).
+ - **European Swaption**: Can only be exercised on the [expiration date](../e/expiration_date.md).
+ - **Bermudan Swaption**: Can be exercised on predetermined dates throughout the life of the swaption.
+ - **American Swaption**: Can be exercised at any time up until the [expiration date](../e/expiration_date.md).
 
 3. **Strike Rate**: This is the fixed rate at which the swaption holder can enter the [interest rate swap](../i/interest_rate_swap.md) agreement.
 

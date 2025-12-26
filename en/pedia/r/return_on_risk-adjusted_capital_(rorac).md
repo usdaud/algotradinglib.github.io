@@ -11,7 +11,7 @@ RORAC is calculated by dividing the net [profit](../p/profit.md) of an investmen
 ### Key Concepts
 
 1. **Net [Profit](../p/profit.md)**: This is the [profit](../p/profit.md) after all expenses, [taxes](../t/taxes.md), and costs have been deducted from gross revenues. It is essentially the "[bottom line](../b/bottom_line.md)" of an [income statement](../i/income_statement.md).
-  
+
 2. **[Risk](../r/risk.md)-Adjusted [Capital](../c/capital.md)**: This represents the [capital](../c/capital.md) that has been allocated to cover potential losses arising from the [risk](../r/risk.md) of the investment. This may include measures like [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) or [economic capital](../e/economic_capital.md) models that encapsulate [risk](../r/risk.md).
 
 ### Importance in Financial Sector
@@ -24,7 +24,7 @@ RORAC is calculated by dividing the net [profit](../p/profit.md) of an investmen
 
 ### Basic RORAC Calculation
 
-1. **Net [Profit](../p/profit.md)**: Calculate the net [profit](../p/profit.md) for the investment or [business](../b/business.md) unit. 
+1. **Net [Profit](../p/profit.md)**: Calculate the net [profit](../p/profit.md) for the investment or [business](../b/business.md) unit.
 2. **[Risk](../r/risk.md)-Adjusted [Capital](../c/capital.md)**: Determine the [capital](../c/capital.md) at [risk](../r/risk.md). This involves assessing the [risk](../r/risk.md) using models like [Value](../v/value.md) at [Risk](../r/risk.md) (VaR), Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR), or [economic capital](../e/economic_capital.md).
 3. **Compute RORAC**: Divide the net [profit](../p/profit.md) by the [risk](../r/risk.md)-adjusted [capital](../c/capital.md).
 
@@ -80,7 +80,7 @@ The calculation of [risk](../r/risk.md)-adjusted [capital](../c/capital.md) itse
 
 For further detailed studies or tools you may refer to:
 
-- [Moody’s Analytics - Risk-Adjusted Performance](https://www.moodysanalytics.com)
-- [MSCI - Risk and Portfolio Analytics](https://www.msci.com)
+- Moody’s Analytics - Risk-Adjusted Performance
+- MSCI - Risk and Portfolio Analytics
 
 By integrating RORAC into [financial analysis](../f/financial_analysis.md) and decision-making processes, firms can ensure that they are not only focusing on growth and profitability but also on sustainability and [risk management](../r/risk_management.md).

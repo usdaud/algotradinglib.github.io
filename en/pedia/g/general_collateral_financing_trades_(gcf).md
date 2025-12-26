@@ -13,7 +13,7 @@ GCF Trades play a critical role in the [financial markets](../f/financial_market
 ## Mechanism of GCF Trades
 
 ### Trade Execution
-GCF Trades are executed through a [trading platform](../t/trading_platform.md) operated by a clearinghouse, such as the [Fixed Income](../f/fixed_income.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (FICC) [FICC GCF Repo Service](http://www.dtcc.com/clearing-services/ficc-gov/gcf-repo). The platform matches borrowers and lenders, facilitating the [trade](../t/trade.md).
+GCF Trades are executed through a [trading platform](../t/trading_platform.md) operated by a clearinghouse, such as the [Fixed Income](../f/fixed_income.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (FICC) FICC GCF Repo Service. The platform matches borrowers and lenders, facilitating the [trade](../t/trade.md).
 
 ### Settlement Process
 Once a [trade](../t/trade.md) is agreed upon, the settlement process is managed by the clearinghouse. The clearinghouse ensures the [exchange](../e/exchange.md) of funds and [collateral](../c/collateral.md), thus mitigating [counterparty risk](../c/counterparty_risk.md). The cash and securities flow through the clearinghouse's accounts, ensuring that both parties meet their [obligations](../o/obligation.md).
@@ -71,4 +71,4 @@ General [Collateral](../c/collateral.md) [Financing](../f/financing.md) Trades a
 
 ## References
 
-- [Fixed Income](../f/fixed_income.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) - GCF Repo Service: [FICC GCF Repo Service](http://www.dtcc.com/clearing-services/ficc-gov/gcf-repo)
+- [Fixed Income](../f/fixed_income.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) - GCF Repo Service: FICC GCF Repo Service

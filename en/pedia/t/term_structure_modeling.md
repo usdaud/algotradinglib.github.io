@@ -2,6 +2,8 @@
 
 Term structure modeling is a critical aspect of financial mathematics and [quantitative finance](../q/quantitative_finance.md) that deals with understanding and predicting the relationship between [interest](../i/interest.md) rates (or [bond](../b/bond.md) yields) of different maturities. The [term structure of interest rates](../t/term_structure_of_interest_rates.md), often depicted as a [yield curve](../y/yield_curve.md), plays a pivotal role in various areas such as [asset](../a/asset.md) pricing, [interest rate risk management](../i/interest_rate_risk_management.md), and economic analysis. This comprehensive exploration [will](../w/will.md) delve into various facets of term structure modeling, including key concepts, modeling approaches, and applications in [financial markets](../f/financial_market.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Concepts
 
 ### Interest Rates and Yields
@@ -64,7 +66,7 @@ Term structure modeling is a sophisticated field that incorporates various mathe
 
 For more on these models and practical applications, you might explore resources from financial institutions specializing in [quantitative finance](../q/quantitative_finance.md) and [risk management](../r/risk_management.md), such as:
 
-- [Bloomberg](https://www.bloomberg.com)
-- [ICE](https://www.theice.com)
-- [Moody's Analytics](https://www.moodysanalytics.com)
-- [QuantLib](https://www.quantlib.org)
+- Bloomberg
+- ICE
+- Moody's Analytics
+- QuantLib

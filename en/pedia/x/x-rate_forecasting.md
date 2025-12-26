@@ -60,8 +60,8 @@ Major banks like JPMorgan Chase and Morgan Stanley employ sophisticated models a
 
 #### Tech Companies
 Firms specializing in financial technology (FinTech) [offer](../o/offer.md) platforms and software solutions for [exchange rate forecasting](../e/exchange_rate_forecasting.md). Examples include:
-- [Kensho](https://www.kensho.com/) – Providing [machine learning](../m/machine_learning.md) applications for [financial markets](../f/financial_market.md).
-- [Numerai](https://numer.ai/) – Utilizes encrypted datasets and [machine learning](../m/machine_learning.md) competitions to improve [financial forecasting](../f/financial_forecasting.md).
+- Kensho – Providing [machine learning](../m/machine_learning.md) applications for [financial markets](../f/financial_market.md).
+- Numerai – Utilizes encrypted datasets and [machine learning](../m/machine_learning.md) competitions to improve [financial forecasting](../f/financial_forecasting.md).
 
 #### Academics and Researchers
 Universities and research institutions contribute to the field by developing new models and methods. Research is often published in journals such as the "[Journal](../j/journal.md) of [Financial Economics](../f/financial_economics.md)" and the "[Journal](../j/journal.md) of International [Money](../m/money.md) and [Finance](../f/finance.md)."

@@ -36,13 +36,13 @@ Where:
 Calculating the ICC involves assessing the costs involved in raising new [capital](../c/capital.md). This can include:
 
 1. **[Equity](../e/equity.md) Issuance Costs:**
-   - [Underwriting](../u/underwriting.md) Fees
-   - Legal Expenses
-   - Registration Fees
+ - [Underwriting](../u/underwriting.md) Fees
+ - Legal Expenses
+ - Registration Fees
 2. **[Debt](../d/debt.md) Issuance Costs:**
-   - [Underwriting Spread](../u/underwriting_spread.md)
-   - [Bank](../b/bank.md) Fees
-   - Legal and Administrative Costs
+ - [Underwriting Spread](../u/underwriting_spread.md)
+ - [Bank](../b/bank.md) Fees
+ - Legal and Administrative Costs
 
 ## Real-World Application
 Businesses use ICC to evaluate investment opportunities. If the [expected return](../e/expected_return.md) on a new project exceeds the ICC, the project could be considered viable. Conversely, if the [return](../r/return.md) is less than the ICC, the project may not be a wise investment.
@@ -50,10 +50,10 @@ Businesses use ICC to evaluate investment opportunities. If the [expected return
 ### Examples:
 
 - **Tech Startups:**
-  Tech companies often face high ICC due to the perceived [risk](../r/risk.md) by investors. These companies must ensure that their projected returns justify the high [cost of equity](../c/cost_of_equity.md).
+ Tech companies often face high ICC due to the perceived [risk](../r/risk.md) by investors. These companies must ensure that their projected returns justify the high [cost of equity](../c/cost_of_equity.md).
 
 - **[Manufacturing](../m/manufacturing.md) Firms:**
-  Established [manufacturing](../m/manufacturing.md) firms usually have lower ICC as they are seen as less risky. They can [finance](../f/finance.md) new projects using [retained earnings](../r/retained_earnings.md) or low-cost [debt](../d/debt.md).
+ Established [manufacturing](../m/manufacturing.md) firms usually have lower ICC as they are seen as less risky. They can [finance](../f/finance.md) new projects using [retained earnings](../r/retained_earnings.md) or low-cost [debt](../d/debt.md).
 
 ## ICC in Financial Analysis
 Analysts extensively use ICC to gauge a company’s [financial health](../f/financial_health.md) and [capital](../c/capital.md) [efficiency](../e/efficiency.md). High ICC might indicate a risky or poorly managed company, while low ICC suggests a stable and efficiently managed enterprise.
@@ -62,6 +62,6 @@ Analysts extensively use ICC to gauge a company’s [financial health](../f/fina
 Understanding [incremental cost](../i/incremental_cost.md) of [capital](../c/capital.md) is essential for making informed financial decisions and maintaining a sound [capital structure](../c/capital_structure.md). By carefully assessing ICC, companies can optimize their investment strategies and enhance [shareholder value](../s/shareholder_value.md).
 
 For more information about how companies manage ICC and related financial strategies, refer to these corporate resources:
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
-- [Merrill Lynch](https://www.ml.com/)
+- Goldman Sachs
+- J.P. Morgan
+- Merrill Lynch

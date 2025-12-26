@@ -26,19 +26,19 @@ Several components are crucial for the functioning of digital wallets:
 ## Key Players in the Digital Wallet Market
 Several companies and services have emerged as major players in the digital wallet [market](../m/market.md). Here are a few notable ones:
 
-1. **[PayPal](../p/paypal.md)**: One of the earliest and most recognized digital wallets that allow users to pay, send [money](../m/money.md), and accept payments. [Website](https://www.paypal.com)
-   
-2. **Apple Pay**: Enables users with Apple devices to make secure payments in stores, apps, and on the web. [Website](https://www.apple.com/apple-pay/)
+1. **[PayPal](../p/paypal.md)**: One of the earliest and most recognized digital wallets that allow users to pay, send [money](../m/money.md),
 
-3. **Google Wallet**: Now part of Google Pay, it combines the features of a digital wallet with financial management tools. [Website](https://pay.google.com/)
+2. **Apple Pay**: Enables users with Apple devices to make secure payments in stores, apps,
 
-4. **Samsung Pay**: A mobile [payment](../p/payment.md) service that uses NFC technology for contactless transactions. [Website](https://www.samsung.com/samsung-pay/)
+3. **Google Wallet**: Now part of Google Pay, it combines the
 
-5. **Venmo**: Owned by [PayPal](../p/paypal.md), it caters to a younger demographic with a social aspect to [money](../m/money.md) transfers. [Website](https://venmo.com/)
+4. **Samsung Pay**: A mobile [payment](../p/payment.md) service
 
-6. **Square’s Cash App**: Allows users to transfer [money](../m/money.md), pay for goods and services, and buy [Bitcoin](../b/bitcoin.md). [Website](https://cash.app/)
+5. **Venmo**: Owned by [PayPal](../p/paypal.md), it caters to a younger demographic with a social aspect to [money](../m/money.md)
 
-7. **Revolut**: A digital banking app that offers [currency exchange](../c/currency_exchange.md), stock trading, and cryptocurrency transactions. [Website](https://www.revolut.com/)
+6. **Square’s Cash App**: Allows users to transfer [money](../m/money.md), pay for goods and services, and buy [Bitcoin](../b/bitcoin.md). online platform
+
+7. **Revolut**: A digital banking app that offers [currency exchange](../c/currency_exchange.md), stock trading,
 
 ## Benefits of Digital Wallets
 Digital wallets provide numerous advantages to both consumers and businesses:

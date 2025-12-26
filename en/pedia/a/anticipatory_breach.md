@@ -33,7 +33,7 @@ Numerous case laws illustrate the handling and interpretation of anticipatory br
 
 - **Hochster v De La Tour**: A leading case where an employee was informed that his services would not be needed, allowing him to seek immediate remedy rather than waiting until the job was supposed to start.
 - **Taylor v Caldwell**: A case that helped define frustration of purpose but included elements relevant to understanding anticipatory breach.
-  
+
 ## Practical Considerations
 
 ### Business and Commerce

@@ -42,13 +42,13 @@ Using the same [bond](../b/bond.md) as in the previous example with a purchase p
 The amount of [premium](../p/premium.md) amortized each period is calculated by applying the effective [interest rate](../i/interest_rate.md) to the [bond](../b/bond.md)'s [book value](../b/book_value.md) at the beginning of the period.
 
 1. Calculate the [bond](../b/bond.md)'s annual [interest](../i/interest.md) [payment](../p/payment.md):
-   - Annual [interest](../i/interest.md) [payment](../p/payment.md) = 5% of $1,000 = $50
+ - Annual [interest](../i/interest.md) [payment](../p/payment.md) = 5% of $1,000 = $50
 
 2. Calculate the [bond](../b/bond.md)'s [interest expense](../i/interest_expense.md) for the first year using the effective [interest rate](../i/interest_rate.md):
-   - [Interest expense](../i/interest_expense.md) = 4% of $1,100 = $44
+ - [Interest expense](../i/interest_expense.md) = 4% of $1,100 = $44
 
 3. Determine the [premium](../p/premium.md) amortization for the first year:
-   - Amortization = $50 ([interest](../i/interest.md) received) - $44 ([interest expense](../i/interest_expense.md)) = $6
+ - Amortization = $50 ([interest](../i/interest.md) received) - $44 ([interest expense](../i/interest_expense.md)) = $6
 
 For subsequent periods, repeat the process using the adjusted [book value](../b/book_value.md) of the [bond](../b/bond.md) after [accounting](../a/accounting.md) for the amortization recognized.
 
@@ -64,22 +64,22 @@ An [investor](../i/investor.md) buys Apple Inc. bonds (example only, not specifi
 
 #### Steps:
 
-1. **Identify [Premium](../p/premium.md) Amount**: 
-   - [Premium](../p/premium.md) = Purchase price - [Face value](../f/face_value.md) = $1,050 - $1,000 = $50
+1. **Identify [Premium](../p/premium.md) Amount**:
+ - [Premium](../p/premium.md) = Purchase price - [Face value](../f/face_value.md) = $1,050 - $1,000 = $50
 
 2. **Straight-Line Method**:
-   - Annual Amortization = $50 / 5 years = $10 per year
-   - Each year, recognize $10 of [premium](../p/premium.md) amortization.
+ - Annual Amortization = $50 / 5 years = $10 per year
+ - Each year, recognize $10 of [premium](../p/premium.md) amortization.
 
 3. **Effective [Interest](../i/interest.md) Method** (assuming effective rate is 3%):
-   - First Year:
-     - [Interest](../i/interest.md) [income](../i/income.md) = 4% of $1,000 = $40
-     - [Interest expense](../i/interest_expense.md) = 3% of $1,050 = $31.50
-     - Amortization = $40 - $31.50 = $8.50
-   - Second Year:
-     - New [Book Value](../b/book_value.md) = $1,050 - $8.50 = $1,041.50
-     - [Interest expense](../i/interest_expense.md) = 3% of $1,041.50 = $31.245
-     - Amortization = $40 - $31.245 = $8.755
+ - First Year:
+ - [Interest](../i/interest.md) [income](../i/income.md) = 4% of $1,000 = $40
+ - [Interest expense](../i/interest_expense.md) = 3% of $1,050 = $31.50
+ - Amortization = $40 - $31.50 = $8.50
+ - Second Year:
+ - New [Book Value](../b/book_value.md) = $1,050 - $8.50 = $1,041.50
+ - [Interest expense](../i/interest_expense.md) = 3% of $1,041.50 = $31.245
+ - Amortization = $40 - $31.245 = $8.755
 
 ## Conclusion
 

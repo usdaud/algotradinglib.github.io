@@ -43,7 +43,7 @@ Contrarian [investing](../i/investing.md) involves taking positions opposite to 
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), overreaction can be systematically identified and exploited using [quantitative models](../q/quantitative_models.md). Algorithms can be designed to detect overreaction by analyzing price movements, news sentiment, and other relevant data.
+In [algorithmic trading](../a/algorithmic_trading.md), overreaction can be systematically identified and exploited using [quantitative models](../q/quantitative_models.md). Algorithms can be designed to detect overreaction by analyzing price movements, news sentiment, and other relevant data.
 
 ### 1. Sentiment Analysis
 By leveraging [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques, algorithms can gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and financial reports. When sentiment diverges significantly from historical norms, the system can trigger trades anticipating a reversion.
@@ -66,4 +66,4 @@ Overreaction strategies can perform differently under varying [market](../m/mark
 
 ## Conclusion
 
-Overreaction is a well-documented phenomenon in [financial markets](../f/financial_market.md), driven by [psychological biases](../p/psychological_biases_in_trading.md), information asymmetry, and [market microstructure](../m/market_microstructure.md). Traders and investors can exploit overreaction through strategies like contrarian [investing](../i/investing.md) and [momentum trading](../m/momentum_trading.md), and [algorithmic trading](../a/accountability.md) offers sophisticated tools to systematically identify and [capitalize](../c/capitalize.md) on mispricing. However, the challenges of timing, [transaction costs](../t/transaction_costs.md), and [market](../m/market.md) conditions require careful consideration to effectively harness the potential of overreaction.
+Overreaction is a well-documented phenomenon in [financial markets](../f/financial_market.md), driven by [psychological biases](../p/psychological_biases_in_trading.md), information asymmetry, and [market microstructure](../m/market_microstructure.md). Traders and investors can exploit overreaction through strategies like contrarian [investing](../i/investing.md) and [momentum trading](../m/momentum_trading.md), and [algorithmic trading](../a/algorithmic_trading.md) offers sophisticated tools to systematically identify and [capitalize](../c/capitalize.md) on mispricing. However, the challenges of timing, [transaction costs](../t/transaction_costs.md), and [market](../m/market.md) conditions require careful consideration to effectively harness the potential of overreaction.

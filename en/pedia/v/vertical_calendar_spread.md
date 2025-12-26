@@ -80,8 +80,8 @@ Be mindful of [transaction costs](../t/transaction_costs.md), as Calendar [Sprea
 
 ### Example Brokers
 
-- [Interactive Brokers](https://www.interactivebrokers.com/): Known for low-cost trading and advanced [options](../o/options.md) trading tools.
-- [TD Ameritrade](https://www.tdameritrade.com/): Offers [robust](../r/robust.md) trading platforms and tools for [options](../o/options.md) traders.
+- Interactive Brokers: Known for low-cost trading and advanced [options](../o/options.md) trading tools.
+- TD Ameritrade: Offers [robust](../r/robust.md) trading platforms and tools for [options](../o/options.md) traders.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Twist Yield Curve
 
-The concept of the "twist [yield curve](../y/yield_curve.md)" refers to a strategy employed within the realm of [fixed income securities](../f/fixed_income_securities.md), particularly treasury bonds, in which the [yield curve](../y/yield_curve.md) experiences a change that is not parallel. Essentially, it is an [investment strategy](../i/investment_strategy.md) used by financial authorities to manage the [interest](../i/interest.md) rates across different maturities with the intention of influencing the macroeconomic environment. 
+The concept of the "twist [yield curve](../y/yield_curve.md)" refers to a strategy employed within the realm of [fixed income securities](../f/fixed_income_securities.md), particularly treasury bonds, in which the [yield curve](../y/yield_curve.md) experiences a change that is not parallel. Essentially, it is an [investment strategy](../i/investment_strategy.md) used by financial authorities to manage the [interest](../i/interest.md) rates across different maturities with the intention of influencing the macroeconomic environment.
 
 #### Understanding the Yield Curve
 
@@ -42,8 +42,8 @@ In the aftermath of the [financial crisis](../f/financial_crisis.md), the Federa
 
 **[Bank](../b/bank.md) of Japan’s [Yield Curve](../y/yield_curve.md) Control (YCC)**
 
-The [Bank](../b/bank.md) of Japan (BoJ) took a radical approach in 2016, introducing [Yield Curve](../y/yield_curve.md) Control to maintain the 10-year [government bond](../g/government_bond.md) [yield](../y/yield.md) around zero. This method aims to control borrowing costs directly and has seen varying degrees of success in stimulating Japan's [economy](../e/economy.md). 
-- For more detail, see [Bank of Japan](https://www.boj.or.jp/en/index.htm).
+The [Bank](../b/bank.md) of Japan (BoJ) took a radical approach in 2016, introducing [Yield Curve](../y/yield_curve.md) Control to maintain the 10-year [government bond](../g/government_bond.md) [yield](../y/yield.md) around zero. This method aims to control borrowing costs directly and has seen varying degrees of success in stimulating Japan's [economy](../e/economy.md).
+- For more detail, see Bank of Japan.
 
 #### Strategies for Traders
 

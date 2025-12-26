@@ -39,15 +39,15 @@ Certain types of companies and sectors are known for their higher [dividend](../
 
 ### Real Estate Investment Trusts (REITs)
 
-REITs are required by law to distribute a significant portion of their [income](../i/income.md) as dividends, making them a popular choice for [income](../i/income.md)-seeking investors. Companies like Realty [Income](../i/income.md) [Corporation](../c/corporation.md) (https://www.realtyincome.com/) are known for their generous dividends.
+REITs are required by law to distribute a significant portion of their [income](../i/income.md) as dividends, making them a popular choice for [income](../i/income.md)-seeking investors. Companies like Realty [Income](../i/income.md) [Corporation](../c/corporation.md) ( are known for their generous dividends.
 
 ### Telecommunication Firms
 
-Telecommunication service providers often have predictable [revenue](../r/revenue.md) streams and tend to distribute a notable portion of their profits as dividends. For example, AT&T Inc. (https://www.att.com/) is well-known for its high [dividend](../d/dividend.md) [yield](../y/yield.md).
+Telecommunication service providers often have predictable [revenue](../r/revenue.md) streams and tend to distribute a notable portion of their profits as dividends. For example, AT&T Inc. ( is well-known for its high [dividend](../d/dividend.md) [yield](../y/yield.md).
 
 ### Consumer Staples
 
-Companies producing essential goods like food, beverages, household products, etc., tend to have stable [earnings](../e/earnings.md) and thus often [offer](../o/offer.md) substantial [dividend](../d/dividend.md) yields. Companies like The Coca-Cola Company (https://www.coca-colacompany.com/) are typical examples.
+Companies producing essential goods like food, beverages, household products, etc., tend to have stable [earnings](../e/earnings.md) and thus often [offer](../o/offer.md) substantial [dividend](../d/dividend.md) yields. Companies like The Coca-Cola Company ( are typical examples.
 
 ## Factors Affecting Dividend Yield
 
@@ -89,15 +89,15 @@ Companies can reduce or eliminate dividends, especially during financial difficu
 
 ### ExxonMobil Corporation
 
-ExxonMobil (https://corporate.exxonmobil.com/) is an example of a company with a history of high [dividend](../d/dividend.md) yields. Due to its consistent [earnings](../e/earnings.md) from oil and gas operations, ExxonMobil has been able to [offer](../o/offer.md) attractive dividends to its shareholders.
+ExxonMobil ( is an example of a company with a history of high [dividend](../d/dividend.md) yields. Due to its consistent [earnings](../e/earnings.md) from oil and gas operations, ExxonMobil has been able to [offer](../o/offer.md) attractive dividends to its shareholders.
 
 ### The Procter & Gamble Company
 
-Procter & Gamble (https://www.pg.com/) is another example, known for its steady [dividend](../d/dividend.md) payouts, thanks to its strong portfolio of [consumer staples](../c/consumer_staples.md).
+Procter & Gamble ( is another example, known for its steady [dividend](../d/dividend.md) payouts, thanks to its strong portfolio of [consumer staples](../c/consumer_staples.md).
 
 ### Johnson & Johnson
 
-Johnson & Johnson (https://www.jnj.com/) also offers a substantial [dividend](../d/dividend.md) [yield](../y/yield.md), reflecting its stable [earnings](../e/earnings.md) from pharmaceuticals, medical devices, and consumer health products.
+Johnson & Johnson ( also offers a substantial [dividend](../d/dividend.md) [yield](../y/yield.md), reflecting its stable [earnings](../e/earnings.md) from pharmaceuticals, medical devices, and consumer health products.
 
 ## Conclusion
 

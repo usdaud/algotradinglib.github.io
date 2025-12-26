@@ -50,17 +50,17 @@ The Binomial model is another popular method for valuing [options](../o/options.
 Consider an [investor](../i/investor.md) bullish on Company XYZ's stock, which is currently trading at $50 per share. The [investor](../i/investor.md) believes the stock [will](../w/will.md) rise to $60 within three months and decides to buy a three-month [call option](../c/call_option.md) with a $55 [strike price](../s/strike_price.md), trading at a [premium](../p/premium.md) of $2.50.
 
 1. **Purchase [Call Option](../c/call_option.md):**
-   - [Premium](../p/premium.md) paid: $2.50 per share
-   - Contract size: 100 [shares](../s/shares.md)
-   - Total cost: $2.50 * 100 = $250
+ - [Premium](../p/premium.md) paid: $2.50 per share
+ - Contract size: 100 [shares](../s/shares.md)
+ - Total cost: $2.50 * 100 = $250
 
 2. **Possible Scenarios:**
-   - **Stock Price Rises to $60:**
-     - The option's [intrinsic value](../i/intrinsic_value.md): ($60 - $55) * 100 = $500
-     - [Profit](../p/profit.md): $500 - $250 = $250
-   - **Stock Price Remains at $50 or Falls:**
-     - The [call option](../c/call_option.md) expires worthless.
-     - Loss: $250 ([premium](../p/premium.md) paid)
+ - **Stock Price Rises to $60:**
+ - The option's [intrinsic value](../i/intrinsic_value.md): ($60 - $55) * 100 = $500
+ - [Profit](../p/profit.md): $500 - $250 = $250
+ - **Stock Price Remains at $50 or Falls:**
+ - The [call option](../c/call_option.md) expires worthless.
+ - Loss: $250 ([premium](../p/premium.md) paid)
 
 ## Important Considerations
 
@@ -75,6 +75,6 @@ Consider an [investor](../i/investor.md) bullish on Company XYZ's stock, which i
 
 ## Conclusion
 
-[Listed](../l/listed.md) [options](../o/options.md) are versatile financial instruments [offering](../o/offering.md) various uses, including hedging, [speculation](../s/speculation.md), and [income](../i/income.md) generation. Their standardized nature, [liquidity](../l/liquidity.md), and [transparency](../t/transparency.md) make them accessible and attractive to a wide [range](../r/range.md) of investors and traders. However, [options](../o/options.md) trading carries risks, and a thorough understanding of the [underlying](../u/underlying.md) mechanics, pricing models, and [market](../m/market.md) factors is essential for success. 
+[Listed](../l/listed.md) [options](../o/options.md) are versatile financial instruments [offering](../o/offering.md) various uses, including hedging, [speculation](../s/speculation.md), and [income](../i/income.md) generation. Their standardized nature, [liquidity](../l/liquidity.md), and [transparency](../t/transparency.md) make them accessible and attractive to a wide [range](../r/range.md) of investors and traders. However, [options](../o/options.md) trading carries risks, and a thorough understanding of the [underlying](../u/underlying.md) mechanics, pricing models, and [market](../m/market.md) factors is essential for success.
 
-For more information, you can visit [Cboe Global Markets](https://www.cboe.com/).
+For more information, you can visit Cboe Global Markets.

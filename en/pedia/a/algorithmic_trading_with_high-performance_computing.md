@@ -62,7 +62,6 @@ Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) fund
 
 Two Sigma Investments is another prominent [firm](../f/firm.md) that extensively uses HPC and [machine learning](../m/machine_learning.md) for trading. Their strategies are heavily research-driven, relying on large datasets and complex algorithms. The [firm](../f/firm.md) has stated that it uses [cloud computing](../c/cloud_computing_in_trading.md) and scalable data storage to enhance its trading capabilities.
 
-Website: [Two Sigma](https://www.twosigma.com/)
 
 ### Future Trends
 
@@ -80,4 +79,4 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are becomi
 
 ### Conclusion
 
-The integration of High-Performance Computing in [algorithmic trading](../a/algorithmic_trading.md) offers a powerful combination that can significantly enhance the speed, [efficiency](../e/efficiency.md), and efficacy of [trading strategies](../t/trading_strategies.md). While the field continues to evolve, the foundational principles of leveraging computational power to [gain](../g/gain.md) a competitive edge remain paramount. As technology progresses, we can expect more innovative applications and improvements in both HPC and [algorithmic trading](../a/algorithmic_trading.md), further pushing the boundaries of what's possible in the [financial markets](../f/financial_market.md).
+The integration of High-Performance Computing in [algorithmic trading](../a/algorithmic_trading.md) offers a powerful combination that can significantly enhance the speed, [efficiency](../e/efficiency.md), and efficacy of [trading strategies](../t/trading_strategies.md). While the field continues to evolve, the foundational principles of leveraging computational power to [gain](../g/gain.md) a competitive edge remain paramount. As technology progresses, we can expect more innovative applications and improvements in both HPC and [algorithmic trading](../a/algorithmic_trading.md), further pushing the boundaries of what's possible in the [financial markets](../f/financial_market.md).

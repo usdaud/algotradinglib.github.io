@@ -51,8 +51,8 @@ While the Memorandum of Association outlines the external aspects of the company
 The AoA is a cornerstone document in the [corporate governance](../c/corporate_governance.md) framework, guiding the actions and decisions of the Board of Directors and management. It ensures that the company operates in a transparent, efficient, and accountable manner.
 
 ## Practical Examples
-- **[Apple Inc.](https://www.apple.com/legal/internet-services/terms/site.html)**: Apple's Articles of Association provide insights into how one of the world's leading tech companies structures its governance.
-- **[Microsoft Corporation](https://www.microsoft.com/en-us/legal/IntellectualProperty/Copyright/default.aspx)**: Microsoft's AoA outline the core governance principles that have helped it maintain a competitive edge in the [technology sector](../t/technology_sector.md).
+- **Apple Inc.**: Apple's Articles of Association provide insights into how one of the world's leading tech companies structures its governance.
+- **Microsoft Corporation**: Microsoft's AoA outline the core governance principles that have helped it maintain a competitive edge in the [technology sector](../t/technology_sector.md).
 
 ## Conclusion
 The Articles of Association are a fundamental component of [corporate governance](../c/corporate_governance.md) and legal compliance. Understanding and drafting the AoA requires a thorough knowledge of corporate law and the specific needs of the company. By setting clear rules and procedures, the AoA play a critical role in the successful management and operation of any [corporation](../c/corporation.md).

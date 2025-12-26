@@ -43,11 +43,11 @@ Performance reporting involves creating detailed reports to communicate trading 
 
 ### 1. **Algorithmic Trading**
 
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute trades based on predefined criteria.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute trades based on predefined criteria.
 
 - **[Backtesting](../b/backtesting.md)**: Running algorithms against historical data to evaluate performance.
 - **Real-time Monitoring**: Using systems to track algorithm performance in real-time.
-- [AlgoTrader](https://www.algotrader.com/): A platform providing [infrastructure](../i/infrastructure.md) for building, testing, and deploying [trading strategies](../t/trading_strategies.md).
+- AlgoTrader: A platform providing [infrastructure](../i/infrastructure.md) for building, testing, and deploying [trading strategies](../t/trading_strategies.md).
 
 ### 2. **Quantitative Trading**
 
@@ -110,13 +110,11 @@ Implementing feedback mechanisms to learn from past trades and refine strategies
 
 Bridgewater Associates is one of the largest [hedge](../h/hedge.md) funds globally and exemplifies [robust](../r/robust.md) performance management. They use a systematic approach to trading and performance management, leveraging advanced analytics and a strong culture of radical [transparency](../t/transparency.md).
 
-[Bridgewater Associates](https://www.bridgewater.com/)
 
 ### 2. **Two Sigma**
 
 Two Sigma utilizes cutting-edge technology, including [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md), to manage performance. Their quantitative approach helps them systematically analyze performance and continuously refine their [trading strategies](../t/trading_strategies.md).
 
-[Two Sigma](https://www.twosigma.com/)
 
 ## Conclusion
 

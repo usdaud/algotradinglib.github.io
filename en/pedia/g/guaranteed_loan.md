@@ -8,9 +8,9 @@ A guaranteed [loan](../l/loan.md) is a type of financial arrangement where a thi
 
 These are loans where the government provides a guarantee to the [lender](../l/lender.md). Government-guaranteed loans are often aimed at specific sectors to stimulate economic activity. Examples include:
 
-- **Small [Business](../b/business.md) Administration (SBA) Loans**: Designed to help small businesses secure [financing](../f/financing.md), SBA loans are guaranteed by the U.S. government's SBA. More details can be found on the [SBA website](https://www.sba.gov).
+- **Small [Business](../b/business.md) Administration (SBA) Loans**: Designed to help small businesses secure [financing](../f/financing.md), SBA loans are guaranteed by the U.S. government's SBA. More
 - **Federal Housing Administration (FHA) Loans**: These are mortgages with down payments as low as 3.5%, guaranteed by the FHA, making homeownership more accessible.
-- **Department of Veterans Affairs (VA) Loans**: VA loans are aimed at military veterans, providing them with favorable terms and reduced [risk](../r/risk.md) of [default](../d/default.md). More information is available on the [VA website](https://www.va.gov).
+- **Department of Veterans Affairs (VA) Loans**: VA loans are aimed at military veterans, providing them with favorable terms and reduced [risk](../r/risk.md) of [default](../d/default.md).
 
 ### Private-Guaranteed Loans
 
@@ -74,7 +74,7 @@ If a borrower defaults, the [guarantor](../g/guarantor.md) is liable to repay th
 
 ### Case Study: SBA Loans During COVID-19
 
-A key example of guaranteed loans in action is the Paycheck Protection Program (PPP) initiated by the SBA during the COVID-19 pandemic. This program provided loans to small businesses to help them keep their workforce employed. The loans were fully guaranteed by the U.S. government, and if certain conditions were met, they could be forgiven. Details can be found on the [SBA PPP page](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program).
+A key example of guaranteed loans in action is the Paycheck Protection Program (PPP) initiated by the SBA during the COVID-19 pandemic. This program provided loans to small businesses to help them keep their workforce employed. The loans were fully guaranteed by the U.S. government, and if certain conditions were met, they could be forgiven. Details can be found on the SBA PPP page.
 
 ### Agricultural Loans
 
@@ -82,7 +82,7 @@ Agricultural loans are often guaranteed by government entities to stabilize the 
 
 ### Educational Loans
 
-Many educational institutions [offer](../o/offer.md) loans with parental guarantees, making higher education more accessible to students who might not otherwise qualify for loans. 
+Many educational institutions [offer](../o/offer.md) loans with parental guarantees, making higher education more accessible to students who might not otherwise qualify for loans.
 
 ## Conclusion
 

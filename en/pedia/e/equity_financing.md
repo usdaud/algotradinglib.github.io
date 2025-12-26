@@ -12,7 +12,7 @@
 [Private equity](../p/private_equity.md) involves investments from private individuals or groups, often including venture capitalists and angel investors. These investors provide [capital](../c/capital.md) in [exchange](../e/exchange.md) for [equity](../e/equity.md) stakes in selected companies, usually in startups or private companies not [listed](../l/listed.md) on public stock exchanges.
 
 ### 2. Venture Capital
-[Venture capital](../v/venture_capital.md) is a type of [private equity](../p/private_equity.md) focused on [investing](../i/investing.md) in early-stage, high-growth companies. Venture capitalists provide funding in [exchange](../e/exchange.md) for [equity](../e/equity.md), and also often [offer](../o/offer.md) strategic support, [industry](../i/industry.md) connections, and managerial expertise to help the company grow. 
+[Venture capital](../v/venture_capital.md) is a type of [private equity](../p/private_equity.md) focused on [investing](../i/investing.md) in early-stage, high-growth companies. Venture capitalists provide funding in [exchange](../e/exchange.md) for [equity](../e/equity.md), and also often [offer](../o/offer.md) strategic support, [industry](../i/industry.md) connections, and managerial expertise to help the company grow.
 
 ### 3. Initial Public Offering (IPO)
 An IPO is the process through which a [private company](../p/private_company.md) becomes public by selling its [shares](../s/shares.md) on a stock [exchange](../e/exchange.md). This allows companies to raise substantial [capital](../c/capital.md) by selling [shares](../s/shares.md) to a broad base of investors. The process of [going public](../g/going_public.md) involves significant regulatory compliance and financial [disclosure](../d/disclosure.md).
@@ -54,16 +54,16 @@ Issuing new [shares](../s/shares.md) can dilute the ownership percentage of the 
 ## Key Players in Equity Financing
 
 ### 1. Venture Capital Firms
-Prominent [venture capital](../v/venture_capital.md) firms like Sequoia [Capital](../c/capital.md) [https://www.sequoiacap.com/] and Andreessen Horowitz [https://a16z.com/] are some of the biggest players in equity [financing](../f/financing.md) for startups. They provide early-stage funding and strategic support.
+Prominent [venture capital](../v/venture_capital.md) firms like Sequoia [Capital](../c/capital.md) [ and Andreessen Horowitz [ are some of the biggest players in equity [financing](../f/financing.md) for startups. They provide early-stage funding and strategic support.
 
 ### 2. Private Equity Firms
-Firms such as Blackstone [https://www.blackstone.com/] and KKR [https://www.kkr.com/] invest in private companies or take public companies private, [offering](../o/offering.md) substantial [capital](../c/capital.md) injections and strategic overhaul.
+Firms such as Blackstone [ and KKR [ invest in private companies or take public companies private, [offering](../o/offering.md) substantial [capital](../c/capital.md) injections and strategic overhaul.
 
 ### 3. Investment Banks
-[Investment banks](../i/investment_bank_(ib).md), including Goldman Sachs [https://www.goldmansachs.com/] and Morgan Stanley [https://www.morganstanley.com/], play a critical role in facilitating IPOs and large secondary offerings by [underwriting](../u/underwriting.md) and managing the [sale](../s/sale.md) of [shares](../s/shares.md).
+[Investment banks](../i/investment_bank_(ib).md), including Goldman Sachs [ and Morgan Stanley [ play a critical role in facilitating IPOs and large secondary offerings by [underwriting](../u/underwriting.md) and managing the [sale](../s/sale.md) of [shares](../s/shares.md).
 
 ### 4. Crowdfunding Platforms
-Platforms like Crowdcube [https://www.crowdcube.com/] and Seedrs [https://www.seedrs.com/] are leading the way in equity [crowdfunding](../c/crowdfunding.md), connecting startups with a vast pool of small investors.
+Platforms like Crowdcube [ and Seedrs [ are leading the way in equity [crowdfunding](../c/crowdfunding.md), connecting startups with a vast pool of small investors.
 
 ## The Equity Financing Process
 

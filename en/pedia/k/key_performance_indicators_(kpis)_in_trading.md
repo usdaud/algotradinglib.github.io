@@ -5,8 +5,8 @@ Key [Performance Indicators](../p/performance_indicators.md) (KPIs) are essentia
 ## 1. Return on Investment (ROI)
 [Return](../r/return.md) on Investment (ROI) measures the amount of [return](../r/return.md) on an investment relative to the investment’s cost. It is a straightforward [indicator](../i/indicator.md) used to evaluate the profitability of an investment.
 
-**Formula**: 
-  
+**Formula**:
+
 \[ ROI = \frac{(Current [Value](../v/value.md) of Investment - Cost of Investment)}{Cost of Investment} \times 100 \]
 
 ROI is expressed as a percentage and provides a clear [indicator](../i/indicator.md) of the [efficiency](../e/efficiency.md) of an investment.

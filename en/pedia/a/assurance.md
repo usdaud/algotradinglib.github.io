@@ -29,7 +29,7 @@ Conducting thorough code reviews is critical to ensure the algorithm functions c
 
 ### Testing
 Various testing methods are employed to verify that the algorithm operates as intended:
-  
+
 - **Unit Testing**: Checking individual components or modules of the algorithm.
 - **Integration Testing**: Ensuring different modules work together seamlessly.
 - **Regression Testing**: Confirming that new code changes do not adversely impact existing functionality.

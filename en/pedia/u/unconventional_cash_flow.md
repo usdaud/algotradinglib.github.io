@@ -50,12 +50,11 @@ Using adjusted [discount](../d/discount.md) rates or separate [discount](../d/di
 
 ## Case Study: Unconventional Cash Flow in Technology Startups
 
-Technology startups usually exhibit unconventional [cash flow](../c/cash_flow.md) patterns due to high initial investments in research and development, followed by uncertain and potentially explosive revenues. 
+Technology startups usually exhibit unconventional [cash flow](../c/cash_flow.md) patterns due to high initial investments in research and development, followed by uncertain and potentially explosive revenues.
 
 ### Example: Tesla Inc.
 Tesla’s early years showed significant cash outflows related to R&D, [manufacturing](../m/manufacturing.md) setup, and [market](../m/market.md) [expansion](../e/expansion.md). Financial analysts utilized various techniques to evaluate the viability of Tesla’s investments, including NPV and [Scenario Analysis](../s/scenario_analysis.md). Over time, the cash inflows have become more predictable with growing sales, yet still exhibit [variability](../v/variability.md) due to [market](../m/market.md) conditions and regulatory changes.
 
-For more information on Tesla, visit [Tesla Official Site](https://www.tesla.com).
 
 ## Conclusion
 

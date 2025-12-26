@@ -44,7 +44,7 @@ Traders employing [technical analysis](../t/technical_analysis.md) use charts an
 
 ### 3. Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer programs to execute trades based on predefined criteria. Algorithms can quickly analyze [market](../m/market.md) data and execute trades much faster than a human [trader](../t/trader.md), making them well-suited for the fast-paced environment of overnight trading.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer programs to execute trades based on predefined criteria. Algorithms can quickly analyze [market](../m/market.md) data and execute trades much faster than a human [trader](../t/trader.md), making them well-suited for the fast-paced environment of overnight trading.
 
 ## Technology and Infrastructure
 
@@ -56,9 +56,9 @@ Electronic Communication Networks (ECNs) and Alternative [Trading Systems](../t/
 
 Various trading platforms [offer](../o/offer.md) the capability to [trade](../t/trade.md) outside regular hours. Some well-known platforms include:
 
-- **TD [Ameritrade](../a/ameritrade.md)** - [TD Ameritrade Overnight Trading](https://www.tdameritrade.com)
-- **[E*TRADE](../e/e_trade.md)** - [E*TRADE Extended Hours Trading](https://www.etrade.com)
-- **[Interactive Brokers](../i/interactive_brokers.md)** - [Interactive Brokers Extended Hours](https://www.interactivebrokers.com)
+- **TD [Ameritrade](../a/ameritrade.md)** - TD Ameritrade Overnight Trading
+- **[E*TRADE](../e/e_trade.md)** - E*TRADE Extended Hours Trading
+- **[Interactive Brokers](../i/interactive_brokers.md)** - Interactive Brokers Extended Hours
 
 These platforms often come with features designed to help traders navigate the complexities of overnight trading, such as [real-time market data](../r/real-time_market_data.md), advanced charting tools, and direct [market](../m/market.md) access.
 

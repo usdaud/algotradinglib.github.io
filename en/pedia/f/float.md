@@ -90,8 +90,6 @@ Traders often incorporate float data into [technical analysis](../t/technical_an
 
 Float is a critical metric in understanding a stock's [liquidity](../l/liquidity.md), [volatility](../v/volatility.md), and [market dynamics](../m/market_dynamics.md). By analyzing float, investors [gain](../g/gain.md) insight into the availability of [shares](../s/shares.md) for trading, the level of insider ownership, and potential price movements. Recognizing the implications of float allows for better-informed investment decisions and efficient [risk management](../r/risk_management.md).
 
-More detailed information can be found on specific companies' [investor relations](../i/investor_relations.md) pages:
-- [Tesla Investor Relations](https://ir.tesla.com/)
-- [Amazon Investor Relations](https://www.amazon.com/ir)
+More detailed information can be found on specific companies' [company filings](../i/investor_relations.md) pages:
 
 Understanding and leveraging the concept of float is essential for navigating the complexities of stock trading and optimizing investment strategies.

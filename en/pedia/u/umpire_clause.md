@@ -4,7 +4,7 @@ An umpire clause is a critical element often found in [arbitration](../a/arbitra
 
 ## Definition and Basics
 
-An umpire clause is a specific [provision](../p/provision.md) within an [arbitration](../a/arbitration.md) agreement that calls for the appointment of an umpire (also known as a [neutral](../n/neutral.md) or third arbitrator) to resolve a deadlock between two arbitrators chosen by the involved parties. This third arbitrator, or umpire, acts as a tie-breaker and makes the final decision regarding the disputed [issue](../i/issue.md). 
+An umpire clause is a specific [provision](../p/provision.md) within an [arbitration](../a/arbitration.md) agreement that calls for the appointment of an umpire (also known as a [neutral](../n/neutral.md) or third arbitrator) to resolve a deadlock between two arbitrators chosen by the involved parties. This third arbitrator, or umpire, acts as a tie-breaker and makes the final decision regarding the disputed [issue](../i/issue.md).
 
 ### Key Characteristics:
 - **Purpose:** The primary function is to resolve disputes where the initially appointed arbitrators cannot reach an agreement.
@@ -72,15 +72,15 @@ Enforcement of an umpire’s decision can sometimes be complicated, especially i
 
 ### Financial Sector
 
-Large banking institutions frequently incorporate umpire clauses in their contracts. For example, [JP Morgan](https://www.jpmorgan.com) includes detailed [arbitration](../a/arbitration.md) processes in many of their client agreements to ensure efficient resolution of any disputes.
+Large banking institutions frequently incorporate umpire clauses in their contracts. For example, JP Morgan includes detailed [arbitration](../a/arbitration.md) processes in many of their client agreements to ensure efficient resolution of any disputes.
 
 ### Commodity Trading
 
-In the [commodity](../c/commodity.md) trading sector, umpire clauses are crucial for resolving disputes over shipment quality, delivery specifics, and pricing disagreements. Companies like [Cargill](https://www.cargill.com) often rely on these clauses to maintain smooth trading operations.
+In the [commodity](../c/commodity.md) trading sector, umpire clauses are crucial for resolving disputes over shipment quality, delivery specifics, and pricing disagreements. Companies like Cargill often rely on these clauses to maintain smooth trading operations.
 
 ### Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), where automated trades can lead to disagreements over [execution](../e/execution.md) and strategy, umpire clauses help in resolving disputes that arise from the complex and high-speed nature of transactions.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), where automated trades can lead to disagreements over [execution](../e/execution.md) and strategy, umpire clauses help in resolving disputes that arise from the complex and high-speed nature of transactions.
 
 ## Conclusion
 

@@ -71,32 +71,26 @@ In forex markets, [yield](../y/yield.md) [volatility analysis](../v/volatility_a
 ### Bloomberg Terminal
 The [Bloomberg](../b/bloomberg.md) Terminal is a widely-used platform for financial data analysis. It provides advanced tools for [yield](../y/yield.md) [volatility analysis](../v/volatility_analysis.md), including historical and implied [volatility](../v/volatility.md) calculations, and access to comprehensive financial data across various [asset](../a/asset.md) classes.
 
-[Official Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### MATLAB
 MATLAB offers a [robust](../r/robust.md) environment for quantitative [financial analysis](../f/financial_analysis.md). It includes specialized toolboxes for [econometrics](../e/econometrics_in_trading.md) and financial time-series analysis, facilitating the implementation of [yield](../y/yield.md) [volatility models](../v/volatility_models.md) such as GARCH.
 
-[Official Website](https://www.mathworks.com/products/matlab.html)
 
 ### Python with QuantLib
 Python, in combination with the [QuantLib](../q/quantlib.md) library, is a powerful tool for [yield](../y/yield.md) [volatility analysis](../v/volatility_analysis.md). [QuantLib](../q/quantlib.md) provides a wide [range](../r/range.md) of functionalities for modeling, trading, and [risk management](../r/risk_management.md) in [quantitative finance](../q/quantitative_finance.md).
 
-[Official Website](https://www.quantlib.org/)
 
 ### R Statistical Software
 R is another popular tool for statistical and [financial analysis](../f/financial_analysis.md). Packages like `quantmod` and `TTR` [offer](../o/offer.md) extensive capabilities for [yield](../y/yield.md) [volatility analysis](../v/volatility_analysis.md), including various [volatility models](../v/volatility_models.md) and visualization tools.
 
-[Official Website](https://www.r-project.org/)
 
 ### Excel with VBA
 For those who prefer a more traditional approach, Excel with VBA (Visual Basic for Applications) can be used for [yield](../y/yield.md) [volatility analysis](../v/volatility_analysis.md). It allows for the implementation of custom [volatility models](../v/volatility_models.md) and the analysis of [yield](../y/yield.md) data through spreadsheets.
 
-[Official Website](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### Eikon
 Eikon, by Refinitiv, is an advanced [financial analysis](../f/financial_analysis.md) platform that offers extensive tools for [yield](../y/yield.md) [volatility analysis](../v/volatility_analysis.md). It provides real-time data, historical [time series](../t/time_series.md), and extensive analytical capabilities for various [financial markets](../f/financial_market.md).
 
-[Official Website](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ## Conclusion
 

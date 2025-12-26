@@ -13,25 +13,25 @@ The Heston Model introduces stochastic [volatility](../v/volatility.md) by allow
 The Heston Model is defined by the following system of [stochastic differential equations](../s/stochastic_differential_equations.md) (SDEs):
 
 1. **[Asset](../a/asset.md) Price Dynamics:**
-   \[
-   dS_t = \mu S_t dt + \sqrt{V_t} S_t dW_t^S
-   \]
-   where:
-   - \( S_t \) is the [asset](../a/asset.md) price at time \( t \).
-   - \( \mu \) is the drift rate (i.e., the [expected return](../e/expected_return.md) on the [asset](../a/asset.md)).
-   - \( V_t \) is the stochastic variance at time \( t \).
-   - \( W_t^S \) is a Wiener process (Brownian motion) representing the randomness in the [asset](../a/asset.md) price.
+ \[
+ dS_t = \mu S_t dt + \sqrt{V_t} S_t dW_t^S
+ \]
+ where:
+ - \( S_t \) is the [asset](../a/asset.md) price at time \( t \).
+ - \( \mu \) is the drift rate (i.e., the [expected return](../e/expected_return.md) on the [asset](../a/asset.md)).
+ - \( V_t \) is the stochastic variance at time \( t \).
+ - \( W_t^S \) is a Wiener process (Brownian motion) representing the randomness in the [asset](../a/asset.md) price.
 
 2. **Variance Dynamics:**
-   \[
-   dV_t = \[kappa](../k/kappa.md) (\[theta](../t/theta.md) - V_t) dt + \sigma \sqrt{V_t} dW_t^V
-   \]
-   where:
-   - \( \[kappa](../k/kappa.md) \) is the rate of [mean reversion](../m/mean_reversion.md) of the variance.
-   - \( \[theta](../t/theta.md) \) is the long-run average variance.
-   - \( \sigma \) is the [volatility](../v/volatility.md) of the variance process, often referred to as "[volatility](../v/volatility.md) of [volatility](../v/volatility.md)".
-   - \( W_t^V \) is another Wiener process.
-   - \( dW_t^S \) and \( dW_t^V \) are correlated with [correlation coefficient](../c/correlation_coefficient.md) \( \[rho](../r/rho.md) \).
+ \[
+ dV_t = \[kappa](../k/kappa.md) (\[theta](../t/theta.md) - V_t) dt + \sigma \sqrt{V_t} dW_t^V
+ \]
+ where:
+ - \( \[kappa](../k/kappa.md) \) is the rate of [mean reversion](../m/mean_reversion.md) of the variance.
+ - \( \[theta](../t/theta.md) \) is the long-run average variance.
+ - \( \sigma \) is the [volatility](../v/volatility.md) of the variance process, often referred to as "[volatility](../v/volatility.md) of [volatility](../v/volatility.md)".
+ - \( W_t^V \) is another Wiener process.
+ - \( dW_t^S \) and \( dW_t^V \) are correlated with [correlation coefficient](../c/correlation_coefficient.md) \( \[rho](../r/rho.md) \).
 
 The [correlation](../c/correlation.md) \( \[rho](../r/rho.md) \) between the two Wiener processes allows the model to capture the [leverage effect](../l/leverage_effect_in_trading.md), where [asset](../a/asset.md) returns and changes in [volatility](../v/volatility.md) are inversely related.
 
@@ -80,11 +80,11 @@ The flexibility of the Heston Model allows it to be used in the pricing of exoti
 
 Several financial institutions and software providers [offer](../o/offer.md) tools and platforms that implement the Heston Model for various applications:
 
-1. **Numerix** ([Numerix](https://www.numerix.com/)): A leading provider of [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing software that includes support for the Heston Model.
+1. **Numerix** (Numerix): A leading provider of [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing software that includes support for the Heston Model.
 
-2. **[QuantLib](../q/quantlib.md)** ([QuantLib](https://www.quantlib.org/)): An [open](../o/open.md)-source library [offering](../o/offering.md) a wide [range](../r/range.md) of tools for [financial engineering](../f/financial_engineering.md), including implementations of the Heston Model.
+2. **[QuantLib](../q/quantlib.md)** (QuantLib): An [open](../o/open.md)-source library [offering](../o/offering.md) a wide [range](../r/range.md) of tools for [financial engineering](../f/financial_engineering.md), including implementations of the Heston Model.
 
-3. **Fincad** ([Fincad](https://www.fincad.com/)): Provides analytics and [risk management](../r/risk_management.md) solutions that incorporate the Heston Model for accurate [derivatives](../d/derivatives.md) pricing.
+3. **Fincad** (Fincad): Provides analytics and [risk management](../r/risk_management.md) solutions that incorporate the Heston Model for accurate [derivatives](../d/derivatives.md) pricing.
 
 ## Conclusion
 

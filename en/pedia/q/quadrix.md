@@ -42,7 +42,7 @@ The individual [factor](../f/factor.md) scores are aggregated into a composite s
 
 ### Stock Screening
 
-One of the primary uses of Quadrix is for stock screening. Investors can set minimum thresholds for individual scores or composite scores to filter out [stocks](../s/stock.md) that do not meet their investment criteria. 
+One of the primary uses of Quadrix is for stock screening. Investors can set minimum thresholds for individual scores or composite scores to filter out [stocks](../s/stock.md) that do not meet their investment criteria.
 
 For example, an [investor](../i/investor.md) might screen for [stocks](../s/stock.md) with:
 
@@ -56,7 +56,7 @@ Quadrix can also guide [portfolio management](../p/par.md) by identifying underp
 
 ### Quantitative Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), Quadrix scores can be integrated into [trading algorithms](../t/trading_algorithms.md) to automate the buy/sell decisions based on predefined scoring thresholds. This quantitative approach can help minimize emotional biases and ensure disciplined investment strategies.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), Quadrix scores can be integrated into [trading algorithms](../t/trading_algorithms.md) to automate the buy/sell decisions based on predefined scoring thresholds. This quantitative approach can help minimize emotional biases and ensure disciplined investment strategies.
 
 ## Advantages of Quadrix
 

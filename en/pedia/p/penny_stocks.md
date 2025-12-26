@@ -54,7 +54,7 @@ Penny [stocks](../s/stock.md) generally refer to the [shares](../s/shares.md) of
 ### Technology Stack
 1. **Programming Languages**: Python, R, C++ for algorithm development.
 2. **Libraries and Frameworks**: Pandas, NumPy, [TensorFlow](../t/tensorflow.md) for data manipulation and [machine learning](../m/machine_learning.md).
-3. **[Broker](../b/broker.md) Integration**: APIs from brokerages like [Interactive Brokers](../i/interactive_brokers.md) (IBKR), [TD Ameritrade](https://www.tdameritrade.com/home.page), etc.
+3. **[Broker](../b/broker.md) Integration**: APIs from brokerages like [Interactive Brokers](../i/interactive_brokers.md) (IBKR), TD Ameritrade, etc.
 
 ## Regulatory Considerations and Ethical Implications
 1. **Regulation**: Compliance with SEC regulations to avoid legal repercussions.
@@ -68,13 +68,13 @@ Penny [stocks](../s/stock.md) generally refer to the [shares](../s/shares.md) of
 ### Examples
 1. **Quant Funds**: [Hedge](../h/hedge.md) funds leveraging high-frequency trading (HFT) algorithms.
 2. **Retail Traders**: Successful retail algotrading strategies.
-   
+
 ### Companies Specializing in Algotrading
-1. **Two Sigma**: [Two Sigma](https://www.twosigma.com/)
-2. **Citadel Securities**: [Citadel Securities](https://www.citadelsecurities.com/)
+1. **Two Sigma**: Two Sigma
+2. **Citadel Securities**: Citadel Securities
 
 ## Tools and Frameworks for Algotrading
-1. **[QuantConnect](../q/quantconnect.md)**: Cloud-based algo [trading platform](../t/trading_platform.md).
+1. **[StockSharp](../s/stocksharp.md)**: algo [trading platform](../t/trading_platform.md).
 2. **[AlgoTrader](../a/algotrader.md)**: Comprehensive system for [quantitative research](../q/quantitative_research.md) and automated trading.
 
 ## Future Trends in Algotrading Penny Stocks

@@ -16,19 +16,19 @@ Vertical mergers are typically classified into two types:
 
 In 2017, Amazon acquired Whole Foods [Market](../m/market.md) for $13.7 billion. This move marked Amazon's entry into the physical retail [market](../m/market.md) and allowed it to [leverage](../l/leverage.md) Whole Foods' established [supply chain](../s/supply_chain.md) and retail locations. The [acquisition](../a/acquisition.md) helped Amazon to enhance its grocery delivery service, Amazon Fresh, by integrating physical stores with its advanced [distribution network](../d/distribution_network.md).
 
-**Amazon website:** [Amazon](https://www.amazon.com/)
+**Amazon online platform:** Amazon
 
 ### Tesla and SolarCity
 
 Tesla's [acquisition](../a/acquisition.md) of SolarCity in 2016 for $2.6 billion is another classic example of a vertical [merger](../m/merger.md). The electric vehicle manufacturer integrated with the solar energy company to create a sustainable energy ecosystem covering energy production, storage, and consumption. This [acquisition](../a/acquisition.md) helped Tesla to streamline operations and push forward with its mission of accelerating the world's transition to sustainable energy.
 
-**Tesla website:** [Tesla](https://www.tesla.com/)
+**Tesla online platform:** Tesla
 
 ### AT&T and Time Warner
 
 AT&T’s purchase of Time Warner for $85.4 billion in 2018 combined AT&T’s telecommunications [infrastructure](../i/infrastructure.md) with Time Warner’s extensive media library. The [merger](../m/merger.md) allowed AT&T to distribute Time Warner's content through its network, creating synergy between content creation and [distribution](../d/distribution.md).
 
-**AT&T website:** [AT&T](https://www.att.com/)
+**AT&T online platform:** AT&T
 
 ## Advantages of Vertical Mergers
 

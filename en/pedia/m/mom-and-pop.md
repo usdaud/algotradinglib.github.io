@@ -15,7 +15,7 @@ Mom-and-Pop investors are non-professional [market](../m/market.md) participants
 - **Diverse Objectives:** Their investment goals [range](../r/range.md) from building retirement funds, saving for children's education, to achieving short-term financial gains.
 - **Emotional Decision-Making:** Their investment decisions are often influenced by emotions, news events, and personal experiences rather than rigorous [financial analysis](../f/financial_analysis.md).
 - **Use of [Brokerage Services](../b/brokerage_services.md):** They frequently use online brokerage accounts and financial advisory services.
-  
+
 ## Motivations for Investment
 
 ### Wealth Building
@@ -38,7 +38,7 @@ Social factors, such as advice from friends and family, influence Mom-and-Pop in
 
 ### Buy and Hold
 
-The buy-and-[hold](../h/hold.md) strategy involves purchasing securities and holding them for an extended period, regardless of [market](../m/market.md) [volatility](../v/volatility.md). This long-term approach is grounded in the belief that markets tend to rise over time, and holding quality investments [will](../w/will.md) [yield](../y/yield.md) positive returns. 
+The buy-and-[hold](../h/hold.md) strategy involves purchasing securities and holding them for an extended period, regardless of [market](../m/market.md) [volatility](../v/volatility.md). This long-term approach is grounded in the belief that markets tend to rise over time, and holding quality investments [will](../w/will.md) [yield](../y/yield.md) positive returns.
 
 ### Dollar-Cost Averaging
 
@@ -68,7 +68,7 @@ One of the most significant challenges for Mom-and-Pop investors is their limite
 
 ### Risks of Over-Diversification and Under-Diversification
 
-While [diversification](../d/diversification.md) is essential for managing [risk](../r/risk.md), many Mom-and-Pop investors struggle to find the right balance. Over-[diversification](../d/diversification.md) can dilute potential gains, while under-[diversification](../d/diversification.md) increases the [risk](../r/risk.md) of significant losses. 
+While [diversification](../d/diversification.md) is essential for managing [risk](../r/risk.md), many Mom-and-Pop investors struggle to find the right balance. Over-[diversification](../d/diversification.md) can dilute potential gains, while under-[diversification](../d/diversification.md) increases the [risk](../r/risk.md) of significant losses.
 
 ### Susceptibility to Scams and Fraud
 
@@ -100,7 +100,7 @@ There are numerous educational resources available, ranging from books and onlin
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), also known as algo trading, involves using computer programs to execute trades based on predefined criteria. While mainly used by institutional investors, advancements in technology have made algo trading more accessible to retail investors. Platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) [offer](../o/offer.md) tools for developing and testing [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves using computer programs to execute trades based on predefined criteria. While mainly used by institutional investors, advancements in technology have made algo trading more accessible to retail investors. Platforms like [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) [offer](../o/offer.md) tools for developing and testing [trading algorithms](../t/trading_algorithms.md).
 
 ### Robo-Advisors
 
@@ -158,10 +158,4 @@ Mom-and-Pop investors, despite their smaller scale, contribute significantly to 
 
 This detailed exploration aims to shed light on the multifaceted world of Mom-and-Pop investors. For more information about specific companies mentioned, you can visit their official websites.
 
-- TD [Ameritrade](../a/ameritrade.md): [https://www.tdameritrade.com](https://www.tdameritrade.com)
-- [Robinhood](../r/robinhood.md): [https://www.robinhood.com](https://www.robinhood.com)
-- Betterment: [https://www.betterment.com](https://www.betterment.com)
-- Wealthfront: [https://www.wealthfront.com](https://www.wealthfront.com)
-- SoFi: [https://www.sofi.com](https://www.sofi.com)
-- [eToro](../e/etoro.md): [https://www.etoro.com](https://www.etoro.com)
-- ZuluTrade: [https://www.zulutrade.com](https://www.zulutrade.com)
+- TD [Ameritrade](../a/ameritrade.md)- [Robinhood](../r/robinhood.md)- Betterment- Wealthfront- SoFi- [eToro](../e/etoro.md)- ZuluTrade

@@ -39,7 +39,7 @@ RPM is often used in conjunction with the following metrics:
 
 Beyond internal evaluations, RPMs are used in various practical contexts:
 
-- **[Investor Relations](../i/investor_relations.md)**: Airlines frequently report RPM figures in their [earnings](../e/earnings.md) reports, as investors closely watch these metrics to gauge [financial health](../f/financial_health.md) and [operational efficiency](../o/operational_efficiency_in_trading.md).
+- **[company filings](../i/investor_relations.md)**: Airlines frequently report RPM figures in their [earnings](../e/earnings.md) reports, as investors closely watch these metrics to gauge [financial health](../f/financial_health.md) and [operational efficiency](../o/operational_efficiency_in_trading.md).
 - **Regulatory Filings**: Regulatory bodies, like the U.S. Department of Transportation, require airlines to submit RPM data for oversight and planning purposes.
 - **Strategic Planning**: Airlines use RPM data to make long-term strategic decisions, such as entering new markets or exiting underperforming routes.
 - **Competitive Analysis**: RPM data, when compared against [industry](../i/industry.md) averages or competitors, provides crucial insights into [market](../m/market.md) positioning and [competitive advantage](../c/competitive_advantage.md).
@@ -60,8 +60,7 @@ Automated systems driven by algorithms now adjust prices in real-time based on R
 
 ### Case Study: Delta Airlines
 
-[Delta](../d/delta.md) Airlines provides a [robust](../r/robust.md) example of RPM implementation. They regularly publish RPM data on their [investor relations](../i/investor_relations.md) page:
-- [Delta Airlines Investor Relations](https://ir.delta.com)
+[Delta](../d/delta.md) Airlines provides a [robust](../r/robust.md) example of RPM implementation. They regularly publish RPM data on their [company filings](../i/investor_relations.md) page:
 
 Their RPM metrics are showcased in quarterly and annual reports, [offering](../o/offering.md) [transparency](../t/transparency.md) to investors and laying the foundation for strategic [business](../b/business.md) decisions.
 

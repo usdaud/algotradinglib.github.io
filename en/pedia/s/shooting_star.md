@@ -65,8 +65,8 @@ Several trading software and platforms assist in identifying and analyzing Shoot
 ## References
 
 To learn more about Shooting Stars and their application:
-- [Investopedia - Shooting Star Candlestick Definition](https://www.investopedia.com/terms/s/shootingstar.asp)
-- [TradingView - Candle Patterns](https://www.tradingview.com)
-- [MetaTrader 4](https://www.metatrader4.com)
+- Investopedia - Shooting Star Candlestick Definition
+- TradingView - Candle Patterns
+- MetaTrader 4
 
 Understanding the Shooting Star pattern and its implications equips traders with the knowledge to make informed decisions, enhancing their ability to navigate [market](../m/market.md) complexities effectively.

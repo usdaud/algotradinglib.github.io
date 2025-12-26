@@ -43,11 +43,11 @@ During the 2008 [financial crisis](../f/financial_crisis.md), many mutual funds 
 
 Several companies provide sophisticated tools and solutions to manage [redemption](../r/redemption.md) [risk](../r/risk.md) and other forms of [financial risk](../f/financial_risk.md):
 
-- **BlackRock**: One of the largest [asset management](../a/asset_management.md) firms globally, [offering](../o/offering.md) comprehensive [risk management](../r/risk_management.md) services through its Aladdin platform. [Visit BlackRock](https://www.blackrock.com)
-- **State Street Global Advisors**: Known for its advanced investment solutions and [risk management](../r/risk_management.md) strategies. [Visit State Street Global Advisors](https://www.ssga.com)
-- **[Morningstar](../m/morningstar.md)**: Provides extensive research and [risk analysis](../r/risk_analysis.md) to help [fund](../f/fund.md) managers understand and mitigate [redemption](../r/redemption.md) risks. [Visit Morningstar](https://www.morningstar.com)
-- **Moody’s Analytics**: Offers [risk management](../r/risk_management.md) software and services that can be pivotal in assessing and managing [redemption](../r/redemption.md) [risk](../r/risk.md). [Visit Moody’s Analytics](https://www.moodysanalytics.com)
-- **RiskMetrics Group (acquired by MSCI)**: A leader in [risk management](../r/risk_management.md) tools and analytics. [Visit MSCI](https://www.msci.com)
+- **BlackRock**: One of the largest [asset management](../a/asset_management.md) firms globally, [offering](../o/offering.md) comprehensive [risk management](../r/risk_management.md) services through its Aladdin platform. Visit BlackRock
+- **State Street Global Advisors**: Known for its advanced investment solutions and [risk management](../r/risk_management.md) strategies. Visit State Street Global Advisors
+- **[Morningstar](../m/morningstar.md)**: Provides extensive research and [risk analysis](../r/risk_analysis.md) to help [fund](../f/fund.md) managers understand and mitigate [redemption](../r/redemption.md) risks. Visit Morningstar
+- **Moody’s Analytics**: Offers [risk management](../r/risk_management.md) software and services that can be pivotal in assessing and managing [redemption](../r/redemption.md) [risk](../r/risk.md). Visit Moody’s Analytics
+- **RiskMetrics Group (acquired by MSCI)**: A leader in [risk management](../r/risk_management.md) tools and analytics. Visit MSCI
 
 ## Algorithmic Trading and Redemption Risk
 

@@ -13,8 +13,8 @@ A [grant](../g/grant.md) [deed](../d/deed.md) typically includes several essenti
 3. **Conveyance Language**: This is the operative part of the [deed](../d/deed.md) where the [grantor](../g/grantor.md) explicitly states their intention to transfer the property to the [grantee](../g/grantee.md). Typical language includes phrases like "grants and conveys."
 
 4. **Warranties and Assurances**: The [grant](../g/grant.md) [deed](../d/deed.md) contains specific assurances from the [grantor](../g/grantor.md) to the [grantee](../g/grantee.md). These assurances typically include:
-   - A promise that the [grantor](../g/grantor.md) holds clear title to the property.
-   - A declaration that there are no undisclosed encumbrances or claims against the property, except as stated in the [deed](../d/deed.md).
+ - A promise that the [grantor](../g/grantor.md) holds clear title to the property.
+ - A declaration that there are no undisclosed encumbrances or claims against the property, except as stated in the [deed](../d/deed.md).
 
 5. **Consideration**: This section details the [value](../v/value.md) exchanged for the property, typically the purchase price, although the consideration could also be something of [value](../v/value.md) other than [money](../m/money.md).
 

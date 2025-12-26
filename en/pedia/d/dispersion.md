@@ -42,16 +42,16 @@ The [mean absolute deviation](../m/mean_absolute_deviation.md) measures the aver
 Understanding the dispersion of [asset](../a/asset.md) prices and returns is crucial in [algorithmic trading](../a/accountability.md) for several reasons:
 
 1. **Strategy Selection:**
-   - High Dispersion: Suitable for strategies that thrive in volatile markets like [scalping](../s/scalping.md) or [momentum trading](../m/momentum_trading.md).
-   - Low Dispersion: More appropriate for mean-reversion strategies where prices are expected to revert to the mean.
+ - High Dispersion: Suitable for strategies that thrive in volatile markets like [scalping](../s/scalping.md) or [momentum trading](../m/momentum_trading.md).
+ - Low Dispersion: More appropriate for mean-reversion strategies where prices are expected to revert to the mean.
 
 2. **[Risk Management](../r/risk_management.md):**
-   - [Stop-Loss Orders](../s/stop-loss_orders.md): Dispersion analysis helps in setting appropriate stop-loss levels to control [risk](../r/risk.md).
-   - [Position Sizing](../p/position_sizing.md): Adjusting the size of trades based on the dispersion of returns to manage [risk](../r/risk.md) exposure.
+ - [Stop-Loss Orders](../s/stop-loss_orders.md): Dispersion analysis helps in setting appropriate stop-loss levels to control [risk](../r/risk.md).
+ - [Position Sizing](../p/position_sizing.md): Adjusting the size of trades based on the dispersion of returns to manage [risk](../r/risk.md) exposure.
 
 3. **Evaluating Back-tests:**
-   - Dispersion analysis of historical data is essential in evaluating the robustness of a back-tested [trading strategy](../t/trading_strategy.md).
-   - Helps identify periods of high [volatility](../v/volatility.md) which may affect the performance of a [trading strategy](../t/trading_strategy.md).
+ - Dispersion analysis of historical data is essential in evaluating the robustness of a back-tested [trading strategy](../t/trading_strategy.md).
+ - Helps identify periods of high [volatility](../v/volatility.md) which may affect the performance of a [trading strategy](../t/trading_strategy.md).
 
 ## Practical Applications
 
@@ -86,15 +86,11 @@ A [trader](../t/trader.md) notices that the implied [volatility](../v/volatility
 Several financial companies and platforms provide tools and services for dispersion analysis. Notable ones include:
 
 - **[Bloomberg](../b/bloomberg.md):** A comprehensive financial data platform that offers various analytics tools, including those for measuring dispersion.
-  [Bloomberg](https://www.bloomberg.com/)
 
 - **[FactSet](../f/factset.md):** Provides data and analytics for financial professionals, including tools for dispersion analysis.
-  [FactSet](https://www.factset.com/)
 
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/accountability.md) platform that supports dispersion analysis and [backtesting](../b/backtesting.md) of strategies.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/accountability.md) platform that supports dispersion analysis and [backtesting](../b/backtesting.md) of strategies.
 
 - **Kensho:** An analytics platform that offers tools for [financial analysis](../f/financial_analysis.md), including dispersion metrics.
-  [Kensho](https://www.kensho.com/)
 
 In conclusion, dispersion is a fundamental concept in [financial markets](../f/financial_market.md) that plays a critical role in [algorithmic trading](../a/accountability.md). By understanding and measuring dispersion, traders can develop more effective [trading strategies](../t/trading_strategies.md), manage [risk](../r/risk.md) better, and enhance their overall performance in the [market](../m/market.md). The various methods of measuring dispersion, such as variance, [standard deviation](../s/standard_deviation.md), and interquartile [range](../r/range.md), [offer](../o/offer.md) unique insights into the behavior of [asset](../a/asset.md) prices and returns, making them indispensable tools for any algorithmic [trader](../t/trader.md).

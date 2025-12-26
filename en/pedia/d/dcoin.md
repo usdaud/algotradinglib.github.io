@@ -118,4 +118,4 @@ To keep users updated on significant events, Dcoin features a dedicated news sec
 
 In conclusion, Dcoin stands out as a comprehensive and user-friendly cryptocurrency [exchange](../e/exchange.md) platform. Its focus on [robust](../r/robust.md) [security](../s/security.md), a wide [range](../r/range.md) of trading tools, competitive [fee](../f/fee.md) structures, and additional services like staking, IEOs, and OTC trading make it a versatile platform for any level of [trader](../t/trader.md). Its commitment to user education and community engagement further positions it as a preferred destination for digital [asset](../a/asset.md) trading.
 
-For more detailed information or to start trading, please visit the official Dcoin website at [Dcoin](https://www.dcoin.com).
+For more detailed information or to start trading, please

@@ -1,6 +1,6 @@
 # Kondratieff Wave Analysis
 
-Kondratieff [Wave Analysis](../w/wave_analysis.md) is a concept rooted in economic theory, particularly the study of long-term [economic cycles](../e/economic_cycles.md). Named after the Russian [economist](../e/economist.md) Nikolai Kondratieff, who first introduced the concept in the 1920s, this analysis posits that capitalist economies experience long-term cycles of boom and bust, typically lasting between 40 to 60 years. These cycles are known as "[Kondratieff Waves](../k/kondratieff_waves.md)" or "K-Waves". 
+Kondratieff [Wave Analysis](../w/wave_analysis.md) is a concept rooted in economic theory, particularly the study of long-term [economic cycles](../e/economic_cycles.md). Named after the Russian [economist](../e/economist.md) Nikolai Kondratieff, who first introduced the concept in the 1920s, this analysis posits that capitalist economies experience long-term cycles of boom and bust, typically lasting between 40 to 60 years. These cycles are known as "[Kondratieff Waves](../k/kondratieff_waves.md)" or "K-Waves".
 
 ## Origins and Background
 Nikolai Kondratieff (also spelled Kondratiev) was a Soviet [economist](../e/economist.md) during the early 20th century. His most significant contribution to economic theory was his identification and description of these long waves in economic activity. Despite political pressures and his eventual imprisonment, Kondratieff's work has had a lasting impact on economic theory and [financial analysis](../f/financial_analysis.md).
@@ -31,7 +31,7 @@ Kondratieff identified several waves in the historical and economic record:
 
 4. **Fourth Wave (1940s - 1980s)**: Post-World War II reconstruction, the rise of [consumerism](../c/consumerism.md), and advancements in electronics and petrochemicals defined the fourth wave.
 
-5. **Fifth Wave (1980s - 2020s)**: This wave highlights the rapid development of information and communication technologies, the digital revolution, and [globalization](../g/globalization.md). 
+5. **Fifth Wave (1980s - 2020s)**: This wave highlights the rapid development of information and communication technologies, the digital revolution, and [globalization](../g/globalization.md).
 
 ## Factors Driving Kondratieff Waves
 
@@ -79,6 +79,6 @@ Incorporating Kondratieff [Wave Analysis](../w/wave_analysis.md) into financial 
 
 For further information on advanced financial tools and analysis methods, visit reputable sources such as:
 
-- [Bloomberg](https://www.bloomberg.com/)
-- [Reuters](https://www.reuters.com/)
-- [Financial Times](https://www.ft.com/)
+- Bloomberg
+- Reuters
+- Financial Times

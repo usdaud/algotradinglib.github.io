@@ -60,7 +60,7 @@ HKEX operates its trading sessions in two parts: a morning session from 9:30 AM 
 
 ### Order Types and Execution
 
-The [exchange](../e/exchange.md) offers various [order types](../o/order_types_in_trading.md), including limit orders, [market](../m/market.md) orders, and stop orders. Advanced trading mechanisms such as [dark pools](../d/dark_pools.md) and [algorithmic trading](../a/accountability.md) are also supported. 
+The [exchange](../e/exchange.md) offers various [order types](../o/order_types_in_trading.md), including limit orders, [market](../m/market.md) orders, and stop orders. Advanced trading mechanisms such as [dark pools](../d/dark_pools.md) and [algorithmic trading](../a/algorithmic_trading.md) are also supported.
 
 ### Clearing and Settlement
 
@@ -114,6 +114,6 @@ Ongoing efforts to enhance [market efficiency](../m/market_efficiency.md) includ
 
 HKEX is also focusing on sustainability and environmental, social, and governance (ESG) factors. The [exchange](../e/exchange.md) encourages [listed](../l/listed.md) companies to adopt sustainable practices and report their ESG performance, aligning with global trends toward responsible [investing](../i/investing.md).
 
-For more information, please visit the official [HKEX website](https://www.hkex.com.hk/).
+
 
 By examining these various facets of the Hong Kong Stock [Exchange](../e/exchange.md), we can appreciate its integral role in global [finance](../f/finance.md), its dynamic [market](../m/market.md) structure, and its forward-looking initiatives aimed at fostering growth and innovation. Whether you're an [investor](../i/investor.md), a company looking to list, or a financial professional, understanding HKEX's operations and regulations is crucial for navigating this significant financial [market](../m/market.md).

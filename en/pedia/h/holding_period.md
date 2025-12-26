@@ -1,6 +1,6 @@
 # Holding Period
 
-The concept of holding period is fundamental in [financial markets](../f/financial_market.md), particularly in the context of [algorithmic trading](../a/accountability.md) (algotrading). It refers to the [duration](../d/duration.md) for which an [investor](../i/investor.md) holds a particular [asset](../a/asset.md) before selling it. The holding period can [range](../r/range.md) from seconds to years, depending on the [investment strategy](../i/investment_strategy.md) and objectives. In algotrading, the holding period is primarily influenced by the [underlying](../u/underlying.md) [trading strategy](../t/trading_strategy.md), which could be anything from high-frequency trading (HFT) to long-term investment strategies.
+The concept of holding period is fundamental in [financial markets](../f/financial_market.md), particularly in the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading). It refers to the [duration](../d/duration.md) for which an [investor](../i/investor.md) holds a particular [asset](../a/asset.md) before selling it. The holding period can [range](../r/range.md) from seconds to years, depending on the [investment strategy](../i/investment_strategy.md) and objectives. In algotrading, the holding period is primarily influenced by the [underlying](../u/underlying.md) [trading strategy](../t/trading_strategy.md), which could be anything from high-frequency trading (HFT) to long-term investment strategies.
 
 ## Definition and Types of Holding Period
 
@@ -34,7 +34,7 @@ In many jurisdictions, [taxation](../t/taxation.md) rules differ based on the ho
 
 ### High-Frequency Trading (HFT)
 
-HFT algorithms are designed for extremely short holding periods, often in the [range](../r/range.md) of milliseconds to seconds. These algorithms aim to [capitalize](../c/capitalize.md) on minute price differentials across markets or exploit [market](../m/market.md) inefficiencies. Companies such as [Citadel Securities](https://www.citadelsecurities.com/) and [Virtu Financial](https://www.virtu.com/) specialize in high-frequency trading. The algorithms used in HFT require state-of-the-art technology and high-speed data feeds to execute trades rapidly.
+HFT algorithms are designed for extremely short holding periods, often in the [range](../r/range.md) of milliseconds to seconds. These algorithms aim to [capitalize](../c/capitalize.md) on minute price differentials across markets or exploit [market](../m/market.md) inefficiencies. Companies such as Citadel Securities and Virtu Financial specialize in high-frequency trading. The algorithms used in HFT require state-of-the-art technology and high-speed data feeds to execute trades rapidly.
 
 ### Momentum Trading
 
@@ -42,7 +42,7 @@ HFT algorithms are designed for extremely short holding periods, often in the [r
 
 ### Trend Following
 
-[Trend following](../t/trend_following.md) algorithms have holding periods that can [range](../r/range.md) from medium to long-term. These algorithms identify the primary direction of the [market](../m/market.md) and take positions aligned with that direction. The holding period typically depends on how long the [trend](../t/trend.md) persists. Companies like [AQR Capital Management](https://www.aqr.com/) use such strategies extensively in their [quantitative trading](../q/quantitative_trading.md) models.
+[Trend following](../t/trend_following.md) algorithms have holding periods that can [range](../r/range.md) from medium to long-term. These algorithms identify the primary direction of the [market](../m/market.md) and take positions aligned with that direction. The holding period typically depends on how long the [trend](../t/trend.md) persists. Companies like AQR Capital Management use such strategies extensively in their [quantitative trading](../q/quantitative_trading.md) models.
 
 ### Mean Reversion
 
@@ -50,7 +50,7 @@ HFT algorithms are designed for extremely short holding periods, often in the [r
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) algorithms usually operate within short to medium-term holding periods. These strategies involve pairs or baskets of assets and [capitalize](../c/capitalize.md) on the statistical relationships between them. The holding periods are generally short but can extend depending on the reversion speed of the statistical [distribution](../d/distribution.md). [Two Sigma](https://www.twosigma.com/) is a well-known [firm](../f/firm.md) utilizing statistical [arbitrage](../a/arbitrage.md) in their [trading models](../t/trading_models.md).
+Statistical [arbitrage](../a/arbitrage.md) algorithms usually operate within short to medium-term holding periods. These strategies involve pairs or baskets of assets and [capitalize](../c/capitalize.md) on the statistical relationships between them. The holding periods are generally short but can extend depending on the reversion speed of the statistical [distribution](../d/distribution.md). Two Sigma is a well-known [firm](../f/firm.md) utilizing statistical [arbitrage](../a/arbitrage.md) in their [trading models](../t/trading_models.md).
 
 ## Selecting the Right Holding Period
 
@@ -72,7 +72,7 @@ The technological [infrastructure](../i/infrastructure.md) available to a [trade
 
 ## Holding Period and Backtesting
 
-[Backtesting](../b/backtesting.md) is a critical component of developing any [algorithmic trading](../a/accountability.md) strategy. The holding period directly influences the [backtesting](../b/backtesting.md) process, requiring the [simulation](../s/simulation_in_trading.md) of trades over the intended [duration](../d/duration.md) to evaluate the strategy's effectiveness.
+[Backtesting](../b/backtesting.md) is a critical component of developing any [algorithmic trading](../a/algorithmic_trading.md) strategy. The holding period directly influences the [backtesting](../b/backtesting.md) process, requiring the [simulation](../s/simulation_in_trading.md) of trades over the intended [duration](../d/duration.md) to evaluate the strategy's effectiveness.
 
 ### Short-term Backtesting
 
@@ -88,4 +88,4 @@ Long-term [backtesting](../b/backtesting.md) uses data on a longer [time horizon
 
 ## Conclusion
 
-The holding period is a pivotal element in [algorithmic trading](../a/accountability.md), influencing [risk management](../r/risk_management.md), performance measurement, tax implications, and strategy development. By carefully selecting and managing the holding period, traders can optimize their strategies to align with [market](../m/market.md) conditions, technological capabilities, and investment goals. Understanding the nuances of holding periods in various [trading strategies](../t/trading_strategies.md) can provide a significant edge in the competitive world of algotrading.
+The holding period is a pivotal element in [algorithmic trading](../a/algorithmic_trading.md), influencing [risk management](../r/risk_management.md), performance measurement, tax implications, and strategy development. By carefully selecting and managing the holding period, traders can optimize their strategies to align with [market](../m/market.md) conditions, technological capabilities, and investment goals. Understanding the nuances of holding periods in various [trading strategies](../t/trading_strategies.md) can provide a significant edge in the competitive world of algotrading.

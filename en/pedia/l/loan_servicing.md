@@ -1,6 +1,6 @@
 # Loan Servicing
 
-[Loan](../l/loan.md) servicing refers to the administrative aspects of a [loan](../l/loan.md) from the time the proceeds are dispersed to the borrower until the [loan](../l/loan.md) is paid off. This process is intricate and involves an array of tasks including the collection of payments, sending statements, managing the [escrow](../e/escrow.md) accounts, ensuring the borrower adheres to the [loan](../l/loan.md) terms, and mitigating delinquency. [Loan](../l/loan.md) servicers can be banks, financial institutions, or designated third-party service providers. 
+[Loan](../l/loan.md) servicing refers to the administrative aspects of a [loan](../l/loan.md) from the time the proceeds are dispersed to the borrower until the [loan](../l/loan.md) is paid off. This process is intricate and involves an array of tasks including the collection of payments, sending statements, managing the [escrow](../e/escrow.md) accounts, ensuring the borrower adheres to the [loan](../l/loan.md) terms, and mitigating delinquency. [Loan](../l/loan.md) servicers can be banks, financial institutions, or designated third-party service providers.
 
 ## Key Functions of Loan Servicing
 
@@ -31,20 +31,16 @@
 Several companies specialize in providing [loan](../l/loan.md) servicing solutions. These companies [offer](../o/offer.md) [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) and technology to manage [loan](../l/loan.md) servicing efficiently.
 
 1. **Quicken Loans**
-   - Website: [Quicken Loans](https://www.quickenloans.com/)
-   - One of the largest [mortgage](../m/mortgage.md) lenders in the United States, known for its technology-driven [mortgage](../m/mortgage.md) servicing platform.
+ - One of the largest [mortgage](../m/mortgage.md) lenders in the United States, known for its technology-driven [mortgage](../m/mortgage.md) servicing platform.
 
 2. **Wells Fargo**
-   - Website: [Wells Fargo](https://www.wellsfargo.com/)
-   - A major player in [loan](../l/loan.md) servicing across [multiple](../m/multiple.md) [loan](../l/loan.md) types including mortgages, autos, and personal loans.
+ - A major player in [loan](../l/loan.md) servicing across [multiple](../m/multiple.md) [loan](../l/loan.md) types including mortgages, autos, and personal loans.
 
 3. **Navient**
-   - Website: [Navient](https://www.navient.com/)
-   - Specializes in student [loan](../l/loan.md) servicing and provides [education loan](../e/education_loan.md) management solutions.
+ - Specializes in student [loan](../l/loan.md) servicing and provides [education loan](../e/education_loan.md) management solutions.
 
 4. **Ocwen Financial [Corporation](../c/corporation.md)**
-   - Website: [Ocwen Financial Corporation](https://www.ocwen.com/)
-   - Provides residential and commercial [mortgage](../m/mortgage.md) servicing, known for handling distressed properties.
+ - Provides residential and commercial [mortgage](../m/mortgage.md) servicing, known for handling distressed properties.
 
 ## Technology and Automation in Loan Servicing
 

@@ -69,7 +69,7 @@ A [hedge fund](../h/hedge_fund.md) using high-frequency trading (HFT) algorithms
 Incorporating cycle indicators can enhance [risk management](../r/risk_management.md) strategies by signaling potential [market](../m/market.md) reversals or periods of low [volatility](../v/volatility.md).
 
 ### Example:
-Investment firms, such as Renaissance Technologies [Renaissance Technologies](https://www.rentec.com/Home.action), use [quantitative models](../q/quantitative_models.md) that may include cycle indicators to manage portfolio risks and maximize returns.
+Investment firms, such as Renaissance Technologies Renaissance Technologies, use [quantitative models](../q/quantitative_models.md) that may include cycle indicators to manage portfolio risks and maximize returns.
 
 ### Backtesting
 Cycle indicators can be backtested on historical data to determine their efficacy. This allows traders to refine their strategies and optimize the performance of their [trading algorithms](../t/trading_algorithms.md).
@@ -102,38 +102,38 @@ Use [adaptive algorithms](../a/adaptive_algorithms.md) that recalibrate periodic
 ### Step-by-Step Guide
 
 1. **Data Collection**:
-   - Gather historical price data from reliable sources such as [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md).
+ - Gather historical price data from reliable sources such as [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md).
 2. **Preprocessing**:
-   - Clean the data to eliminate anomalies and [gaps](../g/gap.md).
+ - Clean the data to eliminate anomalies and [gaps](../g/gap.md).
 3. **[Cycle Analysis](../c/cycle_analysis.md)**:
-   - Apply cycle indicators like Fourier Transform or MESA to identify dominant cycles.
+ - Apply cycle indicators like Fourier Transform or MESA to identify dominant cycles.
 4. **Strategy Development**:
-   - Develop [trading strategies](../t/trading_strategies.md) based on identified cycles, including entry and exit points.
+ - Develop [trading strategies](../t/trading_strategies.md) based on identified cycles, including entry and exit points.
 5. **[Backtesting](../b/backtesting.md)**:
-   - Test the strategies on historical data to determine their effectiveness.
+ - Test the strategies on historical data to determine their effectiveness.
 6. **[Optimization](../o/optimization.md)**:
-   - Fine-tune parameters to improve performance without [overfitting](../o/overfitting.md).
+ - Fine-tune parameters to improve performance without [overfitting](../o/overfitting.md).
 7. **Implementation**:
-   - Integrate strategies into an [algorithmic trading](../a/algorithmic_trading.md) system for real-time [execution](../e/execution.md).
+ - Integrate strategies into an [algorithmic trading](../a/algorithmic_trading.md) system for real-time [execution](../e/execution.md).
 8. **Monitoring and Adjustment**:
-   - Continuously monitor performance and adjust strategies based on [market](../m/market.md) feedback.
+ - Continuously monitor performance and adjust strategies based on [market](../m/market.md) feedback.
 
 ### Software Tools and Platforms
 
 Several [software tools](../s/software_tools_for_trading.md) [offer](../o/offer.md) modules for incorporating cycle indicators in [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
 1. **MATLAB**:
-   - Provides comprehensive tools for [financial analysis](../f/financial_analysis.md), including Fourier analysis and other cycle detection methods.
+ - Provides comprehensive tools for [financial analysis](../f/financial_analysis.md), including Fourier analysis and other cycle detection methods.
 
 2. **Python Libraries**:
-   - Libraries like NumPy, pandas, and SciPy can be used for [cycle analysis](../c/cycle_analysis.md).
-   - TA-Lib for commonly used [technical analysis](../t/technical_analysis.md) indicators.
+ - Libraries like NumPy, pandas, and SciPy can be used for [cycle analysis](../c/cycle_analysis.md).
+ - TA-Lib for commonly used [technical analysis](../t/technical_analysis.md) indicators.
 
-3. **[QuantConnect](../q/quantconnect.md)**:
-   - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading with integration for cycle indicators.
+3. **[StockSharp](../s/stocksharp.md)**:
+ - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading with integration for cycle indicators.
 
 ## Conclusion
 
 Cycle indicators are invaluable tools in the arsenal of algorithmic traders, [offering](../o/offering.md) unique insights into [market](../m/market.md) behavior through the identification of recurring patterns. While they pose certain challenges, careful implementation, [backtesting](../b/backtesting.md), and monitoring can significantly improve the efficacy of [trading strategies](../t/trading_strategies.md). Understanding and leveraging these cycles can provide a competitive edge, leading to better decision-making and potentially higher returns.
 
-By staying abreast of advances in [cycle analysis](../c/cycle_analysis.md) and integrating [robust](../r/robust.md) indicators into [algorithmic trading](../a/algorithmic_trading.md) systems, traders can navigate markets more effectively, capitalizing on the rhythmic ebb and flow of financial data.
+By staying abreast of advances in [cycle analysis](../c/cycle_analysis.md) and integrating [robust](../r/robust.md) indicators into [algorithmic trading](../a/algorithmic_trading.md) systems, traders can navigate markets more effectively, capitalizing on the rhythmic ebb and flow of financial data.

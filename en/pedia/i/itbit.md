@@ -1,6 +1,8 @@
 # itBit
 
-itBit is a financial services company that operates a digital [asset](../a/asset.md) [trading platform](../t/trading_platform.md) and provides [blockchain](../b/blockchain_in_trading.md)-based financial services. Launched in 2012, itBit is one of the oldest institutional-grade [Bitcoin](../b/bitcoin.md) exchanges and is known for its focus on regulatory compliance and [security](../s/security.md). The platform offers a suite of services including spot trading for [Bitcoin](../b/bitcoin.md), custody services, and [over-the-counter (OTC) trading](../o/over-the-counter_(otc)_trading.md).
+> **Note:** The itBit exchange has been fully integrated into Paxos infrastructure. New users should access Paxos services directly at paxos.com.
+
+itBit was a financial services company that operated a digital [asset](../a/asset.md) [trading platform](../t/trading_platform.md) and provided [blockchain](../b/blockchain_in_trading.md)-based financial services. Launched in 2012, itBit was one of the oldest institutional-grade [Bitcoin](../b/bitcoin.md) exchanges, known for its focus on regulatory compliance and [security](../s/security.md). The platform offered services including spot trading for [Bitcoin](../b/bitcoin.md), custody services, and [over-the-counter (OTC) trading](../o/over-the-counter_(otc)_trading.md). Its services are now provided through Paxos.
 
 ## Overview
 
@@ -40,4 +42,3 @@ itBit has established itself as a reputable player in the digital [asset](../a/a
 
 itBit stands out in the cryptocurrency landscape due to its emphasis on regulatory compliance, [security](../s/security.md), and institutional-grade services. With a [range](../r/range.md) of offerings including spot trading, custody, and OTC trading, it caters to both retail and institutional clients. As the cryptocurrency [market](../m/market.md) continues to evolve, itBit remains a reliable and trusted platform for digital [asset](../a/asset.md) trading and management.
 
-For more information, visit [itBit's official website](https://www.itbit.com/).

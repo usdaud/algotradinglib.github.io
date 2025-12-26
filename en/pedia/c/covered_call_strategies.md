@@ -17,7 +17,7 @@ Let's consider an [investor](../i/investor.md) who owns 100 [shares](../s/shares
 #### Possible Outcomes
 
 1. **Stock price remains below $55**: The option expires worthless, the [investor](../i/investor.md) keeps the [premium](../p/premium.md), and retains the [shares](../s/shares.md). They could continue to write another [call option](../c/call_option.md) for the next expiration period.
-   
+
 2. **Stock price rises above $55**: The option gets exercised. The [investor](../i/investor.md) sells the [shares](../s/shares.md) at $55 each, making a [profit](../p/profit.md) from the price movement (from $50 to $55) plus the [premium](../p/premium.md) received.
 
 3. **Stock price moves slightly above $55 right before expiration**: The [investor](../i/investor.md) may face [early exercise](../e/early_exercise.md) of the call [options](../o/options.md) depending on the [market sentiment](../m/market_sentiment.md) and time left to expiration, still leading to a [profit](../p/profit.md) but with possible early loss of [shares](../s/shares.md).
@@ -25,7 +25,7 @@ Let's consider an [investor](../i/investor.md) who owns 100 [shares](../s/shares
 ## Benefits of Covered Call Strategies
 
 1. **[Income](../i/income.md) Generation**: The primary advantage is the ability to generate additional [income](../i/income.md) from the premiums received by selling the call [options](../o/options.md), which can cushion the potential declines in the [asset](../a/asset.md)'s price.
-   
+
 2. **Downside Protection**: While the strategy does not [offer](../o/offer.md) complete protection against a price drop, the premiums collected can [offset](../o/offset.md) some of the losses, providing a slight [hedge](../h/hedge.md).
 
 3. **Target Price Selling**: This strategy aligns with the [investor](../i/investor.md)'s willingness to sell the [underlying asset](../u/underlying_asset.md) at a higher price. Should the [market price](../m/market_price.md) reach the [strike price](../s/strike_price.md), the [investor](../i/investor.md) profits both from the share price increase and the option premiums.
@@ -80,11 +80,11 @@ Enhanced covered calls involve adding further [options](../o/options.md) strateg
 
 ### Broker Platforms
 
-Modern brokerage platforms like [Interactive Brokers](https://www.interactivebrokers.com), [TD Ameritrade](https://www.tdameritrade.com), and [E*TRADE](https://us.etrade.com) [offer](../o/offer.md) [robust](../r/robust.md) tools for implementing and managing [covered call](../c/covered_call.md) strategies. These tools provide analytics, screening, and automatic [execution](../e/execution.md) features to aid investors.
+Modern brokerage platforms like Interactive Brokers, TD Ameritrade, and E*TRADE [offer](../o/offer.md) [robust](../r/robust.md) tools for implementing and managing [covered call](../c/covered_call.md) strategies. These tools provide analytics, screening, and automatic [execution](../e/execution.md) features to aid investors.
 
 ### Analytical Software
 
-Software solutions like [OptionsPlay](https://www.optionsplay.com) and [OptionVue](https://www.optionvue.com) are specialized for [options](../o/options.md) analysis, providing in-depth data and insights that help investors optimize their [covered call](../c/covered_call.md) strategies.
+Software solutions like OptionsPlay and OptionVue are specialized for [options](../o/options.md) analysis, providing in-depth data and insights that help investors optimize their [covered call](../c/covered_call.md) strategies.
 
 ### Case Studies and Performance
 
@@ -92,4 +92,4 @@ Professional investment firms and individual investors frequently share their [c
 
 ## Conclusion
 
-[Covered call](../c/covered_call.md) strategies [offer](../o/offer.md) a pragmatic approach for investors looking to generate additional [income](../i/income.md) from their portfolio while holding onto their [long-term investments](../l/long-term_investments.md). Balancing potential gains with inherent risks, and employing tactical adjustments, can optimize outcomes. With the support of advanced trading platforms and analytical tools, covered calls remain a relevant and widely utilized strategy in [options](../o/options.md) trading for diverse [market](../m/market.md) participants.
+[Covered call](../c/covered_call.md) strategies [offer](../o/offer.md) a pragmatic approach for investors looking to generate additional [income](../i/income.md) from their portfolio while holding onto their [long-term investments](../l/long-term_investments.md). Balancing potential gains with inherent risks, and employing tactical adjustments, can optimize outcomes. With the support of advanced trading platforms and analytical tools, covered calls remain a relevant and widely utilized strategy in [options](../o/options.md) trading for diverse [market](../m/market.md) participants.

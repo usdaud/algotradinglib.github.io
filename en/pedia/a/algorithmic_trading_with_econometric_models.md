@@ -67,7 +67,6 @@ One of the major benefits of [algorithmic trading](../a/algorithmic_trading.md) 
 
 Econometric models allow for rigorous [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md) using historical data. This helps in optimizing the algorithms before they are deployed in real-time trading, ensuring they are both effective and reliable.
 
-Challenges and Limitations
 ---------------------------
 ### Model Risk
 
@@ -81,11 +80,10 @@ The effectiveness of econometric models depends on the quality of the data used.
 
 [Financial markets](../f/financial_market.md) are subject to different regimes and [structural breaks](../s/structural_breaks_in_trading.md), which can affect the performance of [trading algorithms](../t/trading_algorithms.md). Econometric models may need to be frequently recalibrated to adapt to changing [market](../m/market.md) conditions.
 
-Conclusion
 -----------
 [Algorithmic trading](../a/algorithmic_trading.md), when enhanced by econometric models, offers a [robust](../r/robust.md) framework for making informed trading decisions. By leveraging these models, traders can improve the accuracy of their predictions, manage risks more efficiently, reduce costs, and optimize their [trading strategies](../t/trading_strategies.md). However, it is essential to be cognizant of the challenges and limitations, such as [model risk](../m/model_risk.md) and data quality, to maximize the benefits of this sophisticated trading approach.
 
 For further reading and resources on [algorithmic trading](../a/algorithmic_trading.md):
-- [Algorithmic Trading Resources by QuantInsti](https://www.quantinsti.com/)
-- [High-Frequency Trading Strategies by Sigma Trading](https://www.sigmastocktrading.com/high-frequency-trading-strategy/)
-- [Financial Econometrics and Empirical Asset Pricing by Princeton University](https://pu.edu/financial-econometrics)
+- Algorithmic Trading Resources by QuantInsti
+- High-Frequency Trading Strategies by Sigma Trading
+- Financial Econometrics and Empirical Asset Pricing by Princeton University

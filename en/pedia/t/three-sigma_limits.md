@@ -1,6 +1,6 @@
 # Three-Sigma Limits
 
-Three-Sigma Limits, or three standard deviations limits, is a statistical concept used broadly in [finance](../f/finance.md), particularly in [risk management](../r/risk_management.md), [quality control](../q/quality_control.md), and [trading strategies](../t/trading_strategies.md) including [algorithmic trading](../a/accountability.md).
+Three-Sigma Limits, or three standard deviations limits, is a statistical concept used broadly in [finance](../f/finance.md), particularly in [risk management](../r/risk_management.md), [quality control](../q/quality_control.md), and [trading strategies](../t/trading_strategies.md) including [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition of Three-Sigma Limits
 
@@ -26,12 +26,12 @@ Three-sigma limits are commonly used in [finance](../f/finance.md) for [risk man
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), three-sigma limits can be deployed to design [trading strategies](../t/trading_strategies.md) that react intelligently to [market anomalies](../m/market_anomalies.md). For example:
+In [algorithmic trading](../a/algorithmic_trading.md), three-sigma limits can be deployed to design [trading strategies](../t/trading_strategies.md) that react intelligently to [market anomalies](../m/market_anomalies.md). For example:
 - **[Mean Reversion](../m/mean_reversion.md) Strategy**: If a stock's price deviates more than three standard deviations from the moving average, the algorithm could signal an opportunity to [trade](../t/trade.md) on the assumption that the price [will](../w/will.md) revert to the mean.
 - **[Bollinger Bands](../b/bollinger_band.md)**: [Bollinger Bands](../b/bollinger_band.md) are a common [technical analysis](../t/technical_analysis.md) tool, comprising:
-  - A moving average.
-  - An upper band at three sigmas above the moving average.
-  - A lower band at three sigmas below the moving average.
+ - A moving average.
+ - An upper band at three sigmas above the moving average.
+ - A lower band at three sigmas below the moving average.
 
 These bands help traders to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
@@ -43,7 +43,7 @@ Though not [finance](../f/finance.md)-specific, three-sigma limits originate fro
 
 ### Calculations of Mean and Standard Deviation
 
-For a given data set with values \(X = [x_1, x_2, ..., x_n]\), here's how to compute the mean (\(\mu\)) and [standard deviation](../s/standard_deviation.md) (\(\sigma\)):
+For a given data set with values \(X = [x_1, x_2,..., x_n]\), here's how to compute the mean (\(\mu\)) and [standard deviation](../s/standard_deviation.md) (\(\sigma\)):
 
 - The mean (\(\mu\)) is calculated by:
 \[ \mu = \frac{1}{n} \sum_{i=1}^{n} x_i \]
@@ -53,7 +53,7 @@ For a given data set with values \(X = [x_1, x_2, ..., x_n]\), here's how to com
 
 ### Analysis of Return Distribution
 
-Assume a stock's returns are \(R = [r_1, r_2, ..., r_n]\). Using the same formulae, we calculate the mean return \(\mu_R\) and [standard deviation](../s/standard_deviation.md) \(\sigma_R\):
+Assume a stock's returns are \(R = [r_1, r_2,..., r_n]\). Using the same formulae, we calculate the mean return \(\mu_R\) and [standard deviation](../s/standard_deviation.md) \(\sigma_R\):
 \[ \mu_R = \frac{1}{n} \sum_{i=1}^{n} r_i \]
 \[ \sigma_R = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (r_i - \mu_R)^2} \]
 
@@ -89,11 +89,9 @@ print("Lower Limit (3-Sigma):", lower_limit)
 
 ### Trading Firms
 
-Several [algorithmic trading](../a/accountability.md) firms use statistical techniques, including three-sigma limits, to build models and [trading signals](../t/trading_signals.md). These include:
+Several [algorithmic trading](../a/algorithmic_trading.md) firms use statistical techniques, including three-sigma limits, to build models and [trading signals](../t/trading_signals.md). These include:
 
-- **Renaissance Technologies** (https://www.rentec.com)
-- **Two Sigma** (https://www.twosigma.com)
-
+- **Renaissance Technologies** - **Two Sigma**
 These firms [leverage](../l/leverage.md) extensive historical data and high-performance computing to optimize their [trading strategies](../t/trading_strategies.md) based on statistical attributes of [asset](../a/asset.md) prices.
 
 ### Risk Management in Banks
@@ -120,4 +118,4 @@ The International Organization for Standardization (ISO) uses principles of thre
 
 ## Conclusion
 
-Three-sigma limits are a fundamental statistical tool with diverse applications in [finance](../f/finance.md), from [risk management](../r/risk_management.md) to [algorithmic trading](../a/accountability.md). When aligned with other [risk management](../r/risk_management.md) and trading tools, three-sigma limits can provide valuable insights and guardrails for financial decision-making. However, practitioners should be aware of their assumptions and limitations, ensuring they are used judiciously alongside other comprehensive analytical techniques.
+Three-sigma limits are a fundamental statistical tool with diverse applications in [finance](../f/finance.md), from [risk management](../r/risk_management.md) to [algorithmic trading](../a/algorithmic_trading.md). When aligned with other [risk management](../r/risk_management.md) and trading tools, three-sigma limits can provide valuable insights and guardrails for financial decision-making. However, practitioners should be aware of their assumptions and limitations, ensuring they are used judiciously alongside other comprehensive analytical techniques.

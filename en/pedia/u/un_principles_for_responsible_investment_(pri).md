@@ -87,9 +87,9 @@ The PRI actively engages in policy and advocacy efforts to promote a regulatory 
 Despite the progress made, there are still challenges in the widespread adoption of the PRI and ESG integration. These challenges include:
 
 - **Data Quality and Availability:** Ensuring access to high-quality, comparable, and reliable ESG data remains a challenge. Inconsistent reporting standards and varying levels of [disclosure](../d/disclosure.md) by companies can hinder effective ESG integration.
-  
+
 - **[Greenwashing](../g/greenwashing.md):** As responsible investment gains popularity, there is a [risk](../r/risk.md) of "[greenwashing](../g/greenwashing.md)," where entities make misleading claims about the sustainability of their products or practices. Addressing [greenwashing](../g/greenwashing.md) requires [robust](../r/robust.md) frameworks and verification processes.
-  
+
 - **Balancing Short-Term and Long-Term Goals:** Investors often face the challenge of balancing short-term [financial performance](../f/financial_performance.md) with long-term ESG goals. Aligning incentives and [performance metrics](../p/performance_metrics.md) with sustainable investment objectives is crucial.
 
 ### Future Directions
@@ -108,6 +108,6 @@ Looking ahead, the PRI aims to further advance responsible investment by focusin
 
 ## Conclusion
 
-The United Nations Principles for Responsible Investment (PRI) represents a transformative initiative in the world of [finance](../f/finance.md) and investment. By promoting the integration of ESG factors, the PRI has helped shape a more sustainable and responsible investment landscape. The principles have driven significant changes in investment practices, corporate behavior, and regulatory frameworks. As the PRI continues to grow and evolve, it [will](../w/will.md) play a crucial role in advancing responsible investment and contributing to a more sustainable and equitable global [economy](../e/economy.md). For more information, you can visit their [official website](https://www.unpri.org/).
+The United Nations Principles for Responsible Investment (PRI) represents a transformative initiative in the world of [finance](../f/finance.md) and investment. By promoting the integration of ESG factors, the PRI has helped shape a more sustainable and responsible investment landscape. The principles have driven significant changes in investment practices, corporate behavior, and regulatory frameworks. As the PRI continues to grow and evolve, it [will](../w/will.md) play a crucial role in advancing responsible investment and contributing to a more sustainable and equitable global [economy](../e/economy.md).
 
 This document outlines the essence, significance, implementation, challenges, and future directions of the PRI, demonstrating its impact and importance in the global investment community.

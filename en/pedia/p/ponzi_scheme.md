@@ -89,8 +89,8 @@ Ponzi schemes are dangerous fraudulent investment operations that promise high r
 
 For those looking to delve deeper, the following resources [offer](../o/offer.md) extensive information on Ponzi schemes:
 
-- [The Securities and Exchange Commission (SEC)](https://www.sec.gov)
-- [Investopedia's Guide on Ponzi Schemes](https://www.investopedia.com/terms/p/ponzischeme.asp)
-- [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org)
+- The Securities and Exchange Commission (SEC)
+- Investopedia's Guide on Ponzi Schemes
+- Financial Industry Regulatory Authority (FINRA)
 
 Understanding the intricacies of Ponzi schemes can significantly assist in safeguarding personal and institutional investments from fraudsters who employ these deceptive tactics.

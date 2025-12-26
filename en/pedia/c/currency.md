@@ -41,4 +41,3 @@
 
 ## Conclusion
 Currency is a fundamental component of modern economies, facilitating [trade](../t/trade.md), investment, and economic stability. Understanding the different types of currency, their functions, and the factors affecting their [value](../v/value.md) is crucial for participating in the global [economy](../e/economy.md). With ongoing advancements in digital and cryptocurrency, the landscape of currency is continually evolving, presenting new opportunities and challenges.
-

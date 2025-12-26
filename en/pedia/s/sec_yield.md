@@ -24,7 +24,7 @@ The formula for SEC [Yield](../y/yield.md) can be represented as:
 
 Consider a [bond fund](../b/bond_fund.md) that has accrued $5,000 in [interest](../i/interest.md) payments over a 30-day period, with average daily net assets of $1,000,000 and annual operating expenses of 0.5%.
 
-1. Calculate the net [investment income](../i/investment_income.md): 
+1. Calculate the net [investment income](../i/investment_income.md):
 \[ \text{Net [Investment Income](../i/investment_income.md)} = \text{[Accrued Interest](../a/accrued_interest.md)} - \text{Expenses} = 5000 - (1000000 \times \frac{0.5}{100})/12 = 5000 - 416.67 = 4583.33 \]
 
 2. Determine the [yield](../y/yield.md) by dividing the net [investment income](../i/investment_income.md) by the average daily net assets:
@@ -78,4 +78,4 @@ Since SEC [Yield](../y/yield.md) deducts expenses, funds with higher [expense](.
 
 The SEC [Yield](../y/yield.md) is a crucial financial metric for investors looking to evaluate and compare [bond](../b/bond.md) mutual funds and ETFs. Its standardized, transparent calculation method levels the playing field and provides a reliable measure of [income](../i/income.md) generation potential. While it comes with certain limitations, such as its short-term view and [expense](../e/expense.md) sensitivity, the SEC [Yield](../y/yield.md) remains a cornerstone in the toolkit of fixed-[income](../i/income.md) investors.
 
-For further information on specific funds and their SEC Yields, potential investors can visit the websites of financial institutions such as Vanguard [here](https://investor.vanguard.com/home/) or Fidelity [here](https://www.fidelity.com/).
+For further information on specific funds and their SEC Yields, potential investors can visit the websites of financial institutions such as Vanguard here or Fidelity here.

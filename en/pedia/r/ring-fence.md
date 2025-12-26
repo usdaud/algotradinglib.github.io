@@ -11,9 +11,9 @@ Below, we delve into various aspects of ring-fencing, examining its implementati
 The core objective of ring-fencing is to protect assets or funds from fiscal distress that may impact other parts of the [business](../b/business.md) or organization. By isolating these assets, entities can:
 
 1. **Ensure Continuity of Essential Services:** Particularly relevant in public utilities like energy and water services, where ring-fencing helps ensure these critical services continue unabated irrespective of the [financial health](../f/financial_health.md) of the [parent company](../p/parent_company.md).
-   
+
 2. **Compliance with Regulatory Requirements:** Regulatory bodies often mandate ring-fencing to protect consumers and maintain [market](../m/market.md) stability. For example, financial institutions may be required to ring-fence [retail banking](../r/retail_banking.md) operations from more volatile [investment banking](../i/investment_banking.md) activities.
-   
+
 3. **Maintain [Investor](../i/investor.md) Confidence:** By protecting specific assets or operations, businesses can assure investors that certain funds are safeguarded against the risks posed by other ventures.
 
 ### Legislation and Regulatory Requirements
@@ -103,7 +103,7 @@ As businesses continue to operate on a global scale, cross-border considerations
 Ring-fencing is a vital financial practice that helps protect specific assets or operations from broader risks within an organization. While it comes with its challenges, including increased costs and administrative complexity, the benefits in terms of stability, consumer protection, and [risk](../r/risk.md) mitigation make it an essential strategy for many businesses and sectors. As regulatory environments and technological advancements continue to evolve, ring-fencing [will](../w/will.md) remain a crucial tool for safeguarding financial and operational integrity in an increasingly complex global [market](../m/market.md).
 
 For a practical implementation and deeper understanding, you may visit the websites of notable institutions implementing ring-fencing:
-- [Barclays Ring-Fencing](https://home.barclays/ring-fencing/)
-- [HSBC Ring-Fencing](https://www.hsbc.co.uk/keeping-your-money-safe/ring-fencing/)
+- Barclays Ring-Fencing
+- HSBC Ring-Fencing
 
 These resources provide detailed insights into how these institutions have structured their ring-fencing frameworks and the measures they have implemented to comply with regulatory requirements.

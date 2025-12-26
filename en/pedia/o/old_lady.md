@@ -18,7 +18,7 @@ During these centuries, the [Bank](../b/bank.md) played a crucial role in suppor
 
 From managing the financial fallout of World War I and II to overseeing the transition from the [Gold Standard](../g/gold_standard.md), the [Bank](../b/bank.md) of England has continually adapted to new economic challenges. The 1997 decision to [grant](../g/grant.md) it operational independence in setting [monetary policy](../m/monetary_policy.md) was a significant milestone, placing it among the most influential central banks globally.
 
-For more information about the [Bank](../b/bank.md) of England and its current role, you can visit [their official website](https://www.bankofengland.co.uk).
+For more information about the [Bank](../b/bank.md) of England and its current role,
 
 ## Major Functions and Responsibilities
 
@@ -49,7 +49,7 @@ The [Bank](../b/bank.md) acts as the banker to the government, managing its acco
 
 ### Research and Data Analysis
 
-The [Bank](../b/bank.md) carries out extensive macroeconomic and financial research to inform its policy decisions. This includes studies on [inflation](../i/inflation.md) trends, housing markets, [financial risk](../f/financial_risk.md), and other [economic indicators](../e/economic_indicators.md). 
+The [Bank](../b/bank.md) carries out extensive macroeconomic and financial research to inform its policy decisions. This includes studies on [inflation](../i/inflation.md) trends, housing markets, [financial risk](../f/financial_risk.md), and other [economic indicators](../e/economic_indicators.md).
 
 ### International Collaboration
 
@@ -93,4 +93,4 @@ As digital transactions and financial systems become increasingly integrated, th
 
 By embracing innovation, maintaining rigorous oversight, and adapting to global economic challenges, "The Old Lady of Threadneedle Street" remains a pivotal institution in the UK's [financial system](../f/financial_system.md), continuing to influence global central banking.
 
-For further insights into the [Bank](../b/bank.md) of England’s initiatives and policies, visit their [official website](https://www.bankofengland.co.uk).
+For further insights into the [Bank](../b/bank.md) of England’s initiatives and policies,

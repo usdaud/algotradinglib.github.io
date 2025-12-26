@@ -38,7 +38,7 @@ Analyzing LFCF provides insight into several critical factors of a company's [fi
 
 ## Comparison with Unlevered Free Cash Flow (UFCF)
 
-While Levered Free [Cash Flow](../c/cash_flow.md) accounts for [interest](../i/interest.md) and [principal](../p/principal.md) repayments, Unlevered Free [Cash Flow](../c/cash_flow.md) (UFCF) measures the [cash flow](../c/cash_flow.md) to the [firm](../f/firm.md) before taking into account any [debt](../d/debt.md)-related expenses. UFCF represents the cash available to both [debt](../d/debt.md) and [equity](../e/equity.md) holders and is used in enterprise [valuation models](../v/valuation_models.md). 
+While Levered Free [Cash Flow](../c/cash_flow.md) accounts for [interest](../i/interest.md) and [principal](../p/principal.md) repayments, Unlevered Free [Cash Flow](../c/cash_flow.md) (UFCF) measures the [cash flow](../c/cash_flow.md) to the [firm](../f/firm.md) before taking into account any [debt](../d/debt.md)-related expenses. UFCF represents the cash available to both [debt](../d/debt.md) and [equity](../e/equity.md) holders and is used in enterprise [valuation models](../v/valuation_models.md).
 
 ### Formula for UFCF
 
@@ -66,11 +66,11 @@ By projecting these components forward, a comprehensive view of LFCF over the fo
 
 ## Importance in Valuation
 
-Levered Free [Cash Flow](../c/cash_flow.md) is pivotal in [valuation](../v/valuation.md), particularly in [equity valuation models](../e/equity_valuation_models.md) like the Levered Discounted [Cash Flow](../c/cash_flow.md) (LDCF) model. The LDCF model discounts future LFCF at the [cost of equity](../c/cost_of_equity.md) to arrive at the [present value](../p/present_value.md) of [equity](../e/equity.md). 
+Levered Free [Cash Flow](../c/cash_flow.md) is pivotal in [valuation](../v/valuation.md), particularly in [equity valuation models](../e/equity_valuation_models.md) like the Levered Discounted [Cash Flow](../c/cash_flow.md) (LDCF) model. The LDCF model discounts future LFCF at the [cost of equity](../c/cost_of_equity.md) to arrive at the [present value](../p/present_value.md) of [equity](../e/equity.md).
 
 ## Real-World Applications and Examples
 
-LFCF is used extensively in various financial analyses and reports, from corporate [financial planning](../f/financial_planning.md) to investment research. 
+LFCF is used extensively in various financial analyses and reports, from corporate [financial planning](../f/financial_planning.md) to investment research.
 
 ### Example in Practice
 

@@ -19,9 +19,9 @@ A Synthetic Put is constructed using a combination of a long position in the [un
 ### Trading Mechanics
 
 - **Long Position in the [Underlying](../u/underlying.md)**
-  - Buying the actual stock or [asset](../a/asset.md).
+ - Buying the actual stock or [asset](../a/asset.md).
 - **Long [Call Option](../c/call_option.md)**
-  - Purchasing a [call option](../c/call_option.md) with a specific [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md).
+ - Purchasing a [call option](../c/call_option.md) with a specific [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md).
 
 ### Cash Flow Comparison
 
@@ -80,7 +80,7 @@ For portfolio managers, using Synthetic Puts programmatically adjusts for downsi
 
 ## Case Example of a Fintech Using Synthetic Positions
 
-### Company: [AlgoTrader](https://www.algotrader.com/)
+### Company: AlgoTrader
 
 AlgoTrader, a prominent fintech [firm](../f/firm.md), leverages advanced algorithms to employ strategies involving synthetic positions, including Synthetic Puts. Their [trading platform](../t/trading_platform.md) allows users to deploy synthetic strategies seamlessly, providing tools for [backtesting](../b/backtesting.md), [execution](../e/execution.md), and monitoring.
 
@@ -96,4 +96,4 @@ Proper [risk](../r/risk.md) protocols, including [stress testing](../s/stress_te
 
 ## Conclusion
 
-A Long Synthetic or Synthetic Put offers traders a versatile and powerful tool for managing [risk](../r/risk.md), speculative trading, and optimizing [portfolio performance](../p/portfolio_performance.md). While this strategy requires a sophisticated understanding of [options](../o/options.md) and [underlying](../u/underlying.md) assets, it can provide substantial benefits when used correctly. The blend of cost [efficiency](../e/efficiency.md), flexibility, and strategic exposure it offers makes it an invaluable component of the modern financial toolbox, particularly in the realm of [algorithmic trading](../a/accountability.md) and fintech innovations.
+A Long Synthetic or Synthetic Put offers traders a versatile and powerful tool for managing [risk](../r/risk.md), speculative trading, and optimizing [portfolio performance](../p/portfolio_performance.md). While this strategy requires a sophisticated understanding of [options](../o/options.md) and [underlying](../u/underlying.md) assets, it can provide substantial benefits when used correctly. The blend of cost [efficiency](../e/efficiency.md), flexibility, and strategic exposure it offers makes it an invaluable component of the modern financial toolbox, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md) and fintech innovations.

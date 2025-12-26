@@ -7,20 +7,20 @@ A Point of [Sale](../s/sale.md) (POS) system is a combination of hardware and so
 A comprehensive POS system typically includes the following components:
 
 1. **Hardware**:
-   - **POS Terminal**: The main computer or tablet where the [transaction](../t/transaction.md) is processed.
-   - **Cash Drawer**: A secure drawer for storing cash, checks, and coins.
-   - **Barcode Scanner**: A device that reads product codes to quickly add items to a [sale](../s/sale.md).
-   - **Receipt Printer**: Prints [receipts](../r/receipt.md) for customers after a [transaction](../t/transaction.md).
-   - **[Payment](../p/payment.md) Processor**: Card readers and other devices that accept various forms of [payment](../p/payment.md) ([credit](../c/credit.md), [debit](../d/debit.md), mobile payments).
-   - **[Customer](../c/customer.md) Display**: A screen that shows [transaction](../t/transaction.md) details to the [customer](../c/customer.md).
-   - **Scale**: Used in grocery stores or markets to weigh products.
+ - **POS Terminal**: The main computer or tablet where the [transaction](../t/transaction.md) is processed.
+ - **Cash Drawer**: A secure drawer for storing cash, checks, and coins.
+ - **Barcode Scanner**: A device that reads product codes to quickly add items to a [sale](../s/sale.md).
+ - **Receipt Printer**: Prints [receipts](../r/receipt.md) for customers after a [transaction](../t/transaction.md).
+ - **[Payment](../p/payment.md) Processor**: Card readers and other devices that accept various forms of [payment](../p/payment.md) ([credit](../c/credit.md), [debit](../d/debit.md), mobile payments).
+ - **[Customer](../c/customer.md) Display**: A screen that shows [transaction](../t/transaction.md) details to the [customer](../c/customer.md).
+ - **Scale**: Used in grocery stores or markets to weigh products.
 
 2. **Software**:
-   - **[Inventory Management](../i/inventory_management.md)**: Tracks stock levels, orders, and reorders products.
-   - **Sales Reporting**: Provides detailed reports on sales, [revenue](../r/revenue.md), and [customer](../c/customer.md) behavior.
-   - **[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM)**: Stores [customer](../c/customer.md) data and purchase history.
-   - **Employee Management**: Tracks employee working hours, schedules, and performance.
-   - **Loyalty Programs**: Manages [customer](../c/customer.md) loyalty incentives and rewards.
+ - **[Inventory Management](../i/inventory_management.md)**: Tracks stock levels, orders, and reorders products.
+ - **Sales Reporting**: Provides detailed reports on sales, [revenue](../r/revenue.md), and [customer](../c/customer.md) behavior.
+ - **[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM)**: Stores [customer](../c/customer.md) data and purchase history.
+ - **Employee Management**: Tracks employee working hours, schedules, and performance.
+ - **Loyalty Programs**: Manages [customer](../c/customer.md) loyalty incentives and rewards.
 
 ## Benefits of Using a POS System
 
@@ -38,15 +38,15 @@ Implementing a POS system offers numerous advantages:
 POS systems can be categorized based on their deployment and functionality:
 
 1. **On-Premises POS**: Traditional POS solutions installed on local servers. Suitable for businesses with stable, high-[volume](../v/volume.md) transactions.
-   
+
 2. **Cloud-Based POS**: Modern systems hosted on remote servers, accessible via the internet. Ideal for businesses looking for [scalability](../s/scalability.md) and flexibility. Examples include:
-   - [Square](https://squareup.com)
-   - [Shopify POS](https://www.shopify.com/pos)
-   - [Lightspeed](https://www.lightspeedhq.com)
+ - Square
+ - Shopify POS
+ - Lightspeed
 
 3. **Mobile POS**: Portable systems that use tablets or smartphones to process transactions. Perfect for small businesses, pop-up shops, and events. Examples include:
-   - [Square Reader](https://squareup.com/us/en/hardware/reader)
-   - [Toast Go](https://pos.toasttab.com/products/go)
+ - Square Reader
+ - Toast Go
 
 4. **Self-Service Kiosks**: Allow customers to scan items and make payments without cashier assistance. Commonly used in fast food restaurants and self-checkout lanes in retail stores.
 

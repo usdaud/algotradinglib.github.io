@@ -103,15 +103,12 @@ Integrating [valuation](../v/valuation.md) techniques into [algorithmic trading]
 ## Firms Specializing in Valuation for Algorithmic Trading
 
 ### SAC Capital Advisors
-- **Website**: [SAC Capital Advisors](https://www.saccapital.com)
 - **Overview**: They [leverage](../l/leverage.md) both fundamental and quantitative [valuation](../v/valuation.md) techniques to drive their [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
-- **Website**: [Renaissance Technologies](https://www.rentec.com)
 - **Overview**: Known for their Medallion [Fund](../f/fund.md), they utilize extensive [quantitative models](../q/quantitative_models.md), including proprietary [valuation](../v/valuation.md) techniques, to consistently achieve superior returns.
 
 ### Citadel Securities
-- **Website**: [Citadel Securities](https://www.citadelsecurities.com)
 - **Overview**: Focuses on high-frequency trading and uses advanced [valuation](../v/valuation.md) methods as part of their algorithmic strategies.
 
 ## Challenges and Risks

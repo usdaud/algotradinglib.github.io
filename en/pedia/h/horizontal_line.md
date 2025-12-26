@@ -1,6 +1,6 @@
 # Horizontal Line
 
-A horizontal line in trading, particularly in the context of [algorithmic trading](../a/accountability.md) (often abbreviated as algo-trading or automated trading), is a crucial tool used in [technical analysis](../t/technical_analysis.md) to signify levels of [support and resistance](../s/support_and_resistance.md). These levels are essential for making trading decisions as they help traders understand potential [market](../m/market.md) reversals or continuations, thereby enabling more informed decision-making. To [gain](../g/gain.md) a deep understanding of horizontal lines, we need to explore various aspects such as their definition, how they are used in trading, their importance, how to draw them, and their limitations.
+A horizontal line in trading, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md) (often abbreviated as algo-trading or automated trading), is a crucial tool used in [technical analysis](../t/technical_analysis.md) to signify levels of [support and resistance](../s/support_and_resistance.md). These levels are essential for making trading decisions as they help traders understand potential [market](../m/market.md) reversals or continuations, thereby enabling more informed decision-making. To [gain](../g/gain.md) a deep understanding of horizontal lines, we need to explore various aspects such as their definition, how they are used in trading, their importance, how to draw them, and their limitations.
 
 ## Definition
 
@@ -24,7 +24,7 @@ Horizontal lines help in identifying [market](../m/market.md) trends. When price
 
 ### Breakouts
 
-A horizontal line is also crucial for recognizing breakouts. When the price breaks through a support or resistance level, it often signals a new [trend](../t/trend.md) direction, leading to potential trading opportunities. 
+A horizontal line is also crucial for recognizing breakouts. When the price breaks through a support or resistance level, it often signals a new [trend](../t/trend.md) direction, leading to potential trading opportunities.
 
 ### Risk Management
 
@@ -33,18 +33,18 @@ By using horizontal lines, traders can set their stop-loss and take-[profit](../
 ## Drawing Horizontal Lines
 
 1. **[Historical Data Analysis](../h/historical_data_analysis.md)**: Review the price chart to identify areas where the price has repeatedly reversed or stalled.
-  
+
 2. **Price Peaks and Troughs**: Identify the peaks and troughs in the price chart. Peaks above the price form resistance lines, while troughs below the price form support lines.
-   
+
 3. **Consistency**: Ensure the selected points (peaks or troughs) are consistent and have a fair number of confirmations, which increases the reliability of the support or resistance level.
 
 ### Example Tools
 
-- **[TradingView](../t/tradingview.md)**: One popular tool for drawing horizontal lines is [TradingView](../t/tradingview.md). It provides easy-to-use drawing tools that traders can utilize to mark key levels on various time frames. Visit [TradingView](https://www.tradingview.com/) for more information.
-  
+- **[TradingView](../t/tradingview.md)**: One popular tool for drawing horizontal lines is [TradingView](../t/tradingview.md). It provides easy-to-use drawing tools that traders can utilize to mark key levels on various time frames. Visit TradingView for more information.
+
 ### Algorithmic Implementation
 
-In [algorithmic trading](../a/accountability.md), coding horizontal lines can involve writing scripts that automatically identify and draw these lines based on historical price data. For example, in Python, using libraries like pandas and numpy, one can create algorithms that identify [support and resistance](../s/support_and_resistance.md) levels.
+In [algorithmic trading](../a/algorithmic_trading.md), coding horizontal lines can involve writing scripts that automatically identify and draw these lines based on historical price data. For example, in Python, using libraries like pandas and numpy, one can create algorithms that identify [support and resistance](../s/support_and_resistance.md) levels.
 
 ```python
 [import](../i/import.md) pandas as pd
@@ -91,4 +91,4 @@ Horizontal lines can behave differently across various time frames. A support le
 
 ## Conclusion
 
-Horizontal lines are fundamental tools in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/accountability.md). By marking key levels of [support and resistance](../s/support_and_resistance.md), traders can [gain](../g/gain.md) substantial insights into [market dynamics](../m/market_dynamics.md), allowing them to make more informed and strategic trading decisions. However, it is essential to be aware of their limitations and combine them with other tools and indicators to develop a [robust](../r/robust.md) [trading strategy](../t/trading_strategy.md).
+Horizontal lines are fundamental tools in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). By marking key levels of [support and resistance](../s/support_and_resistance.md), traders can [gain](../g/gain.md) substantial insights into [market dynamics](../m/market_dynamics.md), allowing them to make more informed and strategic trading decisions. However, it is essential to be aware of their limitations and combine them with other tools and indicators to develop a [robust](../r/robust.md) [trading strategy](../t/trading_strategy.md).

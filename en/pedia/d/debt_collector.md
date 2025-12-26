@@ -31,7 +31,7 @@ The FDCPA is a fundamental U.S. law enacted in 1977 aimed at eliminating abusive
 
 ### Consumer Financial Protection Bureau (CFPB)
 
-The CFPB enforces regulations that impact [debt](../d/debt.md) collection practices, aiming to protect consumers by ensuring [debt](../d/debt.md) collectors operate within the boundaries of the law. 
+The CFPB enforces regulations that impact [debt](../d/debt.md) collection practices, aiming to protect consumers by ensuring [debt](../d/debt.md) collectors operate within the boundaries of the law.
 
 ### General Data Protection Regulation (GDPR)
 
@@ -43,7 +43,7 @@ Though primarily a data protection regulation in the [European Union](../e/europ
 
 ### Phone Calls and Letters
 
-Initial contact is often made via phone calls or letters, which serve as reminders to the debtor about their outstanding [obligations](../o/obligation.md). 
+Initial contact is often made via phone calls or letters, which serve as reminders to the debtor about their outstanding [obligations](../o/obligation.md).
 
 ### Payment Plans
 
@@ -93,13 +93,13 @@ Sensitive personal and financial information should be kept confidential and use
 
 Several companies dominate the [debt](../d/debt.md) collection [industry](../i/industry.md), [offering](../o/offering.md) a [range](../r/range.md) of services to both creditors and debtors:
 
-1. **Encore [Capital](../c/capital.md) Group**: A prominent [debt](../d/debt.md) buyer and collector, specializing in purchasing and managing unsecured consumer [debt](../d/debt.md). [Encore Capital Group](https://www.encorecapital.com/)
+1. **Encore [Capital](../c/capital.md) Group**: A prominent [debt](../d/debt.md) buyer and collector, specializing in purchasing and managing unsecured consumer [debt](../d/debt.md). Encore Capital Group
 
-2. **PRA Group**: A significant player in [debt](../d/debt.md) buying and collecting with a global footprint. [PRA Group](https://www.pragroup.com/)
+2. **PRA Group**: A significant player in [debt](../d/debt.md) buying and collecting with a global footprint. PRA Group
 
-3. **IC System**: Known for ethical and effective [debt](../d/debt.md) collection practices, focusing on healthcare, small [business](../b/business.md), and government sectors. [IC System](https://www.icsystem.com/)
+3. **IC System**: Known for ethical and effective [debt](../d/debt.md) collection practices, focusing on healthcare, small [business](../b/business.md), and government sectors. IC System
 
-4. **ConServe**: Specializes in education loans, government [debt](../d/debt.md), and commercial collections, [offering](../o/offering.md) a client-centric approach. [ConServe](https://www.conserve-arm.com/)
+4. **ConServe**: Specializes in education loans, government [debt](../d/debt.md), and commercial collections, [offering](../o/offering.md) a client-centric approach. ConServe
 
 ## Conclusion
 

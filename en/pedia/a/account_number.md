@@ -16,7 +16,7 @@ In [algorithmic trading](../a/accountability.md), where strategies are implement
 
 ### Brokerage Accounts
 
-[Algorithmic trading](../a/accountability.md) is heavily dependent on brokerage accounts, which are connected to electronic trading platforms. Each brokerage assigns a unique account number to traders, which is then used to access the [trading platform](../t/trading_platform.md) and execute trades. For example, leading brokerages like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) and TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com) provide their clients with account numbers upon registration. These numbers are crucial for linking the [brokerage services](../b/brokerage_services.md) with the [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/accountability.md) is heavily dependent on brokerage accounts, which are connected to electronic trading platforms. Each brokerage assigns a unique account number to traders, which is then used to access the [trading platform](../t/trading_platform.md) and execute trades. For example, leading brokerages like [Interactive Brokers](../i/interactive_brokers.md) ( and TD [Ameritrade](../a/ameritrade.md) ( provide their clients with account numbers upon registration. These numbers are crucial for linking the [brokerage services](../b/brokerage_services.md) with the [trading algorithms](../t/trading_algorithms.md).
 
 ### API Access
 
@@ -46,11 +46,11 @@ For effective performance analysis, all trades must be meticulously recorded and
 
 ### High-Frequency Trading Firms
 
-High-frequency trading (HFT) firms rely extensively [on account](../o/on_account.md) numbers to manage and execute trades. Companies like Virtu Financial (https://www.virtu.com) and Citadel Securities (https://www.citadelsecurities.com) execute millions of trades daily, and the use of unique account numbers allows these firms to maintain precise control over their trading activities and [risk management](../r/risk_management.md) processes.
+High-frequency trading (HFT) firms rely extensively [on account](../o/on_account.md) numbers to manage and execute trades. Companies like Virtu Financial ( and Citadel Securities ( execute millions of trades daily, and the use of unique account numbers allows these firms to maintain precise control over their trading activities and [risk management](../r/risk_management.md) processes.
 
 ### Retail Algorithmic Traders
 
-Individual or retail algorithmic traders also depend [on account](../o/on_account.md) numbers for their trading activities. For example, a [trader](../t/trader.md) using the automated [trading platform](../t/trading_platform.md) MetaTrader 4 (https://www.metatrader4.com) must connect their [broker](../b/broker.md)'s account using the provided account number. This connection ensures that the trades executed by their algorithms reflect in the right [trading account](../t/trading_account.md).
+Individual or retail algorithmic traders also depend [on account](../o/on_account.md) numbers for their trading activities. For example, a [trader](../t/trader.md) using the automated [trading platform](../t/trading_platform.md) MetaTrader 4 ( must connect their [broker](../b/broker.md)'s account using the provided account number. This connection ensures that the trades executed by their algorithms reflect in the right [trading account](../t/trading_account.md).
 
 ## Conclusion
 

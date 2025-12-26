@@ -56,9 +56,9 @@ Traders can incorporate the bullish engulfing pattern into [automated trading sy
 
 ### Example of Automated Systems
 Several companies provide platforms and tools for automated trading. Some popular ones include:
-1. **MetaTrader 4/5** - These platforms [offer](../o/offer.md) advanced charting tools and the ability to write custom [trading algorithms](../t/trading_algorithms.md) using the MQL language. [MetaTrader](https://www.metatrader4.com)
-2. **[TradeStation](../t/tradestation.md)** - Known for its [robust](../r/robust.md) trading tools and flexible scripting language (EasyLanguage), which allows traders to develop and test custom strategies. [TradeStation](https://www.tradestation.com)
-3. **[NinjaTrader](../n/ninjatrader.md)** - Offers a comprehensive [trading platform](../t/trading_platform.md) with tools for developing automated strategies. [NinjaTrader](https://www.ninjatrader.com)
+1. **MetaTrader 4/5** - These platforms [offer](../o/offer.md) advanced charting tools and the ability to write custom [trading algorithms](../t/trading_algorithms.md) using the MQL language. MetaTrader
+2. **[TradeStation](../t/tradestation.md)** - Known for its [robust](../r/robust.md) trading tools and flexible scripting language (EasyLanguage), which allows traders to develop and test custom strategies. TradeStation
+3. **[NinjaTrader](../n/ninjatrader.md)** - Offers a comprehensive [trading platform](../t/trading_platform.md) with tools for developing automated strategies. NinjaTrader
 
 ## Limitations and Risks
 While the bullish engulfing pattern can be a powerful tool, traders should be aware of its limitations and associated risks:
@@ -67,4 +67,4 @@ While the bullish engulfing pattern can be a powerful tool, traders should be aw
 3. **Over-Reliance:** Depending solely on the bullish engulfing pattern without considering other technical and fundamental factors can lead to poor trading decisions.
 
 ## Conclusion
-The bullish engulfing pattern is a widely recognized and valuable tool in [technical analysis](../t/technical_analysis.md) that can help traders identify potential reversals and entry points in the [market](../m/market.md). By understanding its characteristics, confirming with additional factors such as [volume](../v/volume.md), and integrating it into a comprehensive [trading strategy](../t/trading_strategy.md), traders can effectively utilize this pattern to enhance their [trading performance](../t/trading_performance.md). Nonetheless, it is crucial to remain aware of its limitations and use it in conjunction with other analysis techniques to manage [risk](../r/risk.md) and improve overall decision-making.
+The bullish engulfing pattern is a widely recognized and valuable tool in [technical analysis](../t/technical_analysis.md) that can help traders identify potential reversals and entry points in the [market](../m/market.md). By understanding its characteristics, confirming with additional factors such as [volume](../v/volume.md), and integrating it into a comprehensive [trading strategy](../t/trading_strategy.md), traders can effectively utilize this pattern to enhance their [trading performance](../t/trading_performance.md). Nonetheless, it is crucial to remain aware of its limitations and use it in conjunction with other analysis techniques to manage [risk](../r/risk.md) and improve overall decision-making.

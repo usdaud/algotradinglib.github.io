@@ -105,4 +105,4 @@ As global banking becomes more interconnected, there may be efforts to harmonize
 
 Regulation DD plays a critical role in safeguarding consumer interests by mandating full and clear [disclosure](../d/disclosure.md) of [deposit](../d/deposit.md) account terms. While it poses challenges for financial institutions in terms of compliance complexity and cost, the overarching benefit of promoting [transparency](../t/transparency.md) and informed decision-making cannot be understated. As financial services continue to evolve, ongoing updates and refinements to Regulation DD [will](../w/will.md) be essential in keeping up with the dynamic financial landscape and ensuring [robust](../r/robust.md) consumer protections.
 
-For more detailed information on Regulation DD directly from a regulatory source, you can refer to the [Federal Reserve's official page](https://www.federalreserve.gov/).
+For more detailed information on Regulation DD directly from a regulatory source,

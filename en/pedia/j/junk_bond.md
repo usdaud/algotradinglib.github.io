@@ -68,8 +68,8 @@ Mutual funds that specialize in high-[yield](../y/yield.md) bonds provide an acc
 ### Exchange-Traded Funds (ETFs)
 [High-yield bond](../h/high-yield_bond.md) ETFs [offer](../o/offer.md) another way to invest in junk bonds. These ETFs [trade](../t/trade.md) on stock exchanges and provide [liquidity](../l/liquidity.md) and flexibility for investors to buy and sell [shares](../s/shares.md) throughout the trading day. Examples include:
 
-- SPDR [Bloomberg](../b/bloomberg.md) Barclays High [Yield](../y/yield.md) [Bond ETF](../b/bond_etf.md) (JNK) [Link](https://www.ssga.com/us/en/institutional/etfs/funds/spdr-bloomberg-barclays-high-yield-bond-etf-jnk)
-- [iShares](../i/ishares.md) iBoxx $ High [Yield](../y/yield.md) [Corporate Bond](../c/corporate_bond.md) ETF (HYG) [Link](https://www.ishares.com/us/products/239565/ishares-iboxx-1-high-yield-corporate-bond-etf)
+- SPDR [Bloomberg](../b/bloomberg.md) Barclays High [Yield](../y/yield.md) [Bond ETF](../b/bond_etf.md) (JNK) Link
+- [iShares](../i/ishares.md) iBoxx $ High [Yield](../y/yield.md) [Corporate Bond](../c/corporate_bond.md) ETF (HYG) Link
 
 ## Historical Performance
 ### Returns and Volatility

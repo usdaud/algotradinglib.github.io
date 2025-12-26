@@ -7,7 +7,7 @@ Marginal benefit refers to the additional satisfaction or [utility](../u/utility
 ### Key Concepts
 
 1. **[Utility](../u/utility.md)**: This is the overall satisfaction or pleasure derived from consuming a good or service. [Utility](../u/utility.md) is often measured in hypothetical units called "utils" to help quantify the psychological satisfaction obtained.
-   
+
 2. **[Marginal Utility](../m/marginal_utility.md)**: This is the additional [utility](../u/utility.md) gained from consuming one more unit of a good or service.
 
 3. **[Law of Diminishing Marginal Utility](../l/law_of_diminishing_marginal_utility.md)**: As a person consumes more units of a good or service, the added satisfaction ([marginal utility](../m/marginal_utility.md)) from each additional unit tends to decrease. For example, the pleasure derived from eating one slice of pizza might be substantial, but by the fourth or fifth slice, the pleasure received from consuming more [will](../w/will.md) typically decline.
@@ -49,7 +49,7 @@ While marginal benefit pertains more to the consumer side, marginal [revenue](..
 ### Real-World Examples
 
 1. **Healthcare**: The benefit of vaccinating one more individual not only adds to personal health but also contributes to herd immunity, a larger societal benefit.
-   
+
 2. **Education**: Additional years of schooling provide more incremental knowledge and skills, enhancing lifetime [earnings](../e/earnings.md) potential and contributing to societal well-being.
 
 3. **Environmental Policies**: [Investing](../i/investing.md) in one more unit of pollution control may [yield](../y/yield.md) significant health benefits but may also have diminishing returns after reaching a certain threshold.
@@ -70,7 +70,7 @@ Fintech platforms often analyze the marginal benefit of each additional user or 
 
 ### Algo-Trading
 
-In [algorithmic trading](../a/accountability.md), the concept of marginal benefit can be applied in designing [trading strategies](../t/trading_strategies.md). Each additional [trade](../t/trade.md) executed by an algorithm may [yield](../y/yield.md) additional profits, but also incurs costs such as [transaction fees](../t/transaction_fees.md) and [market](../m/market.md) impact. Optimal strategy design aims to maximize net marginal benefits.
+In [algorithmic trading](../a/algorithmic_trading.md), the concept of marginal benefit can be applied in designing [trading strategies](../t/trading_strategies.md). Each additional [trade](../t/trade.md) executed by an algorithm may [yield](../y/yield.md) additional profits, but also incurs costs such as [transaction fees](../t/transaction_fees.md) and [market](../m/market.md) impact. Optimal strategy design aims to maximize net marginal benefits.
 
 ### Marginal Benefits in Corporate Finance
 
@@ -83,7 +83,7 @@ Corporations might consider the marginal benefits when making investment decisio
 1. **Perfectly Competitive Markets**: Marginal benefits align closely with [market](../m/market.md) prices.
 2. **Monopolies**: Marginal [revenue](../r/revenue.md) and hence marginal benefits might be influenced by the [monopolist](../m/monopolist.md)’s control over pricing.
 3. **Oligopolies**: Strategic interactions between firms affect marginal benefit calculations.
-   
+
 ### Consumer Surplus and Marginal Benefit
 
 [Consumer surplus](../c/consumer_surplus.md) is the difference between what consumers are willing to pay ([total utility](../t/total_utility.md) or total marginal benefits) and what they actually pay (total cost). Marginal benefit curves help in determining areas reflecting [consumer surplus](../c/consumer_surplus.md).

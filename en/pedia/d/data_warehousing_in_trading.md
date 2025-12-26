@@ -46,7 +46,7 @@ Ensuring the quality, [security](../s/security.md), and compliance of data is es
 ### 1. Enhanced Decision Making
 Data [warehousing](../w/warehousing.md) allows for the [aggregation](../a/aggregation.md) of large quantities of data in a structured manner, making it easier for traders and algorithm designers to make informed decisions.
 
-### 2. Improved Efficiency 
+### 2. Improved Efficiency
 With streamlined ETL processes and centralized data storage, time spent on data preparation is drastically reduced, enabling traders to focus more on strategy development and [execution](../e/execution.md).
 
 ### 3. Real-time Data Processing
@@ -77,27 +77,22 @@ The sensitive nature of trading data makes [security](../s/security.md) a paramo
 ### Snowflake
 Snowflake offers a cloud-based data [warehousing](../w/warehousing.md) solution that is highly scalable and supports a wide [range](../r/range.md) of data types.
 
-[Snowflake](https://www.snowflake.com)
 
 ### Amazon Redshift
 Amazon Redshift is a fully managed data warehouse service that allows for scalable storage and processing, ideal for significant trading datasets.
 
-[Amazon Redshift](https://aws.amazon.com/redshift/)
 
 ### Google BigQuery
 Google BigQuery is a serverless, highly scalable, and cost-effective multi-cloud data warehouse designed for [business](../b/business.md) agility.
 
-[Google BigQuery](https://cloud.google.com/bigquery)
 
 ### Microsoft Azure Synapse Analytics
 Previously known as Azure SQL Data Warehouse, Azure Synapse Analytics combines [big data](../b/big_data_in_trading.md) and data [warehousing](../w/warehousing.md), providing a comprehensive analytics service.
 
-[Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/)
 
 ### IBM Db2 Warehouse
 IBM Db2 Warehouse on Cloud delivers a fully managed private data warehouse service that provides built-in [predictive analytics](../p/predictive_analytics.md) capabilities.
 
-[IBM Db2 Warehouse](https://www.ibm.com/products/db2-warehouse)
 
 ## Future Trends
 

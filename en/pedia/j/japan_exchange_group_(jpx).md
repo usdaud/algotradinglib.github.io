@@ -1,6 +1,6 @@
 # Japan Exchange Group (JPX)
 
-Japan [Exchange](../e/exchange.md) Group, Inc. (JPX) is a prominent financial services company that operates [multiple](../m/multiple.md) securities exchanges in Japan. It was formed in January 2013 through the [merger](../m/merger.md) of the Tokyo Stock [Exchange](../e/exchange.md) Group, Inc. (TSE) and the Osaka Securities [Exchange](../e/exchange.md) Co., Ltd. (OSE). The primary objective of this [merger](../m/merger.md) was to enhance the competitiveness and [efficiency](../e/efficiency.md) of Japan's [capital markets](../c/capital_markets.md). JPX aims to provide a reliable, transparent, and efficient marketplace for the trading of various financial instruments, including [stocks](../s/stock.md), bonds, [derivatives](../d/derivatives.md), and commodities. The group's operations are expansive and play a critical role in the global financial ecosystem. For more information, you can visit their official website [here](https://www.jpx.co.jp/english/).
+Japan [Exchange](../e/exchange.md) Group, Inc. (JPX) is a prominent financial services company that operates [multiple](../m/multiple.md) securities exchanges in Japan. It was formed in January 2013 through the [merger](../m/merger.md) of the Tokyo Stock [Exchange](../e/exchange.md) Group, Inc. (TSE) and the Osaka Securities [Exchange](../e/exchange.md) Co., Ltd. (OSE). The primary objective of this [merger](../m/merger.md) was to enhance the competitiveness and [efficiency](../e/efficiency.md) of Japan's [capital markets](../c/capital_markets.md). JPX aims to provide a reliable, transparent, and efficient marketplace for the trading of various financial instruments, including [stocks](../s/stock.md), bonds, [derivatives](../d/derivatives.md), and commodities. The group's operations are expansive and play a critical role in the global financial ecosystem.
 
 ### Overview of Japan Exchange Group
 
@@ -87,4 +87,4 @@ JPX’s ecosystem includes a diverse [range](../r/range.md) of [market](../m/mar
 
 The Japan [Exchange](../e/exchange.md) Group is a central pillar of Japan's financial [market](../m/market.md) [infrastructure](../i/infrastructure.md), providing essential services that support the efficient operation and growth of the [market](../m/market.md). JPX's commitment to innovation, technology, and global collaboration helps maintain its competitive edge and ensures that it continues to meet the evolving needs of [market](../m/market.md) participants.
 
-For more detailed information about JPX, its markets, and services, visit the official JPX [website](https://www.jpx.co.jp/english/).
+For more detailed information about JPX, its markets, and services,

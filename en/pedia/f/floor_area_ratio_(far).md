@@ -1,6 +1,6 @@
 # Floor Area Ratio (FAR)
 
-Floor Area Ratio (FAR), also referred to as Floor Space [Index](../i/index_instrument.md) (FSI) in some regions, is a crucial metric used in urban planning and [real estate](../r/real_estate.md) development to define the intensity of land use. It is a ratio of a building's total floor area to the size of the piece of land upon which it is built. FAR is employed by municipalities to control the density of development, promote efficient land use, and shape the urban form, hence making it an essential [factor](../f/factor.md) in urban design, [real estate](../r/real_estate.md) [economics](../e/economics.md), and [zoning](../z/zoning.md) regulations. 
+Floor Area Ratio (FAR), also referred to as Floor Space [Index](../i/index_instrument.md) (FSI) in some regions, is a crucial metric used in urban planning and [real estate](../r/real_estate.md) development to define the intensity of land use. It is a ratio of a building's total floor area to the size of the piece of land upon which it is built. FAR is employed by municipalities to control the density of development, promote efficient land use, and shape the urban form, hence making it an essential [factor](../f/factor.md) in urban design, [real estate](../r/real_estate.md) [economics](../e/economics.md), and [zoning](../z/zoning.md) regulations.
 
 ## Definition and Calculation
 
@@ -17,7 +17,7 @@ For example, if a 10,000 square foot building is erected on a 5,000 square foot 
 
 FAR is used as a tool for urban planners and [real estate](../r/real_estate.md) developers to manage and design the built environment. It influences several aspects:
 
-1. **Density and Urban Form**: FAR helps in managing the density of developments. Lower FARs are typically found in suburban and rural areas to preserve [open](../o/open.md) space, while higher FARs indicate dense, urbanized areas. 
+1. **Density and Urban Form**: FAR helps in managing the density of developments. Lower FARs are typically found in suburban and rural areas to preserve [open](../o/open.md) space, while higher FARs indicate dense, urbanized areas.
 2. **[Infrastructure](../i/infrastructure.md) and Services**: Higher FAR values usually require an increase in [infrastructure](../i/infrastructure.md) and services, such as roads, sewage systems, water [supply](../s/supply.md), and public transportation.
 3. **[Zoning](../z/zoning.md) Regulations**: Municipalities use FAR to enforce [zoning](../z/zoning.md) regulations, ensuring that new developments are in line with the community’s growth goals and environmental capacities.
 4. **Aesthetic and Functional Quality**: Controlling building intensity through FAR can contribute to the aesthetic and functional quality of the built environment, preventing overcrowding and enhancing the [quality of life](../q/quality_of_life.md) for residents.
@@ -46,7 +46,7 @@ The application and regulation of FAR can differ greatly depending on the region
 Examining specific case studies can provide a deeper understanding of how FAR is utilized in practice:
 
 1. **New York City, USA**: With its high density and iconic skyline, New York City’s use of FAR is sophisticated and multi-faceted. The city’s [zoning](../z/zoning.md) resolution includes provisions for transferring development rights and bonuses for including public amenities.
-   
+
 2. **Mumbai, India**: Mumbai’s municipal [corporation](../c/corporation.md) employs FAR to control density, incentivizing high-rise residential and commercial developments in certain zones while preserving historical precincts.
 
 3. **Tokyo, Japan**: Tokyo’s approach to FAR incorporates seismic considerations and public safety, ensuring that buildings can withstand earthquakes while accommodating high population densities.
@@ -60,7 +60,7 @@ While FAR is a valuable tool, it is not without challenges and criticisms:
 1. **[Equity](../e/equity.md) Issues**: High FAR allowances in certain areas can lead to socio-economic disparities, with affluent areas having access to better facilities and [infrastructure](../i/infrastructure.md).
 2. **[Market](../m/market.md) Distortion**: Stringent FAR regulations may lead to increased property prices, limiting affordable housing [options](../o/options.md).
 3. **Implementation and Monitoring**: Effective monitoring and enforcement are essential to ensure compliance with FAR regulations, which can be resource-intensive.
-4. **Flexibility**: Rigid FAR limits may stifle creative urban design solutions and innovations in architecture. 
+4. **Flexibility**: Rigid FAR limits may stifle creative urban design solutions and innovations in architecture.
 
 ## Future Trends
 

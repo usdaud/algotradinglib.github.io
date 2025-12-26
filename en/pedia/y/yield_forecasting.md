@@ -65,16 +65,16 @@ Common [performance metrics](../p/performance_metrics.md) used to evaluate [yiel
 Companies like Renaissance Technologies, Citadel, and D.E. Shaw are known for employing advanced [yield forecasting techniques](../y/yield_forecasting_techniques.md) in their [trading strategies](../t/trading_strategies.md). These firms [leverage](../l/leverage.md) cutting-edge technologies and vast datasets to capture [market](../m/market.md) inefficiencies and generate superior returns.
 
 **For further reference:**
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Citadel](https://www.citadel.com/)
-- [D.E. Shaw Group](https://www.deshaw.com/)
+- Renaissance Technologies
+- Citadel
+- D.E. Shaw Group
 
 #### **Retail Trading Platforms**
 Retail platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) provide tools that enable individual traders and smaller firms to implement [yield](../y/yield.md) [forecasting](../f/forecasting.md) strategies in their [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 **For further reference:**
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpaca](https://alpaca.markets/)
+- QuantConnect
+- Alpaca
 
 ### Benefits and Challenges
 

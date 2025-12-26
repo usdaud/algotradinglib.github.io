@@ -1,6 +1,6 @@
 # Overbought
 
-Overbought is a term used in [financial markets](../f/financial_market.md) to describe a [security](../s/security.md) that has been traded at a high [price level](../p/price_level.md) and is expected to experience a price decline or a [correction](../c/correction.md). This condition occurs when the [security](../s/security.md)'s price has consistently increased over a sustained period or when it's trading at a [price level](../p/price_level.md) significantly higher than its [intrinsic value](../i/intrinsic_value.md). The concept is vital for traders as it helps in identifying potential [reversal](../r/reversal.md) points and making informed trading decisions. 
+Overbought is a term used in [financial markets](../f/financial_market.md) to describe a [security](../s/security.md) that has been traded at a high [price level](../p/price_level.md) and is expected to experience a price decline or a [correction](../c/correction.md). This condition occurs when the [security](../s/security.md)'s price has consistently increased over a sustained period or when it's trading at a [price level](../p/price_level.md) significantly higher than its [intrinsic value](../i/intrinsic_value.md). The concept is vital for traders as it helps in identifying potential [reversal](../r/reversal.md) points and making informed trading decisions.
 
 ## Characteristics of Overbought Conditions
 
@@ -55,7 +55,6 @@ Tesla, Inc. has been a stock that frequently enters overbought conditions. Analy
 - [Bollinger Bands](../b/bollinger_band.md): Stock frequently touches or exceeds the upper band.
 ```
 
-[Official Tesla Website](https://www.tesla.com)
 
 ## Automation in Identifying Overbought Conditions
 

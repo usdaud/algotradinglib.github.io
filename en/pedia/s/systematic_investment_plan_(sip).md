@@ -93,12 +93,12 @@ Hybrid mutual funds invest in a mix of [equity](../e/equity.md) and [debt](../d/
 Investments in SIP are subject to [capital gains tax](../c/capital_gains_tax.md), similar to lump sum investments. The [tax rate](../t/tax_rate.md) depends on the [holding period](../h/holding_period.md) and the type of [mutual fund](../m/mutual_fund.md):
 
 - **[Equity](../e/equity.md) Mutual Funds:**
-  - Short-Term [Capital](../c/capital.md) Gains (STCG): 15% tax if the [holding period](../h/holding_period.md) is less than 1 year.
-  - Long-Term [Capital](../c/capital.md) Gains (LTCG): 10% tax on gains exceeding ₹1 lakh if the [holding period](../h/holding_period.md) is more than 1 year.
+ - Short-Term [Capital](../c/capital.md) Gains (STCG): 15% tax if the [holding period](../h/holding_period.md) is less than 1 year.
+ - Long-Term [Capital](../c/capital.md) Gains (LTCG): 10% tax on gains exceeding ₹1 lakh if the [holding period](../h/holding_period.md) is more than 1 year.
 
 - **[Debt](../d/debt.md) Mutual Funds:**
-  - Short-Term [Capital](../c/capital.md) Gains (STCG): Taxed as per the [investor](../i/investor.md)’s [income tax](../i/income_tax.md) slab if the [holding period](../h/holding_period.md) is less than 3 years.
-  - Long-Term [Capital](../c/capital.md) Gains (LTCG): 20% tax with [indexation](../i/indexation.md) benefits if the [holding period](../h/holding_period.md) is more than 3 years.
+ - Short-Term [Capital](../c/capital.md) Gains (STCG): Taxed as per the [investor](../i/investor.md)’s [income tax](../i/income_tax.md) slab if the [holding period](../h/holding_period.md) is less than 3 years.
+ - Long-Term [Capital](../c/capital.md) Gains (LTCG): 20% tax with [indexation](../i/indexation.md) benefits if the [holding period](../h/holding_period.md) is more than 3 years.
 
 ## Strategies for Maximizing SIP Benefits
 

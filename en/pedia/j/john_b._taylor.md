@@ -8,7 +8,7 @@ John Brian Taylor grew up in Yonkers, New York. He graduated with a Bachelor of 
 
 ## Academic Career
 
-Taylor's academic career spans several prestigious institutions, including Princeton University, Columbia University, Yale University, and Stanford University, where he currently serves as the Mary and Robert Raymond Professor of [Economics](../e/economics.md). At Stanford, Taylor has been an influential figure in both the [economics](../e/economics.md) department and the Hoover Institution, where he serves as the George P. Shultz Senior Fellow in [Economics](../e/economics.md). 
+Taylor's academic career spans several prestigious institutions, including Princeton University, Columbia University, Yale University, and Stanford University, where he currently serves as the Mary and Robert Raymond Professor of [Economics](../e/economics.md). At Stanford, Taylor has been an influential figure in both the [economics](../e/economics.md) department and the Hoover Institution, where he serves as the George P. Shultz Senior Fellow in [Economics](../e/economics.md).
 
 His academic work primarily focuses on [macroeconomics](../m/macroeconomics.md), particularly on monetary theory and policy. Taylor has published numerous papers and books that have significantly contributed to the field, including "Macroeconomic Policy in a World [Economy](../e/economy.md)," "[Inflation](../i/inflation.md), [Unemployment](../u/unemployment.md), and [Monetary Policy](../m/monetary_policy.md)," and "Principles of [Economics](../e/economics.md)," among others.
 
@@ -43,13 +43,13 @@ John Taylor's work extends beyond academic theory into practical policy applicat
 Taylor's research has covered various aspects of economic policy, including the effectiveness of [monetary policy](../m/monetary_policy.md) rules, the impact of [fiscal policy](../f/fiscal_policy.md), and the interplay between [financial markets](../f/financial_market.md) and macroeconomic stability. His significant publications have become key references in the field of [economics](../e/economics.md):
 
 - **"Macroeconomic Policy in a World [Economy](../e/economy.md)"**:
-  This work explores the implications of macroeconomic policies in an interdependent world [economy](../e/economy.md), analyzing how policies in one country can affect others.
+ This work explores the implications of macroeconomic policies in an interdependent world [economy](../e/economy.md), analyzing how policies in one country can affect others.
 
 - **"[Inflation](../i/inflation.md), [Unemployment](../u/unemployment.md), and [Monetary Policy](../m/monetary_policy.md)"**:
-  This book provides an in-depth analysis of the relationships between [inflation](../i/inflation.md), [unemployment](../u/unemployment.md), and the role of [monetary policy](../m/monetary_policy.md) in addressing economic fluctuations.
+ This book provides an in-depth analysis of the relationships between [inflation](../i/inflation.md), [unemployment](../u/unemployment.md), and the role of [monetary policy](../m/monetary_policy.md) in addressing economic fluctuations.
 
 - **"Principles of [Economics](../e/economics.md)"**:
-  This textbook, co-authored with Akila Weerapana, is designed for undergraduate students and covers fundamental concepts in economic theory, including [microeconomics](../m/microeconomics.md), [macroeconomics](../m/macroeconomics.md), and international [economics](../e/economics.md).
+ This textbook, co-authored with Akila Weerapana, is designed for undergraduate students and covers fundamental concepts in economic theory, including [microeconomics](../m/microeconomics.md), [macroeconomics](../m/macroeconomics.md), and international [economics](../e/economics.md).
 
 ## Influence on Modern Economists
 
@@ -61,4 +61,4 @@ As of now, Taylor continues to be active in economic research and policy discuss
 
 John B. Taylor's career exemplifies a profound commitment to elevating [economics](../e/economics.md) through rigorous analysis and practical policy design. His contributions [will](../w/will.md) likely continue to reverberate through the field for many years to come, cementing his legacy as a pivotal figure in modern economic thought.
 
-For more information about John B. Taylor and his contributions, you can visit his profile on the Hoover Institution's website: [John B. Taylor at Hoover Institution](https://www.hoover.org/profiles/john-b-taylor).
+For more information about John B. Taylor and his contributions, Taylor at Hoover Institution.

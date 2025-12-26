@@ -14,11 +14,11 @@ Intraday [arbitrage](../a/arbitrage.md) is a [trading strategy](../t/trading_str
 
 Successful intraday [arbitrage](../a/arbitrage.md) often requires sophisticated tools and software to identify and exploit [arbitrage](../a/arbitrage.md) opportunities quickly. Here are some popular tools:
 
-1. **[Trading Algorithms](../t/trading_algorithms.md)**: These are predefined sets of rules or instructions created to execute orders based on various parameters including timing, price, and [volume](../v/volume.md). Companies like [QuantConnect](https://www.quantconnect.com/) provide platforms to develop and test [trading algorithms](../t/trading_algorithms.md).
+1. **[Trading Algorithms](../t/trading_algorithms.md)**: These are predefined sets of rules or instructions created to execute orders based on various parameters including timing, price, and [volume](../v/volume.md). Companies like QuantConnect provide platforms to develop and test [trading algorithms](../t/trading_algorithms.md).
 
-2. **[Real-Time Market Data](../r/real-time_market_data.md)**: Access to [real-time market data](../r/real-time_market_data.md) is essential for identifying [arbitrage](../a/arbitrage.md) opportunities. Platforms like [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provide detailed [market](../m/market.md) data and analytics.
+2. **[Real-Time Market Data](../r/real-time_market_data.md)**: Access to [real-time market data](../r/real-time_market_data.md) is essential for identifying [arbitrage](../a/arbitrage.md) opportunities. Platforms like Bloomberg Terminal provide detailed [market](../m/market.md) data and analytics.
 
-3. **[Order Management Systems](../o/order_management_systems.md) (OMS)**: Systems like [FlexTrade](https://flextrade.com/) [offer](../o/offer.md) [order management](../o/order_management_in_trading.md) solutions designed to execute [multiple](../m/multiple.md) orders across different markets seamlessly.
+3. **[Order Management Systems](../o/order_management_systems.md) (OMS)**: Systems like FlexTrade [offer](../o/offer.md) [order management](../o/order_management_in_trading.md) solutions designed to execute [multiple](../m/multiple.md) orders across different markets seamlessly.
 
 ### Risks and Challenges
 
@@ -34,15 +34,15 @@ Intraday [arbitrage](../a/arbitrage.md) may seem like a [risk](../r/risk.md)-fre
 
 ### Regulations and Compliance
 
-Given the complexities and the potential for [market](../m/market.md) disruption, intraday [arbitrage](../a/arbitrage.md) activities are subject to stringent regulatory oversight. Regulatory bodies like the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and the [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) in the United States have specific rules in place to govern [arbitrage](../a/arbitrage.md) activities. Tools like [TRAction Fintech](https://tractionfintech.com/) help firms maintain regulatory compliance.
+Given the complexities and the potential for [market](../m/market.md) disruption, intraday [arbitrage](../a/arbitrage.md) activities are subject to stringent regulatory oversight. Regulatory bodies like the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and the [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) in the United States have specific rules in place to govern [arbitrage](../a/arbitrage.md) activities. Tools like TRAction Fintech help firms maintain regulatory compliance.
 
 ### Case Studies
 
-1. **Citadel LLC**: Citadel is one of the most successful [hedge](../h/hedge.md) funds in the world, known for its intraday [arbitrage](../a/arbitrage.md) strategies. Their ability to quickly identify and exploit intraday [arbitrage](../a/arbitrage.md) opportunities is a key part of their [trading strategy](../t/trading_strategy.md). More information can be found on their [website](https://www.citadel.com/).
+1. **Citadel LLC**: Citadel is one of the most successful [hedge](../h/hedge.md) funds in the world, known for its intraday [arbitrage](../a/arbitrage.md) strategies. Their ability to quickly identify and exploit intraday [arbitrage](../a/arbitrage.md) opportunities is a key part of their [trading strategy](../t/trading_strategy.md).
 
-2. **Two Sigma Investments**: This quantitative [hedge fund](../h/hedge_fund.md) employs advanced algorithms and [machine learning](../m/machine_learning.md) to identify and execute intraday [arbitrage](../a/arbitrage.md) opportunities. Their use of [big data analytics](../b/big_data_analytics_in_trading.md) sets them apart. You can learn more about their approach [here](https://www.twosigma.com/).
+2. **Two Sigma Investments**: This quantitative [hedge fund](../h/hedge_fund.md) employs advanced algorithms and [machine learning](../m/machine_learning.md) to identify and execute intraday [arbitrage](../a/arbitrage.md) opportunities. Their use of [big data analytics](../b/big_data_analytics_in_trading.md) sets them apart. You can learn more about their approach here.
 
-3. **Virtu Financial**: This [firm](../f/firm.md) is another major player in the field of intraday [arbitrage](../a/arbitrage.md). Virtu Financial utilizes high-frequency trading (HFT) to identify and act on [arbitrage](../a/arbitrage.md) opportunities in a fraction of a second. More details can be found on their [website](https://www.virtu.com/).
+3. **Virtu Financial**: This [firm](../f/firm.md) is another major player in the field of intraday [arbitrage](../a/arbitrage.md). Virtu Financial utilizes high-frequency trading (HFT) to identify and act on [arbitrage](../a/arbitrage.md) opportunities in a fraction of a second. More
 
 ### Conclusion
 

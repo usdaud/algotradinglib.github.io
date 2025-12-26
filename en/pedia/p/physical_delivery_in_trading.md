@@ -13,13 +13,13 @@ Physical delivery is a process in [futures](../f/futures.md) trading where the a
 #### Physical vs. Cash Settlement
 
 - **Physical Delivery**: Involves the actual delivery of the [underlying asset](../u/underlying_asset.md). For example, in a [crude oil](../c/crude_oil.md) future, the seller delivers barrels of [crude oil](../c/crude_oil.md) to a specified location.
-  
+
 - **Cash Settlement**: Involves the [exchange](../e/exchange.md) of cash based on the difference between the contract price and the [market price](../m/market_price.md) at expiration. No physical goods are exchanged.
 
 ### Process of Physical Delivery
 
 1. **Notice of Intent**: The holder of the expiring future must inform the clearinghouse or [broker](../b/broker.md) of their intent to make or take delivery.
-  
+
 2. **Position Matching**: Sellers who [hold](../h/hold.md) short positions are matched with buyers holding long positions.
 
 3. **Delivery Instructions**: Specific instructions regarding the delivery location, quantity, and quality of the assets are provided.
@@ -48,11 +48,11 @@ Physical delivery ensures that the [futures market](../f/futures_market.md) rema
 
 ### Exchanges Facilitating Physical Delivery
 
-- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: Offers various [commodity futures](../c/commodity_futures.md) contracts with provisions for physical delivery. Website: [CME Group](https://www.cmegroup.com/)
-  
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: Facilitates trading in energy, agricultural, and metal [futures contracts](../f/futures_contracts.md). Website: [Intercontinental Exchange](https://www.theice.com/)
-  
-- **London Metal [Exchange](../e/exchange.md) (LME)**: Specializes in metal [futures](../f/futures.md) with physical delivery [options](../o/options.md). Website: [London Metal Exchange](https://www.lme.com/)
+- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: Offers various [commodity futures](../c/commodity_futures.md) contracts with provisions for physical delivery. online platform: CME Group
+
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: Facilitates trading in energy, agricultural, and metal [futures contracts](../f/futures_contracts.md). online platform: Intercontinental Exchange
+
+- **London Metal [Exchange](../e/exchange.md) (LME)**: Specializes in metal [futures](../f/futures.md) with physical delivery [options](../o/options.md). online platform: London Metal Exchange
 
 ### Logistics and Challenges
 

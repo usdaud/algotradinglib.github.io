@@ -28,7 +28,7 @@ Wildcat strikes can also reflect broader solidarity actions, where workers acros
 
 ### Historical Context
 
-Unofficial strikes have a rich history, reflecting moments of labor unrest and the dynamic nature of worker-employer relationships. 
+Unofficial strikes have a rich history, reflecting moments of labor unrest and the dynamic nature of worker-employer relationships.
 
 **1. The General Motors Sit-Down Strike (1936-1937):**
 In the United States, the 1936-1937 General Motors sit-down strike is a notable example. Workers occupied GM plants in Flint, Michigan, without prior union authorization, leading to significant gains for labor rights.
@@ -63,12 +63,10 @@ Unofficial strikes can cause divisions within the workforce, particularly if the
 **1. The 2016 Verizon Workers' Unofficial Strike:**
 In 2016, thousands of Verizon workers walked off the job without union sanction to protest against labor contract disputes. The strike lasted for 45 days and resulted in a new agreement covering raises, benefits, and job [security](../s/security.md).
 
-   [Verizon](https://www.verizon.com/)
 
 **2. Amazon's Wildcat Strikes:**
 Amazon workers have increasingly undertaken unofficial strikes in response to inadequate COVID-19 safety measures and poor working conditions. These actions have highlighted the tension between the company’s operational demands and worker [welfare](../w/welfare.md).
 
-   [Amazon](https://www.amazon.jobs/)
 
 ### Conclusion
 

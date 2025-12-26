@@ -49,14 +49,11 @@ There are various [market](../m/market.md) participants, including:
 
 [Commodity](../c/commodity.md) [options](../o/options.md) are traded on several key exchanges, including:
 
-1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME Group)**: https://www.cmegroup.com
-2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: https://www.theice.com
-3. **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**: Part of CME Group
+1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME Group)**2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**3. **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**: Part of CME Group
 
 ### Regulations
 
-[Commodity](../c/commodity.md) [options](../o/options.md) trading is subject to strict regulatory oversight to ensure [transparency](../t/transparency.md) and protect the interests of all [market](../m/market.md) participants. In the United States, the main regulatory body is the **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: https://www.cftc.gov.
-
+[Commodity](../c/commodity.md) [options](../o/options.md) trading is subject to strict regulatory oversight to ensure [transparency](../t/transparency.md) and protect the interests of all [market](../m/market.md) participants. In the United States, the main regulatory body is the **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**
 ### Strategies
 
 Several [trading strategies](../t/trading_strategies.md) are used in [commodity](../c/commodity.md) [options](../o/options.md) markets:
@@ -71,4 +68,4 @@ With the advent of technology, computerized trading and algorithmic strategies h
 
 ### Conclusion
 
-[Commodity](../c/commodity.md) [options](../o/options.md) [offer](../o/offer.md) many opportunities for investors, traders, and commercial participants to manage [risk](../r/risk.md), speculate, and create [income](../i/income.md). Understanding the fundamental principles, benefits, risks, and strategies is essential for successful participation in these markets.
+[Commodity](../c/commodity.md) [options](../o/options.md) [offer](../o/offer.md) many opportunities for investors, traders, and commercial participants to manage [risk](../r/risk.md), speculate, and create [income](../i/income.md). Understanding the fundamental principles, benefits, risks, and strategies is essential for successful participation in these markets.

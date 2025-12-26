@@ -69,9 +69,9 @@ Pricing models often used include:
 ### Key Players and Providers
 
 Several financial institutions and brokerage firms [offer](../o/offer.md) lookback [options](../o/options.md), either directly or via over-the-counter (OTC) mechanisms. Some of the well-known providers include:
-- **Goldman Sachs**: As a global investment [bank](../b/bank.md), Goldman Sachs provides structured products, including lookback [options](../o/options.md). More details can be found on their [official website](https://www.goldmansachs.com/).
-- **J.P. Morgan**: Another prominent institution [offering](../o/offering.md) various [exotic options](../e/exotic_options.md), including lookback [options](../o/options.md). Visit their [official site for more information](https://www.jpmorgan.com/).
-- **Barclays**: This financial group provides services in [derivatives](../d/derivatives.md) and offers customized [exotic options](../e/exotic_options.md). Their [official website](https://home.barclays/) offers more insights.
+- **Goldman Sachs**: As a global investment [bank](../b/bank.md), Goldman Sachs provides structured products, including lookback [options](../o/options.md). More
+- **J.P. Morgan**: Another prominent institution [offering](../o/offering.md) various [exotic options](../e/exotic_options.md), including lookback [options](../o/options.md).
+- **Barclays**: This financial group provides services in [derivatives](../d/derivatives.md) and offers customized [exotic options](../e/exotic_options.md). Their public materials offers more insights.
 
 ### Conclusion
 

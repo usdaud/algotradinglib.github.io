@@ -71,7 +71,7 @@ Sophisticated [software tools](../s/software_tools_for_trading.md) help in analy
 
 ### Example of a Company Utilizing Run-Up Analysis
 
-One notable company that employs Run-Up Analysis in its [trading strategies](../t/trading_strategies.md) is Renaissance Technologies ([https://www.rentec.com/](https://www.rentec.com/)). Known for its [quantitative trading](../q/quantitative_trading.md) models, the [firm](../f/firm.md) uses advanced statistical analysis and [mathematical models](../m/mathematical_models_in_trading.md), including run-up analysis techniques, to achieve significant [market](../m/market.md) gains.
+One notable company that employs Run-Up Analysis in its [trading strategies](../t/trading_strategies.md) is Renaissance Technologies ( Known for its [quantitative trading](../q/quantitative_trading.md) models, the [firm](../f/firm.md) uses advanced statistical analysis and [mathematical models](../m/mathematical_models_in_trading.md), including run-up analysis techniques, to achieve significant [market](../m/market.md) gains.
 
 ## Conclusion
 

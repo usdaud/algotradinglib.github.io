@@ -4,7 +4,7 @@ A [hedge](../h/hedge.md) clause is a statement included in financial documents s
 
 ### Components and Purpose
 The [hedge](../h/hedge.md) clause comprises several elements designed to mitigate [risk](../r/risk.md) and [liability](../l/liability.md):
-1. **Limitation of [Liability](../l/liability.md):** This language explicitly states that the issuing party is not responsible for losses incurred due to certain risks, such as [market](../m/market.md) [volatility](../v/volatility.md) or changes in [economic conditions](../e/economic_conditions.md). 
+1. **Limitation of [Liability](../l/liability.md):** This language explicitly states that the issuing party is not responsible for losses incurred due to certain risks, such as [market](../m/market.md) [volatility](../v/volatility.md) or changes in [economic conditions](../e/economic_conditions.md).
 2. **[Disclosure](../d/disclosure.md) of Risks:** The clause highlights the inherent risks associated with investments, ensuring clients are aware that investments can fluctuate in [value](../v/value.md).
 3. **Adherence to Regulations:** It signifies that the advice or services offered adhere to applicable regulations and standards but makes it clear that even regulatory compliance does not guarantee positive investment performance.
 

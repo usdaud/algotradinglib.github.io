@@ -20,17 +20,17 @@ The [revaluation](../r/revaluation.md) process involves several important steps 
 1. **Selection of Assets for [Revaluation](../r/revaluation.md)**: Not all assets need to be revalued. Companies often choose to revalue property, plant, and equipment, or other significant [long-term assets](../l/long-term_assets.md).
 2. **[Valuation](../v/valuation.md) Method**: An independent valuer or an internal team typically conducts the [revaluation](../r/revaluation.md). Methods used might include [Market Value](../m/market_value.md), [Replacement Cost](../r/replacement_cost.md), or [Income Approach](../i/income_approach.md).
 3. **[Journal](../j/journal.md) Entries**: Recording [revaluation](../r/revaluation.md) involves specific [journal](../j/journal.md) entries:
-    - **Increase in [Value](../v/value.md)**: 
-    ```markdown
-    [Asset](../a/asset.md) Account                 Dr.
-    [Revaluation](../r/revaluation.md) Reserve             Cr.
-    ```
-    - **Decrease in [Value](../v/value.md)**:
-    ```markdown
-    [Revaluation](../r/revaluation.md) Reserve           Dr. (if there is a [credit](../c/credit.md) balance)
-    [Profit](../p/profit.md) and Loss Account       Dr. (if there is no [credit](../c/credit.md) balance)
-    [Asset](../a/asset.md) Account                     Cr.
-    ```
+ - **Increase in [Value](../v/value.md)**:
+ ```markdown
+ [Asset](../a/asset.md) Account Dr.
+ [Revaluation](../r/revaluation.md) Reserve Cr.
+ ```
+ - **Decrease in [Value](../v/value.md)**:
+ ```markdown
+ [Revaluation](../r/revaluation.md) Reserve Dr. (if there is a [credit](../c/credit.md) balance)
+ [Profit](../p/profit.md) and Loss Account Dr. (if there is no [credit](../c/credit.md) balance)
+ [Asset](../a/asset.md) Account Cr.
+ ```
 4. **[Depreciation](../d/depreciation.md) Adjustment**: When assets are revalued, future [depreciation](../d/depreciation.md) charges should be based on the revalued amount instead of the [asset](../a/asset.md)'s [original cost](../o/original_cost.md).
 
 ## Reporting and Disclosure
@@ -45,11 +45,11 @@ Companies are required to disclose details around the [revaluation](../r/revalua
 
 ### Real Estate Companies
 [Real estate](../r/real_estate.md) companies frequently use [revaluation](../r/revaluation.md) reserves because property values often fluctuate significantly. By revaluating their properties, these companies can show a more accurate reflection of their [asset](../a/asset.md) values. For instance, Segro, a [real estate](../r/real_estate.md) investment [trust](../t/trust.md), has used [revaluation](../r/revaluation.md) reserves in their financial reporting:
-- [Segro's Financial Statements](https://www.segro.com/investors/reports/financial-reports)
+- Segro's Financial Statements
 
 ### Manufacturing Companies
 [Manufacturing](../m/manufacturing.md) companies with significant investments in plant and equipment also use [revaluation](../r/revaluation.md) reserves. For instance, Unilever has detailed disclosures on [revaluation](../r/revaluation.md) reserves:
-- [Unilever's Annual Report](https://www.unilever.com/investors/annual-report-and-accounts/)
+- Unilever's Annual Report
 
 ## Pros and Cons
 

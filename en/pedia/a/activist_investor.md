@@ -36,13 +36,13 @@ If necessary, activist investors might resort to legal actions to enforce their 
 ## Notable Activist Investors
 
 ### Carl Icahn
-Carl Icahn is one of the most renowned activist investors. He has been involved in numerous high-profile interventions, including campaigns at Apple, Netflix, and eBay. More information can be found on [Icahn Enterprises](https://www.icahnenterprises.com/).
+Carl Icahn is one of the most renowned activist investors. He has been involved in numerous high-profile interventions, including campaigns at Apple, Netflix, and eBay. More information can be found on Icahn Enterprises.
 
 ### Bill Ackman
-Bill Ackman, founder of Pershing Square [Capital](../c/capital.md) Management, is another influential activist [investor](../i/investor.md). He is known for his campaigns at companies like Herbalife, Valeant Pharmaceuticals, and J.C. Penney. Details about his [firm](../f/firm.md) can be found on [Pershing Square Holdings](https://www.pershingsquareholdings.com/).
+Bill Ackman, founder of Pershing Square [Capital](../c/capital.md) Management, is another influential activist [investor](../i/investor.md). He is known for his campaigns at companies like Herbalife, Valeant Pharmaceuticals, and J.C. Penney. Details about his [firm](../f/firm.md) can be found on Pershing Square Holdings.
 
 ### Daniel Loeb
-Daniel Loeb, founder of Third Point LLC, has led activist campaigns at companies such as Yahoo!, Sony, and Campbell Soup Company. More information is available at [Third Point LLC](https://www.thirdpoint.com/).
+Daniel Loeb, founder of Third Point LLC, has led activist campaigns at companies such as Yahoo!, Sony, and Campbell Soup Company. More information is available at Third Point LLC.
 
 ## Pros and Cons of Activist Investing
 

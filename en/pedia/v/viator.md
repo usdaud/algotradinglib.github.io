@@ -118,4 +118,3 @@ For tour operators, standing out on a busy platform like Viator can be challengi
 
 Viator is a significant player in the travel and hospitality [industry](../i/industry.md), providing a platform that bridges travelers with a diverse array of curated experiences. For travelers, it offers convenience, reliability, and a broad spectrum of [options](../o/options.md) to enrich their trips. For operators, it provides access to a global [market](../m/market.md) and a suite of tools to manage and promote their offerings. While users need to be mindful of the [variability](../v/variability.md) in quality and cancellation policies, Viator continues to be a trusted and valuable resource in the world of travel experiences.
 
-For more information or to start exploring and booking travel experiences, visit Viator's [official website](https://www.viator.com/).

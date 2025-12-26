@@ -57,10 +57,10 @@ Maximum loss occurs if the price of the [underlying asset](../u/underlying_asset
 
 The breakeven points for the Reverse [Iron Condor](../i/iron_condor.md) strategy can be calculated as follows:
 
-1. **Upper [Breakeven Point](../b/breakeven_point.md):** 
-   \[ \text{Upper Breakeven} = \text{Higher Call Strike} + \text{[Net Premium](../n/net_premium.md) Received} \]
+1. **Upper [Breakeven Point](../b/breakeven_point.md):**
+ \[ \text{Upper Breakeven} = \text{Higher Call Strike} + \text{[Net Premium](../n/net_premium.md) Received} \]
 2. **Lower [Breakeven Point](../b/breakeven_point.md):**
-   \[ \text{Lower Breakeven} = \text{Lower Put Strike} - \text{[Net Premium](../n/net_premium.md) Received} \]
+ \[ \text{Lower Breakeven} = \text{Lower Put Strike} - \text{[Net Premium](../n/net_premium.md) Received} \]
 
 ## Advantages of Reverse Iron Condor
 

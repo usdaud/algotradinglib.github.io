@@ -7,21 +7,21 @@ Data stream processing is a computing paradigm that involves the continuous hand
 At its core, data stream processing focuses on several key principles:
 
 1. **Continuous Processing**: Unlike traditional [batch processing](../b/batch_processing.md), where data is collected over time and processed in discrete units, stream processing deals with data continuously. As soon as data enters the system, it is immediately processed.
-  
+
 2. **Low Latency**: The goal is to minimize the time between data ingestion and the resulting action. This is critical for applications where immediate response is necessary, such as [fraud](../f/fraud.md) detection in [finance](../f/finance.md) or [anomaly detection](../a/anomaly_detection.md) in IoT systems.
-  
+
 3. **Temporal Semantics**: The timing of data is crucial in stream processing. Each data event carries a timestamp indicating when it occurred. Systems must be cognizant of event ordering, lateness, and windows of time over which calculations are performed.
-  
+
 4. **[Scalability](../s/scalability.md)**: Data stream processing systems are designed to [handle](../h/handle.md) large volumes of data at high [throughput](../t/throughput.md) rates. They typically operate in distributed environments to scale horizontally by adding more machines to the system.
 
 ### Key Components of a Data Stream Processing System
 
 1. **Data Producers**: Also known as sources, these are entities that generate data. Examples include sensors, financial [transaction](../t/transaction.md) systems, [social media](../s/social_media.md) platforms, or any other system producing continuous data.
-  
+
 2. **Messaging System**: This serves as an intermediary that captures data from producers and delivers it to processing systems. Common messaging systems include Apache Kafka and Amazon Kinesis. These systems ensure durability, reliability, and ordering of messages.
 
 3. **Stream Processing Engine**: This is the heart of the system where actual data processing happens. It performs operations such as filtering, aggregating, joining, and transforming data. Prominent stream processing engines include Apache Flink, Apache Storm, and Google Cloud Dataflow.
-  
+
 4. **Storage**: Some data stream processing applications require maintaining state across events, which necessitates storage solutions. Systems like Apache Kafka Streams and Flink use state stores to maintain intermediate states efficiently.
 
 5. **Output Consumers**: These are systems or applications that receive the processed data. Output consumers can be databases, dashboards, alerting systems, or any other application needing real-time data insights.
@@ -38,15 +38,15 @@ At its core, data stream processing focuses on several key principles:
 
 ### Leading Technologies for Data Stream Processing
 
-1. **Apache Kafka**: Kafka is a highly popular distributed event streaming platform capable of handling trillions of events a day. It is an [open](../o/open.md)-source system primarily used for building real-time streaming data pipelines and applications. More details can be found at [Apache Kafka](https://kafka.apache.org/).
+1. **Apache Kafka**: Kafka is a highly popular distributed event streaming platform capable of handling trillions of events a day. It is an [open](../o/open.md)-source system primarily used for building real-time streaming data pipelines and applications. More details can be found at Apache Kafka.
 
-2. **Apache Flink**: Flink is a powerful stream processing framework for processing data streams in a scalable and fault-tolerant manner. It supports complex event processing, [batch processing](../b/batch_processing.md), and various advanced operations. Visit [Apache Flink](https://flink.apache.org/) for more.
+2. **Apache Flink**: Flink is a powerful stream processing framework for processing data streams in a scalable and fault-tolerant manner. It supports complex event processing, [batch processing](../b/batch_processing.md), and various advanced operations. Visit Apache Flink for more.
 
-3. **Apache Storm**: Storm is another distributed real-time computation system designed to process unbounded streams of data, making it suitable for a wide [range](../r/range.md) of real-time use cases. More information is available at [Apache Storm](https://storm.apache.org/).
+3. **Apache Storm**: Storm is another distributed real-time computation system designed to process unbounded streams of data, making it suitable for a wide [range](../r/range.md) of real-time use cases. More information is available at Apache Storm.
 
-4. **Google Cloud Dataflow**: Dataflow is a fully managed service for stream and batch data processing, [offering](../o/offering.md) a unified programming model for both types of data processing. It integrates well with Google's ecosystem and provides [robust](../r/robust.md), scalable solutions. Details can be found at [Google Cloud Dataflow](https://cloud.google.com/dataflow).
+4. **Google Cloud Dataflow**: Dataflow is a fully managed service for stream and batch data processing, [offering](../o/offering.md) a unified programming model for both types of data processing. It integrates well with Google's ecosystem and provides [robust](../r/robust.md), scalable solutions. Details can be found at Google Cloud Dataflow.
 
-5. **Amazon Kinesis**: Kinesis offers real-time data streaming services and allows developers to build real-time applications that process or analyze streaming data efficiently. For more information, visit [Amazon Kinesis](https://aws.amazon.com/kinesis/).
+5. **Amazon Kinesis**: Kinesis offers real-time data streaming services and allows developers to build real-time applications that process or analyze streaming data efficiently. For more information, visit Amazon Kinesis.
 
 ### Common Challenges and Considerations
 
@@ -62,4 +62,4 @@ At its core, data stream processing focuses on several key principles:
 
 ### Conclusion
 
-Data stream processing has revolutionized the way real-time data is handled, providing the ability to make immediate decisions and derive timely insights from continuous data streams. The adoption of stream processing technologies has empowered various industries to move towards real-time analytics, driving innovation and [efficiency](../e/efficiency.md). With continuous advancements in stream processing frameworks and the growing importance of real-time data, the future holds vast potential for further enhancements in this dynamic field.
+Data stream processing has revolutionized the way real-time data is handled, providing the ability to make immediate decisions and derive timely insights from continuous data streams. The adoption of stream processing technologies has empowered various industries to move towards real-time analytics, driving innovation and [efficiency](../e/efficiency.md). With continuous advancements in stream processing frameworks and the growing importance of real-time data, the future holds vast potential for further enhancements in this dynamic field.

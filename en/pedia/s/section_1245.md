@@ -1,6 +1,6 @@
 # Section 1245
 
-**Section 1245** refers to specific tax regulations and provisions under the United States Internal [Revenue](../r/revenue.md) Code (IRC). These provisions primarily involve the treatment of gains and losses stemming from the [sale](../s/sale.md) or [exchange](../e/exchange.md) of certain depreciable property used in a [trade](../t/trade.md) or [business](../b/business.md). Understanding Section 1245 is crucial for individuals and businesses engaged in trading or other financial activities, as it directly impacts how certain types of property transactions are taxed. 
+**Section 1245** refers to specific tax regulations and provisions under the United States Internal [Revenue](../r/revenue.md) Code (IRC). These provisions primarily involve the treatment of gains and losses stemming from the [sale](../s/sale.md) or [exchange](../e/exchange.md) of certain depreciable property used in a [trade](../t/trade.md) or [business](../b/business.md). Understanding Section 1245 is crucial for individuals and businesses engaged in trading or other financial activities, as it directly impacts how certain types of property transactions are taxed.
 
 ## Overview
 
@@ -13,13 +13,13 @@ The properties that fall under Section 1245 include most depreciable [personal p
 ### Calculation
 
 1. **Determining the Adjusted [Basis](../b/basis.md)**:
-   - The adjusted [basis](../b/basis.md) is calculated by taking the initial cost of the property and then adding any [capital](../c/capital.md) improvements while subtracting any [accumulated depreciation](../a/accumulated_depreciation.md) or amortization.
+ - The adjusted [basis](../b/basis.md) is calculated by taking the initial cost of the property and then adding any [capital](../c/capital.md) improvements while subtracting any [accumulated depreciation](../a/accumulated_depreciation.md) or amortization.
 
 2. **Calculating the [Gain](../g/gain.md)**:
-   - The [gain](../g/gain.md) on the [sale](../s/sale.md) is the difference between the [sale](../s/sale.md) price and the adjusted [basis](../b/basis.md) of the property.
+ - The [gain](../g/gain.md) on the [sale](../s/sale.md) is the difference between the [sale](../s/sale.md) price and the adjusted [basis](../b/basis.md) of the property.
 
 3. **Recapture of [Depreciation](../d/depreciation.md)**:
-   - Under Section 1245, the amount of [depreciation recapture](../d/depreciation_recapture.md) includes the lesser of the [gain](../g/gain.md) realized or the [depreciation](../d/depreciation.md) claimed. This portion is taxed as [ordinary income](../o/ordinary_income.md). Any remaining [gain](../g/gain.md) beyond the recaptured [depreciation](../d/depreciation.md) may qualify for [capital](../c/capital.md) gains treatment, provided other conditions are met.
+ - Under Section 1245, the amount of [depreciation recapture](../d/depreciation_recapture.md) includes the lesser of the [gain](../g/gain.md) realized or the [depreciation](../d/depreciation.md) claimed. This portion is taxed as [ordinary income](../o/ordinary_income.md). Any remaining [gain](../g/gain.md) beyond the recaptured [depreciation](../d/depreciation.md) may qualify for [capital](../c/capital.md) gains treatment, provided other conditions are met.
 
 ### Example
 
@@ -37,21 +37,21 @@ Maintaining compliance with Section 1245 can be complex, especially for business
 
 ### Example
 
-- **Intuit QuickBooks**: This platform offers [asset management](../a/asset_management.md) modules that track the [acquisition](../a/acquisition.md), [depreciation](../d/depreciation.md), and disposal of assets, ensuring compliance with Section 1245. For more details, visit [Intuit QuickBooks](https://quickbooks.intuit.com/).
+- **Intuit QuickBooks**: This platform offers [asset management](../a/asset_management.md) modules that track the [acquisition](../a/acquisition.md), [depreciation](../d/depreciation.md), and disposal of assets, ensuring compliance with Section 1245. For more details, visit Intuit QuickBooks.
 
-- **Sage Fixed Assets**: This software specializes in managing the entire lifecycle of fixed assets, from [acquisition](../a/acquisition.md) to disposal, while maintaining compliance with tax regulations like Section 1245. Explore more at [Sage Fixed Assets](https://www.sage.com/en-us/products/sage-fixed-assets/).
+- **Sage Fixed Assets**: This software specializes in managing the entire lifecycle of fixed assets, from [acquisition](../a/acquisition.md) to disposal, while maintaining compliance with tax regulations like Section 1245. Explore more at Sage Fixed Assets.
 
 ## Fintech Integrations
 
 Many fintech applications integrate with [accounting](../a/accounting.md) platforms to provide comprehensive solutions for [asset management](../a/asset_management.md), trading, and tax compliance.
 
-- **Plaid**: Plaid’s API enables financial applications to connect with user [bank](../b/bank.md) accounts, providing real-time data that can be used in conjunction with [asset management](../a/asset_management.md) software for accurate tax reporting. Learn more at [Plaid](https://plaid.com/).
+- **Plaid**: Plaid’s API enables financial applications to connect with user [bank](../b/bank.md) accounts, providing real-time data that can be used in conjunction with [asset management](../a/asset_management.md) software for accurate tax reporting. Learn more at Plaid.
 
-- **Stripe**: Stripe's [payment](../p/payment.md) processing capabilities can be integrated with [accounting](../a/accounting.md) systems to automate financial transactions and ensure accurate tax tracking. For more information, visit [Stripe](https://stripe.com/).
+- **Stripe**: Stripe's [payment](../p/payment.md) processing capabilities can be integrated with [accounting](../a/accounting.md) systems to automate financial transactions and ensure accurate tax tracking. For more information, visit Stripe.
 
 ### Advanced Algorithms for Depreciation
 
-In the realm of [algorithmic trading](../a/accountability.md), advanced algorithms are used to predict [asset](../a/asset.md) performance, which can also be applied to assets subject to [depreciation](../d/depreciation.md) under Section 1245. These algorithms can forecast the [useful life](../u/useful_life.md) and [salvage value](../s/salvage_value.md) of assets, optimizing [depreciation](../d/depreciation.md) schedules and enhancing tax [efficiency](../e/efficiency.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), advanced algorithms are used to predict [asset](../a/asset.md) performance, which can also be applied to assets subject to [depreciation](../d/depreciation.md) under Section 1245. These algorithms can forecast the [useful life](../u/useful_life.md) and [salvage value](../s/salvage_value.md) of assets, optimizing [depreciation](../d/depreciation.md) schedules and enhancing tax [efficiency](../e/efficiency.md).
 
 ## Conclusion
 

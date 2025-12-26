@@ -1,10 +1,10 @@
 # Samoa Stock Exchange (SSX)
 
-The Samoa Stock [Exchange](../e/exchange.md) (SSX) is the [principal](../p/principal.md) securities [exchange](../e/exchange.md) of Samoa, a small island nation in the South Pacific. Despite its modest size and relative youth compared to other global exchanges, the SSX plays a critical role in the local financial [market](../m/market.md) by providing a platform for the listing and trading of securities, thereby supporting [business](../b/business.md) growth and economic development in Samoa. The [exchange](../e/exchange.md) facilitates the mobilization of [capital](../c/capital.md) for entrepreneurs and offers investment opportunities to both domestic and international investors. 
+The Samoa Stock [Exchange](../e/exchange.md) (SSX) is the [principal](../p/principal.md) securities [exchange](../e/exchange.md) of Samoa, a small island nation in the South Pacific. Despite its modest size and relative youth compared to other global exchanges, the SSX plays a critical role in the local financial [market](../m/market.md) by providing a platform for the listing and trading of securities, thereby supporting [business](../b/business.md) growth and economic development in Samoa. The [exchange](../e/exchange.md) facilitates the mobilization of [capital](../c/capital.md) for entrepreneurs and offers investment opportunities to both domestic and international investors.
 
 ## Overview of SSX
 
-The SSX was officially launched in 2010, making it one of the newer entrants in the global financial [market](../m/market.md). It emerged as part of a larger initiative by the Samoan government to modernize the country's [financial sector](../f/financial_sector.md) and make it more attractive for [foreign investment](../f/foreign_investment.md). The [exchange](../e/exchange.md) is regulated by the Central [Bank](../b/bank.md) of Samoa, ensuring that it adheres to international standards of [transparency](../t/transparency.md) and financial integrity. 
+The SSX was officially launched in 2010, making it one of the newer entrants in the global financial [market](../m/market.md). It emerged as part of a larger initiative by the Samoan government to modernize the country's [financial sector](../f/financial_sector.md) and make it more attractive for [foreign investment](../f/foreign_investment.md). The [exchange](../e/exchange.md) is regulated by the Central [Bank](../b/bank.md) of Samoa, ensuring that it adheres to international standards of [transparency](../t/transparency.md) and financial integrity.
 
 ## Mission and Objectives
 
@@ -43,7 +43,7 @@ The SSX operates under a stringent regulatory framework overseen by the Central 
 - **[Market](../m/market.md) Surveillance:** Continuous monitoring of trading activities to detect and prevent [market manipulation](../m/market_manipulation.md) and [insider trading](../i/insider.md).
 - **[Investor](../i/investor.md) Education:** Programs designed to educate investors about the risks and opportunities associated with [investing](../i/investing.md) in securities.
 - **Dispute Resolution:** Mechanisms for resolving conflicts between investors and brokers or [listed](../l/listed.md) companies.
-  
+
 ## Impact on Local Economy
 
 The establishment of the SSX has had a transformative impact on Samoa's [economy](../e/economy.md) by:
@@ -70,4 +70,4 @@ The future outlook for the SSX is cautiously optimistic. The [exchange](../e/exc
 
 ## Contact Information
 
-For more information, you can visit the official website of the Samoa Stock [Exchange](../e/exchange.md): [Samoa Stock Exchange](https://www.samoastockexchange.com)
+./e/exchange.md): Samoa Stock Exchange

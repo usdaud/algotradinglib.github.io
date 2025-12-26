@@ -10,14 +10,14 @@ The calculation of a 20-period moving average involves summing the closing price
 
 For example, if we have the closing prices for an [asset](../a/asset.md) over the past 20 periods as follows:
 
-\[ 
-Price Data = [100, 102, 101, 103, 105, 107, 106, 108, 110, 111, 112, 113, 115, 116, 118, 119, 120, 121, 122, 123] 
+\[
+Price Data = [100, 102, 101, 103, 105, 107, 106, 108, 110, 111, 112, 113, 115, 116, 118, 119, 120, 121, 122, 123]
 \]
 
 The calculation of the 20-period moving average would be:
 
-\[ 
-MA_{20} = \frac{100 + 102 + 101 + 103 + 105 + 107 + 106 + 108 + 110 + 111 + 112 + 113 + 115 + 116 + 118 + 119 + 120 + 121 + 122 + 123}{20} = \frac{2281}{20} = 114.05 
+\[
+MA_{20} = \frac{100 + 102 + 101 + 103 + 105 + 107 + 106 + 108 + 110 + 111 + 112 + 113 + 115 + 116 + 118 + 119 + 120 + 121 + 122 + 123}{20} = \frac{2281}{20} = 114.05
 \]
 
 This [value](../v/value.md), 114.05, represents the 20-period moving average. For each new period, the moving average calculation would shift forward by one period, continuously updating to reflect the most current data.
@@ -52,16 +52,16 @@ The 20-period moving average can be applied in numerous ways within [algorithmic
 Many trading platforms and software provide tools to easily implement and utilize the 20-period moving average. Some examples of popular platforms include:
 
 1. **MetaTrader**: Offers built-in indicators including various moving averages with customizable period settings.
-   - [MetaTrader](https://www.metatrader4.com/)
+ - MetaTrader
 
 2. **[TradingView](../t/tradingview.md)**: Provides comprehensive charting tools with the ability to apply [multiple](../m/multiple.md) types of moving averages.
-   - [TradingView](https://www.tradingview.com/)
+ - TradingView
 
-3. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment of strategies involving moving averages.
-   - [QuantConnect](https://www.quantconnect.com/)
+3. **[QuantConnect](../q/quantconnect.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment of strategies involving moving averages.
+ - QuantConnect
 
 4. **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and analytics tools, including easy integration of different moving average types.
-   - [NinjaTrader](https://ninjatrader.com/)
+ - NinjaTrader
 
 ### Advantages and Limitations
 
@@ -84,11 +84,11 @@ Before deploying a [trading strategy](../t/trading_strategy.md) that incorporate
 
 Popular tools for [optimization](../o/optimization.md) and [backtesting](../b/backtesting.md) include:
 
-- **[QuantConnect](../q/quantconnect.md)**: Offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) capabilities with historical [market](../m/market.md) data.
+- **[StockSharp](../s/stocksharp.md)**: Offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) capabilities with historical [market](../m/market.md) data.
 - **[Amibroker](../a/amibroker.md)**: A comprehensive tool for advanced [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md).
-  - [Amibroker](https://www.amibroker.com/)
+ - Amibroker
 - **[TradeStation](../t/tradestation.md)**: Provides extensive historical data for [backtesting](../b/backtesting.md) along with [optimization](../o/optimization.md) tools.
-  - [TradeStation](https://www.tradestation.com/)
+ - TradeStation
 
 ### Conclusion
 

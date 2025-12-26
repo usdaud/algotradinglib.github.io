@@ -30,7 +30,7 @@ Depending on the [investor](../i/investor.md)'s state of residence and the [bond
 ## Risk Factors
 
 ### Credit Risk
-The [risk](../r/risk.md) that the [issuer](../i/issuer.md) [will](../w/will.md) [default](../d/default.md) on its [bond](../b/bond.md) [obligations](../o/obligation.md). [Rating](../r/rating.md) agencies like Moody's, S&P, and Fitch provide [credit](../c/credit.md) ratings for [municipal bonds](../m/municipal_bonds.md), which investors use to gauge [risk](../r/risk.md). 
+The [risk](../r/risk.md) that the [issuer](../i/issuer.md) [will](../w/will.md) [default](../d/default.md) on its [bond](../b/bond.md) [obligations](../o/obligation.md). [Rating](../r/rating.md) agencies like Moody's, S&P, and Fitch provide [credit](../c/credit.md) ratings for [municipal bonds](../m/municipal_bonds.md), which investors use to gauge [risk](../r/risk.md).
 
 ### Interest Rate Risk
 [Interest rate risk](../i/interest_rate_risk.md) refers to the possibility that changes in [interest](../i/interest.md) rates [will](../w/will.md) affect [bond](../b/bond.md) prices. When [interest](../i/interest.md) rates rise, [bond](../b/bond.md) prices typically fall, and vice versa. Long-term bonds are generally more susceptible to [interest rate risk](../i/interest_rate_risk.md).
@@ -57,8 +57,7 @@ Municipal [bond](../b/bond.md) ETFs are a type of [investment fund](../i/investm
 ### Electronic Trading Platforms
 Electronic trading platforms allow for the more accessible trading of [municipal bonds](../m/municipal_bonds.md). These platforms increase [transparency](../t/transparency.md) and provide real-time pricing. Examples include:
 
-- **Tradeweb** (https://www.tradeweb.com/)
-- **[MarketAxess](../m/marketaxess.md)** (https://www.[marketaxess](../m/marketaxess.md).com/)
+- **Tradeweb** - **[MarketAxess](../m/marketaxess.md)** (
 
 ## Key Issuers and Participants
 
@@ -66,7 +65,7 @@ Electronic trading platforms allow for the more accessible trading of [municipal
 These entities are the primary issuers of [municipal bonds](../m/municipal_bonds.md). They use the proceeds to [fund](../f/fund.md) various public projects and services.
 
 ### Financial Advisors and Underwriters
-Financial advisors guide issuers on [bond](../b/bond.md) structure and [market](../m/market.md) conditions, while underwriters purchase securities from issuers and sell them to investors. 
+Financial advisors guide issuers on [bond](../b/bond.md) structure and [market](../m/market.md) conditions, while underwriters purchase securities from issuers and sell them to investors.
 
 ### Bond Rating Agencies
 Agencies such as Moody's, Standard & Poor's, and Fitch assess and provide ratings on the [creditworthiness](../c/creditworthiness.md) of [municipal bonds](../m/municipal_bonds.md). Their ratings influence [interest](../i/interest.md) rates and [investor](../i/investor.md) confidence.
@@ -89,4 +88,4 @@ The IRS ensures that tax-exempt bonds adhere to federal tax laws and regulations
 
 [Municipal bonds](../m/municipal_bonds.md) play an essential role in funding public projects and services, [offering](../o/offering.md) tax benefits and relatively low [risk](../r/risk.md). However, they also come with unique risks and complexities. Investors need to understand the different types of [municipal bonds](../m/municipal_bonds.md), their benefits, and their risks to make informed investment decisions.
 
-For more information on [municipal bonds](../m/municipal_bonds.md) and updates on [market](../m/market.md) conditions, you can visit the [Municipal Securities Rulemaking Board](https://www.msrb.org/) website.
+For more information on [municipal bonds](../m/municipal_bonds.md) and updates on [market](../m/market.md) conditions,

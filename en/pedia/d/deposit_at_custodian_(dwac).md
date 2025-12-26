@@ -38,7 +38,7 @@ To understand the operational mechanics of DWAC, it is essential to consider the
 When an [investor](../i/investor.md) wants to transfer securities using the DWAC system, the process generally follows these steps:
 
 1. **Initiation**: The process begins with the [broker-dealer](../b/broker-dealer.md) initiating a DWAC request with the [transfer agent](../t/transfer_agent.md). This is done via the DTC's Participant Terminal System (PTS) or a corresponding platform.
-  
+
 2. **Verification**: The [transfer agent](../t/transfer_agent.md) verifies the [investor](../i/investor.md)'s ownership details against the [issuer](../i/issuer.md)'s records. This step ensures the legitimacy of the transfer request.
 
 3. **Electronic Instruction**: Upon verification, the [transfer agent](../t/transfer_agent.md) sends electronic instructions to the DTC, indicating the transfer of ownership from the [investor](../i/investor.md) to the new holder or vice versa.
@@ -51,21 +51,17 @@ When an [investor](../i/investor.md) wants to transfer securities using the DWAC
 
 Several entities play crucial roles in the DWAC process. Here are some of the key players:
 
-1. **[Depository](../d/depository.md) [Trust](../t/trust.md) and [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC)**: 
-   - Website: [DTCC](https://www.dtcc.com/)
-   - The DTCC is a primary institution providing post-[trade](../t/trade.md) [market](../m/market.md) [infrastructure](../i/infrastructure.md) for the global financial services [industry](../i/industry.md). Its subsidiary, the [Depository](../d/depository.md) [Trust Company](../t/trust_company.md) (DTC), is responsible for the central custody and settlement services that facilitate DWAC.
+1. **[Depository](../d/depository.md) [Trust](../t/trust.md) and [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC)**:
+ - The DTCC is a primary institution providing post-[trade](../t/trade.md) [market](../m/market.md) [infrastructure](../i/infrastructure.md) for the global financial services [industry](../i/industry.md). Its subsidiary, the [Depository](../d/depository.md) [Trust Company](../t/trust_company.md) (DTC), is responsible for the central custody and settlement services that facilitate DWAC.
 
 2. **Broadridge Financial Solutions**:
-   - Website: [Broadridge](https://www.broadridge.com/)
-   - Broadridge offers technology-driven solutions for financial institutions, including services related to securities processing and electronic transfers.
+ - Broadridge offers technology-driven solutions for financial institutions, including services related to securities processing and electronic transfers.
 
 3. **Computershare**:
-   - Website: [Computershare](https://www.computershare.com/)
-   - A global provider of [transfer agent](../t/transfer_agent.md) services, [investor](../i/investor.md) communication solutions, and technology-driven stock transfer services, Computershare plays a vital role in DWAC transactions.
+ - A global provider of [transfer agent](../t/transfer_agent.md) services, [investor](../i/investor.md) communication solutions, and technology-driven stock transfer services, Computershare plays a vital role in DWAC transactions.
 
 4. **American Stock Transfer & [Trust Company](../t/trust_company.md) (AST)**:
-   - Website: [AST](https://www.astfinancial.com/)
-   - AST offers comprehensive [transfer agent](../t/transfer_agent.md) services and helps in managing securities registration and transfers through the DWAC system.
+ - AST offers comprehensive [transfer agent](../t/transfer_agent.md) services and helps in managing securities registration and transfers through the DWAC system.
 
 ## Implications of DWAC
 
@@ -91,7 +87,7 @@ Regulatory bodies encourage the use of electronic transfers to ensure [transpare
 
 ### Case Study 1: A Public Company Adopting DWAC
 
-A [mid-cap](../m/mid-cap.md) technology company decided to transition from physical certificates to an entirely electronic system. The [firm](../f/firm.md) collaborated with its [transfer agent](../t/transfer_agent.md) under the DWAC framework to convert all outstanding certificates into electronic records. This conversion streamlined [investor relations](../i/investor_relations.md) management and reduced administrative overheads. Additionally, shareholders benefited from quicker transfer times and a reduction in the potential for lost certificates.
+A [mid-cap](../m/mid-cap.md) technology company decided to transition from physical certificates to an entirely electronic system. The [firm](../f/firm.md) collaborated with its [transfer agent](../t/transfer_agent.md) under the DWAC framework to convert all outstanding certificates into electronic records. This conversion streamlined [company filings](../i/investor_relations.md) management and reduced administrative overheads. Additionally, shareholders benefited from quicker transfer times and a reduction in the potential for lost certificates.
 
 ### Case Study 2: Brokerage Firm Implementing DWAC
 

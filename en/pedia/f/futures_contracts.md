@@ -74,10 +74,10 @@ Speculators aim to [profit](../p/profit.md) from price changes by buying and sel
 
 Several major [futures](../f/futures.md) exchanges operate globally, providing a platform for the trading of [futures](../f/futures.md) contracts. Some of the most prominent exchanges include:
 
-- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: One of the largest and most diverse [futures](../f/futures.md) exchanges, [offering](../o/offering.md) contracts on commodities, financial instruments, and indices. [CME Group](https://www.cmegroup.com)
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: Known for its energy [futures](../f/futures.md) contracts, as well as financial [derivatives](../d/derivatives.md). [Intercontinental Exchange](https://www.theice.com)
-- **[Euronext](../e/euronext.md)**: A pan-European [exchange](../e/exchange.md) providing [futures](../f/futures.md) and [options](../o/options.md) contracts on a variety of assets. [Euronext](https://www.euronext.com)
-- **Tokyo [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) (TOCOM)**: Focuses on commodities such as metals, rubber, and energy products. [TOCOM](https://www.tocom.or.jp)
+- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: One of the largest and most diverse [futures](../f/futures.md) exchanges, [offering](../o/offering.md) contracts on commodities, financial instruments, and indices. CME Group
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: Known for its energy [futures](../f/futures.md) contracts, as well as financial [derivatives](../d/derivatives.md). Intercontinental Exchange
+- **[Euronext](../e/euronext.md)**: A pan-European [exchange](../e/exchange.md) providing [futures](../f/futures.md) and [options](../o/options.md) contracts on a variety of assets. Euronext
+- **Tokyo [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) (TOCOM)**: Focuses on commodities such as metals, rubber, and energy products. TOCOM
 
 ## Advantages of Futures Contracts
 
@@ -119,4 +119,4 @@ Although [futures](../f/futures.md) exchanges mitigate [counterparty risk](../c/
 
 [Futures](../f/futures.md) contracts play a crucial role in modern [financial markets](../f/financial_market.md), [offering](../o/offering.md) a mechanism for [price discovery](../p/price_discovery.md), [risk management](../r/risk_management.md), and speculative opportunities. Their standardized nature and regulatory oversight ensure a fair and transparent [trading environment](../t/trading_environment.md). However, the significant [leverage](../l/leverage.md) and [market](../m/market.md) risks inherent in [futures](../f/futures.md) trading necessitate careful [risk management](../r/risk_management.md) and a thorough understanding of the [market dynamics](../m/market_dynamics.md).
 
-For more information on [futures](../f/futures.md) trading and regulatory guidelines, you can visit the websites of major exchanges such as [CME Group](https://www.cmegroup.com) and [Intercontinental Exchange](https://www.theice.com).
+For more information on [futures](../f/futures.md) trading and regulatory guidelines, you can visit the websites of major exchanges such as CME Group and Intercontinental Exchange.

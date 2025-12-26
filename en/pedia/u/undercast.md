@@ -46,7 +46,7 @@ Undercast occurs when the actual [financial performance](../f/financial_performa
 
 ## Undercast in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves using automated systems to execute trades based on predefined criteria. Undercast occurrences can lead to significant [algorithmic trading](../a/accountability.md) activity, affecting both short-term and long-term [market](../m/market.md) behavior.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using automated systems to execute trades based on predefined criteria. Undercast occurrences can lead to significant [algorithmic trading](../a/algorithmic_trading.md) activity, affecting both short-term and long-term [market](../m/market.md) behavior.
 
 ### Impact on Algorithms
 - **[Backtesting](../b/backtesting.md) Performance**: Algorithms rely heavily on historical data for [backtesting](../b/backtesting.md). Undercasts can skew results, leading to overly conservative strategies.
@@ -91,4 +91,4 @@ Accurately [forecasting](../f/forecasting.md) financial metrics involves various
 
 ## Conclusion
 
-Undercasting is a significant phenomenon in [financial forecasting](../f/financial_forecasting.md), impacting [market dynamics](../m/market_dynamics.md), corporate strategies, and [investor](../i/investor.md) behavior. Understanding its causes and effects allows companies to improve their [forecasting](../f/forecasting.md) accuracy and helps investors make better-informed decisions. In the realm of [algorithmic trading](../a/accountability.md), recognizing undercast patterns can lead to more effective [trading strategies](../t/trading_strategies.md) and optimized performance.
+Undercasting is a significant phenomenon in [financial forecasting](../f/financial_forecasting.md), impacting [market dynamics](../m/market_dynamics.md), corporate strategies, and [investor](../i/investor.md) behavior. Understanding its causes and effects allows companies to improve their [forecasting](../f/forecasting.md) accuracy and helps investors make better-informed decisions. In the realm of [algorithmic trading](../a/algorithmic_trading.md), recognizing undercast patterns can lead to more effective [trading strategies](../t/trading_strategies.md) and optimized performance.

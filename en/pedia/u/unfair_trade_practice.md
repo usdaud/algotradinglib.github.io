@@ -20,7 +20,7 @@ This involves providing false, exaggerated, incomplete, or misleading informatio
 
 - **False Claims**: Advertising a product as having features or benefits it does not possess.
 - **Hidden Fees**: Promoting a product without disclosing additional costs that a consumer might incur.
-- **[Bait and Switch](../b/bait_and_switch.md)**: Advertiser lures customers with an attractive [offer](../o/offer.md) and then persuades them to purchase a more expensive product once they are in the store or on the website.
+- **[Bait and Switch](../b/bait_and_switch.md)**: Advertiser lures customers with an attractive [offer](../o/offer.md) and then persuades them to purchase
 
 ### 2. **Predatory Pricing**
 
@@ -60,7 +60,7 @@ Volkswagen Group, a well-known automobile manufacturer, was found guilty of fitt
 - **Environmental Impact**: Caused far-reaching environmental harm and led to a loss of public [trust](../t/trust.md) in the brand.
 - **Legal Consequences**: Resulted in billions of dollars in fines and lawsuits.
 
-Further reading: [Volkswagen Group](https://www.volkswagenag.com/en/group.html)
+Further reading: Volkswagen Group
 
 ### 2. **Wells Fargo Account Scandal**
 
@@ -70,7 +70,7 @@ Between 2011 and 2016, Wells Fargo employees created millions of fake accounts t
 - **[Customer](../c/customer.md) Harm**: Lead to unexpected charges, services activation, and impacted [credit](../c/credit.md) scores.
 - **Government Penalties**: Significant fines and regulatory actions were imposed on Wells Fargo.
 
-Further reading: [Wells Fargo](https://www.wellsfargo.com)
+Further reading: Wells Fargo
 
 ### 3. **Martin Shkreli and Price Gouging**
 
@@ -80,7 +80,7 @@ Martin Shkreli, former CEO of Turing Pharmaceuticals, became infamous for hiking
 - **Public Backlash**: The price hike sparked widespread outrage and discussions on pharmaceutical [industry](../i/industry.md) practices.
 - **Regulatory Scrutiny**: Resulted in various legal actions and regulatory reviews.
 
-Further reading: [Turing Pharmaceuticals](https://www.turingpharma.com)
+Further reading: Turing Pharmaceuticals
 
 ### 4. **Enron Accounting Scandal**
 
@@ -90,7 +90,7 @@ Enron [Corporation](../c/corporation.md), once a top American energy company, em
 - **Financial Illusion**: Misled investors and employees about the company’s actual profitability.
 - **Regulatory Aftermath**: Led to new regulations, like the Sarbanes-Oxley Act, designed to improve [corporate governance](../c/corporate_governance.md) and financial [transparency](../t/transparency.md).
 
-Further reading: [Enron](https://www.enron.com/index.html) (archive)
+Further reading: Enron (archive)
 
 ### 5. **Pyramid Schemes**
 
@@ -111,7 +111,7 @@ The FTC is a U.S. federal agency whose goal is to protect consumers and ensure a
 - **Consumer Protection Laws**: Enforces laws that promote consumer rights and prevent [fraud](../f/fraud.md).
 - **[Business](../b/business.md) Education**: Provides [guidance](../g/guidance.md) to businesses on how to remain compliant with regulations.
 
-Further reading: [FTC](https://www.ftc.gov)
+Further reading: FTC
 
 ### 2. **International Trade Administration (ITA)**
 
@@ -120,7 +120,7 @@ The ITA is part of the U.S. Department of [Commerce](../c/commerce.md) and works
 - **Anti-[dumping](../d/dumping.md) Actions**: Implements measures against illegal [dumping](../d/dumping.md) and subsidies.
 - **[Trade](../t/trade.md) Agreements**: Works on [trade](../t/trade.md) agreements to protect [market](../m/market.md) fairness.
 
-Further reading: [ITA](https://www.trade.gov)
+Further reading: ITA
 
 ### 3. **Competition and Markets Authority (CMA)**
 
@@ -129,7 +129,7 @@ The CMA is a British government body responsible for strengthening [business](..
 - **[Market](../m/market.md) Investigations**: Conducts in-depth [market](../m/market.md) investigations and imposes penalties if needed.
 - **Public Education**: Raises awareness about consumer rights and anti-competitiveness.
 
-Further reading: [CMA](https://www.gov.uk/government/organisations/competition-and-markets-authority)
+Further reading: CMA
 
 ### 4. **European Competition Network (ECN)**
 
@@ -138,7 +138,7 @@ The ECN is a cooperative network of competition authorities within the EU, ensur
 - **Collaboration**: Promotes cooperation among member regulatory bodies.
 - **Harmonized Enforcement**: Ensures laws are uniformly enforced.
 
-Further reading: [ECN](https://ec.europa.eu/competition/ecn/index_en.html)
+Further reading: ECN
 
 ### Conclusion
 

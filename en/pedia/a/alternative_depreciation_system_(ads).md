@@ -1,5 +1,5 @@
 # Alternative Depreciation System (ADS)
-  
+
 The Alternative [Depreciation](../d/depreciation.md) System (ADS) is a method of [depreciation](../d/depreciation.md) required by the Internal [Revenue](../r/revenue.md) Service (IRS) for specific types of property as specified by tax laws. By using a longer recovery period for [depreciation](../d/depreciation.md), ADS tends to slow down the [depreciation](../d/depreciation.md) [expense](../e/expense.md) that businesses can use to reduce their [taxable income](../t/taxable_income.md). The system is important for calculating [depreciation](../d/depreciation.md) on tangible property, often impacting how businesses report the [value](../v/value.md) of their assets and what they owe in [taxes](../t/taxes.md) over the course of an [asset](../a/asset.md)'s life.
 
 ## Key Concepts

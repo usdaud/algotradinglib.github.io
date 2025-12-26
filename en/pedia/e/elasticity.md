@@ -89,8 +89,8 @@ Elasticity is a multifaceted concept with significant implications for [algorith
 
 For further information on companies that specialize in integrating advanced theories like elasticity into [algorithmic trading](../a/accountability.md) systems, you can explore the following links:
 
-- [QuantConnect](https://www.quantconnect.com)
-- [Numerai](https://numer.ai)
-- [Two Sigma](https://www.twosigma.com)
+- QuantConnect
+- Numerai
+- Two Sigma
 
 These organizations [leverage](../l/leverage.md) sophisticated data analysis and [machine learning](../m/machine_learning.md) techniques to enhance [trading strategies](../t/trading_strategies.md), incorporating a wide array of financial theories and models, including elasticity.

@@ -14,9 +14,9 @@ FDI involves investments by multinational corporations in foreign countries. Thi
 ### Transnational Corporations
 Transnational corporations (TNCs) operate in [multiple](../m/multiple.md) countries and are a key driver of globalization. These companies, such as Apple, Microsoft, and Toyota, have extensive global [supply](../s/supply.md) chains and markets. Their operations contribute significantly to global economic activity and employment.
 
-- [Apple](https://www.apple.com)
-- [Microsoft](https://www.microsoft.com)
-- [Toyota](https://www.toyota-global.com)
+- Apple
+- Microsoft
+- Toyota
 
 ### Financial Markets
 Globalization has also led to the integration of [financial markets](../f/financial_market.md). [Capital](../c/capital.md) can flow more easily across borders, allowing investors to diversify their portfolios and seek higher returns. This has also increased the interdependence of economies, as financial crises in one country can quickly spread to others.
@@ -27,10 +27,10 @@ Technological advancements have played a crucial role in accelerating globalizat
 ### Internet and ICT
 The internet and information and communication technology (ICT) have revolutionized global communication and [commerce](../c/commerce.md). E-[commerce](../c/commerce.md) platforms like Amazon and Alibaba have created global marketplaces, while [social media](../s/social_media.md) platforms like Facebook and Twitter facilitate cross-cultural communication and [exchange](../e/exchange.md).
 
-- [Amazon](https://www.amazon.com)
-- [Alibaba](https://www.alibaba.com)
-- [Facebook](https://www.facebook.com)
-- [Twitter](https://www.twitter.com)
+- Amazon
+- Alibaba
+- Facebook
+- Twitter
 
 ### Transportation
 Advancements in transportation, such as the development of cargo ships, airplanes, and [logistics](../l/logistics.md) networks, have significantly reduced the cost and time required to move goods and people across the globe. This has enabled businesses to operate on a global scale and consumers to access products from around the world.
@@ -47,9 +47,9 @@ The spread of English as a global lingua franca is one example of cultural globa
 ### Global Media and Entertainment
 Global media companies like Disney, Netflix, and the BBC have a significant influence on global culture. They produce and distribute content that is consumed by audiences around the world, shaping cultural norms and values.
 
-- [Disney](https://www.disney.com)
-- [Netflix](https://www.netflix.com)
-- [BBC](https://www.bbc.com)
+- Disney
+- Netflix
+- BBC
 
 ## Social and Political Implications
 Globalization has significant social and political implications, influencing issues such as economic inequality, migration, and international relations.
@@ -84,7 +84,7 @@ Geopolitical shifts, such as the rise of China and changing dynamics in internat
 ### Sustainable Development
 The concept of sustainable development [will](../w/will.md) increasingly shape globalization. There is a growing recognition of the need to balance [economic growth](../e/economic_growth.md) with environmental sustainability and social [equity](../e/equity.md). Global initiatives, such as the United Nations Sustainable Development Goals (SDGs), aim to promote a more inclusive and sustainable form of globalization.
 
-- [United Nations Sustainable Development Goals](https://sdgs.un.org/goals)
+- United Nations Sustainable Development Goals
 
 ## Conclusion
 Globalization is a complex and multifaceted phenomenon with far-reaching implications for economies, societies, and the environment. While it offers significant opportunities for growth, innovation, and cultural [exchange](../e/exchange.md), it also presents challenges related to inequality, environmental sustainability, and governance. Understanding and managing these dynamics is crucial for harnessing the benefits of globalization while mitigating its risks.

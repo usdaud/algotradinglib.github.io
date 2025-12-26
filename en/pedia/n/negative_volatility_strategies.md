@@ -37,7 +37,7 @@ Creating [spreads](../s/spreads.md) using [volatility](../v/volatility.md) [deri
 
 - **Calendar [Spreads](../s/spreads.md)**: Buying and selling [options](../o/options.md) with the same [strike price](../s/strike_price.md) but different expiration dates. This strategy profits if [volatility](../v/volatility.md) remains stable over the [near term](../n/near_term.md) but rises in the far term.
 - **Vertical [Spreads](../s/spreads.md)**: Involves buying and selling [options](../o/options.md) of the same type (calls or puts) with different strike prices. This strategy profits from reduced [volatility](../v/volatility.md) as long as the [underlying asset](../u/underlying_asset.md) doesn't make significant moves.
-  
+
 ### Delta Hedging
 
 [Delta hedging](../d/delta_hedging.md) involves constructing a portfolio that is [neutral](../n/neutral.md) to small movements in the price of an [underlying asset](../u/underlying_asset.md). By continuously adjusting the [hedge](../h/hedge.md) as markets move, traders aim to [profit](../p/profit.md) from the [premium](../p/premium.md) received on the [options](../o/options.md), without taking directional [risk](../r/risk.md).
@@ -57,9 +57,9 @@ Statistical [arbitrage](../a/arbitrage.md) strategies seek to [profit](../p/prof
 
 Several financial firms and [hedge](../h/hedge.md) funds specialize in [volatility](../v/volatility.md) trading, particularly in implementing negative [volatility](../v/volatility.md) strategies. Some notable companies include:
 
-- **Two Sigma Investments**: A tech-driven [firm](../f/firm.md) that combines advanced [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [big data](../b/big_data_in_trading.md) to execute a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including [volatility](../v/volatility.md) trading. Learn more at [Two Sigma](https://www.twosigma.com/).
-- **Renaissance Technologies**: Known for the Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) utilizes quantitative methods to achieve high returns while managing [risk](../r/risk.md), including [volatility risk](../v/volatility_risk.md). Visit [Renaissance Technologies](https://www.rentec.com/).
-- **AQR [Capital](../c/capital.md) Management**: Employs a diverse approach to trading, including strategies that involve shorting [volatility](../v/volatility.md). Detailed information can be found at [AQR](https://www.aqr.com/).
+- **Two Sigma Investments**: A tech-driven [firm](../f/firm.md) that combines advanced [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [big data](../b/big_data_in_trading.md) to execute a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including [volatility](../v/volatility.md) trading. Learn more at Two Sigma.
+- **Renaissance Technologies**: Known for the Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) utilizes quantitative methods to achieve high returns while managing [risk](../r/risk.md), including [volatility risk](../v/volatility_risk.md). Visit Renaissance Technologies.
+- **AQR [Capital](../c/capital.md) Management**: Employs a diverse approach to trading, including strategies that involve shorting [volatility](../v/volatility.md). Detailed information can be found at AQR.
 
 ## Risks Associated with Negative Volatility Strategies
 

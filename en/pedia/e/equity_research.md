@@ -67,10 +67,10 @@ Effective [risk management](../r/risk_management.md) strategies are essential fo
 
 Several firms specialize in providing [equity](../e/equity.md) research services tailored for [algorithmic trading](../a/algorithmic_trading.md):
 
-- **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive financial data and analytics tools for [equity](../e/equity.md) research (https://www.[bloomberg](../b/bloomberg.md).com/).
-- **[Morningstar](../m/morningstar.md)**: Provides [equity](../e/equity.md) research, ratings, and data for a wide [range](../r/range.md) of securities (https://www.[morningstar](../m/morningstar.md).com/).
-- **[FactSet](../f/factset.md)**: Delivers integrated data and research tools for investment professionals (https://www.[factset](../f/factset.md).com/).
-- **Thomson [Reuters](../r/reuters.md)**: Supplies financial [market](../m/market.md) data and analytical tools, now part of Refinitiv (https://www.refinitiv.com/).
+- **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive financial data and analytics tools for [equity](../e/equity.md) research (
+- **[Morningstar](../m/morningstar.md)**: Provides [equity](../e/equity.md) research, ratings, and data for a wide [range](../r/range.md) of securities (
+- **[FactSet](../f/factset.md)**: Delivers integrated data and research tools for investment professionals (
+- **Thomson [Reuters](../r/reuters.md)**: Supplies financial [market](../m/market.md) data and analytical tools, now part of Refinitiv (
 
 ## Conclusion
 

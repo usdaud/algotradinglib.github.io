@@ -1,12 +1,12 @@
 # Global Trend Analysis
 
-Global [Trend Analysis](../t/trend_analysis.md) (GTA) in [algorithmic trading](../a/algorithmic_trading.md) refers to the practice of identifying and interpreting trends in global [financial markets](../f/financial_market.md) to make informed trading decisions. This analytical approach leverages a vast array of data sources, advanced statistical methods, and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to uncover patterns and predict future [market](../m/market.md) movements across different [asset](../a/asset.md) classes, including equities, commodities, currencies, and [fixed income securities](../f/fixed_income_securities.md). The ultimate goal of GTA is to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks. 
+Global [Trend Analysis](../t/trend_analysis.md) (GTA) in [algorithmic trading](../a/algorithmic_trading.md) refers to the practice of identifying and interpreting trends in global [financial markets](../f/financial_market.md) to make informed trading decisions. This analytical approach leverages a vast array of data sources, advanced statistical methods, and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to uncover patterns and predict future [market](../m/market.md) movements across different [asset](../a/asset.md) classes, including equities, commodities, currencies, and [fixed income securities](../f/fixed_income_securities.md). The ultimate goal of GTA is to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks.
 
 ## Key Concepts in Global Trend Analysis
 
 ### 1. **Trend Identification**
 
-Identifying trends is the cornerstone of Global [Trend Analysis](../t/trend_analysis.md). Traders and analysts use various [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), to determine the direction of the [market](../m/market.md). 
+Identifying trends is the cornerstone of Global [Trend Analysis](../t/trend_analysis.md). Traders and analysts use various [technical indicators](../t/technical_indicators.md), such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)), to determine the direction of the [market](../m/market.md).
 
 - **Moving Averages**: Simple Moving Average (SMA) and Exponential Moving Average (EMA) smooth out price data to highlight the [underlying](../u/underlying.md) [trend](../t/trend.md).
 - **RSI**: Measures the magnitude of recent price changes to determine [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
@@ -44,7 +44,7 @@ GTA in [equity](../e/equity.md) markets aims to [capitalize](../c/capitalize.md)
 
 ### 2. **Forex Trading**
 
-In the forex [market](../m/market.md), GTA helps traders understand [currency](../c/currency.md) pair movements influenced by [interest](../i/interest.md) rates, economic policies, and [geopolitical events](../g/geopolitical_events.md). 
+In the forex [market](../m/market.md), GTA helps traders understand [currency](../c/currency.md) pair movements influenced by [interest](../i/interest.md) rates, economic policies, and [geopolitical events](../g/geopolitical_events.md).
 
 ### 3. **Commodities**
 
@@ -58,9 +58,9 @@ In the [bond market](../b/bond_market.md), GTA evaluates [interest rate](../i/in
 
 Several leading financial institutions and fintech companies specialize in Global [Trend Analysis](../t/trend_analysis.md) for [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Two Sigma**: Known for its data-driven approach and [machine learning](../m/machine_learning.md) techniques, Two Sigma leverages GTA to manage its diverse investment strategies. Visit [Two Sigma](https://www.twosigma.com/) for more information.
-- **Renaissance Technologies**: This [hedge fund](../h/hedge_fund.md) relies heavily on [quantitative models](../q/quantitative_models.md) and GTA to achieve high returns. More about the [firm](../f/firm.md) can be found at [Renaissance Technologies](https://www.rentec.com/).
-- **Citadel**: A global financial services [firm](../f/firm.md), Citadel employs sophisticated algorithms and [data analytics](../d/data_analytics.md) to inform its [trading strategies](../t/trading_strategies.md). Learn more on [Citadel's website](https://www.citadel.com/).
+- **Two Sigma**: Known for its data-driven approach and [machine learning](../m/machine_learning.md) techniques, Two Sigma leverages GTA to manage its diverse investment strategies. Visit Two Sigma for more information.
+- **Renaissance Technologies**: This [hedge fund](../h/hedge_fund.md) relies heavily on [quantitative models](../q/quantitative_models.md) and GTA to achieve high returns. More about the [firm](../f/firm.md) can be found at Renaissance Technologies.
+- **Citadel**: A global financial services [firm](../f/firm.md), Citadel employs sophisticated algorithms and [data analytics](../d/data_analytics.md) to inform its [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

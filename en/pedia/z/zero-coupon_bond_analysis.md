@@ -102,19 +102,19 @@ Zero-coupon bonds are issued by various entities, including governments, corpora
 - [Duration](../d/duration.md) and [sensitivity analysis](../s/sensitivity_analysis.md)
 - [Risk management](../r/risk_management.md) tools
 
-**Link**: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+**Link**: Bloomberg
 
 ### Thomson Reuters Eikon
 
 Thomson [Reuters](../r/reuters.md) Eikon offers similar functionalities, with advanced [data analytics](../d/data_analytics.md) and integration for [algorithmic trading](../a/algorithmic_trading.md).
 
-**Link**: [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+**Link**: Refinitiv Eikon
 
 ### QuantConnect
 
 [QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live [trading strategies](../t/trading_strategies.md), with libraries for [fixed income](../f/fixed_income.md) analytics.
 
-**Link**: [QuantConnect](https://www.quantconnect.com/)
+**Link**: QuantConnect
 
 ### MATLAB and Python Libraries
 
@@ -122,8 +122,8 @@ MATLAB and Python [offer](../o/offer.md) libraries specifically designed for fin
 - **[QuantLib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md)
 - **FixedIncome Toolbox**: MATLAB toolbox for [bond valuation](../b/bond_valuation.md) and analysis
 
-**Link**: [QuantLib](https://www.quantlib.org/)
-**Link**: [MATLAB Fixed Income](https://www.mathworks.com/products/finance/examples/fixed-income.html)
+**Link**: QuantLib
+**Link**: MATLAB Fixed Income
 
 ## Conclusion
 

@@ -36,11 +36,11 @@ Normalization involves adjusting the scale of data values to ensure consistency.
 
 Several tools and platforms provide services and software solutions for redundancy reduction in [algorithmic trading](../a/algorithmic_trading.md). These platforms include data management systems, analytics tools, and specialized software for [trading algorithm development](../t/trading_algorithm_development.md).
 
-1. **KX Systems**: Known for its high-performance, time-series database kdb+, KX Systems offers powerful data management solutions that help in reducing data redundancy. More information can be found on their website: [KX Systems](https://kx.com/).
+1. **KX Systems**: Known for its high-performance, time-series database kdb+, KX Systems offers powerful data management solutions that help in reducing data redundancy. KX Systems.
 
-2. **Apache Hadoop**: This [open](../o/open.md)-source software framework is used for distributed storage and processing of large data sets. Hadoop’s ecosystem includes tools like HDFS for distributed storage which can help in managing redundancy efficiently. Visit: [Apache Hadoop](https://hadoop.apache.org/).
+2. **Apache Hadoop**: This [open](../o/open.md)-source software framework is used for distributed storage and processing of large data sets. Hadoop’s ecosystem includes tools like HDFS for distributed storage which can help in managing redundancy efficiently. Visit: Apache Hadoop.
 
-3. **Amazon Web Services (AWS)**: AWS provides various data storage and management services like S3, Redshift, and Glue that [offer](../o/offer.md) capabilities for data deduplication and redundancy reduction. More details are available on their official site: [Amazon Web Services](https://aws.amazon.com/).
+3. **Amazon Web Services (AWS)**: AWS provides various data storage and management services like S3, Redshift, and Glue that [offer](../o/offer.md) capabilities for data deduplication and redundancy reduction.
 
 ## Case Studies and Real-World Applications
 

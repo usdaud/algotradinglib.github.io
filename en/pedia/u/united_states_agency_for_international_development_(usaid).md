@@ -97,6 +97,6 @@ Looking ahead, USAID aims to adapt to evolving global challenges and continue it
 
 ## Resources and Contact Information
 
-To learn more about USAID, its programs, and ongoing initiatives, visit the official [USAID website](https://www.usaid.gov). For specific inquiries, the agency provides contact information for various departments and country missions on its website.
+To For specific inquiries, the agency provides contact information
 
 In summary, USAID plays a critical role in international development and humanitarian assistance, striving to bring about positive global change aligned with U.S. foreign policy objectives. Through strategic initiatives, collaborative partnerships, and a commitment to accountability, USAID continues to address some of the world’s most pressing challenges.

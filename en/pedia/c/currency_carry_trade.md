@@ -33,30 +33,30 @@ While [currency](../c/currency.md) [carry trade](../c/carry_trade.md) can be pro
 3. **[Leverage](../l/leverage.md) [Risk](../r/risk.md)**: Carry trades are often highly leveraged, which can amplify both gains and losses.
 4. **[Liquidity Risk](../l/liquidity_risk.md)**: Rapid [market](../m/market.md) movements could make it difficult to exit positions without incurring significant losses.
 5. **Economic and [Political Risk](../p/political_risk.md)**: Macroeconomic and political events can impact [currency](../c/currency.md) prices and [interest](../i/interest.md) rates.
-  
+
 ## Real World Examples and Companies
 
 ### Fund Managers
 
 Several large [fund](../f/fund.md) managers and investment firms participate in [currency](../c/currency.md) carry trades:
 
-- **Bridgewater Associates**: One of the world's largest [hedge](../h/hedge.md) funds, known for using a variety of macroeconomic strategies, including carry trades. [Bridgewater Associates](https://www.bridgewater.com/)
-- **Pacific [Investment Management](../i/investment_management.md) Company (PIMCO)**: Another major player in the [carry trade](../c/carry_trade.md) arena, leveraging global [interest rate](../i/interest_rate.md) differentials. [PIMCO](https://www.pimco.com/)
-- **AQR [Capital](../c/capital.md) Management**: Employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) to execute carry trades among other financial strategies. [AQR Capital Management](https://www.aqr.com/)
+- **Bridgewater Associates**: One of the world's largest [hedge](../h/hedge.md) funds, known for using a variety of macroeconomic strategies, including carry trades. Bridgewater Associates
+- **Pacific [Investment Management](../i/investment_management.md) Company (PIMCO)**: Another major player in the [carry trade](../c/carry_trade.md) arena, leveraging global [interest rate](../i/interest_rate.md) differentials. PIMCO
+- **AQR [Capital](../c/capital.md) Management**: Employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) to execute carry trades among other financial strategies. AQR Capital Management
 
 ### Banks
 
 Large financial institutions also engage in carry trades, often as part of their broader [currency](../c/currency.md) [trading strategies](../t/trading_strategies.md):
 
-- **Goldman Sachs**: Utilizes [proprietary trading](../p/proprietary_trading.md) and algorithmic strategies to [capitalize](../c/capitalize.md) on [carry trade](../c/carry_trade.md) opportunities. [Goldman Sachs](https://www.goldmansachs.com/)
-- **J.P. Morgan**: Involved in the [execution](../e/execution.md) of carry trades through its [investment banking](../i/investment_banking.md) and [asset management](../a/asset_management.md) arms. [J.P. Morgan](https://www.jpmorgan.com/)
-- **Deutsche [Bank](../b/bank.md)**: Known for its active participation in global forex markets, including [carry trade](../c/carry_trade.md) activities. [Deutsche Bank](https://www.db.com/)
+- **Goldman Sachs**: Utilizes [proprietary trading](../p/proprietary_trading.md) and algorithmic strategies to [capitalize](../c/capitalize.md) on [carry trade](../c/carry_trade.md) opportunities. Goldman Sachs
+- **J.P. Morgan**: Involved in the [execution](../e/execution.md) of carry trades through its [investment banking](../i/investment_banking.md) and [asset management](../a/asset_management.md) arms. J.P. Morgan
+- **Deutsche [Bank](../b/bank.md)**: Known for its active participation in global forex markets, including [carry trade](../c/carry_trade.md) activities. Deutsche Bank
 
 ### Platforms Offering Carry Trade Facilities
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides tools and [leverage](../l/leverage.md) [options](../o/options.md) that facilitate carry trading activities. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **[Saxo Bank](../s/saxo_bank.md)**: Offers sophisticated trading platforms and access to global forex markets essential for carry trading. [Saxo Bank](https://www.home.saxo/)
-- **[OANDA](../o/oanda.md)**: A popular forex [trading platform](../t/trading_platform.md) that offers real-time [interest rate](../i/interest_rate.md) data and tools for carry traders. [OANDA](https://www.oanda.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides tools and [leverage](../l/leverage.md) [options](../o/options.md) that facilitate carry trading activities. Interactive Brokers
+- **[Saxo Bank](../s/saxo_bank.md)**: Offers sophisticated trading platforms and access to global forex markets essential for carry trading. Saxo Bank
+- **[OANDA](../o/oanda.md)**: A popular forex [trading platform](../t/trading_platform.md) that offers real-time [interest rate](../i/interest_rate.md) data and tools for carry traders. OANDA
 
 ## Strategies for Successful Carry Trades
 

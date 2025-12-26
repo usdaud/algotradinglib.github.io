@@ -42,5 +42,3 @@ Hargreaves Lansdown integrates with a variety of financial platforms and tools t
 ## Regulation
 Hargreaves Lansdown is regulated by the Financial Conduct Authority (FCA) in the UK, ensuring a secure and compliant [trading environment](../t/trading_environment.md).
 
-## Website
-For more information and to start trading, visit the official Hargreaves Lansdown website: [Hargreaves Lansdown](https://www.hl.co.uk)

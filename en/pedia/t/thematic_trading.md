@@ -94,19 +94,19 @@ While [thematic investing](../t/thematic_investing.md) inherently involves [dive
 
 ### Ark Invest
 
-Ark Invest is renowned for its focus on [disruptive innovation](../d/disruptive_innovation.md). It offers several ETFs that align with various thematic trends. The [firm](../f/firm.md)'s CEO, Cathie Wood, is known for her forward-thinking investment approach. [Ark Invest website](https://ark-invest.com).
+Ark Invest is renowned for its focus on [disruptive innovation](../d/disruptive_innovation.md). It offers several ETFs that align with various thematic trends. The [firm](../f/firm.md)'s CEO, Cathie Wood, is known
 
 ### BlackRock
 
-BlackRock is one of the world's largest [asset](../a/asset.md) managers, [offering](../o/offering.md) a [range](../r/range.md) of thematic ETFs through its [iShares](../i/ishares.md) brand. These funds focus on emerging technologies, sustainability, and other prominent themes. [BlackRock website](https://www.blackrock.com).
+BlackRock is one of the world's largest [asset](../a/asset.md) managers, [offering](../o/offering.md) a [range](../r/range.md) of thematic ETFs through its [iShares](../i/ishares.md) brand. These funds focus on emerging technologies, sustainability,
 
 ### Global X
 
-Global X manages numerous thematic ETFs that cover various trends, including technology, [demographics](../d/demographics.md), and global growth opportunities. Its thematic funds are designed to capture long-term growth potential driven by these trends. [Global X website](https://www.globalxetfs.com).
+Global X manages numerous thematic ETFs that cover various trends, including technology, [demographics](../d/demographics.md), and global growth opportunities. Its thematic funds are designed to capture
 
 ### First Trust
 
-First [Trust](../t/trust.md) offers a variety of thematic investment products, including ETFs and mutual funds. These products allow investors to [gain](../g/gain.md) exposure to specific themes such as technology, healthcare, and clean energy. [First Trust website](https://www.ftportfolios.com).
+First [Trust](../t/trust.md) offers a variety of thematic investment products, including ETFs and mutual funds. These products allow investors to [gain](../g/gain.md) exposure to specific themes such as technology, healthcare,
 
 ## Conclusion
 

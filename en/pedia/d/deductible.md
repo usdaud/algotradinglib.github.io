@@ -28,7 +28,7 @@ By using deductibles to limit loss exposure, traders can diversify their portfol
 
 In trading platforms, fees can be considered as deductibles. Some platforms [offer](../o/offer.md) trading on a tiered [fee](../f/fee.md) structure where lower fees are applied after a certain [volume](../v/volume.md) of trades, which works similarly to reaching a deductible.
 
-- **[Broker](../b/broker.md) Example:** [E*TRADE](../e/e_trade.md) (https://us.etrade.com/[home](../h/home.md)) offers [volume](../v/volume.md)-based trading fees, reducing per-[trade](../t/trade.md) costs once specific thresholds are met.
+- **[Broker](../b/broker.md) Example:** [E*TRADE](../e/e_trade.md) ( offers [volume](../v/volume.md)-based trading fees, reducing per-[trade](../t/trade.md) costs once specific thresholds are met.
 
 ### Trade Execution Costs
 
@@ -51,7 +51,7 @@ Prior to executing a [trade](../t/trade.md), algorithms may perform a series of 
 
 Several platforms and institutions specialize in [algorithmic trading](../a/accountability.md) and [offer](../o/offer.md) various ways to manage and minimize costs and risks, effectively using deductibles in practice:
 
-- **[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/):** Provides extensive tools for [algorithmic trading](../a/accountability.md) and advanced [risk management](../r/risk_management.md).
+- **[Interactive Brokers](../i/interactive_brokers.md) ( Provides extensive tools for [algorithmic trading](../a/accountability.md) and advanced [risk management](../r/risk_management.md).
 
 ## Conclusion
 

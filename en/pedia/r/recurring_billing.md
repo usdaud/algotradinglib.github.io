@@ -23,9 +23,9 @@ Recurring billing is a [payment](../p/payment.md) model that allows businesses t
 ### 1. **Billing Software**
 Billing software is the backbone of any recurring billing system. It manages invoicing, [payment](../p/payment.md) processing, and integrates with other [business](../b/business.md) systems. Popular billing software solutions include:
 
-- **Stripe**: A [payment](../p/payment.md) processor that offers [robust](../r/robust.md) recurring billing features. [Stripe](https://stripe.com/).
-- **Recurly**: A subscription billing platform specifically designed for recurring billing businesses. [Recurly](https://recurly.com/).
-- **Zuora**: A subscription management platform for businesses of all sizes. [Zuora](https://www.zuora.com/).
+- **Stripe**: A [payment](../p/payment.md) processor that offers [robust](../r/robust.md) recurring billing features. Stripe.
+- **Recurly**: A subscription billing platform specifically designed for recurring billing businesses. Recurly.
+- **Zuora**: A subscription management platform for businesses of all sizes. Zuora.
 
 ### 2. **Payment Gateways**
 [Payment](../p/payment.md) gateways facilitate the transfer of funds from the [customer](../c/customer.md) to the [business](../b/business.md). They ensure secure transactions and support various [payment](../p/payment.md) methods, including [credit](../c/credit.md)/[debit](../d/debit.md) cards, [bank](../b/bank.md) transfers, and digital wallets.
@@ -73,20 +73,20 @@ Integrating the billing system with other [business](../b/business.md) systems, 
 ### 1. **Software as a Service (SaaS)**
 SaaS companies often rely on recurring billing to charge customers monthly or annually for access to their software. Examples include:
 
-- **Salesforce**: Offers CRM software on a subscription [basis](../b/basis.md). [Salesforce](https://www.salesforce.com/).
-- **Slack**: Provides team collaboration software with per-user monthly billing. [Slack](https://slack.com/).
+- **Salesforce**: Offers CRM software on a subscription [basis](../b/basis.md). Salesforce.
+- **Slack**: Provides team collaboration software with per-user monthly billing. Slack.
 
 ### 2. **Media and Entertainment**
 Streaming services and digital magazines use recurring billing to [offer](../o/offer.md) content subscriptions. Examples include:
 
-- **Netflix**: Charges a monthly [fee](../f/fee.md) for access to streaming media. [Netflix](https://www.netflix.com/).
-- **Spotify**: Uses recurring billing for [premium](../p/premium.md) music subscriptions. [Spotify](https://www.spotify.com/).
+- **Netflix**: Charges a monthly [fee](../f/fee.md) for access to streaming media. Netflix.
+- **Spotify**: Uses recurring billing for [premium](../p/premium.md) music subscriptions. Spotify.
 
 ### 3. **E-commerce**
 Subscription boxes and membership services in e-[commerce](../c/commerce.md) utilize recurring billing to provide ongoing product delivery. Examples include:
 
-- **Dollar Shave Club**: Delivers personal grooming products on a subscription [basis](../b/basis.md). [Dollar Shave Club](https://www.dollarshaveclub.com/).
-- **Amazon Prime**: Charges an annual [fee](../f/fee.md) for [premium](../p/premium.md) services like free shipping and exclusive content. [Amazon Prime](https://www.amazon.com/prime).
+- **Dollar Shave Club**: Delivers personal grooming products on a subscription [basis](../b/basis.md). Dollar Shave Club.
+- **Amazon Prime**: Charges an annual [fee](../f/fee.md) for [premium](../p/premium.md) services like free shipping and exclusive content. Amazon Prime.
 
 ### 4. **Utilities**
 [Utility](../u/utility.md) companies, such as electricity, water, and internet providers, use recurring billing to charge customers based on usage or a fixed rate.

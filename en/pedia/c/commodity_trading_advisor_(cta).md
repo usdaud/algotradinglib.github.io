@@ -46,13 +46,13 @@ Technology has significantly influenced the CTA landscape, enhancing their capab
 3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Analyzes vast datasets for [market](../m/market.md) insights.
 4. **[Blockchain](../b/blockchain_in_trading.md)**: Promises [transparency](../t/transparency.md) and [security](../s/security.md) in trading activities.
 
-## Leading CTAs 
+## Leading CTAs
 
 Some prominent firms in the [industry](../i/industry.md) include:
 
-1. **Winton Group**: Known for its data-driven, systematic approach [Winton](https://www.winton.com).
-2. **AHL Partners LLP**: Part of Man Group, it utilizes [quantitative strategies](../q/quantitative_strategies_in_trading.md) [Man Group](https://www.man.com/ahl).
-3. **Aspect [Capital](../c/capital.md)**: Employs [systematic trading](../s/systematic_trading.md) strategies [Aspect Capital](https://www.aspectcapital.com).
+1. **Winton Group**: Known for its data-driven, systematic approach Winton.
+2. **AHL Partners LLP**: Part of Man Group, it utilizes [quantitative strategies](../q/quantitative_strategies_in_trading.md) Man Group.
+3. **Aspect [Capital](../c/capital.md)**: Employs [systematic trading](../s/systematic_trading.md) strategies Aspect Capital.
 
 ## Challenges Faced by CTAs
 

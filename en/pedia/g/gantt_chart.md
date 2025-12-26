@@ -21,11 +21,11 @@ To create a Gantt chart, one usually starts by listing all tasks and subtasks al
 ### Software Tools
 While Gantt charts can be drawn manually, various [software tools](../s/software_tools_for_trading.md) [offer](../o/offer.md) more efficient ways of creating and managing them. Some popular tools include:
 
-- **Microsoft Project:** A comprehensive [project management](../p/project_management.md) software that offers [robust](../r/robust.md) Gantt chart features. [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
-- **Smartsheet:** An online application that provides Gantt chart functionalities along with other [project management](../p/project_management.md) tools. [Smartsheet](https://www.smartsheet.com)
-- **GanttPRO:** A web-based tool specifically designed for creating Gantt charts. [GanttPRO](https://ganttpro.com)
-- **Trello:** A more general [project management](../p/project_management.md) tool that can support Gantt chart features through extensions. [Trello](https://trello.com)
-- **Monday.com:** A work operating system that includes Gantt chart functionalities. [Monday.com](https://monday.com)
+- **Microsoft Project:** A comprehensive [project management](../p/project_management.md) software that offers [robust](../r/robust.md) Gantt chart features. Microsoft Project
+- **Smartsheet:** An online application that provides Gantt chart functionalities along with other [project management](../p/project_management.md) tools. Smartsheet
+- **GanttPRO:** A web-based tool specifically designed for creating Gantt charts. GanttPRO
+- **Trello:** A more general [project management](../p/project_management.md) tool that can support Gantt chart features through extensions. Trello
+- **Monday.com:** A work operating system that includes Gantt chart functionalities. Monday.com
 
 ## Applications
 Gantt charts are useful in various industries where [project management](../p/project_management.md) is crucial. They are commonly used in:

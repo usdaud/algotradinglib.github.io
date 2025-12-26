@@ -67,8 +67,8 @@ Unlike traditional [interest](../i/interest.md) [income](../i/income.md):
 [Earnings](../e/earnings.md) [Credit](../c/credit.md) Rate (ECR) represents a sophisticated financial tool that banks employ to provide non-monetary benefits to their clients. It enhances the [value proposition](../v/value_proposition.md) for both banks and depositors by fostering better [cash management](../c/cash_management.md), improving [liquidity](../l/liquidity.md), and optimizing operational costs. Understanding the nuances of ECR calculations and applications can empower businesses across various sectors to [leverage](../l/leverage.md) their banking relationships more effectively and economically.
 
 For more detailed insights into how leading banks implement ECR, you can visit the following links:
-- [Bank of America](https://www.bankofamerica.com)
-- [Wells Fargo](https://www.wellsfargo.com)
-- [J.P. Morgan](https://www.jpmorgan.com)
+- Bank of America
+- Wells Fargo
+- J.P. Morgan
 
 These resources provide additional information on the services and specific ECR offerings by these major financial institutions.

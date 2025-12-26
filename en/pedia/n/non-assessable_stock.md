@@ -21,7 +21,7 @@ The issuance of non-assessable stock carries several critical implications for b
 ### For Shareholders
 
 1. **Financial [Security](../s/security.md)**: Shareholders are assured that their financial commitment is capped at their initial investment. This [assurance](../a/assurance.md) is crucial in mitigating potential risks and encouraging broader participation in [equity](../e/equity.md) markets.
-  
+
 2. **Investment Attractiveness**: The non-assessable nature of [stocks](../s/stock.md) can make them more attractive to potential investors. Knowing that no future liabilities [will](../w/will.md) be incurred beyond the initial purchase can lead to increased [demand](../d/demand.md) for the company's stock.
 
 3. **Legal Protections**: Non-assessable stock shields shareholders from lawsuits or corporate [financial distress](../f/financial_distress.md) that might otherwise require further financial input from them.
@@ -40,7 +40,7 @@ The issuance and designation of non-assessable stock are governed by regulatory 
 
 ### United States
 
-In the U.S., state laws primarily govern the issuance of non-assessable stock. For instance, Delaware General [Corporation](../c/corporation.md) Law, which is highly influential due to the number of corporations incorporated in Delaware, provides clear guidelines on stock issuance and the non-assessable nature of [shares](../s/shares.md). [Delaware General Corporation Law](https://delcode.delaware.gov/title8/c001/sc03/index.html).
+In the U.S., state laws primarily govern the issuance of non-assessable stock. For instance, Delaware General [Corporation](../c/corporation.md) Law, which is highly influential due to the number of corporations incorporated in Delaware, provides clear guidelines on stock issuance and the non-assessable nature of [shares](../s/shares.md). Delaware General Corporation Law.
 
 ### International Perspectives
 
@@ -50,11 +50,11 @@ Other countries have similar regulations, ensuring that the concept of non-asses
 
 ### Google LLC
 
-Alphabet Inc., the [parent company](../p/parent_company.md) of Google, issues non-assessable stock to its shareholders. This policy has contributed to attracting a broad base of investors, confident in their immunity from future financial liabilities beyond their initial investments. More details about Alphabet Inc.'s stock can be found on their [investor relations page](https://abc.xyz/investor/).
+Alphabet Inc., the [parent company](../p/parent_company.md) of Google, issues non-assessable stock to its shareholders. This policy has contributed to attracting a broad base of investors, confident in their immunity from future financial liabilities beyond their initial investments. More details about Alphabet Inc.'s stock can be found on their company filings.
 
 ### Tesla, Inc.
 
-Tesla is another example of a company issuing non-assessable stock. The electric vehicle manufacturer has effectively leveraged this approach to raise significant [capital](../c/capital.md) from investors globally, aiding in its expansive growth and innovation. Information on Tesla’s stock issuance can be accessed on their [investor relations page](https://ir.tesla.com/).
+Tesla is another example of a company issuing non-assessable stock. The electric vehicle manufacturer has effectively leveraged this approach to raise significant [capital](../c/capital.md) from investors globally, aiding in its expansive growth and innovation. Information on Tesla’s stock issuance can be accessed on their company filings.
 
 ## Conclusion
 

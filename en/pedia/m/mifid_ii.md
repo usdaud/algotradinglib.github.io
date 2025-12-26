@@ -79,7 +79,7 @@ MiFID II places a significant emphasis on [investor](../i/investor.md) protectio
 
 ### 3. Mitigating Systemic Risk
 
-MiFID II seeks to mitigate [systemic risk](../s/systemic_risk.md) within [financial markets](../f/financial_market.md) by enforcing rigorous regulations on trading practices such as [algorithmic trading](../a/accountability.md) and high-frequency trading. By requiring firms to implement [risk](../r/risk.md) controls and abide by [transparency](../t/transparency.md) and reporting standards, the directive helps maintain [market](../m/market.md) stability and reduce the likelihood of disruptive [market](../m/market.md) events.
+MiFID II seeks to mitigate [systemic risk](../s/systemic_risk.md) within [financial markets](../f/financial_market.md) by enforcing rigorous regulations on trading practices such as [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading. By requiring firms to implement [risk](../r/risk.md) controls and abide by [transparency](../t/transparency.md) and reporting standards, the directive helps maintain [market](../m/market.md) stability and reduce the likelihood of disruptive [market](../m/market.md) events.
 
 ### 4. Promoting Market Integrity
 
@@ -97,5 +97,4 @@ Lastly, MiFID II supports the establishment of a single [market](../m/market.md)
 
 MiFID II represents a comprehensive and transformative regulatory framework designed to enhance the functioning of [financial markets](../f/financial_market.md) within the EU and the broader EEA. Its multifaceted regulations seek to improve [transparency](../t/transparency.md), strengthen [investor](../i/investor.md) protection, mitigate [systemic risk](../s/systemic_risk.md), promote [market](../m/market.md) integrity, and foster fair competition. The directive's far-reaching impact extends to a wide [range](../r/range.md) of stakeholders, including investment firms, trading venues, service providers, issuers, and investors. Through MiFID II, the EU aims to create a more transparent, efficient, and secure financial [market](../m/market.md) that supports [economic growth](../e/economic_growth.md) and [investor](../i/investor.md) confidence.
 
-For further details, please refer to the official European [Commission](../c/commission.md) page on MiFID II:
-[European Commission MiFID II](https://ec.europa.eu/info/law/markets-financial-instruments-mifid-ii-directive-2014-65-eu_en)
+For further details, refer to European [Commission](../c/commission.md) publications on MiFID II.

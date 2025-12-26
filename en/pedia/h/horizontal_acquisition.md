@@ -17,12 +17,12 @@ Horizontal [acquisition](../a/acquisition.md), often referred to as a [horizonta
 ## Examples of Horizontal Acquisitions
 
 1. **Facebook and Instagram**: In 2012, Facebook acquired Instagram for approximately $1 billion. Both companies operated in the [social media](../s/social_media.md) space, allowing Facebook to expand its user base and enhance its photo-sharing capabilities.
-   
+
 2. **Disney and 21st Century Fox**: Disney's [acquisition](../a/acquisition.md) of 21st Century Fox in 2019 for $71.3 billion exemplifies a notable horizontal [acquisition](../a/acquisition.md) in the entertainment [industry](../i/industry.md). The [merger](../m/merger.md) brought together two of the largest studios, combining their media assets and intellectual properties.
-   [Disney Official Website](https://thewaltdisneycompany.com)
+
 
 3. **Volkswagen and Porsche**: Volkswagen's [acquisition](../a/acquisition.md) of Porsche in 2012 allowed the former to expand its luxury car offerings and [leverage](../l/leverage.md) Porsche’s brand strength and advanced engineering.
-   [Volkswagen Group Official Website](https://www.volkswagenag.com)
+
 
 ## Legal and Regulatory Considerations
 
@@ -53,13 +53,13 @@ Horizontal acquisitions are often subject to stringent scrutiny from regulatory 
 ## Case Studies of Successful Horizontal Acquisitions
 
 1. **Exxon and Mobil**: The [merger](../m/merger.md) between Exxon and Mobil in 1999 led to the creation of ExxonMobil, one of the largest oil and gas companies in the world. This [merger](../m/merger.md) enabled significant cost savings through [economies of scale](../e/economies_of_scale.md) and combined resources.
-   [ExxonMobil Official Website](https://corporate.exxonmobil.com)
+
 
 2. **Sirius and XM Radio**: In 2008, Sirius Satellite Radio merged with XM Satellite Radio to create SiriusXM. This [merger](../m/merger.md) brought together two leading satellite radio providers, enhancing their service offerings and [customer](../c/customer.md) base.
-   [SiriusXM Official Website](https://www.siriusxm.com)
+
 
 3. **Dell and EMC**: Dell’s [acquisition](../a/acquisition.md) of EMC in 2016 for $67 billion created one of the largest technology mergers. The combined entity leveraged EMC’s storage solutions with Dell’s [market](../m/market.md) presence in personal computers and servers.
-   [Dell Technologies Official Website](https://www.delltechnologies.com)
+
 
 ## Failed Horizontal Acquisitions
 

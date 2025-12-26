@@ -1,7 +1,7 @@
 # Proportional Hazards Models
 
 ## Introduction
-Proportional hazards models are a class of statistical models primarily used to analyze and interpret time-to-event data. These models are particularly beneficial when dealing with censored data, a common occurrence in financial datasets where not all events have been observed due to the truncation of the study period. In [algorithmic trading](../a/algorithmic_trading.md), proportional hazards models can be utilized to predict the likelihood of certain [market](../m/market.md) events, such as price drops or the failure of a [trading strategy](../t/trading_strategy.md) within particular time frames. 
+Proportional hazards models are a class of statistical models primarily used to analyze and interpret time-to-event data. These models are particularly beneficial when dealing with censored data, a common occurrence in financial datasets where not all events have been observed due to the truncation of the study period. In [algorithmic trading](../a/algorithmic_trading.md), proportional hazards models can be utilized to predict the likelihood of certain [market](../m/market.md) events, such as price drops or the failure of a [trading strategy](../t/trading_strategy.md) within particular time frames.
 
 ## Mathematical Foundation of Proportional Hazards Models
 At the heart of proportional hazards models is the concept of the hazard function. The hazard function, λ(t), represents the instantaneous rate of occurrence of an event at time t, given that the event has not occurred before time t. The fundamental model of proportional hazards is the Cox proportional hazards model, introduced by Sir David Cox in 1972. It is defined mathematically as:
@@ -13,7 +13,7 @@ At the heart of proportional hazards models is the concept of the hazard functio
 Where:
 - λ(t|X) is the hazard function at time t given covariates X.
 - λ0(t) is the [baseline](../b/baseline.md) hazard function, representing the hazard when all covariates X are zero.
-- exp(β1X1 + β2X2 + ... + βkXk) is the exponential function of the linear combination of covariates X with regression coefficients β1, β2, ..., βk.
+- exp(β1X1 + β2X2 +... + βkXk) is the exponential function of the linear combination of covariates X with regression coefficients β1, β2,..., βk.
 
 ## Application in Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions. Proportional hazards models can be employed in several ways within this domain:
@@ -43,7 +43,7 @@ from lifelines [import](../i/import.md) CoxPHFitter
 [import](../i/import.md) pandas as pd
 
 # Sample data frame with time-to-event data
-data = pd.DataFrame({
+data = pd.DataFrame{
     '[duration](../d/duration.md)': [5, 6, 7, 8, 1, 2, 3],
     'event': [1, 1, 1, 0, 1, 0, 0],
     'covariate1': [0.5, 0.6, 0.7, 0.8, 0.1, 0.2, 0.3]

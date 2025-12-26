@@ -39,7 +39,7 @@ Fiat currencies like the US Dollar and the [Euro](../e/euro.md) have been used a
 In the digital age, cryptocurrencies such as [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) have emerged as modern stores of [value](../v/value.md). [Bitcoin](../b/bitcoin.md), in particular, is often referred to as "digital gold" due to its limited [supply](../s/supply.md) (21 million coins) and decentralized nature. Cryptocurrencies [offer](../o/offer.md) durability and divisibility but are more volatile compared to traditional stores of [value](../v/value.md). Nonetheless, their increasing acceptance and adoption suggest a growing role in [wealth](../w/wealth.md) preservation.
 
 ```markdown
-For more on [Bitcoin](../b/bitcoin.md) as a store of [value](../v/value.md), explore [Bitcoin.org](https://bitcoin.org/en/).
+For more on [Bitcoin](../b/bitcoin.md) as a store of [value](../v/value.md), explore Bitcoin.org.
 ```
 
 ### Treasury Securities
@@ -58,6 +58,6 @@ Overall [economic conditions](../e/economic_conditions.md) significantly influen
 
 ## Conclusion
 
-A nuanced understanding of different stores of [value](../v/value.md) is essential for effective [financial planning](../f/financial_planning.md) and [wealth](../w/wealth.md) preservation. Whether through traditional assets like gold and [real estate](../r/real_estate.md) or modern alternatives like cryptocurrencies, each store of [value](../v/value.md) offers unique characteristics suited to different [economic conditions](../e/economic_conditions.md) and individual preferences. 
+A nuanced understanding of different stores of [value](../v/value.md) is essential for effective [financial planning](../f/financial_planning.md) and [wealth](../w/wealth.md) preservation. Whether through traditional assets like gold and [real estate](../r/real_estate.md) or modern alternatives like cryptocurrencies, each store of [value](../v/value.md) offers unique characteristics suited to different [economic conditions](../e/economic_conditions.md) and individual preferences.
 
 By analyzing factors such as durability, stability, [liquidity](../l/liquidity.md), and divisibility, investors can strategically allocate their assets to safeguard and grow their [wealth](../w/wealth.md) over time.

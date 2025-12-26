@@ -73,13 +73,13 @@ Diversifying investments across various [asset](../a/asset.md) classes, sectors,
 ## Examples of Companies Implementing Recession-Proof Strategies
 
 ### Renaissance Technologies
-Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company known for its Medallion [Fund](../f/fund.md), which has historically delivered consistent returns using sophisticated [algorithmic trading](../a/algorithmic_trading.md) models. ([Renaissance Technologies](https://www.rentec.com))
+Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company known for its Medallion [Fund](../f/fund.md), which has historically delivered consistent returns using sophisticated [algorithmic trading](../a/algorithmic_trading.md) models. (Renaissance Technologies)
 
 ### Two Sigma Investments
-Two Sigma utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to create [efficient trading strategies](../e/efficient_trading_strategies.md). Their focus on data analysis and technological innovation makes them resilient during economic downturns. ([Two Sigma](https://www.twosigma.com))
+Two Sigma utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to create [efficient trading strategies](../e/efficient_trading_strategies.md). Their focus on data analysis and technological innovation makes them resilient during economic downturns. (Two Sigma)
 
 ### DE Shaw & Co.
-DE Shaw implements a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md) to minimize [risk](../r/risk.md) and generate returns in all [market](../m/market.md) conditions. They employ rigorous research and cutting-edge technology. ([DE Shaw](https://www.deshaw.com))
+DE Shaw implements a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md) to minimize [risk](../r/risk.md) and generate returns in all [market](../m/market.md) conditions. They employ rigorous research and cutting-edge technology. (DE Shaw)
 
 ## Conclusion
 

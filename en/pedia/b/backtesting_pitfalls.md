@@ -115,4 +115,4 @@ Latency and [execution](../e/execution.md) issues can cause differences between 
 
 [Backtesting](../b/backtesting.md) is a powerful tool for [algorithmic trading](../a/algorithmic_trading.md), but it must be done carefully to avoid the numerous pitfalls that can lead to inaccurate results and poor trading decisions. By being aware of these pitfalls and taking steps to mitigate them, traders can improve the robustness and reliability of their [trading strategies](../t/trading_strategies.md).
 
-For more detailed information on [backtesting](../b/backtesting.md) and [trading strategies](../t/trading_strategies.md), you can visit [QuantConnect](https://www.quantconnect.com) or [Quantopian](https://www.quantopian.com).
+For more detailed information on [backtesting](../b/backtesting.md) and [trading strategies](../t/trading_strategies.md), you can visit QuantConnect. Note: Quantopian ceased operations in November 2020, but its legacy lives on through the open-source Zipline library.

@@ -98,9 +98,9 @@ The [Bank](../b/bank.md) of Japan plays a pivotal role in the Yen's [valuation](
 
 Renowned forex brokers [offering](../o/offering.md) Yen trading include:
 
-- [OANDA](https://www.oanda.com): Known for its advanced trading platforms and extensive research tools.
-- [IG Group](https://www.ig.com): Offers a wide array of trading instruments and [robust](../r/robust.md) trading technologies.
-- [Saxo Bank](https://www.home.saxo): Provides comprehensive trading solutions and sophisticated analytical tools.
+- OANDA: Known for its advanced trading platforms and extensive research tools.
+- IG Group: Offers a wide array of trading instruments and [robust](../r/robust.md) trading technologies.
+- Saxo Bank: Provides comprehensive trading solutions and sophisticated analytical tools.
 
 ## Conclusion
 

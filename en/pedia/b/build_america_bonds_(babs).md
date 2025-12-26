@@ -84,4 +84,4 @@ Future iterations of BABs might include adjustments to [subsidy](../s/subsidy.md
 ## Conclusion
 Build America Bonds represented an innovative and impactful approach to municipal [finance](../f/finance.md) during a critical period of [economic recovery](../e/economic_recovery.md). By providing federal subsidies and expanding the [investor](../i/investor.md) base, BABs successfully lowered borrowing costs and facilitated significant [infrastructure](../i/infrastructure.md) investments across the United States. Although the program was limited in [duration](../d/duration.md), its success has left a lasting legacy and continues to influence discussions on public [finance](../f/finance.md) and [infrastructure](../i/infrastructure.md) development.
 
-For more information, you can visit TreasuryDirect's overview of BABs: [TreasuryDirect BABs](https://www.treasurydirect.gov/instit/statreg/buildebonds/buildebonds.htm).
+For more information, you can visit TreasuryDirect's overview of BABs: TreasuryDirect BABs.

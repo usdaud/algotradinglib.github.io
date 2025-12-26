@@ -53,7 +53,7 @@ Many [mutual fund](../m/mutual_fund.md) managers engage in window dressing at th
 ### Brussel-Boek, Inc.
 Brussel-Boek, a [hedge fund](../h/hedge_fund.md) management company, provides insight into its methods to avoid window dressing. They emphasize a long-term [investment strategy](../i/investment_strategy.md) and [transparency](../t/transparency.md) in their annual reports.
 
-For more information on their approach, visit their [official website](https://www.brusselboek.com/).
+
 
 ## Conclusion
 

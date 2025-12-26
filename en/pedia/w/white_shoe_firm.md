@@ -1,6 +1,6 @@
 # White Shoe Firm
 
-In the world of [finance](../f/finance.md), law, and consulting, the term "White Shoe [Firm](../f/firm.md)" refers to prestigious, long-established professional organizations often characterized by their elite clientele and conservative ethos. The term originated in the early 20th century and historically described firms with an upper-class, Old [Money](../m/money.md) background, often based in major cities like New York and Boston. While originally pejorative, the term now generally signifies a reputable, successful [firm](../f/firm.md). 
+In the world of [finance](../f/finance.md), law, and consulting, the term "White Shoe [Firm](../f/firm.md)" refers to prestigious, long-established professional organizations often characterized by their elite clientele and conservative ethos. The term originated in the early 20th century and historically described firms with an upper-class, Old [Money](../m/money.md) background, often based in major cities like New York and Boston. While originally pejorative, the term now generally signifies a reputable, successful [firm](../f/firm.md).
 
 ## Origin and Etymology
 
@@ -30,23 +30,23 @@ White shoe firms are known for their rigorous and highly selective hiring proces
 
 White shoe law firms tend to dominate the upper echelons of the legal world. Notable examples include:
 
-- **Cravath, Swaine & Moore LLP**: One of the oldest and most prestigious law firms in the United States. [Cravath Law](https://www.cravath.com/)
-- **Sullivan & Cromwell LLP**: Known for its high-stakes litigation and complex transactional work. [Sullivan & Cromwell](https://www.sullcrom.com/)
-- **Skadden, Arps, Slate, Meagher & Flom LLP**: Renowned for its mergers and acquisitions practice. [Skadden](https://www.skadden.com/)
+- **Cravath, Swaine & Moore LLP**: One of the oldest and most prestigious law firms in the United States. Cravath Law
+- **Sullivan & Cromwell LLP**: Known for its high-stakes litigation and complex transactional work. Sullivan & Cromwell
+- **Skadden, Arps, Slate, Meagher & Flom LLP**: Renowned for its mergers and acquisitions practice. Skadden
 
 ### Investment Banks
 
 In the world of [finance](../f/finance.md), white shoe firms are often synonymous with leading [investment banks](../i/investment_bank_(ib).md) like:
-- **Goldman Sachs**: Known for [investment banking](../i/investment_banking.md), securities, and [asset management](../a/asset_management.md). [Goldman Sachs](https://www.goldmansachs.com/)
-- **Morgan Stanley**: Specializes in [wealth management](../w/wealth_management.md), [investment banking](../i/investment_banking.md), and sales and trading. [Morgan Stanley](https://www.morganstanley.com/)
-- **J.P. Morgan**: Offers a [range](../r/range.md) of financial services including [investment banking](../i/investment_banking.md), [asset management](../a/asset_management.md), and [private banking](../p/private_banking.md). [J.P. Morgan](https://www.jpmorgan.com/)
+- **Goldman Sachs**: Known for [investment banking](../i/investment_banking.md), securities, and [asset management](../a/asset_management.md). Goldman Sachs
+- **Morgan Stanley**: Specializes in [wealth management](../w/wealth_management.md), [investment banking](../i/investment_banking.md), and sales and trading. Morgan Stanley
+- **J.P. Morgan**: Offers a [range](../r/range.md) of financial services including [investment banking](../i/investment_banking.md), [asset management](../a/asset_management.md), and [private banking](../p/private_banking.md). J.P. Morgan
 
 ### Management Consulting
 
 Prestigious consulting firms that are often labeled as white shoe include:
-- **McKinsey & Company**: Known for its [strategic management](../s/strategic_management.md) consulting services. [McKinsey & Company](https://www.mckinsey.com/)
-- **Boston Consulting Group (BCG)**: Renowned for its data-driven and innovative approach to consulting. [BCG](https://www.bcg.com/)
-- **Bain & Company**: Focuses extensively on results-oriented consulting solutions. [Bain & Company](https://www.bain.com/)
+- **McKinsey & Company**: Known for its [strategic management](../s/strategic_management.md) consulting services. McKinsey & Company
+- **Boston Consulting Group (BCG)**: Renowned for its data-driven and innovative approach to consulting. BCG
+- **Bain & Company**: Focuses extensively on results-oriented consulting solutions. Bain & Company
 
 ## The Modern White Shoe Firm
 
@@ -68,7 +68,7 @@ Despite their many strengths, white shoe firms are not without their critics. Co
 
 ### High-pressure Working Environment
 
-Many white shoe firms are infamous for their demanding working environments. Long hours, high expectations, and intense competition can lead to burnout and high [turnover](../t/turnover.md) rates. 
+Many white shoe firms are infamous for their demanding working environments. Long hours, high expectations, and intense competition can lead to burnout and high [turnover](../t/turnover.md) rates.
 
 ### Exclusivity and Lack of Diversity
 

@@ -70,13 +70,13 @@ High-frequency trading (HFT) firms often deploy strategies that depend on rapid 
 
 ### Quantitative Hedge Funds
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies and Two Sigma, integrate zero-price change strategies within their larger trading frameworks. These funds apply rigorous statistical analysis and [machine learning](../m/machine_learning.md) techniques to continuously improve their identification and utilization of zero-price change events. More information on these firms can be found at:
-- [Renaissance Technologies](https://www.rentec.com)
-- [Two Sigma](https://www.twosigma.com)
+- Renaissance Technologies
+- Two Sigma
 
 ### Retail Algorithmic Trading Platforms
 Platforms like [QuantConnect](../q/quantconnect.md) and [Algorithmic Trading](../a/algorithmic_trading.md) Group provide retail traders with the tools to develop and backtest algorithms, including those that exploit zero-price change. These platforms [offer](../o/offer.md) historical data, powerful APIs, and community resources to help traders implement and refine their strategies.
-- [QuantConnect](https://www.quantconnect.com)
-- [Algorithmic Trading Group](https://www.algorithmictradinggroup.com)
+- QuantConnect
+- Algorithmic Trading Group
 
 ## Future Directions
 As markets continue to evolve, so too [will](../w/will.md) the strategies that exploit zero-price change conditions. Emerging technologies and methodologies that may shape the future include:

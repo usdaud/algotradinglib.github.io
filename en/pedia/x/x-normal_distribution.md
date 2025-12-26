@@ -129,12 +129,11 @@ fit_params = result.x
 
 Several companies and financial institutions employ advanced statistical methods like the X-[Normal Distribution](../n/normal_distribution_in_trading.md) for modeling [market](../m/market.md) behavior, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Notable examples include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect Website](https://www.quantconnect.com)
-- **Kensho Technologies**: [Kensho Website](https://www.kensho.com)
-- **Numerai**: [Numerai Website](https://numer.ai)
-- **Two Sigma**: [Two Sigma Website](https://www.twosigma.com)
+- **[QuantConnect](../q/quantconnect.md)**:
+- **Kensho Technologies**:
+- **Numerai**:
+- **Two Sigma**:
 
 ## Conclusion
 
 The X-[Normal Distribution](../n/normal_distribution_in_trading.md), or Johnson's SU [distribution](../d/distribution.md), is a powerful tool for modeling non-normal financial data. Its flexibility in capturing [skewness](../s/skewness.md) and heavy tails makes it particularly suitable for various applications in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), option pricing, and [portfolio optimization](../p/portfolio_optimization.md). Its usage in modern [financial analysis](../f/financial_analysis.md) highlights the importance of selecting appropriate [probability distributions](../p/probability_distributions_in_trading.md) to account for real-world data behaviors in [order](../o/order.md) to make more informed and effective financial decisions.
-

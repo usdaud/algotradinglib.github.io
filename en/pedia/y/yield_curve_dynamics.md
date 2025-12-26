@@ -6,9 +6,9 @@ The [yield curve](../y/yield_curve.md) is a fundamental concept in [finance](../
 The [yield curve](../y/yield_curve.md) typically plots yields on the Y-axis and maturities on the X-axis. In its simplest form, the [yield curve](../y/yield_curve.md) can take on three primary shapes:
 
 1. **Normal [Yield Curve](../y/yield_curve.md)**: An upward-sloping curve where longer-term [debt](../d/debt.md) instruments have higher yields compared to short-term ones. This shape suggests that the [economy](../e/economy.md) is in a growth phase with expectations of rising [interest](../i/interest.md) rates and [inflation](../i/inflation.md).
-   
+
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: A downward-sloping curve where [short-term debt](../s/short-term_debt.md) instruments [yield](../y/yield.md) more than long-term ones. Historically, this shape has been a reliable predictor of economic recessions, indicating [investor](../i/investor.md) expectations of declining [interest](../i/interest.md) rates and deflationary pressures.
-   
+
 3. **Flat [Yield Curve](../y/yield_curve.md)**: A curve where yields across all maturities are roughly the same, often indicating economic transition periods or [uncertainty](../u/uncertainty_in_trading.md) about the future direction of [interest](../i/interest.md) rates and [economic growth](../e/economic_growth.md).
 
 ### Temporal Changes in the Yield Curve
@@ -18,11 +18,11 @@ The [yield curve](../y/yield_curve.md) is not static. It changes in response to 
 Several factors drive [yield curve](../y/yield_curve.md) dynamics, including:
 
 1. **Central [Bank](../b/bank.md) Policies**: Central banks, like the Federal Reserve in the United States, directly affect short-term [interest](../i/interest.md) rates through their [monetary policy](../m/monetary_policy.md) tools. When the central [bank](../b/bank.md) increases its policy rate, short-term yields spike, leading to a steeper slope in the [yield curve](../y/yield_curve.md).
-   
+
 2. **[Inflation](../i/inflation.md) Expectations**: Investors require higher yields for longer maturities if they anticipate higher [inflation](../i/inflation.md) in the future. [Inflation](../i/inflation.md) erodes the [purchasing power](../p/purchasing_power.md) of future [interest](../i/interest.md) payments, thus long-term bonds must [offer](../o/offer.md) higher returns to remain attractive.
-   
+
 3. **[Economic Growth](../e/economic_growth.md) Prospects**: Optimism about future [economic growth](../e/economic_growth.md) can steepen the [yield curve](../y/yield_curve.md), as investors expect higher returns from equities and other riskier assets, pressuring [bond](../b/bond.md) prices and lifting yields.
-   
+
 4. **[Foreign Investment](../f/foreign_investment.md) Flows**: International investors' [demand](../d/demand.md) for domestic bonds can impact the [yield curve](../y/yield_curve.md). For instance, foreign purchases of U.S. Treasuries generally drive down yields, flattening the [yield curve](../y/yield_curve.md).
 
 5. **Geopolitical Risks**: Events like wars, political instability, or sudden economic downturns can lead investors to seek safe-haven assets, impacting the [demand](../d/demand.md) and, consequently, the yields of government bonds.
@@ -31,9 +31,9 @@ Several factors drive [yield curve](../y/yield_curve.md) dynamics, including:
 Various models exist to understand, predict, and analyze [yield curve](../y/yield_curve.md) dynamics. These models [range](../r/range.md) from simple linear regressions to complex, multi-[factor models](../f/factor_models.md). Some of the most renowned models include:
 
 1. **Nelson-Siegel Model**: A parsimonious model defined by a relatively small number of parameters that can capture the main movements of the [yield curve](../y/yield_curve.md). The model is extensively used due to its empirical accuracy and simplicity in fitting [yield](../y/yield.md) curves over time.
-   
+
 2. **Cox-Ingersoll-Ross (CIR) Model**: A more sophisticated, stochastic model which considers the [interest rate](../i/interest_rate.md) evolution as a mean-reverting process, capturing the inherent unpredictability of [interest rate](../i/interest_rate.md) changes over time.
-   
+
 3. **Heath-Jarrow-Morton (HJM) Framework**: A general framework that models the [forward rate](../f/forward_rate.md) curve's dynamics instead of directly modeling the [yield curve](../y/yield_curve.md). It's highly flexible and can be tailored to different applications, making it popular among more advanced financial practitioners.
 
 4. **Affine Term Structure Models**: These models assume that [bond](../b/bond.md) yields can be expressed as linear functions of factors such as short-term [interest](../i/interest.md) rates, [inflation](../i/inflation.md), or output. The advantage of these models is their ability to incorporate [multiple](../m/multiple.md) [risk factors](../r/risk_factors_in_trading.md) and their suitability for both pricing and [risk management](../r/risk_management.md).
@@ -79,11 +79,11 @@ Advancements in technology and [data analytics](../d/data_analytics.md) have sig
 ### Key Players and Resources
 Several institutions and services provide data, analysis, and tools for understanding and leveraging [yield curve](../y/yield_curve.md) dynamics:
 
-1. **[Federal Reserve Bank](../f/federal_reserve_bank.md)**: The Federal Reserve provides extensive data and research on [yield](../y/yield.md) curves, including the widely-followed [U.S. Treasury](../u/u.s._treasury.md) [yield curve](../y/yield_curve.md) data. [Federal Reserve Bank](https://www.federalreserve.gov/)
+1. **[Federal Reserve Bank](../f/federal_reserve_bank.md)**: The Federal Reserve provides extensive data and research on [yield](../y/yield.md) curves, including the widely-followed [U.S. Treasury](../u/u.s._treasury.md) [yield curve](../y/yield_curve.md) data. Federal Reserve Bank
 
-2. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) offers comprehensive financial data, analytics, and trading tools, including real-time [yield curve](../y/yield_curve.md) information and [historical data analysis](../h/historical_data_analysis.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) offers comprehensive financial data, analytics, and trading tools, including real-time [yield curve](../y/yield_curve.md) information and [historical data analysis](../h/historical_data_analysis.md). Bloomberg
 
-3. **[Reuters](../r/reuters.md) Eikon**: [Reuters](../r/reuters.md) Eikon is another leading platform [offering](../o/offering.md) [real-time market data](../r/real-time_market_data.md), news, and analysis on [yield](../y/yield.md) curves and other financial instruments. [Refinitiv](https://www.refinitiv.com/en/products/refinitiv-eikon-trading-software)
+3. **[Reuters](../r/reuters.md) Eikon**: [Reuters](../r/reuters.md) Eikon is another leading platform [offering](../o/offering.md) [real-time market data](../r/real-time_market_data.md), news, and analysis on [yield](../y/yield.md) curves and other financial instruments. Refinitiv
 
 ### Conclusion
 [Yield curve](../y/yield_curve.md) dynamics form a cornerstone of financial [market](../m/market.md) analysis, influencing everything from macroeconomic [forecasting](../f/forecasting.md) to sophisticated [trading strategies](../t/trading_strategies.md). Understanding the intricacies of the [yield curve](../y/yield_curve.md) and the various factors driving its movements is essential for investors, policymakers, and financial professionals alike. As technology advances, new methods and models continue to enrich the field, [offering](../o/offering.md) deeper insights and more precise tools for navigating the complexities of [interest rate](../i/interest_rate.md) markets.

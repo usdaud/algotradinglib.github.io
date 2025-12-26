@@ -43,7 +43,7 @@ The coffeehouse portfolio rule, popularized by Bill Schultheis's book "The Coffe
 - 10% in small-cap [value](../v/value.md) [index fund](../i/index_fund.md)
 - 10% in REIT [index fund](../i/index_fund.md)
 - 10% in international stock [index fund](../i/index_fund.md)
-  
+
 This rule of thumb illustrates a straightforward approach to achieving [diversification](../d/diversification.md) with relatively low maintenance.
 
 ## Advantages of Rules of Thumb
@@ -58,7 +58,7 @@ This rule of thumb illustrates a straightforward approach to achieving [diversif
 
 ## Application in Algorithmic Trading and Fintech
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), rules of thumb can serve as foundational principles for developing [trading algorithms](../t/trading_algorithms.md). For instance, the two percent rule can be embedded within [risk management](../r/risk_management.md) algorithms. Similarly, the PE ratio rule can be part of stock selection models:
+In [algorithmic trading](../a/algorithmic_trading.md), rules of thumb can serve as foundational principles for developing [trading algorithms](../t/trading_algorithms.md). For instance, the two percent rule can be embedded within [risk management](../r/risk_management.md) algorithms. Similarly, the PE ratio rule can be part of stock selection models:
 - **[Backtesting](../b/backtesting.md)**: Rules of thumb can be tested using historical data to evaluate their efficacy and refine algorithms accordingly.
 - **[Machine Learning](../m/machine_learning.md)**: Algorithms can be trained using these [heuristics](../h/heuristics.md) as [baseline](../b/baseline.md) metrics to enhance predictive accuracy and decision-making.
 
@@ -68,6 +68,6 @@ Financial technology (fintech) companies often incorporate rules of thumb into t
 - **Robo-Advisors**: Utilizing [asset allocation](../a/asset_allocation.md) rules, such as the 110 minus age rule, robo-advisors provide tailored investment strategies.
 
 ## Conclusion
-Rules of thumb in [finance](../f/finance.md) and trading provide valuable, experience-based guidelines that simplify decision-making. While not foolproof, they [offer](../o/offer.md) a practical framework for managing personal finances, evaluating investments, and formulating [trading strategies](../t/trading_strategies.md). Leveraging these rules in [algorithmic trading](../a/accountability.md) and fintech applications further underscores their [utility](../u/utility.md), blending traditional wisdom with modern technology to enhance financial decision-making.
+Rules of thumb in [finance](../f/finance.md) and trading provide valuable, experience-based guidelines that simplify decision-making. While not foolproof, they [offer](../o/offer.md) a practical framework for managing personal finances, evaluating investments, and formulating [trading strategies](../t/trading_strategies.md). Leveraging these rules in [algorithmic trading](../a/algorithmic_trading.md) and fintech applications further underscores their [utility](../u/utility.md), blending traditional wisdom with modern technology to enhance financial decision-making.
 
-For more information on financial principles and innovative fintech solutions, visit [https://www.fintechweekly.com](https://www.fintechweekly.com) or explore the offerings of renowned [algorithmic trading](../a/accountability.md) firms like [https://www.quantconnect.com](https://www.quantconnect.com).
+For more information on financial principles and innovative fintech solutions, visit or explore the offerings of renowned [algorithmic trading](../a/algorithmic_trading.md) firms like

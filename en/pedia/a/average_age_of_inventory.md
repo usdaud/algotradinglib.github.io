@@ -1,6 +1,6 @@
 # Average Age of Inventory
 
-The average age of [inventory](../i/inventory.md) (AAI) is a financial metric commonly used in [inventory management](../i/inventory_management.md) and [financial analysis](../f/financial_analysis.md) to assess the average time that [inventory](../i/inventory.md) spends in storage before being sold or utilized. By understanding the average age of [inventory](../i/inventory.md), businesses can [gain](../g/gain.md) insight into their [inventory management](../i/inventory_management.md) effectiveness, [cash flow](../c/cash_flow.md) management, and overall [operational efficiency](../o/operational_efficiency_in_trading.md). 
+The average age of [inventory](../i/inventory.md) (AAI) is a financial metric commonly used in [inventory management](../i/inventory_management.md) and [financial analysis](../f/financial_analysis.md) to assess the average time that [inventory](../i/inventory.md) spends in storage before being sold or utilized. By understanding the average age of [inventory](../i/inventory.md), businesses can [gain](../g/gain.md) insight into their [inventory management](../i/inventory_management.md) effectiveness, [cash flow](../c/cash_flow.md) management, and overall [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Definition and Calculation
 
@@ -103,7 +103,7 @@ Zara, a global fast-fashion retailer, effectively manages its [inventory](../i/i
 
 Toyota implements the JIT [inventory management](../i/inventory_management.md) system in its [manufacturing](../m/manufacturing.md) process. By synchronizing production schedules with [customer](../c/customer.md) [demand](../d/demand.md) and supplier deliveries, Toyota minimizes the AAI. This system reduces the [inventory](../i/inventory.md) [holding costs](../h/holding_costs.md) and ensures that parts are available exactly when needed in the production line.
 
-For more details about Toyota's [inventory](../i/inventory.md) practices, you can visit their [official website](https://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html).
+For more details about Toyota's [inventory](../i/inventory.md) practices,
 
 ## Conclusion
 

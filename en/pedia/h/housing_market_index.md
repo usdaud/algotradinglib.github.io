@@ -55,4 +55,4 @@ By analyzing these indicators together with the HMI, economists and analysts can
 
 The Housing [Market Index](../m/market_index.md) is an indispensable tool for anyone involved in the housing [market](../m/market.md), from builders and investors to policymakers and economists. Its ability to capture builder sentiment and provide forward-looking insights makes it a valuable [indicator](../i/indicator.md) for [forecasting](../f/forecasting.md) [market](../m/market.md) trends and assessing [economic conditions](../e/economic_conditions.md). Despite its limitations, the HMI remains a trusted and influential measure of the U.S. housing [market](../m/market.md)'s health, reflecting both current conditions and future expectations.
 
-For more information on the Housing [Market Index](../m/market_index.md), you can visit the National Association of [Home](../h/home.md) Builders' official website: [NAHB](https://www.nahb.org).
+For more information on the Housing [Market Index](../m/market_index.md), you can visit the National Association of [Home](../h/home.md) Builders' public materials: NAHB.

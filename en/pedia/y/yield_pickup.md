@@ -74,7 +74,7 @@ The [Bloomberg Terminal](../b/bloomberg_terminal.md) provides real-time financia
 - Screen for bonds based on [yield](../y/yield.md) comparisons.
 - Conduct [credit](../c/credit.md) analysis and review [credit](../c/credit.md) ratings and reports.
 - Monitor changes in [interest](../i/interest.md) rates and [yield](../y/yield.md) curves.
-  
+
 ### FINCAD
 
 FINCAD offers advanced analytics for [risk management](../r/risk_management.md) and [valuation](../v/valuation.md) of [fixed income securities](../f/fixed_income_securities.md). It supports [yield curve modeling](../y/yield_curve_modeling.md), [duration](../d/duration.md) and [convexity](../c/convexity.md) analytics, and [scenario analysis](../s/scenario_analysis.md). These tools help investors quantify the risks associated with [yield](../y/yield.md) pickup strategies.

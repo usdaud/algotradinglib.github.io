@@ -62,4 +62,4 @@ The outlook for the MSCI Emerging Markets [Index](../i/index_instrument.md) rema
 ## Conclusion
 The MSCI Emerging Markets [Index](../i/index_instrument.md) is a crucial tool for investors seeking to diversify their portfolios and [capitalize](../c/capitalize.md) on the growth potential of emerging economies. While it comes with its set of risks, a balanced approach and diligent [risk management](../r/risk_management.md) can make it a significant component of a well-diversified [investment strategy](../i/investment_strategy.md).
 
-For more detailed information, you can visit MSCI's official page on the Emerging Markets [Index](../i/index_instrument.md) [here](https://www.msci.com/emerging-markets).
+For more detailed information, you can./i/index_instrument.md) here.

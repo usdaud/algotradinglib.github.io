@@ -23,9 +23,9 @@ Trading [volume](../v/volume.md) is crucial as it:
 Several metrics are used to analyze trading [volume](../v/volume.md):
 - **Average Daily Trading [Volume](../v/volume.md) (ADTV)**: The average number of [shares](../s/shares.md) traded per day over a specific period. This smooths out anomalies and gives a clearer picture of typical trading activity.
 - **[Volume Rate of Change](../v/volume_rate_of_change.md) (VROC)**: Measures the [percentage change](../p/percentage_change.md) in [volume](../v/volume.md) over a specific period. It helps in identifying unusual increases or decreases in trading activity.
-  \[
-  \text{VROC} = \left( \frac{V_{\text{current}} - V_{\text{previous}}}{V_{\text{previous}}} \right) \times 100
-  \]
+ \[
+ \text{VROC} = \left( \frac{V_{\text{current}} - V_{\text{previous}}}{V_{\text{previous}}} \right) \times 100
+ \]
 - **[Volume Oscillator](../v/volume_oscillator.md)**: Compares short-term and long-term [volume](../v/volume.md) moving averages to identify trends and potential reversals.
 - **[Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP)**: Reflects the average price a [security](../s/security.md) has traded at throughout the day, based on both [volume](../v/volume.md) and price. VWAP is crucial for comparing an [asset](../a/asset.md)'s [market price](../m/market_price.md) to its historical trading volumes.
 
@@ -52,15 +52,10 @@ In [algorithmic trading](../a/algorithmic_trading.md), [volume](../v/volume.md) 
 ## Tools and Platforms for Volume Analysis
 Several tools and platforms provide in-depth [volume analysis](../v/volume_analysis.md) capabilities:
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive [volume](../v/volume.md) analytics and historical data.
-  [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Another professional platform [offering](../o/offering.md) advanced [volume analysis](../v/volume_analysis.md) features.
-  [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 - **MetaTrader 4 & 5**: Popular trading platforms with customizable [volume indicators](../v/volume_indicators.md) and analysis tools.
-  [MetaTrader](https://www.metatrader4.com/en)
 - **[TradeStation](../t/tradestation.md)**: Provides powerful [volume analysis](../v/volume_analysis.md) tools and [backtesting](../b/backtesting.md) capabilities.
-  [TradeStation](https://www.tradestation.com/)
 - **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced [volume](../v/volume.md)-based [technical analysis](../t/technical_analysis.md) and automated trading solutions.
-  [NinjaTrader](https://ninjatrader.com/)
 
 ## Case Studies: Volume Analysis in Action
 ### Example 1: Tesla, Inc. (TSLA)

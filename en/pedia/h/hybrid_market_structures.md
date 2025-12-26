@@ -61,13 +61,13 @@ Regulatory developments have also influenced the evolution of hybrid markets. Re
 Several prominent financial exchanges exemplify the successful implementation of hybrid [market](../m/market.md) structures.
 
 ### 1. New York Stock Exchange (NYSE)
-The NYSE is one of the most well-known examples of a hybrid [market](../m/market.md). It combines traditional floor trading with electronic [order matching systems](../o/order_matching_systems.md). The NYSE introduced its Hybrid [Market](../m/market.md) initiative in the mid-2000s, aiming to enhance [liquidity](../l/liquidity.md) and [execution](../e/execution.md) quality. [Learn more](https://www.nyse.com)
+The NYSE is one of the most well-known examples of a hybrid [market](../m/market.md). It combines traditional floor trading with electronic [order matching systems](../o/order_matching_systems.md). The NYSE introduced its Hybrid [Market](../m/market.md) initiative in the mid-2000s, aiming to enhance [liquidity](../l/liquidity.md) and [execution](../e/execution.md) quality. Learn more
 
 ### 2. London Stock Exchange (LSE)
-The London Stock [Exchange](../e/exchange.md) integrates electronic [order](../o/order.md) books with [market maker](../m/market_maker.md) quotes, creating a hybrid [trading environment](../t/trading_environment.md). This structure supports efficient trading and [liquidity provision](../l/liquidity_provision.md) across various [asset](../a/asset.md) classes. [Learn more](https://www.londonstockexchange.com)
+The London Stock [Exchange](../e/exchange.md) integrates electronic [order](../o/order.md) books with [market maker](../m/market_maker.md) quotes, creating a hybrid [trading environment](../t/trading_environment.md). This structure supports efficient trading and [liquidity provision](../l/liquidity_provision.md) across various [asset](../a/asset.md) classes. Learn more
 
 ### 3. Chicago Mercantile Exchange (CME)
-The Chicago Mercantile [Exchange](../e/exchange.md) operates hybrid [market](../m/market.md) systems for [futures](../f/futures.md) and [options](../o/options.md) trading. The CME combines electronic trading platforms with [open](../o/open.md)-outcry pits, ensuring flexibility and [efficiency](../e/efficiency.md) in the [derivatives](../d/derivatives.md) [market](../m/market.md). [Learn more](https://www.cmegroup.com)
+The Chicago Mercantile [Exchange](../e/exchange.md) operates hybrid [market](../m/market.md) systems for [futures](../f/futures.md) and [options](../o/options.md) trading. The CME combines electronic trading platforms with [open](../o/open.md)-outcry pits, ensuring flexibility and [efficiency](../e/efficiency.md) in the [derivatives](../d/derivatives.md) [market](../m/market.md). Learn more
 
 ## Challenges and Considerations
 

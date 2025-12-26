@@ -61,7 +61,7 @@ In Europe, workout periods are often managed under the guidelines provided by th
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) can be employed during workout periods to optimize the [liquidation](../l/liquidation.md) of assets. By utilizing algorithms, traders can execute large volumes of trades at optimal prices, minimizing the impact on the [market](../m/market.md).
+[Algorithmic trading](../a/algorithmic_trading.md) can be employed during workout periods to optimize the [liquidation](../l/liquidation.md) of assets. By utilizing algorithms, traders can execute large volumes of trades at optimal prices, minimizing the impact on the [market](../m/market.md).
 
 ### Financial Technology (FinTech)
 
@@ -69,7 +69,7 @@ FinTech solutions streamline the workout process by providing advanced analytica
 
 #### Example: Restructuring Platforms
 
-Modern [restructuring](../r/restructuring.md) platforms such as [DebtX](https://www.debtx.com) provide comprehensive solutions for managing distressed assets during workout periods. These platforms [offer](../o/offer.md) analytic tools, [market](../m/market.md) insights, and facilitate the trading of distressed assets.
+Modern [restructuring](../r/restructuring.md) platforms such as DebtX provide comprehensive solutions for managing distressed assets during workout periods. These platforms [offer](../o/offer.md) analytic tools, [market](../m/market.md) insights, and facilitate the trading of distressed assets.
 
 ## Conclusion
 

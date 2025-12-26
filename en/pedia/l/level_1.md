@@ -17,26 +17,23 @@ Level 1 [market](../m/market.md) data typically includes the following key eleme
 Level 1 [market](../m/market.md) data is particularly important for a variety of reasons:
 
 - **[Liquidity](../l/liquidity.md) Measurement**: By looking at the [bid and ask](../b/bid_and_ask.md) prices, traders can gauge the [liquidity](../l/liquidity.md) of the [market](../m/market.md) for a particular [asset](../a/asset.md). High [liquidity](../l/liquidity.md) typically results in tighter [spreads](../s/spreads.md) between the [bid and ask](../b/bid_and_ask.md) prices, making it cheaper to execute trades.
-  
+
 - **[Price Discovery](../p/price_discovery.md)**: The data helps traders understand the real-time price of an [asset](../a/asset.md), enabling them to make quicker decisions.
-  
+
 - **[Trading Strategies](../t/trading_strategies.md)**: Many [automated trading systems](../a/automated_trading_systems.md) and algorithms rely on Level 1 data for making high-frequency trades, [arbitrage opportunities](../a/arbitrage_opportunities.md), and other [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
-  
+
 - **[Market Sentiment](../m/market_sentiment.md)**: Monitoring how quickly the [bid and ask](../b/bid_and_ask.md) prices move can provide insights into the [market](../m/market.md)’s sentiment. A rapidly changing [bid](../b/bid.md) or ask price can indicate strong [interest](../i/interest.md) or significant news affecting the [asset](../a/asset.md).
 
 ## Sources of Level 1 Data
 
 Various exchanges and financial data providers [offer](../o/offer.md) Level 1 [market](../m/market.md) data. Some prominent ones include:
 
-- **NYSE (New York Stock [Exchange](../e/exchange.md))**: https://www.nyse.com
-- **[NASDAQ](../n/nasdaq.md)**: https://www.[nasdaq](../n/nasdaq.md).com
-- **BATS Global Markets**: https://www.markets.cboe.com
-- **Direct [Market](../m/market.md) Access (DMA) providers**: Firms that [offer](../o/offer.md) traders access to direct feeds from the exchanges.
-- **Data Aggregators**: Companies like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) and Refinitiv (https://www.refinitiv.com) aggregate Level 1 data from [multiple](../m/multiple.md) sources and [offer](../o/offer.md) more comprehensive feeds.
+- **NYSE (New York Stock [Exchange](../e/exchange.md))**- **[NASDAQ](../n/nasdaq.md)**- **BATS Global Markets**- **Direct [Market](../m/market.md) Access (DMA) providers**: Firms that [offer](../o/offer.md) traders access to direct feeds from the exchanges.
+- **Data Aggregators**: Companies like [Bloomberg](../b/bloomberg.md) ( and Refinitiv ( aggregate Level 1 data from [multiple](../m/multiple.md) sources and [offer](../o/offer.md) more comprehensive feeds.
 
 ## Technical Implementation
 
-For those involved in [algorithmic trading](../a/accountability.md) or software development, integrating Level 1 [market](../m/market.md) data into [trading systems](../t/trading_systems.md) is a foundational task. 
+For those involved in [algorithmic trading](../a/algorithmic_trading.md) or software development, integrating Level 1 [market](../m/market.md) data into [trading systems](../t/trading_systems.md) is a foundational task.
 
 ### APIs
 
@@ -44,39 +41,38 @@ Most exchanges provide APIs (Application Programming Interfaces) that [offer](..
 
 #### Example: RESTful API
 
-- **Request URL**: 
-  ```
-  GET https://api.[exchange](../e/exchange.md).com/level1data
-  ```
+- **Request URL**:
+ ```
+ GET ```
 
 - **Response**:
-  ```json
-  {
-    "symbol": "AAPL",
-    "[bid](../b/bid.md)": 150.25,
-    "ask": 150.30,
-    "last_trade": 150.27,
-    "[volume](../v/volume.md)": 100,
-    "timestamp": "2023-10-01T14:30:00Z"
-  }
-  ```
+ ```json
+ {
+ "symbol": "AAPL",
+ "[bid](../b/bid.md)": 150.25,
+ "ask": 150.30,
+ "last_trade": 150.27,
+ "[volume](../v/volume.md)": 100,
+ "timestamp": "2023-10-01T14:30:00Z"
+ }
+ ```
 
 #### Example: WebSocket Stream
 
 - **Connecting to a WebSocket**:
-  ```javascript
-  const socket = new WebSocket('wss://api.[exchange](../e/exchange.md).com/marketdata');
+ ```javascript
+ const socket = new WebSocket('wss://api.[exchange](../e/exchange.md).com/marketdata');
 
-  socket.onopen = function(event) {
-    console.log("Connection established!");
-    socket.send(JSON.stringify({ type: 'subscribe', symbol: 'AAPL' }));
-  }
+ socket.onopen = function(event) {
+ console.log("Connection established!");
+ socket.send(JSON.stringify({ type: 'subscribe', symbol: 'AAPL' }));
+ }
 
-  socket.onmessage = function(event) {
-    const data = JSON.parse(event.data);
-    console.log(`[Bid](../b/bid.md): ${data.[bid](../b/bid.md)}, Ask: ${data.ask}`);
-  }
-  ```
+ socket.onmessage = function(event) {
+ const data = JSON.parse(event.data);
+ console.log(`[Bid](../b/bid.md): ${data.[bid](../b/bid.md)}, Ask: ${data.ask}`);
+ }
+ ```
 
 ### Data Storage
 
@@ -90,10 +86,7 @@ Minimizing latency is critical in high-frequency trading (HFT). Low-latency data
 
 The [provision](../p/provision.md) and use of Level 1 [market](../m/market.md) data are governed by various regulatory bodies to ensure [market](../m/market.md) fairness and [transparency](../t/transparency.md).
 
-- **SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md))**: https://www.sec.gov
-- **FINRA (Financial [Industry](../i/industry.md) Regulatory Authority)**: https://www.finra.org
-- **ESMA (European Securities and Markets Authority)**: https://www.esma.europa.eu
-
+- **SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md))**- **FINRA (Financial [Industry](../i/industry.md) Regulatory Authority)**- **ESMA (European Securities and Markets Authority)**
 These regulatory bodies set rules to ensure that all [market](../m/market.md) participants have fair access to critical [market](../m/market.md) data.
 
 ## Cost of Level 1 Data

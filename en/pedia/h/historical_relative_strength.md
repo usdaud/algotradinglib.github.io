@@ -12,7 +12,7 @@ This ratio is often converted into a [Relative Strength](../r/relative_strength.
 
 ## Historical Analysis
 
-Historical RS analysis involves examining the [relative strength](../r/relative_strength.md) of a stock over various historical periods, such as days, weeks, months, or even years. This can provide insights into the stock's performance trends and help identify whether its [relative strength](../r/relative_strength.md) is consistent, improving, or declining over time. 
+Historical RS analysis involves examining the [relative strength](../r/relative_strength.md) of a stock over various historical periods, such as days, weeks, months, or even years. This can provide insights into the stock's performance trends and help identify whether its [relative strength](../r/relative_strength.md) is consistent, improving, or declining over time.
 
 ### Time Horizons
 
@@ -48,7 +48,7 @@ To implement historical RS analysis within a trading system, you may use:
 
 - **Custom Scripts**: Written in languages like Python or R.
 - **Trading Platforms**: Many platforms like MetaTrader or [thinkorswim](../t/thinkorswim.md) provide tools for RS analysis.
-- **Third-Party Services**: Services from providers like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) or [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) [offer](../o/offer.md) APIs and pre-built tools.
+- **Third-Party Services**: Services from providers like [StockSharp](../s/stocksharp.md) or [TradeStation](../t/tradestation.md) ( [offer](../o/offer.md) APIs and pre-built tools.
 
 ## Case Studies
 

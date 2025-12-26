@@ -38,9 +38,9 @@ Traders utilize various strategies when trading E-Mini [futures contracts](../f/
 
 Several companies specialize in providing [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) and services for E-Mini [futures contracts](../f/futures_contracts.md). Some notable firms include:
 
-- [TradeStation](https://www.tradestation.com/): A leading [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced [algorithmic trading](../a/accountability.md) tools and services for [futures](../f/futures.md) traders.
-- [MetaTrader 5](https://www.metatrader5.com/en): A popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) through its built-in programming language, MQL5.
-- [NinjaTrader](https://ninjatrader.com/): A widely-used [trading platform](../t/trading_platform.md) that offers advanced charting, analysis, and automated trading capabilities for [futures](../f/futures.md) traders.
+- TradeStation: A leading [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced [algorithmic trading](../a/accountability.md) tools and services for [futures](../f/futures.md) traders.
+- MetaTrader 5: A popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) through its built-in programming language, MQL5.
+- NinjaTrader: A widely-used [trading platform](../t/trading_platform.md) that offers advanced charting, analysis, and automated trading capabilities for [futures](../f/futures.md) traders.
 
 ## Risk Management
 Trading E-Mini [futures contracts](../f/futures_contracts.md) involves significant [risk](../r/risk.md), and effective [risk management](../r/risk_management.md) is crucial for long-term success. Key [risk management techniques](../r/risk_management_techniques.md) include:

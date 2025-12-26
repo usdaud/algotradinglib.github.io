@@ -1,6 +1,6 @@
 # Quotation
 
-A quotation in [financial markets](../f/financial_market.md) typically refers to the last price at which a [security](../s/security.md) or [asset](../a/asset.md) was bought or sold. In the context of trading, quotations also include a [bid](../b/bid.md) and an ask price, representing the highest price a buyer is willing to pay and the lowest price a seller is willing to accept, respectively. 
+A quotation in [financial markets](../f/financial_market.md) typically refers to the last price at which a [security](../s/security.md) or [asset](../a/asset.md) was bought or sold. In the context of trading, quotations also include a [bid](../b/bid.md) and an ask price, representing the highest price a buyer is willing to pay and the lowest price a seller is willing to accept, respectively.
 
 ## Overview
 
@@ -18,7 +18,7 @@ The ask price, or [offer](../o/offer.md) price, is the lowest price that a selle
 
 ### Bid-Ask Spread
 
-The difference between the [bid price](../b/bid_price.md) and the ask price is known as the [bid-ask spread](../b/bid-ask_spread.md). This spread is a critical [indicator](../i/indicator.md) of the [liquidity](../l/liquidity.md) of a [security](../s/security.md). 
+The difference between the [bid price](../b/bid_price.md) and the ask price is known as the [bid-ask spread](../b/bid-ask_spread.md). This spread is a critical [indicator](../i/indicator.md) of the [liquidity](../l/liquidity.md) of a [security](../s/security.md).
 
 1. **Narrow Spread**: Indicates high [liquidity](../l/liquidity.md), meaning there are many buyers and sellers, and the [market](../m/market.md) is highly active.
 2. **Wide Spread**: Suggests low [liquidity](../l/liquidity.md), meaning fewer transactions are happening, and there may be difficulties in buying or selling without affecting the price.
@@ -47,35 +47,27 @@ Historical quotations are records of past prices. They are essential for [techni
 
 Stock exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE), [NASDAQ](../n/nasdaq.md), and London Stock [Exchange](../e/exchange.md) (LSE) provide quotations for the [stocks](../s/stock.md) [listed](../l/listed.md) on them. These exchanges have developed various advanced trading platforms that [offer](../o/offer.md) real-time data.
 
-[New York Stock Exchange](https://www.nyse.com/)
 
-[NASDAQ](https://www.nasdaq.com/)
 
-[London Stock Exchange](https://www.londonstockexchange.com/)
 
 ### Financial Data Providers
 
 Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md) provide extensive data services, including real-time and historical quotations. These services are often subscription-based and cater to institutional investors and financial professionals.
 
-[Bloomberg](https://www.bloomberg.com/)
 
-[Reuters](https://www.reuters.com/)
 
-[Morningstar](https://www.morningstar.com/)
 
 ### Brokerage Platforms
 
 Online brokers like [Charles Schwab](../c/charles_schwab.md), [Robinhood](../r/robinhood.md), and [E*TRADE](../e/e_trade.md) [offer](../o/offer.md) quotations as part of their trading platforms. These platforms often provide valuable tools for analysis and executing trades.
 
-[Charles Schwab](https://www.schwab.com/)
 
-[Robinhood](https://robinhood.com/)
 
-[E*TRADE](https://us.etrade.com/home)
+E*TRADE
 
 ## The Role of Quotation Systems in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on precise and timely quotations. In high-frequency trading (HFT), algorithms can execute thousands of trades per second based on real-time [quote](../q/quote.md) data. 
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on precise and timely quotations. In high-frequency trading (HFT), algorithms can execute thousands of trades per second based on real-time [quote](../q/quote.md) data.
 
 ### Data Feeds
 
@@ -87,7 +79,7 @@ Online brokers like [Charles Schwab](../c/charles_schwab.md), [Robinhood](../r/r
 
 ## Quotation and Market Microstructure
 
-Understanding how quotations work helps in comprehending [market microstructure](../m/market_microstructure.md) - the mechanics of how trades are conducted. 
+Understanding how quotations work helps in comprehending [market microstructure](../m/market_microstructure.md) - the mechanics of how trades are conducted.
 
 ### Market Making
 

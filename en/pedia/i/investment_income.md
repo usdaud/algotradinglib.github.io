@@ -6,7 +6,7 @@ Investment [income](../i/income.md) refers to the returns that an individual or 
 
 ### 1. Dividends
 
-Dividends are payments made by a [corporation](../c/corporation.md) to its shareholders, usually derived from its profits. Companies that generate sufficient profits may distribute a portion of these [earnings](../e/earnings.md) to shareholders as dividends. 
+Dividends are payments made by a [corporation](../c/corporation.md) to its shareholders, usually derived from its profits. Companies that generate sufficient profits may distribute a portion of these [earnings](../e/earnings.md) to shareholders as dividends.
 
 **Key Characteristics:**
 - Paid periodically (quarterly, semi-annually, or annually).
@@ -51,7 +51,7 @@ Royalties are payments made to an owner for the ongoing use of their [asset](../
 
 ## Tax Implications
 
-Understanding the tax implications of various forms of investment [income](../i/income.md) is crucial for [financial planning](../f/financial_planning.md) and maximizing returns. 
+Understanding the tax implications of various forms of investment [income](../i/income.md) is crucial for [financial planning](../f/financial_planning.md) and maximizing returns.
 
 ### Dividends
 

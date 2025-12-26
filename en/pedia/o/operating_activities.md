@@ -23,7 +23,7 @@ This includes all activities that bring in [money](../m/money.md) from the [sale
 - **Sales [Receipts](../r/receipt.md)**: Cash received from customers.
 - **Service Fees**: Payments for services rendered.
 - **[Royalty](../r/royalty.md) [Income](../i/income.md)**: [Earnings](../e/earnings.md) from intellectual property or licensing agreements.
-  
+
 ### Operating Expenses
 
 These are costs directly associated with the day-to-day functioning of the [business](../b/business.md):
@@ -121,13 +121,12 @@ Effective management of working [capital](../c/capital.md) ensures that a compan
 
 Amazon's [financial statements](../f/financial_statements.md) provide a clear example of how operating activities contribute to its overall performance. The company generates substantial [revenue](../r/revenue.md) from its core operations—primarily e-[commerce](../c/commerce.md) and cloud services (AWS). Its [cash flow statement](../c/cash_flow_statement.md), particularly the operating activities section, highlights the immense cash inflows from sales balanced against operating expenses like shipping costs, technology [infrastructure](../i/infrastructure.md), and [marketing](../m/marketing.md).
 
-For more details, visit [Amazon's Investor Relations](https://ir.aboutamazon.com/).
 
 ### Apple (AAPL)
 
 Apple is another example where operating activities are at the forefront. The company's [revenue](../r/revenue.md) from product sales (iPhones, Macs, etc.) and services (App Store, Apple Music) plays a significant role. Apple's [cash flow statement](../c/cash_flow_statement.md) showcases [robust](../r/robust.md) cash inflows from operating activities, reflecting its strong [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability.
 
-Find more information at [Apple Investor Site](https://investor.apple.com/).
+Find
 
 ## Conclusion
 

@@ -109,25 +109,25 @@ Several software and tools can assist in solving Zero-One Integer Programming pr
 
 IBM ILOG CPLEX is a leading software package for solving [linear programming](../l/linear_programming_in_trading.md), mixed-integer programming, and zero-one integer programming problems. It provides [robust](../r/robust.md) algorithms and can [handle](../h/handle.md) large-scale [optimization](../o/optimization.md) problems efficiently.
 
-- [IBM ILOG CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio)
+- IBM ILOG CPLEX
 
 ### Gurobi
 
 Gurobi is another top-tier solver known for its high performance in solving linear and integer programming problems. It employs advanced algorithms and parallelism to deliver solutions quickly.
 
-- [Gurobi](https://www.gurobi.com/)
+- Gurobi
 
 ### Google OR-Tools
 
 Google OR-Tools is an [open](../o/open.md)-source software suite for [optimization](../o/optimization.md), providing tools for [linear programming](../l/linear_programming_in_trading.md), integer programming, and constraint programming. It's highly versatile and integrates well with Python and other programming languages.
 
-- [Google OR-Tools](https://developers.google.com/optimization)
+- Google OR-Tools
 
 ### MATLAB
 
 MATLAB offers built-in functions and toolboxes for solving [optimization](../o/optimization.md) problems, including Zero-One Integer Programming. It’s particularly useful for academic and research purposes due to its extensive library and ease of use.
 
-- [MATLAB Optimization Toolbox](https://www.mathworks.com/products/optimization.html)
+- MATLAB Optimization Toolbox
 
 ## Challenges and Considerations
 

@@ -11,15 +11,15 @@ The VIX was introduced in 1993 by the Chicago Board [Options](../o/options.md) [
 The VIX uses a wide [range](../r/range.md) of S&P 500 [Index](../i/index_instrument.md) (SPX) option prices to gauge [market](../m/market.md) expectations of future [volatility](../v/volatility.md). The key steps in the calculation of the VIX are as follows:
 
 1. **Selection of [Options](../o/options.md)**:
-   - The VIX is calculated using both near-term and next-term [options](../o/options.md) that expire in less than 37 days but more than 23 days.
-   - Both call and [put options](../p/put_options.md) are utilized in the calculation.
+ - The VIX is calculated using both near-term and next-term [options](../o/options.md) that expire in less than 37 days but more than 23 days.
+ - Both call and [put options](../p/put_options.md) are utilized in the calculation.
 
 2. **Calculation of Implied [Volatility](../v/volatility.md)**:
-   - The VIX uses out-of-the-[money](../m/money.md) (OTM) [options](../o/options.md) because they are the best indicators of [market](../m/market.md) opinion about future [volatility](../v/volatility.md).
-   - The chosen [options](../o/options.md) are then used to calculate an average of the expected [volatility](../v/volatility.md) over the next 30 days.
+ - The VIX uses out-of-the-[money](../m/money.md) (OTM) [options](../o/options.md) because they are the best indicators of [market](../m/market.md) opinion about future [volatility](../v/volatility.md).
+ - The chosen [options](../o/options.md) are then used to calculate an average of the expected [volatility](../v/volatility.md) over the next 30 days.
 
 3. **[Weighted Average](../w/weighted_average.md)**:
-   - The VIX is essentially the square root of the [weighted average](../w/weighted_average.md) of the implied volatilities.
+ - The VIX is essentially the square root of the [weighted average](../w/weighted_average.md) of the implied volatilities.
 
 The exact formula used to calculate the VIX involves a complex series of steps that transform the prices of [multiple](../m/multiple.md) [options](../o/options.md) into a single number that reflects the [market](../m/market.md)'s expectation of [volatility](../v/volatility.md) over the next month.
 
@@ -38,11 +38,11 @@ Traders and investors use the VIX in various ways to guide their investment stra
 
 ## VIX Futures and Options
 
-VIX [futures](../f/futures.md) and [options](../o/options.md) provide a mechanism for investors to [trade](../t/trade.md) based on their expectations of future [volatility](../v/volatility.md). These financial instruments can be used for hedging, [speculation](../s/speculation.md), and gaining exposure to [volatility](../v/volatility.md). 
+VIX [futures](../f/futures.md) and [options](../o/options.md) provide a mechanism for investors to [trade](../t/trade.md) based on their expectations of future [volatility](../v/volatility.md). These financial instruments can be used for hedging, [speculation](../s/speculation.md), and gaining exposure to [volatility](../v/volatility.md).
 
 ### VIX Futures
 
-VIX [futures contracts](../f/futures_contracts.md) were introduced in 2004 by the CBOE [Futures](../f/futures.md) [Exchange](../e/exchange.md) (CFE). These contracts allow [market](../m/market.md) participants to [trade](../t/trade.md) on the expected [volatility](../v/volatility.md) of the S&P 500 [index](../i/index_instrument.md). 
+VIX [futures contracts](../f/futures_contracts.md) were introduced in 2004 by the CBOE [Futures](../f/futures.md) [Exchange](../e/exchange.md) (CFE). These contracts allow [market](../m/market.md) participants to [trade](../t/trade.md) on the expected [volatility](../v/volatility.md) of the S&P 500 [index](../i/index_instrument.md).
 
 - **Pricing**: The price of VIX [futures](../f/futures.md) is determined by the current level of the VIX and [market](../m/market.md) expectations of future [volatility](../v/volatility.md).
 - **Settlement**: These contracts typically settle in cash and are marketed with expiration dates that extend from days to months.
@@ -70,7 +70,7 @@ Introduced in 2006, [VIX options](../v/vix_option.md) have become a popular tool
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the VIX serves as a valuable input for models that predict [market](../m/market.md) movements and [volatility](../v/volatility.md). Many [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) incorporate the VIX to manage or [hedge](../h/hedge.md) risks, enhance [market](../m/market.md) predictions, and optimize portfolio returns.
+In [algorithmic trading](../a/algorithmic_trading.md), the VIX serves as a valuable input for models that predict [market](../m/market.md) movements and [volatility](../v/volatility.md). Many [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) incorporate the VIX to manage or [hedge](../h/hedge.md) risks, enhance [market](../m/market.md) predictions, and optimize portfolio returns.
 
 ### Use Cases of VIX in Algo Trading
 
@@ -87,12 +87,9 @@ Several financial institutions and [hedge](../h/hedge.md) funds have incorporate
 ### Notable Firms and Resources
 
 - **Cboe Global Markets**: The official provider of VIX.
-  - [http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures](http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures)
-- **ProShares**: Offers various ETFs based on the VIX.
-  - [https://www.proshares.com/our_ETFs.html](https://www.proshares.com/our_ETFs.html)
-- **iPath ETNs**: Provides ETNs linked to the VIX.
-  - [https://www.ipathetn.com/](https://www.ipathetn.com/)
-
+ - - **ProShares**: Offers various ETFs based on the VIX.
+ - - **iPath ETNs**: Provides ETNs linked to the VIX.
+ -
 ## Conclusion
 
-The VIX [index](../i/index_instrument.md) is a crucial barometer of [market sentiment](../m/market_sentiment.md) and [volatility](../v/volatility.md). It provides insights into [investor](../i/investor.md) expectations and plays a significant role in [financial markets](../f/financial_market.md). Understanding the VIX, its calculation, and its application in [trading strategies](../t/trading_strategies.md) can help investors and traders manage [risk](../r/risk.md) and [capitalize](../c/capitalize.md) on [market](../m/market.md) conditions. Whether for hedging, [speculation](../s/speculation.md), or [algorithmic trading](../a/accountability.md), the VIX remains an integral part of the financial landscape, [offering](../o/offering.md) a unique window into the [market](../m/market.md)'s behavior and future expectations.
+The VIX [index](../i/index_instrument.md) is a crucial barometer of [market sentiment](../m/market_sentiment.md) and [volatility](../v/volatility.md). It provides insights into [investor](../i/investor.md) expectations and plays a significant role in [financial markets](../f/financial_market.md). Understanding the VIX, its calculation, and its application in [trading strategies](../t/trading_strategies.md) can help investors and traders manage [risk](../r/risk.md) and [capitalize](../c/capitalize.md) on [market](../m/market.md) conditions. Whether for hedging, [speculation](../s/speculation.md), or [algorithmic trading](../a/algorithmic_trading.md), the VIX remains an integral part of the financial landscape, [offering](../o/offering.md) a unique window into the [market](../m/market.md)'s behavior and future expectations.

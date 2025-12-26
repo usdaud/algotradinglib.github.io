@@ -60,13 +60,13 @@ The specific terms of sales contracts, such as fixed prices, [spot market](../s/
 Several companies in the oil and gas [industry](../i/industry.md) actively analyze and report their netback values. Here are a few case studies:
 
 ### Example 1: Cenovus Energy
-Cenovus Energy, a Canadian integrated oil company, frequently reports netback for its various projects. Their detailed reports provide insights into their operational efficiencies and profitability. For more information, you can visit [Cenovus Energy](https://www.cenovus.com).
+Cenovus Energy, a Canadian integrated oil company, frequently reports netback for its various projects. Their detailed reports provide insights into their operational efficiencies and profitability. For more information, you can visit Cenovus Energy.
 
 ### Example 2: Suncor Energy
-Suncor Energy, another major player in the Canadian [oil sands](../o/oil_sands.md), also highlights netback in its financial reports. They break down their netback calculations by project, allowing investors to see the profitability of individual operations. More details can be found at [Suncor Energy](https://www.suncor.com).
+Suncor Energy, another major player in the Canadian [oil sands](../o/oil_sands.md), also highlights netback in its financial reports. They break down their netback calculations by project, allowing investors to see the profitability of individual operations. More details can be found at Suncor Energy.
 
 ### Example 3: BP
-British multinational oil and gas company BP provides comprehensive financial documentation that includes netback valuations across their global projects. This helps in understanding the diverse cost structures and [market](../m/market.md) conditions they operate in. You can explore more at [BP](https://www.bp.com).
+British multinational oil and gas company BP provides comprehensive financial documentation that includes netback valuations across their global projects. This helps in understanding the diverse cost structures and [market](../m/market.md) conditions they operate in. You can explore more at BP.
 
 ## Conclusion
 

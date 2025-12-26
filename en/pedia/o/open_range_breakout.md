@@ -38,7 +38,7 @@ For example, if a [trader](../t/trader.md) chooses a 15-minute [open](../o/open.
 
 #### Determining Breakouts
 
-Once the [open](../o/open.md) [range](../r/range.md) is established, the [trading strategy](../t/trading_strategy.md) looks for price movements that break out of this [range](../r/range.md). 
+Once the [open](../o/open.md) [range](../r/range.md) is established, the [trading strategy](../t/trading_strategy.md) looks for price movements that break out of this [range](../r/range.md).
 
 - A **bullish [breakout](../b/breakout.md)** occurs when the price rises above the [open](../o/open.md) [range](../r/range.md) high.
 - A **bearish [breakout](../b/breakout.md)** happens when the price falls below the [open](../o/open.md) [range](../r/range.md) low.
@@ -98,19 +98,19 @@ Several financial service providers and software companies [offer](../o/offer.md
 
 [TradeStation](../t/tradestation.md) is a brokerage [firm](../f/firm.md) that provides comprehensive tools for traders to develop, test, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. Their platform supports custom scripting and has built-in indicators for [open](../o/open.md) [range](../r/range.md) [breakout](../b/breakout.md) strategies.
 
-Website: [TradeStation](https://www.tradestation.com/)
+online platform: TradeStation
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) offers advanced charting and analysis tools, including capabilities to implement and backtest [open](../o/open.md) [range](../r/range.md) [breakout](../b/breakout.md) strategies. It's a popular platform among retail and institutional traders for its flexibility and robustness.
 
-Website: [NinjaTrader](https://www.ninjatrader.com/)
+online platform: NinjaTrader
 
 ### MetaTrader 4/5 (MT4/MT5)
 
 MetaTrader platforms are widely used in forex and CFD trading, providing capabilities to automate ORB strategies using Expert Advisors (EAs) and custom indicators.
 
-Website: [MetaTrader](https://www.metatrader4.com/en)
+online platform: MetaTrader
 
 ## Conclusion
 

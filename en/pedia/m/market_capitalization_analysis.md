@@ -25,29 +25,29 @@ This [value](../v/value.md) represents the total [value](../v/value.md) of the c
 Companies are often classified into different categories based on their [market capitalization](../m/market_capitalization.md). These categories help investors segment the [market](../m/market.md) and tailor their investment strategies accordingly. The primary categories are:
 
 ### 1. **Large-Cap**
-   - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) typically above $10 billion.
-   - **Characteristics**: Large-cap companies are usually well-established, financially stable, and often leaders in their respective industries. They typically [offer](../o/offer.md) lower [volatility](../v/volatility.md) and more consistent returns.
-   - **Examples**: Apple (AAPL), Microsoft (MSFT), Amazon (AMZN).
+ - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) typically above $10 billion.
+ - **Characteristics**: Large-cap companies are usually well-established, financially stable, and often leaders in their respective industries. They typically [offer](../o/offer.md) lower [volatility](../v/volatility.md) and more consistent returns.
+ - **Examples**: Apple (AAPL), Microsoft (MSFT), Amazon (AMZN).
 
 ### 2. **Mid-Cap**
-   - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) between $2 billion and $10 billion.
-   - **Characteristics**: [Mid-cap](../m/mid-cap.md) companies strike a balance between growth potential and stability. They often have significant growth prospects and can provide higher returns than large-cap companies.
-   - **Examples**: Twitter (TWTR), Etsy (ETSY), Roku (ROKU).
+ - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) between $2 billion and $10 billion.
+ - **Characteristics**: [Mid-cap](../m/mid-cap.md) companies strike a balance between growth potential and stability. They often have significant growth prospects and can provide higher returns than large-cap companies.
+ - **Examples**: Twitter (TWTR), Etsy (ETSY), Roku (ROKU).
 
 ### 3. **Small-Cap**
-   - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) between $300 million and $2 billion.
-   - **Characteristics**: Small-cap companies are usually young, smaller firms with significant growth potential but also higher [risk](../r/risk.md) and [volatility](../v/volatility.md).
-   - **Examples**: Planet Fitness (PLNT), Chegg (CHGG), GoPro (GPRO).
+ - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) between $300 million and $2 billion.
+ - **Characteristics**: Small-cap companies are usually young, smaller firms with significant growth potential but also higher [risk](../r/risk.md) and [volatility](../v/volatility.md).
+ - **Examples**: Planet Fitness (PLNT), Chegg (CHGG), GoPro (GPRO).
 
 ### 4. **Micro-Cap**
-   - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) between $50 million and $300 million.
-   - **Characteristics**: Micro-cap companies are often in the early stages of development. They can provide substantial returns but come with high [risk](../r/risk.md).
-   - **Examples**: Some micro-cap [stocks](../s/stock.md) can be found on platforms like OTC Markets Group. [OTC Markets Group](https://www.otcmarkets.com/)
+ - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) between $50 million and $300 million.
+ - **Characteristics**: Micro-cap companies are often in the early stages of development. They can provide substantial returns but come with high [risk](../r/risk.md).
+ - **Examples**: Some micro-cap [stocks](../s/stock.md) can be found on platforms like OTC Markets Group. OTC Markets Group
 
 ### 5. **Nano-Cap**
-   - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) below $50 million.
-   - **Characteristics**: Nano-cap companies are very small and highly speculative. Investments in nano-cap [stocks](../s/stock.md) are extremely risky.
-   - **Examples**: Various nano-cap companies [trade](../t/trade.md) on over-the-counter (OTC) platforms.
+ - **Definition**: Companies with a [market capitalization](../m/market_capitalization.md) below $50 million.
+ - **Characteristics**: Nano-cap companies are very small and highly speculative. Investments in nano-cap [stocks](../s/stock.md) are extremely risky.
+ - **Examples**: Various nano-cap companies [trade](../t/trade.md) on over-the-counter (OTC) platforms.
 
 ## Importance of Market Capitalization Analysis
 
@@ -99,16 +99,16 @@ Algorithms use [market](../m/market.md) cap data to optimize portfolio construct
 Several tools and platforms provide [market capitalization](../m/market_capitalization.md) data and analysis:
 
 ### **Financial Data Providers**
-- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for financial data, news, and analytics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers data on [market](../m/market.md) cap, financial metrics, and analytics. [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
-  
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for financial data, news, and analytics. Bloomberg
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers data on [market](../m/market.md) cap, financial metrics, and analytics. Refinitiv
+
 ### **Research Platforms**
-- **[Morningstar](../m/morningstar.md)**: Provides [market capitalization](../m/market_capitalization.md) data, [fundamental analysis](../f/fundamental_analysis.md), and investment research. [Morningstar](https://www.morningstar.com/)
-- **[Yahoo Finance](../y/yahoo_finance.md)**: A free resource for [market](../m/market.md) cap data, news, and [financial analysis](../f/financial_analysis.md). [Yahoo Finance](https://finance.yahoo.com/)
+- **[Morningstar](../m/morningstar.md)**: Provides [market capitalization](../m/market_capitalization.md) data, [fundamental analysis](../f/fundamental_analysis.md), and investment research. Morningstar
+- **[Yahoo Finance](../y/yahoo_finance.md)**: A free resource for [market](../m/market.md) cap data, news, and [financial analysis](../f/financial_analysis.md). Yahoo Finance
 
 ### **Algorithmic Trading Platforms**
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and strategies. [QuantConnect](https://www.quantconnect.com/)
-- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with APIs for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and strategies. QuantConnect
+- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with APIs for [algorithmic trading](../a/algorithmic_trading.md). Alpaca
 
 ## Conclusion
 

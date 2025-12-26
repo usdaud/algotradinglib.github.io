@@ -72,7 +72,7 @@ Dollar-cost averaging is a strategy where an individual consistently invests a f
 - **Claiming Early Benefits**: Individuals can claim benefits as early as age 62, but doing so results in reduced monthly benefits.
 - **Delayed Retirement Credits**: Delaying benefits past the full retirement age increases the monthly benefit amount.
 
-More information can be found at [Social Security Administration](https://www.ssa.gov/).
+More information can be found at Social Security Administration.
 
 ### Annuities
 

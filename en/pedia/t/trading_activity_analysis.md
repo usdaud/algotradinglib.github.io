@@ -36,7 +36,7 @@ Indicators used in Price [Trend Analysis](../t/trend_analysis.md) include moving
 
 - **News [Sentiment Analysis](../s/sentiment_analysis.md):** Utilizing [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to interpret news articles.
 - **[Social Media](../s/social_media.md) [Sentiment Analysis](../s/sentiment_analysis.md):** Analyzing tweets, posts, and comments to understand [trader](../t/trader.md) sentiment.
-  
+
 ### 5. **Order Flow Analysis**
 
 [Order Flow Analysis](../o/order_flow_analysis.md) focuses on understanding the flow of orders in the [market](../m/market.md). It provides insights into the buying and selling pressure by examining the [order](../o/order.md) books. Techniques include:
@@ -53,32 +53,26 @@ Several tools and platforms facilitate Trading Activity Analysis through advance
 
 The [Bloomberg](../b/bloomberg.md) Terminal is a sophisticated tool [offering](../o/offering.md) real-time data, analytics, and news. It allows for in-depth trading activity analysis with features like [volume](../v/volume.md) breakdowns, [trend analysis](../t/trend_analysis.md), and sentiment tracking.
 
-[Visit Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Thomson Reuters Eikon
 
 Thomson [Reuters](../r/reuters.md) Eikon provides [robust](../r/robust.md) [data analytics](../d/data_analytics.md), trading tools, and research capabilities. It helps users to analyze [market](../m/market.md) trends, volumes, and volatile movements.
 
-[Visit Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### TradingView
 
 [TradingView](../t/tradingview.md) is a popular charting platform that offers a wide array of tools for [technical analysis](../t/technical_analysis.md), including [volume](../v/volume.md), price trends, and [volatility](../v/volatility.md) indicators. It’s user-friendly with a strong community of traders sharing insights.
 
-[Visit TradingView](https://www.tradingview.com/)
 
 ### MetaTrader 4/5
 
 MetaTrader platforms are widely used in forex and CFD trading. They [offer](../o/offer.md) built-in indicators for [volume](../v/volume.md), [trend](../t/trend.md), and [volatility analysis](../v/volatility_analysis.md). Additionally, they support automated trading through Expert Advisors (EAs).
 
-[Visit MetaTrader 4](https://www.metatrader4.com/en)
-[Visit MetaTrader 5](https://www.metatrader5.com/en)
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and research tools necessary for trading activity analysis. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and algorithms written in Python and C#.
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and research tools necessary for trading activity analysis. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and algorithms written in C#.
 
-[Visit QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 

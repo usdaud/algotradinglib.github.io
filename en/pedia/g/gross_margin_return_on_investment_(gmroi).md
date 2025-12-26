@@ -4,7 +4,7 @@
 
 ## Definition of GMROI
 
-GMROI can be defined as the amount of [gross margin](../g/gross_margin.md) a retailer earns for every dollar invested in [inventory](../i/inventory.md). It serves as an effective [indicator](../i/indicator.md) for evaluating the [financial performance](../f/financial_performance.md) of [inventory](../i/inventory.md) in generating profits. Simply put, GMROI helps in understanding how many dollars of [gross profit](../g/gross_profit.md) are earned for each dollar of [inventory](../i/inventory.md) investment. 
+GMROI can be defined as the amount of [gross margin](../g/gross_margin.md) a retailer earns for every dollar invested in [inventory](../i/inventory.md). It serves as an effective [indicator](../i/indicator.md) for evaluating the [financial performance](../f/financial_performance.md) of [inventory](../i/inventory.md) in generating profits. Simply put, GMROI helps in understanding how many dollars of [gross profit](../g/gross_profit.md) are earned for each dollar of [inventory](../i/inventory.md) investment.
 
 The formula for GMROI is:
 

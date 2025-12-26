@@ -114,4 +114,4 @@ Collaborative platforms enable [multiple](../m/multiple.md) stakeholders to work
 
 [Equity](../e/equity.md) [risk management](../r/risk_management.md) is a dynamic and evolving field that is crucial for protecting investment portfolios from losses due to [market](../m/market.md) [volatility](../v/volatility.md). By employing a combination of strategies, tools, and technologies, investment professionals can effectively manage [equity](../e/equity.md) risks and enhance [portfolio performance](../p/portfolio_performance.md). Whether through [diversification](../d/diversification.md), hedging, or the use of advanced analytics, the aim is to strike a balance between [risk](../r/risk.md) and [return](../r/return.md) to achieve investment objectives.
 
-For further reading and resources, you may refer to [MSCI RiskMetrics](https://www.msci.com/riskmetrics) and [Numerix](https://www.numerix.com/solutions/risk) for insights into [risk management](../r/risk_management.md) tools and methodologies.
+For further reading and resources, you may refer to MSCI RiskMetrics and Numerix for insights into [risk management](../r/risk_management.md) tools and methodologies.

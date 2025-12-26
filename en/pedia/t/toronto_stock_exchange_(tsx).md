@@ -14,8 +14,7 @@ Founded in 1852 in Toronto, Ontario, the TSX is one of North America's oldest st
 
 ## Structure and Organization of TSX
 
-The TSX is owned and operated by the TMX Group Limited ([www.tmx.com](https://www.tmx.com)). The TMX Group provides a [range](../r/range.md) of services for [capital markets](../c/capital_markets.md), including trading, [clearing](../c/clearing.md), settlement, and various [market](../m/market.md) data services. The TSX has a well-defined structure:
-
+The TSX is owned and operated by the TMX Group Limited ( The TMX Group provides a [range](../r/range.md) of services for [capital markets](../c/capital_markets.md), including trading, [clearing](../c/clearing.md), settlement, and various [market](../m/market.md) data services. The TSX has a well-defined structure
 - **Board of Directors**: Responsible for the strategic direction and governance of the [exchange](../e/exchange.md).
 - **Auditors and Compliance Departments**: Ensure adherence to securities regulations and financial integrity.
 - **Listings Committee**: Oversees the listing and [delisting](../d/delisting.md) of securities.
@@ -91,4 +90,3 @@ While primarily a national [exchange](../e/exchange.md), the TSX has substantial
 
 The Toronto Stock [Exchange](../e/exchange.md) (TSX) is more than just a marketplace; it is an integral pillar of the Canadian and global [financial system](../f/financial_system.md). From its historical roots to its current status as a diversified and technologically advanced [trading platform](../t/trading_platform.md), the TSX provides immense opportunities and plays a crucial role in [capital](../c/capital.md) formation. Whether you're an [investor](../i/investor.md), a financial professional, or just someone with an [interest](../i/interest.md) in [finance](../f/finance.md), understanding the TSX's mechanics, regulations, and [market](../m/market.md) environment is vital.
 
-For more information, visit the [TMX Group website](https://www.tmx.com).

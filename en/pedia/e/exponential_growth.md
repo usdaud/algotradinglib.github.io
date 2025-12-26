@@ -74,10 +74,7 @@ The adoption and enhancement of [trading algorithms](../t/trading_algorithms.md)
 The amount of [market](../m/market.md) data generated and the processing power required for high-frequency trading can increase exponentially over time, driven by advancements in technology and [market](../m/market.md) complexity.
 
 ### Companies Adopting Exponential Strategies
-- **Two Sigma**: https://www.twosigma.com
-- **DE Shaw**: https://www.deshaw.com
-- **Renaissance Technologies**: https://www.rentec.com
-
+- **Two Sigma**- **DE Shaw**- **Renaissance Technologies**
 ## Mathematical Context
 
 ### 1. Differential Equations

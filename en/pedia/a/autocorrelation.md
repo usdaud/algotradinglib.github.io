@@ -2,7 +2,7 @@
 
 Autocorrelation, also known as serial [correlation](../c/correlation.md), refers to the [correlation](../c/correlation.md) of a [time series](../t/time_series.md) with its own past and future values. In the context of [algorithmic trading](../a/algorithmic_trading.md), autocorrelation is a crucial concept as it can reveal patterns and structures in the [time series](../t/time_series.md) data, such as stock prices or trading volumes. Understanding autocorrelation can lead to more effective [trading strategies](../t/trading_strategies.md), as it may help in predicting future [market](../m/market.md) behavior based on historical data.
 
-### Understanding Autocorrelation 
+### Understanding Autocorrelation
 
 Autocorrelation measures the similarity between observations as a function of the time lag between them. If a [time series](../t/time_series.md) is positively autocorrelated, past values are likely to be followed by future values of similar magnitude, while a negatively autocorrelated [time series](../t/time_series.md) [will](../w/will.md) tend to revert to a mean. Mathematically, autocorrelation can be expressed as:
 
@@ -91,16 +91,16 @@ This script downloads historical price data for Apple Inc. (AAPL), calculates da
 
 Several companies have made significant strides in [algorithmic trading](../a/algorithmic_trading.md), leveraging concepts like autocorrelation to develop advanced [trading strategies](../t/trading_strategies.md). These firms often employ teams of quantitative analysts, data scientists, and software engineers to create and refine their [trading algorithms](../t/trading_algorithms.md).
 
-1. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create [quantitative models](../q/quantitative_models.md). [Two Sigma](https://www.twosigma.com/)
+1. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create [quantitative models](../q/quantitative_models.md). Two Sigma
 
-2. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that adopts a [quantitative trading](../q/quantitative_trading.md) approach across various [asset](../a/asset.md) classes. [Jane Street](https://www.janestreet.com/)
+2. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that adopts a [quantitative trading](../q/quantitative_trading.md) approach across various [asset](../a/asset.md) classes. Jane Street
 
-3. **Renaissance Technologies**: A pioneer in [quantitative trading](../q/quantitative_trading.md), known for its Medallion [Fund](../f/fund.md), which has delivered outstanding returns over decades. [Renaissance Technologies](https://www.rentec.com/)
+3. **Renaissance Technologies**: A pioneer in [quantitative trading](../q/quantitative_trading.md), known for its Medallion [Fund](../f/fund.md), which has delivered outstanding returns over decades. Renaissance Technologies
 
-4. **DE Shaw**: This [firm](../f/firm.md) combines quantitative and systematic strategies with traditional investment approaches. [DE Shaw](https://www.deshaw.com/)
+4. **DE Shaw**: This [firm](../f/firm.md) combines quantitative and systematic strategies with traditional investment approaches. DE Shaw
 
-5. **Virtu Financial**: A leading technology-enabled [market maker](../m/market_maker.md) and trading [firm](../f/firm.md). [Virtu Financial](https://www.virtu.com/)
+5. **Virtu Financial**: A leading technology-enabled [market maker](../m/market_maker.md) and trading [firm](../f/firm.md). Virtu Financial
 
 ### Conclusion
 
-Autocorrelation is a powerful statistical tool in the arsenal of an algorithmic [trader](../t/trader.md), [offering](../o/offering.md) insights into the [temporal dependencies](../t/temporal_dependencies_in_trading.md) within [financial time series](../f/financial_time_series.md). By leveraging autocorrelation, traders can detect trends, develop mean-reversion strategies, model [volatility](../v/volatility.md), and potentially uncover [market](../m/market.md) inefficiencies. However, it is crucial to be aware of the limitations embedded in autocorrelation analysis and to combine this approach with other quantitative methods for [robust](../r/robust.md) strategy development in [algorithmic trading](../a/algorithmic_trading.md).
+Autocorrelation is a powerful statistical tool in the arsenal of an algorithmic [trader](../t/trader.md), [offering](../o/offering.md) insights into the [temporal dependencies](../t/temporal_dependencies_in_trading.md) within [financial time series](../f/financial_time_series.md). By leveraging autocorrelation, traders can detect trends, develop mean-reversion strategies, model [volatility](../v/volatility.md), and potentially uncover [market](../m/market.md) inefficiencies. However, it is crucial to be aware of the limitations embedded in autocorrelation analysis and to combine this approach with other quantitative methods for [robust](../r/robust.md) strategy development in [algorithmic trading](../a/algorithmic_trading.md).

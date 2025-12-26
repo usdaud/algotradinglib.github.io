@@ -114,7 +114,7 @@ Investors can use insights from MRTS to identify firms with flexible production 
 
 ### Algorithmic Trading and Fintech
 
-In the realm of [algorithmic trading](../a/accountability.md) and fintech, the principles of MRTS can be applied to develop models that optimize resource allocation and [risk management](../r/risk_management.md). For example, [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) can incorporate MRTS-based models to optimize trading decisions under varying [market](../m/market.md) conditions.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and fintech, the principles of MRTS can be applied to develop models that optimize resource allocation and [risk management](../r/risk_management.md). For example, [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) can incorporate MRTS-based models to optimize trading decisions under varying [market](../m/market.md) conditions.
 
 ## Conclusion
 

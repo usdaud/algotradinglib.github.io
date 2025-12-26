@@ -10,13 +10,13 @@ In the context of [monetary policy](../m/monetary_policy.md), the key rate is of
 
 The Federal Reserve, also known as the Fed, is the central [bank](../b/bank.md) of the United States. It was established in 1913 to provide the nation with a safer, more flexible, and more stable monetary and [financial system](../f/financial_system.md). The key rate set by the Fed is known as the [federal funds rate](../f/federal_funds_rate.md), which is the [interest rate](../i/interest_rate.md) at which [depository](../d/depository.md) institutions [trade](../t/trade.md) [federal funds](../f/federal_funds.md) with each other overnight. The [federal funds rate](../f/federal_funds_rate.md) is a crucial tool for the Fed to conduct [monetary policy](../m/monetary_policy.md), influencing other [interest](../i/interest.md) rates such as those for mortgages, loans, and savings, ultimately affecting economic activity.
 
-Official website: [Federal Reserve](https://www.federalreserve.gov/)
+public materials: Federal Reserve
 
 ### European Central Bank
 
 The European Central [Bank](../b/bank.md) (ECB) is the central [bank](../b/bank.md) for the [Eurozone](../e/eurozone.md), established in 1998. The ECB's primary objective is to maintain price stability within the [Eurozone](../e/eurozone.md), which it aims to achieve by influencing [money supply](../m/money_supply.md) and [interest](../i/interest.md) rates. The key rate set by the ECB is the main refinancing operations rate, which is the [interest rate](../i/interest_rate.md) banks pay when borrowing [money](../m/money.md) from the ECB. This rate influences other short-term and long-term [interest](../i/interest.md) rates in the [Eurozone](../e/eurozone.md), affecting economic activity and [inflation](../i/inflation.md).
 
-Official website: [European Central Bank](https://www.ecb.europa.eu/)
+public materials: European Central Bank
 
 ## Influence on Financial Markets
 
@@ -52,11 +52,11 @@ Corporate bonds, issued by companies to raise [capital](../c/capital.md), are al
 
 ## Key Rate Strategies in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves the use of computer algorithms to automate trading decisions and execute orders. The key rate plays a vital role in developing and optimizing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), as [interest rate](../i/interest_rate.md) changes can impact [asset](../a/asset.md) prices and [market](../m/market.md) conditions.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves the use of computer algorithms to automate trading decisions and execute orders. The key rate plays a vital role in developing and optimizing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), as [interest rate](../i/interest_rate.md) changes can impact [asset](../a/asset.md) prices and [market](../m/market.md) conditions.
 
 ### Mean Reversion
 
-[Mean reversion](../m/mean_reversion.md) is a common strategy in [algorithmic trading](../a/accountability.md), based on the idea that [asset](../a/asset.md) prices tend to revert to their historical averages over time. By analyzing the key rate and its historical patterns, traders can develop algorithms that identify when [asset](../a/asset.md) prices deviate from their mean and execute trades accordingly. For example, if the key rate is expected to increase, an algorithm may identify assets that are [undervalued](../u/undervalued.md) relative to their historical average and execute buy orders, anticipating a price [correction](../c/correction.md).
+[Mean reversion](../m/mean_reversion.md) is a common strategy in [algorithmic trading](../a/algorithmic_trading.md), based on the idea that [asset](../a/asset.md) prices tend to revert to their historical averages over time. By analyzing the key rate and its historical patterns, traders can develop algorithms that identify when [asset](../a/asset.md) prices deviate from their mean and execute trades accordingly. For example, if the key rate is expected to increase, an algorithm may identify assets that are [undervalued](../u/undervalued.md) relative to their historical average and execute buy orders, anticipating a price [correction](../c/correction.md).
 
 ### Arbitrage
 
@@ -68,4 +68,4 @@ Corporate bonds, issued by companies to raise [capital](../c/capital.md), are al
 
 ## Conclusion
 
-The key rate is a fundamental concept in [financial markets](../f/financial_market.md), serving as a [benchmark](../b/benchmark.md) for various [interest](../i/interest.md) rates and influencing a wide [range](../r/range.md) of economic and financial variables. Understanding the key rate and its impact on [monetary policy](../m/monetary_policy.md), [financial markets](../f/financial_market.md), and [trading strategies](../t/trading_strategies.md) is essential for traders, investors, and financial analysts. In the context of [algorithmic trading](../a/accountability.md), the key rate plays a crucial role in developing and optimizing [trading strategies](../t/trading_strategies.md), providing opportunities for [risk management](../r/risk_management.md) and [profit](../p/profit.md) generation. As [financial markets](../f/financial_market.md) continue to evolve, the significance of the key rate is likely to remain a central focus for [market](../m/market.md) participants.
+The key rate is a fundamental concept in [financial markets](../f/financial_market.md), serving as a [benchmark](../b/benchmark.md) for various [interest](../i/interest.md) rates and influencing a wide [range](../r/range.md) of economic and financial variables. Understanding the key rate and its impact on [monetary policy](../m/monetary_policy.md), [financial markets](../f/financial_market.md), and [trading strategies](../t/trading_strategies.md) is essential for traders, investors, and financial analysts. In the context of [algorithmic trading](../a/algorithmic_trading.md), the key rate plays a crucial role in developing and optimizing [trading strategies](../t/trading_strategies.md), providing opportunities for [risk management](../r/risk_management.md) and [profit](../p/profit.md) generation. As [financial markets](../f/financial_market.md) continue to evolve, the significance of the key rate is likely to remain a central focus for [market](../m/market.md) participants.

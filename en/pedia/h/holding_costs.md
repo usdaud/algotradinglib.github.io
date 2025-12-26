@@ -72,11 +72,11 @@ Investors and traders often use [hedging strategies](../h/hedging_strategies.md)
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, utilizes automated, pre-programmed trading instructions to execute orders quickly and efficiently. Algotrading systems can help manage holding costs by optimizing entry and exit points, minimizing [interest](../i/interest.md) expenses, and identifying the most cost-effective trades. Companies like [QuantConnect](https://www.quantconnect.com/) provide platforms for developing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, utilizes automated, pre-programmed trading instructions to execute orders quickly and efficiently. Algotrading systems can help manage holding costs by optimizing entry and exit points, minimizing [interest](../i/interest.md) expenses, and identifying the most cost-effective trades. Companies like QuantConnect provide platforms for developing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ### Risk Management Systems
 
-Advanced [risk management systems](../r/risk_management_systems.md) can provide tools to calculate potential holding costs upfront and integrate these calculations into overall [risk management](../r/risk_management.md) strategies. By [forecasting](../f/forecasting.md) possible costs, these systems allow traders to make more informed decisions. Institutions like [Bloomberg](https://www.bloomberg.com/professional/product/risk/) [offer](../o/offer.md) comprehensive [risk management](../r/risk_management.md) solutions that include holding cost analysis.
+Advanced [risk management systems](../r/risk_management_systems.md) can provide tools to calculate potential holding costs upfront and integrate these calculations into overall [risk management](../r/risk_management.md) strategies. By [forecasting](../f/forecasting.md) possible costs, these systems allow traders to make more informed decisions. Institutions like Bloomberg [offer](../o/offer.md) comprehensive [risk management](../r/risk_management.md) solutions that include holding cost analysis.
 
 ### Machine Learning and Big Data
 

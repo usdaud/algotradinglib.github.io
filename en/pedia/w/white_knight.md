@@ -2,12 +2,12 @@
 
 ## Definition
 
-The term **"White Knight"** refers to a company or an individual that acquires a target company being subject to a [hostile takeover](../h/hostile_takeover.md) by a [third party](../t/third_party.md) (often referred to as a "black knight"). The white knight is seen as a more favorable alternative to the hostile bidder, as it typically offers better terms or is more aligned with the interests of the target company’s management, employees, and shareholders. 
+The term **"White Knight"** refers to a company or an individual that acquires a target company being subject to a [hostile takeover](../h/hostile_takeover.md) by a [third party](../t/third_party.md) (often referred to as a "black knight"). The white knight is seen as a more favorable alternative to the hostile bidder, as it typically offers better terms or is more aligned with the interests of the target company’s management, employees, and shareholders.
 
 ## Function and Purpose
 
 ### Importance in Hostile Takeovers
-In the world of mergers and acquisitions, hostile takeovers are attempts by a company (the acquirer) to [gain](../g/gain.md) control of another company (the target) against the wishes of the target company's management. A white knight counters this by [offering](../o/offering.md) a friendly [acquisition](../a/acquisition.md), which is generally more acceptable to the target company's board of directors. 
+In the world of mergers and acquisitions, hostile takeovers are attempts by a company (the acquirer) to [gain](../g/gain.md) control of another company (the target) against the wishes of the target company's management. A white knight counters this by [offering](../o/offering.md) a friendly [acquisition](../a/acquisition.md), which is generally more acceptable to the target company's board of directors.
 
 ### Ease of Transition
 Unlike hostile takeovers, white knight deals usually lead to smoother transitions. A white knight works collaboratively with the target company’s management to ensure minimal disruption, thereby protecting the interests of all stakeholders, including employees, customers, and suppliers.
@@ -67,9 +67,9 @@ Another potential hurdle is the cultural integration of the two companies. Even 
 
 ## Conclusion
 
-The concept of a white knight plays a crucial role in the landscape of mergers and acquisitions. [Offering](../o/offering.md) a more amicable and favorable alternative to hostile takeovers, white knights help protect the interests of the target company’s stakeholders while ensuring a more successful and seamless integration. Despite the challenges and complexities involved, a well-executed white knight [acquisition](../a/acquisition.md) can create substantial [value](../v/value.md) and long-term benefits for both parties involved. 
+The concept of a white knight plays a crucial role in the landscape of mergers and acquisitions. [Offering](../o/offering.md) a more amicable and favorable alternative to hostile takeovers, white knights help protect the interests of the target company’s stakeholders while ensuring a more successful and seamless integration. Despite the challenges and complexities involved, a well-executed white knight [acquisition](../a/acquisition.md) can create substantial [value](../v/value.md) and long-term benefits for both parties involved.
 
 For further information, you can [check](../c/check.md) companies like:
-- [Procter & Gamble](https://www.pg.com)
-- [IBM](https://www.ibm.com)
-- [Disney](https://www.thewaltdisneycompany.com)
+- Procter & Gamble
+- IBM
+- Disney

@@ -40,4 +40,3 @@ A **Correction** refers to a short-term decline in the price of a stock, [bond](
 
 ## Conclusion
 A correction is a temporary decline in [asset](../a/asset.md) prices, typically defined as a drop of 10% or more from a recent peak. Corrections are a normal part of [market cycles](../m/market_cycles.md) and can be caused by various factors, including overvaluation, economic data, and [market sentiment](../m/market_sentiment.md). Understanding corrections helps investors manage [risk](../r/risk.md), identify buying opportunities, and maintain a long-term perspective on their investments.
-

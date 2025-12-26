@@ -1,6 +1,6 @@
 # Depositary Receipt
 
-A Depositary Receipt (DR) is a type of financial [security](../s/security.md) that represents a stake in a foreign company that is held by a depositary [bank](../b/bank.md). These [receipts](../r/receipt.md) enable investors to [hold](../h/hold.md) [shares](../s/shares.md) in [equity](../e/equity.md) in a [corporation](../c/corporation.md) in another country, without the need to worry about cross-border and cross-[currency](../c/currency.md) transactions. Depositary [Receipts](../r/receipt.md) are a mechanism for companies that wish to raise [capital](../c/capital.md) from investors based in different countries while also expanding their [shareholder](../s/shareholder.md) bases. 
+A Depositary Receipt (DR) is a type of financial [security](../s/security.md) that represents a stake in a foreign company that is held by a depositary [bank](../b/bank.md). These [receipts](../r/receipt.md) enable investors to [hold](../h/hold.md) [shares](../s/shares.md) in [equity](../e/equity.md) in a [corporation](../c/corporation.md) in another country, without the need to worry about cross-border and cross-[currency](../c/currency.md) transactions. Depositary [Receipts](../r/receipt.md) are a mechanism for companies that wish to raise [capital](../c/capital.md) from investors based in different countries while also expanding their [shareholder](../s/shareholder.md) bases.
 
 ## Types of Depositary Receipts
 
@@ -8,7 +8,7 @@ A Depositary Receipt (DR) is a type of financial [security](../s/security.md) th
 American Depositary [Receipts](../r/receipt.md) are DRs issued by U.S. depositary banks representing [shares](../s/shares.md) of a foreign (non-U.S.) company. These [shares](../s/shares.md) [trade](../t/trade.md) on U.S. stock markets such as the New York Stock [Exchange](../e/exchange.md) (NYSE) and [NASDAQ](../n/nasdaq.md). ADRs make it easier for U.S. investors to invest in foreign companies, as transactions are conducted in U.S. dollars and under U.S. law. ADRs are further classified into different levels:
 
 1. **Level I ADRs**: These are traded "over-the-counter" but not on U.S. exchanges. They have minimal reporting requirements and are less regulated.
-  
+
 2. **Level II ADRs**: These are [listed](../l/listed.md) on U.S. stock exchanges and have stricter regulatory requirements, including the need to file with the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC).
 
 3. **Level III ADRs**: These allow foreign companies to raise [capital](../c/capital.md) through the issuance of new [shares](../s/shares.md). Companies issuing Level III ADRs must comply with full SEC reporting requirements.
@@ -30,9 +30,9 @@ The foreign company whose [shares](../s/shares.md) are represented by the deposi
 ### Depositary Bank
 A depositary [bank](../b/bank.md) is a financial institution that creates DRs by holding the actual [shares](../s/shares.md) in custody, usually in the company’s [home](../h/home.md) country but trading them in another. Some well-known depositary banks include:
 
-- [Bank of New York Mellon](https://www.bnymellon.com/)
-- [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
-- [Citibank](https://www.citi.com/)
+- Bank of New York Mellon
+- JPMorgan Chase & Co.
+- Citibank
 
 ### Custodian Bank
 The [custodian](../c/custodian.md) [bank](../b/bank.md) holds the original [shares](../s/shares.md) of the foreign company. This [bank](../b/bank.md) is usually located in the country of the issuing company and collaborates with the depositary [bank](../b/bank.md) to facilitate the process.
@@ -42,7 +42,7 @@ The [custodian](../c/custodian.md) [bank](../b/bank.md) holds the original [shar
 ### Advantages
 
 1. **Access to Global Markets**: Investors can diversify their portfolios to include international securities without the complications of foreign [trading systems](../t/trading_systems.md).
-  
+
 2. **Simplicity**: Trading in DRs simplifies the process of purchasing foreign [shares](../s/shares.md) since all transactions are processed as if they were local investments, mitigating [exchange](../e/exchange.md) rates and regulations.
 
 3. **[Liquidity](../l/liquidity.md)**: DRs generally [offer](../o/offer.md) higher [liquidity](../l/liquidity.md) due to their listing on [multiple](../m/multiple.md) exchanges.
@@ -63,12 +63,12 @@ Tax treatment for [income](../i/income.md) received from DRs can be different fr
 
 ## Trading Depositary Receipts
 
-Depositary [Receipts](../r/receipt.md) are traded in the same manner as domestic [stocks](../s/stock.md). Investors buy and sell DRs using a [brokerage account](../b/brokerage_account.md), and transactions occur during the exchanges’ trading hours where the DRs are [listed](../l/listed.md). 
+Depositary [Receipts](../r/receipt.md) are traded in the same manner as domestic [stocks](../s/stock.md). Investors buy and sell DRs using a [brokerage account](../b/brokerage_account.md), and transactions occur during the exchanges’ trading hours where the DRs are [listed](../l/listed.md).
 
 ### Example of Companies Utilizing DRs
 
 1. **Alibaba Group Holding Limited** (Ticker: BABA) trades its ADRs on the NYSE.
-2. **Gazprom** has GDRs [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md).
+2. **Gazprom** had GDRs listed on the London Stock Exchange (trading suspended in March 2022 due to sanctions).
 3. **Tata Motors** trades its ADRs on the NYSE.
 
 ## Conclusion

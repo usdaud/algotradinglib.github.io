@@ -104,4 +104,3 @@ The BVL has shown significant growth over the years, driven largely by the [mini
 
 The Bolsa de Valores de Lima is a crucial component of Peru's [financial system](../f/financial_system.md), [offering](../o/offering.md) a platform for [capital](../c/capital.md) formation and investment. While it faces challenges like [market](../m/market.md) [liquidity](../l/liquidity.md) and economic dependence on commodities, there are significant opportunities for growth, particularly through [foreign investment](../f/foreign_investment.md) and technological advancements. As the BVL continues to evolve, it aims to provide a more diverse and dynamic marketplace that can better serve the needs of investors and the broader [economy](../e/economy.md).
 
-For more information, visit the official [website of the Bolsa de Valores de Lima](https://www.bvl.com.pe/).

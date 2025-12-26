@@ -71,4 +71,4 @@ The stability and strength of the Oman Rial facilitate [trade](../t/trade.md) wi
 
 The Oman Rial (OMR) stands as one of the world's strongest and most stable currencies. Its historical evolution, features, and pegged [exchange rate](../e/exchange_rate.md) system have made it a cornerstone of the Omani [economy](../e/economy.md). The [currency](../c/currency.md)'s stability encourages both domestic and international investment, and its strength facilitates [robust](../r/robust.md) [trade](../t/trade.md) relations. As Oman continues to diversify its [economy](../e/economy.md), the OMR [will](../w/will.md) likely remain a critical element in its financial landscape.
 
-For more details on Oman: [Central Bank of Oman Official Page](https://www.cbo.gov.om)
+For more details on Oman

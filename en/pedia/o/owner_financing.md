@@ -7,7 +7,7 @@ Owner [financing](../f/financing.md), also known as [seller financing](../s/sell
 Owner [financing](../f/financing.md) works similarly to a traditional [mortgage](../m/mortgage.md) [loan](../l/loan.md), but the seller assumes the role of the [bank](../b/bank.md). Here are the key components and mechanisms of owner [financing](../f/financing.md):
 
 - **[Promissory Note](../p/promissory_note.md)**: The buyer signs a [promissory note](../p/promissory_note.md), which outlines the [loan](../l/loan.md) terms, including the [interest rate](../i/interest_rate.md), [repayment](../r/repayment.md) schedule, and consequences of [default](../d/default.md).
-  
+
 - **[Deed](../d/deed.md) of [Trust](../t/trust.md) or [Mortgage](../m/mortgage.md)**: A legal document that secures the [promissory note](../p/promissory_note.md) by placing a [lien](../l/lien.md) on the property. This [deed](../d/deed.md) provides the seller with a claim to the property if the buyer defaults.
 
 - **[Down Payment](../d/down_payment.md)**: The buyer makes a [down payment](../d/down_payment.md) to the seller, reducing the [loan](../l/loan.md) amount and providing immediate [capital](../c/capital.md) to the seller.
@@ -20,18 +20,18 @@ Owner [financing](../f/financing.md) works similarly to a traditional [mortgage]
 
 ### For Buyers
 - **Lower Qualification Barriers**: Buyers who may not qualify for a traditional [mortgage](../m/mortgage.md) due to [credit](../c/credit.md) issues or [self-employment](../s/self-employment.md) can still purchase property through owner [financing](../f/financing.md).
-  
+
 - **Flexible Terms**: Terms can be tailored to meet the needs of both parties, often with more [negotiation](../n/negotiation.md) flexibility than traditional lenders [offer](../o/offer.md).
-  
+
 - **Faster Closing**: Without the need for [bank](../b/bank.md) [underwriting](../u/underwriting.md) and approval, transactions can close more quickly.
 
 - **No Private [Mortgage Insurance](../m/mortgage_insurance.md) (PMI)**: Owner [financing](../f/financing.md) eliminates the requirement for PMI, which can reduce the overall cost for the buyer.
 
 ### For Sellers
 - **[Income](../i/income.md) Stream**: Sellers receive regular payments, providing a consistent [income](../i/income.md) stream potentially yielding higher returns due to [interest](../i/interest.md) rates.
-  
+
 - **Potential for Higher Sales Price**: Buyers may agree to pay more due to the convenience and flexibility of owner [financing](../f/financing.md).
-  
+
 - **Tax Benefits**: Seller can spread out the [capital gains tax](../c/capital_gains_tax.md) [liability](../l/liability.md) over the period they receive payments instead of paying a lump sum in the year of [sale](../s/sale.md).
 
 - **Faster [Sale](../s/sale.md)**: The added [financing](../f/financing.md) option can attract more buyers, leading to a quicker [sale](../s/sale.md).
@@ -92,11 +92,11 @@ Acme [Corporation](../c/corporation.md) owns a small office building valued at $
 
 Several online platforms and companies specialize in owner [financing](../f/financing.md), connecting buyers and sellers and providing tools to facilitate these transactions:
 
-- **Owner [Finance](../f/finance.md) Network**: [Owner Finance Network](https://www.ownerfinancenetwork.com) - A resource that provides education, [networking](../n/networking.md), and tools for owner-financed transactions.
+- **Owner [Finance](../f/finance.md) Network**: Owner Finance Network - A resource that provides education, [networking](../n/networking.md), and tools for owner-financed transactions.
 
-- **OwnerFinancing.com**: [OwnerFinancing.com](https://www.ownerfinancing.com) - A platform that helps buyers find owner-financed properties and assists sellers in listing their properties for such sales.
+- **OwnerFinancing.com**: OwnerFinancing.com - A platform that helps buyers find owner-financed properties and assists sellers in listing their properties for such sales.
 
-- **Owner [Finance](../f/finance.md) Academy**: [Owner Finance Academy](https://www.ownerfinanceacademy.com) - Offers educational content and courses for both buyers and sellers involved in owner-financed [real estate](../r/real_estate.md) deals.
+- **Owner [Finance](../f/finance.md) Academy**: Owner Finance Academy - Offers educational content and courses for both buyers and sellers involved in owner-financed [real estate](../r/real_estate.md) deals.
 
 ## Conclusion
 

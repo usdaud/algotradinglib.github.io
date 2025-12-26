@@ -21,7 +21,7 @@ Several factors can influence the magnitude and [distribution](../d/distribution
 
 ### Finance and Banking
 
-In [finance](../f/finance.md) and banking, year-end bonuses are often a significant portion of total compensation. [Investment banks](../i/investment_bank_(ib).md) and brokerage firms, known for their [lucrative](../l/lucrative.md) pay structures, typically [offer](../o/offer.md) substantial bonuses based on individual, team, and [firm](../f/firm.md)-wide performance. 
+In [finance](../f/finance.md) and banking, year-end bonuses are often a significant portion of total compensation. [Investment banks](../i/investment_bank_(ib).md) and brokerage firms, known for their [lucrative](../l/lucrative.md) pay structures, typically [offer](../o/offer.md) substantial bonuses based on individual, team, and [firm](../f/firm.md)-wide performance.
 
 ### Technology
 

@@ -34,7 +34,7 @@ Economic policy debates often feature a mix of positive and normative arguments.
 
 Several frameworks and theories guide normative economic analysis and policy recommendations:
 
-1. **[Welfare Economics](../w/welfare_economics.md)**: This branch of [economics](../e/economics.md) evaluates the economic well-being of individuals in a society and often uses tools like [cost-benefit analysis](../c/cost-benefit_analysis_in_trading.md) to recommend policies that improve social [welfare](../w/welfare.md). 
+1. **[Welfare Economics](../w/welfare_economics.md)**: This branch of [economics](../e/economics.md) evaluates the economic well-being of individuals in a society and often uses tools like [cost-benefit analysis](../c/cost-benefit_analysis_in_trading.md) to recommend policies that improve social [welfare](../w/welfare.md).
 
 2. **Social Choice Theory**: This field studies collective decision-making and how individual preferences can be aggregated to make collective normative judgments. The work of economists like [Kenneth Arrow](../k/kenneth_arrow.md), who developed the Impossibility Theorem, is central to this theory.
 
@@ -60,13 +60,13 @@ In academic settings, normative [economics](../e/economics.md) is often blended 
 
 Several institutions actively engage in normative economic research and policy advocacy:
 
-1. **Brookings Institution**: A nonprofit public policy organization based in Washington, D.C., that conducts in-depth research and provides innovative solutions to the nation's and world's economic and social challenges. [Brookings Institution](https://www.brookings.edu)
+1. **Brookings Institution**: A nonprofit public policy organization based in Washington, D.C., that conducts in-depth research and provides innovative solutions to the nation's and world's economic and social challenges. Brookings Institution
 
-2. **Cato Institute**: A libertarian think tank that conducts research on a wide [range](../r/range.md) of policy issues and advocates for policies based on the principles of individual liberty, [limited government](../l/limited_government.md), free markets, and peace. [Cato Institute](https://www.cato.org)
+2. **Cato Institute**: A libertarian think tank that conducts research on a wide [range](../r/range.md) of policy issues and advocates for policies based on the principles of individual liberty, [limited government](../l/limited_government.md), free markets, and peace. Cato Institute
 
-3. **Economic Policy Institute**: A nonprofit think tank that focuses on issues affecting low- and middle-[income](../i/income.md) workers and advocates for economic policies that improve their [economic conditions](../e/economic_conditions.md). [Economic Policy Institute](https://www.epi.org)
+3. **Economic Policy Institute**: A nonprofit think tank that focuses on issues affecting low- and middle-[income](../i/income.md) workers and advocates for economic policies that improve their [economic conditions](../e/economic_conditions.md). Economic Policy Institute
 
-4. **Heritage Foundation**: A conservative think tank that promotes conservative public policies based on [free enterprise](../f/free_enterprise.md), [limited government](../l/limited_government.md), individual freedom, traditional American values, and a strong national defense. [Heritage Foundation](https://www.heritage.org)
+4. **Heritage Foundation**: A conservative think tank that promotes conservative public policies based on [free enterprise](../f/free_enterprise.md), [limited government](../l/limited_government.md), individual freedom, traditional American values, and a strong national defense. Heritage Foundation
 
 ### Conclusion
 

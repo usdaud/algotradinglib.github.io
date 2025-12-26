@@ -46,4 +46,3 @@ John needs to pay his rent to his [landlord](../l/landlord.md). He writes a pers
 
 ## Conclusion
 Checks are a traditional and secure method of [payment](../p/payment.md) that facilitates the transfer of funds between individuals and businesses. Understanding how checks work, their types, and their importance can help individuals and businesses use them effectively while being aware of potential challenges and [fraud](../f/fraud.md) risks.
-

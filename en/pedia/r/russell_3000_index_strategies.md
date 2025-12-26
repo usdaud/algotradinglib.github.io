@@ -143,8 +143,8 @@ print(strategy_performance)
 
 ### Commercial Platforms
 
-* **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. [QuantConnect](https://www.quantconnect.com/)
-* **[Alpaca](../a/alpaca.md):** A [commission](../c/commission.md)-free trading API first brokerage. [Alpaca](https://alpaca.markets/)
+* **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. QuantConnect
+* **[Alpaca](../a/alpaca.md):** A [commission](../c/commission.md)-free trading API first brokerage. Alpaca
 
 ## Conclusion
 

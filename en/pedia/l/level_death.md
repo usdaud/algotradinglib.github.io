@@ -23,14 +23,14 @@ Level Death can be a focal point of analysis for both technical and fundamental 
 The Level Death is essentially the breaking point of critical support or resistance. When an [asset](../a/asset.md)'s price crosses these pivotal points, it signifies a considerable shift in [market sentiment](../m/market_sentiment.md). For example:
 
 - **Breaching Support**: If a stock breaks through a support level, it could trigger panic selling, causing a sharp decline. This breach can signify that [market](../m/market.md) participants have lost confidence, further fueling the downward [momentum](../m/momentum.md).
-  
+
 - **Breaching Resistance**: On the other hand, if an [asset](../a/asset.md) breaks through a resistance level, it can trigger a buying spree, leading to a price surge. This is often seen as a bullish signal, indicating rising [market](../m/market.md) confidence and [demand](../d/demand.md).
 
 ## Importance in Trading Strategies
 
 ### Risk Management
 
-Level Death is integral in designing [risk management](../r/risk_management.md) strategies. Traders often set [stop-loss orders](../s/stop-loss_orders.md) just below [support levels](../s/support_levels.md) or above resistance levels to limit losses if the price moves contrary to their expectations. This helps mitigate [risk](../r/risk.md) in volatile markets. 
+Level Death is integral in designing [risk management](../r/risk_management.md) strategies. Traders often set [stop-loss orders](../s/stop-loss_orders.md) just below [support levels](../s/support_levels.md) or above resistance levels to limit losses if the price moves contrary to their expectations. This helps mitigate [risk](../r/risk.md) in volatile markets.
 
 ### Entry and Exit Points
 
@@ -38,7 +38,7 @@ Identifying Level Death can help determine optimal entry and exit points. For in
 
 ### Market Sentiment
 
-Level Deaths are significant indicators of [market sentiment](../m/market_sentiment.md). Analysts and traders use these levels to gauge the collective psychology of [market](../m/market.md) participants. For example, a break below a long-standing support level might signify a bearish [market](../m/market.md) [trend](../t/trend.md). 
+Level Deaths are significant indicators of [market sentiment](../m/market_sentiment.md). Analysts and traders use these levels to gauge the collective psychology of [market](../m/market.md) participants. For example, a break below a long-standing support level might signify a bearish [market](../m/market.md) [trend](../t/trend.md).
 
 ## Identifying Level Death
 
@@ -56,7 +56,7 @@ Historical price data provides a [robust](../r/robust.md) foundation for identif
 Several [technical indicators](../t/technical_indicator.md) assist in identifying Level Death:
 
 - **Moving Averages**: MAs smooth price data and help identify [trend](../t/trend.md) directions. They are commonly used to find dynamic [support and resistance](../s/support_and_resistance.md) levels.
-  
+
 - **[Bollinger Bands](../b/bollinger_band.md)**: Highlight [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, helping identify potential [reversal](../r/reversal.md) points.
 
 - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Indicates whether a stock is [overbought](../o/overbought.md) or [oversold](../o/oversold.md), potentially identifying [support and resistance](../s/support_and_resistance.md) levels.
@@ -80,12 +80,12 @@ Using Fibonacci ratios, [retracement](../r/retracement.md) levels can predict po
 An illustrative example of Level Death is the 2008 financial meltdown. Key [support levels](../s/support_levels.md) in major stock indices were breached, leading to panic selling and an eventual [market](../m/market.md) crash. The break below these critical levels indicated a severe loss of confidence and triggered massive sell-offs.
 
 - **Support Breach**: Major indices like the S&P 500 and Dow Jones Industrial Average breached key [support levels](../s/support_levels.md), leading to a prolonged [bear market](../b/bear_market.md).
-  
+
 - **[Market Sentiment](../m/market_sentiment.md)**: The breaches reflected widespread fear and [uncertainty](../u/uncertainty_in_trading.md), exacerbating the sell-off.
 
 ## Algorithmic Trading and Level Death
 
-In [algorithmic trading](../a/accountability.md), Level Deaths are pivotal in building and tweaking [trading algorithms](../t/trading_algorithms.md). Algorithms can be programmed to identify and react to Level Death points, often executing trades much faster than human traders.
+In [algorithmic trading](../a/algorithmic_trading.md), Level Deaths are pivotal in building and tweaking [trading algorithms](../t/trading_algorithms.md). Algorithms can be programmed to identify and react to Level Death points, often executing trades much faster than human traders.
 
 ### Automated Stop-Losses
 

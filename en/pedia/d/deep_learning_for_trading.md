@@ -74,38 +74,38 @@ By analyzing a [wide variety](../w/wide_variety.md) of indicators, including tho
 
 Several companies and platforms provide tools and services for implementing [deep learning](../d/deep_learning.md) in trading:
 
-### 1. [Quandl](https://www.quandl.com/)
+### 1. Quandl
 
 [Quandl](../q/quandl.md) offers vast datasets, including financial and economic data, which can be used for training [deep learning](../d/deep_learning.md) models.
 
-### 2. [QuantConnect](https://www.quantconnect.com/)
+### 2. StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports [deep learning](../d/deep_learning.md) models, providing tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md).
+[StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports [deep learning](../d/deep_learning.md) models, providing tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md).
 
-### 3. [Quantopian](https://www.quantopian.com/)
+### 3. Quantopian (Historical)
 
-Quantopian provides a platform for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). While the company has shifted focus, it remains a notable mention in the [algorithmic trading](../a/algorithmic_trading.md) space.
+Quantopian was a platform for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). The company closed in November 2020. Its open-source library Zipline continues as zipline-reloaded maintained by the community.
 
-### 4. [Alpaca](https://alpaca.markets/)
+### 4. Alpaca
 
 [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading and advanced API access, making it easier to integrate [deep learning](../d/deep_learning.md) models with [trading strategies](../t/trading_strategies.md).
 
-### 5. [Numerai](https://numer.ai/)
+### 5. Numerai
 
 Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md) competitions to create [predictive models](../p/predictive_models_in_trading.md) for stock trading.
 
-### 6. [TensorFlow](https://www.tensorflow.org/)
+### 6. TensorFlow
 
 [TensorFlow](../t/tensorflow.md) is an [open](../o/open.md)-source [deep learning](../d/deep_learning.md) framework developed by Google. It is widely used in various [deep learning](../d/deep_learning.md) applications, including financial trading.
 
-### 7. [PyTorch](https://pytorch.org/)
+### 7. PyTorch
 
 [PyTorch](../p/pytorch.md), developed by Facebook, is another popular [deep learning](../d/deep_learning.md) framework known for its flexibility and ease of use, making it a favorite among researchers and [industry](../i/industry.md) practitioners.
 
-### 8. [Keras](https://keras.io/)
+### 8. Keras
 
 [Keras](../k/keras.md) is an [open](../o/open.md)-source neural network library that runs on top of [TensorFlow](../t/tensorflow.md), making it accessible for rapid prototyping of [deep learning](../d/deep_learning.md) models.
 
 By leveraging these companies, tools, and platforms, traders and financial institutions can harness the power of [deep learning](../d/deep_learning.md) to [gain](../g/gain.md) a competitive edge in the markets.
 
-In conclusion, [deep learning](../d/deep_learning.md) has tremendous potential to revolutionize the landscape of trading. By enabling the development of sophisticated, adaptive, and highly accurate [trading algorithms](../t/trading_algorithms.md), [deep learning](../d/deep_learning.md) can enhance decision-making processes, optimize [trading strategies](../t/trading_strategies.md), and ultimately improve [financial performance](../f/financial_performance.md). However, it also presents challenges that need to be carefully managed to fully realize its benefits. As the field continues to evolve, ongoing research and innovation [will](../w/will.md) likely address these challenges and unlock new possibilities for [deep learning](../d/deep_learning.md) in trading.
+In conclusion, [deep learning](../d/deep_learning.md) has tremendous potential to revolutionize the landscape of trading. By enabling the development of sophisticated, adaptive, and highly accurate [trading algorithms](../t/trading_algorithms.md), [deep learning](../d/deep_learning.md) can enhance decision-making processes, optimize [trading strategies](../t/trading_strategies.md), and ultimately improve [financial performance](../f/financial_performance.md). However, it also presents challenges that need to be carefully managed to fully realize its benefits. As the field continues to evolve, ongoing research and innovation [will](../w/will.md) likely address these challenges and unlock new possibilities for [deep learning](../d/deep_learning.md) in trading.

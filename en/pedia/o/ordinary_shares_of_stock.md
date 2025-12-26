@@ -62,9 +62,9 @@ Ordinary [shares](../s/shares.md) are typically traded on stock exchanges, such 
 
 Investors can buy and sell ordinary [shares](../s/shares.md) through online brokerage platforms. These platforms [offer](../o/offer.md) access to various markets and trading tools, enabling investors to manage their portfolios. Some popular online brokers include:
 
-- [E*TRADE](https://us.etrade.com/home)
-- [TD Ameritrade](https://www.tdameritrade.com/)
-- [Robinhood](https://robinhood.com/)
+- E*TRADE
+- TD Ameritrade
+- Robinhood
 
 ### Market Orders and Limit Orders
 
@@ -130,10 +130,10 @@ Company-specific [risk](../r/risk.md) involves factors that affect an individual
 
 ## Conclusion
 
-Ordinary [shares](../s/shares.md) represent ownership in a company and provide shareholders with voting rights, potential [dividend](../d/dividend.md) payments, and the opportunity for [capital](../c/capital.md) gains. While ordinary [shares](../s/shares.md) [offer](../o/offer.md) the potential for high returns, they also come with risks, including [market](../m/market.md) [volatility](../v/volatility.md) and company-specific challenges. By understanding the characteristics, advantages, and risks associated with ordinary [shares](../s/shares.md), investors can make informed decisions when building their investment portfolios. 
+Ordinary [shares](../s/shares.md) represent ownership in a company and provide shareholders with voting rights, potential [dividend](../d/dividend.md) payments, and the opportunity for [capital](../c/capital.md) gains. While ordinary [shares](../s/shares.md) [offer](../o/offer.md) the potential for high returns, they also come with risks, including [market](../m/market.md) [volatility](../v/volatility.md) and company-specific challenges. By understanding the characteristics, advantages, and risks associated with ordinary [shares](../s/shares.md), investors can make informed decisions when building their investment portfolios.
 
 For more information on online brokerage platforms, visit their respective websites:
 
-- [E*TRADE](https://us.etrade.com/home)
-- [TD Ameritrade](https://www.tdameritrade.com/)
-- [Robinhood](https://robinhood.com/)
+- E*TRADE
+- TD Ameritrade
+- Robinhood

@@ -15,11 +15,11 @@ Where:
 
 ### Components of ROACE
 1. **[Operating Profit](../o/operating_profit.md) (EBIT)**: This is the [profit](../p/profit.md) from normal [business](../b/business.md) operations, excluding tax and [interest](../i/interest.md) expenses. It indicates the [efficiency](../e/efficiency.md) of the core [business activities](../b/business_activities.md).
-   
+
 2. **Average [Capital Employed](../c/capital_employed.md)**: This is the amount of [capital](../c/capital.md) ([equity](../e/equity.md) plus [long-term liabilities](../l/long-term_liabilities.md)) used by the company over the period. It’s calculated as:
-   \[
-   \text{Average [Capital Employed](../c/capital_employed.md)} = \frac{\text{Opening [Capital Employed](../c/capital_employed.md)} + \text{Closing [Capital Employed](../c/capital_employed.md)}}{2}
-   \]
+ \[
+ \text{Average [Capital Employed](../c/capital_employed.md)} = \frac{\text{Opening [Capital Employed](../c/capital_employed.md)} + \text{Closing [Capital Employed](../c/capital_employed.md)}}{2}
+ \]
 
 ## Importance of ROACE
 
@@ -42,14 +42,14 @@ Let's consider a hypothetical example to illustrate the calculation of ROACE:
 ### Step-by-Step Calculation
 
 1. **Calculate Average [Capital Employed](../c/capital_employed.md)**:
-   \[
-   \text{Average [Capital Employed](../c/capital_employed.md)} = \frac{800\, \text{million} + 900\, \text{million}}{2} = 850\, \text{million}
-   \]
+ \[
+ \text{Average [Capital Employed](../c/capital_employed.md)} = \frac{800\, \text{million} + 900\, \text{million}}{2} = 850\, \text{million}
+ \]
 
 2. **Calculate ROACE**:
-   \[
-   \text{ROACE} = \frac{120\, \text{million}}{850\, \text{million}} \times 100 = 14.12\%
-   \]
+ \[
+ \text{ROACE} = \frac{120\, \text{million}}{850\, \text{million}} \times 100 = 14.12\%
+ \]
 
 ### Analysis
 
@@ -84,7 +84,7 @@ Organizations may report ROACE in their [financial statements](../f/financial_st
 - **Oil and Gas Companies**: Due to the large scale of [capital employed](../c/capital_employed.md) in exploration and production activities.
 - **[Utility](../u/utility.md) Companies**: Given their substantial [infrastructure](../i/infrastructure.md) investments.
 
-For instance, multinational energy companies such as [Royal Dutch Shell](https://www.shell.com/) or [ExxonMobil](https://corporate.exxonmobil.com) often highlight ROACE in their annual reports to showcase their [capital](../c/capital.md) [efficiency](../e/efficiency.md) and strategic performance over time.
+For instance, multinational energy companies such as Royal Dutch Shell or ExxonMobil often highlight ROACE in their annual reports to showcase their [capital](../c/capital.md) [efficiency](../e/efficiency.md) and strategic performance over time.
 
 ## Conclusion
 

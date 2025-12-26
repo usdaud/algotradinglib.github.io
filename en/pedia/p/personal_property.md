@@ -21,7 +21,7 @@ Personal property is broadly categorized into two main types: [tangible personal
 
 - **Financial Instruments**: These include [stocks](../s/stock.md), bonds, and other securities. They represent ownership or [debt](../d/debt.md) agreements and are traded in [financial markets](../f/financial_market.md).
 - **Intellectual Property**: Patents, trademarks, copyrights, and [trade](../t/trade.md) secrets. These are creations of the mind that [hold](../h/hold.md) commercial [value](../v/value.md).
-- **Digital Assets**: Include digital currencies, domain names, and digital files stored in cloud services. 
+- **Digital Assets**: Include digital currencies, domain names, and digital files stored in cloud services.
 
 ## Legal Aspects of Personal Property
 

@@ -12,7 +12,7 @@ Intentional torts occur when an individual intentionally acts in a way that caus
 
 #### Assault and Battery
 - **Assault**: The act of creating an apprehension of imminent harmful or offensive contact.
-- **Battery**: The actual physical impact on another person. 
+- **Battery**: The actual physical impact on another person.
 
 #### False Imprisonment
 - The unlawful restraint of a person against their [will](../w/will.md) by someone without legal authority or justification.

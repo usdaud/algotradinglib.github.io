@@ -89,6 +89,6 @@ Zero-lower-bound trading demonstrates the complexity and adaptation required in 
 
 For further information on real-world applications, you may refer to central banks' official communications and research papers:
 
-- [Federal Reserve](https://www.federalreserve.gov/)
-- [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
-- [Bank of Japan](https://www.boj.or.jp/en/) 
+- Federal Reserve
+- European Central Bank
+- Bank of Japan

@@ -45,7 +45,7 @@ The loan term is the length of time over which the borrower agrees to repay the 
 
 ### Amortization
 
-Amortization refers to the process of distributing loan payments over time, with each [payment](../p/payment.md) covering part of the [interest](../i/interest.md) and [principal](../p/principal.md). By the end of the loan term, the entire [principal](../p/principal.md) and [interest](../i/interest.md) should be paid off. 
+Amortization refers to the process of distributing loan payments over time, with each [payment](../p/payment.md) covering part of the [interest](../i/interest.md) and [principal](../p/principal.md). By the end of the loan term, the entire [principal](../p/principal.md) and [interest](../i/interest.md) should be paid off.
 
 ### Repayment Schedule
 
@@ -93,7 +93,7 @@ Loans are subject to various forms of regulation to protect both borrowers and l
 - **Consumer Financial Protection Bureau (CFPB):** A U.S. agency that ensures fair treatment of consumers in financial transactions.
 - **Truth in Lending Act (TILA):** Requires lenders to disclose all costs associated with the loan.
 - **General Data Protection Regulation (GDPR):** Impacts how lenders [handle](../h/handle.md) borrower data, particularly within the [European Union](../e/european_union_(eu).md).
-  
+
 ## Technology in Lending
 
 The advancement of technology has dramatically transformed the lending process, making it faster and more efficient.
@@ -102,8 +102,8 @@ The advancement of technology has dramatically transformed the lending process, 
 
 The financial [technology sector](../t/technology_sector.md) (fintech) has introduced various innovations:
 
-- **Online Lenders:** Platforms that [offer](../o/offer.md) loans without the need for traditional brick-and-mortar branches (e.g., [SoFi](https://www.sofi.com/), [LendingClub](https://www.lendingclub.com/)).
-- **[Peer-to-Peer Lending](../p/peer-to-peer_lending.md):** Platforms where individuals can lend funds to others without going through a traditional financial institution (e.g., [Prosper](https://www.prosper.com/)).
+- **Online Lenders:** Platforms that [offer](../o/offer.md) loans without the need for traditional brick-and-mortar branches (e.g., SoFi, LendingClub).
+- **[Peer-to-Peer Lending](../p/peer-to-peer_lending.md):** Platforms where individuals can lend funds to others without going through a traditional financial institution (e.g., Prosper).
 - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md):** Utilized for [risk](../r/risk.md) assessment, automating [underwriting](../u/underwriting.md) processes, and detecting fraudulent activities.
 
 ### Blockchain and Smart Contracts
@@ -114,4 +114,4 @@ The financial [technology sector](../t/technology_sector.md) (fintech) has intro
 
 Loans are versatile financial instruments that serve [multiple](../m/multiple.md) purposes, from facilitating homeownership to enabling educational pursuits and [business](../b/business.md) expansions. While securing a loan involves various steps and considerations—such as [interest](../i/interest.md) rates, loan terms, and [repayment](../r/repayment.md) schedules—advancements in technology are making it easier for both borrowers and lenders to engage in the lending process. Understanding loans’ complexities and regulatory frameworks can equip borrowers with the knowledge to make informed financial decisions.
 
-For further and specific information, you may visit the official websites of some fintech firms such as [SoFi](https://www.sofi.com/), [LendingClub](https://www.lendingclub.com/), and [Prosper](https://www.prosper.com/).
+For further and specific information, you may visit the official websites of some fintech firms such as SoFi, LendingClub, and Prosper.

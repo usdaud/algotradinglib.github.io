@@ -9,7 +9,7 @@ The 2-Week Moving Average is the [arithmetic mean](../a/arithmetic_mean.md) of t
 
 ### Formula
 \[
-2WMA = \frac{P_1 + P_2 + ... + P_{14}}{14}
+2WMA = \frac{P_1 + P_2 +... + P_{14}}{14}
 \]
 where \(P\) represents the closing price of the [security](../s/security.md).
 
@@ -100,15 +100,12 @@ In pair trading, which involves taking opposing positions in two highly correlat
 
 ## Companies and Platforms
 
-### Alpha Trading Labs (https://alphatradinglabs.com)
-[Alpha](../a/alpha.md) Trading Labs provides a platform for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on moving averages.
+### Alpha Trading Labs [Alpha](../a/alpha.md) Trading Labs provides a platform for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on moving averages.
 
-### QuantConnect (https://www.quantconnect.com)
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers [backtesting](../b/backtesting.md) and live-trading services. Their platform supports numerous [technical indicators](../t/technical_indicators.md), including moving averages, and allows traders to build strategies using Python and C#.
+### [StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers [backtesting](../b/backtesting.md) and live-trading services. Their platform supports numerous [technical indicators](../t/technical_indicators.md), including moving averages, and allows traders to build strategies using C#.
 
-### Alpaca (https://alpaca.markets)
-[Alpaca](../a/alpaca.md) provides [commission](../c/commission.md)-free trading APIs that allow users to automate their [trading algorithms](../t/trading_algorithms.md) with ease. They [offer](../o/offer.md) extensive documentation and support for integrating moving average-based strategies.
+### Alpaca [Alpaca](../a/alpaca.md) provides [commission](../c/commission.md)-free trading APIs that allow users to automate their [trading algorithms](../t/trading_algorithms.md) with ease. They [offer](../o/offer.md) extensive documentation and support for integrating moving average-based strategies.
 
 ## Conclusion
 
-The 2-Week Moving Average is a fundamental tool used in [algorithmic trading](../a/algorithmic_trading.md) to analyze short-term price trends and generate [trading signals](../t/trading_signals.md). Its simplicity and relevance make it a go-to for traders looking to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) movements. By combining the 2WMA with other [technical indicators](../t/technical_indicators.md) and [backtesting](../b/backtesting.md) the strategy, traders can create [robust](../r/robust.md) [trading systems](../t/trading_systems.md) to improve their profitability.
+The 2-Week Moving Average is a fundamental tool used in [algorithmic trading](../a/algorithmic_trading.md) to analyze short-term price trends and generate [trading signals](../t/trading_signals.md). Its simplicity and relevance make it a go-to for traders looking to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) movements. By combining the 2WMA with other [technical indicators](../t/technical_indicators.md) and [backtesting](../b/backtesting.md) the strategy, traders can create [robust](../r/robust.md) [trading systems](../t/trading_systems.md) to improve their profitability.

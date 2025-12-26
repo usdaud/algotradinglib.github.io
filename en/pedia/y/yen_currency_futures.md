@@ -15,8 +15,8 @@ Yen [currency](../c/currency.md) [futures](../f/futures.md), often referred to a
 ### Trading Platforms
 
 Yen [currency](../c/currency.md) [futures](../f/futures.md) can be traded through various platforms provided by exchanges and brokers. Some of the prominent exchanges include:
-- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: [CME Group](https://www.cmegroup.com/)
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: [ICE Markets](https://www.theice.com/)
+- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: CME Group
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE Markets
 
 ## Purpose and Usage
 

@@ -4,13 +4,13 @@ The Euro, denoted by the symbol € and the ISO code EUR, is the official [curre
 
 ## Origin and History
 
-The concept of a unified European [currency](../c/currency.md) was solidified by the [Maastricht Treaty](../m/maastricht_treaty.md) in 1992. The treaty outlined criteria for EU member states to join the [Eurozone](../e/eurozone.md), including limits on [inflation](../i/inflation.md), public [debt](../d/debt.md), and [budget](../b/budget.md) deficits. 
+The concept of a unified European [currency](../c/currency.md) was solidified by the [Maastricht Treaty](../m/maastricht_treaty.md) in 1992. The treaty outlined criteria for EU member states to join the [Eurozone](../e/eurozone.md), including limits on [inflation](../i/inflation.md), public [debt](../d/debt.md), and [budget](../b/budget.md) deficits.
 
 ## The European Central Bank (ECB)
 
-The European Central [Bank](../b/bank.md) (ECB) is the primary institution responsible for the [monetary policy](../m/monetary_policy.md) of the Euro. Located in Frankfurt, Germany, the ECB's main objective is to maintain price stability within the [Eurozone](../e/eurozone.md). 
+The European Central [Bank](../b/bank.md) (ECB) is the primary institution responsible for the [monetary policy](../m/monetary_policy.md) of the Euro. Located in Frankfurt, Germany, the ECB's main objective is to maintain price stability within the [Eurozone](../e/eurozone.md).
 
-More details can be found on: [European Central Bank](https://www.ecb.europa.eu).
+More details can be found on: European Central Bank.
 
 ## Eurozone Membership
 
@@ -38,5 +38,4 @@ The Euro is the second most traded [currency](../c/currency.md) in the world, af
 
 The Euro stands as a testament to economic cooperation and integration in Europe. Despite its challenges, it offers substantial benefits for [trade](../t/trade.md), travel, and economic stability.
 
-For more detailed information about the Euro, visit the [European Central Bank](https://www.ecb.europa.eu) and other relevant financial institutions.
-
+For more detailed information about the Euro, visit the European Central Bank and other relevant financial institutions.

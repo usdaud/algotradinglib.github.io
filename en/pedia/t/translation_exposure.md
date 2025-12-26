@@ -68,7 +68,7 @@ Adopting sound financial policies can help companies manage translation exposure
 
 ## Example: A Real-World Application
 
-Consider a multinational company like Siemens (https://www.siemens.com/) that operates in numerous countries worldwide. Siemens must report its [financial performance](../f/financial_performance.md) in euros, but it has subsidiaries and operations in the United States, China, India, and many other countries. Each of these subsidiaries operates in local currencies (such as USD, CNY, and INR), creating significant translation exposure.
+Consider a multinational company like Siemens ( that operates in numerous countries worldwide. Siemens must report its [financial performance](../f/financial_performance.md) in euros, but it has subsidiaries and operations in the United States, China, India, and many other countries. Each of these subsidiaries operates in local currencies (such as USD, CNY, and INR), creating significant translation exposure.
 
 Siemens utilizes [hedging strategies](../h/hedging_strategies.md) and natural hedging techniques to manage its translation exposure. By matching revenues and expenses in local currencies and using financial instruments like [forward contracts](../f/forward_contracts.md) and [options](../o/options.md), Siemens stabilizes its reported [financial performance](../f/financial_performance.md) despite ongoing [exchange rate](../e/exchange_rate.md) fluctuations.
 

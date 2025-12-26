@@ -4,7 +4,7 @@ Horizon analysis is a crucial concept in the realm of [financial analysis](../f/
 
 ## Importance of Horizon Analysis
 
-Horizon analysis is fundamental in the field of [algorithmic trading](../a/accountability.md) (also known as algo-trading), where decisions are frequently driven by [quantitative models](../q/quantitative_models.md) and sophisticated strategies. In algo-trading, the timing of entry and exit in positions is crucial, and horizon analysis helps in optimizing these decisions by providing insights into the expected performance of trades over varying time frames.
+Horizon analysis is fundamental in the field of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading), where decisions are frequently driven by [quantitative models](../q/quantitative_models.md) and sophisticated strategies. In algo-trading, the timing of entry and exit in positions is crucial, and horizon analysis helps in optimizing these decisions by providing insights into the expected performance of trades over varying time frames.
 
 ### Benefits in Algorithmic Trading
 
@@ -40,26 +40,26 @@ Several companies provide advanced tools and platforms for horizon analysis in t
 ### 1. Bloomberg Terminal
 [Bloomberg Terminal](../b/bloomberg_terminal.md) offers comprehensive tools for horizon analysis, enabling traders to evaluate [performance metrics](../p/performance_metrics.md) over different time periods with real-time data and advanced analytics.
 
-Website: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+online platform: Bloomberg Terminal
 
 ### 2. Thomson Reuters Eikon
 Thomson [Reuters](../r/reuters.md) Eikon provides [robust](../r/robust.md) analytical capabilities for horizon analysis, integrating data, charts, and [predictive analytics](../p/predictive_analytics.md) to assist traders in making informed decisions.
 
-Website: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+online platform: Thomson Reuters Eikon
 
 ### 3. Morningstar Direct
 [Morningstar](../m/morningstar.md) Direct offers investment research and [data analytics](../d/data_analytics.md) tools that facilitate horizon analysis for financial advisors and [asset](../a/asset.md) managers.
 
-Website: [Morningstar Direct](https://www.morningstar.com/products/direct)
+online platform: Morningstar Direct
 
 ### 4. MetaTrader
 MetaTrader platforms, particularly MT4 and MT5, are popular among individual traders for algo-trading and come equipped with tools for conducting horizon analysis through built-in [technical indicators](../t/technical_indicator.md) and [backtesting](../b/backtesting.md) capabilities.
 
-Website: [MetaTrader](https://www.metatrader4.com/en)
+online platform: MetaTrader
 
 ## Implementing Horizon Analysis with AI/ML
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) have revolutionized horizon analysis by enhancing the precision of predictions and the depth of data analysis. 
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) have revolutionized horizon analysis by enhancing the precision of predictions and the depth of data analysis.
 
 ### Machine Learning Models
 [Machine learning](../m/machine_learning.md) models such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are employed to forecast investment performance over different horizons. These models learn from historical data and identify patterns that traditional statistical methods may overlook.
@@ -67,9 +67,9 @@ Website: [MetaTrader](https://www.metatrader4.com/en)
 ### AI-Powered Tools
 AI-powered platforms like AlphaSense and Kensho use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) and advanced algorithms to provide horizon analysis by extracting relevant information from vast datasets.
 
-Website: 
-- [AlphaSense](https://www.alpha-sense.com/)
-- [Kensho](https://www.kensho.com/)
+online platform:
+- AlphaSense
+- Kensho
 
 ### Advantages
 1. **Improved Accuracy**: AI algorithms can process and analyze large datasets more accurately than human analysts.
@@ -98,9 +98,9 @@ The integration of AI and ML in horizon analysis is expected to grow, with more 
 ### Quantum Computing
 [Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize horizon analysis by solving complex problems faster and more efficiently than classical computers. Companies like IBM and Google are making significant strides in this domain.
 
-Website: 
-- [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
-- [Google Quantum AI](https://quantumai.google/)
+online platform:
+- IBM Quantum Computing
+- Google Quantum AI
 
 ### Enhanced Data Analytics
 Advancements in [data analytics](../d/data_analytics.md), including [big data](../b/big_data_in_trading.md) technologies, [will](../w/will.md) facilitate deeper and more comprehensive horizon analysis, providing nuanced insights into [market](../m/market.md) trends and investment performance.

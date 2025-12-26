@@ -36,7 +36,7 @@ Where:
 - \( M_d \) is the [nominal](../n/nominal.md) [demand](../d/demand.md) for [money](../m/money.md).
 - \( P \) is the [price level](../p/price_level.md).
 
-The [equilibrium](../e/equilibrium.md) condition in the [money market](../m/money_market.md) thus is 
+The [equilibrium](../e/equilibrium.md) condition in the [money market](../m/money_market.md) thus is
 \[ M_s = M_d \]
 \[ M_s = P \cdot L(Y, i) \]
 

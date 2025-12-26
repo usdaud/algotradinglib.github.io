@@ -66,7 +66,7 @@ Upbit supports various [order types](../o/order_types_in_trading.md) to cater to
 For more experienced traders, Upbit offers a suite of advanced trading tools and charts. These include:
 
 - **[Technical Analysis Tools](../t/technical_analysis_tools.md):** Comprehensive charting tools with a [range](../r/range.md) of indicators and drawing [options](../o/options.md).
-- **API Access:** Allows for [algorithmic trading](../a/accountability.md) through RESTful APIs, enabling users to automate their [trading strategies](../t/trading_strategies.md).
+- **API Access:** Allows for [algorithmic trading](../a/algorithmic_trading.md) through RESTful APIs, enabling users to automate their [trading strategies](../t/trading_strategies.md).
 - **Real-Time Data:** Access to [real-time market data](../r/real-time_market_data.md) for informed decision-making.
 
 ## Security Incidents
@@ -79,7 +79,7 @@ Initially focused on the South Korean [market](../m/market.md), Upbit has expand
 
 ## Upbit and Blockchain Technology
 
-As part of Dunamu's broader vision, Upbit has been actively involved in the development and promotion of [blockchain](../b/blockchain_in_trading.md) technology. The [exchange](../e/exchange.md) supports various [blockchain](../b/blockchain_in_trading.md) projects and has been instrumental in fostering innovation within the [blockchain](../b/blockchain_in_trading.md) ecosystem. 
+As part of Dunamu's broader vision, Upbit has been actively involved in the development and promotion of [blockchain](../b/blockchain_in_trading.md) technology. The [exchange](../e/exchange.md) supports various [blockchain](../b/blockchain_in_trading.md) projects and has been instrumental in fostering innovation within the [blockchain](../b/blockchain_in_trading.md) ecosystem.
 
 ### Upbit Developer Conference (UDC)
 
@@ -91,8 +91,7 @@ Upbit also offers a dedicated wallet service known as Upbit Wallet, designed to 
 
 ## Conclusion
 
-Upbit has firmly established itself as a leading cryptocurrency [exchange](../e/exchange.md), distinguished by its high [liquidity](../l/liquidity.md), extensive [range](../r/range.md) of supported assets, and strong [security](../s/security.md) protocols. Through its innovative approach and commitment to regulatory compliance, Upbit continues to play a pivotal role in the global cryptocurrency [market](../m/market.md). For more information, users can visit Upbit's official website at [https://upbit.com](https://upbit.com).
-
+Upbit has firmly established itself as a leading cryptocurrency [exchange](../e/exchange.md), distinguished by its high [liquidity](../l/liquidity.md), extensive [range](../r/range.md) of supported assets, and strong [security](../s/security.md) protocols. Through its innovative approach and commitment to regulatory compliance, Upbit continues to play a pivotal role in the global cryptocurrency [market](../m/market.md).
 ---
 
 By integrating a wide array of features and maintaining a strong focus on [security](../s/security.md) and user experience, Upbit has succeeded in attracting a diverse user base and achieving significant trading volumes. The platform's ongoing [expansion](../e/expansion.md) and involvement in [blockchain](../b/blockchain_in_trading.md) technology position it as a major player in the evolving landscape of digital [finance](../f/finance.md).

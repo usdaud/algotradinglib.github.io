@@ -22,11 +22,11 @@ Implementing [gamma](../g/gamma.md) hedging involves setting up a combination of
 
 1. **Identify the Current [Delta](../d/delta.md) and [Gamma](../g/gamma.md):** Determine the [delta](../d/delta.md) and [gamma](../g/gamma.md) of your current [options](../o/options.md) portfolio.
 2. **Calculate the Required Adjustment:** Calculate how much the [delta](../d/delta.md) [will](../w/will.md) change for a given change in the price of the [underlying asset](../u/underlying_asset.md), using [gamma](../g/gamma.md).
-3. **Adjust the Position:** Buy or sell the [underlying asset](../u/underlying_asset.md) or additional [options](../o/options.md) to [offset](../o/offset.md) the change in [delta](../d/delta.md). 
+3. **Adjust the Position:** Buy or sell the [underlying asset](../u/underlying_asset.md) or additional [options](../o/options.md) to [offset](../o/offset.md) the change in [delta](../d/delta.md).
 
 ### Example
 
-Suppose you have a portfolio consisting of several call [options](../o/options.md) with different strike prices. Assume the current [delta](../d/delta.md) of the portfolio is 50 and the [gamma](../g/gamma.md) is 10. If the price of the [underlying asset](../u/underlying_asset.md) rises by 1 unit, the [delta](../d/delta.md) would increase to 60 ([delta](../d/delta.md) change = [gamma](../g/gamma.md) * price change). 
+Suppose you have a portfolio consisting of several call [options](../o/options.md) with different strike prices. Assume the current [delta](../d/delta.md) of the portfolio is 50 and the [gamma](../g/gamma.md) is 10. If the price of the [underlying asset](../u/underlying_asset.md) rises by 1 unit, the [delta](../d/delta.md) would increase to 60 ([delta](../d/delta.md) change = [gamma](../g/gamma.md) * price change).
 
 To maintain [delta](../d/delta.md) neutrality, you need to adjust the portfolio to bring the [delta](../d/delta.md) back to zero. This might involve selling part of the [underlying asset](../u/underlying_asset.md) or buying/selling additional [options](../o/options.md).
 
@@ -34,11 +34,11 @@ To maintain [delta](../d/delta.md) neutrality, you need to adjust the portfolio 
 
 Professional traders often use sophisticated software and algorithms to monitor and adjust their positions for [gamma](../g/gamma.md) and other [Greeks](../g/greeks.md). Some of the widely-used platforms include:
 
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [MetaTrader](https://www.metatrader4.com/en)
-- [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [E-Trade](https://us.etrade.com/what-we-offer/etrade-pro)
+- Bloomberg Terminal
+- MetaTrader
+- Thinkorswim
+- Interactive Brokers
+- E-Trade
 
 ## Techniques for Gamma Hedging
 

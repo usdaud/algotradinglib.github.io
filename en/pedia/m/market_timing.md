@@ -8,25 +8,25 @@
 [Technical analysis](../t/technical_analysis.md) is a method used to predict price movements and [market](../m/market.md) trends by examining historical data, mainly price and [volume](../v/volume.md). The tools of [technical analysis](../t/technical_analysis.md) include:
 
 - **Charts and Patterns:** These are graphical representations of price movements over time. Common patterns include head and shoulders, double tops/bottoms, and triangles.
-  
+
 - **Indicators and Oscillators:** Quantitative tools like moving averages, [Bollinger Bands](../b/bollinger_bands.md), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and MACD (Moving Average Convergence [Divergence](../d/divergence.md)) help in identifying potential [market](../m/market.md) entry and exit points.
-  
+
 - **[Support and Resistance](../s/support_and_resistance.md) Levels:** These are price points where a [security](../s/security.md) tends to find support as it is going down or resistance as it is going up.
 
 ### 2. **Fundamental Analysis**
 While often associated with long-term [investing](../i/investing.md), [fundamental analysis](../f/fundamental_analysis.md) also plays a crucial role in [market](../m/market.md) timing. It involves evaluating a [security](../s/security.md)'s [intrinsic value](../i/intrinsic_value.md) based on [economic indicators](../e/economic_indicators.md), [financial performance](../f/financial_performance.md), and [market](../m/market.md) trends. Fundamentalists look at:
 
 - **[Economic Indicators](../e/economic_indicators.md):** GDP [growth rates](../g/growth_rates_in_trading.md), [unemployment](../u/unemployment.md) rates, [interest](../i/interest.md) rates, and [inflation](../i/inflation.md) rates.
-  
+
 - **[Financial Statements](../f/financial_statements.md):** [Income](../i/income.md) statements, balance sheets, and [cash flow](../c/cash_flow.md) statements provide insights into a company's health.
-  
+
 - **[Industry](../i/industry.md) Trends:** Understanding an [industry](../i/industry.md)'s current and future state can help in making informed decisions about buying or selling securities within that [industry](../i/industry.md).
 
 ### 3. **Sentiment Analysis**
 [Market sentiment](../m/market_sentiment.md) refers to the overall attitude of investors towards a particular [security](../s/security.md) or the [market](../m/market.md) as a whole. [Sentiment analysis](../s/sentiment_analysis.md) involves gauging this outlook to make buying or selling decisions. Sources of [sentiment analysis](../s/sentiment_analysis.md) include:
 
 - **News Reports:** Major economic events, company announcements, and geopolitical developments.
-  
+
 - **[Social Media](../s/social_media.md) and Forums:** Platforms like Twitter, Reddit, and financial blogs provide real-time [investor](../i/investor.md) sentiments.
 
 - **[Market](../m/market.md) Surveys:** Surveys from institutions like the American Association of Individual Investors (AAII) often reflect [market sentiment](../m/market_sentiment.md).
@@ -35,14 +35,14 @@ While often associated with long-term [investing](../i/investing.md), [fundament
 
 ### Advantages:
 - **Potential for Higher Returns:** By entering and exiting markets at optimal times, investors can potentially earn higher returns compared to a buy-and-[hold](../h/hold.md) approach.
-  
+
 - **Reduced Exposure to Downturns:** Proper [market](../m/market.md) timing can help investors avoid significant [market](../m/market.md) declines and preserve their [capital](../c/capital.md).
 
 ### Risks:
 - **[Market](../m/market.md) Timing Challenges:** Predicting [market](../m/market.md) movements accurately and consistently is extremely difficult. Even experienced traders can face substantial challenges.
-  
+
 - **Increased [Transaction Costs](../t/transaction_costs.md):** Frequent buying and selling can result in higher [transaction costs](../t/transaction_costs.md), including brokerage fees and [taxes](../t/taxes.md).
-  
+
 - **Emotional Stress:** [Market](../m/market.md) timing requires constant monitoring and quick decision-making, which can be stressful.
 
 ## Strategies and Techniques

@@ -1,6 +1,6 @@
 # Unrealized Gains
 
-In the dynamic landscape of [financial markets](../f/financial_market.md), the concept of unrealized gains plays a critical role, especially in the context of [algorithmic trading](../a/algorithmic_trading.md). Unrealized gains, also known as paper profits, refer to the increase in the [value](../v/value.md) of an [asset](../a/asset.md) or investment that has not yet been sold for a [profit](../p/profit.md). These gains are "unrealized" because the holder retains the [asset](../a/asset.md) and has not benefited from the [profit](../p/profit.md) materially. The concept is essential for traders and investors as it impacts portfolio [value](../v/value.md) assessments and decision-making processes. 
+In the dynamic landscape of [financial markets](../f/financial_market.md), the concept of unrealized gains plays a critical role, especially in the context of [algorithmic trading](../a/algorithmic_trading.md). Unrealized gains, also known as paper profits, refer to the increase in the [value](../v/value.md) of an [asset](../a/asset.md) or investment that has not yet been sold for a [profit](../p/profit.md). These gains are "unrealized" because the holder retains the [asset](../a/asset.md) and has not benefited from the [profit](../p/profit.md) materially. The concept is essential for traders and investors as it impacts portfolio [value](../v/value.md) assessments and decision-making processes.
 
 ## Definition and Importance of Unrealized Gains
 
@@ -35,7 +35,7 @@ Unrealized gains provide a metric for measuring the performance of [trading stra
 
 ## Impact of Unrealized Gains on Financial Statements
 
-Unrealized gains are important for financial reporting as they impact the [valuation](../v/valuation.md) of assets on balance sheets. According to [accounting](../a/accounting.md) standards, these gains can be recorded in other [comprehensive income](../c/comprehensive_income.md) (OCI) depending on the type of financial instruments and the company's [accounting policies](../a/accounting_policies.md). 
+Unrealized gains are important for financial reporting as they impact the [valuation](../v/valuation.md) of assets on balance sheets. According to [accounting](../a/accounting.md) standards, these gains can be recorded in other [comprehensive income](../c/comprehensive_income.md) (OCI) depending on the type of financial instruments and the company's [accounting policies](../a/accounting_policies.md).
 
 ### 1. **Balance Sheets**
 
@@ -67,11 +67,11 @@ Before deploying live [trading strategies](../t/trading_strategies.md), [backtes
 
 ### Case Study 1: High-Frequency Trading (HFT) Firms
 
-High-Frequency Trading firms heavily rely on measuring unrealized gains to execute rapid trades. They use sophisticated algorithms that analyze [market](../m/market.md) conditions in milliseconds. Companies like Virtu Financial, noted for their HFT strategies, consistently monitor and adjust their positions based on unrealized profits and losses. More information on Virtu Financial can be found at [Virtu Financial](https://www.virtu.com/).
+High-Frequency Trading firms heavily rely on measuring unrealized gains to execute rapid trades. They use sophisticated algorithms that analyze [market](../m/market.md) conditions in milliseconds. Companies like Virtu Financial, noted for their HFT strategies, consistently monitor and adjust their positions based on unrealized profits and losses. More information on Virtu Financial can be found at Virtu Financial.
 
 ### Case Study 2: Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies, employ complex models to generate [trading signals](../t/trading_signals.md). Part of their strategy involves continuously reassessing unrealized gains across diverse [asset](../a/asset.md) classes to manage positions and enhance [portfolio performance](../p/portfolio_performance.md). To learn more, visit [Renaissance Technologies](https://www.rentec.com/).
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies, employ complex models to generate [trading signals](../t/trading_signals.md). Part of their strategy involves continuously reassessing unrealized gains across diverse [asset](../a/asset.md) classes to manage positions and enhance [portfolio performance](../p/portfolio_performance.md). To learn more, visit Renaissance Technologies.
 
 ## Conclusion
 

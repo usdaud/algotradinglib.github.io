@@ -76,31 +76,31 @@ Improvements in [efficiency](../e/efficiency.md) and alternative energy sources 
 
 The [Bloomberg](../b/bloomberg.md) Terminal is a powerful tool that provides real-time financial data, news, and analytics.
 
-- **Link:** [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **Link:** Bloomberg Terminal
 
 ### Thomson Reuters Eikon
 
 Thomson [Reuters](../r/reuters.md) Eikon offers similar capabilities, providing access to financial [market](../m/market.md) data and analytics.
 
-- **Link:** [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software/financial-analysis)
+- **Link:** Thomson Reuters Eikon
 
 ### MetaTrader
 
 MetaTrader is a widely used [trading platform](../t/trading_platform.md) that offers various tools for [technical analysis](../t/technical_analysis.md) and automated trading.
 
-- **Link:** [MetaTrader](https://www.metatrader4.com/)
+- **Link:** MetaTrader
 
 ### MATLAB
 
 MATLAB is a computational platform used extensively for [quantitative analysis](../q/quantitative_analysis.md) and algorithm development.
 
-- **Link:** [MATLAB](https://www.mathworks.com/products/matlab.html)
+- **Link:** MATLAB
 
 ### Python Programming Language
 
 Python has become a go-to language for [financial modeling](../f/financial_modeling.md) and data analysis, thanks to its rich ecosystem of libraries such as NumPy, pandas, and scikit-learn.
 
-- **Link:** [Python](https://www.python.org/)
+- **Link:** Python
 
 ## Challenges in Oil Price Forecasting
 

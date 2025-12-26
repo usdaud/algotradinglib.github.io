@@ -30,7 +30,7 @@ Psychological studies have shown that lunar cycles may have an impact on human e
 
 #### Implementation in Trading Algorithms
 
-1. **Data Collection**: Building a lunar cycle-based trading model requires meticulous data collection of moon phases and historical [market](../m/market.md) data. Sites like [NASA's Lunar Phase Calendar](https://moon.nasa.gov/) provide precise lunar phase information.
+1. **Data Collection**: Building a lunar cycle-based trading model requires meticulous data collection of moon phases and historical [market](../m/market.md) data. Sites like NASA's Lunar Phase Calendar provide precise lunar phase information.
 
 2. **[Backtesting](../b/backtesting.md)**: Historical [backtesting](../b/backtesting.md) involves applying the collected lunar phase data to historical price movements to identify patterns, correlations, and potential causations. The goal is to validate if significant correlations exist that could be employed predictively.
 
@@ -58,18 +58,18 @@ Psychological studies have shown that lunar cycles may have an impact on human e
 
 Lunar [cycle analysis](../c/cycle_analysis.md) can be integrated with modern [trading systems](../t/trading_systems.md) as part of a multi-faceted algorithmic approach. Combining it with [technical indicators](../t/technical_indicators.md), [machine learning](../m/machine_learning.md) models, and other quantitative methods can potentially enhance predictive accuracy. For instance, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can be trained to recognize subtle patterns in price movements relative to lunar phases, generating actionable insights.
 
-**Example**: 
-To see how modern technology companies like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) tools that allow traders to integrate such unconventional data into their [quantitative models](../q/quantitative_models.md), visit [QuantConnect's Website](https://www.quantconnect.com/).
+**Example**:
+To see how modern technology companies like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) tools that allow traders to integrate such unconventional data into their [quantitative models](../q/quantitative_models.md),
 
 #### Tools and Platforms
 
 Several platforms [offer](../o/offer.md) APIs and tools for integrating lunar data into [trading algorithms](../t/trading_algorithms.md):
 
 1. **[Alpaca](../a/alpaca.md)**: Provides APIs for trading with historical data support.
-2. **[QuantConnect](../q/quantconnect.md)**: Offers a comprehensive research environment where celestial data can be merged with other financial data for [backtesting](../b/backtesting.md).
+2. **[StockSharp](../s/stocksharp.md)**: Offers a comprehensive research environment where celestial data can be merged with other financial data for [backtesting](../b/backtesting.md).
 3. **[TradingView](../t/tradingview.md)**: Allows for the customization of indicators, including celestial bodies.
 
-For direct data on lunar phases, resources such as [TimeAndDate](https://www.timeanddate.com/moon/phases/) can be invaluable.
+For direct data on lunar phases, resources such as TimeAndDate can be invaluable.
 
 ### Conclusion
 

@@ -102,26 +102,24 @@ Several leading brokerage firms deploy sophisticated [broker](../b/broker.md) al
 
 Goldman Sachs offers a suite of [algorithmic trading](../a/algorithmic_trading.md) tools to its clients. These tools are designed to optimize [trade](../t/trade.md) [execution](../e/execution.md) across various [asset](../a/asset.md) classes.
 
-[Goldman Sachs Algorithmic Trading](https://www.goldmansachs.com/what-we-do/engineering/algorithmic-trading/)
 
 ### Morgan Stanley
 
 Morgan Stanley's [algorithmic trading](../a/algorithmic_trading.md) platform provides clients with advanced [execution](../e/execution.md) strategies and smart [order routing](../o/order_routing.md) capabilities to enhance [trade](../t/trade.md) performance.
 
-[Morgan Stanley Algorithmic Trading](https://www.morganstanley.com/what-we-do/investment-banking/algorithmic-trading/)
 
 ### JPMorgan Chase
 
 JPMorgan Chase offers powerful [algorithmic trading](../a/algorithmic_trading.md) solutions that [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to improve [execution](../e/execution.md) quality and manage risks.
 
-[JPMorgan Chase Algorithmic Trading](https://www.jpmorganchase.com/what-we-do/markets/algorithmic-trading/)
 
-### Credit Suisse
+### UBS (includes former Credit Suisse)
 
-[Credit](../c/credit.md) Suisse provides a [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies that cater to different [market](../m/market.md) conditions and client needs, from VWAP to [liquidity](../l/liquidity.md)-seeking algorithms.
+**Note:** Credit Suisse was acquired by UBS in March 2023 following a crisis of confidence. The algorithmic trading services previously offered by Credit Suisse are now fully integrated into UBS's offerings.
 
-[Credit Suisse Algorithmic Trading](https://www.credit-suisse.com/what-we-do/trading/algorithmic-trading/)
+UBS provides a comprehensive [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies that cater to different [market](../m/market.md) conditions and client needs, from VWAP to [liquidity](../l/liquidity.md)-seeking algorithms, now enhanced with the capabilities from Credit Suisse.
+
 
 ## Conclusion
 
-[Broker](../b/broker.md) algorithms are a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) significant advantages in terms of speed, cost [efficiency](../e/efficiency.md), and [execution](../e/execution.md) quality. However, they also come with certain risks and challenges that need to be managed effectively. As technology continues to evolve, [broker](../b/broker.md) algorithms [will](../w/will.md) likely become even more sophisticated, [offering](../o/offering.md) enhanced capabilities and further transforming the landscape of financial trading.
+[Broker](../b/broker.md) algorithms are a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) significant advantages in terms of speed, cost [efficiency](../e/efficiency.md), and [execution](../e/execution.md) quality. However, they also come with certain risks and challenges that need to be managed effectively. As technology continues to evolve, [broker](../b/broker.md) algorithms [will](../w/will.md) likely become even more sophisticated, [offering](../o/offering.md) enhanced capabilities and further transforming the landscape of financial trading.

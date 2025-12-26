@@ -34,7 +34,7 @@ Fixed-[income](../i/income.md) securities are [debt](../d/debt.md) instruments t
 - **[Options](../o/options.md)**: Contracts that give the right but not the obligation to buy or sell an [asset](../a/asset.md) at a set price.
 - **Swaps**: Contracts to [exchange](../e/exchange.md) cash flows or other financial instruments.
 
-### 5. Other Investment Vehicles 
+### 5. Other Investment Vehicles
 
 There are several other forms of investment securities such as:
 
@@ -72,39 +72,39 @@ The [time horizon](../t/time_horizon.md) is the expected time frame an [investor
 
 ### 1. Securities and Exchange Commission (SEC)
 
-The SEC is the primary regulatory agency overseeing the securities markets in the United States. It enforces securities laws to ensure [market](../m/market.md) fairness and protect investors. Website: [SEC.gov](https://www.sec.gov/)
+The SEC is the primary regulatory agency overseeing the securities markets in the United States. It enforces securities laws to ensure [market](../m/market.md) fairness and protect investors. online platform: online resource
 
 ### 2. Financial Industry Regulatory Authority (FINRA)
 
-FINRA is a self-regulatory organization that supervises brokerage firms and [exchange](../e/exchange.md) markets. It aims to safeguard [market](../m/market.md) integrity through regulation. Website: [FINRA.org](https://www.finra.org/)
+FINRA is a self-regulatory organization that supervises brokerage firms and [exchange](../e/exchange.md) markets. It aims to safeguard [market](../m/market.md) integrity through regulation. online platform: online resource
 
 ### 3. The Commodity Futures Trading Commission (CFTC)
 
-The CFTC regulates the U.S. [derivatives](../d/derivatives.md) markets, including [futures](../f/futures.md), [options](../o/options.md), and swaps markets. Website: [CFTC.gov](https://www.cftc.gov/)
+The CFTC regulates the U.S. [derivatives](../d/derivatives.md) markets, including [futures](../f/futures.md), [options](../o/options.md), and swaps markets. online platform: online resource
 
 ## Prominent Companies in Investment Securities
 
 ### 1. Vanguard Group
 
-Vanguard is one of the world's largest investment companies, [offering](../o/offering.md) a wide [range](../r/range.md) of mutual funds, ETFs, and other investment products. They are known for their low-cost [index](../i/index_instrument.md) funds. Website: [Vanguard.com](https://www.vanguard.com/)
+Vanguard is one of the world's largest investment companies, [offering](../o/offering.md) a wide [range](../r/range.md) of mutual funds, ETFs, and other investment products. They are known for their low-cost [index](../i/index_instrument.md) funds. online platform: online resource
 
 ### 2. BlackRock
 
-BlackRock is a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) and is the world's largest [asset](../a/asset.md) manager. Known for its [iShares](../i/ishares.md) ETF [product line](../p/product_line.md). Website: [BlackRock.com](https://www.blackrock.com/)
+BlackRock is a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) and is the world's largest [asset](../a/asset.md) manager. Known for its [iShares](../i/ishares.md) ETF [product line](../p/product_line.md). online platform: online resource
 
 ### 3. Charles Schwab Corporation
 
-[Charles Schwab](../c/charles_schwab.md) offers a wide [range](../r/range.md) of investment services including brokerage, mutual funds, ETFs, and financial advisory services. Website: [Schwab.com](https://www.schwab.com/)
+[Charles Schwab](../c/charles_schwab.md) offers a wide [range](../r/range.md) of investment services including brokerage, mutual funds, ETFs, and financial advisory services. online platform: online resource
 
 ### 4. Fidelity Investments
 
-Fidelity offers mutual funds, [retirement planning](../r/retirement_planning.md), [wealth management](../w/wealth_management.md) services, and brokerage. It is one of the largest financial services companies. Website: [Fidelity.com](https://www.fidelity.com/)
+Fidelity offers mutual funds, [retirement planning](../r/retirement_planning.md), [wealth management](../w/wealth_management.md) services, and brokerage. It is one of the largest financial services companies. online platform: online resource
 
 ## Technological Impact on Investment Securities
 
 ### 1. Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses complex algorithms and [trading systems](../t/trading_systems.md) to execute large volumes of orders at high speeds based on various [market](../m/market.md) conditions and indicators. This has significantly changed the landscape of investment securities.
+[Algorithmic trading](../a/algorithmic_trading.md) uses complex algorithms and [trading systems](../t/trading_systems.md) to execute large volumes of orders at high speeds based on various [market](../m/market.md) conditions and indicators. This has significantly changed the landscape of investment securities.
 
 ### 2. Robo-Advisors
 

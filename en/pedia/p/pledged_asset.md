@@ -9,7 +9,7 @@ Pledged assets can be categorized based on their nature:
 ### Tangible Assets
 * **[Real Estate](../r/real_estate.md)**: Properties such as homes, commercial buildings, and land can be pledged.
 * **Vehicles**: Cars, trucks, and other forms of transport may also serve as [collateral](../c/collateral.md).
-   
+
 ### Intangible Assets
 * **Securities**: [Stocks](../s/stock.md), bonds, and other investment instruments.
 * **Intellectual Property**: Patents, trademarks, and other intellectual [property rights](../p/property_rights.md).
@@ -37,11 +37,11 @@ Using pledged assets can [offer](../o/offer.md) numerous advantages for both len
 1. **Lower [Interest](../i/interest.md) Rates**: Loans secured with pledged assets typically carry lower [interest](../i/interest.md) rates.
 2. **Higher [Loan](../l/loan.md) Amounts**: [Collateral](../c/collateral.md) can enable borrowers to access larger sums of [money](../m/money.md).
 3. **Improved [Loan](../l/loan.md) Terms**: Secured loans often come with more favorable terms such as longer [repayment](../r/repayment.md) periods.
-   
+
 ### For Lenders
 1. **[Risk](../r/risk.md) Mitigation**: The [lender](../l/lender.md)’s [risk](../r/risk.md) is minimized with a tangible [asset](../a/asset.md) to reclaim in case of [default](../d/default.md).
 2. **Assured [Repayment](../r/repayment.md)**: The presence of [collateral](../c/collateral.md) assures that the [lender](../l/lender.md) [will](../w/will.md) recover the [principal](../p/principal.md) and possibly additional costs.
-   
+
 ## Risks Involved
 
 While pledged assets can [offer](../o/offer.md) [security](../s/security.md), various risks might arise for both parties involved:
@@ -49,7 +49,7 @@ While pledged assets can [offer](../o/offer.md) [security](../s/security.md), va
 ### For Borrowers
 1. **[Asset](../a/asset.md) Loss**: In case of a [default](../d/default.md), the borrower could lose the pledged [asset](../a/asset.md).
 2. **Over-Collateralization**: Borrowers might have to pledge assets worth more than the [loan](../l/loan.md) itself.
-   
+
 ### For Lenders
 1. **[Valuation](../v/valuation.md) [Risk](../r/risk.md)**: The pledged [asset](../a/asset.md) might depreciate in [value](../v/value.md), leading to lesser recovery on [default](../d/default.md).
 2. **Legal Complications**: Reclaiming and selling the [asset](../a/asset.md) can involve lengthy legal procedures.
@@ -58,7 +58,7 @@ While pledged assets can [offer](../o/offer.md) [security](../s/security.md), va
 
 ### Role in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), pledged assets can serve as [collateral](../c/collateral.md) to access [leverage](../l/leverage.md) or [margin](../m/margin.md). Traders might pledge securities in their portfolio to obtain additional [capital](../c/capital.md) for trading. The [efficiency](../e/efficiency.md) with which assets are pledged and monitored can significantly affect the performance and [risk](../r/risk.md) levels of algorithmic strategies.
+In [algorithmic trading](../a/algorithmic_trading.md), pledged assets can serve as [collateral](../c/collateral.md) to access [leverage](../l/leverage.md) or [margin](../m/margin.md). Traders might pledge securities in their portfolio to obtain additional [capital](../c/capital.md) for trading. The [efficiency](../e/efficiency.md) with which assets are pledged and monitored can significantly affect the performance and [risk](../r/risk.md) levels of algorithmic strategies.
 
 ### FinTech Applications
 
@@ -69,11 +69,9 @@ In FinTech, modern platforms have streamlined and automated the [appraisal](../a
 
 ## Case Studies
 
-### LendingClub (https://www.lendingclub.com/)
-LendingClub is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform that allows individuals to borrow and lend [money](../m/money.md) directly to each other. Borrowers on the platform can provide personal assets as [collateral](../c/collateral.md) to secure loans, thus enhancing their chances of approval and potentially obtaining better [loan](../l/loan.md) terms.
+### LendingClub LendingClub is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform that allows individuals to borrow and lend [money](../m/money.md) directly to each other. Borrowers on the platform can provide personal assets as [collateral](../c/collateral.md) to secure loans, thus enhancing their chances of approval and potentially obtaining better [loan](../l/loan.md) terms.
 
-### SoFi (https://www.sofi.com/)
-SoFi offers a [range](../r/range.md) of financial products, including personal and student loans. Pledged assets such as personal investment portfolios can be used to secure loans, lowering the [interest](../i/interest.md) rates and making large [loan](../l/loan.md) amounts available to borrowers.
+### SoFi SoFi offers a [range](../r/range.md) of financial products, including personal and student loans. Pledged assets such as personal investment portfolios can be used to secure loans, lowering the [interest](../i/interest.md) rates and making large [loan](../l/loan.md) amounts available to borrowers.
 
 ## Regulations and Compliance
 
@@ -88,4 +86,4 @@ Factors such as [market](../m/market.md) [volatility](../v/volatility.md), legal
 
 ## Conclusion
 
-Pledged assets are essential elements in the financial ecosystem, enabling borrowers to secure favorable [loan](../l/loan.md) terms while providing lenders with a safety net. Understanding the intricacies of pledged assets, including their types, mechanisms, benefits, risks, and regulatory landscape, is crucial for anyone involved in [finance](../f/finance.md), from individual investors to large financial institutions. This concept's relevance extends further into advanced fields like [algorithmic trading](../a/accountability.md) and FinTech, highlighting its profound impact on modern financial practices.
+Pledged assets are essential elements in the financial ecosystem, enabling borrowers to secure favorable [loan](../l/loan.md) terms while providing lenders with a safety net. Understanding the intricacies of pledged assets, including their types, mechanisms, benefits, risks, and regulatory landscape, is crucial for anyone involved in [finance](../f/finance.md), from individual investors to large financial institutions. This concept's relevance extends further into advanced fields like [algorithmic trading](../a/algorithmic_trading.md) and FinTech, highlighting its profound impact on modern financial practices.

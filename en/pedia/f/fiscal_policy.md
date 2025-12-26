@@ -4,7 +4,7 @@ Fiscal policy refers to the use of government spending and [taxation](../t/taxat
 
 ## Types of Fiscal Policy
 
-Fiscal policy can be broadly divided into two categories: 
+Fiscal policy can be broadly divided into two categories:
 
 ### Expansionary Fiscal Policy
 
@@ -21,23 +21,23 @@ Government spending is a critical tool in the implementation of fiscal policy. T
 ### Direct vs. Indirect Spending
 
 - **Direct Spending:** This refers to expenditures on goods and services that directly contribute to GDP. Examples include construction projects, military spending, and salaries of public employees.
-  
+
 - **Indirect Spending:** This includes transfer payments like [unemployment](../u/unemployment.md) benefits, pensions, and subsidies. While these do not directly add to GDP, they can increase consumers' [disposable income](../d/disposable_income.md), thereby stimulating [demand](../d/demand.md).
 
 ## Taxation
 
-[Taxation](../t/taxation.md) is another key lever of fiscal policy. By altering tax rates and structures, the government can influence economic behavior. 
+[Taxation](../t/taxation.md) is another key lever of fiscal policy. By altering tax rates and structures, the government can influence economic behavior.
 
 ### Types of Taxes
 
 - **Direct [Taxes](../t/taxes.md):** These are [taxes](../t/taxes.md) levied directly on individuals and organizations, such as [income tax](../i/income_tax.md) and [corporate tax](../c/corporate_tax.md).
-  
+
 - **Indirect [Taxes](../t/taxes.md):** These include [taxes](../t/taxes.md) on goods and services, like [value](../v/value.md)-added tax (VAT) and excise duties.
 
 ### Progressive vs. Regressive Taxes
 
 - **Progressive [Taxes](../t/taxes.md):** These are designed so that the [tax rate](../t/tax_rate.md) increases as the taxable amount increases. An example is the [income tax](../i/income_tax.md) in many countries, where higher [income](../i/income.md) brackets are taxed at higher rates.
-  
+
 - **Regressive [Taxes](../t/taxes.md):** These require a larger proportion of [income](../i/income.md) from lower-[income](../i/income.md) individuals. A common example is [sales tax](../s/sales_tax.md).
 
 ## Fiscal Policy Tools

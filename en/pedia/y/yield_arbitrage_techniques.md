@@ -27,19 +27,19 @@ In [yield curve](../y/yield_curve.md) [arbitrage](../a/arbitrage.md), traders ex
 
 [Municipal bond](../m/municipal_bond.md) [arbitrage](../a/arbitrage.md) involves exploiting the tax advantages of [municipal bonds](../m/municipal_bonds.md). Traders can construct trades capitalizing on [interest rate](../i/interest_rate.md) movements in different municipalities or between municipal and other types of bonds.
 
-**Example Company:** [PIMCO](https://www.pimco.com) engages in various forms of [bond](../b/bond.md) [arbitrage](../a/arbitrage.md) strategies.
+**Example Company:** PIMCO engages in various forms of [bond](../b/bond.md) [arbitrage](../a/arbitrage.md) strategies.
 
 ### 3. Fixed-Income Arbitrage
 
 Fixed-[income](../i/income.md) [arbitrage](../a/arbitrage.md) involves strategies that exploit the discrepancies in [bond](../b/bond.md) prices due to [interest rate](../i/interest_rate.md) or [yield curve](../y/yield_curve.md) movements. This complex technique often includes sophisticated modeling and [algorithmic trading](../a/algorithmic_trading.md) to identify and act on opportunities in short time frames.
 
-**Example Company:** [Citadel Securities](https://www.citadelsecurities.com) is known to be a key player in various fixed-[income](../i/income.md) [arbitrage](../a/arbitrage.md) strategies.
+**Example Company:** Citadel Securities is known to be a key player in various fixed-[income](../i/income.md) [arbitrage](../a/arbitrage.md) strategies.
 
 ### 4. Convertible Arbitrage
 
 **Convertible [arbitrage](../a/arbitrage.md)** involves purchasing a [convertible bond](../c/convertible_bond.md), which can be converted to stock, and shorting the stock of the same company. The strategy banks on the pricing inefficiency between the [bond](../b/bond.md) and the stock, allowing traders to capture profits as the relationship between the two instruments reverts to mean.
 
-**Example Company:** [Millennium Management](https://www.mlp.com) employs strategies involving convertible [arbitrage](../a/arbitrage.md) among its offerings.
+**Example Company:** Millennium Management employs strategies involving convertible [arbitrage](../a/arbitrage.md) among its offerings.
 
 ## Factors Influencing Yield Arbitrage
 
@@ -85,11 +85,10 @@ Conducting stress tests to evaluate how potential adverse events would impact th
 
 ### 5. Leverage Control
 
-Using [leverage](../l/leverage.md) cautiously, as it can amplify both profits and losses. 
+Using [leverage](../l/leverage.md) cautiously, as it can amplify both profits and losses.
 
 ## Conclusion
 
 [Yield](../y/yield.md) [arbitrage](../a/arbitrage.md) techniques are sophisticated strategies that require a deep understanding of [financial markets](../f/financial_market.md), instruments, and the [underlying](../u/underlying.md) factors affecting yields. While the potential for [profit](../p/profit.md) exists, the success of these strategies heavily depends on effective [execution](../e/execution.md), prudence in [risk management](../r/risk_management.md), and swift adaptation to [market](../m/market.md) changes.
 
 By leveraging advanced analytics, [algorithmic trading](../a/algorithmic_trading.md), and consistent monitoring, traders can potentially exploit [yield](../y/yield.md) discrepancies effectively. However, the ever-evolving nature of [financial markets](../f/financial_market.md) necessitates continuous learning and adaptability for sustained success.
-

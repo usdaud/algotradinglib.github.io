@@ -4,7 +4,7 @@ Kalman Prediction Models, deriving from the [Kalman Filter](../k/kalman_filter_i
 
 ## Introduction
 
-The [Kalman Filter](../k/kalman_filter_in_trading.md), named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical [noise](../n/noise.md) and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone. This is achieved through the estimates’ fusion, [weighted](../w/weighted.md) by their respective uncertainties. 
+The [Kalman Filter](../k/kalman_filter_in_trading.md), named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical [noise](../n/noise.md) and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone. This is achieved through the estimates’ fusion, [weighted](../w/weighted.md) by their respective uncertainties.
 
 ## The Math Behind Kalman Filters
 
@@ -13,69 +13,69 @@ The [Kalman Filter](../k/kalman_filter_in_trading.md), named after Rudolf E. Ká
 Kalman Filters are typically applied to linear dynamic systems. A common representation for such systems is the state-space model, described as:
 
 1. **State Equation:**
-   
-   ```
-   x_{k} = F_{k-1}x_{k-1} + B_{k-1}u_{k-1} + w_{k-1}
-   ```
-   
-   - \( x_k \): State vector at time k
-   - \( F_{k-1} \): State transition matrix
-   - \( B_{k-1} \): Control matrix
-   - \( u_{k-1} \): Control vector
-   - \( w_{k-1} \): Process [noise](../n/noise.md)
+
+ ```
+ x_{k} = F_{k-1}x_{k-1} + B_{k-1}u_{k-1} + w_{k-1}
+ ```
+
+ - \( x_k \): State vector at time k
+ - \( F_{k-1} \): State transition matrix
+ - \( B_{k-1} \): Control matrix
+ - \( u_{k-1} \): Control vector
+ - \( w_{k-1} \): Process [noise](../n/noise.md)
 
 2. **Measurement Equation:**
-   
-   ```
-   z_k = H_k x_k + v_k
-   ```
-   
-   - \( z_k \): Measurement vector at time k
-   - \( H_k \): Measurement matrix
-   - \( v_k \): Measurement [noise](../n/noise.md)
+
+ ```
+ z_k = H_k x_k + v_k
+ ```
+
+ - \( z_k \): Measurement vector at time k
+ - \( H_k \): Measurement matrix
+ - \( v_k \): Measurement [noise](../n/noise.md)
 
 ### Kalman Filter Operation
 
 The [Kalman Filter](../k/kalman_filter_in_trading.md) involves two main stages:
 
 1. **Predict Stage:**
-   
-   - **State Prediction:**
-     
-     ```
-     \hat{x}_{k|k-1} = F_{k-1}\hat{x}_{k-1|k-1} + B_{k-1}u_{k-1}
-     ```
-     
-   - **[Covariance](../c/covariance.md) Prediction:**
-     
-     ```
-     P_{k|k-1} = F_{k-1}P_{k-1|k-1}F_{k-1}^T + Q_{k-1}
-     ```
-     
-     - \( P_{k|k-1} \): Predicted error [covariance](../c/covariance.md)
-     - \( Q_{k-1} \): Process [noise](../n/noise.md) [covariance](../c/covariance.md)
+
+ - **State Prediction:**
+
+ ```
+ \hat{x}_{k|k-1} = F_{k-1}\hat{x}_{k-1|k-1} + B_{k-1}u_{k-1}
+ ```
+
+ - **[Covariance](../c/covariance.md) Prediction:**
+
+ ```
+ P_{k|k-1} = F_{k-1}P_{k-1|k-1}F_{k-1}^T + Q_{k-1}
+ ```
+
+ - \( P_{k|k-1} \): Predicted error [covariance](../c/covariance.md)
+ - \( Q_{k-1} \): Process [noise](../n/noise.md) [covariance](../c/covariance.md)
 
 2. **Update Stage:**
-   
-   - **[Kalman Gain](../k/kalman_gain_in_trading.md) Calculation:**
-     
-     ```
-     K_k = P_{k|k-1}H_k^T(H_kP_{k|k-1}H_k^T + R_k)^{-1}
-     ```
-     
-     - \( R_k \): Measurement [noise](../n/noise.md) [covariance](../c/covariance.md)
 
-   - **State Update:**
-     
-     ```
-     \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k(z_k - H_k\hat{x}_{k|k-1})
-     ```
+ - **[Kalman Gain](../k/kalman_gain_in_trading.md) Calculation:**
 
-   - **[Covariance](../c/covariance.md) Update:**
-     
-     ```
-     P_{k|k} = (I - K_k H_k)P_{k|k-1}
-     ```
+ ```
+ K_k = P_{k|k-1}H_k^T(H_kP_{k|k-1}H_k^T + R_k)^{-1}
+ ```
+
+ - \( R_k \): Measurement [noise](../n/noise.md) [covariance](../c/covariance.md)
+
+ - **State Update:**
+
+ ```
+ \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k(z_k - H_k\hat{x}_{k|k-1})
+ ```
+
+ - **[Covariance](../c/covariance.md) Update:**
+
+ ```
+ P_{k|k} = (I - K_k H_k)P_{k|k-1}
+ ```
 
 ## Application in Algorithmic Trading
 
@@ -103,25 +103,25 @@ Effective [risk management](../r/risk_management.md) demands accurate [volatilit
 
 #### Renaissance Technologies
 
-Renaissance Technologies, a notable example in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including Kalman Filters, to execute their high-frequency [trading strategies](../t/trading_strategies.md). Their highly successful Medallion [Fund](../f/fund.md) is reputed for deploying such advanced statistical techniques to predict short-term price movements. [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies, a notable example in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including Kalman Filters, to execute their high-frequency [trading strategies](../t/trading_strategies.md). Their highly successful Medallion [Fund](../f/fund.md) is reputed for deploying such advanced statistical techniques to predict short-term price movements. Renaissance Technologies
 
 #### Citadel LLC
 
-Citadel, another key player in the [industry](../i/industry.md), uses [quantitative analysis](../q/quantitative_analysis.md) involving Kalman Filters for optimizing their [trading strategies](../t/trading_strategies.md). By predicting [market](../m/market.md) conditions with high accuracy, Citadel maintains its position at the forefront of [algorithmic trading](../a/algorithmic_trading.md) innovation. [Citadel LLC](https://www.citadel.com)
+Citadel, another key player in the [industry](../i/industry.md), uses [quantitative analysis](../q/quantitative_analysis.md) involving Kalman Filters for optimizing their [trading strategies](../t/trading_strategies.md). By predicting [market](../m/market.md) conditions with high accuracy, Citadel maintains its position at the forefront of [algorithmic trading](../a/algorithmic_trading.md) innovation. Citadel LLC
 
 ## Software Implementations
 
 Several software libraries and frameworks facilitate the implementation of Kalman Prediction Models:
 
 - **Python:**
-  - *FilterPy*: A Python library for Kalman filtering and other Bayesian filtering, extensively used for educational purposes and research.
-  - *pykalman*: Provides easy-to-use implementations of the [Kalman Filter](../k/kalman_filter_in_trading.md), supporting both the standard and the EM (Expectation-Maximization) versions for parameter learning.
+ - *FilterPy*: A Python library for Kalman filtering and other Bayesian filtering, extensively used for educational purposes and research.
+ - *pykalman*: Provides easy-to-use implementations of the [Kalman Filter](../k/kalman_filter_in_trading.md), supporting both the standard and the EM (Expectation-Maximization) versions for parameter learning.
 
 - **MATLAB:**
-  - MATLAB offers extensive toolboxes for implementing Kalman Filters, which include functions and scripts to model and simulate the filters efficiently.
+ - MATLAB offers extensive toolboxes for implementing Kalman Filters, which include functions and scripts to model and simulate the filters efficiently.
 
 - **R:**
-  - R provides packages like `dlm` (Dynamic [Linear Models](../l/linear_models_in_trading.md)) that cater to state-space modeling and Kalman filtering, widely used in financial [econometrics](../e/econometrics_in_trading.md) and [quantitative trading](../q/quantitative_trading.md) research.
+ - R provides packages like `dlm` (Dynamic [Linear Models](../l/linear_models_in_trading.md)) that cater to state-space modeling and Kalman filtering, widely used in financial [econometrics](../e/econometrics_in_trading.md) and [quantitative trading](../q/quantitative_trading.md) research.
 
 ## Challenges and Considerations
 

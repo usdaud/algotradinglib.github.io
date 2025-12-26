@@ -1,6 +1,6 @@
 # Lehman Aggregate Bond Index
 
-The [Lehman Brothers](../l/lehman_brothers.md) Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md), often referred to simply as the "Lehman Agg," was one of the flagship benchmarks for measuring the performance of the U.S. [bond market](../b/bond_market.md). It has since been succeeded by the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) following the [acquisition](../a/acquisition.md) of [Lehman Brothers](../l/lehman_brothers.md) by Barclays in 2008. This [index](../i/index_instrument.md) is pivotal in [financial markets](../f/financial_market.md), especially for investors focused on fixed-[income](../i/income.md) securities. 
+The [Lehman Brothers](../l/lehman_brothers.md) Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md), often referred to simply as the "Lehman Agg," was one of the flagship benchmarks for measuring the performance of the U.S. [bond market](../b/bond_market.md). It has since been succeeded by the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) following the [acquisition](../a/acquisition.md) of [Lehman Brothers](../l/lehman_brothers.md) by Barclays in 2008. This [index](../i/index_instrument.md) is pivotal in [financial markets](../f/financial_market.md), especially for investors focused on fixed-[income](../i/income.md) securities.
 
 ## Overview
 
@@ -23,7 +23,7 @@ To be included in the [index](../i/index_instrument.md), securities must have at
 
 ## Importance in Algo-Trading
 
-[Algorithmic trading](../a/accountability.md) (algo-trading) relies heavily on indices for creating [trading algorithms](../t/trading_algorithms.md), executing trades, and benchmarking performance. The Lehman Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) serves several critical functions in this space:
+[Algorithmic trading](../a/algorithmic_trading.md) (algo-trading) relies heavily on indices for creating [trading algorithms](../t/trading_algorithms.md), executing trades, and benchmarking performance. The Lehman Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) serves several critical functions in this space:
 
 ### Benchmarking
 
@@ -46,9 +46,9 @@ Algo-traders use historical data from the [index](../i/index_instrument.md) for 
 The Lehman Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md) employs a [market](../m/market.md)-[weighted](../w/weighted.md) methodology. Here’s how the calculation breaks down:
 
 - **[Market Value](../m/market_value.md)**: Each [bond](../b/bond.md)'s contribution to the [index](../i/index_instrument.md) is [weighted](../w/weighted.md) by its [market value](../m/market_value.md). This means the larger the outstanding amount of a [bond](../b/bond.md), the greater its influence on the [index](../i/index_instrument.md).
-  
+
 - **Pricing**: Prices for the bonds are gathered from [multiple](../m/multiple.md) sources to ensure accuracy. In most cases, these prices reflect [market](../m/market.md) transactions.
-  
+
 - **[Rebalancing](../r/rebalancing.md)**: The [index](../i/index_instrument.md) is rebalanced monthly to account for new issuances, maturities, or other changes in the [bond market](../b/bond_market.md).
 
 ## Analytics and Metrics
@@ -94,7 +94,7 @@ Several platforms [offer](../o/offer.md) tools for analyzing and trading based o
 - **BlackRock Aladdin**: An end-to-end [portfolio management](../p/par.md) platform that facilitates [risk management](../r/risk_management.md) and trading.
 - **[Morningstar](../m/morningstar.md) Direct**: Offers data and analytics tools specifically designed for fixed-[income](../i/income.md) investment.
 
-For more details on [Bloomberg](../b/bloomberg.md) Barclays Indices: [Bloomberg Indices](https://www.bloomberg.com/professional/product/indices/bloomberg-barclays-indices/)
+For more details on [Bloomberg](../b/bloomberg.md) Barclays Indices: Bloomberg Indices
 
 ## Conclusion
 

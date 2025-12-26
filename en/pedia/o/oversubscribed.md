@@ -73,7 +73,7 @@ Companies need to balance [investor](../i/investor.md) expectations with long-te
 
 Oversubscription is a significant [indicator](../i/indicator.md) in the [capital markets](../c/capital_markets.md), reflecting strong [investor](../i/investor.md) confidence and [demand](../d/demand.md) for a company's [shares](../s/shares.md) or financial products. The phenomenon brings along various costs and benefits, influencing the issuing entity’s immediate [capital](../c/capital.md) raise and long-term [market](../m/market.md) perception. Effective management through strategic decisions by underwriters and company executives ensures that the process aligns with organizational goals while [offering](../o/offering.md) satisfactory returns to investors. The careful balancing act in managing oversubscription can pave the way for successful [capital](../c/capital.md) [market](../m/market.md) ventures, leveraging [market](../m/market.md) enthusiasm for sustained growth and stability.
 
-For a practical reference to a recent example of an oversubscribed IPO, visit [Snowflake Inc.](https://www.snowflake.com/about/), a [data warehousing](../d/data_warehousing_in_trading.md) company that saw significant oversubscription during its IPO in 2020.
+For a practical reference to a recent example of an oversubscribed IPO, visit Snowflake Inc., a [data warehousing](../d/data_warehousing_in_trading.md) company that saw significant oversubscription during its IPO in 2020.
 
 ---
 

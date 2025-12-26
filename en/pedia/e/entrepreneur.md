@@ -1,6 +1,6 @@
 # Entrepreneur
 
-An entrepreneur is a person who creates, organizes, and manages a [business](../b/business.md) or businesses, taking on [financial risk](../f/financial_risk.md) to do so. The term originated from the French word "entreprendre," which means "to undertake." 
+An entrepreneur is a person who creates, organizes, and manages a [business](../b/business.md) or businesses, taking on [financial risk](../f/financial_risk.md) to do so. The term originated from the French word "entreprendre," which means "to undertake."
 
 In a more modern context, an entrepreneur is seen as someone who identifies an opportunity and leverages resources to address that opportunity. This process typically involves innovation, problem-solving, and enhancing public utilities while seeking profitability. They are often viewed as visionaries who bring new ideas, products, processes, and services to the marketplace, disrupting or significantly altering existing industries.
 
@@ -82,16 +82,16 @@ An entrepreneur may eventually decide to exit the [business](../b/business.md). 
 ## Entrepreneurial Ecosystem
 
 ### 1. **Incubators and Accelerators**
-These are programs designed to support early-stage ventures with mentoring, resources, and often funding. Examples include Y Combinator [Y Combinator](https://www.ycombinator.com/) and Techstars [Techstars](https://www.techstars.com/).
+These are programs designed to support early-stage ventures with mentoring, resources, and often funding. Examples include Y Combinator Y Combinator and Techstars Techstars.
 
 ### 2. **Venture Capital Firms**
-[Venture capital](../v/venture_capital.md) firms provide funding in [exchange](../e/exchange.md) for [equity](../e/equity.md) in scalable start-ups. Some well-known firms include Sequoia [Capital](../c/capital.md) [Sequoia Capital](https://www.sequoiacap.com/) and Andreessen Horowitz [Andreessen Horowitz](https://a16z.com/).
+[Venture capital](../v/venture_capital.md) firms provide funding in [exchange](../e/exchange.md) for [equity](../e/equity.md) in scalable start-ups. Some well-known firms include Sequoia [Capital](../c/capital.md) Sequoia Capital and Andreessen Horowitz Andreessen Horowitz.
 
 ### 3. **Angel Investors**
-These are affluent individuals who provide [capital](../c/capital.md) for start-ups in [exchange](../e/exchange.md) for ownership [equity](../e/equity.md) or convertible [debt](../d/debt.md). AngelList [AngelList](https://angel.co/) is a popular platform connecting start-ups with angel investors.
+These are affluent individuals who provide [capital](../c/capital.md) for start-ups in [exchange](../e/exchange.md) for ownership [equity](../e/equity.md) or convertible [debt](../d/debt.md). AngelList AngelList is a popular platform connecting start-ups with angel investors.
 
 ### 4. **Co-Working Spaces**
-Co-working spaces [offer](../o/offer.md) flexible working environments that foster collaboration and [networking](../n/networking.md) among entrepreneurs. Examples include WeWork [WeWork](https://www.wework.com/) and Regus [Regus](https://www.regus.com/).
+Co-working spaces [offer](../o/offer.md) flexible working environments that foster collaboration and [networking](../n/networking.md) among entrepreneurs. Examples include WeWork WeWork and Regus Regus.
 
 ### 5. **Government and Non-Profit Support**
 Many governments [offer](../o/offer.md) grants, loans, and advisory services to support entrepreneurs. Non-[profit](../p/profit.md) organizations also play a significant role in providing training, resources, and [networking](../n/networking.md) opportunities.

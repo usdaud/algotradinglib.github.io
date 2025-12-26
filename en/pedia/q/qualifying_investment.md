@@ -9,7 +9,7 @@ A qualifying investment refers to an investment that meets certain criteria set 
 Accounts such as Individual Retirement Accounts (IRAs) and 401(k)s in the United States allow investments to grow [tax-deferred](../t/tax_deferred.md) or even [tax-free](../t/tax_free.md). For the investments within these accounts to qualify, certain rules must be followed:
 
 - **Individual Retirement Accounts (IRAs)**: Contributions to traditional IRAs may be tax-deductible, and the investments grow [tax-deferred](../t/tax_deferred.md). Roth IRAs, on the other hand, provide for [tax-free](../t/tax_free.md) growth and withdrawals, provided certain conditions are met.
-  
+
 - **401(k) Plans**: Employer-sponsored retirement accounts that may include employer matching contributions. Investments within 401(k) accounts grow [tax-deferred](../t/tax_deferred.md), and plan holders can select from a [range](../r/range.md) of qualifying investment [options](../o/options.md) like mutual funds, [stocks](../s/stock.md), and bonds.
 
 ### Government Bonds
@@ -17,7 +17,7 @@ Accounts such as Individual Retirement Accounts (IRAs) and 401(k)s in the United
 Governments [issue](../i/issue.md) various bonds that may be considered qualifying investments for tax benefits. These include:
 
 - **[Municipal Bonds](../m/municipal_bonds.md)**: In the U.S., [interest](../i/interest.md) earned on [municipal bonds](../m/municipal_bonds.md) is often exempt from federal and sometimes state and local [taxes](../t/taxes.md).
-  
+
 - **[U.S. Treasury](../u/u.s._treasury.md) Bonds**: [Interest](../i/interest.md) on these bonds is exempt from state and local [taxes](../t/taxes.md), making them favorable for certain investors.
 
 ### Real Estate Investments
@@ -71,7 +71,7 @@ The purpose behind the investment can also play a role in its qualification:
 The geographic location of an investment can determine its qualification status:
 
 - **Domestic vs. International Investments**: Some tax benefits are only applicable to domestic investments.
-  
+
 - **Special Economic Zones**: Investments in designated special economic zones often come with tax incentives.
 
 ## Tax Implications of Qualifying Investments
@@ -120,7 +120,7 @@ Utilizing [diversification strategies](../d/diversification_strategies.md) can h
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) can play a significant role in identifying qualifying investments quickly and efficiently. Algorithms can be programmed to detect investment opportunities that meet specific tax or regulatory criteria.
+[Algorithmic trading](../a/algorithmic_trading.md) can play a significant role in identifying qualifying investments quickly and efficiently. Algorithms can be programmed to detect investment opportunities that meet specific tax or regulatory criteria.
 
 ### Robo-Advisors
 

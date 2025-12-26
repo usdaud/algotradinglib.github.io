@@ -86,19 +86,19 @@ Several software solutions and platforms specialize in facilitating reverse auct
 
 ### SAP Ariba
 
-SAP Ariba offers a comprehensive [procurement](../p/procurement.md) solution that includes reverse auction capabilities. Their platform enables organizations to run dynamic sourcing events to achieve competitive pricing and added [value](../v/value.md). [SAP Ariba](https://www.ariba.com/)
+SAP Ariba offers a comprehensive [procurement](../p/procurement.md) solution that includes reverse auction capabilities. Their platform enables organizations to run dynamic sourcing events to achieve competitive pricing and added [value](../v/value.md). SAP Ariba
 
 ### Coupa
 
-Coupa provides a cloud-based spend management platform that integrates reverse auction tools within its [procurement](../p/procurement.md) module. This helps businesses to enhance savings and [efficiency](../e/efficiency.md). [Coupa](https://www.coupa.com/)
+Coupa provides a cloud-based spend management platform that integrates reverse auction tools within its [procurement](../p/procurement.md) module. This helps businesses to enhance savings and [efficiency](../e/efficiency.md). Coupa
 
 ### JAGGAER
 
-JAGGAER offers a digital [procurement](../p/procurement.md) suite that includes reverse auction functionalities. They cater to a wide [range](../r/range.md) of industries, helping organizations optimize their sourcing processes. [JAGGAER](https://www.jaggaer.com/)
+JAGGAER offers a digital [procurement](../p/procurement.md) suite that includes reverse auction functionalities. They cater to a wide [range](../r/range.md) of industries, helping organizations optimize their sourcing processes. JAGGAER
 
 ### GEP SMART
 
-GEP SMART is a unified [procurement](../p/procurement.md) platform that supports reverse auctions among other sourcing and [procurement](../p/procurement.md) activities. Its advanced analytics and user-friendly interface are notable features. [GEP](https://www.gep.com/)
+GEP SMART is a unified [procurement](../p/procurement.md) platform that supports reverse auctions among other sourcing and [procurement](../p/procurement.md) activities. Its advanced analytics and user-friendly interface are notable features. GEP
 
 ## Conclusion
 

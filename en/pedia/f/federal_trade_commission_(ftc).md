@@ -4,7 +4,7 @@ The Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC) is an 
 
 ## Historical Background
 
-The FTC was created during the Progressive Era, a period marked by widespread social activism and political reform across the United States. President Woodrow Wilson signed the Federal [Trade](../t/trade.md) [Commission](../c/commission.md) Act into law on September 26, 1914. The creation of the FTC was partly in response to the inadequacies of the [Sherman Antitrust Act](../s/sherman_antitrust_act.md) of 1890, which was the first federal act that outlawed monopolistic [business](../b/business.md) practices. 
+The FTC was created during the Progressive Era, a period marked by widespread social activism and political reform across the United States. President Woodrow Wilson signed the Federal [Trade](../t/trade.md) [Commission](../c/commission.md) Act into law on September 26, 1914. The creation of the FTC was partly in response to the inadequacies of the [Sherman Antitrust Act](../s/sherman_antitrust_act.md) of 1890, which was the first federal act that outlawed monopolistic [business](../b/business.md) practices.
 
 ## Organizational Structure
 
@@ -15,15 +15,15 @@ The FTC is led by a [Commission](../c/commission.md) consisting of five members,
 The Federal [Trade](../t/trade.md) [Commission](../c/commission.md)'s key areas of focus include:
 
 1. **Consumer Protection:**
-   - **Deceptive Advertising:** Ensuring that advertising is truthful and not misleading.
-   - **Financial Practices:** Overseeing practices related to [debt](../d/debt.md) collection, [credit](../c/credit.md) reporting, and other financial issues.
-   - **Privacy and [Security](../s/security.md):** Regulating practices around consumer data privacy and cybersecurity.
-   - **[Fraud](../f/fraud.md) Prevention:** Combating [fraud](../f/fraud.md) related to telemarketing, online scams, and other fraudulent schemes.
+ - **Deceptive Advertising:** Ensuring that advertising is truthful and not misleading.
+ - **Financial Practices:** Overseeing practices related to [debt](../d/debt.md) collection, [credit](../c/credit.md) reporting, and other financial issues.
+ - **Privacy and [Security](../s/security.md):** Regulating practices around consumer data privacy and cybersecurity.
+ - **[Fraud](../f/fraud.md) Prevention:** Combating [fraud](../f/fraud.md) related to telemarketing, online scams, and other fraudulent schemes.
 
 2. **[Antitrust](../a/antitrust.md):**
-   - **Mergers and Acquisitions:** Reviewing proposed mergers and acquisitions to prevent harmful [consolidation](../c/consolidation.md).
-   - **Competition Advocacy:** Promoting competition through advocacy and [guidance](../g/guidance.md), particularly in regulated industries.
-   - **Anti-Competitive Practices:** Investigating and pursuing actions against monopolistic and anti-competitive [business](../b/business.md) practices.
+ - **Mergers and Acquisitions:** Reviewing proposed mergers and acquisitions to prevent harmful [consolidation](../c/consolidation.md).
+ - **Competition Advocacy:** Promoting competition through advocacy and [guidance](../g/guidance.md), particularly in regulated industries.
+ - **Anti-Competitive Practices:** Investigating and pursuing actions against monopolistic and anti-competitive [business](../b/business.md) practices.
 
 ## Enforcement Mechanisms
 
@@ -36,7 +36,7 @@ The FTC enforces its regulations through a variety of mechanisms, including:
 
 ## Consumer Education
 
-An important aspect of the FTC's work involves educating consumers and businesses about their rights and responsibilities. Through various programs, publications, and its website, the FTC provides valuable information designed to help consumers make informed decisions and avoid [fraud](../f/fraud.md) and deception.
+An important aspect of the FTC's work involves educating consumers and businesses about their rights and responsibilities.../f/fraud.md) and deception.
 
 ## Research and Reports
 
@@ -58,4 +58,4 @@ As technology continues to advance and markets evolve, the FTC's role continues 
 
 The Federal [Trade](../t/trade.md) [Commission](../c/commission.md) remains a cornerstone of U.S. efforts to maintain competitive markets and protect consumers. Through its comprehensive approach that includes regulation, enforcement, and education, the FTC strives to create an environment where businesses can compete fairly and consumers can make informed choices free from deception and unfair practices.
 
-For more detailed information, you can visit the [FTC website](https://www.ftc.gov).
+For more detailed information,

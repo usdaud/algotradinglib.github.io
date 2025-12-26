@@ -76,23 +76,19 @@ Maintaining a favorable [risk](../r/risk.md)-reward ratio is crucial for long-te
 
 ### 1. Thinkorswim
 [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) offers advanced charting tools, real-time data, and a customizable interface that is well-suited for intraday gap trading.
-[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### 2. TradeStation
 [TradeStation](../t/tradestation.md) provides [robust](../r/robust.md) trading tools, including automated trading capabilities, which can be beneficial for implementing intraday gap [trading strategies](../t/trading_strategies.md).
-[TradeStation](https://www.tradestation.com)
 
 ### 3. Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive [trading platform](../t/trading_platform.md) with advanced [order types](../o/order_types_in_trading.md) and real-time monitoring features ideal for [intraday trading](../i/intraday_trading.md).
-[Interactive Brokers](https://www.interactivebrokers.com)
 
 ### 4. E*TRADE
 [E*TRADE](../e/e_trade.md)’s Power [E*TRADE](../e/e_trade.md) platform provides an intuitive interface and advanced charting tools that can be helpful for intraday gap traders.
-[E*TRADE](https://us.etrade.com)
+E*TRADE
 
 ### 5. MetaTrader 4 and 5
 MetaTrader platforms [offer](../o/offer.md) a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md) and automated trading [options](../o/options.md) suitable for gap trading.
-[MetaTrader](https://www.metatrader4.com)
 
 ## Case Studies in Intraday Gap Trading
 

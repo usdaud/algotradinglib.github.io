@@ -72,17 +72,14 @@ In some cases, [capital](../c/capital.md) improvements, especially for large-sca
 ### Residential Projects
 
 1. **Beazer Homes:** Beazer Homes USA, Inc. is a prominent [home](../h/home.md) builder in the United States, specializing in constructing quality homes. They regularly undertake [capital](../c/capital.md) improvements to enhance their housing projects, ensuring they meet modern standards and [customer](../c/customer.md) expectations.
-   [Beazer Homes](https://www.beazer.com/)
 
 ### Commercial Projects
 
 2. **Boston Properties:** Boston Properties, Inc. is a renowned [real estate](../r/real_estate.md) investment [trust](../t/trust.md) (REIT) known for developing and managing premier office spaces. They invest heavily in [capital](../c/capital.md) improvements to maintain the [value](../v/value.md) and appeal of their commercial properties.
-   [Boston Properties](https://www.bostonproperties.com/)
 
 ### Public Infrastructure Projects
 
 3. **U.S. Department of Transportation:** The Federal Highway Administration (FHWA), a division of the U.S. Department of Transportation, oversees substantial [capital](../c/capital.md) improvement projects related to highways, bridges, and tunnels across the United States.
-   [Federal Highway Administration](https://www.fhwa.dot.gov/)
 
 ## Challenges in Capital Improvement Projects
 

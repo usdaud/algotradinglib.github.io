@@ -1,6 +1,6 @@
 # Capital Loss Carryover
 
-[Capital](../c/capital.md) loss carryover is a tax [provision](../p/provision.md) that allows investors to take advantage of their investment losses to lower their [taxable income](../t/taxable_income.md). Understanding [capital](../c/capital.md) loss carryover can be vital for both individual investors and institutional traders, especially in the realm of [algorithmic trading](../a/accountability.md) (algotrading). 
+[Capital](../c/capital.md) loss carryover is a tax [provision](../p/provision.md) that allows investors to take advantage of their investment losses to lower their [taxable income](../t/taxable_income.md). Understanding [capital](../c/capital.md) loss carryover can be vital for both individual investors and institutional traders, especially in the realm of [algorithmic trading](../a/accountability.md) (algotrading).
 
 ## What is Capital Loss Carryover?
 
@@ -13,7 +13,7 @@
 To understand [capital](../c/capital.md) loss carryover, it is essential to know how it is calculated and utilized:
 
 1. **Net [Capital](../c/capital.md) Loss:** First, total [capital](../c/capital.md) losses are determined. Then, any [capital](../c/capital.md) gains within the same year are subtracted from these [capital](../c/capital.md) losses. The remaining loss is considered the net [capital](../c/capital.md) loss.
-   
+
 2. **Carry Over:** The net [capital](../c/capital.md) loss that can't be used within the same tax year can be carried forward to [offset](../o/offset.md) future gains. In some tax jurisdictions, a portion of the loss can also be used to [offset](../o/offset.md) [ordinary income](../o/ordinary_income.md). For example, in the United States, up to $3,000 of net [capital](../c/capital.md) loss can be deducted from [ordinary income](../o/ordinary_income.md) annually.
 
 3. **Unlimited Carryforward:** While some jurisdictions have limits on how long losses can be carried forward, others like the U.S., allow an unlimited carryforward period until the loss is fully utilized.
@@ -43,7 +43,7 @@ In the UK, Her Majesty's [Revenue](../r/revenue.md) and Customs (HMRC) oversees 
 
 - **Offsetting Gains:** [Capital](../c/capital.md) losses must first be used to [offset](../o/offset.md) gains in the same tax year.
 - **Unlimited Carryforward:** Unused losses can be carried forward indefinitely to [offset](../o/offset.md) future gains, provided they are reported in the tax year they occur.
-  
+
 ### Canada
 
 The Canada [Revenue](../r/revenue.md) Agency (CRA) addresses [capital](../c/capital.md) loss carryover rules in Canada:
@@ -78,9 +78,8 @@ While realizing losses for carryover purposes can be beneficial tax-wise, it may
 
 Various [software tools](../s/software_tools_for_trading.md) can assist traders and firms in managing [capital](../c/capital.md) loss carryover. Examples include:
 
-- **TurboTax:** This tax preparation software helps individuals and small businesses calculate and apply [capital](../c/capital.md) loss carryover (https://turbotax.intuit.com).
-- **TradeLog:** Designed for active traders, this tool helps track and report trading gains and losses, including carryovers (https://www.tradelogsoftware.com).
-  
+- **TurboTax:** This tax preparation software helps individuals and small businesses calculate and apply [capital](../c/capital.md) loss carryover (
+- **TradeLog:** Designed for active traders, this tool helps track and report trading gains and losses, including carryovers
 ## Conclusion
 
 [Capital](../c/capital.md) loss carryover is a vital mechanism for traders to manage their tax liabilities efficiently. For algorithmic traders, integrating carryover strategies into [trading algorithms](../t/trading_algorithms.md) can significantly enhance overall profitability by optimizing tax expenses. Although complex, the effective use of [capital](../c/capital.md) loss carryover can provide a significant edge in the competitive field of [algorithmic trading](../a/accountability.md).

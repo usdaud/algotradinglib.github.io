@@ -22,9 +22,9 @@ Adam Smith, often regarded as the father of modern [economics](../e/economics.md
 
 A central tenet of the LTV is the concept of "socially necessary labor time," which refers to the labor time required to produce any [commodity](../c/commodity.md) under average conditions of production, with average skill and intensity, and while utilizing the prevailing technology of the time. It accounts for the [efficiency](../e/efficiency.md) across the [industry](../i/industry.md), balancing individual [productivity](../p/productivity.md) variances.
 
-### Value vs. Price 
+### Value vs. Price
 
-While the LTV establishes that labor imparts [value](../v/value.md), it distinguishes between [value](../v/value.md) and [market price](../m/market_price.md). Price, influenced by [supply](../s/supply.md) and [demand](../d/demand.md), can fluctuate above or below the [intrinsic value](../i/intrinsic_value.md) determined by labor. Nonetheless, over time, prices tend to gravitate towards the labor-[value](../v/value.md) [equilibrium](../e/equilibrium.md). 
+While the LTV establishes that labor imparts [value](../v/value.md), it distinguishes between [value](../v/value.md) and [market price](../m/market_price.md). Price, influenced by [supply](../s/supply.md) and [demand](../d/demand.md), can fluctuate above or below the [intrinsic value](../i/intrinsic_value.md) determined by labor. Nonetheless, over time, prices tend to gravitate towards the labor-[value](../v/value.md) [equilibrium](../e/equilibrium.md).
 
 ### Surplus Value and Exploitation
 
@@ -48,9 +48,9 @@ Austrian economists such as Carl Menger and Ludwig von Mises argue that the LTV 
 
 ### Political Economy and Sociological Perspectives
 
-In contemporary discourse, the LTV remains significant within [political economy](../p/political_economy.md) and sociological analysis. It offers a lens for examining labor relations, wage inequalities, and the broader dynamics of [capitalism](../c/capitalism.md), particularly in understanding the foundations of economic exploitation and class struggle. 
+In contemporary discourse, the LTV remains significant within [political economy](../p/political_economy.md) and sociological analysis. It offers a lens for examining labor relations, wage inequalities, and the broader dynamics of [capitalism](../c/capitalism.md), particularly in understanding the foundations of economic exploitation and class struggle.
 
-### Cost of Production Analysis 
+### Cost of Production Analysis
 
 Despite its critiques, the LTV underpins cost of production analysis in various industries, particularly those dominated by labor-intensive processes. By assessing labor inputs and correlating them with product prices, businesses gauge [efficiency](../e/efficiency.md) and profitability, indirectly applying principles akin to LTV.
 
@@ -58,7 +58,7 @@ Despite its critiques, the LTV underpins cost of production analysis in various 
 
 Policymakers, when addressing wage and labor legislation, often draw upon concepts related to labor [value](../v/value.md). Discussions surrounding [minimum wage](../m/minimum_wage.md) laws, labor rights, and fair compensation policies borrow from an understanding of labor’s contribution to [value](../v/value.md), resonating with LTV principles.
 
-### Technology and Automation 
+### Technology and Automation
 
 As technology advances and automation increases, the relevance of LTV faces new challenges and adaptations. Questions arise about the [value](../v/value.md) of machine labor and the diminishing direct human labor content in production processes. This shift necessitates a re-evaluation of LTV in light of technological progress and its implications for [value](../v/value.md) creation.
 

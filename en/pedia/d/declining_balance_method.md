@@ -111,9 +111,9 @@ IFRS also permits the use of the declining balance method, provided it results i
 
 Several [accounting](../a/accounting.md) software solutions can automate the declining balance method calculations:
 
-- **QuickBooks ([link](https://quickbooks.intuit.com/))**
-- **Xero ([link](https://www.xero.com/))**
-- **FreshBooks ([link](https://www.freshbooks.com/))**
+- **QuickBooks (link)**
+- **Xero (link)**
+- **FreshBooks (link)**
 
 These tools allow for seamless integration of [depreciation](../d/depreciation.md) calculations into a company's overall financial strategy.
 

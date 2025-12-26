@@ -40,7 +40,7 @@ Over the years, the FASB has issued numerous standards, significantly impacting 
 - **FASB ASC 606**: [Revenue](../r/revenue.md) from Contracts with Customers, which standardizes how companies recognize [revenue](../r/revenue.md) and enhances comparability across different industries and markets.
 - **FASB ASC 842**: Leases, which requires lessees to recognize lease assets and liabilities on the [balance sheet](../b/balance_sheet.md), providing a more accurate picture of a company's financial [obligations](../o/obligation.md).
 - **FASB ASC 815**: [Derivatives](../d/derivatives.md) and Hedging, which provides guidelines on how to account for [derivative](../d/derivative.md) instruments and hedging activities.
-- **FASB ASC 825**: Financial Instruments, which governs the recognition, measurement, and [disclosure](../d/disclosure.md) of financial instruments. 
+- **FASB ASC 825**: Financial Instruments, which governs the recognition, measurement, and [disclosure](../d/disclosure.md) of financial instruments.
 
 In 2009, the FASB introduced the [Accounting](../a/accounting.md) Standards Codification (ASC), an effort to simplify and consolidate all previous standards into a single, coherent system. The ASC is organized into topics, subtopics, sections, and subsections, making it easier for users to navigate and apply the standards.
 
@@ -57,8 +57,7 @@ In addition to setting standards, the FASB is dedicated to educating stakeholder
 - **Publications and Guides**: Issuing plain-language guides, case studies, and illustrative examples to explain complex standards.
 - **Advisory Groups**: Engaging with advisory councils like the [Financial Accounting](../f/financial_accounting.md) Standards Advisory Council (FASAC) and [private company](../p/private_company.md) councils to gather inputs and disseminate information.
 
-The FASB's website also serves as a comprehensive resource for accessing all standards, updates, and educational materials (https://www.fasb.org/).
-
+The FASB's online platform also serves as a comprehensive resource for accessing all standards, updates, and educational materials
 ## Criticisms and Challenges
 
 Despite its crucial role, the FASB faces various criticisms and challenges:
@@ -76,4 +75,3 @@ As the global financial landscape continues to evolve, the FASB's role becomes i
 
 The FASB remains committed to its mission of improving financial reporting and ensuring the reliability, [transparency](../t/transparency.md), and comparability of financial information, contributing to the overall stability and [efficiency](../e/efficiency.md) of [financial markets](../f/financial_market.md).
 
-For more information and updates on FASB activities, visit their official website: [FASB Official Site](https://www.fasb.org/).

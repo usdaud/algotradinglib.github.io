@@ -38,10 +38,10 @@ Benchmarking has significant implications in the realm of [algorithmic trading](
 
 Several tools and platforms [offer](../o/offer.md) sophisticated benchmarking solutions for [algorithmic trading](../a/accountability.md). These tools provide various metrics and analytical reports to assess and compare performance:
 
-1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/accountability.md) platform that supports [backtesting](../b/backtesting.md) and live trading with seamless benchmarking features. [QuantConnect](https://www.quantconnect.com/)
-2. **Trading Technologies**: Offers [robust](../r/robust.md) tools for trading and [order management](../o/order_management_in_trading.md), including comprehensive metrics for benchmarked performance analysis. [Trading Technologies](https://www.tradingtechnologies.com/)
-3. **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) that offers benchmarking tools within its [backtesting](../b/backtesting.md) and live trading environments. [MetaTrader](https://www.metatrader4.com/)
-4. **[Alpaca](../a/alpaca.md)**: An API-driven platform that offers real-time benchmarking metrics and reporting for algorithmic strategies. [Alpaca](https://alpaca.markets/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/accountability.md) platform that supports [backtesting](../b/backtesting.md) and live trading with seamless benchmarking features. QuantConnect
+2. **Trading Technologies**: Offers [robust](../r/robust.md) tools for trading and [order management](../o/order_management_in_trading.md), including comprehensive metrics for benchmarked performance analysis. Trading Technologies
+3. **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) that offers benchmarking tools within its [backtesting](../b/backtesting.md) and live trading environments. MetaTrader
+4. **[Alpaca](../a/alpaca.md)**: An API-driven platform that offers real-time benchmarking metrics and reporting for algorithmic strategies. Alpaca
 
 ## Conclusion
 

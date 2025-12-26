@@ -15,7 +15,7 @@ A shrinkage estimator is a type of statistical estimator used to improve the acc
 There are several common types of shrinkage estimators in financial contexts:
 
 1. **James-Stein Estimator**: Useful for estimating the mean of [multiple](../m/multiple.md) normal distributions, significantly when the sample size is small compared to the number of parameters.
-   
+
 2. **Ridge Regression**: Used in the context of [linear regression](../l/linear_regression.md) to prevent [overfitting](../o/overfitting.md), particularly when dealing with [multicollinearity](../m/multicollinearity.md). It works by adding a penalty to the regression's coefficient estimates.
 
 3. **Ledoit-Wolf Shrinkage**: This approach shrinks the sample [covariance](../c/covariance.md) matrix towards a more structured target, such as the identity matrix or a constant [correlation](../c/correlation.md) matrix, to improve the stability of the [covariance](../c/covariance.md) matrix estimation.
@@ -36,7 +36,7 @@ There are several common types of shrinkage estimators in financial contexts:
 
 2. **[Risk Management](../r/risk_management.md)**: Accurate [risk](../r/risk.md) estimates, such as [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR) and Expected [Shortfall](../s/shortfall.md) (ES), rely on stable estimates of [return](../r/return.md) distributions and their covariances.
 
-3. **[Algorithmic Trading](../a/accountability.md)**: [Quantitative trading](../q/quantitative_trading.md) strategies that depend on high-dimensional data can benefit significantly from shrinkage techniques to achieve more reliable model parameters.
+3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: [Quantitative trading](../q/quantitative_trading.md) strategies that depend on high-dimensional data can benefit significantly from shrinkage techniques to achieve more reliable model parameters.
 
 ### Mathematical Formulation
 

@@ -24,26 +24,26 @@ This is the net [asset](../a/asset.md) [value](../v/value.md) of a company divid
 The P/B ratio is significant for several reasons:
 
 1. **[Valuation](../v/valuation.md) [Indicator](../i/indicator.md):**
-   - Investors use the P/B ratio to determine if a stock is trading below or above its [intrinsic value](../i/intrinsic_value.md). A P/B ratio of less than 1 indicates that a stock is potentially [undervalued](../u/undervalued.md)—investors are paying less than the company's [book value](../b/book_value.md). Conversely, a P/B ratio greater than 1 suggests the stock may be [overvalued](../o/overvalued.md).
+ - Investors use the P/B ratio to determine if a stock is trading below or above its [intrinsic value](../i/intrinsic_value.md). A P/B ratio of less than 1 indicates that a stock is potentially [undervalued](../u/undervalued.md)—investors are paying less than the company's [book value](../b/book_value.md). Conversely, a P/B ratio greater than 1 suggests the stock may be [overvalued](../o/overvalued.md).
 
 2. **[Risk](../r/risk.md) Assessment:**
-   - Lower P/B ratios can indicate that a company has some [underlying](../u/underlying.md) issues that are causing the [market](../m/market.md) to undervalue its stock. It can be perceived as a safer investment, presenting a [margin of safety](../m/margin_of_safety.md).
+ - Lower P/B ratios can indicate that a company has some [underlying](../u/underlying.md) issues that are causing the [market](../m/market.md) to undervalue its stock. It can be perceived as a safer investment, presenting a [margin of safety](../m/margin_of_safety.md).
 
 3. **Comparison Among Peers:**
-   - The P/B ratio is useful for comparing companies within the same [industry](../i/industry.md). Companies with much higher ratios than their peers could be [overvalued](../o/overvalued.md) or have intangible assets not reflected in the [book value](../b/book_value.md).
+ - The P/B ratio is useful for comparing companies within the same [industry](../i/industry.md). Companies with much higher ratios than their peers could be [overvalued](../o/overvalued.md) or have intangible assets not reflected in the [book value](../b/book_value.md).
 
 ### Limitations
 
 While the P/B ratio is a useful tool, it has its limitations, including:
 
 1. **[Industry](../i/industry.md) [Variability](../v/variability.md):**
-   - Different industries have varying [asset](../a/asset.md) structures. For [asset](../a/asset.md)-heavy companies like [manufacturing](../m/manufacturing.md), the P/B ratio may be more relevant than for companies in tech or service industries where intangible assets are more significant.
+ - Different industries have varying [asset](../a/asset.md) structures. For [asset](../a/asset.md)-heavy companies like [manufacturing](../m/manufacturing.md), the P/B ratio may be more relevant than for companies in tech or service industries where intangible assets are more significant.
 
 2. **Intangible Assets:**
-   - The [book value](../b/book_value.md) does not account for intangible assets such as intellectual property, branding, and [goodwill](../g/goodwill.md). Therefore, companies with significant intangible assets may appear [undervalued](../u/undervalued.md) based on the P/B ratio alone.
+ - The [book value](../b/book_value.md) does not account for intangible assets such as intellectual property, branding, and [goodwill](../g/goodwill.md). Therefore, companies with significant intangible assets may appear [undervalued](../u/undervalued.md) based on the P/B ratio alone.
 
 3. **[Historical Cost](../h/historical_cost.md) vs. Current [Market Value](../m/market_value.md):**
-   - [Book value](../b/book_value.md) is based on the [historical cost](../h/historical_cost.md) of assets. This may not reflect their current [market value](../m/market_value.md), thus skewing the P/B ratio.
+ - [Book value](../b/book_value.md) is based on the [historical cost](../h/historical_cost.md) of assets. This may not reflect their current [market value](../m/market_value.md), thus skewing the P/B ratio.
 
 ### Practical Applications
 
@@ -62,12 +62,12 @@ Many stock screening tools and financial [software platforms](../s/software_plat
 One notable [investor](../i/investor.md) who extensively uses the P/B ratio in his analysis is Warren Buffett. Buffett focuses on finding quality companies at reasonable prices, and the P/B ratio helps him assess whether he is getting [value](../v/value.md) for his investment.
 
 #### Example Analysis: JPMorgan Chase
-To analyze JPMorgan Chase (JPM), we would look at its [market price](../m/market_price.md) and [book value](../b/book_value.md). 
+To analyze JPMorgan Chase (JPM), we would look at its [market price](../m/market_price.md) and [book value](../b/book_value.md).
 
 - If JPM has a [market price](../m/market_price.md) per share of $150 and a [book value](../b/book_value.md) per share of $100, its P/B ratio would be 1.5:
-  ```
-  P/B Ratio = $150 / $100 = 1.5
-  ```
+ ```
+ P/B Ratio = $150 / $100 = 1.5
+ ```
 - Analyzing JPM's historical P/B ratio and comparing it with other banks can provide insights into its current [valuation](../v/valuation.md).
 
 ### Calculation Tools and Resources
@@ -86,14 +86,14 @@ Here’s a simple Python snippet for calculating the P/B ratio:
 
 # Function to fetch market price
 def get_market_price(ticker):
-    api_url = f'https://api.example.com/market_price/{ticker}'
+ api_url = f'
     response = requests.get(api_url)
     data = response.json()
     [return](../r/return.md) data['market_price']
 
 # Function to fetch book value per share
 def get_book_value(ticker):
-    api_url = f'https://api.example.com/book_value/{ticker}'
+ api_url = f'
     response = requests.get(api_url)
     data = response.json()
     [return](../r/return.md) data['book_value_per_share']
@@ -115,7 +115,7 @@ The P/B ratio can be integrated into [trading algorithms](../t/trading_algorithm
 #### Robo-Advisors
 Modern robo-advisors use [financial ratios](../f/financial_ratios.md), including the P/B ratio, to build and rebalance portfolios. By analyzing various metrics, robo-advisors ensure that portfolios are aligned with the investment goals and [risk tolerance](../r/risk_tolerance.md) of their clients.
 
-For more [quantitative strategies](../q/quantitative_strategies_in_trading.md), fintech platforms like [QuantConnect](../q/quantconnect.md) or [Alpaca](../a/alpaca.md) provide the [infrastructure](../i/infrastructure.md) to test and deploy [trading algorithms](../t/trading_algorithms.md) that can incorporate the P/B ratio.
+For more [quantitative strategies](../q/quantitative_strategies_in_trading.md), fintech platforms like [StockSharp](../s/stocksharp.md) or [Alpaca](../a/alpaca.md) provide the [infrastructure](../i/infrastructure.md) to test and deploy [trading algorithms](../t/trading_algorithms.md) that can incorporate the P/B ratio.
 
 ### Conclusion
 

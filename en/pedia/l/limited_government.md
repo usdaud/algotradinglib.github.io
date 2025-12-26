@@ -85,4 +85,4 @@ The concept of limited government is often misunderstood as advocating for minim
 
 Limited government remains one of the cornerstone principles in modern political philosophy, advocating for restrictions on governmental power to protect individual freedoms and prevent tyranny. While its implementation can be complex and challenging, adherence to the principles of rule of law, separation of powers, and [checks and balances](../c/checks_and_balances.md) can contribute to a more just and equitable society.
 
-For further reading, various institutions and think tanks such as The Cato Institute ([cato.org](https://www.cato.org/)) and The Heritage Foundation ([heritage.org](https://www.heritage.org/)) often publish papers and articles advocating for and discussing the implications of limited government.
+For further reading, various institutions and think tanks such as The Cato Institute (cato.org) and The Heritage Foundation (heritage.org) often publish papers and articles advocating for and discussing the implications of limited government.

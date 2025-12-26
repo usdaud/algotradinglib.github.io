@@ -1,6 +1,6 @@
 # Unconsolidated Subsidiaries
 
-An unconsolidated subsidiary is a subsidiary which financial results do not appear in the [parent company](../p/parent_company.md)'s consolidated accounts. This is typically because the [parent company](../p/parent_company.md) does not [exercise](../e/exercise.md) full control over the subsidiary, despite having an ownership stake or other [interest](../i/interest.md) in it. 
+An unconsolidated subsidiary is a subsidiary which financial results do not appear in the [parent company](../p/parent_company.md)'s consolidated accounts. This is typically because the [parent company](../p/parent_company.md) does not [exercise](../e/exercise.md) full control over the subsidiary, despite having an ownership stake or other [interest](../i/interest.md) in it.
 
 ## Definition and Concept
 
@@ -21,12 +21,12 @@ However, not all subsidiaries are subject to [consolidation](../c/consolidation.
 There are several reasons why a subsidiary may not be consolidated into the [parent company](../p/parent_company.md)'s [financial statements](../f/financial_statements.md):
 
 1. **Lack of Control**: If a [parent company](../p/parent_company.md) owns between 20% to 50% of a subsidiary, it might be considered to have significant influence but not control. This influence is usually reflected through [equity method](../e/equity_method.md) [accounting](../a/accounting.md) rather than full [consolidation](../c/consolidation.md).
-   
+
 2. **[Joint](../j/joint.md) Ventures/Associates**: In cases where ownership is shared equally between two or more entities, the subsidiary may be accounted for using the [equity method](../e/equity_method.md) rather than [consolidation](../c/consolidation.md). This often happens in [joint](../j/joint.md) ventures or associate models.
 
 3. **Regulatory Restrictions**: Some industries or jurisdictions have regulatory restrictions that prevent full [consolidation](../c/consolidation.md). This might be applicable in sectors like financial services, where regulatory bodies impose specific [accounting](../a/accounting.md) treatments.
 
-4. **Non-Controlling Interests**: When a subsidiary has [multiple](../m/multiple.md) owners, with none having absolute control, the financial results may not find themselves consolidated in the [parent company](../p/parent_company.md)’s reports. 
+4. **Non-Controlling Interests**: When a subsidiary has [multiple](../m/multiple.md) owners, with none having absolute control, the financial results may not find themselves consolidated in the [parent company](../p/parent_company.md)’s reports.
 
 5. **Strategic Reasons**: Sometimes, companies may choose to keep certain subsidiaries unconsolidated for strategic [accounting](../a/accounting.md) reasons. This can be to present a particular financial stance or to manage [financial ratios](../f/financial_ratios.md) in a certain way (although such practices are often scrutinized by auditors and regulatory bodies).
 
@@ -56,10 +56,10 @@ Suppose a [parent company](../p/parent_company.md) owns 30% of a subsidiary. If 
 [Accounting](../a/accounting.md) for unconsolidated subsidiaries can significantly impact the [financial statements](../f/financial_statements.md) and ratios of the [parent company](../p/parent_company.md):
 
 1. **[Balance Sheet](../b/balance_sheet.md) Impact**: The carrying [value](../v/value.md) of investments in unconsolidated subsidiaries appears under [long-term investments](../l/long-term_investments.md) or similar sections. This affects the total [asset](../a/asset.md) [value](../v/value.md) and potentially the company's [leverage ratios](../l/leverage_ratios.md).
-   
+
 2. **[Income Statement](../i/income_statement.md) Impact**: The share of profits or losses from unconsolidated subsidiaries adds to or deducts from the [parent company](../p/parent_company.md)’s net [income](../i/income.md). Thus, while not consolidated, these subsidiaries significantly impact the profitability metrics of the parent.
 
-3. **[Ratio Analysis](../r/ratio_analysis.md)**: Key [financial ratios](../f/financial_ratios.md) like [Return](../r/return.md) on Investment (ROI), [Return](../r/return.md) on [Equity](../e/equity.md) (ROE), and [Earnings](../e/earnings.md) per Share (EPS) must consider the impact of unconsolidated subsidiaries. 
+3. **[Ratio Analysis](../r/ratio_analysis.md)**: Key [financial ratios](../f/financial_ratios.md) like [Return](../r/return.md) on Investment (ROI), [Return](../r/return.md) on [Equity](../e/equity.md) (ROE), and [Earnings](../e/earnings.md) per Share (EPS) must consider the impact of unconsolidated subsidiaries.
 
 4. **[Cash Flow](../c/cash_flow.md) Impact**: Dividends received from unconsolidated subsidiaries directly impact the [parent company](../p/parent_company.md)'s [cash flow from investing activities](../c/cash_flow_from_investing_activities.md).
 
@@ -67,7 +67,7 @@ Suppose a [parent company](../p/parent_company.md) owns 30% of a subsidiary. If 
 
 ## Regulatory Perspectives
 
-Securities regulators and [accounting](../a/accounting.md) standard-setters have laid down specific guidelines for the [accounting](../a/accounting.md) and [disclosure](../d/disclosure.md) of unconsolidated subsidiaries. These standards are designed to ensure [transparency](../t/transparency.md), accuracy, and consistency in financial reporting. 
+Securities regulators and [accounting](../a/accounting.md) standard-setters have laid down specific guidelines for the [accounting](../a/accounting.md) and [disclosure](../d/disclosure.md) of unconsolidated subsidiaries. These standards are designed to ensure [transparency](../t/transparency.md), accuracy, and consistency in financial reporting.
 
 ### International Financial Reporting Standards (IFRS)
 
@@ -85,11 +85,11 @@ Auditors review the treatment and [disclosure](../d/disclosure.md) of unconsolid
 
 ### Oracle Corporation
 
-Oracle [Corporation](../c/corporation.md), a global technology behemoth, has several investments that it accounts for under the [equity method](../e/equity_method.md) as unconsolidated subsidiaries. Through its disclosures, Oracle provides details on the [valuation](../v/valuation.md) of these investments and their impact on the company's financial results. [Oracle Investor Relations](https://investor.oracle.com)
+Oracle [Corporation](../c/corporation.md), a global technology behemoth, has several investments that it accounts for under the [equity method](../e/equity_method.md) as unconsolidated subsidiaries. Through its disclosures, Oracle provides details on the [valuation](../v/valuation.md) of these investments and their impact on the company's financial results. Oracle company filings
 
 ### Alphabet Inc.
 
-Alphabet Inc., the [parent company](../p/parent_company.md) of Google, holds various investments accounted for under the [equity method](../e/equity_method.md). Their annual and quarterly reports [offer](../o/offer.md) insights on how these unconsolidated subsidiaries impact the parent's financial position. Alphabet provides detailed notes to [financial statements](../f/financial_statements.md) explaining the [valuation](../v/valuation.md) methodologies and financial impacts. [Alphabet Investor Relations](https://abc.xyz/investor/)
+Alphabet Inc., the [parent company](../p/parent_company.md) of Google, holds various investments accounted for under the [equity method](../e/equity_method.md). Their annual and quarterly reports [offer](../o/offer.md) insights on how these unconsolidated subsidiaries impact the parent's financial position. Alphabet provides detailed notes to [financial statements](../f/financial_statements.md) explaining the [valuation](../v/valuation.md) methodologies and financial impacts. Alphabet company filings
 
 ## Conclusion
 

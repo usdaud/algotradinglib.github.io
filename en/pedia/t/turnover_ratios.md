@@ -10,15 +10,15 @@
 
 1. **[Portfolio Turnover](../p/portfolio_turnover.md) Ratio**: Measures the rate at which assets in a portfolio are replaced over a given period. It is calculated as:
 
-    \[
-    \text{[Portfolio Turnover](../p/portfolio_turnover.md) Ratio} = \frac{\text{Total Buy (or Sell) Transactions}}{\text{Average Net Assets}} \times 100
-    \]
+ \[
+ \text{[Portfolio Turnover](../p/portfolio_turnover.md) Ratio} = \frac{\text{Total Buy (or Sell) Transactions}}{\text{Average Net Assets}} \times 100
+ \]
 
 2. **[Inventory Turnover](../i/inventory_turnover.md) Ratio**: Used in [market](../m/market.md)-making strategies to evaluate how quickly a position is initiated and liquidated.
 
-    \[
-    \text{[Inventory Turnover](../i/inventory_turnover.md) Ratio} = \frac{\text{Cost of Goods Sold}}{\text{[Average Inventory](../a/average_inventory.md)}}
-    \]
+ \[
+ \text{[Inventory Turnover](../i/inventory_turnover.md) Ratio} = \frac{\text{Cost of Goods Sold}}{\text{[Average Inventory](../a/average_inventory.md)}}
+ \]
 
 3. **High-Frequency Trading (HFT) [Turnover Ratio](../t/turnover_ratio.md)**: Specifically for HFT strategies, this ratio measures the number of times a portfolio trades in and out of positions within milliseconds, seconds, or minutes.
 
@@ -54,21 +54,21 @@ In high-frequency trading, milliseconds can be critical. HFT firms collect [tick
 
 **High [Turnover](../t/turnover.md) Ratios**
 - **Pros**:
-  - Potential for Higher Returns: Dynamic strategies may [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) inefficiencies.
-  - Flexibility: Quickly adjusting to [market](../m/market.md) movements.
+ - Potential for Higher Returns: Dynamic strategies may [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) inefficiencies.
+ - Flexibility: Quickly adjusting to [market](../m/market.md) movements.
 
 - **Cons**:
-  - Higher [Transaction Costs](../t/transaction_costs.md): Frequent trading leads to increased brokerage fees and [transaction](../t/transaction.md) [taxes](../t/taxes.md).
-  - Increased [Market](../m/market.md) Impact: Large volumes of trades can influence [market](../m/market.md) prices, especially in less [liquid](../l/liquid.md) assets.
+ - Higher [Transaction Costs](../t/transaction_costs.md): Frequent trading leads to increased brokerage fees and [transaction](../t/transaction.md) [taxes](../t/taxes.md).
+ - Increased [Market](../m/market.md) Impact: Large volumes of trades can influence [market](../m/market.md) prices, especially in less [liquid](../l/liquid.md) assets.
 
 **Low [Turnover](../t/turnover.md) Ratios**
 - **Pros**:
-  - Reduced Costs: Less frequent trading mitigates [transaction costs](../t/transaction_costs.md).
-  - Stability: Lower [trade](../t/trade.md) volumes reduce [market](../m/market.md) impact and potential [slippage](../s/slippage.md).
+ - Reduced Costs: Less frequent trading mitigates [transaction costs](../t/transaction_costs.md).
+ - Stability: Lower [trade](../t/trade.md) volumes reduce [market](../m/market.md) impact and potential [slippage](../s/slippage.md).
 
 - **Cons**:
-  - Missed Opportunities: Conservative strategies may miss rapid short-term gains.
-  - Reduced Adaptability: Slower to respond to [market](../m/market.md) changes.
+ - Missed Opportunities: Conservative strategies may miss rapid short-term gains.
+ - Reduced Adaptability: Slower to respond to [market](../m/market.md) changes.
 
 ## Factors Influencing Turnover Ratios
 
@@ -79,15 +79,15 @@ In high-frequency trading, milliseconds can be critical. HFT firms collect [tick
 
 ## Turnover Ratios in Backtesting
 
-During [backtesting](../b/backtesting.md), assessing [turnover](../t/turnover.md) ratios helps evaluate a strategy’s historical effectiveness. It provides practical insights into operational costs and allows for adjustments before live trading. 
+During [backtesting](../b/backtesting.md), assessing [turnover](../t/turnover.md) ratios helps evaluate a strategy’s historical effectiveness. It provides practical insights into operational costs and allows for adjustments before live trading.
 
 ### Case Study
 
 Consider a hypothetical backtest of an [algorithmic trading](../a/algorithmic_trading.md) strategy:
 - Over a six-month period:
-  - Total bought: $2,000,000
-  - Total sold: $1,800,000
-  - Average net assets: $10,000,000
+ - Total bought: $2,000,000
+ - Total sold: $1,800,000
+ - Average net assets: $10,000,000
 
 The [turnover ratio](../t/turnover_ratio.md) is calculated as:
 
@@ -101,11 +101,11 @@ This ratio helps traders understand the mechanics of [transaction](../t/transact
 
 Several companies are leaders in deploying high-[turnover](../t/turnover.md) [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **Citadel Securities**: Renowned for HFT and [market](../m/market.md)-making, Citadel operates with high [turnover](../t/turnover.md) ratios to maintain [liquidity](../l/liquidity.md) and [market efficiency](../m/market_efficiency.md). [Visit Citadel Securities](https://www.citadelsecurities.com)
-  
-- **Two Sigma**: Utilizes complex [quantitative models](../q/quantitative_models.md) and state-of-the-art technology to execute rapid trades across global markets. [Visit Two Sigma](https://www.twosigma.com)
+- **Citadel Securities**: Renowned for HFT and [market](../m/market.md)-making, Citadel operates with high [turnover](../t/turnover.md) ratios to maintain [liquidity](../l/liquidity.md) and [market efficiency](../m/market_efficiency.md). Visit Citadel Securities
 
-- **Jane Street**: Focuses on leveraging sophisticated algorithms for trading equities and [options](../o/options.md) at high frequencies. [Visit Jane Street](https://www.janestreet.com)
+- **Two Sigma**: Utilizes complex [quantitative models](../q/quantitative_models.md) and state-of-the-art technology to execute rapid trades across global markets. Visit Two Sigma
+
+- **Jane Street**: Focuses on leveraging sophisticated algorithms for trading equities and [options](../o/options.md) at high frequencies. Visit Jane Street
 
 ## Conclusion
 

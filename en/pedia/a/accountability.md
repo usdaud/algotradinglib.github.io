@@ -56,24 +56,23 @@ Common programming languages used in algorithmic trading include Python, Java, C
 
 Several trading platforms provide the [infrastructure](../i/infrastructure.md) for developing and executing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Examples include:
 
-- MetaTrader (https://www.metatrader4.com/)
-- [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/)
-- [NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/)
+- MetaTrader - [StockSharp](../s/stocksharp.md)
+- [NinjaTrader](../n/ninjatrader.md) (
 
 ### 3. APIs
 
 Many brokers and exchanges [offer](../o/offer.md) APIs (Application Programming Interfaces) that allow algorithmic traders to interact with their [trading systems](../t/trading_systems.md) programmatically. Examples include:
 
-- [Interactive Brokers](../i/interactive_brokers.md) API (https://www.interactivebrokers.com/en/[index](../i/index_instrument.md).php?f=5041)
-- [Alpaca](../a/alpaca.md) API (https://[alpaca](../a/alpaca.md).markets/docs/api-documentation/)
+- [Interactive Brokers](../i/interactive_brokers.md) API (
+- [Alpaca](../a/alpaca.md) API (
 
 ### 4. Data Providers
 
 Accurate and up-to-date [market](../m/market.md) data is essential for algorithmic trading. Various data providers [supply](../s/supply.md) real-time and historical [market](../m/market.md) data, including:
 
-- [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/)
-- Thomson [Reuters](../r/reuters.md) (https://www.refinitiv.com/)
-- [Quandl](../q/quandl.md) (https://www.[quandl](../q/quandl.md).com/)
+- [Bloomberg](../b/bloomberg.md) (
+- Thomson [Reuters](../r/reuters.md) (
+- [Quandl](../q/quandl.md) (
 
 ## Regulatory Environment
 

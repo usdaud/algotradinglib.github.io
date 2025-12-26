@@ -84,19 +84,19 @@ Several organizations and solution providers support and contribute to the devel
 
 - **FIX Protocol Ltd.**: The governing body overseeing the standard's evolution and providing support to its community.
 
-Website: [FIX Trading Community](https://www.fixtrading.org/)
+online platform: FIX Trading Community
 
 - **[Bloomberg](../b/bloomberg.md)**: Implements the FIX protocol in its trading solutions.
 
-Website: [Bloomberg](https://www.bloomberg.com/)
+online platform: Bloomberg
 
 - **Thomson [Reuters](../r/reuters.md)**: Utilizes FIX for trading and [market](../m/market.md) data inquiries.
 
-Website: [Refinitiv (Thomson Reuters)](https://www.refinitiv.com/)
+online platform: Refinitiv (Thomson Reuters)
 
 - **Fidessa**: Provides trading solutions using the FIX protocol.
 
-Website: [Fidessa](https://www.fidessa.com/)
+online platform: Fidessa
 
 ## Conclusion
 

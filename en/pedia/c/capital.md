@@ -1,16 +1,16 @@
 # Capital
 
-In the realm of [finance](../f/finance.md) and [economics](../e/economics.md), "capital" is a multifaceted term representing various aspects of resources used primarily for [investing](../i/investing.md), producing goods and services, and generating [wealth](../w/wealth.md). In the context of [algorithmic trading](../a/accountability.md) (algotrading), capital assumes unique significances and implications based on its application and utilization. This detailed exposition explores the definition of capital, its varying forms, and its instrumental role in the particular niche of [algorithmic trading](../a/accountability.md), diving deep into the mechanics, methodologies, and strategic importance it holds. 
+In the realm of [finance](../f/finance.md) and [economics](../e/economics.md), "capital" is a multifaceted term representing various aspects of resources used primarily for [investing](../i/investing.md), producing goods and services, and generating [wealth](../w/wealth.md). In the context of [algorithmic trading](../a/accountability.md) (algotrading), capital assumes unique significances and implications based on its application and utilization. This detailed exposition explores the definition of capital, its varying forms, and its instrumental role in the particular niche of [algorithmic trading](../a/accountability.md), diving deep into the mechanics, methodologies, and strategic importance it holds.
 
 ## Definition and Forms of Capital
 
-Capital, in an economic sense, refers to financial assets or the financial [value](../v/value.md) of assets, such as funds held in [deposit](../d/deposit.md) accounts and/or funds obtained from special [financing](../f/financing.md) sources. In [business](../b/business.md) and [investing](../i/investing.md), capital usually means something that can create [wealth](../w/wealth.md), such as equipment and other productive assets. 
+Capital, in an economic sense, refers to financial assets or the financial [value](../v/value.md) of assets, such as funds held in [deposit](../d/deposit.md) accounts and/or funds obtained from special [financing](../f/financing.md) sources. In [business](../b/business.md) and [investing](../i/investing.md), capital usually means something that can create [wealth](../w/wealth.md), such as equipment and other productive assets.
 
 ### Types of Capital
 
 1. **Financial Capital**: It encompasses [money](../m/money.md), [credit](../c/credit.md), and other forms of funding that are used to [fund](../f/fund.md) [business](../b/business.md) operations. Financial capital is a broad term and includes various categories such as:
-   - **[Equity](../e/equity.md) Capital**: Funds raised by the company in [exchange](../e/exchange.md) for a share of ownership. This is usually in the form of [stocks](../s/stock.md).
-   - **[Debt](../d/debt.md) Capital**: [Money](../m/money.md) borrowed which must be repaid over time, typically with [interest](../i/interest.md). This includes loans, bonds, and debentures.
+ - **[Equity](../e/equity.md) Capital**: Funds raised by the company in [exchange](../e/exchange.md) for a share of ownership. This is usually in the form of [stocks](../s/stock.md).
+ - **[Debt](../d/debt.md) Capital**: [Money](../m/money.md) borrowed which must be repaid over time, typically with [interest](../i/interest.md). This includes loans, bonds, and debentures.
 
 2. **[Physical Capital](../p/physical_capital.md)**: Tangible physical goods that assist in the creation of products and services. Examples include machinery, buildings, and vehicles.
 
@@ -29,19 +29,19 @@ Capital, in an economic sense, refers to financial assets or the financial [valu
 1. **[Seed Capital](../s/seed_capital.md)**: The initial amount of [money](../m/money.md) required to test and launch an [algorithmic trading](../a/accountability.md) strategy. This involves preliminary testing and [backtesting](../b/backtesting.md) to ensure the strategy's viability before full deployment.
 
 2. **Operating Capital**: Ongoing funds necessary for the daily operational activities in algotrading. This includes:
-   - **[Transaction Costs](../t/transaction_costs.md)**: Brokerage fees, [exchange](../e/exchange.md) fees, and other transactional expenses incurred during trading.
-   - **Technology Costs**: Expenses related to the maintenance of hardware (servers, computers) and software (algorithms, [risk management](../r/risk_management.md) tools).
-   - **[Collateral](../c/collateral.md) Requirements**: Margins required for trading certain [derivatives](../d/derivatives.md) or leveraging positions.
+ - **[Transaction Costs](../t/transaction_costs.md)**: Brokerage fees, [exchange](../e/exchange.md) fees, and other transactional expenses incurred during trading.
+ - **Technology Costs**: Expenses related to the maintenance of hardware (servers, computers) and software (algorithms, [risk management](../r/risk_management.md) tools).
+ - **[Collateral](../c/collateral.md) Requirements**: Margins required for trading certain [derivatives](../d/derivatives.md) or leveraging positions.
 
 ### Human and Intellectual Capital in Algotrading
 
 The successful development and deployment of [trading algorithms](../t/trading_algorithms.md) hinge on human expertise and [intellectual capital](../i/intellectual_capital.md). This incorporates:
-   - **Quantitative Analysts (Quants)**: These professionals develop [mathematical models](../m/mathematical_models_in_trading.md) for [trading strategies](../t/trading_strategies.md). Their deep understanding of mathematics, [statistics](../s/statistics.md), and financial theories is crucial.
-   - **Software Engineers**: These individuals write the actual code for [trading algorithms](../t/trading_algorithms.md), ensuring they are efficient and [robust](../r/robust.md).
-   - **[Risk](../r/risk.md) Managers**: Professionals who help to design and maintain [risk management frameworks](../r/risk_management_frameworks.md), ensuring that the [trading strategies](../t/trading_strategies.md) do not lead to significant financial losses.
-   - **Data Scientists**: Experts who analyze vast amounts of [market](../m/market.md) data to identify patterns and signals that can be exploited through algorithms.
-   
-   Companies like [Jane Street](https://www.janestreet.com) and [Two Sigma](https://www.twosigma.com) heavily invest in human and [intellectual capital](../i/intellectual_capital.md) to maintain their edge in [algorithmic trading](../a/accountability.md).
+ - **Quantitative Analysts (Quants)**: These professionals develop [mathematical models](../m/mathematical_models_in_trading.md) for [trading strategies](../t/trading_strategies.md). Their deep understanding of mathematics, [statistics](../s/statistics.md), and financial theories is crucial.
+ - **Software Engineers**: These individuals write the actual code for [trading algorithms](../t/trading_algorithms.md), ensuring they are efficient and [robust](../r/robust.md).
+ - **[Risk](../r/risk.md) Managers**: Professionals who help to design and maintain [risk management frameworks](../r/risk_management_frameworks.md), ensuring that the [trading strategies](../t/trading_strategies.md) do not lead to significant financial losses.
+ - **Data Scientists**: Experts who analyze vast amounts of [market](../m/market.md) data to identify patterns and signals that can be exploited through algorithms.
+
+ Companies like Jane Street and Two Sigma heavily invest in human and [intellectual capital](../i/intellectual_capital.md) to maintain their edge in [algorithmic trading](../a/accountability.md).
 
 ## Role and Importance of Capital in Algotrading
 
@@ -51,7 +51,7 @@ Access to adequate capital is essential for providing [liquidity](../l/liquidity
 
 ### Scalability
 
-The [scalability](../s/scalability.md) of an [algorithmic trading](../a/accountability.md) strategy is closely tied to the capital available. Limited capital can restrict the ability of the trading algorithm to [open](../o/open.md) [multiple](../m/multiple.md) positions or to [trade](../t/trade.md) large volumes, potentially reducing profitability. 
+The [scalability](../s/scalability.md) of an [algorithmic trading](../a/accountability.md) strategy is closely tied to the capital available. Limited capital can restrict the ability of the trading algorithm to [open](../o/open.md) [multiple](../m/multiple.md) positions or to [trade](../t/trade.md) large volumes, potentially reducing profitability.
 
 ### Leverage Utilization
 
@@ -63,7 +63,7 @@ Adequate capital is integral to implementing effective [risk management](../r/ri
 
 ### R&D Investment
 
-Developing sophisticated and competitive [algorithmic trading](../a/accountability.md) systems requires continuous investment in research and development. Capital enables firms to invest in new research, hire top talent, and acquire advanced technology. 
+Developing sophisticated and competitive [algorithmic trading](../a/accountability.md) systems requires continuous investment in research and development. Capital enables firms to invest in new research, hire top talent, and acquire advanced technology.
 
 ### Regulatory Requirements
 
@@ -75,7 +75,7 @@ Financial regulators often mandate minimum capital requirements to ensure that t
 
 [Diversification](../d/diversification.md) [spreads](../s/spreads.md) [risk](../r/risk.md) across various [trading strategies](../t/trading_strategies.md), [asset](../a/asset.md) classes, and markets. By not putting all capital into a single strategy or [market](../m/market.md), traders can reduce the impact of adverse movements in any one area.
 
-### Reinvestment 
+### Reinvestment
 
 Reinvesting profits back into the trading [business](../b/business.md) can compound growth. This not only amplifies returns but also creates a buffer that can be used for further R&D, scaling the strategy, or managing drawdowns.
 

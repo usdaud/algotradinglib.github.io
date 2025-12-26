@@ -36,7 +36,7 @@ After selecting the [asset](../a/asset.md) and direction of the price movement, 
 
 ### Expiry and Payout
 
-The digital option has a set expiry time. If the [trader](../t/trader.md)’s prediction is correct at expiry, they receive a fixed [payout](../p/payout.md). If the prediction is incorrect, they lose the investment. 
+The digital option has a set expiry time. If the [trader](../t/trader.md)’s prediction is correct at expiry, they receive a fixed [payout](../p/payout.md). If the prediction is incorrect, they lose the investment.
 
 ## Pros and Cons of Digital Options
 
@@ -96,7 +96,7 @@ Regulation of digital [options](../o/options.md) varies significantly across reg
 
 ### United States
 
-In the U.S., digital [options](../o/options.md) are regulated by certain bodies like the [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC). Platforms like [Nadex](https://www.nadex.com) operate under such regulations.
+In the U.S., digital [options](../o/options.md) are regulated by certain bodies like the [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC). Platforms like Nadex operate under such regulations.
 
 ### European Union
 
@@ -110,25 +110,24 @@ Regulation in other countries might be less stringent or non-existent, leading t
 
 ### IQ Option
 
-[IQ Option](https://www.iqoption.com) is one of the leading platforms for digital [options](../o/options.md) trading, known for its user-friendly interface and extensive educational resources.
+IQ Option is one of the leading platforms for digital [options](../o/options.md) trading, known for its user-friendly interface and extensive educational resources.
 
 ### Binomo
 
-[Binomo](https://www.binomo.com) is another popular platform, [offering](../o/offering.md) a variety of trading instruments and features designed for both novice and experienced traders.
+Binomo is another popular platform, [offering](../o/offering.md) a variety of trading instruments and features designed for both novice and experienced traders.
 
 ### Olymp Trade
 
-[Olymp Trade](https://www.olymptrade.com) is a well-regarded platform that provides comprehensive tools and resources for digital [options](../o/options.md) trading.
+Olymp Trade is a well-regarded platform that provides comprehensive tools and resources for digital [options](../o/options.md) trading.
 
-### Binary.com
+### Deriv (formerly Binary.com)
 
-[Binary.com](https://www.binary.com) is known for its transparent pricing and [robust](../r/robust.md) trading interface, catering to a global audience.
+Deriv (rebranded from Binary.com in 2020) is known for its transparent pricing and [robust](../r/robust.md) trading interface, catering to a global audience.
 
 ### Nadex
 
-[Nadex](https://www.nadex.com) is a U.S.-based [exchange](../e/exchange.md) that offers a regulated environment for trading binary [options](../o/options.md).
+Nadex is a U.S.-based [exchange](../e/exchange.md) that offers a regulated environment for trading binary [options](../o/options.md).
 
 ## Conclusion
 
 Digital [options](../o/options.md) provide a simple yet potentially profitable trading avenue, characterized by their fixed [payout](../p/payout.md) and limited [risk](../r/risk.md) nature. However, the high potential returns are accompanied by high risks, and it is crucial for traders to conduct thorough research, employ sound strategies, and use reputable platforms. The regulatory landscape is evolving to ensure greater protection for traders, making it essential to choose platforms that comply with regulatory standards.
-

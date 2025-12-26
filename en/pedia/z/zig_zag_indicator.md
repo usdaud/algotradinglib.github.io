@@ -42,7 +42,7 @@ The Zig Zag [indicator](../i/indicator.md) can be used alongside other [technica
 
 ### Automated Trading Systems (Algorithmic Trading)
 
-In [algorithmic trading](../a/accountability.md), the Zig Zag [indicator](../i/indicator.md) can be used to automate entry and exit points based on significant price movements. It can be an essential part of a trading algorithm that looks for specific patterns such as double tops, double bottoms, or head and shoulders.
+In [algorithmic trading](../a/algorithmic_trading.md), the Zig Zag [indicator](../i/indicator.md) can be used to automate entry and exit points based on significant price movements. It can be an essential part of a trading algorithm that looks for specific patterns such as double tops, double bottoms, or head and shoulders.
 
 ## Limitations
 
@@ -85,14 +85,14 @@ A [trader](../t/trader.md) using a 10% threshold Zig Zag [indicator](../i/indica
 
 ### Case Study 2: Algorithmic Trading
 
-An [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) developed a system utilizing the Zig Zag [indicator](../i/indicator.md) on Forex markets. By integrating the Zig Zag with [support and resistance](../s/support_and_resistance.md) level algorithms, the system could automate trades that aimed to capture 5% deviations in [currency](../c/currency.md) pairs like EUR/USD. The [firm](../f/firm.md) reported a 15% [return](../r/return.md) over a year, attributing the success to the Zig Zag's ability to filter out [market](../m/market.md) [noise](../n/noise.md) and focus on significant price changes.
+An [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md) developed a system utilizing the Zig Zag [indicator](../i/indicator.md) on Forex markets. By integrating the Zig Zag with [support and resistance](../s/support_and_resistance.md) level algorithms, the system could automate trades that aimed to capture 5% deviations in [currency](../c/currency.md) pairs like EUR/USD. The [firm](../f/firm.md) reported a 15% [return](../r/return.md) over a year, attributing the success to the Zig Zag's ability to filter out [market](../m/market.md) [noise](../n/noise.md) and focus on significant price changes.
 
 ## Resources
 
 Traders can further improve their understanding of the Zig Zag [indicator](../i/indicator.md) by visiting educational financial websites, tutorials, and [market](../m/market.md) analyses. Reliable sources include:
 
-- [Investopedia](https://www.investopedia.com)
-- [BabyPips](https://www.babypips.com)
-- [StockCharts](https://stockcharts.com)
+- Investopedia
+- BabyPips
+- StockCharts
 
 In conclusion, the Zig Zag [indicator](../i/indicator.md) is an invaluable tool for traders looking to filter out the [noise](../n/noise.md) in price movements and focus on significant trends. While it is often used in conjunction with other indicators and analytical methods, its primary function remains the same: to [offer](../o/offer.md) a clearer view of [market](../m/market.md) movements and help traders make more informed decisions. Despite its lagging nature and sensitivity to parameter settings, it remains a popular choice among both novice and experienced traders.

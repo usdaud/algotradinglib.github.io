@@ -70,9 +70,9 @@ Employees must report stock purchases and sales on their tax returns. Detailed r
 
 Many major corporations [offer](../o/offer.md) ESPPs, including:
 
-- **Microsoft**: [Microsoft ESPP](https://www.microsoft.com)
-- **Apple**: [Apple Employee Benefits](https://www.apple.com)
-- **Amazon**: [Amazon Stock Programs](https://www.amazon.jobs/en/benefits/stock)
+- **Microsoft**: Microsoft ESPP
+- **Apple**: Apple Employee Benefits
+- **Amazon**: Amazon Stock Programs
 
 ## Conclusion
 

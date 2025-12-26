@@ -31,29 +31,29 @@ The methodology is governed by tax regulations established by the Internal [Reve
 Suppose a freelancer earns $20,000 in Q1, $30,000 in Q2, $10,000 in Q3, and $40,000 in Q4. The standard multipliers might be 4 for Q1, 2 for Q2, 1.333 for Q3, and 1 for Q4.
 
 1. **[Annualize](../a/annualize.md) [Income](../i/income.md)**:
-   - Q1: $20,000 * 4 = $80,000
-   - Q2: $30,000 * 2 = $60,000
-   - Q3: $10,000 * 1.333 = $13,330
-   - Q4: $40,000 * 1 = $40,000
+ - Q1: $20,000 * 4 = $80,000
+ - Q2: $30,000 * 2 = $60,000
+ - Q3: $10,000 * 1.333 = $13,330
+ - Q4: $40,000 * 1 = $40,000
 
 2. **Calculate Cumulative [Income](../i/income.md)**:
-   - Q1: $20,000
-   - Q2: $50,000 (Q1 + Q2)
-   - Q3: $60,000 (Q1 + Q2 + Q3)
-   - Q4: $100,000 (Q1 + Q2 + Q3 + Q4)
+ - Q1: $20,000
+ - Q2: $50,000 (Q1 + Q2)
+ - Q3: $60,000 (Q1 + Q2 + Q3)
+ - Q4: $100,000 (Q1 + Q2 + Q3 + Q4)
 
 3. **Calculate Estimated Tax for Each Period**:
-   - Assume a simplified [tax rate](../t/tax_rate.md) of 15%.
-   - Q1: $80,000 * 0.15 = $12,000
-   - Q2: $60,000 * 0.15 = $9,000
-   - Q3: $13,330 * 0.15 = $2,000
-   - Q4: $40,000 * 0.15 = $6,000
+ - Assume a simplified [tax rate](../t/tax_rate.md) of 15%.
+ - Q1: $80,000 * 0.15 = $12,000
+ - Q2: $60,000 * 0.15 = $9,000
+ - Q3: $13,330 * 0.15 = $2,000
+ - Q4: $40,000 * 0.15 = $6,000
 
 4. **Adjust for Prior Payments**:
-   - Q1 [Payment](../p/payment.md): $12,000
-   - Q2 [Payment](../p/payment.md): $9,000 - $12,000 = -$3,000 (overpayment applied to Q2)
-   - Q3 [Payment](../p/payment.md): $2,000 - $12,000 - $3,000 = -$13,000 (overpayment applied to Q3)
-   - Q4 [Payment](../p/payment.md): $6,000 - $12,000 - $3,000 - $2,000 = -$17,000 (overpayment applied to Q4)
+ - Q1 [Payment](../p/payment.md): $12,000
+ - Q2 [Payment](../p/payment.md): $9,000 - $12,000 = -$3,000 (overpayment applied to Q2)
+ - Q3 [Payment](../p/payment.md): $2,000 - $12,000 - $3,000 = -$13,000 (overpayment applied to Q3)
+ - Q4 [Payment](../p/payment.md): $6,000 - $12,000 - $3,000 - $2,000 = -$17,000 (overpayment applied to Q4)
 
 5. **Make Payments**: Based on these calculations, adjust payments to reflect overpayments and ensure no penalties.
 

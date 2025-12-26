@@ -12,15 +12,15 @@
 
 ## Importance of Debt Service
 
-[Debt](../d/debt.md) service is critical for several reasons. For borrowers, meeting [debt](../d/debt.md) service [obligations](../o/obligation.md) is essential to maintaining [creditworthiness](../c/creditworthiness.md) and avoiding [default](../d/default.md). For lenders and investors, [debt](../d/debt.md) service coverage ratios (DSCR) are used to evaluate the [risk](../r/risk.md) involved in lending and [investing](../i/investing.md). 
+[Debt](../d/debt.md) service is critical for several reasons. For borrowers, meeting [debt](../d/debt.md) service [obligations](../o/obligation.md) is essential to maintaining [creditworthiness](../c/creditworthiness.md) and avoiding [default](../d/default.md). For lenders and investors, [debt](../d/debt.md) service coverage ratios (DSCR) are used to evaluate the [risk](../r/risk.md) involved in lending and [investing](../i/investing.md).
 
 1. **[Debt](../d/debt.md) Service [Coverage Ratio](../c/coverage_ratio.md) (DSCR)**: This ratio is a measure of the [cash flow](../c/cash_flow.md) available to pay current [debt](../d/debt.md) [obligations](../o/obligation.md). It is calculated as:
 
-   \[
-   \text{DSCR} = \frac{\text{Net [Operating Income](../o/operating_income.md)}}{\text{Total [Debt](../d/debt.md) Service}}
-   \]
+ \[
+ \text{DSCR} = \frac{\text{Net [Operating Income](../o/operating_income.md)}}{\text{Total [Debt](../d/debt.md) Service}}
+ \]
 
-   A DSCR greater than 1 indicates that the entity generates sufficient [income](../i/income.md) to cover its [debt](../d/debt.md) payments.
+ A DSCR greater than 1 indicates that the entity generates sufficient [income](../i/income.md) to cover its [debt](../d/debt.md) payments.
 
 2. **[Liquidity](../l/liquidity.md) Assessment**: Analyzing [debt](../d/debt.md) service requirements helps in assessing the [liquidity](../l/liquidity.md) position of an entity. High [debt](../d/debt.md) service requirements can strain an entity’s [cash flow](../c/cash_flow.md), affecting its ability to meet other operational expenses.
 

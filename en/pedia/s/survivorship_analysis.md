@@ -36,20 +36,17 @@ Many vendors and financial data companies now [offer](../o/offer.md) survivorshi
 
 Several tools and resources are available for performing survivorship analysis and mitigating [survivorship bias](../s/survivorship_bias.md):
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to both currently [listed](../l/listed.md) and historically delisted securities, allowing for more accurate [backtesting](../b/backtesting.md):
-[QuantConnect](https://www.quantconnect.com/)
+[StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to both currently [listed](../l/listed.md) and historically delisted securities, allowing for more accurate [backtesting](../b/backtesting.md):
 
 ### Tiingo
 
 [Tiingo](../t/tiingo.md) offers a survivorship-bias-free database, which allows traders and researchers to access data that includes delisted securities:
-[Tiingo](https://www.tiingo.com/)
 
 ### AlgoTrader
 
 [AlgoTrader](../a/algotrader.md) is another platform that offers tools and datasets designed to eliminate [survivorship bias](../s/survivorship_bias.md) from [backtesting](../b/backtesting.md):
-[AlgoTrader](https://www.algotrader.com/)
 
 ## Practical Example: Backtesting a Trading Strategy
 
@@ -57,7 +54,7 @@ Consider an algorithmic [trader](../t/trader.md) developing a [momentum trading]
 
 ### Step-by-step Process
 
-1. **Select Data Source:** Choose a historical database that is known to be survivorship-bias-free, like CRSP or use platforms such as [QuantConnect](../q/quantconnect.md) and [Tiingo](../t/tiingo.md).
+1. **Select Data Source:** Choose a historical database that is known to be survivorship-bias-free, like CRSP or use platforms such as [StockSharp](../s/stocksharp.md) and [Tiingo](../t/tiingo.md).
 2. **Prepare Data:** Clean and preprocess the data to include both [listed](../l/listed.md) and delisted [stocks](../s/stock.md), ensuring that all historical price data is considered.
 3. **Backtest Strategy:** Run your [trading strategy](../t/trading_strategy.md) on the cleaned dataset. Ensure you monitor key metrics like returns, [risk](../r/risk.md), and Sharpe ratios.
 4. **Analyze Results:** Compare the results of your backtest against a similar test using a biased dataset. [Note](../n/note.md) the differences in [performance metrics](../p/performance_metrics.md).

@@ -64,23 +64,18 @@ APIs facilitate the integration of various data sources and trading platforms. K
 
 #### 1. Hudson River Trading
 Hudson River Trading is renowned for its expertise in high-frequency trading and algorithmic strategies. They employ a data-driven approach to develop and execute trades across global markets.
-[Website](https://www.hudsonrivertrading.com/)
 
 #### 2. Two Sigma
 Two Sigma uses [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to create [alpha](../a/alpha.md)-generating strategies. They emphasize a scientific approach to [investment management](../i/investment_management.md).
-[Website](https://www.twosigma.com/)
 
 #### 3. Goldman Sachs
 Goldman Sachs employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies to optimize [execution](../e/execution.md) and provide [liquidity](../l/liquidity.md) solutions.
-[Website](https://www.goldmansachs.com/)
 
-#### 4. QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) in live markets.
-[Website](https://www.quantconnect.com/)
+#### 4. StockSharp
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) in live markets.
 
 #### 5. Alpaca
 [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading and a [robust](../r/robust.md) API that enables users to build and execute [algorithmic trading](../a/algorithmic_trading.md) strategies.
-[Website](https://alpaca.markets/)
 
 ### Conclusion
 X-Systems in [algorithmic trading](../a/algorithmic_trading.md) represent a complex network of technologies, methods, and [infrastructure](../i/infrastructure.md) designed to optimize [trading performance](../t/trading_performance.md). From strategy development and data collection to [risk management](../r/risk_management.md) and [execution](../e/execution.md), each component plays a vital role. The integration of advanced technologies like [machine learning](../m/machine_learning.md), HPC, and [robust](../r/robust.md) APIs has propelled the effectiveness of these systems, making them indispensable in modern trading.

@@ -1,8 +1,8 @@
 # Algorithmic Trading with Big Data
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage trades in [financial markets](../f/financial_market.md). These algorithms follow a set of predefined rules and instructions to execute orders based on criteria such as timing, price, [volume](../v/volume.md), and other [market](../m/market.md) conditions. 
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage trades in [financial markets](../f/financial_market.md). These algorithms follow a set of predefined rules and instructions to execute orders based on criteria such as timing, price, [volume](../v/volume.md), and other [market](../m/market.md) conditions.
 
-In recent years, the advent of [Big Data](../b/big_data_in_trading.md) has revolutionized [algorithmic trading](../a/algorithmic_trading.md), enabling traders to process and analyze massive datasets at unprecedented speed and accuracy. [Big Data](../b/big_data_in_trading.md) refers to the enormous volumes of structured and unstructured data that are generated every second from various sources, such as [social media](../s/social_media.md), news feeds, financial reports, and [market](../m/market.md) transactions. 
+In recent years, the advent of [Big Data](../b/big_data_in_trading.md) has revolutionized [algorithmic trading](../a/algorithmic_trading.md), enabling traders to process and analyze massive datasets at unprecedented speed and accuracy. [Big Data](../b/big_data_in_trading.md) refers to the enormous volumes of structured and unstructured data that are generated every second from various sources, such as [social media](../s/social_media.md), news feeds, financial reports, and [market](../m/market.md) transactions.
 
 ## Significance of Big Data in Algorithmic Trading
 
@@ -124,14 +124,14 @@ The integration of [Big Data](../b/big_data_in_trading.md) into [algorithmic tra
 
 For those interested in exploring technologies and services that facilitate the use of [Big Data](../b/big_data_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md), consider visiting the following resources:
 
-- [Amazon Web Services (AWS)](https://aws.amazon.com/)
-- [Microsoft Azure](https://azure.microsoft.com/)
-- [Google Cloud](https://cloud.google.com/)
-- [Apache Hadoop](https://hadoop.apache.org/)
-- [Apache Spark](https://spark.apache.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Scikit-Learn](https://scikit-learn.org/)
-- [Tableau](https://www.tableau.com/)
-- [Power BI](https://powerbi.microsoft.com/)
-- [D3.js](https://d3js.org/)
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud
+- Apache Hadoop
+- Apache Spark
+- MongoDB
+- TensorFlow
+- Scikit-Learn
+- Tableau
+- Power BI
+- D3.js

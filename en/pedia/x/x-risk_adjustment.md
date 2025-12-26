@@ -86,7 +86,6 @@ Dynamic [risk management](../r/risk_management.md) involves continuously monitor
 
 A notable example of effective X-[Risk](../r/risk.md) adjustment can be seen in the practices of leading [hedge](../h/hedge.md) funds such as Bridgewater Associates. They employ sophisticated [risk management](../r/risk_management.md) techniques, including [scenario analysis](../s/scenario_analysis.md) and dynamic [risk](../r/risk.md) adjustments, to protect against extreme [market](../m/market.md) conditions.
 
-For more details on Bridgewater Associates' [risk management](../r/risk_management.md) practices, visit their official website: [Bridgewater Associates](https://www.bridgewater.com)
 
 ## Conclusion
 

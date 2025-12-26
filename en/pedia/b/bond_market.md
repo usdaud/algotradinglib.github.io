@@ -94,9 +94,9 @@ Bonds can be traded above ([premium](../p/premium.md)) or below ([discount](../d
 ## Bond Trading Platforms
 There are several electronic trading platforms and marketplaces where bonds are bought and sold.
 
-* **[Bloomberg Terminal](../b/bloomberg_terminal.md) (www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal):** A widely used platform for trading bonds and other financial instruments.
-* **Tradeweb (www.tradeweb.com):** An electronic marketplace for institutional, wholesale, and retail fixed-[income](../i/income.md) and [derivatives](../d/derivatives.md) markets.
-* **[MarketAxess](../m/marketaxess.md) (www.[marketaxess](../m/marketaxess.md).com):** Provides a platform for trading corporate bonds and other fixed-[income](../i/income.md) instruments.
+* **[Bloomberg Terminal](../b/bloomberg_terminal.md) ( A widely used platform for trading bonds and other financial instruments.
+* **Tradeweb ( An electronic marketplace for institutional, wholesale, and retail fixed-[income](../i/income.md) and [derivatives](../d/derivatives.md) markets.
+* **[MarketAxess](../m/marketaxess.md) ( Provides a platform for trading corporate bonds and other fixed-[income](../i/income.md) instruments.
 
 ## Bond Strategies and Techniques
 ### Buy and Hold

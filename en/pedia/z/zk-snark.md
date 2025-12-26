@@ -42,7 +42,6 @@ The verifier uses the CRS and the prover's generated proof to confirm the statem
 ### Cryptocurrencies
 zk-SNARKs have gained popularity primarily through their application in cryptocurrencies. [Zcash](../z/zcash.md), a prominent cryptocurrency, leverages zk-SNARKs to [offer](../o/offer.md) enhanced privacy features. Traditional [blockchain](../b/blockchain_in_trading.md) systems expose [transaction](../t/transaction.md) details, whereas zk-SNARK-based transactions ensure that [transaction](../t/transaction.md) values and participants remain confidential.
 
-Visit [Zcash's official site](https://z.cash) for more information.
 
 ### Data Privacy
 Beyond cryptocurrencies, zk-SNARKs have potential applications in any domain requiring data privacy. For instance, identity verification systems can use zk-SNARKs to prove user attributes without revealing the attributes themselves.
@@ -70,4 +69,4 @@ The use of zk-SNARKs, especially in financial systems, brings regulatory challen
 ## Conclusion
 zk-SNARKs represent a significant advancement in the realm of cryptographic proofs, [offering](../o/offering.md) a powerful tool for preserving privacy and enhancing [security](../s/security.md). Their applications span various industries, with particular prominence in [blockchain](../b/blockchain_in_trading.md) and financial technologies. Despite the challenges associated with trusted setups and computational demands, the potential of zk-SNARKs to revolutionize how we think about data privacy and [security](../s/security.md) is immense. As research progresses, we can anticipate even more innovative applications and [robust](../r/robust.md) implementations.
 
-For more in-depth technical details, a cornerstone paper to start with is ["Scalable, transparent, and post-quantum secure computational integrity"](https://eprint.iacr.org/2019/317), which delves into constructing zk-SNARKs without a trusted setup using a new method called Aurora.
+For more in-depth technical details, a cornerstone paper to start with is "Scalable, transparent, and post-quantum secure computational integrity", which delves into constructing zk-SNARKs without a trusted setup using a new method called Aurora.

@@ -24,7 +24,7 @@ Limit orders specify a price limit at which the day [order](../o/order.md) shoul
 
 ### Stop Orders
 
-Stop orders become [market](../m/market.md) orders once a certain [price level](../p/price_level.md), known as the stop price, is reached. A [stop order](../s/stop_order.md) to buy becomes a [market order](../m/market_order.md) when the [market price](../m/market_price.md) reaches or exceeds the stop price, while a [stop order](../s/stop_order.md) to sell becomes a [market order](../m/market_order.md) when the [market price](../m/market_price.md) drops to or below the stop price. 
+Stop orders become [market](../m/market.md) orders once a certain [price level](../p/price_level.md), known as the stop price, is reached. A [stop order](../s/stop_order.md) to buy becomes a [market order](../m/market_order.md) when the [market price](../m/market_price.md) reaches or exceeds the stop price, while a [stop order](../s/stop_order.md) to sell becomes a [market order](../m/market_order.md) when the [market price](../m/market_price.md) drops to or below the stop price.
 
 ### Stop-Limit Orders
 
@@ -36,7 +36,7 @@ Consider an [investor](../i/investor.md) who wishes to purchase [shares](../s/sh
 
 During the [trading session](../t/trading_session.md), if the share price of Company XYZ drops to $95 or lower, the [order](../o/order.md) [will](../w/will.md) be executed and the [investor](../i/investor.md) [will](../w/will.md) purchase the 100 [shares](../s/shares.md) at $95 or a better price. However, if the price does not fall to $95 by the end of the [trading session](../t/trading_session.md), the [order](../o/order.md) [will](../w/will.md) automatically expire.
 
-An example of a financial services company where one can place such orders is **Fidelity**. They [offer](../o/offer.md) comprehensive [order types](../o/order_types_in_trading.md) tailored to both retail and institutional investors: [Fidelity](https://www.fidelity.com).
+An example of a financial services company where one can place such orders is **Fidelity**. They [offer](../o/offer.md) comprehensive [order types](../o/order_types_in_trading.md) tailored to both retail and institutional investors: Fidelity.
 
 In the world of high-frequency trading and algorithmic strategies, the use of day orders is prevalent due to their compatibility with precision-based, time-sensitive trading tactics. By utilizing day orders, traders can enforce temporal constraints on their trades, ensuring that positions are opened and closed within the confines of a single [trading session](../t/trading_session.md), thereby mitigating overnight risks.
 

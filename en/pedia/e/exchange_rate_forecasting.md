@@ -69,16 +69,16 @@ NLP techniques are employed to analyze textual data from news articles, [social 
 ## Real-World Applications and Case Studies
 
 ### HSBC
-[HSBC](https://www.hsbc.com) is one of the world's largest banking and financial services organizations. The [bank](../b/bank.md) employs sophisticated econometric models and [machine learning](../m/machine_learning.md) techniques to forecast [exchange](../e/exchange.md) rates, manage [currency](../c/currency.md) [risk](../r/risk.md), and provide clients with insights into [market](../m/market.md) trends.
+HSBC is one of the world's largest banking and financial services organizations. The [bank](../b/bank.md) employs sophisticated econometric models and [machine learning](../m/machine_learning.md) techniques to forecast [exchange](../e/exchange.md) rates, manage [currency](../c/currency.md) [risk](../r/risk.md), and provide clients with insights into [market](../m/market.md) trends.
 
 ### JP Morgan
-[JP Morgan](https://www.jpmorgan.com) utilizes advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) and macroeconomic models for [exchange rate](../e/exchange_rate.md) [forecasting](../f/forecasting.md). The [bank](../b/bank.md)'s research team regularly publishes reports and analyses that help clients navigate the complexities of the FX [market](../m/market.md).
+JP Morgan utilizes advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) and macroeconomic models for [exchange rate](../e/exchange_rate.md) [forecasting](../f/forecasting.md). The [bank](../b/bank.md)'s research team regularly publishes reports and analyses that help clients navigate the complexities of the FX [market](../m/market.md).
 
 ### Bloomberg Terminal
-The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers a powerful platform for traders and analysts, providing access to real-time [exchange rate](../e/exchange_rate.md) data, charting tools, and [forecasting models](../f/forecasting_models.md). [Bloomberg](../b/bloomberg.md)'s [machine learning](../m/machine_learning.md) capabilities enhance the accuracy of [exchange rate](../e/exchange_rate.md) predictions.
+The Bloomberg Terminal offers a powerful platform for traders and analysts, providing access to real-time [exchange rate](../e/exchange_rate.md) data, charting tools, and [forecasting models](../f/forecasting_models.md). [Bloomberg](../b/bloomberg.md)'s [machine learning](../m/machine_learning.md) capabilities enhance the accuracy of [exchange rate](../e/exchange_rate.md) predictions.
 
 ### Federal Reserve Bank
-The [Federal Reserve Bank](https://www.federalreserve.gov) incorporates [exchange rate](../e/exchange_rate.md) forecasts into its [monetary policy](../m/monetary_policy.md) decisions. The Fed's research teams use econometric models and financial [market](../m/market.md) data to assess the implications of [exchange rate](../e/exchange_rate.md) movements on the U.S. [economy](../e/economy.md).
+The Federal Reserve Bank incorporates [exchange rate](../e/exchange_rate.md) forecasts into its [monetary policy](../m/monetary_policy.md) decisions. The Fed's research teams use econometric models and financial [market](../m/market.md) data to assess the implications of [exchange rate](../e/exchange_rate.md) movements on the U.S. [economy](../e/economy.md).
 
 ## Conclusion
 

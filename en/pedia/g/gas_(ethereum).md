@@ -31,7 +31,7 @@ Users can set their gas prices based on how much they are willing to pay per gas
 When you send a [transaction](../t/transaction.md) or trigger [smart contracts](../s/smart_contracts_in_trading.md) on [Ethereum](../e/ethereum_.md), several steps occur:
 
 1. **Define Gas Limit**: You set a "gas limit," representing the maximum amount of gas units you are willing to spend on the [transaction](../t/transaction.md). This limit ensures that excessive or unsuccessful transactions don't drain your balance.
-   
+
 2. **Set Gas Price**: You specify the gas price you're willing to pay per gas unit, typically in Gwei. The cost directly affects the [transaction](../t/transaction.md)'s priority and speed of [execution](../e/execution.md).
 
 3. **[Transaction Execution](../t/transaction_execution.md)**: Miners, who validate and process transactions, [will](../w/will.md) favor transactions with higher gas prices. They execute the [transaction](../t/transaction.md) as long as it doesn't exceed the gas limit.
@@ -45,7 +45,7 @@ When you send a [transaction](../t/transaction.md) or trigger [smart contracts](
 Gas ensures that the [Ethereum](../e/ethereum_.md) network remains secure and operational by:
 
 1. **Preventing Spam and Abuse**: By associating every computational effort with a cost, gas mitigates spam attacks where users could otherwise flood the network with trivial or malicious operations.
-   
+
 2. **Resource Allocation**: Gas quantifies complexity, prioritizing more urgent or complex transactions through pricing dynamics. This allows for better management of network resources during peak times.
 
 3. **Economic Incentives**: Miners receive gas payments based on the gas price and units consumed. This incentivizes miners to validate and process transactions, maintaining the network's health and reliability.
@@ -99,19 +99,17 @@ Determining adequate gas limits for contract [execution](../e/execution.md) is v
 
 ## Gas and Ethereum Upgrades
 
-[Ethereum](../e/ethereum_.md)'s roadmap includes updates designed to enhance [scalability](../s/scalability.md) and gas [efficiency](../e/efficiency.md). Notably, [Ethereum](../e/ethereum_.md) 2.0 introduces two key components:
+[Ethereum](../e/ethereum_.md) has undergone significant upgrades to enhance [scalability](../s/scalability.md) and gas [efficiency](../e/efficiency.md):
 
-- **Proof of Stake (PoS)**: Transition from Proof of Work (PoW) to PoS aims to reduce energy consumption and optimize network performance.
-- **Sharding**: Sharding splits the network into smaller parts (shards) processing transactions parallelly, thus lowering individual shard [load](../l/load.md) and reducing gas costs.
+- **Proof of Stake (PoS)**: Ethereum completed its transition from Proof of Work (PoW) to PoS in September 2022 ("The Merge"), reducing energy consumption by ~99.95% and optimizing network performance.
+- **Sharding**: Sharding is planned to split the network into smaller parts (shards) processing transactions parallelly, thus lowering individual shard [load](../l/load.md) and reducing gas costs.
 
 ## Gas Tools and Resources
 
 Several platforms and tools assist users and developers with managing gas:
 
-- **ETH Gas Station**: Provides real-time metrics on gas prices and estimated [transaction](../t/transaction.md) times (https://ethgasstation.info/).
-- **MyCrypto**: A versatile wallet supporting gas management features (https://www.mycrypto.com/).
-- **Etherscan Gas Tracker**: Monitors and predicts gas prices, allowing users to strategize transactions (https://etherscan.io/gastracker).
-
+- **ETH Gas Station**: Provides real-time metrics on gas prices and estimated [transaction](../t/transaction.md) times (
+- **MyCrypto**: A versatile wallet supporting gas management features - **Etherscan Gas Tracker**: Monitors and predicts gas prices, allowing users to strategize transactions
 ## Conclusion
 
 Understanding gas within the [Ethereum](../e/ethereum_.md) network is indispensable. It ensures fair access and resource allocation, providing [checks and balances](../c/checks_and_balances.md) to maintain network health. From setting gas limits and prices to optimizing [smart contracts](../s/smart_contracts_in_trading.md), managing gas is crucial for anyone participating in the [Ethereum](../e/ethereum_.md) ecosystem. As [Ethereum](../e/ethereum_.md) evolves, improvements in gas [efficiency](../e/efficiency.md) and [transaction](../t/transaction.md) [throughput](../t/throughput.md) promise to make operations even smoother and more cost-effective.

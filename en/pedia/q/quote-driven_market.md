@@ -24,7 +24,7 @@ Prices in [quote](../q/quote.md)-driven markets are determined by the interactio
 ### NASDAQ
 One of the most well-known [quote](../q/quote.md)-driven markets is the [NASDAQ](../n/nasdaq.md) [stock market](../s/stock_market.md). Initially, dealers on [NASDAQ](../n/nasdaq.md), referred to as [market](../m/market.md) makers, were responsible for providing [liquidity](../l/liquidity.md) and facilitating trades. They provide continuous quotes for the securities they cover, ensuring that investors can always buy or sell those securities. Although [NASDAQ](../n/nasdaq.md) has evolved to include features of [order-driven markets](../o/order-driven_markets.md), its foundational structure remains [quote](../q/quote.md)-driven.
 
-To understand more about how [NASDAQ](../n/nasdaq.md) operates, you can visit their official website: [NASDAQ](https://www.nasdaq.com/).
+To understand more about how [NASDAQ](../n/nasdaq.md) operates,
 
 ### Foreign Exchange (Forex) Market
 Another prime example of a [quote](../q/quote.md)-driven [market](../m/market.md) is the [foreign exchange](../f/foreign_exchange.md) (Forex) [market](../m/market.md), where banks and other financial institutions act as dealers. In the Forex [market](../m/market.md), [currency](../c/currency.md) pairs are traded, and the dealers provide the [bid and ask](../b/bid_and_ask.md) prices for these pairs. The Forex [market](../m/market.md) is one of the largest and most [liquid](../l/liquid.md) [financial markets](../f/financial_market.md) globally, facilitated by numerous dealers operating across different time zones.
@@ -74,7 +74,7 @@ In fast-moving markets, latency [arbitrage](../a/arbitrage.md) strategies can ta
 ### Liquidity Providing Algorithms
 These algorithms aim to provide [liquidity](../l/liquidity.md) by continuously [offering](../o/offering.md) to buy and sell securities even in volatile conditions. By adjusting quotes based on real-time [market](../m/market.md) conditions, [liquidity](../l/liquidity.md)-providing algorithms help to stabilize markets and facilitate smoother trading.
 
-## Regulatory Considerations 
+## Regulatory Considerations
 
 ### Best Execution
 Regulators often impose best [execution](../e/execution.md) [obligations](../o/obligation.md) to ensure that customers receive the most favorable terms. In [quote](../q/quote.md)-driven markets, dealers must ensure that their quotes are competitive and reflect fair [market value](../m/market_value.md) to comply with best [execution](../e/execution.md) norms.
@@ -87,4 +87,4 @@ Regular monitoring and reporting by regulators ensure that [quote](../q/quote.md
 
 ## Conclusion
 
-[Quote](../q/quote.md)-driven markets play a crucial role in financial systems by providing [liquidity](../l/liquidity.md) and facilitating efficient trading of securities. Despite some disadvantages such as wider [spreads](../s/spreads.md) and lower [transparency](../t/transparency.md), their ability to maintain [market](../m/market.md) stability and ensure continuous [trade](../t/trade.md) flow makes them indispensable, particularly in less [liquid](../l/liquid.md) or volatile markets. As technology continues to evolve, [algorithmic trading](../a/accountability.md) has become integral in [quote](../q/quote.md)-driven markets, optimizing [liquidity provision](../l/liquidity_provision.md), minimizing [spreads](../s/spreads.md), and enhancing overall [market efficiency](../m/market_efficiency.md). Understanding the intricacies of [quote](../q/quote.md)-driven markets is essential for anyone involved in financial trading or [market](../m/market.md) analysis, as these markets fundamentally shape the dynamics of securities trading globally.
+[Quote](../q/quote.md)-driven markets play a crucial role in financial systems by providing [liquidity](../l/liquidity.md) and facilitating efficient trading of securities. Despite some disadvantages such as wider [spreads](../s/spreads.md) and lower [transparency](../t/transparency.md), their ability to maintain [market](../m/market.md) stability and ensure continuous [trade](../t/trade.md) flow makes them indispensable, particularly in less [liquid](../l/liquid.md) or volatile markets. As technology continues to evolve, [algorithmic trading](../a/algorithmic_trading.md) has become integral in [quote](../q/quote.md)-driven markets, optimizing [liquidity provision](../l/liquidity_provision.md), minimizing [spreads](../s/spreads.md), and enhancing overall [market efficiency](../m/market_efficiency.md). Understanding the intricacies of [quote](../q/quote.md)-driven markets is essential for anyone involved in financial trading or [market](../m/market.md) analysis, as these markets fundamentally shape the dynamics of securities trading globally.

@@ -39,7 +39,7 @@ To be eligible for Federal Direct Loans, applicants must meet the following crit
 
 The application process involves completing the Free Application for Federal Student Aid (FAFSA). The information provided in the FAFSA is used to calculate the Expected Family Contribution (EFC) and determine eligibility for federal student aid, including Direct Loans.
 
-1. **FAFSA Form**: Complete the FASFA form online at [FAFSA.ed.gov](https://studentaid.gov/h/apply-for-aid/fafsa) using your Federal Student Aid ID.
+1. **FAFSA Form**: Complete the FASFA form online at FAFSA.ed.gov using your Federal Student Aid ID.
 2. **Student Aid Report (SAR)**: Review the SAR, which summarizes the information provided on the FAFSA and confirms eligibility for aid.
 3. **Award Letter**: College financial aid offices [will](../w/will.md) send award letters detailing the types and amounts of aid available.
 4. **Master [Promissory Note](../p/promissory_note.md) (MPN)**: Sign a Master [Promissory Note](../p/promissory_note.md) agreeing to the [loan](../l/loan.md)'s terms.
@@ -94,4 +94,3 @@ While the FDLP provides crucial financial assistance, it faces several criticism
 
 The Federal Direct [Loan](../l/loan.md) Program plays a vital role in making higher education accessible to millions of students and families. By [offering](../o/offering.md) various types of loans with flexible [repayment](../r/repayment.md) [options](../o/options.md), the program helps to bridge the financial gap and support students in reaching their educational and career goals. However, it also presents challenges that need to be addressed to ensure that borrowers can manage their [debt](../d/debt.md) effectively and achieve long-term financial stability.
 
-For more details, visit the [Federal Student Aid website](https://studentaid.gov).

@@ -48,8 +48,8 @@ As of the latest reports, the [yield](../y/yield.md) on the [30-year Treasury bo
 
 ### How to Monitor the 30-Year Bond Yield
 
-Investors and analysts can monitor the 30-year [bond yield](../b/bond_yield.md) through various financial news platforms, government reports, and financial data providers. Websites such as [U.S. Department of the Treasury](https://www.treasury.gov) and financial news sites like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and others regularly update this information.
+Investors and analysts can monitor the 30-year [bond yield](../b/bond_yield.md) through various financial news platforms, government reports, and financial data providers. Websites such as U.S. Department of the Treasury and financial news sites like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and others regularly update this information.
 
 ### Conclusion
 
-The 30-year [bond yield](../b/bond_yield.md) is a critical [indicator](../i/indicator.md) in [financial markets](../f/financial_market.md) with wide-reaching implications for [economic conditions](../e/economic_conditions.md), investment strategies, and policy decisions. Keeping a close eye on [yield](../y/yield.md) trends can provide valuable insights into future [market](../m/market.md) movements and economic health.
+The 30-year [bond yield](../b/bond_yield.md) is a critical [indicator](../i/indicator.md) in [financial markets](../f/financial_market.md) with wide-reaching implications for [economic conditions](../e/economic_conditions.md), investment strategies, and policy decisions. Keeping a close eye on [yield](../y/yield.md) trends can provide valuable insights into future [market](../m/market.md) movements and economic health.

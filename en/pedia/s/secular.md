@@ -32,13 +32,12 @@ While short-term [market](../m/market.md) [volatility](../v/volatility.md) can a
 
 The rapid growth of e-[commerce](../c/commerce.md) is a prime example of a secular [trend](../t/trend.md). Over the last two decades, online shopping has transformed the retail sector. Companies like Amazon and Alibaba have seen [exponential growth](../e/exponential_growth.md) as consumers increasingly prefer online shopping to traditional brick-and-mortar stores. This [trend](../t/trend.md) has also led to significant investments in [logistics](../l/logistics.md), digital payments, and cybersecurity.
 
-[Amazon](https://www.amazon.com)
 
 #### Expansion of Cloud Computing
 
 Another technological secular [trend](../t/trend.md) is the [expansion](../e/expansion.md) of [cloud computing](../c/cloud_computing_in_trading.md). Companies like Microsoft, Amazon Web Services (AWS), and Google Cloud have benefited from the shift towards cloud-based services, driven by the need for scalable, flexible, and cost-effective computing resources. This [trend](../t/trend.md) has implications for data storage, software development, and IT [infrastructure](../i/infrastructure.md).
 
-[Amazon Web Services (AWS)](https://aws.amazon.com)
+Amazon Web Services (AWS)
 
 ### Demographic Shifts
 
@@ -56,7 +55,6 @@ The preferences and behaviors of the millennial generation represent another sec
 
 Growing concerns about climate change and increasing regulatory pressures have driven the secular [trend](../t/trend.md) toward renewable energy adoption. Companies in the solar, wind, and electric vehicle (EV) segments are experiencing long-term growth as both consumers and governments push for greener energy solutions. The significant investments in renewable [infrastructure](../i/infrastructure.md) are expected to continue, driven by both environmental concerns and technological advancements.
 
-[Tesla](https://www.tesla.com)
 
 #### Financial Regulations
 

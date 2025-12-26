@@ -76,7 +76,5 @@ Additionally, trends in the Combined Ratio can signal shifts in the [market](../
 ### Real-World Example: Progressive Corporation
 Progressive [Corporation](../c/corporation.md) is one of the leading [insurance](../i/insurance.md) companies globally. As of the most recent [annual report](../a/annual_report.md), Progressive disclosed their Combined Ratio, which serves as a critical [indicator](../i/indicator.md) for analysts and investors:
 
-For more details, you can visit their [investor relations](../i/investor_relations.md) page: [Progressive Investor Relations](https://investors.progressive.com)
-
 ## Conclusion
 The Combined Ratio is a fundamental metric for assessing the [underwriting](../u/underwriting.md) performance of an [insurance](../i/insurance.md) company. It provides an essential [benchmark](../b/benchmark.md) for analyzing the [efficiency](../e/efficiency.md) and profitability of an insurer's core operations. By understanding and monitoring this ratio, stakeholders can make more informed decisions about the company's [financial health](../f/financial_health.md) and long-term viability.

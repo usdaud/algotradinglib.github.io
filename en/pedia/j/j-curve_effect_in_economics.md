@@ -24,7 +24,7 @@ As markets adjust over time, the [export](../e/export.md) volumes typically begi
 - **[Market](../m/market.md) Adaptation**: Time for firms and consumers to find alternative suppliers or buyers.
 - **Economic Policies**: Government interventions and policies promoting [export](../e/export.md) competitiveness or [import](../i/import.md) substitution.
 
-For example, in the case of a country with a competitive [manufacturing](../m/manufacturing.md) sector, [depreciation](../d/depreciation.md) could lead to a significant boost in [export](../e/export.md) volumes once international buyers adapt to the new pricing structure. 
+For example, in the case of a country with a competitive [manufacturing](../m/manufacturing.md) sector, [depreciation](../d/depreciation.md) could lead to a significant boost in [export](../e/export.md) volumes once international buyers adapt to the new pricing structure.
 
 #### Empirical Evidence and Case Studies
 

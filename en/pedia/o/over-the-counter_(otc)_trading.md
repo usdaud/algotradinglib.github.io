@@ -89,16 +89,16 @@ Globally, the International Organization of Securities Commissions (IOSCO) sets 
 ## OTC Trading Platforms and Companies
 
 ### OTC Markets Group
-OTC Markets Group operates [financial markets](../f/financial_market.md) for securities not [listed](../l/listed.md) on national exchanges. Their platforms include [OTCQX](../o/otcqx.md), OTCQB, and Pink, [offering](../o/offering.md) various levels of [disclosure](../d/disclosure.md) and regulation. More information can be found on their [website](https://www.otcmarkets.com).
+OTC Markets Group operates [financial markets](../f/financial_market.md) for securities not [listed](../l/listed.md) on national exchanges. Their platforms include [OTCQX](../o/otcqx.md), OTCQB, and Pink, [offering](../o/offering.md) various levels of [disclosure](../d/disclosure.md) and regulation.
 
 ### Bloomberg
 [Bloomberg](../b/bloomberg.md) provides OTC trading solutions through its [Bloomberg](../b/bloomberg.md) Terminal, [offering](../o/offering.md) access to a wide [range](../r/range.md) of financial instruments and real-time data. Institutional clients use [Bloomberg](../b/bloomberg.md) for [price discovery](../p/price_discovery.md), [trade](../t/trade.md) [execution](../e/execution.md), and [risk management](../r/risk_management.md).
 
 ### Tradeweb
-Tradeweb offers electronic trading platforms for [fixed income](../f/fixed_income.md), [derivatives](../d/derivatives.md), and other OTC financial products. Their platforms provide [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and access to a global network of [liquidity](../l/liquidity.md) providers. For more details, visit [Tradeweb's website](https://www.tradeweb.com).
+Tradeweb offers electronic trading platforms for [fixed income](../f/fixed_income.md), [derivatives](../d/derivatives.md), and other OTC financial products. Their platforms provide [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and access to a global network of [liquidity](../l/liquidity.md) providers.
 
 ### Intercontinental Exchange (ICE)
-ICE offers OTC [clearing](../c/clearing.md) services and platforms for trading energy, commodities, and financial [derivatives](../d/derivatives.md). They provide [risk management](../r/risk_management.md) solutions and regulatory reporting services to [market](../m/market.md) participants. More information is available on the [ICE website](https://www.intercontinentalexchange.com).
+ICE offers OTC [clearing](../c/clearing.md) services and platforms for trading energy, commodities, and financial [derivatives](../d/derivatives.md). They provide [risk management](../r/risk_management.md) solutions and regulatory reporting services to [market](../m/market.md) participants.
 
 ## The Future of OTC Trading
 

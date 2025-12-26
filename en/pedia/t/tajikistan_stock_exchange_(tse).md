@@ -77,4 +77,4 @@ The TSE plays a critical role in the economic development of Tajikistan by:
 
 The Tajikistan Stock [Exchange](../e/exchange.md) stands as a fundamental component in the growth and development of Tajikistan's [financial sector](../f/financial_sector.md). Despite various challenges, the TSE's continued evolution and adaptation to global standards [hold](../h/hold.md) great promise for the future. By fostering a [robust](../r/robust.md), transparent, and efficient [market](../m/market.md) environment, the TSE can significantly contribute to the economic prosperity of Tajikistan and its integration into the global [financial system](../f/financial_system.md).
 
-For more information on the Tajikistan Stock [Exchange](../e/exchange.md), you can visit their official website [here](#).
+For more information on the Tajikistan Stock [Exchange](../e/exchange.md),

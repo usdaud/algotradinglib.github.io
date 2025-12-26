@@ -7,13 +7,13 @@
 ### 1.1 Linear Regression
 [Linear regression](../l/linear_regression.md) is a fundamental statistical technique that models the relationship between a dependent variable (crop [yield](../y/yield.md)) and one or more independent variables (such as rainfall, temperature, and soil quality). The [linear regression](../l/linear_regression.md) equation takes the form:
 
-\[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n + \epsilon \]
+\[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 +... + \beta_nX_n + \epsilon \]
 
 Where:
 - \(Y\) is the [yield](../y/yield.md).
 - \(\beta_0\) is the y-intercept.
-- \(\beta_1, \beta_2, ..., \beta_n\) are the coefficients.
-- \(X_1, X_2, ..., X_n\) are the independent variables.
+- \(\beta_1, \beta_2,..., \beta_n\) are the coefficients.
+- \(X_1, X_2,..., X_n\) are the independent variables.
 - \(\epsilon\) is the [error term](../e/error_term.md).
 
 Advantages:
@@ -27,7 +27,7 @@ Disadvantages:
 ### 1.2 Multiple Regression
 [Multiple](../m/multiple.md) regression extends the basic [linear regression](../l/linear_regression.md) to include [multiple](../m/multiple.md) independent variables. This technique is particularly useful when crop [yield](../y/yield.md) is influenced by several factors simultaneously. The equation is an extension of the [linear regression](../l/linear_regression.md) model:
 
-\[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n + \epsilon \]
+\[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 +... + \beta_nX_n + \epsilon \]
 
 Advantages:
 - Can [handle](../h/handle.md) [multiple](../m/multiple.md) variables simultaneously.
@@ -47,13 +47,13 @@ ARIMA models are used for analyzing and [forecasting](../f/forecasting.md) time-
 
 The general form of the ARIMA model is:
 
-\[ Y_t = c + \phi_1Y_{t-1} + \phi_2Y_{t-2} + ... + \phi_pY_{t-p} + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + ... + \theta_q \epsilon_{t-q} + \epsilon_t \]
+\[ Y_t = c + \phi_1Y_{t-1} + \phi_2Y_{t-2} +... + \phi_pY_{t-p} + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} +... + \theta_q \epsilon_{t-q} + \epsilon_t \]
 
 Where:
 - \(Y_t\) is the [yield](../y/yield.md) at time \(t\).
 - \(c\) is the constant term.
-- \(\phi_1, \phi_2, ..., \phi_p\) are the autoregressive coefficients.
-- \(\theta_1, \theta_2, ..., \theta_q\) are the moving average coefficients.
+- \(\phi_1, \phi_2,..., \phi_p\) are the autoregressive coefficients.
+- \(\theta_1, \theta_2,..., \theta_q\) are the moving average coefficients.
 - \(\epsilon_t\) is the [error term](../e/error_term.md).
 
 Advantages:

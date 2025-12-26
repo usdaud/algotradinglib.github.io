@@ -11,13 +11,13 @@
 
 ## Branches of Finance
 1. **[Personal Finance](../p/personal_finance_in_trading.md)**: Managing individual or household financial activities, including budgeting, saving, [investing](../i/investing.md), [retirement planning](../r/retirement_planning.md), and managing [debt](../d/debt.md).
-   - **Examples**: Personal budgeting, saving for retirement, purchasing [insurance](../i/insurance.md), managing [credit](../c/credit.md) cards.
+ - **Examples**: Personal budgeting, saving for retirement, purchasing [insurance](../i/insurance.md), managing [credit](../c/credit.md) cards.
 2. **[Corporate Finance](../c/corporate_finance.md)**: Managing the financial activities of a [business](../b/business.md), including [capital](../c/capital.md) raising, investment decisions, and [financial planning](../f/financial_planning.md).
-   - **Examples**: [Capital budgeting](../c/capital_budgeting.md), managing corporate funds, [financial risk management](../f/financial_risk_management.md), mergers and acquisitions.
+ - **Examples**: [Capital budgeting](../c/capital_budgeting.md), managing corporate funds, [financial risk management](../f/financial_risk_management.md), mergers and acquisitions.
 3. **Public Finance**: Managing the financial activities of governments and public institutions, including [taxation](../t/taxation.md), expenditure, and budgeting.
-   - **Examples**: Government budgets, [fiscal policy](../f/fiscal_policy.md), public [debt](../d/debt.md) management, funding public projects.
+ - **Examples**: Government budgets, [fiscal policy](../f/fiscal_policy.md), public [debt](../d/debt.md) management, funding public projects.
 4. **Investment Finance**: The study and practice of [investing](../i/investing.md) [money](../m/money.md) in various assets, managing investment portfolios, and analyzing [financial markets](../f/financial_market.md).
-   - **Examples**: [Stock market](../s/stock_market.md) investments, [bond](../b/bond.md) trading, [real estate](../r/real_estate.md) investments, mutual funds.
+ - **Examples**: [Stock market](../s/stock_market.md) investments, [bond](../b/bond.md) trading, [real estate](../r/real_estate.md) investments, mutual funds.
 
 ## Importance
 1. **[Economic Growth](../e/economic_growth.md)**: Effective financial management and investment drive [economic growth](../e/economic_growth.md) by allocating resources efficiently and fostering innovation.
@@ -46,4 +46,3 @@
 
 ## Conclusion
 Finance is a vital field that encompasses the management of [money](../m/money.md), investments, and financial systems. It plays a crucial role in driving [economic growth](../e/economic_growth.md), managing risks, and ensuring the efficient allocation of resources. Understanding the key components, branches, and concepts of finance is essential for making informed financial decisions and achieving long-term financial stability and success.
-

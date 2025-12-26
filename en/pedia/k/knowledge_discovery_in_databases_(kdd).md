@@ -54,7 +54,7 @@ Regression is used for predicting continuous values and is a fundamental part of
 Several tools and [software platforms](../s/software_platforms_for_trading.md) facilitate the KDD process. Key examples include:
 
 ### 5.1 WEKA
-WEKA is an [open](../o/open.md)-source software providing a collection of machine [learning algorithms](../l/learning_algorithms_in_trading.md) for [data mining](../d/data_mining.md) tasks. It includes tools for data preprocessing, classification, regression, clustering, association rules, and visualization. 
+WEKA is an [open](../o/open.md)-source software providing a collection of machine [learning algorithms](../l/learning_algorithms_in_trading.md) for [data mining](../d/data_mining.md) tasks. It includes tools for data preprocessing, classification, regression, clustering, association rules, and visualization.
 
 ### 5.2 RapidMiner
 RapidMiner is an integrated [data science](../d/data_science_in_trading.md) platform that offers various tools for data processing, modeling, and deployment in KDD.
@@ -98,27 +98,27 @@ In telecommunications, KDD is used for network management, detecting call [fraud
 
 ### 8.1 IBM
 IBM offers a comprehensive suite of [data mining](../d/data_mining.md) and analytics tools, including SPSS Modeler and Watson Analytics, which support the KDD process across various domains.
-Website: [IBM Data and AI](https://www.ibm.com/analytics)
+online platform: IBM Data and AI
 
 ### 8.2 SAS
 SAS provides advanced analytics, [business](../b/business.md) intelligence, and data management software and services. It is renowned for its statistical analysis tools critical to KDD.
-Website: [SAS Analytics](https://www.sas.com/en_us/analytics.html)
+online platform: SAS Analytics
 
 ### 8.3 Microsoft
 Microsoft's Azure platform incorporates a [range](../r/range.md) of tools for [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) that support the end-to-end KDD process.
-Website: [Microsoft Azure AI](https://azure.microsoft.com/en-us/services/machine-learning/)
+online platform: Microsoft Azure AI
 
 ### 8.4 RapidMiner
 RapidMiner offers an [open](../o/open.md)-source [data science](../d/data_science_in_trading.md) platform used in KDD for data preparation, [machine learning](../m/machine_learning.md), and model deployment.
-Website: [RapidMiner](https://rapidminer.com/)
+online platform: RapidMiner
 
 ### 8.5 KNIME
 KNIME’s platform integrates with [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and various data sources, making it a versatile tool in the KDD domain.
-Website: [KNIME](https://www.knime.com/)
+online platform: KNIME
 
 ### 8.6 Google
 Google's Cloud AI provides advanced tools for [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) supporting the discovery of knowledge from data.
-Website: [Google Cloud AI](https://cloud.google.com/products/ai)
+online platform: Google Cloud AI
 
 ## 9. Future Directions in KDD
 The future of KDD is poised to evolve with advancements in AI and [machine learning](../m/machine_learning.md). Some emergent trends include:

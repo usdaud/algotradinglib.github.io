@@ -41,7 +41,7 @@ When data is not linearly separable, SVM can still be used through the applicati
 
 #### Common Kernel Functions
 
-1. **Polynomial Kernel**: 
+1. **Polynomial Kernel**:
 \[ K(x_i, x_j) = (x_i \cdot x_j + c)^d \]
 2. **Radial [Basis](../b/basis.md) Function (RBF) Kernel / Gaussian Kernel**:
 \[ K(x_i, x_j) = \exp(-\[gamma](../g/gamma.md) ||x_i - x_j||^2) \]
@@ -68,10 +68,10 @@ One-Class SVM, an extension of SVM, is particularly useful for outlier detection
 
 ### Libraries and Tools
 
-1. **scikit-learn**: A popular Python library for [machine learning](../m/machine_learning.md), which provides [robust](../r/robust.md) support for SVM through its `svm` module. [scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
-2. **LIBSVM**: A library for [Support Vector Machines](../s/support_vector_machines_in_trading.md) that is widely used for SVM implementation. [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-3. **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source library for [machine learning](../m/machine_learning.md) that also supports SVM implementations. [TensorFlow SVM](https://www.tensorflow.org/overview)
-4. **[KERAS](../k/keras.md)**: An [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. [KERAS](https://keras.io/)
+1. **scikit-learn**: A popular Python library for [machine learning](../m/machine_learning.md), which provides [robust](../r/robust.md) support for SVM through its `svm` module. scikit-learn
+2. **LIBSVM**: A library for [Support Vector Machines](../s/support_vector_machines_in_trading.md) that is widely used for SVM implementation. LIBSVM
+3. **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source library for [machine learning](../m/machine_learning.md) that also supports SVM implementations. TensorFlow SVM
+4. **[KERAS](../k/keras.md)**: An [open](../o/open.md)-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. KERAS
 
 ### Example Code in Python
 

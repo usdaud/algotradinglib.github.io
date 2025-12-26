@@ -96,19 +96,19 @@ Several fintech and research companies are exploring autarkic [trading systems](
 
 ### Aatonomy
 
-Aatonomy is a cutting-edge [firm](../f/firm.md) specializing in autonomous [trading systems](../t/trading_systems.md). Their [proprietary algorithms](../p/proprietary_algorithms.md) boast the ability to adapt to dynamic [market](../m/market.md) conditions without external input. More information can be found on their [official website](https://aatonomy.com).
+Aatonomy is a cutting-edge [firm](../f/firm.md) specializing in autonomous [trading systems](../t/trading_systems.md). Their [proprietary algorithms](../p/proprietary_algorithms.md) boast the ability to adapt to dynamic [market](../m/market.md) conditions without external input.
 
 ### Numerai
 
-Numerai uses [machine learning](../m/machine_learning.md) models powered by a decentralized network of data scientists to create [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). They provide an innovative approach to model development and data utilization that aligns with the principles of autarky. Explore more on [Numerai's website](https://numer.ai).
+Numerai uses [machine learning](../m/machine_learning.md) models powered by a decentralized network of data scientists to create [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). They provide an innovative approach to model development and data utilization that aligns with the principles of autarky.
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that supports [machine learning](../m/machine_learning.md) and [backtesting](../b/backtesting.md). Although not entirely autarkic, it embodies several principles of self-sustaining [trading strategies](../t/trading_strategies.md). More information is available at [QuantConnect](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that supports [machine learning](../m/machine_learning.md) and [backtesting](../b/backtesting.md). Although not entirely autarkic, it embodies several principles of self-sustaining [trading strategies](../t/trading_strategies.md). More information is available at QuantConnect.
 
 ### AphaLab Capital
 
-AlphLab [Capital](../c/capital.md) focuses on developing [machine learning](../m/machine_learning.md)-driven autonomous [trading systems](../t/trading_systems.md). Their emphasis on research and innovation places them at the forefront of autarkic trading. Visit their [website](https://www.alphalab.capital) for more details.
+AlphLab [Capital](../c/capital.md) focuses on developing [machine learning](../m/machine_learning.md)-driven autonomous [trading systems](../t/trading_systems.md). Their emphasis on research and innovation places them at the forefront of autarkic trading.
 
 ## Future Directions
 

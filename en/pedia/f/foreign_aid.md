@@ -7,29 +7,23 @@ Foreign aid refers to the transfer of resources, [money](../m/money.md), or good
 ### Bilateral Aid
 Bilateral aid is assistance given directly from one country to another. It is typically agreed upon through treaties or agreements and can take the form of financial grants, loans, technical assistance, or in-kind contributions. Donor countries usually manage these resources themselves or through their governmental agencies. For instance:
 - **USAID (United States Agency for International Development)** is a primary agency in the United States responsible for distributing foreign aid.
-  [Visit USAID](https://www.usaid.gov/)
 
 ### Multilateral Aid
 Multilateral aid involves [multiple](../m/multiple.md) countries pooling their resources through international organizations such as the [World Bank](../w/world_bank.md), the United Nations, or regional development banks. These organizations then manage and disburse the funds to ensure they reach their intended targets efficiently. Examples include:
 - **[World Bank](../w/world_bank.md)**: Provides financial and technical assistance to developing countries for development programs (e.g., bridges, roads, schools).
-  [Visit World Bank](https://www.worldbank.org/)
 - **International Monetary [Fund](../f/fund.md) (IMF)**: Offers financial assistance and advice to member countries facing economic instability.
-  [Visit IMF](https://www.imf.org/)
 
 ### Humanitarian Aid
 Humanitarian aid is provided to alleviate immediate suffering caused by natural disasters, conflicts, and other emergencies. It's usually short-term and aims to help people survive during crises by providing essential services such as food, water, healthcare, and shelter. Organizations involved:
 - **International Committee of the Red Cross (ICRC)**: Provides humanitarian assistance in conflict zones.
-  [Visit ICRC](https://www.icrc.org/)
 
 ### Development Aid
 Development aid focuses on long-term economic and social development objectives. It includes projects in education, healthcare, [infrastructure](../i/infrastructure.md), governance, and agriculture. Examples of development aid agencies:
 - **Department for International Development (DFID, UK)**: Focuses on [poverty](../p/poverty.md) alleviation and sustainable development.
-  [Visit DFID](https://www.gov.uk/government/organisations/department-for-international-development)
 
 ### Military Aid
 Military aid includes financial and logistical support for defense purposes. This can encompass the [provision](../p/provision.md) of weapons, military training, and other defense resources. It often aims to bolster the [security](../s/security.md) of the recipient country and can be contentious politically. Examples:
 - **Foreign Military [Financing](../f/financing.md) (FMF)**: A U.S. program providing grants to foreign governments for the purchase of American-produced weapons.
-  [Learn about FMF](https://www.state.gov/foreign-military-financing-fmf/)
 
 ## Objectives of Foreign Aid
 
@@ -82,12 +76,10 @@ The effectiveness of foreign aid in achieving its objectives is a hotly debated 
 ### Digital Aid and FinTech
 The advent of digital technologies has revolutionized the way aid is delivered. FinTech solutions, [mobile banking](../m/mobile_banking.md), and digital identity systems have increased the [efficiency](../e/efficiency.md), [transparency](../t/transparency.md), and reach of aid programs. Examples include:
 - **[M-Pesa](../m/m-pesa.md)**: A mobile phone-based [money](../m/money.md) transfer service in Kenya that facilitates the [distribution](../d/distribution.md) of financial aid.
-  [Visit M-Pesa](https://www.safaricom.co.ke/personal/m-pesa)
 
 ### Public-Private Partnerships
 Partnerships between governments, international organizations, NGOs, and private companies are increasingly common. These collaborations aim to [leverage](../l/leverage.md) the strengths and resources of each sector to enhance the effectiveness of aid programs. An example is:
 - **Gavi, the Vaccine Alliance**: A public-private global health partnership committed to increasing access to immunization in poor countries.
-  [Visit Gavi](https://www.gavi.org/)
 
 ### Data-Driven Approaches
 The use of [big data](../b/big_data_in_trading.md) and analytics to tailor aid programs more precisely has gained traction. Data-driven approaches can help better understand the needs of populations, monitor the impact of initiatives, and improve decision-making processes.
@@ -111,11 +103,8 @@ Key international organizations involved in foreign aid include:
 ### NGOs
 Non-governmental organizations play a crucial role in implementing aid programs and projects. Prominent NGOs include:
 - **Oxfam**: Works to alleviate global [poverty](../p/poverty.md) through various programs.
-  [Visit Oxfam](https://www.oxfam.org/en)
 - **CARE International**: Provides emergency relief and long-term international development projects.
-  [Visit CARE](https://www.care.org/)
 - **Doctors Without Borders (Médecins Sans Frontières)**: Delivers medical aid to people affected by conflicts, epidemics, disasters, or exclusion from healthcare.
-  [Visit MSF](https://www.msf.org/)
 
 ## Measuring the Impact of Foreign Aid
 

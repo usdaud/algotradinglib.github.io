@@ -37,7 +37,7 @@ The UCC-1 form itself is relatively straightforward but requires specific inform
 
 Fees for filing a UCC-1 statement vary by state but are generally [nominal](../n/nominal.md). Many states [offer](../o/offer.md) online filing services, which can expedite the filing process.
 
-### Amendments and Continuations 
+### Amendments and Continuations
 
 UCC-1 filings are not static and can be amended or continued:
 - **Amendments**: Modifications to the filing can be made to update information or add [collateral](../c/collateral.md).
@@ -105,7 +105,7 @@ Innovations in fintech have the potential to enhance the [transparency](../t/tra
 
 Automated filing systems can streamline the preparation and submission of UCC-1 statements, ensuring accuracy and compliance. These systems can integrate debtor and [creditor](../c/creditor.md) databases, auto-populate necessary fields, and simplify the amendment process.
 
-- [Finagraph](https://finagraph.com)
+- Finagraph
 
 ## Conclusion
 

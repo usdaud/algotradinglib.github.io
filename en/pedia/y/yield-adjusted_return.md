@@ -24,7 +24,7 @@ Certain [income](../i/income.md) returns may be taxable, which directly affects 
 
 #### Transaction Costs
 
-[Transaction costs](../t/transaction_costs.md) such as brokerage fees, [transaction fees](../t/transaction_fees.md), and other investment-related expenses can eat into the returns. Adjusting the [yield](../y/yield.md) for these costs can provide a more accurate measure of net returns. 
+[Transaction costs](../t/transaction_costs.md) such as brokerage fees, [transaction fees](../t/transaction_fees.md), and other investment-related expenses can eat into the returns. Adjusting the [yield](../y/yield.md) for these costs can provide a more accurate measure of net returns.
 
 #### Inflation
 
@@ -62,8 +62,8 @@ In the modern investment landscape, several technological tools and software sol
 - **[Morningstar](../m/morningstar.md), Inc.**: Offers a variety of investment research tools and solutions. Their platforms include functionalities for adjusting yields based on [taxes](../t/taxes.md), [inflation](../i/inflation.md), and other parameters.
 
 For more details, visit the official websites:
-- [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Morningstar](https://www.morningstar.com/products/advisor)
+- Bloomberg
+- Morningstar
 
 ## Advantages and Disadvantages
 

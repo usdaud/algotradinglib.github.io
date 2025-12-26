@@ -5,7 +5,7 @@ A trading strategy is a comprehensive plan designed to achieve a profitable [ret
 ## Types of Trading Strategies
 
 ### 1. **Day Trading**
-[Day trading](../d/day_trading.md) refers to the practice of buying and selling securities within the same trading day. Day traders aim to [capitalize](../c/capitalize.md) on small price movements that occur throughout the day in highly [liquid](../l/liquid.md) [stocks](../s/stock.md) or currencies. This strategy requires a significant time commitment and quick decision-making skills. 
+[Day trading](../d/day_trading.md) refers to the practice of buying and selling securities within the same trading day. Day traders aim to [capitalize](../c/capitalize.md) on small price movements that occur throughout the day in highly [liquid](../l/liquid.md) [stocks](../s/stock.md) or currencies. This strategy requires a significant time commitment and quick decision-making skills.
 
 ### 2. **Swing Trading**
 [Swing trading](../s/swing_trading.md) involves holding positions for several days or weeks to [profit](../p/profit.md) from expected upward or downward [market](../m/market.md) movements. Swing traders use a combination of [technical analysis](../t/technical_analysis.md) and [market sentiment](../m/market_sentiment.md) to make informed predictions and can benefit from both bullish and bearish [market](../m/market.md) conditions.
@@ -17,7 +17,7 @@ A trading strategy is a comprehensive plan designed to achieve a profitable [ret
 [Momentum](../m/momentum.md) traders aim to [capitalize](../c/capitalize.md) on existing [market](../m/market.md) trends by entering trades in the direction of the [momentum](../m/momentum.md). This strategy involves buying high and selling higher or short-selling low and covering lower. [Momentum trading](../m/momentum_trading.md) relies on the psychological aspect of [herd behavior](../h/herd_behavior_in_trading.md) in the [market](../m/market.md).
 
 ### 5. **Algorithmic Trading**
-[Algorithmic trading](../a/accountability.md) involves using automated computer systems to execute trades based on predefined criteria. These algorithms can process vast amounts of [market](../m/market.md) data and execute trades at speeds and frequencies that are impossible for human traders to match. Examples include high-frequency trading, [arbitrage](../a/arbitrage.md), and [market](../m/market.md)-making algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using automated computer systems to execute trades based on predefined criteria. These algorithms can process vast amounts of [market](../m/market.md) data and execute trades at speeds and frequencies that are impossible for human traders to match. Examples include high-frequency trading, [arbitrage](../a/arbitrage.md), and [market](../m/market.md)-making algorithms.
 
 ## Key Components of a Trading Strategy
 
@@ -65,7 +65,7 @@ MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicat
 [Arbitrage](../a/arbitrage.md) involves simultaneously buying and selling an [asset](../a/asset.md) in different markets to exploit price differentials. High-frequency traders often use sophisticated algorithms to identify and execute these trades quickly.
 
 ### 4. **Breakout Strategy**
-A [breakout](../b/breakout.md) strategy involves entering a position as soon as the price breaks through a predefined support or resistance level. Breakouts are often accompanied by increased [volume](../v/volume.md), indicating strong [market](../m/market.md) [momentum](../m/momentum.md). 
+A [breakout](../b/breakout.md) strategy involves entering a position as soon as the price breaks through a predefined support or resistance level. Breakouts are often accompanied by increased [volume](../v/volume.md), indicating strong [market](../m/market.md) [momentum](../m/momentum.md).
 
 ### 5. **Pairs Trading**
 [Pairs trading](../p/pairs_trading.md), or statistical [arbitrage](../a/arbitrage.md), involves simultaneously buying and selling two highly correlated [stocks](../s/stock.md), betting that the spread between them [will](../w/will.md) revert to the mean. Traders use statistical models to identify pairs with diverging prices.
@@ -90,20 +90,20 @@ A [breakout](../b/breakout.md) strategy involves entering a position as soon as 
 ## Algorithmic Trading Firms and Tools
 
 1. **[QuantConnect](../q/quantconnect.md)**
-   - [QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that allows traders to develop and backtest strategies using various data sources. (https://www.[quantconnect](../q/quantconnect.md).com)
+ - [QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest strategies using various data sources. (
 
 2. **[Alpaca](../a/alpaca.md)**
-   - [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading APIs for [algorithmic trading](../a/accountability.md), supporting both paper and live trading. (https://[alpaca](../a/alpaca.md).markets)
+ - [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading APIs for [algorithmic trading](../a/algorithmic_trading.md), supporting both paper and live trading. (
 
 3. **Quantopian**
-   - Quantopian provides an online platform for developing and testing [trading strategies](../t/trading_strategies.md), although it has shifted focus to other areas recently. ([Note](../n/note.md): Quantopian has discontinued its services, but historical relevance remains.)
+ - Quantopian provides an online platform for developing and testing [trading strategies](../t/trading_strategies.md), although it has shifted focus to other areas recently. ([Note](../n/note.md): Quantopian has discontinued its services, but historical relevance remains.)
 
 4. **[Interactive Brokers](../i/interactive_brokers.md)**
-   - [Interactive Brokers](../i/interactive_brokers.md) offers advanced trading tools and APIs for algorithmic traders, including the IBKR API. (https://www.interactivebrokers.com)
+ - [Interactive Brokers](../i/interactive_brokers.md) offers advanced trading tools and APIs for algorithmic traders, including the IBKR API. (
 
 5. **MetaTrader 4/5**
-   - MetaTrader platforms are widely used for forex and CFD trading, [offering](../o/offering.md) built-in algorithms and the ability to develop custom trading robots. (https://www.metatrader4.com)
+ - MetaTrader platforms are widely used for forex and CFD trading, [offering](../o/offering.md) built-in algorithms and the ability to develop custom trading robots. (
 
 ## Conclusion
 
-A well-thought-out trading strategy is essential for anyone looking to achieve long-term success in the [financial markets](../f/financial_market.md). By combining various types of analysis, clearly defining entry and exit points, and implementing effective [risk management](../r/risk_management.md) practices, traders can improve their chances of consistent profitability. Continuous learning, [backtesting](../b/backtesting.md), and adapting to changing [market](../m/market.md) conditions are key components of a [robust](../r/robust.md) trading strategy, whether for manual or [algorithmic trading](../a/accountability.md). With the right tools and discipline, traders can navigate the complexities of the [financial markets](../f/financial_market.md) and achieve their investment goals.
+A well-thought-out trading strategy is essential for anyone looking to achieve long-term success in the [financial markets](../f/financial_market.md). By combining various types of analysis, clearly defining entry and exit points, and implementing effective [risk management](../r/risk_management.md) practices, traders can improve their chances of consistent profitability. Continuous learning, [backtesting](../b/backtesting.md), and adapting to changing [market](../m/market.md) conditions are key components of a [robust](../r/robust.md) trading strategy, whether for manual or [algorithmic trading](../a/algorithmic_trading.md). With the right tools and discipline, traders can navigate the complexities of the [financial markets](../f/financial_market.md) and achieve their investment goals.

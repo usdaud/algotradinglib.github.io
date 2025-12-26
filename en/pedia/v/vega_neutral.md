@@ -11,7 +11,7 @@ Before diving into [Vega Neutral strategies](../v/vega_neutral_strategies.md), i
 - **[Rho](../r/rho.md):** Sensitivity to changes in [interest](../i/interest.md) rates.
 - **[Vega](../v/vega.md):** Sensitivity to changes in the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md).
 
-Mathematically, [Vega](../v/vega.md) is expressed as the change in the option’s price for a 1% change in the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md). 
+Mathematically, [Vega](../v/vega.md) is expressed as the change in the option’s price for a 1% change in the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md).
 
 \[ \text{[Vega](../v/vega.md)} = \frac{\partial C}{\partial \sigma} \]
 

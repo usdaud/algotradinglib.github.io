@@ -24,7 +24,7 @@ WOO X is the flagship [trading platform](../t/trading_platform.md) of WOO Networ
 
 - **Deep [Liquidity](../l/liquidity.md):** Aggregates [liquidity](../l/liquidity.md) from [multiple](../m/multiple.md) sources to ensure tight [spreads](../s/spreads.md) and minimal [slippage](../s/slippage.md).
 - **Low Fees:** Offers highly competitive [fee](../f/fee.md) structures, often lower than other major exchanges.
-- **Advanced Trading Tools:** Includes features like [real-time market data](../r/real-time_market_data.md), advanced charting tools, customizable trading interfaces, and [algorithmic trading](../a/accountability.md) support.
+- **Advanced Trading Tools:** Includes features like [real-time market data](../r/real-time_market_data.md), advanced charting tools, customizable trading interfaces, and [algorithmic trading](../a/algorithmic_trading.md) support.
 - **[Security](../s/security.md):** Utilizes multi-layer [security](../s/security.md) protocols, including cold storage for [fund](../f/fund.md) protection, multi-signature wallets, and real-time monitoring to ensure the safety of users’ assets.
 
 ### **WOOFi**
@@ -92,5 +92,3 @@ WOO Network has an ambitious roadmap aimed at further enhancing its platform and
 ## **Conclusion**
 
 WOO Network is at the forefront of revolutionizing the cryptocurrency [liquidity](../l/liquidity.md) and trading landscape. With its cutting-edge technology, deep [liquidity pools](../l/liquidity_pools.md), and comprehensive suite of products and services, it caters to a diverse [range](../r/range.md) of [market](../m/market.md) participants, from retail traders to institutions and DeFi enthusiasts. By continuously innovating and expanding its ecosystem, WOO Network aims to build a highly efficient, inclusive, and transparent [financial system](../f/financial_system.md) for the future.
-
-For more information, visit the official WOO Network website: [WOO Network](https://woo.org)

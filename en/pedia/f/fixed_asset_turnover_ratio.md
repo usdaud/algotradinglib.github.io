@@ -55,7 +55,7 @@ Retail giants like Walmart and Target track their [Fixed Asset](../f/fixed_asset
 For tech companies like Apple and Google, the ratio might be less critical due to lower [fixed asset](../f/fixed_asset.md) intensity. However, efficient management of their existing physical assets, such as data centers, can still provide a competitive edge.
 
 ### Example from Practice
-Apple Inc. has reported consistent improvements in its [Fixed Asset](../f/fixed_asset.md) [Turnover Ratios](../t/turnover_ratios.md), reflecting its efficient management of fixed assets despite massive geometric [expansion](../e/expansion.md). More details can be found on their official website [Apple Investor Relations](https://investor.apple.com/investor-relations/default.aspx).
+Apple Inc. has reported consistent improvements in its [Fixed Asset](../f/fixed_asset.md) [Turnover Ratios](../t/turnover_ratios.md), reflecting its efficient management of fixed assets despite massive geometric [expansion](../e/expansion.md). More
 
 ## Conclusion
 The Fixed [Asset Turnover Ratio](../a/asset_turnover_ratio.md) is an essential metric in [financial analysis](../f/financial_analysis.md), particularly for businesses with significant investments in fixed assets. By providing insights into [asset](../a/asset.md) utilization [efficiency](../e/efficiency.md), it aids stakeholders in making informed decisions regarding [capital](../c/capital.md) investments and operational improvements. While it has its constraints, when used in conjunction with other [financial ratios](../f/financial_ratios.md), it forms a comprehensive understanding of a company's [financial health](../f/financial_health.md) and operational performance.

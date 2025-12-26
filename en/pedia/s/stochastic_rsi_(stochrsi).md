@@ -30,12 +30,12 @@ The StochRSI is an [oscillator](../o/oscillator.md) that moves between 0 and 1 (
 ### Signals
 
 - **Bullish Signals**:
-  - When StochRSI crosses above the [oversold](../o/oversold.md) level (0.2 or 20), it can be a signal to buy.
-  - When StochRSI crosses above 0.5, it can confirm an upward [trend](../t/trend.md).
+ - When StochRSI crosses above the [oversold](../o/oversold.md) level (0.2 or 20), it can be a signal to buy.
+ - When StochRSI crosses above 0.5, it can confirm an upward [trend](../t/trend.md).
 
 - **Bearish Signals**:
-  - When StochRSI crosses below the [overbought](../o/overbought.md) level (0.8 or 80), it can be a signal to sell.
-  - When StochRSI crosses below 0.5, it can confirm a downward [trend](../t/trend.md).
+ - When StochRSI crosses below the [overbought](../o/overbought.md) level (0.8 or 80), it can be a signal to sell.
+ - When StochRSI crosses below 0.5, it can confirm a downward [trend](../t/trend.md).
 
 ## Uses in Trading Strategies
 

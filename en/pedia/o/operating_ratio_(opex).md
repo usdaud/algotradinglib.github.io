@@ -1,6 +1,6 @@
 # Operating Ratio (OPEX)
 
-In [finance](../f/finance.md) and [business](../b/business.md), the operating ratio (OPEX) is a critical metric that is often used to assess the [efficiency](../e/efficiency.md) and profitability of a company's operational performance. This ratio essentially measures the proportion of a company's [revenue](../r/revenue.md) that is consumed by its operating expenses, providing vital insights into how well a company manages its day-to-day expenses relative to its [revenue](../r/revenue.md). The operating ratio is particularly useful for investors, stakeholders, and management teams to understand the operational health and cost structure of a [business](../b/business.md). 
+In [finance](../f/finance.md) and [business](../b/business.md), the operating ratio (OPEX) is a critical metric that is often used to assess the [efficiency](../e/efficiency.md) and profitability of a company's operational performance. This ratio essentially measures the proportion of a company's [revenue](../r/revenue.md) that is consumed by its operating expenses, providing vital insights into how well a company manages its day-to-day expenses relative to its [revenue](../r/revenue.md). The operating ratio is particularly useful for investors, stakeholders, and management teams to understand the operational health and cost structure of a [business](../b/business.md).
 
 ## Definition and Formula
 
@@ -60,8 +60,6 @@ In the aviation [industry](../i/industry.md), companies like [Delta](../d/delta.
 
 Retail giant Walmart closely monitors its operating ratio to ensure profitability in its vast network of stores. By maintaining a low operating ratio, Walmart can [offer](../o/offer.md) competitive pricing while managing its operating expenses effectively.
 
-[Delta Air Lines Financial Overview](https://ir.delta.com/)
-[Walmart Financial Performance](https://stock.walmart.com/financials/quarterly-results/)
 
 ## Limitations of Operating Ratio
 

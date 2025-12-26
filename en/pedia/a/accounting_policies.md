@@ -60,7 +60,7 @@ Regulatory bodies require that entities provide adequate disclosures about their
 
 ### Example of a Company
 
-For example, *Virtu Financial Inc.*, an electronic trading [firm](../f/firm.md), provides detailed disclosures of its [accounting](../a/accounting.md) policies in its [annual report](../a/annual_report.md). They ensure that stakeholders understand their [revenue recognition](../r/revenue_recognition.md) from [market](../m/market.md)-making and trading activities, cost allocations for technology and development, and methods of [asset valuation](../a/asset_valuation.md). For more on their policies, one could visit their [Investor Relations page](https://ir.virtu.com).
+For example, *Virtu Financial Inc.*, an electronic trading [firm](../f/firm.md), provides detailed disclosures of its [accounting](../a/accounting.md) policies in its [annual report](../a/annual_report.md). They ensure that stakeholders understand their [revenue recognition](../r/revenue_recognition.md) from [market](../m/market.md)-making and trading activities, cost allocations for technology and development, and methods of [asset valuation](../a/asset_valuation.md).
 
 ## Customization of Accounting Policies in Algotrading
 

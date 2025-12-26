@@ -53,19 +53,19 @@ For [dividend](../d/dividend.md)-paying [stocks](../s/stock.md), [Total Return](
 
 Several financial technology firms and platforms [offer](../o/offer.md) tools and solutions for implementing [Total Return](../t/total_return.md) Analysis within [algorithmic trading](../a/algorithmic_trading.md) strategies. Here are a few notable companies:
 
-### QuantConnect [QuantConnect](https://www.quantconnect.com/)
-[QuantConnect](../q/quantconnect.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform wherein users can build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports [Total Return](../t/total_return.md) metrics as part of its performance analysis tools.
+### StockSharp
+[StockSharp](../s/stocksharp.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform wherein users can build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports [Total Return](../t/total_return.md) metrics as part of its performance analysis tools.
 
-### Alpaca [Alpaca](https://alpaca.markets/)
+### Alpaca Alpaca
 [Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API that allows users to automate their [trading strategies](../t/trading_strategies.md). The platform provides comprehensive data on returns, including dividends and [interest](../i/interest.md), ensuring accurate [Total Return](../t/total_return.md) Analysis.
 
-### TradeStation [TradeStation](https://www.tradestation.com/)
+### TradeStation TradeStation
 [TradeStation](../t/tradestation.md) is a [trading platform](../t/trading_platform.md) that provides advanced tools for algorithmic traders. It supports detailed [performance analytics](../p/performance_analytics.md) and custom metrics, including [Total Return](../t/total_return.md) Analysis, to help traders refine and improve their strategies.
 
-### Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com/)
+### Interactive Brokers Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) offers a suite of tools for [algorithmic trading](../a/algorithmic_trading.md) and detailed performance reports. Their [total return](../t/total_return.md) metrics include dividends, [interest](../i/interest.md) [income](../i/income.md), and [capital](../c/capital.md) gains, allowing for a thorough analysis of investment performance.
 
-### Numerai [Numerai](https://numer.ai/)
+### Numerai Numerai
 Numerai is a [hedge fund](../h/hedge_fund.md) [offering](../o/offering.md) a platform for data scientists to create [machine learning](../m/machine_learning.md) models in trading. It emphasizes advanced analytics, including [Total Return](../t/total_return.md), to judge the performance of submitted models.
 
 ## Challenges and Considerations

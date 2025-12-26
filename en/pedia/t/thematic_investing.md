@@ -63,13 +63,13 @@ Algorithmic systems can also manage entire portfolios by:
 
 ## Case Studies and Examples
 
-### 1. BlackRock [BlackRock Home](https://www.blackrock.com)
+### 1. BlackRock BlackRock Home
 BlackRock, one of the world's largest [asset management](../a/asset_management.md) firms, has embraced thematic [investing](../i/investing.md) through its [range](../r/range.md) of thematic ETFs. These ETFs focus on various thematic trends, such as technology, healthcare, and sustainability. The [firm](../f/firm.md) leverages [data science](../d/data_science_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to refine its investment strategies.
 
-### 2. Ark Investment Management [Ark Invest Home](https://ark-invest.com)
+### 2. Ark Investment Management Ark Invest Home
 ARK Invest, founded by Cathie Wood, is well-known for its focus on [disruptive innovation](../d/disruptive_innovation.md). The company uses a thematic approach to invest in technologies like genomics, automation, and [blockchain](../b/blockchain_in_trading.md). ARK employs [data analytics](../d/data_analytics.md) and research to spot high-growth potential opportunities.
 
-### 3. Goldman Sachs [Goldman Sachs Home](https://www.goldmansachs.com)
+### 3. Goldman Sachs Goldman Sachs Home
 Goldman Sachs has developed thematic portfolios that center around trends like the digital revolution and environmental sustainability. They utilize quantitative methods and algorithmic strategies to [offer](../o/offer.md) clients optimized and dynamic exposure to these themes.
 
 ### 4. Robo-Advisors

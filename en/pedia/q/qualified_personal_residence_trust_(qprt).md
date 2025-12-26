@@ -26,7 +26,7 @@ The funding of the [trust](../t/trust.md) involves transferring the title of the
 
 ### Trust Administration
 
-During the term of the [trust](../t/trust.md), the [grantor](../g/grantor.md) retains the right to live in the property rent-free. The [grantor](../g/grantor.md) is typically responsible for maintaining the property, including paying for [insurance](../i/insurance.md), [taxes](../t/taxes.md), and upkeep. 
+During the term of the [trust](../t/trust.md), the [grantor](../g/grantor.md) retains the right to live in the property rent-free. The [grantor](../g/grantor.md) is typically responsible for maintaining the property, including paying for [insurance](../i/insurance.md), [taxes](../t/taxes.md), and upkeep.
 
 ## Tax Implications of a QPRT
 
@@ -60,7 +60,7 @@ The [grantor](../g/grantor.md) retains the right to live in the residence for th
 
 ### Grantor's Mortality
 
-The primary [risk](../r/risk.md) of a QPRT is that the [grantor](../g/grantor.md) may not survive the [trust](../t/trust.md) term. If this occurs, the property is included in the [grantor](../g/grantor.md)'s taxable [estate](../e/estate.md), and the intended [estate tax](../e/estate_tax.md) benefits are lost. 
+The primary [risk](../r/risk.md) of a QPRT is that the [grantor](../g/grantor.md) may not survive the [trust](../t/trust.md) term. If this occurs, the property is included in the [grantor](../g/grantor.md)'s taxable [estate](../e/estate.md), and the intended [estate tax](../e/estate_tax.md) benefits are lost.
 
 ### Irrevocable Nature of the Trust
 
@@ -86,7 +86,7 @@ The term length of the QPRT is a critical [factor](../f/factor.md) that impacts 
 
 ### Selecting Trustees
 
-The [grantor](../g/grantor.md) should carefully select trustees who are capable of managing the [trust](../t/trust.md) responsibly and in accordance with its terms. 
+The [grantor](../g/grantor.md) should carefully select trustees who are capable of managing the [trust](../t/trust.md) responsibly and in accordance with its terms.
 
 ### Coordinating with Other Estate Planning Strategies
 
@@ -100,6 +100,6 @@ Establishing and managing a QPRT requires professional [guidance](../g/guidance.
 
 A Qualified Personal Residence [Trust](../t/trust.md) (QPRT) is a sophisticated [estate planning](../e/estate_planning.md) tool that can provide significant tax benefits by removing a personal residence from a [grantor](../g/grantor.md)'s taxable [estate](../e/estate.md). While the QPRT offers substantial advantages, it also involves complexities and risks that must be carefully managed. Properly structured and administered, a QPRT can be an effective way to preserve [wealth](../w/wealth.md) and pass on valuable property to future generations.
 
-For further details and personalized advice, individuals should consult with [estate planning](../e/estate_planning.md) professionals or visit specialized [financial planning](../f/financial_planning.md) firms like [Fidelity](https://www.fidelity.com) or [Charles Schwab](https://www.schwab.com).
+For further details and personalized advice, individuals should consult with [estate planning](../e/estate_planning.md) professionals or visit specialized [financial planning](../f/financial_planning.md) firms like Fidelity or Charles Schwab.
 
 By understanding the intricacies of Qualified Personal Residence Trusts, individuals can make informed decisions that align with their long-term [estate planning](../e/estate_planning.md) goals.

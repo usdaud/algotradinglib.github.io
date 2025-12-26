@@ -83,7 +83,7 @@ Economic data releases such as GDP growth, [inflation](../i/inflation.md) rates,
 
 ### Chicago Mercantile Exchange (CME)
 
-The CME is the leading [exchange](../e/exchange.md) for Yen/Dollar [futures](../f/futures.md) trading, [offering](../o/offering.md) a [robust](../r/robust.md) platform with deep [liquidity](../l/liquidity.md) and advanced trading tools. More information on their Yen/Dollar [futures](../f/futures.md) can be found on the [CME Group website](https://www.cmegroup.com/).
+The CME is the leading [exchange](../e/exchange.md) for Yen/Dollar [futures](../f/futures.md) trading, [offering](../o/offering.md) a [robust](../r/robust.md) platform with deep [liquidity](../l/liquidity.md) and advanced trading tools. More information on their Yen/Dollar [futures](../f/futures.md)
 
 ### Other Exchanges
 

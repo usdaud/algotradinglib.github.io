@@ -99,7 +99,7 @@ For instance, in online advertising, Google and Facebook together control a subs
 
 ### Regulatory Impact Cases
 
-**Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC)**: 
+**Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC)**:
 The FTC often uses concentration ratios when evaluating mergers. For example, in the case of the proposed [merger](../m/merger.md) of AT&T and Time Warner, the FTC examined the impact on media and telecommunications [market](../m/market.md) concentration.
 
 ### Insights on Financial Markets
@@ -110,5 +110,4 @@ In [financial markets](../f/financial_market.md), concentration ratios help in u
 
 The Concentration Ratio is an essential tool for economists and policymakers to analyze and understand [market](../m/market.md) structures. It provides insights into the degree of competition, potential [market power](../m/market_power.md), and the need for regulatory interventions. While it has limitations, CR complements other metrics like the HHI in [offering](../o/offering.md) a comprehensive view of [market dynamics](../m/market_dynamics.md).
 
-For further detailed insights into modern application and computing solutions related to [market](../m/market.md) analytics, referencing prominent technology companies' resources could prove beneficial. For instance, examining services from [Bloomberg](https://www.bloomberg.com/), which provides financial [software tools](../s/software_tools_for_trading.md), and [OpenAI](https://www.openai.com/), which deals with [artificial intelligence](../a/artificial_intelligence_in_trading.md) applications in data analysis, can [offer](../o/offer.md) enhanced perspectives on [market](../m/market.md) concentration metrics.
-
+For further detailed insights into modern application and computing solutions related to [market](../m/market.md) analytics, referencing prominent technology companies' resources could prove beneficial. For instance, examining services from Bloomberg, which provides financial [software tools](../s/software_tools_for_trading.md), and OpenAI, which deals with [artificial intelligence](../a/artificial_intelligence_in_trading.md) applications in data analysis, can [offer](../o/offer.md) enhanced perspectives on [market](../m/market.md) concentration metrics.

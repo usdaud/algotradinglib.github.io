@@ -1,6 +1,6 @@
 # Opening Range
 
-The concept of the "Opening [Range](../r/range.md)" (OR) in trading refers to the high and low prices of a particular [security](../s/security.md) within a specified time frame at the [market](../m/market.md)'s opening. This concept, while simple, holds substantial importance and a wide [range](../r/range.md) of strategic applications in the realms of [day trading](../d/day_trading.md), [algorithmic trading](../a/accountability.md), and [financial analysis](../f/financial_analysis.md). The predetermined window for this [range](../r/range.md) usually encompasses the first 15 minutes to an hour of the trading day. Traders and analysts scrutinize this [range](../r/range.md) to derive insights about potential price movements and [market sentiment](../m/market_sentiment.md) throughout the rest of the [trading session](../t/trading_session.md).
+The concept of the "Opening [Range](../r/range.md)" (OR) in trading refers to the high and low prices of a particular [security](../s/security.md) within a specified time frame at the [market](../m/market.md)'s opening. This concept, while simple, holds substantial importance and a wide [range](../r/range.md) of strategic applications in the realms of [day trading](../d/day_trading.md), [algorithmic trading](../a/algorithmic_trading.md), and [financial analysis](../f/financial_analysis.md). The predetermined window for this [range](../r/range.md) usually encompasses the first 15 minutes to an hour of the trading day. Traders and analysts scrutinize this [range](../r/range.md) to derive insights about potential price movements and [market sentiment](../m/market_sentiment.md) throughout the rest of the [trading session](../t/trading_session.md).
 
 ## What is the Opening Range?
 
@@ -25,7 +25,7 @@ Several [trading strategies](../t/trading_strategies.md) revolve around the OR, 
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the OR serves as a parameter within various algorithms. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) might exploit the [volatility](../v/volatility.md) during the establishment of the OR for quick gains. Furthermore, [machine learning](../m/machine_learning.md) models may incorporate OR data to predict intra-day price movements.
+In [algorithmic trading](../a/algorithmic_trading.md), the OR serves as a parameter within various algorithms. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) might exploit the [volatility](../v/volatility.md) during the establishment of the OR for quick gains. Furthermore, [machine learning](../m/machine_learning.md) models may incorporate OR data to predict intra-day price movements.
 
 ### Risk Management
 
@@ -89,9 +89,9 @@ Several financial software and tools integrate OR functionality for enhanced [tr
 
 [TradeStation](../t/tradestation.md)'s platform allows traders to set custom time intervals to define the OR and uses advanced charting tools for real-time analysis.
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) provides a [robust](../r/robust.md) [algorithmic trading](../a/accountability.md) framework where users can define and backtest OR-based strategies using historical data.
+[StockSharp](../s/stocksharp.md) provides a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) framework where users can define and backtest OR-based strategies using historical data.
 
 ### thinkorswim by TD Ameritrade
 

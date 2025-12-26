@@ -32,8 +32,8 @@ The rules surrounding the issuance, processing, and cancelation of checks are go
 
 For more detailed information regarding canceled checks and how banks [handle](../h/handle.md) them, you can visit the following pages:
 
-- [Bank of America](https://www.bankofamerica.com/)
-- [Wells Fargo](https://www.wellsfargo.com/)
+- Bank of America
+- Wells Fargo
 
 ## Conclusion
 

@@ -7,7 +7,7 @@
 [Earnings](../e/earnings.md) announcements are quarterly releases issued by publicly traded companies, detailing their [financial performance](../f/financial_performance.md) over the last fiscal quarter. These reports typically include metrics such as net [income](../i/income.md), [earnings](../e/earnings.md) per share (EPS), [revenue](../r/revenue.md), and [guidance](../g/guidance.md) for future performance. They are critically timed releases that can sway [investor](../i/investor.md) sentiment and impact a company's stock price.
 
 ### Key Components of Earnings Announcements
-1. **[Revenue](../r/revenue.md)**: This is the total amount of [money](../m/money.md) a company brings in from its [business activities](../b/business_activities.md) during the quarter. 
+1. **[Revenue](../r/revenue.md)**: This is the total amount of [money](../m/money.md) a company brings in from its [business activities](../b/business_activities.md) during the quarter.
 2. **Net [Income](../i/income.md)**: This is the [profit](../p/profit.md) remaining after all expenses, [taxes](../t/taxes.md), and costs have been subtracted from [revenue](../r/revenue.md).
 3. **[Earnings](../e/earnings.md) Per Share (EPS)**: This metric represents the portion of a company’s [profit](../p/profit.md) allocated to each outstanding share of [common stock](../c/common_stock.md).
 4. **[Guidance](../g/guidance.md)**: Many companies also provide future [earnings](../e/earnings.md) projections or [guidance](../g/guidance.md), which help set [investor](../i/investor.md) expectations and can greatly influence stock price movements.
@@ -34,10 +34,10 @@
 ### Real-World Applications
 Several financial firms specialize in [algorithmic trading](../a/algorithmic_trading.md) strategies focused on [earnings](../e/earnings.md) announcements. For instance, **Jane Street** and **Virtu Financial** are [industry](../i/industry.md) leaders that deploy sophisticated algorithms to [trade](../t/trade.md) around these events.
 
-1. [Jane Street](https://www.janestreet.com/)
-2. [Virtu Financial](https://www.virtu.com/)
+1. Jane Street
+2. Virtu Financial
 
-### Conclusion 
+### Conclusion
 [Earnings](../e/earnings.md) announcements are powerful catalysts in the [financial markets](../f/financial_market.md), capable of driving significant price movements and [volatility](../v/volatility.md). They [offer](../o/offer.md) algorithmic traders numerous opportunities to [profit](../p/profit.md) by employing pre-and post-announcement strategies. However, with high potential rewards come considerable risks, necessitating [robust](../r/robust.md) algorithms that can quickly and accurately interpret data to execute profitable trades.
 
 ### Future Directions in Algorithmic Trading and Earnings Announcements

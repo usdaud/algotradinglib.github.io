@@ -1,6 +1,6 @@
 # Zero Dividend Strategies
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), strategies can be as diverse as the financial products they manage. Among these strategies, zero [dividend strategies](../d/dividend_strategies.md) stand out as a specialized approach that has gained attention from both retail and institutional investors. This comprehensive discussion explores zero [dividend strategies](../d/dividend_strategies.md), their [underlying](../u/underlying.md) principles, different methodologies, and their advantages and disadvantages. 
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), strategies can be as diverse as the financial products they manage. Among these strategies, zero [dividend strategies](../d/dividend_strategies.md) stand out as a specialized approach that has gained attention from both retail and institutional investors. This comprehensive discussion explores zero [dividend strategies](../d/dividend_strategies.md), their [underlying](../u/underlying.md) principles, different methodologies, and their advantages and disadvantages.
 
 ## Overview
 
@@ -62,7 +62,7 @@ Algorithms designed to exploit zero [dividend strategies](../d/dividend_strategi
 ### Volatility
 
 - **Higher [Volatility](../v/volatility.md)**: Zero [dividend](../d/dividend.md) [stocks](../s/stock.md) can be more volatile, reflecting the uncertainties and risks associated with growth-oriented companies.
-  
+
 ### Lack of Income
 
 - **No [Dividend](../d/dividend.md) [Income](../i/income.md)**: Investors miss out on [dividend](../d/dividend.md) [income](../i/income.md), which can be a stable source of returns, especially in bearish markets.
@@ -75,21 +75,19 @@ Algorithms designed to exploit zero [dividend strategies](../d/dividend_strategi
 
 ### Technology Sector Focus
 
-Many tech giants like Amazon and Alphabet (Google) have historically not paid dividends, making them prime candidates for zero [dividend strategies](../d/dividend_strategies.md). 
+Many tech giants like Amazon and Alphabet (Google) have historically not paid dividends, making them prime candidates for zero [dividend strategies](../d/dividend_strategies.md).
 
-- **Amazon (AMZN)**: With a focus on [reinvestment](../r/reinvestment.md), Amazon has historically channeled profits into [expansion](../e/expansion.md) and innovation rather than paying dividends. [Amazon Investor Relations](https://www.amazon.com/ir)
-- **Alphabet (GOOGL)**: Alphabet has similarly chosen to reinvest [earnings](../e/earnings.md) into R&D and acquisitions. [Alphabet Investor Relations](https://abc.xyz/investor/)
 
 ### Startups and Emerging Markets
 
-- **Biotechnology Firms**: Small biotech firms often do not [issue](../i/issue.md) dividends as they channel all available resources into research and development. 
+- **Biotechnology Firms**: Small biotech firms often do not [issue](../i/issue.md) dividends as they channel all available resources into research and development.
 - **Fintech Startups**: Many fintech companies follow a zero [dividend](../d/dividend.md) approach, focusing on disrupting traditional financial systems.
 
 ## Algorithmic Implementation
 
 ### Data Collection
 
-Collecting high-quality data is crucial for the formulation and [backtesting](../b/backtesting.md) of any [algorithmic trading](../a/algorithmic_trading.md) strategy. This involves financial data, corporate announcements, news coverage, and [market](../m/market.md) data. 
+Collecting high-quality data is crucial for the formulation and [backtesting](../b/backtesting.md) of any [algorithmic trading](../a/algorithmic_trading.md) strategy. This involves financial data, corporate announcements, news coverage, and [market](../m/market.md) data.
 
 ### Backtesting
 

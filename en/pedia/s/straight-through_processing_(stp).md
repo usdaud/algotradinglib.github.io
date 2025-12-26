@@ -10,7 +10,7 @@ The concept of STP emerged in the early 1990s as [financial markets](../f/financ
 
 ### 1. **Trade Execution**
 
-STP begins at the [trade](../t/trade.md) [execution](../e/execution.md) stage, where trades are automatically executed based on predefined criteria. [Algorithmic trading](../a/accountability.md) systems often play a significant role in ensuring that trades are executed at the best possible prices and within the quickest possible timeframes.
+STP begins at the [trade](../t/trade.md) [execution](../e/execution.md) stage, where trades are automatically executed based on predefined criteria. [Algorithmic trading](../a/algorithmic_trading.md) systems often play a significant role in ensuring that trades are executed at the best possible prices and within the quickest possible timeframes.
 
 ### 2. **Data Validation and Enrichment**
 
@@ -84,19 +84,19 @@ In [derivatives](../d/derivatives.md) markets, STP automates the complex process
 
 Deutsche [Bank](../b/bank.md) has been a pioneer in implementing STP. The [bank](../b/bank.md)'s Autobahn FX platform, for example, automates the entire process of forex trading, from [order](../o/order.md) [execution](../e/execution.md) to settlement, ensuring high levels of [efficiency](../e/efficiency.md) and accuracy.
 
-Website: [Deutsche Bank](https://www.db.com/)
+online platform: Deutsche Bank
 
 ### **JP Morgan Chase**
 
 JP Morgan Chase has leveraged STP to streamline its securities processing operations. The [bank](../b/bank.md) utilizes advanced STP systems to [handle](../h/handle.md) large volumes of transactions, ensuring quick and error-free processing.
 
-Website: [JP Morgan Chase](https://www.jpmorganchase.com/)
+online platform: JP Morgan Chase
 
 ## STP in Fintech and Algo Trading
 
 ### **Enhanced Algorithmic Trading**
 
-In the realm of [algorithmic trading](../a/accountability.md), STP systems play a crucial role by ensuring that trades are not only executed quickly and efficiently but also processed seamlessly across various stages of the [trade](../t/trade.md) lifecycle. This integration allows for more sophisticated [trading strategies](../t/trading_strategies.md) and better [risk management](../r/risk_management.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), STP systems play a crucial role by ensuring that trades are not only executed quickly and efficiently but also processed seamlessly across various stages of the [trade](../t/trade.md) lifecycle. This integration allows for more sophisticated [trading strategies](../t/trading_strategies.md) and better [risk management](../r/risk_management.md).
 
 ### **Robo-Advisors**
 

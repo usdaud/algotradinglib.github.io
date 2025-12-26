@@ -4,7 +4,7 @@ An Umbrella Partnership [Real Estate](../r/real_estate.md) Investment [Trust](..
 
 ### Origins and Evolution
 
-The UPREIT structure was first introduced in the early 1990s as a creative financial solution addressing the tax and [liquidity](../l/liquidity.md) issues property owners faced when selling their [real estate](../r/real_estate.md) assets. Traditionally, [real estate](../r/real_estate.md) sales would trigger significant [capital](../c/capital.md) gains [taxes](../t/taxes.md), which could be a substantial financial burden. With the advent of the UPREIT structure, founders sought to improve [liquidity](../l/liquidity.md) for [real estate](../r/real_estate.md) assets while allowing property owners to defer these [capital](../c/capital.md) gains [taxes](../t/taxes.md). 
+The UPREIT structure was first introduced in the early 1990s as a creative financial solution addressing the tax and [liquidity](../l/liquidity.md) issues property owners faced when selling their [real estate](../r/real_estate.md) assets. Traditionally, [real estate](../r/real_estate.md) sales would trigger significant [capital](../c/capital.md) gains [taxes](../t/taxes.md), which could be a substantial financial burden. With the advent of the UPREIT structure, founders sought to improve [liquidity](../l/liquidity.md) for [real estate](../r/real_estate.md) assets while allowing property owners to defer these [capital](../c/capital.md) gains [taxes](../t/taxes.md).
 
 ### Structure and Mechanics
 
@@ -50,14 +50,14 @@ While the initial transfer of property to the OP defers [capital](../c/capital.m
 
 Several key players in the [real estate](../r/real_estate.md) [industry](../i/industry.md) have successfully utilized the UPREIT structure to enhance their operations and investments. Notable examples include:
 
-- **Prologis (https://www.prologis.com)**: A global leader in [logistics](../l/logistics.md) [real estate](../r/real_estate.md), Prologis has leveraged the UPREIT structure to expand its portfolio and [offer](../o/offer.md) property owners flexible investment solutions.
-- **Simon Property Group (https://www.simon.com)**: As one of the largest retail REITs, Simon Property Group has utilized the UPREIT mechanism to acquire [premium](../p/premium.md) retail properties while providing property owners with strategic financial benefits.
-- **[Equity](../e/equity.md) Residential (https://www.equityapartments.com)**: A major player in the residential [real estate](../r/real_estate.md) [market](../m/market.md), [Equity](../e/equity.md) Residential has employed the UPREIT structure to bolster its [asset](../a/asset.md) base and [offer](../o/offer.md) enhanced [liquidity](../l/liquidity.md) [options](../o/options.md) to property owners.
+- **Prologis ( A global leader in [logistics](../l/logistics.md) [real estate](../r/real_estate.md), Prologis has leveraged the UPREIT structure to expand its portfolio and [offer](../o/offer.md) property owners flexible investment solutions.
+- **Simon Property Group ( As one of the largest retail REITs, Simon Property Group has utilized the UPREIT mechanism to acquire [premium](../p/premium.md) retail properties while providing property owners with strategic financial benefits.
+- **[Equity](../e/equity.md) Residential ( A major player in the residential [real estate](../r/real_estate.md) [market](../m/market.md), [Equity](../e/equity.md) Residential has employed the UPREIT structure to bolster its [asset](../a/asset.md) base and [offer](../o/offer.md) enhanced [liquidity](../l/liquidity.md) [options](../o/options.md) to property owners.
 
 ### Case Studies
 
 #### Example: Prologis
-Prologis, a significant player in the [logistics](../l/logistics.md) [real estate](../r/real_estate.md) sector, has extensively used the UPREIT structure to acquire [logistics](../l/logistics.md) facilities globally. By allowing property owners to defer [capital](../c/capital.md) gains [taxes](../t/taxes.md) and providing [liquidity](../l/liquidity.md) through the conversion of OP units into REIT [shares](../s/shares.md), Prologis has managed to grow its portfolio exponentially. 
+Prologis, a significant player in the [logistics](../l/logistics.md) [real estate](../r/real_estate.md) sector, has extensively used the UPREIT structure to acquire [logistics](../l/logistics.md) facilities globally. By allowing property owners to defer [capital](../c/capital.md) gains [taxes](../t/taxes.md) and providing [liquidity](../l/liquidity.md) through the conversion of OP units into REIT [shares](../s/shares.md), Prologis has managed to grow its portfolio exponentially.
 
 Property owners contributing to Prologis's OP can [exchange](../e/exchange.md) their logistical assets for OP units, enjoying tax deferral, diversifying their portfolios, and achieving greater [liquidity](../l/liquidity.md). Prologis, in turn, gains access to valuable [logistics](../l/logistics.md) [real estate](../r/real_estate.md) while expanding its [market](../m/market.md) presence.
 

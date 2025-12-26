@@ -1,6 +1,6 @@
 # Occupational Labor Mobility
 
-Occupational labor mobility refers to the ability of workers to switch jobs, roles, or industries with relative ease. It encompasses both the willingness of workers to change their occupation and the ability to acquire the necessary skills or qualifications to facilitate such transitions. This concept plays a vital role in labor [economics](../e/economics.md), shaping employment patterns, wage dynamics, and overall economic health. 
+Occupational labor mobility refers to the ability of workers to switch jobs, roles, or industries with relative ease. It encompasses both the willingness of workers to change their occupation and the ability to acquire the necessary skills or qualifications to facilitate such transitions. This concept plays a vital role in labor [economics](../e/economics.md), shaping employment patterns, wage dynamics, and overall economic health.
 
 ## Determinants of Occupational Labor Mobility
 

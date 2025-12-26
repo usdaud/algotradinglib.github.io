@@ -56,19 +56,19 @@ Several financial institutions and fintech companies have successfully implement
 
 Wealthfront is a prominent example of a company that uses smart portfolio construction. Their platform leverages algorithms and sophisticated financial models to provide automated [investment management](../i/investment_management.md) and [financial planning](../f/financial_planning.md) services.
 
-Visit [Wealthfront](https://www.wealthfront.com) for more information.
+Visit Wealthfront for more information.
 
 ### Betterment
 
 Betterment is another leading fintech company that applies smart portfolio construction techniques. They use a variety of [quantitative models](../q/quantitative_models.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to optimize [asset allocation](../a/asset_allocation.md) and provide personalized investment advice.
 
-Visit [Betterment](https://www.betterment.com) for more information.
+Visit Betterment for more information.
 
 ### BlackRock
 
 BlackRock, one of the largest [asset management](../a/asset_management.md) firms globally, employs advanced algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) to manage portfolios for institutional and individual investors. Their Aladdin platform integrates [risk](../r/risk.md) analytics and [portfolio management](../p/portfolio_management.md) capabilities to support smart portfolio construction.
 
-Visit [BlackRock](https://www.blackrock.com) for more information.
+Visit BlackRock for more information.
 
 ## Challenges and Future Directions
 

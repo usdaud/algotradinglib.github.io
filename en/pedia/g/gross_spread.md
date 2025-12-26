@@ -1,6 +1,6 @@
 # Gross Spread
 
-Gross Spread is a crucial financial term commonly used in the context of initial public offerings (IPOs), [bond](../b/bond.md) [underwriting](../u/underwriting.md), and other financial transactions. It refers to the difference between the price at which an [underwriter](../u/underwriter.md) purchases securities from an [issuer](../i/issuer.md) and the price at which these securities are sold to the public or investors. This spread represents the [underwriter](../u/underwriter.md)'s compensation for the risks and efforts involved in the [underwriting](../u/underwriting.md) process. Understanding gross spread is essential for anyone involved in [financial markets](../f/financial_market.md), as it impacts the pricing and returns of securities. 
+Gross Spread is a crucial financial term commonly used in the context of initial public offerings (IPOs), [bond](../b/bond.md) [underwriting](../u/underwriting.md), and other financial transactions. It refers to the difference between the price at which an [underwriter](../u/underwriter.md) purchases securities from an [issuer](../i/issuer.md) and the price at which these securities are sold to the public or investors. This spread represents the [underwriter](../u/underwriter.md)'s compensation for the risks and efforts involved in the [underwriting](../u/underwriting.md) process. Understanding gross spread is essential for anyone involved in [financial markets](../f/financial_market.md), as it impacts the pricing and returns of securities.
 
 ## Components of Gross Spread
 
@@ -22,7 +22,7 @@ Selling concession is the part of the gross spread given to sub-underwriters or 
 
 Reallowance is a smaller component of the gross spread that may be given to other participants in the [underwriting](../u/underwriting.md) [syndicate](../s/syndicate.md) who distributed some of the securities but did not contribute significantly to the initial stages of the [offering](../o/offering.md).
 
-### Example 
+### Example
 
 For instance, in an IPO, if the [issuer](../i/issuer.md) sets the [offering price](../o/offering_price.md) at $20 per share and the underwriters sell the [shares](../s/shares.md) to the public at $22 per share, the gross spread is $2 per share. If the [offering](../o/offering.md) consists of 1,000,000 [shares](../s/shares.md), the total gross spread would be $2,000,000.
 
@@ -114,6 +114,6 @@ Gross spread is a fundamental concept in the world of [finance](../f/finance.md)
 
 For detailed information about specific underwriters and their role in financial transactions, you can visit the following websites:
 
-- [Morgan Stanley](https://www.morganstanley.com)
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [JPMorgan Chase](https://www.jpmorganchase.com)
+- Morgan Stanley
+- Goldman Sachs
+- JPMorgan Chase

@@ -44,7 +44,7 @@ These are other relevant sub-indices, containing the top 50 and top 100 companie
 
 ### Data-Driven Decisions
 
-[Algorithmic trading](../a/accountability.md) (algo-trading) has increasingly incorporated KOSPI indices as integral elements due to their high [liquidity](../l/liquidity.md) and [volatility](../v/volatility.md). Algo-[trading strategies](../t/trading_strategies.md) often rely on historical KOSPI data, real-time price feeds, and advanced algorithms to execute trades automatically, aiming for higher [efficiency](../e/efficiency.md) and reduced human error.
+[Algorithmic trading](../a/algorithmic_trading.md) (algo-trading) has increasingly incorporated KOSPI indices as integral elements due to their high [liquidity](../l/liquidity.md) and [volatility](../v/volatility.md). Algo-[trading strategies](../t/trading_strategies.md) often rely on historical KOSPI data, real-time price feeds, and advanced algorithms to execute trades automatically, aiming for higher [efficiency](../e/efficiency.md) and reduced human error.
 
 ### Arbitrage Opportunities
 
@@ -62,19 +62,19 @@ Significant participants in the trading activities surrounding KOSPI indices inc
 
 The Korea [Exchange](../e/exchange.md) operates the KOSPI and serves as the central marketplace for trading securities in South Korea. It provides various services to ensure [market](../m/market.md) integrity, including the regulation of trading activities and implementation of the KOSPI [index](../i/index_instrument.md).
 
-**Website**: [krx.co.kr](https://www.krx.co.kr)
+**online platform**: online resource.kr
 
 ### Samsung Securities
 
 Samsung Securities offers a wide [range](../r/range.md) of financial services, including brokerage, [asset management](../a/asset_management.md), and [investment banking](../i/investment_banking.md). Its advanced trading platforms support institutional and retail investors participating in KOSPI-based investments.
 
-**Website**: [samsungsecurities.com](https://www.samsungsecurities.com)
+**online platform**: online resource
 
 ### Mirae Asset Daewoo
 
 One of South Korea's leading financial services firms, [Mirae Asset](../m/mirae_asset.md) Daewoo provides comprehensive trading services and solutions, significantly contributing to the [liquidity](../l/liquidity.md) and dynamism of KOSPI markets.
 
-**Website**: [miraeassetdaewoo.com](https://www.miraeassetdaewoo.com)
+**online platform**: online resource
 
 ## Impact of External Factors
 
@@ -112,8 +112,8 @@ With increasing adoption of algo-trading, regulatory scrutiny has intensified. P
 
 ### Technological Failures
 
-[Algorithmic trading](../a/accountability.md) systems are heavily dependent on technology and [infrastructure](../i/infrastructure.md). Failures in these systems, such as software bugs or connectivity issues, can lead to substantial financial losses.
+[Algorithmic trading](../a/algorithmic_trading.md) systems are heavily dependent on technology and [infrastructure](../i/infrastructure.md). Failures in these systems, such as software bugs or connectivity issues, can lead to substantial financial losses.
 
 ## Conclusion
 
-The Korean Composite Stock Price Indexes (KOSPI) stand as vital barometers of South Korea's economic health and serve crucial roles in both traditional and [algorithmic trading](../a/accountability.md) landscapes. With continuous advancements in technology and a dynamic economic environment, KOSPI indices are poised to remain integral components of global [financial markets](../f/financial_market.md) for years to come.
+The Korean Composite Stock Price Indexes (KOSPI) stand as vital barometers of South Korea's economic health and serve crucial roles in both traditional and [algorithmic trading](../a/algorithmic_trading.md) landscapes. With continuous advancements in technology and a dynamic economic environment, KOSPI indices are poised to remain integral components of global [financial markets](../f/financial_market.md) for years to come.

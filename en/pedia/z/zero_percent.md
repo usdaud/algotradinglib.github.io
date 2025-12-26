@@ -50,7 +50,7 @@ When zero percent [interest](../i/interest.md) rates prove insufficient to stimu
 
 ### Definition
 
-Zero percent [financing](../f/financing.md) is a [marketing strategy](../m/marketing_strategy.md) often used by businesses, such as car dealerships and consumer electronics retailers, to attract customers by [offering](../o/offering.md) loans with no [interest](../i/interest.md) charges. 
+Zero percent [financing](../f/financing.md) is a [marketing strategy](../m/marketing_strategy.md) often used by businesses, such as car dealerships and consumer electronics retailers, to attract customers by [offering](../o/offering.md) loans with no [interest](../i/interest.md) charges.
 
 ### Benefits to Consumers
 
@@ -68,21 +68,21 @@ It's important for consumers to read the fine print of zero percent [financing](
 
 ### Federal Reserve (Fed)
 
-The Federal Reserve in the United States has historically implemented near-zero [interest rate](../i/interest_rate.md) policies during economic crises, such as the [Great Recession](../g/great_recession.md) in 2008, and more recently during the COVID-19 pandemic. [Fed website](https://www.federalreserve.gov/)
+The Federal Reserve in the United States has historically implemented near-zero [interest rate](../i/interest_rate.md) policies during economic crises, such as the [Great Recession](../g/great_recession.md) in 2008,
 
 ### European Central Bank (ECB)
 
-The European Central [Bank](../b/bank.md) has followed a similar path, maintaining very low or zero [interest](../i/interest.md) rates to spur economic activity in the [Eurozone](../e/eurozone.md). [ECB website](https://www.ecb.europa.eu/home/html/index.en.html)
+The European Central [Bank](../b/bank.md) has followed a similar path, maintaining very low or zero [interest](../i/interest.md) rates to spur economic activity in the [Eurozone](../e/eurozone.md).
 
 ### Bank of Japan (BOJ)
 
-The [Bank](../b/bank.md) of Japan has been one of the most consistent practitioners of zero [interest rate](../i/interest_rate.md) policies, maintaining near-zero rates for decades in an attempt to combat persistent [deflation](../d/deflation.md) and stimulate growth. [BOJ website](https://www.boj.or.jp/en/)
+The [Bank](../b/bank.md) of Japan has been one of the most consistent practitioners of zero [interest rate](../i/interest_rate.md) policies, maintaining near-zero rates for decades in an attempt to combat persistent [deflation](../d/deflation.md)
 
 ## Zero Percent in Algotrading
 
 ### Relevance
 
-In the realm of [algorithmic trading](../a/accountability.md), zero percent [interest](../i/interest.md) rates can significantly affect [trading strategies](../t/trading_strategies.md). Low rates typically lead to lower returns on safe-haven assets, pushing [quantitative models](../q/quantitative_models.md) to favor riskier assets. 
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), zero percent [interest](../i/interest.md) rates can significantly affect [trading strategies](../t/trading_strategies.md). Low rates typically lead to lower returns on safe-haven assets, pushing [quantitative models](../q/quantitative_models.md) to favor riskier assets.
 
 ### Modeling
 
@@ -94,4 +94,4 @@ Algotrading models must account for the low [yield](../y/yield.md) environment b
 
 ## Conclusion
 
-Zero percent [interest](../i/interest.md) rates are a powerful tool in the arsenal of central banks and financial institutions. Though fraught with challenges, when applied judiciously, ZIRP can help stabilize and stimulate economies during times of severe economic distress. Whether in [monetary policy](../m/monetary_policy.md), consumer [financing](../f/financing.md), or [algorithmic trading](../a/accountability.md), the concept of zero percent remains an essential consideration in the modern financial landscape.
+Zero percent [interest](../i/interest.md) rates are a powerful tool in the arsenal of central banks and financial institutions. Though fraught with challenges, when applied judiciously, ZIRP can help stabilize and stimulate economies during times of severe economic distress. Whether in [monetary policy](../m/monetary_policy.md), consumer [financing](../f/financing.md), or [algorithmic trading](../a/algorithmic_trading.md), the concept of zero percent remains an essential consideration in the modern financial landscape.

@@ -98,9 +98,9 @@ With advancements in technology, the management and calculation of [value](../v/
 
 ### Automated Trading Systems
 
-In the world of [algorithmic trading](../a/accountability.md), automated systems play a crucial role in executing trades and managing [value](../v/value.md) dates. These systems can analyze [market](../m/market.md) conditions, execute trades, and calculate [value](../v/value.md) dates with minimal human intervention, ensuring speed and precision.
+In the world of [algorithmic trading](../a/algorithmic_trading.md), automated systems play a crucial role in executing trades and managing [value](../v/value.md) dates. These systems can analyze [market](../m/market.md) conditions, execute trades, and calculate [value](../v/value.md) dates with minimal human intervention, ensuring speed and precision.
 
-Companies like [AlgoTrader](https://www.algotrader.com/) [offer](../o/offer.md) comprehensive [algorithmic trading](../a/accountability.md) solutions that incorporate [value](../v/value.md) date management, [risk](../r/risk.md) assessment, and compliance features. These platforms enable traders to optimize their strategies and streamline the trading process.
+Companies like AlgoTrader [offer](../o/offer.md) comprehensive [algorithmic trading](../a/algorithmic_trading.md) solutions that incorporate [value](../v/value.md) date management, [risk](../r/risk.md) assessment, and compliance features. These platforms enable traders to optimize their strategies and streamline the trading process.
 
 ## Conclusion
 

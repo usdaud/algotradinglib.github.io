@@ -1,6 +1,6 @@
 # Modern Portfolio Theory (MPT)
 
-Modern Portfolio Theory (MPT), developed by [Harry Markowitz](../h/harry_markowitz.md) and introduced in his 1952 paper "Portfolio Selection", revolutionized the way financial professionals construct investment portfolios. The model focuses on maximizing the [expected return](../e/expected_return.md) for a given level of [market risk](../m/market_risk.md), or equivalently, minimizing the [risk](../r/risk.md) for a given level of [expected return](../e/expected_return.md), through [diversification](../d/diversification.md). It forms the bedrock for numerous financial strategies and has influenced a vast amount of academic and practical advancements in [investment management](../i/investment_management.md), [risk](../r/risk.md) assessment, and [algorithmic trading](../a/accountability.md).
+Modern Portfolio Theory (MPT), developed by [Harry Markowitz](../h/harry_markowitz.md) and introduced in his 1952 paper "Portfolio Selection", revolutionized the way financial professionals construct investment portfolios. The model focuses on maximizing the [expected return](../e/expected_return.md) for a given level of [market risk](../m/market_risk.md), or equivalently, minimizing the [risk](../r/risk.md) for a given level of [expected return](../e/expected_return.md), through [diversification](../d/diversification.md). It forms the bedrock for numerous financial strategies and has influenced a vast amount of academic and practical advancements in [investment management](../i/investment_management.md), [risk](../r/risk.md) assessment, and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Key Concepts of Modern Portfolio Theory
 
@@ -72,7 +72,7 @@ Advanced algorithms—such as quadratic programming, [genetic algorithms](../g/g
 
 ## Practical Application in Algo-Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, leverages MPT by automating [portfolio rebalancing](../p/portfolio_rebalancing.md), [risk](../r/risk.md) assessment, and [optimization](../o/optimization.md) processes based on real-time data.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, leverages MPT by automating [portfolio rebalancing](../p/portfolio_rebalancing.md), [risk](../r/risk.md) assessment, and [optimization](../o/optimization.md) processes based on real-time data.
 
 ### Steps in Algo-Trading Utilizing MPT
 
@@ -127,17 +127,15 @@ In modern algo-trading and fintech applications, [machine learning algorithms](.
 
 Several fintech companies [offer](../o/offer.md) tools and platforms that [leverage](../l/leverage.md) MPT principles:
 
-### [Betterment](https://www.betterment.com/)
+### Betterment
 An automated investment service provider that uses MPT to create diversified portfolios tailored to individual [risk](../r/risk.md) preferences.
 
-### [Wealthfront](https://www.wealthfront.com/)
+### Wealthfront
 A robo-advisor deploying MPT principles to automate [portfolio management](../p/par.md) and optimize investors' returns.
 
-### [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
+### Portfolio Visualizer
 Provides a suite of tools for detailed [portfolio analysis](../p/portfolio_analysis.md), utilizing MPT for efficient allocation and performance analysis.
 
 ## Conclusion
 
-Modern Portfolio Theory remains a cornerstone of [investment strategy](../i/investment_strategy.md) and financial theory, providing powerful methodologies for portfolio construction and [risk management](../r/risk_management.md). While its assumptions and limitations necessitate further extensions and adaptations, MPT's principles continue to underpin modern innovations in both traditional [finance](../f/finance.md) and the burgeoning fields of [algorithmic trading](../a/accountability.md) and fintech. The constant evolution of these strategies ensures their relevance in effectively navigating the complexities of global [financial markets](../f/financial_market.md).
-
-[Harry Markowitz on Nobel Prize](https://www.nobelprize.org/prizes/economic-sciences/1990/markowitz/biographical/)
+Modern Portfolio Theory remains a cornerstone of [investment strategy](../i/investment_strategy.md) and financial theory, providing powerful methodologies for portfolio construction and [risk management](../r/risk_management.md). While its assumptions and limitations necessitate further extensions and adaptations, MPT's principles continue to underpin modern innovations in both traditional [finance](../f/finance.md) and the burgeoning fields of [algorithmic trading](../a/algorithmic_trading.md) and fintech. The constant evolution of these strategies ensures their relevance in effectively navigating the complexities of global [financial markets](../f/financial_market.md).

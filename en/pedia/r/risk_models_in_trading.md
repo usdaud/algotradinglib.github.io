@@ -56,10 +56,10 @@ Financial institutions use [risk](../r/risk.md) models to comply with regulatory
 ### Risk Modeling Software
 
 **BlackRock Aladdin**
-BlackRock Aladdin provides comprehensive [risk](../r/risk.md) analytics, involving detailed [scenario analysis](../s/scenario_analysis.md), [stress testing](../s/stress_testing_in_trading.md), and [portfolio management](../p/portfolio_management.md) tools. More details at [BlackRock Aladdin](https://www.blackrock.com/aladdin).
+BlackRock Aladdin provides comprehensive [risk](../r/risk.md) analytics, involving detailed [scenario analysis](../s/scenario_analysis.md), [stress testing](../s/stress_testing_in_trading.md), and [portfolio management](../p/portfolio_management.md) tools. More details at BlackRock Aladdin.
 
 **[Bloomberg](../b/bloomberg.md) [Risk](../r/risk.md) Terminal**
-[Bloomberg](../b/bloomberg.md) offers [robust](../r/robust.md) [risk management](../r/risk_management.md) tools through its [Bloomberg](../b/bloomberg.md) Terminal. The platform includes a wide array of [risk](../r/risk.md) analytics, including VaR, CVaR, and [stress testing](../s/stress_testing_in_trading.md) capabilities. More information available at [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/market-risk/).
+[Bloomberg](../b/bloomberg.md) offers [robust](../r/robust.md) [risk management](../r/risk_management.md) tools through its [Bloomberg](../b/bloomberg.md) Terminal. The platform includes a wide array of [risk](../r/risk.md) analytics, including VaR, CVaR, and [stress testing](../s/stress_testing_in_trading.md) capabilities. More information available at Bloomberg Professional Services.
 
 ### Challenges in Risk Modeling
 

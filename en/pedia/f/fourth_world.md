@@ -38,4 +38,3 @@
 
 ## Conclusion
 The term "Fourth World" highlights the plight of the most marginalized and underdeveloped populations, often indigenous or nomadic groups, who face extreme [poverty](../p/poverty.md) and lack political representation. Addressing the challenges faced by these groups requires concerted efforts in advocacy, economic development, cultural preservation, and securing land rights. Understanding and recognizing the unique needs and contributions of Fourth World populations is crucial for global [equity](../e/equity.md) and justice.
-

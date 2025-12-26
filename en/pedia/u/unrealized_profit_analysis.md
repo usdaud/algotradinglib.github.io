@@ -35,14 +35,13 @@ In certain jurisdictions, unrealized profits do not trigger tax events until the
 
 ### Real-Time Data Feeds
 Effective analysis of unrealized [profit](../p/profit.md) requires access to real-time data. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) depend on:
-- **[Market](../m/market.md) Data Providers**: Companies like [Bloomberg](../b/bloomberg.md) ([Bloomberg](https://www.bloomberg.com/)) and [Reuters](../r/reuters.md) ([Reuters](https://www.thomsonreuters.com/)) [offer](../o/offer.md) [real-time market data](../r/real-time_market_data.md) feeds.
-- **APIs**: APIs provided by trading platforms (e.g., [Interactive Brokers](https://www.interactivebrokers.com/)) allow for the integration of live data into [trading algorithms](../t/trading_algorithms.md).
+- **[Market](../m/market.md) Data Providers**: Companies like [Bloomberg](../b/bloomberg.md) (Bloomberg) and [Reuters](../r/reuters.md) (Reuters) [offer](../o/offer.md) [real-time market data](../r/real-time_market_data.md) feeds.
+- **APIs**: APIs provided by trading platforms (e.g., Interactive Brokers) allow for the integration of live data into [trading algorithms](../t/trading_algorithms.md).
 
 ### Portfolio Management Software
 Dedicated software solutions such as:
-- **MetaTrader** ([MetaTrader](https://www.metatrader4.com/))
-- **[QuantConnect](../q/quantconnect.md)** ([QuantConnect](https://www.quantconnect.com/)) 
-These platforms provide advanced tools for tracking and analyzing unrealized profits, [risk metrics](../r/risk_metrics.md), and overall [portfolio performance](../p/portfolio_performance.md).
+- **MetaTrader** (MetaTrader)
+- **[QuantConnect](../q/quantconnect.md)** (QuantConnect) These platforms provide advanced tools for tracking and analyzing unrealized profits, [risk metrics](../r/risk_metrics.md), and overall [portfolio performance](../p/portfolio_performance.md).
 
 ### Statistical Analysis
 Advanced statistical techniques, including:
@@ -52,10 +51,10 @@ Advanced statistical techniques, including:
 ## Case Studies
 
 ### Renaissance Technologies
-Renaissance Technologies, a pioneer in [quantitative trading](../q/quantitative_trading.md), employs comprehensive unrealized [profit](../p/profit.md) analysis to optimize its Medallion [Fund](../f/fund.md). Their [proprietary algorithms](../p/proprietary_algorithms.md) continuously assess unrealized profits to make informed trading decisions. More about their approach can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, a pioneer in [quantitative trading](../q/quantitative_trading.md), employs comprehensive unrealized [profit](../p/profit.md) analysis to optimize its Medallion [Fund](../f/fund.md). Their [proprietary algorithms](../p/proprietary_algorithms.md) continuously assess unrealized profits to make informed trading
 
 ### Bridgewater Associates
-Bridgewater Associates utilizes sophisticated [risk management](../r/risk_management.md) strategies incorporating unrealized [profit](../p/profit.md) analysis. Their focus on rigorous data analysis and systematic investment processes ensures that every potential [gain](../g/gain.md) is meticulously evaluated. Explore more about their strategies on their [official site](https://www.bridgewater.com/).
+Bridgewater Associates utilizes sophisticated [risk management](../r/risk_management.md) strategies incorporating unrealized [profit](../p/profit.md) analysis. Their focus on rigorous data analysis and systematic investment processes ensures that every potential [gain](../g/gain.md) is meticulously evaluated. Explore more about their strategies on their public materials.
 
 ## Best Practices for Unrealized Profit Analysis in Algotrading
 

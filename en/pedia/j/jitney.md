@@ -39,7 +39,7 @@ With the advent of electronic trading platforms and advancements in financial te
 
 ### Technological Advancements:
 
-1. **[Algorithmic Trading](../a/accountability.md)**: Algorithms can smartly route orders to exchanges that [offer](../o/offer.md) the best prices and [liquidity](../l/liquidity.md), minimizing the need for intermediary member firms.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Algorithms can smartly route orders to exchanges that [offer](../o/offer.md) the best prices and [liquidity](../l/liquidity.md), minimizing the need for intermediary member firms.
 2. **Direct [Market](../m/market.md) Access (DMA)**: DMA platforms enable non-member firms to access exchanges electronically, reducing reliance on traditional jitney arrangements.
 3. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technologies**: These technologies promise increased [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [trade](../t/trade.md) [execution](../e/execution.md) and settlement processes, potentially transforming traditional jitney trading frameworks.
 
@@ -47,7 +47,7 @@ With the advent of electronic trading platforms and advancements in financial te
 
 An example of a financial services company providing services related to jitney trading is Instinet. Instinet offers advanced trading technology solutions and [brokerage services](../b/brokerage_services.md), facilitating access to global markets for various clients.
 
-Website: [Instinet](https://www.instinet.com/)
+online platform: Instinet
 
 ## Conclusion
 

@@ -116,5 +116,5 @@ The Fama and French Three [Factor](../f/factor.md) Model has had a profound impa
 
 For further reading and to explore more about the contributions of Eugene Fama and Kenneth French, you can visit their respective academic and professional profiles:
 
-- [Eugene F. Fama at University of Chicago](https://www.chicagobooth.edu/faculty/directory/f/eugene-f-fama)
-- [Kenneth R. French at Dartmouth College](https://faculty.tuck.dartmouth.edu/ken-french/)
+- Eugene F. Fama at University of Chicago
+- Kenneth R. French at Dartmouth College

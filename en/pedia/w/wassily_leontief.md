@@ -69,19 +69,19 @@ Leontief's methods have extended beyond traditional [economics](../e/economics.m
 
 - **[Risk Management](../r/risk_management.md)**: By understanding the interdependencies between different industries, financial institutions can better manage [risk](../r/risk.md) and develop strategies to mitigate systemic shocks.
 - **[Investment Analysis](../i/investment_analysis.md)**: Investors can use input-output techniques to analyze economic sectors and identify potential investment opportunities or risks.
-- **[Algorithmic Trading](../a/accountability.md)**: Input-output models can be incorporated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to predict [market](../m/market.md) movements and optimize trading decisions.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Input-output models can be incorporated into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to predict [market](../m/market.md) movements and optimize trading decisions.
 
 ### Academic and Research Institutions
 
 Numerous academic and research institutions continue to expand on Leontief's work. For instance:
 
 - **Leontief Prize**: The Global Development and Environment Institute at Tufts University awards the Leontief Prize in honor of Wassily Leontief, recognizing outstanding contributions to economic theory that address contemporary issues such as global development and environmental sustainability.
-  
-  - [GDAE at Tufts University](https://sites.tufts.edu/gdae/leontief-prize/)
+
+ - GDAE at Tufts University
 
 - **Leontief Center**: Established in St. Petersburg, Russia, the Leontief Center promotes research in economic theory, analysis, and policy, continuing the legacy of Wassily Leontief's work.
-  
-  - [Leontief Center](http://www.leontief-centre.ru/)
+
+ - Leontief Center
 
 ## Conclusion
 

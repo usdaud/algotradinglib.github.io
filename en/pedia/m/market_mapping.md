@@ -87,7 +87,7 @@ Automated trading platforms integrate [Market](../m/market.md) Mapping with [exe
 
 - **MetaTrader**: Popular platform for [algorithmic trading](../a/algorithmic_trading.md) in forex and [futures](../f/futures.md).
 - **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting, [market](../m/market.md) analysis, and automated strategy development.
-- **[QuantConnect](../q/quantconnect.md)**: Cloud-based platform for developing and testing [trading algorithms](../t/trading_algorithms.md).
+- **[StockSharp](../s/stocksharp.md)**: platform for developing and testing [trading algorithms](../t/trading_algorithms.md).
 
 ### Visualization Tools
 
@@ -101,11 +101,11 @@ Visualization tools help in interpreting complex data:
 
 Several companies and organizations are at the forefront of [Market](../m/market.md) Mapping and [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Two Sigma**: A technology-driven investment [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and advanced engineering to create [market](../m/market.md) strategies. [Two Sigma](https://www.twosigma.com)
-- **Citadel**: A leading global financial institution that utilizes advanced technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md). [Citadel](https://www.citadel.com)
-- **Renaissance Technologies**: A [hedge fund](../h/hedge_fund.md) management company known for its [quantitative trading](../q/quantitative_trading.md) strategies. [Renaissance Technologies](https://www.rentec.com)
-- **AQR [Capital](../c/capital.md) Management**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) that applies [quantitative finance](../q/quantitative_finance.md) and [data analytics](../d/data_analytics.md). [AQR Capital Management](https://www.aqr.com)
-- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider with a focus on trading and technology. [Jane Street](https://www.janestreet.com)
+- **Two Sigma**: A technology-driven investment [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and advanced engineering to create [market](../m/market.md) strategies. Two Sigma
+- **Citadel**: A leading global financial institution that utilizes advanced technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md). Citadel
+- **Renaissance Technologies**: A [hedge fund](../h/hedge_fund.md) management company known for its [quantitative trading](../q/quantitative_trading.md) strategies. Renaissance Technologies
+- **AQR [Capital](../c/capital.md) Management**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) that applies [quantitative finance](../q/quantitative_finance.md) and [data analytics](../d/data_analytics.md). AQR Capital Management
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider with a focus on trading and technology. Jane Street
 
 ## Future Trends in Market Mapping
 

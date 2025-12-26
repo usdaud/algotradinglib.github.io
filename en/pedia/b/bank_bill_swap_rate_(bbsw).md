@@ -31,15 +31,11 @@ The BBSW has its roots in the evolution of the Australian [financial markets](..
 
 The Australian Securities and Investments [Commission](../c/commission.md) (ASIC) is the [principal](../p/principal.md) regulatory body overseeing the BBSW. ASIC is tasked with ensuring that the submission and calculation processes are transparent, accurate, and free from manipulation. This regulatory oversight safeguards [market](../m/market.md) integrity and enhances [investor](../i/investor.md) confidence.
 
-```markdown
-For more information, you can visit ASIC's official page on [benchmark](../b/benchmark.md) rates: [ASIC Benchmark Rates](https://asic.gov.au/regulatory-resources/markets/benchmark-rates/).
-```
-
 ## Comparison with Other Benchmark Rates
 
 While the BBSW serves the Australian [market](../m/market.md), it is important to understand its comparison with other global [benchmark](../b/benchmark.md) rates:
 
-- **LIBOR**: The London Interbank Offered Rate was a widely-used global [benchmark](../b/benchmark.md) until its phase-out in 2021. It was determined based on a survey of major banks in London.
+- **LIBOR**: The London Interbank Offered Rate was a widely-used global [benchmark](../b/benchmark.md) until its discontinuation in June 2023, when it was replaced by SOFR (Secured Overnight Financing Rate). It was determined based on a survey of major banks in London.
 - **EURIBOR**: The [Euro](../e/euro.md) Interbank Offered Rate serves as the [reference rate](../r/reference_rate.md) for [Euro](../e/euro.md)-denominated instruments. It is calculated similarly to BBSW but involves pan-European banks.
 - **SOFR**: The Secured Overnight [Financing](../f/financing.md) Rate is a newer [benchmark](../b/benchmark.md) in the United States, calculated based on overnight repurchase agreement transactions.
 

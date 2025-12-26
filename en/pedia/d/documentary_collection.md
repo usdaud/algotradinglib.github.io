@@ -57,7 +57,7 @@ An Indian textile exporter sells goods to a US buyer under D/A collection terms.
 
 ## Legal and Regulatory Framework
 
-Documentary collections are governed primarily by the Uniform Rules for Collections (URC 522), issued by the International Chamber of [Commerce](../c/commerce.md) (ICC). 
+Documentary collections are governed primarily by the Uniform Rules for Collections (URC 522), issued by the International Chamber of [Commerce](../c/commerce.md) (ICC).
 
 ### URC 522 Main Provisions
 
@@ -70,7 +70,7 @@ Compliance to these rules ensures a streamlined and [neutral](../n/neutral.md) f
 
 ## Conclusion
 
-Documentary collections [offer](../o/offer.md) a balanced approach to international [trade finance](../t/trade_finance.md), combining sender control over goods with relatively low costs and simplicity. While less secure than letters of [credit](../c/credit.md), they present fewer complexities and [offer](../o/offer.md) flexibility beneficial to both exporters and importers. Understanding the terms, process, and risks associated with DCs is crucial for businesses engaged in global [trade](../t/trade.md). 
+Documentary collections [offer](../o/offer.md) a balanced approach to international [trade finance](../t/trade_finance.md), combining sender control over goods with relatively low costs and simplicity. While less secure than letters of [credit](../c/credit.md), they present fewer complexities and [offer](../o/offer.md) flexibility beneficial to both exporters and importers. Understanding the terms, process, and risks associated with DCs is crucial for businesses engaged in global [trade](../t/trade.md).
 
-For more details, businesses and traders can refer to the International Chamber of [Commerce](../c/commerce.md)'s website for the complete URC 522 guidelines:
-[International Chamber of Commerce - URC 522](https://iccwbo.org/publication/uniform-rules-for-collections-urc-522/).
+For more details, businesses and traders can refer to the International Chamber of [Commerce](../c/commerce.md)'s online platform for the complete URC 522 guidelines:
+International Chamber of Commerce - URC 522.

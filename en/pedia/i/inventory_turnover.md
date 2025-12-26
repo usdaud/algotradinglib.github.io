@@ -67,13 +67,13 @@ This means the company sells and replaces its [inventory](../i/inventory.md) app
 
 Walmart, one of the largest retailers globally, has a reputation for efficiently managing [inventory](../i/inventory.md) to support its extensive network of stores and [distribution](../d/distribution.md) centers. The company leverages sophisticated [inventory management](../i/inventory_management.md) systems, real-time [data analytics](../d/data_analytics.md), and [robust](../r/robust.md) supplier relationships to maintain high [inventory](../i/inventory.md) [turnover](../t/turnover.md). As a result, Walmart can [offer](../o/offer.md) a wide [range](../r/range.md) of products at competitive prices while minimizing [holding costs](../h/holding_costs.md).
 
-For more information, visit [Walmart](https://corporate.walmart.com/).
+For more information, visit Walmart.
 
 ### Amazon
 
 Amazon's [inventory](../i/inventory.md) [turnover](../t/turnover.md) is a crucial component of its e-[commerce](../c/commerce.md) success. The company employs advanced algorithms and [machine learning](../m/machine_learning.md) models to forecast [demand](../d/demand.md), optimize stock levels, and manage its vast fulfillment network. By doing so, Amazon can deliver products quickly and maintain a high [inventory](../i/inventory.md) [turnover](../t/turnover.md) rate, ensuring [customer](../c/customer.md) satisfaction and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
-For more information, visit [Amazon](https://www.aboutamazon.com/).
+For more information, visit Amazon.
 
 ## Conclusion
 

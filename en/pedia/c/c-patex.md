@@ -39,7 +39,7 @@ C-Patex offers competitive [fee](../f/fee.md) structures, including:
 
 To assist users, C-Patex provides several [customer](../c/customer.md) support channels:
 
-- **Live Chat:** Immediate assistance through a live chat feature on their website.
+- **Live Chat:**
 - **Email Support:** Users can reach out via email for more complex queries.
 - **FAQ and Help Center:** A comprehensive FAQ section and help center provide answers to common questions and troubleshooting guides.
 
@@ -97,4 +97,3 @@ C-Patex has shown promising growth through strategic partnerships and continuous
 
 C-Patex is carving out its niche in the crowded cryptocurrency [exchange](../e/exchange.md) [market](../m/market.md) by focusing on [security](../s/security.md), user experience, and innovation. As the digital assets ecosystem continues to evolve, C-Patex is well-positioned to adapt and grow, [offering](../o/offering.md) traders a reliable and feature-rich platform.
 
-For more information, visit the official C-Patex website: [C-Patex](https://www.c-patex.com)

@@ -2,6 +2,8 @@
 
 In the context of trading and [finance](../f/finance.md), the term "underlying" refers to the fundamental [asset](../a/asset.md) upon which a [derivative](../d/derivative.md)'s price is based. [Derivatives](../d/derivatives.md) are financial instruments whose [value](../v/value.md) is derived from the [value](../v/value.md) of another [asset](../a/asset.md), known as the "[underlying asset](../u/underlying_asset.md)." Examples of [derivatives](../d/derivatives.md) include [options](../o/options.md), [futures](../f/futures.md), swaps, and other similar financial instruments. The [underlying asset](../u/underlying_asset.md) can be a stock, [bond](../b/bond.md), [commodity](../c/commodity.md), [currency](../c/currency.md), [index](../i/index_instrument.md), or even an [interest rate](../i/interest_rate.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 The concept of the [underlying asset](../u/underlying_asset.md) is crucial for understanding how [derivatives](../d/derivatives.md) work and are priced. The performance or price movements of the [underlying asset](../u/underlying_asset.md) [will](../w/will.md) directly impact the [value](../v/value.md) of the [derivative](../d/derivative.md). For example, if you [hold](../h/hold.md) an option contract, the [value](../v/value.md) of that option [will](../w/will.md) fluctuate based on the price movements of the stock that underlies the option.
 
 ## Types of Underlying Assets
@@ -71,7 +73,7 @@ For [equity derivatives](../e/equity_derivatives.md), corporate actions such as 
 
 ## Underlying in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo trading, involves using computer algorithms to execute trades at high speed and [volume](../v/volume.md). In this domain, understanding the behavior of underlying assets is paramount for developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). 
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves using computer algorithms to execute trades at high speed and [volume](../v/volume.md). In this domain, understanding the behavior of underlying assets is paramount for developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
 
 ### Data Analysis
 Algo traders often use historical data of the underlying assets to backtest their models. This involves analyzing past price movements to predict future behavior and optimize [trading algorithms](../t/trading_algorithms.md).
@@ -93,10 +95,10 @@ Various algo [trading strategies](../t/trading_strategies.md) are built around u
 Fintech companies are leveraging technology to simplify and democratize access to [financial markets](../f/financial_market.md), including [derivatives](../d/derivatives.md) and their underlying assets. Innovations in this space include:
 
 ### Trading Platforms
-Fintech firms are creating intuitive trading platforms that provide access to a wide [range](../r/range.md) of underlying assets and [derivatives](../d/derivatives.md). These platforms often [offer](../o/offer.md) advanced charting tools, [algorithmic trading](../a/accountability.md) capabilities, and real-time data feeds.
+Fintech firms are creating intuitive trading platforms that provide access to a wide [range](../r/range.md) of underlying assets and [derivatives](../d/derivatives.md). These platforms often [offer](../o/offer.md) advanced charting tools, [algorithmic trading](../a/algorithmic_trading.md) capabilities, and real-time data feeds.
 
 For example:
-- **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers access to [stocks](../s/stock.md), [options](../o/options.md), and cryptocurrencies. Visit: [Robinhood](https://robinhood.com)
+- **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers access to [stocks](../s/stock.md), [options](../o/options.md), and cryptocurrencies. Visit: Robinhood
 
 ### Robo-Advisors
 Robo-advisors use algorithms to manage investment portfolios, often including [derivatives](../d/derivatives.md) and their underlying assets as part of an overall strategy designed to achieve specific financial goals.

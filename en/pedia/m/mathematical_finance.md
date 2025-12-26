@@ -37,7 +37,7 @@ Where:
 ## 2. Risk Management
 
 ### 2.1 Value at Risk (VaR)
-[Value](../v/value.md) at [Risk](../r/risk.md) is a statistical technique used to measure the [risk](../r/risk.md) of loss on a portfolio. This measure estimates the potential loss in [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). 
+[Value](../v/value.md) at [Risk](../r/risk.md) is a statistical technique used to measure the [risk](../r/risk.md) of loss on a portfolio. This measure estimates the potential loss in [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md).
 
 #### VaR Formula
 \[
@@ -159,20 +159,15 @@ Where:
 
 ## Companies and Institutions Specializing in Mathematical Finance
 
-### 6.1 Quantitative Brokers (https://www.quantitativebrokers.com/)
-Quantitative Brokers provides advanced algorithms and analytics for agency [execution](../e/execution.md) and trading. Their methodologies are deeply rooted in mathematical [finance](../f/finance.md) and computational techniques.
+### 6.1 Quantitative Brokers Quantitative Brokers provides advanced algorithms and analytics for agency [execution](../e/execution.md) and trading. Their methodologies are deeply rooted in mathematical [finance](../f/finance.md) and computational techniques.
 
-### 6.2 WorldQuant (https://www.worldquant.com/)
-WorldQuant is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to develop [trading strategies](../t/trading_strategies.md) and manage portfolios.
+### 6.2 WorldQuant WorldQuant is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to develop [trading strategies](../t/trading_strategies.md) and manage portfolios.
 
-### 6.3 Jane Street (https://www.janestreet.com/)
-Jane Street is a trading [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider with a focus on using advanced quantitative methods for trading in global [financial markets](../f/financial_market.md).
+### 6.3 Jane Street Jane Street is a trading [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider with a focus on using advanced quantitative methods for trading in global [financial markets](../f/financial_market.md).
 
-### 6.4 Renaissance Technologies (https://www.rentec.com/)
-Renaissance Technologies is a highly renowned quantitative investment [firm](../f/firm.md) known for its Medallion [Fund](../f/fund.md), which utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
+### 6.4 Renaissance Technologies Renaissance Technologies is a highly renowned quantitative investment [firm](../f/firm.md) known for its Medallion [Fund](../f/fund.md), which utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [trading strategies](../t/trading_strategies.md).
 
-### 6.5 Two Sigma (https://www.twosigma.com/)
-Two Sigma is a top-tier quantitative [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and applied mathematics to devise investment strategies.
+### 6.5 Two Sigma Two Sigma is a top-tier quantitative [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and applied mathematics to devise investment strategies.
 
 ## Conclusion
 

@@ -50,7 +50,7 @@ Before diving deeper into the strategy, it's essential to understand why dips oc
 
 ## Real-World Example: Renaissance Technologies
 
-One of the most famous and successful firms in the [algorithmic trading](../a/accountability.md) space is Renaissance Technologies, founded by Jim Simons. Their Medallion [Fund](../f/fund.md) is known for its exceptional performance, largely attributed to sophisticated [trading algorithms](../t/trading_algorithms.md) that may incorporate dip-buying strategies. More information about Renaissance Technologies can be found on their official [website](https://www.rentec.com/).
+One of the most famous and successful firms in the [algorithmic trading](../a/accountability.md) space is Renaissance Technologies, founded by Jim Simons. Their Medallion [Fund](../f/fund.md) is known for its exceptional performance, largely attributed to sophisticated [trading algorithms](../t/trading_algorithms.md) that may incorporate dip-buying strategies.
 
 ## Criticisms and Risks of Buying the Dips
 

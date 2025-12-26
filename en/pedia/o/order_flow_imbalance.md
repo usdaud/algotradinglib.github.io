@@ -45,7 +45,7 @@ Several methods can be employed to measure and analyze [order](../o/order.md) fl
 
 #### Case Study: Renaissance Technologies
 
-Renaissance Technologies, one of the most prominent [quantitative trading](../q/quantitative_trading.md) firms, is known for its sophisticated algorithms that include [order](../o/order.md) flow imbalance as a key component. They [leverage](../l/leverage.md) high-frequency data to detect minute imbalances and [capitalize](../c/capitalize.md) on price discrepancies. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, one of the most prominent [quantitative trading](../q/quantitative_trading.md) firms, is known for its sophisticated algorithms that include [order](../o/order.md) flow imbalance as a key component. They [leverage](../l/leverage.md) high-frequency data to detect minute imbalances and [capitalize](../c/capitalize.md) on price discrepancies.
 
 #### Implementation: Smart Order Routing
 

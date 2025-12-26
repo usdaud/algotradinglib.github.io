@@ -103,6 +103,6 @@ Uncovered [Interest Rate Parity](../i/interest_rate_parity.md) (UIP) is a founda
 
 For further detailed exploration of related financial concepts and strategies, you can visit the following resource:
 
-- [City University of Hong Kong - Department of Economics and Finance](http://www.cb.cityu.edu.hk/ef/index.php)
+- City University of Hong Kong - Department of Economics and Finance
 
 This institution provides comprehensive resources and academic publications on various aspects of [finance](../f/finance.md), including UIP and other related topics.

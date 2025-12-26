@@ -21,7 +21,7 @@ Non-member banks that are state-chartered are primarily regulated by state banki
 ### Advantages
 
 - **Flexibility in Operations**: Non-member banks often have more flexibility in their operations because they are not subject to the same stringent regulatory requirements as Federal Reserve System member banks. This allows them to tailor their services more specifically to their [market](../m/market.md) niche and [customer](../c/customer.md) base.
-  
+
 - **Community Focus**: Many non-member banks are community or regional banks that focus on serving local populations. They tend to have a better understanding of local [economic conditions](../e/economic_conditions.md) and can [offer](../o/offer.md) products that are more aligned with the needs of their community.
 
 ### Disadvantages
@@ -35,13 +35,10 @@ Non-member banks that are state-chartered are primarily regulated by state banki
 Prominent non-member banks include several regional banks and community banks across the United States. Some notable examples include:
 
 1. **[Bank](../b/bank.md) of the Ozarks**: A regional [bank](../b/bank.md) based in Arkansas with a strong focus on commercial lending.
-   [Visit Bank of the Ozarks](https://www.bankozarks.com/)
-  
+
 2. **First Citizens [Bank](../b/bank.md)**: A state-chartered [bank](../b/bank.md) that operates primarily in the southeastern United States.
-   [Visit First Citizens Bank](https://www.firstcitizens.com/)
 
 3. **Wintrust [Bank](../b/bank.md)**: Headquartered in Illinois, this [bank](../b/bank.md) specializes in providing personal and [business banking](../b/business_banking.md) services.
-   [Visit Wintrust Bank](https://www.wintrust.com/)
 
 ## Non-Member Banks and Technology
 
@@ -70,8 +67,7 @@ Eastern [Bank](../b/bank.md), a prominent non-member [bank](../b/bank.md) based 
 - **Eastern Labs**: An initiative to develop and test new financial products and services using cutting-edge technology.
 - **Voice Banking**: A service that enables customers to conduct banking transactions using voice commands through smart speakers and virtual assistants.
 - **Partnerships with Fintech Companies**: Collaboration with fintech startups to integrate new technologies and enhance [customer](../c/customer.md) experience.
-  
-[Visit Eastern Bank](https://www.easternbank.com/)
+
 
 ## Conclusion
 

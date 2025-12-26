@@ -7,18 +7,18 @@ The oil [market](../m/market.md) is a complex and multifaceted domain that plays
 ### National Oil Companies (NOCs)
 NOCs are government-owned entities that control significant portions of oil production and reserves. Examples include Saudi Aramco, the world’s largest oil company, and Russia's Rosneft. These companies often manage the majority of their respective countries' oil assets and are used as tools for economic and foreign policy.
 
-- **Saudi Aramco**: [aramco.com](https://www.aramco.com)
-- **Rosneft**: [rosneft.com](https://www.rosneft.com)
+- **Saudi Aramco**: aramco.com
+- **Rosneft**: rosneft.com
 
 ### International Oil Companies (IOCs)
 IOCs are privately-owned companies that operate globally. They engage in all aspects of the oil [industry](../i/industry.md), from exploration to selling refined products. Major IOCs include ExxonMobil, Royal Dutch Shell, and Chevron.
 
-- **ExxonMobil**: [corporate.exxonmobil.com](https://corporate.exxonmobil.com)
+- **ExxonMobil**: corporate.exxonmobil.com
 
 ### Oil Exchange Platforms
 Oil exchanges facilitate the trading of oil and its [derivatives](../d/derivatives.md). Prominent exchanges include the New York Mercantile [Exchange](../e/exchange.md) (NYMEX) and the Intercontinental [Exchange](../e/exchange.md) (ICE).
 
-- **NYMEX**: [cmegroup.com](https://www.cmegroup.com/markets/energy.html)
+- **NYMEX**: cmegroup.com
 
 ## Market Structure
 

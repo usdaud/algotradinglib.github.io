@@ -1,6 +1,6 @@
 # Restricted Stock Unit (RSU)
 
-[Restricted Stock](../r/restricted_stock.md) Units (RSUs) are a type of compensation offered by an employer to employees in the form of company [shares](../s/shares.md). RSUs are used widely by public companies as part of their executive and employee compensation packages. Unlike stock [options](../o/options.md), RSUs come with restrictions, which typically include a [vesting](../v/vesting.md) schedule that must be met before the employee can claim ownership of the [shares](../s/shares.md). This article provides a comprehensive overview of RSUs, their working mechanism, advantages and disadvantages, tax implications, and [comparative analysis](../c/comparative_analysis.md) with other stock-based compensation forms. 
+[Restricted Stock](../r/restricted_stock.md) Units (RSUs) are a type of compensation offered by an employer to employees in the form of company [shares](../s/shares.md). RSUs are used widely by public companies as part of their executive and employee compensation packages. Unlike stock [options](../o/options.md), RSUs come with restrictions, which typically include a [vesting](../v/vesting.md) schedule that must be met before the employee can claim ownership of the [shares](../s/shares.md). This article provides a comprehensive overview of RSUs, their working mechanism, advantages and disadvantages, tax implications, and [comparative analysis](../c/comparative_analysis.md) with other stock-based compensation forms.
 
 ## Introduction to RSUs
 
@@ -72,11 +72,11 @@ Employers typically withhold a portion of the [shares](../s/shares.md) to cover 
 
 ### Amazon.com, Inc.
 
-Amazon utilizes RSUs extensively as part of their compensation strategy. More details can be found on Amazon's [investor relations](../i/investor_relations.md) page [here](https://www.amazon.com/ir).
+Amazon utilizes RSUs extensively as part of their compensation strategy../i/investor_relations.md) page here.
 
 ### Microsoft Corporation
 
-Microsoft also grants RSUs to its employees, and specifics can be accessed on their official page [here](https://www.microsoft.com/investor).
+Microsoft also grants RSUs to its employees, and specifics can be accessed on their public materials here.
 
 ## Conclusion
 

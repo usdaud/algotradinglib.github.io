@@ -1,6 +1,6 @@
 # Pionex
 
-Pionex is a cryptocurrency [exchange](../e/exchange.md) that is known for its built-in trading bots, providing a [range](../r/range.md) of tools that automate trading for users. Unlike traditional exchanges that require third-party software or manual [trading strategies](../t/trading_strategies.md), Pionex integrates various trading bots directly into its platform to make automated trading more accessible. The platform's ease of use and diverse selection of bots make it an appealing choice for both novice and experienced traders. 
+Pionex is a cryptocurrency [exchange](../e/exchange.md) that is known for its built-in trading bots, providing a [range](../r/range.md) of tools that automate trading for users. Unlike traditional exchanges that require third-party software or manual [trading strategies](../t/trading_strategies.md), Pionex integrates various trading bots directly into its platform to make automated trading more accessible. The platform's ease of use and diverse selection of bots make it an appealing choice for both novice and experienced traders.
 
 ## Key Features
 
@@ -16,7 +16,7 @@ Pionex offers a suite of 16 free trading bots that cater to different [trading s
 Pionex boasts some of the lowest trading fees in the [industry](../i/industry.md), with a flat [fee](../f/fee.md) of 0.05% for both makers and takers. This is significantly lower compared to many other exchanges, making it attractive for high-frequency traders and those making large volumes of trades.
 
 ### Aggregated Liquidity
-To enhance its trading capabilities, Pionex aggregates [liquidity](../l/liquidity.md) from other major exchanges including [Binance](../b/binance.md) and Huobi. This means that users can benefit from deeper [liquidity](../l/liquidity.md) and better pricing, reducing [slippage](../s/slippage.md), and improving the overall trading experience.
+To enhance its trading capabilities, Pionex aggregates [liquidity](../l/liquidity.md) from other major exchanges including [Binance](../b/binance.md) and HTX (formerly Huobi). This means that users can benefit from deeper [liquidity](../l/liquidity.md) and better pricing, reducing [slippage](../s/slippage.md), and improving the overall trading experience.
 
 ### Safety and Regulation
 Pionex adheres to stringent [security](../s/security.md) protocols and is regulated by the U.S. FinCEN as a [Money](../m/money.md) Services [Business](../b/business.md) (MSB). It employs [industry](../i/industry.md)-standard [security](../s/security.md) measures such as two-[factor](../f/factor.md) authentication (2FA), [withdrawal](../w/withdrawal.md) whitelist, and cold storage solutions for the majority of user funds.
@@ -59,4 +59,3 @@ Activating a trading bot on Pionex is designed to be a simple process:
 
 Pionex stands out in the crowded cryptocurrency [exchange](../e/exchange.md) landscape by [offering](../o/offering.md) a unique proposition: built-in trading bots that automate various [trading strategies](../t/trading_strategies.md). Its low fees, aggregated [liquidity](../l/liquidity.md), and strong [security](../s/security.md) make it an attractive choice for both novice and seasoned traders. By providing an array of powerful tools in a user-friendly package, Pionex enables traders to focus more on strategy and less on [execution](../e/execution.md), potentially leading to more consistent and profitable outcomes.
 
-For more information, visit the official website: [Pionex](https://www.pionex.com)

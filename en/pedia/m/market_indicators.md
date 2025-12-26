@@ -76,7 +76,7 @@ This ratio indicates the relative proportion of shareholders' [equity](../e/equi
 
 ## Application in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) (or algo-trading) uses computer algorithms to manage trading and investments. [Market](../m/market.md) indicators play a crucial role in the design and [execution](../e/execution.md) of these automated [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) (or algo-trading) uses computer algorithms to manage trading and investments. [Market](../m/market.md) indicators play a crucial role in the design and [execution](../e/execution.md) of these automated [trading strategies](../t/trading_strategies.md).
 
 ### Quantitative Analysis
 
@@ -104,22 +104,22 @@ Several firms and platforms innovate using [market](../m/market.md) indicators i
 
 ### MetaTrader 4 and 5
 
-MetaTrader is a popularly used [trading platform](../t/trading_platform.md) providing a vast array of [technical indicators](../t/technical_indicator.md) for forex, commodities, and indices trading. Users can custom-create new indicators or use predefined ones. [MetaTrader](https://www.metatrader4.com/en)
+MetaTrader is a popularly used [trading platform](../t/trading_platform.md) providing a vast array of [technical indicators](../t/technical_indicator.md) for forex, commodities, and indices trading. Users can custom-create new indicators or use predefined ones. MetaTrader
 
 ### TradingView
 
-[TradingView](../t/tradingview.md) offers a [social networking](../s/social_networking.md) platform for traders and a [robust](../r/robust.md) charting tool with a wide [range](../r/range.md) of [technical indicators](../t/technical_indicator.md). It has scripting tools for creating custom indicators and strategies. [TradingView](https://www.tradingview.com)
+[TradingView](../t/tradingview.md) offers a [social networking](../s/social_networking.md) platform for traders and a [robust](../r/robust.md) charting tool with a wide [range](../r/range.md) of [technical indicators](../t/technical_indicator.md). It has scripting tools for creating custom indicators and strategies. TradingView
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/accountability.md) platform allowing for [backtesting](../b/backtesting.md) and live trading using various [market](../m/market.md) indicators. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and data sources. [QuantConnect](https://www.quantconnect.com)
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform allowing for [backtesting](../b/backtesting.md) and live trading using various [market](../m/market.md) indicators. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and data sources. QuantConnect
 
 ### Alpaca
 
-[Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading with API access suited for algo-traders. The platform allows the integration of [multiple](../m/multiple.md) [technical indicators](../t/technical_indicator.md) for executing trades. [Alpaca](https://alpaca.markets)
+[Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading with API access suited for algo-traders. The platform allows the integration of [multiple](../m/multiple.md) [technical indicators](../t/technical_indicator.md) for executing trades. Alpaca
 
 ### Goldman Sachs
 
-Goldman Sachs has long been a leader in leveraging [quantitative trading](../q/quantitative_trading.md) strategies and employs various technical and fundamental indicators for managing its investments and trading operations. [Goldman Sachs](https://www.goldmansachs.com)
+Goldman Sachs has long been a leader in leveraging [quantitative trading](../q/quantitative_trading.md) strategies and employs various technical and fundamental indicators for managing its investments and trading operations. Goldman Sachs
 
 By understanding and utilizing different [market](../m/market.md) indicators, traders and investors can better navigate [financial markets](../f/financial_market.md), minimize risks, and optimize their [trading strategies](../t/trading_strategies.md). Whether you're engaging in manual trading or employing sophisticated algorithmic strategies, mastering [market](../m/market.md) indicators is essential for informed decision-making in the financial world.

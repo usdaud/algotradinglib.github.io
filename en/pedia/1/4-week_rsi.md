@@ -7,18 +7,18 @@ The 4-Week [Relative Strength](../r/relative_strength.md) [Index](../i/index_ins
 The RSI calculation consists of two main components: RS, the [Relative Strength](../r/relative_strength.md), which is the average of X days' up closes divided by the average of X days' down closes, and RS, which is then used to form the RSI. Here is a step-by-step guide:
 
 1. Calculate the daily gains and losses:
-   - **[Gain](../g/gain.md)** is the closing price increase compared to the previous day.
-   - **Loss** is the closing price decrease compared to the previous day.
+ - **[Gain](../g/gain.md)** is the closing price increase compared to the previous day.
+ - **Loss** is the closing price decrease compared to the previous day.
 
 2. Calculate the average gains and losses over the 4-week period.
-   - **Average [Gain](../g/gain.md)** = Sum of all gains over the past 4 weeks / 20
-   - **Average Loss** = Sum of all losses over the past 4 weeks / 20
+ - **Average [Gain](../g/gain.md)** = Sum of all gains over the past 4 weeks / 20
+ - **Average Loss** = Sum of all losses over the past 4 weeks / 20
 
-3. Calculate the [Relative Strength](../r/relative_strength.md) (RS): 
-   - RS = Average [Gain](../g/gain.md) / Average Loss
+3. Calculate the [Relative Strength](../r/relative_strength.md) (RS):
+ - RS = Average [Gain](../g/gain.md) / Average Loss
 
 4. Calculate the RSI using the following formula:
-   - RSI = 100 - (100 / (1 + RS))
+ - RSI = 100 - (100 / (1 + RS))
 
 The RSI [will](../w/will.md) move between 0 and 100, with high values (typically above 70) indicating that the [asset](../a/asset.md) may be [overbought](../o/overbought.md), and low values (typically below 30) indicating that the [asset](../a/asset.md) may be [oversold](../o/oversold.md).
 
@@ -100,7 +100,7 @@ One of the real-world applications of RSI in [trading algorithms](../t/trading_a
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers a comprehensive environment for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). Traders using [QuantConnect](../q/quantconnect.md) can [leverage](../l/leverage.md) the RSI among numerous other indicators to build [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).
+QuantConnect is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers a comprehensive environment for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). Traders using [QuantConnect](../q/quantconnect.md) can [leverage](../l/leverage.md) the RSI among numerous other indicators to build [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

@@ -67,4 +67,3 @@ Looking ahead, [Gemini](../g/gemini.md) has plans to expand its services and int
 
 [Gemini](../g/gemini.md) [Exchange](../e/exchange.md) stands out in the cryptocurrency landscape due to its rigorous compliance with regulatory standards, focus on [security](../s/security.md), and commitment to providing a seamless and user-friendly trading experience. With its diverse [range](../r/range.md) of services and products tailored to both retail and institutional investors, [Gemini](../g/gemini.md) continues to be a trusted and innovative player in the evolving world of digital assets.
 
-For more information, you can visit [Gemini's official website](https://www.gemini.com).

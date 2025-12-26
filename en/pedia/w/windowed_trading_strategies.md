@@ -6,34 +6,34 @@ Windowed [Trading Strategies](../t/trading_strategies.md) refer to [algorithmic 
 - Introduction to Windowed [Trading Strategies](../t/trading_strategies.md)
 - Rationale and Objectives
 - Types of Windowed [Trading Strategies](../t/trading_strategies.md)
-  - Rolling Windows
-  - Expanding Windows
-  - Fixed Windows
-  - Sliding Windows
+ - Rolling Windows
+ - Expanding Windows
+ - Fixed Windows
+ - Sliding Windows
 - Key Concepts
-  - Lookback Period
-  - Window Size
-  - Overlapping vs. Non-overlapping Windows
+ - Lookback Period
+ - Window Size
+ - Overlapping vs. Non-overlapping Windows
 - Implementation Techniques
-  - Data Preprocessing
-  - Feature Engineering
-  - Model Training and Validation
+ - Data Preprocessing
+ - Feature Engineering
+ - Model Training and Validation
 - Applications in [Market](../m/market.md) Scenarios
-  - High-Frequency Trading
-  - [Swing Trading](../s/swing_trading.md)
-  - [Intraday Trading](../i/intraday_trading.md)
+ - High-Frequency Trading
+ - [Swing Trading](../s/swing_trading.md)
+ - [Intraday Trading](../i/intraday_trading.md)
 - Algorithm Examples
-  - Moving Averages
-  - [Mean Reversion](../m/mean_reversion.md)
-  - [Momentum](../m/momentum.md) Strategies
+ - Moving Averages
+ - [Mean Reversion](../m/mean_reversion.md)
+ - [Momentum](../m/momentum.md) Strategies
 - Tools and Platforms
-  - Python Libraries (Pandas, Scikit-learn)
-  - Trading Platforms ([QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md))
+ - Python Libraries (Pandas, Scikit-learn)
+ - Trading Platforms ([StockSharp](../s/stocksharp.md), [Alpaca](../a/alpaca.md))
 - Case Studies and Real-world Examples
 - Challenges and Considerations
-  - Computational Complexity
-  - [Overfitting](../o/overfitting.md) and Underfitting
-  - Parameter Selection
+ - Computational Complexity
+ - [Overfitting](../o/overfitting.md) and Underfitting
+ - Parameter Selection
 - Future Trends and Prospects
 - Conclusion
 
@@ -150,7 +150,7 @@ Splitting the data into training and validation sets ensures unbiased model perf
 ### High-Frequency Trading
 
 Windowed strategies are pivotal in high-frequency trading, where decisions are based on minute-by-minute or even second-by-second data:
-- **Algowire:** Provides tools for implementing high-frequency windowed strategies. [Algowire](https://algowire.com)
+- **Algowire:** Provides tools for implementing high-frequency windowed strategies. Algowire
 
 ### Swing Trading
 
@@ -185,14 +185,14 @@ Moving averages smooth out price data to identify trends:
 ### Python Libraries
 
 Python offers [robust](../r/robust.md) libraries for implementing windowed strategies:
-- **Pandas:** For data manipulation and window functions. [Pandas](https://pandas.pydata.org)
-- **Scikit-learn:** For model building and validation. [Scikit-learn](https://scikit-learn.org)
+- **Pandas:** For data manipulation and window functions. Pandas
+- **Scikit-learn:** For model building and validation. Scikit-learn
 
 ### Trading Platforms
 
 Several platforms facilitate the development and deployment of windowed [trading strategies](../t/trading_strategies.md):
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. [QuantConnect](https://www.quantconnect.com)
-- **[Alpaca](../a/alpaca.md):** Offers [commission](../c/commission.md)-free trading with an API ideal for algorithmic traders. [Alpaca](https://alpaca.markets)
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. QuantConnect
+- **[Alpaca](../a/alpaca.md):** Offers [commission](../c/commission.md)-free trading with an API ideal for algorithmic traders. Alpaca
 
 ## Case Studies and Real-world Examples
 

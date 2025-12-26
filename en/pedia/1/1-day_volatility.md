@@ -16,9 +16,9 @@ One common approach to calculate 1-Day [Volatility](../v/volatility.md) is throu
 
 2. **Compute Daily Returns**: Calculate the daily returns using the formula:
 
-   ```
-   Daily [Return](../r/return.md) = (Today's Closing Price - Yesterday's Closing Price) / Yesterday's Closing Price
-   ```
+ ```
+ Daily [Return](../r/return.md) = (Today's Closing Price - Yesterday's Closing Price) / Yesterday's Closing Price
+ ```
 
 3. **Calculate [Average Return](../a/average_return.md)**: Determine the mean of the daily returns.
 
@@ -31,28 +31,28 @@ One common approach to calculate 1-Day [Volatility](../v/volatility.md) is throu
 Assuming you have a series of daily closing prices over 5 days: 100, 102, 98, 105, 101.
 
 1. Calculate Daily Returns:
-   ```
-   Day 2: (102 - 100) / 100 = 0.02 or 2%
-   Day 3: (98 - 102) / 102 = -0.0392 or -3.92%
-   Day 4: (105 - 98) / 98 = 0.0714 or 7.14%
-   Day 5: (101 - 105) / 105 = -0.0381 or -3.81%
-   ```
+ ```
+ Day 2: (102 - 100) / 100 = 0.02 or 2%
+ Day 3: (98 - 102) / 102 = -0.0392 or -3.92%
+ Day 4: (105 - 98) / 98 = 0.0714 or 7.14%
+ Day 5: (101 - 105) / 105 = -0.0381 or -3.81%
+ ```
 
 2. Find the Mean [Return](../r/return.md):
-   ```
-   Mean = (2% - 3.92% + 7.14% - 3.81%) / 4 = 0.85%
-   ```
+ ```
+ Mean = (2% - 3.92% + 7.14% - 3.81%) / 4 = 0.85%
+ ```
 
 3. Calculate Variance:
-   ```
-   Variance = [(2% - 0.85%)^2 + (-3.92% - 0.85%)^2 + (7.14% - 0.85%)^2 + (-3.81% - 0.85%)^2] / 4
-            = 0.000339
-   ```
+ ```
+ Variance = [(2% - 0.85%)^2 + (-3.92% - 0.85%)^2 + (7.14% - 0.85%)^2 + (-3.81% - 0.85%)^2] / 4
+ = 0.000339
+ ```
 
 4. [Standard Deviation](../s/standard_deviation.md) (1-Day [Volatility](../v/volatility.md)):
-   ```
-   1-Day [Volatility](../v/volatility.md) = sqrt(0.000339) ≈ 0.0184 or 1.84%
-   ```
+ ```
+ 1-Day [Volatility](../v/volatility.md) = sqrt(0.000339) ≈ 0.0184 or 1.84%
+ ```
 
 ## Importance in Algotrading
 
@@ -80,7 +80,7 @@ By analyzing 1-Day [Volatility](../v/volatility.md), traders can construct a div
 
 ### 3. Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) involves exploiting price inefficiencies between related securities. By analyzing 1-Day [Volatility](../v/volatility.md), algorithms can identify anomalies and discrepancies to execute timely [arbitrage](../a/arbitrage.md) trades. 
+Statistical [arbitrage](../a/arbitrage.md) involves exploiting price inefficiencies between related securities. By analyzing 1-Day [Volatility](../v/volatility.md), algorithms can identify anomalies and discrepancies to execute timely [arbitrage](../a/arbitrage.md) trades.
 
 ### 4. High-Frequency Trading (HFT)
 
@@ -98,15 +98,13 @@ There are several [software platforms](../s/software_platforms_for_trading.md) a
 ### Trading Platforms
 
 1. **MetaTrader 4/5**: Popular trading platforms that [offer](../o/offer.md) built-in indicators and custom scripting capabilities to analyze [volatility](../v/volatility.md).
-2. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports data [import](../i/import.md), strategy development, and [backtesting](../b/backtesting.md) using historical data.
+2. **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports data [import](../i/import.md), strategy development, and [backtesting](../b/backtesting.md) using historical data.
 
 ### Financial Data Providers
 
 1. **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive [market](../m/market.md) data, including daily price movements, which can be used to calculate 1-Day [Volatility](../v/volatility.md).
-   [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 2. **[Yahoo Finance](../y/yahoo_finance.md)**: Offers free access to historical price data for various securities.
-   [Yahoo Finance](https://finance.yahoo.com/)
 
 ### Volatility Indicators
 

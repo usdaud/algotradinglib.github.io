@@ -98,6 +98,6 @@ The role of a liquidator is both intricate and vital in the realm of financial m
 
 For more information, you can visit:
 
-- The UK's [Insolvency](../i/insolvency.md) Service: [Insolvency Service](https://www.gov.uk/government/organisations/insolvency-service)
-- The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC): [SEC](https://www.sec.gov)
-- Australian Securities and Investments [Commission](../c/commission.md) (ASIC): [ASIC](https://asic.gov.au)
+- The UK's [Insolvency](../i/insolvency.md) Service: Insolvency Service
+- The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC): SEC
+- Australian Securities and Investments [Commission](../c/commission.md) (ASIC): ASIC

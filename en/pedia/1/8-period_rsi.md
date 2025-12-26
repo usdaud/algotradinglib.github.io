@@ -25,13 +25,13 @@ For an 8-period RSI:
 ### Steps in Calculation:
 
 1. **Determine Closing Prices**: Calculate the [gain](../g/gain.md) or loss from the previous period. Gains are counted as positive numbers, while losses are counted as absolute values (positive numbers), as the concept of 'loss' inherently carries a negative [value](../v/value.md).
-   
+
 2. **Calculate Averages**: Compute the average [gain](../g/gain.md) and average loss for the initial 8 periods. For subsequent periods, apply the smoothing technique recommended by Wilder:
 
-    ```
-    Average [Gain](../g/gain.md) = [(Previous Average [Gain](../g/gain.md) * (n-1)) + Current [Gain](../g/gain.md)] / n
-    Average Loss = [(Previous Average Loss * (n-1)) + Current Loss] / n
-    ```
+ ```
+ Average [Gain](../g/gain.md) = [(Previous Average [Gain](../g/gain.md) * (n-1)) + Current [Gain](../g/gain.md)] / n
+ Average Loss = [(Previous Average Loss * (n-1)) + Current Loss] / n
+ ```
 
 3. **Compute RS**: Divide the average [gain](../g/gain.md) by the average loss.
 
@@ -58,28 +58,28 @@ The 8-period RSI is shorter-term and more sensitive to recent price movements co
 ### Developing an RSI-Based Algorithm
 
 1. **Defining Parameters**:
-    - Time Frame: Decide whether the algorithm [will](../w/will.md) be used for [intraday trading](../i/intraday_trading.md), [swing trading](../s/swing_trading.md), or longer-term positions.
-    - [Asset Class](../a/asset_class.md): Specify which [stocks](../s/stock.md), commodities, or forex pairs the algorithm [will](../w/will.md) [trade](../t/trade.md).
+ - Time Frame: Decide whether the algorithm [will](../w/will.md) be used for [intraday trading](../i/intraday_trading.md), [swing trading](../s/swing_trading.md), or longer-term positions.
+ - [Asset Class](../a/asset_class.md): Specify which [stocks](../s/stock.md), commodities, or forex pairs the algorithm [will](../w/will.md) [trade](../t/trade.md).
 
 2. **Identifying Rules**:
-    - [Trading Signals](../t/trading_signals.md): Buy when the 8-period RSI crosses above a certain threshold (e.g., 30 from below), and sell when it crosses below a certain threshold (e.g., 70 from above).
-    - [Position Sizing](../p/position_sizing.md): Determine the amount or percentage of the portfolio to allocate for each [trade](../t/trade.md).
+ - [Trading Signals](../t/trading_signals.md): Buy when the 8-period RSI crosses above a certain threshold (e.g., 30 from below), and sell when it crosses below a certain threshold (e.g., 70 from above).
+ - [Position Sizing](../p/position_sizing.md): Determine the amount or percentage of the portfolio to allocate for each [trade](../t/trade.md).
 
 3. **[Backtesting](../b/backtesting.md) and [Optimization](../o/optimization.md)**:
-    - Historical Data: Use past [market](../m/market.md) data to backtest the algorithm, ensuring it would have performed well historically.
-    - Optimize Parameters: Adjust the RSI thresholds and other parameters to maximize returns and minimize [risk](../r/risk.md).
+ - Historical Data: Use past [market](../m/market.md) data to backtest the algorithm, ensuring it would have performed well historically.
+ - Optimize Parameters: Adjust the RSI thresholds and other parameters to maximize returns and minimize [risk](../r/risk.md).
 
 4. **Implementation and Monitoring**:
-    - [Execution](../e/execution.md): Deploy the algorithm on a [trading platform](../t/trading_platform.md), ensuring it can execute trades as intended without lag.
-    - Real-time Monitoring: Continuously monitor the performance of the algorithm and adjust parameters as needed to adapt to changing [market](../m/market.md) conditions.
+ - [Execution](../e/execution.md): Deploy the algorithm on a [trading platform](../t/trading_platform.md), ensuring it can execute trades as intended without lag.
+ - Real-time Monitoring: Continuously monitor the performance of the algorithm and adjust parameters as needed to adapt to changing [market](../m/market.md) conditions.
 
 ### Tools and Platforms
 
 Numerous platforms and tools are available to help traders develop, backtest, and implement RSI-based algorithms:
 
-- **MetaTrader 4 & 5**: Popular trading platforms that support automated trading through Expert Advisors (EAs). 
+- **MetaTrader 4 & 5**: Popular trading platforms that support automated trading through Expert Advisors (EAs).
 - **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading using Python and C#.
+- **[StockSharp](../s/stocksharp.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading using C#.
 - **[Interactive Brokers](../i/interactive_brokers.md) API**: Allows for direct access to [market](../m/market.md) data and trading operations through custom-built algorithms.
 
 ## Real-World Example
@@ -97,7 +97,7 @@ Running this algorithm over historical data can help determine its effectiveness
 The 8-period RSI is a powerful tool in the arsenal of technical traders, [offering](../o/offering.md) timely insights into [market](../m/market.md) conditions. When used within the framework of [algorithmic trading](../a/algorithmic_trading.md), it allows for the automation of buy and sell decisions, potentially capitalizing on [market](../m/market.md) efficiencies and reducing emotional bias. As with any [trading strategy](../t/trading_strategy.md), thorough [backtesting](../b/backtesting.md), proper [risk management](../r/risk_management.md), and continuous monitoring are crucial for success.
 
 For more information on platforms that support [algorithmic trading](../a/algorithmic_trading.md), you can visit:
-- [MetaTrader](https://www.metatrader4.com/)
-- [NinjaTrader](https://ninjatrader.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- MetaTrader
+- NinjaTrader
+- QuantConnect
+- Interactive Brokers

@@ -2,7 +2,7 @@
 
 In the realm of [finance](../f/finance.md) and particularly in the context of electronic payments, the term "void [transaction](../t/transaction.md)" refers to the process of nullifying a previously authorized [transaction](../t/transaction.md). Unlike a refund, which occurs after the [transaction](../t/transaction.md) has been completed and settled, voiding a [transaction](../t/transaction.md) stops the process before it can finalize. This means the funds that were initially set aside for the [transaction](../t/transaction.md) are released back to the cardholder immediately.
 
-Void transactions are a crucial concept in financial transactions, particularly in sectors like retail, e-[commerce](../c/commerce.md), and any service [industry](../i/industry.md) that relies heavily on [credit](../c/credit.md) and [debit](../d/debit.md) card transactions. Let's delve deeper into understanding void transactions, the scenarios in which they are used, the impact on merchants and customers, and the technicalities involved in the process. 
+Void transactions are a crucial concept in financial transactions, particularly in sectors like retail, e-[commerce](../c/commerce.md), and any service [industry](../i/industry.md) that relies heavily on [credit](../c/credit.md) and [debit](../d/debit.md) card transactions. Let's delve deeper into understanding void transactions, the scenarios in which they are used, the impact on merchants and customers, and the technicalities involved in the process.
 
 ## Definition and Purpose
 
@@ -73,16 +73,15 @@ Regularly monitor [transaction](../t/transaction.md) patterns to identify areas 
 
 ## Examples of Platforms and Cases
 
-**Square**: Square is a widely used [payment](../p/payment.md) processor [offering](../o/offering.md) functionalities to void transactions through their POS and e-[commerce](../c/commerce.md) gateways [Square](https://squareup.com). 
-Logs of all void transactions are maintained, and they [offer](../o/offer.md) support to merchants on handling these operations efficiently.
+**Square**: Square is a widely used [payment](../p/payment.md) processor [offering](../o/offering.md) functionalities to void transactions through their POS and e-[commerce](../c/commerce.md) gateways Square. Logs of all void transactions are maintained, and they [offer](../o/offer.md) support to merchants on handling these operations efficiently.
 
-**Stripe**: Stripe is another major player in e-[commerce](../c/commerce.md) [payment](../p/payment.md) processing, providing APIs for voiding transactions via its dashboard [Stripe](https://stripe.com).
+**Stripe**: Stripe is another major player in e-[commerce](../c/commerce.md) [payment](../p/payment.md) processing, providing APIs for voiding transactions via its dashboard Stripe.
 
-**Real-world Case**: 
+**Real-world Case**:
 A [customer](../c/customer.md) in an online store accidentally enters an incorrect purchase amount. After realizing the mistake, they immediately contact the store. The merchant utilizes their [payment](../p/payment.md) gateway's dashboard to locate the [transaction](../t/transaction.md) and execute a void. The [customer](../c/customer.md) is promptly notified, and the funds are released back to their account without appearing on their statement.
 
 ## Conclusion
 
-Void transactions are an essential component of modern financial operations, [offering](../o/offering.md) a streamlined method to cancel transactions before they finalize. This capability benefits merchants by reducing fees and bookkeeping complications, and it enhances [customer](../c/customer.md) satisfaction by reducing the time required to release held funds. 
+Void transactions are an essential component of modern financial operations, [offering](../o/offering.md) a streamlined method to cancel transactions before they finalize. This capability benefits merchants by reducing fees and bookkeeping complications, and it enhances [customer](../c/customer.md) satisfaction by reducing the time required to release held funds.
 
 Understanding the technical and operational nuances of void transactions is critical for all stakeholders in the [finance](../f/finance.md) and retail sectors. Adopting [best practices](../b/best_practices.md) and leveraging advanced [payment](../p/payment.md) systems ensures that void transactions are handled efficiently, securely, and in compliance with regulatory standards.

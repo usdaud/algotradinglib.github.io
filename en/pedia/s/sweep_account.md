@@ -79,13 +79,13 @@ While sweep accounts maintain [liquidity](../l/liquidity.md), there may be delay
 ## Real-World Examples
 
 ### Morgan Stanley
-Morgan Stanley offers a variety of sweep account [options](../o/options.md) for its clients, including [options](../o/options.md) to automatically invest excess cash into [money market](../m/money_market.md) funds and other high-[yield](../y/yield.md) investment vehicles. More information can be found on their official website: [Morgan Stanley Sweep Accounts](https://www.morganstanley.com/wealth-investment-strategies/sweep-programs)
+Morgan Stanley offers a variety of sweep account [options](../o/options.md) for its clients, including [options](../o/options.md) to automatically invest excess cash into [money market](../m/money_market.md) funds and other high-[yield](../y/yield.md) investment vehicles.
 
 ### Bank of America
-[Bank](../b/bank.md) of America provides sweep accounts designed for businesses looking to optimize their [cash management](../c/cash_management.md). The [bank](../b/bank.md) offers various solutions such as [Zero Balance](../z/zero_balance.md) Accounts (ZBA) and investment sweeps. Detailed information is available at [Bank of America Sweep Accounts](https://www.bankofamerica.com/smallbusiness/checking/sweep-products/).
+[Bank](../b/bank.md) of America provides sweep accounts designed for businesses looking to optimize their [cash management](../c/cash_management.md). The [bank](../b/bank.md) offers various solutions such as [Zero Balance](../z/zero_balance.md) Accounts (ZBA) and investment sweeps. Detailed information is available at Bank of America Sweep Accounts.
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) offers extensive sweep account [options](../o/options.md) aimed at retail and institutional clients. The brokerage [firm](../f/firm.md) provides automatic investment of excess cash into [money market](../m/money_market.md) funds, optimizing returns while ensuring [liquidity](../l/liquidity.md). You can learn more here: [Charles Schwab Cash Features](https://www.schwab.com/public/schwab/investing/accounts_products/accounts/sweep).
+[Charles Schwab](../c/charles_schwab.md) offers extensive sweep account [options](../o/options.md) aimed at retail and institutional clients. The brokerage [firm](../f/firm.md) provides automatic investment of excess cash into [money market](../m/money_market.md) funds, optimizing returns while ensuring [liquidity](../l/liquidity.md). You can learn more here: Charles Schwab Cash Features.
 
 ## Conclusion
 

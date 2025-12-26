@@ -12,7 +12,7 @@ The 8(a) program was established under the Small [Business](../b/business.md) Ac
 - Assist eligible small firms access the economic mainstream of American society.
 - Provide a level playing field for disadvantaged businesses.
 - Promote equal access to contracting opportunities in the federal government.
-  
+
 ### Eligibility
 
 To qualify for the 8(a) program, businesses must meet the following criteria:
@@ -20,7 +20,7 @@ To qualify for the 8(a) program, businesses must meet the following criteria:
 - Have a personal [net worth](../n/net_worth.md) below a certain threshold.
 - Demonstrate potential for success.
 - Show good character.
-  
+
 ### Social and Economic Disadvantage
 
 #### Social Disadvantage:
@@ -81,10 +81,10 @@ The 8(a) program lasts a maximum of nine years:
 Clark Construction enrolled and utilized the benefits of the 8(a) program which resulted in securing several significant government contracts and grew exponentially.
 
 ### ChemTrack
-ChemTrack: A native-owned [firm](../f/firm.md) excelled in federal contracting by leveraging 8(a) support. [ChemTrack](https://www.chemtrack.net/)
+ChemTrack: A native-owned [firm](../f/firm.md) excelled in federal contracting by leveraging 8(a) support.
 
 ### Softrams, LLC
-Softrams, an IT consulting [firm](../f/firm.md), successfully expanded by availing the 8(a) program's resources. [Softrams](https://www.softrams.com/)
+Softrams, an IT consulting [firm](../f/firm.md), successfully expanded by availing the 8(a) program's resources.
 
 ## Challenges and Criticisms
 

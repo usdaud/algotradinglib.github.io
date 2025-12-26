@@ -61,11 +61,11 @@ Benchmarking against key competitors helps in identifying a company’s standing
 
 ### Amazon
 
-Amazon (https://www.amazon.com/), a leading e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) company, frequently reports its [financial performance](../f/financial_performance.md). For instance, their consistently growing Operating [Cash Flow](../c/cash_flow.md) [Margin](../m/margin.md) over the past years is a testament to their efficient operational management and [robust](../r/robust.md) cash generation capabilities.
+Amazon ( a leading e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) company, frequently reports its [financial performance](../f/financial_performance.md). For instance, their consistently growing Operating [Cash Flow](../c/cash_flow.md) [Margin](../m/margin.md) over the past years is a testament to their efficient operational management and [robust](../r/robust.md) cash generation capabilities.
 
 ### Apple
 
-Apple Inc. (https://www.apple.com/) is another example of a company with a strong focus on [operational efficiency](../o/operational_efficiency_in_trading.md). Their high OCFM underscores their ability to generate significant cash from extensive sales and effective cost management.
+Apple Inc. ( is another example of a company with a strong focus on [operational efficiency](../o/operational_efficiency_in_trading.md). Their high OCFM underscores their ability to generate significant cash from extensive sales and effective cost management.
 
 ## Utilizing OCFM in Financial Modeling and Forecasting
 

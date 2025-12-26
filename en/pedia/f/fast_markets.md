@@ -22,7 +22,7 @@ In fast markets, latency can cost traders significant [value](../v/value.md). Al
 - Adapt quickly to evolving conditions.
 - Execute orders with minimal delay.
 
-Companies like Virtu Financial, an electronic [market maker](../m/market_maker.md), and trading solutions provider, emphasize the importance of low-latency systems to [capitalize](../c/capitalize.md) on fast markets. [Virtu](https://www.virtu.com/)
+Companies like Virtu Financial, an electronic [market maker](../m/market_maker.md), and trading solutions provider, emphasize the importance of low-latency systems to [capitalize](../c/capitalize.md) on fast markets. Virtu
 
 #### 2. Risk Management
 Fast markets increase the [risk](../r/risk.md) of unintended trading consequences. Algorithms must have [robust](../r/robust.md) [risk management](../r/risk_management.md) protocols, such as:
@@ -37,7 +37,7 @@ Fast markets can lead to inefficiencies between correlated assets or across diff
 
 #### 1. High-Frequency Trading (HFT)
 HFT algorithms are specifically designed for the fast pace of these markets. They incorporate complex strategies including [market](../m/market.md)-making, statistical [arbitrage](../a/arbitrage.md), and [trend following](../t/trend_following.md).
- 
+
 #### 2. Latency Arbitrage
 This technique involves leveraging small delays in information dissemination and reaction between different exchanges to secure low-[risk](../r/risk.md) profits.
 
@@ -53,7 +53,7 @@ Exchanges have upgraded their [infrastructure](../i/infrastructure.md) to [handl
 To mitigate extreme [volatility](../v/volatility.md), exchanges have implemented circuit breakers. These are automatic mechanisms that pause trading if prices move beyond pre-defined levels, [offering](../o/offering.md) a cooling-off period.
 
 #### 3. Regulatory Oversight
-Regulators like the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the U.S. and the Financial Conduct Authority (FCA) in the U.K. continue to refine their regulations to ensure fair and stable markets during periods of high [volatility](../v/volatility.md). 
+Regulators like the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the U.S. and the Financial Conduct Authority (FCA) in the U.K. continue to refine their regulations to ensure fair and stable markets during periods of high [volatility](../v/volatility.md).
 
 ### Case Studies
 

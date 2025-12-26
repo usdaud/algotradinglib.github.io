@@ -71,15 +71,15 @@ Thematic portfolios require continuous monitoring and adjustment. Trends evolve,
 
 ### ARK Invest
 ARK Invest is renowned for its focus on [disruptive innovation](../d/disruptive_innovation.md) and [thematic investing](../t/thematic_investing.md). The company's thematic ETFs, such as the ARK Innovation ETF (ARKK), concentrate on technologies like gene editing, automation, and digital wallets. These funds exemplify how [thematic investing](../t/thematic_investing.md) can be applied to capture growth opportunities in emerging technologies.
-- [ARK Invest](https://ark-invest.com/)
+- ARK Invest
 
 ### iShares by BlackRock
 [iShares](../i/ishares.md) offers a [range](../r/range.md) of thematic ETFs that allow investors to [gain](../g/gain.md) exposure to various themes. The [iShares](../i/ishares.md) Global Clean Energy ETF (ICLN) focuses on companies in the clean [energy sector](../e/energy_sector.md), while the [iShares](../i/ishares.md) Robotics and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) ETF (IRBO) targets firms in the robotics and AI industries.
-- [iShares by BlackRock](https://www.ishares.com/us/products/239726/ishares-global-clean-energy-etf)
+- iShares by BlackRock
 
 ### Invesco
 Invesco's QQQ [Trust](../t/trust.md), often known as the "[NASDAQ](../n/nasdaq.md)-100 [Index Fund](../i/index_fund.md)," includes companies at the forefront of innovation across various sectors. Although not strictly thematic, it provides exposure to technology and biotech themes due to its inclusion of top growth companies in these areas.
-- [Invesco](https://www.invesco.com/qqq-etf/en/home.html)
+- Invesco
 
 ## Risks in Thematic Portfolio Construction
 

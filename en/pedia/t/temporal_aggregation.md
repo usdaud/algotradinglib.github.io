@@ -37,9 +37,9 @@ Temporal [aggregation](../a/aggregation.md) refers to the process of summarizing
 
 ### Case Studies and Examples
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md)'s [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for time-series data resampling and temporal [aggregation](../a/aggregation.md), enabling users to develop and backtest algorithms with different data granularities. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md)'s [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for time-series data resampling and temporal [aggregation](../a/aggregation.md), enabling users to develop and backtest algorithms with different data granularities. QuantConnect
 2. **Kaggle Competitions**: Several financial time-series [forecasting](../f/forecasting.md) competitions on Kaggle emphasize the importance of temporal [aggregation](../a/aggregation.md) techniques to enhance model performance.
-3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) terminals allow traders to aggregate financial data over customizable time intervals, aiding in thorough [market](../m/market.md) analysis. [Bloomberg](https://www.bloomberg.com/)
+3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) terminals allow traders to aggregate financial data over customizable time intervals, aiding in thorough [market](../m/market.md) analysis. Bloomberg
 
 ### Tools and Libraries
 

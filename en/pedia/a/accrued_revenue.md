@@ -7,7 +7,7 @@ Accrued [revenue](../r/revenue.md) is an important metric used to reflect the [f
 ## Importance of Accrued Revenue
 
 ### 1. Reflects True Financial Performance
-Accrued [revenue](../r/revenue.md) provides a more accurate picture of a company's [financial performance](../f/financial_performance.md) during an [accounting](../a/accounting.md) period. By recognizing [revenue](../r/revenue.md) when it is earned rather than when [payment](../p/payment.md) is received, businesses can better match revenues to the expenses incurred to generate them within the same period. 
+Accrued [revenue](../r/revenue.md) provides a more accurate picture of a company's [financial performance](../f/financial_performance.md) during an [accounting](../a/accounting.md) period. By recognizing [revenue](../r/revenue.md) when it is earned rather than when [payment](../p/payment.md) is received, businesses can better match revenues to the expenses incurred to generate them within the same period.
 
 ### 2. Compliance with Accounting Standards
 Accrued [revenue](../r/revenue.md) is essential for compliance with generally accepted [accounting principles](../a/accounting_principles.md) (GAAP) and International Financial Reporting Standards (IFRS). These standards require that [revenue](../r/revenue.md) be recognized when it is earned and realizable, not necessarily when it is received.

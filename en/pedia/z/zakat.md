@@ -41,12 +41,10 @@ Zakat plays a pivotal role in the redistribution of [wealth](../w/wealth.md) wit
 
 ### Modern Zakat Collection and Management
 
-In recent decades, several organizations and state departments have been set up to manage the collection and [distribution](../d/distribution.md) of Zakat funds. These bodies often facilitate online calculation and [payment](../p/payment.md) methods to streamline the process. For instance, in countries like Malaysia and Pakistan, Zakat departments within the government manage the collection and equitable redistribution. 
+In recent decades, several organizations and state departments have been set up to manage the collection and [distribution](../d/distribution.md) of Zakat funds. These bodies often facilitate online calculation and [payment](../p/payment.md) methods to streamline the process. For instance, in countries like Malaysia and Pakistan, Zakat departments within the government manage the collection and equitable redistribution.
 
 Examples of modern Zakat bodies include:
-- National Zakat Foundation in the UK (https://nzf.org.uk/)
-- Zakat Foundation of America (https://www.zakat.org/)
-
+- National Zakat Foundation in the UK - Zakat Foundation of America
 ### Impact on Financial Planning
 
 For practicing Muslims, Zakat [payment](../p/payment.md) is an essential component of [financial planning](../f/financial_planning.md). It requires Muslims to be aware of their financial situation and act in accordance with Islamic principles regarding [wealth management](../w/wealth_management.md). Therefore, it integrates religious duty with financial stewardship and ethical [wealth](../w/wealth.md) [distribution](../d/distribution.md).

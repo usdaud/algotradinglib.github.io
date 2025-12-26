@@ -5,7 +5,7 @@ In the realm of [foreign exchange (Forex) trading](../f/foreign_exchange_(forex)
 ## Key Yen Cross Rate Pairs
 
 ### EUR/JPY
-The EUR/JPY is a major cross-[currency](../c/currency.md) pair that involves the [Euro](../e/euro.md) (EUR) and the Japanese Yen (JPY). This pair is frequently traded due to the significant economic activities and [market](../m/market.md) [liquidity](../l/liquidity.md) stemming from both the [European Union](../e/european_union_(eu).md) and Japan. Trading the EUR/JPY allows investors to speculate on the [relative strength](../r/relative_strength.md) of the European [economy](../e/economy.md) and the Japanese [market](../m/market.md). 
+The EUR/JPY is a major cross-[currency](../c/currency.md) pair that involves the [Euro](../e/euro.md) (EUR) and the Japanese Yen (JPY). This pair is frequently traded due to the significant economic activities and [market](../m/market.md) [liquidity](../l/liquidity.md) stemming from both the [European Union](../e/european_union_(eu).md) and Japan. Trading the EUR/JPY allows investors to speculate on the [relative strength](../r/relative_strength.md) of the European [economy](../e/economy.md) and the Japanese [market](../m/market.md).
 
 ### GBP/JPY
 The GBP/JPY involves the British Pound (GBP) and the Japanese Yen (JPY). This pair is known for its high [volatility](../v/volatility.md), which provides ample trading opportunities. The [volatility](../v/volatility.md) is often driven by economic events in the UK and Japan, making it a favorite among experienced Forex traders looking for sizeable [market](../m/market.md) movements.
@@ -48,13 +48,13 @@ The monetary policies set by central banks such as the [Bank](../b/bank.md) of J
 Several institutional players engage in the trading of Yen cross rates. These include central banks, [hedge](../h/hedge.md) funds, mutual funds, and large financial institutions. Each of these entities plays a unique role in shaping the [market dynamics](../m/market_dynamics.md).
 
 ### Hedge Funds
-[Hedge](../h/hedge.md) funds actively [trade](../t/trade.md) Yen cross rates as part of their broader strategies. They use various tools, including [quantitative models](../q/quantitative_models.md), to identify profitable opportunities. Renowned [hedge](../h/hedge.md) funds like Bridgewater Associates [link](https://www.bridgewater.com/) often have significant positions in the Forex [market](../m/market.md).
+[Hedge](../h/hedge.md) funds actively [trade](../t/trade.md) Yen cross rates as part of their broader strategies. They use various tools, including [quantitative models](../q/quantitative_models.md), to identify profitable opportunities. Renowned [hedge](../h/hedge.md) funds like Bridgewater Associates link often have significant positions in the Forex [market](../m/market.md).
 
 ### Central Banks
 Central banks, particularly the [Bank](../b/bank.md) of Japan (BoJ), periodically intervene in the Forex [market](../m/market.md) to stabilize the Yen’s [value](../v/value.md). Such interventions can lead to substantial shifts in Yen cross rates.
 
 ### Mutual Funds
-Mutual funds invest in Yen cross rates as part of their diversified portfolios. Funds like The Vanguard Group [link](https://investor.vanguard.com/) [offer](../o/offer.md) exposure to international currencies, including the Yen, through specific [mutual fund](../m/mutual_fund.md) products.
+Mutual funds invest in Yen cross rates as part of their diversified portfolios. Funds like The Vanguard Group link [offer](../o/offer.md) exposure to international currencies, including the Yen, through specific [mutual fund](../m/mutual_fund.md) products.
 
 ## Trading Strategies for Yen Cross Rates
 

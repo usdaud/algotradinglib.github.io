@@ -4,7 +4,7 @@ In [finance](../f/finance.md) and [investing](../i/investing.md), the concept of
 
 ## Definition
 
-The unadjusted [basis](../b/basis.md) of an [asset](../a/asset.md) is its original [value](../v/value.md), typically the purchase price, before any adjustments are made for factors such as [depreciation](../d/depreciation.md), improvements, or other related costs. It is a straightforward measure that helps in calculating the initial investment into an [asset](../a/asset.md). 
+The unadjusted [basis](../b/basis.md) of an [asset](../a/asset.md) is its original [value](../v/value.md), typically the purchase price, before any adjustments are made for factors such as [depreciation](../d/depreciation.md), improvements, or other related costs. It is a straightforward measure that helps in calculating the initial investment into an [asset](../a/asset.md).
 
 The unadjusted [basis](../b/basis.md) serves as the starting point for determining the adjusted [basis](../b/basis.md), which is more commonly used in tax calculations. Adjusted [basis](../b/basis.md) takes into account various factors that can increase or decrease the [asset](../a/asset.md)'s [value](../v/value.md) over time.
 
@@ -31,7 +31,7 @@ Unadjusted [Basis](../b/basis.md): $207,000
 
 Understanding the unadjusted [basis](../b/basis.md) is crucial for various reasons:
 
-1. **Tax Implications**: The unadjusted [basis](../b/basis.md) is often the starting point for calculating tax [obligations](../o/obligation.md) when an [asset](../a/asset.md) is sold. 
+1. **Tax Implications**: The unadjusted [basis](../b/basis.md) is often the starting point for calculating tax [obligations](../o/obligation.md) when an [asset](../a/asset.md) is sold.
 2. **[Financial Analysis](../f/financial_analysis.md)**: Investors use the unadjusted [basis](../b/basis.md) as a key metric to measure the initial [capital](../c/capital.md) invested.
 3. **[Depreciation](../d/depreciation.md) Calculations**: For assets subject to [depreciation](../d/depreciation.md), the unadjusted [basis](../b/basis.md) is the amount on which [depreciation](../d/depreciation.md) calculations are initially based.
 4. **[Portfolio Management](../p/par.md)**: Knowing the unadjusted [basis](../b/basis.md) helps in assessing the performance of specific assets within a portfolio.

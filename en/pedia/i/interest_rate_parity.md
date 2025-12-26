@@ -4,7 +4,7 @@
 
 ## Basic Concepts and Types of Interest Rate Parity
 
-There are two main types of [Interest Rate](../i/interest_rate.md) [Parity](../p/parity.md): [Covered Interest Rate Parity](../c/covered_interest_rate_parity.md) (CIRP) and Uncovered [Interest Rate](../i/interest_rate.md) [Parity](../p/parity.md) (UIRP). 
+There are two main types of [Interest Rate](../i/interest_rate.md) [Parity](../p/parity.md): [Covered Interest Rate Parity](../c/covered_interest_rate_parity.md) (CIRP) and Uncovered [Interest Rate](../i/interest_rate.md) [Parity](../p/parity.md) (UIRP).
 
 ### Covered Interest Rate Parity (CIRP)
 

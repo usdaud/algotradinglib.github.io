@@ -96,4 +96,4 @@ Integrating new technologies such as [blockchain](../b/blockchain_in_trading.md)
 
 The [Options](../o/options.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (OCC) is a cornerstone of the U.S. [options](../o/options.md) [market](../m/market.md), providing essential [clearing and settlement](../c/clearing_and_settlement.md) services that ensure [market](../m/market.md) stability and integrity. Its [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, innovative technological initiatives, and commitment to regulatory compliance make it a model institution in the financial [industry](../i/industry.md). As the landscape continues to evolve, the OCC [will](../w/will.md) undoubtedly play a crucial role in shaping the future of [options](../o/options.md) trading.
 
-For more detailed information about the OCC, visit their [official website](https://www.theocc.com).
+For more detailed information about the OCC,

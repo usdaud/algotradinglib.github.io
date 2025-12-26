@@ -42,10 +42,10 @@ Algorithmic traders can exploit [arbitrage](../a/arbitrage.md) opportunities tha
 ## Case Studies
 
 ### Apple Inc. (AAPL)
-In 2013, Apple announced a significant share [buyback](../b/buyback.md) program. By the end of 2021, Apple had repurchased over $400 billion worth of its [shares](../s/shares.md). This aggressive [buyback](../b/buyback.md) strategy contributed to substantial stock price appreciation. [Apple](https://www.apple.com/)
+In 2013, Apple announced a significant share [buyback](../b/buyback.md) program. By the end of 2021, Apple had repurchased over $400 billion worth of its [shares](../s/shares.md). This aggressive [buyback](../b/buyback.md) strategy contributed to substantial stock price appreciation. Apple
 
 ### Microsoft Corporation (MSFT)
-Microsoft declared a $40 billion [buyback](../b/buyback.md) program in 2019, contributing to sustained increases in its stock price and highlighted the company's confidence in its growth prospects. [Microsoft](https://www.microsoft.com/)
+Microsoft declared a $40 billion [buyback](../b/buyback.md) program in 2019, contributing to sustained increases in its stock price and highlighted the company's confidence in its growth prospects. Microsoft
 
 ## Algorithmic Trading Strategies for Buybacks
 
@@ -86,4 +86,3 @@ Regulatory changes and enhanced [disclosure](../d/disclosure.md) requirements ar
 ## Conclusion
 
 Share buybacks are a critical aspect of financial strategies for many companies and a significant [market](../m/market.md) event that attracts the attention of algorithmic traders. By understanding the mechanics, motivations, and [market](../m/market.md) impacts of buybacks, traders can develop sophisticated algorithms to [capitalize](../c/capitalize.md) on these opportunities. As technology and [transparency](../t/transparency.md) around buybacks continue to evolve, [algorithmic trading](../a/algorithmic_trading.md) strategies [will](../w/will.md) undoubtedly become more refined and effective in exploiting these [market](../m/market.md) phenomena.
-

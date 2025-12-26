@@ -33,7 +33,7 @@ Netflix's journey from a DVD rental service to a streaming giant also exemplifie
 ## Limitations and Considerations
 
 1. **Over-Reliance on Past Data:** While Hockey Stick Charts highlight significant growth, relying solely on historical data can be problematic. Future growth is not guaranteed and can be influenced by [market](../m/market.md) conditions, competition, and other external factors.
-   
+
 2. **Short-Term vs Long-Term Trends:** The sharp growth depicted in a Hockey Stick Chart may be short-lived. Investors and analysts should consider whether the growth is sustainable in the long term or a temporary spike caused by specific events like [marketing](../m/marketing.md) campaigns or seasonal trends.
 
 3. **Data Integrity:** The accuracy of a Hockey Stick Chart is heavily dependent on the quality of the data used. Inaccurate or manipulated data can lead to misleading interpretations, causing poor decision-making.

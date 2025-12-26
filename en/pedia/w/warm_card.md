@@ -30,14 +30,12 @@ The concept of "warming up" in trading often involves [simulated trading](../s/s
 [Simulation](../s/simulation_in_trading.md) environments are platforms where traders can execute simulated trades using historical or live data without risking actual [capital](../c/capital.md). These environments help traders [gain](../g/gain.md) confidence and refine their strategies.
 
 **Popular [Simulation](../s/simulation_in_trading.md) Platforms:**
-- **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/accountability.md) platform where users can backtest and deploy strategies using a wide [range](../r/range.md) of data sources.
-  [Visit QuantConnect](https://www.quantconnect.com)
+- **[StockSharp](../s/stocksharp.md):** A [algorithmic trading](../a/algorithmic_trading.md) platform where users can backtest and deploy strategies using a wide [range](../r/range.md) of data sources.
 - **AlgoTrader:** An institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md) solution that includes powerful [simulation](../s/simulation_in_trading.md) and [backtesting](../b/backtesting.md) capabilities.
-  [Visit AlgoTrader](https://www.algotrader.com)
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves using computer programs to [trade](../t/trade.md) financial instruments at high speeds and frequencies based on complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. 
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer programs to [trade](../t/trade.md) financial instruments at high speeds and frequencies based on complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
 
 ### Phases of Algorithm Development
 
@@ -55,9 +53,9 @@ Warming up algorithms in a controlled or simulated environment is crucial as it 
 - Ensure the algorithm behaves as expected under various [market](../m/market.md) conditions.
 - Optimize performance based on real-time data dynamics.
 
-## Risk Management 
+## Risk Management
 
-Effective [risk management](../r/risk_management.md) strategies are vital in trading to protect investments and ensure long-term profitability. 
+Effective [risk management](../r/risk_management.md) strategies are vital in trading to protect investments and ensure long-term profitability.
 
 ### Key Risk Management Techniques
 
@@ -80,9 +78,7 @@ Technology plays a pivotal role in modern trading. Utilizing cutting-edge tools 
 ### Notable Platforms and Tools
 
 - **MetaTrader 4/5 (MT4/MT5):** Widely used trading platforms that [offer](../o/offer.md) comprehensive tools for trading and analysis.
-  [Visit MetaTrader](https://www.metaquotes.net)
 - **[TradingView](../t/tradingview.md):** A powerful charting and social network platform for traders and investors.
-  [Visit TradingView](https://www.tradingview.com)
 
 ## The Human Element
 

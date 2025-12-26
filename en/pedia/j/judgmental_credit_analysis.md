@@ -1,6 +1,6 @@
 # Judgmental Credit Analysis
 
-Judgmental [credit](../c/credit.md) analysis is a traditional method used by financial institutions to evaluate the [creditworthiness](../c/creditworthiness.md) of borrowers. Unlike statistical [credit](../c/credit.md) scoring systems that rely on quantitative data, judgmental [credit](../c/credit.md) analysis primarily depends on the subjective assessment of an experienced [credit analyst](../c/credit_analyst.md). This process usually involves a detailed review of qualitative factors and personal interactions with the borrower to make an informed decision about extending [credit](../c/credit.md). Judgmental [credit](../c/credit.md) analysis is particularly useful for cases where quantitative data may be limited or when dealing with complex [credit](../c/credit.md) scenarios that require nuanced understanding. 
+Judgmental [credit](../c/credit.md) analysis is a traditional method used by financial institutions to evaluate the [creditworthiness](../c/creditworthiness.md) of borrowers. Unlike statistical [credit](../c/credit.md) scoring systems that rely on quantitative data, judgmental [credit](../c/credit.md) analysis primarily depends on the subjective assessment of an experienced [credit analyst](../c/credit_analyst.md). This process usually involves a detailed review of qualitative factors and personal interactions with the borrower to make an informed decision about extending [credit](../c/credit.md). Judgmental [credit](../c/credit.md) analysis is particularly useful for cases where quantitative data may be limited or when dealing with complex [credit](../c/credit.md) scenarios that require nuanced understanding.
 
 ## Key Components of Judgmental Credit Analysis
 
@@ -92,7 +92,7 @@ SMEs often lack the extensive financial history required for automated systems, 
 
 ### 2. Complex Credit Products
 
-For complex [credit](../c/credit.md) products that require in-depth understanding and customization, judgmental analysis can be invaluable. 
+For complex [credit](../c/credit.md) products that require in-depth understanding and customization, judgmental analysis can be invaluable.
 
 ### 3. Relationship Banking
 
@@ -120,7 +120,7 @@ Implementing peer review mechanisms to validate and cross-[check](../c/check.md)
 
 ## Case Study: Application in a Financial Institution
 
-Consider a mid-sized financial institution specializing in lending to local small businesses. Given the unique nature and varying [risk profiles](../r/risk_profiles.md) of these businesses, the institution relies heavily on judgmental [credit](../c/credit.md) analysis. 
+Consider a mid-sized financial institution specializing in lending to local small businesses. Given the unique nature and varying [risk profiles](../r/risk_profiles.md) of these businesses, the institution relies heavily on judgmental [credit](../c/credit.md) analysis.
 
 ### Scenario
 

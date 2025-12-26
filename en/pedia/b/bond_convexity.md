@@ -25,7 +25,7 @@ where:
 #### Why Convexity Matters
 
 1. **Non-linear [Sensitivity Analysis](../s/sensitivity_analysis.md)**: [Convexity](../c/convexity.md) allows portfolio managers to anticipate changes in [bond](../b/bond.md) prices more accurately when there are large shifts in [interest](../i/interest.md) rates. [Duration](../d/duration.md) alone can be misleading for significant changes since it assumes a [linear relationship](../l/linear_relationship.md).
-  
+
 2. **[Risk Management](../r/risk_management.md)**: By understanding [convexity](../c/convexity.md), investors can better manage the [interest rate risk](../i/interest_rate_risk.md) of their [bond](../b/bond.md) portfolios. A high [convexity](../c/convexity.md) means that the price of the [bond](../b/bond.md) is more sensitive to changes in [interest](../i/interest.md) rates.
 
 3. **Portfolio Immunization**: For those looking to immunize their portfolios against [interest rate](../i/interest_rate.md) movements, such as pension funds or [insurance](../i/insurance.md) companies, [convexity](../c/convexity.md) helps in constructing portfolios that are less sensitive to [interest rate](../i/interest_rate.md) changes.
@@ -42,19 +42,19 @@ Thus, investors preferring less volatile investments in times of [interest rate]
 #### Applications in Algorithmic Trading
 
 In [algorithmic trading](../a/algorithmic_trading.md), understanding and utilizing [bond](../b/bond.md) [convexity](../c/convexity.md) can be crucial for developing sophisticated [trading strategies](../t/trading_strategies.md), particularly for fixed-[income](../i/income.md) portfolios. Algorithms can be designed to:
-  
+
 1. **Optimize Portfolios**: Algorithms can incorporate [convexity](../c/convexity.md) to ensure that [bond](../b/bond.md) portfolios are optimally balanced concerning [interest rate risk](../i/interest_rate_risk.md).
-  
+
 2. **[Predictive Analytics](../p/predictive_analytics.md)**: Using historical data and real-time [interest rate](../i/interest_rate.md) movements, algorithms can predict the future price movements of bonds and adjust [trading strategies](../t/trading_strategies.md) accordingly.
-  
+
 3. **[Arbitrage](../a/arbitrage.md) Opportunities**: By analyzing [convexity](../c/convexity.md), traders might identify mispriced bonds in the [market](../m/market.md) and [capitalize](../c/capitalize.md) on [arbitrage](../a/arbitrage.md) opportunities.
 
 #### Case Study: BlackRock
 
-BlackRock, a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), integrates [bond](../b/bond.md) [convexity](../c/convexity.md) into their [risk management](../r/risk_management.md) frameworks to enhance the robustness of their [bond](../b/bond.md) portfolios. They provide numerous resources and detailed analysis on [bond](../b/bond.md) [convexity](../c/convexity.md) within their fixed-[income](../i/income.md) investment strategies. For more information, you can visit their official page on [fixed income](../f/fixed_income.md): [BlackRock Fixed Income](https://www.blackrock.com/us/individual/products/mutual-funds/insights/understanding-fixed-income).
+BlackRock, a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), integrates [bond](../b/bond.md) [convexity](../c/convexity.md) into their [risk management](../r/risk_management.md) frameworks to enhance the robustness of their [bond](../b/bond.md) portfolios. They provide numerous resources and detailed analysis on [bond](../b/bond.md) [convexity](../c/convexity.md) within their fixed-[income](../i/income.md) investment strategies.
 
 #### Conclusion
 
 [Bond](../b/bond.md) [convexity](../c/convexity.md) is a critical concept for both individual investors and institutions engaged in fixed-[income](../i/income.md) investments. By [accounting](../a/accounting.md) for the non-linear price response to [interest rate](../i/interest_rate.md) changes, [convexity](../c/convexity.md) offers a more comprehensive measure of [interest rate risk](../i/interest_rate_risk.md) compared to [duration](../d/duration.md) alone. In [algorithmic trading](../a/algorithmic_trading.md), leveraging [convexity](../c/convexity.md) can lead to more [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md), better [risk management](../r/risk_management.md), and enhanced [predictive analytics](../p/predictive_analytics.md).
 
-Understanding and utilizing [bond](../b/bond.md) [convexity](../c/convexity.md) allows for more refined portfolio construction and helps in mitigating potential losses due to [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md), ultimately leading to better-informed investment decisions.
+Understanding and utilizing [bond](../b/bond.md) [convexity](../c/convexity.md) allows for more refined portfolio construction and helps in mitigating potential losses due to [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md), ultimately leading to better-informed investment decisions.

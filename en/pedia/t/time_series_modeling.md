@@ -96,19 +96,19 @@ High-frequency trading heavily relies on the analysis of [market microstructure]
 ## Companies Specializing in Time Series Modeling for Trading
 
 ### Numerai
-[https://numer.ai](https://numer.ai)
+
 Numerai uses AI and [machine learning](../m/machine_learning.md) models, including advanced [time series](../t/time_series.md) models, to crowdsource [trading algorithms](../t/trading_algorithms.md).
 
-### QuantConnect
-[https://www.quantconnect.com](https://www.quantconnect.com)
-[QuantConnect](../q/quantconnect.md) provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and research with tools for developing and [backtesting](../b/backtesting.md) [time series](../t/time_series.md) models.
+### StockSharp
+
+[StockSharp](../s/stocksharp.md) provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and research with tools for developing and [backtesting](../b/backtesting.md) [time series](../t/time_series.md) models.
 
 ### Alpaca
-[https://alpaca.markets](https://alpaca.markets)
+
 [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading APIs that can integrate [predictive models](../p/predictive_models_in_trading.md) based on [time series analysis](../t/time_series_analysis.md).
 
 ### QuantInsti
-[https://www.quantinsti.com](https://www.quantinsti.com)
+
 QuantInsti provides education and training in [algorithmic trading](../a/algorithmic_trading.md) and includes courses on [time series](../t/time_series.md) modeling.
 
 ## Challenges and Considerations

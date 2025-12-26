@@ -40,20 +40,20 @@ Implementing stop-loss and take-[profit](../p/profit.md) levels based on the 20-
 Several funds and [algorithmic trading](../a/algorithmic_trading.md) firms successfully employ the 20-week cycle. Below are some examples:
 
 ### Prominent Firms
-- **Two Sigma Investments**: Uses advanced statistical models to incorporate various [market cycles](../m/market_cycles.md), including the 20-week cycle. [Two Sigma](https://www.twosigma.com)
-- **Citadel LLC**: Employs [quantitative models](../q/quantitative_models.md) that [factor](../f/factor.md) in [market cycles](../m/market_cycles.md) to optimize [trading strategies](../t/trading_strategies.md). [Citadel](https://www.citadel.com)
+- **Two Sigma Investments**: Uses advanced statistical models to incorporate various [market cycles](../m/market_cycles.md), including the 20-week cycle. Two Sigma
+- **Citadel LLC**: Employs [quantitative models](../q/quantitative_models.md) that [factor](../f/factor.md) in [market cycles](../m/market_cycles.md) to optimize [trading strategies](../t/trading_strategies.md). Citadel
 
 ## Tools and Platforms
 Various tools and platforms assist traders in incorporating the 20-week cycle into their strategies:
 
 ### Bloomberg Terminal
-Provides extensive analytical tools and data to perform cyclical analysis. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+Provides extensive analytical tools and data to perform cyclical analysis.
 
 ### TradingView
-Offers a [range](../r/range.md) of charting tools and indicators for performing [cycle analysis](../c/cycle_analysis.md). [TradingView](https://www.tradingview.com)
+Offers a [range](../r/range.md) of charting tools and indicators for performing [cycle analysis](../c/cycle_analysis.md).
 
 ### MetaTrader 4/5
-Supports custom indicators and scripts for implementing cyclical analysis. [MetaTrader](https://www.metatrader4.com)
+Supports custom indicators and scripts for implementing cyclical analysis.
 
 ## Computational Approaches
 [Algorithmic trading](../a/algorithmic_trading.md) platforms [leverage](../l/leverage.md) computational approaches for higher accuracy in cycle prediction.
@@ -74,4 +74,4 @@ Unexpected [market](../m/market.md) events can disrupt cyclic patterns.
 Relying heavily on historical data can lead to [overfitting](../o/overfitting.md), reducing the robustness of the strategy.
 
 ## Conclusion
-The 20-week cycle is a powerful tool in the arsenal of algorithmic traders. By incorporating this cycle into their [trading strategies](../t/trading_strategies.md), traders can enhance the accuracy and profitability of their trades. However, it is essential to combine the 20-week cycle with other indicators and [risk management](../r/risk_management.md) practices to mitigate its limitations.
+The 20-week cycle is a powerful tool in the arsenal of algorithmic traders. By incorporating this cycle into their [trading strategies](../t/trading_strategies.md), traders can enhance the accuracy and profitability of their trades. However, it is essential to combine the 20-week cycle with other indicators and [risk management](../r/risk_management.md) practices to mitigate its limitations.

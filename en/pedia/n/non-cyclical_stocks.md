@@ -21,23 +21,14 @@ Many non-cyclical companies pay regular dividends, which can provide a steady [i
 #### 1. Consumer Staples
 [Consumer staples](../c/consumer_staples.md) include products like food, beverages, and household goods. Companies in this sector sell essential items that consumers need consistently, regardless of [economic conditions](../e/economic_conditions.md).
 
-- **Procter & Gamble**: [PG Official Site](https://us.pg.com/)
-- **Coca-Cola**: [Coca-Cola Official Site](https://www.coca-colacompany.com/)
-- **PepsiCo**: [PepsiCo Official Site](https://www.pepsico.com/)
 
 #### 2. Healthcare
 Healthcare companies provide medical services and products, ranging from pharmaceuticals to medical devices. This sector is resilient because healthcare needs do not diminish during economic downturns.
 
-- **Johnson & Johnson**: [J&J Official Site](https://www.jnj.com/)
-- **Pfizer**: [Pfizer Official Site](https://www.pfizer.com/)
-- **UnitedHealth Group**: [UnitedHealth Official Site](https://www.unitedhealthgroup.com/)
 
 #### 3. Utilities
 Utilities include companies that provide essential services such as electricity, water, and natural gas. These services are fundamental to daily life, maintaining consistent [customer](../c/customer.md) [demand](../d/demand.md).
 
-- **Duke Energy**: [Duke Energy Official Site](https://www.duke-energy.com/)
-- **Exelon [Corporation](../c/corporation.md)**: [Exelon Official Site](https://www.exeloncorp.com/)
-- **NextEra Energy**: [NextEra Energy Official Site](https://www.nexteraenergy.com/)
 
 ### Investment Strategies
 

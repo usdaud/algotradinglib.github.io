@@ -22,7 +22,7 @@ Automated [backtesting](../b/backtesting.md) comprises several key components:
 
 ### Risk Management and Mitigation
 
-By simulating trades in past [market](../m/market.md) scenarios, traders can identify potential vulnerabilities and risks associated with their strategies. This preemptive approach helps in refining the strategies to avoid significant losses when applied to live trading. 
+By simulating trades in past [market](../m/market.md) scenarios, traders can identify potential vulnerabilities and risks associated with their strategies. This preemptive approach helps in refining the strategies to avoid significant losses when applied to live trading.
 
 ### Strategy Refinement and Optimization
 
@@ -54,7 +54,7 @@ Once the data is prepared, the next step is to implement the [trading strategy](
 
 ### Execution and Optimization
 
-Execute the strategy on the historical data using the [backtesting](../b/backtesting.md) engine. Post [execution](../e/execution.md), analyze the results and conduct [multiple](../m/multiple.md) iterations to refine and optimize the strategy. 
+Execute the strategy on the historical data using the [backtesting](../b/backtesting.md) engine. Post [execution](../e/execution.md), analyze the results and conduct [multiple](../m/multiple.md) iterations to refine and optimize the strategy.
 
 1. **Iteration**: Systematically iterate the strategy by adjusting parameters.
 2. **Validation**: Use techniques such as walk-forward analysis and cross-validation to ensure that the optimized strategy is not overfitted and performs well on unseen data.
@@ -71,10 +71,10 @@ Analyze the performance of the backtested strategy using various metrics. Perfor
 
 Several tools and platforms are available that facilitate automated [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md). These platforms provide the necessary [infrastructure](../i/infrastructure.md) and tools to simplify the [backtesting](../b/backtesting.md) process.
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides extensive datasets for [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
-2. **[Backtrader](../b/backtrader.md)**: A Python-based [open](../o/open.md)-source [backtesting](../b/backtesting.md) framework that allows easy strategy development and extensive analytics. [Backtrader](https://www.backtrader.com/)
-3. **[TradingView](../t/tradingview.md)**: An online platform that provides powerful charting tools and scriptable [backtesting](../b/backtesting.md) capabilities through its Pine Script language. [TradingView](https://www.tradingview.com/)
-4. **MetaTrader 5 (MT5)**: A popular [trading platform](../t/trading_platform.md) that offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) facilities for forex and other [asset](../a/asset.md) classes. [MetaTrader 5](https://www.metatrader5.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides extensive datasets for [backtesting](../b/backtesting.md). QuantConnect
+2. **[Backtrader](../b/backtrader.md)**: A Python-based [open](../o/open.md)-source [backtesting](../b/backtesting.md) framework that allows easy strategy development and extensive analytics. Backtrader
+3. **[TradingView](../t/tradingview.md)**: An online platform that provides powerful charting tools and scriptable [backtesting](../b/backtesting.md) capabilities through its Pine Script language. TradingView
+4. **MetaTrader 5 (MT5)**: A popular [trading platform](../t/trading_platform.md) that offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) facilities for forex and other [asset](../a/asset.md) classes. MetaTrader 5
 
 ## Best Practices in Automated Backtesting
 
@@ -121,4 +121,4 @@ Past [market](../m/market.md) conditions cannot fully account for future uncerta
 
 ## Conclusion
 
-Automated [backtesting](../b/backtesting.md) serves as a foundational element in the development and refinement of [trading strategies](../t/trading_strategies.md) within the realm of [algorithmic trading](../a/algorithmic_trading.md). By leveraging historical data, traders can evaluate their strategies objectively, optimize them iteratively, and [gain](../g/gain.md) confidence in their potential performance. Despite its challenges and limitations, when executed properly, automated [backtesting](../b/backtesting.md) is an invaluable tool that can enhance the decision-making process, mitigate risks, and improve the chances of achieving sustainable trading success.
+Automated [backtesting](../b/backtesting.md) serves as a foundational element in the development and refinement of [trading strategies](../t/trading_strategies.md) within the realm of [algorithmic trading](../a/algorithmic_trading.md). By leveraging historical data, traders can evaluate their strategies objectively, optimize them iteratively, and [gain](../g/gain.md) confidence in their potential performance. Despite its challenges and limitations, when executed properly, automated [backtesting](../b/backtesting.md) is an invaluable tool that can enhance the decision-making process, mitigate risks, and improve the chances of achieving sustainable trading success.

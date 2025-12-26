@@ -6,9 +6,9 @@ A [credit](../c/credit.md) report is a detailed breakdown of an individual's [cr
 
 A [credit](../c/credit.md) report is essentially a detailed history of an individual's [credit](../c/credit.md) activities. It includes a variety of information, such as personal data, [credit](../c/credit.md) accounts, [credit](../c/credit.md) inquiries, public records, and collections. There are three major [credit](../c/credit.md) bureaus in the United States that compile these reports:
 
-1. **Equifax:** [Equifax](https://www.equifax.com)
-2. **Experian:** [Experian](https://www.experian.com)
-3. **TransUnion:** [TransUnion](https://www.transunion.com)
+1. **Equifax:** Equifax
+2. **Experian:** Experian
+3. **TransUnion:** TransUnion
 
 Although each bureau collects and reports the data slightly differently, the core content of the [credit](../c/credit.md) report remains largely consistent across all three.
 
@@ -73,7 +73,7 @@ This section lists accounts that have been sent to collections, usually due to [
 - **Rental Applications:** Landlords may review [credit](../c/credit.md) reports to decide on tenant applications, as they reflect reliability in paying rent.
 - **Identity Verification:** [Credit](../c/credit.md) reports are also used to verify identity in financial and legal processes.
 
-## Credit Scores 
+## Credit Scores
 
 While closely related, it's important to [note](../n/note.md) that the [credit](../c/credit.md) report itself does not include [credit](../c/credit.md) scores. [Credit](../c/credit.md) scores are derived from the data in the [credit](../c/credit.md) report and are typically provided by separate scoring models, like FICO or [VantageScore](../v/vantagescore.md).
 

@@ -7,7 +7,7 @@
 The primary goal of [window dressing](../w/window_dressing.md) is to present a more favorable view of a portfolio by altering its composition, thereby potentially misleading investors about the [fund](../f/fund.md)'s true performance or [risk](../r/risk.md) profile. Common tactics include:
 
 1. **Selling Off Poor Performers:** [Fund](../f/fund.md) managers may sell off [stocks](../s/stock.md) that have performed poorly over the reporting period to remove them from the end-of-period portfolios. This helps to eliminate the appearance of bad investments from the reports.
-  
+
 2. **Buying High Performers:** Conversely, [fund](../f/fund.md) managers might buy [stocks](../s/stock.md) that have shown strong performance, thereby ensuring that the portfolio showcases these successful investments in the report.
 
 3. **[Rebalancing](../r/rebalancing.md):** Shifting the weight of the portfolio more heavily towards better-performing sectors or [asset](../a/asset.md) classes.
@@ -54,4 +54,4 @@ To mitigate the adverse effects of [window dressing](../w/window_dressing.md), [
 
 [Window dressing](../w/window_dressing.md) has a significant impact on [financial markets](../f/financial_market.md) and, by extension, on [algorithmic trading](../a/algorithmic_trading.md) systems that depend on [market](../m/market.md) data and trends. Understanding and [accounting](../a/accounting.md) for the distortions caused by this practice is crucial for the development of [robust](../r/robust.md) and reliable [trading algorithms](../t/trading_algorithms.md). By implementing more sophisticated [data analysis techniques](../d/data_analysis_techniques.md) and [adaptive strategies](../a/adaptive_strategies.md), [algorithmic trading](../a/algorithmic_trading.md) systems can mitigate the negative impacts of [window dressing](../w/window_dressing.md), thereby improving their performance and reliability.
 
-For more information on [Window Dressing](../w/window_dressing.md) and its implications in [algorithmic trading](../a/algorithmic_trading.md), you can explore resources from [finance](../f/finance.md) and trading news websites, academic articles, and [algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](https://www.quantconnect.com/) and [Kensho](https://www.kensho.com/).
+For more information on [Window Dressing](../w/window_dressing.md) and its implications in [algorithmic trading](../a/algorithmic_trading.md), you can explore resources from [finance](../f/finance.md) and trading news websites, academic articles, and [algorithmic trading](../a/algorithmic_trading.md) platforms such as QuantConnect and Kensho.

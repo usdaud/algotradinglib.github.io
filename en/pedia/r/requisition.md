@@ -52,7 +52,7 @@ In financial organizations, internal requisition processes are crucial for depar
 
 With advancements in FinTech, the requisition processes in financial and trading contexts have become more streamlined and efficient. Technologies play a significant role in enhancing the speed, accuracy, and [transparency](../t/transparency.md) of requisitions.
 
-1. **[Automated Trading Systems](../a/automated_trading_systems.md)**: In [algorithmic trading](../a/accountability.md), requisition processes are automated through pre-defined algorithms that execute buy/sell orders based on [market](../m/market.md) conditions. This reduces the manual intervention and speeds up [trade](../t/trade.md) [execution](../e/execution.md).
+1. **[Automated Trading Systems](../a/automated_trading_systems.md)**: In [algorithmic trading](../a/algorithmic_trading.md), requisition processes are automated through pre-defined algorithms that execute buy/sell orders based on [market](../m/market.md) conditions. This reduces the manual intervention and speeds up [trade](../t/trade.md) [execution](../e/execution.md).
 
 2. **[Blockchain](../b/blockchain_in_trading.md) for Requisition Tracking**: [Blockchain](../b/blockchain_in_trading.md) technology offers an immutable ledger for tracking requisition processes, especially in [procurement](../p/procurement.md). It ensures [transparency](../t/transparency.md), reduces [fraud](../f/fraud.md), and enhances [trust](../t/trust.md) among stakeholders.
 

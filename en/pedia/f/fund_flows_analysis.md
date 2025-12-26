@@ -33,19 +33,16 @@ Reliable data sources are essential for accurate [fund](../f/fund.md) flows anal
 
 [Bloomberg](../b/bloomberg.md) offers a vast repository of financial data, including [fund](../f/fund.md) flows. Through its [Bloomberg](../b/bloomberg.md) Terminal, users can track [fund](../f/fund.md) flows across different [asset](../a/asset.md) classes, geographies, and [fund](../f/fund.md) types.
 
-[Visit Bloomberg](https://www.bloomberg.com)
 
 ### Morningstar
 
 [Morningstar](../m/morningstar.md) provides comprehensive data on mutual funds, ETFs, and other investment vehicles. Their database includes detailed metrics on [fund](../f/fund.md) flows, performance, and ratings.
 
-[Visit Morningstar](https://www.morningstar.com)
 
 ### Lipper
 
 Lipper, a Refinitiv company, offers detailed [fund flow](../f/fund_flow.md) data and analysis. Their platform covers a broad spectrum of mutual funds and ETFs globally.
 
-[Visit Lipper](https://www.refinitiv.com)
 
 ## Importance in Algorithmic Trading
 

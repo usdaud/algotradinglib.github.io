@@ -29,7 +29,7 @@ There are several types of obligatory [reinsurance](../r/reinsurance.md) treatie
 In a proportional treaty, also known as pro-rata, the ceding company and the reinsurer share premiums and losses according to a set percentage. This type can further be divided into the following sub-types:
 
 - **[Quota Share Treaty](../q/quota_share_treaty.md)**: This involves a fixed percentage of each policy being ceded to the reinsurer. For example, if an [insurance](../i/insurance.md) company writes a $1,000,000 policy with a 30% [quota share treaty](../q/quota_share_treaty.md), the reinsurer [will](../w/will.md) cover 30% ($300,000) of the policy, and this percentage applies to premiums and claims alike.
-  
+
 - **[Surplus](../s/surplus.md) Share Treaty**: Unlike quota share, this treaty involves the ceding company [underwriting](../u/underwriting.md) beyond a certain retention limit, with the amounts above this limit being shared with the reinsurer. For instance, an insurer could retain risks up to $200,000, with any [surplus](../s/surplus.md) above that amount being ceded to the reinsurer up to a specified limit.
 
 ### 2. Non-Proportional Reinsurance Treaties
@@ -37,7 +37,7 @@ In a proportional treaty, also known as pro-rata, the ceding company and the rei
 Non-proportional [reinsurance](../r/reinsurance.md) is based on loss exposure rather than the proportion of each policy. It generally comes in the form of excess of loss coverage, where the reinsurer covers losses that exceed a specific retention level retained by the ceding company.
 
 - **Excess of Loss Treaty (XOL)**: This treaty provides coverage after the ceding company's losses exceed a set limit. For example, if the ceding company has an excess of loss treaty with a retention of $500,000, any claim exceeding this amount [will](../w/will.md) be paid by the reinsurer up to the policy limit.
-  
+
 - **Stop-Loss Treaty**: This treaty provides coverage once aggregate losses exceed a predetermined amount, protecting against high levels of accumulated losses over a period. It's typically used for catastrophe covers.
 
 ## Benefits of Obligatory Reinsurance
@@ -104,13 +104,13 @@ Reinsurers must be licensed and authorized to operate in many jurisdictions, pro
 
 Several leading companies operate in the [reinsurance](../r/reinsurance.md) [market](../m/market.md), providing a wide [range](../r/range.md) of products and services. Some notable reinsurers include:
 
-- **Munich Re**: One of the largest [reinsurance](../r/reinsurance.md) companies globally, known for its comprehensive [range](../r/range.md) of [reinsurance](../r/reinsurance.md) solutions and [robust](../r/robust.md) financial strength. [Munich Re](https://www.munichre.com)
+- **Munich Re**: One of the largest [reinsurance](../r/reinsurance.md) companies globally, known for its comprehensive [range](../r/range.md) of [reinsurance](../r/reinsurance.md) solutions and [robust](../r/robust.md) financial strength. Munich Re
 
-- **Swiss Re**: Another leading global reinsurer, Swiss Re offers a diverse array of products and services across various lines of [business](../b/business.md). [Swiss Re](https://www.swissre.com/)
+- **Swiss Re**: Another leading global reinsurer, Swiss Re offers a diverse array of products and services across various lines of [business](../b/business.md). Swiss Re
 
-- **Hannover Re**: A major player in the [reinsurance](../r/reinsurance.md) [industry](../i/industry.md), Hannover Re provides both property and casualty, as well as life and health [reinsurance](../r/reinsurance.md). [Hannover Re](https://www.hannover-re.com/)
+- **Hannover Re**: A major player in the [reinsurance](../r/reinsurance.md) [industry](../i/industry.md), Hannover Re provides both property and casualty, as well as life and health [reinsurance](../r/reinsurance.md). Hannover Re
 
-- **[Lloyd's of London](../l/lloyd's_of_london.md)**: A historic and prominent [insurance](../i/insurance.md) [market](../m/market.md) that consists of [multiple](../m/multiple.md) syndicates that underwrite [reinsurance](../r/reinsurance.md) [risk](../r/risk.md). [Lloyd's](https://www.lloyds.com/)
+- **[Lloyd's of London](../l/lloyd's_of_london.md)**: A historic and prominent [insurance](../i/insurance.md) [market](../m/market.md) that consists of [multiple](../m/multiple.md) syndicates that underwrite [reinsurance](../r/reinsurance.md) [risk](../r/risk.md). Lloyd's
 
 ## Technological Advancements in Reinsurance
 

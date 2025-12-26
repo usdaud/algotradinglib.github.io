@@ -77,11 +77,11 @@ Fixed annuities may not keep up with [inflation](../i/inflation.md), potentially
 
 Several leading [insurance](../i/insurance.md) and financial services companies [offer](../o/offer.md) annuity products that cater to various financial needs. Some prominent players in the annuity [market](../m/market.md) include:
 
-- **Prudential Financial**: Prudential offers a [range](../r/range.md) of annuity products designed to help individuals secure their retirement [income](../i/income.md). [Prudential Financial](https://www.prudential.com/)
-- **MetLife**: MetLife provides various annuity solutions with different [payout](../p/payout.md) [options](../o/options.md) and investment strategies. [MetLife](https://www.metlife.com/)
-- **New York Life**: New York Life is known for its diverse annuity offerings, including fixed, variable, and [income](../i/income.md) annuities. [New York Life](https://www.newyorklife.com/)
-- **Allianz Life**: Allianz Life offers annuities designed to provide financial protection and growth potential. [Allianz Life](https://www.allianzlife.com/)
-- **Pacific Life**: Pacific Life provides annuities that [offer](../o/offer.md) stable [income](../i/income.md) streams and flexible investment [options](../o/options.md). [Pacific Life](https://www.pacificlife.com/)
+- **Prudential Financial**: Prudential offers a [range](../r/range.md) of annuity products designed to help individuals secure their retirement [income](../i/income.md). Prudential Financial
+- **MetLife**: MetLife provides various annuity solutions with different [payout](../p/payout.md) [options](../o/options.md) and investment strategies. MetLife
+- **New York Life**: New York Life is known for its diverse annuity offerings, including fixed, variable, and [income](../i/income.md) annuities. New York Life
+- **Allianz Life**: Allianz Life offers annuities designed to provide financial protection and growth potential. Allianz Life
+- **Pacific Life**: Pacific Life provides annuities that [offer](../o/offer.md) stable [income](../i/income.md) streams and flexible investment [options](../o/options.md). Pacific Life
 
 ## Conclusion
 

@@ -75,17 +75,17 @@ Many GTAA strategies combine both fundamental and technical analyses to [gain](.
 ### Bridgewater Associates
 
 Bridgewater Associates utilizes a GTAA strategy, known for its all-weather portfolio designed to perform under various [economic conditions](../e/economic_conditions.md). The strategy blends a deep understanding of [economic cycles](../e/economic_cycles.md) with [robust](../r/robust.md) [quantitative models](../q/quantitative_models.md).
-Website: [Bridgewater Associates](https://www.bridgewater.com)
+online platform: Bridgewater Associates
 
 ### GMO (Grantham, Mayo, & van Otterloo)
 
 GMO is renowned for its GTAA strategy, focusing on [value investing](../v/value_investing.md) principles across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. They combine [historical data analysis](../h/historical_data_analysis.md) with macroeconomic insights.
-Website: [GMO](https://www.gmo.com)
+online platform: GMO
 
 ### BlackRock Multi-Asset Strategies
 
 BlackRock offers GTAA funds that actively manage allocations to adapt to changing [market](../m/market.md) conditions. These funds use a [range](../r/range.md) of quantitative and qualitative techniques.
-Website: [BlackRock](https://www.blackrock.com)
+online platform: BlackRock
 
 ## Pros and Cons
 

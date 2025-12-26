@@ -41,7 +41,7 @@ Relative valuation involves comparing the [asset](../a/asset.md) to similar asse
 
 ## Algorithmic and Automated Valuation
 
-Algorithmic [valuation techniques](../v/valuation_techniques.md) use advanced computational methods and [big data](../b/big_data_in_trading.md). This is increasingly common in [finance](../f/finance.md), especially in fintech and [algorithmic trading](../a/accountability.md).
+Algorithmic [valuation techniques](../v/valuation_techniques.md) use advanced computational methods and [big data](../b/big_data_in_trading.md). This is increasingly common in [finance](../f/finance.md), especially in fintech and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Machine Learning Models
 
@@ -53,13 +53,13 @@ Algorithmic [valuation techniques](../v/valuation_techniques.md) use advanced co
 
 ### Financial Technologies (Fintech)
 
-Fintech companies provide innovative valuation tools for both traditional and digital assets. For instance, automated [valuation models](../v/valuation_models.md) (AVMs) are commonly used in the [real estate](../r/real_estate.md) sector for quick and accurate property valuations. 
+Fintech companies provide innovative valuation tools for both traditional and digital assets. For instance, automated [valuation models](../v/valuation_models.md) (AVMs) are commonly used in the [real estate](../r/real_estate.md) sector for quick and accurate property valuations.
 
-One notable company in this space is [Zillow](https://www.zillow.com/), which uses AVMs to provide [real estate](../r/real_estate.md) valuations.
+One notable company in this space is Zillow, which uses AVMs to provide [real estate](../r/real_estate.md) valuations.
 
 ### High-Frequency Trading (HFT)
 
-HFT firms use automated [trading strategies](../t/trading_strategies.md) that rely on [real-time market data](../r/real-time_market_data.md) and advanced algorithms to make valuation decisions in microseconds. Companies like [Citadel Securities](https://www.citadelsecurities.com/) are pioneers in this space.
+HFT firms use automated [trading strategies](../t/trading_strategies.md) that rely on [real-time market data](../r/real-time_market_data.md) and advanced algorithms to make valuation decisions in microseconds. Companies like Citadel Securities are pioneers in this space.
 
 ## Important Considerations
 

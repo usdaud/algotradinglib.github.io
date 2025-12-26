@@ -22,10 +22,10 @@ The [due diligence](../d/due_diligence.md) process in project [finance](../f/fin
 The initial stage involves feasibility studies, project design, securing necessary permits, and completing an environmental impact assessment. During this phase, sponsors seek to determine if the project is viable from technical, financial, and legal standpoints.
 
 ### 2. Financing
-This stage focuses on securing the necessary [capital](../c/capital.md) to [finance](../f/finance.md) the project. It involves negotiating with potential lenders and investors, structuring the financial model, and finalizing the terms and conditions of the [financing](../f/financing.md) agreements. 
+This stage focuses on securing the necessary [capital](../c/capital.md) to [finance](../f/finance.md) the project. It involves negotiating with potential lenders and investors, structuring the financial model, and finalizing the terms and conditions of the [financing](../f/financing.md) agreements.
 
 ### 3. Construction
-Once [financing](../f/financing.md) is secured, the project moves to the construction phase. This phase is [capital](../c/capital.md)-intensive and often involves phased drawdowns on the committed [debt](../d/debt.md) and [equity](../e/equity.md) amounts. 
+Once [financing](../f/financing.md) is secured, the project moves to the construction phase. This phase is [capital](../c/capital.md)-intensive and often involves phased drawdowns on the committed [debt](../d/debt.md) and [equity](../e/equity.md) amounts.
 
 ### 4. Operation
 Upon completion, the project enters the operational stage, generating [revenue](../r/revenue.md) from its activities. The cash flows during this period are used to service the [debt](../d/debt.md) and pay returns to [equity](../e/equity.md) investors.
@@ -78,5 +78,5 @@ Project [finance](../f/finance.md) is a sophisticated financial tool that facili
 
 ## References
 
-- [Qatargas Official Website](https://www.qatargas.com)
-- [Eurotunnel Official Website](https://www.eurotunnel.com)
+-
+-

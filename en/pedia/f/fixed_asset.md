@@ -1,6 +1,6 @@
 # Fixed Asset
 
-A fixed [asset](../a/asset.md), often referred to in [accounting](../a/accounting.md) as property, plant, and equipment (PP&E), is a long-term tangible piece of property or equipment that a [firm](../f/firm.md) owns and uses in its operations to generate [income](../i/income.md). Unlike [current assets](../c/current_assets.md) like cash or [inventory](../i/inventory.md), fixed assets are expected to be utilized over [multiple](../m/multiple.md) periods, providing lasting [value](../v/value.md) to the [business](../b/business.md). 
+A fixed [asset](../a/asset.md), often referred to in [accounting](../a/accounting.md) as property, plant, and equipment (PP&E), is a long-term tangible piece of property or equipment that a [firm](../f/firm.md) owns and uses in its operations to generate [income](../i/income.md). Unlike [current assets](../c/current_assets.md) like cash or [inventory](../i/inventory.md), fixed assets are expected to be utilized over [multiple](../m/multiple.md) periods, providing lasting [value](../v/value.md) to the [business](../b/business.md).
 
 ## Key Characteristics
 
@@ -8,7 +8,7 @@ A fixed [asset](../a/asset.md), often referred to in [accounting](../a/accountin
 Fixed assets are physical and tangible in nature. They can include things like buildings, machinery, vehicles, office furniture, and computer equipment.
 
 ### Longevity
-Fixed assets have a [useful life](../u/useful_life.md) that extends beyond a single [accounting](../a/accounting.md) period and usually beyond one year. They are not intended for immediate [sale](../s/sale.md) but for long-term use. 
+Fixed assets have a [useful life](../u/useful_life.md) that extends beyond a single [accounting](../a/accounting.md) period and usually beyond one year. They are not intended for immediate [sale](../s/sale.md) but for long-term use.
 
 ### Depreciation
 Fixed assets undergo [depreciation](../d/depreciation.md), a method to allocate the cost of a tangible [asset](../a/asset.md) over its [useful life](../u/useful_life.md). [Depreciation](../d/depreciation.md) helps match the [expense](../e/expense.md) of using the [asset](../a/asset.md) with the [revenue](../r/revenue.md) it generates.
@@ -68,16 +68,16 @@ Proper management of fixed assets, including maintenance and regular assessment,
 ## Companies Specializing in Fixed Asset Management
 
 ### SAP
-SAP offers a comprehensive suite of software solutions for fixed [asset management](../a/asset_management.md). Their solutions help businesses manage the entire [asset](../a/asset.md) lifecycle, from [acquisition](../a/acquisition.md) to disposal. [Learn more about SAP Fixed Asset Management](https://www.sap.com/products/fixed-asset-management.html).
+SAP offers a comprehensive suite of software solutions for fixed [asset management](../a/asset_management.md). Their solutions help businesses manage the entire [asset](../a/asset.md) lifecycle, from [acquisition](../a/acquisition.md) to disposal. Learn more about SAP Fixed Asset Management.
 
 ### Oracle
-Oracle provides fixed [asset management](../a/asset_management.md) software within its Oracle E-[Business](../b/business.md) Suite. The software facilitates detailed tracking, [acquisition](../a/acquisition.md), [depreciation](../d/depreciation.md), and retirement of assets. [Discover Oracle Fixed Assets Management](https://www.oracle.com/applications/financials/fixed-assets-management.html).
+Oracle provides fixed [asset management](../a/asset_management.md) software within its Oracle E-[Business](../b/business.md) Suite. The software facilitates detailed tracking, [acquisition](../a/acquisition.md), [depreciation](../d/depreciation.md), and retirement of assets. Discover Oracle Fixed Assets Management.
 
 ### IBM Maximo
-IBM Maximo [Asset Management](../a/asset_management.md) provides solutions for managing physical assets on a unified platform. The software includes features for predictive maintenance, [asset](../a/asset.md) tracking, and detailed reporting. [Explore IBM Maximo](https://www.ibm.com/products/maximo-asset-management).
+IBM Maximo [Asset Management](../a/asset_management.md) provides solutions for managing physical assets on a unified platform. The software includes features for predictive maintenance, [asset](../a/asset.md) tracking, and detailed reporting. Explore IBM Maximo.
 
 ### Infor
-Infor EAM (Enterprise [Asset Management](../a/asset_management.md)) is an advanced [asset management](../a/asset_management.md) solution for monitoring and managing the performance of fixed assets. It is designed for industries such as [manufacturing](../m/manufacturing.md), healthcare, and public sector. [Infor EAM details](https://www.infor.com/solutions/eam/).
+Infor EAM (Enterprise [Asset Management](../a/asset_management.md)) is an advanced [asset management](../a/asset_management.md) solution for monitoring and managing the performance of fixed assets. It is designed for industries such as [manufacturing](../m/manufacturing.md), healthcare, and public sector. Infor EAM details.
 
 ## Implementing Fixed Asset Management Strategies
 

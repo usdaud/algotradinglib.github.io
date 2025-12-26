@@ -44,7 +44,7 @@ The Child [Tax Credit](../t/tax_credit.md) has a significant impact on reducing 
 
 As legislative discussions continue, there is ongoing debate about whether to extend or modify the expanded benefits introduced under the ARPA. Policymakers and advocates argue that maintaining the enhanced [credit](../c/credit.md) could have long-term positive effects on child [welfare](../w/welfare.md) and economic stability.
 
-For more information on the Child [Tax Credit](../t/tax_credit.md) and its current provisions, taxpayers can visit the official IRS website: [IRS Child Tax Credit Information](https://www.irs.gov/credits-deductions/individuals/child-tax-credit).
+For more information on the Child [Tax Credit](../t/tax_credit.md) and its current provisions, taxpayers can
 
 ## Conclusion
 

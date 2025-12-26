@@ -16,6 +16,8 @@ In [derivative](../d/derivative.md) markets, notional [principal](../p/principal
 
 Assume two companies, A and B, enter into an [interest rate swap](../i/interest_rate_swap.md) agreement with a notional [principal](../p/principal.md) of $100 million. Company A pays a [fixed interest rate](../f/fixed_interest_rate.md) of 3% per annum while Company B pays a [floating interest rate](../f/floating_interest_rate.md) based on LIBOR. The notional [principal](../p/principal.md) of $100 million determines the payments but is not itself exchanged.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Applications of Notional Principal
 
 ### Interest Rate Swaps
@@ -54,13 +56,12 @@ Companies involved in [derivative](../d/derivative.md) transactions disclose not
 
 ### Case Study 1: JPMorgan Chase
 
-JPMorgan Chase, one of the largest banking institutions in the world, has a significant presence in the [derivatives](../d/derivatives.md) [market](../m/market.md). The company’s [derivative](../d/derivative.md) notional [principal](../p/principal.md) amounts run into trillions of dollars, encompassing [interest rate swaps](../i/interest_rate_swaps.md), [credit](../c/credit.md) [derivatives](../d/derivatives.md), and more. Detailed information and [statistics](../s/statistics.md) about their [derivative](../d/derivative.md) positions can be found in their annual reports and official regulatory filings. Visit [JPMorgan Chase](https://www.jpmorganchase.com) for more details.
+JPMorgan Chase, one of the largest banking institutions in the world, has a significant presence in the [derivatives](../d/derivatives.md) [market](../m/market.md). The company’s [derivative](../d/derivative.md) notional [principal](../p/principal.md) amounts run into trillions of dollars, encompassing [interest rate swaps](../i/interest_rate_swaps.md), [credit](../c/credit.md) [derivatives](../d/derivatives.md), and more. Detailed information and [statistics](../s/statistics.md) about their [derivative](../d/derivative.md) positions can be found in their annual reports and official regulatory filings. Visit JPMorgan Chase for more details.
 
 ### Case Study 2: Deutsche Bank
 
-Deutsche [Bank](../b/bank.md) is another major player in the [derivatives](../d/derivatives.md) [market](../m/market.md) with extensive involvement in [interest rate swaps](../i/interest_rate_swaps.md), [currency](../c/currency.md) swaps, and other [derivative](../d/derivative.md) instruments. Their notional [principal](../p/principal.md) amounts are also in the trillions, demonstrating the vast scale. More insights into their [derivatives](../d/derivatives.md) portfolio can be accessed through their financial disclosures. See [Deutsche Bank](https://www.db.com) for additional information.
+Deutsche [Bank](../b/bank.md) is another major player in the [derivatives](../d/derivatives.md) [market](../m/market.md) with extensive involvement in [interest rate swaps](../i/interest_rate_swaps.md), [currency](../c/currency.md) swaps, and other [derivative](../d/derivative.md) instruments. Their notional [principal](../p/principal.md) amounts are also in the trillions, demonstrating the vast scale. More insights into their [derivatives](../d/derivatives.md) portfolio can be accessed through their financial disclosures. See Deutsche Bank for additional information.
 
 ## Conclusion
 
 Understanding Notional [Principal](../p/principal.md) Analysis is fundamental for comprehending the dynamics of [derivative](../d/derivative.md) markets. The notional [principal](../p/principal.md) serves as a [benchmark](../b/benchmark.md) for calculating payments and assessing [market](../m/market.md) risks. It provides insights into the scale of [derivative](../d/derivative.md) activities and helps in evaluating the systemic risks associated with financial institutions. By grasping the intricacies of this concept, [market](../m/market.md) participants can better manage their [derivatives](../d/derivatives.md) portfolios and navigate the complexities of [financial risk management](../f/financial_risk_management.md).
-

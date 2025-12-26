@@ -48,22 +48,22 @@ Understanding the implications of blind [trust](../t/trust.md) also involves ins
 
 Many [hedge](../h/hedge.md) funds have embraced [algorithmic trading](../a/accountability.md) and, by extension, approaches related to Blind [Trust](../t/trust.md). [Quantitative hedge funds](../q/quantitative_hedge_funds.md) such as Renaissance Technologies and Two Sigma Investments specialize in leveraging data-driven strategies and algorithms to generate returns.
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma Investments](https://www.twosigma.com/)
+- Renaissance Technologies
+- Two Sigma Investments
 
 ### Retail Trading Platforms
 
 Retail trading platforms, including [Robinhood](../r/robinhood.md) and [eToro](../e/etoro.md), [offer](../o/offer.md) [algorithmic trading](../a/accountability.md) [options](../o/options.md) to everyday investors. Though these platforms provide some level of [transparency](../t/transparency.md), many users engage in trading activities without fully understanding the [underlying](../u/underlying.md) algorithms.
 
-- [Robinhood](https://robinhood.com/)
-- [eToro](https://www.etoro.com/)
+- Robinhood
+- eToro
 
 ### Automated Investment Services
 
 Robo-advisors like Betterment and Wealthfront are popular for their hands-off investment approach. They utilize algorithms to manage portfolios based on an individual’s [risk tolerance](../r/risk_tolerance.md) and investment goals. Investors often place their [trust](../t/trust.md) in these systems without delving deeply into how each [market](../m/market.md) decision is made.
 
-- [Betterment](https://www.betterment.com/)
-- [Wealthfront](https://www.wealthfront.com/)
+- Betterment
+- Wealthfront
 
 ## Case Studies
 
@@ -99,8 +99,8 @@ As [machine learning](../m/machine_learning.md) and AI continue to advance, thei
 
 The rise of DeFi platforms introduces new dimensions to [algorithmic trading](../a/accountability.md). [Smart contracts](../s/smart_contracts_in_trading.md) and decentralized applications (dApps) can automate complex [trading strategies](../t/trading_strategies.md), and many users might engage with these systems based on Blind [Trust](../t/trust.md) in their programmed logic.
 
-- [Uniswap](https://uniswap.org/)
-- [Aave](https://aave.com/)
+- Uniswap
+- Aave
 
 ### Enhanced Regulatory Frameworks
 

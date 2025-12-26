@@ -79,10 +79,9 @@ As businesses and consumers increasingly interact online, the BBB has adapted by
 
 ### BBB Online
 
-The BBB's online presence, through its website and digital tools, has aimed to adapt to the changing landscape of e-[commerce](../c/commerce.md) and digital transactions. Consumers can access BBB ratings, file complaints, and research potential scams through the BBB website.
+The BBB's online presence, through its digital tools, has aimed to adapt to the changing landscape of e-[commerce](../c/commerce.md) and digital transactions. Consumers can access BBB ratings, file complaints,
 
 ## Conclusion
 
-The Better [Business](../b/business.md) Bureau remains a crucial entity in promoting ethical [business](../b/business.md) practices and fostering consumer [trust](../t/trust.md). Despite facing some criticisms, its long-standing history and evolution into the digital age showcase its commitment to supporting both businesses and consumers. 
+The Better [Business](../b/business.md) Bureau remains a crucial entity in promoting ethical [business](../b/business.md) practices and fostering consumer [trust](../t/trust.md). Despite facing some criticisms, its long-standing history and evolution into the digital age showcase its commitment to supporting both businesses and consumers.
 
-For more information, you can visit the BBB's official website: [Better Business Bureau](https://www.bbb.org)

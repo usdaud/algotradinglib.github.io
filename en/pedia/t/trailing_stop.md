@@ -5,7 +5,7 @@ A trailing stop is a type of [stop-loss order](../s/stop-loss_order.md) that is 
 ## Key Features
 
 1. **Dynamic Adjustments**: Unlike a static [stop-loss order](../s/stop-loss_order.md), which is set at a specific price that doesn't change, a trailing stop adjusts as the price moves in favor of the position. This dynamic nature allows traders to [lock in profits](../l/lock_in_profits.md) while still giving the [trade](../t/trade.md) room to grow.
-   
+
 2. **Self-Discipline**: Trailing stops enforce a level of discipline by preventing emotional decision-making. Traders often struggle to know when to let profits run and when to cut losses. A trailing stop removes this [uncertainty](../u/uncertainty_in_trading.md) by adhering to a pre-defined strategy.
 
 3. **Customizable Parameters**: Traders can define the trailing amount, setting it to a specific dollar [value](../v/value.md) or percentage. This customization allows the strategy to be tailored to different types of assets and [market](../m/market.md) conditions.
@@ -37,15 +37,15 @@ Most trading platforms provide features to set trailing stops. Let's take a look
 To set a trailing stop in MetaTrader, right-click on your [open position](../o/open_position.md) and select 'Trailing Stop,' then choose a predefined [value](../v/value.md) or set a custom one.
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive guide to setting trailing stops. Visit their detailed instruction page [here](https://www.interactivebrokers.com/en/index.php?f=703).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive guide to setting trailing stops.
 
 ### Thinkorswim by TD Ameritrade
-Users of the Thinkorswim [trading platform](../t/trading_platform.md) can set trailing stops from the [order](../o/order.md) entry screen. Detailed instructions can be found [here](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html).
+Users of the Thinkorswim [trading platform](../t/trading_platform.md) can set trailing stops from the [order](../o/order.md) entry screen. Detailed instructions can be found here.
 
 ## Benefits of Using Trailing Stops
 
 1. **[Profit](../p/profit.md) Protection**: As the [market price](../m/market_price.md) increases, the trailing stop rises, thereby protecting a portion of the gains.
-   
+
 2. **Automation**: Trailing stops automate exit decisions, reducing the need for constant monitoring.
 
 3. **Discipline**: Trailing stops can enforce a [trading strategy](../t/trading_strategy.md) by preventing emotional decision-making.
@@ -55,9 +55,9 @@ Users of the Thinkorswim [trading platform](../t/trading_platform.md) can set tr
 ## Limitations and Risks
 
 1. **Unexpected [Market](../m/market.md) Closure**: Trailing stops might not execute if the [market](../m/market.md) closes unexpectedly, leaving positions unprotected.
-   
+
 2. **[Slippage](../s/slippage.md)**: In fast-moving markets, there may be a gap between the stop price and the actual price at which the [order](../o/order.md) is executed, known as [slippage](../s/slippage.md).
-   
+
 3. **Over-tight Stops**: Setting the trailing distance too tight may result in premature stop-outs, especially in volatile markets.
 
 4. **[Noise](../n/noise.md) and Whipsaws**: In highly volatile markets, trailing stops may trigger due to short-term price fluctuations ([market](../m/market.md) [noise](../n/noise.md)) rather than a substantial change in [trend](../t/trend.md) direction.
@@ -78,7 +78,7 @@ Users of the Thinkorswim [trading platform](../t/trading_platform.md) can set tr
 Combining trailing stops with other types of orders can create more sophisticated [trading strategies](../t/trading_strategies.md). For instance, you can use a trailing stop along with a [limit order](../l/limit_order.md) to [lock in profits](../l/lock_in_profits.md) once a certain [price level](../p/price_level.md) is reached.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), trailing stops can be coded into [automated trading systems](../a/automated_trading_systems.md) to execute exit strategies without human intervention. These algorithms can be backtested and optimized to ensure they perform well under different [market](../m/market.md) conditions.
+In [algorithmic trading](../a/algorithmic_trading.md), trailing stops can be coded into [automated trading systems](../a/automated_trading_systems.md) to execute exit strategies without human intervention. These algorithms can be backtested and optimized to ensure they perform well under different [market](../m/market.md) conditions.
 
 ### Multi-Trailing Stops
 An advanced tactic involves using [multiple](../m/multiple.md) trailing stops at different levels. For instance, setting one tight trailing stop to secure immediate gains and another wider one to capture larger trends can achieve a balance between protecting profits and allowing for growth.

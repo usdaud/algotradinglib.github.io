@@ -27,7 +27,7 @@ Jobbers require [robust](../r/robust.md), high-speed trading platforms that allo
 
 ### Algorithms and Automation
 
-Many jobbers utilize [algorithmic trading](../a/accountability.md) to [handle](../h/handle.md) the speed and [volume](../v/volume.md) of trades. These algorithms scan the [market](../m/market.md) for predefined triggers and execute trades at electronic speeds. Features include:
+Many jobbers utilize [algorithmic trading](../a/algorithmic_trading.md) to [handle](../h/handle.md) the speed and [volume](../v/volume.md) of trades. These algorithms scan the [market](../m/market.md) for predefined triggers and execute trades at electronic speeds. Features include:
 - **Latency Monitoring**: Ensuring trades are executed with minimal delay.
 - **[Backtesting](../b/backtesting.md)**: Evaluating the performance of [trading algorithms](../t/trading_algorithms.md) using historical data.
 - **[Risk Management](../r/risk_management.md)**: Integrated tools for managing exposure and [stop-loss orders](../s/stop-loss_orders.md).
@@ -69,15 +69,12 @@ Several firms and individuals have carved out a niche in the world of jobbing. S
 
 ### Jane Street
 Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in trading ETFs, equities, [futures](../f/futures.md), [options](../o/options.md), and bonds. Their technology-driven approach and [quantitative strategies](../q/quantitative_strategies_in_trading.md) make them a key player in the jobbing world.
-[Jane Street](https://www.janestreet.com/)
 
 ### Virtu Financial
 Virtu Financial is one of the largest electronic [market](../m/market.md) makers in the world. They focus on providing [liquidity](../l/liquidity.md), executing orders quickly, and leveraging technology for [market](../m/market.md) access.
-[Virtu Financial](https://www.virtu.com/)
 
 ### DRW Trading
 DRW Trading engages in various [trading strategies](../t/trading_strategies.md), including high-frequency trading and jobbing. They utilize technology and [quantitative research](../q/quantitative_research.md) to optimize their trading activities.
-[DRW Trading](https://drw.com/)
 
 ## Conclusion
 

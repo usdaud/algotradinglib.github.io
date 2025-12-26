@@ -28,8 +28,6 @@ Unsecured notes come with specific terms and conditions outlined in the [note](.
 
 Many companies [issue](../i/issue.md) unsecured notes as a way to raise [capital](../c/capital.md) without pledging assets. These corporate notes can be used for various purposes, including covering operational costs, [financing](../f/financing.md) expansions, or refinancing existing [debt](../d/debt.md). Examples of companies that [issue](../i/issue.md) unsecured notes include:
 
-- IBM [Corporation](../c/corporation.md) [IBM Investor Relations](https://www.ibm.com/investor/)
-- Apple Inc. [Apple Investor Relations](https://investor.apple.com/)
 
 ### Municipal Unsecured Notes
 

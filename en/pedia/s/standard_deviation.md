@@ -56,7 +56,7 @@ Investors and analysts utilize standard deviation to compare the performance of 
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), also known as algo-trading, leverages computer programs to execute trades at speeds and frequencies that are impossible for humans. Standard deviation plays a critical role in the development and [optimization](../o/optimization.md) of [trading algorithms](../t/trading_algorithms.md) for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, leverages computer programs to execute trades at speeds and frequencies that are impossible for humans. Standard deviation plays a critical role in the development and [optimization](../o/optimization.md) of [trading algorithms](../t/trading_algorithms.md) for several reasons:
 
 ### Statistical Arbitrage
 
@@ -95,9 +95,9 @@ Many fintech platforms [offer](../o/offer.md) real-time reporting and analytics,
 
 ### Blockchain and Cryptocurrencies
 
-The highly volatile nature of cryptocurrencies has made standard deviation an important measure in this domain. Crypto trading platforms often provide [real-time volatility](../r/real-time_volatility.md) measures, using standard deviation, to help traders make better decisions. 
+The highly volatile nature of cryptocurrencies has made standard deviation an important measure in this domain. Crypto trading platforms often provide [real-time volatility](../r/real-time_volatility.md) measures, using standard deviation, to help traders make better decisions.
 
-For example, CoinMarketCap (https://coinmarketcap.com/) provides various statistical measures including standard deviation for numerous cryptocurrencies.
+For example, CoinMarketCap provides various statistical measures including standard deviation for numerous cryptocurrencies.
 
 ### Risk Assessment Tools
 
@@ -109,20 +109,20 @@ Various financial institutions and fintech companies extensively use standard de
 
 ### Bloomberg
 
-[Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/) offers a comprehensive suite of financial analytics tools, including measures such as standard deviation, to help traders, analysts, and portfolio managers make data-driven decisions.
+[Bloomberg](../b/bloomberg.md) ( offers a comprehensive suite of financial analytics tools, including measures such as standard deviation, to help traders, analysts, and portfolio managers make data-driven decisions.
 
 ### Morningstar
 
-[Morningstar](../m/morningstar.md) (https://www.[morningstar](../m/morningstar.md).com/) provides detailed [performance metrics](../p/performance_metrics.md) and [risk analysis](../r/risk_analysis.md), including standard deviation, for a wide [range](../r/range.md) of investments, helping investors understand the [volatility](../v/volatility.md) and [risk](../r/risk.md) associated with different [asset](../a/asset.md) classes.
+[Morningstar](../m/morningstar.md) ( provides detailed [performance metrics](../p/performance_metrics.md) and [risk analysis](../r/risk_analysis.md), including standard deviation, for a wide [range](../r/range.md) of investments, helping investors understand the [volatility](../v/volatility.md) and [risk](../r/risk.md) associated with different [asset](../a/asset.md) classes.
 
 ### Personal Capital
 
-Personal [Capital](../c/capital.md) (https://www.personalcapital.com/) uses standard deviation and other statistical metrics in their [financial planning](../f/financial_planning.md) tools to help users manage their investments and financial goals.
+Personal [Capital](../c/capital.md) ( uses standard deviation and other statistical metrics in their [financial planning](../f/financial_planning.md) tools to help users manage their investments and financial goals.
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is an [algorithmic trading](../a/accountability.md) platform that allows developers to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). Standard deviation is commonly used as part of the [risk management](../r/risk_management.md) modules in these algorithms.
+[QuantConnect](../q/quantconnect.md) ( is an [algorithmic trading](../a/algorithmic_trading.md) platform that allows developers to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). Standard deviation is commonly used as part of the [risk management](../r/risk_management.md) modules in these algorithms.
 
 ## Conclusion
 
-Standard deviation is an indispensable statistical tool in [finance](../f/finance.md), trading, and fintech. It offers a [robust](../r/robust.md) measure of [volatility](../v/volatility.md), aiding investors, traders, and analysts in assessing [risk](../r/risk.md), optimizing portfolios, and developing [trading strategies](../t/trading_strategies.md). Its applications are vast, ranging from [risk management](../r/risk_management.md) and performance evaluation to [algorithmic trading](../a/accountability.md) and fintech innovations. Understanding and effectively utilizing standard deviation can greatly enhance decision-making processes in the financial domain.
+Standard deviation is an indispensable statistical tool in [finance](../f/finance.md), trading, and fintech. It offers a [robust](../r/robust.md) measure of [volatility](../v/volatility.md), aiding investors, traders, and analysts in assessing [risk](../r/risk.md), optimizing portfolios, and developing [trading strategies](../t/trading_strategies.md). Its applications are vast, ranging from [risk management](../r/risk_management.md) and performance evaluation to [algorithmic trading](../a/algorithmic_trading.md) and fintech innovations. Understanding and effectively utilizing standard deviation can greatly enhance decision-making processes in the financial domain.

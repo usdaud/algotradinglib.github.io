@@ -13,7 +13,7 @@ GDP is the total monetary or [market value](../m/market_value.md) of all the fin
 ### Importance in Japan:
 Japan's GDP highlights the country's [productivity](../p/productivity.md), [economic growth](../e/economic_growth.md), and living standards. Given Japan's significant role in global [trade](../t/trade.md), its GDP figures can influence global [market](../m/market.md) trends.
 
-[More about Japan's GDP](https://www.stat.go.jp/english/data/gdp/index.html)
+More about Japan's GDP
 
 ## 2. Tankan Survey
 The Tankan survey, conducted by the [Bank](../b/bank.md) of Japan, is a quarterly survey of [business](../b/business.md) sentiment. It covers over 10,000 enterprises, providing insights into manufacturers' and non-manufacturers' views on current and future [economic conditions](../e/economic_conditions.md).
@@ -25,7 +25,6 @@ The Tankan survey, conducted by the [Bank](../b/bank.md) of Japan, is a quarterl
 ### Importance in Japan:
 The Tankan Survey is a critical [indicator](../i/indicator.md) of the [business](../b/business.md) climate in Japan. It's closely watched by the [Bank](../b/bank.md) of Japan when setting [monetary policy](../m/monetary_policy.md) and by investors to gauge the economic environment.
 
-[More about the Tankan Survey](https://www.boj.or.jp/en/statistics/tk/index.htm/)
 
 ## 3. Unemployment Rate
 The [unemployment rate](../u/unemployment_rate.md) measures the percentage of the total labor force that is unemployed but actively seeking employment and willing to work.
@@ -37,7 +36,7 @@ The [unemployment rate](../u/unemployment_rate.md) measures the percentage of th
 ### Importance in Japan:
 Japan's [unemployment rate](../u/unemployment_rate.md) reveals the health of its [labor market](../l/labor_market.md) and can signal economic expansions or contractions. A low [unemployment rate](../u/unemployment_rate.md) often correlates with [robust](../r/robust.md) economic health.
 
-[More about Japan's Unemployment Rate](https://www.stat.go.jp/english/data/roudou/index.html)
+More about Japan's Unemployment Rate
 
 ## 4. Inflation Rate
 The [inflation](../i/inflation.md) rate measures the rate at which the general level of prices for goods and services is rising, thereby eroding [purchasing power](../p/purchasing_power.md).
@@ -49,7 +48,7 @@ The [inflation](../i/inflation.md) rate measures the rate at which the general l
 ### Importance in Japan:
 Japan's [inflation](../i/inflation.md) rate is crucial for understanding price stability and [purchasing power](../p/purchasing_power.md) within the country. Persistent [deflation](../d/deflation.md) has been an [issue](../i/issue.md), prompting various monetary easing policies by the [Bank](../b/bank.md) of Japan.
 
-[More about Japan's Inflation Rate](https://www.stat.go.jp/english/data/cpi/index.html)
+More about Japan's Inflation Rate
 
 ## 5. Current Account Balance
 The [current account](../c/current_account.md) records a nation’s transactions with the rest of the world, specifically its net [trade](../t/trade.md) in goods and services, net [earnings](../e/earnings.md) on cross-border investments, and net transfer payments.
@@ -62,7 +61,7 @@ The [current account](../c/current_account.md) records a nation’s transactions
 ### Importance in Japan:
 Japan's current [account balance](../a/account_balance.md) is significant due to its impact on the yen and [monetary policy](../m/monetary_policy.md). A [surplus](../s/surplus.md) suggests the country is a net [lender](../l/lender.md) to the rest of the world, affecting [capital](../c/capital.md) flows.
 
-[More about Japan's Current Account](https://www.mof.go.jp/english/international_policy/reference/balance_of_payments/)
+More about Japan's Current Account
 
 ## 6. Industrial Production
 Industrial production measures the output of the industrial sector of the [economy](../e/economy.md), which includes [mining](../m/mining.md), [manufacturing](../m/manufacturing.md), and utilities.
@@ -74,7 +73,7 @@ Industrial production measures the output of the industrial sector of the [econo
 ### Importance in Japan:
 Industrial production is a critical metric for understanding the performance of Japan's [manufacturing](../m/manufacturing.md) and technological sectors. It's sensitive to consumer [demand](../d/demand.md) and global [economic conditions](../e/economic_conditions.md).
 
-[More about Japan's Industrial Production](https://www.meti.go.jp/english/statistics/tyo/iip/index.html)
+More about Japan's Industrial Production
 
 ## 7. Retail Sales
 [Retail sales](../r/retail_sales.md) reflect the total [receipts](../r/receipt.md) of retail stores. This [indicator](../i/indicator.md) is closely watched as it indicates the general economic climate and consumer confidence.
@@ -86,7 +85,7 @@ Industrial production is a critical metric for understanding the performance of 
 ### Importance in Japan:
 [Retail sales](../r/retail_sales.md) in Japan provide insights into consumer spending and economic trends. With its significant retail sector, changes in [retail sales](../r/retail_sales.md) can point to broader economic changes.
 
-[More about Japan's Retail Sales](https://www.meti.go.jp/english/statistics/tyo/syoudou/index.html)
+More about Japan's Retail Sales
 
 ## 8. Housing Market Indicators
 Housing [market indicators](../m/market_indicators.md) include various metrics like [housing starts](../h/housing_starts.md), building permits, and [home](../h/home.md) prices that reflect the state of the housing [market](../m/market.md).
@@ -99,7 +98,7 @@ Housing [market indicators](../m/market_indicators.md) include various metrics l
 ### Importance in Japan:
 Japan’s housing [market indicators](../m/market_indicators.md) [offer](../o/offer.md) valuable insight into the construction sector and overall economic health. Housing activity is often an early [indicator](../i/indicator.md) of economic trends.
 
-[More about Japan's Housing Market](https://www.mlit.go.jp/toukeijouhou/chojou/stat-e.htm)
+More about Japan's Housing Market
 
 ## 9. Foreign Exchange Reserves
 [Foreign exchange reserves](../f/foreign_exchange_reserves.md) are the foreign currencies held by a country’s central [bank](../b/bank.md). They are used to back liabilities and influence [monetary policy](../m/monetary_policy.md).
@@ -111,7 +110,7 @@ Japan’s housing [market indicators](../m/market_indicators.md) [offer](../o/of
 ### Importance in Japan:
 Japan’s [foreign exchange reserves](../f/foreign_exchange_reserves.md) are among the largest in the world, playing a key role in stabilizing the yen and providing the government [leverage](../l/leverage.md) in economic crises.
 
-[More about Japan's Forex Reserves](https://www.mof.go.jp/english/policy/international_policy/reference/forex/)
+More about Japan's Forex Reserves
 
 ## 10. Government Debt and Deficit
 Government [debt](../d/debt.md) is the sum of all outstanding [debt](../d/debt.md) owed by the government. The [deficit](../d/deficit.md) is the annual difference between government expenditures and revenues.
@@ -124,7 +123,7 @@ Government [debt](../d/debt.md) is the sum of all outstanding [debt](../d/debt.m
 ### Importance in Japan:
 Japan's government [debt](../d/debt.md) is notably high, exceeding 200% of GDP. Managing this [debt](../d/debt.md) impacts [fiscal policy](../f/fiscal_policy.md), economic stability, and [credit](../c/credit.md) ratings.
 
-[More about Japan's Government Debt](https://www.mof.go.jp/english/)
+More about Japan's Government Debt
 
 ## Conclusion
 Understanding Japanese [economic indicators](../e/economic_indicators.md) is crucial for anyone involved in economic analysis, investment, or policymaking. These metrics provide a comprehensive view of Japan's economic landscape, helping to forecast trends and make informed decisions.

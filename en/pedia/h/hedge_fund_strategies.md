@@ -17,7 +17,6 @@ In the world of [finance](../f/finance.md), [hedge](../h/hedge.md) funds represe
 Paulson & Co, founded by John Paulson, famously utilized a [long/short equity](../l/long_short_equity.md) strategy during the 2008 [financial crisis](../f/financial_crisis.md), betting against subprime mortgages.
 
 #### Related Resources
-[Paulson & Co](https://paulsonco.com/)
 
 ## Market Neutral
 
@@ -37,7 +36,6 @@ Paulson & Co, founded by John Paulson, famously utilized a [long/short equity](.
 AQR [Capital](../c/capital.md) employs [market neutral strategies](../m/market_neutral_strategies.md) through [quantitative approaches](../q/quantitative_approaches.md), using [mathematical models](../m/mathematical_models_in_trading.md) to discern pricing anomalies.
 
 #### Related Resources
-[AQR Capital Management](https://aqr.com/)
 
 ## Global Macro
 
@@ -53,7 +51,6 @@ AQR [Capital](../c/capital.md) employs [market neutral strategies](../m/market_n
 Bridgewater Associates, managed by Ray Dalio, is renowned for its [Global Macro](../g/global_macro.md) approach, particularly its analysis of [economic cycles](../e/economic_cycles.md) and [market](../m/market.md) forces.
 
 #### Related Resources
-[Bridgewater Associates](https://bridgewater.com/)
 
 ## Event-Driven
 
@@ -62,15 +59,14 @@ Event-Driven strategies seek to [profit](../p/profit.md) from specific events su
 
 ### Mechanism
 - **[Merger](../m/merger.md) [Arbitrage](../a/arbitrage.md)**: Taking positions in companies involved in mergers or acquisitions.
-  - **Long Position**: In the target company.
-  - **Short Position**: In the acquiring company (if an all-stock deal).
+ - **Long Position**: In the target company.
+ - **Short Position**: In the acquiring company (if an all-stock deal).
 - **[Distressed Securities](../d/distressed_securities.md)**: [Investing](../i/investing.md) in the [debt](../d/debt.md) or [equity](../e/equity.md) of companies undergoing financial instability or [restructuring](../r/restructuring.md).
 
 ### Examples
 Elliott Management, led by Paul Singer, is well-known for its event-driven approach, particularly in seeking [value](../v/value.md) in mergers and acquisitions and distressed conditions.
 
 #### Related Resources
-[Elliott Management](https://elliottmgmt.com/)
 
 ## Arbitrage Strategies
 
@@ -90,7 +86,6 @@ Elliott Management, led by Paul Singer, is well-known for its event-driven appro
 Citadel LLC, founded by Ken Griffin, uses sophisticated technology and quantitative methods to engage in various forms of [arbitrage](../a/arbitrage.md).
 
 #### Related Resources
-[Citadel LLC](https://citadel.com/)
 
 ## Relative Value
 
@@ -106,7 +101,6 @@ Citadel LLC, founded by Ken Griffin, uses sophisticated technology and quantitat
 Two Sigma Investments utilizes [relative value](../r/relative_value.md) strategies, relying on advanced computational power and [big data](../b/big_data_in_trading.md) to identify and exploit [relative value](../r/relative_value.md) opportunities.
 
 #### Related Resources
-[Two Sigma Investments](https://twosigma.com/)
 
 ## Credit Strategies
 
@@ -123,7 +117,6 @@ Two Sigma Investments utilizes [relative value](../r/relative_value.md) strategi
 Avenue [Capital](../c/capital.md) Group, founded by Marc Lasry, is known for its focus on [credit](../c/credit.md) opportunities, especially in distressed and [undervalued](../u/undervalued.md) [debt](../d/debt.md).
 
 #### Related Resources
-[Avenue Capital Group](https://avenuecapital.com/)
 
 ## Quantitative Strategies
 
@@ -139,7 +132,6 @@ Avenue [Capital](../c/capital.md) Group, founded by Marc Lasry, is known for its
 Renaissance Technologies, founded by Jim Simons, is a pioneer in quantitative [hedge fund](../h/hedge_fund.md) strategies, known for its Medallion [Fund](../f/fund.md)'s impressive performance utilizing advanced statistical models.
 
 #### Related Resources
-[Renaissance Technologies](https://rentec.com/)
 
 ## Multi-Strategy
 
@@ -155,6 +147,5 @@ Multi-Strategy [hedge](../h/hedge.md) funds employ [multiple](../m/multiple.md) 
 Millennium Management, started by Israel Englander, is an example of a multi-strategy [fund](../f/fund.md) that employs a [range](../r/range.md) of techniques from [long/short equity](../l/long_short_equity.md) to fixed-[income](../i/income.md) [arbitrage](../a/arbitrage.md) and beyond.
 
 #### Related Resources
-[Millennium Management](https://mlp.com/)
 
 In summary, [hedge fund](../h/hedge_fund.md) strategies represent a wide array of sophisticated approaches tailored to exploit [market](../m/market.md) inefficiencies, [hedge](../h/hedge.md) [risk](../r/risk.md), and achieve superior returns. Each strategy has its own set of mechanisms, objectives, and nuances, making the world of [hedge](../h/hedge.md) funds a dynamic and complex landscape.

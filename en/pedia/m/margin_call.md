@@ -5,7 +5,7 @@
 ## Understanding Margin
 
 ### What is Margin?
-[Margin](../m/margin.md) refers to the amount of [capital](../c/capital.md) borrowed from a [broker](../b/broker.md) to purchase securities. It allows investors to [leverage](../l/leverage.md) their positions, essentially amplifying potential gains and losses. 
+[Margin](../m/margin.md) refers to the amount of [capital](../c/capital.md) borrowed from a [broker](../b/broker.md) to purchase securities. It allows investors to [leverage](../l/leverage.md) their positions, essentially amplifying potential gains and losses.
 
 ### How Margin Works
 When trading on [margin](../m/margin.md), an [investor](../i/investor.md) might put down a percentage of the total [trade](../t/trade.md) [value](../v/value.md), while borrowing the rest. For instance, if the [margin](../m/margin.md) requirement is 50%, an [investor](../i/investor.md) might put down $10,000 of their own [money](../m/money.md) to buy $20,000 worth of stock, borrowing the remaining $10,000 from their [broker](../b/broker.md).
@@ -67,9 +67,9 @@ Archegos, a family office managed by Bill Hwang, made headlines in 2021 due to m
 
 ## Helpful Resources
 
-1. [Investopedia on Margin Call](https://www.investopedia.com/terms/m/margincall.asp)
-2. [FINRA on Margin Accounts](https://www.finra.org/investors/learn-to-invest/types-investments/margin-accounts)
-3. [SEC on Margin](https://www.sec.gov/investor/pubs/margin.htm)
+1. Investopedia on Margin Call
+2. FINRA on Margin Accounts
+3. SEC on Margin
 
 ## Conclusion
 

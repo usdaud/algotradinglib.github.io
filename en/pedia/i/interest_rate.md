@@ -80,19 +80,19 @@ Central banks are a pivotal force in setting and managing [interest](../i/intere
 
 ### Federal Reserve (The Fed)
 
-The U.S. central banking system, the Federal Reserve, influences [monetary policy](../m/monetary_policy.md), affecting [interest](../i/interest.md) rates and the overall [supply](../s/supply.md) of [money](../m/money.md) in the [economy](../e/economy.md). More details at [Federal Reserve](https://www.federalreserve.gov).
+The U.S. central banking system, the Federal Reserve, influences [monetary policy](../m/monetary_policy.md), affecting [interest](../i/interest.md) rates and the overall [supply](../s/supply.md) of [money](../m/money.md) in the [economy](../e/economy.md). More details at Federal Reserve.
 
 ### European Central Bank (ECB)
 
-The European Central [Bank](../b/bank.md) is responsible for [monetary policy](../m/monetary_policy.md) in the [Eurozone](../e/eurozone.md), aiming to maintain price stability through adjustments in [interest](../i/interest.md) rates and other measures. More details at [European Central Bank](https://www.ecb.europa.eu).
+The European Central [Bank](../b/bank.md) is responsible for [monetary policy](../m/monetary_policy.md) in the [Eurozone](../e/eurozone.md), aiming to maintain price stability through adjustments in [interest](../i/interest.md) rates and other measures. More details at European Central Bank.
 
 ### Bank of England (BoE)
 
-The central [bank](../b/bank.md) of the United Kingdom, the [Bank](../b/bank.md) of England, also plays a role in setting [interest](../i/interest.md) rates to control [inflation](../i/inflation.md) and stabilize the [economy](../e/economy.md). More details at [Bank of England](https://www.bankofengland.co.uk).
+The central [bank](../b/bank.md) of the United Kingdom, the [Bank](../b/bank.md) of England, also plays a role in setting [interest](../i/interest.md) rates to control [inflation](../i/inflation.md) and stabilize the [economy](../e/economy.md). More details at Bank of England.
 
 ### Bank of Japan (BoJ)
 
-The [Bank](../b/bank.md) of Japan oversees [monetary policy](../m/monetary_policy.md) in Japan, striving to control [interest](../i/interest.md) rates and ensure financial stability. More details at [Bank of Japan](https://www.boj.or.jp/en).
+The [Bank](../b/bank.md) of Japan oversees [monetary policy](../m/monetary_policy.md) in Japan, striving to control [interest](../i/interest.md) rates and ensure financial stability. More details at Bank of Japan.
 
 ## Applications in Algorithmic Trading
 
@@ -108,7 +108,7 @@ The [carry trade](../c/carry_trade.md) involves borrowing in a [currency](../c/c
 
 ### Quantitative Models
 
-[Algorithmic trading](../a/accountability.md) often employs [quantitative models](../q/quantitative_models.md) that require the input of [interest](../i/interest.md) rates. These models can predict price movements, manage [risk](../r/risk.md), and identify trading opportunities.
+[Algorithmic trading](../a/algorithmic_trading.md) often employs [quantitative models](../q/quantitative_models.md) that require the input of [interest](../i/interest.md) rates. These models can predict price movements, manage [risk](../r/risk.md), and identify trading opportunities.
 
 ### High-Frequency Trading (HFT)
 
@@ -116,8 +116,8 @@ High-frequency trading leverages small price changes across various instruments.
 
 ### Risk Management
 
-Effective [risk management](../r/risk_management.md) in [algorithmic trading](../a/accountability.md) depends on accurate [interest](../i/interest.md) rate forecasts. Changes in [interest](../i/interest.md) rates can significantly influence the [risk](../r/risk.md) profile of a [trading strategy](../t/trading_strategy.md).
+Effective [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md) depends on accurate [interest](../i/interest.md) rate forecasts. Changes in [interest](../i/interest.md) rates can significantly influence the [risk](../r/risk.md) profile of a [trading strategy](../t/trading_strategy.md).
 
 ## Conclusion
 
-[Interest](../i/interest.md) rates are an integral component of the [financial system](../f/financial_system.md) impacting various aspects of the [economy](../e/economy.md), from consumer spending to investment in [financial markets](../f/financial_market.md). Their significance is underscored in [algorithmic trading](../a/accountability.md) where precise [interest](../i/interest.md) rate data can enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and overall profitability. Understanding the mechanisms and factors influencing [interest](../i/interest.md) rates equips traders and investors with the knowledge to navigate these crucial financial waters skillfully.
+[Interest](../i/interest.md) rates are an integral component of the [financial system](../f/financial_system.md) impacting various aspects of the [economy](../e/economy.md), from consumer spending to investment in [financial markets](../f/financial_market.md). Their significance is underscored in [algorithmic trading](../a/algorithmic_trading.md) where precise [interest](../i/interest.md) rate data can enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and overall profitability. Understanding the mechanisms and factors influencing [interest](../i/interest.md) rates equips traders and investors with the knowledge to navigate these crucial financial waters skillfully.

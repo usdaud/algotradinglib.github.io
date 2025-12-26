@@ -1,6 +1,6 @@
 # Arbitrage Strategies in Different Markets
 
-[Arbitrage](../a/arbitrage.md) is the simultaneous purchase and [sale](../s/sale.md) of an [asset](../a/asset.md) to [profit](../p/profit.md) from a difference in the price across different markets or forms. It exploits short-term discrepancies in the prices of identical or similar financial instruments on different markets or in different forms. These strategies are fundamental in making markets more efficient as they help in achieving price [equilibrium](../e/equilibrium.md) by balancing discrepancies through immediate trading actions. 
+[Arbitrage](../a/arbitrage.md) is the simultaneous purchase and [sale](../s/sale.md) of an [asset](../a/asset.md) to [profit](../p/profit.md) from a difference in the price across different markets or forms. It exploits short-term discrepancies in the prices of identical or similar financial instruments on different markets or in different forms. These strategies are fundamental in making markets more efficient as they help in achieving price [equilibrium](../e/equilibrium.md) by balancing discrepancies through immediate trading actions.
 
 ## Types of Arbitrage
 
@@ -71,7 +71,7 @@ A [trader](../t/trader.md) might notice that gold is priced differently in the [
 
 ### **Foreign Exchange Markets**
 
-In forex markets, [arbitrage](../a/arbitrage.md) trading involves exploiting minor price discrepancies among different [currency](../c/currency.md) pairs or among [currency](../c/currency.md) exchanges. 
+In forex markets, [arbitrage](../a/arbitrage.md) trading involves exploiting minor price discrepancies among different [currency](../c/currency.md) pairs or among [currency](../c/currency.md) exchanges.
 
 **Example:**
 [Currency](../c/currency.md) [arbitrage](../a/arbitrage.md) could include taking advantage of different [exchange](../e/exchange.md) rates offered by banks or forex brokers for the same [currency](../c/currency.md) pairs. Using triangular [arbitrage](../a/arbitrage.md), traders can [profit](../p/profit.md) from minute differences in [exchange](../e/exchange.md) rates.
@@ -102,32 +102,26 @@ A [bitcoin](../b/bitcoin.md) [arbitrageur](../a/arbitrageur.md) might notice pri
 ### **Jane Street**
 Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in [quantitative trading](../q/quantitative_trading.md) and [arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) uses sophisticated algorithms and advanced technology platforms to identify and exploit [arbitrage](../a/arbitrage.md) opportunities across various [asset](../a/asset.md) classes.
 
-**Website:** [Jane Street](https://www.janestreet.com/)
 
 ### **Two Sigma**
 Two Sigma is a leading financial technology [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and technology to [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md). They employ advanced [machine learning](../m/machine_learning.md) and modeling techniques to uncover trading opportunities.
 
-**Website:** [Two Sigma](https://www.twosigma.com/)
 
 ### **Citadel**
 Citadel is a renowned [hedge fund](../h/hedge_fund.md) that utilizes [arbitrage](../a/arbitrage.md) among its various strategies. The [firm](../f/firm.md) is known for its [market](../m/market.md)-making activities and uses [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) to execute complex [arbitrage](../a/arbitrage.md) trades.
 
-**Website:** [Citadel](https://www.citadel.com/)
 
 ### **DE Shaw**
 D. E. Shaw & Co. is a global investment and technology development [firm](../f/firm.md) that incorporates [arbitrage](../a/arbitrage.md) strategies across numerous markets. Known for its use of sophisticated quantitative methods, the [firm](../f/firm.md) capitalizes on price inefficiencies to generate profits.
 
-**Website:** [DE Shaw](https://www.deshaw.com/)
 
 ### **Virtu Financial**
 Virtu Financial is a technology-enabled [market maker](../m/market_maker.md) and [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md). The company employs [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) to execute [arbitrage](../a/arbitrage.md) strategies in [multiple](../m/multiple.md) [asset](../a/asset.md) classes including equities, [fixed income](../f/fixed_income.md), currencies, and commodities.
 
-**Website:** [Virtu Financial](https://www.virtu.com/)
 
 ### **Getco (now KCG Holdings)**
 Getco, now KCG [Holdings](../h/holdings.md) after a [merger](../m/merger.md), was historically one of the major players in high-frequency trading and [arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) capitalized on tiny price differences in large volumes to generate profits.
 
-**Website:** [KCG Holdings](http://www.kcg.com/)
 
 ## Conclusion
 

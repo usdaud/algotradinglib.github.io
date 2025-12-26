@@ -58,13 +58,13 @@ Therefore, for the [trade](../t/trade.md) to be profitable at expiration, the st
 ## Real-World Applications
 
 ### Retail Traders
-Retail traders often use the Long [Strangle](../s/strangle.md) strategy as a cost-effective way to bet on [volatility](../v/volatility.md). With the rise of online trading platforms like [Robinhood](https://www.robinhood.com/) and [E*TRADE](https://us.etrade.com/), retail traders have easy access to option trading and can implement this strategy without high [transaction costs](../t/transaction_costs.md).
+Retail traders often use the Long [Strangle](../s/strangle.md) strategy as a cost-effective way to bet on [volatility](../v/volatility.md). With the rise of online trading platforms like Robinhood and E*TRADE, retail traders have easy access to option trading and can implement this strategy without high [transaction costs](../t/transaction_costs.md).
 
 ### Institutional Traders
-Institutional traders employ more sophisticated versions of the Long [Strangle](../s/strangle.md) strategy, often enhanced with [proprietary algorithms](../p/proprietary_algorithms.md) developed [in-house](../i/in-house.md) or outsourced from specialized firms like [Kensho](https://www.kensho.com/) or [QuantConnect](https://www.quantconnect.com/). These systems are designed to exploit tiny inefficiencies in the [market](../m/market.md) and [leverage](../l/leverage.md) sizable [capital](../c/capital.md) to capture substantial profits.
+Institutional traders employ more sophisticated versions of the Long [Strangle](../s/strangle.md) strategy, often enhanced with [proprietary algorithms](../p/proprietary_algorithms.md) developed [in-house](../i/in-house.md) or outsourced from specialized firms like Kensho or QuantConnect. These systems are designed to exploit tiny inefficiencies in the [market](../m/market.md) and [leverage](../l/leverage.md) sizable [capital](../c/capital.md) to capture substantial profits.
 
 ### Hedge Funds
-[Hedge](../h/hedge.md) funds like [Two Sigma](https://www.twosigma.com/) and [Renaissance Technologies](https://www.rentec.com/) are known for using complex algorithmic strategies, including Long Strangles. By effectively managing [risk](../r/risk.md) and leveraging high-frequency trading techniques, these organizations achieve high returns.
+[Hedge](../h/hedge.md) funds like Two Sigma and Renaissance Technologies are known for using complex algorithmic strategies, including Long Strangles. By effectively managing [risk](../r/risk.md) and leveraging high-frequency trading techniques, these organizations achieve high returns.
 
 ## Conclusion
 

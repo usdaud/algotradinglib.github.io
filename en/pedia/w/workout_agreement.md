@@ -76,7 +76,7 @@ Creditors might view a debtor who has entered into a workout agreement as a high
 
 ## Conclusion
 
-Workout agreements are essential mechanisms for managing and [restructuring](../r/restructuring.md) [debt](../d/debt.md) without resorting to [bankruptcy](../b/bankruptcy.md). By negotiating modified terms, both debtors and creditors can find a mutually beneficial solution that allows for the [repayment](../r/repayment.md) of [obligations](../o/obligation.md) while maintaining financial stability. While workout agreements [offer](../o/offer.md) significant advantages, they also come with risks and implications that need careful consideration. 
+Workout agreements are essential mechanisms for managing and [restructuring](../r/restructuring.md) [debt](../d/debt.md) without resorting to [bankruptcy](../b/bankruptcy.md). By negotiating modified terms, both debtors and creditors can find a mutually beneficial solution that allows for the [repayment](../r/repayment.md) of [obligations](../o/obligation.md) while maintaining financial stability. While workout agreements [offer](../o/offer.md) significant advantages, they also come with risks and implications that need careful consideration.
 
 For individuals and businesses facing [financial distress](../f/financial_distress.md), it’s crucial to seek professional advice and conduct thorough analyses before entering into a workout agreement.
 
@@ -90,6 +90,6 @@ General Motors (GM), during the [financial crisis](../f/financial_crisis.md), en
 
 A typical example for individuals might involve a homeowner who, due to a job loss or change in financial situation, can no longer meet the terms of their [mortgage](../m/mortgage.md). The homeowner negotiates with the [lender](../l/lender.md) to extend the [repayment](../r/repayment.md) period, which lowers the monthly payments, or to temporarily reduce the [interest rate](../i/interest_rate.md), allowing them time to stabilize their financial situation.
 
-For more information on [debt restructuring](../d/debt_restructuring.md) and workout agreements, you can visit financial advisory firms like [Deloitte](https://www2.deloitte.com/) or educational resources from financial institutions like [Bank of America](https://www.bankofamerica.com/).
+For more information on [debt restructuring](../d/debt_restructuring.md) and workout agreements, you can visit financial advisory firms like Deloitte or educational resources from financial institutions like Bank of America.
 
 In summary, workout agreements are valuable tools for managing [debt](../d/debt.md) and maintaining [financial health](../f/financial_health.md) for both individuals and businesses. By understanding the components, processes, and implications, debtors and creditors can better navigate [financial distress](../f/financial_distress.md) and work towards a stable financial future.

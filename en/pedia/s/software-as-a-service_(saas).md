@@ -5,7 +5,7 @@ Software-as-a-Service (SaaS) is a software [distribution](../d/distribution.md) 
 ## Key Features of SaaS
 
 1. **Accessibility**: Software applications are accessible from anywhere via any internet-connected device. This is particularly useful for financial services that require real-time access to data and analysis tools.
-  
+
 2. **Subscription-Based**: Most SaaS applications operate on a subscription model, where users pay a regular [fee](../f/fee.md) for continued access. This can be monthly, yearly, or another agreed-upon interval.
 
 3. **[Scalability](../s/scalability.md)**: SaaS solutions [offer](../o/offer.md) [scalability](../s/scalability.md) [options](../o/options.md) to accommodate growing needs. For financial institutions, this means easily adding more users or increasing storage and computational power as [business](../b/business.md) needs grow.
@@ -22,28 +22,28 @@ Implementing SaaS in FinTech can encompass a [wide variety](../w/wide_variety.md
 
 ### 1. Customer Relationship Management (CRM)
 
-[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) software helps financial institutions manage and analyze [customer](../c/customer.md) interactions and data throughout the [customer](../c/customer.md) lifecycle. Applications like Salesforce (https://www.salesforce.com/) provide features such as tracking [customer](../c/customer.md) interactions, managing [customer](../c/customer.md) data, and automating sales processes.
+[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) software helps financial institutions manage and analyze [customer](../c/customer.md) interactions and data throughout the [customer](../c/customer.md) lifecycle. Applications like Salesforce ( provide features such as tracking [customer](../c/customer.md) interactions, managing [customer](../c/customer.md) data, and automating sales processes.
 
 ### 2. Core Banking Systems
 
-A SaaS-based core banking platform enables banks to manage their core banking operations like loans, deposits, and [payment](../p/payment.md) processing in a cloud-based environment. An example is Finacle by Infosys (https://www.edgeverve.com/finacle/), which offers comprehensive core banking solutions.
+A SaaS-based core banking platform enables banks to manage their core banking operations like loans, deposits, and [payment](../p/payment.md) processing in a cloud-based environment. An example is Finacle by Infosys ( which offers comprehensive core banking solutions.
 
 ### 3. Payment Processing
 
-SaaS applications for [payment](../p/payment.md) processing facilitate transactions between merchants and consumers. Stripe (https://stripe.com/) is a leading example, providing a [robust](../r/robust.md) API that enables seamless integration with other software.
+SaaS applications for [payment](../p/payment.md) processing facilitate transactions between merchants and consumers. Stripe ( is a leading example, providing a [robust](../r/robust.md) API that enables seamless integration with other software.
 
 ### 4. Financial Planning & Analysis (FP&A)
 
-SaaS tools for [Financial Planning](../f/financial_planning.md) & Analysis help companies with budgeting, [forecasting](../f/forecasting.md), and [financial planning](../f/financial_planning.md). Adaptive Insights (https://www.adaptiveinsights.com/), now part of Workday, offers solutions that make it easier for financial analysts to create detailed financial models.
+SaaS tools for [Financial Planning](../f/financial_planning.md) & Analysis help companies with budgeting, [forecasting](../f/forecasting.md), and [financial planning](../f/financial_planning.md). Adaptive Insights ( now part of Workday, offers solutions that make it easier for financial analysts to create detailed financial models.
 
 ### 5. Risk Management
 
-[Risk management](../r/risk_management.md) platforms help financial institutions identify, monitor, and mitigate [risk](../r/risk.md). A SaaS example in this domain is Riskturn (https://www.riskturn.com/), which offers [risk](../r/risk.md)-based [financial forecasting](../f/financial_forecasting.md) tools.
+[Risk management](../r/risk_management.md) platforms help financial institutions identify, monitor, and mitigate [risk](../r/risk.md). A SaaS example in this domain is Riskturn ( which offers [risk](../r/risk.md)-based [financial forecasting](../f/financial_forecasting.md) tools.
 
 ## Benefits of SaaS in FinTech
 
 1. **Reduced Time to [Market](../m/market.md)**: The fast implementation of SaaS solutions allows financial companies to launch new services quicker.
-  
+
 2. **[Data Security](../d/data_security_in_trading.md)**: SaaS vendors often invest significantly in [security](../s/security.md) technologies and practices, ensuring high levels of data protection.
 
 3. **Compliance**: Many SaaS applications are built with compliance in mind, helping financial institutions adhere to regulatory requirements with ease.
@@ -71,19 +71,19 @@ Though SaaS offers numerous advantages, it also presents specific challenges and
 Several companies have established themselves as leaders in [offering](../o/offering.md) SaaS solutions for FinTech:
 
 ### SAP
-SAP provides a suite of SaaS products designed to meet the demands of the [financial sector](../f/financial_sector.md), including analytics, financial management, and [customer](../c/customer.md) engagement tools. More information can be found on their official website: [SAP FinTech Solutions](https://www.sap.com/products/financial-services.html).
+SAP provides a suite of SaaS products designed to meet the demands of the [financial sector](../f/financial_sector.md), including analytics, financial management, and [customer](../c/customer.md) engagement tools.
 
 ### Oracle
-Oracle's cloud-based financial services and enterprise resource planning (ERP) solutions are among the most widely used in the [industry](../i/industry.md). These platforms help in areas such as [financial planning](../f/financial_planning.md), [risk management](../r/risk_management.md), and compliance. Discover more at [Oracle FinTech Solutions](https://www.oracle.com/industries/financial-services/).
+Oracle's cloud-based financial services and enterprise resource planning (ERP) solutions are among the most widely used in the [industry](../i/industry.md). These platforms help in areas such as [financial planning](../f/financial_planning.md), [risk management](../r/risk_management.md), and compliance. Discover more at Oracle FinTech Solutions.
 
 ### Sage
-Sage offers SaaS solutions tailored for [accounting](../a/accounting.md) and financial management, serving small to medium-sized businesses. Their platforms provide essential tools for managing transactions, compliance, and financial reporting. Learn more at [Sage](https://www.sage.com/en-gb/).
+Sage offers SaaS solutions tailored for [accounting](../a/accounting.md) and financial management, serving small to medium-sized businesses. Their platforms provide essential tools for managing transactions, compliance, and financial reporting. Learn more at Sage.
 
 ### Intuit QuickBooks
-QuickBooks by Intuit is a popular SaaS [accounting](../a/accounting.md) software among small businesses, [offering](../o/offering.md) easy-to-use features for invoicing, [payroll](../p/payroll.md), and [expense](../e/expense.md) tracking. For more details, visit [Intuit QuickBooks](https://quickbooks.intuit.com/).
+QuickBooks by Intuit is a popular SaaS [accounting](../a/accounting.md) software among small businesses, [offering](../o/offering.md) easy-to-use features for invoicing, [payroll](../p/payroll.md), and [expense](../e/expense.md) tracking. For more details, visit Intuit QuickBooks.
 
 ### Xero
-Xero is another strong contender in the SaaS [accounting](../a/accounting.md) software space, providing a platform designed for small businesses to manage their financial operations seamlessly. More information is available at [Xero](https://www.xero.com/).
+Xero is another strong contender in the SaaS [accounting](../a/accounting.md) software space, providing a platform designed for small businesses to manage their financial operations seamlessly. More information is available at Xero.
 
 ## Future Trends
 

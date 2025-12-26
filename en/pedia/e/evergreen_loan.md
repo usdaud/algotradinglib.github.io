@@ -43,11 +43,11 @@ Despite their advantages, evergreen loans come with their fair share of risks an
 
 Several financial institutions and commercial banks provide evergreen loans to businesses. Here are a few notable examples:
 
-1. [Wells Fargo](https://www.wellsfargo.com): Wells Fargo offers a [range](../r/range.md) of [revolving credit](../r/revolving_credit.md) facilities catering to both small and large enterprises, ensuring [liquidity](../l/liquidity.md) and flexibility.
-2. [JPMorgan Chase & Co.](https://www.jpmorganchase.com): JPMorgan Chase provides customizable [revolving credit](../r/revolving_credit.md) lines that businesses can utilize for various purposes, including [working capital management](../w/working_capital_management.md) and [capital](../c/capital.md) expenditures.
-3. [Bank of America](https://www.bankofamerica.com): [Bank](../b/bank.md) of America offers evergreen [loan](../l/loan.md) [options](../o/options.md) to help businesses manage their [cash flow](../c/cash_flow.md) requirements and support their growth initiatives.
-4. [HSBC](https://www.hsbc.com): HSBC provides evergreen loans as part of its commercial banking services, tailored for multinational companies seeking flexible [financing](../f/financing.md) solutions.
-5. [Citibank](https://www.citi.com): Citibank's evergreen [loan](../l/loan.md) products cater to businesses across various industries, [offering](../o/offering.md) the flexibility to manage [liquidity](../l/liquidity.md) effectively.
+1. Wells Fargo: Wells Fargo offers a [range](../r/range.md) of [revolving credit](../r/revolving_credit.md) facilities catering to both small and large enterprises, ensuring [liquidity](../l/liquidity.md) and flexibility.
+2. JPMorgan Chase & Co.: JPMorgan Chase provides customizable [revolving credit](../r/revolving_credit.md) lines that businesses can utilize for various purposes, including [working capital management](../w/working_capital_management.md) and [capital](../c/capital.md) expenditures.
+3. Bank of America: [Bank](../b/bank.md) of America offers evergreen [loan](../l/loan.md) [options](../o/options.md) to help businesses manage their [cash flow](../c/cash_flow.md) requirements and support their growth initiatives.
+4. HSBC: HSBC provides evergreen loans as part of its commercial banking services, tailored for multinational companies seeking flexible [financing](../f/financing.md) solutions.
+5. Citibank: Citibank's evergreen [loan](../l/loan.md) products cater to businesses across various industries, [offering](../o/offering.md) the flexibility to manage [liquidity](../l/liquidity.md) effectively.
 
 ## Conclusion
 

@@ -2,6 +2,8 @@
 
 In the world of [finance](../f/finance.md) and trading, the term "[swap](../s/swap.md) rate" is commonly encountered, particularly in the context of [interest rate swaps](../i/interest_rate_swaps.md), [currency](../c/currency.md) swaps, and other [derivative](../d/derivative.md) products. [Swap](../s/swap.md) rates are essential components in [derivatives](../d/derivatives.md) markets, serving as a [benchmark](../b/benchmark.md) and playing a crucial role in determining the cost of entering a [swap](../s/swap.md) agreement. This document provides an in-depth analysis of [swap](../s/swap.md) rates, their calculation, usage, and significance in [financial markets](../f/financial_market.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Definition of Swap Rate
 
 A [swap](../s/swap.md) rate is the [fixed interest rate](../f/fixed_interest_rate.md) that one would receive or be required to pay in [exchange](../e/exchange.md) for the floating rate within the context of an [interest rate swap](../i/interest_rate_swap.md). In a broader sense, [swap](../s/swap.md) rates can also pertain to other [derivative](../d/derivative.md) instruments and financial agreements involving the [exchange](../e/exchange.md) of cash flows between two parties. These rates are integral to managing and hedging [interest rate](../i/interest_rate.md) risks, as well as [speculation](../s/speculation.md).
@@ -28,7 +30,7 @@ The calculation of [swap](../s/swap.md) rates involves several key factors, incl
 
 ### 1. Constructing the Yield Curve
 
-The first step in calculating [swap](../s/swap.md) rates is constructing the [yield curve](../y/yard.md), which represents the relationship between [interest](../i/interest.md) rates and different maturities. The [yield curve](../y/yard.md) can be built using [market](../m/market.md) data from government bonds, corporate bonds, and other fixed-[income](../i/income.md) securities. 
+The first step in calculating [swap](../s/swap.md) rates is constructing the [yield curve](../y/yard.md), which represents the relationship between [interest](../i/interest.md) rates and different maturities. The [yield curve](../y/yard.md) can be built using [market](../m/market.md) data from government bonds, corporate bonds, and other fixed-[income](../i/income.md) securities.
 
 ### 2. Determining Forward Rates
 
@@ -97,7 +99,7 @@ The iterative solution yields a fixed [swap](../s/swap.md) rate of, say, 2.5% pe
 
 Many financial institutions, corporations, and investors rely on [swap](../s/swap.md) rates for their hedging, [speculation](../s/speculation.md), and investment strategies. For example, a [multinational corporation](../m/multinational_corporation.md) with [income](../i/income.md) in [multiple](../m/multiple.md) currencies might use [currency](../c/currency.md) swaps to [hedge](../h/hedge.md) against [exchange rate](../e/exchange_rate.md) [volatility](../v/volatility.md). Similarly, a financial institution might use [interest rate swaps](../i/interest_rate_swaps.md) to manage the [interest rate risk](../i/interest_rate_risk.md) of its [loan](../l/loan.md) portfolio.
 
-One notable company that offers comprehensive [swap](../s/swap.md) rate data and services is [Bloomberg](../b/bloomberg.md), which provides extensive financial analytical tools and data feeds for [swap](../s/swap.md) rates and [derivative](../d/derivative.md) markets. More information can be found on their official page: [Bloomberg](https://www.bloomberg.com/professional/product/interest-rates/).
+One notable company that offers comprehensive [swap](../s/swap.md) rate data and services is [Bloomberg](../b/bloomberg.md), which provides extensive financial analytical tools and data feeds for [swap](../s/swap.md) rates and [derivative](../d/derivative.md) markets.
 
 ## Conclusion
 

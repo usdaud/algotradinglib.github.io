@@ -24,7 +24,7 @@ By continually adding to the investment, reinvestment enhances the overall [valu
 ## Types of Reinvestment
 
 ### Dividend Reinvestment Plans (DRIPs)
-A DRIP allows investors to reinvest their cash dividends automatically into additional [shares](../s/shares.md) of the stock. These plans are often offered by publicly traded companies and can be accessed directly through the company or via brokerage firms. There are no [commission](../c/commission.md) fees, and [shares](../s/shares.md) may be purchased at a [discount](../d/discount.md). For more information on DRIPs, you can visit the [Computershare](https://www.computershare.com/us) website.
+A DRIP allows investors to reinvest their cash dividends automatically into additional [shares](../s/shares.md) of the stock. These plans are often offered by publicly traded companies and can be accessed directly through the company or via brokerage firms. There are no [commission](../c/commission.md) fees, and [shares](../s/shares.md) may be purchased at a [discount](../d/discount.md).
 
 ### Interest Reinvestment
 For fixed-[income](../i/income.md) securities such as bonds or certificates of [deposit](../d/deposit.md) (CDs), investors may choose to reinvest [interest](../i/interest.md) payments to purchase additional securities. This strategy helps to maximize the [return](../r/return.md) on [interest](../i/interest.md)-bearing investments.
@@ -52,7 +52,7 @@ There is an [opportunity cost](../o/opportunity_cost.md) associated with reinves
 ## Technology and Reinvestment
 
 ### Automated Reinvestment Platforms
-Advances in financial technology (fintech) have made it easier for investors to set up and manage reinvestment strategies. Robo-advisors and automated investment platforms often include features for automatic reinvestment of dividends and [interest](../i/interest.md). Companies such as [Betterment](https://www.betterment.com) and [Wealthfront](https://www.wealthfront.com) [offer](../o/offer.md) automated reinvestment as part of their [investment management](../i/investment_management.md) services.
+Advances in financial technology (fintech) have made it easier for investors to set up and manage reinvestment strategies. Robo-advisors and automated investment platforms often include features for automatic reinvestment of dividends and [interest](../i/interest.md). Companies such as Betterment and Wealthfront [offer](../o/offer.md) automated reinvestment as part of their [investment management](../i/investment_management.md) services.
 
 ### Mobile Applications
 Mobile apps provided by brokerage firms and investment platforms allow investors to track their portfolios and set up reinvestment plans on the go. These apps provide real-time updates and ease of managing investment strategies, enhancing the overall user experience.

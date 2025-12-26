@@ -5,7 +5,7 @@ A [Bull](../b/bull.md) Call Spread is a popular [options](../o/options.md) [trad
 #### Key Components and Construction
 
 1. **Long [Call Option](../c/call_option.md)**: This is the option that the [trader](../t/trader.md) buys. It grants the right, but not the obligation, to purchase the [underlying asset](../u/underlying_asset.md) at a designated [strike price](../s/strike_price.md) on or before the [expiration date](../e/expiration_date.md). This [will](../w/will.md) incur a [premium](../p/premium.md) cost.
-  
+
 2. **[Short Call Option](../s/short_call_option.md)**: This is the option that the [trader](../t/trader.md) sells. It grants the right to another party to purchase the [underlying asset](../u/underlying_asset.md) at a higher [strike price](../s/strike_price.md) on or before the [expiration date](../e/expiration_date.md). Selling the option generates a [premium](../p/premium.md), which helps [offset](../o/offset.md) the cost of the long [call option](../c/call_option.md).
 
 #### Example of Bull Call Spread
@@ -20,7 +20,7 @@ Net cost of the spread = $3 (long call [premium](../p/premium.md)) - $1 ([short 
 #### Potential Outcomes and Payoff Structure
 
 1. **Stock Price Below $105**: Both call [options](../o/options.md) [will](../w/will.md) expire worthless. The [net loss](../n/net_loss.md) [will](../w/will.md) be the initial [net premium](../n/net_premium.md) paid, i.e., $2 per share.
-  
+
 2. **Stock Price Between $105 and $110**: The long [call option](../c/call_option.md) [will](../w/will.md) be in-the-[money](../m/money.md), and the [short call option](../s/short_call_option.md) remains out-of-the-[money](../m/money.md). The [profit](../p/profit.md) is derived from the difference between the stock price and the lower [strike price](../s/strike_price.md), minus the [net premium](../n/net_premium.md) paid.
 
 3. **Stock Price Above $110**: Both [options](../o/options.md) [will](../w/will.md) be in-the-[money](../m/money.md). The maximum [profit](../p/profit.md) is achieved when the spread between the strike prices ($5) is greater than the [net premium](../n/net_premium.md) paid ($2). Thus, the [profit](../p/profit.md) = $5 - $2 = $3 per share.
@@ -59,6 +59,6 @@ The [Bull](../b/bull.md) Call Spread is an essential strategy for traders aiming
 
 For more information on constructing and analyzing [bull](../b/bull.md) call [spreads](../s/spreads.md), you may visit:
 
-- [Investopedia on Bull Call Spread](https://www.investopedia.com/terms/b/bullcallspread.asp)
+- Investopedia on Bull Call Spread
 
-**[Note](../n/note.md)**: The guidelines and examples provided are for educational purposes. Trading [options](../o/options.md) involve [risk](../r/risk.md) and are not suitable for every [investor](../i/investor.md). Consider consulting a [financial advisor](../f/financial_advisor.md).
+**[Note](../n/note.md)**: The guidelines and examples provided are for educational purposes. Trading [options](../o/options.md) involve [risk](../r/risk.md) and are not suitable for every [investor](../i/investor.md). Consider consulting a [financial advisor](../f/financial_advisor.md).

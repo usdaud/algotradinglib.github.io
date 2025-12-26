@@ -4,7 +4,7 @@ Passive [income](../i/income.md) is a term that refers to [earnings](../e/earnin
 
 ## Real Estate Investments
 
-[Real estate](../r/real_estate.md) is one of the most commonly referenced avenues for generating passive [income](../i/income.md). [Real estate](../r/real_estate.md) investments usually involve purchasing property and then renting it out to tenants. 
+[Real estate](../r/real_estate.md) is one of the most commonly referenced avenues for generating passive [income](../i/income.md). [Real estate](../r/real_estate.md) investments usually involve purchasing property and then renting it out to tenants.
 
 ### Rental Properties
 Owning rental properties can provide a steady stream of [income](../i/income.md) with the potential for significant returns. The primary types of rental properties include:
@@ -86,7 +86,7 @@ eBooks are digital versions of books that can be sold on platforms like Amazon K
 - **Competition**: The [market](../m/market.md) is saturated, making it difficult to stand out.
 
 ### Online Courses
-Online courses can be created and sold on platforms like Udemy, Coursera, or directly through your own website.
+Online courses can be created and sold on platforms like Udemy, Coursera,
 
 **Advantages:**
 - **High [Profit Margins](../p/profit_margins_in_trading.md)**: Once created, online courses have minimal ongoing costs.
@@ -98,7 +98,7 @@ Online courses can be created and sold on platforms like Udemy, Coursera, or dir
 
 ## Automated Trading Systems
 
-[Automated trading systems](../a/automated_trading_systems.md), also known as [algorithmic trading](../a/accountability.md) or "algo-trading," use computer algorithms to [trade](../t/trade.md) securities at speeds and frequencies that are impossible for human traders. These systems can be left to operate with minimal supervision, thus creating passive [income](../i/income.md).
+[Automated trading systems](../a/automated_trading_systems.md), also known as [algorithmic trading](../a/algorithmic_trading.md) or "algo-trading," use computer algorithms to [trade](../t/trade.md) securities at speeds and frequencies that are impossible for human traders. These systems can be left to operate with minimal supervision, thus creating passive [income](../i/income.md).
 
 ### High-Frequency Trading (HFT)
 High-frequency trading involves using powerful computers to execute a large number of orders at extremely high speeds. This method relies on algorithms to identify and exploit tiny price discrepancies.

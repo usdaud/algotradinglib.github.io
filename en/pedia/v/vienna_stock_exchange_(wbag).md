@@ -5,7 +5,7 @@ The Vienna Stock [Exchange](../e/exchange.md), officially known as Wiener Börse
 ## Historical Overview
 
 ### Establishment and Early History
-The Vienna Stock [Exchange](../e/exchange.md) was founded by Empress Maria Theresa of Austria in 1771, making it one of the oldest stock exchanges in the world. Initially, the [exchange](../e/exchange.md) traded mainly in bonds and [foreign exchange](../f/foreign_exchange.md). 
+The Vienna Stock [Exchange](../e/exchange.md) was founded by Empress Maria Theresa of Austria in 1771, making it one of the oldest stock exchanges in the world. Initially, the [exchange](../e/exchange.md) traded mainly in bonds and [foreign exchange](../f/foreign_exchange.md).
 
 ### 19th and 20th Century Developments
 Throughout the 19th century, the [exchange](../e/exchange.md) expanded its operations to include a wider array of securities, such as equities. The 20th century saw further modernization, including the introduction of electronic [trading systems](../t/trading_systems.md).
@@ -47,7 +47,7 @@ The Vienna Stock [Exchange](../e/exchange.md) uses the [Xetra](../x/xetra.md) el
 The WBAG offers a [range](../r/range.md) of data services, including [real-time market data](../r/real-time_market_data.md), historical data, and analytics. These services are essential for [market](../m/market.md) participants who rely on accurate and timely information to make informed trading decisions.
 
 ### Algo Trading
-[Algorithmic trading](../a/accountability.md) is supported on the Vienna Stock [Exchange](../e/exchange.md), facilitated by the [Xetra](../x/xetra.md) platform's high-speed connectivity and advanced [order types](../o/order_types_in_trading.md). [Market](../m/market.md) participants can deploy various [trading algorithms](../t/trading_algorithms.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and automate their [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) is supported on the Vienna Stock [Exchange](../e/exchange.md), facilitated by the [Xetra](../x/xetra.md) platform's high-speed connectivity and advanced [order types](../o/order_types_in_trading.md). [Market](../m/market.md) participants can deploy various [trading algorithms](../t/trading_algorithms.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and automate their [trading strategies](../t/trading_strategies.md).
 
 ## International Collaboration
 
@@ -81,4 +81,4 @@ The Vienna Stock [Exchange](../e/exchange.md) attracts significant [foreign inve
 
 ## Conclusion
 
-The Vienna Stock [Exchange](../e/exchange.md) (WBAG) is a vital component of the Austrian and Central European financial landscape. With its rich history, diverse [range](../r/range.md) of products, and advanced technological [infrastructure](../i/infrastructure.md), it continues to play a crucial role in facilitating [capital markets](../c/capital_markets.md) and attracting both domestic and international investors. Whether through equities, bonds, or [derivatives](../d/derivatives.md), the WBAG offers a comprehensive platform for a wide [range](../r/range.md) of investment activities. For more information, you can visit the Vienna Stock [Exchange](../e/exchange.md)'s official website [here](https://www.wienerborse.at/en/).
+The Vienna Stock [Exchange](../e/exchange.md) (WBAG) is a vital component of the Austrian and Central European financial landscape. With its rich history, diverse [range](../r/range.md) of products, and advanced technological [infrastructure](../i/infrastructure.md), it continues to play a crucial role in facilitating [capital markets](../c/capital_markets.md) and attracting both domestic and international investors. Whether through equities, bonds, or [derivatives](../d/derivatives.md), the WBAG offers a comprehensive platform for a wide [range](../r/range.md) of investment activities. For more information, you can visit the Vienna Stock [Exchange](../e/exchange.md)'s public materials here.

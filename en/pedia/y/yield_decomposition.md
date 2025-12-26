@@ -57,7 +57,7 @@ In managing a portfolio of securities, understanding the [yield](../y/yield.md) 
 
 ### Enigma Securities
 
-[Enigma Securities](https://enigmasecurities.io/) specializes in [debt](../d/debt.md) securities and utilizes sophisticated [algorithmic trading](../a/algorithmic_trading.md) techniques, including [yield](../y/yield.md) decomposition, to manage fixed-[income](../i/income.md) portfolios and generate [trading signals](../t/trading_signals.md).
+Enigma Securities specializes in [debt](../d/debt.md) securities and utilizes sophisticated [algorithmic trading](../a/algorithmic_trading.md) techniques, including [yield](../y/yield.md) decomposition, to manage fixed-[income](../i/income.md) portfolios and generate [trading signals](../t/trading_signals.md).
 
 ### Renaissance Technologies
 

@@ -45,14 +45,14 @@ Sharp increases in [volume](../v/volume.md) at certain price levels can hint at 
 
 ### Trading Platforms
 Several trading platforms and software [offer](../o/offer.md) advanced tools for [market depth](../m/market_depth.md) analysis. Some of the notable ones are:
-- [MetaTrader 4/5](https://www.metatrader4.com/en)
-- [NinjaTrader](https://ninjatrader.com/)
-- [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- MetaTrader 4/5
+- NinjaTrader
+- Thinkorswim by TD Ameritrade
 
 ### Market Data Providers
 Professional traders often use data feeds from providers that [offer](../o/offer.md) detailed [market depth](../m/market_depth.md) data:
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Reuters Eikon](https://www.refinitiv.com/en/products/refinitiv-eikon-trading-software)
+- Bloomberg Terminal
+- Reuters Eikon
 
 ## Algorithms for Market Depth Analysis
 
@@ -95,6 +95,6 @@ Given their volatile nature, cryptocurrencies benefit from [market depth](../m/m
 
 ## Conclusion
 
-[Market Depth](../m/market_depth.md) Analysis is an essential technique in [algorithmic trading](../a/algorithmic_trading.md), providing granular insights into the [order book dynamics](../o/order_book_dynamics.md) and helping traders make more informed decisions. With the advancement in trading technologies and sophisticated algorithms, leveraging [market depth](../m/market_depth.md) has become increasingly integral to managing [risk](../r/risk.md) and capitalizing on [market](../m/market.md) opportunities. However, challenges such as [market manipulation](../m/market_manipulation.md) and data latency must be addressed to ensure effective analysis. 
+[Market Depth](../m/market_depth.md) Analysis is an essential technique in [algorithmic trading](../a/algorithmic_trading.md), providing granular insights into the [order book dynamics](../o/order_book_dynamics.md) and helping traders make more informed decisions. With the advancement in trading technologies and sophisticated algorithms, leveraging [market depth](../m/market_depth.md) has become increasingly integral to managing [risk](../r/risk.md) and capitalizing on [market](../m/market.md) opportunities. However, challenges such as [market manipulation](../m/market_manipulation.md) and data latency must be addressed to ensure effective analysis.
 
 By understanding and utilizing [market depth](../m/market_depth.md), traders can [gain](../g/gain.md) a significant edge in various [financial markets](../f/financial_market.md), from equities and forex to [futures](../f/futures.md) and cryptocurrencies. As the trading landscape continues to evolve, the importance of [market depth](../m/market_depth.md) analysis remains ever-present for algorithmic traders aiming to achieve consistent profitability.

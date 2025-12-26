@@ -45,5 +45,3 @@ Webull is regulated by several top-tier financial authorities, ensuring a secure
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md))
 - Securities [Investor](../i/investor.md) Protection [Corporation](../c/corporation.md) (SIPC)
 
-## Website
-For more information and to start trading, visit the official Webull website: [Webull](https://www.webull.com)

@@ -7,9 +7,9 @@ High-[Yield](../y/yield.md) Investment Programs (HYIPs) are complex financial sc
 HYIPs generally function through internet-based platforms where investors are promised high returns over short periods. The typical mechanisms include:
 
 - **Investment Plans**: These schemes operate through various investment plans where users are incentivized to [deposit](../d/deposit.md) funds with promises of daily, weekly, or monthly returns. These plans often come with tiers, where higher deposits promise even greater returns.
-  
+
 - **Ponzi Schemes**: A significant number of HYIPs function as Ponzi schemes. In such schemes, returns to earlier investors are paid from the new contributions of newer investors rather than from [profit](../p/profit.md) earned by the operation of a legitimate [business](../b/business.md).
-  
+
 - **Referral Systems**: To propagate their growth, HYIPs often use multi-level referral systems, rewarding participants for bringing in additional investors. This increases the inflow of new [money](../m/money.md), which is crucial for the continuation of the scheme.
 
 - **Pseudonymity and Anonymity**: Many HYIPs operate with a high level of anonymity, with operators using pseudonyms or false identities to mask their real identities. The transactions are often conducted through untraceable digital currencies like [Bitcoin](../b/bitcoin.md).
@@ -42,9 +42,9 @@ HYIPs come in various forms, each promising unique investment opportunities. Som
 
 Several high-profile HYIPs have gained notoriety for their scale and the extent of their [fraud](../f/fraud.md). Some examples include:
 
-- **Bitconnect**: Bitconnect was a cryptocurrency platform that promised high [yield](../y/yield.md) returns and operated from early 2017 to early 2018. It was later revealed to be a [Ponzi scheme](../p/ponzi_scheme.md), and its collapse led to significant financial losses for investors. The link to the Bitconnect website is no longer functional as it was taken down following regulatory actions.
+- **Bitconnect**: Bitconnect was a cryptocurrency platform that promised high [yield](../y/yield.md) returns and operated from early 2017 to early 2018. It was later revealed to be a [Ponzi scheme](../p/ponzi_scheme.md), and its collapse led to significant financial losses for investors. The link to the Bitconnect online platform is no longer functional as it was taken down following regulatory actions.
 
-- **[OneCoin](../o/onecoin.md)**: Promoted as a high-[yield](../y/yield.md) cryptocurrency investment, [OneCoin](../o/onecoin.md) was exposed as one of the most significant Ponzi schemes in the cryptocurrency world. The scheme lured investors with promises of massive returns, leading to a total scam amounting to billions of dollars. More information can be found at [OneCoin](http://www.onecoin.eu/).
+- **[OneCoin](../o/onecoin.md)**: Promoted as a high-[yield](../y/yield.md) cryptocurrency investment, [OneCoin](../o/onecoin.md) was exposed as one of the most significant Ponzi schemes in the cryptocurrency world. The scheme lured investors with promises of massive returns, leading to a total scam amounting to billions of dollars. More information can be found at OneCoin.
 
 ## Conclusion
 

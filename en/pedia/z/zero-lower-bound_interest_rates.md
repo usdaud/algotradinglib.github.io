@@ -34,25 +34,25 @@ To counteract the limitations of ZLB, central banks deploy various unconventiona
 
 QE involves the large-scale purchase of financial assets, such as government and corporate bonds, to increase the [money supply](../m/money_supply.md) and lower longer-term [interest](../i/interest.md) rates. By doing so, central banks aim to encourage lending and investment.
 
-Example: [The Federal Reserve](https://www.federalreserve.gov/monetarypolicy/bst_openmarketops.htm)
+Example: The Federal Reserve
 
 ### Negative Interest Rates
 
 In some cases, central banks impose negative [interest](../i/interest.md) rates on [excess reserves](../e/excess_reserves.md) held by commercial banks. This policy aims to incentivize banks to lend more by effectively charging them for holding [excess reserves](../e/excess_reserves.md).
 
-Example: [European Central Bank (ECB)](https://www.ecb.europa.eu/mopo/implement/omo/html/index.en.html)
+Example: European Central Bank (ECB)
 
 ### Forward Guidance
 
 Central banks use forward [guidance](../g/guidance.md) to influence [market](../m/market.md) expectations about the future path of [interest](../i/interest.md) rates. By providing clear indications about future policy intentions, they seek to lower long-term [interest](../i/interest.md) rates and stimulate economic activity.
 
-Example: [Bank of England](https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate)
+Example: Bank of England
 
 ### Yield Curve Control (YCC)
 
 YCC involves targeting specific yields on longer-term government securities, thus controlling the shape of the [yield curve](../y/yield_curve.md). This policy aims to keep longer-term borrowing costs low.
 
-Example: [Bank of Japan](https://www.boj.or.jp/en/mopo/mpmdeci/state_2016/k161121a.pdf)
+Example: Bank of Japan
 
 ## Implications for Algotrading
 
@@ -72,7 +72,7 @@ Incorporating ZLB effects into algotrading models adds to their complexity. Trad
 
 Algotrading strategies must undergo rigorous [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) in ZLB environments to ensure robustness. Historical data from periods like the Global [Financial Crisis](../f/financial_crisis.md) can provide valuable insights for this purpose.
 
-Example: [AlgoTrader](https://www.algotrader.com/)
+Example: AlgoTrader
 
 ## Conclusion
 

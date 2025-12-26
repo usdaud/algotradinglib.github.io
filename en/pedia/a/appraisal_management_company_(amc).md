@@ -51,11 +51,11 @@ Despite their advantages, AMCs face several challenges:
 
 ## Examples of Leading AMCs
 
-1. **CoreLogic**: CoreLogic is a leading provider of property insights and analytics, [offering](../o/offering.md) comprehensive [appraisal](../a/appraisal.md) management services through its AMC division. [CoreLogic](https://www.corelogic.com)
-2. **First American [Mortgage](../m/mortgage.md) Solutions**: This company provides end-to-end [valuation](../v/valuation.md) services, integrating advanced technology to deliver efficient [appraisal](../a/appraisal.md) management solutions. [First American](https://www.firstam.com/mortgagesolutions/index.html)
-3. **[Valuation](../v/valuation.md) Connect**: [Valuation](../v/valuation.md) Connect offers a full suite of [appraisal](../a/appraisal.md) management and [valuation](../v/valuation.md) services, leveraging cutting-edge technology to ensure accuracy and compliance. [Valuation Connect](https://valuationconnect.com)
-4. **Solidifi**: Solidifi is known for its [robust](../r/robust.md) network of appraisers and innovative technology platform, providing reliable and comprehensive [appraisal](../a/appraisal.md) management services. [Solidifi](https://www.solidifi.com)
-5. **Nationwide [Appraisal](../a/appraisal.md) Network (NAN)**: NAN provides personalized [appraisal](../a/appraisal.md) management services, focusing on quality, speed, and compliance. [Nationwide Appraisal Network](https://www.nan-amc.com)
+1. **CoreLogic**: CoreLogic is a leading provider of property insights and analytics, [offering](../o/offering.md) comprehensive [appraisal](../a/appraisal.md) management services through its AMC division. CoreLogic
+2. **First American [Mortgage](../m/mortgage.md) Solutions**: This company provides end-to-end [valuation](../v/valuation.md) services, integrating advanced technology to deliver efficient [appraisal](../a/appraisal.md) management solutions. First American
+3. **[Valuation](../v/valuation.md) Connect**: [Valuation](../v/valuation.md) Connect offers a full suite of [appraisal](../a/appraisal.md) management and [valuation](../v/valuation.md) services, leveraging cutting-edge technology to ensure accuracy and compliance. Valuation Connect
+4. **Solidifi**: Solidifi is known for its [robust](../r/robust.md) network of appraisers and innovative technology platform, providing reliable and comprehensive [appraisal](../a/appraisal.md) management services. Solidifi
+5. **Nationwide [Appraisal](../a/appraisal.md) Network (NAN)**: NAN provides personalized [appraisal](../a/appraisal.md) management services, focusing on quality, speed, and compliance. Nationwide Appraisal Network
 
 ## Future Trends in Appraisal Management
 

@@ -40,4 +40,3 @@ A **Bookie** (short for bookmaker) is an individual or organization that accepts
 
 ## Conclusion
 A bookie plays a crucial role in the betting [industry](../i/industry.md) by setting odds, managing bets, and ensuring payouts. They help enhance the entertainment [value](../v/value.md) of events and contribute to [market efficiency](../m/market_efficiency.md). Understanding the functions and legal considerations of bookies is essential for anyone interested in betting or working in the betting [industry](../i/industry.md).
-

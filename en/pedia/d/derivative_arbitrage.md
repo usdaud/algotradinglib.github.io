@@ -68,23 +68,18 @@ Changes in regulations or [market](../m/market.md) practices can affect the avai
 Several [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and [investment banks](../i/investment_bank_(ib).md) engage in [derivative](../d/derivative.md) [arbitrage](../a/arbitrage.md). Some notable entities include:
 
 ### Renaissance Technologies
-[Website](https://www.rentec.com)
 Renaissance Technologies is a highly successful [hedge fund](../h/hedge_fund.md) known for its quantitative and [arbitrage](../a/arbitrage.md) strategies. Its Medallion [Fund](../f/fund.md), in particular, has achieved remarkable returns by identifying and exploiting [market](../m/market.md) inefficiencies.
 
 ### Citadel LLC
-[Website](https://www.citadel.com)
 Citadel is a leading global financial institution that engages in a wide [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including [derivative](../d/derivative.md) [arbitrage](../a/arbitrage.md). The [firm](../f/firm.md)'s [quantitative trading](../q/quantitative_trading.md) arm, Citadel Securities, is one of the largest [market](../m/market.md) makers in the world.
 
 ### Two Sigma Investments
-[Website](https://www.twosigma.com)
 Two Sigma is a quantitative [hedge fund](../h/hedge_fund.md) that uses advanced [data analytics](../d/data_analytics.md) and technology-driven strategies, including [derivative](../d/derivative.md) [arbitrage](../a/arbitrage.md), to generate returns.
 
 ### Jane Street
-[Website](https://www.janestreet.com)
 Jane Street is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in [quantitative trading](../q/quantitative_trading.md) and [arbitrage](../a/arbitrage.md) strategies. The [firm](../f/firm.md) is known for its expertise in trading [derivatives](../d/derivatives.md) and managing [risk](../r/risk.md).
 
 ### Virtu Financial
-[Website](https://www.virtu.com)
 Virtu Financial is a global electronic [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) leverages technology and [quantitative models](../q/quantitative_models.md) to engage in various [arbitrage](../a/arbitrage.md) strategies, including those in the [derivatives](../d/derivatives.md) [market](../m/market.md).
 
 In conclusion, [derivative](../d/derivative.md) [arbitrage](../a/arbitrage.md) is a complex and highly specialized [trading strategy](../t/trading_strategy.md) that requires advanced quantitative skills, sophisticated technology, and a deep understanding of [financial markets](../f/financial_market.md). While it can [offer](../o/offer.md) significant [profit](../p/profit.md) opportunities, it also involves considerable risks and challenges.

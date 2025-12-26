@@ -19,9 +19,9 @@ Assume a [trader](../t/trader.md) sells a [put option](../p/put.md) on a stock c
 1. **[Premium](../p/premium.md) Received**: The [trader](../t/trader.md) collects the $5 [premium](../p/premium.md) per share.
 2. **Obligation**: If the stock price falls below $95, the [trader](../t/trader.md) must buy the stock at $95, regardless of the current [market price](../m/market_price.md).
 3. **[Profit](../p/profit.md)/Loss Calculation**:
-    - If the stock stays above $95, the [trader](../t/trader.md)’s [profit](../p/profit.md) is the [premium](../p/premium.md) received ($5).
-    - If the stock drops to $90, the [trader](../t/trader.md) buys the stock at $95 (incurring a $5 loss) but retains the $5 [premium](../p/premium.md), resulting in a break-even scenario.
-    - If the stock drops to $80, the [trader](../t/trader.md) buys at $95 (incurring a $15 loss) but still keeps the $5 [premium](../p/premium.md), resulting in a [net loss](../n/net_loss.md) of $10.
+ - If the stock stays above $95, the [trader](../t/trader.md)’s [profit](../p/profit.md) is the [premium](../p/premium.md) received ($5).
+ - If the stock drops to $90, the [trader](../t/trader.md) buys the stock at $95 (incurring a $5 loss) but retains the $5 [premium](../p/premium.md), resulting in a break-even scenario.
+ - If the stock drops to $80, the [trader](../t/trader.md) buys at $95 (incurring a $15 loss) but still keeps the $5 [premium](../p/premium.md), resulting in a [net loss](../n/net_loss.md) of $10.
 
 ## Risk and Reward
 
@@ -91,14 +91,14 @@ Modern trading platforms provide sophisticated tools and features that traders c
 
 ### Algorithmic Trading
 
-In the age of technology, [algorithmic trading](../a/accountability.md) has become prevalent. Traders and institutional investors use algorithms to automatically execute [short put strategies](../s/short_put_strategies.md) based on predefined criteria and [market](../m/market.md) conditions, enhancing [efficiency](../e/efficiency.md) and reducing manual intervention.
+In the age of technology, [algorithmic trading](../a/algorithmic_trading.md) has become prevalent. Traders and institutional investors use algorithms to automatically execute [short put strategies](../s/short_put_strategies.md) based on predefined criteria and [market](../m/market.md) conditions, enhancing [efficiency](../e/efficiency.md) and reducing manual intervention.
 
 ### Platforms and Software
 
 Leading trading platforms, such as [Interactive Brokers](../i/interactive_brokers.md), TD [Ameritrade](../a/ameritrade.md)'s thinkorswim, and [Robinhood](../r/robinhood.md), [offer](../o/offer.md) comprehensive [options](../o/options.md) trading features that support [short put strategies](../s/short_put_strategies.md). For more information, visit:
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [Robinhood](https://robinhood.com/)
+- Interactive Brokers
+- thinkorswim
+- Robinhood
 
 ## Conclusion
 

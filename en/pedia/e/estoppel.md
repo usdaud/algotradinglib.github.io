@@ -8,7 +8,7 @@ There are several types of estoppel, each catering to different scenarios within
 
 ### 1. Promissory Estoppel
 
-[Promissory estoppel](../p/promissory_estoppel.md) occurs when one party makes a promise to another, and the latter relies on that promise to their detriment. The principle ensures that the promisor cannot go back on their promise if it would unjustly harm the promisee who acted based on that promise. 
+[Promissory estoppel](../p/promissory_estoppel.md) occurs when one party makes a promise to another, and the latter relies on that promise to their detriment. The principle ensures that the promisor cannot go back on their promise if it would unjustly harm the promisee who acted based on that promise.
 
 Key elements of [promissory estoppel](../p/promissory_estoppel.md) are:
 - A clear and definite promise.

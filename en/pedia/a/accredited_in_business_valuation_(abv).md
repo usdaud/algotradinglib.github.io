@@ -78,4 +78,4 @@ The AICPA provides numerous resources and support mechanisms for ABV holders, in
 
 The Accredited in [Business](../b/business.md) [Valuation](../v/valuation.md) (ABV) credential is a prestigious designation offered by the AICPA to Certified Public Accountants who specialize in [business](../b/business.md) [valuation](../v/valuation.md). Earning the ABV credential involves meeting rigorous education, experience, and examination requirements. ABV holders benefit from enhanced credibility, marketability, professional recognition, and access to valuable resources. Through continuous professional education, ABV holders maintain their expertise and stay updated with [industry](../i/industry.md) trends and standards.
 
-For more detailed information about the ABV credential, you can visit the official AICPA website: [AICPA - ABV Credential](https://www.aicpa.org/membership/join/credentials/abv-credential.html).
+For more detailed information about the ABV credential,

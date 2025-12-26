@@ -40,7 +40,7 @@ As a passive strategy, [Buy and Hold](../b/buy_and_hold.md) does not require fre
 Warren Buffett, CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md), is one of the most iconic proponents of the [Buy and Hold](../b/buy_and_hold.md) strategy. His investment philosophy emphasizes buying fundamentally strong companies and holding them indefinitely. His success has turned [Berkshire Hathaway](../b/berkshire_hathaway.md) into a diversified [holding company](../h/holding_company.md) with significant investments in various sectors.
 
 #### Vanguard Group
-The Vanguard Group, founded by John C. Bogle, is an [investment management](../i/investment_management.md) company known for its low-cost [index](../i/index_instrument.md) funds and ETFs that facilitate [Buy and Hold](../b/buy_and_hold.md) [investing](../i/investing.md). Vanguard's philosophy encourages long-term [investing](../i/investing.md) and [diversification](../d/diversification.md). [Vanguard Group](https://www.vanguard.com)
+The Vanguard Group, founded by John C. Bogle, is an [investment management](../i/investment_management.md) company known for its low-cost [index](../i/index_instrument.md) funds and ETFs that facilitate [Buy and Hold](../b/buy_and_hold.md) [investing](../i/investing.md). Vanguard's philosophy encourages long-term [investing](../i/investing.md) and [diversification](../d/diversification.md). Vanguard Group
 
 ### Case Studies and Examples
 
@@ -52,4 +52,4 @@ Investors who bought Coca-Cola stock several decades ago and held onto it have s
 
 ### Conclusion
 
-The [Buy and Hold](../b/buy_and_hold.md) strategy is a time-tested approach grounded in the idea of long-term [market](../m/market.md) growth. While it requires patience and discipline, the benefits of reduced [transaction costs](../t/transaction_costs.md), tax [efficiency](../e/efficiency.md), and [compounding](../c/compounding.md) returns make it attractive for many investors. When implemented with careful research and [diversification](../d/diversification.md), [Buy and Hold](../b/buy_and_hold.md) can be a powerful strategy to build [wealth](../w/wealth.md) over time.
+The [Buy and Hold](../b/buy_and_hold.md) strategy is a time-tested approach grounded in the idea of long-term [market](../m/market.md) growth. While it requires patience and discipline, the benefits of reduced [transaction costs](../t/transaction_costs.md), tax [efficiency](../e/efficiency.md), and [compounding](../c/compounding.md) returns make it attractive for many investors. When implemented with careful research and [diversification](../d/diversification.md), [Buy and Hold](../b/buy_and_hold.md) can be a powerful strategy to build [wealth](../w/wealth.md) over time.

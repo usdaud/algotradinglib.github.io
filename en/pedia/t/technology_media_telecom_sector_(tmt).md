@@ -55,29 +55,20 @@ The TMT sector is subject to extensive regulatory scrutiny and compliance requir
 ### Technology
 
 - **Apple Inc.**: Known for its innovative hardware products such as the iPhone, iPad, and Mac computers, Apple is a global leader in consumer electronics and technology services.
-  [Apple](https://www.apple.com)
 - **Microsoft [Corporation](../c/corporation.md)**: A dominant force in software with its Windows operating system and Office [productivity](../p/productivity.md) suite, Microsoft also leads in [cloud computing](../c/cloud_computing_in_trading.md) through Azure.
-  [Microsoft](https://www.microsoft.com)
 - **Amazon.com Inc.**: Beyond its e-[commerce](../c/commerce.md) roots, Amazon has significant operations in [cloud computing](../c/cloud_computing_in_trading.md) (AWS), streaming media (Prime Video), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (Alexa).
-  [Amazon](https://www.amazon.com)
 
 ### Media
 
 - **Netflix Inc.**: A pioneer in the streaming media [industry](../i/industry.md), Netflix has transformed how content is consumed globally with its extensive library of movies, TV shows, and original content.
-  [Netflix](https://www.netflix.com)
 - **The Walt Disney Company**: A media giant with [holdings](../h/holdings.md) in film, television, theme parks, and streaming services (Disney+), Disney is a key player in the global entertainment landscape.
-  [Disney](https://www.thewaltdisneycompany.com)
 - **Comcast [Corporation](../c/corporation.md)**: A leading provider of cable television, broadband internet, and phone services, Comcast also owns NBCUniversal, expanding its reach into media and entertainment.
-  [Comcast](https://www.comcast.com)
 
 ### Telecommunications
 
 - **AT&T Inc.**: One of the largest telecommunications companies in the world, AT&T provides mobile and fixed-line services, along with digital television and internet offerings.
-  [AT&T](https://www.att.com)
 - **Verizon Communications Inc.**: A major player in wireless communications and broadband internet, Verizon is at the forefront of 5G deployment and network modernization.
-  [Verizon](https://www.verizon.com)
 - **Vodafone Group Plc**: Operating across [multiple](../m/multiple.md) continents, Vodafone is a key player in global telecommunications, [offering](../o/offering.md) mobile voice and data services along with fixed connectivity.
-  [Vodafone](https://www.vodafone.com)
 
 ## Economic and Societal Impact of TMT
 

@@ -88,4 +88,3 @@ CSE emphasizes the importance of [corporate governance](../c/corporate_governanc
 
 The Chittagong Stock [Exchange](../e/exchange.md) (CSE) is a vital component of Bangladesh's financial [market](../m/market.md). With its rich history, [robust](../r/robust.md) [infrastructure](../i/infrastructure.md), and commitment to modernization, CSE continues to play a pivotal role in facilitating [capital](../c/capital.md) formation, providing investment opportunities, and contributing to the economic development of Bangladesh. As it navigates challenges and embraces future prospects, the CSE is well-positioned to enhance its significance in the regional and global financial landscape.
 
-For more information, visit the official [Chittagong Stock Exchange website](https://www.cse.com.bd/).

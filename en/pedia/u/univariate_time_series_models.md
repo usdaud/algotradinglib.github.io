@@ -50,23 +50,23 @@ where \(\Phi_P\) and \(\Theta_Q\) are polynomials of [order](../o/order.md) \(P\
 
 [Exponential smoothing](../e/exponential_smoothing.md) is an intuitive and practical approach to [time series forecasting](../t/time_series_forecasting.md), which applies [weighted averages](../w/weighted_averages_in_trading.md) to past observations. Three common types are:
 - **Simple [Exponential Smoothing](../e/exponential_smoothing.md)**: For series without [trend](../t/trend.md)/[seasonality](../s/seasonality.md),
-  
-  \[ y_t = \[alpha](../a/alpha.md) y_{t-1} + (1 - \[alpha](../a/alpha.md)) S_{t-1} \]
-  
-  where \(0 < \[alpha](../a/alpha.md) < 1\) is the smoothing parameter.
+
+ \[ y_t = \[alpha](../a/alpha.md) y_{t-1} + (1 - \[alpha](../a/alpha.md)) S_{t-1} \]
+
+ where \(0 < \[alpha](../a/alpha.md) < 1\) is the smoothing parameter.
 - **Holt’s Linear [Trend](../t/trend.md) Method**: Extends simple smoothing by adding a [trend](../t/trend.md) component,
 
-  \[ S_t = \[alpha](../a/alpha.md) y_t + (1 - \[alpha](../a/alpha.md))(S_{t-1} + T_{t-1}) \]
-  
-  \[ T_t = \[beta](../b/beta.md) (S_t - S_{t-1}) + (1 - \[beta](../b/beta.md)) T_{t-1} \]
+ \[ S_t = \[alpha](../a/alpha.md) y_t + (1 - \[alpha](../a/alpha.md))(S_{t-1} + T_{t-1}) \]
+
+ \[ T_t = \[beta](../b/beta.md) (S_t - S_{t-1}) + (1 - \[beta](../b/beta.md)) T_{t-1} \]
 
 - **Holt-Winters Method**: Incorporates both [trend](../t/trend.md) and seasonal components,
 
-  \[ S_t = \[alpha](../a/alpha.md) \frac{y_t}{I_{t-s}} + (1 - \[alpha](../a/alpha.md)) (S_{t-1} + T_{t-1}) \]
-  
-  \[ T_t = \[beta](../b/beta.md) (S_t - S_{t-1}) + (1 - \[beta](../b/beta.md)) T_{t-1} \]
-  
-  \[ I_t = \[gamma](../g/gamma.md) \frac{y_t}{S_t} + (1 - \[gamma](../g/gamma.md)) I_{t-s} \]
+ \[ S_t = \[alpha](../a/alpha.md) \frac{y_t}{I_{t-s}} + (1 - \[alpha](../a/alpha.md)) (S_{t-1} + T_{t-1}) \]
+
+ \[ T_t = \[beta](../b/beta.md) (S_t - S_{t-1}) + (1 - \[beta](../b/beta.md)) T_{t-1} \]
+
+ \[ I_t = \[gamma](../g/gamma.md) \frac{y_t}{S_t} + (1 - \[gamma](../g/gamma.md)) I_{t-s} \]
 
 ### 8. Model Selection and Evaluation
 
@@ -80,9 +80,7 @@ Selection of an appropriate model involves balancing complexity with fit, often 
 - **[Seasonality](../s/seasonality.md) Adjustments**: SARIMA models account for seasonal effects in price changes, which is essential for [commodities trading](../c/commodities_trading.md).
 
 Several companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) tools and platforms, including:
-- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
-- **[AlgoTrader](../a/algotrader.md)**: [www.algotrader.com](https://www.algotrader.com)
-- **Quantopian (Acquired by [Robinhood](../r/robinhood.md))**: No direct link as the service is integrated into [Robinhood](../r/robinhood.md).
+- **[QuantConnect](../q/quantconnect.md)**- **[AlgoTrader](../a/algotrader.md)**- **Quantopian (Acquired by [Robinhood](../r/robinhood.md))**: No direct link as the service is integrated into [Robinhood](../r/robinhood.md).
 
 ### 10. Conclusion
 

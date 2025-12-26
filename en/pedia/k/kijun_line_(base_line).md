@@ -1,6 +1,6 @@
 # Kijun Line (Base Line)
 
-The Kijun Line, also known as the Base Line, is a crucial element of the Ichimoku Kinko Hyo, a comprehensive and versatile [technical analysis](../t/technical_analysis.md) system developed by Goichi Hosoda. This system, which was designed to provide a clear understanding of [support and resistance](../s/support_and_resistance.md) levels, [trend](../t/trend.md) direction, and potential [trading signals](../t/trading_signals.md), has become one of the most widely used tools in [technical analysis](../t/technical_analysis.md), particularly in the context of [algorithmic trading](../a/accountability.md). The Kijun Line, in particular, plays a critical role in identifying [trend](../t/trend.md) direction and potential areas of [support and resistance](../s/support_and_resistance.md), making it a valuable tool for traders and analysts alike.
+The Kijun Line, also known as the Base Line, is a crucial element of the Ichimoku Kinko Hyo, a comprehensive and versatile [technical analysis](../t/technical_analysis.md) system developed by Goichi Hosoda. This system, which was designed to provide a clear understanding of [support and resistance](../s/support_and_resistance.md) levels, [trend](../t/trend.md) direction, and potential [trading signals](../t/trading_signals.md), has become one of the most widely used tools in [technical analysis](../t/technical_analysis.md), particularly in the context of [algorithmic trading](../a/algorithmic_trading.md). The Kijun Line, in particular, plays a critical role in identifying [trend](../t/trend.md) direction and potential areas of [support and resistance](../s/support_and_resistance.md), making it a valuable tool for traders and analysts alike.
 
 ## What is the Kijun Line?
 
@@ -17,14 +17,14 @@ This calculation makes the Kijun Line a dynamic line that adapts to the price mo
 To effectively use the Kijun Line in trading, it’s important to understand how it interacts with the other components of the Ichimoku Kinko Hyo system: the Tenkan Line (Conversion Line), the Senkou Span A (Leading Span A), the Senkou Span B (Leading Span B), and the Chikou Span (Lagging Span). However, even when analyzed in isolation, the Kijun Line offers valuable insights:
 
 - **[Trend](../t/trend.md) Identification**:
-  - When the price is above the Kijun Line, it suggests an [uptrend](../u/uptrend.md), indicating that the overall [market sentiment](../m/market_sentiment.md) is bullish.
-  - When the price is below the Kijun Line, it suggests a [downtrend](../d/downtrend.md), indicating that the overall [market sentiment](../m/market_sentiment.md) is bearish.
-  
+ - When the price is above the Kijun Line, it suggests an [uptrend](../u/uptrend.md), indicating that the overall [market sentiment](../m/market_sentiment.md) is bullish.
+ - When the price is below the Kijun Line, it suggests a [downtrend](../d/downtrend.md), indicating that the overall [market sentiment](../m/market_sentiment.md) is bearish.
+
 - **[Support and Resistance](../s/support_and_resistance.md)**:
-  - The Kijun Line can act as a dynamic support or resistance level. In an [uptrend](../u/uptrend.md), the Kijun Line often serves as a support level where the price might find a floor during pullbacks. Conversely, in a [downtrend](../d/downtrend.md), it can act as a resistance level where the price might face a ceiling during rallies.
-  
+ - The Kijun Line can act as a dynamic support or resistance level. In an [uptrend](../u/uptrend.md), the Kijun Line often serves as a support level where the price might find a floor during pullbacks. Conversely, in a [downtrend](../d/downtrend.md), it can act as a resistance level where the price might face a ceiling during rallies.
+
 - **[Momentum](../m/momentum.md) [Indicator](../i/indicator.md)**:
-  - Large deviations between the current price and the Kijun Line can indicate a strong [momentum](../m/momentum.md). When prices are far above the Kijun Line, it may suggest [overbought](../o/overbought.md) conditions, while prices far below the Kijun Line may indicate [oversold](../o/oversold.md) conditions.
+ - Large deviations between the current price and the Kijun Line can indicate a strong [momentum](../m/momentum.md). When prices are far above the Kijun Line, it may suggest [overbought](../o/overbought.md) conditions, while prices far below the Kijun Line may indicate [oversold](../o/oversold.md) conditions.
 
 ## Kijun Line Trading Strategies
 
@@ -50,7 +50,7 @@ Many traders use the Kijun Line as a [trailing stop](../t/trailing_stop.md) to m
 
 ## Advanced Analytical Techniques with the Kijun Line
 
-Beyond these basic strategies, the Kijun Line can be integrated into more sophisticated analytical techniques and models, especially in [algorithmic trading](../a/accountability.md). Here are some advanced techniques and considerations:
+Beyond these basic strategies, the Kijun Line can be integrated into more sophisticated analytical techniques and models, especially in [algorithmic trading](../a/algorithmic_trading.md). Here are some advanced techniques and considerations:
 
 ### Mean Reversion Strategies
 
@@ -68,7 +68,7 @@ The Kijun Line can be combined with other [trend](../t/trend.md)-following indic
 
 ### Integration with Machine Learning Models
 
-[Algorithmic trading](../a/accountability.md) systems increasingly [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to enhance prediction models. The Kijun Line can be a valuable input feature for training [machine learning](../m/machine_learning.md) models:
+[Algorithmic trading](../a/algorithmic_trading.md) systems increasingly [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to enhance prediction models. The Kijun Line can be a valuable input feature for training [machine learning](../m/machine_learning.md) models:
 
 - **Feature Engineering**: Features such as the slope of the Kijun Line, the distance of the price from the Kijun Line, and historical crossover events can be used to train models for predicting future price movements.
 - **[Supervised Learning](../s/supervised_learning.md)**: By using historical data of Kijun Line interactions, [supervised learning](../s/supervised_learning.md) models can be trained to identify patterns and predict [breakout](../b/breakout.md) or [reversal](../r/reversal.md) points.

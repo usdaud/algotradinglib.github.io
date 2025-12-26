@@ -95,7 +95,7 @@ Consumers may experience rationing through:
 - **Tokenization:** Enabling fractional ownership and [liquidity](../l/liquidity.md) of assets, thus distributing resources more efficiently.
 
 #### Example:
-Aave (https://aave.com) is a DeFi platform that provides decentralized lending services, reducing reliance on traditional [credit](../c/credit.md) rationing.
+Aave ( is a DeFi platform that provides decentralized lending services, reducing reliance on traditional [credit](../c/credit.md) rationing.
 
 ### 2. **Artificial Intelligence (AI) and Big Data**
 AI and [big data](../b/big_data_in_trading.md) enhance [risk](../r/risk.md) assessment, potentially mitigating the causes of rationing:
@@ -104,7 +104,7 @@ AI and [big data](../b/big_data_in_trading.md) enhance [risk](../r/risk.md) asse
 - **Automated Decision-Making:** AI-driven [loan](../l/loan.md) approval processes can streamline [credit](../c/credit.md) [distribution](../d/distribution.md).
 
 #### Case Study:
-Zest AI (https://www.zest.ai) uses [machine learning](../m/machine_learning.md) to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md) processes, thereby addressing [credit](../c/credit.md) rationing challenges.
+Zest AI ( uses [machine learning](../m/machine_learning.md) to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md) processes, thereby addressing [credit](../c/credit.md) rationing challenges.
 
 ## Future Trends and Challenges
 
@@ -130,8 +130,7 @@ Rapid technological advancements continually reshape rationing mechanisms.
 
 Rationing is a multi-faceted concept critical to the functioning of financial systems and markets under conditions of [scarcity](../s/scarcity.md). Whether through [credit](../c/credit.md) markets, IPOs, energy [distribution](../d/distribution.md), or [liquidity](../l/liquidity.md) management, rationing ensures equitable access and stability. With the advent of new technologies and evolving economic landscapes, traditional rationing mechanisms are undergoing significant transformations, promising enhanced [efficiency](../e/efficiency.md), [transparency](../t/transparency.md), and fairness in the allocation of resources.
 
-For further information on the algorithms' role in trading and how technology is reshaping financial rationing, you can explore https://aave.com and https://www.zest.ai.
-
+For further information on the algorithms' role in trading and how technology is reshaping financial rationing, you can explore and
 ---
 
 The discussion provided captures the breadth and depth of rationing in [finance](../f/finance.md), emphasizing its relevance, intricacies, and future trajectories.

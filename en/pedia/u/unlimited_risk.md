@@ -4,7 +4,7 @@ Unlimited [risk](../r/risk.md) is a crucial concept in the world of trading and 
 
 ## What is Unlimited Risk?
 
-Unlimited [risk](../r/risk.md) refers to a scenario where potential losses in a financial position or [investment strategy](../i/investment_strategy.md) are not capped, meaning there is no theoretical upper limit to what one could lose. This is a stark contrast to situations where there is a maximum loss that can be precisely quantified and limited. 
+Unlimited [risk](../r/risk.md) refers to a scenario where potential losses in a financial position or [investment strategy](../i/investment_strategy.md) are not capped, meaning there is no theoretical upper limit to what one could lose. This is a stark contrast to situations where there is a maximum loss that can be precisely quantified and limited.
 
 In practical terms, while gains in [financial markets](../f/financial_market.md) can sometimes be limitless, the prospect of facing equally limitless losses introduces a significant aspect of [risk management](../r/risk_management.md) and discipline required for engaging in such trades or investments.
 

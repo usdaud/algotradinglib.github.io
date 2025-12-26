@@ -65,7 +65,7 @@ Regulatory bodies use [leverage ratios](../l/leverage_ratios.md) to ensure that 
 
 ## Leverage Ratio in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), [leverage ratios](../l/leverage_ratios.md) are used to optimize [trading strategies](../t/trading_strategies.md) by assessing [risk](../r/risk.md) and [capital allocation](../c/capital_allocation.md). Algorithmic models can be programmed to adjust trades based on specified [leverage](../l/leverage.md) criteria, enhancing both the [efficiency](../e/efficiency.md) and accuracy of trading operations.
+In [algorithmic trading](../a/algorithmic_trading.md), [leverage ratios](../l/leverage_ratios.md) are used to optimize [trading strategies](../t/trading_strategies.md) by assessing [risk](../r/risk.md) and [capital allocation](../c/capital_allocation.md). Algorithmic models can be programmed to adjust trades based on specified [leverage](../l/leverage.md) criteria, enhancing both the [efficiency](../e/efficiency.md) and accuracy of trading operations.
 
 ## Fintech and Leverage Ratio
 
@@ -75,5 +75,4 @@ In the fintech space, [leverage ratios](../l/leverage_ratios.md) are instrumenta
 
 [Leverage](../l/leverage.md) ratio is a multifaceted financial metric integral to evaluating a company's [financial health](../f/financial_health.md), [risk](../r/risk.md), and [operational efficiency](../o/operational_efficiency_in_trading.md). Diverse forms of [leverage ratios](../l/leverage_ratios.md) provide comprehensive insights, making them indispensable tools for investors, creditors, regulators, and financial institutions. Understanding and effectively utilizing [leverage ratios](../l/leverage_ratios.md) can lead to informed decision-making and optimized [financial performance](../f/financial_performance.md).
 
-For further information on leveraging within the [financial sector](../f/financial_sector.md), you can visit [JPMorgan Chase & Co.](https://www.jpmorganchase.com) or explore the [Basel Committee on Banking Supervision](https://www.bis.org/bcbs/) guidelines.
-
+For further information on leveraging within the [financial sector](../f/financial_sector.md), you can visit JPMorgan Chase & Co. or explore the Basel Committee on Banking Supervision guidelines.

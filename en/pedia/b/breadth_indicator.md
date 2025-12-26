@@ -90,19 +90,21 @@ To effectively use breadth indicators, traders and investors can access various 
 
 ### StockCharts.com
 
-[StockCharts.com](https://stockcharts.com) offers a wide [range](../r/range.md) of [technical analysis tools](../t/technical_analysis_tools.md), including various breadth indicators such as the Advance/Decline Line, [McClellan Oscillator](../m/mcclellan_oscillator.md), and New Highs/New Lows. Users can customize charts, apply [technical indicators](../t/technical_indicator.md), and conduct in-depth [market](../m/market.md) analysis.
+StockCharts.com offers a wide [range](../r/range.md) of [technical analysis tools](../t/technical_analysis_tools.md), including various breadth indicators such as the Advance/Decline Line, [McClellan Oscillator](../m/mcclellan_oscillator.md), and New Highs/New Lows. Users can customize charts, apply [technical indicators](../t/technical_indicator.md), and conduct in-depth [market](../m/market.md) analysis.
 
 ### TradingView
 
-[TradingView](https://www.tradingview.com) is a popular charting and social [trading platform](../t/trading_platform.md) that provides access to a vast array of [technical indicators](../t/technical_indicator.md), including breadth indicators. Traders can create custom charts, share analysis, and collaborate with other traders within the community.
+TradingView is a popular charting and social [trading platform](../t/trading_platform.md) that provides access to a vast array of [technical indicators](../t/technical_indicator.md), including breadth indicators. Traders can create custom charts, share analysis, and collaborate with other traders within the community.
 
-### ThinkOrSwim by TD Ameritrade
+### Thinkorswim by Charles Schwab
 
-[ThinkOrSwim](https://tickertape.tdameritrade.com/trading/about-thinkorswim-trading-platform-53984) is a [trading platform](../t/trading_platform.md) offered by TD [Ameritrade](../a/ameritrade.md), providing advanced charting tools, [technical indicators](../t/technical_indicator.md), and research capabilities. Traders can access breadth indicators and integrate them into their [trading strategies](../t/trading_strategies.md).
+**Note:** TD Ameritrade was acquired by Charles Schwab in September 2023. The integration is ongoing, and Thinkorswim is now offered by Charles Schwab.
+
+Thinkorswim is a [trading platform](../t/trading_platform.md) offering advanced charting tools, [technical indicators](../t/technical_indicator.md), and research capabilities. Traders can access breadth indicators and integrate them into their [trading strategies](../t/trading_strategies.md).
 
 ### MetaTrader 5 (MT5)
 
-[MetaTrader 5](https://www.metatrader5.com/en) is a popular [trading platform](../t/trading_platform.md) for forex and stock markets. It offers a comprehensive suite of [technical analysis tools](../t/technical_analysis_tools.md), including breadth indicators. Traders can develop custom indicators and automated [trading algorithms](../t/trading_algorithms.md) using the MQL5 programming language.
+MetaTrader 5 is a popular [trading platform](../t/trading_platform.md) for forex and stock markets. It offers a comprehensive suite of [technical analysis tools](../t/technical_analysis_tools.md), including breadth indicators. Traders can develop custom indicators and automated [trading algorithms](../t/trading_algorithms.md) using the MQL5 programming language.
 
 ## Conclusion
 

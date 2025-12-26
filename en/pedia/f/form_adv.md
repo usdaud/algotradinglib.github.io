@@ -1,6 +1,6 @@
 # Form ADV
 
-Form ADV is a critical document required by the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) for investment advisors under the [Investment Advisers Act of 1940](../i/investment_advisers_act_of_1940.md). It serves [multiple](../m/multiple.md) key functions and is central to the regulatory framework governing the activities of investment advisory firms operating within the United States. This form provides a comprehensive overview of the advisor's background, [business](../b/business.md) practices, clientele, and any conflicts of [interest](../i/interest.md) that may arise due to their operations. It is also a required filing for advisors registering with state securities authorities. Form ADV has become instrumental in ensuring [transparency](../t/transparency.md), protecting investors, and maintaining the integrity of the [financial markets](../f/financial_market.md). 
+Form ADV is a critical document required by the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) for investment advisors under the [Investment Advisers Act of 1940](../i/investment_advisers_act_of_1940.md). It serves [multiple](../m/multiple.md) key functions and is central to the regulatory framework governing the activities of investment advisory firms operating within the United States. This form provides a comprehensive overview of the advisor's background, [business](../b/business.md) practices, clientele, and any conflicts of [interest](../i/interest.md) that may arise due to their operations. It is also a required filing for advisors registering with state securities authorities. Form ADV has become instrumental in ensuring [transparency](../t/transparency.md), protecting investors, and maintaining the integrity of the [financial markets](../f/financial_market.md).
 
 ## Overview and Purpose
 
@@ -78,7 +78,7 @@ Each brochure supplement contains information about the qualifications, discipli
 
 ### Initial Registration
 
-An investment adviser must file Form ADV electronically through the Investment Adviser Registration [Depository](../d/depository.md) (IARD) system. The initial filing involves completing all parts of the form, including Part 1A, 1B (if applicable), 2A, and 2B. 
+An investment adviser must file Form ADV electronically through the Investment Adviser Registration [Depository](../d/depository.md) (IARD) system. The initial filing involves completing all parts of the form, including Part 1A, 1B (if applicable), 2A, and 2B.
 
 ### Amendments
 
@@ -86,7 +86,7 @@ Investment advisers are required to update their Form ADV at least annually, wit
 
 ### Public Access and Client Delivery
 
-Form ADV is publicly accessible via the SEC’s Investment Adviser Public [Disclosure](../d/disclosure.md) (IAPD) website. Advisers are also required to deliver their Part 2A brochure and any material updates to clients annually. 
+Form ADV is publicly accessible via the SEC’s Investment Adviser Public [Disclosure](../d/disclosure.md) (IAPD) online platform. Advisers are also required to deliver their Part 2A brochure and any material updates to clients annually.
 
 ## Importance in Algorithimic Trading
 
@@ -94,7 +94,7 @@ For firms involved in [algorithmic trading](../a/accountability.md)—where stra
 
 ## Example of a Firm Registration: Two Sigma Investments, LP
 
-Two Sigma Investments, LP, a prominent [algorithmic trading](../a/accountability.md) [firm](../f/firm.md), uses sophisticated computational models to [trade](../t/trade.md) various [asset](../a/asset.md) classes. As an SEC-registered [investment advisor](../i/investment_advisor.md), Two Sigma's Form ADV filings provide insight into its advisory [business](../b/business.md), the nature of its client base, and the regulatory framework it operates within. Interested parties can access Two Sigma’s Form ADV on the SEC’s IAPD [here](https://adviserinfo.sec.gov/firm/summary/149523).
+Two Sigma Investments, LP, a prominent [algorithmic trading](../a/accountability.md) [firm](../f/firm.md), uses sophisticated computational models to [trade](../t/trade.md) various [asset](../a/asset.md) classes. As an SEC-registered [investment advisor](../i/investment_advisor.md), Two Sigma's Form ADV filings provide insight into its advisory [business](../b/business.md), the nature of its client base, and the regulatory framework it operates within. Interested parties can access Two Sigma’s Form ADV on the SEC’s IAPD here.
 
 ## Conclusion
 

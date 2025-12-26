@@ -106,10 +106,10 @@ Both systems have their strengths and weaknesses, and each reflects the cultural
 
 For further exploration, the following companies and organizations provide direct insights into the economic models discussed:
 
-- [Finnish National Agency for Education](https://www.oph.fi/en)
-- [Swedish Social Insurance Agency](https://www.forsakringskassan.se/)
-- [U.S. Department of Commerce](https://www.commerce.gov/)
-- [Google](https://www.google.com/)
-- [Apple](https://www.apple.com/)
+- Finnish National Agency for Education
+- Swedish Social Insurance Agency
+- U.S. Department of Commerce
+- Google
+- Apple
 
 Each of these entities plays a role in shaping and implementing the policies and practices that define their respective economic systems.

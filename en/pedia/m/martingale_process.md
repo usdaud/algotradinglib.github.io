@@ -6,9 +6,9 @@ The Martingale process is a mathematical model used in [probability theory](../p
 
 ## Concept of Martingale
 
-At its core, the Martingale process is a sequence of [random variables](../r/random_variables.md) (X₀, X₁, X₂, ...) that satisfies the following condition: the [expected value](../e/expected_value.md) of the next term in the sequence is equal to the present observed [value](../v/value.md), given knowledge of all prior observed values. Formally, for a sequence {Xₙ}, it holds that:
+At its core, the Martingale process is a sequence of [random variables](../r/random_variables.md) (X₀, X₁, X₂,...) that satisfies the following condition: the [expected value](../e/expected_value.md) of the next term in the sequence is equal to the present observed [value](../v/value.md), given knowledge of all prior observed values. Formally, for a sequence {Xₙ}, it holds that:
 
-E(Xₙ₊₁ | X₀, X₁, ..., Xₙ) = Xₙ
+E(Xₙ₊₁ | X₀, X₁,..., Xₙ) = Xₙ
 
 This equation essentially states that given the entire history of a process up to time n, the best prediction for time n+1 is the current [value](../v/value.md).
 
@@ -20,7 +20,7 @@ One of the most notable applications of the Martingale process in [algorithmic t
 
 ### Martingale Betting Strategy
 
-The classic Martingale betting strategy involves doubling the bet size after a loss until a win is achieved. In trading, this might translate to increasing position sizes following losses. The main idea is that a win should recover all past losses plus [gain](../g/gain.md) a [profit](../p/profit.md) equal to the initial bet size. 
+The classic Martingale betting strategy involves doubling the bet size after a loss until a win is achieved. In trading, this might translate to increasing position sizes following losses. The main idea is that a win should recover all past losses plus [gain](../g/gain.md) a [profit](../p/profit.md) equal to the initial bet size.
 
 #### Example:
 1. Start with a position size of $100.
@@ -63,7 +63,6 @@ Some advanced quantitative traders apply Martingale processes in statistical [ar
 
 One practical example of a [firm](../f/firm.md) successfully leveraging statistical models and advanced processes, potentially including Martingale elements, is Renaissance Technologies' Medallion [Fund](../f/fund.md). Though specific strategies and algorithms are proprietary, it is known for its intricate statistical and [mathematical models](../m/mathematical_models_in_trading.md) designed for [market](../m/market.md) efficiencies.
 
-[Read More about Renaissance Technologies](https://www.rentec.com)
 
 ## Conclusion
 

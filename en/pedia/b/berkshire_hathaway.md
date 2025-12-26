@@ -125,4 +125,3 @@ As a large and influential [conglomerate](../c/conglomerate.md), Berkshire Hatha
 
 Berkshire Hathaway stands as a testament to Warren Buffett's astute investment acumen and long-term vision. The company's diversified [business](../b/business.md) model, ethical conduct, and commitment to [shareholder value](../s/shareholder_value.md) have made it one of the most respected and successful corporations globally. As Berkshire Hathaway continues to evolve, its legacy of [value investing](../v/value_investing.md) and entrepreneurial spirit remains a guiding force.
 
-For more information about Berkshire Hathaway, you can visit the official [Berkshire Hathaway](https://www.berkshirehathaway.com/) website.

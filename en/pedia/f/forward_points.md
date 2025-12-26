@@ -58,13 +58,13 @@ Banks and financial institutions are major players in the forex [market](../m/ma
 
 Financial institutions also engage in [proprietary trading](../p/proprietary_trading.md) using forward points. They have sophisticated models to predict [interest rate](../i/interest_rate.md) movements and their impact on forward points. This allows them to take positions that can generate significant returns.
 
-[Example: JPMorgan Chase & Co.](https://www.jpmorganchase.com) is one of the global leaders in forex trading and uses forward points extensively in their operations.
+Example: JPMorgan Chase & Co. is one of the global leaders in forex trading and uses forward points extensively in their operations.
 
 ### Hedge Funds
 
 [Hedge](../h/hedge.md) funds are known for their aggressive [trading strategies](../t/trading_strategies.md), and forex trading is a significant component of their portfolios. Forward points are critical for [hedge](../h/hedge.md) funds in implementing carry trades, [hedging strategies](../h/hedging_strategies.md), and speculative positions. [Hedge fund](../h/hedge_fund.md) managers analyze forward points to devise strategies that can [yield](../y/yield.md) high returns with managed risks.
 
-[Example: Bridgewater Associates](https://www.bridgewater.com) is one of the largest [hedge](../h/hedge.md) funds globally and engages in sophisticated forex [trading strategies](../t/trading_strategies.md) that involve forward points.
+Example: Bridgewater Associates is one of the largest [hedge](../h/hedge.md) funds globally and engages in sophisticated forex [trading strategies](../t/trading_strategies.md) that involve forward points.
 
 ## Conclusion
 

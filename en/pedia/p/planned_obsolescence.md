@@ -11,11 +11,11 @@ The concept of planned obsolescence dates back to the early 20th century. In the
 Various forms of planned obsolescence can be observed in different industries:
 
 1. **Physical Obsolescence:** The product wears out physically. For instance, built-in components break down due to substandard materials or wear and tear.
-   
+
 2. **[Functional Obsolescence](../f/functional_obsolescence.md):** Products become obsolete when a newer model with better functioning or additional features is introduced. For example, electronic gadgets.
-   
+
 3. **Technological Obsolescence:** Occurs when products become outdated due to advancements in technology. Software updates that [demand](../d/demand.md) higher hardware capabilities can render old devices obsolete.
-   
+
 4. **Style Obsolescence:** Fashion [industry](../i/industry.md) frequently changes trends, making old fashion "out of date".
 
 5. **Economic Obsolescence:** This happens when the cost of repairing a product is higher or nearly the same as buying a new one. This model is common in consumer electronics and appliances.
@@ -40,22 +40,22 @@ Although not directly linked, certain financial products and services also have 
 
 ## Economic Impact
 
-Planned obsolescence impacts the [economy](../e/economy.md) both positively and negatively. 
+Planned obsolescence impacts the [economy](../e/economy.md) both positively and negatively.
 
 ### Positive Impact
 
 1. **Stimulates [Economic Growth](../e/economic_growth.md):** By driving continuous consumer [demand](../d/demand.md), planned obsolescence can stimulate [economic growth](../e/economic_growth.md). New products mean more sales.
-   
+
 2. **Encourages Innovation:** The constant need to produce something better or newer fosters innovation among manufacturers and product designers.
-   
+
 3. **Job Creation:** The ongoing cycle of production, [sale](../s/sale.md), and disposal of products can create jobs in [manufacturing](../m/manufacturing.md), retail, and recycling sectors.
 
 ### Negative Impact
 
 1. **Waste Generation:** Planned obsolescence contributes significantly to waste and environmental degradation. Electronic waste, in particular, is a growing concern globally.
-   
+
 2. **Consumer Dissatisfaction:** Continuous replacement of products causes financial strain and frustration among consumers.
-   
+
 3. **Resource Utilization:** Constant production of new products consumes a significant amount of natural resources, contributing to resource [depletion](../d/depletion.md).
 
 ## Legal and Ethical Issues
@@ -75,9 +75,9 @@ Planned obsolescence raises several ethical and legal concerns:
 Companies are increasingly being called upon to adopt more sustainable and ethical practices. Some ways in which corporations can combat planned obsolescence include:
 
 1. **Durable Design:** Creating products designed to last longer or be easily repairable.
-   
+
 2. **Modular Products:** Introducing modular products where components can be replaced or upgraded easily without needing to discard the entire product.
-   
+
 3. **Extended Warranties:** [Offering](../o/offering.md) extended warranties to assure consumers of product longevity.
 
 ### Consumer Awareness
@@ -85,7 +85,7 @@ Companies are increasingly being called upon to adopt more sustainable and ethic
 Consumers can also play a role by:
 
 1. **Researching Products:** Being informed about product reviews and lifespans before purchasing.
-   
+
 2. **Advocating for Change:** Supporting legislation for the Right to Repair and other consumer protection laws.
 
 ### Government Regulations
@@ -93,15 +93,14 @@ Consumers can also play a role by:
 Governments can mitigate the effects of planned obsolescence through:
 
 1. **Legislation:** Enacting laws to require manufacturers to make products that last longer and are easier to repair.
-   
+
 2. **Incentives:** Providing incentives for companies that produce sustainable products.
-   
+
 3. **Penalties:** Imposing fines or penalties for companies that engage in deceptive practices designed to shorten product lifespans.
 
 ## Conclusion
 
 Planned obsolescence is a multifaceted [issue](../i/issue.md) that touches upon [economic growth](../e/economic_growth.md), consumer rights, corporate ethics, and environmental sustainability. While it serves immediate economic benefits by driving continuous consumer [demand](../d/demand.md), the long-term implications for the environment and society are detrimental. Multidimensional solutions encompassing corporate responsibility, consumer awareness, and government regulations are necessary to tackle the challenges posed by planned obsolescence effectively.
 
-For further reading, companies like [Apple](https://www.apple.com) have faced scrutiny and taken steps to address these issues, indicating a potential shift towards more sustainable practices. 
-
+For further reading, companies like Apple have faced scrutiny and taken steps to address these issues, indicating a potential shift towards more sustainable practices.
 By understanding the depths and impacts of planned obsolescence, all stakeholders can contribute to creating a more balanced and sustainable economic ecosystem.

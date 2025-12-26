@@ -102,23 +102,23 @@ ABreaches of fair trading practices or regulatory norms can result in legal trou
 
 The use of advanced technology in trading raises ethics-related questions about [market manipulation](../m/market_manipulation.md) and fairness.
 
-## 6. Notable Companies in Algorithmic Trading 
+## 6. Notable Companies in Algorithmic Trading
 
 ### Virtu Financial Inc. 
 
-Virtu Financial Inc. is a leading global [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The company uses advanced trading technology to provide competitive pricing and [liquidity](../l/liquidity.md) to the [financial markets](../f/financial_market.md). For more information: [Virtu Financial](https://www.virtu.com/)
+Virtu Financial Inc. is a leading global [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The company uses advanced trading technology to provide competitive pricing and [liquidity](../l/liquidity.md) to the [financial markets](../f/financial_market.md). For more information: Virtu Financial
 
-### Citadel Securities 
+### Citadel Securities
 
-Citadel Securities is another significant player in the [algorithmic trading](../a/accountability.md) space, known for its advanced technology and [market](../m/market.md)-making services. The [firm](../f/firm.md) executes trades on behalf of institutional clients and retail investors. For more information: [Citadel Securities](https://www.citadelsecurities.com/)
+Citadel Securities is another significant player in the [algorithmic trading](../a/accountability.md) space, known for its advanced technology and [market](../m/market.md)-making services. The [firm](../f/firm.md) executes trades on behalf of institutional clients and retail investors. For more information: Citadel Securities
 
 ### Two Sigma
 
-Two Sigma is a prominent [hedge fund](../h/hedge_fund.md) that extensively employs [machine learning](../m/machine_learning.md) and advanced quantitative techniques for [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is known for its data-driven and [systematic trading](../s/systematic_trading.md) approach. For more information: [Two Sigma](https://www.twosigma.com/)
+Two Sigma is a prominent [hedge fund](../h/hedge_fund.md) that extensively employs [machine learning](../m/machine_learning.md) and advanced quantitative techniques for [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) is known for its data-driven and [systematic trading](../s/systematic_trading.md) approach. For more information: Two Sigma
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) management company, is renowned for its Medallion [Fund](../f/fund.md) which has delivered exceptional returns through its [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). For more information: [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) management company, is renowned for its Medallion [Fund](../f/fund.md) which has delivered exceptional returns through its [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). For more information: Renaissance Technologies
 
 ## 7. Ethical Considerations
 

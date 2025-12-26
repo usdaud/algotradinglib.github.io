@@ -56,19 +56,19 @@ Companies are required to disclose details about deferred tax liabilities in the
 
 Tech companies often have significant deferred tax liabilities due to their reliance on intangible assets and differences in amortization periods. For instance, Google (Alphabet Inc.) has complex deferred tax calculations due to its acquisitions and [intangible asset](../i/intangible_asset.md) amortization.
 
-[Google (Alphabet Inc.) Financials](https://abc.xyz/investor/)
+Google (Alphabet Inc.) Financials
 
 ### Manufacturing Sector
 
 [Manufacturing](../m/manufacturing.md) companies frequently encounter deferred tax liabilities because of the substantial [capital](../c/capital.md) investments and differing [depreciation](../d/depreciation.md) methods. Companies like Caterpillar, Inc., a heavy equipment manufacturer, have large deferred tax liabilities due to the use of [accelerated depreciation](../a/accelerated_depreciation.md) for tax purposes.
 
-[Caterpillar, Inc. Financials](https://www.caterpillar.com/en/investors.html)
+Caterpillar, Inc. Financials
 
 ### Healthcare Sector
 
 Pharmaceutical companies often deal with deferred tax liabilities arising from research and development expenses and licensing revenues. For example, Pfizer, Inc. experiences significant timing differences due to the lengthy drug development and approval processes.
 
-[Pfizer, Inc. Financials](https://www.pfizer.com/investors)
+Pfizer, Inc. Financials
 
 ## Key Takeaways
 

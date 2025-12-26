@@ -40,7 +40,7 @@ Title IV aims to protect the U.S. borders by scrutinizing the immigration proces
 
 - Increasing the screening process for visa applicants and border entrants.
 - Expanding the grounds for deportation of aliens associated with terrorist activities.
-  
+
 ### Title V: Removing Obstacles to Investigating Terrorism
 
 This title removes statutory obstacles that could hinder investigations by allowing for increased sharing of information among various agencies and relaxing certain restrictions on the [disclosure](../d/disclosure.md) of grand jury information in terrorism cases.

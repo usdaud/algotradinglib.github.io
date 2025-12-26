@@ -18,17 +18,17 @@ In recent years, several MENA countries have initiated economic [diversification
 ### Stock Exchanges
 MENA countries host several prominent stock exchanges, including:
 
-- **Tadawul (Saudi Stock [Exchange](../e/exchange.md))**: The largest stock [exchange](../e/exchange.md) in the region, Tadawul offers a diverse [range](../r/range.md) of [listed](../l/listed.md) companies, including those in the petrochemical, banking, and retail sectors. [Tadawul](https://www.spa.gov.sa/tadawul)
-  
-- **Dubai Financial [Market](../m/market.md) (DFM)**: An important [exchange](../e/exchange.md) in the UAE, DFM lists companies from various sectors, including [real estate](../r/real_estate.md), banking, and telecommunications. [DFM](http://www.dfm.ae)
+- **Tadawul (Saudi Stock [Exchange](../e/exchange.md))**: The largest stock [exchange](../e/exchange.md) in the region, Tadawul offers a diverse [range](../r/range.md) of [listed](../l/listed.md) companies, including those in the petrochemical, banking, and retail sectors. Tadawul
 
-- **Abu Dhabi Securities [Exchange](../e/exchange.md) (ADX)**: Another significant [exchange](../e/exchange.md) in the UAE, ADX lists a variety of companies, with a focus on energy, banking, and industrial sectors. [ADX](https://www.adx.ae)
+- **Dubai Financial [Market](../m/market.md) (DFM)**: An important [exchange](../e/exchange.md) in the UAE, DFM lists companies from various sectors, including [real estate](../r/real_estate.md), banking, and telecommunications. DFM
+
+- **Abu Dhabi Securities [Exchange](../e/exchange.md) (ADX)**: Another significant [exchange](../e/exchange.md) in the UAE, ADX lists a variety of companies, with a focus on energy, banking, and industrial sectors. ADX
 
 ### Bond Markets
 MENA [bond](../b/bond.md) markets have been growing, with governments and corporations issuing both local and international bonds to [finance](../f/finance.md) [infrastructure](../i/infrastructure.md) projects and diversify funding sources. Sovereign bonds from countries like Saudi Arabia, Qatar, and the UAE tend to attract global investors due to their relatively high yields.
 
 ### Islamic Finance
-Islamic [finance](../f/finance.md), which complies with Sharia law, is significant in the MENA region. Key instruments include [Sukuk](../s/sukuk.md) (Islamic bonds), [Islamic banking](../i/islamic_banking.md), and [Takaful](../t/takaful.md) (Islamic [insurance](../i/insurance.md)). Institutions like the Dubai Islamic [Bank](../b/bank.md) and the Saudi-based Al Rajhi [Bank](../b/bank.md) lead the sector. 
+Islamic [finance](../f/finance.md), which complies with Sharia law, is significant in the MENA region. Key instruments include [Sukuk](../s/sukuk.md) (Islamic bonds), [Islamic banking](../i/islamic_banking.md), and [Takaful](../t/takaful.md) (Islamic [insurance](../i/insurance.md)). Institutions like the Dubai Islamic [Bank](../b/bank.md) and the Saudi-based Al Rajhi [Bank](../b/bank.md) lead the sector.
 
 ## Trading Opportunities in MENA
 
@@ -36,7 +36,7 @@ Islamic [finance](../f/finance.md), which complies with Sharia law, is significa
 Investors can [trade](../t/trade.md) equities on MENA stock exchanges, taking advantage of opportunities in diverse sectors. [Listed](../l/listed.md) companies often benefit from economic reforms, [infrastructure](../i/infrastructure.md) projects, and [foreign investment](../f/foreign_investment.md) inflows.
 
 ### Commodities
-Given the region's dominance in oil and gas production, trading in commodities like [crude oil](../c/crude_oil.md), natural gas, and petrochemicals is highly relevant. [Commodity](../c/commodity.md) exchanges such as the Dubai Mercantile [Exchange](../e/exchange.md) (DME) [offer](../o/offer.md) trading opportunities in energy products. [DME](http://www.dubaimerc.com)
+Given the region's dominance in oil and gas production, trading in commodities like [crude oil](../c/crude_oil.md), natural gas, and petrochemicals is highly relevant. [Commodity](../c/commodity.md) exchanges such as the Dubai Mercantile [Exchange](../e/exchange.md) (DME) [offer](../o/offer.md) trading opportunities in energy products. DME
 
 ### Forex
 [Currency trading](../c/currency_trading_strategies.md) in the MENA region can be influenced by factors like oil prices, geopolitical developments, and monetary policies. Major [currency](../c/currency.md) pairs involving the UAE dirham (AED), Saudi riyal (SAR), and Egyptian pound (EGP) are of [interest](../i/interest.md) to forex traders.

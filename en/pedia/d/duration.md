@@ -101,7 +101,7 @@ Duration matching is an [investment strategy](../i/investment_strategy.md) where
 These strategies use duration to manage the [trade](../t/trade.md)-off between [interest rate risk](../i/interest_rate_risk.md), [yield](../y/yield.md), and [liquidity](../l/liquidity.md).
 
 ## Example: PIMCO's Use of Duration
-PIMCO, a global [investment management](../i/investment_management.md) [firm](../f/firm.md), utilizes duration as a core element of its [bond](../b/bond.md) investment strategies. Detailed information on their approach to managing duration and [interest rate risk](../i/interest_rate_risk.md) can be found on their website: [PIMCO - Managing Interest Rate Risk](https://www.pimco.com/en-us/resources/understanding-duration).
+PIMCO, a global [investment management](../i/investment_management.md) [firm](../f/firm.md), utilizes duration as a core element of its [bond](../b/bond.md) investment strategies. Detailed information on their approach to managing duration and [interest rate risk](../i/interest_rate_risk.md) can be found through its online channels: PIMCO - Managing Interest Rate Risk.
 
 ## Conclusion
 

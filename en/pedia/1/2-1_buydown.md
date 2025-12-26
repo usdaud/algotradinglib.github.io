@@ -23,13 +23,13 @@ A 2-1 Buydown is structured to temporarily lower the [mortgage](../m/mortgage.md
 Imagine a borrower secures a [mortgage](../m/mortgage.md) of $300,000 at a standard [interest rate](../i/interest_rate.md) of 5% fixed for 30 years. The calculation for the 2-1 Buydown would proceed as follows:
 
 - **First-Year [Payment](../p/payment.md):** [Interest rate](../i/interest_rate.md) = 3%
-  - Monthly [payment](../p/payment.md) = $1,264 (instead of $1,610 at 5%)
-  
+ - Monthly [payment](../p/payment.md) = $1,264 (instead of $1,610 at 5%)
+
 - **Second-Year [Payment](../p/payment.md):** [Interest rate](../i/interest_rate.md) = 4%
-  - Monthly [payment](../p/payment.md) = $1,432 (instead of $1,610 at 5%)
-  
+ - Monthly [payment](../p/payment.md) = $1,432 (instead of $1,610 at 5%)
+
 - **Third Year Onward:** [Interest rate](../i/interest_rate.md) = 5%
-  - Monthly [payment](../p/payment.md) = $1,610
+ - Monthly [payment](../p/payment.md) = $1,610
 
 ### Buydown Cost
 

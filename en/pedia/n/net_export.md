@@ -13,16 +13,16 @@ Net [export](../e/export.md) is calculated by subtracting total imports from tot
 ### Positive and Negative Net Export
 
 1. **Positive Net [Export](../e/export.md) ([Trade Surplus](../t/trade_surplus.md))**:
-    - Occurs when a country exports more than it imports.
-    - Indicates a strong international [demand](../d/demand.md) for the country's goods and services.
-    - Can signify a [robust](../r/robust.md), competitive [economy](../e/economy.md).
-    - Example countries: Germany, China.
+ - Occurs when a country exports more than it imports.
+ - Indicates a strong international [demand](../d/demand.md) for the country's goods and services.
+ - Can signify a [robust](../r/robust.md), competitive [economy](../e/economy.md).
+ - Example countries: Germany, China.
 
 2. **Negative Net [Export](../e/export.md) ([Trade Deficit](../t/trade_deficit.md))**:
-    - Occurs when a country imports more than it exports.
-    - Can indicate an overreliance on foreign goods and services.
-    - Might signal weaknesses in domestic productive capacity.
-    - Example countries: United States, United Kingdom.
+ - Occurs when a country imports more than it exports.
+ - Can indicate an overreliance on foreign goods and services.
+ - Might signal weaknesses in domestic productive capacity.
+ - Example countries: United States, United Kingdom.
 
 ## Factors Influencing Net Export
 

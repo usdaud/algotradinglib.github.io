@@ -28,7 +28,7 @@ Issuing a Eurobond typically involves several steps, executed with the aid of in
 ### Types of Eurobonds
 
 - **Fixed-rate Eurobonds:** Carry a [fixed interest rate](../f/fixed_interest_rate.md), which remains constant throughout the life of the [bond](../b/bond.md).
-- **Floating-rate Eurobonds:** Have variable [interest](../i/interest.md) rates, which are usually tied to a [benchmark](../b/benchmark.md) like LIBOR.
+- **Floating-rate Eurobonds:** Have variable [interest](../i/interest.md) rates, which are usually tied to a [benchmark](../b/benchmark.md) such as SOFR (Secured Overnight Financing Rate), €STR ([Euro](../e/euro.md) Short-Term Rate), or historically LIBOR (discontinued June 2023).
 - **[Equity](../e/equity.md)-linked Eurobonds:** Include [options](../o/options.md) like convertible bonds (which can be converted into [shares](../s/shares.md)) or exchangeable bonds (which can be exchanged for [shares](../s/shares.md) of a different company).
 - **Zero-coupon Eurobonds:** Issued at a [discount](../d/discount.md) to their [face value](../f/face_value.md) and don’t pay periodic [interest](../i/interest.md).
 
@@ -54,12 +54,8 @@ Issuing a Eurobond typically involves several steps, executed with the aid of in
 
 ### Major Players in the Market
 
-- **Deutsche [Bank](../b/bank.md) (https://www.db.com)**
-- **Barclays (https://www.investmentbank.barclays.com)**
-- **J.P. Morgan (https://www.jpmorgan.com)**
-- **HSBC (https://www.hsbc.com)**
-- **Goldman Sachs (https://www.goldmansachs.com)**
-
+- **Deutsche [Bank](../b/bank.md) (
+- **Barclays - **J.P. Morgan - **HSBC - **Goldman Sachs
 ### Regulatory Environment
 
 While the Eurobond [market](../m/market.md) is traditionally less regulated compared to domestic markets, there are still frameworks and guidelines established by organizations such as the International [Capital](../c/capital.md) [Market](../m/market.md) Association (ICMA). These frameworks aim to ensure fair and efficient functioning of the [market](../m/market.md) and protect [investor](../i/investor.md) interests.

@@ -128,7 +128,6 @@ Dell Technologies provides an illustrative example of contribution [margin](../m
 2. Adjust pricing strategies based on the contribution [margin](../m/margin.md) to maintain competitiveness and profitability.
 3. Make data-driven decisions on whether to continue or discontinue specific product lines.
 
-Visit Dell Technologies' official website for more insights: [Dell Technologies](https://www.delltechnologies.com)
 
 ## Conclusion
 

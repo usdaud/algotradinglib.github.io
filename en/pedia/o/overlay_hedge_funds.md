@@ -8,15 +8,15 @@
 [Overlay](../o/overlay.md) [hedge](../h/hedge.md) funds predominantly use [derivatives](../d/derivatives.md) to implement their strategies. [Derivatives](../d/derivatives.md) are financial instruments whose [value](../v/value.md) is derived from the [value](../v/value.md) of an [underlying asset](../u/underlying_asset.md), such as [stocks](../s/stock.md), bonds, commodities, currencies, [interest](../i/interest.md) rates, or [market](../m/market.md) indices. The main types of [derivatives](../d/derivatives.md) used by [overlay](../o/overlay.md) [hedge](../h/hedge.md) funds include:
 
 1. **[Options](../o/options.md)**:
-   - **Call [Options](../o/options.md)**: Contracts giving the buyer the right to purchase an [asset](../a/asset.md) at a predetermined price within a specific time frame.
-   - **[Put Options](../p/put_options.md)**: Contracts giving the buyer the right to sell an [asset](../a/asset.md) at a predetermined price within a specific time frame.
+ - **Call [Options](../o/options.md)**: Contracts giving the buyer the right to purchase an [asset](../a/asset.md) at a predetermined price within a specific time frame.
+ - **[Put Options](../p/put_options.md)**: Contracts giving the buyer the right to sell an [asset](../a/asset.md) at a predetermined price within a specific time frame.
 
 2. **[Futures](../f/futures.md)**: Standardized contracts obligating the buyer to purchase, or the seller to sell, an [asset](../a/asset.md) at a predetermined future date and price.
 
 3. **Swaps**:
-   - **[Interest Rate Swaps](../i/interest_rate_swaps.md)**: Agreements to [exchange](../e/exchange.md) future [interest rate](../i/interest_rate.md) payments.
-   - **[Currency](../c/currency.md) Swaps**: Agreements to [exchange](../e/exchange.md) future cash flows in different currencies.
-   - **[Credit Default Swaps](../c/credit_default_swaps.md) (CDS)**: Financial contracts that provide protection against the [default](../d/default.md) of an [underlying](../u/underlying.md) [credit](../c/credit.md) instrument.
+ - **[Interest Rate Swaps](../i/interest_rate_swaps.md)**: Agreements to [exchange](../e/exchange.md) future [interest rate](../i/interest_rate.md) payments.
+ - **[Currency](../c/currency.md) Swaps**: Agreements to [exchange](../e/exchange.md) future cash flows in different currencies.
+ - **[Credit Default Swaps](../c/credit_default_swaps.md) (CDS)**: Financial contracts that provide protection against the [default](../d/default.md) of an [underlying](../u/underlying.md) [credit](../c/credit.md) instrument.
 
 ### Risk Management
 These funds focus on managing various types of risks:
@@ -41,27 +41,21 @@ The integration of overlays into a portfolio is aimed both at reducing [risk](..
 ## Prominent Overlay Hedge Funds and Firms
 
 ### AQR Capital Management
-- **Website**: [AQR Capital Management](https://www.aqr.com)
 AQR focuses on systematic approaches to [investment management](../i/investment_management.md), using [quantitative models](../q/quantitative_models.md) to identify and exploit [market](../m/market.md) opportunities. They incorporate [overlay strategies](../o/overlay_strategies.md) to manage [risk](../r/risk.md) and enhance the performance of their portfolios.
 
 ### BlackRock
-- **Website**: [BlackRock](https://www.blackrock.com)
 As one of the largest [asset management](../a/asset_management.md) firms globally, BlackRock offers a [range](../r/range.md) of [overlay strategies](../o/overlay_strategies.md) aimed at managing [risk](../r/risk.md) and achieving more stable returns. They utilize a variety of [derivative](../d/derivative.md) instruments tailored to client needs.
 
 ### PIMCO
-- **Website**: [PIMCO](https://www.pimco.com)
 PIMCO is famed for its [bond](../b/bond.md) [investing](../i/investing.md) though it also uses [overlay strategies](../o/overlay_strategies.md) within its broader investment framework. Their [risk management](../r/risk_management.md) techniques often include [derivatives](../d/derivatives.md) to safeguard against [interest rate](../i/interest_rate.md), [credit](../c/credit.md), and [market](../m/market.md) risks.
 
 ### Man Group
-- **Website**: [Man Group](https://www.man.com)
 Man Group is a leading [hedge fund](../h/hedge_fund.md) that leverages advanced quantitative techniques, including [overlay](../o/overlay.md) [hedging strategies](../h/hedging_strategies.md), to optimize returns and manage risks in their extensive portfolios.
 
 ### Citadel LLC
-- **Website**: [Citadel](https://www.citadel.com)
 Operating as a multinational [hedge fund](../h/hedge_fund.md), Citadel LLC employs diverse strategies including significant use of [derivatives](../d/derivatives.md) for [overlay](../o/overlay.md) methodologies aiming at [robust](../r/robust.md) [risk management](../r/risk_management.md) and opportunistic investment.
 
 ### Bridgewater Associates
-- **Website**: [Bridgewater Associates](https://www.bridgewater.com)
 Known for its macroeconomic approaches, Bridgewater employs [overlay strategies](../o/overlay_strategies.md) extensively to [hedge](../h/hedge.md) anticipated and existing portfolio [risk](../r/risk.md) dynamically.
 
 ## Applying Overlay Hedge Funds Strategies: Case Study Example
@@ -69,7 +63,7 @@ Known for its macroeconomic approaches, Bridgewater employs [overlay strategies]
 Consider a large [institutional investor](../i/institutional_investor.md) such as a pension [fund](../f/fund.md) or an [endowment](../e/endowment.md) that maintains a diversified portfolio of assets, including [stocks](../s/stock.md), bonds, [real estate](../r/real_estate.md), and commodities. The [fund](../f/fund.md)'s overarching objective is ensuring steady growth and [income](../i/income.md) to meet future [obligations](../o/obligation.md) to its beneficiaries while preserving [capital](../c/capital.md). However, diverse assets come with various [market](../m/market.md) risks, such as [interest rate](../i/interest_rate.md) fluctuations, [credit](../c/credit.md) defaults, or [currency exchange](../c/currency_exchange.md) rate [volatility](../v/volatility.md).
 
 ### Situation: Interest Rate Risk Management
-The portfolio includes a significant allocation to bonds, which renders it susceptible to [interest rate risk](../i/interest_rate_risk.md). An increase in [interest](../i/interest.md) rates could lead to a decline in the [bond](../b/bond.md) portfolio's [value](../v/value.md). 
+The portfolio includes a significant allocation to bonds, which renders it susceptible to [interest rate risk](../i/interest_rate_risk.md). An increase in [interest](../i/interest.md) rates could lead to a decline in the [bond](../b/bond.md) portfolio's [value](../v/value.md).
 
 ### Strategy: Interest Rate Swaps
 The [overlay](../o/overlay.md) [hedge fund](../h/hedge_fund.md) might suggest using [interest rate swaps](../i/interest_rate_swaps.md) to manage this [risk](../r/risk.md) effectively. In this strategy, the [portfolio manager](../p/portfolio_manager.md) would enter into an agreement to [exchange](../e/exchange.md) [fixed interest rate](../f/fixed_interest_rate.md) payments for floating rate payments with a [counterparty](../c/counterparty.md). When [interest](../i/interest.md) rates rise, the floating rate payments received are higher, offsetting the losses in the [bond](../b/bond.md) values. Conversely, if [interest](../i/interest.md) rates fall, the [bond](../b/bond.md) values increase, benefiting the [bond](../b/bond.md) allocation despite the additional payments on the [swap](../s/swap.md). This dual-benefit structure allows the [fund](../f/fund.md) to balance potential adversities over time.

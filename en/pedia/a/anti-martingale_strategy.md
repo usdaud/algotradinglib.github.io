@@ -91,8 +91,8 @@ For novice traders, the concept of dynamic [position sizing](../p/position_sizin
 
 Many [hedge](../h/hedge.md) funds and [algorithmic trading](../a/algorithmic_trading.md) firms incorporate Anti-Martingale principles into their [trading systems](../t/trading_systems.md) to balance [risk](../r/risk.md) and reward effectively. Firms like Renaissance Technologies and D.E. Shaw are renowned for their sophisticated [risk management](../r/risk_management.md) techniques which may involve components similar to the Anti-[Martingale strategy](../m/martingale_strategy.md).
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [D.E. Shaw Group](https://www.deshaw.com/)
+- Renaissance Technologies
+- D.E. Shaw Group
 
 ### Individual Traders
 
@@ -100,4 +100,4 @@ Retail traders and individual investors also utilize the Anti-[Martingale strate
 
 ## Conclusion
 
-The Anti-[Martingale strategy](../m/martingale_strategy.md) offers a systematic and disciplined approach to trading, emphasizing [risk management](../r/risk_management.md) and [profit](../p/profit.md) maximization through dynamic [position sizing](../p/position_sizing.md). By reversing the traditionally risky Martingale approach, traders can safeguard their [capital](../c/capital.md) during unfavorable conditions while capitalizing on [winning streaks](../w/winning_streaks.md). With a foundation in [trend](../t/trend.md)-following and [technical analysis](../t/technical_analysis.md), the Anti-[Martingale strategy](../m/martingale_strategy.md) can be a powerful tool in the arsenal of both institutional and individual traders, helping to navigate the complexities of [financial markets](../f/financial_market.md) with greater confidence and prudence.
+The Anti-[Martingale strategy](../m/martingale_strategy.md) offers a systematic and disciplined approach to trading, emphasizing [risk management](../r/risk_management.md) and [profit](../p/profit.md) maximization through dynamic [position sizing](../p/position_sizing.md). By reversing the traditionally risky Martingale approach, traders can safeguard their [capital](../c/capital.md) during unfavorable conditions while capitalizing on [winning streaks](../w/winning_streaks.md). With a foundation in [trend](../t/trend.md)-following and [technical analysis](../t/technical_analysis.md), the Anti-[Martingale strategy](../m/martingale_strategy.md) can be a powerful tool in the arsenal of both institutional and individual traders, helping to navigate the complexities of [financial markets](../f/financial_market.md) with greater confidence and prudence.

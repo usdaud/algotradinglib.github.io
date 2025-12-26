@@ -1,6 +1,8 @@
 # Delivered Ex Ship (DES)
 
-Delivered Ex Ship (DES) is a term used in international shipping and [trade](../t/trade.md) contracts. It is one of the [Incoterms](../i/incoterms.md) (International Commercial Terms) defined by the International Chamber of [Commerce](../c/commerce.md) (ICC). These terms are widely used in global [trade](../t/trade.md) to clearly communicate the tasks, costs, and risks associated with the transportation and delivery of goods. DES specifies certain responsibilities and [obligations](../o/obligation.md) for both the seller and the buyer during the shipment process.
+**Note:** DES was replaced by DAT (Delivered at Terminal) in Incoterms 2010, which was subsequently renamed to DPU (Delivered at Place Unloaded) in Incoterms 2020. This article describes the historical DES term.
+
+Delivered Ex Ship (DES) was a term used in international shipping and [trade](../t/trade.md) contracts. It is one of the [Incoterms](../i/incoterms.md) (International Commercial Terms) defined by the International Chamber of [Commerce](../c/commerce.md) (ICC). These terms are widely used in global [trade](../t/trade.md) to clearly communicate the tasks, costs, and risks associated with the transportation and delivery of goods. DES specifies certain responsibilities and [obligations](../o/obligation.md) for both the seller and the buyer during the shipment process.
 
 ## Definition
 
@@ -9,20 +11,20 @@ Under the DES term, the seller is responsible for delivering the goods to the bu
 ### Key Responsibilities
 
 1. **Seller:**
-    - Deliver the goods on board the ship at the destination port.
-    - Cover all transportation costs and risks to the destination port.
-    - Provide the necessary documents for the buyer to take possession of the goods.
-    - Comply with [export](../e/export.md) formalities and pay any [export](../e/export.md) duties.
+ - Deliver the goods on board the ship at the destination port.
+ - Cover all transportation costs and risks to the destination port.
+ - Provide the necessary documents for the buyer to take possession of the goods.
+ - Comply with [export](../e/export.md) formalities and pay any [export](../e/export.md) duties.
 
 2. **Buyer:**
-    - Assume the [risk](../r/risk.md) and responsibility for the goods once they are delivered on board the ship at the destination port.
-    - Pay for the unloading of the goods.
-    - [Handle](../h/handle.md) [import](../i/import.md) formalities, including customs clearance and [payment](../p/payment.md) of [import](../i/import.md) duties.
+ - Assume the [risk](../r/risk.md) and responsibility for the goods once they are delivered on board the ship at the destination port.
+ - Pay for the unloading of the goods.
+ - [Handle](../h/handle.md) [import](../i/import.md) formalities, including customs clearance and [payment](../p/payment.md) of [import](../i/import.md) duties.
 
 ## Important Considerations
 
 - **[Risk](../r/risk.md) Transfer**: One of the most critical aspects of DES is the [transfer of risk](../t/transfer_of_risk.md). The [risk](../r/risk.md) transfer happens when the goods are delivered on board the ship at the destination port. From this point forward, any damage or loss of the goods is the buyer's responsibility.
-  
+
 - **Unloading Costs**: While the seller covers transportation costs up to the destination port, unloading costs are typically borne by the buyer. This delineation of costs must be clearly understood by both parties to avoid disputes.
 
 - **Documentation**: Proper documentation is essential under DES terms. The seller must provide all necessary documents, including the [bill of lading](../b/bill_of_lading.md), commercial [invoice](../i/invoice.md), packing list, and any certificates required by the buyer. These documents are crucial for the buyer to take possession of the goods and for completing [import](../i/import.md) formalities.

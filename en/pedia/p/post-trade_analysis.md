@@ -52,13 +52,13 @@ The use of advanced [data visualization](../d/data_visualization.md) tools can g
 
 ### Machine Learning and AI
 
-[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) models are increasingly being used for post-[trade](../t/trade.md) analysis to identify patterns, predict outcomes, and provide insights that traditional methods may miss. 
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [Machine Learning](../m/machine_learning.md) (ML) models are increasingly being used for post-[trade](../t/trade.md) analysis to identify patterns, predict outcomes, and provide insights that traditional methods may miss.
 
 ### Analytical Platforms
 
 Several platforms provide comprehensive post-[trade](../t/trade.md) analysis services. For example:
-- **[Bloomberg](../b/bloomberg.md)**: Known for its [robust](../r/robust.md) analytics and financial data services. More details can be found on their official site [Bloomberg](https://www.bloomberg.com/professional/solution/trading-solutions/).
-- **TS Imagine (formerly TradingScreen)**: A leading provider of SaaS-based [trading platform](../t/trading_platform.md) that offers sophisticated post-[trade](../t/trade.md) analysis tools. More information is available [here](https://tsimagine.com/).
+- **[Bloomberg](../b/bloomberg.md)**: Known for its [robust](../r/robust.md) analytics and financial data services.
+- **TS Imagine (formerly TradingScreen)**: A leading provider of SaaS-based [trading platform](../t/trading_platform.md) that offers sophisticated post-[trade](../t/trade.md) analysis tools. More information is available here.
 
 ## Challenges in Post-Trade Analysis
 
@@ -71,4 +71,4 @@ While post-[trade](../t/trade.md) analysis is indispensable, it also comes with 
 
 ## Conclusion
 
-Post-[trade](../t/trade.md) analysis plays a pivotal role in the trading ecosystem, especially within the context of [algorithmic trading](../a/algorithmic_trading.md). It allows firms to scrutinize every aspect of their trading activity, optimize performance, ensure compliance, manage risks, and enhance [operational efficiency](../o/operational_efficiency_in_trading.md). Leveraging advanced analytics, [machine learning](../m/machine_learning.md), and specialized platforms can significantly amplify the effectiveness of post-[trade](../t/trade.md) analysis, positioning firms to achieve better trading outcomes and maintain a competitive edge in the dynamic [market](../m/market.md) landscape. 
+Post-[trade](../t/trade.md) analysis plays a pivotal role in the trading ecosystem, especially within the context of [algorithmic trading](../a/algorithmic_trading.md). It allows firms to scrutinize every aspect of their trading activity, optimize performance, ensure compliance, manage risks, and enhance [operational efficiency](../o/operational_efficiency_in_trading.md). Leveraging advanced analytics, [machine learning](../m/machine_learning.md), and specialized platforms can significantly amplify the effectiveness of post-[trade](../t/trade.md) analysis, positioning firms to achieve better trading outcomes and maintain a competitive edge in the dynamic [market](../m/market.md) landscape.

@@ -84,7 +84,7 @@ Governments and public entities may also use LPNs, particularly in developing co
 
 For more detailed information on how specific financial institutions utilize LPNs, you can visit:
 
-- [Citibank](https://www.citigroup.com/citi/)
-- [Deutsche Bank](https://www.db.com/)
+- Citibank
+- Deutsche Bank
 
 By providing a mechanism to share and distribute [loan](../l/loan.md)-related risks, LPNs play a critical role in modern [finance](../f/finance.md), supporting both institutional [risk management](../r/risk_management.md) and investment strategies.

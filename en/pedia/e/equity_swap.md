@@ -16,7 +16,7 @@ This [leg](../l/leg.md) is linked to the performance of an [equity](../e/equity.
 
 ### Leg 2: Interest Leg
 
-The second [leg](../l/leg.md) is typically linked to a fixed or [floating interest rate](../f/floating_interest_rate.md). Floating rates like the London Interbank Offered Rate (LIBOR) or fixed [interest](../i/interest.md) rates can be used. The [interest](../i/interest.md) payments are calculated based on the agreed rate applied to the notional [principal](../p/principal.md).
+The second [leg](../l/leg.md) is typically linked to a fixed or [floating interest rate](../f/floating_interest_rate.md). Floating rates like the Secured Overnight Financing Rate (SOFR, which replaced LIBOR in June 2023) or fixed [interest](../i/interest.md) rates can be used. The [interest](../i/interest.md) payments are calculated based on the agreed rate applied to the notional [principal](../p/principal.md).
 
 ### Settlement Frequency
 
@@ -65,7 +65,7 @@ Traders and investment firms use [equity](../e/equity.md) swaps to speculate on 
 ## Key Considerations and Risks
 
 Despite their advantages, [equity](../e/equity.md) swaps come with a set of risks and considerations that participants must take into account:
- 
+
 ### Counterparty Risk
 
 [Equity](../e/equity.md) swaps are over-the-counter (OTC) [derivatives](../d/derivatives.md), meaning they are privately negotiated and are not traded on regulated exchanges. As a result, [counterparty risk](../c/counterparty_risk.md) – the [risk](../r/risk.md) that one party [will](../w/will.md) [default](../d/default.md) on its [obligations](../o/obligation.md) – is a central concern. Therefore, thorough [credit](../c/credit.md) assessments and [collateral](../c/collateral.md) arrangements are crucial when engaging in [equity](../e/equity.md) swaps.
@@ -90,19 +90,19 @@ Several financial institutions and investment firms specialize in [offering](../
 
 J.P. Morgan is highly active in the [derivatives](../d/derivatives.md) [market](../m/market.md), including [equity](../e/equity.md) swaps. The [firm](../f/firm.md)’s [equity derivatives](../e/equity_derivatives.md) desk provides tailored [equity](../e/equity.md) [swap](../s/swap.md) solutions to meet the diverse needs of its clients.
 
-[Learn more about J.P. Morgan's equity derivatives](https://www.jpmorgan.com/us/en/investment-banking/equity-derivatives)
+Learn more about J.P. Morgan's equity derivatives
 
 ### Goldman Sachs
 
 Goldman Sachs offers a wide [range](../r/range.md) of [equity](../e/equity.md) [swap](../s/swap.md) products as part of its [equity derivatives](../e/equity_derivatives.md) services. The [firm](../f/firm.md) caters to institutional investors, [asset](../a/asset.md) managers, and [hedge](../h/hedge.md) funds looking to employ [equity](../e/equity.md) [swap](../s/swap.md) strategies.
 
-[Learn more about Goldman Sachs' equity derivative products](https://www.goldmansachs.com/what-we-do/securities/equity-derivatives/)
+Learn more about Goldman Sachs' equity derivative products
 
 ### Morgan Stanley
 
 Morgan Stanley provides highly customized [equity](../e/equity.md) [swap](../s/swap.md) solutions for its clients. The [firm](../f/firm.md) leverages its global reach and [market](../m/market.md) expertise to deliver innovative [equity derivatives](../e/equity_derivatives.md) products.
 
-[Learn more about Morgan Stanley’s equity derivatives](https://www.morganstanley.com/what-we-do/institutional-securities/equity-derivatives)
+Learn more about Morgan Stanley’s equity derivatives
 
 ## Conclusion
 

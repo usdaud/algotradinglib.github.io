@@ -61,15 +61,15 @@ Integration with third-party platforms, including [market](../m/market.md) data 
 
 ### Edgewonk
 
-[Edgewonk](https://edgewonk.com/) is a popular digital trading [journal](../j/journal.md) [offering](../o/offering.md) a wide [range](../r/range.md) of features. Users can record detailed [trade](../t/trade.md) data, analyze [performance metrics](../p/performance_metrics.md), and benefit from advanced journaling functionalities like emotional analytics and [trade](../t/trade.md) [simulation](../s/simulation_in_trading.md).
+Edgewonk is a popular digital trading [journal](../j/journal.md) [offering](../o/offering.md) a wide [range](../r/range.md) of features. Users can record detailed [trade](../t/trade.md) data, analyze [performance metrics](../p/performance_metrics.md), and benefit from advanced journaling functionalities like emotional analytics and [trade](../t/trade.md) [simulation](../s/simulation_in_trading.md).
 
 ### TraderSync
 
-[TraderSync](https://www.tradersync.com/) provides a comprehensive platform with automated data [import](../i/import.md), detailed analytics, and advanced reporting features. Its intuitive interface makes it accessible for both novice and experienced traders.
+TraderSync provides a comprehensive platform with automated data [import](../i/import.md), detailed analytics, and advanced reporting features. Its intuitive interface makes it accessible for both novice and experienced traders.
 
 ### Tradervue
 
-[Tradervue](https://www.tradervue.com/) offers powerful journaling and analytics tools. It supports automated [trade](../t/trade.md) [import](../i/import.md) from various brokers, detailed performance [statistics](../s/statistics.md), and extensive sharing [options](../o/options.md) for collaborative analysis.
+Tradervue offers powerful journaling and analytics tools. It supports automated [trade](../t/trade.md) [import](../i/import.md) from various brokers, detailed performance [statistics](../s/statistics.md), and extensive sharing [options](../o/options.md) for collaborative analysis.
 
 ## Best Practices for Maintaining a Trading Journal
 

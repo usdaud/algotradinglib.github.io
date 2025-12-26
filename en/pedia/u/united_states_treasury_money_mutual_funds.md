@@ -1,6 +1,6 @@
 # United States Treasury Money Mutual Funds
 
-United States Treasury [Money](../m/money.md) Mutual Funds, often abbreviated as [U.S. Treasury](../u/u.s._treasury.md) MMFs, are a type of [money market fund](../m/money_market_fund.md) that invests exclusively in short-term government securities. These funds are designed to provide investors with high [liquidity](../l/liquidity.md), low [risk](../r/risk.md), and moderate yields. They are commonly used by individual investors, institutional investors, corporations, and other entities as a means of preserving [capital](../c/capital.md) while earning a [return](../r/return.md) that typically exceeds that of a traditional [savings account](../s/savings_account.md). 
+United States Treasury [Money](../m/money.md) Mutual Funds, often abbreviated as [U.S. Treasury](../u/u.s._treasury.md) MMFs, are a type of [money market fund](../m/money_market_fund.md) that invests exclusively in short-term government securities. These funds are designed to provide investors with high [liquidity](../l/liquidity.md), low [risk](../r/risk.md), and moderate yields. They are commonly used by individual investors, institutional investors, corporations, and other entities as a means of preserving [capital](../c/capital.md) while earning a [return](../r/return.md) that typically exceeds that of a traditional [savings account](../s/savings_account.md).
 
 ## Definition and Characteristics
 
@@ -48,13 +48,13 @@ Unlike other mutual funds, [U.S. Treasury](../u/u.s._treasury.md) MMFs strive to
 ## Key Players in the Market
 
 ### Vanguard
-Vanguard is one of the largest [investment management](../i/investment_management.md) firms globally and offers a [U.S. Treasury](../u/u.s._treasury.md) [Money Market Fund](../m/money_market_fund.md). More details about their offerings can be found on their official site: [Vanguard U.S. Treasury Money Market Fund](https://investor.vanguard.com/mutual-funds/profile/VUSXX).
+Vanguard is one of the largest [investment management](../i/investment_management.md) firms globally and offers a [U.S. Treasury](../u/u.s._treasury.md) [Money Market Fund](../m/money_market_fund.md). S. Treasury Money Market Fund.
 
 ### Fidelity
-[Fidelity Investments](../f/fidelity_investments.md) provides various treasury [money market](../m/money_market.md) funds, aiming to [offer](../o/offer.md) [liquidity](../l/liquidity.md) and [capital preservation](../c/capital_preservation.md) for their investors. More information can be found on their site: [Fidelity U.S. Treasury Money Market Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31617H404).
+[Fidelity Investments](../f/fidelity_investments.md) provides various treasury [money market](../m/money_market.md) funds, aiming to [offer](../o/offer.md) [liquidity](../l/liquidity.md) and [capital preservation](../c/capital_preservation.md) for their investors. S. Treasury Money Market Fund.
 
 ### BlackRock
-As a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), BlackRock offers treasury [money market](../m/money_market.md) funds as part of their product lineup. More details can be found on their official site: [BlackRock Treasury Trust](https://www.blackrock.com/us/individual/products/239726/blackrock-treasury-trust-fund).
+As a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), BlackRock offers treasury [money market](../m/money_market.md) funds as part of their product lineup.
 
 ## Regulations and Standards
 

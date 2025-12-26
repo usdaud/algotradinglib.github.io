@@ -29,7 +29,7 @@ Seasonal promotions align with holidays, [market](../m/market.md) events, or sig
 HNWI promotions target wealthy individuals with exclusive offers such as personalized advisory services, bespoke financial products, and VIP [customer service](../c/customer_service.md). These promotions aim to attract and retain high-[value](../v/value.md) clients who can contribute significant trading volumes and fees.
 
 ### 9. **Algorithmic Trading Incentives**
-[Algorithmic trading](../a/accountability.md) incentives can include reduced fees for API usage, [cloud computing](../c/cloud_computing_in_trading.md) credits, and access to advanced trading tools. These promotions are particularly effective for attracting tech-savvy traders and quantitative analysts who use automated [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) incentives can include reduced fees for API usage, [cloud computing](../c/cloud_computing_in_trading.md) credits, and access to advanced trading tools. These promotions are particularly effective for attracting tech-savvy traders and quantitative analysts who use automated [trading strategies](../t/trading_strategies.md).
 
 ## Strategies for Effective Promotions
 
@@ -51,16 +51,16 @@ Regularly assessing the performance of promotions and making necessary adjustmen
 ## Examples of Companies Utilizing Promotions
 
 ### Robinhood
-[Robinhood](../r/robinhood.md), a popular [trading platform](../t/trading_platform.md), extensively uses welcome bonuses and referral programs to attract new users. For example, they [offer](../o/offer.md) a free stock to both the referrer and the referred client when a new account is opened via a referral link. For more information, visit [Robinhood](../r/robinhood.md)’s official website: [Robinhood](https://robinhood.com).
+[Robinhood](../r/robinhood.md), a popular [trading platform](../t/trading_platform.md), extensively uses welcome bonuses and referral programs to attract new users. For example, they [offer](../o/offer.md) a free stock to both the referrer and the referred client when a new account is opened via a referral link.
 
 ### E*TRADE
-[E*TRADE](../e/e_trade.md) provides various promotions such as [deposit](../d/deposit.md) bonuses, cash credits, and [discount](../d/discount.md) trading days. They also run periodic contests and competitions to engage their user base. Learn more on their official page: [E*TRADE](https://us.etrade.com).
+[E*TRADE](../e/e_trade.md) provides various promotions such as [deposit](../d/deposit.md) bonuses, cash credits, and [discount](../d/discount.md) trading days. They also run periodic contests and competitions to engage their user base. Learn more on their public materials: E*TRADE.
 
 ### TD Ameritrade
-TD [Ameritrade](../a/ameritrade.md) offers a [robust](../r/robust.md) education platform with webinars, [market](../m/market.md) analysis, and trading tools, often available for free or at a discounted rate as part of their educational promotions. They provide personalized service [options](../o/options.md) for HNWI clients as well. For more details, [check](../c/check.md) their site: [TD Ameritrade](https://www.tdameritrade.com).
+TD [Ameritrade](../a/ameritrade.md) offers a [robust](../r/robust.md) education platform with webinars, [market](../m/market.md) analysis, and trading tools, often available for free or at a discounted rate as part of their educational promotions. They provide personalized service [options](../o/options.md) for HNWI clients as well. For more details, see TD Ameritrade materials.
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) offers promotions like free API access for algorithmic traders, lower fees for high [volume](../v/volume.md) trading, and discounted rates for advanced trading tools and data feeds. Visit their official website here: [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) offers promotions like free API access for algorithmic traders, lower fees for high [volume](../v/volume.md) trading, and discounted rates for advanced trading tools and data feeds.
 
 ## Impact on Customer Behavior
 

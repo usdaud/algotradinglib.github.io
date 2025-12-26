@@ -18,7 +18,7 @@ A bilateral contract is formed when one party makes an [offer](../o/offer.md) th
 
 ### Legal Enforceability
 
-For a bilateral contract to be legally enforceable, it must meet certain criteria: 
+For a bilateral contract to be legally enforceable, it must meet certain criteria:
 1. **Competent Parties**: Both parties must have the legal capacity to enter into a contract.
 2. **Lawful Purpose**: The contract must be for a lawful purpose and not violate any statutes or public policy.
 3. **Clear Terms**: The terms of the contract must be clear and specific enough to allow enforcement.
@@ -66,14 +66,14 @@ A [force majeure](../f/force_majeure.md) clause stipulates that neither party is
 
 IBM and Globalfoundries entered into a bilateral agreement wherein IBM agreed to pay Globalfoundries $1.5 billion to take over its semiconductor [manufacturing](../m/manufacturing.md) operations. In [return](../r/return.md), Globalfoundries committed to [supply](../s/supply.md) IBM with chips for the next ten years. This agreement ensured a continued [supply](../s/supply.md) of semiconductors for IBM while allowing Globalfoundries to expand its [manufacturing](../m/manufacturing.md) capabilities.
 
-*Link to IBM* : [IBM](https://www.ibm.com)
+*Link to IBM*: IBM
 
 ### Google and Samsung Cross-Licensing Agreement
 
 In a landmark deal, Google and Samsung entered into a cross-licensing bilateral contract to share patents for ten years. This agreement not only reduced the [risk](../r/risk.md) of litigation between the two tech giants but also allowed them to focus on innovation and development without the constant threat of [patent](../p/patent.md) disputes.
 
-*Link to Google* : [Google](https://www.google.com)
-*Link to Samsung* : [Samsung](https://www.samsung.com)
+*Link to Google*: Google
+*Link to Samsung*: Samsung
 
 ## Benefits of Bilateral Contracts
 

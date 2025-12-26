@@ -8,7 +8,7 @@ The consumer discretionary sector encompasses several sub-industries, each cater
 
 ## 1. Automotive Industry
 
-The automotive [industry](../i/industry.md) covers car manufacturers, dealerships, and suppliers of automotive parts. Companies like Tesla, Inc. [Tesla](https://www.tesla.com/) and General Motors [GM](https://www.gm.com/) fall under this category.
+The automotive [industry](../i/industry.md) covers car manufacturers, dealerships, and suppliers of automotive parts. Companies like Tesla, Inc. Tesla and General Motors GM fall under this category.
 
 ### Tesla, Inc.
 Tesla is a front-runner in the electric vehicle [market](../m/market.md), continually innovating in sustainable energy solutions. Tesla’s stock is often a high-[interest](../i/interest.md) option for investors focusing on future technologies and consumer discretionary products.
@@ -18,7 +18,7 @@ GM is one of the largest automakers globally, producing a wide [range](../r/rang
 
 ## 2. Apparel and Luxury Goods
 
-This sub-sector includes companies that manufacture and retail clothing, accessories, and luxury products. Brands such as Nike, Inc. [Nike](https://www.nike.com/) and LVMH Moët Hennessy Louis Vuitton [LVMH](https://www.lvmh.com/) are prominent players.
+This sub-sector includes companies that manufacture and retail clothing, accessories, and luxury products. Brands such as Nike, Inc. Nike and LVMH Moët Hennessy Louis Vuitton LVMH are prominent players.
 
 ### Nike, Inc.
 A key player in athletic apparel and accessories, Nike is a global brand known for its innovative products. The company also invests heavily in [marketing](../m/marketing.md), sponsorships, and endorsements, further solidifying its brand presence.
@@ -28,7 +28,7 @@ LVMH is a French multinational [conglomerate](../c/conglomerate.md) specializing
 
 ## 3. Media and Entertainment
 
-This category consists of companies that produce and distribute media content, including movies, TV shows, music, and digital entertainment. Noteworthy names include The Walt Disney Company [Disney](https://www.thewaltdisneycompany.com/) and Netflix, Inc. [Netflix](https://www.netflix.com/).
+This category consists of companies that produce and distribute media content, including movies, TV shows, music, and digital entertainment. Noteworthy names include The Walt Disney Company Disney and Netflix, Inc. Netflix.
 
 ### The Walt Disney Company
 Disney is a media and entertainment giant with diversified operations, including film studios, theme parks, and streaming services. The company holds valuable intellectual properties and franchises such as Marvel, Star Wars, and Pixar.
@@ -38,7 +38,7 @@ Netflix revolutionized the way people consume media by pioneering the streaming 
 
 ## 4. Restaurants and Leisure
 
-Businesses in this sub-sector include restaurant chains, hotels, casinos, and leisure facilities. Companies like McDonald's [Corporation](../c/corporation.md) [McDonald's](https://www.mcdonalds.com/) and Marriott International [Marriott](https://www.marriott.com/) are key players.
+Businesses in this sub-sector include restaurant chains, hotels, casinos, and leisure facilities. Companies like McDonald's [Corporation](../c/corporation.md) McDonald's and Marriott International Marriott are key players.
 
 ### McDonald's Corporation
 McDonald's is one of the most recognized fast-food chains globally, with a massive network of locations. The company's success lies in its efficient [franchise](../f/franchise.md) model and consistent innovation in menu items and [customer](../c/customer.md) experience.
@@ -48,7 +48,7 @@ Marriott International is a leading global lodging company with numerous brands 
 
 ## 5. Consumer Electronics
 
-This includes manufacturers and retailers of gadgets, [home](../h/home.md) appliances, and other electronic items. Companies like Apple Inc. [Apple](https://www.apple.com/) and Sony [Corporation](../c/corporation.md) [Sony](https://www.sony.com/) dominate this space.
+This includes manufacturers and retailers of gadgets, [home](../h/home.md) appliances, and other electronic items. Companies like Apple Inc. Apple and Sony [Corporation](../c/corporation.md) Sony dominate this space.
 
 ### Apple Inc.
 Apple is a technology behemoth known for its high-end consumer electronics, including the iPhone, iPad, and Mac computers. Apple’s [robust](../r/robust.md) ecosystem, dedicated [customer](../c/customer.md) base, and groundbreaking innovations make it a key player in consumer discretionary.

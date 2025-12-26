@@ -6,7 +6,6 @@ Bitfinex is one of the world's largest and most advanced cryptocurrency exchange
 
 Based in Hong Kong and operated by iFinex Inc., Bitfinex has established itself as a key player in the cryptocurrency trading space. The platform offers an extensive array of services, including spot trading, [margin](../m/margin.md) funding, and [derivatives](../d/derivatives.md) trading. Bitfinex's advanced trading tools, high [liquidity](../l/liquidity.md), and [robust](../r/robust.md) [security](../s/security.md) measures make it a preferred choice among experienced traders and institutional investors.
 
-[Bitfinex Website](https://www.bitfinex.com)
 
 ## Key Features
 
@@ -90,4 +89,3 @@ Bitfinex has been involved in several high-profile legal cases, primarily focuse
 
 Bitfinex is a leading cryptocurrency [exchange](../e/exchange.md) that offers a [wide variety](../w/wide_variety.md) of trading [options](../o/options.md) and advanced tools for experienced traders and institutional investors. Its high [liquidity](../l/liquidity.md), extensive [range](../r/range.md) of supported assets, and strong [security](../s/security.md) measures make it one of the top choices for serious cryptocurrency trading. Despite regulatory challenges, Bitfinex continues to evolve and expand its services, contributing significantly to the broader cryptocurrency ecosystem.
 
-For more information, you can visit the [official Bitfinex website](https://www.bitfinex.com).

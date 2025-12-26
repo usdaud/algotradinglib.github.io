@@ -1,6 +1,6 @@
 # Capital Leases
 
-[Capital](../c/capital.md) leases, sometimes known as [finance](../f/finance.md) leases, are a type of lease agreement in which the [lessee](../l/lessee.md) (the user of the [asset](../a/asset.md)) assumes some of the risks and benefits of ownership. This type of lease is treated as an [asset](../a/asset.md) and a corresponding [liability](../l/liability.md) on the [lessee](../l/lessee.md)'s [balance sheet](../b/balance_sheet.md), making it fundamentally different from operating leases, which do not appear on the [balance sheet](../b/balance_sheet.md). 
+[Capital](../c/capital.md) leases, sometimes known as [finance](../f/finance.md) leases, are a type of lease agreement in which the [lessee](../l/lessee.md) (the user of the [asset](../a/asset.md)) assumes some of the risks and benefits of ownership. This type of lease is treated as an [asset](../a/asset.md) and a corresponding [liability](../l/liability.md) on the [lessee](../l/lessee.md)'s [balance sheet](../b/balance_sheet.md), making it fundamentally different from operating leases, which do not appear on the [balance sheet](../b/balance_sheet.md).
 
 ## Definition and Characteristics
 
@@ -17,18 +17,18 @@ If any of these criteria are met, the lease is classified as a [capital](../c/ca
 
 The [accounting](../a/accounting.md) treatment for [capital](../c/capital.md) leases requires that the [lessee](../l/lessee.md) recognize both an [asset](../a/asset.md) and a [liability](../l/liability.md) on its [balance sheet](../b/balance_sheet.md) at the inception of the lease. The [value](../v/value.md) recognized is typically the [present value](../p/present_value.md) of the minimum [lease payments](../l/lease_payments.md). Here are the essential steps:
 
-1. **Initial Recognition:** 
-   - **[Asset](../a/asset.md):** The leased [asset](../a/asset.md) is recognized on the [balance sheet](../b/balance_sheet.md) as an [asset](../a/asset.md). 
-   - **[Liability](../l/liability.md):** A corresponding [liability](../l/liability.md) is recognized for the obligation to make [lease payments](../l/lease_payments.md) over the lease term.
+1. **Initial Recognition:**
+ - **[Asset](../a/asset.md):** The leased [asset](../a/asset.md) is recognized on the [balance sheet](../b/balance_sheet.md) as an [asset](../a/asset.md).
+ - **[Liability](../l/liability.md):** A corresponding [liability](../l/liability.md) is recognized for the obligation to make [lease payments](../l/lease_payments.md) over the lease term.
 
-2. **[Depreciation](../d/depreciation.md):** 
-   - The leased [asset](../a/asset.md) is depreciated over its [useful life](../u/useful_life.md). The [depreciation](../d/depreciation.md) method and period should be consistent with that of other owned assets. If there is a transfer of ownership at the end of the lease term, the [asset](../a/asset.md) is depreciated over its [economic life](../e/economic_life.md). Otherwise, it is depreciated over the shorter of the lease term or its [economic life](../e/economic_life.md).
+2. **[Depreciation](../d/depreciation.md):**
+ - The leased [asset](../a/asset.md) is depreciated over its [useful life](../u/useful_life.md). The [depreciation](../d/depreciation.md) method and period should be consistent with that of other owned assets. If there is a transfer of ownership at the end of the lease term, the [asset](../a/asset.md) is depreciated over its [economic life](../e/economic_life.md). Otherwise, it is depreciated over the shorter of the lease term or its [economic life](../e/economic_life.md).
 
-3. **[Interest Expense](../i/interest_expense.md):** 
-   - Over time, the [liability](../l/liability.md) is decreased by the [lease payments](../l/lease_payments.md), and [interest expense](../i/interest_expense.md) is recognized on the lease [liability](../l/liability.md).
+3. **[Interest Expense](../i/interest_expense.md):**
+ - Over time, the [liability](../l/liability.md) is decreased by the [lease payments](../l/lease_payments.md), and [interest expense](../i/interest_expense.md) is recognized on the lease [liability](../l/liability.md).
 
-4. **[Lease Payments](../l/lease_payments.md):** 
-   - [Lease payments](../l/lease_payments.md) are divided between reducing the [liability](../l/liability.md) and recognizing [interest expense](../i/interest_expense.md). The [interest expense](../i/interest_expense.md) is higher at the beginning of the lease term and decreases as the [principal](../p/principal.md) amount of the lease [liability](../l/liability.md) is reduced.
+4. **[Lease Payments](../l/lease_payments.md):**
+ - [Lease payments](../l/lease_payments.md) are divided between reducing the [liability](../l/liability.md) and recognizing [interest expense](../i/interest_expense.md). The [interest expense](../i/interest_expense.md) is higher at the beginning of the lease term and decreases as the [principal](../p/principal.md) amount of the lease [liability](../l/liability.md) is reduced.
 
 ## Benefits and Drawbacks
 
@@ -55,7 +55,7 @@ The [accounting](../a/accounting.md) landscape for leases changed with the intro
 
 ## Examples of Capital Lease Structures
 
-Consider a company that leases a piece of machinery with a [fair value](../f/fair_value.md) of $1,000,000 for ten years. The lease agreement mandates yearly payments of $120,000, and the machine's estimated [economic life](../e/economic_life.md) is 15 years. At the end of the lease term, the company has the option to purchase the machinery at a bargain price of $50,000. 
+Consider a company that leases a piece of machinery with a [fair value](../f/fair_value.md) of $1,000,000 for ten years. The lease agreement mandates yearly payments of $120,000, and the machine's estimated [economic life](../e/economic_life.md) is 15 years. At the end of the lease term, the company has the option to purchase the machinery at a bargain price of $50,000.
 
 Based on this information, the lease would likely be classified as a [capital](../c/capital.md) lease because it meets several criteria:
 1. **Bargain Purchase Option:** The purchase option at the end of the lease term is at a bargain price.
@@ -74,11 +74,11 @@ A thorough [financial analysis](../f/financial_analysis.md) comparing the net [p
 
 ### Case Study 1: Delta Airlines
 
-[Delta](../d/delta.md) Airlines has extensively used [capital](../c/capital.md) leases to [finance](../f/finance.md) its fleet. Given the substantial cost of aircraft, leasing allows the company to utilize these high-[value](../v/value.md) assets without the upfront expenditure, while also reflecting the planes as assets on the [balance sheet](../b/balance_sheet.md). More information can be found on [Delta Airline's investor relations page](https://ir.delta.com).
+[Delta](../d/delta.md) Airlines has extensively used [capital](../c/capital.md) leases to [finance](../f/finance.md) its fleet. Given the substantial cost of aircraft, leasing allows the company to utilize these high-[value](../v/value.md) assets without the upfront expenditure, while also reflecting the planes as assets on the [balance sheet](../b/balance_sheet.md).
 
 ### Case Study 2: AT&T
 
-AT&T has leveraged [capital](../c/capital.md) lease [accounting](../a/accounting.md) for various network and [infrastructure](../i/infrastructure.md)-related assets. This approach enables the company to maintain a [balance sheet](../b/balance_sheet.md) that better reflects its [asset](../a/asset.md) utilization and [obligations](../o/obligation.md). To learn more, visit [AT&T's investor relations page](https://investors.att.com).
+AT&T has leveraged [capital](../c/capital.md) lease [accounting](../a/accounting.md) for various network and [infrastructure](../i/infrastructure.md)-related assets. This approach enables the company to maintain a [balance sheet](../b/balance_sheet.md) that better reflects its [asset](../a/asset.md) utilization and [obligations](../o/obligation.md).
 
 ## Conclusion
 

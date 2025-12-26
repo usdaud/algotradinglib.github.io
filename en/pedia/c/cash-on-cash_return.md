@@ -74,9 +74,9 @@ Several financial service companies and [real estate](../r/real_estate.md) inves
 
 ### Popular Platforms
 
-- **RealtyMogul**: Provides individual investors with opportunities to explore and invest in [real estate](../r/real_estate.md) properties, [offering](../o/offering.md) detailed [performance metrics](../p/performance_metrics.md) including Cash-on-Cash [Return](../r/return.md). [RealtyMogul](https://www.realtymogul.com/)
-- **Fundrise**: An online platform that allows investors to diversify their portfolios by [investing](../i/investing.md) in [real estate](../r/real_estate.md). It includes [cash flow](../c/cash_flow.md) analysis tools to help assess potential returns. [Fundrise](https://fundrise.com/)
-- **Roofstock**: Specializes in single-family rental property investments, providing comprehensive financial metrics, including CoC [Return](../r/return.md), to help investors make informed decisions. [Roofstock](https://www.roofstock.com/)
+- **RealtyMogul**: Provides individual investors with opportunities to explore and invest in [real estate](../r/real_estate.md) properties, [offering](../o/offering.md) detailed [performance metrics](../p/performance_metrics.md) including Cash-on-Cash [Return](../r/return.md). RealtyMogul
+- **Fundrise**: An online platform that allows investors to diversify their portfolios by [investing](../i/investing.md) in [real estate](../r/real_estate.md). It includes [cash flow](../c/cash_flow.md) analysis tools to help assess potential returns. Fundrise
+- **Roofstock**: Specializes in single-family rental property investments, providing comprehensive financial metrics, including CoC [Return](../r/return.md), to help investors make informed decisions. Roofstock
 
 ## Conclusion
 

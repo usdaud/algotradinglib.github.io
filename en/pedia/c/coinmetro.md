@@ -8,7 +8,6 @@ CoinMetro was founded by Kevin Murcko, an [entrepreneur](../e/entrepreneur.md) w
 
 The company is headquartered in Tallinn, Estonia, a country known for its favorable regulatory environment and technological advancements in digital identity and e-governance. CoinMetro operates under the Estonian Financial Intelligence Unit's supervision, ensuring compliance with local and international regulations.
 
-[CoinMetro Official Website](https://www.coinmetro.com)
 
 ## Key Features
 
@@ -85,7 +84,7 @@ The platform undergoes regular [security](../s/security.md) audits conducted by 
 
 ## Regulatory Compliance
 
-CoinMetro operates under the regulatory framework of the Estonian Financial Intelligence Unit (FIU). This means the platform adheres to strict anti-[money laundering](../m/money_laundering.md) (AML) and know-your-[customer](../c/customer.md) (KYC) regulations. 
+CoinMetro operates under the regulatory framework of the Estonian Financial Intelligence Unit (FIU). This means the platform adheres to strict anti-[money laundering](../m/money_laundering.md) (AML) and know-your-[customer](../c/customer.md) (KYC) regulations.
 
 ### KYC Requirements
 
@@ -129,5 +128,3 @@ CoinMetro aims to integrate with various decentralized [finance](../f/finance.md
 ## Conclusion
 
 CoinMetro is a [robust](../r/robust.md) and user-friendly platform that caters to a wide [range](../r/range.md) of cryptocurrency traders. With its comprehensive suite of trading tools, educational resources, and strong [security](../s/security.md) measures, CoinMetro is well-positioned to become a leading player in the cryptocurrency trading space. Whether you are a beginner looking to dip your toes into the world of cryptocurrency or an experienced [trader](../t/trader.md) seeking advanced features, CoinMetro offers a versatile and reliable solution.
-
-[CoinMetro Official Website](https://www.coinmetro.com)

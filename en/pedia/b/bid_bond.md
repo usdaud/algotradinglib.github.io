@@ -43,7 +43,7 @@ The cost of obtaining a [bid](../b/bid.md) [bond](../b/bond.md) is typically low
 - The contractor’s [credit score](../c/credit_score.md) and financial history.
 - The [value](../v/value.md) of the [bid](../b/bid.md).
 - The [surety](../s/surety.md) company's policies.
-  
+
 ## Legal Aspects and Jurisdictions
 
 [Bid](../b/bid.md) bonds are legally binding documents and are regulated by laws specific to the jurisdiction in which the project is being conducted. In the United States, the Miller Act mandates that [bid](../b/bid.md) bonds are required for federal construction projects exceeding a certain threshold. States may have their own versions of the Miller Act, known as "Little Miller Acts", which apply similar requirements to state-level public projects.
@@ -67,11 +67,11 @@ The construction [industry](../i/industry.md) is the primary user of [bid](../b/
 
 ## Example Companies Providing Bid Bonds
 
-1. **[Surety](../s/surety.md) Solutions, A Gallagher Company**: [suretysolutions.com](https://suretysolutions.com)
-2. **Travelers [Insurance](../i/insurance.md)**: [travelers.com](https://www.travelers.com/surety)
-3. **The Hartford**: [thehartford.com](https://www.thehartford.com/bond/surety-bonds)
-4. **Liberty Mutual**: [libertymutual.com](https://www.libertymutual.com/business-insurance/surety)
-5. **Zurich [Insurance](../i/insurance.md)**: [zurichna.com](https://www.zurichna.com/en/insurance/surety)
+1. **[Surety](../s/surety.md) Solutions, A Gallagher Company**: suretysolutions.com
+2. **Travelers [Insurance](../i/insurance.md)**: travelers.com
+3. **The Hartford**: thehartford.com
+4. **Liberty Mutual**: libertymutual.com
+5. **Zurich [Insurance](../i/insurance.md)**: zurichna.com
 
 ## Conclusion
 

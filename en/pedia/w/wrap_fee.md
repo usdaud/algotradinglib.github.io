@@ -1,8 +1,8 @@
 # Wrap Fee
 
-In the realm of financial management and trading, a "wrap [fee](../f/fee.md)" is a comprehensive charge levied by investment firms for providing a bundle of services. These services typically include investment advice, brokerage, [financial planning](../f/financial_planning.md), and account management. The wrap [fee](../f/fee.md), also known as a "[wrap account](../w/wrap_account.md) [fee](../f/fee.md)" or an "investment advisory [fee](../f/fee.md)," is usually set as a percentage of the client's total assets under management (AUM). 
+In the realm of financial management and trading, a "wrap [fee](../f/fee.md)" is a comprehensive charge levied by investment firms for providing a bundle of services. These services typically include investment advice, brokerage, [financial planning](../f/financial_planning.md), and account management. The wrap [fee](../f/fee.md), also known as a "[wrap account](../w/wrap_account.md) [fee](../f/fee.md)" or an "investment advisory [fee](../f/fee.md)," is usually set as a percentage of the client's total assets under management (AUM).
 
-## Structure of Wrap Fee Accounts 
+## Structure of Wrap Fee Accounts
 
 ### Components of a Wrap Fee
 
@@ -24,11 +24,11 @@ The wrap [fee](../f/fee.md) is usually expressed as an annual percentage of AUM 
 
 This straightforward calculation ensures [transparency](../t/transparency.md) and predictability in the costs for investors. Typical annual percentage rates for wrap fees [range](../r/range.md) from 1% to 3%, although this can vary based on the depth and complexity of services provided.
 
-## Advantages of Wrap Fee Accounts 
+## Advantages of Wrap Fee Accounts
 
 ### Simplification and Transparency
 
-One of the primary benefits of wrap [fee](../f/fee.md) accounts is the [consolidation](../c/consolidation.md) of [multiple](../m/multiple.md) fees into one. This makes the financial relationship between the client and the investment [firm](../f/firm.md) much more transparent, as clients can easily understand what they are paying for without sifting through various charges. 
+One of the primary benefits of wrap [fee](../f/fee.md) accounts is the [consolidation](../c/consolidation.md) of [multiple](../m/multiple.md) fees into one. This makes the financial relationship between the client and the investment [firm](../f/firm.md) much more transparent, as clients can easily understand what they are paying for without sifting through various charges.
 
 ### Alignment of Interests
 
@@ -74,16 +74,16 @@ When considering a wrap [fee](../f/fee.md) program, investors should conduct tho
 Several prominent financial institutions [offer](../o/offer.md) wrap [fee](../f/fee.md) services, including:
 
 1. **[Merrill Lynch](../m/merrill_lynch.md)**
-   - [Merrill Lynch Managed Advisory Program](https://www.ml.com/wealth-management/investment-advisory-programs.html)
+ - Merrill Lynch Managed Advisory Program
 
 2. **[Charles Schwab](../c/charles_schwab.md)**
-   - [Schwab Private Client](https://www.schwab.com/investment-advice/private-client)
+ - Schwab Private Client
 
 3. **[Fidelity Investments](../f/fidelity_investments.md)**
-   - [Fidelity Wealth Services](https://www.fidelity.com/wealth-management/wealth-services/overview)
+ - Fidelity Wealth Services
 
 4. **Morgan Stanley**
-   - [Morgan Stanley Advisory Account](https://www.morganstanley.com/wealth-management/advisory)
+ - Morgan Stanley Advisory Account
 
 These platforms typically [offer](../o/offer.md) both retail and high-net-worth investors a [range](../r/range.md) of tailored wrap [fee](../f/fee.md) services designed to meet various [investing](../i/investing.md) needs and goals.
 

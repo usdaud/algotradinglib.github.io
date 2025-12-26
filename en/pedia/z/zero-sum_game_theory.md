@@ -35,21 +35,21 @@ In zero-sum games, the idea of strategic dominance is also crucial. A strategy i
 High-Frequency Trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that employs ultra-fast algorithms to exploit [market](../m/market.md) inefficiencies. In the zero-sum framework, HFT firms compete aggressively to [gain](../g/gain.md) marginal advantages, resulting in significant profits for some and losses for others.
 
 #### Example: Citadel Securities
-Citadel Securities ([website](https://www.citadelsecurities.com/)), a leading HFT [firm](../f/firm.md), employs sophisticated algorithms designed to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Their success hinges on their ability to consistently outmaneuver competing algorithms in a zero-sum environment.
+Citadel Securities, a leading HFT [firm](../f/firm.md), employs sophisticated algorithms designed to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Their success hinges on their ability to consistently outmaneuver competing algorithms in a zero-sum environment.
 
 ### Market Making
 
 [Market](../m/market.md) makers are entities that provide [liquidity](../l/liquidity.md) to the [market](../m/market.md) by simultaneously [offering](../o/offering.md) to buy and sell assets. In a zero-sum context, [market](../m/market.md) makers aim to [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md) while managing the [risk](../r/risk.md) of adverse price movements.
 
 #### Example: Virtu Financial
-Virtu Financial ([website](https://www.virtu.com/)), a global [market maker](../m/market_maker.md), utilizes algorithmic strategies to provide [liquidity](../l/liquidity.md) and maintain a competitive edge in zero-sum markets.
+Virtu Financial, a global [market maker](../m/market_maker.md), utilizes algorithmic strategies to provide [liquidity](../l/liquidity.md) and maintain a competitive edge in zero-sum markets.
 
 ### Arbitrage
 
 [Arbitrage](../a/arbitrage.md) involves exploiting price discrepancies between different markets or instruments. In a [zero-sum game](../z/zero-sum_game.md), arbitrageurs [gain](../g/gain.md) profits by identifying and acting on these discrepancies faster than their competitors.
 
 #### Example: Renaissance Technologies
-Renaissance Technologies ([website](https://www.rentec.com/)), a renowned quantitative [hedge fund](../h/hedge_fund.md), uses [arbitrage](../a/arbitrage.md) strategies driven by complex algorithms to generate significant returns in the zero-sum landscape of [financial markets](../f/financial_market.md).
+Renaissance Technologies, a renowned quantitative [hedge fund](../h/hedge_fund.md), uses [arbitrage](../a/arbitrage.md) strategies driven by complex algorithms to generate significant returns in the zero-sum landscape of [financial markets](../f/financial_market.md).
 
 ## Implications of Zero-Sum Game Theory in Trading
 
@@ -78,14 +78,14 @@ The competitive nature of zero-sum games can lead to ethical concerns, particula
 Incorporating [machine learning](../m/machine_learning.md) and AI into [algorithmic trading](../a/algorithmic_trading.md) strategies represents an advanced application of [zero-sum game](../z/zero-sum_game.md) theory. These technologies enable traders to analyze vast amounts of data, identify patterns, and optimize strategies in real-time.
 
 #### Example: Two Sigma
-Two Sigma ([website](https://www.twosigma.com/)) is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and AI to execute trades. Their algorithms continuously learn and adapt, giving them a competitive edge in the [zero-sum game](../z/zero-sum_game.md) of trading.
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and AI to execute trades. Their algorithms continuously learn and adapt, giving them a competitive edge in the [zero-sum game](../z/zero-sum_game.md) of trading.
 
 ### Quantum Computing
 
 [Quantum computing](../q/quantum_computing_in_trading.md) holds promise for the future of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) computational power far beyond classical computers. This could revolutionize zero-sum dynamics by enabling the development of even more sophisticated [trading algorithms](../t/trading_algorithms.md).
 
 #### Example: IBM Research
-IBM Research ([website](https://www.research.ibm.com/)), through its [quantum computing](../q/quantum_computing_in_trading.md) initiatives, is exploring applications in financial services, including [algorithmic trading](../a/algorithmic_trading.md). [Quantum algorithms](../q/quantum_algorithms_in_trading.md) could profoundly impact the zero-sum landscape by providing unprecedented computational capabilities.
+IBM Research, through its [quantum computing](../q/quantum_computing_in_trading.md) initiatives, is exploring applications in financial services, including [algorithmic trading](../a/algorithmic_trading.md). [Quantum algorithms](../q/quantum_algorithms_in_trading.md) could profoundly impact the zero-sum landscape by providing unprecedented computational capabilities.
 
 ## Conclusion
 

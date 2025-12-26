@@ -55,9 +55,9 @@ Determining an appropriate stipend amount involves several factors:
 
 Several platforms and tools assist organizations in managing stipends effectively. These platforms help automate disbursements, track expenses, and ensure compliance with relevant regulations. Examples include:
 
-- **Stipend.io**: A comprehensive solution for managing financial support for interns, fellows, and volunteers. The platform provides features for disbursing funds, tracking usage, and generating reports. More information is available on their official website: [Stipend.io](https://www.stipend.io).
+- **Stipend.io**: A comprehensive solution for managing financial support for interns, fellows, and volunteers. The platform provides features for disbursing funds, tracking usage, and generating reports.io.
 
-- **FinFit**: A financial wellness platform that supports organizations in providing stipends, particularly in educational settings. It offers tools for budgeting, [financial planning](../f/financial_planning.md), and financial wellness education. More details can be found here: [FinFit](https://www.finfit.com).
+- **FinFit**: A financial wellness platform that supports organizations in providing stipends, particularly in educational settings. It offers tools for budgeting, [financial planning](../f/financial_planning.md), and financial wellness education. More details can be found here: FinFit.
 
 ## Case Studies
 

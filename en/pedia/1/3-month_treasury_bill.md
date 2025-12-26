@@ -67,20 +67,20 @@ Algo-traders incorporate T-Bills into their models for [yield](../y/yield.md) en
 ## Companies and Tools
 
 ### JP Morgan
-JP Morgan offers a [range](../r/range.md) of fixed-[income](../i/income.md) products, including T-Bills, for institutional and retail clients. More details at [JP Morgan](https://www.jpmorgan.com/wealth-management).
+JP Morgan offers a [range](../r/range.md) of fixed-[income](../i/income.md) products, including T-Bills, for institutional and retail clients. More details at JP Morgan.
 
 ### Goldman Sachs
-Goldman Sachs provides T-Bill investment solutions tailored for high-net-worth individuals and institutional investors. Details are available at [Goldman Sachs](https://www.goldmansachs.com/).
+Goldman Sachs provides T-Bill investment solutions tailored for high-net-worth individuals and institutional investors. Details are available at Goldman Sachs.
 
 ### Bank of America
-[Bank](../b/bank.md) of America’s [Merrill Lynch](../m/merrill_lynch.md) division offers trading and investment services in T-Bills, facilitating access for a broad [range](../r/range.md) of clients. For more information, visit [Bank of America](https://www.bofaml.com/).
+[Bank](../b/bank.md) of America’s [Merrill Lynch](../m/merrill_lynch.md) division offers trading and investment services in T-Bills, facilitating access for a broad [range](../r/range.md) of clients. For more information, visit Bank of America.
 
 ### Bloomberg Terminal
-[Bloomberg](../b/bloomberg.md) Terminal is an essential tool for algo-traders monitoring real-time data, yields, and analytics related to 3-Month T-Bills. Learn more at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+[Bloomberg](../b/bloomberg.md) Terminal is an essential tool for algo-traders monitoring real-time data, yields, and analytics related to 3-Month T-Bills. Learn more at Bloomberg.
 
 ### E*TRADE
-[E*TRADE](../e/e_trade.md) allows individual investors to access T-Bills through their [trading platform](../t/trading_platform.md), providing tools for performance analysis and [portfolio management](../p/portfolio_management.md). Visit [E*TRADE](https://us.etrade.com/).
+[E*TRADE](../e/e_trade.md) allows individual investors to access T-Bills through their [trading platform](../t/trading_platform.md), providing tools for performance analysis and [portfolio management](../p/portfolio_management.md). Visit E*TRADE.
 
 ## Conclusion
 
-The 3-Month Treasury Bill plays a crucial role in the [financial system](../f/financial_system.md), [offering](../o/offering.md) a [risk](../r/risk.md)-free [investment vehicle](../i/investment_vehicle.md) that underpins various [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md). Its importance is magnified during periods of economic [uncertainty](../u/uncertainty_in_trading.md), serving as a [safe haven](../s/safe_haven.md) for investors. The seamless integration of T-Bills into algo-[trading models](../t/trading_models.md) underscores their versatility and the sophisticated approaches embraced by modern [finance](../f/finance.md).
+The 3-Month Treasury Bill plays a crucial role in the [financial system](../f/financial_system.md), [offering](../o/offering.md) a [risk](../r/risk.md)-free [investment vehicle](../i/investment_vehicle.md) that underpins various [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md). Its importance is magnified during periods of economic [uncertainty](../u/uncertainty_in_trading.md), serving as a [safe haven](../s/safe_haven.md) for investors. The seamless integration of T-Bills into algo-[trading models](../t/trading_models.md) underscores their versatility and the sophisticated approaches embraced by modern [finance](../f/finance.md).

@@ -97,15 +97,14 @@ AT&T's [acquisition](../a/acquisition.md) [financing](../f/financing.md) for its
 
 ## Conclusion
 
-Syndication is a foundational element in modern [finance](../f/finance.md), playing a critical role in facilitating [capital](../c/capital.md) raising and large financial transactions. By pooling resources, spreading [risk](../r/risk.md), and enhancing [market](../m/market.md) reach, syndicates enable the efficient management of complex deals. Despite the inherent challenges, including coordination complexity and potential conflicts of [interest](../i/interest.md), the advantages of syndication make it an indispensable tool in the financial [industry](../i/industry.md). 
+Syndication is a foundational element in modern [finance](../f/finance.md), playing a critical role in facilitating [capital](../c/capital.md) raising and large financial transactions. By pooling resources, spreading [risk](../r/risk.md), and enhancing [market](../m/market.md) reach, syndicates enable the efficient management of complex deals. Despite the inherent challenges, including coordination complexity and potential conflicts of [interest](../i/interest.md), the advantages of syndication make it an indispensable tool in the financial [industry](../i/industry.md).
 
 As markets continue to evolve and financial transactions grow in scale and complexity, the role of syndicates [will](../w/will.md) likely become even more pronounced. Advanced technologies and stronger regulatory frameworks may further improve the [efficiency](../e/efficiency.md) and effectiveness of syndicates, ensuring they remain a vital component of the financial ecosystem.
 
 For more information, you can visit the following links to example companies involved in syndicate transactions:
 
-- [Morgan Stanley](https://www.morganstanley.com)
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [JPMorgan Chase](https://www.jpmorganchase.com)
+- Morgan Stanley
+- Goldman Sachs
+- JPMorgan Chase
 
 These institutions frequently act as lead underwriters or co-managers in syndicate transactions, bringing their vast resources and expertise to the table.
-

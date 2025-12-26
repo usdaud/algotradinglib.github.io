@@ -68,7 +68,6 @@ Distributed ledgers have the potential to revolutionize the financial [industry]
 
 [Ripple](../r/ripple.md) is a distributed ledger platform focused on enabling real-time, cross-border payments. It uses the XRP Ledger, which employs a consensus protocol to validate transactions. [Ripple](../r/ripple.md) aims to provide a faster and more cost-effective alternative to traditional [payment](../p/payment.md) systems like SWIFT.
 
-[Learn more about Ripple](https://ripple.com/)
 
 ### 2. Supply Chain Management
 
@@ -78,7 +77,6 @@ Distributed ledgers can enhance [supply chain](../s/supply_chain.md) [transparen
 
 IBM Food [Trust](../t/trust.md) is a [blockchain](../b/blockchain_in_trading.md)-based solution aimed at improving food safety and [transparency](../t/transparency.md). It allows participants in the food [supply chain](../s/supply_chain.md) to trace products from farm to table, ensuring data integrity and enabling faster recalls in case of contamination.
 
-[Learn more about IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
 
 ### 3. Healthcare
 
@@ -88,7 +86,6 @@ Distributed ledgers can improve healthcare by enabling secure, interoperable, an
 
 Medicalchain is a [blockchain](../b/blockchain_in_trading.md)-based platform that allows patients to securely store and share their medical records with healthcare professionals and researchers. It aims to enhance [data security](../d/data_security_in_trading.md), interoperability, and patient control over health information.
 
-[Learn more about Medicalchain](https://medicalchain.com/)
 
 ### 4. Identity Management
 
@@ -98,7 +95,6 @@ Distributed ledgers can provide individuals with more control over their digital
 
 Sovrin is a decentralized identity network that provides self-sovereign identity (SSI). It enables individuals to create and manage their digital identities, granting access to verifiable credentials without relying on a central authority.
 
-[Learn more about Sovrin](https://sovrin.org/)
 
 ### 5. Voting Systems
 
@@ -108,7 +104,6 @@ Distributed ledgers can enhance the [transparency](../t/transparency.md), [secur
 
 Voatz is a [blockchain](../b/blockchain_in_trading.md)-based mobile voting platform that aims to provide secure and accessible voting solutions. It has been used in various pilot programs, including elections for military personnel and citizens living abroad.
 
-[Learn more about Voatz](https://voatz.com/)
 
 ## Challenges and Limitations
 

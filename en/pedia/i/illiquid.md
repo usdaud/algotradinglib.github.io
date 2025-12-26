@@ -2,11 +2,11 @@
 
 ## Introduction to Illiquidity
 
-Illiquidity in [financial markets](../f/financial_market.md) refers to a situation where an [asset](../a/asset.md) or [security](../s/security.md) cannot be easily sold or exchanged for cash without a substantial loss in [value](../v/value.md). This concept is particularly significant in trading, as [liquidity](../l/liquidity.md) determines the regularity and ease with which transactions can be conducted without affecting the [asset](../a/asset.md)'s price. The less [liquid](../l/liquid.md) an [asset](../a/asset.md) is, the harder it is to buy or sell it quickly without causing a notable price movement. 
+Illiquidity in [financial markets](../f/financial_market.md) refers to a situation where an [asset](../a/asset.md) or [security](../s/security.md) cannot be easily sold or exchanged for cash without a substantial loss in [value](../v/value.md). This concept is particularly significant in trading, as [liquidity](../l/liquidity.md) determines the regularity and ease with which transactions can be conducted without affecting the [asset](../a/asset.md)'s price. The less [liquid](../l/liquid.md) an [asset](../a/asset.md) is, the harder it is to buy or sell it quickly without causing a notable price movement.
 
-Illiquid assets can [range](../r/range.md) from certain [stocks](../s/stock.md), bonds, and [derivatives](../d/derivatives.md) to more [tangible assets](../t/tangible_asset.md) like [real estate](../r/real_estate.md), fine art, or unique collectibles. This characteristic is opposite to [liquidity](../l/liquidity.md), where assets can be sold quickly at [market value](../m/market_value.md). 
+Illiquid assets can [range](../r/range.md) from certain [stocks](../s/stock.md), bonds, and [derivatives](../d/derivatives.md) to more [tangible assets](../t/tangible_asset.md) like [real estate](../r/real_estate.md), fine art, or unique collectibles. This characteristic is opposite to [liquidity](../l/liquidity.md), where assets can be sold quickly at [market value](../m/market_value.md).
 
-[Algorithmic trading](../a/accountability.md), which relies on high-speed, high-frequency transactions, often faces significant challenges due to illiquidity. This can affect [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md) practices, and ultimately, [portfolio performance](../p/portfolio_performance.md).
+[Algorithmic trading](../a/algorithmic_trading.md), which relies on high-speed, high-frequency transactions, often faces significant challenges due to illiquidity. This can affect [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md) practices, and ultimately, [portfolio performance](../p/portfolio_performance.md).
 
 ## Factors Contributing to Illiquidity
 
@@ -21,7 +21,7 @@ Several factors contribute to an [asset](../a/asset.md) or [financial instrument
 
 ## Impact of Illiquidity on Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using automated systems to execute trades at speeds and frequencies impossible for human traders. Illiquidity poses several challenges to [algorithmic trading](../a/accountability.md) systems:
+[Algorithmic trading](../a/algorithmic_trading.md) involves using automated systems to execute trades at speeds and frequencies impossible for human traders. Illiquidity poses several challenges to [algorithmic trading](../a/algorithmic_trading.md) systems:
 
 1. **[Execution Risk](../e/execution_risk.md)**: In an illiquid [market](../m/market.md), executing large orders can lead to significant [market](../m/market.md) impact, affecting the price and thus the [execution](../e/execution.md) cost.
 2. **[Slippage](../s/slippage.md)**: The difference between the expected price of a [trade](../t/trade.md) and the actual executed price can be more pronounced in illiquid markets.
@@ -55,7 +55,7 @@ Algorithmic traders employ various strategies and techniques to manage the chall
 
 ### Flash Crash of 2010
 
-One of the most notable events highlighting the impact of illiquidity was the Flash Crash on May 6, 2010. Within minutes, major U.S. stock indices dropped by about 10%, only to recover a significant portion of the losses within the same trading day. The event was partly attributed to the lack of [liquidity](../l/liquidity.md) and the cascading effect of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). 
+One of the most notable events highlighting the impact of illiquidity was the Flash Crash on May 6, 2010. Within minutes, major U.S. stock indices dropped by about 10%, only to recover a significant portion of the losses within the same trading day. The event was partly attributed to the lack of [liquidity](../l/liquidity.md) and the cascading effect of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ### Knight Capital Group Incident
 
@@ -72,7 +72,7 @@ Several technologies and tools have been developed to help algorithmic traders m
 5. **High-Performance Computing**: Leveraging high-performance computing for [real-time data analysis](../r/real-time_data_analysis.md) and decision-making helps traders respond quickly to changing [market](../m/market.md) [liquidity](../l/liquidity.md) conditions.
 
 ### Reference
-- [Knight Capital Group Incident](https://www.sec.gov/news/press-release/2013-2013-56htm)
+- Knight Capital Group Incident
 
 ## Regulation and Illiquidity
 
@@ -85,4 +85,4 @@ Regulatory bodies worldwide address issues related to [market](../m/market.md) [
 
 ## Conclusion
 
-Illiquidity remains a critical challenge in [algorithmic trading](../a/accountability.md), directly impacting [execution](../e/execution.md) [efficiency](../e/efficiency.md), strategy effectiveness, and [risk management](../r/risk_management.md). Through a combination of sophisticated technologies, [robust](../r/robust.md) [risk](../r/risk.md) mitigation strategies, and awareness of [market](../m/market.md) conditions, traders can navigate the complexities of illiquid markets more effectively. Continuous advancements in computational power, real-time [data analytics](../d/data_analytics.md), and regulatory oversight promise to further enhance the ability of algorithmic traders to manage and exploit [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md).
+Illiquidity remains a critical challenge in [algorithmic trading](../a/algorithmic_trading.md), directly impacting [execution](../e/execution.md) [efficiency](../e/efficiency.md), strategy effectiveness, and [risk management](../r/risk_management.md). Through a combination of sophisticated technologies, [robust](../r/robust.md) [risk](../r/risk.md) mitigation strategies, and awareness of [market](../m/market.md) conditions, traders can navigate the complexities of illiquid markets more effectively. Continuous advancements in computational power, real-time [data analytics](../d/data_analytics.md), and regulatory oversight promise to further enhance the ability of algorithmic traders to manage and exploit [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md).

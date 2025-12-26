@@ -42,25 +42,25 @@ Several financial institutions globally are renowned for their custodial service
 
 BNY Mellon is one of the largest global custodians. It provides a [range](../r/range.md) of services, including [asset](../a/asset.md) servicing, [alternative investment](../a/alternative_investment.md) services, and [collateral management](../c/collateral_management.md). Their comprehensive services cater to [asset](../a/asset.md) managers, [insurance](../i/insurance.md) companies, and pension funds.
 
-- [BNY Mellon](https://www.bnymellon.com/)
+- BNY Mellon
 
 ### State Street Corporation
 
 State Street is another global leader in custodial services. It offers a wide array of services including investment servicing, [investment management](../i/investment_management.md), and investment research and trading. State Street operates in more than 100 markets globally, providing services to both institutional and individual investors.
 
-- [State Street](https://www.statestreet.com/)
+- State Street
 
 ### JPMorgan Chase Bank
 
 J.P. Morgan provides comprehensive custody services, including safekeeping, settlement, and corporate action processing. Their enhanced technology solutions support the efficient handling of assets and transactions for institutional investors around the globe.
 
-- [JPMorgan Chase](https://www.jpmorganchase.com/)
+- JPMorgan Chase
 
 ### Citibank
 
 Citibank's custody services include safekeeping, settlement, and comprehensive [asset](../a/asset.md) servicing. Citibank focuses on delivering innovative and efficient solutions to meet the needs of its clients, who are primarily large institutional investors.
 
-- [Citibank](https://www.citigroup.com/citi/)
+- Citibank
 
 ## Regulatory Environment
 

@@ -23,7 +23,7 @@ Various exogenous variables may impact trading decisions, ranging from macroecon
 ### Macroeconomic Indicators
 
 1. **[Interest](../i/interest.md) Rates**: Central [bank](../b/bank.md) decisions on [interest](../i/interest.md) rates can impact [currency](../c/currency.md) values, [bond](../b/bond.md) prices, and [investor](../i/investor.md) sentiment. For instance, an unexpected rate hike by the Federal Reserve can cause significant [market](../m/market.md) movements.
-   
+
 2. **[Inflation](../i/inflation.md) Rates**: Rising [inflation](../i/inflation.md) generally leads to tighter [monetary policy](../m/monetary_policy.md), which can affect [equity](../e/equity.md) and [bond](../b/bond.md) markets. For example, a high Consumer Price [Index](../i/index_instrument.md) (CPI) can lead traders to anticipate changes in [inflation](../i/inflation.md)-driven central [bank](../b/bank.md) policies.
 
 3. **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: Strong GDP growth signals a healthy [economy](../e/economy.md), often leading to bullish sentiment in [equity](../e/equity.md) markets. Conversely, negative GDP growth or [recession indicators](../r/recession_indicators.md) can trigger bearish trends.
@@ -58,19 +58,19 @@ Various exogenous variables may impact trading decisions, ranging from macroecon
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds often incorporate exogenous variables into their [quantitative trading](../q/quantitative_trading.md) models to [hedge](../h/hedge.md) risks and enhance returns. For example, **Bridgewater Associates** uses macroeconomic data extensively to inform its [trading strategies](../t/trading_strategies.md) ([Bridgewater Associates](https://www.bridgewater.com)).
+[Hedge](../h/hedge.md) funds often incorporate exogenous variables into their [quantitative trading](../q/quantitative_trading.md) models to [hedge](../h/hedge.md) risks and enhance returns. For example, **Bridgewater Associates** uses macroeconomic data extensively to inform its [trading strategies](../t/trading_strategies.md) (Bridgewater Associates).
 
 ### Retail Trading Platforms
 
-Retail platforms like **[Alpaca](../a/alpaca.md)** provide [robust](../r/robust.md) APIs that allow users to integrate exogenous data into their custom [trading algorithms](../t/trading_algorithms.md) ([Alpaca](https://alpaca.markets)). This democratizes access to complex [trading strategies](../t/trading_strategies.md).
+Retail platforms like **[Alpaca](../a/alpaca.md)** provide [robust](../r/robust.md) APIs that allow users to integrate exogenous data into their custom [trading algorithms](../t/trading_algorithms.md) (Alpaca). This democratizes access to complex [trading strategies](../t/trading_strategies.md).
 
 ### Automated Trading Systems
 
-Automated systems, such as those used by **Virtu Financial**, [leverage](../l/leverage.md) real-time macroeconomic data and news feeds to make rapid trading decisions, helping to [capitalize](../c/capitalize.md) on short-lived [market](../m/market.md) opportunities ([Virtu Financial](https://www.virtu.com)).
+Automated systems, such as those used by **Virtu Financial**, [leverage](../l/leverage.md) real-time macroeconomic data and news feeds to make rapid trading decisions, helping to [capitalize](../c/capitalize.md) on short-lived [market](../m/market.md) opportunities (Virtu Financial).
 
 ### Research and Academic Insights
 
-Institutions like the **MIT Laboratory for [Financial Engineering](../f/financial_engineering.md)** (LFE) conduct extensive research on the impact of exogenous variables on [market](../m/market.md) behavior, contributing to the development of more sophisticated [trading models](../t/trading_models.md) ([MIT LFE](https://lfe.mit.edu)).
+Institutions like the **MIT Laboratory for [Financial Engineering](../f/financial_engineering.md)** (LFE) conduct extensive research on the impact of exogenous variables on [market](../m/market.md) behavior, contributing to the development of more sophisticated [trading models](../t/trading_models.md) (MIT LFE).
 
 ## Conclusion
 

@@ -72,7 +72,7 @@ Apple is a prime example of a company with a complex global [supply chain](../s/
 
 ### 6.2 Amazon
 
-Amazon’s global [supply chain](../s/supply_chain.md) is characterized by its vast network of fulfillment centers, technology-driven [logistics](../l/logistics.md), and emphasis on [customer service](../c/customer_service.md). The company utilizes automation, AI, and [robust](../r/robust.md) [inventory management](../i/inventory_management.md) to ensure fast and reliable deliveries. More details about Amazon's [supply chain](../s/supply_chain.md) can be found [here](https://www.aboutamazon.com/our-operations/worldwide-fulfillment).
+Amazon’s global [supply chain](../s/supply_chain.md) is characterized by its vast network of fulfillment centers, technology-driven [logistics](../l/logistics.md), and emphasis on [customer service](../c/customer_service.md). The company utilizes automation, AI, and [robust](../r/robust.md) [inventory management](../i/inventory_management.md) to ensure fast and reliable deliveries. More details about Amazon's [supply chain](../s/supply_chain.md) can be found here.
 
 ## 7. Future Trends
 

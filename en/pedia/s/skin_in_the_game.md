@@ -37,7 +37,7 @@ The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commissio
 The SEC requires that corporate insiders—executives, directors, and major shareholders—file reports disclosing their ownership and transactions involving company securities. These reports include:
 
 - **Forms 3, 4, and 5:** Filed under Section 16 of the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md), these forms capture changes in ownership by corporate insiders. [Form 3](../f/form_3.md) is filed when an individual becomes an insider, [Form 4](../f/form_4.md) when there are changes in [holdings](../h/holdings.md), and Form 5 for annual reconciliations.
-  
+
 ### Regulation S-K
 
 Regulation S-K mandates disclosures regarding executive compensation and stock ownership. It requires that companies provide clear information about the compensation of their top executives and the stock [options](../o/options.md) awarded to them. This regulation helps investors understand the extent to which executives have "skin in the game."
@@ -51,11 +51,11 @@ This act governs the organization of investment companies and includes provision
 The SEC also enforces restrictions on certain actions to ensure fairness and [transparency](../t/transparency.md):
 
 - **[Insider Trading](../i/insider.md):** The practice of trading on material, non-public information is illegal. By enforcing rules against [insider trading](../i/insider.md), the SEC aims to maintain a level playing field for all investors.
-  
+
 - **Short-Swing Profits:** Section 16(b) of the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md) requires that any profits realized by an insider from the purchase and [sale](../s/sale.md) of company securities within a six-month period be returned to the company. This rule discourages insiders from making short-term trades based on privileged information.
-  
+
 ## Conclusion
 
 "Skin in the Game" is an essential concept in [finance](../f/finance.md) and [investing](../i/investing.md), acting as a signal of alignment between insiders and other investors. By having personal financial stakes in their ventures, key decision-makers can demonstrate their commitment and confidence in the success of their projects. Regulatory frameworks established by bodies like the SEC aim to ensure [transparency](../t/transparency.md) and accountability, fostering a fair and trustworthy investment environment.
 
-For more information on SEC rules and disclosures, you can visit [www.sec.gov](https://www.sec.gov).
+For more information on SEC rules and disclosures, you can visit

@@ -80,7 +80,7 @@ Event studies can also be applied to macroeconomic announcements like GDP figure
 
 A classic example of using [event study](../e/event_study.md) methodology can be seen with Facebook's IPO on May 18, 2012. Researchers could analyze the event's impact on Facebook's stock price by setting the event day as the IPO date and examining the pre- and post-event windows. This analysis could provide insights into [investor](../i/investor.md) sentiment and [market](../m/market.md) reaction to one of the biggest tech IPOs.
 
-### Source: [Facebook Investor Relations](https://investor.fb.com/home/default.aspx)
+### Source
 
 ## Software and Tools
 
@@ -99,7 +99,7 @@ SAS offers a [range](../r/range.md) of statistical tools that can be used for co
 Both R and Python [offer](../o/offer.md) packages and libraries specifically designed for event studies:
 
 - **R Package (eventstudies)**: The 'eventstudies' package in R allows users to conduct event studies with ease.
-  
+
 - **Python Library (eventstudytoolkit)**: The 'eventstudytoolkit' library in Python provides functions to implement [event study](../e/event_study.md) methodology.
 
 ## Limitations
@@ -119,4 +119,3 @@ Other events occurring simultaneously can confound the results, making it hard t
 ## Conclusion
 
 [Event study](../e/event_study.md) methodology is an indispensable tool in the arsenal of financial analysts and algo traders. By systematically analyzing the impact of specific events on stock prices, it provides deep insights that can drive [trading strategies](../t/trading_strategies.md) and investment decisions. While it comes with limitations and assumptions, advancements in computational tools and statistical methods continue to enhance its precision and applicability across various domains.
-

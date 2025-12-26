@@ -70,13 +70,13 @@ This ratio of 1.5 indicates that the company has $1.50 in [liquid](../l/liquid.m
 ## Case Studies in Acid-Test Ratio Analysis
 
 ### Apple Inc. (AAPL)
-Apple Inc. is known for its solid financial foundation and [robust](../r/robust.md) [liquidity](../l/liquidity.md) position. As of its latest [financial statements](../f/financial_statements.md), Apple maintains a high acid-test ratio, reflecting its ability to cover short-term [obligations](../o/obligation.md) without liquidating [inventory](../i/inventory.md). Detailed financials can be found on Apple's [investor relations](../i/investor_relations.md) page: [Apple Investor](https://investor.apple.com/)
+Apple Inc. is known for its solid financial foundation and [robust](../r/robust.md) [liquidity](../l/liquidity.md) position. As of its latest [financial statements](../f/financial_statements.md), Apple maintains a high acid-test ratio, reflecting its ability to cover short-term [obligations](../o/obligation.md) without liquidating [inventory](../i/inventory.md).
 
 ### Microsoft Corp. (MSFT)
-Microsoft Corp. also demonstrates a strong [liquidity](../l/liquidity.md) position, with a high acid-test ratio. This indicates the company's efficient management of [liquid](../l/liquid.md) assets and its ability to meet short-term financial [obligations](../o/obligation.md) smoothly. Financial details are available on Microsoft's [investor relations](../i/investor_relations.md) page: [Microsoft Investor](https://www.microsoft.com/en-us/Investor/)
+Microsoft Corp. also demonstrates a strong [liquidity](../l/liquidity.md) position, with a high acid-test ratio. This indicates the company's efficient management of [liquid](../l/liquid.md) assets and its ability to meet short-term financial [obligations](../o/obligation.md) smoothly.
 
 ### General Electric (GE)
-General Electric, historically known for its diversified operations, has had varying acid-test ratios over the years. A lower ratio during challenging periods highlighted potential [liquidity](../l/liquidity.md) concerns, while recent improvements reflect the company's efforts to strengthen its financial position. For more information, visit GE's [investor relations](../i/investor_relations.md) page: [GE Investor](https://www.ge.com/investor-relations)
+General Electric, historically known for its diversified operations, has had varying acid-test ratios over the years. A lower ratio during challenging periods highlighted potential [liquidity](../l/liquidity.md) concerns, while recent improvements reflect the company's efforts to strengthen its financial position.
 
 ## Conclusion
 

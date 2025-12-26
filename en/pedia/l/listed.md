@@ -41,4 +41,3 @@
 
 ## Conclusion
 Being listed on a stock [exchange](../e/exchange.md) signifies that a company's [shares](../s/shares.md) are available for public trading and that the company meets the regulatory and financial standards of the [exchange](../e/exchange.md). Listing provides numerous benefits, including access to [capital](../c/capital.md), [liquidity](../l/liquidity.md) for shareholders, and enhanced [visibility](../v/visibility.md). However, it also comes with challenges such as regulatory compliance and public scrutiny. Understanding the key components, types, challenges, and [best practices](../b/best_practices.md) associated with being listed can help companies and investors navigate the public [market](../m/market.md) effectively.
-

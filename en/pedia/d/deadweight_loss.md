@@ -63,11 +63,11 @@ Knowledge of deadweight loss informs policy decisions. For instance, when implem
 
 ### Market Corrections
 
-To minimize deadweight loss, governments and regulators often seek to correct [market](../m/market.md) imperfections by internalizing externalities (e.g., through carbon [taxes](../t/taxes.md) or subsidies for education) or by promoting competitive markets to avoid monopolistic behaviors. 
+To minimize deadweight loss, governments and regulators often seek to correct [market](../m/market.md) imperfections by internalizing externalities (e.g., through carbon [taxes](../t/taxes.md) or subsidies for education) or by promoting competitive markets to avoid monopolistic behaviors.
 
 ### Practical Examples
 
-Many real-world examples demonstrate the effects of deadweight loss on [economic efficiency](../e/economic_efficiency.md). For instance, **Amazon** (www.amazon.com) might decide whether to enter a [market](../m/market.md) with significant regulatory [taxes](../t/taxes.md) or [price controls](../p/price_controls.md). Such factors would influence their decisions on stock levels, product pricing, and [market](../m/market.md) strategies to avoid potential deadweight loss and maximize [efficiency](../e/efficiency.md).
+Many real-world examples demonstrate the effects of deadweight loss on [economic efficiency](../e/economic_efficiency.md). For instance, **Amazon** ( might decide whether to enter a [market](../m/market.md) with significant regulatory [taxes](../t/taxes.md) or [price controls](../p/price_controls.md). Such factors would influence their decisions on stock levels, product pricing, and [market](../m/market.md) strategies to avoid potential deadweight loss and maximize [efficiency](../e/efficiency.md).
 
 ## Conclusion
 

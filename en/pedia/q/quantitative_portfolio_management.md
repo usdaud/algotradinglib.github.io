@@ -1,6 +1,6 @@
 # Quantitative Portfolio Management
 
-Quantitative [portfolio management](../p/portfolio_management.md) is a form of [investment management](../i/investment_management.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and extensive data analysis to make investment decisions. Instead of relying on the subjective [judgment](../j/judgment.md) of human analysts or portfolio managers, quantitative [portfolio management](../p/portfolio_management.md) leverages the power of computers and quantitative techniques to optimize the selection and weighting of investment assets in a portfolio. This approach is prevalent among [hedge](../h/hedge.md) funds, institutional investors, and quant funds, where it has been employed to maximize returns, minimize risks, and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Here is an extensive exploration of the topic, covering a wide array of aspects intrinsic to quantitative [portfolio management](../p/portfolio_management.md). 
+Quantitative [portfolio management](../p/portfolio_management.md) is a form of [investment management](../i/investment_management.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and extensive data analysis to make investment decisions. Instead of relying on the subjective [judgment](../j/judgment.md) of human analysts or portfolio managers, quantitative [portfolio management](../p/portfolio_management.md) leverages the power of computers and quantitative techniques to optimize the selection and weighting of investment assets in a portfolio. This approach is prevalent among [hedge](../h/hedge.md) funds, institutional investors, and quant funds, where it has been employed to maximize returns, minimize risks, and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Here is an extensive exploration of the topic, covering a wide array of aspects intrinsic to quantitative [portfolio management](../p/portfolio_management.md).
 
 ### Key Concepts in Quantitative Portfolio Management
 
@@ -21,38 +21,38 @@ Quantitative [portfolio management](../p/portfolio_management.md) is a form of [
 ### Application and Implementation
 
 1. **Data Collection and Processing**
-   - **Sources of Data**: Quantitative [portfolio management](../p/portfolio_management.md) requires vast amounts of data — including historical price data, [earnings](../e/earnings.md) reports, [economic indicators](../e/economic_indicators.md), [social media sentiment](../s/social_media_sentiment.md), and [alternative data](../a/alternative_data.md) such as satellite imagery. 
-   - **Cleaning and Normalization**: Raw data often contains [noise](../n/noise.md) and errors that need to be filtered out. [Data cleaning](../d/data_cleaning.md) processes ensure that the datasets used in models are accurate and reliable.
-   - **Feature Engineering**: Transforming raw data into meaningful inputs for models involves feature engineering. This could include calculating [financial ratios](../f/financial_ratios.md), creating [technical indicators](../t/technical_indicators.md), or deriving sentiment scores from textual data.
+ - **Sources of Data**: Quantitative [portfolio management](../p/portfolio_management.md) requires vast amounts of data — including historical price data, [earnings](../e/earnings.md) reports, [economic indicators](../e/economic_indicators.md), [social media sentiment](../s/social_media_sentiment.md), and [alternative data](../a/alternative_data.md) such as satellite imagery.
+ - **Cleaning and Normalization**: Raw data often contains [noise](../n/noise.md) and errors that need to be filtered out. [Data cleaning](../d/data_cleaning.md) processes ensure that the datasets used in models are accurate and reliable.
+ - **Feature Engineering**: Transforming raw data into meaningful inputs for models involves feature engineering. This could include calculating [financial ratios](../f/financial_ratios.md), creating [technical indicators](../t/technical_indicators.md), or deriving sentiment scores from textual data.
 
 2. **Model Development and Validation**
-   - **[Hypothesis Testing](../h/hypothesis_testing.md)**: Formulating and testing hypotheses about [market](../m/market.md) behavior are fundamental steps in model development. Hypotheses are rigorously tested using statistical methods to ensure their validity.
-   - **Parameter Tuning**: Models often have adjustable parameters that need to be fine-tuned to optimize performance. Techniques like [grid search](../g/grid_search_in_trading.md), random search, and [Bayesian optimization](../b/bayesian_optimization.md) are employed to find the sweet spots of these parameters.
-   - **Model Validation**: To ensure that models are not [overfitting](../o/overfitting.md) and are generalizable to new data, they are validated using techniques like cross-validation and [out-of-sample testing](../o/out-of-sample_testing.md).
+ - **[Hypothesis Testing](../h/hypothesis_testing.md)**: Formulating and testing hypotheses about [market](../m/market.md) behavior are fundamental steps in model development. Hypotheses are rigorously tested using statistical methods to ensure their validity.
+ - **Parameter Tuning**: Models often have adjustable parameters that need to be fine-tuned to optimize performance. Techniques like [grid search](../g/grid_search_in_trading.md), random search, and [Bayesian optimization](../b/bayesian_optimization.md) are employed to find the sweet spots of these parameters.
+ - **Model Validation**: To ensure that models are not [overfitting](../o/overfitting.md) and are generalizable to new data, they are validated using techniques like cross-validation and [out-of-sample testing](../o/out-of-sample_testing.md).
 
 3. **Strategy Deployment**
-   - **Real-Time [Execution](../e/execution.md)**: Deploying strategies in real-time requires [robust](../r/robust.md) and efficient [execution](../e/execution.md) systems. Latency and [slippage](../s/slippage.md) must be minimized to ensure that trades are executed at desired prices.
-   - **[Risk](../r/risk.md) Controls**: Real-time [risk](../r/risk.md) controls help in monitoring the exposure and ensuring that the portfolio adheres to specified [risk](../r/risk.md) limits. Automatic [stop-loss orders](../s/stop-loss_orders.md), circuit breakers, and position limits are some examples.
-   - **Performance Monitoring**: Continuous monitoring of strategy performance is crucial. Metrics like [Sharpe ratio](../s/sharpe_ratio.md), [alpha](../a/alpha.md), [beta](../b/beta.md), and [drawdown](../d/drawdown.md) are frequently employed to assess the health of the portfolio.
+ - **Real-Time [Execution](../e/execution.md)**: Deploying strategies in real-time requires [robust](../r/robust.md) and efficient [execution](../e/execution.md) systems. Latency and [slippage](../s/slippage.md) must be minimized to ensure that trades are executed at desired prices.
+ - **[Risk](../r/risk.md) Controls**: Real-time [risk](../r/risk.md) controls help in monitoring the exposure and ensuring that the portfolio adheres to specified [risk](../r/risk.md) limits. Automatic [stop-loss orders](../s/stop-loss_orders.md), circuit breakers, and position limits are some examples.
+ - **Performance Monitoring**: Continuous monitoring of strategy performance is crucial. Metrics like [Sharpe ratio](../s/sharpe_ratio.md), [alpha](../a/alpha.md), [beta](../b/beta.md), and [drawdown](../d/drawdown.md) are frequently employed to assess the health of the portfolio.
 
 ### Prominent Players in Quantitative Portfolio Management
 
 - **Two Sigma Investments**: Two Sigma is a technology-driven [investment manager](../i/investment_manager.md) that applies a rigorous, scientific method-based approach to [investment management](../i/investment_management.md). They [leverage](../l/leverage.md) massive amounts of data and advanced analytics.
-  - [Two Sigma Investments](https://www.twosigma.com/)
+ - Two Sigma Investments
 
 - **Bridgewater Associates**: Founded by Ray Dalio, Bridgewater is one of the largest and best-known [hedge](../h/hedge.md) funds employing a quantitative approach to [portfolio management](../p/portfolio_management.md).
-  - [Bridgewater Associates](https://www.bridgewater.com/)
+ - Bridgewater Associates
 
 - **D. E. Shaw & Co.**: D. E. Shaw is a global investment and technology development [firm](../f/firm.md) known for its innovation in [quantitative trading](../q/quantitative_trading.md) and investment strategies.
-  - [D. E. Shaw & Co.](https://www.deshaw.com/)
+ - D. E. Shaw & Co.
 
 - **Renaissance Technologies**: Managed by Jim Simons, Renaissance Technologies is famous for its Medallion [Fund](../f/fund.md), which has consistently delivered high returns using [quantitative models](../q/quantitative_models.md).
-  - [Renaissance Technologies](https://www.rentec.com/)
+ - Renaissance Technologies
 
 ### Challenges and Future Directions
 
 1. **Data Quality and Integrity**: Ensuring the accuracy and integrity of data remains a perpetual challenge. Cleaning and preprocessing data to eliminate errors require substantial effort.
-  
+
 2. **Model Robustness**: [Financial markets](../f/financial_market.md) are dynamic, and models can become obsolete quickly as conditions change. Ensuring that models remain [robust](../r/robust.md) and adaptable to new [market](../m/market.md) environments is critical.
 
 3. **Algorithmic Bias**: Biases in algorithmic models can lead to unintended consequences. Ensuring that models are fair and unbiased is an area of ongoing research.

@@ -44,9 +44,9 @@ Understanding the Hurst exponent helps in [risk management](../r/risk_management
 
 Several financial companies and technology platforms incorporate the Hurst exponent into their [trading algorithms](../t/trading_algorithms.md) and analytical tools.
 
-- **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/): This [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for [backtesting](../b/backtesting.md) and deploying algorithms that can utilize the Hurst exponent.
-- **Kensho Technologies** (https://www.kensho.com/): Now part of S&P Global, Kensho provides advanced analytics platforms that potentially use the Hurst exponent for financial [predictive modeling](../p/predictive_modeling.md).
-- **Numerai** (https://numer.ai/): An AI-driven [hedge fund](../h/hedge_fund.md) that leverages a wide [range](../r/range.md) of quantitative methods, including the Hurst exponent, to guide trading decisions.
+- **[StockSharp](../s/stocksharp.md)**: This [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for [backtesting](../b/backtesting.md) and deploying algorithms that can utilize the Hurst exponent.
+- **Kensho Technologies** ( Now part of S&P Global, Kensho provides advanced analytics platforms that potentially use the Hurst exponent for financial [predictive modeling](../p/predictive_modeling.md).
+- **Numerai** ( An AI-driven [hedge fund](../h/hedge_fund.md) that leverages a wide [range](../r/range.md) of quantitative methods, including the Hurst exponent, to guide trading decisions.
 
 ### Practical Example Calculation
 

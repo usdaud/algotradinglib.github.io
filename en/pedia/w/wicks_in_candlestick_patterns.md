@@ -46,7 +46,7 @@ The [shooting star](../s/shooting_star.md) is the opposite of the hammer. It has
 
 Wicks can be particularly useful for intraday traders who seek to [capitalize](../c/capitalize.md) on short-term price movements. By analyzing the length and position of wicks on shorter timeframes (such as 5-minute or 15-minute charts), traders can identify potential entry and exit points.
 
-#### Example: 
+#### Example:
 
 In a [5-minute chart](../1/5-minute_chart.md), a series of candles with long upper wicks forming around the same [price level](../p/price_level.md) might indicate a resistance zone. Traders could use this information to place sell orders just below this level.
 
@@ -90,8 +90,8 @@ Several advanced trading platforms [offer](../o/offer.md) tools for analyzing [c
 
 **Examples:**
 
-- **[TradingView](../t/tradingview.md)**: A widely-used platform that offers extensive charting tools, including automated [candlestick pattern recognition](../c/candlestick_pattern_recognition.md). [TradingView](https://www.tradingview.com/)
-- **MetaTrader 4/5**: Popular among Forex traders, this platform provides custom indicators and scripts to help analyze [candlestick patterns](../c/candlestick_patterns.md). [MetaTrader](https://www.metatrader4.com/en)
+- **[TradingView](../t/tradingview.md)**: A widely-used platform that offers extensive charting tools, including automated [candlestick pattern recognition](../c/candlestick_pattern_recognition.md). TradingView
+- **MetaTrader 4/5**: Popular among Forex traders, this platform provides custom indicators and scripts to help analyze [candlestick patterns](../c/candlestick_patterns.md). MetaTrader
 
 ### Conclusion
 

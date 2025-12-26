@@ -4,7 +4,7 @@ Reserve requirements are the regulations set by central banks that dictate the m
 
 ## History and Evolution
 
-The concept of reserve requirements dates back to the early days of banking, when banks had to keep a portion of their deposits in gold or [liquid](../l/liquid.md) cash to honor [withdrawal](../w/withdrawal.md) demands. Over time, the formalization and regulation of reserve requirements emerged as a standard practice, particularly with the advent of central banking systems. 
+The concept of reserve requirements dates back to the early days of banking, when banks had to keep a portion of their deposits in gold or [liquid](../l/liquid.md) cash to honor [withdrawal](../w/withdrawal.md) demands. Over time, the formalization and regulation of reserve requirements emerged as a standard practice, particularly with the advent of central banking systems.
 
 For instance, the Federal Reserve Act of 1913 in the United States established the Federal Reserve System and included specifications for reserve requirements as a tool for [monetary policy](../m/monetary_policy.md).
 
@@ -66,25 +66,24 @@ Changes in reserve requirements can have wide-ranging effects on economic variab
 
 In the United States, the Federal Reserve System specifies reserve requirements. As of the latest updates, certain small banks are exempt from holding reserves, while larger banks are subject to requirements that can [range](../r/range.md) from 0% to 10%.
 
-For more detailed information, you can visit the Federal Reserve's official page: [Federal Reserve - Reserve Requirements](https://www.federalreserve.gov/monetarypolicy/reservereq.htm).
+For more detailed information, you can
 
 ### European Union
 
-The European Central [Bank](../b/bank.md) (ECB) imposes reserve requirements on [credit](../c/credit.md) institutions within the [Eurozone](../e/eurozone.md). The current [reserve ratio](../r/reserve_ratio.md) is set at 1% of deposits and has been stable for several years. 
+The European Central [Bank](../b/bank.md) (ECB) imposes reserve requirements on [credit](../c/credit.md) institutions within the [Eurozone](../e/eurozone.md). The current [reserve ratio](../r/reserve_ratio.md) is set at 1% of deposits and has been stable for several years.
 
-You can find more information on the ECB's approach to reserve requirements here: [European Central Bank - Minimum Reserves](https://www.ecb.europa.eu/mopo/implement/mr/html/index.en.html).
+You can find more information on the ECB's approach to reserve requirements here: European Central Bank - Minimum Reserves.
 
 ### China
 
 The People's [Bank](../b/bank.md) of China (PBOC) uses reserve requirements as a key tool for controlling [liquidity](../l/liquidity.md) and managing [economic growth](../e/economic_growth.md). The PBOC has been known to adjust reserve requirements frequently, depending on the [economic conditions](../e/economic_conditions.md).
 
-Learn more at the PBOC's official page: [People's Bank of China](http://www.pbc.gov.cn/en/3688110/index.html).
+Learn more at the PBOC's public materials: People's Bank of China.
 
 ### Japan
 
 In Japan, the [Bank](../b/bank.md) of Japan (BOJ) also utilizes reserve requirements, although it predominantly relies on other [monetary policy](../m/monetary_policy.md) tools such as [interest rate](../i/interest_rate.md) adjustments and [asset](../a/asset.md) purchases.
 
-More details can be found on the BOJ's official site: [Bank of Japan](https://www.boj.or.jp/en/index.htm/).
 
 ## Criticisms and Alternatives
 
@@ -108,7 +107,7 @@ The rise of Fintech companies is also influencing reserve requirements. As finan
 
 ### Algorithmic Trading and Reserve Management
 
-[Algorithmic trading](../a/accountability.md) systems are increasingly being used to optimize reserve management. These systems can analyze vast amounts of data to predict [liquidity](../l/liquidity.md) needs and adjust reserve [holdings](../h/holdings.md) in real-time, potentially making the reserve management process more efficient.
+[Algorithmic trading](../a/algorithmic_trading.md) systems are increasingly being used to optimize reserve management. These systems can analyze vast amounts of data to predict [liquidity](../l/liquidity.md) needs and adjust reserve [holdings](../h/holdings.md) in real-time, potentially making the reserve management process more efficient.
 
 ## Future Trends
 

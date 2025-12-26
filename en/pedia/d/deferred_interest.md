@@ -7,7 +7,7 @@ Deferred [interest](../i/interest.md) is a financial term that refers to a type 
 Deferred [interest](../i/interest.md) promotional offers are most commonly found in store [credit card](../c/credit_card.md) agreements and during special [financing](../f/financing.md) promotions. The basic mechanics can be summarized in several steps:
 
 1. **Purchase**: The borrower makes a purchase using a [credit card](../c/credit_card.md) or store [financing](../f/financing.md) with a deferred [interest](../i/interest.md) [offer](../o/offer.md).
-  
+
 2. **Deferred Period**: During this period, often ranging from 6 to 24 months, the borrower is typically not required to pay any [interest](../i/interest.md) as long as the minimum payments are made.
 
 3. **[Payment](../p/payment.md) in Full**: If the borrower pays off the entire balance before the deferred [interest](../i/interest.md) period ends, no [interest](../i/interest.md) is charged.
@@ -21,7 +21,7 @@ Imagine purchasing a $1,200 laptop using a store [credit card](../c/credit_card.
 - **Scenario 1: Paid in Full**: If you pay $100 each month (totalling $1,200) before the 12-month period ends, you [will](../w/will.md) not incur any [interest](../i/interest.md).
 - **Scenario 2: Not Paid in Full**: If you only manage to pay $900 by the end of the 12 months, [interest](../i/interest.md) [will](../w/will.md) be retroactively applied to the full amount of $1,200, starting from the date of purchase. You now owe [interest](../i/interest.md) on the full $1,200, not just the remaining balance of $300.
 
-## Key Features 
+## Key Features
 
 - **Attractive Initial Appeal**: Deferred [interest](../i/interest.md) offers appear very appealing since they [offer](../o/offer.md) a chance to [finance](../f/finance.md) large purchases without immediate financial burden.
 - **Complex [Interest](../i/interest.md) Calculations**: Unlike regular [interest](../i/interest.md), deferred [interest](../i/interest.md) involves calculations that can be complex, particularly when retroactively applied to full purchase amounts.
@@ -50,7 +50,7 @@ Some healthcare providers and medical [financing](../f/financing.md) companies [
 ### Automotive Industry
 Deferred [interest](../i/interest.md) is also used in the automotive [industry](../i/industry.md), particularly in the [financing](../f/financing.md) of vehicle repairs or aftermarket upgrades.
 
-## Regulatory Aspects 
+## Regulatory Aspects
 
 Certain regulations apply to deferred [interest](../i/interest.md) plans to protect consumers. For example, the U.S. Consumer Financial Protection Bureau (CFPB) puts strict rules and guidelines in place to ensure that consumers clearly understand the terms and conditions of a deferred [interest](../i/interest.md) [offer](../o/offer.md).
 

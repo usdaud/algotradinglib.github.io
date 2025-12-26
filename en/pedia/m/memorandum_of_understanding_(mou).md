@@ -96,8 +96,8 @@ In conclusion, a Memorandum of Understanding (MOU) is a valuable tool in the wor
 
 For more information about companies that might use MOUs in their operations, you can visit their official pages:
 
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Nasdaq](https://www.nasdaq.com/)
-- [BlackRock](https://www.blackrock.com/)
+- Goldman Sachs
+- J.P. Morgan
+- Citadel Securities
+- Nasdaq
+- BlackRock

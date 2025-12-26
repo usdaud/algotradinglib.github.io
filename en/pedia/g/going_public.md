@@ -10,9 +10,8 @@ The decision to go public involves the company's board of directors and senior m
 ### 2. Hiring Underwriters
 [Investment banks](../i/investment_bank_(ib).md) and financial institutions, known as underwriters, are hired to facilitate the IPO. These underwriters assess the company’s financials, set an initial stock price, and buy the [shares](../s/shares.md) from the company to sell to the public. Major [investment banks](../i/investment_bank_(ib).md) involved in [underwriting](../u/underwriting.md) include:
 
-- Goldman Sachs [Link](https://www.goldmansachs.com/) 
-- JP Morgan [Link](https://www.jpmorgan.com/)
-- Morgan Stanley [Link](https://www.morganstanley.com/)
+- Goldman Sachs Link - JP Morgan Link
+- Morgan Stanley Link
 
 ### 3. Due Diligence and Regulatory Filings
 This stage involves extensive scrutiny of the company's [financial health](../f/financial_health.md). The company must provide detailed financial history, disclose potential risks, and other pertinent information. In the United States, the company must file a registration statement with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC), primarily the Form S-1.

@@ -16,8 +16,8 @@ To find the median of a data set:
 Mathematically,
 \[ \text{Median} =
 \begin{cases}
-   x_{(\frac{n + 1}{2})}, & \text{if } n \text{ is odd} \\
-   \frac{x_{(\frac{n}{2})} + x_{(\frac{n}{2} + 1)}}{2}, & \text{if } n \text{ is even}
+ x_{(\frac{n + 1}{2})}, & \text{if } n \text{ is odd} \\
+ \frac{x_{(\frac{n}{2})} + x_{(\frac{n}{2} + 1)}}{2}, & \text{if } n \text{ is even}
 \end{cases}
 \]
 where \( x \) represents the ordered data points.
@@ -38,7 +38,7 @@ Financial analysts often use the median to assess the performance of an investme
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the median can be used as a part of [trading algorithms](../t/trading_algorithms.md) to filter [noise](../n/noise.md) from [trading signals](../t/trading_signals.md). Algorithms may use the median to smooth out price data, which helps in making better trading decisions by reducing the impact of erratic price movements.
+In [algorithmic trading](../a/algorithmic_trading.md), the median can be used as a part of [trading algorithms](../t/trading_algorithms.md) to filter [noise](../n/noise.md) from [trading signals](../t/trading_signals.md). Algorithms may use the median to smooth out price data, which helps in making better trading decisions by reducing the impact of erratic price movements.
 
 ## Calculating Median in Python
 
@@ -110,4 +110,4 @@ This algorithm is similar to QuickSort but stops early, reducing computation tim
 
 The median is a [robust](../r/robust.md) statistical measure that plays a crucial role in [finance](../f/finance.md) and trading. It offers a reliable estimate of central tendency, particularly for skewed data distributions or datasets with outliers. Understanding and utilizing the median can lead to better [financial analysis](../f/financial_analysis.md), [risk management](../r/risk_management.md), and [trading strategies](../t/trading_strategies.md).
 
-For further detailed readings and explorations on the topic, consider visiting platforms such as [Investopedia](https://www.investopedia.com/) and [Khan Academy](https://www.khanacademy.org/math/statistics-probability).
+For further detailed readings and explorations on the topic, consider visiting platforms such as Investopedia and Khan Academy.

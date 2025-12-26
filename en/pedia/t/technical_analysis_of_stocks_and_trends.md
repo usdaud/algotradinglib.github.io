@@ -32,8 +32,8 @@ A [trend](../t/trend.md) in [technical analysis](../t/technical_analysis.md) ref
 Technical analysts use various indicators and oscillators to [gain](../g/gain.md) insights into price movements. Some of the most popular include:
 
 - **Moving Averages**: Smooth out price data to help identify trends.
-  - Simple Moving Average (SMA)
-  - Exponential Moving Average (EMA)
+ - Simple Moving Average (SMA)
+ - Exponential Moving Average (EMA)
 - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: Shows the relationship between two moving averages to indicate [momentum](../m/momentum.md).
 - **[Bollinger Bands](../b/bollinger_band.md)**: Use [standard deviation](../s/standard_deviation.md) to define upper and lower price [range](../r/range.md) limits.
@@ -45,9 +45,9 @@ Technical analysts use various indicators and oscillators to [gain](../g/gain.md
 - **Head and Shoulders**: Indicates a [reversal](../r/reversal.md) pattern that signals the end of an [uptrend](../u/uptrend.md).
 - **[Double Top](../d/double_top.md) and [Double Bottom](../d/double_bottom.md)**: Signal [reversal patterns](../r/reversal_patterns.md) often indicating a change in the [trend](../t/trend.md) direction.
 - **Triangles**: Represent [consolidation](../c/consolidation.md) before the price breaks out in the direction of the previous [trend](../t/trend.md).
-  - [Ascending Triangle](../a/ascending_triangle.md) (bullish)
-  - [Descending Triangle](../d/descending_triangle.md) (bearish)
-  - Symmetrical [Triangle](../t/triangle.md) ([neutral](../n/neutral.md))
+ - [Ascending Triangle](../a/ascending_triangle.md) (bullish)
+ - [Descending Triangle](../d/descending_triangle.md) (bearish)
+ - Symmetrical [Triangle](../t/triangle.md) ([neutral](../n/neutral.md))
 
 ### 6. **Volume Analysis**
 
@@ -88,11 +88,11 @@ Several platforms and [software tools](../s/software_tools_for_trading.md) [offe
 
 - **MetaTrader 4 (MT4)**: Widely used for forex trading, [offering](../o/offering.md) a [range](../r/range.md) of [technical analysis tools](../t/technical_analysis_tools.md).
 - **[TradingView](../t/tradingview.md)**: A web-based platform with advanced charting tools and a large community of public script sharing.
-  - [TradingView](https://www.tradingview.com/)
+ - TradingView
 - **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A professional-grade [trading platform](../t/trading_platform.md) with extensive analytical features.
-  - [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+ - Thinkorswim
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides extensive data and [technical analysis tools](../t/technical_analysis_tools.md), often used by institutional investors.
-  - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ - Bloomberg Terminal
 
 ## Conclusion
 

@@ -14,17 +14,17 @@ The [Klinger Oscillator](../k/klinger_oscillator.md) is a two-line [indicator](.
 The calculation of the [Klinger Oscillator](../k/klinger_oscillator.md) involves several steps:
 
 1. **Initial [Volume](../v/volume.md) Calculation:**
-    - Calculate the **[Volume](../v/volume.md) Force (VF)**: This is done by multiplying the [volume](../v/volume.md) by the price change (current price minus previous price).
+ - Calculate the **[Volume](../v/volume.md) Force (VF)**: This is done by multiplying the [volume](../v/volume.md) by the price change (current price minus previous price).
 
 2. **[Volume](../v/volume.md) [Trend](../t/trend.md) Calculation:**
-    - Determine the **[Trend](../t/trend.md) Direction** based on the relationship between the current closing price and a moving average price over a certain period.
-    - Calculate the **Cumulative [Volume](../v/volume.md) Force (CVF)**: This is an [aggregation](../a/aggregation.md) of VF over time, adjusted for [trend](../t/trend.md) direction.
+ - Determine the **[Trend](../t/trend.md) Direction** based on the relationship between the current closing price and a moving average price over a certain period.
+ - Calculate the **Cumulative [Volume](../v/volume.md) Force (CVF)**: This is an [aggregation](../a/aggregation.md) of VF over time, adjusted for [trend](../t/trend.md) direction.
 
 3. **[Klinger Volume Oscillator](../k/klinger_volume_oscillator.md) (KVO):**
-    - Finally, the KVO is obtained by applying an exponential moving average (EMA) to the CVF over two different periods (typically 34 and 55 periods).
+ - Finally, the KVO is obtained by applying an exponential moving average (EMA) to the CVF over two different periods (typically 34 and 55 periods).
 
 4. **Signal Line:**
-    - Apply an EMA to the KVO to get the signal line, usually with a shorter period setting like 13 periods.
+ - Apply an EMA to the KVO to get the signal line, usually with a shorter period setting like 13 periods.
 
 ## 2. Interpreting the Klinger Oscillator
 
@@ -62,8 +62,8 @@ Combine the [Klinger Oscillator](../k/klinger_oscillator.md) with the [Relative 
 
 Combine the [Klinger Oscillator](../k/klinger_oscillator.md) with [support and resistance](../s/support_and_resistance.md) levels to enhance [trade](../t/trade.md) decisions:
 1. **Entry Signal:**
-    - Long Position: When the KVO line crosses above the signal line near a significant support level.
-    - Short Position: When the KVO line crosses below the signal line near a significant resistance level.
+ - Long Position: When the KVO line crosses above the signal line near a significant support level.
+ - Short Position: When the KVO line crosses below the signal line near a significant resistance level.
 2. **Exit Signal:** Follow the opposite crossovers or predefined [profit](../p/profit.md) targets and stop-loss levels.
 
 ## 4. Advantages and Limitations
@@ -87,9 +87,9 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the [Klinger
 ### Real-world Implementations
 Several financial firms and brokers [offer](../o/offer.md) tools and platforms that incorporate the [Klinger Oscillator](../k/klinger_oscillator.md):
 
-- **[MetaStock](../m/metastock.md)**: Known for its [robust](../r/robust.md) [technical analysis](../t/technical_analysis.md) tools, [MetaStock](../m/metastock.md) includes the [Klinger Oscillator](../k/klinger_oscillator.md) in its repertoire. [MetaStock](https://www.metastock.com/)
+- **[MetaStock](../m/metastock.md)**: Known for its [robust](../r/robust.md) [technical analysis](../t/technical_analysis.md) tools, [MetaStock](../m/metastock.md) includes the [Klinger Oscillator](../k/klinger_oscillator.md) in its repertoire. MetaStock
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports the use of the [Klinger Oscillator](../k/klinger_oscillator.md) in creating and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports the use of the [Klinger Oscillator](../k/klinger_oscillator.md) in creating and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). QuantConnect
 
 ## 6. Conclusion
 

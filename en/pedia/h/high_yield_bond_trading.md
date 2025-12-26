@@ -1,6 +1,6 @@
 # High Yield Bond Trading
 
-High [yield](../y/yield.md) [bond](../b/bond.md) trading, often referred to as "[junk bond trading](../j/junk_bond_trading.md)," involves the buying and selling of bonds that have been rated below [investment grade](../i/investment_grade.md) by established [credit rating](../c/credit_rating.md) agencies such as Moody's, Standard & Poor's, and [Fitch Ratings](../f/fitch_ratings.md). These bonds carry higher [risk](../r/risk.md) due to the issuing company's higher chance of [default](../d/default.md) but [offer](../o/offer.md) higher potential returns as compensation for that [risk](../r/risk.md). High [yield](../y/yield.md) bonds are typically rated BB+ or lower by Standard & Poor's and Fitch, and Ba1 or lower by Moody's. 
+High [yield](../y/yield.md) [bond](../b/bond.md) trading, often referred to as "[junk bond trading](../j/junk_bond_trading.md)," involves the buying and selling of bonds that have been rated below [investment grade](../i/investment_grade.md) by established [credit rating](../c/credit_rating.md) agencies such as Moody's, Standard & Poor's, and [Fitch Ratings](../f/fitch_ratings.md). These bonds carry higher [risk](../r/risk.md) due to the issuing company's higher chance of [default](../d/default.md) but [offer](../o/offer.md) higher potential returns as compensation for that [risk](../r/risk.md). High [yield](../y/yield.md) bonds are typically rated BB+ or lower by Standard & Poor's and Fitch, and Ba1 or lower by Moody's.
 
 High [yield](../y/yield.md) [bond](../b/bond.md) trading is an intricate field that attracts a spectrum of traders, from individual investors to institutional investors such as mutual funds, [hedge](../h/hedge.md) funds, and [insurance](../i/insurance.md) companies. The primary reasons for engaging in high [yield](../y/yield.md) [bond](../b/bond.md) trading include the pursuit of higher [income](../i/income.md) through coupon payments, [capital](../c/capital.md) appreciation opportunities, and [portfolio diversification](../p/portfolio_diversification.md).
 
@@ -18,7 +18,7 @@ High [yield](../y/yield.md) [bond](../b/bond.md) trading is an intricate field t
 
 - **Institutional Investors:** Mutual funds, [hedge](../h/hedge.md) funds, [insurance](../i/insurance.md) companies, and pension funds are the major players in the high [yield](../y/yield.md) [bond market](../b/bond_market.md). They often have the resources to conduct thorough research and the ability to diversify their portfolios to manage [risk](../r/risk.md).
 
-- **Individual Investors:** Retail investors may also participate in this [market](../m/market.md), either directly or through high [yield](../y/yield.md) [bond](../b/bond.md) funds. 
+- **Individual Investors:** Retail investors may also participate in this [market](../m/market.md), either directly or through high [yield](../y/yield.md) [bond](../b/bond.md) funds.
 
 ### Strategies for High Yield Bond Trading
 
@@ -36,9 +36,9 @@ High [yield](../y/yield.md) [bond](../b/bond.md) trading is an intricate field t
 
 Investors who prefer not to invest directly in individual high [yield](../y/yield.md) bonds might consider high [yield](../y/yield.md) [bond](../b/bond.md) funds. These funds pool resources from many investors to purchase a diversified portfolio of high [yield](../y/yield.md) bonds. This [diversification](../d/diversification.md) reduces the impact of a [default](../d/default.md) by any single [issuer](../i/issuer.md). Some leading high [yield](../y/yield.md) [bond](../b/bond.md) funds include:
 
-- **Fidelity High [Yield](../y/yield.md) [Fund](../f/fund.md) (SPHIX):** [Fidelity](https://www.fidelity.com)
-- **Vanguard High-[Yield](../y/yield.md) Corporate [Fund](../f/fund.md) (VWEHX):** [Vanguard](https://investor.vanguard.com)
-- **T. Rowe Price High [Yield](../y/yield.md) [Fund](../f/fund.md) (PRHYX):** [T. Rowe Price](https://www.troweprice.com)
+- **Fidelity High [Yield](../y/yield.md) [Fund](../f/fund.md) (SPHIX):** Fidelity
+- **Vanguard High-[Yield](../y/yield.md) Corporate [Fund](../f/fund.md) (VWEHX):** Vanguard
+- **T. Rowe Price High [Yield](../y/yield.md) [Fund](../f/fund.md) (PRHYX):** T. Rowe Price
 
 ### Market Dynamics
 

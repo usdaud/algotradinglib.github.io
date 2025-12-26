@@ -22,7 +22,7 @@ Further improvements led to the development of Application-Specific Integrated C
 
 ### Transaction Verification
 
-The [mining](../m/mining.md) process begins when a set of pending transactions is collected into a pool of unconfirmed transactions, often referred to as the "mempool." Miners select transactions from this pool and assemble them into a block, which they [will](../w/will.md) then attempt to add to the [blockchain](../b/blockchain_in_trading.md). 
+The [mining](../m/mining.md) process begins when a set of pending transactions is collected into a pool of unconfirmed transactions, often referred to as the "mempool." Miners select transactions from this pool and assemble them into a block, which they [will](../w/will.md) then attempt to add to the [blockchain](../b/blockchain_in_trading.md).
 
 ### Hashing and Proof-of-Work (PoW)
 
@@ -32,7 +32,7 @@ To add a block to the [blockchain](../b/blockchain_in_trading.md), miners must s
 
 The first miner to find a valid [hash](../h/hash.md) broadcasts the block to the network, where other miners and nodes verify the validity of the block and the solution. Once verified, the block is added to the [blockchain](../b/blockchain_in_trading.md), and the successful miner receives a reward comprising newly minted bitcoins (block reward) and [transaction fees](../t/transaction_fees.md) from the transactions included in the block.
 
-Currently, the block reward is set at 6.25 bitcoins for each successfully mined block, a [value](../v/value.md) that halves approximately every four years in an event known as the "halving." The next halving is expected to occur in 2024, reducing the block reward to 3.125 bitcoins.
+The block reward was 6.25 bitcoins per block until April 20, 2024, when the fourth halving event reduced it to 3.125 bitcoins for each successfully mined block. The block reward halves approximately every four years in an event known as the "halving." The next halving is expected to occur around April 2028, reducing the block reward to 1.5625 bitcoins.
 
 ## Mining Hardware
 
@@ -44,11 +44,11 @@ Currently, the block reward is set at 6.25 bitcoins for each successfully mined 
 
 ### Major Companies Producing Mining Equipment
 
-- **Bitmain**: Known for its Antminer series of ASIC miners, Bitmain is one of the largest manufacturers in the [Bitcoin](../b/bitcoin.md) [mining](../m/mining.md) hardware [market](../m/market.md). [Bitmain](https://www.bitmain.com/)
+- **Bitmain**: Known for its Antminer series of ASIC miners, Bitmain is one of the largest manufacturers in the [Bitcoin](../b/bitcoin.md) [mining](../m/mining.md) hardware [market](../m/market.md). Bitmain
 
-- **MicroBT**: Another leading company in the ASIC [manufacturing](../m/manufacturing.md) [industry](../i/industry.md), known for its Whatsminer series. [MicroBT](https://www.microbt.com/)
+- **MicroBT**: Another leading company in the ASIC [manufacturing](../m/manufacturing.md) [industry](../i/industry.md), known for its Whatsminer series. MicroBT
 
-- **Canaan**: Produces the Avalon series of miners and was one of the first companies to produce ASIC [mining](../m/mining.md) chips. [Canaan](https://www.canaan.io/)
+- **Canaan**: Produces the Avalon series of miners and was one of the first companies to produce ASIC [mining](../m/mining.md) chips. Canaan
 
 ## Mining Pools
 
@@ -56,9 +56,9 @@ Given the increasing difficulty and competitiveness in [mining](../m/mining.md),
 
 ### Popular Mining Pools
 
-- **AntPool**: Operated by Bitmain, one of the largest pools globally. [AntPool](https://www.antpool.com/)
-- **Slush Pool**: Known as the world's first [Bitcoin](../b/bitcoin.md) [mining](../m/mining.md) pool, it still remains a significant player. [Slush Pool](https://slushpool.com/)
-- **F2Pool**: One of the largest multi-[currency](../c/currency.md) [mining](../m/mining.md) pools. [F2Pool](https://www.f2pool.com/)
+- **AntPool**: Operated by Bitmain, one of the largest pools globally. AntPool
+- **Slush Pool**: Known as the world's first [Bitcoin](../b/bitcoin.md) [mining](../m/mining.md) pool, it still remains a significant player. Slush Pool
+- **F2Pool**: One of the largest multi-[currency](../c/currency.md) [mining](../m/mining.md) pools. F2Pool
 
 ## Mining Software
 
@@ -68,7 +68,7 @@ Alongside hardware, miners need specialized software to connect with the [Bitcoi
 
 - **CGMiner**: An [open](../o/open.md)-source [mining](../m/mining.md) software that supports a variety of hardware.
 - **BFGMiner**: A modular ASIC/FPGA miner that supports [multiple](../m/multiple.md) algorithms.
-- **NiceHash**: A platform allowing users to buy and sell hashing power. [NiceHash](https://www.nicehash.com/)
+- **NiceHash**: A platform allowing users to buy and sell hashing power. NiceHash
 
 ## Energy Consumption and Environmental Impact
 

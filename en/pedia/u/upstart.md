@@ -6,7 +6,7 @@ Upstart is a leading [artificial intelligence](../a/artificial_intelligence_in_t
 
 Upstart was created with the goal of expanding [credit](../c/credit.md) [options](../o/options.md) for consumers while lowering the [risk](../r/risk.md) for lenders. The company achieves this through its proprietary AI algorithms, which assess borrowers' [creditworthiness](../c/creditworthiness.md) based on a broader [range](../r/range.md) of financial and non-financial factors than traditional [credit](../c/credit.md) scoring methods. Upstart's platform is used by a variety of lending institutions, from community banks and [credit](../c/credit.md) unions to large financial corporations.
 
-Website: [Upstart](https://www.upstart.com)
+online platform: Upstart
 
 ## Founders
 
@@ -95,4 +95,3 @@ The growth of AI-driven lending [will](../w/will.md) inevitably attract scrutiny
 
 Upstart represents a significant advancement in the application of AI and [machine learning](../m/machine_learning.md) in financial services. By providing a more inclusive and efficient lending platform, it addresses many of the limitations inherent in traditional [credit](../c/credit.md) scoring systems. As Upstart continues to innovate and expand, it is well-positioned to redefine the lending landscape and further establish itself as a key player in the fintech [industry](../i/industry.md).
 
-For more information, visit the official [Upstart](https://www.upstart.com) website.

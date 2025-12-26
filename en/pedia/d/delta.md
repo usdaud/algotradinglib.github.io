@@ -58,7 +58,7 @@ Delta also serves as an [indicator](../i/indicator.md) of the probability that a
 
 ### Market Making
 
-[Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) by continuously quoting both buy and sell prices for [options](../o/options.md). These algorithms use delta to adjust their positions and manage the exposure to price movements in the [underlying asset](../u/underlying_asset.md). 
+[Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) by continuously quoting both buy and sell prices for [options](../o/options.md). These algorithms use delta to adjust their positions and manage the exposure to price movements in the [underlying asset](../u/underlying_asset.md).
 
 ### Statistical Arbitrage
 
@@ -92,15 +92,11 @@ Delta changes over time as the option approaches expiration. Algorithms must acc
 
 Many [algorithmic trading](../a/accountability.md) firms incorporate delta into their [trading algorithms](../t/trading_algorithms.md). For example:
 
-[AQR Capital Management](https://www.aqr.com/)
-[Citadel Securities](https://www.citadelsecurities.com/)
 
 ### Software Tools
 
-Numerous [software platforms](../s/software_platforms_for_trading.md) provide tools for delta calculation and management within [algorithmic trading](../a/accountability.md) systems. 
+Numerous [software platforms](../s/software_platforms_for_trading.md) provide tools for delta calculation and management within [algorithmic trading](../a/accountability.md) systems.
 
-[QuantConnect](https://www.quantconnect.com/)
-[Interactive Brokers](https://www.interactivebrokers.com/)
 
 These platforms enable traders to back-test strategies, calculate delta in real-time, and integrate delta-hedging algorithms seamlessly.
 

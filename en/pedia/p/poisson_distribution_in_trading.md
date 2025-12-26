@@ -80,7 +80,7 @@ plt.show()
 
 ### Real-World Implementation
 
-Many modern trading firms and platforms utilize advanced [quantitative models](../q/quantitative_models.md) incorporating the Poisson [distribution](../d/distribution.md). A notable example is [Virtu Financial](https://www.virtu.com/), a leading provider of financial services and high-frequency trading, which harnesses statistical models including Poisson processes to execute [trading strategies](../t/trading_strategies.md).
+Many modern trading firms and platforms utilize advanced [quantitative models](../q/quantitative_models.md) incorporating the Poisson [distribution](../d/distribution.md). A notable example is Virtu Financial, a leading provider of financial services and high-frequency trading, which harnesses statistical models including Poisson processes to execute [trading strategies](../t/trading_strategies.md).
 
 ## Limitations and Considerations
 

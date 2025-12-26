@@ -67,8 +67,8 @@ Let's consider a simple algorithm that utilizes the [Volume](../v/volume.md) [Os
 2. **Fetch [Volume](../v/volume.md) Data**: Obtain historical [volume](../v/volume.md) data for the desired [asset](../a/asset.md).
 3. **Calculate VO**: Apply the VO formula to the data.
 4. **Generate Signals**:
-    - Buy signal when VO crosses above zero.
-    - Sell signal when VO crosses below zero.
+ - Buy signal when VO crosses above zero.
+ - Sell signal when VO crosses below zero.
 5. **Backtest**: Run the algorithm on historical data to validate performance.
 6. **Deploy**: Implement the algorithm in a live [trading environment](../t/trading_environment.md), ensuring it integrates with [risk management](../r/risk_management.md) protocols.
 
@@ -93,23 +93,23 @@ df['Sell_Signal'] = df['VO'] <= 0
 
 ### A. **TRADING APPLICATIONS**
 
-- **[TradeStation](../t/tradestation.md)**: A comprehensive [trading platform](../t/trading_platform.md) that includes an array of [technical analysis](../t/technical_analysis.md) tools, including custom [volume](../v/volume.md) oscillators. More details can be found at [TradeStation](http://www.tradestation.com/).
-  
-- **MetaTrader 4 and 5**: Popular trading platforms used extensively in forex, CFDs, and stock markets. They [offer](../o/offer.md) the capability to script custom indicators such as the [Volume](../v/volume.md) [Oscillator](../o/oscillator.md). Visit [MetaTrader](https://www.metatrader4.com/) for more details.
+- **[TradeStation](../t/tradestation.md)**: A comprehensive [trading platform](../t/trading_platform.md) that includes an array of [technical analysis](../t/technical_analysis.md) tools, including custom [volume](../v/volume.md) oscillators. More details can be found at TradeStation.
+
+- **MetaTrader 4 and 5**: Popular trading platforms used extensively in forex, CFDs, and stock markets. They [offer](../o/offer.md) the capability to script custom indicators such as the [Volume](../v/volume.md) [Oscillator](../o/oscillator.md). Visit MetaTrader for more details.
 
 ### B. **INSTITUTIONAL TOOLS**
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides sophisticated charting and analysis capabilities to institutional traders, including custom scripted [volume](../v/volume.md) oscillators.
-  Visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) for more information.
+ Visit Bloomberg Terminal for more information.
 
 - **Thomson [Reuters](../r/reuters.md) Eikon**: A competitor to [Bloomberg](../b/bloomberg.md) that offers powerful analytics and the ability to implement custom [volume](../v/volume.md)-based algorithms.
-  Visit [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) for further details.
+ Visit Thomson Reuters Eikon for further details.
 
 ### C. **RESEARCH AND EDUCATION**
 
-- **Investopedia**: An excellent resource for understanding financial indicators, including the [Volume](../v/volume.md) [Oscillator](../o/oscillator.md). [Check](../c/check.md) out more at [Investopedia](https://www.investopedia.com/).
+- **Investopedia**: An excellent resource for understanding financial indicators, including the [Volume](../v/volume.md) [Oscillator](../o/oscillator.md). [Check](../c/check.md) out more at Investopedia.
 
 - **National Association of Securities Dealers Automated Quotations ([NASDAQ](../n/nasdaq.md))**: Provides educational resources and analytical tools for traders of all levels.
-  Visit [NASDAQ](https://www.nasdaq.com/) for more information.
+ Visit NASDAQ for more information.
 
 In conclusion, the [Volume](../v/volume.md) [Oscillator](../o/oscillator.md) is a multi-dimensional tool in [technical analysis](../t/technical_analysis.md), [offering](../o/offering.md) insights into [volume](../v/volume.md) dynamics and assisting traders in making informed decisions. Its flexibility in various [trading strategies](../t/trading_strategies.md) from [trend following](../t/trend_following.md) to [breakout](../b/breakout.md) and [reversal](../r/reversal.md) strategies makes it indispensable. Whether you're an individual [trader](../t/trader.md) or an institutional player, mastering the VO can significantly enhance your analytic capabilities and improve your trading outcomes.

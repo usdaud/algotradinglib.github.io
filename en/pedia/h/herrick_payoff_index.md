@@ -13,22 +13,22 @@ The Herrick Payoff [Index](../i/index_instrument.md) is designed to assess the r
 The formula to calculate the Herrick Payoff [Index](../i/index_instrument.md) is quite intricate and involves several steps. The basic outline of the HPI calculation is as follows:
 
 1. **Determine the [Commodity](../c/commodity.md)'s Price Move:**
-   - Calculate the price move as the difference between the current closing price and the previous closing price.
+ - Calculate the price move as the difference between the current closing price and the previous closing price.
 
 2. **Compute the [Volume](../v/volume.md)-Adjusted Price Change:**
-   - Multiply the price move by the current trading [volume](../v/volume.md). This [volume](../v/volume.md)-adjusted price change reveals the impact of [volume](../v/volume.md) on the price movement.
+ - Multiply the price move by the current trading [volume](../v/volume.md). This [volume](../v/volume.md)-adjusted price change reveals the impact of [volume](../v/volume.md) on the price movement.
 
 3. **Assess the Change in [Open Interest](../o/open_interest.md):**
-   - Calculate the change in [open interest](../o/open_interest.md) as the difference between the current [open interest](../o/open_interest.md) and the previous [open interest](../o/open_interest.md).
+ - Calculate the change in [open interest](../o/open_interest.md) as the difference between the current [open interest](../o/open_interest.md) and the previous [open interest](../o/open_interest.md).
 
 4. **Calculate the Net [Money Flow](../m/money_flow.md):**
-   - Multiply the [volume](../v/volume.md)-adjusted price change by the change in [open interest](../o/open_interest.md). This net [money flow](../m/money_flow.md) indicates the inflow or outflow of [money](../m/money.md) in the [commodity](../c/commodity.md) [market](../m/market.md).
+ - Multiply the [volume](../v/volume.md)-adjusted price change by the change in [open interest](../o/open_interest.md). This net [money flow](../m/money_flow.md) indicates the inflow or outflow of [money](../m/money.md) in the [commodity](../c/commodity.md) [market](../m/market.md).
 
 5. **Smooth the Net [Money Flow](../m/money_flow.md):**
-   - Apply a moving average to the net [money flow](../m/money_flow.md) to smooth out short-term fluctuations and highlight the [underlying](../u/underlying.md) [trend](../t/trend.md). Herrick often recommended using an exponential moving average (EMA) for this purpose.
+ - Apply a moving average to the net [money flow](../m/money_flow.md) to smooth out short-term fluctuations and highlight the [underlying](../u/underlying.md) [trend](../t/trend.md). Herrick often recommended using an exponential moving average (EMA) for this purpose.
 
 6. **Normalize the [Index](../i/index_instrument.md):**
-   - Normalize the smoothed net [money flow](../m/money_flow.md) by dividing it by the [average true range](../a/average_true_range_(atr).md) (ATR) of the [commodity](../c/commodity.md). This step ensures that the [index](../i/index_instrument.md) values are scaled appropriately and consistent across different commodities.
+ - Normalize the smoothed net [money flow](../m/money_flow.md) by dividing it by the [average true range](../a/average_true_range_(atr).md) (ATR) of the [commodity](../c/commodity.md). This step ensures that the [index](../i/index_instrument.md) values are scaled appropriately and consistent across different commodities.
 
 The resulting [value](../v/value.md) is the Herrick Payoff [Index](../i/index_instrument.md). A positive HPI suggests an inflow of [money](../m/money.md) into the [commodity](../c/commodity.md), indicating potential buying [interest](../i/interest.md) and accumulation. Conversely, a negative HPI indicates an outflow of [money](../m/money.md), signifying potential selling pressure and [distribution](../d/distribution.md).
 
@@ -61,9 +61,9 @@ Traders often use the Herrick Payoff [Index](../i/index_instrument.md) in conjun
 ### Advantages
 
 1. **Multi-Dimensional Analysis:** The Herrick Payoff [Index](../i/index_instrument.md) incorporates price, [volume](../v/volume.md), and [open interest](../o/open_interest.md), [offering](../o/offering.md) a multi-dimensional view of the [market](../m/market.md) and providing deeper insights than indicators that rely on price alone.
-   
+
 2. **Identifying [Money Flow](../m/money_flow.md):** The HPI explicitly focuses on [money flow](../m/money_flow.md), helping traders understand the [underlying](../u/underlying.md) forces driving price movements and enhancing their ability to spot accumulation and [distribution](../d/distribution.md) phases.
-   
+
 3. **[Trend](../t/trend.md) and [Reversal](../r/reversal.md) Signals:** By analyzing divergences and crossovers, the HPI can provide early signals of potential [trend](../t/trend.md) reversals, allowing traders to make more informed decisions about entry and exit points.
 
 ### Limitations
@@ -85,22 +85,22 @@ Suppose a [trader](../t/trader.md) is analyzing the [crude oil](../c/crude_oil.m
 1. **Gather Data:** The [trader](../t/trader.md) collects daily closing prices, trading volumes, and [open interest](../o/open_interest.md) for the [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md) over a specified period.
 
 2. **Calculate the HPI:**
-   - Price Move: Calculate the difference between the current and previous closing prices.
-   - [Volume](../v/volume.md)-Adjusted Price Change: Multiply the price move by the current [volume](../v/volume.md).
-   - Change in [Open Interest](../o/open_interest.md): Calculate the difference between the current and previous [open interest](../o/open_interest.md).
-   - Net [Money Flow](../m/money_flow.md): Multiply the [volume](../v/volume.md)-adjusted price change by the change in [open interest](../o/open_interest.md).
-   - Smooth and Normalize: Apply an exponential moving average and normalize using the ATR.
+ - Price Move: Calculate the difference between the current and previous closing prices.
+ - [Volume](../v/volume.md)-Adjusted Price Change: Multiply the price move by the current [volume](../v/volume.md).
+ - Change in [Open Interest](../o/open_interest.md): Calculate the difference between the current and previous [open interest](../o/open_interest.md).
+ - Net [Money Flow](../m/money_flow.md): Multiply the [volume](../v/volume.md)-adjusted price change by the change in [open interest](../o/open_interest.md).
+ - Smooth and Normalize: Apply an exponential moving average and normalize using the ATR.
 
 3. **Analyze the HPI:**
-   - The [trader](../t/trader.md) notices that the HPI has recently crossed above zero, indicating an inflow of [money](../m/money.md) into the [crude oil](../c/crude_oil.md) [futures market](../f/futures_market.md).
-   - The [trader](../t/trader.md) also identifies a [bullish divergence](../b/bullish_divergence.md), where the [crude oil](../c/crude_oil.md) price has made lower lows, but the HPI has made higher lows, suggesting accumulation.
+ - The [trader](../t/trader.md) notices that the HPI has recently crossed above zero, indicating an inflow of [money](../m/money.md) into the [crude oil](../c/crude_oil.md) [futures market](../f/futures_market.md).
+ - The [trader](../t/trader.md) also identifies a [bullish divergence](../b/bullish_divergence.md), where the [crude oil](../c/crude_oil.md) price has made lower lows, but the HPI has made higher lows, suggesting accumulation.
 
 4. **Make Trading Decisions:**
-   - Based on the HPI analysis, the [trader](../t/trader.md) decides to enter a long position in the [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md), anticipating that the influx of [money](../m/money.md) [will](../w/will.md) drive the price higher.
+ - Based on the HPI analysis, the [trader](../t/trader.md) decides to enter a long position in the [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md), anticipating that the influx of [money](../m/money.md) [will](../w/will.md) drive the price higher.
 
 5. **Manage [Risk](../r/risk.md):**
-   - The [trader](../t/trader.md) monitors the HPI for any signs of weakening [money flow](../m/money_flow.md) or a potential decrease in the [index](../i/index_instrument.md) [value](../v/value.md).
-   - If the HPI starts to decline while the price is rising, the [trader](../t/trader.md) may tighten [stop-loss orders](../s/stop-loss_orders.md) to manage [risk](../r/risk.md) and protect profits.
+ - The [trader](../t/trader.md) monitors the HPI for any signs of weakening [money flow](../m/money_flow.md) or a potential decrease in the [index](../i/index_instrument.md) [value](../v/value.md).
+ - If the HPI starts to decline while the price is rising, the [trader](../t/trader.md) may tighten [stop-loss orders](../s/stop-loss_orders.md) to manage [risk](../r/risk.md) and protect profits.
 
 By following this structured approach, the [trader](../t/trader.md) leverages the insights provided by the Herrick Payoff [Index](../i/index_instrument.md) to make informed trading decisions and potentially enhance overall [trading performance](../t/trading_performance.md).
 

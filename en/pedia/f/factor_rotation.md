@@ -27,10 +27,10 @@ Common factors used in [factor](../f/factor.md) rotation strategies include:
 
 [Factor](../f/factor.md) rotation strategies often utilize statistical methods to identify patterns and relationships between factors and subsequent [asset](../a/asset.md) returns. Key techniques include:
 
-- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: A statistical method that reduces the dimensionality of data and identifies the [principal components](../p/principal_components_in_trading.md) that explain the most variance in [asset](../a/asset.md) returns. 
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: A statistical method that reduces the dimensionality of data and identifies the [principal components](../p/principal_components_in_trading.md) that explain the most variance in [asset](../a/asset.md) returns.
 - **[Factor](../f/factor.md) Loadings**: Measures of the sensitivity of [asset](../a/asset.md) returns to the [underlying](../u/underlying.md) factors, often derived from [regression analysis](../r/regression_analysis.md).
 - **Cross-sectional Analysis**: Examining the behaviors and relationships of different factors at a single point in time across [multiple](../m/multiple.md) assets.
-  
+
 ### Machine Learning and Predictive Modeling
 
 Advancements in [machine learning](../m/machine_learning.md) have introduced sophisticated algorithms that can enhance [factor](../f/factor.md) rotation strategies. These models can capture complex non-linear relationships and adapt to changing [market dynamics](../m/market_dynamics.md) more effectively than traditional methods. Commonly used models include:
@@ -41,7 +41,7 @@ Advancements in [machine learning](../m/machine_learning.md) have introduced sop
 
 ### Economic Indicators and Macro Factors
 
-Incorporating macroeconomic indicators and other external factors can provide additional insights into the optimal timing for [factor](../f/factor.md) rotation. Factors such as [interest](../i/interest.md) rates, [inflation](../i/inflation.md), GDP growth, and [geopolitical events](../g/geopolitical_events.md) can influence the performance of specific factors. 
+Incorporating macroeconomic indicators and other external factors can provide additional insights into the optimal timing for [factor](../f/factor.md) rotation. Factors such as [interest](../i/interest.md) rates, [inflation](../i/inflation.md), GDP growth, and [geopolitical events](../g/geopolitical_events.md) can influence the performance of specific factors.
 
 ## Practical Applications and Strategies
 
@@ -69,9 +69,9 @@ Ensuring [robust](../r/robust.md) [diversification](../d/diversification.md) and
 
 Several companies and research institutions have developed advanced [factor](../f/factor.md) rotation strategies and tools. Notable examples include:
 
-- **AQR [Capital](../c/capital.md) Management**: Known for their research and application of [factor](../f/factor.md)-based [investing](../i/investing.md) strategies. Website: [AQR Capital Management](https://www.aqr.com/)
-- **Research Affiliates**: Pioneers in [smart beta](../s/smart_beta.md) and [factor investing](../f/factor_investing.md), providing numerous resources on [factor](../f/factor.md) rotation. Website: [Research Affiliates](https://www.researchaffiliates.com/)
-- **BlackRock**: Offers various [factor](../f/factor.md)-based investment products and research on dynamic [factor](../f/factor.md) allocation. Website: [BlackRock](https://www.blackrock.com/)
+- **AQR [Capital](../c/capital.md) Management**: Known for their research and application of [factor](../f/factor.md)-based [investing](../i/investing.md) strategies. online platform: AQR Capital Management
+- **Research Affiliates**: Pioneers in [smart beta](../s/smart_beta.md) and [factor investing](../f/factor_investing.md), providing numerous resources on [factor](../f/factor.md) rotation. online platform: Research Affiliates
+- **BlackRock**: Offers various [factor](../f/factor.md)-based investment products and research on dynamic [factor](../f/factor.md) allocation. online platform: BlackRock
 
 ## Final Thoughts
 

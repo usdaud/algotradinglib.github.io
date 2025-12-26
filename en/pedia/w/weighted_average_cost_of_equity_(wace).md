@@ -1,6 +1,6 @@
 # Weighted Average Cost of Equity (WACE)
 
-The [Weighted Average](../w/weighted_average.md) [Cost of Equity](../c/cost_of_equity.md) (WACE) is an essential financial metric used to determine the average [rate of return](../r/rate_of_return.md) required by [equity](../e/equity.md) investors, taking into account the proportional weight of different [equity](../e/equity.md) components. It provides a nuanced view that harmonizes various expectations of [equity](../e/equity.md) holders based on different [risk](../r/risk.md) characteristics and time horizons. 
+The [Weighted Average](../w/weighted_average.md) [Cost of Equity](../c/cost_of_equity.md) (WACE) is an essential financial metric used to determine the average [rate of return](../r/rate_of_return.md) required by [equity](../e/equity.md) investors, taking into account the proportional weight of different [equity](../e/equity.md) components. It provides a nuanced view that harmonizes various expectations of [equity](../e/equity.md) holders based on different [risk](../r/risk.md) characteristics and time horizons.
 
 ## Introduction to Cost of Equity
 
@@ -12,7 +12,7 @@ One of the most widely used methods to estimate the [cost of equity](../c/cost_o
 
 \[ \text{[Cost of Equity](../c/cost_of_equity.md)} = R_f + \[beta](../b/beta.md) \times (R_m - R_f) \]
 
-Where: 
+Where:
 - \( R_f \) represents the [risk](../r/risk.md)-free rate.
 - \( \[beta](../b/beta.md) \) ([beta](../b/beta.md)) represents the stock's sensitivity to [market risk](../m/market_risk.md).
 - \( R_m \) represents the expected [market](../m/market.md) [return](../r/return.md).
@@ -25,19 +25,19 @@ The [Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM) is ano
 
 \[ \text{[Cost of Equity](../c/cost_of_equity.md)} = \left( \frac{D_1}{P_0} \right) + g \]
 
-Where: 
+Where:
 - \( D_1 \) is the expected [dividend](../d/dividend.md) in one year.
 - \( P_0 \) is the current stock price.
 - \( g \) is the expected growth rate of dividends.
 
 ## Weighted Average Cost of Equity (WACE)
 
-WACE is an advanced technique for determining the average [cost of equity](../c/cost_of_equity.md), considering the [weighted](../w/weighted.md) contribution of different sources of [equity financing](../e/equity_financing.md). It amalgamates the diverse cost elements into a single, coherent metric that reflects the comprehensive [cost of equity](../c/cost_of_equity.md) [capital](../c/capital.md). 
+WACE is an advanced technique for determining the average [cost of equity](../c/cost_of_equity.md), considering the [weighted](../w/weighted.md) contribution of different sources of [equity financing](../e/equity_financing.md). It amalgamates the diverse cost elements into a single, coherent metric that reflects the comprehensive [cost of equity](../c/cost_of_equity.md) [capital](../c/capital.md).
 
 ### Calculating WACE
 
 1. **Identify Sources of [Equity](../e/equity.md):** Recognize all the different sources of [equity financing](../e/equity_financing.md), such as [common stock](../c/common_stock.md), [preferred stock](../p/preferred_stock.md), [retained earnings](../r/retained_earnings.md), etc.
-  
+
 2. **Determine Individual Costs:** Compute the [cost of equity](../c/cost_of_equity.md) for each of these sources using appropriate models like CAPM or DDM.
 
 3. **Assign Weights:** Determine the proportion (weight) of each [equity](../e/equity.md) source in the total [equity financing](../e/equity_financing.md).
@@ -95,6 +95,6 @@ WACE is applicable in numerous scenarios, such as:
 
 Understanding and calculating the [Weighted Average](../w/weighted_average.md) [Cost of Equity](../c/cost_of_equity.md) (WACE) is integral to contemporary [financial analysis](../f/financial_analysis.md) and decision-making. By taking into account the diverse [equity financing](../e/equity_financing.md) avenues and their respective costs, WACE offers a holistic view of the [equity](../e/equity.md) [capital](../c/capital.md) landscape. This enables companies to make informed, strategic decisions that aim to enhance [shareholder value](../s/shareholder_value.md) while maintaining a balanced [risk](../r/risk.md) profile.
 
-For more details on WACE and its applications, you can explore the resources available at [Investopedia](https://www.investopedia.com) or consult [financial analysis](../f/financial_analysis.md) tools from firms like [Morningstar](https://www.morningstar.com).
+For more details on WACE and its applications, you can explore the resources available at Investopedia or consult [financial analysis](../f/financial_analysis.md) tools from firms like Morningstar.
 
 By applying the concepts and methods outlined in this comprehensive guide, financial professionals and analysts can [leverage](../l/leverage.md) WACE effectively to drive better investment outcomes and strategic [business](../b/business.md) decisions.

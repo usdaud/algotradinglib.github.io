@@ -42,7 +42,7 @@ Before being implemented in live markets, algorithms are tested against historic
 [Execution](../e/execution.md) systems are responsible for placing the trades as determined by the algorithms. In high-frequency trading, this component must be highly optimized for speed, often utilizing direct [market](../m/market.md) access and co-location services.
 
 #### 5. **Risk Management**
-Effective [risk management](../r/risk_management.md) is vital. Algorithmic systems must include measures to limit losses, such as [stop-loss orders](../s/stop-loss_orders.md), and to manage exposure to any single [commodity](../c/commodity.md) or [market](../m/market.md) condition. 
+Effective [risk management](../r/risk_management.md) is vital. Algorithmic systems must include measures to limit losses, such as [stop-loss orders](../s/stop-loss_orders.md), and to manage exposure to any single [commodity](../c/commodity.md) or [market](../m/market.md) condition.
 
 ### Technological Infrastructure
 
@@ -80,9 +80,9 @@ Low latency is crucial in algo trading. Some firms go to great lengths, includin
 Major [investment banks](../i/investment_bank_(ib).md), [hedge](../h/hedge.md) funds, and [proprietary trading](../p/proprietary_trading.md) firms are actively involved in algorithmic [commodities trading](../c/commodities_trading.md). Each of these entities has dedicated teams focused on developing and implementing cutting-edge [trading algorithms](../t/trading_algorithms.md).
 
 #### Examples:
-- **Citadel LLC**: A global financial institution employing sophisticated [trading algorithms](../t/trading_algorithms.md) across various [asset](../a/asset.md) classes, including commodities. [Citadel's Website](https://www.citadel.com)
-- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) utilizing [data science](../d/data_science_in_trading.md) and technology to deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. [Two Sigma's Website](https://www.twosigma.com)
-- **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that excels in developing [quantitative trading](../q/quantitative_trading.md) strategies. [Jane Street's Website](https://www.janestreet.com)
+- **Citadel LLC**: A global financial institution employing sophisticated [trading algorithms](../t/trading_algorithms.md) across various [asset](../a/asset.md) classes, including commodities. Citadel's
+- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) utilizing [data science](../d/data_science_in_trading.md) and technology to deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. Two Sigma's
+- **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that excels in developing [quantitative trading](../q/quantitative_trading.md) strategies. Jane Street's
 
 ### Conclusion
 

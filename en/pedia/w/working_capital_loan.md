@@ -1,6 +1,6 @@
 # Working Capital Loan
 
-A working [capital](../c/capital.md) [loan](../l/loan.md) is a [financing](../f/financing.md) option aimed at covering the everyday operational costs of a [business](../b/business.md). This type of [loan](../l/loan.md) is essential for companies, especially small and medium-sized enterprises (SMEs), that may not have consistent [cash flow](../c/cash_flow.md) and require external funding to manage routine expenses. 
+A working [capital](../c/capital.md) [loan](../l/loan.md) is a [financing](../f/financing.md) option aimed at covering the everyday operational costs of a [business](../b/business.md). This type of [loan](../l/loan.md) is essential for companies, especially small and medium-sized enterprises (SMEs), that may not have consistent [cash flow](../c/cash_flow.md) and require external funding to manage routine expenses.
 
 ## Definition and Purpose
 
@@ -168,4 +168,4 @@ A well-defined [repayment](../r/repayment.md) strategy, including understanding 
 
 Working [capital](../c/capital.md) loans serve as a vital tool for businesses to manage their daily operations smoothly and [capitalize](../c/capitalize.md) on growth opportunities. While they [offer](../o/offer.md) substantial benefits like [liquidity](../l/liquidity.md) and financial flexibility, they also come with risks such as high costs and potential impact on [credit](../c/credit.md) scores. By understanding the various types of working [capital](../c/capital.md) loans, their benefits, and drawbacks, and adhering to best management practices, businesses can make informed decisions that support their [financial health](../f/financial_health.md) and long-term success.
 
-**For more details and personalized commercial [financing](../f/financing.md) solutions, you can visit [OnDeck](https://www.ondeck.com/) and [Kabbage](https://www.kabbage.com/).**
+**For more details and personalized commercial [financing](../f/financing.md) solutions, you can visit OnDeck and Kabbage.**

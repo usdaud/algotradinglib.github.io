@@ -28,19 +28,19 @@ Simulated trading platforms enable traders to become familiar with the functiona
 
 ### ThinkOrSwim by TD Ameritrade
 
-[ThinkOrSwim](../t/thinkorswim.md) is one of the leading trading platforms [offering](../o/offering.md) a [robust](../r/robust.md) simulated [trading environment](../t/trading_environment.md). It provides real-time data, advanced charting tools, and a wide [range](../r/range.md) of financial instruments to [trade](../t/trade.md). The platform is ideal for both novice and experienced traders. For more information, visit [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+[ThinkOrSwim](../t/thinkorswim.md) is one of the leading trading platforms [offering](../o/offering.md) a [robust](../r/robust.md) simulated [trading environment](../t/trading_environment.md). It provides real-time data, advanced charting tools, and a wide [range](../r/range.md) of financial instruments to [trade](../t/trade.md). The platform is ideal for both novice and experienced traders. For more information, visit TD Ameritrade.
 
 ### NinjaTrader
 
-[NinjaTrader](../n/ninjatrader.md) offers an advanced simulated [trading environment](../t/trading_environment.md) with real-time data and comprehensive analysis tools. It caters to active traders and investors looking to practice and refine their [trading strategies](../t/trading_strategies.md). For more details, visit [NinjaTrader](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) offers an advanced simulated [trading environment](../t/trading_environment.md) with real-time data and comprehensive analysis tools. It caters to active traders and investors looking to practice and refine their [trading strategies](../t/trading_strategies.md). For more details, visit NinjaTrader.
 
 ### TradingView
 
-[TradingView](../t/tradingview.md)'s paper trading feature allows traders to simulate trades with a wide [range](../r/range.md) of assets, including [stocks](../s/stock.md), forex, and cryptocurrencies. The platform is known for its [robust](../r/robust.md) charting tools and [social networking](../s/social_networking.md) features. More information can be found at [TradingView](https://www.tradingview.com/).
+[TradingView](../t/tradingview.md)'s paper trading feature allows traders to simulate trades with a wide [range](../r/range.md) of assets, including [stocks](../s/stock.md), forex, and cryptocurrencies. The platform is known for its [robust](../r/robust.md) charting tools and [social networking](../s/social_networking.md) features. More information can be found at TradingView.
 
 ### simul8or
 
-[simul8or](https://simul8or.com) is a web-based trading simulator that provides real-time market simulations with **1-second tick data**. It features advanced charting, trading analytics, and gamification elements like leaderboards and achievements. No registration required. Learn more at [simul8or.com](https://simul8or.com).
+simul8or is a web-based trading simulator that provides real-time market simulations with **1-second tick data**. It features advanced charting, trading analytics, and gamification elements like leaderboards and achievements. No registration required. Learn more at simul8or.com.
 
 ## Key Features of Simulated Trading Platforms
 

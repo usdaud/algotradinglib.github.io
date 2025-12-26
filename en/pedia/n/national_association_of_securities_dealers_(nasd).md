@@ -44,6 +44,6 @@ In 2007, NASD underwent a significant transformation when it merged with the reg
 
 FINRA inherited the regulatory functions of NASD and continues to serve as the primary SRO for securities firms operating in the United States. It carries forward NASD's mission of [investor](../i/investor.md) protection and [market](../m/market.md) integrity within an expanded regulatory framework.
 
-For more information about FINRA and its current regulatory activities, please visit [FINRA's official website](https://www.finra.org/).
+
 
 In conclusion, the National Association of Securities Dealers played a vital role in shaping the regulatory landscape of the U.S. securities [industry](../i/industry.md). Its legacy continues through the work of FINRA, which remains committed to ensuring fair and transparent markets for all participants.

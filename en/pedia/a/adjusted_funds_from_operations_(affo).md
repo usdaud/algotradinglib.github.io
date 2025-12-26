@@ -18,9 +18,9 @@ The calculation of AFFO typically involves adjusting the Funds From Operations (
 
 1. **Start with FFO**: Funds From Operations is calculated by adding [depreciation](../d/depreciation.md) and amortization to net [income](../i/income.md) and subtracting any gains on sales of properties.
 
-    ```
-    FFO = Net [Income](../i/income.md) + [Depreciation](../d/depreciation.md) & Amortization - Gains on [Sale](../s/sale.md) of Properties
-    ```
+ ```
+ FFO = Net [Income](../i/income.md) + [Depreciation](../d/depreciation.md) & Amortization - Gains on [Sale](../s/sale.md) of Properties
+ ```
 
 2. **Subtract Recurring [Capital](../c/capital.md) Expenditures**: This includes costs related to maintaining and improving properties.
 
@@ -28,9 +28,9 @@ The calculation of AFFO typically involves adjusting the Funds From Operations (
 
 4. **Add/Subtract Non-Cash Items**: This includes non-cash [income](../i/income.md) or expenses that aren’t representative of the REIT’s core operations.
 
-    ```
-    AFFO = FFO - Recurring [Capital](../c/capital.md) Expenditures - Straight-Lining of Rents + Non-Cash Items
-    ```
+ ```
+ AFFO = FFO - Recurring [Capital](../c/capital.md) Expenditures - Straight-Lining of Rents + Non-Cash Items
+ ```
 
 ## Example Calculation
 
@@ -64,7 +64,7 @@ In this example, the REIT has an AFFO of $64 million, which represents the cash 
 ### FFO vs. AFFO
 
 - **Funds From Operations (FFO)**: This metric, as defined by the National Association of [Real Estate](../r/real_estate.md) Investment Trusts (NAREIT), adjusts net [income](../i/income.md) for gains or losses on sales of properties and adds back [real estate](../r/real_estate.md) [depreciation](../d/depreciation.md) and amortization. FFO is a useful measure of operating performance but does not account for necessary [capital](../c/capital.md) expenditures.
-  
+
 - **Adjusted Funds From Operations (AFFO)**: Takes FFO a step further by incorporating recurring [capital](../c/capital.md) expenditures, straight-lining of rents, and non-cash items. AFFO is considered a more accurate measure of a REIT’s ability to generate cash for [distribution](../d/distribution.md).
 
 ### Net Operating Income (NOI) vs. AFFO
@@ -103,8 +103,8 @@ It’s important for REITs to maintain [transparency](../t/transparency.md) in t
 
 Several prominent REITs utilize AFFO as a key performance [indicator](../i/indicator.md):
 
-- **Realty [Income](../i/income.md) [Corporation](../c/corporation.md)**: Known for its monthly [dividend](../d/dividend.md) payments, Realty [Income](../i/income.md) [Corporation](../c/corporation.md) emphasizes AFFO as a core metric in its financial reporting ([Realty Income Corporation](https://www.realtyincome.com)).
-- **Simon Property Group**: This REIT, specializing in shopping malls and retail properties, provides detailed AFFO calculations in its annual reports ([Simon Property Group](https://www.simon.com)).
+- **Realty [Income](../i/income.md) [Corporation](../c/corporation.md)**: Known for its monthly [dividend](../d/dividend.md) payments, Realty [Income](../i/income.md) [Corporation](../c/corporation.md) emphasizes AFFO as a core metric in its financial reporting (Realty Income Corporation).
+- **Simon Property Group**: This REIT, specializing in shopping malls and retail properties, provides detailed AFFO calculations in its annual reports (Simon Property Group).
 
 ## Conclusion
 

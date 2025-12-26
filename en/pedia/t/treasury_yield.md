@@ -56,7 +56,7 @@ Treasury yields have far-reaching implications across [financial markets](../f/f
 
 2. **[Indicator](../i/indicator.md) of Economic Health:** Changes in the [yield curve](../y/yard.md) and Treasury yields are closely monitored as indicators of economic health and future growth.
 
-3. **Investment Strategies:** Investors and portfolio managers use Treasury yields to make decisions about [asset allocation](../a/asset_allocation.md) and [risk management](../r/risk_management.md). 
+3. **Investment Strategies:** Investors and portfolio managers use Treasury yields to make decisions about [asset allocation](../a/asset_allocation.md) and [risk management](../r/risk_management.md).
 
 4. **Corporate [Financing](../f/financing.md):** Companies look at Treasury yields to gauge the cost of borrowing, affecting their [financing](../f/financing.md) decisions for projects and expansions.
 
@@ -91,4 +91,4 @@ The issuance and auction process of Treasury securities are vital for maintainin
 
 Understanding Treasury yields is fundamental for anyone involved in [finance](../f/finance.md), from individual investors to policymakers. These yields not only reflect the government's borrowing costs but also serve as a critical barometer for the broader [economy](../e/economy.md), influencing [interest](../i/interest.md) rates, investment decisions, and economic policy. Whether through the lens of the [yield curve](../y/yard.md) or the nuances of [yield](../y/yield.md) calculations, Treasury yields [offer](../o/offer.md) invaluable insights into financial [market dynamics](../m/market_dynamics.md) and future economic trends.
 
-For more detailed information on [U.S. Treasury](../u/u.s._treasury.md) securities and yields, visit the [U.S. Department of the Treasury website](https://home.treasury.gov/).
+For more detailed information on [U.S. Treasury](../u/u.s._treasury.md) securities and yields,

@@ -7,7 +7,7 @@ Trading [algorithm design](../a/algorithm_design.md) is a critical domain within
 ### 1. Market Data Acquisition and Handling
 [Market](../m/market.md) data is the backbone of [algorithmic trading](../a/algorithmic_trading.md), comprising real-time and historical information on prices, volumes, and other [market indicators](../m/market_indicators.md). Effective [acquisition](../a/acquisition.md) and handling of [market](../m/market.md) data involve the following:
 
-- **Real-Time Data Feeds**: Continuous streams of [market](../m/market.md) data provided by exchanges and third-party providers such as [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/), Thomson [Reuters](../r/reuters.md) (now Refinitiv) (https://www.refinitiv.com/), and [Quandl](../q/quandl.md) (https://www.[quandl](../q/quandl.md).com/).
+- **Real-Time Data Feeds**: Continuous streams of [market](../m/market.md) data provided by exchanges and third-party providers such as [Bloomberg](../b/bloomberg.md) ( Thomson [Reuters](../r/reuters.md) (now Refinitiv) ( and [Quandl](../q/quandl.md) (
 - **Historical Data Storage**: Maintenance of repositories for past [market](../m/market.md) data to backtest algorithms and identify trends.
 - **[Data Cleaning](../d/data_cleaning.md)**: Removing inconsistencies and ensuring data accuracy.
 
@@ -84,7 +84,6 @@ With growing reliance on automated trading, ethical and regulatory consideration
 
 - **[Market Manipulation](../m/market_manipulation.md)**: Ensuring algorithms are not designed to manipulate markets.
 - **Fairness and [Transparency](../t/transparency.md)**: Designing algorithms that provide equitable access and [execution](../e/execution.md).
-- **Regulatory Compliance**: Adhering to financial regulations imposed by authorities like the SEC (https://www.sec.gov/) and CFTC (https://www.cftc.gov/).
-
+- **Regulatory Compliance**: Adhering to financial regulations imposed by authorities like the SEC and CFTC
 ## Conclusion
 Designing a successful trading algorithm is a complex, multidisciplinary effort requiring expertise in [finance](../f/finance.md), mathematics, computer science, and economic theory. The integration of sophisticated models, [real-time data analysis](../r/real-time_data_analysis.md), and high-performance computing transforms the traditional landscape of trading, [offering](../o/offering.md) opportunities and challenges alike.

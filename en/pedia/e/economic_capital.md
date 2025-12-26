@@ -19,7 +19,7 @@ In essence, economic [capital](../c/capital.md) acts as a financial buffer that:
 The process of calculating economic [capital](../c/capital.md) can be highly intricate, relying on advanced [financial modeling](../f/financial_modeling.md) techniques. Here's a basic outline of the steps involved:
 
 1. **[Risk](../r/risk.md) Identification**: Identify the different types of risks the organization faces. This includes, but is not limited to, [credit risk](../c/credit_risk.md), [market risk](../m/market_risk.md), [operational risk](../o/operational_risk.md), and [reputational risk](../r/reputational_risk.md).
-   
+
 2. **[Risk](../r/risk.md) Assessment**: Evaluate the likelihood and potential severity of these risks using historical data, statistical models, and expert [judgment](../j/judgment.md).
 
 3. **[Risk](../r/risk.md) Measurement**: Quantify the [risk](../r/risk.md) exposure in financial terms. This often involves calculating the potential loss distributions and applying [value](../v/value.md)-at-[risk](../r/risk.md) (VaR) or expected [shortfall](../s/shortfall.md) (ES) methods.
@@ -45,7 +45,7 @@ Economic [capital](../c/capital.md) models address various types of [risk](../r/
 Adopting economic [capital](../c/capital.md) frameworks provides organizations with several benefits:
 
 1. **Enhanced [Risk Management](../r/risk_management.md)**: A thorough understanding of [risk](../r/risk.md) exposure aids in developing strategies to mitigate those risks effectively.
-   
+
 2. **Improved Decision-Making**: Economic [capital](../c/capital.md) metrics [offer](../o/offer.md) valuable insights, enabling better-informed strategic decisions.
 
 3. **[Stakeholder](../s/stakeholder.md) Confidence**: Demonstrating [robust](../r/robust.md) [risk management](../r/risk_management.md) and financial resilience helps bolster the confidence of investors, regulators, and customers.
@@ -87,7 +87,7 @@ A notable example of the practical application of economic [capital](../c/capita
 - Enhance [risk](../r/risk.md)-adjusted performance measurement and management.
 - Improve regulatory compliance and reporting.
 
-One prominent example is [J.P. Morgan](https://www.jpmorgan.com/), renowned for its advanced [risk management](../r/risk_management.md) practices and economic [capital](../c/capital.md) models. The [firm](../f/firm.md)'s expertise in leveraging economic [capital](../c/capital.md) has been pivotal in maintaining its financial stability and competitive edge.
+One prominent example is J.P. Morgan, renowned for its advanced [risk management](../r/risk_management.md) practices and economic [capital](../c/capital.md) models. The [firm](../f/firm.md)'s expertise in leveraging economic [capital](../c/capital.md) has been pivotal in maintaining its financial stability and competitive edge.
 
 ### Conclusion
 

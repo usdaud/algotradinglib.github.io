@@ -21,7 +21,7 @@ Structuring involves breaking down a large sum of [money](../m/money.md) into sm
 Creating companies that only exist on paper allows criminals to move and store [money](../m/money.md) without drawing attention. These shell companies conduct little or no actual [business](../b/business.md) and can be used to justify the movement of [money](../m/money.md) through invoices for non-existent goods or services.
 
 ### Trade-Based Money Laundering (TBML)
-TBML involves the manipulation of [trade](../t/trade.md) transactions to obscure the origins of [money](../m/money.md). This could be done through over-invoicing, under-invoicing, or falsely documented shipments to justify the [value](../v/value.md) of transactions. 
+TBML involves the manipulation of [trade](../t/trade.md) transactions to obscure the origins of [money](../m/money.md). This could be done through over-invoicing, under-invoicing, or falsely documented shipments to justify the [value](../v/value.md) of transactions.
 
 ### Investing in Real Estate
 [Real estate](../r/real_estate.md) provides a [lucrative](../l/lucrative.md) way to launder large sums of [money](../m/money.md). The initial funds are used to acquire property, which can either be resold or rented out, thereby integrating illegal funds into the legitimate [economy](../e/economy.md). Due to the high [value](../v/value.md) of property transactions, this method is effective in laundering large amounts of [money](../m/money.md).
@@ -53,7 +53,7 @@ Organizations like the Financial Action Task Force (FATF) play a critical role i
 
 ## Implications for Algorithmic Trading and Fintech
 
-Given the rapid evolution of financial technologies, companies within the fintech and [algorithmic trading](../a/accountability.md) space face unique AML challenges:
+Given the rapid evolution of financial technologies, companies within the fintech and [algorithmic trading](../a/algorithmic_trading.md) space face unique AML challenges:
 
 ### Algorithmic Trading Risks
 Algotrading, which involves the use of automated systems to execute trades based on pre-defined criteria, can be exploited for [money](../m/money.md) laundering. For example, a [trader](../t/trader.md) might structure orders to create the appearance of [volume](../v/volume.md) or [liquidity](../l/liquidity.md), thereby masking the origins of illicit gains.
@@ -83,4 +83,4 @@ Liberty Reserve was a [digital currency](../d/digital_currency.md) service that 
 
 ## Conclusion
 
-[Money](../m/money.md) laundering is a pervasive [issue](../i/issue.md) that poses significant risks to the integrity of financial systems worldwide. As the methods employed by criminals evolve, so too must the strategies and technologies used to combat this threat. Understanding the stages, techniques, and regulatory landscape of [money](../m/money.md) laundering is essential for anyone involved in [finance](../f/finance.md) and trading, particularly within the rapidly expanding realms of [algorithmic trading](../a/accountability.md) and fintech. [Robust](../r/robust.md) AML compliance programs, coupled with advanced technological solutions, are critical in ensuring the ongoing battle against [money](../m/money.md) laundering is both effective and adaptive to emerging trends.
+[Money](../m/money.md) laundering is a pervasive [issue](../i/issue.md) that poses significant risks to the integrity of financial systems worldwide. As the methods employed by criminals evolve, so too must the strategies and technologies used to combat this threat. Understanding the stages, techniques, and regulatory landscape of [money](../m/money.md) laundering is essential for anyone involved in [finance](../f/finance.md) and trading, particularly within the rapidly expanding realms of [algorithmic trading](../a/algorithmic_trading.md) and fintech. [Robust](../r/robust.md) AML compliance programs, coupled with advanced technological solutions, are critical in ensuring the ongoing battle against [money](../m/money.md) laundering is both effective and adaptive to emerging trends.

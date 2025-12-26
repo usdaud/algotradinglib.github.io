@@ -10,7 +10,7 @@ A Trillion Cubic Feet (Tcf) is a unit of [volume](../v/volume.md) measurement us
 
 To convey natural gas volumes in various global contexts, we often need to convert Tcf to other units of measurement. Here are some equivalent conversions:
 
-- **Cubic Meters (m³) :** One Tcf of natural gas is equivalent to approximately 28.3168 billion cubic meters (BCM).
+- **Cubic Meters (m³):** One Tcf of natural gas is equivalent to approximately 28.3168 billion cubic meters (BCM).
 - **British Thermal Units (BTU):** Natural gas is also commonly measured in BTUs. One Tcf is equivalent to around 1.028 quadrillion BTUs.
 - **Standard Cubic Feet (Scf):** One Tcf is, by definition, 1 trillion cubic feet.
 
@@ -77,14 +77,12 @@ Modern [data analytics](../d/data_analytics.md), AI, and IoT technologies enable
 Energy giants like ExxonMobil, Chevron, and BP often report their natural gas reserves, production, and consumption in Tcf in their annual [financial statements](../f/financial_statements.md). For instance, BP might announce that its proven gas reserves are 50 Tcf.
 
 **Source:**
-BP Annual Reports - [BP](https://www.bp.com/)
 
 ### Government Reports
 
 Government agencies, such as the U.S. Energy Information Administration (EIA) and the International Energy Agency (IEA), publish extensive reports and [statistics](../s/statistics.md) on natural gas reserves and consumption using Tcf as a standard unit.
 
 **Source:**
-EIA Natural Gas Reports - [EIA](https://www.eia.gov/naturalgas/)
 
 ## Final Thoughts
 

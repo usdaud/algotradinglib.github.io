@@ -113,23 +113,23 @@ Algo [trading systems](../t/trading_systems.md) utilize [backtesting](../b/backt
 
 ### Bloomberg
 [Bloomberg](../b/bloomberg.md) provides comprehensive financial data, analytics, and news, essential for calculating and analyzing sector [performance metrics](../p/performance_metrics.md). Their platform is widely used by traders and investors globally.
-Website: [Bloomberg](https://www.bloomberg.com/)
+online platform: Bloomberg
 
 ### Reuters
 [Reuters](../r/reuters.md) offers a vast array of financial information, including sector-specific performance data and [market](../m/market.md) analysis.
-Website: [Reuters](https://www.reuters.com/)
+online platform: Reuters
 
 ### FactSet
 [FactSet](../f/factset.md) is a leading provider of financial data and analytics, [offering](../o/offering.md) tools and resources for in-depth [sector performance](../s/sector_performance.md) analysis.
-Website: [FactSet](https://www.factset.com/)
+online platform: FactSet
 
 ### Morningstar
 [Morningstar](../m/morningstar.md) provides data on mutual funds, ETFs, and other investment vehicles, with a focus on [sector performance](../s/sector_performance.md) and [investment analysis](../i/investment_analysis.md).
-Website: [Morningstar](https://www.morningstar.com/)
+online platform: Morningstar
 
 ### MSCI
 MSCI offers global indexes and sector [performance metrics](../p/performance_metrics.md), widely used for benchmarking and [portfolio management](../p/portfolio_management.md).
-Website: [MSCI](https://www.msci.com/)
+online platform: MSCI
 
 ## Conclusion
 

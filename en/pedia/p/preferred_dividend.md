@@ -2,6 +2,8 @@
 
 Preferred dividends refer to dividends that are paid on [preferred stock](../p/preferred_stock.md), a class of ownership in a [corporation](../c/corporation.md) that has a higher claim on its assets and [earnings](../e/earnings.md) compared to [common stock](../c/common_stock.md). Preferred dividends are typically fixed and are prioritized over [common stock](../c/common_stock.md) dividends, meaning they must be paid out before common stockholders receive any dividends.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 [Preferred stock](../p/preferred_stock.md), also known as [preference shares](../p/preference_shares.md), combines features of both [equity](../e/equity.md) and [debt](../d/debt.md) instruments. Like [common stock](../c/common_stock.md), [preferred stock](../p/preferred_stock.md) represents a share of ownership in the company. However, similar to bonds, [preferred stock](../p/preferred_stock.md) usually does not come with voting rights but promises a fixed [dividend](../d/dividend.md), which makes it attractive to [income](../i/income.md)-seeking investors.
 
 ## Characteristics of Preferred Stock
@@ -28,7 +30,7 @@ Preferred stockholders have several characteristics that distinguish their [shar
 
 ## Calculation of Preferred Dividends
 
-The calculation of preferred dividends is straightforward. It typically involves multiplying the fixed [dividend rate](../d/dividend_rate.md) by the [par value](../p/par_value.md) of the [preferred stock](../p/preferred_stock.md). 
+The calculation of preferred dividends is straightforward. It typically involves multiplying the fixed [dividend rate](../d/dividend_rate.md) by the [par value](../p/par_value.md) of the [preferred stock](../p/preferred_stock.md).
 
 **Formula:**
 \[ \text{Preferred Dividend} = \text{[Dividend Rate](../d/dividend_rate.md)} \times \text{[Par Value](../p/par_value.md)} \]
@@ -74,11 +76,11 @@ Despite their benefits, preferred [stocks](../s/stock.md) come with several risk
 
 ### Bank of America (BAC)
 
-[Bank](../b/bank.md) of America regularly issues preferred [shares](../s/shares.md). For instance, in their stock structure, they have issued several series of [preferred stock](../p/preferred_stock.md). The prospectuses and detailed information about those offerings can be found directly on [Bank of America's investor relations page](https://investor.bankofamerica.com).
+[Bank](../b/bank.md) of America regularly issues preferred [shares](../s/shares.md). For instance, in their stock structure, they have issued several series of [preferred stock](../p/preferred_stock.md). The prospectuses and detailed information about those offerings can be found directly on Bank of America's company filings.
 
 ### General Electric (GE)
 
-GE has also issued various series of [preferred stock](../p/preferred_stock.md) to raise [capital](../c/capital.md). The details about their [preferred stock](../p/preferred_stock.md) offerings, including terms and conditions, are available on [GE's investor relations website](https://www.ge.com/investor-relations).
+GE has also issued various series of [preferred stock](../p/preferred_stock.md) to raise [capital](../c/capital.md). The details about their [preferred stock](../p/preferred_stock.md) offerings, including terms and conditions, are available on GE's
 
 ## Conclusion
 

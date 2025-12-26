@@ -18,11 +18,11 @@ Also known as "trading multiples," this method compares the target company with 
 
 #### Precedent Transactions
 
-This approach involves analyzing historical M&A transactions of companies similar to the target company. The multiples derived from these transactions can be applied to the target company to estimate its [value](../v/value.md). 
+This approach involves analyzing historical M&A transactions of companies similar to the target company. The multiples derived from these transactions can be applied to the target company to estimate its [value](../v/value.md).
 
 #### Example: FactSet
 
-[FactSet](https://www.factset.com) provides comprehensive data and analytics that support [market](../m/market.md)-based valuations with [robust](../r/robust.md) financial metrics and comparable analysis tools.
+FactSet provides comprehensive data and analytics that support [market](../m/market.md)-based valuations with [robust](../r/robust.md) financial metrics and comparable analysis tools.
 
 ### 2. Income-Based Valuations
 
@@ -116,15 +116,15 @@ Inadequate or unreliable historical data can hinder accurate [valuation](../v/va
 
 ### 1. Duff & Phelps
 
-[Duff & Phelps](https://www.duffandphelps.com) is a global leader in [valuation](../v/valuation.md) services, providing comprehensive [business](../b/business.md) valuations for a variety of purposes including M&A, financial reporting, and dispute consulting.
+Duff & Phelps is a global leader in [valuation](../v/valuation.md) services, providing comprehensive [business](../b/business.md) valuations for a variety of purposes including M&A, financial reporting, and dispute consulting.
 
 ### 2. CBRE
 
-[CBRE](https://www.cbre.com) offers extensive [valuation](../v/valuation.md) services specifically in the [real estate](../r/real_estate.md) sector, ensuring accurate property and [asset](../a/asset.md) valuations that adhere to international standards.
+CBRE offers extensive [valuation](../v/valuation.md) services specifically in the [real estate](../r/real_estate.md) sector, ensuring accurate property and [asset](../a/asset.md) valuations that adhere to international standards.
 
 ### 3. Houlihan Lokey
 
-[Houlihan Lokey](https://www.hl.com) provides [valuation](../v/valuation.md) advisory services, notable for their expertise in specific industries such as technology, healthcare, and energy.
+Houlihan Lokey provides [valuation](../v/valuation.md) advisory services, notable for their expertise in specific industries such as technology, healthcare, and energy.
 
 ## Conclusion
 

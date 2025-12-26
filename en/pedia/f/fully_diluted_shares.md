@@ -60,7 +60,7 @@ For example, if a company with Net [Income](../i/income.md) of $200,000 has 1,00
 - Basic EPS = $200,000 / 1,000,000 = $0.20
 - Fully Diluted EPS = $200,000 / 1,200,000 = $0.1667
 
-## Real-World Examples of Fully Diluted Shares 
+## Real-World Examples of Fully Diluted Shares
 ### Example 1: Amazon.com, Inc. (AMZN)
 As of December 31, 2022, Amazon reported having 510 million basic [shares](../s/shares.md) outstanding. The company also has stock [options](../o/options.md), RSUs, and convertible securities that could significantly increase the fully diluted share count. Investors analyze both the basic and fully diluted EPS to assess company performance accurately.
 

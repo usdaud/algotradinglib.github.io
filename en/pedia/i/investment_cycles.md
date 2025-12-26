@@ -76,7 +76,7 @@ Managing [risk](../r/risk.md) is paramount, especially during transitional phase
 
 ### Two Sigma
 
-Two Sigma uses [data science](../d/data_science_in_trading.md) and advanced algorithms to manage over $60 billion in assets. Their platform integrates millions of data points to execute trades consistently profitably across different [market](../m/market.md) conditions. More information can be found at [Two Sigma](https://www.twosigma.com/).
+Two Sigma uses [data science](../d/data_science_in_trading.md) and advanced algorithms to manage over $60 billion in assets. Their platform integrates millions of data points to execute trades consistently profitably across different [market](../m/market.md) conditions. More information can be found at Two Sigma.
 
 ### Renaissance Technologies
 
@@ -84,9 +84,8 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [
 
 ### Citadel
 
-Citadel employs a combination of [quantitative research](../q/quantitative_research.md) and [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) to achieve [robust](../r/robust.md) performance. The [firm](../f/firm.md) utilizes [machine learning](../m/machine_learning.md) and massive data sets to refine its [trading models](../t/trading_models.md) continually. For further details, see [Citadel Securities](https://www.citadelsecurities.com/).
+Citadel employs a combination of [quantitative research](../q/quantitative_research.md) and [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) to achieve [robust](../r/robust.md) performance. The [firm](../f/firm.md) utilizes [machine learning](../m/machine_learning.md) and massive data sets to refine its [trading models](../t/trading_models.md) continually. For further details, see Citadel Securities.
 
 ## Conclusion
 
 Understanding investment cycles is critically important for [algorithmic trading](../a/algorithmic_trading.md). By designing algorithms tailored to the different phases of these cycles, traders can significantly enhance their profitability and manage risks effectively. Leveraging advanced [data analytics](../d/data_analytics.md), [machine learning](../m/machine_learning.md), and AI technologies further strengthens the ability of these algo-[trading systems](../t/trading_systems.md) to anticipate [market](../m/market.md) movements and maintain a competitive edge.
-

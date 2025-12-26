@@ -6,7 +6,7 @@
 
 ### Advancers and Decliners
 
-Advancers and decliners represent the count of [stocks](../s/stock.md) closing higher or lower compared to the previous [trading session](../t/trading_session.md). 
+Advancers and decliners represent the count of [stocks](../s/stock.md) closing higher or lower compared to the previous [trading session](../t/trading_session.md).
 
 - **Advancers (A)**: The number of [stocks](../s/stock.md) that closed higher than their previous close.
 - **Decliners (D)**: The number of [stocks](../s/stock.md) that closed lower than their previous close.
@@ -81,7 +81,7 @@ Intraday traders might use breadth indicators to make [short-term trading](../s/
 
 ## Algorithmic Trading and Market Breadth
 
-In [algorithmic trading](../a/accountability.md), [quantitative models](../q/quantitative_models.md) can be developed to systematically use [market breadth indicators](../m/market_breadth_indicators.md) to make trading decisions. For example:
+In [algorithmic trading](../a/algorithmic_trading.md), [quantitative models](../q/quantitative_models.md) can be developed to systematically use [market breadth indicators](../m/market_breadth_indicators.md) to make trading decisions. For example:
 
 ### Market Breadth Trading Strategy
 
@@ -100,4 +100,4 @@ Before deploying a strategy, [robust](../r/robust.md) [backtesting](../b/backtes
 
 ## Conclusion
 
-Understanding [market](../m/market.md) breadth is crucial for traders and investors looking to [gain](../g/gain.md) a deeper insight into the overall [market](../m/market.md) environment beyond traditional price-based analyses. Through various breadth indicators, one can ascertain [market](../m/market.md) trends, identify potential turning points, and improve [trading strategies](../t/trading_strategies.md). For those engaged in [algorithmic trading](../a/accountability.md), implementing and [backtesting](../b/backtesting.md) breadth-based strategies can [offer](../o/offer.md) a quantitative edge in navigating [financial markets](../f/financial_market.md).
+Understanding [market](../m/market.md) breadth is crucial for traders and investors looking to [gain](../g/gain.md) a deeper insight into the overall [market](../m/market.md) environment beyond traditional price-based analyses. Through various breadth indicators, one can ascertain [market](../m/market.md) trends, identify potential turning points, and improve [trading strategies](../t/trading_strategies.md). For those engaged in [algorithmic trading](../a/algorithmic_trading.md), implementing and [backtesting](../b/backtesting.md) breadth-based strategies can [offer](../o/offer.md) a quantitative edge in navigating [financial markets](../f/financial_market.md).

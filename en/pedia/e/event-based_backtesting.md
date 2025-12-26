@@ -91,18 +91,15 @@ Once the backtest is complete, detailed analysis can be conducted to evaluate th
 
 Several tools and libraries can aid in implementing event-based [backtesting](../b/backtesting.md) systems. For example:
 
-- **[Backtrader](../b/backtrader.md)**: https://www.[backtrader](../b/backtrader.md).com/
-- **Zipline**: https://www.zipline.io/
-- **[QuantConnect](../q/quantconnect.md)**: https://www.[quantconnect](../q/quantconnect.md).com/
-
+- **[Backtrader](../b/backtrader.md)**- **Zipline**- **[StockSharp](../s/stocksharp.md)**:
 These platforms provide frameworks for setting up event loops, handling [market](../m/market.md) data, managing orders, and tracking performance.
 
 ### Case Studies
 
 To understand how event-based [backtesting](../b/backtesting.md) functions in practice, consider case studies from [industry](../i/industry.md)-leading [quantitative finance](../q/quantitative_finance.md) firms:
 
-- **Two Sigma**: Utilizes advanced event-based [backtesting](../b/backtesting.md) to develop high-frequency [trading strategies](../t/trading_strategies.md). (https://www.twosigma.com/)
-- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which relies heavily on event-based simulations. (https://www.rentech.com/)
+- **Two Sigma**: Utilizes advanced event-based [backtesting](../b/backtesting.md) to develop high-frequency [trading strategies](../t/trading_strategies.md). (
+- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which relies heavily on event-based simulations. (
 
 ### Conclusion
 

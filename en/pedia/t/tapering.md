@@ -17,9 +17,9 @@ The concept of tapering gained significant attention in 2013 when the Federal Re
 Tapering aims to achieve several key objectives:
 
 1. **Normalization of [Monetary Policy](../m/monetary_policy.md)**: Central banks use tapering to gradually transition from an accommodative (easy-[money](../m/money.md)) policy stance to a more normalized policy environment.
-   
+
 2. **Controlling [Inflation](../i/inflation.md)**: Excessive [asset](../a/asset.md) purchases can lead to heightened [inflation](../i/inflation.md). Tapering helps to mitigate the [risk](../r/risk.md) by reducing [asset](../a/asset.md) purchases progressively.
-   
+
 3. **Ensuring Financial Stability**: Continued large-scale [asset](../a/asset.md) purchases can create [asset](../a/asset.md) [bubbles](../b/bubble.md) and financial imbalances. Gradual reduction helps to manage these risks.
 
 4. **Guiding [Market](../m/market.md) Expectations**: Tapering provides a transparent and predictable roadmap for investors and businesses, aiding in better decision-making.
@@ -54,7 +54,7 @@ The European Central [Bank](../b/bank.md) (ECB) also utilized tapering to wind d
 
 One of the biggest challenges during tapering is managing [market](../m/market.md) reactions. Abrupt or poorly communicated tapering plans can lead to significant [volatility](../v/volatility.md) in [financial markets](../f/financial_market.md). The "[Taper Tantrum](../t/taper_tantrum.md)" is a prime example, where unexpected announcements led to sharp increases in [bond](../b/bond.md) yields and declines in [equity](../e/equity.md) markets.
 
-### Economic Data Dependencies 
+### Economic Data Dependencies
 
 Tapering plans are highly dependent on economic data. A sudden downturn in [economic conditions](../e/economic_conditions.md) could necessitate a pause or [reversal](../r/reversal.md) of tapering, complicating the normalization process.
 

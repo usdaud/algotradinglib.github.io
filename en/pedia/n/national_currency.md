@@ -1,6 +1,6 @@
 # National Currency
 
-A national [currency](../c/currency.md) is a country's official [medium of exchange](../m/medium_of_exchange.md), used primarily for transactions within the country. It represents the [value](../v/value.md) recognized and guaranteed by the national government and its central [bank](../b/bank.md), typically underpinned by the country's economic policies and regulations. National currencies are fundamental components of financial systems, influencing [trade](../t/trade.md), investment, [inflation](../i/inflation.md), and [interest](../i/interest.md) rates. 
+A national [currency](../c/currency.md) is a country's official [medium of exchange](../m/medium_of_exchange.md), used primarily for transactions within the country. It represents the [value](../v/value.md) recognized and guaranteed by the national government and its central [bank](../b/bank.md), typically underpinned by the country's economic policies and regulations. National currencies are fundamental components of financial systems, influencing [trade](../t/trade.md), investment, [inflation](../i/inflation.md), and [interest](../i/interest.md) rates.
 
 ## Characteristics of National Currency
 
@@ -54,7 +54,7 @@ The stability of a national [currency](../c/currency.md) is directly tied to the
 The 21st century marks a significant shift with the rise of digital currencies and [blockchain](../b/blockchain_in_trading.md) technologies. While [Bitcoin](../b/bitcoin.md) and other cryptocurrencies [offer](../o/offer.md) decentralized alternatives, many national governments are exploring Central [Bank](../b/bank.md) Digital Currencies (CBDCs) to maintain [monetary policy](../m/monetary_policy.md) control in the digital age.
 
 ### Cross-Border Transactions
-Advancements in fintech have revolutionized cross-border transactions, with technology startups like TransferWise (now Wise) [Wise](https://wise.com) simplifying [currency](../c/currency.md) exchanges and reducing [transaction fees](../t/transaction_fees.md), challenging traditional banking methods.
+Advancements in fintech have revolutionized cross-border transactions, with technology startups like TransferWise (now Wise) Wise simplifying [currency](../c/currency.md) exchanges and reducing [transaction fees](../t/transaction_fees.md), challenging traditional banking methods.
 
 ### Monetary Policy Innovations
 As global economies face unprecedented challenges, such as pandemic-induced recessions, central banks are innovating with unconventional monetary policies, such as [quantitative easing](../q/quantitative_easing.md) and negative [interest](../i/interest.md) rates, to maintain economic stability.

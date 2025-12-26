@@ -61,9 +61,9 @@ The ELR method is utilized to set reserves, which are essential for several reas
 
 The implementation of the ELR method involves a detailed understanding of an insurer’s processes and data. [Insurance](../i/insurance.md) companies use actuarial software and models to facilitate this process. Some of the leading companies in this field include:
 
-- **Willis Towers Watson**: Offers software and consulting services for actuarial analysis and reserving. [Website](https://www.wtwco.com)
-- **Milliman**: Provides actuarial consulting and advanced analytic solutions. [Website](https://www.milliman.com)
-- **Deloitte**: Offers actuarial and [insurance](../i/insurance.md) consulting services globally. [Website](https://www2.deloitte.com)
+- **Willis Towers Watson**: Offers software
+- **Milliman**: Provides
+- **Deloitte**: Offers actuarial and [insurance](../i/insurance.md)
 
 ## Case Studies
 

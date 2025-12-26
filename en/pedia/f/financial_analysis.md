@@ -97,13 +97,13 @@ In mergers and acquisitions (M&A), financial analysis helps in valuing target co
 ## Real-world Examples
 
 ### Apple Inc. Financial Analysis
-Analyzing Apple Inc.’s [financial statements](../f/financial_statements.md) reveals insights into its [revenue](../r/revenue.md) growth, profitability, and [financial health](../f/financial_health.md). Key metrics such as [revenue](../r/revenue.md), [gross margin](../g/gross_margin.md), net [income](../i/income.md), and free [cash flow](../c/cash_flow.md) can be studied to gauge Apple’s [financial performance](../f/financial_performance.md) (https://www.apple.com/[investor](../i/investor.md)/).
+Analyzing Apple Inc.’s [financial statements](../f/financial_statements.md) reveals insights into its [revenue](../r/revenue.md) growth, profitability, and [financial health](../f/financial_health.md). Key metrics such as [revenue](../r/revenue.md), [gross margin](../g/gross_margin.md), net [income](../i/income.md), and free [cash flow](../c/cash_flow.md) can be studied to gauge Apple’s [financial performance](../f/financial_performance.md) (
 
 ### Tesla Inc. Financial Analysis
-Tesla’s financial analysis involves examining its [income statement](../i/income_statement.md), [balance sheet](../b/balance_sheet.md), and [cash flow statement](../c/cash_flow_statement.md) to understand its [business](../b/business.md) operations and financial stability. Key ratios such as the [current ratio](../c/current_ratio.md), [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio, and [return](../r/return.md) on [equity](../e/equity.md) provide insights into Tesla’s financial status (https://ir.tesla.com/).
+Tesla’s financial analysis involves examining its [income statement](../i/income_statement.md), [balance sheet](../b/balance_sheet.md), and [cash flow statement](../c/cash_flow_statement.md) to understand its [business](../b/business.md) operations and financial stability. Key ratios such as the [current ratio](../c/current_ratio.md), [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio, and [return](../r/return.md) on [equity](../e/equity.md) provide insights into Tesla’s financial status (
 
 ### Amazon.com Financial Analysis
-Amazon’s financial analysis includes assessing its [revenue](../r/revenue.md) growth, [expense](../e/expense.md) management, and profitability. By analyzing [financial statements](../f/financial_statements.md) and ratios, one can understand Amazon’s [market](../m/market.md) position and [financial health](../f/financial_health.md) (https://ir.aboutamazon.com/).
+Amazon’s financial analysis includes assessing its [revenue](../r/revenue.md) growth, [expense](../e/expense.md) management, and profitability. By analyzing [financial statements](../f/financial_statements.md) and ratios, one can understand Amazon’s [market](../m/market.md) position and [financial health](../f/financial_health.md) (
 
 ## Conclusion
 

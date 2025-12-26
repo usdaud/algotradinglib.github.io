@@ -80,8 +80,8 @@ Demographic trends can be used to make long-term investment decisions. For examp
 
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies and Two Sigma, are known for their use of complex algorithms and large datasets, including demographic data, to achieve high returns. These firms continuously refine their models to incorporate various factors, including changes in population characteristics.
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Renaissance Technologies
+- Two Sigma
 
 ### Retail Brokers
 

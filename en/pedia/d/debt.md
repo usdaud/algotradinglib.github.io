@@ -56,7 +56,7 @@ Short-term [unsecured debt](../u/unsecured_debt.md) issued by corporations, gene
 
 Data is the lifeblood of [algorithmic trading](../a/accountability.md). For debt-related algotrading, traders rely on:
 
-- **[Interest](../i/interest.md) Rates**: Central [bank](../b/bank.md) rates, LIBOR, Euribor, etc.
+- **[Interest](../i/interest.md) Rates**: Central [bank](../b/bank.md) rates, SOFR (which replaced LIBOR in June 2023), Euribor, etc.
 - **[Economic Indicators](../e/economic_indicators.md)**: GDP growth, [inflation](../i/inflation.md) rates, [unemployment](../u/unemployment.md) rates.
 - **[Market](../m/market.md) Sentiments**: [Investor](../i/investor.md) sentiment indices, [bond](../b/bond.md) yields.
 - **[Rating](../r/rating.md) Agencies**: Ratings and outlooks from agencies like Moody's, S&P, and Fitch.
@@ -66,13 +66,13 @@ Data is the lifeblood of [algorithmic trading](../a/accountability.md). For debt
 Several platforms and tools cater specifically to algotrading in the debt [market](../m/market.md):
 
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A powerful platform that provides real-time data, news, and analytics for various debt instruments.
-  Website: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ online platform: Bloomberg
 
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Another comprehensive financial platform [offering](../o/offering.md) extensive data and analytical tools.
-  Website: [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)
+ online platform: Thomson Reuters
 
 - **[Interactive Brokers](../i/interactive_brokers.md)**: A brokerage platform [offering](../o/offering.md) [algorithmic trading](../a/accountability.md) capabilities and access to a wide [range](../r/range.md) of debt instruments.
-  Website: [Interactive Brokers](https://www.interactivebrokers.com/)
+ online platform: Interactive Brokers
 
 ## Debt Instruments Characteristics
 
@@ -87,7 +87,7 @@ Several platforms and tools cater specifically to algotrading in the debt [marke
 
 ### Floating Rate Notes (FRNs)
 
-These are debt instruments with variable [interest](../i/interest.md) rates that are typically tied to a [benchmark](../b/benchmark.md) rate such as LIBOR. FRNs [offer](../o/offer.md) protection against [interest rate risk](../i/interest_rate_risk.md) because their coupons adjust with [market](../m/market.md) rates.
+These are debt instruments with variable [interest](../i/interest.md) rates that are typically tied to a [benchmark](../b/benchmark.md) rate such as SOFR (which replaced LIBOR in June 2023). FRNs [offer](../o/offer.md) protection against [interest rate risk](../i/interest_rate_risk.md) because their coupons adjust with [market](../m/market.md) rates.
 
 ### Inflation-Linked Bonds
 

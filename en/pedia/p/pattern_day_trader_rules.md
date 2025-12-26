@@ -86,4 +86,4 @@ Another nuanced strategy involves [order](../o/order.md) splitting and staggered
 
 [Pattern Day Trader](../p/pattern_day_trader.md) Rules are an essential component of the U.S. financial regulatory framework designed to control [risk](../r/risk.md) in the realm of [day trading](../d/day_trading.md). While these rules impose significant requirements and restrictions, they play a crucial role in maintaining [market](../m/market.md) integrity and protecting both traders and brokerages from undue [risk](../r/risk.md). Understanding and adhering to these rules is vital for anyone engaging in [day trading](../d/day_trading.md) activities in a [margin account](../m/margin_account.md).
 
-More information on [FINRA](../f/finra.md) and its regulations can be found on their official website [FINRA](https://www.finra.org).
+More information on [FINRA](../f/finra.md) and its regulations can be found on their public materials FINRA.

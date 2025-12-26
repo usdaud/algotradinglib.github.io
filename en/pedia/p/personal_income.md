@@ -27,7 +27,7 @@ Other miscellaneous sources of [income](../i/income.md) include alimony, child s
 
 ## Measurement of Personal Income
 
-Economic analysts and statisticians use various methods to measure personal [income](../i/income.md). Common approaches include surveys, tax returns, and economic models. 
+Economic analysts and statisticians use various methods to measure personal [income](../i/income.md). Common approaches include surveys, tax returns, and economic models.
 
 ### **Gross Income**
 [Gross income](../g/gross_income.md) is the total [income](../i/income.md) before any deductions or [taxes](../t/taxes.md) are applied. It serves as a broad measure but does not give a complete picture of [disposable income](../d/disposable_income.md) available for spending or saving.
@@ -88,7 +88,7 @@ Consulting with a [financial advisor](../f/financial_advisor.md) can provide per
 ### **Educational Resources**
 Understanding personal [income](../i/income.md) and [finance](../f/finance.md) through educational resources such as books, online courses, and workshops can empower individuals to make informed financial decisions.
 
-For instance, [Charles Schwab](https://www.schwab.com) offers extensive resources and tools that can help with [personal finance](../p/personal_finance_in_trading.md) management.
+For instance, Charles Schwab offers extensive resources and tools that can help with [personal finance](../p/personal_finance_in_trading.md) management.
 
 ### **Government Programs**
 Various government programs and benefits can supplement personal [income](../i/income.md). These may include [unemployment](../u/unemployment.md) benefits, [social security](../s/social_security.md), and tax credits aimed at reducing the financial burden on individuals.

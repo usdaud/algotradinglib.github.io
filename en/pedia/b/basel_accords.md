@@ -33,17 +33,17 @@ Introduced in 2004, [Basel II](../b/basel_ii.md) aimed to further refine and exp
 #### Three Pillars:
 
 1. **Pillar 1: Minimum [Capital](../c/capital.md) Requirements**
-   - [Credit Risk](../c/credit_risk.md): Internal Ratings-Based (IRB) approach and standardized approach.
-   - [Market Risk](../m/market_risk.md): Use of [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) models.
-   - [Operational Risk](../o/operational_risk.md): Basic [Indicator](../i/indicator.md) Approach, Standardized Approach, and Advanced Measurement Approaches.
+ - [Credit Risk](../c/credit_risk.md): Internal Ratings-Based (IRB) approach and standardized approach.
+ - [Market Risk](../m/market_risk.md): Use of [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) models.
+ - [Operational Risk](../o/operational_risk.md): Basic [Indicator](../i/indicator.md) Approach, Standardized Approach, and Advanced Measurement Approaches.
 
 2. **Pillar 2: Supervisory Review Process**
-   - Regulators are to ensure that banks have sound [risk management](../r/risk_management.md) processes in place.
-   - Address risks that are not fully captured in Pillar 1.
+ - Regulators are to ensure that banks have sound [risk management](../r/risk_management.md) processes in place.
+ - Address risks that are not fully captured in Pillar 1.
 
 3. **Pillar 3: [Market](../m/market.md) Discipline**
-   - Increased [transparency](../t/transparency.md) and [disclosure](../d/disclosure.md) requirements.
-   - Allowing [market](../m/market.md) participants to assess key pieces of information on banks' [capital](../c/capital.md), [risk](../r/risk.md) exposures, and [risk](../r/risk.md) assessment processes.
+ - Increased [transparency](../t/transparency.md) and [disclosure](../d/disclosure.md) requirements.
+ - Allowing [market](../m/market.md) participants to assess key pieces of information on banks' [capital](../c/capital.md), [risk](../r/risk.md) exposures, and [risk](../r/risk.md) assessment processes.
 
 ### Basel III
 
@@ -52,19 +52,19 @@ Introduced in 2004, [Basel II](../b/basel_ii.md) aimed to further refine and exp
 #### Key Enhancements:
 
 - **[Capital](../c/capital.md) Requirements:**
-  - Higher minimum [capital](../c/capital.md) ratios.
-  - Introduction of a new non-[risk](../r/risk.md)-based [leverage ratio](../l/leverage_ratio.md).
-  - [Capital](../c/capital.md) Conservation Buffer and Countercyclical Buffer.
-  
+ - Higher minimum [capital](../c/capital.md) ratios.
+ - Introduction of a new non-[risk](../r/risk.md)-based [leverage ratio](../l/leverage_ratio.md).
+ - [Capital](../c/capital.md) Conservation Buffer and Countercyclical Buffer.
+
 - **[Risk](../r/risk.md) Coverage:**
-  - Improved capture of risks related to securitizations, trading books, and [counterparty](../c/counterparty.md) [credit](../c/credit.md) risks.
+ - Improved capture of risks related to securitizations, trading books, and [counterparty](../c/counterparty.md) [credit](../c/credit.md) risks.
 
 - **[Leverage Ratio](../l/leverage_ratio.md):**
-  - A backstop measure to address [model risk](../m/model_risk.md) and measurement errors.
+ - A backstop measure to address [model risk](../m/model_risk.md) and measurement errors.
 
 - **[Liquidity](../l/liquidity.md) Standards:**
-  - [Liquidity](../l/liquidity.md) [Coverage Ratio](../c/coverage_ratio.md) (LCR) to ensure short-term [liquidity](../l/liquidity.md).
-  - Net Stable Funding Ratio (NSFR) to promote medium- and long-term stability.
+ - [Liquidity](../l/liquidity.md) [Coverage Ratio](../c/coverage_ratio.md) (LCR) to ensure short-term [liquidity](../l/liquidity.md).
+ - Net Stable Funding Ratio (NSFR) to promote medium- and long-term stability.
 
 ### Basel IV
 
@@ -83,9 +83,9 @@ The Basel Committee on Banking Supervision (BCBS) was established by the central
 ### Key Milestones:
 
 - **1988 - [Basel I](../b/basel_i.md):** Introduction of the Basel [Capital](../c/capital.md) Accord, focusing on [credit risk](../c/credit_risk.md) and establishing minimum [capital](../c/capital.md) requirements.
-  
+
 - **2004 - [Basel II](../b/basel_ii.md):** A more sophisticated framework introduced, emphasizing comprehensive [risk management](../r/risk_management.md).
-  
+
 - **2009 - 2010 (Post-crisis) - [Basel III](../b/basel_iii.md):** In response to the [financial crisis](../f/financial_crisis.md), this framework intended to strengthen [capital](../c/capital.md) requirements, enhance [risk](../r/risk.md) coverage, and introduce new [leverage](../l/leverage.md) and [liquidity](../l/liquidity.md) standards.
 
 - **2017 and onwards - Basel IV:** Continued revisions and enhancements to reduce [variability](../v/variability.md) in [risk-weighted assets](../r/risk-weighted_assets.md) and improve the comparability of [capital](../c/capital.md) ratios across banks.
@@ -114,7 +114,7 @@ The committee also includes major emerging and developed markets such as Austral
 
 The Basel Committee collaborates closely with various international organizations and standard-setting bodies, including the Financial Stability Board (FSB), International Monetary [Fund](../f/fund.md) (IMF), and the [World Bank](../w/world_bank.md), to align global financial stability initiatives.
 
-For further details on the Basel Committee and its publications, you can visit the official website at [Bank for International Settlements - Basel Committee on Banking Supervision](https://www.bis.org/bcbs/).
+
 
 ## Conclusion
 

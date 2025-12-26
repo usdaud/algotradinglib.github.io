@@ -70,7 +70,7 @@ Banks and [credit](../c/credit.md) institutions [factor](../f/factor.md) in reco
 
 ## Recovery Rate in the Age of Fintech and Algotrading
 
-The advent of fintech and [algorithmic trading](../a/accountability.md) has ushered in new approaches to predicting and leveraging recovery rates.
+The advent of fintech and [algorithmic trading](../a/algorithmic_trading.md) has ushered in new approaches to predicting and leveraging recovery rates.
 
 ### 1. **Data Analytics and Machine Learning**
 
@@ -92,4 +92,4 @@ Fintech solutions facilitate real-time monitoring of borrowers' [financial healt
 
 The recovery rate remains a cornerstone of [credit](../c/credit.md) [risk management](../r/risk_management.md), influencing decisions across lending, [investing](../i/investing.md), and regulatory compliance. As [financial markets](../f/financial_market.md) evolve, the integration of cutting-edge technologies and analytics [will](../w/will.md) continue to refine recovery rate predictions, ultimately leading to more resilient and informed financial practices.
 
-For more detailed insights and functions related to recovery rates, you can visit Moody’s Analytics at [Moody's Recovery Analytics](https://www.moodysanalytics.com).
+For more detailed insights and functions related to recovery rates, you can visit Moody’s Analytics at Moody's Recovery Analytics.

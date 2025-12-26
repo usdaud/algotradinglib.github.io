@@ -82,6 +82,6 @@ While NPVGO offers valuable insights, it does have limitations:
 Net [Present Value](../p/present_value.md) of Growth Opportunities (NPVGO) is a powerful tool for evaluating the potential growth and future [value](../v/value.md) of companies. By quantifying the [value](../v/value.md) of future projects and investments, NPVGO provides investors and analysts with critical insights for making informed decisions. However, it is essential to be mindful of its limitations and [complement](../c/complement.md) it with other financial metrics to get a comprehensive view of a company's [value](../v/value.md).
 
 For more information on companies referenced in the context of their growth opportunities, you can visit:
-- [Amazon](https://www.amazon.com/)
-- [Google](https://www.google.com/)
-- [Apple](https://www.apple.com/)
+- Amazon
+- Google
+- Apple

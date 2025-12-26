@@ -42,7 +42,7 @@ Gold and silver markets can also experience backwardation, often driven by immed
 
 ## Real-World Applications
 ### Company Application: Man Group
-Man Group, a leading global active [investment management](../i/investment_management.md) [firm](../f/firm.md), makes extensive use of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) incorporating backwardation. Through their [investment manager](../i/investment_manager.md) Man AHL, they [leverage](../l/leverage.md) sophisticated models and algorithms to detect and [capitalize](../c/capitalize.md) on [market](../m/market.md) conditions like backwardation. [Man Group - Man AHL](https://www.man.com/ahl).
+Man Group, a leading global active [investment management](../i/investment_management.md) [firm](../f/firm.md), makes extensive use of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) incorporating backwardation. Through their [investment manager](../i/investment_manager.md) Man AHL, they [leverage](../l/leverage.md) sophisticated models and algorithms to detect and [capitalize](../c/capitalize.md) on [market](../m/market.md) conditions like backwardation. Man Group - Man AHL.
 
 ### Case Study: 2014 Crude Oil Market
 In 2014, the [crude oil](../c/crude_oil.md) [market](../m/market.md) experienced significant backwardation. Political instability in the Middle East and [supply](../s/supply.md) cuts by major producers led to higher immediate prices compared to [futures](../f/futures.md) prices. Traders using algorithms to monitor and [trade](../t/trade.md) on these conditions were able to [capitalize](../c/capitalize.md) on [arbitrage opportunities](../a/arbitrage_opportunities.md) and optimize their [hedging strategies](../h/hedging_strategies.md).

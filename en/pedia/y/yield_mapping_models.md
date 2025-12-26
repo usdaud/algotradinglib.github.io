@@ -5,28 +5,28 @@
 ## Types of Yield Mapping Models
 
 1. **Fundamental Models**:
-   Fundamental models base their [yield](../y/yield.md) predictions on [fundamental analysis](../f/fundamental_analysis.md). This involves evaluating [economic indicators](../e/economic_indicators.md), [industry](../i/industry.md) trends, corporate [financial statements](../f/financial_statements.md), and other [underlying](../u/underlying.md) factors affecting an instrument's [value](../v/value.md).
+ Fundamental models base their [yield](../y/yield.md) predictions on [fundamental analysis](../f/fundamental_analysis.md). This involves evaluating [economic indicators](../e/economic_indicators.md), [industry](../i/industry.md) trends, corporate [financial statements](../f/financial_statements.md), and other [underlying](../u/underlying.md) factors affecting an instrument's [value](../v/value.md).
 
-   Examples:
-   - **Discounted [Cash Flow](../c/cash_flow.md) (DCF)**: This model estimates the [value](../v/value.md) of an investment based on its expected future cash flows, discounted to [present value](../p/present_value.md).
-   - **[Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM)**: Specifically used for valuing [stocks](../s/stock.md), this model calculates [yield](../y/yield.md) based on the [present value](../p/present_value.md) of expected future dividends.
+ Examples:
+ - **Discounted [Cash Flow](../c/cash_flow.md) (DCF)**: This model estimates the [value](../v/value.md) of an investment based on its expected future cash flows, discounted to [present value](../p/present_value.md).
+ - **[Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM)**: Specifically used for valuing [stocks](../s/stock.md), this model calculates [yield](../y/yield.md) based on the [present value](../p/present_value.md) of expected future dividends.
 
 2. **Technical Models**:
-   [Technical analysis](../t/technical_analysis.md) models rely on historical price and [volume](../v/volume.md) data to forecast future performance. These models assume that [market](../m/market.md) movements follow certain patterns that can be identified and utilized.
+ [Technical analysis](../t/technical_analysis.md) models rely on historical price and [volume](../v/volume.md) data to forecast future performance. These models assume that [market](../m/market.md) movements follow certain patterns that can be identified and utilized.
 
-   Examples:
-   - **Moving Averages**: These models smooth out price data to identify trends. Common methods include simple moving averages (SMA) and exponential moving averages (EMA).
-   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
+ Examples:
+ - **Moving Averages**: These models smooth out price data to identify trends. Common methods include simple moving averages (SMA) and exponential moving averages (EMA).
+ - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 3. **[Quantitative Models](../q/quantitative_models.md)**:
-   [Quantitative models](../q/quantitative_models.md) combine mathematical and statistical techniques to develop sophisticated algorithms capable of analyzing large datasets and identifying patterns.
+ [Quantitative models](../q/quantitative_models.md) combine mathematical and statistical techniques to develop sophisticated algorithms capable of analyzing large datasets and identifying patterns.
 
-   Examples:
-   - **[Factor Models](../f/factor_models.md)**: These models use [multiple](../m/multiple.md) factors (e.g., [market risk](../m/market_risk.md), size, [value](../v/value.md)) to explain returns. The Fama-French model is a well-known multi-[factor](../f/factor.md) approach.
-   - **[Machine Learning](../m/machine_learning.md) Models**: [Leverage](../l/leverage.md) algorithms from [machine learning](../m/machine_learning.md), such as [neural networks](../n/neural_networks_in_trading.md) or [random forests](../r/random_forests_in_trading.md), to predict yields based on extensive datasets.
+ Examples:
+ - **[Factor Models](../f/factor_models.md)**: These models use [multiple](../m/multiple.md) factors (e.g., [market risk](../m/market_risk.md), size, [value](../v/value.md)) to explain returns. The Fama-French model is a well-known multi-[factor](../f/factor.md) approach.
+ - **[Machine Learning](../m/machine_learning.md) Models**: [Leverage](../l/leverage.md) algorithms from [machine learning](../m/machine_learning.md), such as [neural networks](../n/neural_networks_in_trading.md) or [random forests](../r/random_forests_in_trading.md), to predict yields based on extensive datasets.
 
 4. **Hybrid Models**:
-   Hybrid models integrate elements from fundamental, technical, and [quantitative approaches](../q/quantitative_approaches.md) to create [robust](../r/robust.md) [yield](../y/yield.md) prediction models. Combining [multiple](../m/multiple.md) methodologies often results in more accurate and reliable predictions.
+ Hybrid models integrate elements from fundamental, technical, and [quantitative approaches](../q/quantitative_approaches.md) to create [robust](../r/robust.md) [yield](../y/yield.md) prediction models. Combining [multiple](../m/multiple.md) methodologies often results in more accurate and reliable predictions.
 
 ## Key Components of Yield Mapping Models
 
@@ -53,16 +53,16 @@ Validation ensures that models produce reliable and accurate predictions:
 
 ### Institutional Investment
 Investment firms utilize [yield](../y/yield.md) mapping models to manage large portfolios, aiming to enhance returns while controlling [risk](../r/risk.md). Examples include:
-- **Bridgewater Associates**: A prominent investment [firm](../f/firm.md) known for its use of sophisticated [quantitative models](../q/quantitative_models.md) [Bridgewater](https://www.bridgewater.com).
-- **Two Sigma**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) renowned for its technology-driven approach that incorporates [yield](../y/yield.md) mapping models [Two Sigma](https://www.twosigma.com).
+- **Bridgewater Associates**: A prominent investment [firm](../f/firm.md) known for its use of sophisticated [quantitative models](../q/quantitative_models.md) Bridgewater.
+- **Two Sigma**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) renowned for its technology-driven approach that incorporates [yield](../y/yield.md) mapping models Two Sigma.
 
 ### High-Frequency Trading (HFT)
 HFT firms apply [yield](../y/yield.md) mapping models to execute a large number of trades at ultra-fast speeds. These models help HFT firms in identifying fleeting opportunities and making instantaneous decisions.
 
 ### Retail Trading
 Advanced [yield](../y/yield.md) mapping tools are increasingly available to individual traders, allowing them to [leverage](../l/leverage.md) sophisticated models previously accessible only to institutional players. Examples of platforms [offering](../o/offering.md) such tools include:
-- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [trading algorithm development](../t/trading_algorithm_development.md) platform [QuantConnect](https://www.quantconnect.com).
-- **[AlgoTrader](../a/algotrader.md)**: Offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software [AlgoTrader](https://www.algotrader.com).
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [trading algorithm development](../t/trading_algorithm_development.md) platform QuantConnect.
+- **[AlgoTrader](../a/algotrader.md)**: Offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software AlgoTrader.
 
 ## Challenges and Considerations
 

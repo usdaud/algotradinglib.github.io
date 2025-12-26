@@ -134,23 +134,23 @@ Consider the program's format and whether it offers the flexibility you need to 
 
 ### 7.1 Wharton School of the University of Pennsylvania
 
-Wharton's EMBA program is renowned for its rigorous curriculum and global focus. The program offers intensive weekend classes in Philadelphia and San Francisco. More information can be found on their [official website](https://executivemba.wharton.upenn.edu/).
+Wharton's EMBA program is renowned for its rigorous curriculum and global focus. The program offers intensive weekend classes in Philadelphia and San Francisco.
 
 ### 7.2 Kellogg School of Management at Northwestern University
 
-Kellogg's EMBA program emphasizes [leadership](../l/leadership.md) development and global [business](../b/business.md). The program offers classes in Evanston, Miami, and international locations. Details are available on their [official website](https://www.kellogg.northwestern.edu/execmba.aspx).
+Kellogg's EMBA program emphasizes [leadership](../l/leadership.md) development and global [business](../b/business.md). The program offers classes in Evanston, Miami, and international locations.
 
 ### 7.3 London Business School
 
-London [Business](../b/business.md) School offers a flexible EMBA program with classes in London and Dubai. The program focuses on international [business](../b/business.md) and offers extensive [networking](../n/networking.md) opportunities. Learn more on their [official website](https://www.london.edu/programmes/executive-mba).
+London [Business](../b/business.md) School offers a flexible EMBA program with classes in London and Dubai. The program focuses on international [business](../b/business.md) and offers extensive [networking](../n/networking.md) opportunities.
 
 ### 7.4 INSEAD
 
-[INSEAD](../i/insead.md)'s Global EMBA program provides a multi-campus experience with locations in Europe, Asia, and the Middle East. The program is known for its diverse cohort and global perspective. More information can be found on their [official website](https://www.insead.edu/master-programmes/gemba).
+[INSEAD](../i/insead.md)'s Global EMBA program provides a multi-campus experience with locations in Europe, Asia, and the Middle East. The program is known for its diverse cohort and global perspective.
 
 ### 7.5 Columbia Business School
 
-Columbia's EMBA program offers a blend of theoretical knowledge and practical application, with a strong focus on [leadership](../l/leadership.md). The program offers bi-weekly classes in New York City. Details are available on their [official website](https://www8.gsb.columbia.edu/programs/emba).
+Columbia's EMBA program offers a blend of theoretical knowledge and practical application, with a strong focus on [leadership](../l/leadership.md). The program offers bi-weekly classes in New York City.
 
 ## Conclusion
 

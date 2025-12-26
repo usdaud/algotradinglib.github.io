@@ -70,4 +70,4 @@ Different markets and exchanges around the globe have varying trading hours. Her
 ## Conclusion
 Understanding trading sessions and their characteristics is fundamental for any [trader](../t/trader.md). By knowing when to [trade](../t/trade.md) and which instruments to focus on, traders can improve their chances of success. Each trading session offers unique opportunities and challenges, and successful traders are those who adapt their strategies to the various [market](../m/market.md) conditions presented throughout the day.
 
-For more detailed insights about global trading hours and strategies, resources such as [Investopedia](https://www.investopedia.com/) and [OANDA](https://www.oanda.com/) provide extensive information and tools for traders of all levels.
+For more detailed insights about global trading hours and strategies, resources such as Investopedia and OANDA provide extensive information and tools for traders of all levels.

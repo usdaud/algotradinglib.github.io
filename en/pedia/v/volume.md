@@ -13,19 +13,19 @@ Understanding volume is essential because it provides insights into the signific
 Several [technical indicators](../t/technical_indicator.md) and analytical tools utilize volume to provide actionable insights:
 
 1. **On-Balance Volume (OBV)**
-   - Developed by Joseph Granville, OBV is used to measure buying and selling pressure. The [indicator](../i/indicator.md) accumulates volume on up days and subtracts it on down days.
+ - Developed by Joseph Granville, OBV is used to measure buying and selling pressure. The [indicator](../i/indicator.md) accumulates volume on up days and subtracts it on down days.
 
 2. **Volume Price [Trend](../t/trend.md) (VPT)**
-   - A cumulative volume-price [indicator](../i/indicator.md), VPT combines both price and volume to determine the strength of a price [trend](../t/trend.md). It adds a proportionally computed volume [value](../v/value.md) on up days and subtracts it on down days.
+ - A cumulative volume-price [indicator](../i/indicator.md), VPT combines both price and volume to determine the strength of a price [trend](../t/trend.md). It adds a proportionally computed volume [value](../v/value.md) on up days and subtracts it on down days.
 
 3. **Accumulation/[Distribution](../d/distribution.md) Line (ADL)**
-   - The ADL compares a stock’s closing price to its trading [range](../r/range.md) and adds or subtracts volume based on this relation, aiming to reflect the buying and selling pressure over time.
+ - The ADL compares a stock’s closing price to its trading [range](../r/range.md) and adds or subtracts volume based on this relation, aiming to reflect the buying and selling pressure over time.
 
 4. **Chaikin [Money Flow](../m/money_flow.md) (CMF)**
-   - Marc Chaikin developed this [indicator](../i/indicator.md) to measure the accumulation and [distribution](../d/distribution.md) over a specified period. It combines price and volume to calculate the buying and selling [momentum](../m/momentum.md).
+ - Marc Chaikin developed this [indicator](../i/indicator.md) to measure the accumulation and [distribution](../d/distribution.md) over a specified period. It combines price and volume to calculate the buying and selling [momentum](../m/momentum.md).
 
 5. **[Klinger Oscillator](../k/klinger_oscillator.md)**
-   - This [oscillator](../o/oscillator.md) is designed to gauge long-term trends in [money flow](../m/money_flow.md) while remaining sensitive to short-term fluctuations.
+ - This [oscillator](../o/oscillator.md) is designed to gauge long-term trends in [money flow](../m/money_flow.md) while remaining sensitive to short-term fluctuations.
 
 ## Practical Applications
 
@@ -39,7 +39,7 @@ Volume can act as an early [indicator](../i/indicator.md) of a [reversal](../r/r
 
 ### Support and Resistance Levels
 
-Volume can help identify [support and resistance](../s/support_and_resistance.md) levels. A support level is a price point where a [security](../s/security.md) tends to find buying [interest](../i/interest.md) (increased volume), causing the price to stop falling. Resistance is a price point where selling pressure (increased volume) prevents the price from rising further. 
+Volume can help identify [support and resistance](../s/support_and_resistance.md) levels. A support level is a price point where a [security](../s/security.md) tends to find buying [interest](../i/interest.md) (increased volume), causing the price to stop falling. Resistance is a price point where selling pressure (increased volume) prevents the price from rising further.
 
 ### Breakouts and Fakeouts
 
@@ -64,32 +64,32 @@ In the decentralized and global Forex [market](../m/market.md), volume is not di
 Several tools and platforms provide sophisticated [volume analysis](../v/volume_analysis.md) capabilities:
 
 1. **[TradingView](../t/tradingview.md)**
-   - [TradingView](https://www.tradingview.com) offers advanced charting capabilities, including numerous [volume indicators](../v/volume_indicators.md) and the option to create custom scripts using Pine Script.
+ - TradingView offers advanced charting capabilities, including numerous [volume indicators](../v/volume_indicators.md) and the option to create custom scripts using Pine Script.
 
 2. **MetaTrader**
-   - [MetaTrader](https://www.metatrader4.com/en) platforms, MT4 and MT5, [offer](../o/offer.md) [volume analysis tools](../v/volume_analysis_tools.md), including indicators like OBV, VPT, and custom [volume analysis](../v/volume_analysis.md) through MQL4 and MQL5 scripting languages.
+ - MetaTrader platforms, MT4 and MT5, [offer](../o/offer.md) [volume analysis tools](../v/volume_analysis_tools.md), including indicators like OBV, VPT, and custom [volume analysis](../v/volume_analysis.md) through MQL4 and MQL5 scripting languages.
 
 3. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**
-   - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides comprehensive [market](../m/market.md) data, including up-to-the-second volume [statistics](../s/statistics.md) and [historical data analysis](../h/historical_data_analysis.md).
+ - Bloomberg provides comprehensive [market](../m/market.md) data, including up-to-the-second volume [statistics](../s/statistics.md) and [historical data analysis](../h/historical_data_analysis.md).
 
 4. **[Interactive Brokers](../i/interactive_brokers.md)**
-   - [Interactive Brokers](https://www.interactivebrokers.com/en/home.php) offers advanced trading platforms with extensive volume data and analytical tools for both retail and institutional traders.
+ - Interactive Brokers offers advanced trading platforms with extensive volume data and analytical tools for both retail and institutional traders.
 
 ## Challenges and Limitations
 
 While volume is a powerful analytical tool, traders must also be aware of its limitations:
 
 1. **Lack of Volume in Illiquid Markets**
-   - In illiquid markets, low volume can misrepresent the true levels of [supply](../s/supply.md) and [demand](../d/demand.md). Such markets might show sudden price changes due to the activities of a few large traders.
+ - In illiquid markets, low volume can misrepresent the true levels of [supply](../s/supply.md) and [demand](../d/demand.md). Such markets might show sudden price changes due to the activities of a few large traders.
 
 2. **Anomalies and Spikes**
-   - Anomalous volume spikes unrelated to [market](../m/market.md) fundamentals can mislead traders into making incorrect predictions. These might be caused by large institutional orders, [algorithmic trading](../a/accountability.md), or other [market anomalies](../m/market_anomalies.md).
+ - Anomalous volume spikes unrelated to [market](../m/market.md) fundamentals can mislead traders into making incorrect predictions. These might be caused by large institutional orders, [algorithmic trading](../a/algorithmic_trading.md), or other [market anomalies](../m/market_anomalies.md).
 
 3. **Forex [Market](../m/market.md) Limitations**
-   - The decentralized nature of the Forex [market](../m/market.md) means actual volume data is unavailable, relying on [tick](../t/tick.md) volume as a [proxy](../p/proxy.md), which might not perfectly correlate with actual traded volume.
+ - The decentralized nature of the Forex [market](../m/market.md) means actual volume data is unavailable, relying on [tick](../t/tick.md) volume as a [proxy](../p/proxy.md), which might not perfectly correlate with actual traded volume.
 
 4. **[After-Hours Trading](../a/after-hours_trading.md)**
-   - [Volume analysis](../v/volume_analysis.md) during [after-hours trading](../a/after-hours_trading.md) can be misleading due to lower [liquidity](../l/liquidity.md) and higher [spreads](../s/spreads.md), leading to exaggerated price movements.
+ - [Volume analysis](../v/volume_analysis.md) during [after-hours trading](../a/after-hours_trading.md) can be misleading due to lower [liquidity](../l/liquidity.md) and higher [spreads](../s/spreads.md), leading to exaggerated price movements.
 
 ## Advanced Volume Analysis Techniques
 

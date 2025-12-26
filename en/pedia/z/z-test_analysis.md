@@ -7,7 +7,7 @@ A [Z-test](../z/z-test_in_trading.md) is a statistical test used to determine wh
 ## How Z-Test Works
 
 The [Z-test](../z/z-test_in_trading.md) is based on the Z-statistic, which follows a [normal distribution](../n/normal_distribution_in_trading.md) under the [null hypothesis](../n/null_hypothesis.md). The formula to calculate the Z-statistic typically is:
-\[ 
+\[
 Z = \frac{\bar{X} - \mu}{\sigma / \sqrt{n}}
 \]
 where:
@@ -38,10 +38,10 @@ Traders can employ Z-tests as part of their [risk management](../r/risk_manageme
 
 ### 1. Define the Hypothesis
 
-Formulate the null (\(H_0\)) and alternative (\(H_A\)) hypotheses. 
-\[ 
+Formulate the null (\(H_0\)) and alternative (\(H_A\)) hypotheses.
+\[
 H_0: \mu_1 - \mu_2 = 0 \\
-H_A: \mu_1 - \mu_2 \neq 0 
+H_A: \mu_1 - \mu_2 \neq 0
 \]
 
 ### 2. Collect Data

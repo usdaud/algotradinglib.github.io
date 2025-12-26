@@ -37,4 +37,3 @@ Two businesses enter into a contract, and a dispute arises regarding the terms o
 
 ## Conclusion
 Common law is a foundational legal system that relies on judicial precedents to guide decision-making. It provides consistency, predictability, and flexibility in the application of the law, ensuring that legal principles can adapt over time. Understanding common law is crucial for navigating legal issues in jurisdictions where it forms the [basis](../b/basis.md) of the legal system.
-

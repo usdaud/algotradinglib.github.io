@@ -53,21 +53,18 @@ Numerous high-profile companies include various covenants in their [bond](../b/b
 Apple Inc., one of the largest technology companies in the world, issues bonds with specific covenants to reassure investors about its financial stability. For example:
 - **[Debt](../d/debt.md) Limitations**: Apple’s bonds may include covenants restricting the amount of additional [debt](../d/debt.md) the company can incur.
 - **Financial Reporting**: Regular [disclosure](../d/disclosure.md) of financial results to bondholders is a standard affirmative covenant in Apple's [bond](../b/bond.md) agreements.
-- Additional information can be found on [Apple Inc.’s Investor Relations page](https://investor.apple.com/).
 
 ### 2. The Coca-Cola Company (KO)
 
 The Coca-Cola Company, a global beverage giant, includes various covenants in its [bond](../b/bond.md) offerings to maintain [investor](../i/investor.md) confidence:
 - **[Net Worth](../n/net_worth.md) Maintenance**: Assuring bondholders that the company maintains a certain minimum [net worth](../n/net_worth.md) to safeguard its financial position.
 - **[Dividend](../d/dividend.md) Restrictions**: Limiting the amount of dividends payable to ensure that adequate funds are available for [debt](../d/debt.md) servicing.
-- Further details are available on [The Coca-Cola Company’s Investor Relations page](https://investors.coca-colacompany.com/).
 
 ### 3. Microsoft Corporation (MSFT)
 
 Microsoft [Corporation](../c/corporation.md), a leading software and technology company, incorporates covenants in its bonds to manage its financial [obligations](../o/obligation.md) effectively:
 - **[Leverage Ratios](../l/leverage_ratios.md)**: Restricting the level of [leverage](../l/leverage.md) the company can undertake to prevent excessive [debt](../d/debt.md) accumulation.
 - **[Asset](../a/asset.md) Disposal**: Prohibiting or limiting the [sale](../s/sale.md) of significant company assets to preserve [balance sheet](../b/balance_sheet.md) strength.
-- For more specifics, visit [Microsoft Corporation’s Investor Relations page](https://www.microsoft.com/en-us/Investor).
 
 ## Legal and Practical Considerations
 

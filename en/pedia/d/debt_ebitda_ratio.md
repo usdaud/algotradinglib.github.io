@@ -48,13 +48,11 @@ As a case in point, consider General Motors (GM), which operates in the [capital
 
 In 2021-22, GM reported a [Debt](../d/debt.md)/EBITDA ratio of around 2.5x. This ratio needs to be evaluated in the context of the [industry](../i/industry.md) average and GM's historical performance. Although appearing high compared to sectors like technology, it might be deemed sustainable within the automotive [industry](../i/industry.md), allowing investors to make informed decisions about the stock.
 
-[General Motors](https://www.gm.com)
 
 #### Case Study 2: Apple Inc. (AAPL)
 
 On the other hand, Apple Inc. (AAPL), which operates in the [technology sector](../t/technology_sector.md), traditionally maintains a lower [Debt](../d/debt.md)/EBITDA ratio owing to higher operational efficiencies and [robust](../r/robust.md) [cash flow](../c/cash_flow.md) generation. As of the same period, Apple’s [Debt](../d/debt.md)/EBITDA ratio hovered around 1.0x, a [factor](../f/factor.md) which contributes favorably to its overall [financial health](../f/financial_health.md) and lower perceived [credit risk](../c/credit_risk.md).
 
-[Apple](https://www.apple.com)
 
 ## Calculating Debt/EBITDA Ratio Using Financial Data
 

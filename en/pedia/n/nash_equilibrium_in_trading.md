@@ -26,13 +26,13 @@ Incorporating Nash [Equilibrium](../e/equilibrium.md) into algorithmic design in
 4. **Testing and Adjustment**: Running simulations and back-testing to refine the algorithms' strategies in dynamic [market](../m/market.md) conditions.
 
 Several [finance](../f/finance.md) firms and tech companies develop and deploy such advanced [trading models](../t/trading_models.md):
-- [Virtu Financial](https://www.virtu.com)
-- [Jane Street](https://www.janestreet.com)
-- [Citadel Securities](https://www.citadelsecurities.com)
+- Virtu Financial
+- Jane Street
+- Citadel Securities
 
 ## Practical Applications
 ### Risk Management
-Nash [Equilibrium](../e/equilibrium.md) can also assist in [risk management](../r/risk_management.md) strategies. By understanding the [equilibrium](../e/equilibrium.md) points, traders can gauge the potential risks of different strategies and adjust their portfolios accordingly. 
+Nash [Equilibrium](../e/equilibrium.md) can also assist in [risk management](../r/risk_management.md) strategies. By understanding the [equilibrium](../e/equilibrium.md) points, traders can gauge the potential risks of different strategies and adjust their portfolios accordingly.
 
 ### Arbitrage
 [Arbitrage](../a/arbitrage.md) opportunities arise when there are price discrepancies in different markets or instruments. In an efficient [market](../m/market.md) scenario defined by Nash [Equilibrium](../e/equilibrium.md), these discrepancies should disappear quickly as traders exploit them. Algo-[trading systems](../t/trading_systems.md) are often designed to identify and act on these opportunities instantly.
@@ -57,6 +57,6 @@ Regulatory bodies often scrutinize algorithmic and high-frequency trading for fa
 Nash [Equilibrium](../e/equilibrium.md) provides a powerful theoretical framework for understanding and optimizing [trading strategies](../t/trading_strategies.md) in competitive markets. From the design and implementation of [algorithmic trading](../a/algorithmic_trading.md) systems to [risk management](../r/risk_management.md) and [arbitrage](../a/arbitrage.md) opportunities, Nash [Equilibrium](../e/equilibrium.md) helps traders anticipate [market dynamics](../m/market_dynamics.md) and make informed decisions. Despite the complexity and limitations of applying these concepts in real-world markets, they remain a cornerstone of modern trading theory and practice.
 
 For more insights on companies specializing in algorithmic and high-frequency trading, consider visiting their respective websites:
-- [Virtu Financial](https://www.virtu.com)
-- [Jane Street](https://www.janestreet.com)
-- [Citadel Securities](https://www.citadelsecurities.com)
+- Virtu Financial
+- Jane Street
+- Citadel Securities

@@ -81,7 +81,7 @@ FameEX supports [algorithmic trading](../a/accountability.md), allowing users to
 #### Example Algorithmic Trading Strategies:
 
 - **[Mean Reversion](../m/mean_reversion.md)**: This strategy is based on the assumption that prices [will](../w/will.md) revert to their historical mean. A bot can be programmed to buy when prices are low and sell when they are high.
-  
+
 - **[Arbitrage](../a/arbitrage.md)**: This involves exploiting price differences between different markets or trading pairs. A bot can quickly execute trades to take advantage of these discrepancies.
 
 ### 2. Margin Trading
@@ -113,6 +113,6 @@ FameEX has its own native token, FEX, which provides additional benefits to user
 - **Number of Supported Cryptocurrencies**: FameEX supports over 100 different cryptocurrencies, providing ample trading opportunities.
 
 ## References
-- [FameEX Official Website](https://www.fameex.com)
+-
 
 Overall, FameEX stands out as a comprehensive and secure platform for cryptocurrency trading. With its advanced features, [robust](../r/robust.md) [security](../s/security.md) measures, and user-friendly interface, it is well-suited for traders of all levels. Whether you are a novice looking to make your first crypto [trade](../t/trade.md) or an experienced [trader](../t/trader.md) seeking advanced tools, FameEX has something to [offer](../o/offer.md).

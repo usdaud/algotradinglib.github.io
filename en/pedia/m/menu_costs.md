@@ -28,15 +28,15 @@ In addition to the direct costs of changing prices, firms must consider the stra
 
 Empirical studies have provided mixed evidence on the significance of menu costs. While some studies suggest that menu costs are relatively small and do not significantly impact price adjustments, others indicate that these costs can be substantial, particularly in certain industries. For example, the retail and hospitality industries often face higher menu costs due to the need for frequent and visible price updates.
 
-Data from various sources have shown that the frequency of price changes varies widely across sectors. In some industries, prices are adjusted regularly, while in others, prices remain stable for extended periods. These differences can often be attributed to the varying levels of menu costs and the competitive dynamics within each [industry](../i/industry.md). 
+Data from various sources have shown that the frequency of price changes varies widely across sectors. In some industries, prices are adjusted regularly, while in others, prices remain stable for extended periods. These differences can often be attributed to the varying levels of menu costs and the competitive dynamics within each [industry](../i/industry.md).
 
 ## Technological Advancements
 
-Technological advancements have the potential to reduce menu costs significantly. Automated pricing systems, dynamic pricing algorithms, and advanced [data analytics](../d/data_analytics.md) tools can help firms update prices more efficiently and at lower costs. These technologies can monitor [market](../m/market.md) conditions in real-time and suggest optimal price adjustments, minimizing the need for manual interventions and reducing the costs associated with price changes. 
+Technological advancements have the potential to reduce menu costs significantly. Automated pricing systems, dynamic pricing algorithms, and advanced [data analytics](../d/data_analytics.md) tools can help firms update prices more efficiently and at lower costs. These technologies can monitor [market](../m/market.md) conditions in real-time and suggest optimal price adjustments, minimizing the need for manual interventions and reducing the costs associated with price changes.
 
 For instance, e-[commerce](../c/commerce.md) platforms like Amazon use sophisticated pricing algorithms to adjust prices dynamically based on real-time data on [supply](../s/supply.md), [demand](../d/demand.md), and competitor pricing. This allows them to remain competitive while minimizing the costs associated with manual price updates.
 
-### Case Study: Amazon [Amazon](https://www.amazon.com)
+### Case Study: Amazon Amazon
 
 Amazon's approach to pricing is a prime example of how technology can mitigate menu costs. The company employs automated pricing systems that adjust prices [multiple](../m/multiple.md) times a day across millions of products. These systems use [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to analyze vast amounts of data, including competitor prices, [customer](../c/customer.md) behavior, and [inventory](../i/inventory.md) levels, to determine optimal prices. This enables Amazon to respond quickly to [market](../m/market.md) changes without incurring significant menu costs.
 

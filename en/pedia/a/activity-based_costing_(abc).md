@@ -72,15 +72,15 @@ Banks and financial institutions apply ABC to [gain](../g/gain.md) insights into
 
 Several companies and consulting firms specialize in providing ABC solutions and software to facilitate its implementation. Some of these notable companies include:
 
-1. **Epicor:** [Epicor](https://www.epicor.com/) offers comprehensive enterprise resource planning (ERP) solutions that include ABC functionalities, aiding businesses in achieving precise cost management.
- 
-2. **SAP:** [SAP](https://www.sap.com/) provides a suite of [business](../b/business.md) software solutions, including ABC capabilities within its SAP S/4HANA and SAP ERP products, helping businesses effectively manage costs and optimize operations.
+1. **Epicor:** Epicor offers comprehensive enterprise resource planning (ERP) solutions that include ABC functionalities, aiding businesses in achieving precise cost management.
 
-3. **Oracle:** [Oracle](https://www.oracle.com/) offers [robust](../r/robust.md) ERP and costing solutions, including ABC functionality, through its Oracle E-[Business](../b/business.md) Suite and Oracle Cloud applications.
+2. **SAP:** SAP provides a suite of [business](../b/business.md) software solutions, including ABC capabilities within its SAP S/4HANA and SAP ERP products, helping businesses effectively manage costs and optimize operations.
 
-4. **Infor:** [Infor](https://www.infor.com/) specializes in ERP solutions that include ABC features, providing firms with advanced cost analysis and management tools.
+3. **Oracle:** Oracle offers [robust](../r/robust.md) ERP and costing solutions, including ABC functionality, through its Oracle E-[Business](../b/business.md) Suite and Oracle Cloud applications.
 
-5. **SAS:** [SAS](https://www.sas.com/) offers advanced analytics and costing solutions, including ABC, to enable organizations to [gain](../g/gain.md) detailed cost insights and drive profitable decision-making.
+4. **Infor:** Infor specializes in ERP solutions that include ABC features, providing firms with advanced cost analysis and management tools.
+
+5. **SAS:** SAS offers advanced analytics and costing solutions, including ABC, to enable organizations to [gain](../g/gain.md) detailed cost insights and drive profitable decision-making.
 
 ## Conclusion
 

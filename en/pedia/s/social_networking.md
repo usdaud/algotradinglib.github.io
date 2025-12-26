@@ -107,22 +107,15 @@ Decentralized social networks, which operate on [blockchain](../b/blockchain_in_
 ## Prominent Social Networking Platforms
 
 ### Facebook
-- **Website:** [Facebook](https://www.facebook.com)
 
 ### LinkedIn
-- **Website:** [LinkedIn](https://www.linkedin.com)
 
 ### Twitter
-- **Website:** [Twitter](https://www.twitter.com)
 
 ### Instagram
-- **Website:** [Instagram](https://www.instagram.com)
 
 ### TikTok
-- **Website:** [TikTok](https://www.tiktok.com)
 
 ### Snapchat
-- **Website:** [Snapchat](https://www.snapchat.com)
 
 ### eToro
-- **Website:** [eToro](https://www.etoro.com)

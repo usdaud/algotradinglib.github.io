@@ -76,18 +76,18 @@ Some firms specialize in providing [trading signals](../t/trading_signals.md) as
 
 ### Portfolio Management
 
-[Trading signals](../t/trading_signals.md) play a crucial role in [automated portfolio management](../a/automated_portfolio_management.md) systems, like those used by robo-advisors. These systems utilize signals to constantly re-balance portfolios in line with specified [risk profiles](../r/risk_profiles.md) and investment strategies. 
+[Trading signals](../t/trading_signals.md) play a crucial role in [automated portfolio management](../a/automated_portfolio_management.md) systems, like those used by robo-advisors. These systems utilize signals to constantly re-balance portfolios in line with specified [risk profiles](../r/risk_profiles.md) and investment strategies.
 
 For more information on companies and services providing [trading signals](../t/trading_signals.md), you can visit their websites:
 
-- [Virtu Financial](https://www.virtu.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
-- [MetaTrader](https://www.metatrader4.com/en)
-- [TradingView](https://www.tradingview.com/)
-- [Signal Hive](https://www.signal-hive.com/)
-- [Autochartist](https://www.autochartist.com/)
+- Virtu Financial
+- Citadel Securities
+- Two Sigma
+- Renaissance Technologies
+- MetaTrader
+- TradingView
+- Signal Hive
+- Autochartist
 
 These firms and platforms illustrate the diverse landscape of [trading signals](../t/trading_signals.md), showcasing their implementation across various [trading strategies](../t/trading_strategies.md) and tools.
 

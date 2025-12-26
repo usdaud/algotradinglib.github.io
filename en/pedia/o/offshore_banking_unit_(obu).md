@@ -11,13 +11,13 @@ An OBU is essentially a branch, subsidiary, or division of a [bank](../b/bank.md
 OBUs are designed to facilitate various [offshore](../o/offshore.md) financial transactions and services. They typically engage in the following activities:
 
 1. **[Foreign Exchange](../f/foreign_exchange.md) Transactions:** OBUs can facilitate large-scale [currency](../c/currency.md) exchanges with minimal regulatory oversight, making forex transactions more efficient.
-   
+
 2. **International [Trade](../t/trade.md) [Financing](../f/financing.md):** [Offering](../o/offering.md) services such as letters of [credit](../c/credit.md), [export](../e/export.md) [financing](../f/financing.md), and international [payment](../p/payment.md) facilitation.
-   
+
 3. **Corporate Treasury Activities:** Managing multinational corporations' cash flows, hedging activities, and funding needs on a global scale.
-   
+
 4. **Investment Services:** Providing a [range](../r/range.md) of investment [options](../o/options.md) and advisory services, often with tax advantages.
-   
+
 5. **Deposits and Loans:** [Offering](../o/offering.md) higher [interest](../i/interest.md) rates on deposits and lower rates on loans compared to domestic banking units.
 
 ## Advantages of OBUs
@@ -68,15 +68,15 @@ Given that OBUs often deal with [multiple](../m/multiple.md) currencies, they ar
 
 ### HSBC's Offshore Banking
 
-HSBC operates an extensive network of OBUs in locations like Hong Kong and Singapore. These units provide a wide [range](../r/range.md) of services, including [wealth management](../w/wealth_management.md), international [financing](../f/financing.md), and [trade](../t/trade.md) services. More information can be found on their website [HSBC - Offshore Banking](https://www.hsbc.com).
+HSBC operates an extensive network of OBUs in locations like Hong Kong and Singapore. These units provide a wide [range](../r/range.md) of services, including [wealth management](../w/wealth_management.md), international [financing](../f/financing.md), and [trade](../t/trade.md) services.
 
 ### Citibank International Personal Banking
 
-Citibank offers international personal banking services through its OBUs located in financial hubs such as Singapore and Hong Kong. These services cater to high-net-worth individuals and include [investment management](../i/investment_management.md), global banking services, and international [mortgage](../m/mortgage.md) solutions. Detailed information is available on their page [Citibank IPB](https://www.ipb.citibank.com).
+Citibank offers international personal banking services through its OBUs located in financial hubs such as Singapore and Hong Kong. These services cater to high-net-worth individuals and include [investment management](../i/investment_management.md), global banking services, and international [mortgage](../m/mortgage.md) solutions. Detailed information is available in Citibank materials on international personal banking.
 
 ### Standard Chartered Bank's OBUs
 
-Standard Chartered operates OBUs in various locations, including Dubai International Financial Centre (DIFC) and Mauritius. These units focus on providing [trade finance](../t/trade_finance.md), global [market](../m/market.md) solutions, and corporate banking services, leveraging the tax and regulatory benefits of their [offshore](../o/offshore.md) jurisdictions. For more information, visit [Standard Chartered - Offshore Services](https://www.sc.com).
+Standard Chartered operates OBUs in various locations, including Dubai International Financial Centre (DIFC) and Mauritius. These units focus on providing [trade finance](../t/trade_finance.md), global [market](../m/market.md) solutions, and corporate banking services, leveraging the tax and regulatory benefits of their [offshore](../o/offshore.md) jurisdictions. For more information, visit Standard Chartered - Offshore Services.
 
 ## Regulatory Framework
 

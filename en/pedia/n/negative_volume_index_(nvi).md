@@ -58,8 +58,8 @@ A straightforward [trading strategy](../t/trading_strategy.md) using the NVI inv
 
 1. Plot the NVI and its 255-day moving average.
 2. Identify crossovers:
-   - Buy signal: When NVI crosses above its 255-day moving average.
-   - Sell signal: When NVI crosses below its 255-day moving average.
+ - Buy signal: When NVI crosses above its 255-day moving average.
+ - Sell signal: When NVI crosses below its 255-day moving average.
 3. Confirm signals with additional indicators (e.g., Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)) to reduce [false signals](../f/false_signals_in_trading.md).
 
 ### Risk Management
@@ -88,4 +88,4 @@ While it offers several advantages, including its simplicity and focus on "[smar
 
 For those interested in exploring the NVI further, historical analysis, [backtesting](../b/backtesting.md), and integrating it with other [technical indicators](../t/technical_indicator.md) can provide a deeper understanding and more [robust](../r/robust.md) trading approach. By doing so, traders can enhance their decision-making process and increase their chances of success in the dynamic world of [financial markets](../f/financial_market.md).
 
-To learn more about trading tools and strategies, consider visiting educational resources provided by prominent trading platforms and institutions, such as [Investopedia](https://www.investopedia.com) or [TradingView](https://www.tradingview.com).
+To learn more about trading tools and strategies, consider visiting educational resources provided by prominent trading platforms and institutions, such as Investopedia or TradingView.

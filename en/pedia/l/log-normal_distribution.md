@@ -21,16 +21,16 @@ for \( x > 0 \).
 2. **[Skewness](../s/skewness.md)**: The log-[normal distribution](../n/normal_distribution_in_trading.md) is right-skewed, meaning it has a long right tail. This property makes it suitable for modeling phenomena where extreme values (like very high incomes) are more probable than similarly extreme low values.
 
 3. **Mean and [Median](../m/median.md)**:
-   - The mean of a log-[normal distribution](../n/normal_distribution_in_trading.md) is given by:
-     \[
-     \mathbb{E}[X] = e^{\mu + \frac{\sigma^2}{2}}
-     \]
-   - The [median](../m/median.md), which is also the \( e^{\mu} \), differs from the mean due to the [skewness](../s/skewness.md) of the [distribution](../d/distribution.md).
+ - The mean of a log-[normal distribution](../n/normal_distribution_in_trading.md) is given by:
+ \[
+ \mathbb{E}[X] = e^{\mu + \frac{\sigma^2}{2}}
+ \]
+ - The [median](../m/median.md), which is also the \( e^{\mu} \), differs from the mean due to the [skewness](../s/skewness.md) of the [distribution](../d/distribution.md).
 
 4. **Variance**:
-   \[
-   \text{Var}(X) = (e^{\sigma^2} - 1) e^{2\mu + \sigma^2}
-   \]
+ \[
+ \text{Var}(X) = (e^{\sigma^2} - 1) e^{2\mu + \sigma^2}
+ \]
 
 5. **Logarithmic Transformation**: The logarithmic transformation of a log-normal variable results in a [normal distribution](../n/normal_distribution_in_trading.md). This property is particularly useful in simplifying the mathematical treatment of multiplicative processes.
 
@@ -44,7 +44,7 @@ Stock prices are often modeled as [geometric Brownian motion](../g/geometric_bro
 
 ### 2. Option Pricing Models
 
-The Black-Scholes option pricing model uses the assumption that the [underlying asset](../u/underlying_asset.md)'s price follows a log-[normal distribution](../n/normal_distribution_in_trading.md). The model's key formula for pricing European call and [put options](../p/put_options.md) is derived using log-normal properties. 
+The Black-Scholes option pricing model uses the assumption that the [underlying asset](../u/underlying_asset.md)'s price follows a log-[normal distribution](../n/normal_distribution_in_trading.md). The model's key formula for pricing European call and [put options](../p/put_options.md) is derived using log-normal properties.
 
 ### 3. Risk Management
 
@@ -89,4 +89,4 @@ plt.show()
 The log-[normal distribution](../n/normal_distribution_in_trading.md) plays a crucial role in [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). Its properties make it suitable for modeling a wide [range](../r/range.md) of financial variables and phenomena. Understanding and applying the log-[normal distribution](../n/normal_distribution_in_trading.md) can provide traders and [risk](../r/risk.md) managers with valuable insights and [robust](../r/robust.md) mathematical tools for making informed decisions.
 
 For more information, you can visit the following link:
-- [SciPy Log-Normal Distribution Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.lognorm.html)
+- SciPy Log-Normal Distribution Documentation

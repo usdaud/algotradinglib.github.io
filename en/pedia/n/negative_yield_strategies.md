@@ -45,7 +45,7 @@ Given the global nature of [bond](../b/bond.md) markets, strategies often includ
 
 These bonds provide returns adjusted for [inflation](../i/inflation.md), potentially [offering](../o/offering.md) better [value](../v/value.md) in negative [yield](../y/yield.md) environments. TIPS in the USA and similar instruments in other markets are common examples.
 
-### 6. **Options and Futures**: 
+### 6. **Options and Futures**:
 
 Financial [derivatives](../d/derivatives.md) allow traders to speculate on [interest](../i/interest.md) rates or [hedge](../h/hedge.md) existing [bond](../b/bond.md) positions effectively. By leveraging [options](../o/options.md) or [futures](../f/futures.md), traders can potentially [profit](../p/profit.md) from movements even in a negative [yield](../y/yield.md) scenario.
 
@@ -91,6 +91,6 @@ Negative [yield](../y/yield.md) strategies represent a sophisticated approach to
 
 For more insights on advanced [trading strategies](../t/trading_strategies.md), consider exploring resources from leading financial institutions and trading platforms:
 
-- Goldman Sachs [Goldman Sachs - Negative Yield](https://www.goldmansachs.com/)
-- JPMorgan Chase [JPMorgan Chase](https://www.jpmorganchase.com/)
-- Nomura Securities [Nomura](https://www.nomura.com/)
+- Goldman Sachs Goldman Sachs - Negative Yield
+- JPMorgan Chase JPMorgan Chase
+- Nomura Securities Nomura

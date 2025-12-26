@@ -4,7 +4,7 @@ In the world of trading and [technical analysis](../t/technical_analysis.md), pa
 
 ## Definition and Characteristics
 
-An "Outside Day" is a [candlestick](../c/candlestick.md) pattern where the high and the low of a given trading day exceed the high and the low of the previous trading day. Essentially, the day's [range](../r/range.md) completely engulfs the [range](../r/range.md) of the preceding day. This pattern indicates that the [market](../m/market.md) experienced higher [volatility](../v/volatility.md) and greater [price action](../p/price_action.md) compared to the prior day. 
+An "Outside Day" is a [candlestick](../c/candlestick.md) pattern where the high and the low of a given trading day exceed the high and the low of the previous trading day. Essentially, the day's [range](../r/range.md) completely engulfs the [range](../r/range.md) of the preceding day. This pattern indicates that the [market](../m/market.md) experienced higher [volatility](../v/volatility.md) and greater [price action](../p/price_action.md) compared to the prior day.
 
 Outside days can occur in both bullish and bearish markets. When the daily price [range](../r/range.md) expands and engulfs the previous day's [range](../r/range.md), it suggests a potential shift in [market sentiment](../m/market_sentiment.md), as buyers and sellers are actively contesting control.
 
@@ -37,7 +37,7 @@ In this case, Day 2's [price action](../p/price_action.md) engulfed the entire [
 
 ## Implications of Outside Days
 
-Outside days are significant because they reflect heightened [market](../m/market.md) activity and potential changes in sentiment. Traders and analysts often interpret these patterns as early signals of larger price movements. 
+Outside days are significant because they reflect heightened [market](../m/market.md) activity and potential changes in sentiment. Traders and analysts often interpret these patterns as early signals of larger price movements.
 
 ### Potential Reversal
 
@@ -47,7 +47,7 @@ One common interpretation is that outside days can signal potential reversals. F
 
 While outside days can indicate potential reversals, they can also be [continuation patterns](../c/continuation_patterns.md). For example, in a strong [uptrend](../u/uptrend.md), a bullish outside day might reinforce the prevailing bullish sentiment, suggesting that the [trend](../t/trend.md) is likely to continue. Similarly, in a [downtrend](../d/downtrend.md), a bearish outside day might confirm ongoing bearish [momentum](../m/momentum.md).
 
-## Trading Strategies Incorporating Outside Days 
+## Trading Strategies Incorporating Outside Days
 
 [Trading strategies](../t/trading_strategies.md) that incorporate outside days often focus on the potential for significant price movements following these patterns. Here are a few strategies that traders might use:
 

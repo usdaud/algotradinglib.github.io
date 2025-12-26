@@ -59,15 +59,15 @@ Wavelet-based [volatility](../v/volatility.md) measures are valuable in [risk ma
 #### Real-World Example
 
 - **Google Inc.**: Utilizing wavelet transforms to analyze the [volatility](../v/volatility.md) of Google's stock prices over a decade can help in diversifying investment strategies across different time scales.
-  
-  Link for company details: [Google's Financial Overview](https://abc.xyz/investor/)
+
+ Link for company details: Google's Financial Overview
 
 ### Emerging Trends
 
 The integration of wavelet [volatility](../v/volatility.md) in [algorithmic trading](../a/algorithmic_trading.md) is gaining traction:
 - **High-Frequency Trading**: Improved algorithms that adapt to [volatility](../v/volatility.md) shifts at different time scales.
 - **Hybrid Models**: Combining wavelet-based models with [machine learning](../m/machine_learning.md) for more accurate forecasts.
-  
+
 ## Challenges and Limitations
 
 Despite its advantages, wavelet [volatility analysis](../v/volatility_analysis.md) faces some challenges:
@@ -78,4 +78,3 @@ Despite its advantages, wavelet [volatility analysis](../v/volatility_analysis.m
 ## Conclusion
 
 Wavelet [volatility](../v/volatility.md) provides a [robust](../r/robust.md) framework for capturing and analyzing the complex nature of financial [market](../m/market.md) [volatility](../v/volatility.md). By allowing multi-scale analysis, it offers insights not available through traditional methods, hence proving instrumental in both [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). As computational methods advance, the application and accuracy of wavelet techniques are expected to enhance [financial analysis](../f/financial_analysis.md) further.
-

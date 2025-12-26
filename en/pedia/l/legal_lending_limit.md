@@ -21,7 +21,7 @@ Legal lending limits are enforced by regulatory bodies such as the Federal Reser
 - **Office of the Comptroller of the [Currency](../c/currency.md) (OCC)**: A bureau within the Treasury Department that regulates and supervises national banks and federal savings associations.
 - **Relevant International Bodies**: Such as the Basel Committee on Banking Supervision, which provides international standards and guidelines.
 
-For more detailed information, you can visit the [Office of the Comptroller of the Currency’s website](https://www.occ.treas.gov/).
+For more detailed information,
 
 ## Calculation of Legal Lending Limits
 
@@ -67,4 +67,3 @@ Legal lending limits can affect large borrowers, such as multinational corporati
 
 The legal lending limit is a critical regulatory [provision](../p/provision.md) designed to ensure the stability of the banking sector by limiting the [risk](../r/risk.md) exposure to any single borrower. By adhering to these limits, banks can protect themselves, their depositors, and the broader [financial system](../f/financial_system.md) from the repercussions of [loan](../l/loan.md) concentration risks. As financial landscapes and regulatory environments evolve, banks must remain vigilant and adaptable in their compliance strategies.
 
-For further details and updates on legal lending limits, regulatory guidelines, and compliance measures, please visit the [Office of the Comptroller of the Currency’s official website](https://www.occ.treas.gov/).

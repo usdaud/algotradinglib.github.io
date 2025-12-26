@@ -149,6 +149,6 @@ state_means, _ = kf.filter(data.values)
 Data smoothing is a vital tool in the realm of data analysis and [time series forecasting](../t/time_series_forecasting.md). By applying the appropriate smoothing technique, one can unveil the true [underlying](../u/underlying.md) patterns in a dataset, aiding in better decision-making. Whether you are a financial analyst, an [economist](../e/economist.md), or a data scientist, mastering the art of data smoothing can significantly enhance the quality of your analyses.
 
 For further reading and resources:
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)
-- [Pykalman Documentation](https://pykalman.github.io/)
+- Pandas Documentation
+- Statsmodels Documentation
+- Pykalman Documentation

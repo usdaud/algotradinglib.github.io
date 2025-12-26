@@ -63,20 +63,20 @@ The complexity and frequent trading activity required to maintain [leverage](../
 ## Popular Ultra ETFs
 
 1. **ProShares Ultra S&P500 (SSO)**:
-   - This ETF seeks to deliver 2x the daily performance of the S&P 500.
-   - [ProShares](https://www.proshares.com/)
+ - This ETF seeks to deliver 2x the daily performance of the S&P 500.
+ - ProShares
 
 2. **Direxion Daily Financial [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (FAS)**:
-   - This ETF aims to provide 3x the daily performance of the Russell 1000 Financial Services [Index](../i/index_instrument.md).
-   - [Direxion](https://www.direxion.com/)
+ - This ETF aims to provide 3x the daily performance of the Russell 1000 Financial Services [Index](../i/index_instrument.md).
+ - Direxion
 
 3. **ProShares Ultra QQQ (QLD)**:
-   - This ETF seeks to deliver 2x the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
-   - [ProShares](https://www.proshares.com/)
+ - This ETF seeks to deliver 2x the daily performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
+ - ProShares
 
 4. **Direxion Daily Gold Miners [Index](../i/index_instrument.md) [Bull](../b/bull.md) 3X [Shares](../s/shares.md) (NUGT)**:
-   - This ETF seeks to provide 3x the daily performance of the [NYSE Arca](../n/nyse_arca.md) Gold Miners [Index](../i/index_instrument.md).
-   - [Direxion](https://www.direxion.com/)
+ - This ETF seeks to provide 3x the daily performance of the [NYSE Arca](../n/nyse_arca.md) Gold Miners [Index](../i/index_instrument.md).
+ - Direxion
 
 ## Regulatory and Ethical Considerations
 

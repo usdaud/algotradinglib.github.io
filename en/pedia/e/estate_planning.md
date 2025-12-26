@@ -40,7 +40,7 @@ These are the basic steps in the [estate](../e/estate.md) planning process:
 
 2. **Account for Family’s Needs**: Consider the needs of your spouse, children, special-needs family members, or other dependents. This is where guardianship for minors and provisions for relatives with special needs come into play.
 
-3. **Establish Directives**: You’ll need to establish various directives as part of your [estate](../e/estate.md) plan, including wills, healthcare directives, and financial powers of attorney. 
+3. **Establish Directives**: You’ll need to establish various directives as part of your [estate](../e/estate.md) plan, including wills, healthcare directives, and financial powers of attorney.
 
 4. **Review Beneficiaries**: Make sure outdated beneficiaries on [life insurance](../l/life_insurance.md) policies, retirement accounts, and annuities are updated.
 
@@ -56,7 +56,7 @@ A [will](../w/will.md) is a legal document that expresses an individual’s wish
 
 ### Living Trusts
 
-Living trusts let you avoid [probate](../p/probate.md), which can be a complex and time-consuming process. Trusts also detail how your affairs should be handled if you’re incapacitated. 
+Living trusts let you avoid [probate](../p/probate.md), which can be a complex and time-consuming process. Trusts also detail how your affairs should be handled if you’re incapacitated.
 
 ### Power of Attorney
 
@@ -85,7 +85,7 @@ For those with pets, establishing a plan for their care is essential, which migh
 Choosing the right [estate](../e/estate.md) planner is crucial. Look for:
 
 1. **Experience and [Specialization](../s/specialization.md)**: An attorney specializing in trusts, [estate](../e/estate.md) planning, and elder law is generally more proficient in this domain.
-   
+
 2. **Reputation and References**: [Check](../c/check.md) their reputation within the community, ideally with references or testimonials from clients.
 
 3. **Fees**: Understand the fees—it’s essential they’re transparent about their cost structures.
@@ -111,10 +111,10 @@ Unlike [estate](../e/estate.md) [taxes](../t/taxes.md), inheritance [taxes](../t
 Several reputable online services and software can aid in [estate](../e/estate.md) planning. Companies [offer](../o/offer.md) inexpensive and convenient [options](../o/options.md) for creating basic [estate](../e/estate.md) plans, such as Rocket Lawyer or LegalZoom, which may be ideal for those with simpler estates.
 
 ### Rocket Lawyer
-Website: [Rocket Lawyer](https://www.rocketlawyer.com)
+online platform: Rocket Lawyer
 
 ### LegalZoom
-Website: [LegalZoom](https://www.legalzoom.com)
+online platform: LegalZoom
 
 ## Conclusion
 

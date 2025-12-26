@@ -44,11 +44,11 @@ The length of time remaining until the option's [expiration date](../e/expiratio
 
 ### Examples
 Several trading platforms and financial institutions provide tools and resources to help traders select appropriate strike prices. Examples include:
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers an advanced [options](../o/options.md) [trading platform](../t/trading_platform.md) with a wide [range](../r/range.md) of strike prices [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1591).
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: Known for its sophisticated [options](../o/options.md) trading tools and educational resources [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers an advanced [options](../o/options.md) [trading platform](../t/trading_platform.md) with a wide [range](../r/range.md) of strike prices Interactive Brokers.
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: Known for its sophisticated [options](../o/options.md) trading tools and educational resources Thinkorswim.
 
 ### AlgoTrading and FinTech
-In the realm of [algorithmic trading](../a/accountability.md) and FinTech, selecting the optimal strike price can be largely automated. Algorithms can be designed to analyze historical data, [price patterns](../p/price_patterns.md), and [market](../m/market.md) [volatility](../v/volatility.md) to determine the most advantageous strike prices for buying and selling [options](../o/options.md). This automation can enhance accuracy, speed, and reduce emotional decision-making.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and FinTech, selecting the optimal strike price can be largely automated. Algorithms can be designed to analyze historical data, [price patterns](../p/price_patterns.md), and [market](../m/market.md) [volatility](../v/volatility.md) to determine the most advantageous strike prices for buying and selling [options](../o/options.md). This automation can enhance accuracy, speed, and reduce emotional decision-making.
 
 ## Potential Risks and Considerations
 

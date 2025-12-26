@@ -63,9 +63,9 @@ Regulations are essential in controlling the high-speed world of [algorithmic tr
 
 The Blue Book also lists tools and software widely used in the algo trading [industry](../i/industry.md):
 
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md) platform for financial algorithm development.
+- **[StockSharp](../s/stocksharp.md):** An [open](../o/open.md) platform for financial algorithm development.
 - **MetaTrader 4 & 5:** Popular trading platforms used both for discretionary and [algorithmic trading](../a/accountability.md).
-- **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md):** Dedicated platforms such as [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets) and [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) provide API access to build and deploy automated [trading algorithms](../t/trading_algorithms.md).
+- **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md):** Dedicated platforms such as [Alpaca](../a/alpaca.md) ( and [Interactive Brokers](../i/interactive_brokers.md) ( provide API access to build and deploy automated [trading algorithms](../t/trading_algorithms.md).
 
 ## Example of Implementing an Algorithm
 

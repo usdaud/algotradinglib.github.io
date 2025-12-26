@@ -66,6 +66,6 @@ One-time charges play a significant role in shaping a company's financial landsc
 
 For more detailed insights:
 
-Visit [General Electric](https://www.ge.com) for insights on [restructuring](../r/restructuring.md)-related one-time charges.
-Visit [BP](https://www.bp.com) for information on legal and extraordinary charges.
-Visit [AOL-Time Warner](https://www.wbd.com/aol_corp/) (now part of Warner Bros. Discovery) for a historical example of [merger](../m/merger.md)-related one-time charges.
+Visit General Electric for insights on [restructuring](../r/restructuring.md)-related one-time charges.
+Visit BP for information on legal and extraordinary charges.
+Visit AOL-Time Warner (now part of Warner Bros. Discovery) for a historical example of [merger](../m/merger.md)-related one-time charges.

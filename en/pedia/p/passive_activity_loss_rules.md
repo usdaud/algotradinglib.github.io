@@ -69,7 +69,7 @@ Given the complexity of passive activity loss rules and their impact on an indiv
 
 The Passive Activity Loss Rules form an essential part of the tax code for investors involved in passive activities. These rules restrict the ability to use passive activity losses to [offset](../o/offset.md) other types of [income](../i/income.md), requiring strategic planning and, in many cases, professional advice to navigate effectively. Understanding these rules and the potential exceptions is critical to making informed investment and [tax planning](../t/tax_planning.md) decisions.
 
-For more detailed information, including the full legal text and any potential updates to the Passive Activity Loss Rules, visit the IRS website [here](https://www.irs.gov/).
+For more detailed information, including the full legal text and any potential updates to the Passive Activity Loss Rules,
 
 ---
 

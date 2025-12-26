@@ -22,7 +22,7 @@ One of his key strategies has been to control the company's growth carefully. Un
 
 Under William Dillard II's [leadership](../l/leadership.md), Dillard's Inc. has embraced digital transformation. Recognizing the shifting consumer preferences towards online shopping, the company has invested heavily in its e-[commerce](../c/commerce.md) platform. The goal has been to provide a seamless shopping experience for customers, whether they choose to shop online or in-store.
 
-The company has implemented various technological initiatives to enhance the [customer](../c/customer.md) experience, including improving its website's usability, [investing](../i/investing.md) in omnichannel capabilities, and using [data analytics](../d/data_analytics.md) to personalize [marketing](../m/marketing.md) efforts. These efforts have been crucial in keeping Dillard's competitive in the digital age.
+The company has implemented various technological initiatives to enhance the [customer](../c/customer.md) experience, including improving its online platform's usability, [investing](../i/investing.md) in omnichannel capabilities, and using [data analytics](../d/data_analytics.md) to personalize [marketing](../m/marketing.md) efforts. These efforts have been crucial in keeping Dillard's competitive in the digital age.
 
 ### Financial Performance
 
@@ -46,4 +46,4 @@ Looking ahead, Dillard's is likely to continue its focus on digital transformati
 
 William T. Dillard II's tenure as CEO of Dillard's Inc. has been marked by a careful balance of tradition and innovation. His pragmatic [leadership](../l/leadership.md), coupled with a strong focus on [financial health](../f/financial_health.md) and [customer](../c/customer.md) experience, has helped the company thrive in a competitive and ever-changing retail [industry](../i/industry.md). As Dillard's continues to evolve, William Dillard II's strategic vision and dedication to the company's core values [will](../w/will.md) remain central to its continued success.
 
-For more information about Dillard's Inc., you can visit their [official website](https://www.dillards.com/).
+For more information about Dillard's Inc.,

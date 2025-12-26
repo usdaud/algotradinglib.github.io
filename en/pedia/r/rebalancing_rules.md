@@ -64,19 +64,19 @@ Large trades necessary for [rebalancing](../r/rebalancing.md) can affect [market
 Several companies provide tools and services tailored for [portfolio rebalancing](../p/portfolio_rebalancing.md). Here are a few notable ones:
 
 ### BlackRock's Aladdin
-[BlackRock’s Aladdin](https://www.blackrock.com/us/individual/products/aladdin) is a comprehensive [investment management](../i/investment_management.md) platform that offers tools for portfolio construction, [risk management](../r/risk_management.md), and [rebalancing](../r/rebalancing.md).
+BlackRock’s Aladdin is a comprehensive [investment management](../i/investment_management.md) platform that offers tools for portfolio construction, [risk management](../r/risk_management.md), and [rebalancing](../r/rebalancing.md).
 
 ### Charles Schwab Intelligent Portfolios
-[Charles Schwab Intelligent Portfolios](https://intelligent.schwab.com/) use automated [rebalancing](../r/rebalancing.md) to maintain target allocations, making it easier for investors to stick to their investment strategies.
+Charles Schwab Intelligent Portfolios use automated [rebalancing](../r/rebalancing.md) to maintain target allocations, making it easier for investors to stick to their investment strategies.
 
 ### Wealthfront
-[Wealthfront](https://www.wealthfront.com/) provides automated [rebalancing](../r/rebalancing.md) as part of its robo-advisory services to ensure portfolios are continually aligned with clients’ goals.
+Wealthfront provides automated [rebalancing](../r/rebalancing.md) as part of its robo-advisory services to ensure portfolios are continually aligned with clients’ goals.
 
 ### Betterment
-[Betterment](https://www.betterment.com/) applies algorithmic [rebalancing](../r/rebalancing.md) to manage portfolios. It automatically maintains [asset](../a/asset.md) allocations by [rebalancing](../r/rebalancing.md) when necessary.
+Betterment applies algorithmic [rebalancing](../r/rebalancing.md) to manage portfolios. It automatically maintains [asset](../a/asset.md) allocations by [rebalancing](../r/rebalancing.md) when necessary.
 
 ### Interactive Brokers' PortfolioAnalyst
-[Interactive Brokers' PortfolioAnalyst](https://www.interactivebrokers.com/en/index.php?f=28062) allows investors to analyze and rebalance their portfolios across [multiple](../m/multiple.md) accounts and [asset](../a/asset.md) types.
+Interactive Brokers' PortfolioAnalyst allows investors to analyze and rebalance their portfolios across [multiple](../m/multiple.md) accounts and [asset](../a/asset.md) types.
 
 ## The Future of Rebalancing
 

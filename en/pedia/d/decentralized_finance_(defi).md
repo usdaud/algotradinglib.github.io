@@ -42,22 +42,22 @@ DeFi facilitates faster and cheaper cross-border payments and remittances. Proje
 ## 3. Notable DeFi Projects and Protocols
 
 ### 3.1 Uniswap
-[Uniswap](https://uniswap.org/) is one of the most popular DEXs in the DeFi ecosystem. It uses an AMM system to enable users to [trade](../t/trade.md) ERC-20 tokens directly from their wallets. Uniswap has pioneered the concept of [liquidity pools](../l/liquidity_pools.md), where users can provide [liquidity](../l/liquidity.md) and earn fees.
+Uniswap is one of the most popular DEXs in the DeFi ecosystem. It uses an AMM system to enable users to [trade](../t/trade.md) ERC-20 tokens directly from their wallets. Uniswap has pioneered the concept of [liquidity pools](../l/liquidity_pools.md), where users can provide [liquidity](../l/liquidity.md) and earn fees.
 
 ### 3.2 Aave
-[Aave](https://aave.com/) is a decentralized lending platform that allows users to lend and borrow a wide [range](../r/range.md) of cryptocurrencies. Aave introduced the concept of "flash loans," which are loans that can be borrowed and repaid within a single [transaction](../t/transaction.md).
+Aave is a decentralized lending platform that allows users to lend and borrow a wide [range](../r/range.md) of cryptocurrencies. Aave introduced the concept of "flash loans," which are loans that can be borrowed and repaid within a single [transaction](../t/transaction.md).
 
 ### 3.3 MakerDAO
-[MakerDAO](https://makerdao.com/) is a decentralized autonomous organization that operates the DAI stablecoin, a cryptocurrency pegged to the US dollar. Users can create DAI by depositing [collateral](../c/collateral.md) in the form of other cryptocurrencies into [smart contracts](../s/smart_contracts_in_trading.md).
+MakerDAO is a decentralized autonomous organization that operates the DAI stablecoin, a cryptocurrency pegged to the US dollar. Users can create DAI by depositing [collateral](../c/collateral.md) in the form of other cryptocurrencies into [smart contracts](../s/smart_contracts_in_trading.md).
 
 ### 3.4 Chainlink
-[Chainlink](https://chain.link/) provides decentralized oracles that allow [smart contracts](../s/smart_contracts_in_trading.md) to securely interact with external data sources, APIs, and [payment](../p/payment.md) systems. Oracles are crucial for bringing off-chain data onto the [blockchain](../b/blockchain_in_trading.md).
+Chainlink provides decentralized oracles that allow [smart contracts](../s/smart_contracts_in_trading.md) to securely interact with external data sources, APIs, and [payment](../p/payment.md) systems. Oracles are crucial for bringing off-chain data onto the [blockchain](../b/blockchain_in_trading.md).
 
 ### 3.5 Synthetix
-[Synthetix](https://www.synthetix.io/) is a platform for the issuance of synthetic assets, which are financial instruments that replicate the [value](../v/value.md) of real-world assets. Users can create and [trade](../t/trade.md) synthetic versions of [stocks](../s/stock.md), commodities, currencies, and more.
+Synthetix is a platform for the issuance of synthetic assets, which are financial instruments that replicate the [value](../v/value.md) of real-world assets. Users can create and [trade](../t/trade.md) synthetic versions of [stocks](../s/stock.md), commodities, currencies, and more.
 
 ### 3.6 Yearn Finance
-[Yearn Finance](https://yearn.finance/) is a [yield](../y/yield.md) [aggregation](../a/aggregation.md) platform that automatically seeks the highest returns for users by reallocating funds across various DeFi protocols. It simplifies the process of [yield](../y/yield.md) farming for users.
+Yearn Finance is a [yield](../y/yield.md) [aggregation](../a/aggregation.md) platform that automatically seeks the highest returns for users by reallocating funds across various DeFi protocols. It simplifies the process of [yield](../y/yield.md) farming for users.
 
 ## 4. Potential Challenges and Risks
 

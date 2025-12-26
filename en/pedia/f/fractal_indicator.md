@@ -6,20 +6,18 @@ The Fractal [Indicator](../i/indicator.md) is a [technical analysis](../t/techni
 
 At its core, a fractal is a recurring pattern that appears at every scale of [market](../m/market.md) pricing. The Fractal [Indicator](../i/indicator.md) specifically identifies patterns consisting of five consecutive bars (or candlesticks). The formation of a fractal involves a central bar that is higher (or lower, for bearish fractals) than the two bars immediately preceding and succeeding it. Here is a simplified representation:
 
-- **Bullish Fractal**: A lower low is followed and preceded by higher lows on either side.  
-  ```
-         High
-    [1] [2] [3] [4] [5]
-     *   *   * 
-        *       *
-  ```
+- **Bullish Fractal**: A lower low is followed and preceded by higher lows on either side.
+ ```
+ [1] [2] [3] [4] [5]
+ * * *
+ * *
+ ```
 
-- **Bearish Fractal**: A higher high is followed and preceded by lower highs on either side.  
-  ```
-        *       *
-     *   *   * 
-       High
-  ```
+- **Bearish Fractal**: A higher high is followed and preceded by lower highs on either side.
+ ```
+ * *
+ * * *
+ ```
 
 The central bar (labelled [3] in both diagrams) is the highest high or the lowest low among the five.
 
@@ -28,7 +26,7 @@ The central bar (labelled [3] in both diagrams) is the highest high or the lowes
 The Fractal [Indicator](../i/indicator.md) is visually represented on price charts as arrows above or below the bar that constitutes the core of the fractal. The calculation involves these steps:
 
 1. **Identify Potential Fractals**: Scan through the price data to locate bars that meet the criteria outlined above.
-   
+
 2. **Validate Fractals**: Ensure that the bars immediately preceding and succeeding the identified bar also meet the condition of forming a higher high or a lower low.
 
 3. **Plot Fractals**: Once validated, plot the fractal on the chart with arrows indicating either potential bullish or bearish reversals.
@@ -62,7 +60,7 @@ A typical fractal-based algorithm might follow this workflow:
 Let’s consider the implementation of fractal indicators in an [algorithmic trading](../a/accountability.md) platform. Here’s a step-by-step guide:
 
 #### Data Collection
-Collect historical OHLC data for the assets you plan to [trade](../t/trade.md). This can be done using APIs provided by financial data service providers such as [Alpha](../a/alpha.md) Vantage, [QuantConnect](../q/quantconnect.md), or trading platforms like MetaTrader.
+Collect historical OHLC data for the assets you plan to [trade](../t/trade.md). This can be done using APIs provided by financial data service providers such as [Alpha](../a/alpha.md) Vantage, [StockSharp](../s/stocksharp.md), or trading platforms like MetaTrader.
 
 #### Coding the Fractal Detection Algorithm
 Below is a Python pseudocode that depicts the process of detecting fractals:
@@ -72,14 +70,13 @@ def detect_fractals(price_data):
     fractals = {'bullish': [], 'bearish': []}
     for i in [range](../r/range.md)(2, len(price_data) - 2):
         # [Check](../c/check.md) for bullish fractal
-        if (price_data['Low'][i] < price_data['Low'][i-1] and 
-            price_data['Low'][i] < price_data['Low'][i-2] and 
+ if price_data['Low'][i] < price_data['Low'][i-1] and             price_data['Low'][i] < price_data['Low'][i-2] and 
             price_data['Low'][i] < price_data['Low'][i+1] and 
             price_data['Low'][i] < price_data['Low'][i+2]):
             fractals['bullish'].append(i)
         
         # [Check](../c/check.md) for bearish fractal
-        if (price_data['High'][i] > price_data['High'][i-1] and
+ if price_data['High'][i] > price_data['High'][i-1] and
             price_data['High'][i] > price_data['High'][i-2] and
             price_data['High'][i] > price_data['High'][i+1] and
             price_data['High'][i] > price_data['High'][i+2]):
@@ -108,7 +105,7 @@ def generate_signals(price_data, fractals):
 Before deploying the algorithm in a live environment, backtest it using historical data to evaluate its performance. This involves simulating trades based on historical fractal signals and assessing metrics like [return](../r/return.md) on investment (ROI), [drawdown](../d/drawdown.md), and win rate.
 
 #### Deployment
-Once backtested and optimized, deploy the algorithm on a [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/accountability.md) (e.g., MetaTrader, [QuantConnect](../q/quantconnect.md), [Interactive Brokers](../i/interactive_brokers.md)).
+Once backtested and optimized, deploy the algorithm on a [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/accountability.md) (e.g., MetaTrader, [StockSharp](../s/stocksharp.md), [Interactive Brokers](../i/interactive_brokers.md)).
 
 ## Limitations and Considerations
 
@@ -138,4 +135,4 @@ To mitigate some of the limitations, traders often combine the Fractal [Indicato
 
 The Fractal [Indicator](../i/indicator.md) is a valuable tool in the arsenal of technical traders and [algorithmic trading](../a/accountability.md) systems. By identifying significant points in price movements, it provides essential insights into potential [market](../m/market.md) reversals. While it has its limitations, combining fractals with other indicators and techniques can enhance its effectiveness and reliability. As with any [trading strategy](../t/trading_strategy.md), thorough testing and continuous [optimization](../o/optimization.md) are critical to success in leveraging the Fractal [Indicator](../i/indicator.md) in live trading environments.
 
-For those interested in implementing the Fractal [Indicator](../i/indicator.md) in their [trading strategies](../t/trading_strategies.md), numerous resources and tools are available, including trading platforms like MetaTrader and data providers such as [Alpha Vantage](https://www.alphavantage.co/) and [QuantConnect](https://www.quantconnect.com/). These platforms [offer](../o/offer.md) APIs and extensive documentation to help coders and traders design, test, and deploy fractal-based [trading algorithms](../t/trading_algorithms.md).
+For those interested in implementing the Fractal [Indicator](../i/indicator.md) in their [trading strategies](../t/trading_strategies.md), numerous resources and tools are available, including trading platforms like MetaTrader and data providers such as Alpha Vantage and QuantConnect. These platforms [offer](../o/offer.md) APIs and extensive documentation to help coders and traders design, test, and deploy fractal-based [trading algorithms](../t/trading_algorithms.md).

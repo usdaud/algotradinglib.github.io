@@ -78,8 +78,8 @@ Loss aversion is a fundamental concept in [behavioral finance](../b/behavioral_f
 
 For more information about companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and [behavioral finance](../b/behavioral_finance.md) research, you can visit:
 
-- [Kensho Technologies](https://www.kensho.com/)
-- [Quantopian](https://www.quantopian.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Kensho Technologies
+- Quantopian
+- Two Sigma
 
 Each of these companies employs advanced techniques in data analysis and [behavioral finance](../b/behavioral_finance.md) to enhance [trading strategies](../t/trading_strategies.md).

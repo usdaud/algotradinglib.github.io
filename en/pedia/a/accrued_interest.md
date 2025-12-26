@@ -93,5 +93,5 @@ Understanding and managing accrued [interest](../i/interest.md) is crucial for i
 
 For more detailed information on accrued [interest](../i/interest.md), you may visit the following company pages:
 
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [FINCAD](https://fincad.com/)
+- Bloomberg Terminal
+- FINCAD

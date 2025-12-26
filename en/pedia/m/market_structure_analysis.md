@@ -1,26 +1,26 @@
 # Market Structure Analysis
 
-[Market](../m/market.md) structure analysis is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that involves understanding the various elements and characteristics that define the [financial markets](../f/financial_market.md) where trading activities take place. This analysis helps in identifying opportunities, understanding risks, optimizing strategies, and enhancing the performance of [algorithmic trading](../a/algorithmic_trading.md) systems. 
+[Market](../m/market.md) structure analysis is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that involves understanding the various elements and characteristics that define the [financial markets](../f/financial_market.md) where trading activities take place. This analysis helps in identifying opportunities, understanding risks, optimizing strategies, and enhancing the performance of [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## Key Elements of Market Structure
 
 1. **[Market](../m/market.md) Participants**
-    - [Market](../m/market.md) participants include institutional investors, retail traders, [market](../m/market.md) makers, [hedge](../h/hedge.md) funds, high-frequency traders (HFTs), and regulatory bodies. Each participant plays a distinct role in the [market](../m/market.md), contributing to its [liquidity](../l/liquidity.md), [efficiency](../e/efficiency.md), and overall behavior.
+ - [Market](../m/market.md) participants include institutional investors, retail traders, [market](../m/market.md) makers, [hedge](../h/hedge.md) funds, high-frequency traders (HFTs), and regulatory bodies. Each participant plays a distinct role in the [market](../m/market.md), contributing to its [liquidity](../l/liquidity.md), [efficiency](../e/efficiency.md), and overall behavior.
 
 2. **[Market](../m/market.md) Venues**
-    - Trading occurs across various types of [market](../m/market.md) venues including exchanges (e.g., NYSE, [NASDAQ](../n/nasdaq.md)), [dark pools](../d/dark_pools.md), Electronic Communication Networks (ECNs), and [Over-the-Counter (OTC) markets](../o/over-the-counter_markets.md). Each venue has unique characteristics in terms of [liquidity](../l/liquidity.md), [transparency](../t/transparency.md), and accessibility.
+ - Trading occurs across various types of [market](../m/market.md) venues including exchanges (e.g., NYSE, [NASDAQ](../n/nasdaq.md)), [dark pools](../d/dark_pools.md), Electronic Communication Networks (ECNs), and [Over-the-Counter (OTC) markets](../o/over-the-counter_markets.md). Each venue has unique characteristics in terms of [liquidity](../l/liquidity.md), [transparency](../t/transparency.md), and accessibility.
 
 3. **[Liquidity](../l/liquidity.md)**
-    - [Liquidity](../l/liquidity.md) refers to the ease with which assets can be bought or sold in the [market](../m/market.md) without causing significant price changes. It is a vital aspect, as highly [liquid](../l/liquid.md) markets facilitate smoother and more efficient trading.
+ - [Liquidity](../l/liquidity.md) refers to the ease with which assets can be bought or sold in the [market](../m/market.md) without causing significant price changes. It is a vital aspect, as highly [liquid](../l/liquid.md) markets facilitate smoother and more efficient trading.
 
 4. **[Order Types](../o/order_types_in_trading.md) and [Execution](../e/execution.md)**
-    - The [market](../m/market.md) structure includes various [order types](../o/order_types_in_trading.md) such as [market](../m/market.md) orders, limit orders, stop orders, and more sophisticated types like iceberg orders. [Execution](../e/execution.md) mechanisms dictate how these orders are processed and matched in the [market](../m/market.md).
+ - The [market](../m/market.md) structure includes various [order types](../o/order_types_in_trading.md) such as [market](../m/market.md) orders, limit orders, stop orders, and more sophisticated types like iceberg orders. [Execution](../e/execution.md) mechanisms dictate how these orders are processed and matched in the [market](../m/market.md).
 
 5. **[Market Microstructure](../m/market_microstructure.md)**
-    - [Market microstructure](../m/market_microstructure.md) focuses on the mechanics of trading and the process through which [market](../m/market.md) participants' orders are executed. This includes understanding [bid](../b/bid.md)-ask [spreads](../s/spreads.md), [order book dynamics](../o/order_book_dynamics.md), [tick](../t/tick.md) sizes, latency, and how these elements impact [trading strategies](../t/trading_strategies.md).
+ - [Market microstructure](../m/market_microstructure.md) focuses on the mechanics of trading and the process through which [market](../m/market.md) participants' orders are executed. This includes understanding [bid](../b/bid.md)-ask [spreads](../s/spreads.md), [order book dynamics](../o/order_book_dynamics.md), [tick](../t/tick.md) sizes, latency, and how these elements impact [trading strategies](../t/trading_strategies.md).
 
 6. **Regulations and Compliance**
-    - [Financial markets](../f/financial_market.md) are heavily regulated to ensure fair trading practices and protect [market](../m/market.md) integrity. Regulations may vary across different regions and [market](../m/market.md) venues, and they can significantly influence the behavior of [market](../m/market.md) participants.
+ - [Financial markets](../f/financial_market.md) are heavily regulated to ensure fair trading practices and protect [market](../m/market.md) integrity. Regulations may vary across different regions and [market](../m/market.md) venues, and they can significantly influence the behavior of [market](../m/market.md) participants.
 
 ## Metrics and Tools for Market Structure Analysis
 
@@ -62,13 +62,13 @@ By analyzing [market](../m/market.md) structure elements, traders can evaluate t
 ## Case Studies and Examples
 
 ### 1. **High-Frequency Trading Firms**
-High-frequency trading firms like Virtu Financial [Virtu Financial](https://www.virtu.com), and Citadel Securities [Citadel Securities](https://www.citadelsecurities.com) extensively analyze [market](../m/market.md) structures to optimize their [trading algorithms](../t/trading_algorithms.md). They focus on microsecond-level latency, [market microstructure](../m/market_microstructure.md), and real-time data to achieve competitive advantages.
+High-frequency trading firms like Virtu Financial Virtu Financial, and Citadel Securities Citadel Securities extensively analyze [market](../m/market.md) structures to optimize their [trading algorithms](../t/trading_algorithms.md). They focus on microsecond-level latency, [market microstructure](../m/market_microstructure.md), and real-time data to achieve competitive advantages.
 
 ### 2. **Institutional Investors**
-Institutional investors such as BlackRock [BlackRock](https://www.blackrock.com) and Vanguard [Vanguard](https://www.vanguard.com) use [market](../m/market.md) structure analysis to manage large portfolios and execute trades efficiently. They [leverage](../l/leverage.md) TCA and [volume analysis](../v/volume_analysis.md) to minimize costs and enhance returns.
+Institutional investors such as BlackRock BlackRock and Vanguard Vanguard use [market](../m/market.md) structure analysis to manage large portfolios and execute trades efficiently. They [leverage](../l/leverage.md) TCA and [volume analysis](../v/volume_analysis.md) to minimize costs and enhance returns.
 
 ### 3. **Retail Trading Platforms**
-Retail trading platforms like [Robinhood](../r/robinhood.md) [Robinhood](https://www.robinhood.com) and [Interactive Brokers](../i/interactive_brokers.md) [Interactive Brokers](https://www.interactivebrokers.com) analyze [market](../m/market.md) structures to provide better [execution](../e/execution.md) quality for individual traders. They focus on [order routing](../o/order_routing.md), [execution](../e/execution.md) speed, and [transparency](../t/transparency.md) to improve user experience.
+Retail trading platforms like [Robinhood](../r/robinhood.md) Robinhood and [Interactive Brokers](../i/interactive_brokers.md) Interactive Brokers analyze [market](../m/market.md) structures to provide better [execution](../e/execution.md) quality for individual traders. They focus on [order routing](../o/order_routing.md), [execution](../e/execution.md) speed, and [transparency](../t/transparency.md) to improve user experience.
 
 ## Challenges in Market Structure Analysis
 

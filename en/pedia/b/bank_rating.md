@@ -28,27 +28,24 @@ Several prominent agencies provide [bank](../b/bank.md) ratings. The most recogn
 
 Standard & Poor's, a division of S&P Global, is a leading provider of financial [market](../m/market.md) intelligence and ratings. S&P's ratings are based on a thorough analysis of a [bank](../b/bank.md)'s [financial statements](../f/financial_statements.md), including its [asset](../a/asset.md) quality, [capital](../c/capital.md) adequacy, [earnings](../e/earnings.md), and [liquidity](../l/liquidity.md).
 
-[Standard & Poor's - Bank Ratings](https://www.spglobal.com/en/research-insights/articles/welcome-to-s-p-global-ratings)
+Standard & Poor's - Bank Ratings
 
 ### Moody's Investors Service
 
 Moody's, another major [credit rating](../c/credit_rating.md) agency, issues ratings that reflect the long-term [credit risk](../c/credit_risk.md) of banks. Their ratings are grounded in detailed [financial analysis](../f/financial_analysis.md) and [market](../m/market.md) data, considering both qualitative and quantitative factors.
 
-[Moody's - Bank Ratings](https://www.moodys.com/)
+Moody's - Bank Ratings
 
 ### Fitch Ratings
 
 [Fitch Ratings](../f/fitch_ratings.md) offers independent and prospective [credit](../c/credit.md) opinions on banks. [Fitch ratings](../f/fitch_ratings.md) incorporate an analysis of the [bank](../b/bank.md)'s [business](../b/business.md) model, [financial performance](../f/financial_performance.md), and strategic positioning within the [market](../m/market.md).
 
-[Fitch Ratings - Financial Institutions](https://www.fitchratings.com/)
 
 ### Other Notable Agencies
 
 Besides the big three, other agencies include Kroll [Bond Rating](../b/bond_rating.md) Agency (KBRA), DBRS [Morningstar](../m/morningstar.md), and A.M. Best, each providing distinct methodologies for evaluating [bank](../b/bank.md) [creditworthiness](../c/creditworthiness.md).
 
-[Kroll Bond Rating Agency](https://www.krollbondratings.com/)
-[DBRS Morningstar](https://www.dbrsmorningstar.com/)
-[A.M. Best](http://www.ambest.com/)
+A.M. Best
 
 ## Factors Affecting Bank Ratings
 

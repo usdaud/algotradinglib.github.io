@@ -15,11 +15,11 @@ Where:
 
 For European call (C) and put (P) [options](../o/options.md), the formulas for Rho are:
 
-- For a European [call option](../c/call_option.md): 
-  \[ \rho_{call} = \frac{\partial C}{\partial r} = t \cdot K \cdot e^{-rt} \cdot N(d_2) \]
+- For a European [call option](../c/call_option.md):
+ \[ \rho_{call} = \frac{\partial C}{\partial r} = t \cdot K \cdot e^{-rt} \cdot N(d_2) \]
 
 - For a European [put option](../p/put.md):
-  \[ \rho_{put} = \frac{\partial P}{\partial r} = -t \cdot K \cdot e^{-rt} \cdot N(-d_2) \]
+ \[ \rho_{put} = \frac{\partial P}{\partial r} = -t \cdot K \cdot e^{-rt} \cdot N(-d_2) \]
 
 Where:
 - \( K \) is the [strike price](../s/strike_price.md).
@@ -64,7 +64,7 @@ Firms analyzing their [equity financing](../e/equity_financing.md) [options](../
 
 ## Fintech and Algorithmic Trading
 
-In the fintech and [algorithmic trading](../a/accountability.md) realm, Rho is integrated into sophisticated [trading algorithms](../t/trading_algorithms.md) to develop automated strategies. These algorithms can adjust dynamically to [interest rate](../i/interest_rate.md) forecasts, enhancing the [efficiency](../e/efficiency.md) and responsiveness of [trading systems](../t/trading_systems.md).
+In the fintech and [algorithmic trading](../a/algorithmic_trading.md) realm, Rho is integrated into sophisticated [trading algorithms](../t/trading_algorithms.md) to develop automated strategies. These algorithms can adjust dynamically to [interest rate](../i/interest_rate.md) forecasts, enhancing the [efficiency](../e/efficiency.md) and responsiveness of [trading systems](../t/trading_systems.md).
 
 ### Algorithmic Trading
 Algorithmic traders design and deploy algorithms that account for [multiple](../m/multiple.md) [Greeks](../g/greeks.md), including Rho. By considering Rho, these algorithms can better manage positions and balance trading portfolios in response to real-time [interest rate](../i/interest_rate.md) movements. This is particularly crucial for high-frequency [trading systems](../t/trading_systems.md) where rapid adjustments are key to profitability.
@@ -73,7 +73,7 @@ Algorithmic traders design and deploy algorithms that account for [multiple](../
 Fintech platforms that [offer](../o/offer.md) [options](../o/options.md) trading services might embed Rho calculators and [risk](../r/risk.md) assessments into their tools. These platforms enable traders to simulate how [interest rate](../i/interest_rate.md) changes affect their [options](../o/options.md) and adjust their strategies accordingly.
 
 #### Example: Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) [Interactive Brokers](https://www.interactivebrokers.com/), a leading online brokerage, provides tools and analytics that incorporate Rho within their [options](../o/options.md) pricing models. Traders using [Interactive Brokers](../i/interactive_brokers.md)' platform can [leverage](../l/leverage.md) these tools to analyze the [interest rate risk](../i/interest_rate_risk.md) of their [options](../o/options.md) positions.
+[Interactive Brokers](../i/interactive_brokers.md) Interactive Brokers, a leading online brokerage, provides tools and analytics that incorporate Rho within their [options](../o/options.md) pricing models. Traders using [Interactive Brokers](../i/interactive_brokers.md)' platform can [leverage](../l/leverage.md) these tools to analyze the [interest rate risk](../i/interest_rate_risk.md) of their [options](../o/options.md) positions.
 
 ## Challenges and Limitations
 
@@ -95,4 +95,4 @@ Rho is just one of the several [Greeks](../g/greeks.md) used in [options](../o/o
 
 Rho remains an integral part of the toolkit for traders and investors dealing with [options](../o/options.md) and other [financial derivatives](../f/financial_derivatives.md). Its ability to capture the sensitivity of option prices to [interest rate](../i/interest_rate.md) changes offers valuable insights, particularly in dynamic [interest rate](../i/interest_rate.md) environments. By understanding and leveraging Rho, traders can enhance their [risk management](../r/risk_management.md) practices and strategize more effectively, whether they are managing portfolios, designing [trading algorithms](../t/trading_algorithms.md), or making [equity financing](../e/equity_financing.md) decisions.
 
-As [financial markets](../f/financial_market.md) continue to evolve with advances in technology and [algorithmic trading](../a/accountability.md), the role of Rho and other [Greeks](../g/greeks.md) [will](../w/will.md) only become more significant. Traders and fintech platforms that harness the power of Rho effectively can potentially [gain](../g/gain.md) a competitive edge in navigating the complexities of modern [financial markets](../f/financial_market.md). Understanding the nuances of Rho and integrating it into broader [trading strategies](../t/trading_strategies.md) [will](../w/will.md) remain a crucial skill for success in the ever-changing world of [options](../o/options.md) trading and [finance](../f/finance.md).
+As [financial markets](../f/financial_market.md) continue to evolve with advances in technology and [algorithmic trading](../a/algorithmic_trading.md), the role of Rho and other [Greeks](../g/greeks.md) [will](../w/will.md) only become more significant. Traders and fintech platforms that harness the power of Rho effectively can potentially [gain](../g/gain.md) a competitive edge in navigating the complexities of modern [financial markets](../f/financial_market.md). Understanding the nuances of Rho and integrating it into broader [trading strategies](../t/trading_strategies.md) [will](../w/will.md) remain a crucial skill for success in the ever-changing world of [options](../o/options.md) trading and [finance](../f/finance.md).

@@ -19,7 +19,7 @@ The [trust](../t/trust.md) corpus is the collection of assets, including cash, [
 ### Generation-Skipping Transfer Tax (GSTT)
 The Generation-Skipping [Transfer Tax](../t/transfer_tax.md) is a federal tax imposed on transfers of property to a [beneficiary](../b/beneficiary.md) who is at least two generations removed from the [grantor](../g/grantor.md) (i.e., typically the grandchildren). The tax is designed to prevent families from avoiding [estate](../e/estate.md) and gift [taxes](../t/taxes.md) through generation-skipping transfers.
 
-The GSTT has specific exemptions and limits, which are periodically reviewed and updated by the Internal [Revenue](../r/revenue.md) Service (IRS). For instance, as of 2023, the GSTT [exemption](../e/exemption.md) amount is $12.92 million per individual, meaning any generation-skipping gifts below this amount [will](../w/will.md) not be subject to the GSTT.
+The GSTT has specific exemptions and limits, which are periodically reviewed and updated by the Internal [Revenue](../r/revenue.md) Service (IRS). For instance, as of 2025, the GSTT [exemption](../e/exemption.md) amount is $13.99 million per individual, meaning any generation-skipping gifts below this amount [will](../w/will.md) not be subject to the GSTT.
 
 ## Advantages of Generation-Skipping Trusts
 
@@ -68,13 +68,13 @@ The concept of a Generation-Skipping [Trust](../t/trust.md) can be illustrated b
 
 The Walton family, heirs to the Walmart fortune, have often been cited as adept users of various [trust](../t/trust.md) arrangements, including Generation-Skipping Trusts. Through careful [estate planning](../e/estate_planning.md), the Waltons have managed to preserve their [wealth](../w/wealth.md) across [multiple](../m/multiple.md) generations while minimizing their tax [obligations](../o/obligation.md).
 
-Reference: [Walmart Corporate](https://corporate.walmart.com/)
+Reference: Walmart Corporate
 
 ### Case Study: The Hilton Family
 
 Another notable example is the Hilton family of the Hilton Hotels fame. Through the use of sophisticated trusts, including GSTs, they have protected and maintained their [wealth](../w/wealth.md), ensuring that their financial legacy endures through successive generations.
 
-Reference: [Hilton](https://www.hilton.com/)
+Reference: Hilton
 
 ## Conclusion
 

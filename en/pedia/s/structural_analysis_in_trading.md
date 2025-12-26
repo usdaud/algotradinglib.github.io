@@ -4,7 +4,7 @@
 Structural analysis in trading refers to the formal and quantitative examination of [market](../m/market.md) data to identify, understand, and exploit patterns, relationships, and structures within [financial markets](../f/financial_market.md). This analytical approach leverages various mathematical, statistical, and computational techniques to uncover inherent [market](../m/market.md) mechanics that can inform [trading strategies](../t/trading_strategies.md) and improve decision-making processes. It is used extensively in [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on pre-defined rules derived from structural [market](../m/market.md) patterns.
 
 ## Understanding Market Structure
-[Market](../m/market.md) structure refers to the composition and functioning of [financial markets](../f/financial_market.md). It includes the organization of [market](../m/market.md) participants (such as brokers, institutional investors, retail traders), the interaction mechanisms ([order](../o/order.md) matching, auctions), and the regulatory frameworks governing these interactions. Structural analysis dives deep into understanding these components to determine how they impact price movements and [liquidity](../l/liquidity.md). 
+[Market](../m/market.md) structure refers to the composition and functioning of [financial markets](../f/financial_market.md). It includes the organization of [market](../m/market.md) participants (such as brokers, institutional investors, retail traders), the interaction mechanisms ([order](../o/order.md) matching, auctions), and the regulatory frameworks governing these interactions. Structural analysis dives deep into understanding these components to determine how they impact price movements and [liquidity](../l/liquidity.md).
 
 ### Key Elements of Market Structure
 1. **[Market](../m/market.md) Participants:** Traders, [market](../m/market.md) makers, institutional investors, retail investors, etc.
@@ -78,17 +78,14 @@ Several firms are leading the way in leveraging structural analysis for [algorit
 ### Two Sigma
 Two Sigma is a technology-driven [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced engineering to identify trading opportunities. Their approach is deeply rooted in thorough structural analysis of [market](../m/market.md) data.
 
-[Two Sigma Website](https://www.twosigma.com)
 
 ### Renaissance Technologies
 Renaissance Technologies is known for its use of [quantitative models](../q/quantitative_models.md) derived from structural analysis and statistical methods to execute [trading strategies](../t/trading_strategies.md). Their Medallion [Fund](../f/fund.md) is one of the most successful [hedge](../h/hedge.md) funds utilizing these techniques.
 
-[Renaissance Technologies Website](https://www.rentec.com)
 
 ### Citadel Securities
 Citadel Securities is a leading [market maker](../m/market_maker.md) that employs sophisticated algorithms to execute trades. Their focus on structural analysis allows them to provide [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes efficiently.
 
-[Citadel Securities Website](https://www.citadelsecurities.com)
 
 ## Conclusion
 Structural analysis in trading is an essential component of modern [financial markets](../f/financial_market.md), providing traders and firms with the tools and methodologies to decode complex [market dynamics](../m/market_dynamics.md). By leveraging structural analysis, traders can develop [robust](../r/robust.md) algorithmic strategies, optimize their decision-making processes, and ultimately achieve more consistent trading success. The continuous evolution of computational power and [data analysis techniques](../d/data_analysis_techniques.md) [will](../w/will.md) likely further enhance the capabilities and applications of structural analysis in trading.

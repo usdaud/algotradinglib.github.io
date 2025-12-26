@@ -73,7 +73,7 @@ Deutsche [Bank](../b/bank.md) was implicated in a mirror trading scheme, where R
 The identification of beneficial owners is a cornerstone of regulatory compliance and [market](../m/market.md) integrity in the financial [industry](../i/industry.md). Despite the challenges, the use of advanced technologies and adherence to international standards can significantly enhance the process. As regulatory scrutiny continues to increase, financial institutions must prioritize the identification and verification of beneficial owners to mitigate risks and maintain [trust](../t/trust.md) in the [financial system](../f/financial_system.md).
 
 For further information on relevant regulatory frameworks and tools, you might visit:
-- [Financial Action Task Force (FATF)](https://www.fatf-gafi.org)
-- [European Commission - Fourth AML Directive](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/financial-supervision-and-risk-management/anti-money-laundering-and-counter-terrorist-financing_en)
-- [Financial Crimes Enforcement Network (FinCEN)](https://www.fincen.gov)
-- [Chainalysis](https://www.chainalysis.com)
+- Financial Action Task Force (FATF)
+- European Commission - Fourth AML Directive
+- Financial Crimes Enforcement Network (FinCEN)
+- Chainalysis

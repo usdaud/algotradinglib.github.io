@@ -13,13 +13,13 @@ The primary purpose of Form 1095-C is to report whether an employer offered [hea
 Form 1095-C consists of several parts, each providing crucial information regarding employer-provided health coverage:
 
 1. **Part I: Employee and Employer Information**
-    - This section includes basic details about the employee and the employer, such as names, addresses, and [Social Security](../s/social_security.md) Numbers (SSNs) or Employer Identification Numbers (EINs).
+ - This section includes basic details about the employee and the employer, such as names, addresses, and [Social Security](../s/social_security.md) Numbers (SSNs) or Employer Identification Numbers (EINs).
 
 2. **Part II: Employee [Offer](../o/offer.md) and Coverage**
-    - This part details the type of health coverage offered to the employee, the lowest-cost monthly [premium](../p/premium.md) for self-only coverage, and the applicable safe harbor codes, if any.
+ - This part details the type of health coverage offered to the employee, the lowest-cost monthly [premium](../p/premium.md) for self-only coverage, and the applicable safe harbor codes, if any.
 
 3. **Part III: Covered Individuals**
-    - This section is filled out only if the employer provides self-insured coverage, listing all individuals covered under the employer’s health plan, including employees and their dependents.
+ - This section is filled out only if the employer provides self-insured coverage, listing all individuals covered under the employer’s health plan, including employees and their dependents.
 
 ## Reporting Requirements for Employers
 
@@ -53,13 +53,13 @@ Some of the considerations for an algo trading [firm](../f/firm.md) regarding Fo
 
 Several software solutions and services can assist employers, including algo trading firms, in managing their Form 1095-C compliance. These tools can simplify data collection, form generation, and submission to the IRS.
 
-### ADP [ADP Employer Services](https://www.adp.com/)
+### ADP ADP Employer Services
 ADP offers comprehensive services, including ACA compliance solutions that help businesses manage Form 1095-C requirements efficiently.
 
-### Paychex [Paychex ACA Reporting](https://www.paychex.com/)
+### Paychex Paychex ACA Reporting
 Paychex provides ACA reporting services that streamline the process of filing Form 1095-C and other ACA-related documents.
 
-### Zenefits [Zenefits Benefits](https://www.zenefits.com/)
+### Zenefits Zenefits Benefits
 Zenefits offers a suite of HR solutions, including tools for ACA compliance and Form 1095-C reporting.
 
 Companies leveraging such tools can mitigate the [risk](../r/risk.md) of penalties and ensure seamless compliance with ACA requirements.

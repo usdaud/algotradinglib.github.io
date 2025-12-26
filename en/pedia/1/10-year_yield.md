@@ -57,9 +57,9 @@ Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) c
 ## Notable Resources
 
 ### Websites
-- [U.S. Department of the Treasury](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield)
-- [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/DGS10)
-- [Investopedia](https://www.investopedia.com/terms/1/10-yeartreasury.asp)
+- U.S. Department of the Treasury
+- Federal Reserve Economic Data (FRED)
+- Investopedia
 
 ## Conclusion
 The 10-year [yield](../y/yield.md) is a potent financial metric with wide-ranging implications for economic policy, [market](../m/market.md) conditions, and investment strategies. For those engaged in [algorithmic trading](../a/algorithmic_trading.md), understanding and accurately predicting the movements of the 10-year [yield](../y/yield.md) can provide a significant edge. Whether you're employing simple [quantitative models](../q/quantitative_models.md) or advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md), the 10-year [yield](../y/yield.md) is an indispensable component of sophisticated [trading strategies](../t/trading_strategies.md).

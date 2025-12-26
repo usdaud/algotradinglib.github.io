@@ -11,7 +11,7 @@ In the realm of [finance](../f/finance.md) and [investing](../i/investing.md), c
 2. **Mid-Cap**: Companies with a [market capitalization](../m/market_capitalization.md) between $2 billion and $10 billion.
 3. **Small-Cap**: Companies with a [market capitalization](../m/market_capitalization.md) of $300 million to $2 billion.
 
-Mid-cap companies occupy the middle ground in this spectrum, providing a blend of stability and growth potential. 
+Mid-cap companies occupy the middle ground in this spectrum, providing a blend of stability and growth potential.
 
 ### Characteristics of Mid-Cap Companies
 
@@ -82,9 +82,9 @@ The effectiveness of a company's management team can significantly impact its su
 
 Several well-known companies fall within the mid-cap [range](../r/range.md). Examples include:
 
-1. **Axon Enterprise, Inc.**: A company that develops technology and weapons products for law enforcement. [Axon Enterprise](https://www.axon.com/)
-2. **Deckers Outdoor [Corporation](../c/corporation.md)**: Known for its footwear and apparel brands, including UGG. [Deckers Brands](https://www.deckers.com/)
-3. **Domino’s Pizza, Inc.**: A widely recognized pizza delivery and restaurant chain. [Domino's](https://www.dominos.com/)
+1. **Axon Enterprise, Inc.**: A company that develops technology and weapons products for law enforcement. Axon Enterprise
+2. **Deckers Outdoor [Corporation](../c/corporation.md)**: Known for its footwear and apparel brands, including UGG. Deckers Brands
+3. **Domino’s Pizza, Inc.**: A widely recognized pizza delivery and restaurant chain. Domino's
 
 Each of these companies illustrates the diversity and potential within the mid-cap space, ranging from technology and apparel to food services.
 

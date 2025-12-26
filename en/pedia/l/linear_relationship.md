@@ -11,7 +11,7 @@ Here, \( y \) is the dependent variable, \( x \) is the independent variable, \(
 Linear relationships can be used in various financial contexts:
 - **Stock Price Prediction**: By analyzing historical price data, traders can identify a linear relationship between the stock prices and time to predict future prices.
 - **[Risk Management](../r/risk_management.md)**: Understanding the linear relationship between different financial instruments helps in diversifying portfolios and managing risks.
-- **[Algorithmic Trading](../a/accountability.md)**: Many [trading algorithms](../t/trading_algorithms.md) rely on statistical methods that assume linear relationships among different [market](../m/market.md) variables for decision-making.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Many [trading algorithms](../t/trading_algorithms.md) rely on statistical methods that assume linear relationships among different [market](../m/market.md) variables for decision-making.
 
 ### Examples of Linear Relationships in Finance
 
@@ -38,7 +38,7 @@ Where:
 
 In cases where [multiple](../m/multiple.md) factors may influence an outcome, [multiple linear regression](../m/multiple_linear_regression.md) is used. The model is represented as:
 
-\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \ldots + \beta_n  X_n + \epsilon \]
+\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \ldots + \beta_n X_n + \epsilon \]
 
 Where:
 - **Y**: Dependent variable.
@@ -89,7 +89,7 @@ Where:
 
 ### Predictive Modeling
 
-[Algorithmic trading](../a/accountability.md) often employs [machine learning](../m/machine_learning.md) and statistical methods to predict future price movements based on historical data. [Linear regression](../l/linear_regression.md) is one of the simplest, yet powerful models used in creating predictive algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) often employs [machine learning](../m/machine_learning.md) and statistical methods to predict future price movements based on historical data. [Linear regression](../l/linear_regression.md) is one of the simplest, yet powerful models used in creating predictive algorithms.
 
 ### Portfolio Optimization
 
@@ -107,7 +107,7 @@ Fintech companies [leverage](../l/leverage.md) linear relationships to automate 
 
 #### Hypothetical Strategy
 
-Let's consider an [algorithmic trading](../a/accountability.md) strategy that predicts stock prices based on historical data using [simple linear regression](../s/simple_linear_regression.md):
+Let's consider an [algorithmic trading](../a/algorithmic_trading.md) strategy that predicts stock prices based on historical data using [simple linear regression](../s/simple_linear_regression.md):
 1. **Data Collection**: Gather historical price data for a stock.
 2. **Model Training**: Use [simple linear regression](../s/simple_linear_regression.md) to establish a relationship between past stock prices and time.
 3. **Prediction**: Use the trained model to predict future prices.
@@ -153,8 +153,8 @@ plt.show()
 
 Several fintech and trading companies [leverage](../l/leverage.md) linear relationships and advanced algorithms to deliver cutting-edge solutions:
 
-1. **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/): An [algorithmic trading](../a/accountability.md) platform providing tools for developing and testing [trading strategies](../t/trading_strategies.md).
-2. **AlphaSense** (https://www.[alpha](../a/alpha.md)-sense.com/): Uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide [market](../m/market.md) intelligence and investment insights.
-3. **Zest AI** (https://www.zest.ai/): Leverages [machine learning](../m/machine_learning.md) and statistical models to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md).
+1. **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing tools for developing and testing [trading strategies](../t/trading_strategies.md).
+2. **AlphaSense** ( Uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) to provide [market](../m/market.md) intelligence and investment insights.
+3. **Zest AI** ( Leverages [machine learning](../m/machine_learning.md) and statistical models to improve [credit](../c/credit.md) [underwriting](../u/underwriting.md).
 
 The implementation of linear relationships in [finance](../f/finance.md) and trading is deeply rooted in theory yet practically effective, making it a cornerstone of modern [financial analysis](../f/financial_analysis.md) and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).

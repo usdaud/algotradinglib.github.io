@@ -58,7 +58,7 @@ Central banks closely monitor gilt yields to gauge the state of the [economy](..
 
 ### Risk Aversion
 
-For [risk-averse](../r/risk-averse.md) investors, adding [gilts](../g/gilts.md) to a portfolio can provide a stable [income](../i/income.md) stream and reduce overall portfolio [risk](../r/risk.md). 
+For [risk-averse](../r/risk-averse.md) investors, adding [gilts](../g/gilts.md) to a portfolio can provide a stable [income](../i/income.md) stream and reduce overall portfolio [risk](../r/risk.md).
 
 ### Diversification
 
@@ -72,9 +72,9 @@ Even for more aggressive portfolios, allocating a portion to [gilts](../g/gilts.
 
 Here are some major players and platforms involved in the gilt-edged [bond market](../b/bond_market.md):
 
-- **London Stock [Exchange](../e/exchange.md) (LSE)**: The [primary market](../p/primary_market.md) for trading [gilts](../g/gilts.md) in the UK. More details can be found at [LSE's Official Website](https://www.londonstockexchange.com).
-- **UK [Debt](../d/debt.md) Management Office (DMO)**: This government agency is responsible for [debt](../d/debt.md) issuance and gilt auctions. For more information, visit [DMO's Official Site](https://www.dmo.gov.uk).
-- **[Bank](../b/bank.md) of England**: It plays a significant role in the gilt [market](../m/market.md), both through its [monetary policy](../m/monetary_policy.md) operations and as an [investor](../i/investor.md). For comprehensive insights, [check](../c/check.md) [Bank of England's Official Page](https://www.bankofengland.co.uk).
+- **London Stock [Exchange](../e/exchange.md) (LSE)**: The [primary market](../p/primary_market.md) for trading [gilts](../g/gilts.md) in the UK. More
+- **UK [Debt](../d/debt.md) Management Office (DMO)**: This government agency is responsible for [debt](../d/debt.md) issuance and gilt auctions.
+- **[Bank](../b/bank.md) of England**: It plays a significant role in the gilt [market](../m/market.md), both through its [monetary policy](../m/monetary_policy.md) operations and as an [investor](../i/investor.md). For comprehensive insights, [check](../c/check.md) Bank of England's public materials.
 
 ## Historical Context
 

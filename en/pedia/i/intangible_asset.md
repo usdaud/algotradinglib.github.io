@@ -92,10 +92,10 @@ Microsoft [Corporation](../c/corporation.md) holds numerous patents and copyrigh
 The Coca-Cola Company’s brand is one of the most recognized in the world. Its secret formula, trademarks, and strong [customer](../c/customer.md) relationships are critical intangible assets that have helped the company maintain its dominance in the beverage [industry](../i/industry.md).
 
 For more information, visit:
-- Apple Inc.: [Apple](https://www.apple.com)
-- Google LLC: [Google](https://about.google)
-- Microsoft [Corporation](../c/corporation.md): [Microsoft](https://www.microsoft.com)
-- The Coca-Cola Company: [Coca-Cola](https://www.coca-cola.com)
+- Apple Inc.: Apple
+- Google LLC: Google
+- Microsoft [Corporation](../c/corporation.md): Microsoft
+- The Coca-Cola Company: Coca-Cola
 
 ## Conclusion
 

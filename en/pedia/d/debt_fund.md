@@ -98,15 +98,15 @@ The [expense ratio](../e/expense_ratio.md) of a [fund](../f/fund.md) impacts ove
 
 ### **1. Vanguard**
 
-Vanguard is one of the world's largest [investment management](../i/investment_management.md) companies and offers a [range](../r/range.md) of [debt](../d/debt.md) funds with varying maturities and [risk profiles](../r/risk_profiles.md). More information about their [offering](../o/offering.md) can be found on their [official website](https://investor.vanguard.com/mutual-funds/debt).
+Vanguard is one of the world's largest [investment management](../i/investment_management.md) companies and offers a [range](../r/range.md) of [debt](../d/debt.md) funds with varying maturities and [risk profiles](../r/risk_profiles.md). More information about their [offering](../o/offering.md)
 
 ### **2. BlackRock**
 
-BlackRock provides a comprehensive suite of fixed-[income](../i/income.md) mutual funds aimed at addressing diverse [investor](../i/investor.md) needs. Detailed information is available on the [BlackRock website](https://www.blackrock.com/us/individual/solutions/mutual-funds/fixed-income).
+BlackRock provides a comprehensive suite of fixed-[income](../i/income.md) mutual funds aimed at addressing diverse [investor](../i/investor.md)
 
 ### **3. PIMCO**
 
-PIMCO specializes in [fixed income](../f/fixed_income.md) management and offers a broad array of [debt](../d/debt.md) funds that cater to different investment goals and [risk](../r/risk.md) appetites. Their offerings are detailed on the [PIMCO website](https://www.pimco.com/en-us/investments/mutual-funds/fixed-income).
+PIMCO specializes in [fixed income](../f/fixed_income.md) management and offers a broad array of [debt](../d/debt.md) funds that cater to different investment goals and [risk](../r/risk.md)
 
 ## Conclusion
 

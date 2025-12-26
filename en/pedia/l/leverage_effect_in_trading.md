@@ -58,19 +58,19 @@ Different regions have varying regulations concerning leveraged trading. For ins
 Several well-known brokerage firms [offer](../o/offer.md) leveraged trading:
 
 1. **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its comprehensive offerings and competitive [margin](../m/margin.md) rates.
-   Website: [Interactive Brokers](https://www.interactivebrokers.com)
+ online platform: Interactive Brokers
 
 2. **[IG Group](../i/ig_group.md)**: A prominent provider of CFDs and forex trading with various [leverage](../l/leverage.md) [options](../o/options.md).
-   Website: [IG Group](https://www.ig.com)
+ online platform: IG Group
 
 3. **[eToro](../e/etoro.md)**: Offers [social trading](../s/social_trading.md) and leveraged CFD trading.
-   Website: [eToro](https://www.etoro.com)
+ online platform: eToro
 
 4. **[Saxo Bank](../s/saxo_bank.md)**: Provides a wide [range](../r/range.md) of leveraged trading products including forex, CFDs, and [futures](../f/futures.md).
-   Website: [Saxo Bank](https://www.home.saxo)
+ online platform: Saxo Bank
 
 5. **TD [Ameritrade](../a/ameritrade.md)**: Offers various leveraged products and extensive educational resources.
-   Website: [TD Ameritrade](https://www.tdameritrade.com)
+ online platform: TD Ameritrade
 
 ## Conclusion
 The [leverage](../l/leverage.md) effect in trading is a double-edged sword, capable of amplifying both gains and losses. Understanding how [leverage](../l/leverage.md) works, its benefits, and its risks is fundamental for any [trader](../t/trader.md) looking to use it. Proper [risk management](../r/risk_management.md), continuous education, and selecting the right brokerage platforms are critical steps towards successful leveraged trading.

@@ -84,16 +84,16 @@ Automated trading platforms like MetaTrader, QtTrader, and [ThinkOrSwim](../t/th
 
 [Risk management](../r/risk_management.md) software like [AlgoTrader](../a/algotrader.md) and Hedgetec offers comprehensive tools for portfolio and [risk management](../r/risk_management.md). They include features for real-time [risk](../r/risk.md) assessment, [stress testing](../s/stress_testing_in_trading.md), and [scenario analysis](../s/scenario_analysis.md).
 
-- **[AlgoTrader](../a/algotrader.md):** [AlgoTrader](https://www.algotrader.com)
-- **Hedgetec:** [Hedgetec](https://www.hedgetec.com)
+- **[AlgoTrader](../a/algotrader.md):** AlgoTrader
+- **Hedgetec:** Hedgetec
 
 ### 4.3 APIs and Integration
 
 Application Programming Interfaces (APIs) allow for seamless integration of [trading algorithms](../t/trading_algorithms.md) with brokerages and data providers. Popular APIs include [Interactive Brokers](../i/interactive_brokers.md) API, [Alpaca](../a/alpaca.md) API, and TD [Ameritrade](../a/ameritrade.md) API.
 
-- **[Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers API](https://www.interactivebrokers.com)
-- **[Alpaca](../a/alpaca.md):** [Alpaca API](https://alpaca.markets)
-- **TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade API](https://www.tdameritrade.com)
+- **[Interactive Brokers](../i/interactive_brokers.md):** Interactive Brokers API
+- **[Alpaca](../a/alpaca.md):** Alpaca API
+- **TD [Ameritrade](../a/ameritrade.md):** TD Ameritrade API
 
 ### 4.4 Machine Learning and AI
 
@@ -126,22 +126,22 @@ Regulators closely monitor for potential [market](../m/market.md) abuse and mani
 
 [Commodity](../c/commodity.md) trading firms, such as Vitol and Glencore, use sophisticated [hedging strategies](../h/hedging_strategies.md) to manage exposure to volatile [commodity](../c/commodity.md) prices.
 
-- **Vitol:** [Vitol](https://www.vitol.com)
-- **Glencore:** [Glencore](https://www.glencore.com)
+- **Vitol:** Vitol
+- **Glencore:** Glencore
 
 ### 6.2 Financial Institutions
 
 Large financial institutions like Goldman Sachs and JPMorgan Chase utilize [algorithmic trading](../a/algorithmic_trading.md) strategies to [hedge](../h/hedge.md) their portfolios against [market](../m/market.md) risks.
 
-- **Goldman Sachs:** [Goldman Sachs](https://www.goldmansachs.com)
-- **JPMorgan Chase:** [JPMorgan Chase](https://www.jpmorganchase.com)
+- **Goldman Sachs:** Goldman Sachs
+- **JPMorgan Chase:** JPMorgan Chase
 
 ### 6.3 Hedge Funds
 
 [Hedge](../h/hedge.md) funds like Bridgewater Associates and Renaissance Technologies employ advanced [mathematical models](../m/mathematical_models_in_trading.md) and [trading algorithms](../t/trading_algorithms.md) for hedging and speculative purposes.
 
-- **Bridgewater Associates:** [Bridgewater Associates](https://www.bridgewater.com)
-- **Renaissance Technologies:** [Renaissance Technologies](https://www.rentec.com)
+- **Bridgewater Associates:** Bridgewater Associates
+- **Renaissance Technologies:** Renaissance Technologies
 
 ## 7. Challenges and Future Directions
 

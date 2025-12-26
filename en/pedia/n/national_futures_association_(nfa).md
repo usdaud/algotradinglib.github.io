@@ -14,11 +14,11 @@ The NFA operates with a clear mission to safeguard [market](../m/market.md) inte
 2. **[Market](../m/market.md) Integrity**
 3. **Member Regulation Compliance**
 
-These objectives are achieved through diligent monitoring, regular audits, and aggressive enforcement of compliance rules. 
+These objectives are achieved through diligent monitoring, regular audits, and aggressive enforcement of compliance rules.
 
 ## Membership Requirements
 
-All professionals and firms involved in the [futures](../f/futures.md) [industry](../i/industry.md) are required to register with the NFA, which includes [futures](../f/futures.md) [commission](../c/commission.md) merchants (FCMs), introducing brokers (IBs), [commodity trading advisors](../c/commodity_trading_advisors_(ctas).md) (CTAs), [commodity](../c/commodity.md) pool operators (CPOs), and retail [foreign exchange](../f/foreign_exchange.md) dealers (RFEDs). 
+All professionals and firms involved in the [futures](../f/futures.md) [industry](../i/industry.md) are required to register with the NFA, which includes [futures](../f/futures.md) [commission](../c/commission.md) merchants (FCMs), introducing brokers (IBs), [commodity trading advisors](../c/commodity_trading_advisors_(ctas).md) (CTAs), [commodity](../c/commodity.md) pool operators (CPOs), and retail [foreign exchange](../f/foreign_exchange.md) dealers (RFEDs).
 
 ## Registration and Compliance
 
@@ -104,4 +104,3 @@ NFA’s stringent regulatory framework has significantly enhanced [market](../m/
 
 The National [Futures](../f/futures.md) Association plays a pivotal role in ensuring the integrity and [efficiency](../e/efficiency.md) of the U.S. [futures](../f/futures.md) markets. By enforcing [robust](../r/robust.md) regulatory standards, providing continuous education, and embracing technological advancements, the NFA ensures [investor](../i/investor.md) protection and promotes transparent [market](../m/market.md) practices. The continuous commitment of the NFA towards regulatory compliance and [market](../m/market.md) integrity underscores its critical role in the global [derivatives](../d/derivatives.md) [industry](../i/industry.md).
 
-For more information, you can visit the [National Futures Association (NFA) official website](https://www.nfa.futures.org/).

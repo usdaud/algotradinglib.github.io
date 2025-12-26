@@ -54,9 +54,9 @@ Mothballing activities are subject to various legal and regulatory requirements.
 Mothballing is a strategic decision used across numerous industries to manage assets in times of [uncertainty](../u/uncertainty_in_trading.md) or unfavorable conditions. It offers a way to preserve [value](../v/value.md), minimize losses, and retain the flexibility to reactivate assets when conditions improve. While there are associated costs and regulatory considerations, the benefits of maintaining potential future [value](../v/value.md) often justify these measures. Proper planning, [execution](../e/execution.md), and maintenance are crucial to the success of mothballing initiatives, ensuring that assets remain viable and ready for use.
 
 For more details on mothballing and its applications across various sectors, you can explore the following companies and resources:
-- [ExxonMobil](https://corporate.exxonmobil.com/)
-- [GE Renewable Energy](https://www.ge.com/renewableenergy)
-- [Caterpillar](https://www.caterpillar.com/)
-- [Microsoft Azure](https://azure.microsoft.com/)
+- ExxonMobil
+- GE Renewable Energy
+- Caterpillar
+- Microsoft Azure
 
 The strategic use of mothballing continues to be a valuable tool in the financial and trading sectors, particularly in times of economic [uncertainty](../u/uncertainty_in_trading.md). Understanding the intricacies of the mothballing process allows companies to make informed decisions, preserving assets and positioning themselves for future growth.

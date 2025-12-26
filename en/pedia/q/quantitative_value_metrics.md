@@ -86,7 +86,7 @@ Several financial firms and research studies have showcased the practical implem
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management employs [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [value](../v/value.md)-based models, in its investment approach. By integrating [value](../v/value.md) metrics into their [proprietary algorithms](../p/proprietary_algorithms.md), AQR can manage large portfolios efficiently. More information can be found on their [official website](https://www.aqr.com/).
+AQR [Capital](../c/capital.md) Management employs [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [value](../v/value.md)-based models, in its investment approach. By integrating [value](../v/value.md) metrics into their [proprietary algorithms](../p/proprietary_algorithms.md), AQR can manage large portfolios efficiently.
 
 ### Research on Value Investing
 

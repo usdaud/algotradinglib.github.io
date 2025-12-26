@@ -32,18 +32,18 @@ Statistical models form the backbone of many [algorithmic trading](../a/algorith
 **[Time Series Analysis](../t/time_series_analysis.md)** involves the use of statistical techniques to model and forecast data points indexed over time.
 
 - **Common Methods**:
-  - **ARIMA (AutoRegressive Integrated Moving Average)**: Combines autoregression, differencing, and moving averages to produce forecasts.
-  - **GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md))**: Models and forecasts financial [volatility](../v/volatility.md).
-  - **[Kalman Filter](../k/kalman_filter_in_trading.md)**: Used to infer the hidden states of a system from noisy observations.
+ - **ARIMA (AutoRegressive Integrated Moving Average)**: Combines autoregression, differencing, and moving averages to produce forecasts.
+ - **GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md))**: Models and forecasts financial [volatility](../v/volatility.md).
+ - **[Kalman Filter](../k/kalman_filter_in_trading.md)**: Used to infer the hidden states of a system from noisy observations.
 
 ### Machine Learning Models
 
 **[Machine Learning](../m/machine_learning.md) (ML)** techniques have gained popularity in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to model complex, non-linear relationships in data.
 
 - **[Supervised Learning](../s/supervised_learning.md)**: Models are trained on labeled data to predict outcomes.
-  - **Examples**: [Linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md).
+ - **Examples**: [Linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md).
 - **[Unsupervised Learning](../u/unsupervised_learning.md)**: Models identify inherent structures in data without labeled outcomes.
-  - **Examples**: [Clustering algorithms](../c/clustering_algorithms.md) like k-means, [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA).
+ - **Examples**: [Clustering algorithms](../c/clustering_algorithms.md) like k-means, [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA).
 
 ### Probabilistic Models
 
@@ -63,8 +63,8 @@ Implementing [algorithmic trading](../a/algorithmic_trading.md) strategies requi
 
 ### Programming Languages
 
-- **Python**: Popular in the trading community due to its extensive libraries (Pandas, NumPy, SciPy). Platforms like [QuantConnect](https://www.quantconnect.com) support Python for [backtesting](../b/backtesting.md) strategies.
-- **R**: Known for statistical analysis. Platforms like [RStudio](https://www.rstudio.com) [offer](../o/offer.md) powerful tools for [quantitative analysis](../q/quantitative_analysis.md).
+- **Python**: Popular in the trading community due to its extensive libraries (Pandas, NumPy, SciPy). Platforms like QuantConnect support Python for [backtesting](../b/backtesting.md) strategies.
+- **R**: Known for statistical analysis. Platforms like RStudio [offer](../o/offer.md) powerful tools for [quantitative analysis](../q/quantitative_analysis.md).
 - **C++**: Preferred for high-frequency trading due to its [execution](../e/execution.md) speed.
 
 ### Trading Platforms
@@ -110,18 +110,18 @@ Latency, the time delay between an action and its effect, is a critical [factor]
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is one of the most successful [hedge](../h/hedge.md) funds employing [algorithmic trading](../a/algorithmic_trading.md). They use sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [statistics](../s/statistics.md) to generate high-frequency [trading strategies](../t/trading_strategies.md). More information can be found on their [website](https://www.rentec.com).
+Renaissance Technologies, founded by Jim Simons, is one of the most successful [hedge](../h/hedge.md) funds employing [algorithmic trading](../a/algorithmic_trading.md). They use sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [statistics](../s/statistics.md) to generate high-frequency [trading strategies](../t/trading_strategies.md).
 
 ### Two Sigma
 
-Two Sigma is another prominent player in [quantitative trading](../q/quantitative_trading.md). They [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md) and advanced analytics to identify trading opportunities. You can learn more about their approach on their [website](https://www.twosigma.com).
+Two Sigma is another prominent player in [quantitative trading](../q/quantitative_trading.md). They [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md) and advanced analytics to identify trading opportunities.
 
 ### DE Shaw
 
-Founded by David E. Shaw, DE Shaw has been a pioneer in [proprietary trading](../p/proprietary_trading.md) using computational methods. Their research-driven approach combines [finance](../f/finance.md) with technology. Visit their [website](https://www.deshaw.com) for more information.
+Founded by David E. Shaw, DE Shaw has been a pioneer in [proprietary trading](../p/proprietary_trading.md) using computational methods. Their research-driven approach combines [finance](../f/finance.md) with technology.
 
 ## Future of Algorithmic Trading
 
 Advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are set to further revolutionize [algorithmic trading](../a/algorithmic_trading.md). [Predictive models](../p/predictive_models_in_trading.md) are expected to become more accurate, adaptive, and capable of processing an ever-increasing [volume](../v/volume.md) of data. Additionally, the integration of [blockchain](../b/blockchain_in_trading.md) technology may enhance [transparency](../t/transparency.md) and [security](../s/security.md) in trading activities.
 
-In summary, [algorithmic trading](../a/algorithmic_trading.md) with statistical models has established itself as an indispensable tool in modern [financial markets](../f/financial_market.md). While the benefits are clear, traders must navigate the complexities of [market](../m/market.md) behavior, technological constraints, and regulatory requirements to develop and deploy successful strategies.
+In summary, [algorithmic trading](../a/algorithmic_trading.md) with statistical models has established itself as an indispensable tool in modern [financial markets](../f/financial_market.md). While the benefits are clear, traders must navigate the complexities of [market](../m/market.md) behavior, technological constraints, and regulatory requirements to develop and deploy successful strategies.

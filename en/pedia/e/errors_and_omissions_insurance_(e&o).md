@@ -85,20 +85,15 @@ A [financial advisor](../f/financial_advisor.md) recommended an [investment stra
 
 Several [insurance](../i/insurance.md) companies specialize in [offering](../o/offering.md) E&O [insurance](../i/insurance.md). Here are a few noteworthy providers:
 
-1. **Hiscox**: https://www.hiscox.com
-   - Offers customizable E&O [insurance](../i/insurance.md) for small businesses, with specific policies for various industries including technology, consulting, and [marketing](../m/marketing.md).
-   
-2. **Chubb**: https://www.chubb.com
-   - Provides comprehensive E&O [insurance](../i/insurance.md) for businesses of all sizes, with [robust](../r/robust.md) [risk management](../r/risk_management.md) services to help mitigate professional [liability](../l/liability.md) risks.
-   
-3. **Travelers**: https://www.travelers.com
-   - Features [industry](../i/industry.md)-specific E&O [insurance](../i/insurance.md) solutions, including technology, legal, and financial services [insurance](../i/insurance.md), along with [risk management](../r/risk_management.md) resources.
+1. **Hiscox** - Offers customizable E&O [insurance](../i/insurance.md) for small businesses, with specific policies for various industries including technology, consulting, and [marketing](../m/marketing.md).
 
-4. **AXA XL**: https://axaxl.com
-   - Offers specialized E&O coverage for a broad [range](../r/range.md) of professional services, prioritizing [risk](../r/risk.md) assessment and mitigation strategies.
+2. **Chubb** - Provides comprehensive E&O [insurance](../i/insurance.md) for businesses of all sizes, with [robust](../r/robust.md) [risk management](../r/risk_management.md) services to help mitigate professional [liability](../l/liability.md) risks.
 
-5. **Zurich**: https://www.zurichna.com
-   - Provides tailored E&O solutions to large corporations and small businesses alike, with a focus on global and large-scale operations.
+3. **Travelers** - Features [industry](../i/industry.md)-specific E&O [insurance](../i/insurance.md) solutions, including technology, legal, and financial services [insurance](../i/insurance.md), along with [risk management](../r/risk_management.md) resources.
+
+4. **AXA XL** - Offers specialized E&O coverage for a broad [range](../r/range.md) of professional services, prioritizing [risk](../r/risk.md) assessment and mitigation strategies.
+
+5. **Zurich** - Provides tailored E&O solutions to large corporations and small businesses alike, with a focus on global and large-scale operations.
 
 ## Conclusion
 

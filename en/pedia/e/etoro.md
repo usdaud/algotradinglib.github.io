@@ -44,5 +44,3 @@ eToro is regulated by several top-tier financial authorities, ensuring a secure 
 - Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC)
 - Australian Securities and Investments [Commission](../c/commission.md) (ASIC)
 
-## Website
-For more information and to start trading, visit the official eToro website: [eToro](https://www.etoro.com)

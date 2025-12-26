@@ -17,8 +17,8 @@ There are two primary types of [gold options](../g/gold_option.md):
 
 Several platforms facilitate the trading of [gold options](../g/gold_option.md). Some of the most notable include:
 
-1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME) Group**: The CME Group is one of the largest and most diverse [derivatives](../d/derivatives.md) marketplaces. It offers [gold options](../g/gold_option.md) contracts on its COMEX division. More detailed information about their [gold options](../g/gold_option.md) can be found on their official website [CME Group Gold Options](https://www.cmegroup.com/markets/metals/precious/gold.html).
-2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE provides a [range](../r/range.md) of [gold options](../g/gold_option.md) contracts, catering to different [trading strategies](../t/trading_strategies.md) and [risk profiles](../r/risk_profiles.md). Visit their website for more details [ICE Gold Options](https://www.theice.com/products/).
+1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME) Group**: The CME Group is one of the largest and most diverse [derivatives](../d/derivatives.md) marketplaces. It offers [gold options](../g/gold_option.md) contracts on its COMEX division. More detailed information about their [gold options](../g/gold_option.md) can be found on their public materials CME Group Gold Options.
+2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE provides a [range](../r/range.md) of [gold options](../g/gold_option.md) contracts, catering to different [trading strategies](../t/trading_strategies.md) and [risk profiles](../r/risk_profiles.md).
 
 Key participants in the [gold options](../g/gold_option.md) [market](../m/market.md) include:
 - **Speculators**: Traders who bet on the price movement of gold.

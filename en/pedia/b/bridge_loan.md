@@ -1,6 +1,6 @@
 # Bridge Loan
 
-A bridge [loan](../l/loan.md) is a type of short-term [financing](../f/financing.md) used by individuals and businesses to "bridge" the gap between the gap in funding. Using a bridge [loan](../l/loan.md) enables borrowers to meet current [obligations](../o/obligation.md) while securing secure long-term [financing](../f/financing.md). Due to the brevity of the [loan](../l/loan.md) term, usually ranging from a few weeks to up to three years, bridge loans are structured with higher [interest](../i/interest.md) rates compared to other forms of [financing](../f/financing.md).   
+A bridge [loan](../l/loan.md) is a type of short-term [financing](../f/financing.md) used by individuals and businesses to "bridge" the gap in funding. Using a bridge [loan](../l/loan.md) enables borrowers to meet current [obligations](../o/obligation.md) while securing long-term [financing](../f/financing.md). Due to the brevity of the [loan](../l/loan.md) term, usually ranging from a few weeks to up to three years, bridge loans are structured with higher [interest](../i/interest.md) rates compared to other forms of [financing](../f/financing.md).
 
 ## Characteristics of Bridge Loans
 
@@ -47,16 +47,12 @@ Bridge loans are also popular in [commercial real estate](../c/commercial_real_e
 ## Notable Bridge Loan Providers
 
 ### 1. Bank of America
-[Bank of America Bridge Loan](https://www.bankofamerica.com)
 
 ### 2. JP Morgan Chase
-[JP Morgan Commercial Banking](https://www.jpmorgan.com)
 
 ### 3. Wells Fargo
-[Wells Fargo Small Business Loans](https://www.wellsfargo.com/)
 
 ### 4. LightStream
-[LightStream Loans](https://www.lightstream.com/)
 
 ## Case Study: Real Estate Bridge Loan
 

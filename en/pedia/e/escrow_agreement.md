@@ -24,15 +24,15 @@ An [escrow](../e/escrow.md) agreement is a legal arrangement wherein a [third pa
 ## Types of Escrow Agreements
 
 ### Real Estate Escrow
-In [real estate](../r/real_estate.md) transactions, an [escrow](../e/escrow.md) agreement ensures that the buyer's funds and the seller's property [deed](../d/deed.md) are safely handled before the closing. Title companies often act as [escrow](../e/escrow.md) agents in these scenarios. 
+In [real estate](../r/real_estate.md) transactions, an [escrow](../e/escrow.md) agreement ensures that the buyer's funds and the seller's property [deed](../d/deed.md) are safely handled before the closing. Title companies often act as [escrow](../e/escrow.md) agents in these scenarios.
 
 ### Business Acquisition or Merger Escrow
 During a [business](../b/business.md) purchase or [merger](../m/merger.md), the buyer might place a part of the purchase price [in escrow](../i/in_escrow.md) until all [due diligence](../d/due_diligence.md) processes are satisfactorily concluded, and any closing conditions are met.
 
 ### Online Transaction Escrow
-Online marketplaces and e-[commerce](../c/commerce.md) platforms often use [escrow](../e/escrow.md) services to protect buyers and sellers. Companies like Payoneer [offer](../o/offer.md) [escrow](../e/escrow.md) services for secure online transactions. 
+Online marketplaces and e-[commerce](../c/commerce.md) platforms often use [escrow](../e/escrow.md) services to protect buyers and sellers. Companies like Payoneer [offer](../o/offer.md) [escrow](../e/escrow.md) services for secure online transactions.
 
-More information can be found on [Payoneer's Escrow Services](https://www.payoneer.com/solutions/escrow-service/).
+More information can be found on Payoneer's Escrow Services.
 
 ### Intellectual Property Escrow
 High-tech companies often use [escrow](../e/escrow.md) agreements to manage the transfer of intellectual property or proprietary technology licenses, ensuring that both parties' interests are secured during the transfer.

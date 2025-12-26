@@ -46,5 +46,3 @@ Interactive Brokers is regulated by several top-tier financial authorities, ensu
 - Australian Securities and Investments [Commission](../c/commission.md) (ASIC)
 - Securities and [Futures](../f/futures.md) [Commission](../c/commission.md) (SFC) in Hong Kong
 
-## Website
-For more information and to start trading, visit the official Interactive Brokers website: [Interactive Brokers](https://www.interactivebrokers.com)

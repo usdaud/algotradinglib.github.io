@@ -84,4 +84,4 @@ While some aid is available for part-time students, the pro-rated amounts may no
 
 The Pell [Grant](../g/grant.md) remains a vital component of the U.S. financial aid system, providing essential support to millions of students seeking higher education. While there are criticisms regarding funding levels and the application process, the program's impact on educational access and economic mobility cannot be overstated. Continuous efforts to improve and expand the Pell [Grant](../g/grant.md) [will](../w/will.md) be crucial in ensuring that higher education remains accessible to all, regardless of financial background.
 
-For more information on the Pell [Grant](../g/grant.md), visit the official Federal Student Aid website: [Federal Student Aid Pell Grant](https://studentaid.gov/understand-aid/types/grants/pell).
+For more information on the Pell [Grant](../g/grant.md),

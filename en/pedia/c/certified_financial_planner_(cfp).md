@@ -45,8 +45,6 @@ To maintain the CFP certification, professionals must complete ongoing continuin
 
 The CFP Board is the organization responsible for certifying and regulating CFP professionals in the United States. It sets the standards for certification, administers the examination, and enforces the [code of ethics](../c/code_of_ethics.md) and professional responsibility. The CFP Board also provides resources for consumers to find and verify the credentials of CFP professionals.
 
-Website: [CFP Board](https://www.cfp.net)
-
 ## Benefits of Hiring a CFP
 
 Hiring a CFP can provide numerous benefits, including:

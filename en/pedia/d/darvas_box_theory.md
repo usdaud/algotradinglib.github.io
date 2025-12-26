@@ -50,7 +50,7 @@ Darvas emphasized the importance of trading volumes in confirming price movement
 
 ## Real-World Examples
 
-Several traders and investors have adopted the Darvas Box Theory, either in its original form or with modifications, to suit different markets and trading styles. Numerous stock trading platforms, such as [TradingView](https://www.tradingview.com/), [offer](../o/offer.md) tools to help identify and evaluate Darvas Boxes on price charts, further popularizing the method.
+Several traders and investors have adopted the Darvas Box Theory, either in its original form or with modifications, to suit different markets and trading styles. Numerous stock trading platforms, such as TradingView, [offer](../o/offer.md) tools to help identify and evaluate Darvas Boxes on price charts, further popularizing the method.
 
 ## Modern Adaptations
 
@@ -58,11 +58,11 @@ With the advent of technology, Darvas Box Theory has seen various adaptations. A
 
 Several [proprietary trading](../p/proprietary_trading.md) firms and platforms have embedded the Darvas Box Theory into their [algorithmic trading](../a/accountability.md) systems. For instance:
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/accountability.md) platform that allows traders to use different [technical analysis methods](../t/technical_analysis_methods.md), including the Darvas Box Theory.
+- **[StockSharp](../s/stocksharp.md)**: A [algorithmic trading](../a/accountability.md) platform that allows traders to use different [technical analysis methods](../t/technical_analysis_methods.md), including the Darvas Box Theory.
 - **MetaTrader**: A popular [trading platform](../t/trading_platform.md) that offers custom indicators, enabling traders to script Darvas Box patterns.
 
 ## Conclusion
 
-The Darvas Box Theory remains a noteworthy contribution to the field of [technical analysis](../t/technical_analysis.md) in stock trading. Despite being conceptualized in the mid-20th century, its relevance persists today due to its simplistic yet effective method of identifying trading opportunities. Whether applied manually by individual traders or embedded in sophisticated [trading algorithms](../t/trading_algorithms.md), the Darvas Box Theory continues to serve as a valuable tool in the arsenal of [stock market](../s/stock_market.md) techniques. 
+The Darvas Box Theory remains a noteworthy contribution to the field of [technical analysis](../t/technical_analysis.md) in stock trading. Despite being conceptualized in the mid-20th century, its relevance persists today due to its simplistic yet effective method of identifying trading opportunities. Whether applied manually by individual traders or embedded in sophisticated [trading algorithms](../t/trading_algorithms.md), the Darvas Box Theory continues to serve as a valuable tool in the arsenal of [stock market](../s/stock_market.md) techniques.
 
 Successful implementation requires a keen understanding of not just the [technical indicators](../t/technical_indicator.md) but also the discipline to adhere to structured entry, exit, and [risk management](../r/risk_management.md) strategies. This balance of simplicity and precision ensures that the Darvas Box Theory [will](../w/will.md) continue to influence trading methodologies for years to come.

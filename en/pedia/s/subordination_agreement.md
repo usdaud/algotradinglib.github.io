@@ -42,7 +42,7 @@ During corporate [debt restructuring](../d/debt_restructuring.md), creditors may
 
 ## Legal and Financial Implications
 
-The legal and financial implications of a subordination agreement are significant, affecting both the subordinate and senior lenders, as well as the borrower. 
+The legal and financial implications of a subordination agreement are significant, affecting both the subordinate and senior lenders, as well as the borrower.
 
 ### Financial Implications
 
@@ -71,7 +71,7 @@ The legal and financial implications of a subordination agreement are significan
 
 ## Example Scenario
 
-Consider a homeowner, John, who has a primary [mortgage](../m/mortgage.md) with [Bank](../b/bank.md) A and decides to take out a second [mortgage](../m/mortgage.md) with [Bank](../b/bank.md) B for [home](../h/home.md) improvements. 
+Consider a homeowner, John, who has a primary [mortgage](../m/mortgage.md) with [Bank](../b/bank.md) A and decides to take out a second [mortgage](../m/mortgage.md) with [Bank](../b/bank.md) B for [home](../h/home.md) improvements.
 
 - **[Bank](../b/bank.md) A**: Holds a primary [mortgage](../m/mortgage.md) with a $200,000 claim.
 - **[Bank](../b/bank.md) B**: Provides a second [mortgage](../m/mortgage.md) with a $50,000 claim.
@@ -91,4 +91,4 @@ Consider a homeowner, John, who has a primary [mortgage](../m/mortgage.md) with 
 
 A subordination agreement is an indispensable instrument in [finance](../f/finance.md) that facilitates a structured hierarchy of claims among creditors. It ensures that senior lenders [hold](../h/hold.md) a secured position, crucial for [risk management](../r/risk_management.md) and financial stability. While beneficial in many scenarios, subordination agreements also impose heightened risks and costs on subordinate lenders. Proper drafting, [negotiation](../n/negotiation.md), and legal review are essential to ensure that the agreement serves its intended purpose and is enforceable under applicable laws.
 
-For more information on structuring and implementing subordination agreements, you can explore resources and legal guidelines provided by financial institutions like [JPMorgan Chase](https://www.jpmorganchase.com) or consult with legal experts specialized in financial contracts and [real estate](../r/real_estate.md) law.
+For more information on structuring and implementing subordination agreements, you can explore resources and legal guidelines provided by financial institutions like JPMorgan Chase or consult with legal experts specialized in financial contracts and [real estate](../r/real_estate.md) law.

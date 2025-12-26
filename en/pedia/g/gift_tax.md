@@ -26,7 +26,7 @@ The "donee" is the recipient of the gift. The donee is typically not responsible
 
 ## Annual Exclusion
 
-One of the significant aspects of the gift tax is the annual exclusion. This [provision](../p/provision.md) allows a donor to [give up](../g/give_up.md) to a certain amount of [money](../m/money.md) or [value](../v/value.md) to any number of individuals each year without incurring gift tax. As of 2023, the annual exclusion amount is $17,000 per recipient. This means a donor can give $17,000 to any number of recipients without having to file a [gift tax return](../g/gift_tax_return.md) or pay any gift tax.
+One of the significant aspects of the gift tax is the annual exclusion. This [provision](../p/provision.md) allows a donor to [give up](../g/give_up.md) to a certain amount of [money](../m/money.md) or [value](../v/value.md) to any number of individuals each year without incurring gift tax. As of 2025, the annual exclusion amount is $19,000 per recipient. This means a donor can give $17,000 to any number of recipients without having to file a [gift tax return](../g/gift_tax_return.md) or pay any gift tax.
 
 ### Example
 
@@ -34,7 +34,7 @@ If a donor gives $15,000 each to 10 different people in one year, that donor [wi
 
 ## Lifetime Exemption
 
-In addition to the annual exclusion, there's a lifetime [exemption](../e/exemption.md) that significantly impacts gift [tax liability](../t/tax_liability.md). The lifetime [exemption](../e/exemption.md) amount is adjusted periodically for [inflation](../i/inflation.md), and as of 2023, it stands at $12.92 million. This lifetime [exemption](../e/exemption.md) is shared with the [estate tax](../e/estate_tax.md), meaning that if a person uses part of this [exemption](../e/exemption.md) to make taxable gifts during their lifetime, the remaining amount [will](../w/will.md) apply to their [estate tax](../e/estate_tax.md) exclusion upon death.
+In addition to the annual exclusion, there's a lifetime [exemption](../e/exemption.md) that significantly impacts gift [tax liability](../t/tax_liability.md). The lifetime [exemption](../e/exemption.md) amount is adjusted periodically for [inflation](../i/inflation.md), and as of 2025, it stands at $13.99 million. This lifetime [exemption](../e/exemption.md) is shared with the [estate tax](../e/estate_tax.md), meaning that if a person uses part of this [exemption](../e/exemption.md) to make taxable gifts during their lifetime, the remaining amount [will](../w/will.md) apply to their [estate tax](../e/estate_tax.md) exclusion upon death.
 
 ### Unified Credit
 

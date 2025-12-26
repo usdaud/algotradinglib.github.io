@@ -20,10 +20,10 @@ Weekly [chart patterns](../c/chart_patterns.md) are specific formations or shape
 
 The [Head and Shoulders pattern](../h/head_and_shoulders_pattern.md) is a [reversal](../r/reversal.md) pattern indicating a change in [trend](../t/trend.md). It consists of three peaks: a higher peak (head) between two lower peaks (shoulders).
 
-- **Formation**: 
-  - Left Shoulder: A peak followed by a decline.
-  - Head: A higher peak followed by a decline.
-  - Right Shoulder: Another peak, lower than the head, followed by a decline.
+- **Formation**:
+ - Left Shoulder: A peak followed by a decline.
+ - Head: A higher peak followed by a decline.
+ - Right Shoulder: Another peak, lower than the head, followed by a decline.
 
 - **Indication**: A change from an [uptrend](../u/uptrend.md) to a [downtrend](../d/downtrend.md).
 
@@ -46,13 +46,13 @@ Triangles are [continuation patterns](../c/continuation_patterns.md) that indica
 
 The [Cup and Handle pattern](../c/cup_and_handle_pattern.md) is a bullish continuation pattern.
 
-- **Formation**: 
-  - Cup: A rounded bottom indicating [consolidation](../c/consolidation.md).
-  - [Handle](../h/handle.md): A small downward [consolidation](../c/consolidation.md) before a [breakout](../b/breakout.md) to the [upside](../u/upside.md).
+- **Formation**:
+ - Cup: A rounded bottom indicating [consolidation](../c/consolidation.md).
+ - [Handle](../h/handle.md): A small downward [consolidation](../c/consolidation.md) before a [breakout](../b/breakout.md) to the [upside](../u/upside.md).
 
 ### 5. **Flags and Pennants**
 
-Both patterns are short-term [continuation patterns](../c/continuation_patterns.md) within a longer-term [trend](../t/trend.md). 
+Both patterns are short-term [continuation patterns](../c/continuation_patterns.md) within a longer-term [trend](../t/trend.md).
 
 - **Flags**: Rectangular-shaped [consolidation](../c/consolidation.md) periods that slope against the prevailing [trend](../t/trend.md).
 - **Pennants**: Small symmetrical triangles that form after a sharp price move.
@@ -88,15 +88,15 @@ Several platforms and tools support [weekly chart](../w/weekly_chart.md) pattern
 
 - **MetaTrader**: Offers built-in indicators and allows custom algorithm implementation.
 - **[TradingView](../t/tradingview.md)**: Provides extensive charting tools with [pattern recognition](../p/pattern_recognition.md) features.
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md) and [backtesting](../b/backtesting.md).
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md) and [backtesting](../b/backtesting.md).
 
 ### 4. **Brokerage Integration**
 
 To execute trades based on weekly [chart patterns](../c/chart_patterns.md), traders can integrate their algorithms with brokerage APIs:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers an API for executing trades directly from algorithmic strategies. [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
-- **TD [Ameritrade](../a/ameritrade.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) capabilities through its [thinkorswim](../t/thinkorswim.md) platform. [TD Ameritrade API](https://developer.tdameritrade.com/)
-- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with API access. [Alpaca API](https://alpaca.markets/docs/api-documentation/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers an API for executing trades directly from algorithmic strategies. Interactive Brokers API
+- **TD [Ameritrade](../a/ameritrade.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) capabilities through its [thinkorswim](../t/thinkorswim.md) platform. TD Ameritrade API
+- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) with API access. Alpaca API
 
 ### 5. **Risk Mitigation**
 

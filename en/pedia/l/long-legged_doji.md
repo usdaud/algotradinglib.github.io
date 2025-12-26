@@ -22,7 +22,7 @@ The Long-Legged [Doji](../d/doji.md) is a powerful signal of [market sentiment](
 
 ### Confirmation and Context
 
-While the Long-Legged [Doji](../d/doji.md) is an important [indicator](../i/indicator.md), traders often seek confirmation from subsequent [price action](../p/price_action.md) or additional [technical indicators](../t/technical_indicator.md) before acting. 
+While the Long-Legged [Doji](../d/doji.md) is an important [indicator](../i/indicator.md), traders often seek confirmation from subsequent [price action](../p/price_action.md) or additional [technical indicators](../t/technical_indicator.md) before acting.
 
 - **[Volume Confirmation](../v/volume_confirmation.md)**: Increased trading [volume](../v/volume.md) accompanying a Long-Legged [Doji](../d/doji.md) enhances its significance, as it reflects higher participation and potential conviction among [market](../m/market.md) participants.
 - **[Support and Resistance](../s/support_and_resistance.md) Levels**: The appearance of a Long-Legged [Doji](../d/doji.md) near critical support or resistance levels can further validate its significance. For instance, a [Doji](../d/doji.md) near resistance after an [uptrend](../u/uptrend.md) might bolster the case for a bearish [reversal](../r/reversal.md).
@@ -51,4 +51,4 @@ In cryptocurrency markets, let’s say [Bitcoin](../b/bitcoin.md) has been exper
 
 The Long-Legged [Doji](../d/doji.md) is a versatile and vital component of [technical analysis](../t/technical_analysis.md), functioning as a barometer of [market sentiment](../m/market_sentiment.md) and indecision. Its proper interpretation and utilization can significantly enhance [trading strategies](../t/trading_strategies.md), providing foresight into potential reversals and continuations within [market](../m/market.md) trends. By combining this [candlestick](../c/candlestick.md) pattern with other [technical indicators](../t/technical_indicator.md) and context-specific analysis, traders can refine their approach and optimize their decision-making processes in dynamic and often unpredictable [financial markets](../f/financial_market.md).
 
-For more detailed information on [trading strategies](../t/trading_strategies.md) and [candlestick patterns](../c/candlestick_patterns.md), visit [Investopedia](https://www.investopedia.com) or other educational resources dedicated to [financial markets](../f/financial_market.md).
+For more detailed information on [trading strategies](../t/trading_strategies.md) and [candlestick patterns](../c/candlestick_patterns.md), visit Investopedia or other educational resources dedicated to [financial markets](../f/financial_market.md).

@@ -18,21 +18,21 @@ There are several types of [dark pools](../d/dark_pools.md), categorized based o
 
 These are run by large [broker](../b/broker.md)-dealers, [matching orders](../m/matching_orders.md) internally from their clients. Examples include:
 
-- **Goldman Sachs' Sigma X**: [Goldman Sachs](https://www.goldmansachs.com)
-- **J.P. Morgan's JPMX**: [J.P. Morgan](https://www.jpmorgan.com)
+- **Goldman Sachs' Sigma X**: Goldman Sachs
+- **J.P. Morgan's JPMX**: J.P. Morgan
 
 ### 2. Agency Broker or Exchange-Owned Dark Pools
 
 Operated independently of [broker](../b/broker.md)-dealers and [offer](../o/offer.md) a pure agency model where they facilitate trades without taking a [principal](../p/principal.md) position. Examples include:
 
-- **Instinet**: [Instinet](https://www.instinet.com)
-- **Liquidnet**: [Liquidnet](https://www.liquidnet.com)
+- **Instinet**: Instinet
+- **Liquidnet**: Liquidnet
 
 ### 3. Electronic Market Maker-Owned Dark Pools
 
 Owned by electronic trading firms that match orders against their [inventory](../i/inventory.md). Examples include:
 
-- **Getco**: [Getco](https://www.getcoller.net)
+- **Virtu Financial**: Virtu Financial (Note: Virtu acquired Getco via its merger with Knight Capital in 2017)
 
 ## Advantages of Dark Pools
 
@@ -98,9 +98,9 @@ Instinet offers a [range](../r/range.md) of dark pool services and is known for 
 
 Liquidnet specializes in [large block trades](../l/large_block_trades.md) and provides a private trading network for institutional investors.
 
-### 5. **Getco**
+### 5. **Virtu Financial**
 
-Getco, an electronic [market maker](../m/market_maker.md), operates various [dark pools](../d/dark_pools.md) designed to match orders against its [inventory](../i/inventory.md).
+Virtu Financial, formed through the merger of Knight Capital and Getco in 2017, operates various [dark pools](../d/dark_pools.md) designed to match orders against its inventory.
 
 ## Future of Dark Pools
 

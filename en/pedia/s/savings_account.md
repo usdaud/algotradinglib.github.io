@@ -124,19 +124,19 @@ Numerous online comparison tools exist to help consumers evaluate different [ban
 
 ### Ally Bank
 
-Ally [Bank](../b/bank.md) is known for [offering](../o/offering.md) highly competitive [interest](../i/interest.md) rates on its savings accounts, along with user-friendly online and [mobile banking](../m/mobile_banking.md) platforms. [Ally Bank](https://www.ally.com)
+Ally [Bank](../b/bank.md) is known for [offering](../o/offering.md) highly competitive [interest](../i/interest.md) rates on its savings accounts, along with user-friendly online and [mobile banking](../m/mobile_banking.md) platforms. Ally Bank
 
 ### Marcus by Goldman Sachs
 
-Marcus offers high-[yield](../y/yield.md) savings accounts with no fees and was created to provide an online alternative to traditional savings accounts. [Marcus by Goldman Sachs](https://www.marcus.com)
+Marcus offers high-[yield](../y/yield.md) savings accounts with no fees and was created to provide an online alternative to traditional savings accounts. Marcus by Goldman Sachs
 
 ### Synchrony Bank
 
-Synchrony [Bank](../b/bank.md) provides some of the highest [interest](../i/interest.md) rates available for savings accounts and [robust](../r/robust.md) [customer service](../c/customer_service.md). [Synchrony Bank](https://www.synchronybank.com)
+Synchrony [Bank](../b/bank.md) provides some of the highest [interest](../i/interest.md) rates available for savings accounts and [robust](../r/robust.md) [customer service](../c/customer_service.md). Synchrony Bank
 
 ### Discover Bank
 
-Discover [Bank](../b/bank.md) offers a wide [range](../r/range.md) of banking products, including high-[yield](../y/yield.md) savings accounts with competitive [interest](../i/interest.md) rates and no fees. [Discover Bank](https://www.discover.com)
+Discover [Bank](../b/bank.md) offers a wide [range](../r/range.md) of banking products, including high-[yield](../y/yield.md) savings accounts with competitive [interest](../i/interest.md) rates and no fees. Discover Bank
 
 ## Conclusion
 

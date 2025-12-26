@@ -17,52 +17,52 @@ The negative vortex line (VI-) measures downward price movement, capturing signi
 The Vortex [Indicator](../i/indicator.md) is calculated using the following steps:
 
 1. **Compute the True [Range](../r/range.md) (TR):**
-   The True [Range](../r/range.md) is the greatest of the following:
+ The True [Range](../r/range.md) is the greatest of the following:
 
-   - Current high minus the current low
-   - Absolute [value](../v/value.md) of the current high minus the previous close
-   - Absolute [value](../v/value.md) of the current low minus the previous close
+ - Current high minus the current low
+ - Absolute [value](../v/value.md) of the current high minus the previous close
+ - Absolute [value](../v/value.md) of the current low minus the previous close
 
-   \[
-   TR_t = \max [(High_t - Low_t), |High_t - Close_{t-1}|, |Low_t - Close_{t-1}|]
-   \]
+ \[
+ TR_t = \max [(High_t - Low_t), |High_t - Close_{t-1}|, |Low_t - Close_{t-1}|]
+ \]
 
 2. **Compute Upward Movement (VM+):**
-   The upward movement for the period is the absolute [value](../v/value.md) of the current high minus the previous low.
+ The upward movement for the period is the absolute [value](../v/value.md) of the current high minus the previous low.
 
-   \[
-   VM^+_t = |High_t - Low_{t-1}|
-   \]
+ \[
+ VM^+_t = |High_t - Low_{t-1}|
+ \]
 
 3. **Compute Downward Movement (VM-):**
-   The downward movement for the period is the absolute [value](../v/value.md) of the current low minus the previous high.
+ The downward movement for the period is the absolute [value](../v/value.md) of the current low minus the previous high.
 
-   \[
-   VM^-_t = |Low_t - High_{t-1}|
-   \]
+ \[
+ VM^-_t = |Low_t - High_{t-1}|
+ \]
 
 4. **Sum these values over a specific period (n):**
-   Sum the True [Range](../r/range.md), the Upward Movement, and the Downward Movement over 'n' periods.
+ Sum the True [Range](../r/range.md), the Upward Movement, and the Downward Movement over 'n' periods.
 
-   \[
-   TR_n = \sum_{i=1}^n TR_i
-   \]
-   \[
-   VM^+_n = \sum_{i=1}^n VM^+_i
-   \]
-   \[
-   VM^-_n = \sum_{i=1}^n VM^-_i
-   \]
+ \[
+ TR_n = \sum_{i=1}^n TR_i
+ \]
+ \[
+ VM^+_n = \sum_{i=1}^n VM^+_i
+ \]
+ \[
+ VM^-_n = \sum_{i=1}^n VM^-_i
+ \]
 
 5. **Calculate VI+ and VI-:**
-   Divide the summed values of VM+ and VM- by the sum of the True [Range](../r/range.md) over the chosen period.
+ Divide the summed values of VM+ and VM- by the sum of the True [Range](../r/range.md) over the chosen period.
 
-   \[
-   VI^+_n = \frac{VM^+_n}{TR_n}
-   \]
-   \[
-   VI^-_n = \frac{VM^-_n}{TR_n}
-   \]
+ \[
+ VI^+_n = \frac{VM^+_n}{TR_n}
+ \]
+ \[
+ VI^-_n = \frac{VM^-_n}{TR_n}
+ \]
 
 ## Interpretation and Use in Trading
 
@@ -101,7 +101,7 @@ In Forex and [commodity](../c/commodity.md) markets, the Vortex [Indicator](../i
 
 ### Algorithmic Trading
 
-The Vortex [Indicator](../i/indicator.md) can be integrated into [algorithmic trading](../a/accountability.md) systems due to its clear formula and straightforward logic. Algorithms can be programmed to automatically execute trades based on the crossing points of VI+ and VI-, thereby eliminating emotional decision-making from trading.
+The Vortex [Indicator](../i/indicator.md) can be integrated into [algorithmic trading](../a/algorithmic_trading.md) systems due to its clear formula and straightforward logic. Algorithms can be programmed to automatically execute trades based on the crossing points of VI+ and VI-, thereby eliminating emotional decision-making from trading.
 
 ### Customization and Integration
 
@@ -127,4 +127,4 @@ The ADX measures [trend](../t/trend.md) strength without indicating direction, w
 
 The Vortex [Indicator](../i/indicator.md) (VI) is a valuable tool in a [trader](../t/trader.md)’s arsenal for identifying and confirming trends in various [financial markets](../f/financial_market.md). Despite its limitations, when used in conjunction with other indicators and analysis techniques, it can significantly enhance [trading strategies](../t/trading_strategies.md) by providing clear and actionable signals. A deep understanding of this [indicator](../i/indicator.md)'s mechanics and careful period selection can help traders optimize its use and improve their trading outcomes.
 
-For more information, traders can refer to resources and publications that originally introduced and discussed the Vortex [Indicator](../i/indicator.md): [Vortex Indicator Official](http://www.vortexindicator.com).
+For more information, traders can refer to resources and publications that originally introduced and discussed the Vortex [Indicator](../i/indicator.md): Vortex Indicator Official.

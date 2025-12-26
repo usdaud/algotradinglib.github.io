@@ -94,7 +94,7 @@ CEX.IO understands the importance of educating its users about cryptocurrency tr
 
 [Customer](../c/customer.md) support is an essential aspect of CEX.IO's service offerings. The platform provides [multiple](../m/multiple.md) channels for users to seek assistance, including:
 
-- **Live Chat:** Available on the website for real-time assistance.
+- **Live Chat:** Available for real-time assistance.
 - **Email Support:** Users can contact support via email for more complex issues.
 - **Ticket System:** A structured way to report problems and track the status of support requests.
 - **[Social Media](../s/social_media.md):** CEX.IO maintains active [social media](../s/social_media.md) profiles where users can receive updates and engage with the community.
@@ -115,5 +115,3 @@ CEX.IO's technology stack is designed to provide a secure, reliable, and efficie
 # Conclusion
 
 CEX.IO has established itself as a reliable and versatile cryptocurrency [exchange](../e/exchange.md) platform, [offering](../o/offering.md) a wide array of services to cater to different types of traders and investors. With a strong focus on [security](../s/security.md), regulatory compliance, and user experience, CEX.IO continues to attract a growing number of users worldwide. Whether you are a beginner looking to buy your first cryptocurrency or an experienced [trader](../t/trader.md) seeking advanced tools and features, CEX.IO provides a [robust](../r/robust.md) platform to meet your needs.
-
-For more information, you can visit their official website: [CEX.IO](https://cex.io)

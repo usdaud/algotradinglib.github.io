@@ -68,17 +68,14 @@ UMA systems must be designed to adapt to various regulatory requirements across 
 
 Several leading technology and financial services companies [offer](../o/offer.md) UMA solutions to traders and firms:
 
-- **[Bloomberg](../b/bloomberg.md)**  
-  [Bloomberg](../b/bloomberg.md) provides comprehensive financial [software tools](../s/software_tools_for_trading.md) and enterprise applications, including UMA capabilities, to streamline trading operations.  
-  [Bloomberg](https://www.bloomberg.com)
+- **[Bloomberg](../b/bloomberg.md)**
+ [Bloomberg](../b/bloomberg.md) provides comprehensive financial [software tools](../s/software_tools_for_trading.md) and enterprise applications, including UMA capabilities, to streamline trading operations.
 
-- **Refinitiv**  
-  Refinitiv, a subsidiary of the London Stock [Exchange](../e/exchange.md) Group, offers trading solutions that encompass UMA functionalities to support efficient [market](../m/market.md) access and [trade](../t/trade.md) [execution](../e/execution.md).  
-  [Refinitiv](https://www.refinitiv.com)
+- **Refinitiv**
+ Refinitiv, a subsidiary of the London Stock [Exchange](../e/exchange.md) Group, offers trading solutions that encompass UMA functionalities to support efficient [market](../m/market.md) access and [trade](../t/trade.md) [execution](../e/execution.md).
 
-- **FIX Flyer**  
-  FIX Flyer specializes in trading technology solutions, including UMA systems designed to enhance [market](../m/market.md) connectivity and [order routing](../o/order_routing.md) [efficiency](../e/efficiency.md).  
-  [FIX Flyer](https://fixflyer.com/)
+- **FIX Flyer**
+ FIX Flyer specializes in trading technology solutions, including UMA systems designed to enhance [market](../m/market.md) connectivity and [order routing](../o/order_routing.md) [efficiency](../e/efficiency.md).
 
 ## Future Trends in UMA
 

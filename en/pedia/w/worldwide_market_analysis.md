@@ -1,6 +1,6 @@
 # Worldwide Market Analysis
 
-Worldwide [Market](../m/market.md) Analysis is a comprehensive term that encompasses the examination, interpretation, and evaluation of global [financial markets](../f/financial_market.md), spanning various [asset](../a/asset.md) classes such as equities, bonds, commodities, currencies, and [derivatives](../d/derivatives.md). This analysis is crucial for investors, policymakers, and financial analysts as it provides insightful information on [market](../m/market.md) trends, [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), and other factors influencing global [financial markets](../f/financial_market.md). This section delves into different components of worldwide [market](../m/market.md) analysis pertinent to the [finance](../f/finance.md) and investment world. 
+Worldwide [Market](../m/market.md) Analysis is a comprehensive term that encompasses the examination, interpretation, and evaluation of global [financial markets](../f/financial_market.md), spanning various [asset](../a/asset.md) classes such as equities, bonds, commodities, currencies, and [derivatives](../d/derivatives.md). This analysis is crucial for investors, policymakers, and financial analysts as it provides insightful information on [market](../m/market.md) trends, [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), and other factors influencing global [financial markets](../f/financial_market.md). This section delves into different components of worldwide [market](../m/market.md) analysis pertinent to the [finance](../f/finance.md) and investment world.
 
 ### Components of Worldwide Market Analysis
 
@@ -24,17 +24,17 @@ Worldwide [Market](../m/market.md) Analysis is a comprehensive term that encompa
 
 ### Key Players in Worldwide Market Analysis
 
-1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global leader in financial data and analytics, [Bloomberg](../b/bloomberg.md) provides extensive [market](../m/market.md) analysis through its Terminal, a software that aggregates real-time data, news, and research (https://www.[bloomberg](../b/bloomberg.md).com).
+1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global leader in financial data and analytics, [Bloomberg](../b/bloomberg.md) provides extensive [market](../m/market.md) analysis through its Terminal, a software that aggregates real-time data, news, and research (
 
-2. **[Reuters](../r/reuters.md)**: Known for its comprehensive news and information services, [Reuters](../r/reuters.md) offers [market](../m/market.md) data and analysis covering equities, [fixed income](../f/fixed_income.md), currencies, and commodities (https://www.[reuters](../r/reuters.md).com).
+2. **[Reuters](../r/reuters.md)**: Known for its comprehensive news and information services, [Reuters](../r/reuters.md) offers [market](../m/market.md) data and analysis covering equities, [fixed income](../f/fixed_income.md), currencies, and commodities (
 
-3. **Goldman Sachs**: A leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md), Goldman Sachs offers detailed [market research](../m/market_research.md) and analysis to its clients (https://www.goldmansachs.com).
+3. **Goldman Sachs**: A leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md), Goldman Sachs offers detailed [market research](../m/market_research.md) and analysis to its clients (
 
-4. **JP Morgan Chase**: This financial behemoth provides [market](../m/market.md) insights, economic forecasts, and investment research to private and institutional clients (https://www.jpmorganchase.com).
+4. **JP Morgan Chase**: This financial behemoth provides [market](../m/market.md) insights, economic forecasts, and investment research to private and institutional clients (
 
-5. **Morgan Stanley**: Renowned for its detailed [market](../m/market.md) analysis reports and economic forecasts, Morgan Stanley serves a global clientele (https://www.morganstanley.com).
+5. **Morgan Stanley**: Renowned for its detailed [market](../m/market.md) analysis reports and economic forecasts, Morgan Stanley serves a global clientele (
 
-6. **S&P Global**: S&P Global provides essential [market](../m/market.md) data, [credit](../c/credit.md) ratings, and financial analytics that aid in comprehensive [market](../m/market.md) analysis (https://www.spglobal.com).
+6. **S&P Global**: S&P Global provides essential [market](../m/market.md) data, [credit](../c/credit.md) ratings, and financial analytics that aid in comprehensive [market](../m/market.md) analysis (
 
 ### Methodologies in Worldwide Market Analysis
 
@@ -68,7 +68,7 @@ Worldwide [Market](../m/market.md) Analysis is a comprehensive term that encompa
 
 4. **[ESG Investing](../e/esg_investing.md)**: Environmental, Social, and Governance (ESG) factors are increasingly considered in investment decisions. [Market](../m/market.md) analysis now incorporates ESG criteria to assess long-term sustainability and ethical considerations.
 
-5. **Decentralized [Finance](../f/finance.md) (DeFi)**: DeFi leverages [blockchain](../b/blockchain_in_trading.md) technology to provide financial services without traditional intermediaries. Analyzing DeFi markets involves understanding [smart contracts](../s/smart_contracts_in_trading.md), [liquidity](../l/liquidity.md) [mining](../m/mining.md), and decentralized exchanges. 
+5. **Decentralized [Finance](../f/finance.md) (DeFi)**: DeFi leverages [blockchain](../b/blockchain_in_trading.md) technology to provide financial services without traditional intermediaries. Analyzing DeFi markets involves understanding [smart contracts](../s/smart_contracts_in_trading.md), [liquidity](../l/liquidity.md) [mining](../m/mining.md), and decentralized exchanges.
 
 ### Conclusion
 

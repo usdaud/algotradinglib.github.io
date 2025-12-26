@@ -36,13 +36,11 @@ Several key elements contribute to the successful implementation of a Blue Ocean
 
 Renaissance Technologies, founded by Jim Simons, is a pioneer in [trading algorithms](../t/trading_algorithms.md). Known for their Medallion [Fund](../f/fund.md), Renaissance Technologies employs mathematics and [data science](../d/data_science_in_trading.md) to outsmart the competition. They stand out in the [industry](../i/industry.md) by continuously innovating and exploring new [market](../m/market.md) opportunities, consistently applying the Blue Ocean strategy.
 
-[Website](https://www.rentec.com)
 
 ### Two Sigma
 
 Two Sigma uses [data science](../d/data_science_in_trading.md) and technology-driven approaches to explore new trading opportunities. They utilize [machine learning](../m/machine_learning.md), distributed computing, and research in [macroeconomics](../m/macroeconomics.md) to develop [trading algorithms](../t/trading_algorithms.md) that tap into less crowded opportunities.
 
-[Website](https://www.twosigma.com)
 
 ## Risks and Challenges
 

@@ -88,8 +88,8 @@ Consider two portfolios with identical [value](../v/value.md) growth but differe
 
 Numerous [software tools](../s/software_tools_for_trading.md) and platforms aid in calculating TWR:
 
-- **[Morningstar](../m/morningstar.md) Direct**: A comprehensive [investment analysis](../i/investment_analysis.md) platform that offers TWR calculation (https://www.[morningstar](../m/morningstar.md).com/products/direct).
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Known for its extensive financial data, the terminal provides TWR analytics tools, suitable for professional [finance](../f/finance.md) users (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/).
+- **[Morningstar](../m/morningstar.md) Direct**: A comprehensive [investment analysis](../i/investment_analysis.md) platform that offers TWR calculation (
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Known for its extensive financial data, the terminal provides TWR analytics tools, suitable for professional [finance](../f/finance.md) users (
 
 ### Excel Implementation
 

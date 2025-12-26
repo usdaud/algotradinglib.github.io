@@ -4,7 +4,7 @@ Lipper Indexes are financial tools used to measure the performance of various in
 
 ## Overview of Lipper
 
-Lipper, established in 1973, is one of the most reputable names in the field of [mutual fund](../m/mutual_fund.md) information and performance measurement. It offers proprietary research, tools, and analysis to assist in [fund](../f/fund.md) evaluation. Their primary service areas include [fund](../f/fund.md) performance analysis, [competitive intelligence](../c/competitive_intelligence.md), [fund](../f/fund.md) flows, and [industry analysis](../i/industry_analysis.md). Learn more about Lipper on their [website](https://www.refinitiv.com/en/lipper).
+Lipper, established in 1973, is one of the most reputable names in the field of [mutual fund](../m/mutual_fund.md) information and performance measurement. It offers proprietary research, tools, and analysis to assist in [fund](../f/fund.md) evaluation. Their primary service areas include [fund](../f/fund.md) performance analysis, [competitive intelligence](../c/competitive_intelligence.md), [fund](../f/fund.md) flows, and [industry analysis](../i/industry_analysis.md).
 
 ## Structure of Lipper Indexes
 
@@ -121,7 +121,7 @@ Lipper continuously evolves its offerings to stay relevant with [market](../m/ma
 
 Lipper Indexes are instrumental in providing a systematic, objective, and comprehensive measure of [fund](../f/fund.md) performance across various categories. Whether you're an individual [investor](../i/investor.md), professional [fund manager](../f/fund_manager.md), or [financial advisor](../f/financial_advisor.md), understanding and utilizing these indexes can significantly improve your investment decisions and [portfolio management](../p/par.md) strategies.
 
-For more detailed information and access to various Lipper Indexes, visit the [Refinitiv Lipper Website](https://www.refinitiv.com/en/lipper).
+For more detailed information and access to various Lipper Indexes,
 
 ---
 

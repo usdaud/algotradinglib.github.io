@@ -6,7 +6,7 @@ In the realms of [finance](../f/finance.md) and investment, understanding the co
 
 ## What is Underlying Debt?
 
-[Underlying](../u/underlying.md) [debt](../d/debt.md) refers to the base level of [debt](../d/debt.md) that a [financial instrument](../f/financial_instrument.md), such as a [bond](../b/bond.md) or a [mortgage](../m/mortgage.md)-backed [security](../s/security.md) (MBS), is built upon. It is the actual [debt](../d/debt.md) obligation from which [financial derivatives](../f/financial_derivatives.md) or structured products derive their [value](../v/value.md). For instance, in the case of [mortgage](../m/mortgage.md)-backed securities, the [underlying](../u/underlying.md) [debt](../d/debt.md) consists of the pool of individual mortgages that are packaged together and sold to investors. 
+[Underlying](../u/underlying.md) [debt](../d/debt.md) refers to the base level of [debt](../d/debt.md) that a [financial instrument](../f/financial_instrument.md), such as a [bond](../b/bond.md) or a [mortgage](../m/mortgage.md)-backed [security](../s/security.md) (MBS), is built upon. It is the actual [debt](../d/debt.md) obligation from which [financial derivatives](../f/financial_derivatives.md) or structured products derive their [value](../v/value.md). For instance, in the case of [mortgage](../m/mortgage.md)-backed securities, the [underlying](../u/underlying.md) [debt](../d/debt.md) consists of the pool of individual mortgages that are packaged together and sold to investors.
 
 ### Key Characteristics of Underlying Debt
 1. **Source of Cash Flows:** The [underlying](../u/underlying.md) [debt](../d/debt.md) provides the cash flows that are ultimately distributed to investors in the [derivative](../d/derivative.md) or structured product.
@@ -82,7 +82,7 @@ Detailed [financial analysis](../f/financial_analysis.md), including [ratio anal
 Fintech companies are increasingly developing platforms that provide detailed analytics and insights into [underlying](../u/underlying.md) [debt](../d/debt.md). Innovations in [blockchain](../b/blockchain_in_trading.md) technology are also paving the way for more transparent and secure handling of [debt](../d/debt.md) securities.
 
 #### Example:
-Kavout (https://www.kavout.com/) offers AI-driven investment solutions that analyze [underlying](../u/underlying.md) [debt](../d/debt.md) among other financial metrics.
+Kavout ( offers AI-driven investment solutions that analyze [underlying](../u/underlying.md) [debt](../d/debt.md) among other financial metrics.
 
 ### Data Analytics
 [Big Data](../b/big_data_in_trading.md) and advanced analytics play a crucial role in evaluating [underlying](../u/underlying.md) [debt](../d/debt.md). Tools equipped with [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can process vast amounts of data to [offer](../o/offer.md) predictive insights, helping investors make informed decisions.

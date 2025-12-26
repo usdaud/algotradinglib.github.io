@@ -43,11 +43,11 @@ Another instance is Japan, which has had close-to-zero [interest](../i/interest.
 
 ### The United States
 
-- **Federal Reserve**: For more information on the Federal Reserve's policies, you can visit their [official website](https://www.federalreserve.gov).
+- **Federal Reserve**:
 
 ### Japan
 
-- **[Bank](../b/bank.md) of Japan**: To learn more about the [Bank](../b/bank.md) of Japan's approaches, visit their [official website](https://www.boj.or.jp/en/).
+- **[Bank](../b/bank.md) of Japan**: To learn more about the [Bank](../b/bank.md) of Japan's approaches,
 
 ## Criticisms and Alternatives
 

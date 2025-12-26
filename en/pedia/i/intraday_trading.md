@@ -81,22 +81,22 @@ Intraday traders must adhere to regulatory requirements and comply with [market]
 ## Companies and Resources
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive [trading platform](../t/trading_platform.md) suitable for intraday trading, with access to [multiple](../m/multiple.md) [asset](../a/asset.md) classes and global markets. More information can be found on their [official website](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive [trading platform](../t/trading_platform.md) suitable for intraday trading, with access to [multiple](../m/multiple.md) [asset](../a/asset.md) classes and global markets.
 
 ### MetaTrader
-MetaTrader (MT4 and MT5) is widely used by intraday traders for its [robust](../r/robust.md) [technical analysis](../t/technical_analysis.md) capabilities and automated trading features through Expert Advisors (EAs). More information can be found on their [official site](https://www.metatrader4.com/).
+MetaTrader (MT4 and MT5) is widely used by intraday traders for its [robust](../r/robust.md) [technical analysis](../t/technical_analysis.md) capabilities and automated trading features through Expert Advisors (EAs).
 
 ### Robinhood
-[Robinhood](../r/robinhood.md) provides [commission](../c/commission.md)-free trading with [real-time market data](../r/real-time_market_data.md) and a user-friendly interface, making it popular among retail intraday traders. Visit their [official page](https://robinhood.com/) for more details.
+[Robinhood](../r/robinhood.md) provides [commission](../c/commission.md)-free trading with [real-time market data](../r/real-time_market_data.md) and a user-friendly interface, making it popular among retail intraday traders.
 
 ### TradeStation
-[TradeStation](../t/tradestation.md) offers advanced trading tools, [real-time market data](../r/real-time_market_data.md), and customizable [trading strategies](../t/trading_strategies.md). It is well-suited for both novice and experienced intraday traders. Their [website](https://www.tradestation.com/) has more information.
+[TradeStation](../t/tradestation.md) offers advanced trading tools, [real-time market data](../r/real-time_market_data.md), and customizable [trading strategies](../t/trading_strategies.md). It is well-suited for both novice and experienced intraday traders. their online platform has more information.
 
 ### NinjaTrader
-[NinjaTrader](../n/ninjatrader.md) is renowned for its charting capabilities, [market](../m/market.md) analysis tools, and support for automated [trading strategies](../t/trading_strategies.md). More details are available on their [official page](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) is renowned for its charting capabilities, [market](../m/market.md) analysis tools, and support for automated [trading strategies](../t/trading_strategies.md).
 
 ### Thinkorswim
-[Thinkorswim](../t/thinkorswim.md), by TD [Ameritrade](../a/ameritrade.md), offers advanced trading platforms with powerful [technical analysis](../t/technical_analysis.md) tools, real-time data, and [backtesting](../b/backtesting.md) features. Explore their offerings on the [official site](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+[Thinkorswim](../t/thinkorswim.md), by TD [Ameritrade](../a/ameritrade.md), offers advanced trading platforms with powerful [technical analysis](../t/technical_analysis.md) tools, real-time data, and [backtesting](../b/backtesting.md) features. Explore their offerings on the public materials.
 
 ## Conclusion
 

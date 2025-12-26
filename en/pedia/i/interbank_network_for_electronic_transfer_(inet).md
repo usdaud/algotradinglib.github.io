@@ -68,15 +68,15 @@ In compliance with data privacy laws such as the General Data Protection Regulat
 
 ### 1. SWIFT (Society for Worldwide Interbank Financial Telecommunication)
 
-SWIFT is a global member-owned cooperative and the world's leading provider of secure financial messaging services. It is integral to the operation of INET, facilitating the [exchange](../e/exchange.md) of financial [transaction](../t/transaction.md) information between banks and financial institutions worldwide. For more information, visit [SWIFT](https://www.swift.com).
+SWIFT is a global member-owned cooperative and the world's leading provider of secure financial messaging services. It is integral to the operation of INET, facilitating the [exchange](../e/exchange.md) of financial [transaction](../t/transaction.md) information between banks and financial institutions worldwide. For more information, visit SWIFT.
 
 ### 2. Clearing Houses
 
-[Clearing](../c/clearing.md) houses, such as the [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC) in the United States, use INET to settle trades in various markets. [Clearing](../c/clearing.md) houses act as intermediaries between buyers and sellers to ensure the successful completion of transactions. For more information, visit [DTCC](https://www.dtcc.com).
+[Clearing](../c/clearing.md) houses, such as the [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC) in the United States, use INET to settle trades in various markets. [Clearing](../c/clearing.md) houses act as intermediaries between buyers and sellers to ensure the successful completion of transactions. For more information, visit DTCC.
 
 ### 3. Central Banks
 
-Central banks, including the Federal Reserve in the United States and the European Central [Bank](../b/bank.md) (ECB), utilize INET to manage [monetary policy](../m/monetary_policy.md) and oversee the [financial system](../f/financial_system.md). Central banks may engage in [open market operations](../o/open_market_operations.md), [interest rate](../i/interest_rate.md) adjustments, and other activities via INET to influence their economies. For more information, visit [Federal Reserve](https://www.federalreserve.gov) and [ECB](https://www.ecb.europa.eu).
+Central banks, including the Federal Reserve in the United States and the European Central [Bank](../b/bank.md) (ECB), utilize INET to manage [monetary policy](../m/monetary_policy.md) and oversee the [financial system](../f/financial_system.md). Central banks may engage in [open market operations](../o/open_market_operations.md), [interest rate](../i/interest_rate.md) adjustments, and other activities via INET to influence their economies. For more information, visit Federal Reserve and ECB.
 
 ## Benefits of INET
 

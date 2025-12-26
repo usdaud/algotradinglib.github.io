@@ -110,13 +110,13 @@ The technology [industry](../i/industry.md) can also face oversupply issues, par
 
 ## Conclusion
 
-Oversupply is a complex and multifaceted [issue](../i/issue.md) with significant implications for economic stability, [business](../b/business.md) profitability, and [market dynamics](../m/market_dynamics.md). By understanding the causes and effects of oversupply, stakeholders can develop strategies to manage and mitigate its impact. Whether through production adjustments, [diversification](../d/diversification.md), advanced [inventory management](../i/inventory_management.md), or leveraging technological solutions, effective management of oversupply is essential for achieving sustainable growth and stability in the modern [economy](../e/economy.md). 
+Oversupply is a complex and multifaceted [issue](../i/issue.md) with significant implications for economic stability, [business](../b/business.md) profitability, and [market dynamics](../m/market_dynamics.md). By understanding the causes and effects of oversupply, stakeholders can develop strategies to manage and mitigate its impact. Whether through production adjustments, [diversification](../d/diversification.md), advanced [inventory management](../i/inventory_management.md), or leveraging technological solutions, effective management of oversupply is essential for achieving sustainable growth and stability in the modern [economy](../e/economy.md).
 
 For more information and detailed insights, [industry](../i/industry.md) professionals can refer to various resources and companies specializing in [supply chain](../s/supply_chain.md) management, financial analytics, and [market forecasting](../m/market_forecasting.md):
 
-- [Schneider Electric](https://www.se.com/ww/en/)
-- [SAP Supply Chain Management](https://www.sap.com/products/supply-chain-management.html)
-- [IBM Supply Chain](https://www.ibm.com/supply-chain-management)
-- [Oracle Supply Chain Management](https://www.oracle.com/scm/)
+- Schneider Electric
+- SAP Supply Chain Management
+- IBM Supply Chain
+- Oracle Supply Chain Management
 
 By leveraging these resources and adopting a proactive approach, businesses and investors can navigate the challenges of oversupply and build resilient, competitive operations.

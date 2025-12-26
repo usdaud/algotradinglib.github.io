@@ -20,10 +20,10 @@ SIC codes are four-digit numerical codes assigned to businesses based on their p
 Let's take an [industry](../i/industry.md) as an example:
 
 - **2XXX**: [Manufacturing](../m/manufacturing.md)
-  - **24XX**: Lumber and Wood Products
-    - **245X**: Wood Buildings and Mobile Homes
-      - **2451**: Mobile Homes
-      - **2452**: Prefabricated Wood Buildings
+ - **24XX**: Lumber and Wood Products
+ - **245X**: Wood Buildings and Mobile Homes
+ - **2451**: Mobile Homes
+ - **2452**: Prefabricated Wood Buildings
 
 ## Broad Industry Sectors
 
@@ -71,16 +71,16 @@ The SIC system was succeeded by the North American [Industry](../i/industry.md) 
 
 1. **Detail and Depth**: NAICS offers more granularity with up to six digits, compared to the four digits of SIC.
 2. **Classification [Basis](../b/basis.md)**: NAICS classifies based on production-oriented criteria, while SIC was more product-oriented.
-3. **Update Frequency**: NAICS is updated more frequently to incorporate changes in [industry](../i/industry.md) and technology. 
+3. **Update Frequency**: NAICS is updated more frequently to incorporate changes in [industry](../i/industry.md) and technology.
 
 ## Getting SIC Codes
 
 Businesses can look up their SIC code using several resources:
 
 - **U.S. Census Bureau**: Provides a comprehensive database for searching and identifying SIC codes.
-  [Census Bureau website](https://www.census.gov/naics/)
+
 - **SEC's EDGAR**: A searchable database for company filings.
-  [SEC EDGAR website](https://www.sec.gov/edgar.shtml)
+
 - **Commercial Databases**: Numerous [business](../b/business.md) information services, such as Dun & Bradstreet, provide SIC code identification.
 
 ## Criticisms and Limitations

@@ -41,7 +41,7 @@ The Netherlands experienced Dutch disease following the discovery of natural gas
 
 Norway is often cited as a successful example of managing natural resource [wealth](../w/wealth.md). The creation of the Norwegian Government Pension [Fund](../f/fund.md) Global, commonly known as the Oil [Fund](../f/fund.md), has helped stabilize the [economy](../e/economy.md) by [investing](../i/investing.md) oil revenues abroad. This approach has mitigated the impact on the Norwegian krone and contributed to economic stability.
 
-  **Norwegian Government Pension [Fund](../f/fund.md) Global** - [Link](https://www.nbim.no/)
+ **Norwegian Government Pension [Fund](../f/fund.md) Global** - Link
 
 #### Russia
 

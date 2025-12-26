@@ -12,13 +12,13 @@ At their foundation, multi-[factor models](../f/factor_models.md) extend beyond 
 
 A basic [multi-factor model](../m/multi-factor_model.md) can be represented as:
 
-\[ R_i = \[alpha](../a/alpha.md) + \beta_1 F_1 + \beta_2 F_2 + \beta_3 F_3 + ... + \beta_n F_n + \epsilon_i \]
+\[ R_i = \[alpha](../a/alpha.md) + \beta_1 F_1 + \beta_2 F_2 + \beta_3 F_3 +... + \beta_n F_n + \epsilon_i \]
 
 Where:
 - \(R_i\) represents the [return](../r/return.md) of [asset](../a/asset.md) \(i\)
 - \(\[alpha](../a/alpha.md)\) is the [asset](../a/asset.md)'s specific [return](../r/return.md) not explained by the factors (intercept term)
-- \(\beta_1, \beta_2, \beta_3, ..., \beta_n\) are the [factor](../f/factor.md) loadings or sensitivities of [asset](../a/asset.md) \(i\)
-- \(F_1, F_2, F_3, ..., F_n\) are the [risk factors](../r/risk_factors_in_trading.md) or explanatory variables
+- \(\beta_1, \beta_2, \beta_3,..., \beta_n\) are the [factor](../f/factor.md) loadings or sensitivities of [asset](../a/asset.md) \(i\)
+- \(F_1, F_2, F_3,..., F_n\) are the [risk factors](../r/risk_factors_in_trading.md) or explanatory variables
 - \(\epsilon_i\) is the [error term](../e/error_term.md) representing the [idiosyncratic risk](../i/idiosyncratic_risk.md) of [asset](../a/asset.md) \(i\)
 
 ### Key Multi-Factor Models
@@ -62,8 +62,7 @@ Traders [leverage](../l/leverage.md) multi-[factor models](../f/factor_models.md
 
 ### Example of Practical Implementation
 
-Consider an [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), such as [Two Sigma](https://www.twosigma.com/), which leverages [data science](../d/data_science_in_trading.md) and technology to build [trading models](../t/trading_models.md). Using multi-[factor models](../f/factor_models.md), Two Sigma can develop strategies by:
-
+Consider an [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), such as Two Sigma, which leverages [data science](../d/data_science_in_trading.md) and technology to build [trading models](../t/trading_models.md). Using multi-[factor models](../f/factor_models.md), Two Sigma can develop strategies by
 1. **Data Collection**: Gathering extensive data sets, including [market](../m/market.md) prices, [financial statements](../f/financial_statements.md), and macroeconomic indicators.
 2. **[Factor Analysis](../f/factor_analysis.md)**: Identifying and [backtesting](../b/backtesting.md) factors that have historically explained stock returns. This includes traditional factors like those in the Fama-French model as well as proprietary factors derived from data analysis.
 3. **Model Development**: Creating multi-[factor models](../f/factor_models.md) that incorporate selected factors, calibrating them to estimate the expected returns and risks.
@@ -77,4 +76,4 @@ Despite their [utility](../u/utility.md), multi-[factor models](../f/factor_mode
 
 Multi-[factor models](../f/factor_models.md) are integral to modern [algorithmic trading](../a/algorithmic_trading.md), providing a framework for understanding [asset](../a/asset.md) returns through [multiple](../m/multiple.md) dimensions. By judiciously selecting and utilizing factors, quantitative traders can optimize portfolios, manage risks, and develop sophisticated [trading strategies](../t/trading_strategies.md) that are resilient and adaptive to changing [market](../m/market.md) environments.
 
-For those interested in delving deeper into multi-[factor models](../f/factor_models.md), numerous academic papers, white papers from financial institutions, and practical guides from trading firms like [Two Sigma](https://www.twosigma.com/) [offer](../o/offer.md) valuable insights and methodologies to enhance one's trading arsenal.
+For those interested in delving deeper into multi-[factor models](../f/factor_models.md), numerous academic papers, white papers from financial institutions, and practical guides from trading firms like Two Sigma [offer](../o/offer.md) valuable insights and methodologies to enhance one's trading arsenal.

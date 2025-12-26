@@ -44,7 +44,7 @@ During recent years, many investors have remained bullish on technology [stocks]
 
 ### Example of a Platform: AlgoTrader
 
-[AlgoTrader](https://www.algotrader.com/) is a comprehensive [algorithmic trading](../a/accountability.md) platform that provides tools for both quantitative and discretionary traders. It supports multi-[asset](../a/asset.md) and multi-[currency trading](../c/currency_trading_strategies.md), making it suitable for capitalizing on bullish trends across different markets.
+AlgoTrader is a comprehensive [algorithmic trading](../a/accountability.md) platform that provides tools for both quantitative and discretionary traders. It supports multi-[asset](../a/asset.md) and multi-[currency trading](../c/currency_trading_strategies.md), making it suitable for capitalizing on bullish trends across different markets.
 
 ## Famous Bull Markets
 

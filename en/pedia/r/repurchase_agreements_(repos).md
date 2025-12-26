@@ -52,4 +52,4 @@ Repos are governed by standardized agreements, such as the Global Master Repurch
 
 Repurchase agreements are a cornerstone of modern [financial markets](../f/financial_market.md), providing critical [liquidity](../l/liquidity.md) and contributing to efficient [market](../m/market.md) functioning. As a versatile instrument, they are widely used across different sectors of the financial [industry](../i/industry.md), helping players manage [cash flow](../c/cash_flow.md) and [leverage](../l/leverage.md) positions effectively.
 
-For extensive information on repurchase agreements, one can refer to resources provided by the [International Capital Market Association (ICMA)](https://www.icmagroup.org/), which offers detailed guidelines, legal documents, and [market](../m/market.md) developments related to repos.
+For extensive information on repurchase agreements, one can refer to resources provided by the International Capital Market Association (ICMA), which offers detailed guidelines, legal documents, and [market](../m/market.md) developments related to repos.

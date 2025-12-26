@@ -147,7 +147,7 @@ Real [Options](../o/options.md) [Valuation](../v/valuation.md) (ROV) is a sophis
 
 ### References
 
-1. [Morningstar](https://www.morningstar.com)
-2. [S&P Global](https://www.spglobal.com)
-3. [Moody's Investors Service](https://www.moodys.com)
-4. [New York University Stern School of Business - Valuation](https://www.stern.nyu.edu/~adamodar/New_Home_Page/valuation.htm)
+1. Morningstar
+2. S&P Global
+3. Moody's Investors Service
+4. New York University Stern School of Business - Valuation

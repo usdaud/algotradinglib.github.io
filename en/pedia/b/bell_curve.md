@@ -67,7 +67,7 @@ After rigorous testing and validation, the strategy is deployed in the live [mar
 
 ### 1. Hudson River Trading
 
-Hudson River Trading (https://www.hudsonrivertrading.com) is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to execute trades. By analyzing the [distribution](../d/distribution.md) of [asset](../a/asset.md) returns and incorporating the Bell Curve, Hudson River Trading develops high-frequency [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on small price discrepancies between markets.
+Hudson River Trading ( is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to execute trades. By analyzing the [distribution](../d/distribution.md) of [asset](../a/asset.md) returns and incorporating the Bell Curve, Hudson River Trading develops high-frequency [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on small price discrepancies between markets.
 
 ### 2. Renaissance Technologies
 
@@ -75,7 +75,7 @@ Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [
 
 ### 3. Two Sigma
 
-Two Sigma (https://www.twosigma.com) is another leading quant [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). By employing rigorous statistical analysis, including the use of the Bell Curve, Two Sigma creates algorithms that systematically [trade](../t/trade.md) across various [asset](../a/asset.md) classes.
+Two Sigma ( is another leading quant [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md). By employing rigorous statistical analysis, including the use of the Bell Curve, Two Sigma creates algorithms that systematically [trade](../t/trade.md) across various [asset](../a/asset.md) classes.
 
 ## Limitations and Challenges
 
@@ -105,7 +105,7 @@ Several tools and libraries facilitate the application of the Bell Curve in [alg
 
 ### 2. Trading Platforms
 
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/accountability.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides extensive data and libraries for statistical analysis.
+- **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/accountability.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides extensive data and libraries for statistical analysis.
 - **AlgoTrader:** A Java-based [algorithmic trading software](../a/algorithmic_trading_software.md) that supports multi-[asset](../a/asset.md) [backtesting](../b/backtesting.md) and [execution](../e/execution.md).
 
 ### 3. Statistical Software

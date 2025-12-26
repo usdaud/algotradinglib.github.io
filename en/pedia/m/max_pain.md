@@ -4,9 +4,9 @@ Max Pain, also known as the "maximum pain theory" or the "[Options](../o/options
 
 ## Origin and Concept
 
-The term “Max Pain” was first coined and popularized by financial analysts in the late 1990s and early 2000s. The theory arose from the observation that, often, the price of the [underlying asset](../u/underlying_asset.md) tends to gravitate toward a certain level near the [expiration date](../e/expiration_date.md). This level is often the price point where the cumulative amount of pain (financial loss) for the largest number of [options](../o/options.md) holders is maximized. 
+The term “Max Pain” was first coined and popularized by financial analysts in the late 1990s and early 2000s. The theory arose from the observation that, often, the price of the [underlying asset](../u/underlying_asset.md) tends to gravitate toward a certain level near the [expiration date](../e/expiration_date.md). This level is often the price point where the cumulative amount of pain (financial loss) for the largest number of [options](../o/options.md) holders is maximized.
 
-Max Pain theory postulates that [market](../m/market.md) makers and other large option writers [will](../w/will.md) manipulate the price of the [underlying](../u/underlying.md) stock to inflict the maximum amount of financial loss on the largest number of [options](../o/options.md) buyers. While this might sound like a form of [market manipulation](../m/market_manipulation.md), it’s essential to remember that Max Pain is a theory and not a proven fact. 
+Max Pain theory postulates that [market](../m/market.md) makers and other large option writers [will](../w/will.md) manipulate the price of the [underlying](../u/underlying.md) stock to inflict the maximum amount of financial loss on the largest number of [options](../o/options.md) buyers. While this might sound like a form of [market manipulation](../m/market_manipulation.md), it’s essential to remember that Max Pain is a theory and not a proven fact.
 
 ## Calculation of Max Pain
 
@@ -29,11 +29,11 @@ Suppose we have an [underlying asset](../u/underlying_asset.md) XYZ, and the fol
 To calculate the Max Pain:
 
 1. **[Strike Price](../s/strike_price.md) $50**:
-   - Calculate loss for calls and puts if XYZ settles at $50.
+ - Calculate loss for calls and puts if XYZ settles at $50.
 2. **[Strike Price](../s/strike_price.md) $55**:
-   - Calculate loss for calls and puts if XYZ settles at $55.
+ - Calculate loss for calls and puts if XYZ settles at $55.
 3. **[Strike Price](../s/strike_price.md) $60**:
-   - Calculate loss for calls and puts if XYZ settles at $60.
+ - Calculate loss for calls and puts if XYZ settles at $60.
 
 After calculating the losses, sum the losses for each [strike price](../s/strike_price.md) and identify the point where the losses are maximized.
 
@@ -50,9 +50,9 @@ Understanding the Max Pain theory can give traders an edge in predicting the pot
 ## Criticisms and Limitations
 
 - **Theory vs. Practice**: One of the significant criticisms of the Max Pain theory is that it is more theoretical than practical. Stock prices can be influenced by various unpredictable factors, including news events, [market sentiment](../m/market_sentiment.md), and broader [economic indicators](../e/economic_indicators.md), which can disrupt the predicted movement towards the Max Pain point.
-  
+
 - **[Market Manipulation](../m/market_manipulation.md)**: While Max Pain suggests a tendency for prices to move towards a certain point, the notion of [market manipulation](../m/market_manipulation.md) raises ethical and legal questions. Deliberate price manipulation to achieve Max Pain can violate [market](../m/market.md) regulations and erode [investor](../i/investor.md) confidence.
-  
+
 - **Limited Predictive Power**: The predictive power of Max Pain is often limited. While it can provide insights into possible price movements, it should not be solely relied upon for trading decisions. Combining Max Pain with other technical and [fundamental analysis](../f/fundamental_analysis.md) tools is crucial for a balanced approach.
 
 ## Conclusion
@@ -61,6 +61,6 @@ Max Pain is a fascinating concept in the realm of [options](../o/options.md) tra
 
 For further reading, traders and financial professionals can explore the concept of Max Pain in greater detail through specialized financial resources and platforms [offering](../o/offering.md) [options](../o/options.md) data and analytics.
 
-To learn more about [options](../o/options.md) trading and related strategies, you might visit [Investopedia Options](https://www.investopedia.com/options-basics-tutorial-4583012) or explore [options](../o/options.md) trading tools from leading brokerages like [TD Ameritrade](https://www.tdameritrade.com).
+To learn more about [options](../o/options.md) trading and related strategies, you might visit Investopedia Options or explore [options](../o/options.md) trading tools from leading brokerages like TD Ameritrade.
 
 In conclusion, while Max Pain provides intriguing insights, its practical application requires prudence and a comprehensive understanding of [market dynamics](../m/market_dynamics.md).

@@ -10,7 +10,7 @@ The HHI is calculated by summing the squares of the [market](../m/market.md) [sh
 HHI = \sum_{i=1}^{N} (MS_i)^2
 \]
 
-Where \( MS_i \) is the [market share](../m/market_share.md) of the \( i^{th} \) [firm](../f/firm.md) expressed as a percentage, and \( N \) is the total number of firms in the [market](../m/market.md). 
+Where \( MS_i \) is the [market share](../m/market_share.md) of the \( i^{th} \) [firm](../f/firm.md) expressed as a percentage, and \( N \) is the total number of firms in the [market](../m/market.md).
 
 For example, if an [industry](../i/industry.md) comprises four firms with [market](../m/market.md) [shares](../s/shares.md) of 40%, 30%, 20%, and 10%, the HHI would be calculated as follows:
 \[

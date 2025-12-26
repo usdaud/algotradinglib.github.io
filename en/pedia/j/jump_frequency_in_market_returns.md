@@ -51,7 +51,7 @@ The Adaptive Recursive Mean Squared (ARMS) jump detection model is one of the la
 **Case Studies and Examples**
 ---------------------------
 ### Company: Jump Trading
-[Jump Trading](../j/jump_trading.md) (https://jumptrading.com/), a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md), extensively leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency [trading strategies](../t/trading_strategies.md) to manage jump risks. The [firm](../f/firm.md)'s [robust](../r/robust.md) technology [infrastructure](../i/infrastructure.md) allows quick [execution](../e/execution.md) of trades following jump events, thus maintaining a competitive edge in the [market](../m/market.md).
+[Jump Trading](../j/jump_trading.md) ( a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md), extensively leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency [trading strategies](../t/trading_strategies.md) to manage jump risks. The [firm](../f/firm.md)'s [robust](../r/robust.md) technology [infrastructure](../i/infrastructure.md) allows quick [execution](../e/execution.md) of trades following jump events, thus maintaining a competitive edge in the [market](../m/market.md).
 
 ### Example Strategy
 A common strategy involving jump frequency is the **"Jump-and-Dump”**, where traders [capitalize](../c/capitalize.md) on significant price jumps by quickly taking profits as the prices stabilize or revert. For instance, if an [earnings announcement](../e/earnings_announcement.md) causes a 5% jump in a stock's price, an algo could immediately sell part of the position to lock in gains.

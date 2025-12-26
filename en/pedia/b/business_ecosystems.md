@@ -42,11 +42,11 @@ Collaborative relationships between businesses that enhance each other’s offer
 
 #### Apple Inc.
 
-Apple’s ecosystem includes hardware (iPhones, iPads, Macs), software (iOS, macOS), and services (iCloud, Apple Music). By creating a tightly integrated ecosystem, Apple encourages customers to remain within their product and service offerings, enhancing [customer](../c/customer.md) loyalty and lifetime [value](../v/value.md). [Apple Inc.](https://www.apple.com)
+Apple’s ecosystem includes hardware (iPhones, iPads, Macs), software (iOS, macOS), and services (iCloud, Apple Music). By creating a tightly integrated ecosystem, Apple encourages customers to remain within their product and service offerings, enhancing [customer](../c/customer.md) loyalty and lifetime [value](../v/value.md). Apple Inc.
 
 #### Amazon
 
-Amazon’s [business](../b/business.md) ecosystem spans e-[commerce](../c/commerce.md), [cloud computing](../c/cloud_computing_in_trading.md) (AWS), and media services. Vendors, affiliates, and customers all form a part of this complex network. Amazon’s ecosystem facilitates vast product selection, fast delivery, and a convenient [customer](../c/customer.md) experience. [Amazon](https://www.amazon.com)
+Amazon’s [business](../b/business.md) ecosystem spans e-[commerce](../c/commerce.md), [cloud computing](../c/cloud_computing_in_trading.md) (AWS), and media services. Vendors, affiliates, and customers all form a part of this complex network. Amazon’s ecosystem facilitates vast product selection, fast delivery, and a convenient [customer](../c/customer.md) experience. Amazon
 
 ### Advantages
 
@@ -90,4 +90,3 @@ Balancing global reach with local relevance [will](../w/will.md) be crucial as b
 ### Conclusion
 
 [Business](../b/business.md) ecosystems are essential for modern enterprises looking to thrive in an interconnected and rapidly evolving marketplace. By understanding the dynamics, leveraging the advantages, and addressing the challenges, companies can build and sustain effective ecosystems that drive growth, innovation, and [competitive advantage](../c/competitive_advantage.md).
-

@@ -73,7 +73,7 @@ Technological advancements and fintech innovations are playing a vital role in t
 2. **Automated Trading Platforms**: Platforms like Liquidnet and others enable electronic [negotiation](../n/negotiation.md) and [execution](../e/execution.md) of trades.
 3. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**: AI and ML algorithms optimize [trade](../t/trade.md) [execution](../e/execution.md), [risk management](../r/risk_management.md), and [price discovery](../p/price_discovery.md).
 
-Institutions like JPMorgan and Goldman Sachs are [investing](../i/investing.md) in tech-driven solutions to enhance their OTC trading capabilities ([Learn more about JPMorgan](https://www.jpmorgan.com/) and [Goldman Sachs](https://www.goldmansachs.com/)).
+Institutions like JPMorgan and Goldman Sachs are [investing](../i/investing.md) in tech-driven solutions to enhance their OTC trading capabilities (Learn more about JPMorgan and Goldman Sachs).
 
 ## Conclusion
 

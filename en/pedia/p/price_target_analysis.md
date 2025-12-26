@@ -57,16 +57,16 @@ Advanced [machine learning](../m/machine_learning.md) models like [regression an
 ## Companies Specializing in Price Target Analysis
 
 ### Zacks Investment Research
-[Zacks](https://www.zacks.com/) is renowned for its [earnings estimates](../e/earnings_estimate.md), portfolio strategies, and stock research. The company provides comprehensive data and proprietary stock ratings, which are pivotal in [price target](../p/price_target.md) analysis.
+Zacks is renowned for its [earnings estimates](../e/earnings_estimate.md), portfolio strategies, and stock research. The company provides comprehensive data and proprietary stock ratings, which are pivotal in [price target](../p/price_target.md) analysis.
 
 ### TipRanks
-[TipRanks](https://www.tipranks.com/) offers a unique platform that aggregates, evaluates, and remunerates financial analysts, bloggers, and insiders. It provides stock price targets based on aggregated analyst estimates.
+TipRanks offers a unique platform that aggregates, evaluates, and remunerates financial analysts, bloggers, and insiders. It provides stock price targets based on aggregated analyst estimates.
 
 ### FactSet
-[FactSet](https://www.factset.com/) delivers financial data and analytics that help analysts and traders make well-informed decisions. Through [FactSet](../f/factset.md), users can access detailed [price target](../p/price_target.md) reports and [predictive analytics](../p/predictive_analytics.md).
+FactSet delivers financial data and analytics that help analysts and traders make well-informed decisions. Through [FactSet](../f/factset.md), users can access detailed [price target](../p/price_target.md) reports and [predictive analytics](../p/predictive_analytics.md).
 
 ### Refinitiv
-[Refinitiv](https://www.refinitiv.com/) provides financial data, analytics, and trading platforms, aiding in accurate [price target](../p/price_target.md) estimations with advanced tools and comprehensive datasets.
+Refinitiv provides financial data, analytics, and trading platforms, aiding in accurate [price target](../p/price_target.md) estimations with advanced tools and comprehensive datasets.
 
 ## Conclusion
 

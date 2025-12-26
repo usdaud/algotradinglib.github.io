@@ -31,7 +31,7 @@ The AAMS program is offered through a structured yet flexible learning environme
 - **Online Learning**: The program is primarily delivered online, allowing participants to study at their own pace while balancing professional and personal commitments.
 - **Instructor Support**: Experienced instructors provide [guidance](../g/guidance.md) and support through web-based interactions, webinars, and Q&A sessions.
 - **Examinations**: Each module typically concludes with an exam that participants must pass to demonstrate their proficiency in the subject matter.
-  
+
 ### Time Commitment
 
 On average, candidates complete the AAMS program in six to nine months, depending on their pace of study and existing familiarity with the subject matter. The program is designed to be rigorous yet manageable for working professionals.
@@ -112,7 +112,5 @@ The College for [Financial Planning](../f/financial_planning.md) provides a [ran
 - **Continuing Education**: Access to ongoing educational opportunities to ensure advisors stay current with [industry](../i/industry.md) trends and regulations.
 - **[Networking](../n/networking.md) Opportunities**: Platforms for connecting with other professionals in the field, sharing insights, and collaborating on [best practices](../b/best_practices.md).
 - **Professional Development**: Workshops, webinars, and other resources aimed at enhancing professional skills and knowledge.
-
-For more information about the AAMS program and resources available to designees, visit the [College for Financial Planning AAMS page](https://www.kaplanfinancial.com/wealth-management/aams).
 
 In conclusion, the Accredited [Asset Management](../a/asset_management.md) Specialist (AAMS) designation is a valuable credential for financial advisors looking to expand their expertise in [asset management](../a/asset_management.md). It provides comprehensive education, enhances professional credibility, and supports advisors in delivering high-quality financial advice to clients.

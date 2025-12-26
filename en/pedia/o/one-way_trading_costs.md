@@ -11,7 +11,7 @@ Brokerage fees are charges from the intermediary or [broker](../b/broker.md) for
 - **Percentage-Based Fees**: A percentage of the [transaction](../t/transaction.md) [value](../v/value.md).
 - **Tiered Pricing**: Varies based on the trading [volume](../v/volume.md) or frequency.
 
-For instance, brokers like [Interactive Brokers](../i/interactive_brokers.md) [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1338) [offer](../o/offer.md) a tiered pricing system where the cost can reduce with increased trading [volume](../v/volume.md).
+For instance, brokers like [Interactive Brokers](../i/interactive_brokers.md) Interactive Brokers [offer](../o/offer.md) a tiered pricing system where the cost can reduce with increased trading [volume](../v/volume.md).
 
 ### 2. **Bid-Ask Spread**
 
@@ -31,7 +31,7 @@ Exchanges charge fees to access their trading platforms. These can include:
 - **[Transaction Fees](../t/transaction_fees.md)**: Per [trade](../t/trade.md) [commission](../c/commission.md).
 - **Subscription Fees**: For data feeds or [premium](../p/premium.md) services.
 
-For instance, the New York Stock [Exchange](../e/exchange.md) [NYSE](https://www.nyse.com/data) lists various data products and their associated fees.
+For instance, the New York Stock [Exchange](../e/exchange.md) NYSE lists various data products and their associated fees.
 
 ### 6. **Clearing and Settlement Fees**
 

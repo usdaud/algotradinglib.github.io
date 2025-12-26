@@ -43,7 +43,7 @@ Prudent management of assets and liabilities, along with [diversification](../d/
 
 ## Consequences of Bank Runs
 
-[Bank](../b/bank.md) runs can have severe consequences for both the individual [bank](../b/bank.md) and the broader [economy](../e/economy.md). 
+[Bank](../b/bank.md) runs can have severe consequences for both the individual [bank](../b/bank.md) and the broader [economy](../e/economy.md).
 
 ### 1. Bank Failure
 The immediate consequence of a [bank](../b/bank.md) run is often the failure of the [bank](../b/bank.md). As deposits are withdrawn, the [bank](../b/bank.md)'s [liquidity](../l/liquidity.md) reserves are depleted, leading to [insolvency](../i/insolvency.md) if it cannot meet [withdrawal](../w/withdrawal.md) demands.
@@ -68,8 +68,8 @@ While traditional [bank](../b/bank.md) runs involved physical branches and withd
 ### Regulation and Risk Management
 Modern banking regulations focus intensely on [risk management](../r/risk_management.md) to prevent runs. [Stress testing](../s/stress_testing.md), [capital](../c/capital.md) requirements, and stringent oversight are all aimed at ensuring banks can survive periods of financial instability without succumbing to runs.
 
-### Case Study: SVB Financial Group (2023)
-In early 2023, SVB Financial Group experienced significant withdrawals due to rumors about their [venture capital](../v/venture_capital.md) portfolio's stability. Despite attempts to reassure depositors, the run accelerated, leading to severe [liquidity](../l/liquidity.md) challenges. This incident highlighted the ongoing relevance of traditional [bank](../b/bank.md) run dynamics in modern financial systems ([SVB Financial Group](https://www.svb.com/)).
+### Case Study: Silicon Valley Bank (2023)
+In March 2023, Silicon Valley Bank (SVB) experienced one of the largest bank runs in U.S. history. The run began after SVB announced significant losses on its bond portfolio due to rising interest rates. Within 48 hours, depositors attempted to withdraw over $42 billion, leading to the bank's collapse on March 10, 2023. The FDIC took control of the bank, and its assets were subsequently acquired by First Citizens Bank. This incident demonstrated how social media and digital banking can accelerate bank runs to unprecedented speeds, as information spread rapidly through tech and venture capital networks. It also highlighted risks of concentrated depositor bases and asset-liability mismatches.
 
 ## Conclusion
 

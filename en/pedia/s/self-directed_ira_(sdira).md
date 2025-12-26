@@ -40,7 +40,7 @@ SDIRAs often come with higher fees than traditional IRAs. These fees can include
 SDIRAs are subject to strict IRS regulations. Prohibited transactions and disqualified persons rules can lead to significant penalties and tax complications. For example:
 
 - **Prohibited Transactions**: Account holders cannot use the SDIRA to invest in collectibles or to benefit themselves or family members (i.e., self-dealing). This includes transactions like purchasing a vacation [home](../h/home.md) for personal use or lending [money](../m/money.md) to a relative.
-  
+
 - **Disqualified Persons**: Direct transactions between the SDIRA and disqualified persons, such as the account holder, their spouse, ascending and descending lineal family members, and certain [business](../b/business.md) entities they control, are not permitted.
 
 ### Custodians and Administrators
@@ -52,10 +52,10 @@ An SDIRA requires a [custodian](../c/custodian.md) or [trustee](../t/trustee.md)
 
 Some well-known custodians include:
 
-- [Equity Trust Company](https://www.trustetc.com/)
-- [Entrust Group](https://www.theentrustgroup.com/)
-- [Millennium Trust Company](https://www.mtrustcompany.com/)
-- [IRA Financial Group](https://www.irafinancialgroup.com/)
+- Equity Trust Company
+- Entrust Group
+- Millennium Trust Company
+- IRA Financial Group
 
 ### Steps to Open an SDIRA
 

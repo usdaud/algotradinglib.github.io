@@ -21,7 +21,7 @@ Conversely, an [interest rate floor](../i/interest_rate_floor.md) pays the buyer
 - **Application**: Suited for investors with floating-rate investments desiring a guaranteed minimum [interest](../i/interest.md) [income](../i/income.md).
 
 #### 3. Swaptions
-A swaption grants the holder the right to enter into an [interest rate swap](../i/interest_rate_swap.md) agreement at a specified future date. There are two primary types: 
+A swaption grants the holder the right to enter into an [interest rate swap](../i/interest_rate_swap.md) agreement at a specified future date. There are two primary types:
 
 - **Payer Swaption**: Gives the right to pay a fixed rate and receive a floating rate.
 - **Receiver Swaption**: Gives the right to receive a fixed rate and pay a floating rate.
@@ -60,16 +60,16 @@ Several factors influence the price of an [interest rate](../i/interest_rate.md)
 [Interest rate](../i/interest_rate.md) [options](../o/options.md) are used in various strategic ways:
 
 1. **Hedging**: Financial institutions and corporations use these [options](../o/options.md) to [hedge](../h/hedge.md) against unfavorable movements in [interest](../i/interest.md) rates, which can affect [loan](../l/loan.md) repayments, [bond](../b/bond.md) yields, and other [interest](../i/interest.md)-sensitive instruments.
-   
-   - **Example**: A company with a floating rate [loan](../l/loan.md) might buy an [interest rate](../i/interest_rate.md) cap to ensure their [interest](../i/interest.md) expenses do not exceed a manageable level.
+
+ - **Example**: A company with a floating rate [loan](../l/loan.md) might buy an [interest rate](../i/interest_rate.md) cap to ensure their [interest](../i/interest.md) expenses do not exceed a manageable level.
 
 2. **[Speculation](../s/speculation.md)**: Traders and investors may use [interest rate](../i/interest_rate.md) [options](../o/options.md) to [profit](../p/profit.md) from anticipated moves in [interest](../i/interest.md) rates without needing to [hold](../h/hold.md) the [underlying](../u/underlying.md) bonds or loans.
-   
-   - **Example**: A [trader](../t/trader.md) expecting [interest](../i/interest.md) rates to rise might buy a cap or a payer swaption.
+
+ - **Example**: A [trader](../t/trader.md) expecting [interest](../i/interest.md) rates to rise might buy a cap or a payer swaption.
 
 3. **[Arbitrage](../a/arbitrage.md)**: Skilled traders might exploit price inefficiencies between [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md) and [underlying](../u/underlying.md) instruments in different markets.
-   
-   - **Example**: [Arbitrage](../a/arbitrage.md) strategies might involve combinations of caps, floors, swaptions, and bonds to lock in [risk](../r/risk.md)-free profits.
+
+ - **Example**: [Arbitrage](../a/arbitrage.md) strategies might involve combinations of caps, floors, swaptions, and bonds to lock in [risk](../r/risk.md)-free profits.
 
 ### Risks Associated with Interest Rate Options
 
@@ -98,7 +98,7 @@ These regulatory bodies ensure [transparency](../t/transparency.md), reduce [sys
 
 Several financial institutions are key players in the [market](../m/market.md) for [interest rate](../i/interest_rate.md) [options](../o/options.md):
 
-1. **[Investment Banks](../i/investment_bank_(ib).md)**: Major banks like Goldman Sachs ([Goldman Sachs](https://www.goldmansachs.com)) and JPMorgan Chase ([JPMorgan Chase](https://www.jpmorganchase.com)) actively [trade](../t/trade.md) and provide [market](../m/market.md)-making services.
+1. **[Investment Banks](../i/investment_bank_(ib).md)**: Major banks like Goldman Sachs (Goldman Sachs) and JPMorgan Chase (JPMorgan Chase) actively [trade](../t/trade.md) and provide [market](../m/market.md)-making services.
 2. **[Hedge](../h/hedge.md) Funds**: [Hedge](../h/hedge.md) funds use [interest rate](../i/interest_rate.md) [options](../o/options.md) for leveraging strategies and [absolute return](../a/absolute_return.md) objectives.
 3. **Corporate Treasuries**: Corporations use these [derivatives](../d/derivatives.md) to manage [interest rate](../i/interest_rate.md) exposure linked to their financial operations.
 

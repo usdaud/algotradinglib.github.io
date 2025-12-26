@@ -77,10 +77,10 @@ Investors should carefully review the [fee](../f/fee.md) structure, as high fees
 
 Several financial institutions [offer](../o/offer.md) balanced funds. Below are a few examples with links to their respective pages:
 
-- **Vanguard Balanced [Index Fund](../i/index_fund.md)**: [Vanguard](https://investor.vanguard.com/mutual-funds/profile/VBIAX)
-- **Fidelity Balanced [Fund](../f/fund.md)**: [Fidelity](https://www.fidelity.com/mutual-funds/fidelity-funds/overview)
-- **Schwab Balanced [Fund](../f/fund.md)**: [Charles Schwab](https://www.schwabassetmanagement.com/products/swobx)
-- **T. Rowe Price Balanced [Fund](../f/fund.md)**: [T. Rowe Price](https://www.troweprice.com/personal-investing/tools/fund-research/PBSIX)
+- **Vanguard Balanced [Index Fund](../i/index_fund.md)**: Vanguard
+- **Fidelity Balanced [Fund](../f/fund.md)**: Fidelity
+- **Schwab Balanced [Fund](../f/fund.md)**: Charles Schwab
+- **T. Rowe Price Balanced [Fund](../f/fund.md)**: T. Rowe Price
 
 ## Risks and Considerations
 

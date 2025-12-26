@@ -1,6 +1,6 @@
 # Investment Thesis
 
-An investment thesis is a reasoned argument for a particular [investment strategy](../i/investment_strategy.md), supported by research and analysis. It is a fundamental aspect of [investment management](../i/investment_management.md) and is used by individual investors, venture capitalists, [hedge fund](../h/hedge_fund.md) managers, and financial analysts to guide their investment decisions. This comprehensive document or statement outlines why a particular investment is compelling, why it is expected to generate a [return](../r/return.md), and how it aligns with the [investor](../i/investor.md)'s objectives and [risk tolerance](../r/risk_tolerance.md). 
+An investment thesis is a reasoned argument for a particular [investment strategy](../i/investment_strategy.md), supported by research and analysis. It is a fundamental aspect of [investment management](../i/investment_management.md) and is used by individual investors, venture capitalists, [hedge fund](../h/hedge_fund.md) managers, and financial analysts to guide their investment decisions. This comprehensive document or statement outlines why a particular investment is compelling, why it is expected to generate a [return](../r/return.md), and how it aligns with the [investor](../i/investor.md)'s objectives and [risk tolerance](../r/risk_tolerance.md).
 
 ## Key Components of an Investment Thesis
 
@@ -82,26 +82,26 @@ With growing attention to Environmental, Social, and Governance (ESG) factors, a
 
 ### Hedge Funds and Financial Advisory Firms
 
-- **Bridgewater Associates:** [Bridgewater](https://www.bridgewater.com/)
-- **Renaissance Technologies:** [Renaissance Technologies](https://www.rentec.com/)
-- **BlackRock:** [BlackRock](https://www.blackrock.com/)
+- **Bridgewater Associates:** Bridgewater
+- **Renaissance Technologies:** Renaissance Technologies
+- **BlackRock:** BlackRock
 
 ### Venture Capital Firms
 
-- **Sequoia [Capital](../c/capital.md):** [Sequoia Capital](https://www.sequoiacap.com/)
-- **Andreessen Horowitz:** [Andreessen Horowitz](https://a16z.com/)
-- **Accel Partners:** [Accel Partners](https://www.accel.com/)
+- **Sequoia [Capital](../c/capital.md):** Sequoia Capital
+- **Andreessen Horowitz:** Andreessen Horowitz
+- **Accel Partners:** Accel Partners
 
 ### Real Estate Investment Trusts (REITs)
 
-- **AvalonBay Communities:** [AvalonBay](https://www.avaloncommunities.com/)
-- **Prologis:** [Prologis](https://www.prologis.com/)
-- **[Equity](../e/equity.md) Residential:** [Equity Residential](https://www.equityapartments.com/)
+- **AvalonBay Communities:** AvalonBay
+- **Prologis:** Prologis
+- **[Equity](../e/equity.md) Residential:** Equity Residential
 
 ### Sustainable Investment Firms
 
-- **Generation [Investment Management](../i/investment_management.md):** [Generation Investment](https://www.generationim.com/)
-- **Calvert Research and Management:** [Calvert](https://www.calvert.com/)
-- **Pax World Funds:** [Pax World Funds](https://paxworld.com/)
+- **Generation [Investment Management](../i/investment_management.md):** Generation Investment
+- **Calvert Research and Management:** Calvert
+- **Pax World Funds:** Pax World Funds
 
 An effective investment thesis serves as a comprehensive roadmap guiding investment decisions, ensuring that they are based on thorough research, sound analysis, and alignment with overall financial objectives and [risk tolerance](../r/risk_tolerance.md). It is an evolving document, adaptable as new information and [market](../m/market.md) conditions emerge, but always grounded in a well-articulated rationale for why an investment is expected to be successful.

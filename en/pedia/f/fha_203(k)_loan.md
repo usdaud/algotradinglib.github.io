@@ -68,4 +68,3 @@ To be eligible for an FHA 203(k) [loan](../l/loan.md), applicants must meet seve
 
 The FHA 203(k) [loan](../l/loan.md) is a versatile [financing](../f/financing.md) option that benefits homebuyers and homeowners looking to purchase and rehabilitate a property with a single [loan](../l/loan.md). Though it comes with specific requirements and involves a more complex process, it offers significant advantages for those seeking to invest in their homes or in properties needing repair.
 
-For more information, you can visit the official FHA page on the HUD website: [HUD FHA 203(k) Loan](https://www.hud.gov/program_offices/housing/sfh/203k).

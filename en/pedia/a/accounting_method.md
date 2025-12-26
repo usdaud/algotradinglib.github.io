@@ -93,11 +93,11 @@ Accurate [accounting](../a/accounting.md) methods enable better [risk](../r/risk
 
 ### Renaissance Technologies
 
-Renaissance Technologies is one of the most famous [algorithmic trading](../a/accountability.md) firms globally, known for its Medallion [Fund](../f/fund.md). The proprietary strategies employed require sophisticated [accounting](../a/accounting.md) methods for accurate financial reporting and compliance. More information can be found on their [company website](https://www.rentec.com/).
+Renaissance Technologies is one of the most famous [algorithmic trading](../a/accountability.md) firms globally, known for its Medallion [Fund](../f/fund.md). The proprietary strategies employed require sophisticated [accounting](../a/accounting.md) methods for accurate financial reporting and compliance.
 
 ### Citadel LLC
 
-Citadel LLC, founded by Kenneth C. Griffin, is another major player in the algo-trading space. Their comprehensive [accounting](../a/accounting.md) systems ensure accuracy and compliance across hundreds of thousands of trades executed annually. Details about their operations can be found on their [company website](https://www.citadel.com/).
+Citadel LLC, founded by Kenneth C. Griffin, is another major player in the algo-trading space. Their comprehensive [accounting](../a/accounting.md) systems ensure accuracy and compliance across hundreds of thousands of trades executed annually.
 
 ## Conclusion
 

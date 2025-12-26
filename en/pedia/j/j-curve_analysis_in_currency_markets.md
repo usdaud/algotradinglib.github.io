@@ -42,7 +42,7 @@ Numerous empirical studies have investigated the existence and dynamics of the [
 - **Hsing (2005)**: The research focused on the effects of [currency](../c/currency.md) [depreciation](../d/depreciation.md) in the G-7 countries, demonstrating that the [J-Curve effect](../j/j-curve_effect.md) was present but varied significantly across different economies.
 
 ## Practical Implications for Currency Markets
-Understanding the [J-Curve](../j/j-curve.md) is crucial for policymakers, investors, and businesses involved in [currency](../c/currency.md) markets. 
+Understanding the [J-Curve](../j/j-curve.md) is crucial for policymakers, investors, and businesses involved in [currency](../c/currency.md) markets.
 
 ### Policymakers
 - **[Exchange Rate](../e/exchange_rate.md) Policy**: Central banks and [finance](../f/finance.md) ministries must consider the potential short-term negative impacts on the [trade](../t/trade.md) balance when implementing policies that affect [exchange](../e/exchange.md) rates.
@@ -78,5 +78,5 @@ For more detailed analysis and case studies related to [J-Curve](../j/j-curve.md
 - Hsing, Y. (2005). Re-examination of the [J-Curve Effect](../j/j-curve_effect.md) for G-7 Countries. International [Journal](../j/journal.md) of [Business](../b/business.md) and [Economics](../e/economics.md).
 
 **Useful Links:**
-- [Institute of International Finance](https://www.iif.com)
-- [International Monetary Fund](https://www.imf.org)
+- Institute of International Finance
+- International Monetary Fund

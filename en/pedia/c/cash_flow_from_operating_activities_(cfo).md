@@ -14,7 +14,7 @@ Evaluating CFO helps in understanding how efficiently a company is managing its 
 Companies with strong CFO have the financial flexibility to invest in growth opportunities, such as [capital](../c/capital.md) expenditures (CAPEX), research and development (R&D), acquisitions, or repaying [debt](../d/debt.md). This ability to reinvest in the [business](../b/business.md) without external [financing](../f/financing.md) is a hallmark of a financially sound company.
 
 ### Dividend Policy
-For companies that pay dividends, consistent and [robust](../r/robust.md) CFO is essential. It ensures that the company has sufficient cash to [return](../r/return.md) to shareholders while still [investing](../i/investing.md) in its own growth. 
+For companies that pay dividends, consistent and [robust](../r/robust.md) CFO is essential. It ensures that the company has sufficient cash to [return](../r/return.md) to shareholders while still [investing](../i/investing.md) in its own growth.
 
 ## Components of CFO
 
@@ -57,13 +57,13 @@ Key ratios involving CFO include:
 ## Case Studies
 
 ### Apple Inc.
-Apple Inc. consistently demonstrates strong CFO, reflecting its [operational efficiency](../o/operational_efficiency_in_trading.md) and [robust](../r/robust.md) [business](../b/business.md) model. The high CFO allows Apple to invest in innovative products and technologies while returning [capital](../c/capital.md) to shareholders through dividends and [share buybacks](../s/share_buybacks.md). For more information on Apple’s financials, one can visit [Apple](https://investor.apple.com/investor-relations/default.aspx).
+Apple Inc. consistently demonstrates strong CFO, reflecting its [operational efficiency](../o/operational_efficiency_in_trading.md) and [robust](../r/robust.md) [business](../b/business.md) model. The high CFO allows Apple to invest in innovative products and technologies while returning [capital](../c/capital.md) to shareholders through dividends and [share buybacks](../s/share_buybacks.md). For more information on Apple’s financials, one can visit Apple.
 
 ### Amazon Inc.
-Amazon Inc. initially had lower CFO due to massive investments in growth and [infrastructure](../i/infrastructure.md). However, as its [business](../b/business.md) model matured, Amazon's CFO has shown significant growth, illustrating its growing operational efficiencies. Detailed financial data can be found at [Amazon](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx).
+Amazon Inc. initially had lower CFO due to massive investments in growth and [infrastructure](../i/infrastructure.md). However, as its [business](../b/business.md) model matured, Amazon's CFO has shown significant growth, illustrating its growing operational efficiencies. Detailed financial data can be found at Amazon.
 
 ### Tesla Inc.
-Tesla Inc. provides a contrasting example where high CAPEX has often strained its CFO. However, as Tesla's production and sales have scaled, its CFO has shown improvement, highlighting the challenges and rewards of high-growth industries. Financial reports are available at [Tesla](https://ir.tesla.com/).
+Tesla Inc. provides a contrasting example where high CAPEX has often strained its CFO. However, as Tesla's production and sales have scaled, its CFO has shown improvement, highlighting the challenges and rewards of high-growth industries. Financial reports are available at Tesla.
 
 ## Conclusion
 

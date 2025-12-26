@@ -20,7 +20,7 @@ The Hungarian Forint's design and [value](../v/value.md) are significant both hi
 
 ### Banknotes
 
-Current Forint banknotes include 500 Ft, 1,000 Ft, 2,000 Ft, 5,000 Ft, 10,000 Ft, and 20,000 Ft denominations. Hungary has carried out periodic redesigns to include enhanced [security](../s/security.md) features and updated portraits of historical figures. 
+Current Forint banknotes include 500 Ft, 1,000 Ft, 2,000 Ft, 5,000 Ft, 10,000 Ft, and 20,000 Ft denominations. Hungary has carried out periodic redesigns to include enhanced [security](../s/security.md) features and updated portraits of historical figures.
 
 1. **500 Ft**: Features Ferenc Rákóczi II - a leader of the Hungarian uprisings in the 18th century.
 2. **1,000 Ft**: Depicts King Matthias Corvinus, one of Hungary’s most renowned medieval monarchs.
@@ -39,7 +39,7 @@ The Hungarian Forint is a key player in Hungary's [monetary policy](../m/monetar
 
 ### Central Bank Role
 
-The Hungarian [National Bank](../n/national_bank.md) (MNB) plays a pivotal role in the management and regulation of the Forint. The MNB develops policies to control [inflation](../i/inflation.md) and ensure the stability of its [national currency](../n/national_currency.md). For more information about their policies and up-to-date economic reports, visit their official website: [Hungarian National Bank](https://www.mnb.hu/en).
+The Hungarian [National Bank](../n/national_bank.md) (MNB) plays a pivotal role in the management and regulation of the Forint. The MNB develops policies to control [inflation](../i/inflation.md) and ensure the stability of its [national currency](../n/national_currency.md).
 
 ### Inflation and Interest Rates
 

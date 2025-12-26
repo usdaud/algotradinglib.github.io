@@ -67,10 +67,10 @@ Businesses need to integrate automatic bill [payment](../p/payment.md) capabilit
 
 Several companies provide automatic bill [payment](../p/payment.md) services, including:
 
-- **[PayPal](../p/paypal.md)**: Offers automated [payment](../p/payment.md) solutions for both businesses and individual users. [PayPal](https://www.paypal.com)
-- **Intuit**: Known for QuickBooks, Intuit provides automated billing and [accounting](../a/accounting.md) software. [Intuit QuickBooks](https://quickbooks.intuit.com)
-- **Stripe**: Facilitates online payments and automated billing for businesses. [Stripe](https://stripe.com)
-- **Square**: Provides invoicing and automatic [payment](../p/payment.md) processing. [Square](https://squareup.com)
+- **[PayPal](../p/paypal.md)**: Offers automated [payment](../p/payment.md) solutions for both businesses and individual users. PayPal
+- **Intuit**: Known for QuickBooks, Intuit provides automated billing and [accounting](../a/accounting.md) software. Intuit QuickBooks
+- **Stripe**: Facilitates online payments and automated billing for businesses. Stripe
+- **Square**: Provides invoicing and automatic [payment](../p/payment.md) processing. Square
 
 ## Security Measures
 

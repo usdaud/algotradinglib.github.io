@@ -81,7 +81,7 @@ Central [bank](../b/bank.md) policies, particularly those involving unconvention
 
 ## Future Prospects
 
-In the age of [algorithmic trading](../a/accountability.md) and financial technology (fintech), uncovered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) strategies are becoming increasingly sophisticated. Algorithms can now scan global markets in real-time to identify and execute [arbitrage opportunities](../a/arbitrage_opportunities.md) faster than a human ever could.
+In the age of [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech), uncovered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) strategies are becoming increasingly sophisticated. Algorithms can now scan global markets in real-time to identify and execute [arbitrage opportunities](../a/arbitrage_opportunities.md) faster than a human ever could.
 
 ### Fintech Integration
 Fintech companies are introducing platforms that facilitate more efficient and transparent trades. Automated systems using [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) can analyze [market](../m/market.md) trends and historical data to predict [currency](../c/currency.md) movements more accurately.
@@ -90,7 +90,7 @@ Fintech companies are introducing platforms that facilitate more efficient and t
 As the cryptocurrency [market](../m/market.md) evolves, uncovered [interest](../i/interest.md) [arbitrage opportunities](../a/arbitrage_opportunities.md) may arise within digital currencies. Although this [market](../m/market.md) is currently more volatile and less predictable than traditional forex markets, its growth could present new avenues for [arbitrage](../a/arbitrage.md).
 
 #### Example of a Fintech Firm: Revolut
-Revolut (https://www.revolut.com) is a fintech company that offers a [range](../r/range.md) of financial services, including [currency exchange](../c/currency_exchange.md) at interbank rates. Such platforms can be instrumental in facilitating better [execution](../e/execution.md) of uncovered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) by [offering](../o/offering.md) lower [transaction costs](../t/transaction_costs.md) and faster transfers.
+Revolut ( is a fintech company that offers a [range](../r/range.md) of financial services, including [currency exchange](../c/currency_exchange.md) at interbank rates. Such platforms can be instrumental in facilitating better [execution](../e/execution.md) of uncovered [interest](../i/interest.md) [arbitrage](../a/arbitrage.md) by [offering](../o/offering.md) lower [transaction costs](../t/transaction_costs.md) and faster transfers.
 
 ## Conclusion
 

@@ -7,7 +7,7 @@ A [bank](../b/bank.md) guarantee is a promise made by a [bank](../b/bank.md) or 
 Understanding the various types of [bank](../b/bank.md) guarantees can help businesses select the appropriate type for their needs. Here are some of the most commonly used [bank](../b/bank.md) guarantees:
 
 1. **Performance Guarantee**: It ensures that the services or goods [will](../w/will.md) be provided as per the terms agreed upon. If the party fails to deliver, the guaranteed amount [will](../w/will.md) be compensated by the [bank](../b/bank.md).
-   
+
 2. **[Financial Guarantee](../f/financial_guarantee.md)**: This guarantee ensures [repayment](../r/repayment.md) of the [principal](../p/principal.md) and [interest](../i/interest.md) amounts which a borrower owes to a [lender](../l/lender.md). It is often used for loans or other financial transactions.
 
 3. **[Advance Payment](../a/advance_payment.md) Guarantee**: It is used when a buyer makes an [advance payment](../a/advance_payment.md) to a supplier. The guarantee assures the buyer that the advance [will](../w/will.md) be refunded if the supplier fails to deliver.
@@ -28,7 +28,7 @@ Understanding the various types of [bank](../b/bank.md) guarantees can help busi
 - Guaranteeing the performance of [export](../e/export.md) contracts
 - Ensuring due prompt [payment](../p/payment.md) for goods and services
 
-[Bank](../b/bank.md) guarantees provide a layer of financial [security](../s/security.md), allowing exporters and importers to mitigate [risk](../r/risk.md) and foster [trust](../t/trust.md). 
+[Bank](../b/bank.md) guarantees provide a layer of financial [security](../s/security.md), allowing exporters and importers to mitigate [risk](../r/risk.md) and foster [trust](../t/trust.md).
 
 ## Benefits of Bank Guarantees
 
@@ -64,17 +64,17 @@ To understand how a [business](../b/business.md) can benefit from a [bank](../b/
 
 Various financial institutions provide [bank](../b/bank.md) guarantee services, [offering](../o/offering.md) businesses the [security](../s/security.md) they need to engage in riskier or larger scale transactions. Some prominent names include:
 
-- **HSBC** ([link](https://www.hsbc.com/)): One of the world's largest banking and financial services organizations, HSBC offers comprehensive [bank](../b/bank.md) guarantee services, particularly for international [trade](../t/trade.md).
+- **HSBC** (link): One of the world's largest banking and financial services organizations, HSBC offers comprehensive [bank](../b/bank.md) guarantee services, particularly for international [trade](../t/trade.md).
 
-- **Citibank** ([link](https://www.citigroup.com/)): Citibank, a branch of Citigroup, provides various guarantee services, including performance and financial guarantees tailored to their clients' needs.
+- **Citibank** (link): Citibank, a branch of Citigroup, provides various guarantee services, including performance and financial guarantees tailored to their clients' needs.
 
-- **Deutsche [Bank](../b/bank.md)** ([link](https://www.db.com/)): Deutsche [Bank](../b/bank.md) offers a wide [range](../r/range.md) of guarantee products designed to support different [business](../b/business.md) needs and mitigate [transaction](../t/transaction.md) risks.
+- **Deutsche [Bank](../b/bank.md)** (link): Deutsche [Bank](../b/bank.md) offers a wide [range](../r/range.md) of guarantee products designed to support different [business](../b/business.md) needs and mitigate [transaction](../t/transaction.md) risks.
 
-- **J.P. Morgan** ([link](https://www.jpmorgan.com/)): J.P. Morgan specializes in [offering](../o/offering.md) guarantees that back [payment](../p/payment.md) [obligations](../o/obligation.md), ensuring that their clients can conduct global transactions with confidence.
+- **J.P. Morgan** (link): J.P. Morgan specializes in [offering](../o/offering.md) guarantees that back [payment](../p/payment.md) [obligations](../o/obligation.md), ensuring that their clients can conduct global transactions with confidence.
 
-- **[Bank](../b/bank.md) of America** ([link](https://www.bankofamerica.com/)): Known for its broad array of financial services, [Bank](../b/bank.md) of America offers custom [bank](../b/bank.md) guarantees to facilitate secure [business](../b/business.md) and [trade](../t/trade.md) engagements.
+- **[Bank](../b/bank.md) of America** (link): Known for its broad array of financial services, [Bank](../b/bank.md) of America offers custom [bank](../b/bank.md) guarantees to facilitate secure [business](../b/business.md) and [trade](../t/trade.md) engagements.
 
-- **Standard Chartered** ([link](https://www.sc.com/)): Standard Chartered's guarantee services ensure member firms can navigate global pools of [liquidity](../l/liquidity.md) with minimal [risk](../r/risk.md). They provide diverse guarantee products for different sectors.
+- **Standard Chartered** (link): Standard Chartered's guarantee services ensure member firms can navigate global pools of [liquidity](../l/liquidity.md) with minimal [risk](../r/risk.md). They provide diverse guarantee products for different sectors.
 
 ## Conclusion
 

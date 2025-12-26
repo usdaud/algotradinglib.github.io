@@ -44,4 +44,3 @@ The **Board of Governors** refers to the governing body that oversees the operat
 
 ## Conclusion
 The Board of Governors is a critical governing body responsible for overseeing and guiding the operations and policies of organizations, particularly within the Federal Reserve System. Its functions include setting policies, providing oversight, and ensuring the stability and integrity of the [financial system](../f/financial_system.md). Understanding the role and responsibilities of the Board of Governors highlights its importance in maintaining economic stability and public confidence in financial institutions.
-

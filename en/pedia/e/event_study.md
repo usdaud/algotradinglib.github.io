@@ -102,11 +102,11 @@ Various statistical tests are used to evaluate the significance of abnormal retu
 
 ### Eventus
 
-Eventus is a popular software package that facilitates event study analysis. It is integrated with various databases and supports numerous statistical tests. Information about Eventus can be found at: [Eventus](https://www.eventstudytools.com/).
+Eventus is a popular software package that facilitates event study analysis. It is integrated with various databases and supports numerous statistical tests. Information about Eventus can be found at: Eventus.
 
 ### Event Study Metrics
 
-Another comprehensive tool is Event Study Metrics, which provides a user-friendly interface for conducting various types of event studies. More details can be found at: [Event Study Metrics](https://www.eventstudymetrics.com/).
+Another comprehensive tool is Event Study Metrics, which provides a user-friendly interface for conducting various types of event studies. More details can be found at: Event Study Metrics.
 
 ### R and Python Packages
 

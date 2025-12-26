@@ -33,7 +33,7 @@ Resale exemptions, such as those outlined in [Rule 144A](../r/rule_144a.md), all
 Various regulatory bodies oversee the application of these exemptions, including:
 
 ### U.S. Securities and Exchange Commission (SEC)
-The SEC provides frameworks like Regulation D, [Rule 144A](../r/rule_144a.md), and Reg S, which define and guide the application of exempt transactions. More information can be found on their [official website](https://www.sec.gov).
+The SEC provides frameworks like Regulation D, [Rule 144A](../r/rule_144a.md), and Reg S, which define and guide the application of exempt transactions.
 
 ### Financial Industry Regulatory Authority (FINRA)
 FINRA supervises [broker](../b/broker.md)-dealers and monitors compliance with securities laws, including the application of exempt [transaction](../t/transaction.md) rules.
@@ -71,7 +71,7 @@ Unicorn startups often use private placements to raise substantial [capital](../
 Institutional investors regularly participate in large private transactions involving restricted securities that qualify under [Rule 144A](../r/rule_144a.md) exemptions. These transactions create a [secondary market](../s/secondary_market.md) for qualifying securities, contributing significantly to overall [market](../m/market.md) [liquidity](../l/liquidity.md).
 
 ### Intrastate Crowdfunding
-Companies like Indie Crowd Funder (ICF) utilize intrastate exemptions to facilitate [crowdfunding](../c/crowdfunding.md) within state boundaries, providing local businesses with [financing](../f/financing.md) while complying with state-specific regulatory frameworks. More information can be from their [website](https://indiecrowdfunder.com).
+Companies like Indie Crowd Funder (ICF) utilize intrastate exemptions to facilitate [crowdfunding](../c/crowdfunding.md) within state boundaries, providing local businesses with [financing](../f/financing.md) while complying with state-specific regulatory frameworks.
 
 ## Conclusion
 

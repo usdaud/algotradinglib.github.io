@@ -58,7 +58,7 @@ Auction markets are also prevalent in [commodity](../c/commodity.md) trading. Ex
 
 The internet has given rise to numerous online auction markets, where goods and services are sold via auction mechanisms. These include:
 - **eBay**: One of the most famous online auction platforms, eBay allows users to [bid](../b/bid.md) on various items in real-time.
-  - [eBay](https://www.ebay.com)
+ - eBay
 
 ### Real Estate Markets
 
@@ -87,17 +87,17 @@ Also known as a second-price sealed-[bid](../b/bid.md) auction, in a Vickrey auc
 ### New York Stock Exchange (NYSE)
 
 The NYSE operates as an auction [market](../m/market.md) where [market](../m/market.md) makers facilitate trades in various [listed](../l/listed.md) securities. Here, opening and closing auctions are critical moments in daily trading, setting the initial and final prices for [listed](../l/listed.md) [stocks](../s/stock.md).
-- [NYSE](https://www.nyse.com)
+- NYSE
 
 ### Chicago Mercantile Exchange (CME)
 
 The CME is a leading [commodity](../c/commodity.md) [exchange](../e/exchange.md) that utilizes an auction [market](../m/market.md) model for trading [futures](../f/futures.md) and [options](../o/options.md) on commodities.
-- [CME Group](https://www.cmegroup.com)
+- CME Group
 
 ### eBay
 
 As an online auction [market](../m/market.md), eBay allows users to list items for auction, setting a starting [bid price](../b/bid_price.md) and [duration](../d/duration.md) for the auction. Interested buyers place bids until the highest [bid](../b/bid.md) at the end of the auction wins the item.
-- [eBay](https://www.ebay.com)
+- eBay
 
 ### Dutch Flower Auctions
 

@@ -23,7 +23,7 @@ The first [index fund](../i/index_fund.md) offered by Vanguard was the First [In
 John Bogle's investment philosophy can be summarized by a few key principles:
 
 1. **Low Costs:** High fees and expenses eat into investment returns. By keeping costs low, investors can retain more of their returns.
-   
+
 2. **[Diversification](../d/diversification.md):** Spreading investments across a wide array of assets can reduce [risk](../r/risk.md). Bogle championed broad-based [index](../i/index_instrument.md) funds for their inherent [diversification](../d/diversification.md).
 
 3. **Long-Term Perspective:** [Market timing](../m/market_timing.md) and [short-term trading](../s/short-term_trading.md) often lead to suboptimal results. Bogle believed in holding investments for the long term.
@@ -39,7 +39,7 @@ Bogle's ideas revolutionized the investment [industry](../i/industry.md). Today,
 Bogle was a prolific [writer](../w/writer.md) and speaker. Some of his most influential books include:
 
 - **"Common Sense on Mutual Funds"** (1999): A comprehensive guide to [mutual fund](../m/mutual_fund.md) [investing](../i/investing.md), covering various aspects of [investment strategy](../i/investment_strategy.md) and [fund](../f/fund.md) management.
-  
+
 - **"The Little Book of Common Sense [Investing](../i/investing.md)"** (2007): A concise introduction to Bogle's investment philosophy, emphasizing the importance of low-cost [index](../i/index_instrument.md) funds.
 
 - **"Enough: True Measures of [Money](../m/money.md), [Business](../b/business.md), and Life"** (2008): A reflection on the broader implications of [wealth](../w/wealth.md) and the importance of ethical behavior in [business](../b/business.md).
@@ -52,7 +52,7 @@ Over his lifetime, Bogle received numerous awards and accolades for his contribu
 
 John Bogle passed away on January 16, 2019, but his legacy endures. The principles he championed continue to influence investors and financial professionals, promoting a more transparent and efficient investment [industry](../i/industry.md). Vanguard, the company he founded, remains a testament to his vision and commitment to helping ordinary investors achieve their financial goals.
 
-For more information about John Bogle and The Vanguard Group, you can visit the official Vanguard website [here](https://www.vanguard.com).
+
 
 ### Conclusion
 

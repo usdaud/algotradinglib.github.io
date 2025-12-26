@@ -70,8 +70,8 @@ The use of complex adaptive algorithms must comply with regulatory requirements.
 
 Many [hedge](../h/hedge.md) funds and [asset management](../a/asset_management.md) firms [leverage](../l/leverage.md) adaptive algorithms to maximize returns and manage risks. Noteworthy firms include:
 
-- [Renaissance Technologies](https://www.rentech.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Renaissance Technologies
+- Two Sigma
 
 These companies rely heavily on [data science](../d/data_science_in_trading.md) teams to create and refine adaptive [trading algorithms](../t/trading_algorithms.md).
 
@@ -99,4 +99,4 @@ Advanced adaptive algorithms are expected to incorporate more sophisticated [ris
 
 ## Conclusion
 
-Adaptive algorithms represent a significant evolution in the field of [algorithmic trading](../a/algorithmic_trading.md). Their ability to learn and adapt to new [market](../m/market.md) conditions makes them invaluable in the modern trading landscape. As technology continues to advance, the capabilities and applications of these algorithms are likely to expand, [offering](../o/offering.md) new opportunities and challenges in the world of [finance](../f/finance.md).
+Adaptive algorithms represent a significant evolution in the field of [algorithmic trading](../a/algorithmic_trading.md). Their ability to learn and adapt to new [market](../m/market.md) conditions makes them invaluable in the modern trading landscape. As technology continues to advance, the capabilities and applications of these algorithms are likely to expand, [offering](../o/offering.md) new opportunities and challenges in the world of [finance](../f/finance.md).

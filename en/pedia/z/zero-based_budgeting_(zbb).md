@@ -48,7 +48,7 @@ By justifying all expenses and prioritizing spending, ZBB ensures that resources
 ZBB forces organizations to take a fresh look at all expenses, helping to identify and eliminate wasteful or redundant spending. This can lead to significant cost savings.
 
 ### 3. **Encourages Efficiency and Innovation**
-Since each decision package needs thorough justification, managers are encouraged to find more efficient and innovative ways to achieve their objectives. 
+Since each decision package needs thorough justification, managers are encouraged to find more efficient and innovative ways to achieve their objectives.
 
 ### 4. **Increases Accountability**
 ZBB places the responsibility for [budget](../b/budget.md) creation and justification on individual managers, fostering a culture of accountability and ownership over financial decisions.
@@ -102,9 +102,7 @@ Unilever adopted ZBB as part of its broader financial transformation strategy. T
 
 For more information on Kraft Heinz and Unilever's use of ZBB, refer to their respective websites:
 
-- Kraft Heinz: [https://www.kraftheinzcompany.com/](https://www.kraftheinzcompany.com/)
-- Unilever: [https://www.unilever.com/](https://www.unilever.com/)
-
+- Kraft Heinz- Unilever
 ## Conclusion
 
 Zero-Based Budgeting is a powerful tool for organizations aiming to control costs, eliminate waste, and align spending with strategic priorities. While it can be resource-intensive and complex, the benefits of ZBB—such as increased [efficiency](../e/efficiency.md), better resource allocation, and enhanced accountability—make it an attractive option for both public and [private sector](../p/private_sector.md) organizations. With the support of modern technology and committed management, ZBB can drive significant financial and operational improvements.

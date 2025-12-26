@@ -64,16 +64,15 @@ Although many CDs pay periodic [interest](../i/interest.md), some are issued at 
 
 ### U.S. Treasury
 
-The U.S. Department of the Treasury regularly issues T-bills that are auctioned to investors. On its official site [www.treasurydirect.gov](https://www.treasurydirect.gov), the [discount](../d/discount.md) [yield](../y/yield.md) for each auction is published, helping investors make decisions based on current [market](../m/market.md) conditions.
+The U.S. Department of the Treasury regularly issues T-bills that are auctioned to investors. On its public materials the [discount](../d/discount.md) [yield](../y/yield.md) for each auction is published, helping investors make decisions based on current [market](../m/market.md) conditions.
 
 ### Corporate Issuers
 
-Large corporations like Apple and Microsoft often [issue](../i/issue.md) [commercial paper](../c/commercial_paper.md) as part of their [liquidity](../l/liquidity.md) management strategies. The [discount](../d/discount.md) yields for these instruments provide valuable insight into the cost of short-term borrowing for these companies. You can visit Apple’s [Investor Relations](https://investor.apple.com) or Microsoft’s [Investor Relations](https://www.microsoft.com/en-us/Investor) for more details.
+Large corporations like Apple and Microsoft often [issue](../i/issue.md) [commercial paper](../c/commercial_paper.md) as part of their [liquidity](../l/liquidity.md) management strategies. The [discount](../d/discount.md) yields for these instruments provide valuable insight into the cost of short-term borrowing for these companies. You can visit Apple’s company filings or Microsoft’s company filings for more details.
 
 ### Central Banks
 
-Central banks around the world monitor [discount](../d/discount.md) yields as part of their [monetary policy](../m/monetary_policy.md) tools. The Federal Reserve, for example, uses data on [discount](../d/discount.md) yields when making decisions about [interest](../i/interest.md) rates and other economic measures. You can find more information on the Federal Reserve’s official site [www.federalreserve.gov](https://www.federalreserve.gov).
-
+Central banks around the world monitor [discount](../d/discount.md) yields as part of their [monetary policy](../m/monetary_policy.md) tools. The Federal Reserve, for example, uses data on [discount](../d/discount.md) yields when making decisions about [interest](../i/interest.md) rates and other economic measures. You can find
 ## Computational Tools and Techniques
 
 ### Bloomberg Terminal

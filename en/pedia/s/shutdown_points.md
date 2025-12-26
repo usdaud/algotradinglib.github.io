@@ -1,6 +1,6 @@
 # Shutdown Points
 
-In the realm of trading and [finance](../f/finance.md), "shutdown points" refer to specific levels or conditions under which trading halts, often triggered by [market](../m/market.md) mechanisms to prevent extreme [volatility](../v/volatility.md) and maintain orderly markets. These points can be either [market](../m/market.md)-wide or applicable to individual [stocks](../s/stock.md) or assets. They are vital for [risk management](../r/risk_management.md), helping ensure that [market](../m/market.md) participants do not face extraordinary losses within short time frames. 
+In the realm of trading and [finance](../f/finance.md), "shutdown points" refer to specific levels or conditions under which trading halts, often triggered by [market](../m/market.md) mechanisms to prevent extreme [volatility](../v/volatility.md) and maintain orderly markets. These points can be either [market](../m/market.md)-wide or applicable to individual [stocks](../s/stock.md) or assets. They are vital for [risk management](../r/risk_management.md), helping ensure that [market](../m/market.md) participants do not face extraordinary losses within short time frames.
 
 ## Definition and Purpose
 
@@ -25,7 +25,7 @@ Specific thresholds can trigger shutdown points for individual [stocks](../s/sto
 - **Limit-Up Limit-Down (LULD) Mechanisms**: These mechanisms prevent trades in individual [stocks](../s/stock.md) from occurring outside of specified price bands, which adjust throughout the day based on the stock’s average price. When these bands are hit, trading is halted for a brief period, allowing the [market](../m/market.md) to reestablish [equilibrium](../e/equilibrium.md).
 
 ### 3. Algorithmic Trading Halts
-In the context of [algorithmic trading](../a/accountability.md), shutdown points can be built into [trading algorithms](../t/trading_algorithms.md) to stop trading activities when certain conditions are met. These might include:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), shutdown points can be built into [trading algorithms](../t/trading_algorithms.md) to stop trading activities when certain conditions are met. These might include:
 
 - **[Drawdown](../d/drawdown.md) Limits**: When a trading algorithm hits a predefined loss threshold, it automatically stops further transactions.
 - **[Volatility](../v/volatility.md) Filters**: Algorithms may halt trading when extreme price movements or [volatility](../v/volatility.md) levels are detected.
@@ -43,11 +43,11 @@ Shutdown points are governed by regulatory bodies such as:
 
 - **The Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: In the U.S., the SEC oversees broad regulatory policies, including the implementation of circuit breakers.
 - **Financial [Industry](../i/industry.md) Regulatory Authority (FINRA)**: This organization manages day-to-day enforcement of rules related to trading halts.
-- **Stock Exchanges**: Individual exchanges, such as the New York Stock [Exchange](../e/exchange.md) (NYSE) or [NASDAQ](../n/nasdaq.md), may implement their own specific rules regarding shutdown points. 
+- **Stock Exchanges**: Individual exchanges, such as the New York Stock [Exchange](../e/exchange.md) (NYSE) or [NASDAQ](../n/nasdaq.md), may implement their own specific rules regarding shutdown points.
 
 ### Case Study: New York Stock Exchange (NYSE)
 
-For more detailed information on trading halts and their specific regulations, the NYSE website provides comprehensive resources. You can visit the NYSE's page on [Trading Halts](https://www.nyse.com/trade-halts) for direct insights into their regulatory framework.
+For more detailed information on trading halts and their specific regulations, the NYSE online platform provides comprehensive resources. You can
 
 ## Impacts and Criticisms
 

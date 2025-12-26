@@ -15,7 +15,7 @@ The [index](../i/index_instrument.md) includes a wide [range](../r/range.md) of 
 - SoftBank Group Corp.
 - Fast Retailing Co., Ltd. (owner of Uniqlo)
 
-A complete list of the companies and their respective sectors can be found on the [Nikkei Index official page](https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225).
+A complete list of the companies and their respective sectors can be found on the Nikkei Index public materials.
 
 ## Trading Strategies
 
@@ -135,9 +135,9 @@ Several tools and trading platforms can assist traders in executing [Nikkei](../
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Offers extensive tools for international trading, including direct [market](../m/market.md) access to the Tokyo Stock [Exchange](../e/exchange.md).
 
 For more information on these platforms, visit their respective websites:
-- [MetaTrader](https://www.metatrader4.com/en)
-- [Bloomberg](https://www.bloomberg.com/professional/)
-- [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- MetaTrader
+- Bloomberg
+- Interactive Brokers
 
 ## Conclusion
 

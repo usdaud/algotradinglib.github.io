@@ -17,8 +17,8 @@ ICOs have been one of the primary fundraising methods for new [blockchain](../b/
 2. **Filecoin**: This token project raised over $257 million in its ICO. It aims to decentralize data storage by allowing users to rent out their spare hard drive space to others using the Filecoin tokens.
 
 **Sources:**
-- [Ethereum](https://ethereum.org/)
-- [Filecoin](https://filecoin.io/)
+- Ethereum
+- Filecoin
 
 ## Types of Crypto Tokens
 
@@ -32,7 +32,7 @@ Crypto tokens can be categorized into several types, each with distinct characte
 
 **Golem (GNT)**: Golem Network Tokens are used to pay for computing power on the Golem network, a decentralized supercomputer.
 
-**Source:** [Golem](https://golem.network/)
+**Source:** Golem
 
 ### Security Tokens
 
@@ -42,7 +42,7 @@ Crypto tokens can be categorized into several types, each with distinct characte
 
 **Polymath (POLY)**: Polymath enables the issuance of [security](../s/security.md) tokens on its [blockchain](../b/blockchain_in_trading.md), providing a decentralized protocol for trading [security](../s/security.md) tokens.
 
-**Source:** [Polymath](https://polymath.network/)
+**Source:** Polymath
 
 ### Payment Tokens
 
@@ -52,7 +52,7 @@ These tokens are intended to be used as a [medium of exchange](../m/medium_of_ex
 
 **[Bitcoin](../b/bitcoin.md) (BTC)**: [Bitcoin](../b/bitcoin.md) is a decentralized [digital currency](../d/digital_currency.md) that can be transferred from user to user on the peer-to-peer [Bitcoin](../b/bitcoin.md) network without intermediaries.
 
-**Source:** [Bitcoin](https://bitcoin.org/)
+**Source:** Bitcoin
 
 ### Asset-backed Tokens
 
@@ -62,7 +62,7 @@ These tokens are pegged to the [value](../v/value.md) of a tangible or [intangib
 
 **Tether (USDT)**: Tether is a stablecoin that is pegged to the U.S. dollar. It aims to provide a stable trading [currency](../c/currency.md) to minimize [volatility](../v/volatility.md) in the cryptocurrency [market](../m/market.md).
 
-**Source:** [Tether](https://tether.to/)
+**Source:** Tether
 
 ## Smart Contracts
 
@@ -110,12 +110,12 @@ The design of the token's economic model, or tokenomics, is crucial for its succ
 - **[Supply](../s/supply.md) Mechanism**: How tokens are issued—via [mining](../m/mining.md), ICOs, or other methods—and how they are burnt (destroyed) to reduce [supply](../s/supply.md) over time.
 - **[Utility](../u/utility.md)**: The token's usefulness within its ecosystem.
 - **[Demand](../d/demand.md)**: What drives token [demand](../d/demand.md), such as staking rewards or governance rights.
-  
+
 ### Example: Binance Coin (BNB)
 
 [Binance](../b/binance.md) Coin (BNB) was created by the crypto [exchange](../e/exchange.md) [Binance](../b/binance.md). BNB can be used to pay for [transaction fees](../t/transaction_fees.md) on the [Binance](../b/binance.md) platform. [Binance](../b/binance.md) also periodically burns (destroys) a portion of its tokens to reduce the total [supply](../s/supply.md) and increase the token's [value](../v/value.md).
 
-**Source:** [Binance](https://www.binance.com/)
+**Source:** Binance
 
 ## Use Cases and Applications
 
@@ -132,13 +132,13 @@ NFTs are unique tokens used to represent ownership of digital or physical assets
 
 ### Governance
 
-Some tokens [grant](../g/grant.md) voting rights on platform changes or new developments, giving holders input into the project's future direction. 
+Some tokens [grant](../g/grant.md) voting rights on platform changes or new developments, giving holders input into the project's future direction.
 
 #### Example
 
 **Maker (MKR)**: The MakerDAO protocol uses MKR tokens for governance, allowing holders to vote on changes to the protocol.
 
-**Source:** [MakerDAO](https://makerdao.com/)
+**Source:** MakerDAO
 
 ## Challenges and Risks
 
@@ -176,9 +176,9 @@ Layer-2 solutions aim to improve the [scalability](../s/scalability.md) of [bloc
 
 Projects like Polkadot and Cosmos aim to create ecosystems where different blockchains can communicate and interact seamlessly, enhancing the [utility](../u/utility.md) and versatility of crypto tokens.
 
-**Source:** 
-- [Polkadot](https://polkadot.network/)
-- [Cosmos](https://cosmos.network/)
+**Source:**
+- Polkadot
+- Cosmos
 
 ### Regulation
 
@@ -192,7 +192,7 @@ DAOs are organizations governed by [smart contracts](../s/smart_contracts_in_tra
 
 **Aragon (ANT)**: Aragon is a project that allows users to create and manage DAOs easily.
 
-**Source:** [Aragon](https://aragon.org/)
+**Source:** Aragon
 
 ### Central Bank Digital Currencies (CBDCs)
 
@@ -202,8 +202,7 @@ Governments are increasingly exploring the concept of central [bank](../b/bank.m
 
 **Digital Yuan**: China has been actively developing and testing its digital yuan with the aim to integrate it into its [economy](../e/economy.md).
 
-**Source:** [Digital Yuan](https://www.pbc.gov.cn/en/3688253/index.html) 
-
+**Source:** Digital Yuan
 ## Conclusion
 
 Crypto tokens represent a groundbreaking innovation with the potential to revolutionize [multiple](../m/multiple.md) industries. From [finance](../f/finance.md) and [real estate](../r/real_estate.md) to creative arts and gaming, the applications are vast and varied. However, the evolving regulatory landscape, technological challenges, and inherent risks make it essential for investors, developers, and users to proceed with caution. The future undoubtedly holds exciting developments and innovations in this space.

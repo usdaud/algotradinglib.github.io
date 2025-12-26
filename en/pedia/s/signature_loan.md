@@ -84,23 +84,23 @@ Signature loans can be used to [finance](../f/finance.md) major life events or p
 
 ### LendingClub
 
-[LendingClub](https://www.lendingclub.com) offers personal loans that can be used for various purposes such as [debt consolidation](../d/debt_consolidation.md), major purchases, and [home](../h/home.md) improvements. LendingClub's loans feature fixed rates and terms, with [loan](../l/loan.md) amounts ranging from $1,000 to $40,000.
+LendingClub offers personal loans that can be used for various purposes such as [debt consolidation](../d/debt_consolidation.md), major purchases, and [home](../h/home.md) improvements. LendingClub's loans feature fixed rates and terms, with [loan](../l/loan.md) amounts ranging from $1,000 to $40,000.
 
 ### SoFi
 
-[SoFi](https://www.sofi.com) provides personal loans up to $100,000 with no fees, fixed rates, and flexible terms. SoFi also offers additional benefits such as [unemployment](../u/unemployment.md) protection and career coaching, making it a comprehensive option for borrowers looking for more than just a [loan](../l/loan.md).
+SoFi provides personal loans up to $100,000 with no fees, fixed rates, and flexible terms. SoFi also offers additional benefits such as [unemployment](../u/unemployment.md) protection and career coaching, making it a comprehensive option for borrowers looking for more than just a [loan](../l/loan.md).
 
 ### Prosper
 
-[Prosper](https://www.prosper.com) is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform that offers personal loans with fixed rates and terms. Prosper's loans [range](../r/range.md) from $2,000 to $40,000 and can be used for various purposes, including [debt consolidation](../d/debt_consolidation.md), [home](../h/home.md) improvements, and major purchases.
+Prosper is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform that offers personal loans with fixed rates and terms. Prosper's loans [range](../r/range.md) from $2,000 to $40,000 and can be used for various purposes, including [debt consolidation](../d/debt_consolidation.md), [home](../h/home.md) improvements, and major purchases.
 
 ### Marcus by Goldman Sachs
 
-[Marcus by Goldman Sachs](https://www.marcus.com) offers no-[fee](../f/fee.md) personal loans with fixed rates and [repayment](../r/repayment.md) terms ranging from 3 to 6 years. [Loan](../l/loan.md) amounts [range](../r/range.md) from $3,500 to $40,000, and the application process is straightforward with prequalification available to [check](../c/check.md) rates without impacting [credit](../c/credit.md) scores.
+Marcus by Goldman Sachs offers no-[fee](../f/fee.md) personal loans with fixed rates and [repayment](../r/repayment.md) terms ranging from 3 to 6 years. [Loan](../l/loan.md) amounts [range](../r/range.md) from $3,500 to $40,000, and the application process is straightforward with prequalification available to [check](../c/check.md) rates without impacting [credit](../c/credit.md) scores.
 
 ### Discover Personal Loans
 
-[Discover Personal Loans](https://www.discover.com/personal-loans) provides personal loans with fixed [interest](../i/interest.md) rates and no fees for [origination](../o/origination.md), closing, or [prepayment](../p/prepayment.md). [Loan](../l/loan.md) amounts [range](../r/range.md) from $2,500 to $35,000, and funds can be disbursed as soon as the next [business](../b/business.md) day after acceptance.
+Discover Personal Loans provides personal loans with fixed [interest](../i/interest.md) rates and no fees for [origination](../o/origination.md), closing, or [prepayment](../p/prepayment.md). [Loan](../l/loan.md) amounts [range](../r/range.md) from $2,500 to $35,000, and funds can be disbursed as soon as the next [business](../b/business.md) day after acceptance.
 
 ## Conclusion
 

@@ -84,7 +84,7 @@ Fuel [demand](../d/demand.md) is often cited as an example of inelastic [demand]
 
 ### Company Example: Amazon
 
-Amazon utilizes [data analytics](../d/data_analytics.md) to constantly monitor and adjust pricing based on [demand](../d/demand.md) [elasticity](../e/elasticity.md). Their dynamic pricing algorithms consider various factors such as consumer behavior, competitive pricing, and [market](../m/market.md) trends to optimize sales and profits. More information can be found on [Amazon’s Business Solutions](https://services.amazon.com/).
+Amazon utilizes [data analytics](../d/data_analytics.md) to constantly monitor and adjust pricing based on [demand](../d/demand.md) [elasticity](../e/elasticity.md). Their dynamic pricing algorithms consider various factors such as consumer behavior, competitive pricing, and [market](../m/market.md) trends to optimize sales and profits. More information can be found on Amazon’s Business Solutions.
 
 ## Challenges and Limitations
 

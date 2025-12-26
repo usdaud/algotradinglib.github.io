@@ -90,7 +90,7 @@ Algorithmic traders can play a significant role during capitulation periods. The
 
 ### Example of an Algorithmic Trading Firm
 
-One notable example of an [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) is [Renaissance Technologies](https://www.rentec.com/) (RenTech). Known for its Medallion [Fund](../f/fund.md), RenTech has leveraged sophisticated algorithms and [quantitative models](../q/quantitative_models.md) to achieve outstanding returns, even during turbulent [market](../m/market.md) periods.
+One notable example of an [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) is Renaissance Technologies (RenTech). Known for its Medallion [Fund](../f/fund.md), RenTech has leveraged sophisticated algorithms and [quantitative models](../q/quantitative_models.md) to achieve outstanding returns, even during turbulent [market](../m/market.md) periods.
 
 ## Strategies to Mitigate the Risks of Capitulation
 

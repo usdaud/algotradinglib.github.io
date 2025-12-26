@@ -63,15 +63,15 @@ Advanced algorithms can incorporate complex [risk management](../r/risk_manageme
 
 ### BlackRock
 
-BlackRock, one of the largest global [asset management](../a/asset_management.md) firms, provides extensive investment solutions and analysis tools that help manage the effects of [convexity](../c/convexity.md). Their [fixed income](../f/fixed_income.md) division offers detailed insights into [bond convexity](../b/bond_convexity.md) and how it affects investment portfolios. More information can be found on their [official website](https://www.blackrock.com).
+BlackRock, one of the largest global [asset management](../a/asset_management.md) firms, provides extensive investment solutions and analysis tools that help manage the effects of [convexity](../c/convexity.md). Their [fixed income](../f/fixed_income.md) division offers detailed insights into [bond convexity](../b/bond_convexity.md) and how it affects investment portfolios.
 
 ### PIMCO
 
-PIMCO, a renowned [investment management](../i/investment_management.md) [firm](../f/firm.md), specializes in [fixed income securities](../f/fixed_income_securities.md) and offers a [range](../r/range.md) of strategies to mitigate the effects of negative [convexity](../c/convexity.md). Their approaches often include active [duration](../d/duration.md) management and sophisticated hedging techniques. Detailed information about their services is available on their [official website](https://www.pimco.com).
+PIMCO, a renowned [investment management](../i/investment_management.md) [firm](../f/firm.md), specializes in [fixed income securities](../f/fixed_income_securities.md) and offers a [range](../r/range.md) of strategies to mitigate the effects of negative [convexity](../c/convexity.md). Their approaches often include active [duration](../d/duration.md) management and sophisticated hedging techniques. Detailed
 
 ### Bloomberg
 
-[Bloomberg](../b/bloomberg.md) provides [robust](../r/robust.md) financial data and analytics tools that include detailed [bond convexity](../b/bond_convexity.md) metrics. Their platform helps investors and traders analyze and manage the [convexity](../c/convexity.md) of their [bond](../b/bond.md) portfolios, facilitating better-informed decision-making. [Bloomberg](../b/bloomberg.md)'s services can be accessed on their [official website](https://www.bloomberg.com).
+[Bloomberg](../b/bloomberg.md) provides [robust](../r/robust.md) financial data and analytics tools that include detailed [bond convexity](../b/bond_convexity.md) metrics. Their platform helps investors and traders analyze and manage the [convexity](../c/convexity.md) of their [bond](../b/bond.md) portfolios, facilitating better-informed decision-making. [Bloomberg](../b/bloomberg.md)'s
 
 ## Conclusion
 

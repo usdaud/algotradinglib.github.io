@@ -16,7 +16,7 @@ The roots of [market efficiency](../m/market_efficiency.md) can be traced back t
 
 Weak form [efficiency](../e/efficiency.md) is underpinned by several key assumptions:
 
-1. **Rational Investors**: The hypothesis assumes that all investors are rational and [will](../w/will.md) act to maximize their [utility](../u/utility.md). 
+1. **Rational Investors**: The hypothesis assumes that all investors are rational and [will](../w/will.md) act to maximize their [utility](../u/utility.md).
 2. **No [Arbitrage Opportunities](../a/arbitrage_opportunities.md)**: It assumes that any [arbitrage opportunities](../a/arbitrage_opportunities.md) arising from historical price data are quickly eliminated by [market](../m/market.md) participants.
 3. **[Random Walk Theory](../r/random_walk_theory.md)**: Weak form [efficiency](../e/efficiency.md) implies that stock prices follow a random walk, meaning future price movements are independent of past price movements.
 4. **Availability of Information**: All historical price and [volume](../v/volume.md) information is freely available to all [market](../m/market.md) participants.
@@ -30,7 +30,7 @@ If weak form [efficiency](../e/efficiency.md) holds true, then it has profound i
 [Technical analysis](../t/technical_analysis.md) involves analyzing past price movements and trading volumes to predict future price movements. Indicators such as moving averages, [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md) are commonly used tools.
 
 - **Moving Averages**: Traders use moving averages to smooth out price data and identify trends. However, if weak form [efficiency](../e/efficiency.md) is valid, moving averages would not consistently [yield](../y/yield.md) above-average returns since past price data is already reflected in current prices.
-  
+
 - **Indicators**: Other [technical indicators](../t/technical_indicator.md) would also lose their predictive power, as they rely on the premise that past [price patterns](../p/price_patterns.md) can predict future movements. Under weak form [efficiency](../e/efficiency.md), these patterns would [offer](../o/offer.md) no superior edge.
 
 ### Fundamental Analysis
@@ -38,7 +38,7 @@ If weak form [efficiency](../e/efficiency.md) holds true, then it has profound i
 Although less directly impacted, weak form [efficiency](../e/efficiency.md) also has implications for [fundamental analysis](../f/fundamental_analysis.md), which involves evaluating a stock based on [financial statements](../f/financial_statements.md), management quality, [industry](../i/industry.md) conditions, and other publicly available information.
 
 - **Complementary**: For a [trader](../t/trader.md) who relies on [fundamental analysis](../f/fundamental_analysis.md), the understanding that past prices do not [offer](../o/offer.md) new insights complements their strategy. They instead focus on other quantifiable metrics that may not be immediately reflected in stock prices.
-  
+
 - **Event Studies**: Because weak form [efficiency](../e/efficiency.md) does not preclude the rapid assimilation of all publicly available information, event studies investigating how new information affects stock prices remain useful.
 
 ## Practical Limitations
@@ -46,7 +46,7 @@ Although less directly impacted, weak form [efficiency](../e/efficiency.md) also
 While the theory of weak form [efficiency](../e/efficiency.md) is academically elegant, practical realities often introduce complexities.
 
 - **[Market Anomalies](../m/market_anomalies.md)**: There are documented [market anomalies](../m/market_anomalies.md), such as the [January effect](../j/january_effect.md), where stock prices tend to rise more in January, that challenge weak form [efficiency](../e/efficiency.md). These anomalies suggest that past trends can sometimes [offer](../o/offer.md) predictive insights.
-  
+
 - **[Behavioral Biases](../b/behavioral_biases_in_trading.md)**: Not all investors are rational. [Behavioral finance](../b/behavioral_finance.md) highlights various [psychological biases](../p/psychological_biases_in_trading.md) like overconfidence and [loss aversion](../l/loss_aversion.md), which can lead to predictable price trends based on past data.
 
 - **[Transaction Costs](../t/transaction_costs.md)**: Even if some traders manage to find inefficiencies through past data, the [transaction costs](../t/transaction_costs.md) associated with frequent trading might erode any potential gains.
@@ -79,7 +79,7 @@ Variance ratio tests compare the variance of returns over different time horizon
 The validity of weak form [efficiency](../e/efficiency.md) can vary significantly across different markets.
 
 - **Developed Markets**: Generally, developed markets like those in the U.S., UK, and Japan are often found to be more weak form efficient.
-  
+
 - **Emerging Markets**: Emerging markets, such as those in South America and Africa, often exhibit less weak form [efficiency](../e/efficiency.md). This is potentially due to higher [transaction costs](../t/transaction_costs.md), lower [liquidity](../l/liquidity.md), and more pronounced [behavioral biases](../b/behavioral_biases_in_trading.md) among investors.
 
 ## Criticisms
@@ -102,4 +102,4 @@ For traders and researchers interested in testing weak form [efficiency](../e/ef
 
 Weak form [efficiency](../e/efficiency.md) provides a foundational perspective on how historical price data is absorbed by [financial markets](../f/financial_market.md). While it offers an elegant theoretical framework, real-world complexities frequently challenge its assumptions. Understanding weak form [efficiency](../e/efficiency.md) helps traders refine their strategies and align their approaches with [market](../m/market.md) realities, whether they lean on technical or [fundamental analysis](../f/fundamental_analysis.md).
 
-For further learning and more in-depth resources, you can explore academic journals and financial analytics firms such as [Bloomberg](https://www.bloomberg.com/) and [Reuters](https://www.reuters.com/), which often feature cutting-edge research on [market efficiency](../m/market_efficiency.md) and financial theories.
+For further learning and more in-depth resources, you can explore academic journals and financial analytics firms such as Bloomberg and Reuters, which often feature cutting-edge research on [market efficiency](../m/market_efficiency.md) and financial theories.

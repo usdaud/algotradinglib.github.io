@@ -17,11 +17,11 @@ In the world of [financial markets](../f/financial_market.md), the ability to an
 
 Several vendors provide NYSE [tick](../t/tick.md) data, each with varying levels of granularity, historical depth, and cost. Some notable providers include:
 
-- [Thomson Reuters](https://www.refinitiv.com/)
-- [Bloomberg](https://www.bloomberg.com/)
-- [QuantQuote](https://quantquote.com/)
-- [TickData](https://tickdata.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- Thomson Reuters
+- Bloomberg
+- QuantQuote
+- TickData
+- Interactive Brokers
 
 ### Data Structure
 

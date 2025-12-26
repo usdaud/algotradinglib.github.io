@@ -1,6 +1,6 @@
 # Bid-Ask Spread
 
-The [bid](../b/bid.md)-ask spread is a fundamental concept in [financial markets](../f/financial_market.md) that represents the difference between the highest price that a buyer is willing to pay for an [asset](../a/asset.md) (the [bid price](../b/bid_price.md)) and the lowest price that a seller is willing to accept to sell it (the ask price). This spread is a key [indicator](../i/indicator.md) of [market](../m/market.md) [liquidity](../l/liquidity.md) and [transaction costs](../t/transaction_costs.md) in trading. It is particularly important in high-frequency trading, [market](../m/market.md) making, and [algorithmic trading](../a/algorithmic_trading.md). 
+The [bid](../b/bid.md)-ask spread is a fundamental concept in [financial markets](../f/financial_market.md) that represents the difference between the highest price that a buyer is willing to pay for an [asset](../a/asset.md) (the [bid price](../b/bid_price.md)) and the lowest price that a seller is willing to accept to sell it (the ask price). This spread is a key [indicator](../i/indicator.md) of [market](../m/market.md) [liquidity](../l/liquidity.md) and [transaction costs](../t/transaction_costs.md) in trading. It is particularly important in high-frequency trading, [market](../m/market.md) making, and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What is the Bid-Ask Spread?
 
@@ -85,7 +85,7 @@ Alternative [trading systems](../t/trading_systems.md) like [dark pools](../d/da
 
 ### Example 1: S&P 500 vs. Penny Stocks
 
-The S&P 500 is highly [liquid](../l/liquid.md) with extremely narrow [spreads](../s/spreads.md) due to the high trading [volume](../v/volume.md) and continuous presence of [market](../m/market.md) makers. In contrast, [penny stocks](../p/penny_stocks.md) often have wide [spreads](../s/spreads.md) due to lower [liquidity](../l/liquidity.md) and higher [volatility](../v/volatility.md). 
+The S&P 500 is highly [liquid](../l/liquid.md) with extremely narrow [spreads](../s/spreads.md) due to the high trading [volume](../v/volume.md) and continuous presence of [market](../m/market.md) makers. In contrast, [penny stocks](../p/penny_stocks.md) often have wide [spreads](../s/spreads.md) due to lower [liquidity](../l/liquidity.md) and higher [volatility](../v/volatility.md).
 
 ### Example 2: Currency Markets
 
@@ -95,7 +95,7 @@ The S&P 500 is highly [liquid](../l/liquid.md) with extremely narrow [spreads](.
 
 Hudson River Trading is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) involved in algorithmic and high-frequency trading. Their [business](../b/business.md) model is heavily dependent on exploiting the [bid](../b/bid.md)-ask spread to achieve profitability. Their sophisticated algorithms allow them to [trade](../t/trade.md) at high speeds, capturing small [spreads](../s/spreads.md) across a vast number of trades.
 
-More information can be found on their [website](https://www.hudsonrivertrading.com/).
+
 
 ## Implications for Strategy Development
 
@@ -143,4 +143,4 @@ Regulations such as the [Market](../m/market.md) in Financial Instruments Direct
 
 The [bid](../b/bid.md)-ask spread is a critical concept in [financial markets](../f/financial_market.md), acting as both a measure of [liquidity](../l/liquidity.md) and a determinant of [trading costs](../t/trading_costs.md). Understanding the factors that influence the spread, as well as the implications for different types of traders, is essential for developing effective [trading strategies](../t/trading_strategies.md). With the advent of algorithmic and high-frequency trading, the importance of monitoring and reacting to [bid](../b/bid.md)-ask [spreads](../s/spreads.md) has only grown, making it a focal point for modern [financial markets](../f/financial_market.md).
 
-For more insights into the world of [algorithmic trading](../a/algorithmic_trading.md) and its relationship with [bid](../b/bid.md)-ask [spreads](../s/spreads.md), consider exploring resources offered by [market](../m/market.md) participants such as Hudson River Trading [here](https://www.hudsonrivertrading.com/).
+For more insights into the world of [algorithmic trading](../a/algorithmic_trading.md) and its relationship with [bid](../b/bid.md)-ask [spreads](../s/spreads.md), consider exploring resources offered by [market](../m/market.md) participants such as Hudson River Trading here.

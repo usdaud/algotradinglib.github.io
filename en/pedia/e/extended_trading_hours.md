@@ -33,16 +33,16 @@ With limited trading activity, the opening prices in extended hours can differ s
 ## Platforms and Exchanges Offering Extended Trading Hours
 
 ### NASDAQ
-The [NASDAQ](../n/nasdaq.md) offers [extended trading](../e/extended_trading.md) hours for its investors. The [pre-market](../p/pre-market.md) session runs from 4:00 AM to 9:30 AM ET, and the after-hours session is from 4:00 PM to 8:00 PM ET. More details can be found on their [official website](https://www.nasdaq.com).
+The [NASDAQ](../n/nasdaq.md) offers [extended trading](../e/extended_trading.md) hours for its investors. The [pre-market](../p/pre-market.md) session runs from 4:00 AM to 9:30 AM ET, and the after-hours session is from 4:00 PM to 8:00 PM ET. More
 
 ### New York Stock Exchange (NYSE)
-Similar to the [NASDAQ](../n/nasdaq.md), the NYSE also provides [extended trading](../e/extended_trading.md) hours. The [pre-market](../p/pre-market.md) session starts at 4:00 AM and ends at 9:30 AM ET, while the after-hours session continues until 8:00 PM ET. Additional information is available on their [official website](https://www.nyse.com).
+Similar to the [NASDAQ](../n/nasdaq.md), the NYSE also provides [extended trading](../e/extended_trading.md) hours. The [pre-market](../p/pre-market.md) session starts at 4:00 AM and ends at 9:30 AM ET, while the after-hours session continues until 8:00 PM ET.
 
 ### Chicago Board Options Exchange (CBOE)
-The CBOE extends its trading hours for various financial instruments, including [options](../o/options.md) and [futures](../f/futures.md). Interested parties can find more details on their [official website](https://www.cboe.com).
+The CBOE extends its trading hours for various financial instruments, including [options](../o/options.md) and [futures](../f/futures.md).
 
 ### E-Trade
-[E-Trade](../e/e-trade.md) is among the brokers [offering](../o/offering.md) [extended trading](../e/extended_trading.md) hours to retail investors. They provide a platform for [pre-market](../p/pre-market.md) and [after-hours trading](../a/after-hours_trading.md) from 4:00 AM to 8:00 PM ET. More information can be accessed on their [official website](https://us.etrade.com).
+[E-Trade](../e/e-trade.md) is among the brokers [offering](../o/offering.md) [extended trading](../e/extended_trading.md) hours to retail investors. They provide a platform for [pre-market](../p/pre-market.md) and [after-hours trading](../a/after-hours_trading.md) from 4:00 AM to 8:00 PM ET.
 
 ## Best Practices for Trading During Extended Hours
 

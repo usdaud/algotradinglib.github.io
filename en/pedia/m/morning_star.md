@@ -8,7 +8,7 @@ The Morning Star pattern is composed of three candlesticks that occur consecutiv
 
 1. **First Candle (Bearish):** The first [candlestick](../c/candlestick.md) is a long bearish (red or black) candle, indicating that the [market](../m/market.md) is driven by sellers and the price is moving downward. The size of the candle suggests strong selling pressure.
 2. **Second Candle ([Neutral](../n/neutral.md) or Bullish):** The second [candlestick](../c/candlestick.md) is a smaller candle, which can be either bullish (green or white) or bearish. The small size of this candle indicates indecision among buyers and sellers. The formation of a [Doji](../d/doji.md) (a candle with almost the same [open](../o/open.md) and close price) is quite common here and signals [market](../m/market.md) [uncertainty](../u/uncertainty_in_trading.md).
-3. **Third Candle (Bullish):** The third [candlestick](../c/candlestick.md) is a long bullish (green or white) candle, which closes well above the midpoint of the first candle. This shows that buyers have taken control and the selling pressure has subsided. 
+3. **Third Candle (Bullish):** The third [candlestick](../c/candlestick.md) is a long bullish (green or white) candle, which closes well above the midpoint of the first candle. This shows that buyers have taken control and the selling pressure has subsided.
 
 The [reversal](../r/reversal.md) signal is considered stronger when the third [candlestick](../c/candlestick.md) opens above the body of the second [candlestick](../c/candlestick.md), thereby forming a gap. In some cases, this gap might not be present due to [market](../m/market.md) conditions or the type of [market](../m/market.md) being analyzed.
 

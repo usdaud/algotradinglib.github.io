@@ -1,6 +1,6 @@
 # Inverse Correlation
 
-In the domain of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md), understanding different types of correlations between [asset](../a/asset.md) prices is paramount for constructing [robust](../r/robust.md) and diversified portfolios, designing effective [hedging strategies](../h/hedging_strategies.md), and minimizing [risk](../r/risk.md). One such critical concept is inverse [correlation](../c/correlation.md), often referred to as [negative correlation](../n/negative_correlation.md). This phenomenon occurs when the prices of two assets move in opposite directions: when one [asset](../a/asset.md) experiences an increase in price, the other [asset](../a/asset.md) sees a decrease, and vice versa. Exploring inverse [correlation](../c/correlation.md) offers insights into [asset](../a/asset.md) dynamics, [risk management](../r/risk_management.md), and investment strategies that [leverage](../l/leverage.md) this mathematical relationship.
+In the domain of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md), understanding different types of correlations between [asset](../a/asset.md) prices is paramount for constructing [robust](../r/robust.md) and diversified portfolios, designing effective [hedging strategies](../h/hedging_strategies.md), and minimizing [risk](../r/risk.md). One such critical concept is inverse [correlation](../c/correlation.md), often referred to as [negative correlation](../n/negative_correlation.md). This phenomenon occurs when the prices of two assets move in opposite directions: when one [asset](../a/asset.md) experiences an increase in price, the other [asset](../a/asset.md) sees a decrease, and vice versa. Exploring inverse [correlation](../c/correlation.md) offers insights into [asset](../a/asset.md) dynamics, [risk management](../r/risk_management.md), and investment strategies that [leverage](../l/leverage.md) this mathematical relationship.
 
 ## Understanding Inverse Correlation
 
@@ -10,8 +10,8 @@ Inverse [correlation](../c/correlation.md), quantitatively represented by a [cor
 ### Mathematical Foundation
 The [correlation coefficient](../c/correlation_coefficient.md), often computed using Pearson’s [correlation](../c/correlation.md) formula, measures the [linear relationship](../l/linear_relationship.md) between two variables. For determining inverse [correlation](../c/correlation.md):
 
-\[ 
-\rho_{XY} = \frac{cov(X, Y)}{\sigma_X \sigma_Y} 
+\[
+\rho_{XY} = \frac{cov(X, Y)}{\sigma_X \sigma_Y}
 \]
 
 Where:
@@ -23,7 +23,7 @@ An inverse relationship exists when \(\rho_{XY}\) falls between -1 and 0.
 
 ## Importance in Algorithmic Trading
 
-Inverse [correlation](../c/correlation.md) plays a pivotal role in several facets of [algorithmic trading](../a/accountability.md):
+Inverse [correlation](../c/correlation.md) plays a pivotal role in several facets of [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Portfolio Diversification
 By including assets that are inversely correlated, traders can reduce portfolio [volatility](../v/volatility.md) and enhance [risk](../r/risk.md)-adjusted returns. Even if some assets perform poorly, others may perform well, stabilizing overall performance.
@@ -73,17 +73,17 @@ Sudden [market](../m/market.md) disruptions can temporarily distort correlations
 ## Leading Platforms and Tools
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) provides [algorithmic trading infrastructure](../a/algorithmic_trading_infrastructure.md) where traders can design, backtest, and deploy strategies incorporating inverse correlations. [QuantConnect](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) provides [algorithmic trading infrastructure](../a/algorithmic_trading_infrastructure.md) where traders can design, backtest, and deploy strategies incorporating inverse correlations. QuantConnect
 
 ### Alpaca
-[Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API enabling developers to implement algorithms based on inverse correlations in equities and other [asset](../a/asset.md) classes. [Alpaca](https://alpaca.markets/)
+[Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API enabling developers to implement algorithms based on inverse correlations in equities and other [asset](../a/asset.md) classes. Alpaca
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) provides powerful tools and API access for traders to harness inverse correlations in multi-[asset](../a/asset.md) portfolios, supporting advanced [risk management](../r/risk_management.md) and [execution](../e/execution.md) strategies. [Interactive Brokers](https://www.interactivebrokers.com/)
+[Interactive Brokers](../i/interactive_brokers.md) provides powerful tools and API access for traders to harness inverse correlations in multi-[asset](../a/asset.md) portfolios, supporting advanced [risk management](../r/risk_management.md) and [execution](../e/execution.md) strategies. Interactive Brokers
 
 ### MetaTrader 5
-MT5 allows traders to automate strategies using MQL5, factoring in inverse correlations for Forex, CFDs, and [Futures](../f/futures.md) trading. [MetaTrader 5](https://www.metatrader5.com/)
+MT5 allows traders to automate strategies using MQL5, factoring in inverse correlations for Forex, CFDs, and [Futures](../f/futures.md) trading. MetaTrader 5
 
 ## Conclusion
 
-Inverse [correlation](../c/correlation.md) is a fundamental concept in [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) significant benefits in [portfolio diversification](../p/portfolio_diversification.md), hedging, and strategy development. By deeply understanding and leveraging negative correlations, traders can enhance their ability to manage [risk](../r/risk.md), optimize returns, and navigate complex [market](../m/market.md) environments effectively. As technology and [data analytics](../d/data_analytics.md) continue to evolve, the precise implementation of inverse correlations [will](../w/will.md) remain a cornerstone of sophisticated [trading systems](../t/trading_systems.md).
+Inverse [correlation](../c/correlation.md) is a fundamental concept in [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) significant benefits in [portfolio diversification](../p/portfolio_diversification.md), hedging, and strategy development. By deeply understanding and leveraging negative correlations, traders can enhance their ability to manage [risk](../r/risk.md), optimize returns, and navigate complex [market](../m/market.md) environments effectively. As technology and [data analytics](../d/data_analytics.md) continue to evolve, the precise implementation of inverse correlations [will](../w/will.md) remain a cornerstone of sophisticated [trading systems](../t/trading_systems.md).

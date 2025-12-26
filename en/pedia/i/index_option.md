@@ -26,9 +26,9 @@ Unlike [options](../o/options.md) on individual [stocks](../s/stock.md), [index 
 
 Several popular indices have [options](../o/options.md) markets, [offering](../o/offering.md) ample [liquidity](../l/liquidity.md) and opportunities for traders.
 
-- **S&P 500 [Index Options](../i/index_options.md) (SPX)**: SPX [options](../o/options.md) are some of the most widely traded [index options](../i/index_options.md) available through the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE). More details can be found on [CBOE's website](https://www.cboe.com/tradable_products/sp_500).
-- **[Nasdaq](../n/nasdaq.md)-100 [Index Options](../i/index_options.md) (NDX)**: These [options](../o/options.md) are based on the [Nasdaq](../n/nasdaq.md)-100, which comprises 100 of the largest non-financial companies [listed](../l/listed.md) on the [Nasdaq](../n/nasdaq.md) [stock market](../s/stock_market.md). More details are available on the [Nasdaq's options webpage](https://www.nasdaq.com/solutions/nasdaq-100-index-options).
-- **[Russell 2000 Index](../r/russell_2000_index.md) [Options](../o/options.md) (RUT)**: Related to the [Russell 2000 index](../r/russell_2000_index.md) of small-cap [stocks](../s/stock.md) and traded on several exchanges. Additional information can be found at [FTSE Russell's website](https://www.ftserussell.com/index/spotlight/russell-2000-index).
+- **S&P 500 [Index Options](../i/index_options.md) (SPX)**: SPX [options](../o/options.md) are some of the most widely traded [index options](../i/index_options.md) available through the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE). More
+- **[Nasdaq](../n/nasdaq.md)-100 [Index Options](../i/index_options.md) (NDX)**: These [options](../o/options.md) are based on the [Nasdaq](../n/nasdaq.md)-100, which comprises 100 of the largest non-financial companies [listed](../l/listed.md) on the [Nasdaq](../n/nasdaq.md) [stock market](../s/stock_market.md). More details are available on the Nasdaq's options webpage.
+- **[Russell 2000 Index](../r/russell_2000_index.md) [Options](../o/options.md) (RUT)**: Related to the [Russell 2000 index](../r/russell_2000_index.md) of small-cap [stocks](../s/stock.md) and traded on several exchanges.
 
 ## Pricing Factors
 
@@ -69,9 +69,9 @@ Traders can use [index](../i/index_instrument.md) call and [put options](../p/pu
 ### 3. **Spreads**
 
 These strategies involve buying and selling [multiple](../m/multiple.md) [options](../o/options.md) to limit [risk](../r/risk.md) and potential reward. Common spread strategies include:
-   - **[Bull Call Spread](../b/bull_call_spread.md)**: Buying a lower strike call and selling a higher strike call.
-   - **[Bear Put Spread](../b/bear_put_spread.md)**: Buying a higher strike put and selling a lower strike put.
-   - **[Iron Condor](../i/iron_condor.md)**: Selling an OTM call and put while buying further OTM call and [put options](../p/put_options.md) to limit potential loss.
+ - **[Bull Call Spread](../b/bull_call_spread.md)**: Buying a lower strike call and selling a higher strike call.
+ - **[Bear Put Spread](../b/bear_put_spread.md)**: Buying a higher strike put and selling a lower strike put.
+ - **[Iron Condor](../i/iron_condor.md)**: Selling an OTM call and put while buying further OTM call and [put options](../p/put_options.md) to limit potential loss.
 
 ### 4. **Covered Calls and Cash-Secured Puts**
 

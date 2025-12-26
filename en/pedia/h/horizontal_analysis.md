@@ -74,12 +74,11 @@ Examining case studies from real-world companies can provide practical insights 
 #### Example: Apple Inc.
 Apple Inc. employs Horizontal Analysis to track and compare [revenue](../r/revenue.md) and [expense](../e/expense.md) trends over specified periods. By analyzing the percentage changes in [revenue](../r/revenue.md) from product segments (iPhone, Mac, iPad) and services, Apple can identify growth drivers and areas requiring strategic intervention.
 
-[Apple Inc. Financials](https://investor.apple.com/investor-relations/default.aspx)
+Apple Inc. Financials
 
 #### Example: Microsoft Corp.
 Microsoft Corp. utilizes Horizontal Analysis to monitor changes in [revenue](../r/revenue.md) and profitability across its diverse [business](../b/business.md) segments, including [Productivity](../p/productivity.md) and [Business](../b/business.md) Solutions, Cloud Services, and Gaming. This analysis aids in strategic planning and investment decisions.
 
-[Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
 
 ### Conclusion
 Horizontal Analysis is a powerful tool for [financial statement analysis](../f/financial_statement_analysis.md), [offering](../o/offering.md) valuable insights into an organization's performance over time. By tracking trends and percentage changes in financial statement items, businesses can make informed decisions, forecast future performance, and assess the impact of strategies and [market](../m/market.md) conditions. Despite its limitations, Horizontal Analysis remains an essential component of comprehensive [financial analysis](../f/financial_analysis.md) and offers significant benefits for businesses and analysts alike.

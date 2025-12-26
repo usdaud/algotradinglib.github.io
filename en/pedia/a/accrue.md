@@ -6,7 +6,7 @@ Accrue is a financial and [accounting](../a/accounting.md) term that refers to t
 
 ## How Accrue Works
 
-In the [accrual accounting](../a/accrual_accounting.md) system, revenues are recorded when they are earned, and expenses are recorded when they are incurred. This differs from the cash [basis](../b/basis.md) [accounting method](../a/accounting_method.md), which only recognizes transactions when cash is exchanged. 
+In the [accrual accounting](../a/accrual_accounting.md) system, revenues are recorded when they are earned, and expenses are recorded when they are incurred. This differs from the cash [basis](../b/basis.md) [accounting method](../a/accounting_method.md), which only recognizes transactions when cash is exchanged.
 
 [Accruals](../a/accruals.md) involve adjusting [journal](../j/journal.md) entries at the end of [accounting](../a/accounting.md) periods to record the revenues and expenses that have been earned or incurred but have not yet been recorded in the company's [financial system](../f/financial_system.md). These entries are crucial for maintaining the accuracy and integrity of [financial statements](../f/financial_statements.md).
 

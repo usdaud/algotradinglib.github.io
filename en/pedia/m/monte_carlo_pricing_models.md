@@ -4,7 +4,7 @@ Monte Carlo pricing models are mathematical techniques used to evaluate and pred
 
 ## Introduction to Monte Carlo Methods
 
-[Monte Carlo methods](../m/monte_carlo_methods.md) rely on repeated random [sampling](../s/sampling.md) to obtain numerical results. The fundamental idea behind Monte Carlo simulations in the context of [finance](../f/finance.md) is to create a model of possible price movements for an [asset](../a/asset.md) by generating numerous scenarios of prices paths using random [sampling](../s/sampling.md), and then take an average of these simulations to estimate the price or [risk measures](../r/risk_measures.md) of a [financial instrument](../f/financial_instrument.md). 
+[Monte Carlo methods](../m/monte_carlo_methods.md) rely on repeated random [sampling](../s/sampling.md) to obtain numerical results. The fundamental idea behind Monte Carlo simulations in the context of [finance](../f/finance.md) is to create a model of possible price movements for an [asset](../a/asset.md) by generating numerous scenarios of prices paths using random [sampling](../s/sampling.md), and then take an average of these simulations to estimate the price or [risk measures](../r/risk_measures.md) of a [financial instrument](../f/financial_instrument.md).
 
 ### Historical Context
 
@@ -32,7 +32,7 @@ In [finance](../f/finance.md), Monte Carlo simulations can be used to price [opt
 
 Monte Carlo simulations can aid in [portfolio management](../p/portfolio_management.md) and [asset allocation](../a/asset_allocation.md) by modeling the long-term performance of a portfolio. Analysts can assess the probable outcomes of various investment strategies, taking into account the [uncertainty](../u/uncertainty_in_trading.md) and [variability](../v/variability.md) of [asset](../a/asset.md) returns.
 
-1. **VaR ([Value](../v/value.md) at [Risk](../r/risk.md))**: [Monte Carlo methods](../m/monte_carlo_methods.md) are employed to estimate the [Value](../v/value.md) at [Risk](../r/risk.md), which is a measure of the potential loss in [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). 
+1. **VaR ([Value](../v/value.md) at [Risk](../r/risk.md))**: [Monte Carlo methods](../m/monte_carlo_methods.md) are employed to estimate the [Value](../v/value.md) at [Risk](../r/risk.md), which is a measure of the potential loss in [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md).
 
 2. **CVaR (Conditional [Value](../v/value.md) at [Risk](../r/risk.md))**: Also known as Expected [Shortfall](../s/shortfall.md), it’s a [risk](../r/risk.md) measure that goes beyond VaR by assessing the [tail risk](../t/tail_risk.md) or the expected loss assuming that the VaR threshold has been breached.
 
@@ -58,7 +58,7 @@ where \(S(t)\) is the [asset](../a/asset.md) price at time \(t\), \(μ\) is the 
 
 ### Random Number Generation
 
-The accuracy of a [Monte Carlo simulation](../m/monte_carlo_simulation.md) heavily depends on the quality of the random numbers used in the [simulation](../s/simulation_in_trading.md). Pseudo-random number generators (PRNGs) and quasi-random number generators (QRNGs) are commonly used to produce the necessary randomness. 
+The accuracy of a [Monte Carlo simulation](../m/monte_carlo_simulation.md) heavily depends on the quality of the random numbers used in the [simulation](../s/simulation_in_trading.md). Pseudo-random number generators (PRNGs) and quasi-random number generators (QRNGs) are commonly used to produce the necessary randomness.
 
 1. **PRNGs**: These are algorithms that produce sequences of numbers that approximate the properties of random numbers. PRNGs like the Mersenne Twister are widely used due to their long period and high-quality randomness.
 
@@ -100,15 +100,15 @@ Monte Carlo pricing models are widely used by financial institutions, [investmen
 
 ### Example: JPMorgan Chase
 
-JPMorgan Chase utilizes Monte Carlo simulations within its [risk management](../r/risk_management.md) framework to estimate potential future exposures under different [market](../m/market.md) conditions. For more information, visit [JPMorgan Chase](https://www.jpmorganchase.com).
+JPMorgan Chase utilizes Monte Carlo simulations within its [risk management](../r/risk_management.md) framework to estimate potential future exposures under different [market](../m/market.md) conditions. For more information, visit JPMorgan Chase.
 
 ### Example: Goldman Sachs
 
-Goldman Sachs employs these models to price [exotic options](../e/exotic_options.md) and assess the riskiness of portfolios, ensuring that they stay within defined [risk](../r/risk.md) limits. For further details, visit [Goldman Sachs](https://www.goldmansachs.com).
+Goldman Sachs employs these models to price [exotic options](../e/exotic_options.md) and assess the riskiness of portfolios, ensuring that they stay within defined [risk](../r/risk.md) limits. For further details, visit Goldman Sachs.
 
 ### Example: BlackRock
 
-BlackRock, one of the world’s largest [asset](../a/asset.md) managers, uses Monte Carlo simulations to perform [scenario analysis](../s/scenario_analysis.md) and [stress testing](../s/stress_testing_in_trading.md) on its diverse portfolio [holdings](../h/holdings.md). Learn more at [BlackRock](https://www.blackrock.com).
+BlackRock, one of the world’s largest [asset](../a/asset.md) managers, uses Monte Carlo simulations to perform [scenario analysis](../s/scenario_analysis.md) and [stress testing](../s/stress_testing_in_trading.md) on its diverse portfolio [holdings](../h/holdings.md). Learn more at BlackRock.
 
 ## Conclusion
 

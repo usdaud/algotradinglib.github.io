@@ -4,7 +4,7 @@ Protectionism is an economic policy aimed at restricting imports from other coun
 
 ## Historical Context
 
-Protectionism has a long history and has been applied in various forms throughout different eras. One of the earliest examples can be traced back to [mercantilism](../m/mercantilism.md) in the 16th to 18th centuries, when European nations sought to build [wealth](../w/wealth.md) through the accumulation of gold and silver by maximizing exports and minimizing imports. 
+Protectionism has a long history and has been applied in various forms throughout different eras. One of the earliest examples can be traced back to [mercantilism](../m/mercantilism.md) in the 16th to 18th centuries, when European nations sought to build [wealth](../w/wealth.md) through the accumulation of gold and silver by maximizing exports and minimizing imports.
 
 In the modern era, various forms of protectionist policies have been seen:
 - **The [Smoot-Hawley Tariff Act](../s/smoot-hawley_tariff_act.md) of 1930**: Enacted during the [Great Depression](../g/great_depression.md), this act raised U.S. tariffs on over 20,000 imported goods. While it intended to protect American jobs, it is widely believed to have deepened the global economic downturn.

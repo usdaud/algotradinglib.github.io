@@ -6,7 +6,7 @@ In financial mathematics, [risk](../r/risk.md)-[neutral](../n/neutral.md) measur
 
 ### Definition
 
-A [risk](../r/risk.md)-[neutral](../n/neutral.md) measure is a probability measure under which the discounted price processes of all traded assets are martingales. Essentially, in this adjusted world, investors are indifferent to [risk](../r/risk.md); hence, they measure the [expected return](../e/expected_return.md) of any investment as the [risk](../r/risk.md)-free rate. 
+A [risk](../r/risk.md)-[neutral](../n/neutral.md) measure is a probability measure under which the discounted price processes of all traded assets are martingales. Essentially, in this adjusted world, investors are indifferent to [risk](../r/risk.md); hence, they measure the [expected return](../e/expected_return.md) of any investment as the [risk](../r/risk.md)-free rate.
 
 Mathematically, a [risk](../r/risk.md)-[neutral](../n/neutral.md) measure \( \mathbb{Q} \) is defined on the filtered probability space \( (\[Omega](../o/omega.md), \mathcal{F}, \mathbb{P}) \), where:
 - \( \[Omega](../o/omega.md) \) is the set of all possible outcomes in the model,
@@ -25,7 +25,7 @@ Under \( \mathbb{Q} \), the discounted price process \( e^{-rt} S_t \) is a mart
 
 ### Girsanov's Theorem
 
-One of the key tools in deriving a [risk](../r/risk.md)-[neutral](../n/neutral.md) measure is Girsanov's theorem. This theorem allows the change of measure from the real-world probability \( \mathbb{P} \) to the [risk](../r/risk.md)-[neutral](../n/neutral.md) measure \( \mathbb{Q} \), facilitating easier calculations in [derivative](../d/derivative.md) pricing. 
+One of the key tools in deriving a [risk](../r/risk.md)-[neutral](../n/neutral.md) measure is Girsanov's theorem. This theorem allows the change of measure from the real-world probability \( \mathbb{P} \) to the [risk](../r/risk.md)-[neutral](../n/neutral.md) measure \( \mathbb{Q} \), facilitating easier calculations in [derivative](../d/derivative.md) pricing.
 
 #### The Theorem
 
@@ -77,11 +77,11 @@ The Black-Scholes partial differential equation (PDE) is then derived by setting
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), [risk](../r/risk.md)-[neutral](../n/neutral.md) measures provide a foundation for developing [trading strategies](../t/trading_strategies.md) that rely on [derivative](../d/derivative.md) pricing and hedging. Models calibrated under [risk](../r/risk.md)-[neutral](../n/neutral.md) measures help quantify and manage [risk](../r/risk.md) effectively, enabling [automated trading systems](../a/automated_trading_systems.md) to execute strategies with precision.
+In [algorithmic trading](../a/algorithmic_trading.md), [risk](../r/risk.md)-[neutral](../n/neutral.md) measures provide a foundation for developing [trading strategies](../t/trading_strategies.md) that rely on [derivative](../d/derivative.md) pricing and hedging. Models calibrated under [risk](../r/risk.md)-[neutral](../n/neutral.md) measures help quantify and manage [risk](../r/risk.md) effectively, enabling [automated trading systems](../a/automated_trading_systems.md) to execute strategies with precision.
 
 ### FinTech Innovations
 
-[Risk](../r/risk.md)-[neutral](../n/neutral.md) measures are fundamental in various FinTech applications, particularly in platforms [offering](../o/offering.md) [derivative](../d/derivative.md) products, digital [asset](../a/asset.md) pricing, and robo-advisory services. For instance, companies like [BlackRock](https://www.blackrock.com/) and [Goldman Sachs](https://www.goldmansachs.com/) [leverage](../l/leverage.md) advanced quant models based on [risk](../r/risk.md)-[neutral](../n/neutral.md) measures for [asset management](../a/asset_management.md) and financial advisory services.
+[Risk](../r/risk.md)-[neutral](../n/neutral.md) measures are fundamental in various FinTech applications, particularly in platforms [offering](../o/offering.md) [derivative](../d/derivative.md) products, digital [asset](../a/asset.md) pricing, and robo-advisory services. For instance, companies like BlackRock and Goldman Sachs [leverage](../l/leverage.md) advanced quant models based on [risk](../r/risk.md)-[neutral](../n/neutral.md) measures for [asset management](../a/asset_management.md) and financial advisory services.
 
 ### Quantitative Finance in Practice
 
@@ -89,4 +89,4 @@ Quantitative analysts (quants) use [risk](../r/risk.md)-[neutral](../n/neutral.m
 
 ## Conclusion
 
-[Risk](../r/risk.md)-[neutral](../n/neutral.md) measures are indispensable in modern [finance](../f/finance.md), providing a framework for pricing [derivatives](../d/derivatives.md), managing [financial risk](../f/financial_risk.md), and developing sophisticated [trading strategies](../t/trading_strategies.md). By transforming the [probability distribution](../p/probability_distribution.md) to a [risk](../r/risk.md)-[neutral](../n/neutral.md) world, financial professionals can simplify complex calculations, ensuring their models are [arbitrage](../a/arbitrage.md)-free and aligned with real-world financial dynamics. Understanding and applying [risk](../r/risk.md)-[neutral](../n/neutral.md) measures is crucial for anyone involved in [quantitative finance](../q/quantitative_finance.md), [algorithmic trading](../a/accountability.md), and FinTech innovations.
+[Risk](../r/risk.md)-[neutral](../n/neutral.md) measures are indispensable in modern [finance](../f/finance.md), providing a framework for pricing [derivatives](../d/derivatives.md), managing [financial risk](../f/financial_risk.md), and developing sophisticated [trading strategies](../t/trading_strategies.md). By transforming the [probability distribution](../p/probability_distribution.md) to a [risk](../r/risk.md)-[neutral](../n/neutral.md) world, financial professionals can simplify complex calculations, ensuring their models are [arbitrage](../a/arbitrage.md)-free and aligned with real-world financial dynamics. Understanding and applying [risk](../r/risk.md)-[neutral](../n/neutral.md) measures is crucial for anyone involved in [quantitative finance](../q/quantitative_finance.md), [algorithmic trading](../a/algorithmic_trading.md), and FinTech innovations.

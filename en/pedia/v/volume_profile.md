@@ -1,33 +1,33 @@
 # Volume Profile
 
-[Volume](../v/volume.md) Profile is a charting tool that provides a dynamic view of traded [volume](../v/volume.md) distributed over price levels within a specified time frame. It enables traders to visualize and analyze the price levels where the most trading activity has occurred, which can reveal significant patterns and potential [market](../m/market.md) directions. 
+[Volume](../v/volume.md) Profile is a charting tool that provides a dynamic view of traded [volume](../v/volume.md) distributed over price levels within a specified time frame. It enables traders to visualize and analyze the price levels where the most trading activity has occurred, which can reveal significant patterns and potential [market](../m/market.md) directions.
 
 [Volume](../v/volume.md) Profile is different from traditional [volume indicators](../v/volume_indicators.md), which only show the [volume](../v/volume.md) traded during a specific time period without considering the price levels. By breaking down the [volume](../v/volume.md) to reveal the price points where trading activities are concentrated, [Volume](../v/volume.md) Profile provides a more granular insight into [market](../m/market.md) behavior, which can be extremely useful for both day traders and long-term investors.
 
 ## Key Components of Volume Profile
 
-1. **Point of Control (POC)**  
-   The Point of Control is the [price level](../p/price_level.md) with the highest traded [volume](../v/volume.md) over a specified period. It represents the most accepted price by the [market](../m/market.md) participants and often acts as a critical support or resistance level.
+1. **Point of Control (POC)**
+ The Point of Control is the [price level](../p/price_level.md) with the highest traded [volume](../v/volume.md) over a specified period. It represents the most accepted price by the [market](../m/market.md) participants and often acts as a critical support or resistance level.
 
-2. **[Value](../v/value.md) Area (VA)**  
-   The [Value](../v/value.md) Area is the price [range](../r/range.md) within which a specified percentage (usually 70%) of the [volume](../v/volume.md) was traded. It identifies the price [range](../r/range.md) where most of the trading activity occurred, helping traders recognize areas of [equilibrium](../e/equilibrium.md).
+2. **[Value](../v/value.md) Area (VA)**
+ The [Value](../v/value.md) Area is the price [range](../r/range.md) within which a specified percentage (usually 70%) of the [volume](../v/volume.md) was traded. It identifies the price [range](../r/range.md) where most of the trading activity occurred, helping traders recognize areas of [equilibrium](../e/equilibrium.md).
 
-3. **High [Volume](../v/volume.md) Nodes (HVN)**  
-   High [Volume](../v/volume.md) Nodes are areas within the [Volume](../v/volume.md) Profile that show peaks in [volume](../v/volume.md), indicating price levels where substantial trading activities and agreements between buyers and sellers took place. These nodes often act as strong support or resistance levels.
+3. **High [Volume](../v/volume.md) Nodes (HVN)**
+ High [Volume](../v/volume.md) Nodes are areas within the [Volume](../v/volume.md) Profile that show peaks in [volume](../v/volume.md), indicating price levels where substantial trading activities and agreements between buyers and sellers took place. These nodes often act as strong support or resistance levels.
 
-4. **Low [Volume](../v/volume.md) Nodes (LVN)**  
-   Low [Volume](../v/volume.md) Nodes are areas within the profile that display troughs or [gaps](../g/gap.md), indicating price levels with little trading activity. These nodes often signify areas of rejection or low [interest](../i/interest.md) and can be potential [breakout](../b/breakout.md) zones.
+4. **Low [Volume](../v/volume.md) Nodes (LVN)**
+ Low [Volume](../v/volume.md) Nodes are areas within the profile that display troughs or [gaps](../g/gap.md), indicating price levels with little trading activity. These nodes often signify areas of rejection or low [interest](../i/interest.md) and can be potential [breakout](../b/breakout.md) zones.
 
 ## Types of Volume Profile
 
-1. **Fixed [Range](../r/range.md) [Volume](../v/volume.md) Profile**  
-   This type of [Volume](../v/volume.md) Profile analyzes a specific [range](../r/range.md) of data, such as a particular trading day, week, or custom time frame. Traders use it to understand the [volume](../v/volume.md) [distribution](../d/distribution.md) within that fixed period.
+1. **Fixed [Range](../r/range.md) [Volume](../v/volume.md) Profile**
+ This type of [Volume](../v/volume.md) Profile analyzes a specific [range](../r/range.md) of data, such as a particular trading day, week, or custom time frame. Traders use it to understand the [volume](../v/volume.md) [distribution](../d/distribution.md) within that fixed period.
 
-2. **Session [Volume](../v/volume.md) Profile**  
-   Session [Volume](../v/volume.md) Profile resets every [trading session](../t/trading_session.md), providing a fresh view of [volume](../v/volume.md) [distribution](../d/distribution.md) for each session. It's particularly useful for day traders who need to understand the intraday [volume](../v/volume.md) dynamics.
+2. **Session [Volume](../v/volume.md) Profile**
+ Session [Volume](../v/volume.md) Profile resets every [trading session](../t/trading_session.md), providing a fresh view of [volume](../v/volume.md) [distribution](../d/distribution.md) for each session. It's particularly useful for day traders who need to understand the intraday [volume](../v/volume.md) dynamics.
 
-3. **Composite [Volume](../v/volume.md) Profile**  
-   Composite [Volume](../v/volume.md) Profile combines [multiple](../m/multiple.md) sessions or a custom [range](../r/range.md) into a single profile. This type provides a broader perspective, useful for identifying long-term [support and resistance](../s/support_and_resistance.md) levels.
+3. **Composite [Volume](../v/volume.md) Profile**
+ Composite [Volume](../v/volume.md) Profile combines [multiple](../m/multiple.md) sessions or a custom [range](../r/range.md) into a single profile. This type provides a broader perspective, useful for identifying long-term [support and resistance](../s/support_and_resistance.md) levels.
 
 ## How to Interpret and Use Volume Profile
 
@@ -81,20 +81,20 @@ Cryptocurrency markets exhibit high [volatility](../v/volatility.md) and low [li
 
 [Multiple](../m/multiple.md) trading platforms [offer](../o/offer.md) [Volume](../v/volume.md) Profile as part of their charting tools, making it accessible for traders at all levels. Some notable platforms include:
 
-1. **[TradingView](../t/tradingview.md)**  
-   [TradingView](../t/tradingview.md) offers an extensive suite of tools, including [Volume](../v/volume.md) Profile indicators. Traders can customize their [volume](../v/volume.md) profiles and integrate them into their overall charting strategy. Visit [TradingView](https://www.tradingview.com/).
+1. **[TradingView](../t/tradingview.md)**
+ [TradingView](../t/tradingview.md) offers an extensive suite of tools, including [Volume](../v/volume.md) Profile indicators. Traders can customize their [volume](../v/volume.md) profiles and integrate them into their overall charting strategy. Visit TradingView.
 
-2. **[ThinkOrSwim](../t/thinkorswim.md) (by TD [Ameritrade](../a/ameritrade.md))**  
-   [ThinkOrSwim](../t/thinkorswim.md) provides detailed [Volume](../v/volume.md) Profile tools suited for various markets, allowing traders to analyze and implement it effectively in their trading plans. Visit [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+2. **[ThinkOrSwim](../t/thinkorswim.md) (by TD [Ameritrade](../a/ameritrade.md))**
+ [ThinkOrSwim](../t/thinkorswim.md) provides detailed [Volume](../v/volume.md) Profile tools suited for various markets, allowing traders to analyze and implement it effectively in their trading plans. Visit TD Ameritrade.
 
-3. **[NinjaTrader](../n/ninjatrader.md)**  
-   [NinjaTrader](../n/ninjatrader.md) offers comprehensive [Volume](../v/volume.md) Profile indicators that can be customized for [futures](../f/futures.md), forex, and equities trading. Visit [NinjaTrader](https://ninjatrader.com/).
+3. **[NinjaTrader](../n/ninjatrader.md)**
+ [NinjaTrader](../n/ninjatrader.md) offers comprehensive [Volume](../v/volume.md) Profile indicators that can be customized for [futures](../f/futures.md), forex, and equities trading. Visit NinjaTrader.
 
-4. **[Sierra Chart](../s/sierra_chart.md)**  
-   [Sierra Chart](../s/sierra_chart.md) is renowned for its [robust](../r/robust.md) and versatile charting tools, including high-quality [Volume](../v/volume.md) Profile features suitable for professional traders. Visit [Sierra Chart](https://www.sierrachart.com/).
+4. **[Sierra Chart](../s/sierra_chart.md)**
+ [Sierra Chart](../s/sierra_chart.md) is renowned for its [robust](../r/robust.md) and versatile charting tools, including high-quality [Volume](../v/volume.md) Profile features suitable for professional traders. Visit Sierra Chart.
 
-5. **[MotiveWave](../m/motivewave.md)**  
-   [MotiveWave](../m/motivewave.md) provides advanced [Volume](../v/volume.md) Profile tools with extensive customization [options](../o/options.md), catering to both retail and institutional traders. Visit [MotiveWave](https://www.motivewave.com/).
+5. **[MotiveWave](../m/motivewave.md)**
+ [MotiveWave](../m/motivewave.md) provides advanced [Volume](../v/volume.md) Profile tools with extensive customization [options](../o/options.md), catering to both retail and institutional traders. Visit MotiveWave.
 
 ## Conclusion
 

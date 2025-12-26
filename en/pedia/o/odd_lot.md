@@ -1,6 +1,6 @@
 # Odd Lot
 
-In the [financial markets](../f/financial_market.md), an "odd lot" refers to a quantity of securities that is less than the standard trading unit, which is typically 100 [shares](../s/shares.md) for [stocks](../s/stock.md) in the United States. Understanding the concept of odd lots is crucial for both retail and institutional investors as it affects [trading strategies](../t/trading_strategies.md), [market](../m/market.md) impact, and [execution](../e/execution.md) costs. This comprehensive [write-up](../w/write-up.md) delves into the nuances of odd lots, including their historical context, modern relevance, impact on [market dynamics](../m/market_dynamics.md), and their role in [algorithmic trading](../a/accountability.md) and financial technology (fintech).
+In the [financial markets](../f/financial_market.md), an "odd lot" refers to a quantity of securities that is less than the standard trading unit, which is typically 100 [shares](../s/shares.md) for [stocks](../s/stock.md) in the United States. Understanding the concept of odd lots is crucial for both retail and institutional investors as it affects [trading strategies](../t/trading_strategies.md), [market](../m/market.md) impact, and [execution](../e/execution.md) costs. This comprehensive [write-up](../w/write-up.md) delves into the nuances of odd lots, including their historical context, modern relevance, impact on [market dynamics](../m/market_dynamics.md), and their role in [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech).
 
 ## Historical Context
 
@@ -23,7 +23,7 @@ As trading technology has advanced, the challenges associated with odd lots have
 ### Key Factors in Modern Trading
 
 1. **Electronic Trading**: The rise of electronic trading platforms has made it easier and cheaper to [trade](../t/trade.md) odd lots, thereby making markets more accessible to retail investors.
-2. **[Algorithmic Trading](../a/accountability.md)**: Algorithms are deployed to efficiently manage the [execution](../e/execution.md) of odd lots, minimizing [market](../m/market.md) impact and optimizing [trading costs](../t/trading_costs.md).
+2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Algorithms are deployed to efficiently manage the [execution](../e/execution.md) of odd lots, minimizing [market](../m/market.md) impact and optimizing [trading costs](../t/trading_costs.md).
 3. **Fractional [Shares](../s/shares.md)**: Some modern brokers [offer](../o/offer.md) [fractional share](../f/fractional_share.md) trading, allowing investors to buy and sell portions of a single share, making the concept of odd lots somewhat obsolete.
 
 ## Impact on Market Dynamics
@@ -38,7 +38,7 @@ Odd lots can affect [market dynamics](../m/market_dynamics.md) in various ways. 
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has revolutionized the handling of odd lots. Algorithms can break down larger orders into smaller odd lots to disguise trading intentions, minimize [market](../m/market.md) impact, and achieve better [execution](../e/execution.md) prices. Some algorithms are even designed explicitly for trading odd lots.
+[Algorithmic trading](../a/algorithmic_trading.md) has revolutionized the handling of odd lots. Algorithms can break down larger orders into smaller odd lots to disguise trading intentions, minimize [market](../m/market.md) impact, and achieve better [execution](../e/execution.md) prices. Some algorithms are even designed explicitly for trading odd lots.
 
 ### Types of Algorithms Used
 
@@ -52,9 +52,9 @@ Fintech companies have also contributed significantly to the modernization of od
 
 ### Notable Companies
 
-- **[Robinhood](../r/robinhood.md)**: [Robinhood](../r/robinhood.md) allows the trading of fractional [shares](../s/shares.md), which has redefined how retail investors interact with odd lots. [Robinhood](https://robinhood.com/)
-- **Wealthfront**: Wealthfront offers automated [investment management](../i/investment_management.md), including the purchase of fractional [shares](../s/shares.md), thus supporting odd lot transactions. [Wealthfront](https://www.wealthfront.com/)
-- **Betterment**: Betterment uses [algorithmic trading](../a/accountability.md) to manage client portfolios, effectively dealing with odd lots in the process. [Betterment](https://www.betterment.com/)
+- **[Robinhood](../r/robinhood.md)**: [Robinhood](../r/robinhood.md) allows the trading of fractional [shares](../s/shares.md), which has redefined how retail investors interact with odd lots. Robinhood
+- **Wealthfront**: Wealthfront offers automated [investment management](../i/investment_management.md), including the purchase of fractional [shares](../s/shares.md), thus supporting odd lot transactions. Wealthfront
+- **Betterment**: Betterment uses [algorithmic trading](../a/algorithmic_trading.md) to manage client portfolios, effectively dealing with odd lots in the process. Betterment
 
 ## Conclusion
 

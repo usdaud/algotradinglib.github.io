@@ -91,7 +91,7 @@ The decision to form a PSC hinges on several strategic considerations:
 
 ### Alternatives to PSCs
 
-For some professional firms, alternative structures like [Limited Liability](../l/limited_liability.md) Companies (LLCs) or Subchapter S Corporations (S-Corps) might [offer](../o/offer.md) more favorable [taxation](../t/taxation.md) or operational flexibility. 
+For some professional firms, alternative structures like [Limited Liability](../l/limited_liability.md) Companies (LLCs) or Subchapter S Corporations (S-Corps) might [offer](../o/offer.md) more favorable [taxation](../t/taxation.md) or operational flexibility.
 
 - **LLC**: Offers pass-through [taxation](../t/taxation.md) and flexibility in management but lacks the rigid ownership structure of a PSC.
 - **S-Corp**: Provides similar [liability](../l/liability.md) protection and pass-through [taxation](../t/taxation.md) but with potential limitations on the number and types of eligible shareholders.

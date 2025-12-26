@@ -75,15 +75,15 @@ From a [taxation](../t/taxation.md) perspective, amortization can impact tax lia
 
 ### Pharmaceutical Companies
 
-Pharmaceutical companies often deal extensively with patents. For instance, Amgen Inc. (https://www.amgen.com) invests heavily in drug patents, and correctly amortizing these patents is essential given the high costs and finite [useful life](../u/useful_life.md). Amgen amortizes its acquired patents and licenses over the estimated lives of the corresponding products.
+Pharmaceutical companies often deal extensively with patents. For instance, Amgen Inc. ( invests heavily in drug patents, and correctly amortizing these patents is essential given the high costs and finite [useful life](../u/useful_life.md). Amgen amortizes its acquired patents and licenses over the estimated lives of the corresponding products.
 
 ### Tech Companies
 
-Software companies like Microsoft (https://www.microsoft.com) deal with copyrights for their software products. Microsoft's [financial statements](../f/financial_statements.md) include amortization of acquired software products and technology-based intangibles.
+Software companies like Microsoft ( deal with copyrights for their software products. Microsoft's [financial statements](../f/financial_statements.md) include amortization of acquired software products and technology-based intangibles.
 
 ### Consumer Goods
 
-Companies like Procter & Gamble (https://us.pg.com) manage a portfolio of brands, some protected by trademarks with amortizable [value](../v/value.md). Estimating the [useful life](../u/useful_life.md) for these trademarks involves assumptions about [market](../m/market.md) positioning and consumer behavior.
+Companies like Procter & Gamble ( manage a portfolio of brands, some protected by trademarks with amortizable [value](../v/value.md). Estimating the [useful life](../u/useful_life.md) for these trademarks involves assumptions about [market](../m/market.md) positioning and consumer behavior.
 
 ## Amortization Software Tools
 

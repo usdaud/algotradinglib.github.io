@@ -37,7 +37,7 @@ A **Customer** is an individual or entity that purchases goods or services from 
 
 ## Example Scenarios
 1. **Retail Store**: A customer walks into a clothing store, tries on several items, and purchases a pair of jeans.
-2. **E-[commerce](../c/commerce.md)**: An online shopper browses an e-[commerce](../c/commerce.md) website, reads reviews, adds items to the cart, and completes the purchase.
+2. **E-[commerce](../c/commerce.md)**: An online shopper browses an e-[commerce](../c/commerce.md) online platform, reads reviews, adds items to the cart, and completes the purchase.
 3. **B2B [Transaction](../t/transaction.md)**: A [manufacturing](../m/manufacturing.md) company buys [raw materials](../r/raw_materials.md) from a supplier to produce its goods.
 4. **Subscription Service**: A customer subscribes to a monthly meal kit delivery service, receiving regular shipments of ingredients and recipes.
 
@@ -55,4 +55,3 @@ A **Customer** is an individual or entity that purchases goods or services from 
 
 ## Conclusion
 Customers are the cornerstone of any [business](../b/business.md), driving [revenue](../r/revenue.md) and growth through their purchases and loyalty. Understanding the different types of customers, managing relationships effectively, and meeting their needs are crucial for [business](../b/business.md) success. By focusing on customer satisfaction and engagement, businesses can build strong, lasting relationships that support long-term profitability and [market](../m/market.md) presence.
-

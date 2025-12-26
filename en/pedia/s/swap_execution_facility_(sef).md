@@ -13,9 +13,9 @@ The swaps [market](../m/market.md) had traditionally been an over-the-counter (O
 ### Purpose and Benefits
 
 1. **[Transparency](../t/transparency.md):** SEFs are designed to make the pricing and trading of swaps more transparent. By providing a centralized platform for [swap](../s/swap.md) trading, these facilities help [market](../m/market.md) participants better understand the [market](../m/market.md) conditions and prices.
-   
+
 2. **[Efficiency](../e/efficiency.md):** By standardizing [swap](../s/swap.md) transactions, SEFs can reduce the time and costs associated with negotiating and executing trades.
-   
+
 3. **[Risk Management](../r/risk_management.md):** The standardized and regulated environment helps in better management and measurement of risks.
 
 ## How SEFs Work
@@ -25,9 +25,9 @@ The swaps [market](../m/market.md) had traditionally been an over-the-counter (O
 SEFs [offer](../o/offer.md) various trading mechanisms, including:
 
 1. **Central [Limit Order Book](../l/limit_order_book.md) (CLOB):** An electronic [order book](../o/order_book.md) where buyers and sellers submit their bids and offers, and trades are executed when prices match.
-   
+
 2. **Request-for-[Quote](../q/quote.md) (RFQ):** A mechanism where traders request price quotes from [multiple](../m/multiple.md) dealers. This model is particularly common for less [liquid](../l/liquid.md) instruments.
-   
+
 3. **Hybrid Systems:** These combine features of both CLOB and RFQ, providing different levels of [transparency](../t/transparency.md) and [price discovery](../p/price_discovery.md).
 
 ### Compliance Requirements
@@ -35,11 +35,11 @@ SEFs [offer](../o/offer.md) various trading mechanisms, including:
 To operate, SEFs must meet certain regulatory requirements, including:
 
 1. **Registration:** SEFs must register with the CFTC.
-   
+
 2. **Reporting:** They must report [transaction](../t/transaction.md) data to a [swap](../s/swap.md) data repository (SDR).
-   
+
 3. **Recordkeeping:** SEFs are required to maintain records of all activities, including orders and transactions.
-   
+
 4. **[Market](../m/market.md) Surveillance:** They must have policies in place for monitoring trading activity and detecting [market](../m/market.md) abuse.
 
 ### Participants
@@ -51,9 +51,9 @@ Participants in SEFs include a wide [range](../r/range.md) of entities such as b
 The introduction of SEFs has had several significant impacts on the [derivatives](../d/derivatives.md) [market](../m/market.md):
 
 1. **Increased Competition:** By providing more [transparency](../t/transparency.md) and a centralized [trading environment](../t/trading_environment.md), SEFs have increased competition among [market](../m/market.md) participants.
-   
+
 2. **[Price Discovery](../p/price_discovery.md):** The centralized nature of SEFs facilitates better [price discovery](../p/price_discovery.md) mechanisms, leading to more accurate and fair pricing.
-   
+
 3. **[Risk](../r/risk.md) Reduction:** The standardized processes and enhanced oversight help in mitigating [counterparty](../c/counterparty.md) risks.
 
 ## Challenges and Criticisms
@@ -61,16 +61,16 @@ The introduction of SEFs has had several significant impacts on the [derivatives
 Despite their many benefits, SEFs also face challenges and criticisms:
 
 1. **[Liquidity](../l/liquidity.md) Fragmentation:** Because there are [multiple](../m/multiple.md) SEFs, [liquidity](../l/liquidity.md) can be fragmented across different platforms, which can make it more difficult to execute large trades efficiently.
-   
+
 2. **Costs:** The costs associated with setting up and maintaining SEFs can be high, which may be passed on to participants.
-   
+
 3. **Regulatory Complexity:** Compliance with various regulations can be complicated and burdensome.
 
 ## Technological Innovations
 
 ### Algorithmic Trading
 
-One area that has seen significant growth in SEFs is [algorithmic trading](../a/accountability.md). This involves the use of algorithms to execute trades at speeds and efficiencies unattainable by human traders. [Algorithmic trading](../a/accountability.md) can be used to optimize [trade](../t/trade.md) [execution](../e/execution.md), manage [risk](../r/risk.md), and analyze [market](../m/market.md) conditions.
+One area that has seen significant growth in SEFs is [algorithmic trading](../a/algorithmic_trading.md). This involves the use of algorithms to execute trades at speeds and efficiencies unattainable by human traders. [Algorithmic trading](../a/algorithmic_trading.md) can be used to optimize [trade](../t/trade.md) [execution](../e/execution.md), manage [risk](../r/risk.md), and analyze [market](../m/market.md) conditions.
 
 ### Machine Learning and AI
 
@@ -86,5 +86,4 @@ As regulations continue to evolve and technology advances, the role and function
 
 ## Conclusion
 
-[Swap](../s/swap.md) [Execution](../e/execution.md) Facilities represent a significant shift in how swaps and [derivatives](../d/derivatives.md) are traded. By bringing more [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and regulatory oversight to the [market](../m/market.md), SEFs are helping to build a more resilient [financial system](../f/financial_system.md). However, the challenges and costs associated with their implementation need to be managed carefully to fully realize their potential benefits. For more information, you can visit [MarketAxess SEF page](https://www.marketaxess.com/sef).
-
+[Swap](../s/swap.md) [Execution](../e/execution.md) Facilities represent a significant shift in how swaps and [derivatives](../d/derivatives.md) are traded. By bringing more [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and regulatory oversight to the [market](../m/market.md), SEFs are helping to build a more resilient [financial system](../f/financial_system.md). However, the challenges and costs associated with their implementation need to be managed carefully to fully realize their potential benefits.

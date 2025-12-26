@@ -83,7 +83,7 @@ For technology firms with substantial investments in R&D and intangible assets, 
 
 ### Financial Presentations
 
-Many companies provide OIBDA figures in their financial presentations. For example, [AT&T's Investor Relations page](https://investors.att.com/) regularly discusses OIBDA, especially when talking to analysts and investors about the company's performance.
+Many companies provide OIBDA figures in their financial presentations. For example, AT&T's company filings regularly discusses OIBDA, especially when talking to analysts and investors about the company's performance.
 
 ## Conclusion
 

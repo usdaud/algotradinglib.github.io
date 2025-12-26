@@ -97,4 +97,4 @@ If the amendment results in increased [tax liability](../t/tax_liability.md), ca
 
 ## Conclusion
 
-Form 1040X is a valuable tool for taxpayers to ensure their tax returns are accurate. Whether correcting an error, claiming a refund, or changing [filing status](../f/filing_status.md), understanding how to properly use this form can save time, [money](../m/money.md), and potential legal issues. For the latest instructions and possible updates, always refer directly to the [IRS Form 1040X page](https://www.irs.gov/forms-pubs/about-form-1040x).
+Form 1040X is a valuable tool for taxpayers to ensure their tax returns are accurate. Whether correcting an error, claiming a refund, or changing [filing status](../f/filing_status.md), understanding how to properly use this form can save time, [money](../m/money.md), and potential legal issues. For the latest instructions and possible updates, consult current IRS guidance.

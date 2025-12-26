@@ -23,7 +23,7 @@ RMBS are typically structured into different [tranches](../t/tranches.md), each 
 
 ### 3. **Credit Enhancement**
 
-To mitigate [risk](../r/risk.md) and make RMBS more attractive to investors, [credit](../c/credit.md) enhancements such as over-collateralization, subordination, and reserve funds are employed. 
+To mitigate [risk](../r/risk.md) and make RMBS more attractive to investors, [credit](../c/credit.md) enhancements such as over-collateralization, subordination, and reserve funds are employed.
 
 ## Functioning of RMBS
 
@@ -99,15 +99,15 @@ Automated [underwriting](../u/underwriting.md) and servicing platforms are impro
 
 ### 1. **Fannie Mae**
 
-Fannie Mae is a [government-sponsored enterprise](../g/government-sponsored_enterprise.md) that provides financial products and services to increase the availability and affordability of housing in the United States. [Website](https://www.fanniemae.com)
+Fannie Mae is a [government-sponsored enterprise](../g/government-sponsored_enterprise.md) that provides financial products and services to increase the availability
 
 ### 2. **Freddie Mac**
 
-[Freddie Mac](../f/freddie_mac.md) is another [government-sponsored enterprise](../g/government-sponsored_enterprise.md) that works to stabilize the [mortgage](../m/mortgage.md) [market](../m/market.md) and promote homeownership. [Website](https://www.freddiemac.com)
+[Freddie Mac](../f/freddie_mac.md) is another [government-sponsored enterprise](../g/government-sponsored_enterprise.md) that works to stabilize the [mortgage](../m/mortgage.md) [market](../m/market.md)
 
 ### 3. **Ginnie Mae**
 
-Ginnie Mae guarantees the timely [payment](../p/payment.md) of [principal](../p/principal.md) and [interest](../i/interest.md) on [mortgage](../m/mortgage.md)-backed securities issued by approved lenders. [Website](https://www.ginniemae.gov)
+Ginnie Mae guarantees the timely [payment](../p/payment.md) of [principal](../p/principal.md) and [interest](../i/interest.md) on [mortgage](../m/mortgage.md)-backed
 
 ## Conclusion
 

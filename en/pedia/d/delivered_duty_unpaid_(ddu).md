@@ -1,6 +1,8 @@
 # Delivered Duty Unpaid (DDU)
 
-Delivered Duty Unpaid (DDU) is an international [trade](../t/trade.md) term used in transactions where the seller is responsible for delivering goods to a specific location in the buyer's country, but the buyer is responsible for paying [import](../i/import.md) duties and [taxes](../t/taxes.md). This term is crucial for understanding the [distribution](../d/distribution.md) of responsibilities and costs between a buyer and a seller in a cross-border [sale](../s/sale.md).
+**Note:** DDU was replaced by DAP (Delivered at Place) in Incoterms 2010. This article describes the historical DDU term which may still appear in older contracts.
+
+Delivered Duty Unpaid (DDU) was an international [trade](../t/trade.md) term used in transactions where the seller is responsible for delivering goods to a specific location in the buyer's country, but the buyer is responsible for paying [import](../i/import.md) duties and [taxes](../t/taxes.md). This term is crucial for understanding the [distribution](../d/distribution.md) of responsibilities and costs between a buyer and a seller in a cross-border [sale](../s/sale.md).
 
 ## Key Features of Delivered Duty Unpaid (DDU)
 
@@ -26,19 +28,19 @@ Delivered Duty Unpaid (DDU) is an international [trade](../t/trade.md) term used
 
 #### For Sellers
 - **Advantages**:
-  - Simplicity in [logistics](../l/logistics.md) since the seller controls the transport up to the delivery point.
-  - Better [customer service](../c/customer_service.md) by ensuring goods are delivered to the buyer's location.
+ - Simplicity in [logistics](../l/logistics.md) since the seller controls the transport up to the delivery point.
+ - Better [customer service](../c/customer_service.md) by ensuring goods are delivered to the buyer's location.
 - **Disadvantages**:
-  - Potentially higher costs due to extended transport responsibilities.
-  - Greater exposure to risks until the goods arrive at the destination.
+ - Potentially higher costs due to extended transport responsibilities.
+ - Greater exposure to risks until the goods arrive at the destination.
 
 #### For Buyers
 - **Advantages**:
-  - Control over the customs clearance process, potentially reducing delays and unexpected costs.
-  - Usually lower total costs since the responsibility to cover duties and [taxes](../t/taxes.md) lies with them.
+ - Control over the customs clearance process, potentially reducing delays and unexpected costs.
+ - Usually lower total costs since the responsibility to cover duties and [taxes](../t/taxes.md) lies with them.
 - **Disadvantages**:
-  - More complexity in handling and [clearing](../c/clearing.md) customs.
-  - Immediate responsibility for goods' condition upon their arrival.
+ - More complexity in handling and [clearing](../c/clearing.md) customs.
+ - Immediate responsibility for goods' condition upon their arrival.
 
 ## Practical Implementation
 

@@ -35,23 +35,23 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md), including
 #### 4.3. Software and Platforms
 Several software and platforms provide tools to implement Maximum [Diversification Strategies](../d/diversification_strategies.md):
 
-- **Portfolio123**: A platform [offering](../o/offering.md) advanced tools for [backtesting](../b/backtesting.md) and optimizing diversified portfolios. [Portfolio123](https://www.portfolio123.com/)
-- **[QuantConnect](../q/quantconnect.md)**: Provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform with extensive resources for implementing [diversification strategies](../d/diversification_strategies.md). [QuantConnect](https://www.quantconnect.com/)
-- **Alphalens by Quantopian**: A performance analysis tool for [alpha](../a/alpha.md) factors — essential for assessing [diversification](../d/diversification.md) effectiveness in portfolios. [Quantopian](https://www.quantopian.com/)
+- **Portfolio123**: A platform [offering](../o/offering.md) advanced tools for [backtesting](../b/backtesting.md) and optimizing diversified portfolios. Portfolio123
+- **[QuantConnect](../q/quantconnect.md)**: Provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform with extensive resources for implementing [diversification strategies](../d/diversification_strategies.md). QuantConnect
+- **Alphalens by Quantopian**: A performance analysis tool for [alpha](../a/alpha.md) factors — essential for assessing [diversification](../d/diversification.md) effectiveness in portfolios. Quantopian
 
 ### 5. Real-World Applications of Maximum Diversification
 #### 5.1. Examples of Maximum Diversified Funds
 Several [fund](../f/fund.md) managers and financial institutions have launched products based on maximum [diversification](../d/diversification.md) principles:
 
 - **TOBAM Anti-[Benchmark](../b/benchmark.md) Funds**: TOBAM employs a maximum [diversification](../d/diversification.md) approach, minimizing concentration [risk](../r/risk.md) and maximizing the [diversification](../d/diversification.md) ratio.
-- **Invesco Global Diversified [Income Fund](../i/income_fund.md)**: This [fund](../f/fund.md) aims to provide high levels of [income](../i/income.md) and lower [volatility](../v/volatility.md) through a diversified global portfolio. [Invesco](https://www.invesco.com/)
+- **Invesco Global Diversified [Income Fund](../i/income_fund.md)**: This [fund](../f/fund.md) aims to provide high levels of [income](../i/income.md) and lower [volatility](../v/volatility.md) through a diversified global portfolio. Invesco
 
 #### 5.2. Case Studies
 ##### Case Study 1: TOBAM Anti-Benchmark Global Equity Fund
 TOBAM's flagship [fund](../f/fund.md) employs a unique approach to [diversification](../d/diversification.md), targeting the highest [diversification](../d/diversification.md) ratio. By eschewing traditional [market](../m/market.md)-cap weighting, the [fund](../f/fund.md) achieves a more balanced [risk](../r/risk.md) [distribution](../d/distribution.md).
 
 ##### Case Study 2: All-Weather Portfolio by Bridgewater Associates
-Ray Dalio's All-Weather Portfolio, managed by Bridgewater Associates, is a prime example of the implementation of [risk parity](../r/risk_parity.md) principles. It allocates investments based on [risk](../r/risk.md) contribution rather than [capital](../c/capital.md), aiming for stability across [economic conditions](../e/economic_conditions.md). [Bridgewater Associates](https://www.bridgewater.com/)
+Ray Dalio's All-Weather Portfolio, managed by Bridgewater Associates, is a prime example of the implementation of [risk parity](../r/risk_parity.md) principles. It allocates investments based on [risk](../r/risk.md) contribution rather than [capital](../c/capital.md), aiming for stability across [economic conditions](../e/economic_conditions.md). Bridgewater Associates
 
 ### 6. Benefits and Challenges of Maximum Diversification
 #### 6.1. Benefits

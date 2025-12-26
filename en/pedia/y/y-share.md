@@ -40,7 +40,7 @@ Y-[Shares](../s/shares.md) are typically offered through employer-sponsored reti
 
 ### Example of Y-Shares in Practice
 
-One of the well-known [mutual fund](../m/mutual_fund.md) families [offering](../o/offering.md) Y-[Shares](../s/shares.md) is Vanguard. Vanguard's Y-[Shares](../s/shares.md) are available to institutional investors and feature some of the lowest [expense](../e/expense.md) ratios in the [industry](../i/industry.md). For more information, you may visit the official Vanguard website: [Vanguard Y-Shares](https://institutional.vanguard.com).
+One of the well-known [mutual fund](../m/mutual_fund.md) families [offering](../o/offering.md) Y-[Shares](../s/shares.md) is Vanguard. Vanguard's Y-[Shares](../s/shares.md) are available to institutional investors and feature some of the lowest [expense](../e/expense.md) ratios in the [industry](../i/industry.md).
 
 ## Comparison with Other Share Classes
 

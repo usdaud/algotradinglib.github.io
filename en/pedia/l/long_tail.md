@@ -14,12 +14,12 @@ The Long Tail concept in [finance](../f/finance.md) often aligns with the princi
 
 [Quantitative analysis tools](../q/quantitative_analysis_tools.md) are essential for identifying and taking advantage of Long Tail opportunities in trading. These tools include algorithms and software that analyze vast amounts of data to identify patterns and correlations that may not be obvious through traditional analysis.
 
-- **[QuantConnect](../q/quantconnect.md)** [Visit QuantConnect](https://www.quantconnect.com/): [QuantConnect](../q/quantconnect.md) provides an [algorithmic trading](../a/accountability.md) platform that allows traders to backtest and deploy strategies in various [asset](../a/asset.md) classes.
-- **[Alpaca](../a/alpaca.md)** [Visit Alpaca](https://alpaca.markets/): [Alpaca](../a/alpaca.md) offers an API for stock trading, enabling users to build and directly [trade](../t/trade.md) on their own custom algorithms.
+- **[QuantConnect](../q/quantconnect.md)** Visit QuantConnect: [QuantConnect](../q/quantconnect.md) provides an [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies in various [asset](../a/asset.md) classes.
+- **[Alpaca](../a/alpaca.md)** Visit Alpaca: [Alpaca](../a/alpaca.md) offers an API for stock trading, enabling users to build and directly [trade](../t/trade.md) on their own custom algorithms.
 
 ### Algorithmic Trading and Long Tail Assets
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). The Long Tail assets, in this case, are those less popular, less [liquid](../l/liquid.md) assets that may [offer](../o/offer.md) significant returns but require sophisticated methods to identify and [capitalize](../c/capitalize.md) on.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). The Long Tail assets, in this case, are those less popular, less [liquid](../l/liquid.md) assets that may [offer](../o/offer.md) significant returns but require sophisticated methods to identify and [capitalize](../c/capitalize.md) on.
 
 #### Considerations for Trading Long Tail Assets
 
@@ -34,11 +34,11 @@ FinTech represents the intersection of [finance](../f/finance.md) and technology
 #### Applications in FinTech
 
 1. **Robo-advisors**: Automated investment platforms that provide algorithm-driven [financial planning](../f/financial_planning.md) services with minimal human supervision. They often utilize Long Tail strategies to diversify users' portfolios.
-   - **Betterment** [Visit Betterment](https://www.betterment.com/): An example of a robo-advisor that offers diversified investment [options](../o/options.md) based on users' [risk profiles](../r/risk_profiles.md).
+ - **Betterment** Visit Betterment: An example of a robo-advisor that offers diversified investment [options](../o/options.md) based on users' [risk profiles](../r/risk_profiles.md).
 2. **[Peer-to-Peer Lending](../p/peer-to-peer_lending.md)**: Platforms that connect borrowers directly with individual lenders, [offering](../o/offering.md) a [range](../r/range.md) of lending opportunities beyond traditional [credit](../c/credit.md) markets.
-   - **LendingClub** [Visit LendingClub](https://www.lendingclub.com/): This platform provides personal loans funded by individual investors, enabling a wider variety of lending [options](../o/options.md).
+ - **LendingClub** Visit LendingClub: This platform provides personal loans funded by individual investors, enabling a wider variety of lending [options](../o/options.md).
 3. **[Crowdfunding](../c/crowdfunding.md)**: Platforms that allow numerous small investors to [fund](../f/fund.md) startups or projects, [offering](../o/offering.md) investment opportunities that would otherwise be inaccessible.
-   - **Kickstarter** [Visit Kickstarter](https://www.kickstarter.com/): Facilitates funding for creative projects by leveraging a large number of small contributions.
+ - **Kickstarter** Visit Kickstarter: Facilitates funding for creative projects by leveraging a large number of small contributions.
 
 ### The Role of Data Science in Long Tail Finance
 
@@ -52,21 +52,20 @@ FinTech represents the intersection of [finance](../f/finance.md) and technology
 
 [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can learn and adapt over time, making them particularly suitable for identifying Long Tail opportunities. These algorithms can [handle](../h/handle.md) complex patterns and non-linear relationships that are often present in [financial markets](../f/financial_market.md).
 
-- **[TensorFlow](../t/tensorflow.md)** [Visit TensorFlow](https://www.tensorflow.org/): An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework that can be used for developing and training financial models.
-- **[PyTorch](../p/pytorch.md)** [Visit PyTorch](https://pytorch.org/): Another popular [machine learning](../m/machine_learning.md) library that supports dynamic computational graphs, useful for research and development in financial applications.
+- **[TensorFlow](../t/tensorflow.md)** Visit TensorFlow: An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework that can be used for developing and training financial models.
+- **[PyTorch](../p/pytorch.md)** Visit PyTorch: Another popular [machine learning](../m/machine_learning.md) library that supports dynamic computational graphs, useful for research and development in financial applications.
 
 ### Real-World Examples of Long Tail in Finance
 
 #### Exchange-Traded Funds (ETFs)
 
-- **ARK Invest** [Visit ARK Invest](https://ark-invest.com/): This [investment management](../i/investment_management.md) [firm](../f/firm.md) offers ETFs that focus on niche markets such as genomics and [artificial intelligence](../a/artificial_intelligence_in_trading.md). 
-
+- **ARK Invest** Visit ARK Invest: This [investment management](../i/investment_management.md) [firm](../f/firm.md) offers ETFs that focus on niche markets such as genomics and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 #### Cryptocurrency Markets
 
 Cryptocurrencies represent a clear example of Long Tail in [finance](../f/finance.md). While [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) are the most well-known, there are thousands of alternative coins, each targeting different niches and use cases.
 
-- **[Binance](../b/binance.md)** [Visit Binance](https://www.binance.com/): A popular cryptocurrency [trading platform](../t/trading_platform.md) with a wide [range](../r/range.md) of altcoins available for trading.
+- **[Binance](../b/binance.md)** Visit Binance: A popular cryptocurrency [trading platform](../t/trading_platform.md) with a wide [range](../r/range.md) of altcoins available for trading.
 
 ### Conclusion
 
-The Long Tail concept has revolutionized [multiple](../m/multiple.md) markets, including [finance](../f/finance.md) and trading. With the advancements in technology, [data analytics](../d/data_analytics.md), and [algorithmic trading](../a/accountability.md), it is now possible to effectively tap into niche markets, diversify portfolios, and manage risks efficiently. As financial technologies evolve, they [will](../w/will.md) continue to [open](../o/open.md) up more Long Tail opportunities, allowing traders and investors to benefit from a wider array of assets than ever before.
+The Long Tail concept has revolutionized [multiple](../m/multiple.md) markets, including [finance](../f/finance.md) and trading. With the advancements in technology, [data analytics](../d/data_analytics.md), and [algorithmic trading](../a/algorithmic_trading.md), it is now possible to effectively tap into niche markets, diversify portfolios, and manage risks efficiently. As financial technologies evolve, they [will](../w/will.md) continue to [open](../o/open.md) up more Long Tail opportunities, allowing traders and investors to benefit from a wider array of assets than ever before.

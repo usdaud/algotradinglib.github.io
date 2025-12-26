@@ -69,4 +69,4 @@ When considering [U.S. Savings Bonds](../u/u.s._savings_bonds.md) as part of an 
 
 [U.S. Savings Bonds](../u/u.s._savings_bonds.md) [offer](../o/offer.md) a reliable and secure investment option for those looking to preserve [capital](../c/capital.md) and earn a modest [return](../r/return.md). Understanding the mechanisms of [interest rate](../i/interest_rate.md) adjustments, the intricacies of tax treatments, and the calculations of [redemption](../r/redemption.md) values are paramount for effectively incorporating these bonds into a diversified portfolio.
 
-For official details and further reading, visit the [U.S. Department of the Treasury's savings bond website](https://www.treasurydirect.gov).
+For official details and further reading, visit the U.S. Department of the Treasury's

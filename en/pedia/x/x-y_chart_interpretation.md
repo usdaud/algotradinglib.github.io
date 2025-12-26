@@ -1,10 +1,10 @@
 # X-Y Chart Interpretation
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), [data visualization](../d/data_visualization.md) is crucial for making informed decisions. One of the most fundamental tools in this process is the X-Y chart, commonly known as the scatter plot. This chart helps traders visualize relationships between two variables, identifying trends, correlations, and outliers that might not be immediately apparent from raw data alone. 
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), [data visualization](../d/data_visualization.md) is crucial for making informed decisions. One of the most fundamental tools in this process is the X-Y chart, commonly known as the scatter plot. This chart helps traders visualize relationships between two variables, identifying trends, correlations, and outliers that might not be immediately apparent from raw data alone.
 
 ## Basics of X-Y Charts
 
-An X-Y chart plots data points on a two-dimensional graph, where the x-axis (horizontal) represents one variable and the y-axis (vertical) represents another. Each point on this graph represents a pair of values, one from each variable. 
+An X-Y chart plots data points on a two-dimensional graph, where the x-axis (horizontal) represents one variable and the y-axis (vertical) represents another. Each point on this graph represents a pair of values, one from each variable.
 
 ### Components of an X-Y Chart
 
@@ -76,19 +76,19 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) a
 
 ### Plotly
 
-Plotly is an interactive graphing library that supports various chart types, including [X-Y charts](../x/x-y_charts.md). It’s widely used for [data visualization](../d/data_visualization.md) in trading due to its versatility and ease of integration with Python. [Learn more about Plotly](https://plotly.com/).
+Plotly is an interactive graphing library that supports various chart types, including [X-Y charts](../x/x-y_charts.md). It’s widely used for [data visualization](../d/data_visualization.md) in trading due to its versatility and ease of integration with Python. Learn more about Plotly.
 
 ### Matplotlib
 
-Matplotlib is a plotting library for Python and its numerical mathematics extension NumPy. It provides a solid foundation for creating static, animated, and interactive visualizations, including scatter plots. [Learn more about Matplotlib](https://matplotlib.org/).
+Matplotlib is a plotting library for Python and its numerical mathematics extension NumPy. It provides a solid foundation for creating static, animated, and interactive visualizations, including scatter plots. Learn more about Matplotlib.
 
 ### Tableau
 
-Tableau is a powerful [data visualization](../d/data_visualization.md) tool that can create a wide array of interactive and shareable dashboards, including [X-Y charts](../x/x-y_charts.md). It's particularly useful for non-programmers due to its user-friendly interface. [Learn more about Tableau](https://www.tableau.com/).
+Tableau is a powerful [data visualization](../d/data_visualization.md) tool that can create a wide array of interactive and shareable dashboards, including [X-Y charts](../x/x-y_charts.md). It's particularly useful for non-programmers due to its user-friendly interface. Learn more about Tableau.
 
 ### Excel
 
-Microsoft Excel remains a highly accessible tool for creating [X-Y charts](../x/x-y_charts.md). While it's not as advanced as specialized software, Excel is user-friendly and adequate for basic [data visualization](../d/data_visualization.md) needs. [Learn more about Excel](https://www.microsoft.com/en-us/microsoft-365/excel).
+Microsoft Excel remains a highly accessible tool for creating [X-Y charts](../x/x-y_charts.md). While it's not as advanced as specialized software, Excel is user-friendly and adequate for basic [data visualization](../d/data_visualization.md) needs. Learn more about Excel.
 
 ## Conclusion
 

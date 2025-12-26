@@ -35,4 +35,3 @@
 
 ## Conclusion
 The original [face value](../f/face_value.md) is a fundamental concept in [mortgage](../m/mortgage.md)-backed securities, representing the initial [principal](../p/principal.md) amount of the pooled loans at issuance. It plays a critical role in [valuation](../v/valuation.md), [investment analysis](../i/investment_analysis.md), and understanding the [payment](../p/payment.md) structure of MBS. By understanding the key components, importance, and [best practices](../b/best_practices.md) associated with original [face value](../f/face_value.md), investors can make informed decisions and effectively manage their investments in [mortgage](../m/mortgage.md)-backed securities.
-

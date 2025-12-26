@@ -53,7 +53,7 @@ Historical analysis of [market](../m/market.md) downturns, such as the 2008 [fin
 
 Several trading firms and [hedge](../h/hedge.md) funds integrate J-[pattern recognition](../p/pattern_recognition.md) into their [algorithmic trading](../a/algorithmic_trading.md) frameworks. One prominent example is:
 
-1. **Two Sigma Investments**: [twosigma.com](https://www.twosigma.com) - This [hedge fund](../h/hedge_fund.md) leverages advanced [pattern recognition](../p/pattern_recognition.md) and [machine learning](../m/machine_learning.md) to identify subtle [market](../m/market.md) signals, including J-patterns, to drive trading decisions.
+1. **Two Sigma Investments**: twosigma.com - This [hedge fund](../h/hedge_fund.md) leverages advanced [pattern recognition](../p/pattern_recognition.md) and [machine learning](../m/machine_learning.md) to identify subtle [market](../m/market.md) signals, including J-patterns, to drive trading decisions.
 
 ## Challenges and Considerations
 

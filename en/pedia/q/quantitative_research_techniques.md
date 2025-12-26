@@ -48,7 +48,7 @@ Used to identify intrinsic structures in unlabeled data, aiding in portfolio clu
 - **Deep Q-Networks (DQN):** Integrates [neural networks](../n/neural_networks_in_trading.md) with Q-learning to [handle](../h/handle.md) more complex scenarios.
 - **Policy Gradients:** Used for optimizing continuous action spaces, ideal for real-time trading decisions.
 
-## Data Mining 
+## Data Mining
 
 ### Historical Data Analysis
 Historical [data mining](../d/data_mining.md) is essential for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Techniques involved include:
@@ -127,12 +127,9 @@ Robo-advisors automate financial advice based on quantitative techniques.
 ## Industry Examples
 
 ### Renaissance Technologies
-Renaissance Technologies, led by the enigmatic James Simons, employs mathematicians, physicists, and statisticians to create complex [quantitative models](../q/quantitative_models.md). Visit their site at [https://www.rentec.com/](https://www.rentec.com/).
-
+Renaissance Technologies, led by the enigmatic James Simons, employs mathematicians, physicists, and statisticians to create complex [quantitative models](../q/quantitative_models.md).
 ### Two Sigma
-Known for leveraging both [big data](../b/big_data_in_trading.md) and advanced [quantitative models](../q/quantitative_models.md), Two Sigma combines financial expertise with technological prowess. Learn more at [https://www.twosigma.com/](https://www.twosigma.com/).
-
+Known for leveraging both [big data](../b/big_data_in_trading.md) and advanced [quantitative models](../q/quantitative_models.md), Two Sigma combines financial expertise with technological prowess. Learn more at
 ### Citadel Securities
-Citadel employs cutting-edge quantitative techniques across a broad [range](../r/range.md) of [asset](../a/asset.md) classes. For more information, visit [https://www.citadelsecurities.com/](https://www.citadelsecurities.com/).
-
+Citadel employs cutting-edge quantitative techniques across a broad [range](../r/range.md) of [asset](../a/asset.md) classes. For more information, visit
 [Quantitative research](../q/quantitative_research.md) techniques are the cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) a blend of statistical rigor, computational power, and innovative methodologies to navigate the complex [financial markets](../f/financial_market.md).

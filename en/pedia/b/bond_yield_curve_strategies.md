@@ -7,7 +7,7 @@
 Before delving into specific strategies, it's crucial to understand the [underlying](../u/underlying.md) mechanics of the [yield curve](../y/yield_curve.md) and its implications. Here are the central components:
 1. **Short-term Rates**: These reflect the [yield](../y/yield.md) on bonds with shorter maturities (e.g., 3 months to 2 years). They are highly influenced by central [bank](../b/bank.md) policies.
 2. **Long-term Rates**: These reflect longer [maturity](../m/maturity.md) bonds (e.g., 10 to 30 years) and are significantly affected by [investor](../i/investor.md) expectations regarding future [inflation](../i/inflation.md) and [economic growth](../e/economic_growth.md).
-3. **[Yield Spread](../y/yield_spread.md)**: The difference between yields on bonds of different maturities. Common [spreads](../s/spreads.md) include the 2-year versus [10-year yield](../1/10-year_yield.md) spread. 
+3. **[Yield Spread](../y/yield_spread.md)**: The difference between yields on bonds of different maturities. Common [spreads](../s/spreads.md) include the 2-year versus [10-year yield](../1/10-year_yield.md) spread.
 
 ### Types of Bond Yield Curves
 
@@ -37,7 +37,7 @@ A bullet strategy focuses on [investing](../i/investing.md) in bonds with a simi
 #### 2. Barbell Strategy
 
 **Overview**:
-A [barbell strategy](../b/barbell_strategy.md) involves [investing](../i/investing.md) in short-term and long-term bonds, avoiding intermediate maturities. 
+A [barbell strategy](../b/barbell_strategy.md) involves [investing](../i/investing.md) in short-term and long-term bonds, avoiding intermediate maturities.
 
 **Mechanism**:
 - Allocate 50% of the portfolio in short-term bonds and the other 50% in long-term bonds.
@@ -105,20 +105,16 @@ A butterfly strategy involves a combination of [barbell](../b/barbell.md) and bu
 Several financial institutions and [hedge](../h/hedge.md) funds are renowned for their innovative algotrading [yield curve](../y/yield_curve.md) strategies. While some key players maintain a high level of secrecy regarding their methodologies, several notable entities include:
 
 1. **Renaissance Technologies**:
-   - Website: [Renaissance Technologies](https://www.rentec.com/)
-   - Known for employing advanced [quantitative models](../q/quantitative_models.md) and [machine learning](../m/machine_learning.md) techniques for its Medallion [Fund](../f/fund.md).
+ - Known for employing advanced [quantitative models](../q/quantitative_models.md) and [machine learning](../m/machine_learning.md) techniques for its Medallion [Fund](../f/fund.md).
 
 2. **Two Sigma Investments**:
-   - Website: [Two Sigma](https://www.twosigma.com/)
-   - Utilizes [data science](../d/data_science_in_trading.md) and advanced algorithms to [trade](../t/trade.md) in various [fixed income](../f/fixed_income.md) instruments, including bonds.
+ - Utilizes [data science](../d/data_science_in_trading.md) and advanced algorithms to [trade](../t/trade.md) in various [fixed income](../f/fixed_income.md) instruments, including bonds.
 
 3. **D.E. Shaw & Co.**:
-   - Website: [D.E. Shaw](https://www.deshaw.com/)
-   - Integrates sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computers in [bond](../b/bond.md) [trading strategies](../t/trading_strategies.md).
+ - Integrates sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computers in [bond](../b/bond.md) [trading strategies](../t/trading_strategies.md).
 
 4. **Man AHL**:
-   - Website: [Man AHL](https://www.man.com/ahl)
-   - Implements [machine learning](../m/machine_learning.md) and high-frequency trading for executing [yield curve](../y/yield_curve.md) strategies.
+ - Implements [machine learning](../m/machine_learning.md) and high-frequency trading for executing [yield curve](../y/yield_curve.md) strategies.
 
 ### Case Study: Implementing a Butterfly Strategy with Machine Learning
 

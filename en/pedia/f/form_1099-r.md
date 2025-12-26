@@ -107,4 +107,4 @@ Failing to correctly input the data from Form 1099-R can lead to underreporting 
 
 ## Resources for More Information
 
-Individuals seeking more detailed information on Form 1099-R can refer to the IRS’s official guidelines and publications, such as the [IRS Instructions for Forms 1099-R and 5498](https://www.irs.gov/instructions/i1099r). Professional tax advisors and certified public accountants (CPAs) can also provide personalized [guidance](../g/guidance.md) based on individual circumstances.
+Individuals seeking more detailed information on Form 1099-R can refer to the IRS’s official guidelines and publications, such as the IRS Instructions for Forms 1099-R and 5498. Professional tax advisors and certified public accountants (CPAs) can also provide personalized [guidance](../g/guidance.md) based on individual circumstances.

@@ -54,12 +54,12 @@ If shareholders do not act within the given time frame, the non-renounceable rig
 ### CSL Limited
 CSL Limited, a biopharmaceutical company, conducted a non-renounceable rights [issue](../i/issue.md) to [fund](../f/fund.md) its [acquisition](../a/acquisition.md) of another company. Shareholders were offered one new share for every 14 existing [shares](../s/shares.md) held, providing a [discount](../d/discount.md) to encourage participation.
 
-Link: [CSL Limited](https://www.csl.com/)
+Link: CSL Limited
 
 ### STAR Entertainment Group
 STAR Entertainment Group used a non-renounceable rights [issue](../i/issue.md) to raise [capital](../c/capital.md) following the financial impact of the COVID-19 pandemic. Shareholders were given the opportunity to buy new [shares](../s/shares.md) at a [discount](../d/discount.md), aiming to secure the company’s financial stability.
 
-Link: [STAR Entertainment Group](https://www.starentertainmentgroup.com.au/)
+Link: STAR Entertainment Group
 
 ## Comparison with Other Capital-Raising Methods
 

@@ -4,11 +4,11 @@ Lattice models, also referred to as tree models, are a fundamental tool in [quan
 
 ## Binomial Model
 
-The binomial [options](../o/options.md) pricing model, introduced by John Cox, Stephen Ross, and Mark Rubinstein in 1979, is one of the most commonly used lattice models. It is a discrete-time model for the [valuation](../v/valuation.md) of [options](../o/options.md), presenting a simplified view of the possible paths that the price of the [underlying asset](../u/underlying_asset.md) can take. 
+The binomial [options](../o/options.md) pricing model, introduced by John Cox, Stephen Ross, and Mark Rubinstein in 1979, is one of the most commonly used lattice models. It is a discrete-time model for the [valuation](../v/valuation.md) of [options](../o/options.md), presenting a simplified view of the possible paths that the price of the [underlying asset](../u/underlying_asset.md) can take.
 
 ### Model Construction
 
-In a binomial model, the price of the [underlying asset](../u/underlying_asset.md) can either move up or down by specific factors, `u` (up [factor](../f/factor.md)) and `d` (down [factor](../f/factor.md)), over each discrete time step, `Δt`. The probabilities of these movements are `p` (probability of an upward move) and `(1-p)` (probability of a downward move). 
+In a binomial model, the price of the [underlying asset](../u/underlying_asset.md) can either move up or down by specific factors, `u` (up [factor](../f/factor.md)) and `d` (down [factor](../f/factor.md)), over each discrete time step, `Δt`. The probabilities of these movements are `p` (probability of an upward move) and `(1-p)` (probability of a downward move).
 
 The factors `u` and `d` can be determined based on the [volatility](../v/volatility.md) `σ` and the length of the time step `Δt`:
 
@@ -109,4 +109,4 @@ Several [software platforms](../s/software_platforms_for_trading.md) and tools p
 
 Lattice models, through their adaptability and intuitive structure, have become integral in the field of financial [derivatives](../d/derivatives.md)' pricing. While they come with certain computational limitations, their flexibility in handling various types of [derivatives](../d/derivatives.md) and [market](../m/market.md) conditions continues to make them an invaluable tool in [quantitative finance](../q/quantitative_finance.md).
 
-For more information on [financial modeling](../f/financial_modeling.md) software and tools, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) or [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/refinitiv-eikon).
+For more information on [financial modeling](../f/financial_modeling.md) software and tools, visit Bloomberg Terminal or Thomson Reuters Eikon.

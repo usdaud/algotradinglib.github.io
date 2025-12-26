@@ -72,7 +72,7 @@ For investors looking to [gain](../g/gain.md) exposure to Brent Crude without di
 
 [Investing](../i/investing.md) in companies involved in Brent Crude extraction and [distribution](../d/distribution.md) is another way to [gain](../g/gain.md) exposure. Major players like BP, Royal Dutch Shell, and Equinor are directly linked to North Sea oil production and [offer](../o/offer.md) investment opportunities through their stock.
 
-## Technological Advancements 
+## Technological Advancements
 
 ### Extraction Technology
 
@@ -86,15 +86,15 @@ Technological innovations have significantly improved the [efficiency](../e/effi
 
 ### BP (British Petroleum)
 
-BP is one of the major companies involved in Brent Crude production. Their extensive operations in the North Sea make them a significant player in the [market](../m/market.md). For more information on BP's involvement in North Sea operations, visit their [official website](https://www.bp.com/).
+BP is one of the major companies involved in Brent Crude production. Their extensive operations in the North Sea make them a significant player in the [market](../m/market.md).
 
 ### Royal Dutch Shell
 
-Another key player, Royal Dutch Shell, has a long history in the North Sea and was instrumental in the development of the Brent field. They continue to be a major force in the global energy [market](../m/market.md). Additional details can be found on their [official website](https://www.shell.com/).
+Another key player, Royal Dutch Shell, has a long history in the North Sea and was instrumental in the development of the Brent field. They continue to be a major force in the global energy [market](../m/market.md).
 
 ### Equinor
 
-Formerly known as Statoil, Equinor is a Norwegian energy company heavily involved in North Sea oil production, including fields that contribute to Brent Crude. For further information, visit their [official website](https://www.equinor.com/).
+Formerly known as Statoil, Equinor is a Norwegian energy company heavily involved in North Sea oil production, including fields that contribute to Brent Crude.
 
 ## Challenges and Future Outlook
 

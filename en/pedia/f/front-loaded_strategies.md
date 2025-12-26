@@ -64,16 +64,16 @@ High [market](../m/market.md) [volatility](../v/volatility.md), common during pe
 
 #### High-Frequency Trading (HFT) Firms
 HFT firms like Jane Street and Virtu Financial implement front-loaded strategies to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and [arbitrage](../a/arbitrage.md) opportunities. Their sophisticated algorithms analyze [market](../m/market.md) data in real time to execute trades at optimal moments:
-- [Jane Street](https://www.janestreet.com/)
-- [Virtu Financial](https://www.virtu.com/)
+- Jane Street
+- Virtu Financial
 
 #### Investment Banks
 Major [investment banks](../i/investment_bank_(ib).md) employ front-loaded strategies around [earnings](../e/earnings.md) reports and economic data releases. Banks like Goldman Sachs use [proprietary trading](../p/proprietary_trading.md) desks to execute large trades at the onset of expected [market](../m/market.md)-moving events:
-- [Goldman Sachs](https://www.goldmansachs.com/)
+- Goldman Sachs
 
 #### Hedge Funds
 [Hedge](../h/hedge.md) funds, such as Renaissance Technologies, utilize [quantitative models](../q/quantitative_models.md) and [predictive analytics](../p/predictive_analytics.md) to implement front-loaded strategies. These funds rely on historical data and [market](../m/market.md) simulations to optimize [trade](../t/trade.md) executions around specific events:
-- [Renaissance Technologies](https://www.rentec.com/)
+- Renaissance Technologies
 
 ### Conclusion
 

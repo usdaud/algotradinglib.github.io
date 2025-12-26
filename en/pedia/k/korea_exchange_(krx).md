@@ -66,7 +66,7 @@ KRX offers various investment vehicles, catering to different [investor](../i/in
 
 ## Tech Innovations and Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has become increasingly prevalent on the KRX, with high-frequency trading (HFT) gaining traction due to the deployment of state-of-the-art [trading systems](../t/trading_systems.md) like EXTURE+. Firms engage in various algorithmic strategies including [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), and [trend following](../t/trend_following.md). The [exchange](../e/exchange.md) provides ample [liquidity](../l/liquidity.md) and low-latency [infrastructure](../i/infrastructure.md) to support such activities.
+[Algorithmic trading](../a/algorithmic_trading.md) has become increasingly prevalent on the KRX, with high-frequency trading (HFT) gaining traction due to the deployment of state-of-the-art [trading systems](../t/trading_systems.md) like EXTURE+. Firms engage in various algorithmic strategies including [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md), and [trend following](../t/trend_following.md). The [exchange](../e/exchange.md) provides ample [liquidity](../l/liquidity.md) and low-latency [infrastructure](../i/infrastructure.md) to support such activities.
 
 ### Statistical Data
 As of the recent period, the KOSPI [index](../i/index_instrument.md) encompasses over 800 companies with a collective [market capitalization](../m/market_capitalization.md) exceeding $1.5 trillion USD. The KOSDAQ [market](../m/market.md) supports over 1,200 companies, emphasizing its role in the growth of South Korea’s tech and biotech sectors.
@@ -79,4 +79,4 @@ KRX is committed to promoting Environmental, Social, and Governance (ESG) princi
 
 The Korea [Exchange](../e/exchange.md) (KRX) stands as a pivotal institution in South Korea's financial ecosystem. With its multi-faceted markets, stringent regulations, and technological advancements, KRX provides a [robust](../r/robust.md) platform for both domestic and international investors. As South Korea continues to emerge as a global economic power, the importance of KRX in facilitating [capital](../c/capital.md) flows and [economic growth](../e/economic_growth.md) cannot be overstated.
 
-For more information, you can visit the official website of the Korea [Exchange](../e/exchange.md): [Korea Exchange](https://global.krx.co.kr/main/main.html).
+./e/exchange.md): Korea Exchange.

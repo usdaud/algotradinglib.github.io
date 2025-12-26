@@ -70,9 +70,9 @@ Corporations must establish rigorous compliance programs to prevent illegal [ins
 
 ### Companies Specializing in Insider Trading Analytics
 
-1. **SAS**: Provides advanced analytics solutions for detecting [fraud](../f/fraud.md) and [insider trading](../i/insider.md). Website: [SAS](https://www.sas.com)
-2. **Palantir Technologies**: Utilizes [big data analytics](../b/big_data_analytics_in_trading.md) for tracking and identifying [insider trading](../i/insider.md) activities. Website: [Palantir Technologies](https://www.palantir.com)
-3. **Eventus Systems**: Specializes in [trade](../t/trade.md) surveillance and [risk management](../r/risk_management.md) solutions to detect illicit trading behaviors. Website: [Eventus Systems](https://www.eventussystems.com)
+1. **SAS**: Provides advanced analytics solutions for detecting [fraud](../f/fraud.md) and [insider trading](../i/insider.md). online platform: SAS
+2. **Palantir Technologies**: Utilizes [big data analytics](../b/big_data_analytics_in_trading.md) for tracking and identifying [insider trading](../i/insider.md) activities. online platform: Palantir Technologies
+3. **Eventus Systems**: Specializes in [trade](../t/trade.md) surveillance and [risk management](../r/risk_management.md) solutions to detect illicit trading behaviors. online platform: Eventus Systems
 
 ## Conclusion
 

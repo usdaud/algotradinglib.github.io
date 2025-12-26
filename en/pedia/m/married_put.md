@@ -15,7 +15,7 @@ A [put option](../p/put.md) gives its holder the right, but not the obligation, 
 
 ## How a Married Put Works
 
-To execute a married put, an [investor](../i/investor.md) simultaneously buys [shares](../s/shares.md) of the [underlying asset](../u/underlying_asset.md) and a [put option](../p/put.md) for the same number of [shares](../s/shares.md). This essentially locks in a minimum [sale](../s/sale.md) price for the [shares](../s/shares.md), [offering](../o/offering.md) downside protection. The cost of the [put option](../p/put.md), referred to as the [premium](../p/premium.md), is the price paid for this protection. 
+To execute a married put, an [investor](../i/investor.md) simultaneously buys [shares](../s/shares.md) of the [underlying asset](../u/underlying_asset.md) and a [put option](../p/put.md) for the same number of [shares](../s/shares.md). This essentially locks in a minimum [sale](../s/sale.md) price for the [shares](../s/shares.md), [offering](../o/offering.md) downside protection. The cost of the [put option](../p/put.md), referred to as the [premium](../p/premium.md), is the price paid for this protection.
 
 ### Example
 Suppose an [investor](../i/investor.md) buys 100 [shares](../s/shares.md) of Company XYZ at $50 per share and simultaneously purchases an [put option](../p/put.md) for those 100 [shares](../s/shares.md) with a [strike price](../s/strike_price.md) of $50, costing $2 per share in premiums:
@@ -76,13 +76,13 @@ Retail investors can use married puts to safeguard individual stock positions, e
 Several trading platforms and tools for [options](../o/options.md) trading can assist investors in executing and managing married put strategies:
 
 ### 1. TD Ameritrade's thinkorswim
-TD [Ameritrade](../a/ameritrade.md)’s thinkorswim platform offers advanced [options](../o/options.md) trading capabilities, including tools for setting up and managing married put strategies. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+TD [Ameritrade](../a/ameritrade.md)’s thinkorswim platform offers advanced [options](../o/options.md) trading capabilities, including tools for setting up and managing married put strategies. TD Ameritrade
 
 ### 2. E*TRADE
-[E*TRADE](../e/e_trade.md) provides [robust](../r/robust.md) [options](../o/options.md) trading tools and educational resources to help investors understand and implement advanced strategies like married puts. [E*TRADE](https://us.etrade.com/home)
+[E*TRADE](../e/e_trade.md) provides [robust](../r/robust.md) [options](../o/options.md) trading tools and educational resources to help investors understand and implement advanced strategies like married puts. E*TRADE
 
 ### 3. Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) offers comprehensive trading technology and [options](../o/options.md) analysis tools suitable for professional and retail traders alike. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+[Interactive Brokers](../i/interactive_brokers.md) offers comprehensive trading technology and [options](../o/options.md) analysis tools suitable for professional and retail traders alike. Interactive Brokers
 
 ## Conclusion
 

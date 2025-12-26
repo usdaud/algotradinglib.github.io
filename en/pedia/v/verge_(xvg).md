@@ -72,7 +72,7 @@ For those prioritizing [security](../s/security.md), Verge is supported by [mult
 
 ### Exchange Listings
 
-Verge is [listed](../l/listed.md) on numerous cryptocurrency exchanges, including major platforms such as [Binance](../b/binance.md), Bittrex, and Huobi. Its presence across these exchanges ensures ample [liquidity](../l/liquidity.md) and diverse trading [options](../o/options.md) for investors.
+Verge is [listed](../l/listed.md) on numerous cryptocurrency exchanges, including major platforms such as [Binance](../b/binance.md), Bittrex, and HTX (formerly Huobi). Its presence across these exchanges ensures ample [liquidity](../l/liquidity.md) and diverse trading [options](../o/options.md) for investors.
 
 ### Market Performance
 
@@ -117,6 +117,4 @@ Verge’s approach to partnerships, especially in privacy-sensitive industries, 
 ## Conclusion
 
 Verge (XVG) stands out in the crowded cryptocurrency landscape due to its strong focus on privacy and real-world applicability. With [robust](../r/robust.md) technological underpinnings, active community involvement, and strategic partnerships, Verge is well-positioned to maintain and grow its prominence in years to come. Whether you are an [investor](../i/investor.md), a merchant, or simply an advocate for privacy, Verge offers compelling advantages that make it a remarkable player in the world of digital currencies.
-
-For more information, you can visit the official Verge website: [Verge Currency](https://vergecurrency.com).
 

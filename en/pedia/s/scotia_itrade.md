@@ -5,7 +5,7 @@ Scotia iTRADE is an online brokerage platform provided by Scotiabank, one of Can
 
 ## Features
 1. **Wide [Range](../r/range.md) of Instruments**: Access to [stocks](../s/stock.md), [options](../o/options.md), ETFs, mutual funds, bonds, and GICs.
-2. **Advanced Trading Platforms**: Offers [multiple](../m/multiple.md) trading platforms, including the Scotia iTRADE website, FlightDesk, and mobile apps with advanced charting tools and real-time data.
+2. **Advanced Trading Platforms**: Offers [multiple](../m/multiple.md) trading platforms, including the Scotia iTRADE online platform, FlightDesk, and mobile apps with advanced charting tools and real-time data.
 3. **Research and Analysis**: Comprehensive research reports, [market](../m/market.md) news, and analysis tools to support informed investment decisions.
 4. **Educational Resources**: Extensive educational materials, including webinars, tutorials, articles, and [market](../m/market.md) analysis to help traders improve their skills.
 5. **[Portfolio Management](../p/portfolio_management.md)**: Tools for tracking and managing investment portfolios efficiently.
@@ -16,7 +16,7 @@ Scotia iTRADE is an online brokerage platform provided by Scotiabank, one of Can
 10. **Competitive Pricing**: Low commissions and transparent [fee](../f/fee.md) structures.
 
 ## Key Components
-- **Scotia iTRADE Website**: A comprehensive online platform for managing investments, conducting trades, and accessing research and educational resources.
+- **Scotia iTRADE online platform**: A comprehensive online platform for managing investments, conducting trades, and accessing research and educational resources.
 - **FlightDesk**: An advanced [trading platform](../t/trading_platform.md) designed for active traders, providing [robust](../r/robust.md) charting tools, [technical analysis](../t/technical_analysis.md), and customizable layouts.
 - **Mobile Trading Apps**: Mobile applications for iOS and Android with full trading functionality.
 - **Research and Analysis Tools**: Comprehensive tools for [market research](../m/market_research.md), [stock analysis](../s/stock_analysis.md), and investment insights.
@@ -43,5 +43,3 @@ Scotia iTRADE is regulated by several top-tier financial authorities in Canada, 
 - Investment [Industry](../i/industry.md) Regulatory Organization of Canada (IIROC)
 - Canadian [Investor](../i/investor.md) Protection [Fund](../f/fund.md) (CIPF)
 
-## Website
-For more information and to start trading, visit the official Scotia iTRADE website: [Scotia iTRADE](https://www.scotiabank.com/itrade/en.html)

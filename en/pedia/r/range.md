@@ -12,7 +12,7 @@ Range = High Price - Low Price
 
 For instance, if a stock had a high price of $150 and a low price of $130 during a trading day, its range for that day would be $20.
 
-The range can be applied to different time frames—daily, weekly, monthly, etc.—depending on the analysis being performed. 
+The range can be applied to different time frames—daily, weekly, monthly, etc.—depending on the analysis being performed.
 
 ## Types of Range in Trading
 
@@ -39,16 +39,16 @@ Range bars are a type of chart used in [technical analysis](../t/technical_analy
 ## Uses of Range in Trading
 
 ### Identifying Volatility
-Range is a direct measure of [volatility](../v/volatility.md); higher ranges usually indicate higher [volatility](../v/volatility.md) and vice versa. Traders often look at the range to gauge [market](../m/market.md) conditions. For instance, in highly volatile markets, large daily ranges are common. 
+Range is a direct measure of [volatility](../v/volatility.md); higher ranges usually indicate higher [volatility](../v/volatility.md) and vice versa. Traders often look at the range to gauge [market](../m/market.md) conditions. For instance, in highly volatile markets, large daily ranges are common.
 
 ### Breakout Strategies
 Ranges can help identify potential [breakout](../b/breakout.md) points. If a [security](../s/security.md) has been trading within a narrow range, a [breakout](../b/breakout.md) above or below this range could signal a significant price move. Traders employ this in strategies like the [Bollinger Bands](../b/bollinger_band.md), where price movement beyond the bands indicates a likely [breakout](../b/breakout.md).
 
 ### Range-Bound Trading
-In range-bound markets, securities [trade](../t/trade.md) within a defined upper and lower boundary. Traders use the range to identify [support and resistance](../s/support_and_resistance.md) levels, executing buying and selling decisions accordingly. 
+In range-bound markets, securities [trade](../t/trade.md) within a defined upper and lower boundary. Traders use the range to identify [support and resistance](../s/support_and_resistance.md) levels, executing buying and selling decisions accordingly.
 
 ### Algorithmic Trading
-Ranges are essential in [algorithmic trading](../a/accountability.md) for developing strategies that execute trades based on price movements within specified ranges. Detailed range analysis can help algorithms predict price movements and make timely trades.
+Ranges are essential in [algorithmic trading](../a/algorithmic_trading.md) for developing strategies that execute trades based on price movements within specified ranges. Detailed range analysis can help algorithms predict price movements and make timely trades.
 
 ## Advanced Tools and Indicators
 
@@ -78,13 +78,13 @@ In statistical [arbitrage](../a/arbitrage.md), range can be used as a parameter 
 ## Companies Specializing in Range Analysis Tools
 
 ### Trading Technologies International, Inc.
-Trading Technologies provides advanced trading tools and software that incorporate range analysis features. The company offers platforms for both manual and algorithmic traders. More about their range analysis tools can be found on their official website: [Trading Technologies](https://www.tradingtechnologies.com/).
+Trading Technologies provides advanced trading tools and software that incorporate range analysis features. The company offers platforms for both manual and algorithmic traders. More about their range analysis tools can be found on their public materials: Trading Technologies.
 
 ### MetaStock
-[MetaStock](../m/metastock.md) offers a suite of [technical analysis tools](../t/technical_analysis_tools.md), including those for range analysis such as [Bollinger Bands](../b/bollinger_band.md) and ATR. Their software is widely used by both retail and institutional traders. Visit [MetaStock](https://www.metastock.com/) for more details.
+[MetaStock](../m/metastock.md) offers a suite of [technical analysis tools](../t/technical_analysis_tools.md), including those for range analysis such as [Bollinger Bands](../b/bollinger_band.md) and ATR. Their software is widely used by both retail and institutional traders. Visit MetaStock for more details.
 
 ### NinjaTrader
-[NinjaTrader](../n/ninjatrader.md) provides a comprehensive platform for [futures](../f/futures.md) and forex traders, with a strong focus on range-based [technical analysis](../t/technical_analysis.md). They [offer](../o/offer.md) customizable charting tools that can help traders to analyze ranges effectively. Find out more on their website: [NinjaTrader](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) provides a comprehensive platform for [futures](../f/futures.md) and forex traders, with a strong focus on range-based [technical analysis](../t/technical_analysis.md). They [offer](../o/offer.md) customizable charting tools that can help traders to analyze ranges effectively. Find out more through its online channels: NinjaTrader.
 
 ## Conclusion
 

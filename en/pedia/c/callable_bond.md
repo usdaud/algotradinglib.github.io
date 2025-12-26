@@ -60,8 +60,8 @@ The presence of callable bonds in the financial [market](../m/market.md) adds co
 
 Many major corporations and financial institutions [issue](../i/issue.md) callable bonds to manage their [financing](../f/financing.md) needs. For instance:
 
-- [AT&T Inc.](https://investors.att.com/home) has issued callable bonds to [refinance](../r/refinance.md) existing [debt](../d/debt.md) and take advantage of favorable [interest rate](../i/interest_rate.md) environments.
-- [Apple Inc.](https://investor.apple.com/investor-relations/default.aspx) has utilized callable bonds for flexible financial management and [capital structure](../c/capital_structure.md) [optimization](../o/optimization.md).
+- AT&T Inc. has issued callable bonds to [refinance](../r/refinance.md) existing [debt](../d/debt.md) and take advantage of favorable [interest rate](../i/interest_rate.md) environments.
+- Apple Inc. has utilized callable bonds for flexible financial management and [capital structure](../c/capital_structure.md) [optimization](../o/optimization.md).
 
 ## Conclusion
 

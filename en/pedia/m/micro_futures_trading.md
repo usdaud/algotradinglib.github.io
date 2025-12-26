@@ -36,15 +36,15 @@ Micro [futures](../f/futures.md) [offer](../o/offer.md) greater flexibility in t
 
 ### CME Group
 
-CME Group (https://www.cmegroup.com/) is the leading marketplace for micro [futures contracts](../f/futures_contracts.md). They [offer](../o/offer.md) a diverse array of micro [futures](../f/futures.md) across various [asset](../a/asset.md) classes, including [equity](../e/equity.md) indexes, metals, energy, and agricultural products. CME's Micro [E-mini](../e/e-mini.md) [futures contracts](../f/futures_contracts.md) are among the most popular and [liquid](../l/liquid.md) in the [market](../m/market.md).
+CME Group ( is the leading marketplace for micro [futures contracts](../f/futures_contracts.md). They [offer](../o/offer.md) a diverse array of micro [futures](../f/futures.md) across various [asset](../a/asset.md) classes, including [equity](../e/equity.md) indexes, metals, energy, and agricultural products. CME's Micro [E-mini](../e/e-mini.md) [futures contracts](../f/futures_contracts.md) are among the most popular and [liquid](../l/liquid.md) in the [market](../m/market.md).
 
 ### ICE (Intercontinental Exchange)
 
-ICE (https://www.theice.com/) is another major player [offering](../o/offering.md) micro [futures contracts](../f/futures_contracts.md). They provide trading platforms for a [range](../r/range.md) of commodities, financials, and [equity](../e/equity.md) [index](../i/index_instrument.md) contracts. Their micro contracts are designed to [offer](../o/offer.md) institutional-grade access to retail traders.
+ICE ( is another major player [offering](../o/offering.md) micro [futures contracts](../f/futures_contracts.md). They provide trading platforms for a [range](../r/range.md) of commodities, financials, and [equity](../e/equity.md) [index](../i/index_instrument.md) contracts. Their micro contracts are designed to [offer](../o/offer.md) institutional-grade access to retail traders.
 
 ### Eurex
 
-Eurex (https://www.eurex.com/) is a prominent European [exchange](../e/exchange.md) [offering](../o/offering.md) a [range](../r/range.md) of micro [futures contracts](../f/futures_contracts.md), especially in [equity](../e/equity.md) indexes and [interest](../i/interest.md) rates. They cater to both retail and institutional traders and provide innovative products to suit various [trading strategies](../t/trading_strategies.md).
+Eurex ( is a prominent European [exchange](../e/exchange.md) [offering](../o/offering.md) a [range](../r/range.md) of micro [futures contracts](../f/futures_contracts.md), especially in [equity](../e/equity.md) indexes and [interest](../i/interest.md) rates. They cater to both retail and institutional traders and provide innovative products to suit various [trading strategies](../t/trading_strategies.md).
 
 ## Trading Platforms for Micro Futures
 
@@ -52,15 +52,15 @@ Many online trading platforms cater to retail traders interested in micro [futur
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) provides access to a wide [range](../r/range.md) of [futures](../f/futures.md) markets, including micro [futures contracts](../f/futures_contracts.md). They [offer](../o/offer.md) competitive pricing, advanced trading tools, and extensive research resources.
+[Interactive Brokers](../i/interactive_brokers.md) ( provides access to a wide [range](../r/range.md) of [futures](../f/futures.md) markets, including micro [futures contracts](../f/futures_contracts.md). They [offer](../o/offer.md) competitive pricing, advanced trading tools, and extensive research resources.
 
 ### TD Ameritrade
 
-TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/) offers micro [futures](../f/futures.md) trading through their [thinkorswim](../t/thinkorswim.md) [trading platform](../t/trading_platform.md). They provide educational resources and analytical tools to help traders make informed decisions.
+TD [Ameritrade](../a/ameritrade.md) ( offers micro [futures](../f/futures.md) trading through their [thinkorswim](../t/thinkorswim.md) [trading platform](../t/trading_platform.md). They provide educational resources and analytical tools to help traders make informed decisions.
 
 ### NinjaTrader
 
-[NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/) is a popular platform among active [futures](../f/futures.md) traders, [offering](../o/offering.md) a wide [range](../r/range.md) of features and tools for trading micro [futures](../f/futures.md). They provide a user-friendly interface and customizable charts to enhance trading [efficiency](../e/efficiency.md).
+[NinjaTrader](../n/ninjatrader.md) ( is a popular platform among active [futures](../f/futures.md) traders, [offering](../o/offering.md) a wide [range](../r/range.md) of features and tools for trading micro [futures](../f/futures.md). They provide a user-friendly interface and customizable charts to enhance trading [efficiency](../e/efficiency.md).
 
 ## Conclusion
 

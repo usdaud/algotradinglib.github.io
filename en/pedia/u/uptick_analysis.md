@@ -18,9 +18,9 @@ At the heart of [uptick](../u/uptick.md) analysis lies the concept of the [uptic
 
 Accurate and timely data is essential for effective [uptick](../u/uptick.md) analysis. Several financial data providers [offer](../o/offer.md) real-time and historical [trade](../t/trade.md) data, including:
 
-- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive trading data and analytics tools for [uptick](../u/uptick.md) analysis. Visit [Bloomberg](https://www.bloomberg.com) for more information.
-- **Thomson [Reuters](../r/reuters.md)**: Offers real-time [trade](../t/trade.md) data and analytics products suitable for [uptick](../u/uptick.md) analysis. More details can be found at [Thomson Reuters](https://www.reuters.com).
-- **[NASDAQ](../n/nasdaq.md)**: Provides detailed [market](../m/market.md) data, including [uptick](../u/uptick.md) and downtick information. You can explore their offerings at [NASDAQ](https://www.nasdaq.com).
+- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive trading data and analytics tools for [uptick](../u/uptick.md) analysis. Visit Bloomberg for more information.
+- **Thomson [Reuters](../r/reuters.md)**: Offers real-time [trade](../t/trade.md) data and analytics products suitable for [uptick](../u/uptick.md) analysis. More details can be found at Thomson Reuters.
+- **[NASDAQ](../n/nasdaq.md)**: Provides detailed [market](../m/market.md) data, including [uptick](../u/uptick.md) and downtick information. You can explore their offerings at NASDAQ.
 
 ### Algorithms Utilizing Uptick Analysis
 

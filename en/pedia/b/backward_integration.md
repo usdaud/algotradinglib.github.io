@@ -50,19 +50,19 @@ Backward integration is a form of [vertical integration](../v/vertical_integrati
 
 ### Apple Inc.
 
-Apple Inc., a leader in the technology [industry](../i/industry.md), has strategically adopted backward integration to control its [supply chain](../s/supply_chain.md). The company designs its own chips, such as the [M1](../m/m1.md) and A-series processors, which are integral to its devices. By producing these components [in-house](../i/in-house.md), Apple can optimize performance, enhance [security](../s/security.md), and maintain a competitive edge. More information about Apple's [supply chain](../s/supply_chain.md) strategy can be found on their [official website](https://www.apple.com).
+Apple Inc., a leader in the technology [industry](../i/industry.md), has strategically adopted backward integration to control its [supply chain](../s/supply_chain.md). The company designs its own chips, such as the [M1](../m/m1.md) and A-series processors, which are integral to its devices. By producing these components [in-house](../i/in-house.md), Apple can optimize performance, enhance [security](../s/security.md), and maintain a competitive edge. More information about Apple's [supply chain](../s/supply_chain.md)
 
 ### Tesla, Inc.
 
-Tesla, a prominent electric vehicle manufacturer, has integrated backward by producing critical components such as batteries internally. Tesla's Gigafactories enable the company to produce batteries at scale, reducing costs and ensuring the quality of this critical component. More details about Tesla's [vertical integration](../v/vertical_integration.md) can be found on their [official website](https://www.tesla.com).
+Tesla, a prominent electric vehicle manufacturer, has integrated backward by producing critical components such as batteries internally. Tesla's Gigafactories enable the company to produce batteries at scale, reducing costs and ensuring the quality of this critical component. More details about Tesla's [vertical integration](../v/vertical_integration.md)
 
 ### Amazon.com, Inc.
 
-Amazon has expanded its operations to include a wide [range](../r/range.md) of its own branded products, such as AmazonBasics, which includes items sourced directly from manufacturers. By controlling the [supply chain](../s/supply_chain.md), Amazon can [offer](../o/offer.md) competitive prices and maintain [quality control](../q/quality_control.md). More about Amazon's strategy can be found on their [official website](https://www.amazon.com).
+Amazon has expanded its operations to include a wide [range](../r/range.md) of its own branded products, such as AmazonBasics, which includes items sourced directly from manufacturers. By controlling the [supply chain](../s/supply_chain.md), Amazon can [offer](../o/offer.md) competitive prices and maintain [quality control](../q/quality_control.md). More about Amazon's
 
 ### Netflix, Inc.
 
-Netflix, a leading streaming service, produces a significant amount of original content through its Netflix Studios. By producing its own content, Netflix reduces its dependence on external studios, secures exclusive content for its platform, and appeals to a broader audience. More about Netflix Studios can be explored on their [official website](https://www.netflix.com).
+Netflix, a leading streaming service, produces a significant amount of original content through its Netflix Studios. By producing its own content, Netflix reduces its dependence on external studios, secures exclusive content for its platform, and appeals to a broader
 
 ## Role of Backward Integration in Algorithmic Trading
 

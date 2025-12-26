@@ -103,4 +103,4 @@ The continued evolution of regulatory frameworks, such as Basel IV, [will](../w/
 
 ---
 
-For further reading and tools for managing [credit risk](../c/credit_risk.md), visit [Moody's](https://www.moodys.com/), [Fitch Ratings](https://www.fitchratings.com/), and [Standard & Poor's](https://www.standardandpoors.com/) websites.
+For further reading and tools for managing [credit risk](../c/credit_risk.md), visit Moody's, Fitch Ratings, and Standard & Poor's websites.

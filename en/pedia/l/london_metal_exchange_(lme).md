@@ -140,4 +140,4 @@ As part of HKEX, the LME is increasingly integrated into the global [financial s
 
 In conclusion, the London Metal [Exchange](../e/exchange.md) (LME) stands as a cornerstone of the global metal trading [market](../m/market.md). Its long history, unique trading practices, and commitment to innovation make it an indispensable institution for a wide [range](../r/range.md) of [market](../m/market.md) participants. As it continues to evolve, the LME remains at the forefront of facilitating global [trade](../t/trade.md) and managing [risk](../r/risk.md) in the metal markets.
 
-For more detailed information, you can visit the official LME website: [LME](https://www.lme.com/).
+For more detailed information,

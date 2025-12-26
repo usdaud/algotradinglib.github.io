@@ -33,16 +33,16 @@ News-based trading involves making trades based on news releases or announcement
 ## Tools and Technologies
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to execute trades based on predefined criteria. These algorithms can analyze vast amounts of data at speeds unattainable by humans, making them ideal for intraday [volatility](../v/volatility.md) strategies. Companies like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) provide platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to execute trades based on predefined criteria. These algorithms can analyze vast amounts of data at speeds unattainable by humans, making them ideal for intraday [volatility](../v/volatility.md) strategies. Companies like QuantConnect and AlgoTrader provide platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### High-Frequency Trading (HFT)
-High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing a large number of orders at extremely high speeds. HFT firms use complex algorithms and high-speed data feeds to exploit minute price discrepancies that may only exist for fractions of a second. Firms like [Virtu Financial](https://www.virtu.com/) and [Citadel Securities](https://www.citadelsecurities.com/) are well-known in the HFT space.
+High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing a large number of orders at extremely high speeds. HFT firms use complex algorithms and high-speed data feeds to exploit minute price discrepancies that may only exist for fractions of a second. Firms like Virtu Financial and Citadel Securities are well-known in the HFT space.
 
 ### Trading Platforms
-Trading platforms provide the necessary tools and [infrastructure](../i/infrastructure.md) for executing intraday trades. These platforms often include advanced charting tools, real-time data feeds, and [order](../o/order.md) [execution](../e/execution.md) capabilities. Popular platforms for intraday traders include [MetaTrader](https://www.metatrader4.com/), [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page), and [NinjaTrader](https://ninjatrader.com/).
+Trading platforms provide the necessary tools and [infrastructure](../i/infrastructure.md) for executing intraday trades. These platforms often include advanced charting tools, real-time data feeds, and [order](../o/order.md) [execution](../e/execution.md) capabilities. Popular platforms for intraday traders include MetaTrader, ThinkOrSwim, and NinjaTrader.
 
 ### Data Analytics Tools
-[Data analytics](../d/data_analytics.md) tools help traders analyze [market](../m/market.md) data to identify trading opportunities. These tools can [range](../r/range.md) from simple spreadsheets to complex [machine learning](../m/machine_learning.md) models. Platforms like [Python](https://www.python.org/), [R](https://www.r-project.org/), and [MATLAB](https://www.mathworks.com/products/matlab.html) are commonly used for data analysis in trading.
+[Data analytics](../d/data_analytics.md) tools help traders analyze [market](../m/market.md) data to identify trading opportunities. These tools can [range](../r/range.md) from simple spreadsheets to complex [machine learning](../m/machine_learning.md) models. Platforms like Python, R, and MATLAB are commonly used for data analysis in trading.
 
 ## Risk Management
 
@@ -69,4 +69,3 @@ The [financial markets](../f/financial_market.md) are constantly evolving, and s
 ## Conclusion
 
 Intraday [volatility](../v/volatility.md) strategies [offer](../o/offer.md) traders the opportunity to [profit](../p/profit.md) from the rapid price movements that occur within a single trading day. These strategies require a deep understanding of [technical analysis](../t/technical_analysis.md), [risk management](../r/risk_management.md), and [market](../m/market.md) psychology. With the right tools and disciplined approach, intraday traders can effectively navigate the complexities of the [market](../m/market.md) and achieve consistent profitability.
-

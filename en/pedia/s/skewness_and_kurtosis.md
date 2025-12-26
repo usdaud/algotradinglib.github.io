@@ -26,7 +26,7 @@ where:
 
 ### Implications in Algo Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), [skewness](../s/skewness.md) helps in understanding the [risk](../r/risk.md) and [return](../r/return.md) characteristics of [trading strategies](../t/trading_strategies.md). For instance, a strategy with [positive skewness](../p/positive_skewness.md) tends to have small losses and occasional large gains, while a strategy with [negative skewness](../n/negative_skewness.md) is prone to small gains and occasional significant losses. 
+In [algorithmic trading](../a/algorithmic_trading.md), [skewness](../s/skewness.md) helps in understanding the [risk](../r/risk.md) and [return](../r/return.md) characteristics of [trading strategies](../t/trading_strategies.md). For instance, a strategy with [positive skewness](../p/positive_skewness.md) tends to have small losses and occasional large gains, while a strategy with [negative skewness](../n/negative_skewness.md) is prone to small gains and occasional significant losses.
 
 ### Applications
 
@@ -69,38 +69,38 @@ where:
 ### Quant Firms and Tools
 
 1. **AQR [Capital](../c/capital.md) Management**:
-   AQR employs advanced statistical techniques including [skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md) to assess the [risk](../r/risk.md) and [return](../r/return.md) profiles of their diversified funds. [AQR](https://www.aqr.com)
+ AQR employs advanced statistical techniques including [skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md) to assess the [risk](../r/risk.md) and [return](../r/return.md) profiles of their diversified funds. AQR
 
 2. **Two Sigma**:
-   Quantitative researchers at Two Sigma integrate these statistical measures in their [algorithmic trading](../a/algorithmic_trading.md) models to optimize strategy performance. [Two Sigma](https://www.twosigma.com)
+ Quantitative researchers at Two Sigma integrate these statistical measures in their [algorithmic trading](../a/algorithmic_trading.md) models to optimize strategy performance. Two Sigma
 
 ### Software and Libraries
 
 1. **Python Libraries**:
-   - **SciPy**: Provides functions to calculate [skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md).
-   - **Pandas**: Coupled with `statsmodels`, helps integrate [skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md) calculations into [backtesting](../b/backtesting.md) frameworks.
-   
-   ```python
-   [import](../i/import.md) scipy.stats as stats
-   [import](../i/import.md) pandas as pd
+ - **SciPy**: Provides functions to calculate [skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md).
+ - **Pandas**: Coupled with `statsmodels`, helps integrate [skewness](../s/skewness.md) and [kurtosis](../k/kurtosis.md) calculations into [backtesting](../b/backtesting.md) frameworks.
 
-   data = pd.Series([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
-   [skewness](../s/skewness.md) = stats.skew(data)
-   [kurtosis](../k/kurtosis.md) = stats.[kurtosis](../k/kurtosis.md)(data)
-   
-   print(f"[Skewness](../s/skewness.md): {[skewness](../s/skewness.md)}, [Kurtosis](../k/kurtosis.md): {[kurtosis](../k/kurtosis.md)}")
-   ```
+ ```python
+ [import](../i/import.md) scipy.stats as stats
+ [import](../i/import.md) pandas as pd
+
+ data = pd.Series([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+ [skewness](../s/skewness.md) = stats.skew(data)
+ [kurtosis](../k/kurtosis.md) = stats.[kurtosis](../k/kurtosis.md)(data)
+
+ print(f"[Skewness](../s/skewness.md): {[skewness](../s/skewness.md)}, [Kurtosis](../k/kurtosis.md): {[kurtosis](../k/kurtosis.md)}")
+ ```
 
 2. **MATLAB**:
-   MATLAB offers built-in functions (`[skewness](../s/skewness.md)`, `[kurtosis](../k/kurtosis.md)`) which are particularly useful in [quantitative finance](../q/quantitative_finance.md) research and applications.
+ MATLAB offers built-in functions (`[skewness](../s/skewness.md)`, `[kurtosis](../k/kurtosis.md)`) which are particularly useful in [quantitative finance](../q/quantitative_finance.md) research and applications.
 
-   ```matlab
-   data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-   skewness_val = [skewness](../s/skewness.md)(data);
-   kurtosis_val = [kurtosis](../k/kurtosis.md)(data);
-   
-   fprintf('[Skewness](../s/skewness.md): %f, [Kurtosis](../k/kurtosis.md): %f\n', skewness_val, kurtosis_val);
-   ```
+ ```matlab
+ data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+ skewness_val = [skewness](../s/skewness.md)(data);
+ kurtosis_val = [kurtosis](../k/kurtosis.md)(data);
+
+ fprintf('[Skewness](../s/skewness.md): %f, [Kurtosis](../k/kurtosis.md): %f\n', skewness_val, kurtosis_val);
+ ```
 
 ## Integration in Algo Trading Systems
 

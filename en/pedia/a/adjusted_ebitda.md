@@ -37,11 +37,11 @@ Because Adjusted EBITDA aims to smooth out these anomalies, it tends to provide 
 To implement Adjusted EBITDA in a trading algorithm, consider the following:
 
 1. **Data Collection**: Gather comprehensive financial data, including net [income](../i/income.md), [interest](../i/interest.md), [taxes](../t/taxes.md), [depreciation](../d/depreciation.md), amortization, and any foreseeable adjustments.
-   
+
 2. **Normalization**: Normalize the data to account for seasonal patterns or other cyclic changes.
-   
+
 3. **Statistical Analysis**: Employ statistical methods to identify and filter out non-recurring items. [Machine learning](../m/machine_learning.md) techniques like [anomaly detection](../a/anomaly_detection.md) can also be useful.
-   
+
 4. **[Backtesting](../b/backtesting.md)**: Integrate Adjusted EBITDA into your [trading models](../t/trading_models.md) and backtest them to evaluate performance under various [market](../m/market.md) conditions.
 
 5. **Real-time Updates**: Ensure your algorithm gets real-time updates to Adjusted EBITDA as companies release financial data.
@@ -50,11 +50,11 @@ To implement Adjusted EBITDA in a trading algorithm, consider the following:
 
 Several companies [offer](../o/offer.md) financial services and tools essential for incorporating financial metrics like Adjusted EBITDA into [algorithmic trading](../a/accountability.md):
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides comprehensive financial data and analytical tools that can be crucial in calculating and analyzing Adjusted EBITDA. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides comprehensive financial data and analytical tools that can be crucial in calculating and analyzing Adjusted EBITDA. Bloomberg Terminal
 
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers [financial analysis](../f/financial_analysis.md) tools and data that can be integrated into [trading algorithms](../t/trading_algorithms.md). [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers [financial analysis](../f/financial_analysis.md) tools and data that can be integrated into [trading algorithms](../t/trading_algorithms.md). Thomson Reuters Eikon
 
-- **[FactSet](../f/factset.md)**: Provides [robust](../r/robust.md) [data analytics](../d/data_analytics.md) tools for financial metrics, including Adjusted EBITDA, which can be useful for [algorithmic trading](../a/accountability.md). [FactSet](https://www.factset.com/)
+- **[FactSet](../f/factset.md)**: Provides [robust](../r/robust.md) [data analytics](../d/data_analytics.md) tools for financial metrics, including Adjusted EBITDA, which can be useful for [algorithmic trading](../a/accountability.md). FactSet
 
 ## Example Calculation
 
@@ -85,7 +85,7 @@ Thus, the Adjusted EBITDA for this company is $745,000.
 While Adjusted EBITDA can be a powerful metric, it does have limitations:
 
 1. **Subjectivity**: The adjustments made can be subjective, as management has discretion over what to exclude.
-   
+
 2. **Non-GAAP**: Unlike standard EBITDA, Adjusted EBITDA is not governed by Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP), leading to possible inconsistencies.
 
 3. **Potential for Manipulation**: There's a [risk](../r/risk.md) of manipulation to paint a more favorable financial picture.
@@ -96,6 +96,6 @@ Adjusted EBITDA is a crucial financial metric, particularly for the world of [al
 
 For companies [offering](../o/offering.md) financial data and services crucial for this context, refer to:
 
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- [FactSet](https://www.factset.com/)
+- Bloomberg Terminal
+- Thomson Reuters Eikon
+- FactSet

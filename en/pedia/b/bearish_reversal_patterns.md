@@ -9,27 +9,27 @@ Bearish [reversal patterns](../r/reversal_patterns.md) are critical components o
 **i. [Evening Star](../e/evening_star.md)**
 
 An [Evening Star](../e/evening_star.md) formation consists of three candles:
-  * The first is a long bullish candle.
-  * The second candle is small and can be bullish or bearish, indicating [market](../m/market.md) indecision.
-  * The third candle is a long bearish candle that opens below the second candle's close and closes near or below the first candle's [open](../o/open.md).
+ * The first is a long bullish candle.
+ * The second candle is small and can be bullish or bearish, indicating [market](../m/market.md) indecision.
+ * The third candle is a long bearish candle that opens below the second candle's close and closes near or below the first candle's [open](../o/open.md).
 
 **ii. [Bearish Engulfing Pattern](../b/bearish_engulfing_pattern.md)**
 
 The [Bearish Engulfing pattern](../b/bearish_engulfing_pattern.md) features:
-  * A smaller bullish candle followed by a larger bearish candle.
-  * The bearish candle completely engulfs the body of the smaller bullish candle.
+ * A smaller bullish candle followed by a larger bearish candle.
+ * The bearish candle completely engulfs the body of the smaller bullish candle.
 
 **iii. [Dark Cloud Cover](../d/dark_cloud_cover.md)**
 
 The [Dark Cloud Cover](../d/dark_cloud_cover.md) pattern is characterized by:
-  * A strong bullish candle followed by a bearish candle.
-  * The bearish candle opens above the bullish candle’s high but closes below its midpoint.
+ * A strong bullish candle followed by a bearish candle.
+ * The bearish candle opens above the bullish candle’s high but closes below its midpoint.
 
 **iv. [Shooting Star](../s/shooting_star.md)**
 
 A [Shooting Star](../s/shooting_star.md) forms in an [uptrend](../u/uptrend.md) and consists of:
-  * A small body near the day’s low with a long upper shadow.
-  * Indicates that prices opened, rallied but then pulled back, closing near the [open](../o/open.md).
+ * A small body near the day’s low with a long upper shadow.
+ * Indicates that prices opened, rallied but then pulled back, closing near the [open](../o/open.md).
 
 **2. [Chart Patterns](../c/chart_patterns.md)**
 
@@ -38,22 +38,22 @@ Bearish [reversal](../r/reversal.md) [chart patterns](../c/chart_patterns.md) de
 **i. [Head and Shoulders Pattern](../h/head_and_shoulders_pattern.md)**
 
 The [Head and Shoulders pattern](../h/head_and_shoulders_pattern.md) is one of the most reliable bearish [reversal patterns](../r/reversal_patterns.md):
-  * Composed of three peaks: two shoulders and a higher head.
-  * A [neckline](../n/neckline.md) is drawn connecting the lows of the first shoulder and the head.
-  * A break below the [neckline](../n/neckline.md) confirms the [reversal](../r/reversal.md).
+ * Composed of three peaks: two shoulders and a higher head.
+ * A [neckline](../n/neckline.md) is drawn connecting the lows of the first shoulder and the head.
+ * A break below the [neckline](../n/neckline.md) confirms the [reversal](../r/reversal.md).
 
 **ii. [Double Top](../d/double_top.md) Pattern**
 
 The [Double Top](../d/double_top.md) pattern appears after an extended [uptrend](../u/uptrend.md) and involves:
-  * Two distinct peaks at roughly the same [price level](../p/price_level.md).
-  * A [trough](../t/trough.md) separating these peaks is known as the valley.
-  * A break below the valley confirms the pattern.
+ * Two distinct peaks at roughly the same [price level](../p/price_level.md).
+ * A [trough](../t/trough.md) separating these peaks is known as the valley.
+ * A break below the valley confirms the pattern.
 
 **iii. Rising [Wedge](../w/wedge.md) Pattern**
 
 A Rising [Wedge](../w/wedge.md) pattern can be identified as:
-  * A narrowing channel where the price makes higher highs and higher lows.
-  * The upward movement is unsustainable, leading to a breakdown below the lower [trendline](../t/trendline.md).
+ * A narrowing channel where the price makes higher highs and higher lows.
+ * The upward movement is unsustainable, leading to a breakdown below the lower [trendline](../t/trendline.md).
 
 **3. Indicators and Oscillators**
 
@@ -62,21 +62,21 @@ Bearish [reversal patterns](../r/reversal_patterns.md) can be reinforced with [t
 **i. [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**
 
 The RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md):
-  * Measures the speed and change of price movements.
-  * Values above 70 indicate [overbought](../o/overbought.md) conditions, and values below 30 indicate [oversold](../o/oversold.md).
-  * [Bearish divergence](../b/bearish_divergence.md) occurs when the price forms higher highs, but RSI forms lower highs, hinting at an impending [reversal](../r/reversal.md).
+ * Measures the speed and change of price movements.
+ * Values above 70 indicate [overbought](../o/overbought.md) conditions, and values below 30 indicate [oversold](../o/oversold.md).
+ * [Bearish divergence](../b/bearish_divergence.md) occurs when the price forms higher highs, but RSI forms lower highs, hinting at an impending [reversal](../r/reversal.md).
 
 **ii. Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**
 
 The MACD tracks [trend](../t/trend.md) direction:
-  * Consists of two moving averages (a short-term and a long-term) and a [histogram](../h/histogram.md).
-  * A bearish crossover occurs when the MACD line crosses below the signal line.
+ * Consists of two moving averages (a short-term and a long-term) and a [histogram](../h/histogram.md).
+ * A bearish crossover occurs when the MACD line crosses below the signal line.
 
 **iii. [Stochastic Oscillator](../s/stochastic_oscillator.md)**
 
 The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a specific closing price to a [range](../r/range.md) of prices over a certain period:
-  * Values above 80 indicate [overbought](../o/overbought.md) conditions, while values below 20 indicate [oversold](../o/oversold.md).
-  * A bearish crossover occurs when the %K line drops below the %D line.
+ * Values above 80 indicate [overbought](../o/overbought.md) conditions, while values below 20 indicate [oversold](../o/oversold.md).
+ * A bearish crossover occurs when the %K line drops below the %D line.
 
 **Implementation in [Algorithmic Trading](../a/algorithmic_trading.md)**
 
@@ -97,9 +97,9 @@ Before deployment, [trading algorithms](../t/trading_algorithms.md) undergo rigo
 **IV. [Risk Management](../r/risk_management.md)**
 
 A critical component of algo-trading involves managing [risk](../r/risk.md) through:
-  * Setting stop-loss and take-[profit](../p/profit.md) levels.
-  * Diversifying trades to reduce exposure to any single [asset](../a/asset.md).
-  * Using position-sizing strategies to manage portfolio [risk](../r/risk.md) according to [market](../m/market.md) conditions.
+ * Setting stop-loss and take-[profit](../p/profit.md) levels.
+ * Diversifying trades to reduce exposure to any single [asset](../a/asset.md).
+ * Using position-sizing strategies to manage portfolio [risk](../r/risk.md) according to [market](../m/market.md) conditions.
 
 **V. Automated [Execution](../e/execution.md)**
 
@@ -109,6 +109,6 @@ In conclusion, bearish [reversal patterns](../r/reversal_patterns.md) form the b
 
 For more details on [algorithmic trading](../a/algorithmic_trading.md) platforms and tools, you can explore:
 
-- [Alpaca](https://alpaca.markets/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Kite by Zerodha](https://kite.trade/)
+- Alpaca
+- QuantConnect
+- Kite by Zerodha

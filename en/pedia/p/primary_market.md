@@ -148,7 +148,7 @@ Governments regularly raise funds through primary markets by issuing bonds. For 
 
 ### 1. Digital Primary Markets
 
-The advent of [blockchain](../b/blockchain_in_trading.md) and digital platforms is revolutionizing how securities are issued. Companies like Polymath (https://www.polymath.network) are creating platforms to streamline the issuance of tokenized securities.
+The advent of [blockchain](../b/blockchain_in_trading.md) and digital platforms is revolutionizing how securities are issued. Companies like Polymath ( are creating platforms to streamline the issuance of tokenized securities.
 
 ### 2. Sustainable Financing
 

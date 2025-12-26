@@ -43,7 +43,7 @@ Similar to how [options](../o/options.md) experience **[Theta](../t/theta.md) de
 
 ### Real-World Examples of Vega
 Consider an option on a stock that is currently trading at $100, with an option price of $5 and a Vega of 0.25. If the implied [volatility](../v/volatility.md) of the stock increases by 2%, the new estimated option price would be:
-\[ \text{New Option Price} =  5 + (0.25 \times 2) = 5 + 0.50 = 5.50 \]
+\[ \text{New Option Price} = 5 + (0.25 \times 2) = 5 + 0.50 = 5.50 \]
 
 The ability to predict these changes can provide significant advantages for traders who integrate Vega into their strategies.
 

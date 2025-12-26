@@ -4,7 +4,7 @@ Labor [productivity](../p/productivity.md) is a critical economic metric that me
 
 ## Definition and Importance
 
-Labor [productivity](../p/productivity.md) is defined as the ratio of a measure of output to a measure of labor input. Output is generally measured in terms of Gross Domestic Product (GDP), total [revenue](../r/revenue.md), or any other relevant economic output, while labor input is usually measured in terms of the number of hours worked, the number of employees, or the total labor force. 
+Labor [productivity](../p/productivity.md) is defined as the ratio of a measure of output to a measure of labor input. Output is generally measured in terms of Gross Domestic Product (GDP), total [revenue](../r/revenue.md), or any other relevant economic output, while labor input is usually measured in terms of the number of hours worked, the number of employees, or the total labor force.
 
 The importance of labor [productivity](../p/productivity.md) lies in its direct [correlation](../c/correlation.md) with [economic growth](../e/economic_growth.md), living standards, and [business](../b/business.md) competitiveness. Higher labor [productivity](../p/productivity.md) means that more goods and services are produced for every hour worked, leading to increased incomes, better profitability for businesses, and greater economic prosperity for the society.
 

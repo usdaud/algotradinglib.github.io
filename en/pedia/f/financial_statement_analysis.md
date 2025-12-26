@@ -5,7 +5,7 @@ Financial statement analysis is a process of evaluating the [financial health](.
 ## Key Components
 
 ### Balance Sheet
-The [balance sheet](../b/balance_sheet.md), also known as the statement of financial position, provides a snapshot of a company's assets, liabilities, and shareholders' [equity](../e/equity.md) at a specific point in time. It is structured around the [accounting equation](../a/accounting_equation.md): 
+The [balance sheet](../b/balance_sheet.md), also known as the statement of financial position, provides a snapshot of a company's assets, liabilities, and shareholders' [equity](../e/equity.md) at a specific point in time. It is structured around the [accounting equation](../a/accounting_equation.md):
 \[ \text{Assets} = \text{Liabilities} + \text{Shareholders' [Equity](../e/equity.md)} \]
 - **Assets:** Resources owned by the company (e.g., cash, inventories, property).
 - **Liabilities:** [Obligations](../o/obligation.md) owed to outsiders (e.g., loans, accounts payable).

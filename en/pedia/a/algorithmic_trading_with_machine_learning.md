@@ -1,4 +1,4 @@
-# Algorithmic Trading With Matchine Learning
+# Algorithmic Trading With Machine Learning
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, leverages computer algorithms to automatically make trading decisions and execute orders based on predefined criteria. Over the last decade, [machine learning](../m/machine_learning.md) (ML) has significantly enhanced the capabilities of [algorithmic trading](../a/algorithmic_trading.md) by allowing systems to continuously learn from data and improve their performance. This document explores the intersection between [algorithmic trading](../a/algorithmic_trading.md) and [machine learning](../m/machine_learning.md), providing a detailed examination of various elements involved.
 
@@ -80,13 +80,13 @@ Once validated, the model can be deployed to make real-time trading decisions. C
 Several [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and financial institutions [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Renaissance Technologies
-Renaissance Technologies, founded by Jim Simons, is a quant-based [hedge fund](../h/hedge_fund.md) known for its use of [mathematical models](../m/mathematical_models_in_trading.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md). Their flagship Medallion [Fund](../f/fund.md) has delivered stellar returns over the years (https://www.rentec.com/).
+Renaissance Technologies, founded by Jim Simons, is a quant-based [hedge fund](../h/hedge_fund.md) known for its use of [mathematical models](../m/mathematical_models_in_trading.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md). Their flagship Medallion [Fund](../f/fund.md) has delivered stellar returns over the years (
 
 ### Two Sigma
-Two Sigma, another quant-driven [hedge fund](../h/hedge_fund.md), employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to identify trading opportunities (https://www.twosigma.com/).
+Two Sigma, another quant-driven [hedge fund](../h/hedge_fund.md), employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to identify trading opportunities (
 
 ### Goldman Sachs
-Goldman Sachs incorporates [machine learning](../m/machine_learning.md) in its automated [trading strategies](../t/trading_strategies.md) to optimize [portfolio management](../p/portfolio_management.md) and enhance trading [efficiency](../e/efficiency.md) (https://www.goldmansachs.com/).
+Goldman Sachs incorporates [machine learning](../m/machine_learning.md) in its automated [trading strategies](../t/trading_strategies.md) to optimize [portfolio management](../p/portfolio_management.md) and enhance trading [efficiency](../e/efficiency.md) (
 
 ## Challenges and Future Directions
 

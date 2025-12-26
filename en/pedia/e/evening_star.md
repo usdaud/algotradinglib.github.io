@@ -60,11 +60,11 @@ Implementation of the Evening Star pattern in [algorithmic trading](../a/account
 
 1. **Data Collection:** Gather historical price data for the relevant securities.
 2. **[Pattern Recognition](../p/pattern_recognition.md) Algorithm:**
-   - Implement functions to identify the [candlestick](../c/candlestick.md) pattern based on predefined criteria.
-   - Use gap detection methods to ensure the second [candlestick](../c/candlestick.md) [gaps](../g/gap.md) up from the first.
+ - Implement functions to identify the [candlestick](../c/candlestick.md) pattern based on predefined criteria.
+ - Use gap detection methods to ensure the second [candlestick](../c/candlestick.md) [gaps](../g/gap.md) up from the first.
 3. **[Trade](../t/trade.md) [Execution](../e/execution.md):**
-   - Integrate a trading engine to execute buy or sell orders when the pattern is detected.
-   - Implement safety checks and conditions for confirmation, such as verifying [volume](../v/volume.md) increases or RSI thresholds.
+ - Integrate a trading engine to execute buy or sell orders when the pattern is detected.
+ - Implement safety checks and conditions for confirmation, such as verifying [volume](../v/volume.md) increases or RSI thresholds.
 4. **[Risk Management](../r/risk_management.md):** Embed [risk management](../r/risk_management.md) strategies like stop-loss and take-[profit](../p/profit.md) [order](../o/order.md) placements within the algorithm.
 
 ### Algorithm Example
@@ -104,9 +104,9 @@ if pattern_index != -1:
 ### Using Financial Market Data Providers
 
 For a real-world implementation, it’s essential to fetch accurate and timely [market](../m/market.md) data. Some commercial providers include:
-- **[Alpha Vantage](https://www.alphavantage.co/):** Offers free and [premium](../p/premium.md) [options](../o/options.md) for stock price data, forex, and cryptocurrencies.
-- **[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/):** Provides comprehensive data and analytics for professional traders.
-- **[IEX Cloud](https://iexcloud.io/):** A modern platform providing financial [market](../m/market.md) data APIs with a focus on affordability and comprehensiveness.
+- **Alpha Vantage:** Offers free and [premium](../p/premium.md) [options](../o/options.md) for stock price data, forex, and cryptocurrencies.
+- **Bloomberg Terminal:** Provides comprehensive data and analytics for professional traders.
+- **IEX Cloud:** A modern platform providing financial [market](../m/market.md) data APIs with a focus on affordability and comprehensiveness.
 
 Integrating these data sources can ensure algorithms receive precise information required to make trading decisions based on the Evening Star pattern and other analytical tools.
 

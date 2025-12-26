@@ -17,17 +17,17 @@ Ceteris Paribus is essential for [backtesting](../b/backtesting.md) [trading mod
 Understanding how changes in one parameter affect [risk](../r/risk.md) can help in developing more resilient [trading strategies](../t/trading_strategies.md). For example, by analyzing the effect of [leverage](../l/leverage.md) on portfolio [volatility](../v/volatility.md) while keeping other factors constant, one can gauge optimal [leverage](../l/leverage.md) levels.
 
 ### Parameter Tuning
-[Trading algorithms](../t/trading_algorithms.md) often have numerous parameters that can be adjusted, such as the length of moving averages or the sensitivity of a stop-loss trigger. Ceteris Paribus helps in optimizing these parameters. For instance, while keeping [market](../m/market.md) conditions constant, one might adjust the length of a moving average to see how it impacts the algorithm's returns. 
+[Trading algorithms](../t/trading_algorithms.md) often have numerous parameters that can be adjusted, such as the length of moving averages or the sensitivity of a stop-loss trigger. Ceteris Paribus helps in optimizing these parameters. For instance, while keeping [market](../m/market.md) conditions constant, one might adjust the length of a moving average to see how it impacts the algorithm's returns.
 
 ## Practical Case Studies
 
 ### High-Frequency Trading (HFT)
 HFT firms like Virtu Financial [leverage](../l/leverage.md) Ceteris Paribus in their algorithmic models. By controlling for various micro-[market](../m/market.md) conditions, they can isolate the effects of latency, [order book depth](../o/order_book_depth.md), and price movement to optimize their [trading strategies](../t/trading_strategies.md).
-* [Virtu Financial](https://www.virtu.com/)
+* Virtu Financial
 
 ### Quantitative Hedge Funds
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies, use Ceteris Paribus in their model development and validation processes. By holding macroeconomic factors constant, they can precisely measure the impact of specific [trading signals](../t/trading_signals.md) on [portfolio performance](../p/portfolio_performance.md).
-* [Renaissance Technologies](https://www.rentec.com/)
+* Renaissance Technologies
 
 ## Challenges and Limitations
 
@@ -44,7 +44,7 @@ One way to apply the ceteris paribus principle is through [sensitivity analysis]
 
 ### Monte Carlo Simulations
 Monte Carlo simulations are another tool for applying Ceteris Paribus. By running thousands of simulations with controlled variables, traders can better understand the probabilistic outcomes of their strategies under varying conditions.
-* [Introduction to Monte Carlo Simulation](https://www.investopedia.com/terms/m/montecarlosimulation.asp)
+* Introduction to Monte Carlo Simulation
 
 ## Conclusion
 Ceteris Paribus is a powerful analytical tool in [algorithmic trading](../a/accountability.md), enabling traders to isolate and understand the effects of individual variables. Although challenges like non-stationary data and high dimensionality exist, advanced techniques such as [sensitivity analysis](../s/sensitivity_analysis.md) and Monte Carlo simulations can overcome these hurdles. By doing so, traders can develop more [robust](../r/robust.md), effective [trading algorithms](../t/trading_algorithms.md) capable of navigating the complexities of [financial markets](../f/financial_market.md).

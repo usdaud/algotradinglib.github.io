@@ -1,13 +1,13 @@
 # Good This Week (GTW)
 
 ## Introduction
-"Good This Week" (GTW) is a type of [order](../o/order.md) used in [financial markets](../f/financial_market.md) and is integral to the world of [algorithmic trading](../a/accountability.md). It is particularly relevant for traders who wish to maintain an [order](../o/order.md) for a specific instrument over a week’s trading period. Understanding the mechanics and applications of GTW orders is essential for both algorithmic and manual traders to optimize their [trading strategies](../t/trading_strategies.md) and achieve their financial goals.
+"Good This Week" (GTW) is a type of [order](../o/order.md) used in [financial markets](../f/financial_market.md) and is integral to the world of [algorithmic trading](../a/algorithmic_trading.md). It is particularly relevant for traders who wish to maintain an [order](../o/order.md) for a specific instrument over a week’s trading period. Understanding the mechanics and applications of GTW orders is essential for both algorithmic and manual traders to optimize their [trading strategies](../t/trading_strategies.md) and achieve their financial goals.
 
 ## Definition of Good This Week (GTW)
 A "Good This Week" [order](../o/order.md) is a time-in-force designation that tells the trading system to keep the [order](../o/order.md) [open](../o/open.md) until the end of the trading week. Unlike a "Good Till Cancelled" (GTC) [order](../o/order.md), which remains active until the [trader](../t/trader.md) cancels it manually, or a "Day" [order](../o/order.md), which expires at the end of the trading day, a GTW [order](../o/order.md) [will](../w/will.md) persist until the end of the week.
 
 ## Significance in Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) involves the use of algorithms to automate trading actions based on predefined criteria. The persistence of an [order](../o/order.md) can significantly influence the trading logic, and the GTW [order](../o/order.md) is particularly advantageous for algorithms designed to react to weekly [market cycles](../m/market_cycles.md).
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of algorithms to automate trading actions based on predefined criteria. The persistence of an [order](../o/order.md) can significantly influence the trading logic, and the GTW [order](../o/order.md) is particularly advantageous for algorithms designed to react to weekly [market cycles](../m/market_cycles.md).
 
 1. **[Risk Management](../r/risk_management.md)**: GTW orders help in managing risks by limiting the [duration](../d/duration.md) an [order](../o/order.md) is active in the [market](../m/market.md). This can prevent the [order](../o/order.md) from being filled at undesirable prices due to [market](../m/market.md) changes over a more extended period.
 2. **Strategic Planning**: Weekly strategies, often based on statistical analysis or patterns observable over [multiple](../m/multiple.md) days, benefit from GTW orders. The ability to place an [order](../o/order.md) with a week-long [duration](../d/duration.md) fits well with algorithms designed to exploit such patterns.
@@ -31,13 +31,13 @@ Instruments with low [liquidity](../l/liquidity.md) may require longer to fill a
 Many trading platforms support GTW as a time-in-force option. Here are some examples:
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) provides support for GTW orders among its various [order types](../o/order_types_in_trading.md). Users can specify GTW as the time-in-force when placing orders, utilizing the platform's [robust](../r/robust.md) [order management](../o/order_management_in_trading.md) system to ensure compliance with the [order](../o/order.md) [duration](../d/duration.md).
+[Interactive Brokers](../i/interactive_brokers.md) ( provides support for GTW orders among its various [order types](../o/order_types_in_trading.md). Users can specify GTW as the time-in-force when placing orders, utilizing the platform's [robust](../r/robust.md) [order management](../o/order_management_in_trading.md) system to ensure compliance with the [order](../o/order.md) [duration](../d/duration.md).
 
 ### TD Ameritrade
-TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com) also offers GTW orders, allowing users to place orders that are effective for the entire trading week. This feature is accessible through both their web and mobile trading applications.
+TD [Ameritrade](../a/ameritrade.md) ( also offers GTW orders, allowing users to place orders that are effective for the entire trading week. This feature is accessible through both their web and mobile trading applications.
 
 ### Fidelity Investments
-[Fidelity Investments](../f/fidelity_investments.md) (https://www.fidelity.com) supports GTW orders across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including [stocks](../s/stock.md), [options](../o/options.md), and mutual funds. Their platform provides detailed [order management](../o/order_management_in_trading.md) tools to track and modify GTW orders as needed.
+[Fidelity Investments](../f/fidelity_investments.md) ( supports GTW orders across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including [stocks](../s/stock.md), [options](../o/options.md), and mutual funds. Their platform provides detailed [order management](../o/order_management_in_trading.md) tools to track and modify GTW orders as needed.
 
 ## Advantages and Disadvantages
 

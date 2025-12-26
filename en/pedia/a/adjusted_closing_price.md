@@ -22,7 +22,7 @@ The formula for the adjusted closing price is not standardized and can vary by d
 
 \[ \text{Adjusted Closing Price} = \frac{\text{Closing Price}}{\text{Adjustment [Factor](../f/factor.md)}} \]
 
-The adjustment [factor](../f/factor.md) is a combination of historical adjustments for splits and dividends. 
+The adjustment [factor](../f/factor.md) is a combination of historical adjustments for splits and dividends.
 
 ### Example Calculation
 
@@ -32,13 +32,13 @@ Let’s consider a stock that has undergone the following events:
 
 If the closing price before the [dividend](../d/dividend.md) and split was $50, the adjusted closing price would be calculated as follows:
 
-1. **[Reverse Stock Split](../r/reverse_stock_split.md) Adjustment**  
-   A reverse split halves the number of [shares](../s/shares.md), doubling the price:
-   \[ \text{Pre-[Dividend](../d/dividend.md) Split Price} = 50 \times 2 = 100 \]
+1. **[Reverse Stock Split](../r/reverse_stock_split.md) Adjustment**
+ A reverse split halves the number of [shares](../s/shares.md), doubling the price:
+ \[ \text{Pre-[Dividend](../d/dividend.md) Split Price} = 50 \times 2 = 100 \]
 
-2. **[Dividend](../d/dividend.md) Adjustment**  
-   Subtract the [dividend](../d/dividend.md) from the post-split price:
-   \[ \text{Adjusted Price} = 100 - 1 = 99 \]
+2. **[Dividend](../d/dividend.md) Adjustment**
+ Subtract the [dividend](../d/dividend.md) from the post-split price:
+ \[ \text{Adjusted Price} = 100 - 1 = 99 \]
 
 In this simple example, the adjusted closing price accounts for the corporate actions to provide an accurate representation of the stock’s [value](../v/value.md) post-events.
 
@@ -48,21 +48,20 @@ In this simple example, the adjusted closing price accounts for the corporate ac
 
 Several financial data platforms provide adjusted closing prices, including but not limited to:
 
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com)
-- **[Yahoo Finance](../y/yahoo_finance.md)**: [Yahoo Finance](https://finance.yahoo.com)
-- **Google [Finance](../f/finance.md)**: [Google Finance](https://www.google.com/finance)
-- **[NASDAQ](../n/nasdaq.md)**: [NASDAQ](https://www.nasdaq.com)
-- **[Reuters](../r/reuters.md)**: [Reuters](https://www.reuters.com)
-- **[Morningstar](../m/morningstar.md)**: [Morningstar](https://www.morningstar.com)
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Yahoo Finance
+- **Google [Finance](../f/finance.md)**: Google Finance
+- **[NASDAQ](../n/nasdaq.md)**: NASDAQ
+- **[Reuters](../r/reuters.md)**: Reuters
+- **[Morningstar](../m/morningstar.md)**: Morningstar
 
 ### Trading Platforms
 Many online brokerage and trading platforms [offer](../o/offer.md) adjusted closing price data, either as part of their standard data services or through [premium](../p/premium.md) subscriptions. Notable examples include:
 
-- **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://www.etrade.com)
-- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab](https://www.schwab.com)
-- **Fidelity**: [Fidelity](https://www.fidelity.com)
+- **[E*TRADE](../e/e_trade.md)**: E*TRADE
+- **[Charles Schwab](../c/charles_schwab.md)**: Charles Schwab (acquired TD Ameritrade in September 2023)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **Fidelity**: Fidelity
 
 ## Usage in Trading Strategies
 

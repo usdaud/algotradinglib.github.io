@@ -28,7 +28,7 @@ To maintain a NOW account, banks often require a minimum balance to avoid fees. 
 
 The terms and conditions of NOW accounts can vary widely among financial institutions. Some may limit the number of transactions per month without incurring fees, impose monthly maintenance fees if the minimum balance is not maintained, or set other parameters that govern the account's operation.
 
-### Fund Accessibility 
+### Fund Accessibility
 
 Funds in NOW accounts are typically accessible on [demand](../d/demand.md), much like a [checking account](../c/checking_account.md), providing [liquidity](../l/liquidity.md) and convenience for account holders. This means that, unlike certain types of investments or savings products, the depositor can use the funds at their discretion without significant [withdrawal](../w/withdrawal.md) penalties.
 
@@ -94,15 +94,15 @@ Many financial institutions [offer](../o/offer.md) NOW accounts, catering to bot
 
 ### Bank of America
 
-[Bank](../b/bank.md) of America offers various [deposit](../d/deposit.md) products, including NOW accounts. Customers can expect competitive [interest](../i/interest.md) rates, [robust](../r/robust.md) [online banking](../o/online_banking.md) services, and comprehensive financial products to [complement](../c/complement.md) their [deposit](../d/deposit.md) accounts. More information can be found [here](https://www.bankofamerica.com/).
+[Bank](../b/bank.md) of America offers various [deposit](../d/deposit.md) products, including NOW accounts. Customers can expect competitive [interest](../i/interest.md) rates, [robust](../r/robust.md) [online banking](../o/online_banking.md) services, and comprehensive financial products to [complement](../c/complement.md) their [deposit](../d/deposit.md) accounts. More information can be found here.
 
 ### Wells Fargo
 
-Wells Fargo provides NOW accounts as a part of its suite of [deposit](../d/deposit.md) [options](../o/options.md). Wells Fargo focuses on delivering user-friendly online and [mobile banking](../m/mobile_banking.md) experiences, along with strong [customer service](../c/customer_service.md) support. More details are available [here](https://www.wellsfargo.com/).
+Wells Fargo provides NOW accounts as a part of its suite of [deposit](../d/deposit.md) [options](../o/options.md). Wells Fargo focuses on delivering user-friendly online and [mobile banking](../m/mobile_banking.md) experiences, along with strong [customer service](../c/customer_service.md) support. More details are available here.
 
 ### JPMorgan Chase
 
-JPMorgan Chase offers NOW accounts to its customers, highlighting attractive features such as mobile deposits, real-time alerts, and comprehensive financial services. For further information, visit [here](https://www.jpmorganchase.com/).
+JPMorgan Chase offers NOW accounts to its customers, highlighting attractive features such as mobile deposits, real-time alerts, and comprehensive financial services. For further information, visit here.
 
 ## Conclusion
 

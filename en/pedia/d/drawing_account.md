@@ -15,8 +15,8 @@ For example, if a [sole proprietorship](../s/sole_proprietorship.md) has an over
 The process of handling a drawing account involves several steps:
 
 1. **Initial Recording**: When an owner withdraws [money](../m/money.md) from the [business](../b/business.md), it is recorded in the drawing account. This entry debits the drawing account and credits the cash account.
-   
-2. **Periodic Summary**: Periodically, such as at the end of the fiscal year, the total amount in the drawing account is summed up. 
+
+2. **Periodic Summary**: Periodically, such as at the end of the fiscal year, the total amount in the drawing account is summed up.
 
 3. **Owner's [Equity](../e/equity.md) Impact**: The total draw amount is then subtracted from the owner's [equity](../e/equity.md) or [capital account](../c/capital_account.md). This action ensures that the [equity](../e/equity.md) reported in the [balance sheet](../b/balance_sheet.md) accurately reflects the real scenario.
 
@@ -45,11 +45,11 @@ Date    Account                         [Debit](../d/debit.md)($)     [Credit](.
 Maintaining an accurate drawing account balances several crucial aspects of [business](../b/business.md) management:
 
 1. **Financial Accuracy**: Ensures personal withdrawals are correctly documented and do not distort the company's [financial performance](../f/financial_performance.md).
-   
+
 2. **Tax Compliance**: Helps to maintain accurate records for tax purposes by clearly separating [business](../b/business.md) expenses from personal expenses.
-   
+
 3. **Owner's [Equity](../e/equity.md) Tracking**: Monitors the owner’s [equity](../e/equity.md) accurately, reflecting true participation in [business](../b/business.md) funding.
-   
+
 4. **[Transparency](../t/transparency.md) and Accountability**: Ensures clear documentation which aids in audits and clarifies any ambiguity regarding [fund](../f/fund.md) usage.
 
 ### Distinction from Salaries
@@ -62,13 +62,13 @@ Drawing accounts have specific tax implications. The amount withdrawn from a dra
 
 ### IRS Guidelines
 
-In the U.S., the Internal [Revenue](../r/revenue.md) Service (IRS) requires that proper records of drawing accounts be maintained to verify the draws against the [income](../i/income.md) reported on Schedule C (for sole proprietors) or Schedule K-1 (for partnerships). 
+In the U.S., the Internal [Revenue](../r/revenue.md) Service (IRS) requires that proper records of drawing accounts be maintained to verify the draws against the [income](../i/income.md) reported on Schedule C (for sole proprietors) or Schedule K-1 (for partnerships).
 
 ## Differences in Business Structures
 
 ### Sole Proprietorships
 
-In a [sole proprietorship](../s/sole_proprietorship.md), the drawing account is straightforward since there is only one owner. All personal withdrawals for the owner’s use are recorded in a single drawing account. 
+In a [sole proprietorship](../s/sole_proprietorship.md), the drawing account is straightforward since there is only one owner. All personal withdrawals for the owner’s use are recorded in a single drawing account.
 
 ### Partnerships
 
@@ -92,11 +92,11 @@ Modern [accounting](../a/accounting.md) software typically offers features to ma
 ## Best Practices
 
 1. **Regular Monitoring**: Frequently review the drawing account to ensure all transactions are correctly recorded.
-   
+
 2. **Clear Policies**: Establish clear guidelines on the process and limits of withdrawals.
-   
+
 3. **Separate Accounts**: Maintain separate personal and [business](../b/business.md) [bank](../b/bank.md) accounts to avoid confusion.
-   
+
 4. **Documentation**: Keep thorough documentation for each [withdrawal](../w/withdrawal.md) to support auditing processes.
 
 ## Conclusion

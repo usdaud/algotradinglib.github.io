@@ -42,7 +42,7 @@ While RET is a powerful framework, it is not without its criticisms:
 ## Rational Expectations in Modern Research and Practice
 
 ### 1. Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), RET is integral to the design of [trading algorithms](../t/trading_algorithms.md) that predict future price movements based on current information. These algorithms use large datasets, [machine learning](../m/machine_learning.md), and statistical models to form "rational expectations" about future [market](../m/market.md) behavior.
+In [algorithmic trading](../a/algorithmic_trading.md), RET is integral to the design of [trading algorithms](../t/trading_algorithms.md) that predict future price movements based on current information. These algorithms use large datasets, [machine learning](../m/machine_learning.md), and statistical models to form "rational expectations" about future [market](../m/market.md) behavior.
 
 ### 2. Fintech Applications
 Fintech companies [leverage](../l/leverage.md) RET in various ways, from designing robo-advisors that optimize investment portfolios to developing [credit](../c/credit.md) scoring models that predict borrower behavior. Rational expectations are embedded in the algorithms and processes that drive these technologies.
@@ -57,11 +57,11 @@ Macroeconomic models incorporating rational expectations are used extensively in
 
 Rational [Expectations Theory](../e/expectations_theory.md) remains a cornerstone of modern economic theory and practice. Its implications for [market efficiency](../m/market_efficiency.md), policy effectiveness, and [financial modeling](../f/financial_modeling.md) are profound, driving both theoretical advancements and practical applications. Despite its criticisms, RET's emphasis on [optimization](../o/optimization.md) and information use continues to shape how economists and financial professionals understand and interact with complex economic systems.
 
-To further explore Rational [Expectations Theory](../e/expectations_theory.md) and its applications, one may study works by major proponents like Robert Lucas and Thomas Sargent, or delve into contemporary research on [algorithmic trading](../a/accountability.md) and fintech that draws on principles of rational expectations.
+To further explore Rational [Expectations Theory](../e/expectations_theory.md) and its applications, one may study works by major proponents like Robert Lucas and Thomas Sargent, or delve into contemporary research on [algorithmic trading](../a/algorithmic_trading.md) and fintech that draws on principles of rational expectations.
 
 For additional information on Rational [Expectations Theory](../e/expectations_theory.md) and its applications, readers can visit resources from leading economic journals and financial institutions:
-- [Robert E. Lucas Jr.](https://www.nobelprize.org/prizes/economic-sciences/1995/lucas/auto-biography/)
-- [Thomas Sargent](https://www.nobelprize.org/prizes/economic-sciences/2011/sargent/auto-biography/)
-- [FinTech Research](https://www.fintechweekly.com/)
+- Robert E. Lucas Jr.
+- Thomas Sargent
+- FinTech Research
 
 In summary, Rational [Expectations Theory](../e/expectations_theory.md) offers a rigorous framework for understanding decision-making in [economics](../e/economics.md) and [finance](../f/finance.md), driving both academic inquiry and practical innovation.

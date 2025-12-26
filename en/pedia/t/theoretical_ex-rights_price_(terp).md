@@ -47,7 +47,7 @@ So, the Theoretical Ex-Rights Price (TERP) in this scenario would be $96.67 per 
 Understanding TERP is crucial for several reasons:
 
 1. **[Valuation](../v/valuation.md) and Investment Decisions**: For existing shareholders, TERP offers insight into how much their [shares](../s/shares.md) might be worth after the rights [issue](../i/issue.md). This helps in making informed decisions on whether to [exercise](../e/exercise.md) their rights or sell them on the [market](../m/market.md).
-   
+
 2. **[Market](../m/market.md) Perception**: The TERP provides a [baseline](../b/baseline.md) against which investors can compare the actual post-rights [market price](../m/market_price.md), [offering](../o/offering.md) a gauge of [market sentiment](../m/market_sentiment.md) regarding the rights [issue](../i/issue.md).
 
 3. **Pricing [Guidance](../g/guidance.md)**: For new and potential investors, TERP helps assess whether the current [market price](../m/market_price.md) post-rights [issue](../i/issue.md) represents a good [value](../v/value.md) or if it is over- or under-valued compared to the theoretical price.
@@ -100,6 +100,6 @@ The regulatory environment surrounding rights issues also plays a role in how TE
 
 ## Conclusion
 
-The Theoretical Ex-Rights Price (TERP) is an essential concept in [corporate finance](../c/corporate_finance.md), [offering](../o/offering.md) valuable insights into the expected trading price of a company's [shares](../s/shares.md) following a rights [issue](../i/issue.md). By understanding TERP, investors can make more informed decisions about participating in rights issues, assessing the impact on their investment, and strategizing their trades. For companies, TERP serves as a critical metric in evaluating the potential success and impact of their [capital](../c/capital.md)-raising efforts. 
+The Theoretical Ex-Rights Price (TERP) is an essential concept in [corporate finance](../c/corporate_finance.md), [offering](../o/offering.md) valuable insights into the expected trading price of a company's [shares](../s/shares.md) following a rights [issue](../i/issue.md). By understanding TERP, investors can make more informed decisions about participating in rights issues, assessing the impact on their investment, and strategizing their trades. For companies, TERP serves as a critical metric in evaluating the potential success and impact of their [capital](../c/capital.md)-raising efforts.
 
 Overall, TERP plays a vital role in the dynamic interplay of corporate actions, [market](../m/market.md) perception, and [investor](../i/investor.md) strategy, making it a cornerstone concept in the [financial markets](../f/financial_market.md).

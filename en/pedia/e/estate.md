@@ -44,4 +44,3 @@ An **Estate** refers to the total property, assets, and liabilities left by an i
 
 ## Conclusion
 An estate encompasses all the assets and liabilities left by an individual upon their death. Effective [estate planning](../e/estate_planning.md), including wills, trusts, and other legal documents, is essential to ensure the proper [distribution](../d/distribution.md) of assets and to minimize legal and financial complications. Understanding the components and processes involved in managing an estate is crucial for ensuring that the deceased’s wishes are honored and that beneficiaries receive their intended inheritances.
-

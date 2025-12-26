@@ -27,13 +27,13 @@ To mitigate [transaction](../t/transaction.md) exposure, companies can use vario
 1. **Natural Hedging**: Matching cash inflows and outflows in the same [currency](../c/currency.md). For example, if a company has foreign [currency](../c/currency.md) revenues, it can also incur expenses in the same [currency](../c/currency.md) to balance the exposure.
 
 2. **Financial Hedging**: Using financial instruments to [hedge](../h/hedge.md) against [currency](../c/currency.md) [risk](../r/risk.md):
-   - **[Forward Contracts](../f/forward_contracts.md)**: Agreements to [exchange](../e/exchange.md) a specific amount of [currency](../c/currency.md) at a predetermined rate on a future date.
-   - **[Currency](../c/currency.md) [Options](../o/options.md)**: Provide the right, but not the obligation, to [exchange](../e/exchange.md) [currency](../c/currency.md) at a specified rate before a certain date.
-   - **[Currency](../c/currency.md) Swaps**: Agreements to [exchange](../e/exchange.md) [principal](../p/principal.md) and [interest](../i/interest.md) payments in different currencies.
+ - **[Forward Contracts](../f/forward_contracts.md)**: Agreements to [exchange](../e/exchange.md) a specific amount of [currency](../c/currency.md) at a predetermined rate on a future date.
+ - **[Currency](../c/currency.md) [Options](../o/options.md)**: Provide the right, but not the obligation, to [exchange](../e/exchange.md) [currency](../c/currency.md) at a specified rate before a certain date.
+ - **[Currency](../c/currency.md) Swaps**: Agreements to [exchange](../e/exchange.md) [principal](../p/principal.md) and [interest](../i/interest.md) payments in different currencies.
 
 3. **Operational Strategies**: Adjusting [business](../b/business.md) operations to manage exposure:
-   - **Invoicing in [Home](../h/home.md) [Currency](../c/currency.md)**: Requiring foreign customers or suppliers to transact in the company's [home](../h/home.md) [currency](../c/currency.md).
-   - **Diversifying Markets and Suppliers**: Reducing reliance on any single foreign [market](../m/market.md) or supplier.
+ - **Invoicing in [Home](../h/home.md) [Currency](../c/currency.md)**: Requiring foreign customers or suppliers to transact in the company's [home](../h/home.md) [currency](../c/currency.md).
+ - **Diversifying Markets and Suppliers**: Reducing reliance on any single foreign [market](../m/market.md) or supplier.
 
 ### Example of Transaction Exposure Management
 
@@ -48,4 +48,4 @@ Consider a [multinational corporation](../m/multinational_corporation.md) (MNC) 
 ## Conclusion
 [Transaction](../t/transaction.md) exposure is a significant [risk](../r/risk.md) [factor](../f/factor.md) for companies engaged in international [trade](../t/trade.md) and investment. Effectively managing this exposure is crucial for maintaining predictable cash flows and profitability. By employing strategies such as natural hedging, financial hedging, and operational adjustments, companies can mitigate the adverse impacts of [exchange rate](../e/exchange_rate.md) fluctuations and ensure financial stability in their global operations.
 
-For more detailed information on how companies [handle](../h/handle.md) [transaction](../t/transaction.md) exposure, you can visit Apple's [investor relations](../i/investor_relations.md) page [here](https://investor.apple.com/).
+For more detailed information on how companies [handle](../h/handle.md) [transaction](../t/transaction.md) exposure, consult company filings.

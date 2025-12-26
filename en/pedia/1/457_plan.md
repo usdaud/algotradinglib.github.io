@@ -78,9 +78,9 @@ Various financial institutions and companies provide 457 plan administration ser
 
 ### Example Providers:
 
-- **TIAA:** [tiaa.org](https://www.tiaa.org)
-- **Nationwide:** [nationwide.com](https://www.nationwide.com)
-- **Voya Financial:** [voya.com](https://www.voya.com)
+- **TIAA:** tiaa.org
+- **Nationwide:** nationwide.com
+- **Voya Financial:** voya.com
 
 ## Conclusion
 

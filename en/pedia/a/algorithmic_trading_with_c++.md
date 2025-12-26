@@ -182,13 +182,13 @@ double calculatePositionSize(double accountSize, double riskPerTradePercent, dou
 ### Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) offers a [robust](../r/robust.md) API allowing developers to implement custom [trading algorithms](../t/trading_algorithms.md) in C++. The API supports [multiple](../m/multiple.md) programming languages including C++.
 
-- [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
+- Interactive Brokers API
 
 ### FIX Protocol
 The Financial Information [eXchange](../e/exchange.md) (FIX) protocol is a set of standard messages for communication between financial institutions. Many [algorithmic trading](../a/algorithmic_trading.md) systems use FIX for [order](../o/order.md) submissions and [market](../m/market.md) data feeds.
 
-- [FIX Trading Community](https://www.fixtrading.org/)
+- FIX Trading Community
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) with C++ combines the performance, [efficiency](../e/efficiency.md), and control of low-level programming with the methodological rigor required for developing, testing, and deploying sophisticated [trading strategies](../t/trading_strategies.md). The language's extensive libraries, high speed, and low latency make it ideally suited for the demands of modern [financial markets](../f/financial_market.md), where microseconds can determine the difference between [profit](../p/profit.md) and loss. Proper implementation requires a deep understanding of both the financial domain and the technical intricacies of C++ programming. By adhering to sound design principles and [risk management](../r/risk_management.md) strategies, traders and developers can build powerful, reliable systems for the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md) with C++ combines the performance, [efficiency](../e/efficiency.md), and control of low-level programming with the methodological rigor required for developing, testing, and deploying sophisticated [trading strategies](../t/trading_strategies.md). The language's extensive libraries, high speed, and low latency make it ideally suited for the demands of modern [financial markets](../f/financial_market.md), where microseconds can determine the difference between [profit](../p/profit.md) and loss. Proper implementation requires a deep understanding of both the financial domain and the technical intricacies of C++ programming. By adhering to sound design principles and [risk management](../r/risk_management.md) strategies, traders and developers can build powerful, reliable systems for the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md).

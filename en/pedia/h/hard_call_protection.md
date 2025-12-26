@@ -4,7 +4,7 @@
 
 ## Understanding Hard Call Protection
 
-Hard call protection, also known as an absolute or lockout protection period, is a set period during which a [callable bond](../c/callable_bond.md) cannot be called by the [issuer](../i/issuer.md). This period is typically specified in the [bond](../b/bond.md)’s [indenture](../i/indenture.md) and offers a certain level of [security](../s/security.md) to bondholders by guaranteeing that they [will](../w/will.md) receive [interest](../i/interest.md) payments for a minimum period. 
+Hard call protection, also known as an absolute or lockout protection period, is a set period during which a [callable bond](../c/callable_bond.md) cannot be called by the [issuer](../i/issuer.md). This period is typically specified in the [bond](../b/bond.md)’s [indenture](../i/indenture.md) and offers a certain level of [security](../s/security.md) to bondholders by guaranteeing that they [will](../w/will.md) receive [interest](../i/interest.md) payments for a minimum period.
 
 During the hard call protection period, the [bond](../b/bond.md) cannot be redeemed regardless of [interest rate](../i/interest_rate.md) movements or other [market](../m/market.md) conditions. This protection is crucial for bondholders, particularly in a declining [interest rate](../i/interest_rate.md) environment. Without such protection, bondholders face the [risk](../r/risk.md) of [reinvestment](../r/reinvestment.md) at lower [interest](../i/interest.md) rates if the [bond](../b/bond.md) is called early.
 
@@ -95,9 +95,9 @@ Hard call protection trends can be influenced by broader [market](../m/market.md
 
 Many companies and municipalities include hard call protection in their [bond](../b/bond.md) offerings. Examples include:
 
-- **Apple Inc.**: Known for issuing corporate bonds with attractive terms. More details can be found on their [Investor Relations page](https://investor.apple.com/investor-relations/default.aspx).
-- **General Electric**: Another prominent [issuer](../i/issuer.md) in the [corporate bond](../c/corporate_bond.md) [market](../m/market.md). Details can be explored on the [General Electric Investor Relations page](https://www.ge.com/investor-relations).
-- **City of New York [Municipal Bonds](../m/municipal_bonds.md)**: Often come with hard call protection features. Information can be accessed through the [New York City Municipal Water Finance Authority](https://www1.nyc.gov/site/nyw/investor/investor-information.page).
+- **Apple Inc.**: Known for issuing corporate bonds with attractive terms.
+- **General Electric**: Another prominent [issuer](../i/issuer.md) in the [corporate bond](../c/corporate_bond.md) [market](../m/market.md). Details can be explored on the General Electric company filings.
+- **City of New York [Municipal Bonds](../m/municipal_bonds.md)**: Often come with hard call protection features. Information can be accessed through the New York City Municipal Water Finance Authority.
 
 ## Conclusion
 

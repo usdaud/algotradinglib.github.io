@@ -13,7 +13,7 @@ Essentially, [kurtosis](../k/kurtosis.md) provides insight into the shape of the
 ## Types of Kurtosis
 
 1. **Mesokurtic ([Kurtosis](../k/kurtosis.md) = 3, Excess [Kurtosis](../k/kurtosis.md) = 0)**: This is the [kurtosis](../k/kurtosis.md) of a [normal distribution](../n/normal_distribution_in_trading.md) and indicates that the data have moderate tail heaviness.
-  
+
 2. **Leptokurtic ([Kurtosis](../k/kurtosis.md) > 3, Excess [Kurtosis](../k/kurtosis.md) > 0)**: Distributions with leptokurtic characteristics have fat tails, meaning they have a higher probability of extreme values. This is common in financial returns, where extreme [market](../m/market.md) movements are not unusual.
 
 3. **[Platykurtic](../p/platykurtic.md) ([Kurtosis](../k/kurtosis.md) < 3, Excess [Kurtosis](../k/kurtosis.md) < 0)**: These distributions are characterized by thin tails, signifying that extreme values are less likely than in a [normal distribution](../n/normal_distribution_in_trading.md).
@@ -24,7 +24,7 @@ Essentially, [kurtosis](../k/kurtosis.md) provides insight into the shape of the
 
 ### Risk Management
 
-Understanding [kurtosis](../k/kurtosis.md) is vital for effective [risk management](../r/risk_management.md). Financial analysts and portfolio managers use [kurtosis](../k/kurtosis.md) to adjust their strategies for [risk](../r/risk.md) mitigation. High [kurtosis](../k/kurtosis.md) in portfolio returns signals the need for strategies that can protect against extreme [market](../m/market.md) movements, such as [diversification](../d/diversification.md), [options](../o/options.md), and other hedging techniques. 
+Understanding [kurtosis](../k/kurtosis.md) is vital for effective [risk management](../r/risk_management.md). Financial analysts and portfolio managers use [kurtosis](../k/kurtosis.md) to adjust their strategies for [risk](../r/risk.md) mitigation. High [kurtosis](../k/kurtosis.md) in portfolio returns signals the need for strategies that can protect against extreme [market](../m/market.md) movements, such as [diversification](../d/diversification.md), [options](../o/options.md), and other hedging techniques.
 
 ### Performance Evaluation
 
@@ -64,7 +64,7 @@ Institutional investors like pension funds and endowments also consider [kurtosi
 
 ### Example: Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/), a well-known [hedge fund](../h/hedge_fund.md), utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) to predict [market](../m/market.md) movements and manage risks. [Kurtosis](../k/kurtosis.md) and other higher-[order](../o/order.md) [statistics](../s/statistics.md) form a crucial part of their [quantitative models](../q/quantitative_models.md), allowing the [fund](../f/fund.md) to maintain superior [risk](../r/risk.md)-adjusted returns.
+Renaissance Technologies, a well-known [hedge fund](../h/hedge_fund.md), utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) to predict [market](../m/market.md) movements and manage risks. [Kurtosis](../k/kurtosis.md) and other higher-[order](../o/order.md) [statistics](../s/statistics.md) form a crucial part of their [quantitative models](../q/quantitative_models.md), allowing the [fund](../f/fund.md) to maintain superior [risk](../r/risk.md)-adjusted returns.
 
 ## Challenges and Limitations
 

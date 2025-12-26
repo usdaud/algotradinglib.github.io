@@ -36,7 +36,7 @@ Unlike [market](../m/market.md) orders that are executed immediately at the curr
 ### Real-World Examples
 
 1. **Institutional Trading**: Large institutions often use GTD orders as part of their [trading strategies](../t/trading_strategies.md) to optimize timing around [earnings](../e/earnings.md) reports or economic announcements. For example, a [hedge fund](../h/hedge_fund.md) might place a GTD [order](../o/order.md) to buy a certain stock before a pre-defined [earnings announcement](../e/earnings_announcement.md) date, expecting the stock to rise.
-2. **Retail Trading Platforms**: Retail trading platforms like [E*TRADE](https://us.etrade.com/), [Interactive Brokers](https://www.interactivebrokers.com/), and [Robinhood](https://robinhood.com/) [offer](../o/offer.md) GTD [order](../o/order.md) functionalities to help individual traders manage their [trading strategies](../t/trading_strategies.md) more effectively.
+2. **Retail Trading Platforms**: Retail trading platforms like E*TRADE, Interactive Brokers, and Robinhood [offer](../o/offer.md) GTD [order](../o/order.md) functionalities to help individual traders manage their [trading strategies](../t/trading_strategies.md) more effectively.
 
 ### Implementation in Trading Algorithms
 

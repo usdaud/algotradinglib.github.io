@@ -88,4 +88,4 @@ Usual, Customary, and Reasonable (UCR) fees are a cornerstone of the healthcare 
 
 By understanding the principles and methodologies behind UCR fees, all stakeholders can navigate the complexities of medical billing and [insurance](../i/insurance.md) more effectively. As the healthcare [industry](../i/industry.md) continues to evolve, ongoing efforts to enhance [transparency](../t/transparency.md), standardization, and consumer empowerment [will](../w/will.md) play a crucial role in shaping the future of UCR fees and healthcare [reimbursement](../r/reimbursement.md).
 
-For further reading and resources, you may visit the websites of major [health insurance](../h/health_insurance.md) providers such as [UnitedHealthcare](https://www.uhc.com/) and [Aetna](https://www.aetna.com/), which often provide detailed information on their methodologies and policies regarding UCR fees.
+For further reading and resources, you may visit the websites of major [health insurance](../h/health_insurance.md) providers such as UnitedHealthcare and Aetna, which often provide detailed information on their methodologies and policies regarding UCR fees.

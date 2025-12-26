@@ -42,13 +42,13 @@
 
 Numerous tools and platforms facilitate [volatility analysis](../v/volatility_analysis.md) for traders and analysts. Some notable ones include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics on [market](../m/market.md) [volatility](../v/volatility.md) indicators, including historical and implied [volatility](../v/volatility.md) charts. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics on [market](../m/market.md) [volatility](../v/volatility.md) indicators, including historical and implied [volatility](../v/volatility.md) charts. Bloomberg
 
-- **[TradingView](../t/tradingview.md)**: Provides interactive charts and [technical indicators](../t/technical_indicators.md), allowing traders to customize [volatility](../v/volatility.md) studies. [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: Provides interactive charts and [technical indicators](../t/technical_indicators.md), allowing traders to customize [volatility](../v/volatility.md) studies. TradingView
 
-- **Eikon by Refinitiv**: Delivers real-time data and advanced analytics for [volatility analysis](../v/volatility_analysis.md), catering to both [buy-side](../b/buy-side.md) and [sell-side](../s/sell-side.md) professionals. [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **Eikon by Refinitiv**: Delivers real-time data and advanced analytics for [volatility analysis](../v/volatility_analysis.md), catering to both [buy-side](../b/buy-side.md) and [sell-side](../s/sell-side.md) professionals. Refinitiv
 
-- **[QuantConnect](../q/quantconnect.md)**: This [algorithmic trading](../a/algorithmic_trading.md) platform supports [backtesting](../b/backtesting.md) and live trading, [offering](../o/offering.md) tools to incorporate [volatility](../v/volatility.md) metrics into [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: This [algorithmic trading](../a/algorithmic_trading.md) platform supports [backtesting](../b/backtesting.md) and live trading, [offering](../o/offering.md) tools to incorporate [volatility](../v/volatility.md) metrics into [trading strategies](../t/trading_strategies.md). QuantConnect
 
 ### Case Studies and Industry Insights
 
@@ -60,8 +60,8 @@ Numerous tools and platforms facilitate [volatility analysis](../v/volatility_an
 
 For further insights and resources, explore:
 
-- [Cboe Global Markets](https://www.cboe.com/)
-- [Options Clearing Corporation (OCC)](https://www.theocc.com/)
-- [University of Oxford - Mathematical and Computational Finance](https://www.maths.ox.ac.uk/research/mathematical-and-computational-finance)
+- Cboe Global Markets
+- Options Clearing Corporation (OCC)
+- University of Oxford - Mathematical and Computational Finance
 
 In conclusion, [market](../m/market.md) [volatility analysis](../v/volatility_analysis.md) is a multifaceted field essential for informed trading, comprehensive [risk management](../r/risk_management.md), and strategic [financial planning](../f/financial_planning.md). By leveraging various models, metrics, and tools, [market](../m/market.md) participants can navigate the complexities of [volatility](../v/volatility.md) to optimize their decision-making processes.

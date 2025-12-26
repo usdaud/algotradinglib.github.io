@@ -76,16 +76,16 @@ MNCs are some of the most significant players in direct investment. Companies li
 
 [Private equity](../p/private_equity.md) firms also play a crucial role in direct investment. These firms raise funds from institutional investors and high-net-worth individuals to invest in foreign companies and [infrastructure](../i/infrastructure.md) projects. Firms like Blackstone and KKR are prominent examples.
 
-- [Blackstone](https://www.blackstone.com)
-- [KKR](https://www.kkr.com)
+- Blackstone
+- KKR
 
 ### Sovereign Wealth Funds (SWFs)
 
 SWFs are state-owned investment funds typically derived from a country's reserves. These funds invest in foreign assets to achieve long-term financial returns. SWFs from countries like Norway (Government Pension [Fund](../f/fund.md) Global), the UAE (Abu Dhabi Investment Authority), and China (China Investment [Corporation](../c/corporation.md)) are active in direct investments.
 
-- [Government Pension Fund Global](https://www.nbim.no)
-- [Abu Dhabi Investment Authority](https://www.adia.ae)
-- [China Investment Corporation](http://www.china-inv.cn)
+- Government Pension Fund Global
+- Abu Dhabi Investment Authority
+- China Investment Corporation
 
 ### Institutional Investors
 
@@ -95,8 +95,8 @@ Institutional investors such as pension funds, [insurance](../i/insurance.md) co
 
 Venture capitalists (VCs) provide funding to high-potential startups and small businesses in foreign markets. They often seek [equity](../e/equity.md) stakes in these companies and play an active role in their growth and development. Firms like Sequoia [Capital](../c/capital.md) and Andreessen Horowitz are notable examples in this space.
 
-- [Sequoia Capital](https://www.sequoiacap.com)
-- [Andreessen Horowitz](https://a16z.com)
+- Sequoia Capital
+- Andreessen Horowitz
 
 ## Challenges and Risks of Direct Investment
 

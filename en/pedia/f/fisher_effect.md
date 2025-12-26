@@ -58,4 +58,3 @@ In emerging markets, the Fisher Effect can be more pronounced due to higher [inf
 
 The Fisher Effect is a fundamental concept in [economics](../e/economics.md) and [finance](../f/finance.md) that describes the relationship between [nominal](../n/nominal.md) [interest](../i/interest.md) rates, real [interest](../i/interest.md) rates, and [inflation](../i/inflation.md). Understanding this relationship is crucial for policymakers, investors, and consumers as they navigate the complex dynamics of [inflation](../i/inflation.md) and [interest](../i/interest.md) rates. By incorporating the Fisher Effect into their decision-making processes, they can achieve better economic outcomes and financial stability.
 
-For more information on the Fisher Effect, you can visit the [Federal Reserve](https://www.federalreserve.gov/) website.

@@ -1,6 +1,6 @@
 # Participation Rate
 
-The participation rate is a critical metric in trading and [finance](../f/finance.md), particularly within the context of [algorithmic trading](../a/accountability.md) and [financial markets](../f/financial_market.md). This comprehensive term refers to the proportion of a particular population that engages in a specific activity—in this case, the trading of securities. This concept finds application in diverse areas, such as [economic indicators](../e/economic_indicators.md), [portfolio management](../p/par.md), and [execution](../e/execution.md) strategies.
+The participation rate is a critical metric in trading and [finance](../f/finance.md), particularly within the context of [algorithmic trading](../a/algorithmic_trading.md) and [financial markets](../f/financial_market.md). This comprehensive term refers to the proportion of a particular population that engages in a specific activity—in this case, the trading of securities. This concept finds application in diverse areas, such as [economic indicators](../e/economic_indicators.md), [portfolio management](../p/par.md), and [execution](../e/execution.md) strategies.
 
 ## What is Participation Rate?
 
@@ -16,7 +16,7 @@ Understanding participation rate is essential for following reasons:
 
 ## Participation Rate in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) often involves pre-defined strategies with [execution algorithms](../e/execution_algorithms.md) that decide how and when to buy or sell assets. Participation rate describes the proportion of daily [market](../m/market.md) [volume](../v/volume.md) at which an algorithm is set to [trade](../t/trade.md).
+[Algorithmic trading](../a/algorithmic_trading.md) often involves pre-defined strategies with [execution algorithms](../e/execution_algorithms.md) that decide how and when to buy or sell assets. Participation rate describes the proportion of daily [market](../m/market.md) [volume](../v/volume.md) at which an algorithm is set to [trade](../t/trade.md).
 
 ### Slicing Algorithms
 
@@ -24,7 +24,7 @@ Understanding participation rate is essential for following reasons:
 
 - **VWAP**: Looks to achieve the average price throughout the day based on [volume](../v/volume.md).
 - **TWAP**: Focuses on achieving an average price over specified time intervals.
-  
+
 Both use a participation rate to determine how aggressive the strategy [will](../w/will.md) be.
 
 ### Factors Influencing Participation Rate
@@ -40,7 +40,7 @@ Both use a participation rate to determine how aggressive the strategy [will](..
 
 ### Case Study: JPMorgan Algorithmic Trading
 
-JPMorgan's [Execution](../e/execution.md) Services offers a comprehensive suite of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including participation-based algorithms designed to improve [execution](../e/execution.md) quality. For more information, visit [JPMorgan Execution Services](https://www.jpmorgan.com/global/electronic-trading/Execution). These services automate [trade](../t/trade.md) [execution](../e/execution.md) while taking into consideration various [market](../m/market.md) conditions and the desired participation rate.
+JPMorgan's [Execution](../e/execution.md) Services offers a comprehensive suite of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including participation-based algorithms designed to improve [execution](../e/execution.md) quality. For more information, visit JPMorgan Execution Services. These services automate [trade](../t/trade.md) [execution](../e/execution.md) while taking into consideration various [market](../m/market.md) conditions and the desired participation rate.
 
 ## Participation Rate in Economic Indicators
 
@@ -54,7 +54,7 @@ Participation rate can also refer to labor force participation—the percentage 
 
 ## Impact on Financial Modeling
 
-Participation rate factors into [financial modeling](../f/financial_modeling.md), particularly for [risk](../r/risk.md) assessments and [liquidity](../l/liquidity.md). 
+Participation rate factors into [financial modeling](../f/financial_modeling.md), particularly for [risk](../r/risk.md) assessments and [liquidity](../l/liquidity.md).
 
 ### Liquidity Risk Models
 

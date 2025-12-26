@@ -64,7 +64,7 @@ Parameter estimation for NIG [distribution](../d/distribution.md) can be perform
 
 ### Maximum Likelihood Estimation (MLE)
 
-MLE is a commonly used method for estimating the parameters of the NIG [distribution](../d/distribution.md). Given a set of observed data points \(x_1, x_2, ..., x_n\), the log-likelihood function is maximized to find the parameter estimates.
+MLE is a commonly used method for estimating the parameters of the NIG [distribution](../d/distribution.md). Given a set of observed data points \(x_1, x_2,..., x_n\), the log-likelihood function is maximized to find the parameter estimates.
 
 ### Method of Moments
 
@@ -137,5 +137,5 @@ Numerous academic papers and research articles have been published that utilize 
 ---
 
 For more information, you may visit the following companies' websites:
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [Morgan Stanley](https://www.morganstanley.com/)
+- Goldman Sachs
+- Morgan Stanley

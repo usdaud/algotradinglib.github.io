@@ -58,12 +58,12 @@ Growth forecasts aid in adjusting the portfolio to achieve the desired balance o
 ### J.P. Morgan
 J.P. Morgan utilizes advanced econometric models and [machine learning](../m/machine_learning.md) techniques to produce in-depth quarterly growth forecasts. These forecasts contribute to [asset management](../a/asset_management.md) strategies and guide investment decisions.
 
-**For more information, visit [J.P. Morgan's Research Portal](https://www.jpmorgan.com/insights/research).**
+**For more information, visit J.P. Morgan's Research Portal.**
 
 ### Bloomberg
 [Bloomberg](../b/bloomberg.md)'s Terminal provides access to a suite of tools that [leverage](../l/leverage.md) various [forecasting](../f/forecasting.md) techniques. These tools help traders and analysts generate and refine their growth projections.
 
-**For more details, explore [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).**
+**For more details, explore Bloomberg Terminal.**
 
 ## Risks and Challenges
 

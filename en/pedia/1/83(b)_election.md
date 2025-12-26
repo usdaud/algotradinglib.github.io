@@ -18,7 +18,7 @@ The fair [market value](../m/market_value.md) (FMV) plays a central role in the 
 2. **Letter Submission**: You must send a letter to the IRS that includes information such as your name, address, [social security](../s/social_security.md) number, and details of the stock [grant](../g/grant.md).
 3. **Employee’s Copy**: A copy of this letter should be provided to the employer.
 4. **Save a Copy**: Always keep a copy for your personal records.
-   
+
 Below is a sample of the information that could be included in the 83(b) election letter:
 
 ```
@@ -74,7 +74,7 @@ Mistakes in filing the election or late submissions can result in missed opportu
 
 ### Technological Tools
 
-Several technological tools and platforms now [offer](../o/offer.md) assistance with filing 83(b) elections. These may include automated filing services, tax calculators, and software to track [equity compensation](../e/equity_compensation.md). Popular platforms like Carta (https://carta.com/) and Shareworks by Morgan Stanley (https://www.shareworks.com/) provide comprehensive [equity](../e/equity.md) management solutions that can facilitate the process.
+Several technological tools and platforms now [offer](../o/offer.md) assistance with filing 83(b) elections. These may include automated filing services, tax calculators, and software to track [equity compensation](../e/equity_compensation.md). Popular platforms like Carta ( and Shareworks by Morgan Stanley ( provide comprehensive [equity](../e/equity.md) management solutions that can facilitate the process.
 
 ### Increasing Awareness
 

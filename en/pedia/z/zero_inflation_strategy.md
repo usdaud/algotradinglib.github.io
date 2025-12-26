@@ -49,8 +49,8 @@ Sophisticated algorithms integrate various [inflation](../i/inflation.md) indica
 2. **Preprocessing**: Clean and preprocess the data to identify trends and anomalies.
 3. **Model Selection**: Implement [machine learning](../m/machine_learning.md) models or statistical methods to predict [inflation](../i/inflation.md) trends.
 4. **Portfolio Adjustment**:
-   - **Buy/Sell Signals**: Generate buy or sell signals for [inflation](../i/inflation.md)-protected assets.
-   - **[Asset](../a/asset.md) Reallocation**: Dynamically adjust the allocation of assets within the portfolio to [hedge](../h/hedge.md) against expected [inflation](../i/inflation.md).
+ - **Buy/Sell Signals**: Generate buy or sell signals for [inflation](../i/inflation.md)-protected assets.
+ - **[Asset](../a/asset.md) Reallocation**: Dynamically adjust the allocation of assets within the portfolio to [hedge](../h/hedge.md) against expected [inflation](../i/inflation.md).
 5. **[Execution](../e/execution.md)**: Utilize high-frequency trading (HFT) systems to execute trades based on generated signals in milliseconds.
 6. **Monitoring and [Risk Management](../r/risk_management.md)**: Continuous monitoring of [portfolio performance](../p/portfolio_performance.md) and [risk metrics](../r/risk_metrics.md).
 
@@ -59,12 +59,10 @@ Sophisticated algorithms integrate various [inflation](../i/inflation.md) indica
 #### JP Morgan's Inflation-Focused ETF
 
 JP Morgan offers an ETF focused on [inflation-protected securities](../i/inflation-protected_securities.md), which uses a blend of TIPS and other similar assets. The algorithm behind this ETF aims to achieve returns that match or exceed the rate of [inflation](../i/inflation.md):
-[JP Morgan ETFs](https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/etf/)
 
 #### BlackRock's Inflation Hedged Funds
 
 BlackRock provides various funds designed to [hedge](../h/hedge.md) against [inflation](../i/inflation.md), focusing on commodities, [real estate](../r/real_estate.md), and [inflation-linked bonds](../i/inflation-linked_bonds.md). These funds implement algorithmic strategies to ensure that returns align with or surpass [inflation](../i/inflation.md) rates:
-[BlackRock Products](https://www.blackrock.com/us/individual/products)
 
 ### Challenges and Considerations
 

@@ -29,7 +29,7 @@ Hedging is an investment designed to reduce the [risk](../r/risk.md) of adverse 
 Quantitative investment management involves using [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make investment decisions. These models attempt to understand [market](../m/market.md) behavior and predict stock price movements. This approach often includes:
 
 **High-Frequency Trading (HFT):**
-A type of [algorithmic trading](../a/accountability.md) characterized by high speeds, high [turnover](../t/turnover.md) rates, and high [order](../o/order.md)-to-[trade](../t/trade.md) ratios. HFT uses sophisticated algorithms to exploit trading inefficiencies that exist for very short durations.
+A type of [algorithmic trading](../a/algorithmic_trading.md) characterized by high speeds, high [turnover](../t/turnover.md) rates, and high [order](../o/order.md)-to-[trade](../t/trade.md) ratios. HFT uses sophisticated algorithms to exploit trading inefficiencies that exist for very short durations.
 
 **[Factor](../f/factor.md)-Based [Investing](../i/investing.md):**
 An [investment strategy](../i/investment_strategy.md) that uses quantifiable characteristics (factors) to explain differences in stock returns. Factors like [market capitalization](../m/market_capitalization.md), [value](../v/value.md) indicators, and [momentum](../m/momentum.md) are commonly used in [quantitative models](../q/quantitative_models.md).
@@ -45,7 +45,7 @@ The [return](../r/return.md) that an [asset](../a/asset.md) achieves over a cert
 The [return](../r/return.md) of an investment compared to the [return](../r/return.md) of a [benchmark](../b/benchmark.md) or [market index](../m/market_index.md). This is often used to gauge [fund manager](../f/fund_manager.md) performance.
 
 **[Risk](../r/risk.md)-Adjusted Returns:**
-Returns that have been adjusted for the [risk](../r/risk.md) taken. Common [risk](../r/risk.md)-adjusted metrics are the [Sharpe ratio](../s/sharpe_ratio.md), [Treynor ratio](../t/treynor_ratio.md), and [alpha](../a/alpha.md).
+Returns that have been adjusted for the [risk](../r/risk.md) taken. Common [risk](../r/risk.md)-adjusted metrics are the [Sharpe ratio](../s/sharpe_ratio.md), [Treynor ratio](../t/treynor_ratio.md), and alpha.
 
 ### Ethical and Responsible Investing
 
@@ -60,27 +60,22 @@ Ethical and responsible investment involves integrating personal values or socie
 ## Major Players in Investment Management
 
 ### BlackRock, Inc.
-[BlackRock Official Site](https://www.blackrock.com)
 BlackRock is one of the largest [asset](../a/asset.md) managers in the world, [offering](../o/offering.md) investment management, [risk management](../r/risk_management.md), and advisory services to institutional and retail clients worldwide. It is renowned for its extensive use of technology and [quantitative models](../q/quantitative_models.md), with its Aladdin platform being a key tool for portfolio and [risk management](../r/risk_management.md).
 
 ### The Vanguard Group
-[Vanguard Official Site](https://www.vanguard.com)
 Vanguard is another titan in the investment management [industry](../i/industry.md), well known for its low-cost mutual funds and ETFs. The company's unique structure, which is owned by its funds, enables it to [return](../r/return.md) profits to investors in the form of reduced fees.
 
 ### Fidelity Investments
-[Fidelity Official Site](https://www.fidelity.com)
 Fidelity is a multinational financial services [corporation](../c/corporation.md) managing a large array of investment funds. It offers a full suite of services including investment management, [retirement planning](../r/retirement_planning.md), and [life insurance](../l/life_insurance.md). Fidelity is also noted for its technology-driven approach to investment.
 
 ### J.P. Morgan Asset Management
-[J.P. Morgan Asset Management Official Site](https://am.jpmorgan.com)
+J.P. Morgan Asset Management public materials
 J.P. Morgan [Asset Management](../a/asset_management.md) is a global leader in investment management dedicated to creating a strategic advantage for institutional and retail investors. It offers a broad [range](../r/range.md) of investment strategies and management teams who use their expertise to drive exceptional long-term results.
 
 ### State Street Global Advisors
-[State Street Global Advisors Official Site](https://www.ssga.com)
 State Street Global Advisors (SSGA) is the investment management division of State Street [Corporation](../c/corporation.md) and is the creator of the world's first ETFs. SSGA offers a fully diversified portfolio, including equities, [fixed income](../f/fixed_income.md), and [alternative investment](../a/alternative_investment.md) strategies.
 
 ### PIMCO
-[PIMCO Official Site](https://www.pimco.com)
 PIMCO is a global investment management [firm](../f/firm.md) focusing on active fixed-[income](../i/income.md) management. It provides a wide [range](../r/range.md) of investment solutions, including mutual funds, ETFs, and separate accounts. PIMCO is notable for its [economic forecasting](../e/economic_forecasting.md) and innovative, [risk](../r/risk.md)-oriented investment approach.
 
 ## Conclusion

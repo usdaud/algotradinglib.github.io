@@ -1,12 +1,12 @@
 # Introducing Broker (IB)
 
-An Introducing [Broker](../b/broker.md) (IB) plays a crucial role in the multi-faceted world of [financial markets](../f/financial_market.md), acting as an intermediary between clients and brokers. This concept, while relatively straightforward on the surface, encompasses numerous facets that are critical for understanding the broader landscape of financial brokerage and trading. 
+An Introducing [Broker](../b/broker.md) (IB) plays a crucial role in the multi-faceted world of [financial markets](../f/financial_market.md), acting as an intermediary between clients and brokers. This concept, while relatively straightforward on the surface, encompasses numerous facets that are critical for understanding the broader landscape of financial brokerage and trading.
 
 An IB is essentially an individual or a company that introduces clients to a brokerage [firm](../f/firm.md) while earning a [commission](../c/commission.md) or [fee](../f/fee.md) for this service. Unlike full-service brokers, IBs do not take orders from clients or [handle](../h/handle.md) client funds. Instead, they focus on advising clients on suitable brokerage firms and [trading strategies](../t/trading_strategies.md), often specializing in areas such as [futures](../f/futures.md), [options](../o/options.md), and forex, as well as equities and other financial instruments.
 
 ## Functions of an Introducing Broker
 
-Introducing Brokers perform a variety of functions that can be broadly categorized into [marketing](../m/marketing.md), client [acquisition](../a/acquisition.md), and client support. 
+Introducing Brokers perform a variety of functions that can be broadly categorized into [marketing](../m/marketing.md), client [acquisition](../a/acquisition.md), and client support.
 
 ### Marketing and Client Acquisition
 
@@ -54,11 +54,11 @@ Many brokerages [offer](../o/offer.md) IB programs to attract more clients throu
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) provides a comprehensive IB program where introducing brokers can earn ongoing monthly commissions. They [offer](../o/offer.md) an easy-to-use platform for IB partners and provide access to a wide [range](../r/range.md) of financial instruments. More information can be found on their website: [Interactive Brokers](https://www.interactivebrokers.com)
+[Interactive Brokers](../i/interactive_brokers.md) provides a comprehensive IB program where introducing brokers can earn ongoing monthly commissions. They [offer](../o/offer.md) an easy-to-use platform for IB partners and provide access to a wide [range](../r/range.md) of financial instruments. Interactive Brokers
 
 ### FXCM
 
-[FXCM](../f/fxcm.md) has a well-established IB program that allows partners to earn commissions based on trading volumes of the clients they introduce. They [offer](../o/offer.md) extensive [marketing](../m/marketing.md) tools and support to help IBs grow their [business](../b/business.md). More details are available at: [FXCM](https://www.fxcm.com)
+[FXCM](../f/fxcm.md) has a well-established IB program that allows partners to earn commissions based on trading volumes of the clients they introduce. They [offer](../o/offer.md) extensive [marketing](../m/marketing.md) tools and support to help IBs grow their [business](../b/business.md). More details are available at: FXCM
 
 Each of these programs typically includes features such as [customer](../c/customer.md) [relationship management](../r/relationship_management.md) (CRM) tools, [marketing](../m/marketing.md) materials, and detailed reporting to help IBs manage their [business](../b/business.md) effectively.
 

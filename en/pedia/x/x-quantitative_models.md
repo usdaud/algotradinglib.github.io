@@ -4,7 +4,7 @@
 
 ## Fundamental Concepts in Quantitative Modelling
 
-[Quantitative models](../q/quantitative_models.md) in [algorithmic trading](../a/algorithmic_trading.md) fundamentally rely on several key pillars: 
+[Quantitative models](../q/quantitative_models.md) in [algorithmic trading](../a/algorithmic_trading.md) fundamentally rely on several key pillars:
 
 1. **Statistical Analysis**: Using historical data to identify patterns and trends.
 2. **Mathematical Techniques**: Employing calculus, linear algebra, and other branches of mathematics to model financial phenomena.
@@ -80,15 +80,15 @@ Model development involves coding the quantitative strategy in a selected progra
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management is a global [investment management](../i/investment_management.md) [firm](../f/firm.md) that utilizes [quantitative models](../q/quantitative_models.md) extensively. They focus on combining traditional [finance](../f/finance.md) theories with large datasets and advanced statistical techniques. For more information, visit their [official site](https://www.aqr.com/).
+AQR [Capital](../c/capital.md) Management is a global [investment management](../i/investment_management.md) [firm](../f/firm.md) that utilizes [quantitative models](../q/quantitative_models.md) extensively. They focus on combining traditional [finance](../f/finance.md) theories with large datasets and advanced statistical techniques.
 
 ### Renaissance Technologies
 
-Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which uses complex, highly sophisticated [quantitative models](../q/quantitative_models.md). The [firm](../f/firm.md)'s approach to trading is noted for its reliance on scientific methods, including advanced mathematics and data analysis. More details are available on their [website](https://www.rentec.com/).
+Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which uses complex, highly sophisticated [quantitative models](../q/quantitative_models.md). The [firm](../f/firm.md)'s approach to trading is noted for its reliance on scientific methods, including advanced mathematics and data analysis. More
 
 ### Two Sigma
 
-Two Sigma is another leader in the field of [quantitative finance](../q/quantitative_finance.md), leveraging diverse datasets and [machine learning](../m/machine_learning.md) techniques to generate [alpha](../a/alpha.md). The [firm](../f/firm.md) emphasizes technological innovation and scientific research in its [trading strategies](../t/trading_strategies.md). For further details, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma is another leader in the field of [quantitative finance](../q/quantitative_finance.md), leveraging diverse datasets and [machine learning](../m/machine_learning.md) techniques to generate [alpha](../a/alpha.md). The [firm](../f/firm.md) emphasizes technological innovation and scientific research in its [trading strategies](../t/trading_strategies.md). For further details, visit Two Sigma.
 
 ## Conclusion
 

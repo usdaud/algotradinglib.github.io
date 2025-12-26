@@ -1,6 +1,6 @@
 # White Paper
 
-A white paper is a document that provides authoritative and in-depth information about a specific [issue](../i/issue.md), product, service, or technology. It is typically used in [marketing](../m/marketing.md) and politics to inform and persuade stakeholders about a particular topic, presenting clear evidence and detailed analysis. In [finance](../f/finance.md), and more specifically in the realms of fintech and [algorithmic trading](../a/accountability.md), white papers serve as crucial tools for conveying complex technical information, [business](../b/business.md) plans, and innovative solutions to potential investors, customers, and partners.
+A white paper is a document that provides authoritative and in-depth information about a specific [issue](../i/issue.md), product, service, or technology. It is typically used in [marketing](../m/marketing.md) and politics to inform and persuade stakeholders about a particular topic, presenting clear evidence and detailed analysis. In [finance](../f/finance.md), and more specifically in the realms of fintech and [algorithmic trading](../a/algorithmic_trading.md), white papers serve as crucial tools for conveying complex technical information, [business](../b/business.md) plans, and innovative solutions to potential investors, customers, and partners.
 
 ## Purpose and Importance
 
@@ -35,29 +35,29 @@ In the fintech [industry](../i/industry.md), white papers are commonly used to d
 
 One of the most famous fintech white papers is the [Bitcoin](../b/bitcoin.md) white paper titled "[Bitcoin](../b/bitcoin.md): A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto. Published in 2008, this white paper outlined the principles and technology behind [Bitcoin](../b/bitcoin.md), a decentralized [digital currency](../d/digital_currency.md).
 
-- [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
+- Bitcoin White Paper
 
 ### Example: Smart Contracts on Ethereum
 
 Another notable white paper in the fintech space is the [Ethereum](../e/ethereum_.md) white paper by [Vitalik Buterin](../v/vitalik_buterin.md). This document explains the concept of [smart contracts](../s/smart_contracts_in_trading.md) and the decentralized [Ethereum](../e/ethereum_.md) platform that supports them.
 
-- [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
+- Ethereum White Paper
 
 ## Algorithmic Trading White Papers
 
-White papers in [algorithmic trading](../a/accountability.md) often discuss [trading strategies](../t/trading_strategies.md), [quantitative models](../q/quantitative_models.md), and the use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve [trading performance](../t/trading_performance.md). These documents aim to provide traders and financial institutions with insights into advanced trading techniques and the technology driving them.
+White papers in [algorithmic trading](../a/algorithmic_trading.md) often discuss [trading strategies](../t/trading_strategies.md), [quantitative models](../q/quantitative_models.md), and the use of [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve [trading performance](../t/trading_performance.md). These documents aim to provide traders and financial institutions with insights into advanced trading techniques and the technology driving them.
 
 ### Example: Quantitative Trading Strategies
 
 A white paper titled "Optimizing [Trading Strategies](../t/trading_strategies.md) using [Machine Learning](../m/machine_learning.md)" by Marcos López de Prado and Gordon Ritter explores how [machine learning](../m/machine_learning.md) can be applied to develop and optimize [quantitative trading](../q/quantitative_trading.md) strategies. It provides a detailed analysis of various algorithms, their implementation, and their impact on [trading performance](../t/trading_performance.md).
 
-- [Optimizing Trading Strategies using Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2727335)
+- Optimizing Trading Strategies using Machine Learning
 
 ### Example: Risk Management in Algorithmic Trading
 
 Another notable example is the white paper "[Risk Management](../r/risk_management.md) for [Automated Trading Systems](../a/automated_trading_systems.md)" by George Pruitt and John R. Hill. This document discusses the [risk management techniques](../r/risk_management_techniques.md) essential for the development and operation of [automated trading systems](../a/automated_trading_systems.md).
 
-- [Risk Management for Automated Trading Systems](https://www.traderslibrary.com/whitepapers)
+- Risk Management for Automated Trading Systems
 
 ## Writing a Successful White Paper
 
@@ -71,4 +71,4 @@ Creating a successful white paper involves several key steps:
 
 ## Conclusion
 
-White papers are essential tools for disseminating complex information and persuading stakeholders in various fields, including [finance](../f/finance.md), fintech, and [algorithmic trading](../a/accountability.md). By providing in-depth analysis, credible evidence, and clear solutions, they help decision-makers understand and adopt new technologies and strategies. As the financial landscape continues to evolve, white papers [will](../w/will.md) remain a vital resource for education, innovation, and informed decision-making.
+White papers are essential tools for disseminating complex information and persuading stakeholders in various fields, including [finance](../f/finance.md), fintech, and [algorithmic trading](../a/algorithmic_trading.md). By providing in-depth analysis, credible evidence, and clear solutions, they help decision-makers understand and adopt new technologies and strategies. As the financial landscape continues to evolve, white papers [will](../w/will.md) remain a vital resource for education, innovation, and informed decision-making.

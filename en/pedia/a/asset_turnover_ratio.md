@@ -26,7 +26,7 @@ An higher [Asset Turnover](../a/asset_turnover.md) Ratio implies a company is mo
 - **High ATR**: Common in industries with lower [asset](../a/asset.md) bases compared to sales, like retail and food industries.
 - **Low ATR**: Typical in [capital](../c/capital.md)-intensive industries, such as [manufacturing](../m/manufacturing.md) and utilities.
 
-## Example Calculation 
+## Example Calculation
 Consider a company with the following financials over a fiscal year:
 - Beginning Total Assets: $500,000
 - Ending Total Assets: $600,000
@@ -73,7 +73,7 @@ Average Total Assets:
 
 This ratio signifies Walmart's ability to generate $2.30 in sales for every dollar of assets, reflecting high [operational efficiency](../o/operational_efficiency_in_trading.md) in the retail sector.
 
-For more information on Walmart Inc.: [Walmart Investors](https://corporate.walmart.com/investors/)
+For more information on Walmart Inc.: Walmart Investors
 
 ## Real-World Application
 In [algorithmic trading](../a/accountability.md), the [Asset Turnover](../a/asset_turnover.md) Ratio can be integrated into [quantitative models](../q/quantitative_models.md) to:

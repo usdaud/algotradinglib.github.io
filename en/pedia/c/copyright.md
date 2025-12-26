@@ -37,4 +37,3 @@
 
 ## Conclusion
 Copyright is a crucial legal mechanism that protects the rights of creators and promotes the production of original works. By granting exclusive rights to use, reproduce, and distribute their works, copyright incentivizes creativity and ensures that creators can benefit from their intellectual labor. Understanding the components, [duration](../d/duration.md), and enforcement of copyright helps both creators and users navigate the legal landscape of intellectual property.
-

@@ -8,7 +8,7 @@ The ECU was introduced on March 13, 1979, as part of the European Monetary Syste
 
 ## Structure and Composition
 
-The ECU was a composite [currency](../c/currency.md), which means that it was not a physical [currency](../c/currency.md) but rather a basket of the member states' currencies. The [value](../v/value.md) of the ECU was determined based on a [weighted average](../w/weighted_average.md) of the participating currencies, which included but were not limited to the Deutsche Mark (Germany), French Franc (France), Italian Lira (Italy), and British Pound (United Kingdom). 
+The ECU was a composite [currency](../c/currency.md), which means that it was not a physical [currency](../c/currency.md) but rather a basket of the member states' currencies. The [value](../v/value.md) of the ECU was determined based on a [weighted average](../w/weighted_average.md) of the participating currencies, which included but were not limited to the Deutsche Mark (Germany), French Franc (France), Italian Lira (Italy), and British Pound (United Kingdom).
 
 ### Calculation of ECU Value
 
@@ -40,7 +40,7 @@ The ECU played a critical role in the transition to the [Euro](../e/euro.md). On
 
 ### European Central Bank (ECB)
 
-The European Central [Bank](../b/bank.md) (ECB) was established in 1998 as the central authority responsible for the [monetary policy](../m/monetary_policy.md) of the [Eurozone](../e/eurozone.md). The ECB played a pivotal role in managing the transition from the ECU to the [Euro](../e/euro.md), ensuring a smooth and stable conversion process. More details about the ECB can be found on their official website: [ecb.europa.eu](https://www.ecb.europa.eu)
+The European Central [Bank](../b/bank.md) (ECB) was established in 1998 as the central authority responsible for the [monetary policy](../m/monetary_policy.md) of the [Eurozone](../e/eurozone.md). The ECB played a pivotal role in managing the transition from the ECU to the [Euro](../e/euro.md), ensuring a smooth and stable conversion process. europa.eu
 
 ## Conclusion
 

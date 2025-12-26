@@ -62,6 +62,6 @@ Despite its downfall, WorldCom played a significant role in the history of telec
 
 ## Resources
 
-For more information, you can visit [MCI Inc. (now part of Verizon)](https://www.verizon.com/about/news/mci-history).
+For more information, you can visit MCI Inc. (now part of Verizon).
 
 WorldCom’s story remains a cautionary tale about the risks of financial malfeasance. It serves as a reminder of the importance of regulatory oversight, ethical corporate practices, and the critical role of [transparency](../t/transparency.md) and accountability in maintaining public [trust](../t/trust.md). The scandal also highlights the need for [robust](../r/robust.md) [internal controls](../i/internal_controls.md) and the potential impact of whistleblowers in uncovering corporate [fraud](../f/fraud.md).

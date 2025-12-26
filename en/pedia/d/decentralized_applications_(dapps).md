@@ -72,35 +72,35 @@ The regulatory landscape for cryptocurrencies and [blockchain](../b/blockchain_i
 
 Decentralized [Finance](../f/finance.md) (DeFi) is one of the most prominent use cases for dApps. Platforms like Uniswap, Aave, and Compound enable [peer-to-peer lending](../p/peer-to-peer_lending.md), borrowing, and trading of assets without the need for traditional financial intermediaries.
 
-* [Uniswap](https://uniswap.org/)
-* [Aave](https://aave.com/)
-* [Compound](https://compound.finance/)
+* Uniswap
+* Aave
+* Compound
 
 ### Gaming
 
 [Blockchain](../b/blockchain_in_trading.md)-based games like CryptoKitties and Axie Infinity have gained significant popularity. These games utilize [blockchain](../b/blockchain_in_trading.md) technology to allow players to own in-game assets truly.
 
-* [CryptoKitties](https://www.cryptokitties.co/)
-* [Axie Infinity](https://axieinfinity.com/)
+* CryptoKitties
+* Axie Infinity
 
 ### Supply Chain
 
 dApps can significantly enhance [transparency](../t/transparency.md) and traceability in [supply](../s/supply.md) chains. Platforms like [VeChain](../v/vechain.md) track and verify products from production to delivery, ensuring authenticity and reducing [fraud](../f/fraud.md).
 
-* [VeChain](https://www.vechain.org/)
+* VeChain
 
 ### Social Media
 
 Decentralized social networks like Steemit and Minds provide users with secure platforms where they have more control over their data and experience fewer restrictions on content.
 
-* [Steemit](https://steemit.com/)
-* [Minds](https://www.minds.com/)
+* Steemit
+* Minds
 
 ### Healthcare
 
 In healthcare, dApps can improve data sharing between patients and providers while ensuring data privacy and [security](../s/security.md). Projects like MedRec use [blockchain](../b/blockchain_in_trading.md) to manage electronic medical records efficiently.
 
-* [MedRec](https://medrec.media.mit.edu/)
+* MedRec
 
 ## Conclusion
 

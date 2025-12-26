@@ -53,7 +53,7 @@ Dim Sum Bonds allow investors to diversify their portfolios with RMB-denominated
 
 ### Access to RMB
 
-These bonds provide foreign investors with a relatively straightforward way to access the RMB without navigating China's strict [capital](../c/capital.md) controls and onshore [market](../m/market.md) regulations. 
+These bonds provide foreign investors with a relatively straightforward way to access the RMB without navigating China's strict [capital](../c/capital.md) controls and onshore [market](../m/market.md) regulations.
 
 ### Potential for Higher Returns
 
@@ -112,4 +112,4 @@ Hong Kong remains the primary hub for Dim Sum Bonds due to its strategic positio
 
 Dim Sum Bonds represent a significant development in the [global bond](../g/global_bond.md) markets, [offering](../o/offering.md) diversified investment opportunities and unique advantages for both issuers and investors. While they come with distinctive risks and challenges, their potential benefits in providing exposure to the Chinese [currency](../c/currency.md) and [economy](../e/economy.md) are substantial. As China continues its economic [expansion](../e/expansion.md) and the RMB moves towards greater [internationalization](../i/internationalization.md), Dim Sum Bonds are likely to play an even more prominent role in global [finance](../f/finance.md).
 
-For more information, you can visit companies that frequently deal with Dim Sum Bonds issuance and investment like HSBC (https://www.hsbc.com) and Standard Chartered (https://www.sc.com).
+For more information, you can visit companies that frequently deal with Dim Sum Bonds issuance and investment like HSBC and Standard Chartered

@@ -8,7 +8,7 @@ The top-down approach encompasses several layers of analysis, starting with the 
 
 ## Macroeconomic Analysis
 ### Global Economic Indicators
-At the highest level, traders using the top-down approach analyze global [economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), [inflation](../i/inflation.md), [interest](../i/interest.md) rates, [unemployment](../u/unemployment.md) rates, and [trade](../t/trade.md) balances. These indicators provide insights into the overall health and direction of the global [economy](../e/economy.md). 
+At the highest level, traders using the top-down approach analyze global [economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), [inflation](../i/inflation.md), [interest](../i/interest.md) rates, [unemployment](../u/unemployment.md) rates, and [trade](../t/trade.md) balances. These indicators provide insights into the overall health and direction of the global [economy](../e/economy.md).
 
 - **GDP [Growth Rates](../g/growth_rates_in_trading.md)**: High GDP [growth rates](../g/growth_rates_in_trading.md) generally indicate a strong [economy](../e/economy.md), signaling potential opportunities for [investing](../i/investing.md) in growth-oriented [stocks](../s/stock.md) or sectors.
 - **[Inflation](../i/inflation.md) Rates**: Low and stable [inflation](../i/inflation.md) is typically viewed as favorable for equities, while high [inflation](../i/inflation.md) can erode [purchasing power](../p/purchasing_power.md) and compress [profit margins](../p/profit_margins_in_trading.md).
@@ -67,9 +67,9 @@ Effective [risk management](../r/risk_management.md) is crucial when applying th
 ### Examples of Top-Down Approach in Action
 Several [hedge](../h/hedge.md) funds and investment firms prominently utilize the top-down approach in their [trading strategies](../t/trading_strategies.md). For example:
 
-- **Bridgewater Associates**: As one of the world’s largest [hedge](../h/hedge.md) funds, Bridgewater employs a macroeconomic-focused [investment strategy](../i/investment_strategy.md). More information about Bridgewater can be found [here](https://www.bridgewater.com/).
-- **Lazard [Asset Management](../a/asset_management.md)**: Lazard uses a top-down approach in its global [equity](../e/equity.md) strategies, evaluating macroeconomic conditions and sector trends. More details about Lazard are available [here](https://www.lazard.com/).
-- **PIMCO**: Known for its [fixed income](../f/fixed_income.md) expertise, PIMCO incorporates [top-down analysis](../t/top-down_analysis.md) to identify broad economic themes and investment opportunities. Learn more about PIMCO [here](https://www.pimco.com/).
+- **Bridgewater Associates**: As one of the world’s largest [hedge](../h/hedge.md) funds, Bridgewater employs a macroeconomic-focused [investment strategy](../i/investment_strategy.md). More information about Bridgewater can be found here.
+- **Lazard [Asset Management](../a/asset_management.md)**: Lazard uses a top-down approach in its global [equity](../e/equity.md) strategies, evaluating macroeconomic conditions and sector trends. More details about Lazard are available here.
+- **PIMCO**: Known for its [fixed income](../f/fixed_income.md) expertise, PIMCO incorporates [top-down analysis](../t/top-down_analysis.md) to identify broad economic themes and investment opportunities. Learn more about PIMCO here.
 
 ## Conclusion
 The top-down approach in trading provides a comprehensive framework for analyzing and capitalizing on investment opportunities. By starting with macroeconomic analysis and progressively narrowing down to specific sectors, industries, and [stocks](../s/stock.md), traders can align their investments with broader economic trends and [market](../m/market.md) conditions. This methodical approach enhances the potential for achieving consistent and sustainable returns.

@@ -15,7 +15,7 @@ The Short Condor Spread is constructed by selling one lower strike call, buying 
 
 ## Objectives of the Strategy
 
-The main objective of the Short Condor Spread is to take advantage of low [volatility](../v/volatility.md) in the [underlying asset](../u/underlying_asset.md). By setting up this strategy, the [trader](../t/trader.md) expects the price of the [underlying asset](../u/underlying_asset.md) to remain within a specific [range](../r/range.md). The strategy achieves its maximum [profit](../p/profit.md) if the [underlying asset](../u/underlying_asset.md)'s price remains between the middle strikes at expiration. 
+The main objective of the Short Condor Spread is to take advantage of low [volatility](../v/volatility.md) in the [underlying asset](../u/underlying_asset.md). By setting up this strategy, the [trader](../t/trader.md) expects the price of the [underlying asset](../u/underlying_asset.md) to remain within a specific [range](../r/range.md). The strategy achieves its maximum [profit](../p/profit.md) if the [underlying asset](../u/underlying_asset.md)'s price remains between the middle strikes at expiration.
 
 ## Risk Profile
 
@@ -69,15 +69,15 @@ The Short Condor Spread thrives in low [volatility](../v/volatility.md) conditio
 
 Several trading platforms and tools can be employed to set up and manage Short Condor Spread strategies effectively:
 
-### [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+### Thinkorswim by TD Ameritrade
 
 [Thinkorswim](../t/thinkorswim.md) offers an advanced [trading platform](../t/trading_platform.md) with tools for forming complex [options](../o/options.md) strategies including Short Condor Spread. It provides extensive charting, [risk analysis](../r/risk_analysis.md) tools, and [backtesting](../b/backtesting.md) capabilities to simulate trades and understand potential outcomes.
 
-### [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1335)
+### Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) offers a suite of [options](../o/options.md) trading tools that can help traders implement and monitor Short Condor [Spreads](../s/spreads.md) effectively. The platform includes a [robust](../r/robust.md) [risk](../r/risk.md) navigator, real-time [risk](../r/risk.md) monitoring, and [portfolio analysis](../p/portfolio_analysis.md) tools.
 
-### [TradeStation](https://www.tradestation.com/)
+### TradeStation
 
 [TradeStation](../t/tradestation.md) provides an intuitive interface for [options](../o/options.md) trading with tools for strategy building, [risk analysis](../r/risk_analysis.md), and also offers educational resources for traders looking to understand complex strategies like Short Condor [Spreads](../s/spreads.md).
 

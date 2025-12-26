@@ -52,13 +52,13 @@ In [algorithmic trading](../a/algorithmic_trading.md), optimizing strategies for
 ## Examples of Algorithmic Trading Firms Using Velocity Indicators
 
 ### Citadel Securities
-Citadel Securities, a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), leverages various [quantitative strategies](../q/quantitative_strategies_in_trading.md), including those that utilize velocity indicators. For more information, visit their [website](https://www.citadelsecurities.com/).
+Citadel Securities, a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), leverages various [quantitative strategies](../q/quantitative_strategies_in_trading.md), including those that utilize velocity indicators.
 
 ### Two Sigma
-Two Sigma is another prominent quant trading [firm](../f/firm.md) that employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and velocity indicators to enhance its [trading algorithms](../t/trading_algorithms.md). More details can be found on their [official site](https://www.twosigma.com/).
+Two Sigma is another prominent quant trading [firm](../f/firm.md) that employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and velocity indicators to enhance its [trading algorithms](../t/trading_algorithms.md).
 
 ### Renaissance Technologies
-Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), uses sophisticated algorithms that likely include velocity measurements to stay ahead in the [market](../m/market.md). Learn more on their [website](https://www.rentec.com/).
+Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), uses sophisticated algorithms that likely include velocity measurements to stay ahead in the [market](../m/market.md).
 
 ## Conclusion
 Velocity indicators are indispensable tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), providing insights into [market](../m/market.md) [momentum](../m/momentum.md) and helping traders make more informed decisions. By integrating these indicators into [trading algorithms](../t/trading_algorithms.md), firms can improve signal accuracy, manage [risk](../r/risk.md) better, and enhance overall strategy performance.

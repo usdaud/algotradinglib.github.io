@@ -52,7 +52,7 @@ Kondratieff identified several historical waves spanning centuries, each associa
 
 ### First Kondratieff Wave (1780-1849)
 
-- **Technological Innovation**: The [Industrial Revolution](../i/industrial_revolution.md) marked the first [Kondratieff wave](../k/kondratieff_wave.md), characterized by the development of steam power, mechanized textile production, and iron making. 
+- **Technological Innovation**: The [Industrial Revolution](../i/industrial_revolution.md) marked the first [Kondratieff wave](../k/kondratieff_wave.md), characterized by the development of steam power, mechanized textile production, and iron making.
 - **Economic Impact**: These innovations led to massive industrial growth, urbanization, and a significant increase in [productivity](../p/productivity.md) and [trade](../t/trade.md).
 
 ### Second Kondratieff Wave (1850-1899)
@@ -101,15 +101,15 @@ Several companies and research institutions focus on [economic cycles](../e/econ
 
 ### Elliott Wave International
 
-[Elliott Wave International](https://www.elliottwave.com/) is a leading research and analysis [firm](../f/firm.md) specializing in [market forecasting](../m/market_forecasting.md) based on the Elliott Wave Principle, which aligns with the broader concept of [economic cycles](../e/economic_cycles.md) like Kondratieff Supercycles. They provide insights, analysis, and educational resources for traders and investors.
+Elliott Wave International is a leading research and analysis [firm](../f/firm.md) specializing in [market forecasting](../m/market_forecasting.md) based on the Elliott Wave Principle, which aligns with the broader concept of [economic cycles](../e/economic_cycles.md) like Kondratieff Supercycles. They provide insights, analysis, and educational resources for traders and investors.
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They [offer](../o/offer.md) extensive [market](../m/market.md) data and [financial analysis](../f/financial_analysis.md) tools, enabling users to develop strategies that consider long-term [economic cycles](../e/economic_cycles.md).
+QuantConnect is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They [offer](../o/offer.md) extensive [market](../m/market.md) data and [financial analysis](../f/financial_analysis.md) tools, enabling users to develop strategies that consider long-term [economic cycles](../e/economic_cycles.md).
 
 ### ResearchGate
 
-[ResearchGate](https://www.researchgate.net/) is a professional network for researchers and scientists, including those specializing in [economic cycles](../e/economic_cycles.md) and [algorithmic trading](../a/algorithmic_trading.md). It provides access to a [wealth](../w/wealth.md) of academic papers and research articles on topics related to Kondratieff Supercycles and their implications for [financial markets](../f/financial_market.md).
+ResearchGate is a professional network for researchers and scientists, including those specializing in [economic cycles](../e/economic_cycles.md) and [algorithmic trading](../a/algorithmic_trading.md). It provides access to a [wealth](../w/wealth.md) of academic papers and research articles on topics related to Kondratieff Supercycles and their implications for [financial markets](../f/financial_market.md).
 
 ## Conclusion
 

@@ -82,9 +82,9 @@ AIG was on the brink of collapse in 2008, primarily due to its exposure to [subp
 The bailout of the American auto [industry](../i/industry.md) was another significant intervention during the 2008 crisis. General Motors and Chrysler received a combined $80 billion in loans and [equity](../e/equity.md) investments. This support helped the companies restructure, ultimately leading to a revival of the American auto [industry](../i/industry.md).
 
 For more details on these bailout interventions, you can explore the following sources:
-- [General Motors](http://www.gm.com)
-- [Chrysler](http://www.chrysler.com)
-- [AIG](http://www.aig.com)
+- General Motors
+- Chrysler
+- AIG
 
 ## Conclusion
 Bailouts play a critical role in stabilizing economies during periods of [financial distress](../f/financial_distress.md). While they [offer](../o/offer.md) immediate benefits by preventing the collapse of major institutions and instilling [market](../m/market.md) confidence, they also come with significant drawbacks such as promoting [moral hazard](../m/moral_hazard.md) and creating financial burdens on taxpayers. The balance between these benefits and drawbacks continues to be a subject of ongoing debate among economists, policymakers, and the public. Understanding the complex dynamics of bailouts is essential in establishing measures that protect the [economy](../e/economy.md) while encouraging sustainable [business](../b/business.md) practices and [risk management](../r/risk_management.md).

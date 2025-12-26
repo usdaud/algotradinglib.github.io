@@ -16,7 +16,7 @@ In a Dutch auction, bidding starts from a high price, which decreases at fixed i
 
 ### Example
 
-If an item’s estimated [market value](../m/market_value.md) is $100, the auctioneer might start the auction at $150. If no bids are made, the price drops to $145 after a short interval, then to $140, and continues to drop in increments of $5. When a participant accepts the price, say at $120, they win the item for that amount. 
+If an item’s estimated [market value](../m/market_value.md) is $100, the auctioneer might start the auction at $150. If no bids are made, the price drops to $145 after a short interval, then to $140, and continues to drop in increments of $5. When a participant accepts the price, say at $120, they win the item for that amount.
 
 ## Applications
 
@@ -25,8 +25,6 @@ If an item’s estimated [market value](../m/market_value.md) is $100, the aucti
 Dutch auctions are also used in [financial markets](../f/financial_market.md), particularly for the issuance of securities such as bonds and [stocks](../s/stock.md). An example of this is the [U.S. Treasury](../u/u.s._treasury.md) using Dutch auctions to sell treasury bills, notes, and bonds.
 
 - **IPO Dutch Auction**: An example is Google's initial public [offering](../o/offering.md) (IPO) in 2004. Google used a Dutch auction to determine the price at which its [shares](../s/shares.md) would be offered to the public. This approach allowed for a wider [distribution](../d/distribution.md) of [shares](../s/shares.md) among investors.
-  
-    See: [https://www.sec.gov/Archives/edgar/data/1238510/000119312504139655/d424b1.htm](https://www.sec.gov/Archives/edgar/data/1238510/000119312504139655/d424b1.htm)
 
 ### Real Estate
 
@@ -68,11 +66,7 @@ Modern technology has streamlined Dutch auctions, making them more accessible an
 ### Examples of Technology Integration
 
 - **[NASDAQ](../n/nasdaq.md)’s Dutch Auction System**: Platforms like [NASDAQ](../n/nasdaq.md) have implemented Dutch auction methods to facilitate stock sales.
-    See: [https://www.nasdaq.com](https://www.nasdaq.com)
-
 - **E-[commerce](../c/commerce.md)**: Websites like eBay have utilized Dutch auctions for certain listings, particularly when selling [multiple](../m/multiple.md) identical items.
-    See: [https://www.ebay.com](https://www.ebay.com)
-
 ## Conclusion
 
 Dutch auctions are a powerful tool in various markets, known for their speed and [efficiency](../e/efficiency.md). By understanding the mechanics and applications, both sellers and buyers can [leverage](../l/leverage.md) this method to their advantage. As technology continues to evolve, the relevance and implementation of Dutch auctions [will](../w/will.md) likely expand, [offering](../o/offering.md) new possibilities in [financial markets](../f/financial_market.md), e-[commerce](../c/commerce.md), and beyond.

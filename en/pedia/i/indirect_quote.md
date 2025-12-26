@@ -30,7 +30,7 @@ The primary advantage of understanding indirect quotes is in simplifying decisio
 
 ### Comparative Analysis
 
-Indirect quotes allow traders to compare the [value](../v/value.md) of their domestic [currency](../c/currency.md) relative to [multiple](../m/multiple.md) foreign currencies quickly. This is especially useful for those whose portfolios span various international investments. 
+Indirect quotes allow traders to compare the [value](../v/value.md) of their domestic [currency](../c/currency.md) relative to [multiple](../m/multiple.md) foreign currencies quickly. This is especially useful for those whose portfolios span various international investments.
 
 ### Arbitrage Opportunities
 
@@ -57,7 +57,7 @@ Understanding this relationship helps in converting between the two types of quo
 ## Examples of Indirect Quotes
 
 1. **USD/JPY**: If the [quote](../q/quote.md) is 110.50, this is an indirect [quote](../q/quote.md) from the perspective of someone in Japan. It means 110.50 Japanese Yen is needed to buy 1 US Dollar.
-   
+
 2. **GBP/USD**: If the [quote](../q/quote.md) is 1.35, this is an indirect [quote](../q/quote.md) from the perspective of someone in the US. One British Pound costs 1.35 US Dollars.
 
 ## Impact on Trading Strategies
@@ -74,11 +74,11 @@ Traders also use indirect quotes for speculative purposes. By predicting the mov
 
 Several platforms [offer](../o/offer.md) tools to analyze indirect quotes and integrate this data into [trading strategies](../t/trading_strategies.md):
 
-1. **MetaTrader 4 (MT4)**: One of the most widely used trading platforms that [offer](../o/offer.md) various tools for analyzing forex quotes, including both direct and indirect quotes. The platform is provided by MetaQuotes Software. [Website](https://www.metatrader4.com/)
+1. **MetaTrader 4 (MT4)**: One of the most widely used trading platforms that [offer](../o/offer.md) various tools for analyzing forex quotes, including both direct and indirect
 
-2. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A powerful tool for professional traders that provides comprehensive financial information, including [currency](../c/currency.md) quotes. [Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+2. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A powerful tool for professional traders that provides comprehensive financial information, including [currency](../c/currency.md)
 
-3. **Forex Factory**: Offers a suite of tools for forex traders, including real-time quotes and historical data. The website provides indirect quotes for various [currency](../c/currency.md) pairs. [Website](https://www.forexfactory.com/)
+3. **Forex Factory**: Offers a suite of tools for forex traders, including real-time quotes and historical data. the online platform provides indirect quotes for various [currency](../c/currency.md)
 
 ## Practical Considerations and Risks
 

@@ -37,19 +37,16 @@ Those who design, deploy, and manage [trading algorithms](../t/trading_algorithm
 
 The SEC in the United States plays a crucial role in monitoring [algorithmic trading](../a/accountability.md) activities. They have implemented rules to enhance [transparency](../t/transparency.md) and reduce the [risk](../r/risk.md) of [market](../m/market.md) manipulations.
 
-[Learn more about SEC regulations](https://www.sec.gov)
 
 ### The European Securities and Markets Authority (ESMA)
 
 ESMA oversees the regulation of [financial markets](../f/financial_market.md) in the [European Union](../e/european_union_(eu).md), including [algorithmic trading](../a/accountability.md). [MiFID II](../m/mifid_ii.md) (Markets in Financial Instruments Directive II) includes specific provisions to address the risks associated with [algorithmic trading](../a/accountability.md).
 
-[Learn more about ESMA regulations](https://www.esma.europa.eu)
 
 ### The Financial Conduct Authority (FCA)
 
 The FCA in the UK has guidelines to ensure that [algorithmic trading](../a/accountability.md) practices are conducted ethically and transparently. Their regulations cover areas such as [market](../m/market.md) abuse, [transparency](../t/transparency.md), and the use of automated systems.
 
-[Learn more about FCA regulations](https://www.fca.org.uk)
 
 ## Challenges in Implementing Ethical Algorithmic Trading
 
@@ -97,13 +94,11 @@ Maintaining [open](../o/open.md) lines of communication with regulatory bodies t
 
 Haim Bodek, a [whistleblower](../w/whistleblower.md) in the [algorithmic trading](../a/accountability.md) world, has shared his experiences and insights on the ethical implications of HFT. His work underscores the importance of ethics in preventing [market manipulation](../m/market_manipulation.md).
 
-[Learn more about Haim Bodek](https://haimbodek.org)
 
 ### Andrew Haldane
 
 Andrew Haldane, the Chief [Economist](../e/economist.md) at the [Bank](../b/bank.md) of England, has been vocal about the need for ethical considerations in [algorithmic trading](../a/accountability.md), particularly concerning systemic risks and [market](../m/market.md) stability.
 
-[Learn more about Andrew Haldane](https://www.bankofengland.co.uk)
 
 ## Conclusion
 

@@ -10,10 +10,10 @@ Before diving into stochastic gradient descent, it's crucial to understand the b
 1. **Objective Function:** Suppose we have an objective function \( f(\[theta](../t/theta.md)) \) which we need to minimize.
 2. **Initial Parameters:** Start with initial parameters \(\theta_0\).
 3. **Update Rule:** Iteratively update the parameters using the rule:
-   \[
-   \theta_{t+1} = \theta_t - \eta \cdot \nabla f(\theta_t)
-   \]
-   where \(\eta\) is the learning rate, and \(\nabla f(\theta_t)\) is the gradient of the objective function at \(\theta_t\).
+ \[
+ \theta_{t+1} = \theta_t - \eta \cdot \nabla f(\theta_t)
+ \]
+ where \(\eta\) is the learning rate, and \(\nabla f(\theta_t)\) is the gradient of the objective function at \(\theta_t\).
 
 ### Stochastic Gradient Descent
 
@@ -62,29 +62,29 @@ v_{t+1} = \[beta](../b/beta.md) v_t + \eta \cdot \nabla f(\theta_t - \[beta](../
 ### Adaptive Learning Rate Methods
 
 - **AdaGrad:** Adjusts the learning rate for each parameter:
-  \[
-  \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{G_{t,ii} + \epsilon}} \cdot \nabla f(\theta_t)
-  \]
-  where \(G_t\) is the accumulated [sum of squares](../s/sum_of_squares.md) of past gradients.
-  
+ \[
+ \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{G_{t,ii} + \epsilon}} \cdot \nabla f(\theta_t)
+ \]
+ where \(G_t\) is the accumulated [sum of squares](../s/sum_of_squares.md) of past gradients.
+
 - **RMSProp:** Similar to AdaGrad but uses an exponential moving average:
-  \[
-  G_{t+1,ii} = \[gamma](../g/gamma.md) G_{t,ii} + (1-\[gamma](../g/gamma.md)) (\nabla f(\theta_t))^2
-  \]
-  \[
-  \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{G_{t+1,ii} + \epsilon}} \cdot \nabla f(\theta_t)
-  \]
+ \[
+ G_{t+1,ii} = \[gamma](../g/gamma.md) G_{t,ii} + (1-\[gamma](../g/gamma.md)) (\nabla f(\theta_t))^2
+ \]
+ \[
+ \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{G_{t+1,ii} + \epsilon}} \cdot \nabla f(\theta_t)
+ \]
 
 - **Adam:** Combines the best of AdaGrad and RMSProp:
-  \[
-  m_{t+1} = \beta_1 m_t + (1 - \beta_1) \nabla f(\theta_t)
-  \]
-  \[
-  v_{t+1} = \beta_2 v_t + (1 - \beta_2) (\nabla f(\theta_t))^2
-  \]
-  \[
-  \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{\hat{v}_{t+1} + \epsilon}}
-  \]
+ \[
+ m_{t+1} = \beta_1 m_t + (1 - \beta_1) \nabla f(\theta_t)
+ \]
+ \[
+ v_{t+1} = \beta_2 v_t + (1 - \beta_2) (\nabla f(\theta_t))^2
+ \]
+ \[
+ \theta_{t+1} = \theta_t - \frac{\eta}{\sqrt{\hat{v}_{t+1} + \epsilon}}
+ \]
 
 ## Applications in Algorithmic Trading
 
@@ -114,9 +114,9 @@ SGD can also be applied to enhance [risk management](../r/risk_management.md) mo
 ### Libraries and Frameworks
 
 Several popular libraries and frameworks support SGD:
-- **[TensorFlow](../t/tensorflow.md):** [TensorFlow Optimizers](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers) provide a variety of SGD-based optimizers.
-- **[PyTorch](../p/pytorch.md):** [PyTorch Optimizers](https://pytorch.org/docs/stable/optim.html) include implementations of SGD and its variants.
-- **Scikit-learn:** [Scikit-learn SGD](https://scikit-learn.org/stable/modules/sgd.html) for [linear models](../l/linear_models_in_trading.md).
+- **[TensorFlow](../t/tensorflow.md):** TensorFlow Optimizers provide a variety of SGD-based optimizers.
+- **[PyTorch](../p/pytorch.md):** PyTorch Optimizers include implementations of SGD and its variants.
+- **Scikit-learn:** Scikit-learn SGD for [linear models](../l/linear_models_in_trading.md).
 
 ### Example Implementation in Python with TensorFlow
 
@@ -132,7 +132,7 @@ X_train = np.random.rand(1000, 20)
 y_train = np.random.randint(2, size=(1000, 1))
 
 # Define model architecture
-model = Sequential([
+model = Sequential[
     Dense(64, activation='relu', input_dim=20),
     Dense(1, activation='sigmoid'),
 ])

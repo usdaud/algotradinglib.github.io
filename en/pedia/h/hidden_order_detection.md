@@ -92,6 +92,6 @@ Hidden [order](../o/order.md) detection is a sophisticated aspect of [algorithmi
 
 For more information and resources on hidden [order](../o/order.md) detection, consider exploring the following companies and platforms:
 
-- [AlgoTrader](https://www.algotrader.com): A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software company providing trading solutions and tools, including hidden [order](../o/order.md) detection capabilities.
-- [QuantConnect](https://www.quantconnect.com): A platform for [algorithmic trading](../a/algorithmic_trading.md) strategies, [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md), including those for detecting hidden orders.
-- [Numerix](https://www.numerix.com): A financial technology company specializing in [risk management](../r/risk_management.md) and analytics, providing advanced tools for [market](../m/market.md) analysis and hidden [order](../o/order.md) detection.
+- AlgoTrader: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software company providing trading solutions and tools, including hidden [order](../o/order.md) detection capabilities.
+- QuantConnect: A platform for [algorithmic trading](../a/algorithmic_trading.md) strategies, [offering](../o/offering.md) tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md), including those for detecting hidden orders.
+- Numerix: A financial technology company specializing in [risk management](../r/risk_management.md) and analytics, providing advanced tools for [market](../m/market.md) analysis and hidden [order](../o/order.md) detection.

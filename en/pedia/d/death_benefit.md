@@ -36,7 +36,7 @@ The [Social Security](../s/social_security.md) Administration provides a limited
 
 The tax treatment of death benefits varies depending on the type of benefit and the prevailing tax laws:
 
-- **[Life Insurance](../l/life_insurance.md)**: Generally, death benefits paid from [life insurance](../l/life_insurance.md) policies are not subject to [federal income](../f/federal_income.md) tax. 
+- **[Life Insurance](../l/life_insurance.md)**: Generally, death benefits paid from [life insurance](../l/life_insurance.md) policies are not subject to [federal income](../f/federal_income.md) tax.
 - **Pensions and Annuities**: Death benefits from these sources can be taxable. Beneficiaries may have to pay [income](../i/income.md) [taxes](../t/taxes.md) on the distributions, especially if the benefits are derived from pre-tax contributions.
 - **[Estate](../e/estate.md) [Taxes](../t/taxes.md)**: Large estates may be subject to [estate](../e/estate.md) [taxes](../t/taxes.md), and death benefits from [life insurance](../l/life_insurance.md) policies may be included in the [estate](../e/estate.md)'s taxable [value](../v/value.md) unless the policy is owned by an irrevocable [life insurance](../l/life_insurance.md) [trust](../t/trust.md) (ILIT).
 
@@ -70,8 +70,8 @@ Annuities [offer](../o/offer.md) a unique combination of lifetime [income](../i/
 
 For more detailed information on specific products and services, refer to companies specializing in [life insurance](../l/life_insurance.md), pensions, and annuities:
 
-- [Pacific Life](https://www.pacificlife.com)
-- [MetLife](https://www.metlife.com)
-- [Prudential Financial](https://www.prudential.com)
+- Pacific Life
+- MetLife
+- Prudential Financial
 
 Understanding death benefits and their implications ensures better financial protection and peace of mind for policyholders and their beneficiaries.

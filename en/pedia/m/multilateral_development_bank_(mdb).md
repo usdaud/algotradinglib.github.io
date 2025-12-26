@@ -1,6 +1,6 @@
 # Multilateral Development Bank (MDB)
 
-A Multilateral Development [Bank](../b/bank.md) (MDB) is an international financial institution that provides financial assistance and professional advice for the purpose of development. MDBs provide these services to countries, regional entities, and development projects that typically struggle to secure [financing](../f/financing.md) or technical support. They are typically funded by the member countries which benefit from their services. MDBs play a crucial role in [financing](../f/financing.md) development projects, supporting public policies, fostering [economic integration](../e/economic_integration.md), and promoting sustainable development. 
+A Multilateral Development [Bank](../b/bank.md) (MDB) is an international financial institution that provides financial assistance and professional advice for the purpose of development. MDBs provide these services to countries, regional entities, and development projects that typically struggle to secure [financing](../f/financing.md) or technical support. They are typically funded by the member countries which benefit from their services. MDBs play a crucial role in [financing](../f/financing.md) development projects, supporting public policies, fostering [economic integration](../e/economic_integration.md), and promoting sustainable development.
 
 ## Types of Multilateral Development Banks
 
@@ -12,35 +12,35 @@ Global MDBs have a worldwide mandate and operate in numerous countries across di
 
 - **[World Bank Group](../w/world_bank_group.md)**: The [World Bank Group](../w/world_bank_group.md) consists of five closely associated institutions: the International [Bank](../b/bank.md) for Reconstruction and Development (IBRD), International Development Association (IDA), [International Finance Corporation](../i/international_finance_corporation.md) (IFC), Multilateral Investment Guarantee Agency (MIGA), and International Centre for Settlement of Investment Disputes (ICSID). Each institution specializes in different aspects of development. The [World Bank](../w/world_bank.md) primarily aims to reduce [poverty](../p/poverty.md) and build shared prosperity by providing loans, grants, and technical expertise.
 
-    **Website**: [World Bank Group](https://www.worldbank.org)
+ **online platform**: World Bank Group
 
 - **International Monetary [Fund](../f/fund.md) (IMF)**: Although not a typical [bank](../b/bank.md), the IMF plays a crucial role in the global [financial system](../f/financial_system.md). It provides monetary cooperation and financial stability advice, offers technical assistance, and provides financial resources to member countries facing balance of payments issues. The IMF focuses on macroeconomic and financial stability.
 
-    **Website**: [IMF](https://www.imf.org)
+ **online platform**: IMF
 
 ### Regional Multilateral Development Banks
 
 Regional MDBs focus on specific geographical regions, providing support tailored to the unique economic, social, and political needs of that region.
 
-- **[Asian Development Bank](../a/asian_development_bank.md) (ADB)**: The ADB aims to promote social and economic development in Asia and the Pacific. It provides loans, technical assistance, grants, and [equity](../e/equity.md) investments to its developing member countries to promote social and economic development. 
+- **[Asian Development Bank](../a/asian_development_bank.md) (ADB)**: The ADB aims to promote social and economic development in Asia and the Pacific. It provides loans, technical assistance, grants, and [equity](../e/equity.md) investments to its developing member countries to promote social and economic development.
 
-    **Website**: [Asian Development Bank](https://www.adb.org)
+ **online platform**: Asian Development Bank
 
-- **African Development [Bank](../b/bank.md) (AfDB)**: Established to promote [economic growth](../e/economic_growth.md) and social progress in Africa, the AfDB finances projects aimed at enhancing economic development and social progress. AfDB provides loans, grants, and technical assistance to support [infrastructure](../i/infrastructure.md), social, regional, and [private sector](../p/private_sector.md) development. 
+- **African Development [Bank](../b/bank.md) (AfDB)**: Established to promote [economic growth](../e/economic_growth.md) and social progress in Africa, the AfDB finances projects aimed at enhancing economic development and social progress. AfDB provides loans, grants, and technical assistance to support [infrastructure](../i/infrastructure.md), social, regional, and [private sector](../p/private_sector.md) development.
 
-    **Website**: [African Development Bank](https://www.afdb.org)
+ **online platform**: African Development Bank
 
-- **European Investment [Bank](../b/bank.md) (EIB)**: The EIB’s primary mission is to support the creation and integration of the [European Union](../e/european_union_(eu).md) through long-term [finance](../f/finance.md) for [infrastructure](../i/infrastructure.md) projects. The [bank](../b/bank.md) provides loans, [equity](../e/equity.md) investments, guarantees, and technical assistance for projects inside and outside the EU. 
+- **European Investment [Bank](../b/bank.md) (EIB)**: The EIB’s primary mission is to support the creation and integration of the [European Union](../e/european_union_(eu).md) through long-term [finance](../f/finance.md) for [infrastructure](../i/infrastructure.md) projects. The [bank](../b/bank.md) provides loans, [equity](../e/equity.md) investments, guarantees, and technical assistance for projects inside and outside the EU.
 
-    **Website**: [European Investment Bank](https://www.eib.org)
+ **online platform**: European Investment Bank
 
-- **Inter-American Development [Bank](../b/bank.md) (IDB)**: The IDB works to improve lives in Latin America and the Caribbean. It finances projects in various sectors, including education, health, [infrastructure](../i/infrastructure.md), and [trade](../t/trade.md), providing loans, grants, and technical assistance. 
+- **Inter-American Development [Bank](../b/bank.md) (IDB)**: The IDB works to improve lives in Latin America and the Caribbean. It finances projects in various sectors, including education, health, [infrastructure](../i/infrastructure.md), and [trade](../t/trade.md), providing loans, grants, and technical assistance.
 
-    **Website**: [Inter-American Development Bank](https://www.iadb.org)
+ **online platform**: Inter-American Development Bank
 
-- **Islamic Development [Bank](../b/bank.md) (IsDB)**: The IsDB provides financial support to its member countries and Muslim communities in non-member countries. The [bank](../b/bank.md) follows the principles of Sharia law and provides various forms of financial support, including [equity](../e/equity.md) [capital](../c/capital.md), loans, and technical assistance. 
+- **Islamic Development [Bank](../b/bank.md) (IsDB)**: The IsDB provides financial support to its member countries and Muslim communities in non-member countries. The [bank](../b/bank.md) follows the principles of Sharia law and provides various forms of financial support, including [equity](../e/equity.md) [capital](../c/capital.md), loans, and technical assistance.
 
-    **Website**: [Islamic Development Bank](https://www.isdb.org)
+ **online platform**: Islamic Development Bank
 
 ## Key Functions and Contributions of MDBs
 
@@ -103,7 +103,7 @@ In response to the COVID-19 pandemic, many MDBs launched emergency response prog
 
 ## Conclusion
 
-Multilateral Development Banks are crucial players in the global development ecosystem. They provide essential financial resources, technical assistance, and policy advice to foster [economic growth](../e/economic_growth.md), social progress, and environmental sustainability. By pooling resources from [multiple](../m/multiple.md) countries, MDBs enable even the poorest nations to undertake vital development projects, thereby improving living conditions and fostering global stability. 
+Multilateral Development Banks are crucial players in the global development ecosystem. They provide essential financial resources, technical assistance, and policy advice to foster [economic growth](../e/economic_growth.md), social progress, and environmental sustainability. By pooling resources from [multiple](../m/multiple.md) countries, MDBs enable even the poorest nations to undertake vital development projects, thereby improving living conditions and fostering global stability.
 
 Understanding the different types and roles of MDBs helps stakeholders—governments, private investors, and civil society organizations—[leverage](../l/leverage.md) these resources for more effective development outcomes.
 

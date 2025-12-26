@@ -17,7 +17,7 @@ Dividends are payments made by a [corporation](../c/corporation.md) to its share
 
 ## Preferred Stock
 
-[Preferred stock](../p/preferred_stock.md) differs from [common stock](../c/common_stock.md) in that it has features of both [equity](../e/equity.md) and [debt](../d/debt.md), often providing dividends before common [shares](../s/shares.md) are accounted for and usually having a fixed [dividend rate](../d/dividend_rate.md). 
+[Preferred stock](../p/preferred_stock.md) differs from [common stock](../c/common_stock.md) in that it has features of both [equity](../e/equity.md) and [debt](../d/debt.md), often providing dividends before common [shares](../s/shares.md) are accounted for and usually having a fixed [dividend rate](../d/dividend_rate.md).
 
 ### Features of Preferred Stock
 
@@ -52,7 +52,7 @@ Investors prefer cumulative dividends over noncumulative for the [assurance](../
 
 ### Example: Apple Inc.
 
-Apple Inc. is an example of a company that employs noncumulative [preferred stock](../p/preferred_stock.md). It has issued noncumulative preferred [shares](../s/shares.md) in the past, allowing the company more flexibility in its financial management. For more details on Apple’s [investor relations](../i/investor_relations.md), visit [Apple](https://investor.apple.com).
+Apple Inc. is an example of a company that employs noncumulative [preferred stock](../p/preferred_stock.md). It has issued noncumulative preferred [shares](../s/shares.md) in the past, allowing the company more flexibility in its financial management../i/investor_relations.md), visit Apple.
 
 ## Comparison: Cumulative vs. Noncumulative Dividends
 
@@ -102,7 +102,7 @@ From a tax perspective, dividends are usually taxed as [ordinary income](../o/or
 
 ## Real-World Examples
 
-### Dividend Policies 
+### Dividend Policies
 
 Understanding the real-world application of noncumulative dividends is crucial for comprehensive analysis. Examining [financial statements](../f/financial_statements.md) and [shareholder](../s/shareholder.md) communications of companies can provide insights into their [dividend](../d/dividend.md) policies.
 

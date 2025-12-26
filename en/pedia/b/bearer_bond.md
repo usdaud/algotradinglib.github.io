@@ -37,7 +37,7 @@ In the U.S., bearer bonds faced significant legal changes:
 
 In Europe, the issuance of bearer bonds has been restricted:
 - The Fourth Anti-[Money Laundering](../m/money_laundering.md) Directive: Implemented by the [European Union](../e/european_union_(eu).md), this directive aimed to increase [transparency](../t/transparency.md) and reduce illegal activities, resulting in stricter rules for bearer instruments.
- 
+
 ### International Perspective
 
 Globally, many countries have restricted or banned the issuance of new bearer bonds to curb illicit activities, promote [transparency](../t/transparency.md), and comply with international anti-[money laundering](../m/money_laundering.md) standards.

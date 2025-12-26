@@ -19,7 +19,7 @@ These T-Bills are considered one of the safest investment vehicles available bec
 ## Issuance Process
 
 ### Auction Mechanism
-The U.S. Department of the Treasury holds regular auctions to sell 6-Month Treasury Bills. The auctions are typically held on Mondays, with settlement occurring on the following Thursday. 
+The U.S. Department of the Treasury holds regular auctions to sell 6-Month Treasury Bills. The auctions are typically held on Mondays, with settlement occurring on the following Thursday.
 
 #### Competitive vs. Non-Competitive Bidding
 - **Non-Competitive Bids:** In a non-competitive [bid](../b/bid.md), an [investor](../i/investor.md) agrees to accept the [discount rate](../d/discount_rate.md) determined at auction. This type ensures that the [investor](../i/investor.md) receives the desired quantity of T-Bills.
@@ -62,7 +62,7 @@ This formula gives the annualized [yield](../y/yield.md), which helps investors 
 ## Role in Algorithmic Trading
 
 ### Quantitative Models
-In [algorithmic trading](../a/algorithmic_trading.md), T-Bills serve as a [risk](../r/risk.md)-free rate in [quantitative models](../q/quantitative_models.md) for pricing [derivatives](../d/derivatives.md), constructing [yield](../y/yield.md) curves, and assessing portfolio performances. 
+In [algorithmic trading](../a/algorithmic_trading.md), T-Bills serve as a [risk](../r/risk.md)-free rate in [quantitative models](../q/quantitative_models.md) for pricing [derivatives](../d/derivatives.md), constructing [yield](../y/yield.md) curves, and assessing portfolio performances.
 
 ### Arbitrage Opportunities
 Algorithms can seek [arbitrage](../a/arbitrage.md) opportunities in the T-Bill markets, especially during times of economic [uncertainty](../u/uncertainty_in_trading.md) when [spreads](../s/spreads.md) between different maturities widen.
@@ -79,7 +79,7 @@ During auction days, HFT algorithms might engage in rapid buying and selling of 
 ## Modern Developments
 
 ### Digital Platforms
-The advent of digital platforms has made accessing and trading 6-Month T-Bills easier for individual investors. Platforms like TreasuryDirect (www.treasurydirect.gov) allow individuals to participate in Treasury auctions online.
+The advent of digital platforms has made accessing and trading 6-Month T-Bills easier for individual investors. Platforms like TreasuryDirect allow individuals to participate in Treasury auctions online.
 
 ### International Participation
 Foreign governments and institutional investors often participate significantly in the T-Bill [market](../m/market.md). This international [demand](../d/demand.md) contributes to the [liquidity](../l/liquidity.md) and stability of T-Bill prices.
@@ -91,4 +91,4 @@ Foreign governments and institutional investors often participate significantly 
 
 6-Month Treasury Bills are a cornerstone of [short-term debt](../s/short-term_debt.md) instruments due to their safety, [liquidity](../l/liquidity.md), and role in [monetary policy](../m/monetary_policy.md). They are essential for various financial strategies, including [risk management](../r/risk_management.md), [arbitrage](../a/arbitrage.md), and [liquidity](../l/liquidity.md) positioning in [algorithmic trading](../a/algorithmic_trading.md) systems. The seamless integration of digital platforms and participation from global investors enhances their importance and accessibility in the ever-evolving financial landscape.
 
-For more details: [U.S. Department of the Treasury](https://www.treasurydirect.gov)
+For more details: U.S. Department of the Treasury

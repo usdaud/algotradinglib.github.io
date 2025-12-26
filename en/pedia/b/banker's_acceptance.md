@@ -4,7 +4,7 @@ A Banker's Acceptance (BA) is a [financial instrument](../f/financial_instrument
 
 ## Definition and Mechanism
 
-Banker's Acceptances are [short-term debt](../s/short-term_debt.md) instruments created as part of a commercial [transaction](../t/transaction.md). The process begins when an importer purchases goods from an exporter. In [order](../o/order.md) to facilitate the [payment](../p/payment.md), the importer draws a time draft on their [financing](../f/financing.md) [bank](../b/bank.md) for the amount payable to the exporter. The [bank](../b/bank.md) “accepts” this draft, guaranteeing the [payment](../p/payment.md) at a later date. 
+Banker's Acceptances are [short-term debt](../s/short-term_debt.md) instruments created as part of a commercial [transaction](../t/transaction.md). The process begins when an importer purchases goods from an exporter. In [order](../o/order.md) to facilitate the [payment](../p/payment.md), the importer draws a time draft on their [financing](../f/financing.md) [bank](../b/bank.md) for the amount payable to the exporter. The [bank](../b/bank.md) “accepts” this draft, guaranteeing the [payment](../p/payment.md) at a later date.
 
 The accepted draft becomes a Banker's Acceptance, which the exporter can either [hold](../h/hold.md) until [maturity](../m/maturity.md) or sell in the [secondary market](../s/secondary_market.md) at a [discount](../d/discount.md). This provides the exporter with immediate [liquidity](../l/liquidity.md) while the [bank](../b/bank.md) takes on the [credit risk](../c/credit_risk.md) of the importer.
 
@@ -65,15 +65,15 @@ The BA’s attractiveness and [value](../v/value.md) are inherently tied to the 
 
 ### JPMorgan Chase & Co.
 
-JPMorgan is a significant player in providing Banker's Acceptances, facilitating international [trade](../t/trade.md) transactions and [offering](../o/offering.md) [liquidity](../l/liquidity.md) solutions. More information can be found on their [official website](https://www.jpmorgan.com/).
+JPMorgan is a significant player in providing Banker's Acceptances, facilitating international [trade](../t/trade.md) transactions and [offering](../o/offering.md) [liquidity](../l/liquidity.md) solutions.
 
 ### HSBC
 
-Known for its extensive global reach, HSBC offers BA services primarily to facilitate [trade](../t/trade.md) in emerging markets. Visit their [official website](https://www.hsbc.com/) for more details.
+Known for its extensive global reach, HSBC offers BA services primarily to facilitate [trade](../t/trade.md) in emerging markets.
 
 ### Citibank
 
-Citibank, with its broad international network, provides BAs to support [import](../i/import.md) and [export](../e/export.md) activities. Details are available on their [official site](https://www.citigroup.com/).
+Citibank, with its broad international network, provides BAs to support [import](../i/import.md) and [export](../e/export.md) activities. Details are available from Citibank.
 
 ## Regulatory and Market Environment
 

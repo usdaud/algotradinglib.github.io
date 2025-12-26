@@ -107,10 +107,10 @@ Robo-advisors [leverage](../l/leverage.md) algorithms to provide cost-effective,
 Mobile applications have made investment advisory services more accessible, allowing clients to manage their investments and communicate with their advisors on the go. These apps [offer](../o/offer.md) features like real-time portfolio tracking, [financial planning](../f/financial_planning.md) tools, and secure messaging.
 
 For more information on some of these firms, you can visit their respective websites:
-- [Vanguard](https://www.vanguard.com)
-- [Charles Schwab](https://www.schwab.com)
-- [Fidelity Investments](https://www.fidelity.com)
-- [BlackRock](https://www.blackrock.com)
-- [Edward Jones](https://www.edwardjones.com)
+- Vanguard
+- Charles Schwab
+- Fidelity Investments
+- BlackRock
+- Edward Jones
 
 The role of an investment advisor is multi-faceted and dynamic, requiring a blend of analytical skills, [market](../m/market.md) knowledge, and client-focused strategies. As markets evolve and technology advances, the strategies and tools available to investment advisors continue to improve, [offering](../o/offering.md) enhanced services and better outcomes for clients.

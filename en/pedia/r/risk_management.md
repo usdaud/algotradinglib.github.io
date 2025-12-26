@@ -28,7 +28,7 @@
 ## Risk Management Tools and Techniques
 
 ### 1. RiskMetrics
-Developed by J.P. Morgan, RiskMetrics is an [industry](../i/industry.md)-standard framework for identifying, measuring, and managing [market](../m/market.md) risks. The methodology provides a consistent approach to [risk](../r/risk.md) management by using VaR and other statistical measures (http://www.msci.com/).
+Developed by J.P. Morgan, RiskMetrics is an [industry](../i/industry.md)-standard framework for identifying, measuring, and managing [market](../m/market.md) risks. The methodology provides a consistent approach to [risk](../r/risk.md) management by using VaR and other statistical measures (
 
 ### 2. Algorithm Backtesting
 [Backtesting](../b/backtesting.md) involves running the algorithm against historical data to identify how it would have performed in different [market](../m/market.md) conditions. This helps in recognizing potential weaknesses in the strategy and in understanding the [risk](../r/risk.md) profile.
@@ -37,13 +37,13 @@ Developed by J.P. Morgan, RiskMetrics is an [industry](../i/industry.md)-standar
 Monte Carlo simulations provide a means to account for [uncertainty](../u/uncertainty_in_trading.md) in [forecasting models](../f/forecasting_models.md). By generating thousands of random scenarios and mapping potential outcomes, traders can better estimate [risk](../r/risk.md) and [uncertainty](../u/uncertainty_in_trading.md).
 
 ### 4. Portfolio Optimization
-[Optimization](../o/optimization.md) techniques, often based on mean-[variance analysis](../v/variance_analysis.md), help to construct portfolios that maximize expected returns for a given level of [risk](../r/risk.md). Tools such as Modern Portfolio Theory (MPT) by [Harry Markowitz](../h/harry_markowitz.md) [offer](../o/offer.md) quantitative methods for [optimization](../o/optimization.md) (https://www.econ.iastate.edu/hmarkowitz).
+[Optimization](../o/optimization.md) techniques, often based on mean-[variance analysis](../v/variance_analysis.md), help to construct portfolios that maximize expected returns for a given level of [risk](../r/risk.md). Tools such as Modern Portfolio Theory (MPT) by [Harry Markowitz](../h/harry_markowitz.md) [offer](../o/offer.md) quantitative methods for [optimization](../o/optimization.md) (
 
 ### 5. Machine Learning
-[Machine learning](../m/machine_learning.md) models can dynamically adjust to new information and continually refine their predictions. These models can be used for [risk](../r/risk.md) estimation, [fraud](../f/fraud.md) detection, and in optimizing [trading algorithms](../t/trading_algorithms.md). Companies like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) platforms to integrate [machine learning](../m/machine_learning.md) in [algorithmic trading](../a/algorithmic_trading.md) strategies (https://www.[quantconnect](../q/quantconnect.md).com/).
+[Machine learning](../m/machine_learning.md) models can dynamically adjust to new information and continually refine their predictions. These models can be used for [risk](../r/risk.md) estimation, [fraud](../f/fraud.md) detection, and in optimizing [trading algorithms](../t/trading_algorithms.md). Companies like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) platforms to integrate [machine learning](../m/machine_learning.md) in [algorithmic trading](../a/algorithmic_trading.md) strategies (
 
 ### 6. Real-Time Risk Monitoring
-Advanced [software platforms](../s/software_platforms_for_trading.md) and dashboards provide real-time monitoring of [risk metrics](../r/risk_metrics.md) such as VaR, [beta](../b/beta.md), position sizes, and [stop-loss orders](../s/stop-loss_orders.md). Continuous monitoring enables swift corrective actions to be undertaken when [risk](../r/risk.md) parameters are breached. [Alpaca](../a/alpaca.md) provides API-based trading and [risk](../r/risk.md) management tools for better real-time intervention (https://[alpaca](../a/alpaca.md).markets/).
+Advanced [software platforms](../s/software_platforms_for_trading.md) and dashboards provide real-time monitoring of [risk metrics](../r/risk_metrics.md) such as VaR, [beta](../b/beta.md), position sizes, and [stop-loss orders](../s/stop-loss_orders.md). Continuous monitoring enables swift corrective actions to be undertaken when [risk](../r/risk.md) parameters are breached. [Alpaca](../a/alpaca.md) provides API-based trading and [risk](../r/risk.md) management tools for better real-time intervention (
 
 ## Risk Management in Different Types of Algorithmic Strategies
 

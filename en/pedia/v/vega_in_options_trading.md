@@ -59,8 +59,8 @@ Traders can exploit differences between [historical volatility](../h/historical_
 Large financial institutions like Goldman Sachs and Morgan Stanley are heavily involved in [options](../o/options.md) trading. For instance, Goldman Sachs uses sophisticated algorithms to [hedge](../h/hedge.md) their [options](../o/options.md) portfolios dynamically, minimizing [Vega](../v/vega.md) [risk](../r/risk.md). The institution's [risk management](../r/risk_management.md) frameworks meticulously account for [Vega](../v/vega.md) to ensure portfolio stability.
 
 More information about these companies can be found on their websites:
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [Morgan Stanley](https://www.morganstanley.com)
+- Goldman Sachs
+- Morgan Stanley
 
 ## Conclusion
 [Vega](../v/vega.md) is an indispensable metric for anyone involved in [options](../o/options.md) trading. It provides insight into how sensitive an option's price is to changes in [volatility](../v/volatility.md), enabling traders to make more informed decisions. Whether through [volatility](../v/volatility.md) [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), or [portfolio hedging](../p/portfolio_hedging.md), understanding [Vega](../v/vega.md) offers numerous ways to optimize trading outcomes and mitigate risks.

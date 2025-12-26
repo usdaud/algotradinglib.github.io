@@ -86,13 +86,13 @@ Advanced [project management](../p/project_management.md) [software tools](../s/
 ## Real-World Examples of Capital Projects
 
 ### Crossrail (The Elizabeth Line)
-Crossrail is one of Europe's largest [infrastructure](../i/infrastructure.md) projects, aiming to create a new railway line across London and its suburbs. The project involves constructing 42km of new tunnels and ten new stations. Crossrail is expected to significantly enhance transportation in the region upon completion. [More about Crossrail](http://www.crossrail.co.uk/).
+Crossrail is one of Europe's largest [infrastructure](../i/infrastructure.md) projects, aiming to create a new railway line across London and its suburbs. The project involves constructing 42km of new tunnels and ten new stations. Crossrail is expected to significantly enhance transportation in the region upon completion. More about Crossrail.
 
 ### Hudson Yards Development
-Hudson Yards in New York City is the largest private [real estate](../r/real_estate.md) development in U.S. history. The project includes commercial office spaces, residential buildings, a school, and retail spaces, covering 28 acres. It is a prime example of a multi-billion dollar [capital](../c/capital.md) project that redefines urban living. [More about Hudson Yards](https://www.hudsonyardsnewyork.com/).
+Hudson Yards in New York City is the largest private [real estate](../r/real_estate.md) development in U.S. history. The project includes commercial office spaces, residential buildings, a school, and retail spaces, covering 28 acres. It is a prime example of a multi-billion dollar [capital](../c/capital.md) project that redefines urban living. More about Hudson Yards.
 
 ### Tesla Gigafactory
-Tesla's Gigafactory 1 in Nevada is a significant [capital](../c/capital.md) project aiming to produce batteries for electric vehicles and energy storage solutions at scale. The factory aims to reach full capacity by mid-2020s, producing enough batteries to power 500,000 electric cars annually. [More about Gigafactory](https://www.tesla.com/gigafactory).
+Tesla's Gigafactory 1 in Nevada is a significant [capital](../c/capital.md) project aiming to produce batteries for electric vehicles and energy storage solutions at scale. The factory aims to reach full capacity by mid-2020s, producing enough batteries to power 500,000 electric cars annually. More about Gigafactory.
 
 ## Sustainability in Capital Projects
 

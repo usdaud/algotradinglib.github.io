@@ -17,16 +17,16 @@ Reimbursement is the act of compensating someone for an out-of-pocket [expense](
 ## Types of Reimbursement
 
 ### 1. **Business Reimbursement**
-   This is common in corporate settings where employees may have to incur expenses for travel, accommodation, meals, training, or other [business](../b/business.md)-related activities. Companies often have set policies outlining what qualifies for reimbursement and the documentation required.
+ This is common in corporate settings where employees may have to incur expenses for travel, accommodation, meals, training, or other [business](../b/business.md)-related activities. Companies often have set policies outlining what qualifies for reimbursement and the documentation required.
 
 ### 2. **Healthcare Reimbursement**
-   In the [healthcare sector](../h/healthcare_sector.md), reimbursement typically refers to the [payment](../p/payment.md) that doctors, hospitals, and other healthcare providers receive for providing medical services to patients. In most cases, these payments are made by [insurance](../i/insurance.md) companies or government programs like Medicare and [Medicaid](../m/medicaid.md).
+ In the [healthcare sector](../h/healthcare_sector.md), reimbursement typically refers to the [payment](../p/payment.md) that doctors, hospitals, and other healthcare providers receive for providing medical services to patients. In most cases, these payments are made by [insurance](../i/insurance.md) companies or government programs like Medicare and [Medicaid](../m/medicaid.md).
 
 ### 3. **Government Reimbursement**
-   Government employees and contractors may incur expenses that are reimbursable. This can include travel costs, lodging, and other expenses related to official duties.
+ Government employees and contractors may incur expenses that are reimbursable. This can include travel costs, lodging, and other expenses related to official duties.
 
 ### 4. **Education Reimbursement**
-   Educational institutions sometimes reimburse students or staff for expenses related to research, conferences, or other academic activities.
+ Educational institutions sometimes reimburse students or staff for expenses related to research, conferences, or other academic activities.
 
 ## How Reimbursement Works
 

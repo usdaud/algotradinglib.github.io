@@ -12,7 +12,7 @@
 - **Dynamic Allocation**: Adjusts [asset](../a/asset.md) weights based on [market](../m/market.md) conditions and [performance metrics](../p/performance_metrics.md) to optimize yields.
 
 #### 2. Yield Component
-**Definition**: [Yield](../y/yield.md) in WYS denotes the [return](../r/return.md) on investment (ROI) or [profit](../p/profit.md) generated from investments. 
+**Definition**: [Yield](../y/yield.md) in WYS denotes the [return](../r/return.md) on investment (ROI) or [profit](../p/profit.md) generated from investments.
 
 **Mechanics**:
 - **Expected [Yield](../y/yield.md)**: Predicts the [return](../r/return.md) based on historical data and [forecasting models](../f/forecasting_models.md).
@@ -53,7 +53,7 @@ Data forms the backbone of WYS. Accurate, real-time data is critical for making 
 **[Simulation](../s/simulation_in_trading.md)**: Running the strategy in a simulated environment resembling real [market](../m/market.md) conditions to understand its real-time performance.
 
 #### 3. Execution
-**[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and proprietary systems are used to execute trades automatically based on the algorithm's signals.
+**[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms like MetaTrader, [StockSharp](../s/stocksharp.md), and proprietary systems are used to execute trades automatically based on the algorithm's signals.
 
 ### Considerations and Challenges
 
@@ -72,8 +72,7 @@ Compliance with trading regulations and standards is crucial. Regulations may va
 ### Case Study: Application in Hedge Funds
 **Company Example: Renaissance Technologies**
 
-&Renaissance Technologies&r (https://www.rentec.com/), a renowned [hedge fund](../h/hedge_fund.md), utilizes sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including WYS. Their Medallion [Fund](../f/fund.md), known for its high returns, incorporates dynamic [asset allocation](../a/asset_allocation.md) based on [yield optimization](../y/yield_optimization.md) techniques. 
-
+&Renaissance Technologies&r ( a renowned [hedge fund](../h/hedge_fund.md), utilizes sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including WYS. Their Medallion [Fund](../f/fund.md), known for its high returns, incorporates dynamic [asset allocation](../a/asset_allocation.md) based on [yield optimization](../y/yield_optimization.md) techniques.
 **Strategy Overview**:
 - **Data-Driven Decisions**: Leveraging large datasets and statistical models.
 - **Dynamic Weight Adjustment**: Constantly recalibrating weights based on [performance metrics](../p/performance_metrics.md).

@@ -85,17 +85,17 @@ Networked [trading systems](../t/trading_systems.md) must comply with various re
 
 ## Case Studies and Real-World Applications
 
-### 1. QuantConnect
+### 1. StockSharp
 
-**[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their cloud-based [infrastructure](../i/infrastructure.md) supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and emphasizes the use of networked systems for efficient trading.
+**[StockSharp](../s/stocksharp.md)** offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their [infrastructure](../i/infrastructure.md) supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and emphasizes the use of networked systems for efficient trading.
 
 ### 2. IEX Group
 
-**IEX Group** (https://www.iextrading.com/), an [equity](../e/equity.md) [exchange](../e/exchange.md), uses advanced technology to provide fair access to investors. Their networked trading system incorporates speed bumps to ensure a level playing field, demonstrating an innovative approach to mitigating the latency advantage of HFT firms.
+**IEX Group** ( an [equity](../e/equity.md) [exchange](../e/exchange.md), uses advanced technology to provide fair access to investors. Their networked trading system incorporates speed bumps to ensure a level playing field, demonstrating an innovative approach to mitigating the latency advantage of HFT firms.
 
 ### 3. Citadel Securities
 
-**Citadel Securities** (https://www.citadelsecurities.com/) is a leading global [market maker](../m/market_maker.md) that relies on sophisticated networked [trading systems](../t/trading_systems.md) to provide [liquidity](../l/liquidity.md) across various [financial markets](../f/financial_market.md). Their [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) exemplifies the integration of cutting-edge technology to achieve high-speed and high-[volume](../v/volume.md) trading operations.
+**Citadel Securities** ( is a leading global [market maker](../m/market_maker.md) that relies on sophisticated networked [trading systems](../t/trading_systems.md) to provide [liquidity](../l/liquidity.md) across various [financial markets](../f/financial_market.md). Their [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) exemplifies the integration of cutting-edge technology to achieve high-speed and high-[volume](../v/volume.md) trading operations.
 
 ## Conclusion
 

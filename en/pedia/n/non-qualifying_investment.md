@@ -7,13 +7,13 @@ Non-Qualifying Investments (NQIs) refer to investments that do not meet specific
 NQIs can be identified by a few common characteristics:
 
 1. **Regulatory Non-Compliance**: They do not adhere to specific regulations set forth by governing bodies like the U.S. Internal [Revenue](../r/revenue.md) Service (IRS) or the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC).
-   
+
 2. **[Risk](../r/risk.md) Profile**: Often, these investments may present a higher [risk](../r/risk.md) due to less regulation or scrutiny.
-   
+
 3. **Tax Treatment**: They do not qualify for special tax treatments available to qualifying investments, which can result in higher tax liabilities for investors.
-   
+
 4. **[Liquidity](../l/liquidity.md)**: NQIs can sometimes be less [liquid](../l/liquid.md) than qualifying investments, making it harder to buy or sell without affecting the [market price](../m/market_price.md).
-   
+
 5. **[Transparency](../t/transparency.md)**: There might be a lack of [transparency](../t/transparency.md) regarding these investments, making it difficult for investors to understand the exact nature and risks involved.
 
 ## Examples of Non-Qualifying Investments
@@ -21,11 +21,11 @@ NQIs can be identified by a few common characteristics:
 Examples of NQIs vary across different investment vehicles and regulatory environments. Here are a few notable examples:
 
 1. **Certain [Real Estate](../r/real_estate.md) Investments**: Many direct [real estate](../r/real_estate.md) investments (unless held in a [Real Estate](../r/real_estate.md) Investment [Trust](../t/trust.md), or REIT) do not qualify for [tax-advantaged](../t/tax-advantaged.md) retirement accounts.
-   
+
 2. **Collectibles**: Items such as art, antiques, and precious metals (excluding certain bullion coins) are typically considered NQIs and are not eligible for inclusion in [tax-advantaged](../t/tax-advantaged.md) retirement accounts like IRAs.
-   
+
 3. **Commodities**: Direct investments in commodities [futures](../f/futures.md) are usually non-qualifying for certain portfolio inclusions.
-   
+
 4. **Securities of Limited Partnerships**: Limited partnerships often do not qualify for certain tax benefits.
 
 5. **Foreign Securities**: [Investing](../i/investing.md) in foreign companies' [stocks](../s/stock.md) can sometimes be non-qualifying due to various regulatory constraints and tax treatments.
@@ -35,9 +35,9 @@ Examples of NQIs vary across different investment vehicles and regulatory enviro
 Several regulatory bodies establish the criteria that determine qualifying versus non-qualifying investments:
 
 1. **IRS (Internal [Revenue](../r/revenue.md) Service)**: Sets guidelines for what types of investments can be included in [tax-advantaged](../t/tax-advantaged.md) accounts like Individual Retirement Accounts (IRAs) and 401(k) plans.
-   
+
 2. **SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md))**: Establishes regulations for public trading and [disclosure](../d/disclosure.md) requirements for securities, impacting the qualification criteria for various investments.
-   
+
 3. **FINRA (Financial [Industry](../i/industry.md) Regulatory Authority)**: Provides oversight and regulatory guidelines for brokers and trading practices, indirectly influencing investment classifications.
 
 4. **Department of Labor**: Offers [guidance](../g/guidance.md) on what investments are permissible within certain employee benefit plans.

@@ -23,7 +23,7 @@ There are several methods that companies use to estimate the allowance for [bad 
 
 Under the percentage of sales method, a company estimates [bad debt](../b/bad_debt.md) based on a fixed percentage of [credit](../c/credit.md) sales. This percentage is typically derived from historical [bad debt](../b/bad_debt.md) experience and is applied to the total [credit](../c/credit.md) sales for the period to determine the [bad debt expense](../b/bad_debt_expense.md).
 
-**Formula**: 
+**Formula**:
 \[ \text{[Bad Debt Expense](../b/bad_debt_expense.md)} = \text{[Credit](../c/credit.md) Sales} \times \text{Estimated Percentage} \]
 
 ### Percentage of Accounts Receivable Method
@@ -53,8 +53,8 @@ Consider a company with the following aging schedule for accounts [receivable](.
 
 The calculation would be:
 
-\[ 
-(50,000 \times 0.01) + (30,000 \times 0.05) + (20,000 \times 0.10) + (10,000 \times 0.25) = 500 + 1,500 + 2,000 + 2,500 = 6,500 
+\[
+(50,000 \times 0.01) + (30,000 \times 0.05) + (20,000 \times 0.10) + (10,000 \times 0.25) = 500 + 1,500 + 2,000 + 2,500 = 6,500
 \]
 
 Thus, the allowance for [bad debt](../b/bad_debt.md) would be $6,500.
@@ -67,33 +67,33 @@ To record the allowance for [bad debt](../b/bad_debt.md), companies must make th
 
 1. **Initial Setup**:
 
-\[ 
-\text{[Bad Debt Expense](../b/bad_debt_expense.md) ([Income Statement](../i/income_statement.md))} \quad \text{[Debit](../d/debit.md)} \quad 6,500 
+\[
+\text{[Bad Debt Expense](../b/bad_debt_expense.md) ([Income Statement](../i/income_statement.md))} \quad \text{[Debit](../d/debit.md)} \quad 6,500
 \]
-\[ 
-\text{Allowance for [Bad Debt](../b/bad_debt.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Credit](../c/credit.md)} \quad 6,500 
+\[
+\text{Allowance for [Bad Debt](../b/bad_debt.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Credit](../c/credit.md)} \quad 6,500
 \]
 
 2. **Writing off a Specific [Receivable](../r/receivable.md)**:
 
 When a specific [receivable](../r/receivable.md) is determined to be uncollectible, it is written off against the allowance for [bad debt](../b/bad_debt.md).
 
-\[ 
-\text{Allowance for [Bad Debt](../b/bad_debt.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Debit](../d/debit.md)} \quad 1,000 
+\[
+\text{Allowance for [Bad Debt](../b/bad_debt.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Debit](../d/debit.md)} \quad 1,000
 \]
-\[ 
-\text{Accounts [Receivable](../r/receivable.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Credit](../c/credit.md)} \quad 1,000 
+\[
+\text{Accounts [Receivable](../r/receivable.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Credit](../c/credit.md)} \quad 1,000
 \]
 
 3. **Adjusting Allowance**:
 
 At the end of each period, companies adjust the allowance for [bad debt](../b/bad_debt.md) based on updated estimates and [write-offs](../w/write-offs_in_trading.md) during the period.
 
-\[ 
-\text{[Bad Debt Expense](../b/bad_debt_expense.md) ([Income Statement](../i/income_statement.md))} \quad \text{[Debit](../d/debit.md)} \quad (Adjusted Amount) 
+\[
+\text{[Bad Debt Expense](../b/bad_debt_expense.md) ([Income Statement](../i/income_statement.md))} \quad \text{[Debit](../d/debit.md)} \quad (Adjusted Amount)
 \]
-\[ 
-\text{Allowance for [Bad Debt](../b/bad_debt.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Credit](../c/credit.md)} \quad (Adjusted Amount) 
+\[
+\text{Allowance for [Bad Debt](../b/bad_debt.md) ([Balance Sheet](../b/balance_sheet.md))} \quad \text{[Credit](../c/credit.md)} \quad (Adjusted Amount)
 \]
 
 ## Impact on Financial Ratios

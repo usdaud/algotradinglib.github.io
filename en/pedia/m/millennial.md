@@ -36,7 +36,7 @@ The influence of [social media](../s/social_media.md) has contributed to increas
 
 #### Growth of Fintech
 
-The adoption of fintech solutions is accelerating due to millennial preferences for convenience, [transparency](../t/transparency.md), and lower fees associated with digital investment platforms. Fintech companies such as [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com), Acorns (https://www.acorns.com), and Betterment (https://www.betterment.com) have gained considerable [market share](../m/market_share.md) due to millennial activity.
+The adoption of fintech solutions is accelerating due to millennial preferences for convenience, [transparency](../t/transparency.md), and lower fees associated with digital investment platforms. Fintech companies such as [Robinhood](../r/robinhood.md) ( Acorns ( and Betterment ( have gained considerable [market share](../m/market_share.md) due to millennial activity.
 
 #### Changing Dynamics in Real Estate and Commodities
 

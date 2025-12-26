@@ -21,9 +21,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), understanding [drawdown](
 ### Types of Drawdowns
 
 - **Absolute [Drawdown](../d/drawdown.md):** This is the difference between the initial investment and the lowest point during the trading period. It measures the amount of potential loss.
-  
+
 - **Maximum [Drawdown](../d/drawdown.md):** This represents the maximum observed loss from a peak to a [trough](../t/trough.md) and is considered the most critical form of [drawdown](../d/drawdown.md) as it indicates the worst-case scenario.
-  
+
 - **Relative [Drawdown](../d/drawdown.md):** Unlike absolute [drawdown](../d/drawdown.md), relative [drawdown](../d/drawdown.md) is expressed as a percentage and measures the relative loss with respect to the peak [value](../v/value.md).
 
 ## Factors Contributing to Worst Drawdowns
@@ -106,26 +106,26 @@ Utilizing [risk management](../r/risk_management.md) metrics such as [Value](../
 
 Several Python libraries are specifically designed for analyzing drawdowns. Libraries like `PyPortfolioOpt` provide functionalities for [portfolio optimization](../p/portfolio_optimization.md) and [risk](../r/risk.md) assessment.
 
-- [PyPortfolioOpt Documentation](https://pyportfolioopt.readthedocs.io/en/latest/)
+- PyPortfolioOpt Documentation
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) and analysis tools. It allows traders to develop, backtest, and deploy algorithms using real [market](../m/market.md) data.
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) and analysis tools. It allows traders to develop, backtest, and deploy algorithms using real [market](../m/market.md) data.
 
-- [QuantConnect](https://www.quantconnect.com/)
+- QuantConnect
 
 ### Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) [offer](../o/offer.md) an array of tools for managing and analyzing drawdowns, including real-time [risk management](../r/risk_management.md) and [portfolio analysis](../p/portfolio_analysis.md) tools.
 
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- Interactive Brokers
 
 ### Algorithmic Trading Platforms
 
 Platforms like MetaTrader and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) integrated [risk management](../r/risk_management.md) and [drawdown analysis](../d/drawdown_analysis.md) tools. These platforms are widely used for developing and deploying [trading algorithms](../t/trading_algorithms.md).
 
-- [MetaTrader](https://www.metatrader4.com/)
-- [NinjaTrader](https://ninjatrader.com/)
+- MetaTrader
+- NinjaTrader
 
 ## Conclusion
 

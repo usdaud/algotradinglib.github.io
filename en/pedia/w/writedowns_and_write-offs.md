@@ -93,15 +93,10 @@ During the 2008 [financial crisis](../f/financial_crisis.md), numerous financial
 Several companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and [offer](../o/offer.md) solutions that help manage the complexities associated with [writedowns](../w/writedowns_in_trading.md) and [write-offs](../w/write-offs_in_trading.md). Some of these companies include:
 
 - **Two Sigma Investments**: A [firm](../f/firm.md) leveraging [machine learning](../m/machine_learning.md), distributed computing, and massive amounts of data to develop sophisticated [trading algorithms](../t/trading_algorithms.md).
-  [Two Sigma Investments](https://www.twosigma.com/)
 - **Citadel**: A global financial institution employing algorithms for trading across various [asset](../a/asset.md) classes.
-  [Citadel](https://www.citadel.com/)
 - **Jane Street [Capital](../c/capital.md)**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that uses [quantitative trading](../q/quantitative_trading.md) strategies and algorithms.
-  [Jane Street Capital](https://www.janestreet.com/)
 - **Virtu Financial**: Specializes in electronic [market](../m/market.md) making and [algorithmic trading](../a/algorithmic_trading.md).
-  [Virtu Financial](https://www.virtu.com/)
 - **Renaissance Technologies**: Known for their Medallion [Fund](../f/fund.md), this [firm](../f/firm.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to guide their [trading strategies](../t/trading_strategies.md).
-  [Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 

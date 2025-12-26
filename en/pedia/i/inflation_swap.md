@@ -105,20 +105,17 @@ Changes in [interest](../i/interest.md) rates, [inflation](../i/inflation.md) ex
 Several financial institutions are key players in the [inflation](../i/inflation.md) [swap](../s/swap.md) [market](../m/market.md), providing [liquidity](../l/liquidity.md), structuring, and trading services:
 
 - **Goldman Sachs:**
-  Goldman Sachs is a well-known player in the [derivatives](../d/derivatives.md) [market](../m/market.md), including [inflation](../i/inflation.md) swaps. They [offer](../o/offer.md) a [range](../r/range.md) of products and services to [hedge](../h/hedge.md) [inflation](../i/inflation.md) [risk](../r/risk.md).
-  [Goldman Sachs](https://www.goldmansachs.com/)
+ Goldman Sachs is a well-known player in the [derivatives](../d/derivatives.md) [market](../m/market.md), including [inflation](../i/inflation.md) swaps. They [offer](../o/offer.md) a [range](../r/range.md) of products and services to [hedge](../h/hedge.md) [inflation](../i/inflation.md) [risk](../r/risk.md).
 
 - **J.P. Morgan:**
-  J.P. Morgan is another major participant in the [inflation](../i/inflation.md) [swap](../s/swap.md) [market](../m/market.md), providing various [inflation](../i/inflation.md)-linked products to institutional clients.
-  [J.P. Morgan](https://www.jpmorgan.com/)
+ J.P. Morgan is another major participant in the [inflation](../i/inflation.md) [swap](../s/swap.md) [market](../m/market.md), providing various [inflation](../i/inflation.md)-linked products to institutional clients.
+ J.P. Morgan
 
 - **Morgan Stanley:**
-  Morgan Stanley offers [inflation](../i/inflation.md) swaps and related services to clients seeking to manage [inflation](../i/inflation.md) exposure.
-  [Morgan Stanley](https://www.morganstanley.com/)
+ Morgan Stanley offers [inflation](../i/inflation.md) swaps and related services to clients seeking to manage [inflation](../i/inflation.md) exposure.
 
 - **Deutsche [Bank](../b/bank.md):**
-  Deutsche [Bank](../b/bank.md) is known for its [derivatives](../d/derivatives.md) trading capabilities, including [inflation](../i/inflation.md) swaps tailored to client needs.
-  [Deutsche Bank](https://www.db.com/)
+ Deutsche [Bank](../b/bank.md) is known for its [derivatives](../d/derivatives.md) trading capabilities, including [inflation](../i/inflation.md) swaps tailored to client needs.
 
 ## Conclusion
 

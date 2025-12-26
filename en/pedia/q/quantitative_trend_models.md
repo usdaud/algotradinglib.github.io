@@ -8,7 +8,7 @@ Quantitative [trend](../t/trend.md) models are a critical aspect of [algorithmic
 Moving averages are one of the simplest and most widely used [trend](../t/trend.md)-following tools. They smooth out price data to create a single flowing line that traders can use to identify the [market](../m/market.md) [trend](../t/trend.md) direction.
 
 #### Simple Moving Average (SMA)
-A Simple Moving Average is calculated by taking the [arithmetic mean](../a/arithmetic_mean.md) of a given set of prices over a specific number of days in the past. 
+A Simple Moving Average is calculated by taking the [arithmetic mean](../a/arithmetic_mean.md) of a given set of prices over a specific number of days in the past.
 
 For example, a [10-day SMA](../1/10-day_sma.md) is the average of the closing prices from the last 10 days.
 
@@ -31,7 +31,7 @@ MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicat
 - [Histogram](../h/histogram.md): MACD Line - Signal Line
 
 ### 3. Bollinger Bands
-[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (typically a 20-day SMA) and two outer bands set two standard deviations above and below the middle band. 
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (typically a 20-day SMA) and two outer bands set two standard deviations above and below the middle band.
 
 #### Components of Bollinger Bands:
 - Upper Band: SMA + 2 standard deviations
@@ -78,7 +78,7 @@ The raw data used in quantitative [trend](../t/trend.md) models includes histori
 This involves transforming raw data into useful features that can enhance model performance. Examples include moving averages, [volatility](../v/volatility.md) metrics, and [sentiment indicators](../s/sentiment_indicators.md).
 
 ### Model Building
-This is the process of selecting and calibrating a mathematical or computational model that can accurately capture [market](../m/market.md) trends. 
+This is the process of selecting and calibrating a mathematical or computational model that can accurately capture [market](../m/market.md) trends.
 
 ### Backtesting
 [Backtesting](../b/backtesting.md) involves testing the model on historical data to evaluate its performance. This helps in understanding the model’s effectiveness and robustness.
@@ -106,16 +106,16 @@ Traders use [trend](../t/trend.md) models to analyze price trends in commodities
 ## Industry Examples
 
 ### Renaissance Technologies
-Renaissance Technologies is a prominent example of a [hedge fund](../h/hedge_fund.md) that uses [quantitative models](../q/quantitative_models.md) to manage investments. Their Medallion [Fund](../f/fund.md) is famous for its outstanding returns driven by sophisticated quantitative techniques. [Link to Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is a prominent example of a [hedge fund](../h/hedge_fund.md) that uses [quantitative models](../q/quantitative_models.md) to manage investments. Their Medallion [Fund](../f/fund.md) is famous for its outstanding returns driven by sophisticated quantitative techniques. Link to Renaissance Technologies
 
 ### D. E. Shaw & Co.
-D. E. Shaw & Co. is another leading [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. They employ advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to identify [market](../m/market.md) trends and opportunities. [Link to D. E. Shaw & Co.](https://www.deshaw.com/)
+D. E. Shaw & Co. is another leading [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. They employ advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to identify [market](../m/market.md) trends and opportunities. Link to D. E. Shaw & Co.
 
 ### Two Sigma Investments
-Two Sigma Investments leverages [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to build models that identify subtle [market](../m/market.md) inefficiencies and trends. [Link to Two Sigma Investments](https://www.twosigma.com/)
+Two Sigma Investments leverages [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to build models that identify subtle [market](../m/market.md) inefficiencies and trends. Link to Two Sigma Investments
 
 ### AQR Capital Management
-AQR [Capital](../c/capital.md) Management blends quantitative and investment research to develop models for [trend](../t/trend.md)-following, [risk parity](../r/risk_parity.md), and other strategies to deliver consistent returns. [Link to AQR Capital Management](https://www.aqr.com/)
+AQR [Capital](../c/capital.md) Management blends quantitative and investment research to develop models for [trend](../t/trend.md)-following, [risk parity](../r/risk_parity.md), and other strategies to deliver consistent returns. Link to AQR Capital Management
 
 ## Conclusion
 Quantitative [trend](../t/trend.md) models are an essential part of the [algorithmic trading](../a/algorithmic_trading.md) landscape. They [offer](../o/offer.md) sophisticated tools for analyzing [market](../m/market.md) behavior and making informed trading decisions. By leveraging diverse techniques, including statistical methods, [machine learning](../m/machine_learning.md), and [signal processing](../s/signal_processing_in_trading.md), traders can effectively capture and exploit [market](../m/market.md) trends. As the [financial markets](../f/financial_market.md) continue to evolve, the role of quantitative [trend](../t/trend.md) models in ensuring competitive trading edge remains invaluable.

@@ -91,6 +91,6 @@ Clustering algorithms are powerful tools that can enhance various aspects of alg
 
 For more information on specific algorithm implementations and use cases, you can visit the following resources:
 
-- [Scikit-learn - Clustering](https://scikit-learn.org/stable/modules/clustering.html)
-- [DBSCAN Overview](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
-- [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+- Scikit-learn - Clustering
+- DBSCAN Overview
+- K-means Clustering

@@ -67,19 +67,18 @@ As with any technology that collects and uses personal data, privacy and [securi
 ## Companies Leading the VR Revolution
 
 ### 1. Oculus (Facebook Technologies)
-Oculus, acquired by Facebook (now Meta), is one of the leading names in VR. They [offer](../o/offer.md) a [range](../r/range.md) of VR headsets including the Oculus Rift for PC and the standalone Oculus Quest series. Meta is heavily [investing](../i/investing.md) in the creation of the "Metaverse," a collective virtual shared space (https://www.oculus.com/).
+Oculus, acquired by Facebook (now Meta), is one of the leading names in VR. They [offer](../o/offer.md) a [range](../r/range.md) of VR headsets including the Oculus Rift for PC and the standalone Oculus Quest series. Meta is heavily [investing](../i/investing.md) in the creation of the "Metaverse," a collective virtual shared space (
 
 ### 2. HTC Vive
-HTC Vive has developed a series of high-performance VR headsets aimed at both consumer and professional sectors. Their Vive Pro and Vive Cosmos series are renowned for their immersive experience and detailed tracking capabilities (https://www.vive.com/).
-
+HTC Vive has developed a series of high-performance VR headsets aimed at both consumer and professional sectors. Their Vive Pro and Vive Cosmos series are renowned for their immersive experience and detailed tracking capabilities
 ### 3. Sony PlayStation VR
-Sony has introduced VR to the console gaming world with the PlayStation VR. Compatible with the PlayStation 4 and PlayStation 5, it offers a [range](../r/range.md) of gaming experiences in a dedicated ecosystem (https://www.playstation.com/en-us/explore/playstation-vr/).
+Sony has introduced VR to the console gaming world with the PlayStation VR. Compatible with the PlayStation 4 and PlayStation 5, it offers a [range](../r/range.md) of gaming experiences in a dedicated ecosystem (
 
 ### 4. Valve Index
-Valve [Corporation](../c/corporation.md) offers the Valve [Index](../i/index_instrument.md), a high-end VR system known for its excellent display and exceptional tracking technology. Valve's Steam platform also provides a [robust](../r/robust.md) library of VR content, bolstering the appeal of their hardware (https://www.valvesoftware.com/en/[index](../i/index_instrument.md)).
+Valve [Corporation](../c/corporation.md) offers the Valve [Index](../i/index_instrument.md), a high-end VR system known for its excellent display and exceptional tracking technology. Valve's Steam platform also provides a [robust](../r/robust.md) library of VR content, bolstering the appeal of their hardware (
 
 ### 5. Microsoft HoloLens
-While primarily an AR device, Microsoft HoloLens also encompasses elements of VR. It is particularly focused on enterprise applications, enabling businesses to [leverage](../l/leverage.md) mixed reality for training, design, and more (https://www.microsoft.com/en-us/hololens).
+While primarily an AR device, Microsoft HoloLens also encompasses elements of VR. It is particularly focused on enterprise applications, enabling businesses to [leverage](../l/leverage.md) mixed reality for training, design, and more (
 
 ## Conclusion
 

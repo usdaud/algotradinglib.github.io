@@ -51,14 +51,10 @@ The 20-year [bond](../b/bond.md), a type of [fixed-income security](../f/fixed-i
 
 ### Algorithmic Trading Platforms
 
-1. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source, cloud-based platform providing extensive tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) [https://www.quantconnect.com/](https://www.quantconnect.com/).
-2. **[MultiCharts](../m/multicharts.md):** A professional [trade](../t/trade.md) analysis and strategy [backtesting](../b/backtesting.md) software designed for advanced traders [https://www.multicharts.com/](https://www.multicharts.com/).
-
+1. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source, cloud-based platform providing extensive tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) 2. **[MultiCharts](../m/multicharts.md):** A professional [trade](../t/trade.md) analysis and strategy [backtesting](../b/backtesting.md) software designed for advanced traders
 ### Data Providers
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal:** A leading source for real-time financial data, news, and analytics, extensively used in the trading community [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
-2. **Thomson [Reuters](../r/reuters.md) Eikon:** Offers a comprehensive suite of financial data, analytics, and trading capabilities [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software).
-
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** A leading source for real-time financial data, news, and analytics, extensively used in the trading community 2. **Thomson [Reuters](../r/reuters.md) Eikon:** Offers a comprehensive suite of financial data, analytics, and trading capabilities
 ## Case Studies and Real-World Applications
 
 ### Government Bond Trading
@@ -80,4 +76,4 @@ The 20-year [bond](../b/bond.md), a type of [fixed-income security](../f/fixed-i
 
 The 20-year [bond](../b/bond.md) presents a crucial element in the fixed-[income](../i/income.md) markets, [offering](../o/offering.md) opportunities for both conservative long-term investors and active algorithmic traders. Understanding the intricacies of [bond](../b/bond.md) characteristics, [market dynamics](../m/market_dynamics.md), and advanced [trading strategies](../t/trading_strategies.md) is essential for leveraging this [asset class](../a/asset_class.md) effectively. [Algorithmic trading](../a/algorithmic_trading.md) platforms and [quantitative models](../q/quantitative_models.md) play a pivotal role in navigating the complexities of the [bond market](../b/bond_market.md) and optimizing trading outcomes.
 
-In an era of rapid technological advancements and data-driven insights, the strategic [incorporation](../i/incorporation.md) of 20-year bonds within an [algorithmic trading](../a/algorithmic_trading.md) framework can significantly enhance [portfolio performance](../p/portfolio_performance.md) while managing associated risks.
+In an era of rapid technological advancements and data-driven insights, the strategic [incorporation](../i/incorporation.md) of 20-year bonds within an [algorithmic trading](../a/algorithmic_trading.md) framework can significantly enhance [portfolio performance](../p/portfolio_performance.md) while managing associated risks.

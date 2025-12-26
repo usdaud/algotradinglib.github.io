@@ -11,8 +11,8 @@ An [uptrend](../u/uptrend.md) is a consistent upward movement in the price of a 
 1. **Higher Highs**: Each successive peak in the price chart is higher than the previous one.
 2. **Higher Lows**: Each successive [trough](../t/trough.md) in the price chart is higher than the previous one.
 3. **Trendlines**: Two types of trendlines are crucial in identifying an [uptrend](../u/uptrend.md):
-    - **Primary [Trendline](../t/trendline.md)**: Drawn along the lows, serving as a support line.
-    - **Secondary [Trendline](../t/trendline.md)**: Drawn along the highs, acting as a resistance line.
+ - **Primary [Trendline](../t/trendline.md)**: Drawn along the lows, serving as a support line.
+ - **Secondary [Trendline](../t/trendline.md)**: Drawn along the highs, acting as a resistance line.
 
 ## Tools and Indicators for Identifying Uptrends
 
@@ -53,7 +53,7 @@ def trend_following_strategy(prices, short_window=50, long_window=200):
     signals['short_moving_avg'] = prices.rolling(window=short_window, min_periods=1).mean()
     signals['long_moving_avg'] = prices.rolling(window=long_window, min_periods=1).mean()
     signals['signal'] = 0
-    signals['signal'][short_window:] = np.where(
+ signals['signal'][short_window:] = np.where
         signals['short_moving_avg'][short_window:] > signals['long_moving_avg'][short_window:], 1, 0
     )
     signals['positions'] = signals['signal'].diff()
@@ -88,7 +88,7 @@ def moving_average_crossover_strategy(prices, short_window=40, long_window=100):
     signals['short_moving_avg'] = prices.rolling(window=short_window, min_periods=1).mean()
     signals['long_moving_avg'] = prices.rolling(window=long_window, min_periods=1).mean()
     signals['signal'] = 0
-    signals['signal'][short_window:] = np.where(
+ signals['signal'][short_window:] = np.where
         signals['short_moving_avg'][short_window:] > signals['long_moving_avg'][short_window:], 1, 0
     )
     signals['positions'] = signals['signal'].diff()
@@ -100,27 +100,27 @@ def moving_average_crossover_strategy(prices, short_window=40, long_window=100):
 ### 1. QuantConnect
 [QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform providing tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md). It supports a wide [range](../r/range.md) of financial instruments and indicators for identifying uptrends.
 
-Website: [QuantConnect](https://www.quantconnect.com)
+online platform: QuantConnect
 
 ### 2. Alpaca
 [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading and [portfolio management](../p/portfolio_management.md) APIs. Their platform supports [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on [uptrend](../u/uptrend.md) analysis.
 
-Website: [Alpaca](https://alpaca.markets)
+online platform: Alpaca
 
 ### 3. TradingView
 [TradingView](../t/tradingview.md) is a social network for traders and investors [offering](../o/offering.md) advanced charting tools and indicators. It allows users to implement [uptrend](../u/uptrend.md) detection algorithms using its script language, Pine Script.
 
-Website: [TradingView](https://www.tradingview.com)
+online platform: TradingView
 
 ### 4. Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) provides a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) with a comprehensive set of tools and APIs for [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) [advanced technical analysis](../a/advanced_technical_analysis.md) tools necessary for [uptrend](../u/uptrend.md) analysis.
 
-Website: [Interactive Brokers](https://www.interactivebrokers.com)
+online platform: Interactive Brokers
 
 ### 5. MetaTrader 4/5
 MetaTrader is a popular [trading platform](../t/trading_platform.md) with extensive capabilities for [algorithmic trading](../a/algorithmic_trading.md), including support for various indicators and custom strategies for [uptrend](../u/uptrend.md) analysis.
 
-Website: [MetaTrader](https://www.metatrader4.com)
+online platform: MetaTrader
 
 ## Challenges in Uptrend Analysis
 

@@ -34,21 +34,21 @@ These ETFs aim to provide three times the inverse of the daily performance of th
 Investors use inverse ETFs as a [hedge](../h/hedge.md) against [market](../m/market.md) downturns or specific sector declines. Holding an [inverse ETF](../i/inverse_etf.md) can help [offset](../o/offset.md) losses in a long-only portfolio.
 
 ### 2. Speculation
-Traders often use inverse ETFs to [capitalize](../c/capitalize.md) on short-term declines in the markets or specific sectors. 
+Traders often use inverse ETFs to [capitalize](../c/capitalize.md) on short-term declines in the markets or specific sectors.
 
 ### 3. Diversification
 Though risky, some investors use inverse ETFs as part of a diversified strategy to balance the risks of their broader investment portfolio.
 
 ## Risks and Drawbacks
 
-### 1. Daily Rebalancing 
+### 1. Daily Rebalancing
 Inverse ETFs are designed to provide inverse performance on a daily [basis](../b/basis.md). Their returns do not correspond exactly to the inverse of the long-term performance of the [index](../i/index_instrument.md) due to the process of daily [rebalancing](../r/rebalancing.md).
 
 ### 2. Leverage Risk
 Inverse ETFs that use [leverage](../l/leverage.md), such as double or triple inverse ETFs, amplify potential returns as well as potential losses. This makes them highly volatile.
 
 ### 3. Complexity
-The use of [derivatives](../d/derivatives.md) makes these ETFs complex and difficult to understand for the average [investor](../i/investor.md). 
+The use of [derivatives](../d/derivatives.md) makes these ETFs complex and difficult to understand for the average [investor](../i/investor.md).
 
 ### 4. Costs
 Inverse ETFs usually have higher [expense](../e/expense.md) ratios compared to traditional ETFs due to the costs associated with the [derivatives](../d/derivatives.md) they use.
@@ -57,23 +57,18 @@ Inverse ETFs usually have higher [expense](../e/expense.md) ratios compared to t
 
 ### 1. ProShares Short S&P 500 (SH)
 This is a single [inverse ETF](../i/inverse_etf.md) that aims to provide the inverse of the daily performance of the S&P 500 [Index](../i/index_instrument.md).
-[ProShares SH](https://www.proshares.com/funds/sh.html)
 
 ### 2. Direxion Daily S&P 500 Bear 3X Shares (SPXS)
 This is a triple [inverse ETF](../i/inverse_etf.md) designed to deliver three times the inverse of the daily performance of the S&P 500.
-[Direxion SPXS](https://www.direxion.com/product/daily-sp-500-bear-3x-shares)
 
 ### 3. ProShares UltraShort QQQ (QID)
 This is a double [inverse ETF](../i/inverse_etf.md) that targets twice the inverse performance of the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
-[ProShares QID](https://www.proshares.com/funds/qid.html)
 
 ### 4. Direxion Daily Financial Bear 3X Shares (FAZ)
 This ETF seeks daily investment results, before fees and expenses, of 300% of the inverse of the performance of the Russell 1000® Financial Services [Index](../i/index_instrument.md).
-[Direxion FAZ](https://www.direxion.com/product/daily-financial-bear-3x-etf)
 
 ### 5. ProShares UltraShort Euro (EUO)
 This ETF aims to deliver twice the inverse of the daily performance of the [euro](../e/euro.md) against the U.S. dollar.
-[ProShares EUO](https://www.proshares.com/funds/euo.html)
 
 ## Conclusion
 

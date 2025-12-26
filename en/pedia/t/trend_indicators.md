@@ -72,12 +72,7 @@ Before deploying, [trading strategies](../t/trading_strategies.md) are backteste
 
 Numerous companies utilize [trend](../t/trend.md) indicators in their [algorithmic trading](../a/algorithmic_trading.md) platforms:
 
-- **[AlgoTrader](../a/algotrader.md)**: [www.algotrader.com](https://www.algotrader.com)
-- **[QuantConnect](../q/quantconnect.md)**: [www.quantconnect.com](https://www.quantconnect.com)
-- **Trading Technologies**: [www.tradingtechnologies.com](https://www.tradingtechnologies.com)
-- **Kavout**: [www.kavout.com](https://www.kavout.com)
-- **RQuant**: [www.rquant.com](https://www.rquant.com)
-
+- **[AlgoTrader](../a/algotrader.md)**- **[QuantConnect](../q/quantconnect.md)**- **Trading Technologies**- **Kavout**- **RQuant**
 ### Conclusion
 
 [Trend](../t/trend.md) indicators are indispensable tools in the world of [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) a quantitative method to assess [market](../m/market.md) trends and predict future movements. By understanding and implementing these indicators, traders can enhance their strategies, improve [market timing](../m/market_timing.md), and better manage [risk](../r/risk.md). However, it's crucial to recognize the complexities and potential pitfalls associated with these tools to maximize their benefits effectively.

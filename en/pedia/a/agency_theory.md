@@ -61,7 +61,7 @@ Despite its widespread application, Agency Theory has several criticisms and lim
 
 ### Michael Jensen
 
-Michael Jensen is one of the most influential scholars in Agency Theory. His work in the 1970s laid the foundation for current understandings of the [principal-agent relationship](../p/principal-agent_relationship.md) and [agency costs](../a/agency_costs.md). His profile and body of work can be accessed through various academic publications and his association with [Harvard Business School](../h/harvard_business_school.md) (https://www.hbs.edu).
+Michael Jensen is one of the most influential scholars in Agency Theory. His work in the 1970s laid the foundation for current understandings of the [principal-agent relationship](../p/principal-agent_relationship.md) and [agency costs](../a/agency_costs.md). His profile and body of work can be accessed through various academic publications and his association with [Harvard Business School](../h/harvard_business_school.md) (
 
 ### William Meckling
 

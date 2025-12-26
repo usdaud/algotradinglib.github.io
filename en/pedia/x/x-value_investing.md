@@ -42,13 +42,13 @@ Before implementing any X-[Value Investing](../v/value_investing.md) strategy, i
 ### Real-world Examples and Case Studies
 
 #### Renaissance Technologies
-Renaissance Technologies, founded by James Simons, is renowned for its Medallion [Fund](../f/fund.md), which employs [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)’s success showcases the potential of combining advanced mathematics with [financial markets](../f/financial_market.md) to achieve exceptional returns. More information can be found on their website: [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, founded by James Simons, is renowned for its Medallion [Fund](../f/fund.md), which employs [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)’s success showcases the potential of combining advanced mathematics with [financial markets](../f/financial_market.md) to achieve exceptional returns. Renaissance Technologies.
 
 #### Two Sigma
-Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create [trading strategies](../t/trading_strategies.md). Their approach embodies the essence of X-[Value Investing](../v/value_investing.md) by integrating cutting-edge technology with traditional investment principles. Learn more about their innovations at [Two Sigma](https://www.twosigma.com/).
+Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create [trading strategies](../t/trading_strategies.md). Their approach embodies the essence of X-[Value Investing](../v/value_investing.md) by integrating cutting-edge technology with traditional investment principles. Learn more about their innovations at Two Sigma.
 
 #### D.E. Shaw & Co.
-D.E. Shaw is another paradigmatic example of a [firm](../f/firm.md) that uses algorithmic and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [outperform](../o/outperform.md) markets. Their interdisciplinary approach, combining [finance](../f/finance.md), technology, and computational science, aligns with the core tenets of X-[Value Investing](../v/value_investing.md). Visit their site for detailed insights: [D.E. Shaw](https://www.deshaw.com/).
+D.E. Shaw is another paradigmatic example of a [firm](../f/firm.md) that uses algorithmic and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [outperform](../o/outperform.md) markets. Their interdisciplinary approach, combining [finance](../f/finance.md), technology, and computational science, aligns with the core tenets of X-[Value Investing](../v/value_investing.md). E. Shaw.
 
 ### Challenges and Considerations in X-Value Investing
 

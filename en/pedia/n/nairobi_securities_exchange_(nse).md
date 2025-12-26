@@ -1,6 +1,6 @@
 # Nairobi Securities Exchange (NSE)
 
-The Nairobi Securities [Exchange](../e/exchange.md) (NSE) is a leading African [exchange](../e/exchange.md), based in Nairobi, Kenya. It plays a crucial role in the development of the Kenyan [capital](../c/capital.md) [market](../m/market.md) by providing a platform for trading of equities, [debt](../d/debt.md) instruments, and other related securities. The NSE is instrumental in mobilizing domestic and international [capital](../c/capital.md) for local enterprises, thus contributing to [economic growth](../e/economic_growth.md). 
+The Nairobi Securities [Exchange](../e/exchange.md) (NSE) is a leading African [exchange](../e/exchange.md), based in Nairobi, Kenya. It plays a crucial role in the development of the Kenyan [capital](../c/capital.md) [market](../m/market.md) by providing a platform for trading of equities, [debt](../d/debt.md) instruments, and other related securities. The NSE is instrumental in mobilizing domestic and international [capital](../c/capital.md) for local enterprises, thus contributing to [economic growth](../e/economic_growth.md).
 
 ## History and Evolution
 
@@ -8,15 +8,15 @@ The NSE was established in 1954 as the Nairobi Stock [Exchange](../e/exchange.md
 
 ## Structure and Operations
 
-The NSE operates under the regulatory oversight of the [Capital Markets](../c/capital_markets.md) Authority (CMA). The CMA ensures that the [exchange](../e/exchange.md) maintains the integrity of the [market](../m/market.md), protects [investor](../i/investor.md) interests, and promotes fair and efficient trading. 
+The NSE operates under the regulatory oversight of the [Capital Markets](../c/capital_markets.md) Authority (CMA). The CMA ensures that the [exchange](../e/exchange.md) maintains the integrity of the [market](../m/market.md), protects [investor](../i/investor.md) interests, and promotes fair and efficient trading.
 
 ### Trading Platforms
 
 The NSE supports [multiple](../m/multiple.md) trading platforms, including:
 
-- **Automated Trading System (ATS)**: Introduced in 2006, it replaced the former [open outcry](../o/open_outcry.md) system. ATS facilitates real-time trading and enhances [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md). 
-- **Bonds Automated Trading System (BATS)**: Launched in 2009, BATS allows trading of government and corporate bonds electronically. 
-- **[Derivatives](../d/derivatives.md) [Market](../m/market.md) (NEXT)**: Started in 2019, NEXT offers [futures contracts](../f/futures_contracts.md) on selected NSE 25 [Index](../i/index_instrument.md) constituents and single stock [futures](../f/futures.md), allowing investors to [hedge](../h/hedge.md) and [leverage](../l/leverage.md). 
+- **Automated Trading System (ATS)**: Introduced in 2006, it replaced the former [open outcry](../o/open_outcry.md) system. ATS facilitates real-time trading and enhances [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md).
+- **Bonds Automated Trading System (BATS)**: Launched in 2009, BATS allows trading of government and corporate bonds electronically.
+- **[Derivatives](../d/derivatives.md) [Market](../m/market.md) (NEXT)**: Started in 2019, NEXT offers [futures contracts](../f/futures_contracts.md) on selected NSE 25 [Index](../i/index_instrument.md) constituents and single stock [futures](../f/futures.md), allowing investors to [hedge](../h/hedge.md) and [leverage](../l/leverage.md).
 
 ### Market Segments
 
@@ -27,7 +27,7 @@ The NSE supports [multiple](../m/multiple.md) trading platforms, including:
 
 ## Listing Requirements
 
-To list on the NSE, companies must adhere to specific requirements that vary across [market](../m/market.md) segments. These include minimum [capital](../c/capital.md) requirements, profitability records, and public shareholding thresholds. Detailed criteria are available on the NSE website [here](https://www.nse.co.ke/listing-in-nse.html).
+To list on the NSE, companies must adhere to specific requirements that vary across [market](../m/market.md) segments. These include minimum [capital](../c/capital.md) requirements, profitability records, and public shareholding thresholds. Detailed criteria are available on the NSE online platform here.
 
 ### Key Listings and Indices
 
@@ -45,7 +45,7 @@ The NSE offers diverse investment products to suit different [investor](../i/inv
 - **[Debt](../d/debt.md) Instruments**: Such as government bonds (treasury bonds) and corporate bonds.
 - **[Exchange](../e/exchange.md)-Traded Funds (ETFs)**: Investment funds that are traded on the NSE, like Fahari REIT, focusing on [real estate](../r/real_estate.md) investments.
 - **[Real Estate](../r/real_estate.md) Investment Trusts (REITs)**: Enabling investors to own [equity](../e/equity.md) in [income](../i/income.md)-generating [real estate](../r/real_estate.md).
-- **[Derivatives](../d/derivatives.md)**: NEXT provides [futures contracts](../f/futures_contracts.md), enriching the investment landscape with [risk management](../r/risk_management.md) tools. 
+- **[Derivatives](../d/derivatives.md)**: NEXT provides [futures contracts](../f/futures_contracts.md), enriching the investment landscape with [risk management](../r/risk_management.md) tools.
 
 ## Market Regulation and Investor Protection
 
@@ -81,7 +81,7 @@ The NSE is focusing on several strategic initiatives to enhance its [market](../
 
 The vision for the NSE is to evolve into a premier securities [exchange](../e/exchange.md) that supports sustainable economic development in Kenya and the broader East African region.
 
-For more information, you can visit the official NSE website [here](https://www.nse.co.ke/).
+
 
 ## Conclusion
 

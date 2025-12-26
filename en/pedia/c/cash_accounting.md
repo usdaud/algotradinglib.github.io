@@ -5,7 +5,7 @@ Cash [accounting](../a/accounting.md) is an [accounting method](../a/accounting_
 ## Key Concepts
 
 ### 1. Basic Definition
-Cash [accounting](../a/accounting.md) is a straightforward method of [accounting](../a/accounting.md) that focuses on the real-time recognition of transactions. When a [business](../b/business.md) receives cash, it records it as [revenue](../r/revenue.md). When the [business](../b/business.md) pays out cash, it records it as an [expense](../e/expense.md). 
+Cash [accounting](../a/accounting.md) is a straightforward method of [accounting](../a/accounting.md) that focuses on the real-time recognition of transactions. When a [business](../b/business.md) receives cash, it records it as [revenue](../r/revenue.md). When the [business](../b/business.md) pays out cash, it records it as an [expense](../e/expense.md).
 
 ### 2. How Cash Accounting Works
 In cash [accounting](../a/accounting.md), entries are made in the [accounting](../a/accounting.md) records in the period when the corresponding cash transactions occur. For example, if a [business](../b/business.md) receives a [payment](../p/payment.md) on July 15th for services rendered in June, it [will](../w/will.md) record the [revenue](../r/revenue.md) in July. Similarly, if it pays a [utility](../u/utility.md) bill in August for services received in July, the [expense](../e/expense.md) is recorded in August.
@@ -60,7 +60,7 @@ Certain industries, such as [inventory](../i/inventory.md)-heavy businesses, are
 Businesses looking to transition to cash [accounting](../a/accounting.md) from [accrual accounting](../a/accrual_accounting.md) should consult with [accounting](../a/accounting.md) professionals. This transition may require adjustments to account records and methods.
 
 ### 2. Software Solutions
-Various [accounting](../a/accounting.md) software solutions support cash [accounting](../a/accounting.md). These include QuickBooks, which offers customizable features to track cash-based transactions effectively. Information about QuickBooks can be found on their [website](https://quickbooks.intuit.com/).
+Various [accounting](../a/accounting.md) software solutions support cash [accounting](../a/accounting.md). These include QuickBooks, which offers customizable features to track cash-based transactions effectively.
 
 ### 3. Periodic Review and Adjustment
 Even businesses using cash [accounting](../a/accounting.md) should periodically review their financial position comprehensively, incorporating aspects of accrual-based records to ensure a full understanding of their [financial health](../f/financial_health.md).

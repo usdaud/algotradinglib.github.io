@@ -87,5 +87,4 @@ Negative [bond](../b/bond.md) yields are a complex and often counterintuitive as
 
 Negative yields underscore the importance of a dynamic and flexible approach to [investment strategy](../i/investment_strategy.md), where [diversification](../d/diversification.md), [active management](../a/active_management.md), and the careful use of financial instruments play pivotal roles.
 
-For further in-depth resources and real-time data on [bond](../b/bond.md) yields, financial analysts and investors often rely on financial news and data services like [Bloomberg](https://www.bloomberg.com/) or specific central [bank](../b/bank.md) publications and announcements.
-
+For further in-depth resources and real-time data on [bond](../b/bond.md) yields, financial analysts and investors often rely on financial news and data services like Bloomberg or specific central [bank](../b/bank.md) publications and announcements.

@@ -17,19 +17,19 @@ FICO Scores are calculated based on the information in an individual's [credit r
 The FICO Score is determined by five [principal components](../p/principal_components_in_trading.md), each with a specific weight:
 
 1. **[Payment](../p/payment.md) History (35%)**
-   - This component examines an individual's track record of repaying past [credit](../c/credit.md) accounts. Factors such as late payments, defaults, and information on public records like bankruptcies significantly impact this category.
+ - This component examines an individual's track record of repaying past [credit](../c/credit.md) accounts. Factors such as late payments, defaults, and information on public records like bankruptcies significantly impact this category.
 
 2. **Amounts Owed (30%)**
-   - This evaluates the total amount of outstanding [debt](../d/debt.md) and compares it to the available [credit](../c/credit.md) limits. High [credit](../c/credit.md) utilization rates typically lower the score.
+ - This evaluates the total amount of outstanding [debt](../d/debt.md) and compares it to the available [credit](../c/credit.md) limits. High [credit](../c/credit.md) utilization rates typically lower the score.
 
 3. **Length of [Credit](../c/credit.md) History (15%)**
-   - A longer [credit](../c/credit.md) history generally results in a higher score, as it provides more data points for the FICO algorithm to analyze. This component considers the age of the oldest account, the age of the newest account, and the average age of all accounts.
+ - A longer [credit](../c/credit.md) history generally results in a higher score, as it provides more data points for the FICO algorithm to analyze. This component considers the age of the oldest account, the age of the newest account, and the average age of all accounts.
 
 4. **New [Credit](../c/credit.md) (10%)**
-   - This [factor](../f/factor.md) assesses the number of recently opened accounts and recent [credit](../c/credit.md) inquiries. Opening several new accounts in a short period may negatively impact the score.
+ - This [factor](../f/factor.md) assesses the number of recently opened accounts and recent [credit](../c/credit.md) inquiries. Opening several new accounts in a short period may negatively impact the score.
 
 5. **[Credit](../c/credit.md) Mix (10%)**
-   - A well-rounded [credit](../c/credit.md) portfolio, including a blend of [credit](../c/credit.md) types such as [credit](../c/credit.md) cards, [mortgage](../m/mortgage.md) loans, and auto loans, can positively influence the score.
+ - A well-rounded [credit](../c/credit.md) portfolio, including a blend of [credit](../c/credit.md) types such as [credit](../c/credit.md) cards, [mortgage](../m/mortgage.md) loans, and auto loans, can positively influence the score.
 
 ### Score Ranges
 
@@ -71,9 +71,9 @@ In some industries, employers may review [credit](../c/credit.md) reports and FI
 
 FICO Scores are calculated using data from three major [credit](../c/credit.md) reporting agencies (CRAs) in the United States:
 
-- **Equifax**: [Equifax Website](https://www.equifax.com)
-- **Experian**: [Experian Website](https://www.experian.com)
-- **TransUnion**: [TransUnion Website](https://www.transunion.com)
+- **Equifax**:
+- **Experian**:
+- **TransUnion**:
 
 These agencies collect and maintain information on consumers' [credit](../c/credit.md) behaviors, which is then used to generate FICO Scores. Each CRA may have slightly different data, leading to variations in the FICO Scores calculated by each agency.
 
@@ -109,4 +109,4 @@ Improving a FICO Score involves several steps:
 
 ## Conclusion
 
-The FICO Score remains a cornerstone of [credit risk](../c/credit_risk.md) assessment, influencing a wide [range](../r/range.md) of financial decisions for both lenders and consumers. Its comprehensive methodology, factoring in various aspects of an individual's [credit](../c/credit.md) behavior, provides a nuanced assessment of [credit risk](../c/credit_risk.md). By understanding how FICO Scores are calculated and the factors influencing them, consumers can take proactive steps to improve their [credit](../c/credit.md) profiles, thereby enhancing their access to [credit](../c/credit.md) and favorable financial terms. With the continuous evolution of [credit](../c/credit.md) scoring models, such as UltraFICO and FICO XD, the landscape of [credit](../c/credit.md) evaluation promises to become more inclusive and reflective of an individual's overall [financial health](../f/financial_health.md). For more information about the FICO Score and its variants, visit the Fair Isaac [Corporation](../c/corporation.md)'s [official website](https://www.fico.com).
+The FICO Score remains a cornerstone of [credit risk](../c/credit_risk.md) assessment, influencing a wide [range](../r/range.md) of financial decisions for both lenders and consumers. Its comprehensive methodology, factoring in various aspects of an individual's [credit](../c/credit.md) behavior, provides a nuanced assessment of [credit risk](../c/credit_risk.md). By understanding how FICO Scores are calculated and the factors influencing them, consumers can take proactive steps to improve their [credit](../c/credit.md) profiles, thereby enhancing their access to [credit](../c/credit.md) and favorable financial terms. With the continuous evolution of [credit](../c/credit.md) scoring models, such as UltraFICO and FICO XD, the landscape of [credit](../c/credit.md) evaluation promises to become more inclusive and reflective of an individual's overall [financial health](../f/financial_health.md). For more information about the FICO Score and its variants, visit the Fair Isaac [Corporation](../c/corporation.md)'s

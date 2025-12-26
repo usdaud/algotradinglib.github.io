@@ -8,7 +8,7 @@ A fiduciary is a person or organization that acts on behalf of another person or
 
 The role of a fiduciary involves a significant degree of [trust](../t/trust.md), and this trusted party must act in the best interests of the client, putting the client's needs ahead of their own. The fiduciary duty requires integrity and [transparency](../t/transparency.md) on behalf of the fiduciary to act solely in the [interest](../i/interest.md) of the client.
 
-Fiduciaries are typically expected to have specialized expertise and are formally responsible for managing the [wealth](../w/wealth.md) and [financial health](../f/financial_health.md) of the client or organization they serve. 
+Fiduciaries are typically expected to have specialized expertise and are formally responsible for managing the [wealth](../w/wealth.md) and [financial health](../f/financial_health.md) of the client or organization they serve.
 
 ### Types of Fiduciary Relationships
 

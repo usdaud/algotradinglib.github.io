@@ -1,6 +1,6 @@
 # Exempt Income
 
-Exempt [income](../i/income.md) refers to the portion of an individual's or entity's [income](../i/income.md) that is not subject to [income tax](../i/income_tax.md). This classification can apply to various types of [income](../i/income.md) depending on specific tax laws and regulations. Understanding exempt [income](../i/income.md) is crucial for effective [tax planning](../t/tax_planning.md) and financial management. In this article, we'll delve into the types, sources, and implications of exempt [income](../i/income.md), especially in the context of different jurisdictions. 
+Exempt [income](../i/income.md) refers to the portion of an individual's or entity's [income](../i/income.md) that is not subject to [income tax](../i/income_tax.md). This classification can apply to various types of [income](../i/income.md) depending on specific tax laws and regulations. Understanding exempt [income](../i/income.md) is crucial for effective [tax planning](../t/tax_planning.md) and financial management. In this article, we'll delve into the types, sources, and implications of exempt [income](../i/income.md), especially in the context of different jurisdictions.
 
 ## Types and Sources of Exempt Income
 

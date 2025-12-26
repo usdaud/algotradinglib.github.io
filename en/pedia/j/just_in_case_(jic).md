@@ -1,10 +1,10 @@
 # Just In Case (JIC)
 
-Just In Case (JIC) is a strategy employed in various contexts, ranging from [inventory management](../i/inventory_management.md) to [risk](../r/risk.md) mitigation in financial systems. In the context of [algorithmic trading](../a/accountability.md), JIC refers to the practice of implementing precautionary measures and backup strategies to [handle](../h/handle.md) unforeseen events that could disrupt trading operations or impact [trading performance](../t/trading_performance.md). This approach is essential in ensuring the robustness and resilience of [trading systems](../t/trading_systems.md). Below, we delve into various aspects of JIC within [algorithmic trading](../a/accountability.md).
+Just In Case (JIC) is a strategy employed in various contexts, ranging from [inventory management](../i/inventory_management.md) to [risk](../r/risk.md) mitigation in financial systems. In the context of [algorithmic trading](../a/algorithmic_trading.md), JIC refers to the practice of implementing precautionary measures and backup strategies to [handle](../h/handle.md) unforeseen events that could disrupt trading operations or impact [trading performance](../t/trading_performance.md). This approach is essential in ensuring the robustness and resilience of [trading systems](../t/trading_systems.md). Below, we delve into various aspects of JIC within [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Importance of JIC in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on complex systems, algorithms, and data. The dynamic nature of [financial markets](../f/financial_market.md) and the reliance on technology mean that unforeseen circumstances such as technological failures, data errors, or extreme [market](../m/market.md) conditions can have significant repercussions. Implementing JIC strategies ensures that traders can maintain operational stability and mitigate potential risks. Some of the unforeseen events that JIC strategies help address include:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on complex systems, algorithms, and data. The dynamic nature of [financial markets](../f/financial_market.md) and the reliance on technology mean that unforeseen circumstances such as technological failures, data errors, or extreme [market](../m/market.md) conditions can have significant repercussions. Implementing JIC strategies ensures that traders can maintain operational stability and mitigate potential risks. Some of the unforeseen events that JIC strategies help address include:
 
 1. **System Outages**: Technological failures such as server downtimes, network issues, and system crashes.
 2. **Data Issues**: Incomplete, delayed, or erroneous [market](../m/market.md) data that could impact trading decisions.
@@ -61,7 +61,7 @@ Maintaining compliance with relevant regulations is crucial to avoid legal and f
 
 ## JIC Implementation: A Case Study
 
-To provide a practical understanding of JIC, consider a hypothetical case study of an [algorithmic trading](../a/accountability.md) [firm](../f/firm.md), AlgTrade Inc.
+To provide a practical understanding of JIC, consider a hypothetical case study of an [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), AlgTrade Inc.
 
 ### Background
 
@@ -120,4 +120,4 @@ The rapidly evolving landscape of technology and [financial markets](../f/financ
 
 ## Conclusion
 
-Just In Case (JIC) strategies are integral to the resilience and robustness of [algorithmic trading](../a/accountability.md) operations. By incorporating redundancy, ensuring data integrity, and implementing [robust](../r/robust.md) [risk management](../r/risk_management.md) and disaster recovery plans, trading firms can mitigate risks and maintain stability amidst unforeseen events. As technology continues to evolve, so too [will](../w/will.md) the strategies that underpin JIC, ensuring that [algorithmic trading](../a/accountability.md) remains a reliable and effective approach in the [financial markets](../f/financial_market.md).
+Just In Case (JIC) strategies are integral to the resilience and robustness of [algorithmic trading](../a/algorithmic_trading.md) operations. By incorporating redundancy, ensuring data integrity, and implementing [robust](../r/robust.md) [risk management](../r/risk_management.md) and disaster recovery plans, trading firms can mitigate risks and maintain stability amidst unforeseen events. As technology continues to evolve, so too [will](../w/will.md) the strategies that underpin JIC, ensuring that [algorithmic trading](../a/algorithmic_trading.md) remains a reliable and effective approach in the [financial markets](../f/financial_market.md).

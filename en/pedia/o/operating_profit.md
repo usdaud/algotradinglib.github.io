@@ -59,7 +59,7 @@ Excluding these items allows operating [profit](../p/profit.md) to provide a cle
 
 ## Case Study: Amazon
 
-To illustrate the concept of operating [profit](../p/profit.md), let's take the example of Amazon. Amazon (https://www.amazon.com) has consistently reported high operating profits due to its efficient cost management and diverse [revenue](../r/revenue.md) streams. In its [financial statements](../f/financial_statements.md), Amazon's operating [profit](../p/profit.md) is derived from its extensive retail operations, Amazon Web Services (AWS), and various other [business](../b/business.md) segments. By analyzing Amazon's operating [profit](../p/profit.md), stakeholders can gauge the company's ability to generate [income](../i/income.md) from its core operations, excluding the effects of tax and [interest](../i/interest.md) expenses.
+To illustrate the concept of operating [profit](../p/profit.md), let's take the example of Amazon. Amazon ( has consistently reported high operating profits due to its efficient cost management and diverse [revenue](../r/revenue.md) streams. In its [financial statements](../f/financial_statements.md), Amazon's operating [profit](../p/profit.md) is derived from its extensive retail operations, Amazon Web Services (AWS), and various other [business](../b/business.md) segments. By analyzing Amazon's operating [profit](../p/profit.md), stakeholders can gauge the company's ability to generate [income](../i/income.md) from its core operations, excluding the effects of tax and [interest](../i/interest.md) expenses.
 
 ## Conclusion
 

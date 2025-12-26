@@ -52,7 +52,7 @@ A key competitor to simple [interest](../i/interest.md) in financial calculation
 
 Where:
 - \( A \) = The future [value](../v/value.md) of the investment/[loan](../l/loan.md), including [interest](../i/interest.md)
-- \( P \) = [Principal](../p/principal.md) investment amount 
+- \( P \) = [Principal](../p/principal.md) investment amount
 - \( R \) = Annual [interest rate](../i/interest_rate.md) (decimal)
 - \( n \) = Number of times [interest](../i/interest.md) is compounded per year
 - \( T \) = Number of years the [money](../m/money.md) is invested or borrowed for
@@ -86,8 +86,8 @@ These types of loans often use simple [interest](../i/interest.md) for [transpar
 
 Numerous financial institutions [offer](../o/offer.md) products based on simple [interest](../i/interest.md). For instance, some [credit](../c/credit.md) unions and online lenders spotlight simple [interest](../i/interest.md) loans due to their clear-cut structure.
 
-- [SoFi](https://www.sofi.com/)
-- [LendingClub](https://www.lendingclub.com/)
+- SoFi
+- LendingClub
 
 ## Regulatory Considerations
 

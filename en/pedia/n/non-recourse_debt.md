@@ -1,6 +1,6 @@
 # Non-Recourse Debt
 
-Non-[recourse](../r/recourse.md) [debt](../d/debt.md) is a type of [loan](../l/loan.md) that is secured by [collateral](../c/collateral.md), typically [real estate](../r/real_estate.md), where the borrower is not personally liable. If the borrower defaults on the [loan](../l/loan.md), the [lender](../l/lender.md) can seize the [collateral](../c/collateral.md) but cannot seek further compensation from the borrower, even if the [collateral](../c/collateral.md) does not cover the full outstanding [loan](../l/loan.md) amount. 
+Non-[recourse](../r/recourse.md) [debt](../d/debt.md) is a type of [loan](../l/loan.md) that is secured by [collateral](../c/collateral.md), typically [real estate](../r/real_estate.md), where the borrower is not personally liable. If the borrower defaults on the [loan](../l/loan.md), the [lender](../l/lender.md) can seize the [collateral](../c/collateral.md) but cannot seek further compensation from the borrower, even if the [collateral](../c/collateral.md) does not cover the full outstanding [loan](../l/loan.md) amount.
 
 This type of [debt](../d/debt.md) is distinct from [recourse](../r/recourse.md) [debt](../d/debt.md), where the [lender](../l/lender.md) can pursue other assets or [income](../i/income.md) of the borrower in the event of [default](../d/default.md). Non-[recourse](../r/recourse.md) [debt](../d/debt.md) is commonly used in [real estate](../r/real_estate.md), project [financing](../f/financing.md), and other scenarios where the assets being financed are capable of generating sufficient [cash flow](../c/cash_flow.md) to service the [debt](../d/debt.md).
 
@@ -16,7 +16,7 @@ One of the most significant aspects of non-[recourse](../r/recourse.md) [debt](.
 From the [lender](../l/lender.md)’s perspective, non-[recourse](../r/recourse.md) [debt](../d/debt.md) carries more [risk](../r/risk.md) compared to [recourse](../r/recourse.md) loans. Since the ability to recoup the [loan](../l/loan.md) amount is limited to the [collateral](../c/collateral.md)’s [value](../v/value.md), lenders often conduct stringent [due diligence](../d/due_diligence.md) and typically require high-quality, fully appraised assets.
 
 ### Higher Interest Rates
-To compensate for the increased [risk](../r/risk.md), lenders usually charge higher [interest](../i/interest.md) rates on non-[recourse](../r/recourse.md) loans compared to [recourse](../r/recourse.md) loans. 
+To compensate for the increased [risk](../r/risk.md), lenders usually charge higher [interest](../i/interest.md) rates on non-[recourse](../r/recourse.md) loans compared to [recourse](../r/recourse.md) loans.
 
 ### Down Payments and Loan-to-Value Ratios
 Lenders often require larger down payments on non-[recourse](../r/recourse.md) loans. They also maintain stricter [loan](../l/loan.md)-to-[value](../v/value.md) (LTV) ratios. This means the borrower must have substantial [equity](../e/equity.md) in the property they are [financing](../f/financing.md).
@@ -67,7 +67,7 @@ Non-[recourse](../r/recourse.md) [debt](../d/debt.md) is a specialized financial
 
 For more information, you might consider reaching out to specific financial services or institutions like:
 
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [JP Morgan Chase](https://www.jpmorganchase.com/)
+- Goldman Sachs
+- JP Morgan Chase
 
 These corporations regularly deal with various types of [debt financing](../d/debt_financing.md) and could provide further insights into the specifics of non-[recourse](../r/recourse.md) [debt](../d/debt.md) instruments.

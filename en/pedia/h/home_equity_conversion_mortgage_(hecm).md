@@ -77,5 +77,3 @@ HECMs are non-[recourse](../r/recourse.md) loans, meaning that the borrower (or 
 ## Conclusion
 
 The [Home Equity](../h/home_equity.md) Conversion [Mortgage](../m/mortgage.md) can be a versatile and useful financial tool for older homeowners looking to [leverage](../l/leverage.md) their largest [asset](../a/asset.md)—their [home equity](../h/home_equity.md)—to provide additional [income](../i/income.md) and financial stability in retirement. However, it requires careful consideration, planning, and counseling to ensure it aligns with the homeowner’s financial goals and needs.
-
-For more information on HECM, you can visit the FHA’s official page on reverse mortgages [here](https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome).

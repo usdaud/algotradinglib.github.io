@@ -12,7 +12,7 @@ The function and [scope](../s/scope.md) of property management include managing 
 
 ### Tenant Management
 
-Managing tenants is one of the core parts of property management. This includes finding and screening tenants, setting up lease agreements, collecting rent, handling tenant inquiries and complaints, and addressing any conflicts that arise. 
+Managing tenants is one of the core parts of property management. This includes finding and screening tenants, setting up lease agreements, collecting rent, handling tenant inquiries and complaints, and addressing any conflicts that arise.
 
 ### Lease Administration
 
@@ -60,9 +60,9 @@ Technology has transformed property management by providing tools that streamlin
 
 Property management software automates various aspects of property management, including tenant applications, lease management, rent collection, maintenance requests, and financial reporting. Popular property management software includes AppFolio, Buildium, and Yardi.
 
-- [AppFolio](https://www.appfolio.com/)
-- [Buildium](https://www.buildium.com/)
-- [Yardi](https://www.yardi.com/)
+- AppFolio
+- Buildium
+- Yardi
 
 ### Online Rent Collection
 

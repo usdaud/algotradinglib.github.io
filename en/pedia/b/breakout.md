@@ -92,14 +92,11 @@ A [stop-loss order](../s/stop-loss_order.md) is a predefined [order](../o/order.
 
 ## Companies Specializing in Breakout Trading
 
-### Trade Ideas (https://www.trade-ideas.com)
-
+### Trade Ideas
 [Trade](../t/trade.md) Ideas is a platform that provides advanced scanning tools to identify breakout opportunities. Their AI-powered tools help traders by scanning the [market](../m/market.md) in real-time to find potential breakouts based on various [technical indicators](../t/technical_indicator.md).
 
-### QuantConnect (https://www.quantconnect.com)
+### StockSharp
+[StockSharp](../s/stocksharp.md) offers tools that allow traders to design, backtest, and implement [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including breakout strategies. Their platform supports C#, making it accessible for both novice and experienced traders.
 
-[QuantConnect](../q/quantconnect.md) offers tools that allow traders to design, backtest, and implement [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including breakout strategies. Their platform supports a [range](../r/range.md) of programming languages, making it accessible for both novice and experienced traders.
-
-### Alpaca (https://www.alpaca.markets)
-
+### Alpaca
 [Alpaca](../a/alpaca.md) provides an API for [algorithmic trading](../a/accountability.md) that includes data on historical price movements and [technical indicators](../t/technical_indicator.md). This data can be used to build and backtest breakout strategies. Their API is designed to be highly customizable, [offering](../o/offering.md) flexibility for traders implementing complex strategies.

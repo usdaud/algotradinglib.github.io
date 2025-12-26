@@ -24,23 +24,23 @@ The ranking on the Fortune 100 list is primarily based on total [revenue](../r/r
 
 ### Walmart
 Walmart Inc. is a multinational retail [corporation](../c/corporation.md) that operates a chain of hypermarkets, [discount](../d/discount.md) department stores, and grocery stores. With [revenue](../r/revenue.md) over $500 billion, Walmart frequently tops the Fortune 100 list.
-- [Walmart Website](https://www.walmart.com/)
+-
 
 ### Amazon
 Amazon.com, Inc. is an American multinational technology company focusing on e-[commerce](../c/commerce.md), [cloud computing](../c/cloud_computing_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md). Known for disrupting well-established industries, Amazon is a staple on the Fortune 100.
-- [Amazon Website](https://www.amazon.com/)
+-
 
 ### Apple
 Apple Inc. is a multinational technology company that designs and sells consumer electronics, computer software, and online services. It is one of the Big Five American tech companies alongside Amazon, Google, Microsoft, and Facebook.
-- [Apple Website](https://www.apple.com/)
+-
 
 ### ExxonMobil
 ExxonMobil [Corporation](../c/corporation.md) is an American multinational oil and gas [corporation](../c/corporation.md). As the world's largest publicly traded oil and gas company, ExxonMobil has been a fixture on the Fortune 100 list.
-- [ExxonMobil Website](https://corporate.exxonmobil.com/)
+-
 
 ### Berkshire Hathaway
 [Berkshire Hathaway](../b/berkshire_hathaway.md) Inc. is an American multinational [conglomerate](../c/conglomerate.md) [holding company](../h/holding_company.md) led by Warren Buffett. It wholly owns or has significant [shares](../s/shares.md) in a diverse [range](../r/range.md) of companies.
-- [Berkshire Hathaway Website](https://www.berkshirehathaway.com/)
+-
 
 ## Sector Analysis
 

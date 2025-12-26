@@ -43,5 +43,3 @@ Tinkoff integrates with a variety of financial platforms and tools to enhance it
 Tinkoff is regulated by several top-tier financial authorities in Russia, ensuring a secure and compliant [trading environment](../t/trading_environment.md):
 - Central [Bank](../b/bank.md) of Russia
 
-## Website
-For more information and to start trading, visit the official Tinkoff website: [Tinkoff](https://www.tinkoff.ru)

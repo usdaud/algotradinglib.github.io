@@ -1,7 +1,7 @@
 # Assessed Value
 
 ## Introduction
-Assessed [value](../v/value.md) is a critical concept in [finance](../f/finance.md), [real estate](../r/real_estate.md), and [taxation](../t/taxation.md). It refers to the determined [value](../v/value.md) of a property by a public tax assessor for purposes of [taxation](../t/taxation.md). This [valuation](../v/valuation.md) process is vital for local governments as it forms the [basis](../b/basis.md) for [property tax](../p/property_tax.md) calculations. 
+Assessed [value](../v/value.md) is a critical concept in [finance](../f/finance.md), [real estate](../r/real_estate.md), and [taxation](../t/taxation.md). It refers to the determined [value](../v/value.md) of a property by a public tax assessor for purposes of [taxation](../t/taxation.md). This [valuation](../v/valuation.md) process is vital for local governments as it forms the [basis](../b/basis.md) for [property tax](../p/property_tax.md) calculations.
 
 ### Definition
 Assessed [value](../v/value.md) is the dollar [value](../v/value.md) assigned to a property for the purposes of measuring applicable [taxes](../t/taxes.md). It is determined by the local municipal property assessor and is used to calculate the annual property [taxes](../t/taxes.md) owed by the property owner. Assessment methodologies can vary significantly from one jurisdiction to another, making it essential for property owners to understand how their property's [value](../v/value.md) is determined and the implications it has on their liabilities.
@@ -28,7 +28,7 @@ For example, if a property has a [market value](../m/market_value.md) of $500,00
 Most jurisdictions have regular intervals (e.g., annually, biennially) at which they reassess property values. This ensures that property [taxes](../t/taxes.md) reflect current [market](../m/market.md) conditions.
 
 ## Importance in Taxation
-Assessed values are crucial in determining how much [revenue](../r/revenue.md) a municipality can generate through property [taxes](../t/taxes.md). Each property owner’s tax bill is calculated by multiplying the assessed [value](../v/value.md) of their property by the [tax rate](../t/tax_rate.md) set by the local government. 
+Assessed values are crucial in determining how much [revenue](../r/revenue.md) a municipality can generate through property [taxes](../t/taxes.md). Each property owner’s tax bill is calculated by multiplying the assessed [value](../v/value.md) of their property by the [tax rate](../t/tax_rate.md) set by the local government.
 
 ### Example Calculation
 If the [tax rate](../t/tax_rate.md) is 1.5%, the [property tax](../p/property_tax.md) owed on a property with an assessed [value](../v/value.md) of $400,000 would be:
@@ -93,8 +93,8 @@ In Canada, properties are assessed by provincial agencies. BC Assessment, for in
 The UK doesn't utilize an "assessed [value](../v/value.md)" in the same way but instead uses a system of council tax bands based on the property [value](../v/value.md) as of April 1991.
 
 ### Example Links
-- BC Assessment: [BC Assessment](https://www.bcassessment.ca/)
-- NYC Department of [Finance](../f/finance.md): [NYC Department of Finance](https://www1.nyc.gov/site/finance/index.page)
+- BC Assessment: BC Assessment
+- NYC Department of [Finance](../f/finance.md): NYC Department of Finance
 
 ## Conclusion
 Understanding the concept of assessed [value](../v/value.md) is fundamental for property owners, investors, and [finance](../f/finance.md) professionals. It impacts yearly property [taxes](../t/taxes.md) and can have significant financial implications. Familiarity with how assessed values are determined, the ability to analyze and appeal these assessments, and an awareness of how they function in different jurisdictions are critical to managing and planning property investments effectively.

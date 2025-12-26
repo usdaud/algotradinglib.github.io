@@ -44,7 +44,7 @@ Several factors can influence a company’s DSO, including:
 
 ### Monitoring and Benchmarking DSO
 
-Regularly monitoring DSO is crucial for maintaining a healthy [cash flow](../c/cash_flow.md). Companies often [benchmark](../b/benchmark.md) their DSO against [industry](../i/industry.md) standards and competitors to gauge their performance. 
+Regularly monitoring DSO is crucial for maintaining a healthy [cash flow](../c/cash_flow.md). Companies often [benchmark](../b/benchmark.md) their DSO against [industry](../i/industry.md) standards and competitors to gauge their performance.
 
 - **Internal Benchmarks**: Comparing current DSO against historical data can highlight trends and areas for improvement.
 - **External Benchmarks**: Evaluating DSO against [industry](../i/industry.md) averages provides context and helps identify competitive positioning.

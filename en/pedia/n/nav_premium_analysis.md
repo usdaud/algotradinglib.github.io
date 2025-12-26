@@ -7,28 +7,28 @@ NAV [premium](../p/premium.md), therefore, occurs when the [market price](../m/m
 ### Key Concepts
 
 1. **Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV) Calculation:**
-   - **NAV** = (Total [Market Value](../m/market_value.md) of [Fund](../f/fund.md)’s assets - Total [Fund](../f/fund.md) Liabilities) / Total [Shares](../s/shares.md) Outstanding.
-   - The NAV is typically calculated at the end of each trading day for mutual funds and at regular intervals for ETFs.
+ - **NAV** = (Total [Market Value](../m/market_value.md) of [Fund](../f/fund.md)’s assets - Total [Fund](../f/fund.md) Liabilities) / Total [Shares](../s/shares.md) Outstanding.
+ - The NAV is typically calculated at the end of each trading day for mutual funds and at regular intervals for ETFs.
 
 2. **[Premium](../p/premium.md) and [Discount](../d/discount.md):**
-   - **[Premium](../p/premium.md)**: Occurs when the [fund](../f/fund.md)’s [market price](../m/market_price.md) is greater than its NAV. ([Market Price](../m/market_price.md) > NAV)
-   - **[Discount](../d/discount.md)**: Occurs when the [fund](../f/fund.md)’s [market price](../m/market_price.md) is less than its NAV. ([Market Price](../m/market_price.md) < NAV)
+ - **[Premium](../p/premium.md)**: Occurs when the [fund](../f/fund.md)’s [market price](../m/market_price.md) is greater than its NAV. ([Market Price](../m/market_price.md) > NAV)
+ - **[Discount](../d/discount.md)**: Occurs when the [fund](../f/fund.md)’s [market price](../m/market_price.md) is less than its NAV. ([Market Price](../m/market_price.md) < NAV)
 
 3. **Why Premiums and Discounts Occur:**
-   - **[Supply](../s/supply.md) and [Demand](../d/demand.md):** High [demand](../d/demand.md) for [fund](../f/fund.md) [shares](../s/shares.md) can drive prices above NAV.
-   - **[Fund](../f/fund.md) [Liquidity](../l/liquidity.md):** Less [liquid](../l/liquid.md) funds might have a greater disparity.
-   - **[Market Sentiment](../m/market_sentiment.md):** Positive sentiment can lead to premiums, while negative sentiment can result in discounts.
+ - **[Supply](../s/supply.md) and [Demand](../d/demand.md):** High [demand](../d/demand.md) for [fund](../f/fund.md) [shares](../s/shares.md) can drive prices above NAV.
+ - **[Fund](../f/fund.md) [Liquidity](../l/liquidity.md):** Less [liquid](../l/liquid.md) funds might have a greater disparity.
+ - **[Market Sentiment](../m/market_sentiment.md):** Positive sentiment can lead to premiums, while negative sentiment can result in discounts.
 
 4. **[Arbitrage](../a/arbitrage.md) Mechanism in ETFs:**
-   - Authorized Participants (APs) can create or redeem [shares](../s/shares.md) to exploit price differences and bring ETF prices closer to NAV.
-   
+ - Authorized Participants (APs) can create or redeem [shares](../s/shares.md) to exploit price differences and bring ETF prices closer to NAV.
+
 ### Detailed Analysis: Factors Affecting NAV Premiums and Discounts
 
 #### 1. Market Dynamics and Investor Sentiment
 The [supply](../s/supply.md) and [demand](../d/demand.md) of ETF [shares](../s/shares.md) play a significant role in price deviations from NAV. For example, if investors anticipate higher returns from a particular sector or region that an ETF targets, they might rush to buy its [shares](../s/shares.md), driving the price higher and creating a [premium](../p/premium.md). Conversely, in times of [market](../m/market.md) stress or negative sentiment, investors may sell off ETF [shares](../s/shares.md), leading to a [discount](../d/discount.md).
 
 #### 2. Liquidity of Underlying Assets
-The [liquidity](../l/liquidity.md) of a [fund](../f/fund.md)’s [underlying](../u/underlying.md) assets is directly proportional to the NAV [premium](../p/premium.md) or [discount](../d/discount.md). Funds that [hold](../h/hold.md) illiquid assets like small-cap [stocks](../s/stock.md) or high-[yield](../y/yield.md) bonds might see wider premiums or discounts due to the difficulty in accurately pricing the [underlying](../u/underlying.md) assets. 
+The [liquidity](../l/liquidity.md) of a [fund](../f/fund.md)’s [underlying](../u/underlying.md) assets is directly proportional to the NAV [premium](../p/premium.md) or [discount](../d/discount.md). Funds that [hold](../h/hold.md) illiquid assets like small-cap [stocks](../s/stock.md) or high-[yield](../y/yield.md) bonds might see wider premiums or discounts due to the difficulty in accurately pricing the [underlying](../u/underlying.md) assets.
 
 #### 3. Transaction Costs and Management Fees
 These operational costs are factored into the NAV but not necessarily reflected in the ETF's [market price](../m/market_price.md), leading to temporary misalignments between the two. Management fees are ongoing charges that can also contribute to the difference over time.
@@ -52,13 +52,13 @@ VTI, offered by Vanguard, typically trades very close to its NAV. This is attrib
 Several online platforms and tools provide real-time data on NAV premiums and discounts:
 
 1. **[Morningstar](../m/morningstar.md):**
-   - Offers detailed reports and analytics on NAV premiums and discounts for a wide [range](../r/range.md) of funds. [Morningstar](https://www.morningstar.com).
+ - Offers detailed reports and analytics on NAV premiums and discounts for a wide [range](../r/range.md) of funds. Morningstar.
 
 2. **ETF.com:**
-   - Provides daily insights into ETF premiums and discounts among other critical ETF data. [ETF.com](https://www.etf.com).
+ - Provides daily insights into ETF premiums and discounts among other critical ETF data. ETF.com.
 
 3. **[Bloomberg](../b/bloomberg.md) Terminal:**
-   - A professional tool [offering](../o/offering.md) comprehensive financial data, including real-time NAV and [market](../m/market.md) prices for ETFs and mutual funds.
+ - A professional tool [offering](../o/offering.md) comprehensive financial data, including real-time NAV and [market](../m/market.md) prices for ETFs and mutual funds.
 
 ### Conclusion
 

@@ -91,19 +91,19 @@ Traders must adhere to regulatory requirements governing [order](../o/order.md) 
 
 ### NASDAQ
 
-[NASDAQ](../n/nasdaq.md) is one of the largest electronic stock exchanges in the world, utilizing advanced matching engines to facilitate the [execution](../e/execution.md) of matched orders. More information can be found on their official website: [NASDAQ](https://www.nasdaq.com)
+[NASDAQ](../n/nasdaq.md) is one of the largest electronic stock exchanges in the world, utilizing advanced matching engines to facilitate the [execution](../e/execution.md) of matched orders.
 
 ### NYSE (New York Stock Exchange)
 
-NYSE employs a hybrid [market](../m/market.md) model combining human floor brokers with advanced electronic [trading systems](../t/trading_systems.md) to match orders efficiently. More details are available on their official website: [NYSE](https://www.nyse.com)
+NYSE employs a hybrid [market](../m/market.md) model combining human floor brokers with advanced electronic [trading systems](../t/trading_systems.md) to match orders efficiently.
 
 ### BATS Global Markets
 
-BATS Global Markets is known for its low-latency trading platforms that enable rapid [order](../o/order.md) matching and [execution](../e/execution.md). Learn more on their official website: [BATS Global Markets](http://www.bats.com)
+BATS Global Markets is known for its low-latency trading platforms that enable rapid [order](../o/order.md) matching and [execution](../e/execution.md). Learn more on their public materials: BATS Global Markets
 
 ### Virtu Financial
 
-Virtu Financial is a leading provider of [market](../m/market.md)-making and trading services, leveraging sophisticated algorithms to match orders in various [asset](../a/asset.md) classes. Visit their official site here: [Virtu Financial](https://www.virtu.com)
+Virtu Financial is a leading provider of [market](../m/market.md)-making and trading services, leveraging sophisticated algorithms to match orders in various [asset](../a/asset.md) classes.
 
 ## Conclusion
 

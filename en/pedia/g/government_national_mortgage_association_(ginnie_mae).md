@@ -135,4 +135,4 @@ Ginnie Mae continues to adapt to changing [market](../m/market.md) conditions an
 
 Ginnie Mae plays an indispensable role in the U.S. housing [finance](../f/finance.md) system. By providing a government-backed guarantee on MBS, it ensures [liquidity](../l/liquidity.md) and lowers borrowing costs for homebuyers. Its operations and innovations have consistently helped stabilize and advance the housing [market](../m/market.md). With a commitment to affordable housing and adapting to future challenges, Ginnie Mae continues to be a vital player in the [mortgage](../m/mortgage.md) landscape.
 
-For more detailed information and updates, visit Ginnie Mae’s official website: [Ginnie Mae](https://www.ginniemae.gov)
+For more detailed information and updates,

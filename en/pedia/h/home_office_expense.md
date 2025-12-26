@@ -1,6 +1,6 @@
 # Home Office Expense
 
-[Home office](../h/home_office.md) expenses refer to the various costs associated with setting up and maintaining a workspace within a [home](../h/home.md). These expenses are particularly relevant for individuals engaged in [algorithmic trading](../a/accountability.md), as they often require a specialized and efficient [home office](../h/home_office.md) setup to develop, test, and execute [trading strategies](../t/trading_strategies.md) effectively. In this guide, we'll explore the different types of [home office](../h/home_office.md) expenses associated with [algorithmic trading](../a/accountability.md), the importance of having a well-structured [home office](../h/home_office.md), and [best practices](../b/best_practices.md) to optimize these costs.
+[Home office](../h/home_office.md) expenses refer to the various costs associated with setting up and maintaining a workspace within a [home](../h/home.md). These expenses are particularly relevant for individuals engaged in [algorithmic trading](../a/algorithmic_trading.md), as they often require a specialized and efficient [home office](../h/home_office.md) setup to develop, test, and execute [trading strategies](../t/trading_strategies.md) effectively. In this guide, we'll explore the different types of [home office](../h/home_office.md) expenses associated with [algorithmic trading](../a/algorithmic_trading.md), the importance of having a well-structured [home office](../h/home_office.md), and [best practices](../b/best_practices.md) to optimize these costs.
 
 ## Essential Components of a Home Office for Algorithmic Trading
 
@@ -8,7 +8,7 @@
 
 #### High-Performance Computers
 
-[Algorithmic trading](../a/accountability.md) demands substantial computational power to run intensive [trading algorithms](../t/trading_algorithms.md), [backtesting](../b/backtesting.md) modules, and [real-time data analysis](../r/real-time_data_analysis.md). A high-performance computer is one of the most critical investments for an at-[home](../h/home.md) [trader](../t/trader.md). Key specifications include:
+[Algorithmic trading](../a/algorithmic_trading.md) demands substantial computational power to run intensive [trading algorithms](../t/trading_algorithms.md), [backtesting](../b/backtesting.md) modules, and [real-time data analysis](../r/real-time_data_analysis.md). A high-performance computer is one of the most critical investments for an at-[home](../h/home.md) [trader](../t/trader.md). Key specifications include:
 
 - **Processor (CPU)**: Multi-core processors, such as Intel i7/i9 or AMD Ryzen series, [offer](../o/offer.md) the required computational power.
 - **Memory (RAM)**: At least 16GB of RAM is recommended, with 32GB or more being ideal for more demanding tasks.
@@ -38,17 +38,17 @@ Real-time and historical [market](../m/market.md) data are essential for [backte
 
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Comprehensive data but comes with a high cost.
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Another [premium](../p/premium.md) service for real-time data.
-- **[QuantConnect](../q/quantconnect.md)**: Provides data and [backtesting](../b/backtesting.md) for algorithmic strategies.
+- **[StockSharp](../s/stocksharp.md)**: Provides data and [backtesting](../b/backtesting.md) for algorithmic strategies.
 
 ##### Links:
-- [MetaTrader: Official Website](https://www.metatrader4.com/)
-- [NinjaTrader: Official Website](https://ninjatrader.com/)
-- [Interactive Brokers: Official Website](https://www.interactivebrokers.com/)
-- [Bloomberg Terminal: Official Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Thomson Reuters Eikon: Official Website](https://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html)
-- [QuantConnect: Official Website](https://www.quantconnect.com/)
+- MetaTrader:
+- NinjaTrader:
+- Interactive Brokers:
+- Bloomberg Terminal:
+- Thomson Reuters Eikon:
+- QuantConnect:
 
-### 3. Office Furniture 
+### 3. Office Furniture
 
 #### Ergonomic Chair
 
@@ -101,7 +101,7 @@ Maintaining a comfortable room temperature is crucial for [productivity](../p/pr
 
 ### Eligibility
 
-In many regions, maintaining a [home office](../h/home_office.md) incurs tax-deductible expenses, provided certain criteria are met. For individuals engaged in [algorithmic trading](../a/accountability.md), the [home office](../h/home_office.md) must:
+In many regions, maintaining a [home office](../h/home_office.md) incurs tax-deductible expenses, provided certain criteria are met. For individuals engaged in [algorithmic trading](../a/algorithmic_trading.md), the [home office](../h/home_office.md) must:
 
 - **Be used exclusively and regularly for trading activities.**
 - **Serve as the [principal](../p/principal.md) place of [business](../b/business.md).**
@@ -149,4 +149,4 @@ Prioritize ergonomics and take regular breaks to avoid burnout. Simple practices
 
 ## Conclusion
 
-Setting up and maintaining a [home office](../h/home_office.md) for [algorithmic trading](../a/accountability.md) involves several critical investments in technology, furniture, and office environment. While these can lead to significant expenses, careful planning, and adherence to [best practices](../b/best_practices.md) ensure that the [home office](../h/home_office.md) enhances trading [efficiency](../e/efficiency.md) and [productivity](../p/productivity.md). Furthermore, understanding the tax implications can lead to substantial savings. By prioritizing essential components and maintaining a conducive work environment, individuals engaged in [algorithmic trading](../a/accountability.md) can effectively manage their [home office](../h/home_office.md) expenses and thrive in their trading activities.
+Setting up and maintaining a [home office](../h/home_office.md) for [algorithmic trading](../a/algorithmic_trading.md) involves several critical investments in technology, furniture, and office environment. While these can lead to significant expenses, careful planning, and adherence to [best practices](../b/best_practices.md) ensure that the [home office](../h/home_office.md) enhances trading [efficiency](../e/efficiency.md) and [productivity](../p/productivity.md). Furthermore, understanding the tax implications can lead to substantial savings. By prioritizing essential components and maintaining a conducive work environment, individuals engaged in [algorithmic trading](../a/algorithmic_trading.md) can effectively manage their [home office](../h/home_office.md) expenses and thrive in their trading activities.

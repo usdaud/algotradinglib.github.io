@@ -37,7 +37,7 @@ High-[risk](../r/risk.md) [trading strategies](../t/trading_strategies.md) refer
 High-frequency trading (HFT) uses algorithms to execute trades at extremely high speeds, often within microseconds. It requires sophisticated technology and significant investment in [infrastructure](../i/infrastructure.md). HFT can [yield](../y/yield.md) substantial profits but also poses risks due to the rapid pace of trading and the necessity for precise timing.
 
 - **Example**: An HFT [firm](../f/firm.md) might place millions of trades per day, each aimed at capturing tiny price inefficiencies. A single algorithmic error or system failure can result in significant losses.
-- **Reference**: [Citadel Securities](https://www.citadelsecurities.com/)
+- **Reference**: Citadel Securities
 
 ### 7. Arbitrage
 
@@ -85,11 +85,11 @@ High-[risk](../r/risk.md) trading requires discipline, emotional control, and th
 
 #### Hedge Funds
 
-[Hedge](../h/hedge.md) funds often employ high-[risk](../r/risk.md) [trading strategies](../t/trading_strategies.md) to achieve outsized returns. They use [leverage](../l/leverage.md), [derivatives](../d/derivatives.md), and other complex instruments to maximize profits. Firms like [Bridgewater Associates](https://www.bridgewater.com/) are well-known for their sophisticated [trading strategies](../t/trading_strategies.md).
+[Hedge](../h/hedge.md) funds often employ high-[risk](../r/risk.md) [trading strategies](../t/trading_strategies.md) to achieve outsized returns. They use [leverage](../l/leverage.md), [derivatives](../d/derivatives.md), and other complex instruments to maximize profits. Firms like Bridgewater Associates are well-known for their sophisticated [trading strategies](../t/trading_strategies.md).
 
 #### Proprietary Trading Firms
 
-[Proprietary trading](../p/proprietary_trading.md) firms [trade](../t/trade.md) their own [capital](../c/capital.md) to earn profits. They use various high-[risk](../r/risk.md) strategies, including HFT, to exploit [market](../m/market.md) inefficiencies. Companies like [Jane Street](https://www.janestreet.com/) are prominent in this space.
+[Proprietary trading](../p/proprietary_trading.md) firms [trade](../t/trade.md) their own [capital](../c/capital.md) to earn profits. They use various high-[risk](../r/risk.md) strategies, including HFT, to exploit [market](../m/market.md) inefficiencies. Companies like Jane Street are prominent in this space.
 
 #### Individual Traders
 

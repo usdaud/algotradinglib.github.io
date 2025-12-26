@@ -8,7 +8,7 @@ Gold certificates represent a form of paper [currency](../c/currency.md) that pr
 Gold certificates have a long history that dates back to the 17th century. Initially, they emerged as a way for goldsmiths to [offer](../o/offer.md) [receipts](../r/receipt.md) to gold depositors as proof of their [holdings](../h/holdings.md). Over time, these [receipts](../r/receipt.md) could be transferred and used in [trade](../t/trade.md), effectively functioning as a form of [currency](../c/currency.md).
 
 ### Legal Tender in the U.S.
-In the United States, gold certificates were prominently used in the late 19th and early 20th centuries. The first official U.S. gold certificates were issued in 1863 during the Civil War. Initially intended for interbank transactions, their use was later expanded, and by 1882, they were made available to the general public. 
+In the United States, gold certificates were prominently used in the late 19th and early 20th centuries. The first official U.S. gold certificates were issued in 1863 during the Civil War. Initially intended for interbank transactions, their use was later expanded, and by 1882, they were made available to the general public.
 
 The certificates were considered [legal tender](../l/legal_tender.md) and could be exchanged for the equivalent amount of gold held by the Treasury. They remained in circulation until President Franklin D. Roosevelt issued Executive [Order](../o/order.md) 6102 in 1933, which prohibited the [hoarding](../h/hoarding.md) of gold and mandated that citizens turn in their gold certificates and coins.
 
@@ -38,8 +38,8 @@ Historically, gold certificates could be redeemed at banks or the Treasury for t
 Today, gold certificates are mainly used as investment products. Financial institutions, including some central banks, [issue](../i/issue.md) modern equivalents of traditional gold certificates that allow investors to [gain](../g/gain.md) exposure to gold prices without handling physical gold. These products often include additional features such as guaranteed redeemability and electronic trading [options](../o/options.md).
 
 ### Examples of Issuers
-- **Perth Mint:** The Perth Mint, an Australian company, offers gold certificates that are backed by physical gold stored in their facilities. [Perth Mint Gold Certificates](https://www.perthmint.com/gold-certificates.aspx)
-- **Elemetal Direct:** Elemetal Direct provides gold certificates as part of their suite of precious metals investment [options](../o/options.md). [Elemetal Direct](https://www.elemetal.com)
+- **Perth Mint:** The Perth Mint, an Australian company, offers gold certificates that are backed by physical gold stored in their facilities. Perth Mint Gold Certificates
+- **Elemetal Direct:** Elemetal Direct provides gold certificates as part of their suite of precious metals investment [options](../o/options.md). Elemetal Direct
 
 ## Legal and Regulatory Considerations
 ### Government Policies

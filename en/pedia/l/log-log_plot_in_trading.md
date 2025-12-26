@@ -76,7 +76,7 @@ plt.show()
 
 ### Real-Time Market Data
 
-For traders who need [real-time data analysis](../r/real-time_data_analysis.md), many trading platforms and APIs provide ways to integrate [real-time market data](../r/real-time_market_data.md) into log-log plots. For instance, using APIs from brokers like [Interactive Brokers](../i/interactive_brokers.md) [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041) or platforms like [Bloomberg](../b/bloomberg.md) Terminal enables real-time data retrieval and plotting.
+For traders who need [real-time data analysis](../r/real-time_data_analysis.md), many trading platforms and APIs provide ways to integrate [real-time market data](../r/real-time_market_data.md) into log-log plots. For instance, using APIs from brokers like [Interactive Brokers](../i/interactive_brokers.md) IBKR API or platforms like [Bloomberg](../b/bloomberg.md) Terminal enables real-time data retrieval and plotting.
 
 **Integrating Real-Time Data Example:**
 ```python
@@ -87,7 +87,7 @@ For traders who need [real-time data analysis](../r/real-time_data_analysis.md),
 # Fetch real-time data (pseudo-code, implementation depends on the API)
 def fetch_real_time_data():
     # Example endpoint and API key (not real)
-    url = "https://api.[broker](../b/broker.md).com/v1/marketdata/ticker"
+ url = "
     params = {"api_key": "your_api_key", "symbol": "AAPL"}
     response = requests.get(url, params=params)
     [return](../r/return.md) response.json()

@@ -1,14 +1,14 @@
 # Net Charge-Off (NCO)
 
-Net Charge-Off (NCO) refers to the dollar amount representing the difference between gross charge-offs and any recoveries of [delinquent](../d/delinquent.md) [debt](../d/debt.md). It is a key metric used in the financial [industry](../i/industry.md), especially by banks and lending institutions, to assess the amount of [bad debt](../b/bad_debt.md) that has been written off their books after attempting to recover the owed amounts. 
+Net Charge-Off (NCO) refers to the dollar amount representing the difference between gross charge-offs and any recoveries of [delinquent](../d/delinquent.md) [debt](../d/debt.md). It is a key metric used in the financial [industry](../i/industry.md), especially by banks and lending institutions, to assess the amount of [bad debt](../b/bad_debt.md) that has been written off their books after attempting to recover the owed amounts.
 
-## Overview of Net Charge-Off 
+## Overview of Net Charge-Off
 
 In the context of banking and [finance](../f/finance.md), when a borrower defaults on a [loan](../l/loan.md), the [lender](../l/lender.md) classifies this [loan](../l/loan.md) as a charge-off. A charge-off is labeled as such when the [lender](../l/lender.md) deems the [loan](../l/loan.md) unlikely to be collected, often after significant collection efforts have been made. The gross charge-off is the total amount of [debt](../d/debt.md) that has been written off. However, after the charge-off, lenders may still attempt to recover some of this [debt](../d/debt.md). The amount that is successfully recovered (known as recoveries) is subtracted from the gross charge-offs to compute the Net Charge-Off.
 
 `NCO = Gross Charge-Offs - Recoveries`
 
-The NCO metric is crucial for financial institutions as it gives them an understanding of the unrecoverable portion of loans, impacting profitability and [financial health](../f/financial_health.md). 
+The NCO metric is crucial for financial institutions as it gives them an understanding of the unrecoverable portion of loans, impacting profitability and [financial health](../f/financial_health.md).
 
 ## Importance of Net Charge-Offs
 
@@ -24,7 +24,7 @@ Net Charge-Offs serve several important purposes in [financial analysis](../f/fi
 
 ## Calculation and Reporting
 
-To calculate Net Charge-Offs, financial institutions meticulously track charge-offs and recoveries throughout a given period, usually quarterly. 
+To calculate Net Charge-Offs, financial institutions meticulously track charge-offs and recoveries throughout a given period, usually quarterly.
 
 ### Components:
 
@@ -62,7 +62,7 @@ The impact of Net Charge-Offs is multifaceted and affects various stakeholders, 
 - **[Credit](../c/credit.md) Losses**: Directly impacts the [bank](../b/bank.md)’s [earnings](../e/earnings.md) and [capital](../c/capital.md) adequacy.
 - **Reserve Allocation**: Necessitates adjustments in [loan](../l/loan.md) loss reserves, potentially limiting funds for lending.
 - **Operational Adjustments**: Forces review and potential tightening of [credit](../c/credit.md) policies.
- 
+
 ### On Investors:
 
 - **Stock Performance**: Elevated NCOs can lead to declines in stock prices due to perceived increase in [risk](../r/risk.md).
@@ -94,7 +94,7 @@ With advancements in financial technology and analytics, banks and financial ins
 
 ## Real-World Example
 
-Consider **JPMorgan Chase & Co.** (https://www.jpmorganchase.com), one of the largest banks in the United States. The [bank](../b/bank.md) discloses its Net Charge-Offs in its quarterly and annual [earnings](../e/earnings.md) reports. For instance, if JPMorgan Chase reports a gross charge-off of $1 billion and recovers $200 million, its Net Charge-Off would be $800 million for that period.
+Consider **JPMorgan Chase & Co.** ( one of the largest banks in the United States. The [bank](../b/bank.md) discloses its Net Charge-Offs in its quarterly and annual [earnings](../e/earnings.md) reports. For instance, if JPMorgan Chase reports a gross charge-off of $1 billion and recovers $200 million, its Net Charge-Off would be $800 million for that period.
 
 In examining the [financial statements](../f/financial_statements.md) of such a [bank](../b/bank.md), investors can gauge the effectiveness of the [bank](../b/bank.md)’s [risk management](../r/risk_management.md) and [credit](../c/credit.md) evaluation practices. High Net Charge-Off metrics in these reports would prompt further scrutiny into the [bank](../b/bank.md)’s lending policies and economic exposures.
 

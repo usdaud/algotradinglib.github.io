@@ -36,11 +36,11 @@ Mergers and Acquisitions (M&A) refer to the [consolidation](../c/consolidation.m
 ## Notable Companies and Technologies
 Several firms specialize in providing M&A advisory services, technology solutions, and [algorithmic trading](../a/algorithmic_trading.md) platforms. Some notable players in the field include:
 
-- **Goldman Sachs [Goldman Sachs M&A](https://www.goldmansachs.com/what-we-do/investment-banking/mergers-and-acquisitions/)**: A leading global investment [bank](../b/bank.md) providing comprehensive M&A advisory services, including [financial analysis](../f/financial_analysis.md), deal structuring, and post-[merger](../m/merger.md) integration support.
-- **JP Morgan [JP Morgan M&A](https://www.jpmorgan.com/solutions/cib/investment-banking)**: Offers a [range](../r/range.md) of M&A services, leveraging advanced analytics and [industry](../i/industry.md) expertise to facilitate successful transactions.
-- **[Bloomberg](../b/bloomberg.md) [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/mergers-and-acquisitions/)**: Provides real-time data, news, and analytics through its [Bloomberg](../b/bloomberg.md) Terminal, a widely used tool for M&A professionals.
-- **Thomson [Reuters](../r/reuters.md) [Thomson Reuters Eikon](https://www.thomsonreuters.com/en/products-services/financial/eikon-trading-software.html)**: Offers Eikon, a comprehensive [financial analysis](../f/financial_analysis.md) platform that supports M&A research and decision-making.
-- **Intralinks [Intralinks M&A](https://www.intralinks.com/solutions/mergers-and-acquisitions)**: Specializes in virtual data rooms and secure collaboration tools, facilitating efficient [due diligence](../d/due_diligence.md) and [transaction](../t/transaction.md) management.
+- **Goldman Sachs Goldman Sachs M&A**: A leading global investment [bank](../b/bank.md) providing comprehensive M&A advisory services, including [financial analysis](../f/financial_analysis.md), deal structuring, and post-[merger](../m/merger.md) integration support.
+- **JP Morgan JP Morgan M&A**: Offers a [range](../r/range.md) of M&A services, leveraging advanced analytics and [industry](../i/industry.md) expertise to facilitate successful transactions.
+- **[Bloomberg](../b/bloomberg.md) Bloomberg Terminal**: Provides real-time data, news, and analytics through its [Bloomberg](../b/bloomberg.md) Terminal, a widely used tool for M&A professionals.
+- **Thomson [Reuters](../r/reuters.md) Thomson Reuters Eikon**: Offers Eikon, a comprehensive [financial analysis](../f/financial_analysis.md) platform that supports M&A research and decision-making.
+- **Intralinks Intralinks M&A**: Specializes in virtual data rooms and secure collaboration tools, facilitating efficient [due diligence](../d/due_diligence.md) and [transaction](../t/transaction.md) management.
 
 ## Challenges and Risks
 While [algorithmic trading](../a/algorithmic_trading.md) and advanced technologies bring numerous benefits to M&A activities, they also present specific challenges and risks that must be managed carefully:

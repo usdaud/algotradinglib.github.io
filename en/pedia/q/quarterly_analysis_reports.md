@@ -81,7 +81,7 @@ Advanced tools and software can aid in the creation of detailed and accurate qua
 
 ## Case Study: Renaissance Technologies
 
-Renaissance Technologies is known for using sophisticated algorithms and [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) in the [financial markets](../f/financial_market.md). Their quarterly analysis reports are pivotal for evaluating the performance of their algorithms. For more details, refer to [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies is known for using sophisticated algorithms and [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) in the [financial markets](../f/financial_market.md). Their quarterly analysis reports are pivotal for evaluating the performance of their algorithms. For more details, refer to Renaissance Technologies.
 
 ## Conclusion
 

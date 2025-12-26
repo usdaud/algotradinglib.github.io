@@ -50,11 +50,11 @@ Educating investors on how to evaluate and verify information can reduce the imp
 
 Several high-profile libel cases have shaped the landscape of [financial markets](../f/financial_market.md) over the years:
 
-### Case Study 1: [XYZ Corp. vs. Financial Blogger](https://www.example.com/finance-news)
+### Case Study 1: XYZ Corp. vs. Financial Blogger
 
 In this case, XYZ Corp. sued a financial blogger who published false information about the company's [earnings](../e/earnings.md), leading to a significant drop in stock prices. The court ruled in favor of XYZ Corp., awarding substantial damages and ordering the blogger to [issue](../i/issue.md) a public retraction.
 
-### Case Study 2: [ABC Bank vs. Anonymous Forum Post](https://www.example.com/finance-news)
+### Case Study 2: ABC Bank vs. Anonymous Forum Post
 
 ABC [Bank](../b/bank.md) faced severe reputational damage when an anonymous post on a financial forum claimed the [bank](../b/bank.md) was on the verge of collapse. The [bank](../b/bank.md) worked with regulators and legal authorities to trace the source of the post and successfully sued for libel.
 

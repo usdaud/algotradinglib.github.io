@@ -20,7 +20,7 @@ Even after the initial shock subsided, the 9/11 attack led to lasting changes:
 [Algorithmic trading](../a/algorithmic_trading.md) involves using automated, pre-programmed instructions to execute trades at high speed and [volume](../v/volume.md). The [industry](../i/industry.md)'s growth post-9/11 can be attributed to several factors:
 
 1. **Increased Reliance on Electronic Trading Platforms**: Post-9/11, there was a significant shift from human-floor trading to electronic platforms like [NASDAQ](../n/nasdaq.md). These platforms are conducive to [algorithmic trading](../a/algorithmic_trading.md) due to their higher speed, [efficiency](../e/efficiency.md), and lower costs.
-   
+
 2. **Advancements in Technology and [Infrastructure](../i/infrastructure.md)**: To mitigate risks posed by physical disruptions, firms accelerated investments in technology, resulting in advancements in computational power and network [infrastructure](../i/infrastructure.md). This led to the development of more sophisticated algorithms capable of processing vast amounts of data rapidly.
 
 3. **Regulatory Changes**: In the wake of 9/11, there were several regulatory changes aimed at improving [market](../m/market.md) [transparency](../t/transparency.md) and stability. These changes indirectly influenced the evolution of [algorithmic trading](../a/algorithmic_trading.md) by setting standards and frameworks that algorithms had to adhere to.
@@ -30,7 +30,7 @@ Even after the initial shock subsided, the 9/11 attack led to lasting changes:
 The attack also induced a psychological paradigm shift among traders and investors:
 
 1. **Increased [Risk](../r/risk.md) Aversion**: The sense of [uncertainty](../u/uncertainty_in_trading.md) and vulnerability led to more conservative investment approaches, with an increased focus on [risk management](../r/risk_management.md).
-  
+
 2. **Greater Reliance on Data and Automation**: The desire to mitigate human-error [risk](../r/risk.md) and emotional biases led many firms to adopt more data-driven, automated [trading strategies](../t/trading_strategies.md). This reliance on [quantitative models](../q/quantitative_models.md) and algorithms aimed to optimize trading outcomes and reduce human interference.
 
 3. **Change in [Market](../m/market.md) Strategies**: High [volatility](../v/volatility.md) post-9/11 led to the development of algorithms that could better [handle](../h/handle.md) rapid [market](../m/market.md) changes and high-frequency trading (HFT) became more prominent. HFT strategies [capitalize](../c/capitalize.md) on very small price discrepancies, making trades in microseconds to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
@@ -39,15 +39,14 @@ The attack also induced a psychological paradigm shift among traders and investo
 
 A number of firms have emerged or expanded their footprint in the realm of [algorithmic trading](../a/algorithmic_trading.md) post-9/11:
 
-- **Goldman Sachs**: Renowned for its electronic [trading platform](../t/trading_platform.md), Goldman Sachs has been a dominant player in [algorithmic trading](../a/algorithmic_trading.md). Division such as Goldman Sachs Electronic Trading (GSET) have played a crucial role in this domain. [Goldman Sachs Electronic Trading](https://www.goldmansachs.com/what-we-do/securities/products-and-business-groups/gset/)
+- **Goldman Sachs**: Renowned for its electronic [trading platform](../t/trading_platform.md), Goldman Sachs has been a dominant player in [algorithmic trading](../a/algorithmic_trading.md). Division such as Goldman Sachs Electronic Trading (GSET) have played a crucial role in this domain. Goldman Sachs Electronic Trading
 
-- **Citadel**: As a leading [hedge fund](../h/hedge_fund.md) and [market](../m/market.md)-maker, Citadel has leveraged sophisticated algorithmic strategies to optimize [trade](../t/trade.md) executions. [Citadel Securities](https://www.citadelsecurities.com/)
+- **Citadel**: As a leading [hedge fund](../h/hedge_fund.md) and [market](../m/market.md)-maker, Citadel has leveraged sophisticated algorithmic strategies to optimize [trade](../t/trade.md) executions. Citadel Securities
 
-- **Two Sigma**: Specializes in applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to develop predictive algorithms for trading. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Specializes in applying [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to develop predictive algorithms for trading. Two Sigma
 
-- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md) strategies, employing complex algorithms to [trade](../t/trade.md) across various markets. [Renaissance Technologies](https://www.rentec.com/Home.action)
+- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md) strategies, employing complex algorithms to [trade](../t/trade.md) across various markets. Renaissance Technologies
 
 #### Conclusion
 
 The 9/11 attacks had a seismic impact on the [financial sector](../f/financial_sector.md), driving significant changes in [market](../m/market.md) operations, regulatory frameworks, and technological advancements. In [algorithmic trading](../a/algorithmic_trading.md), these changes spurred increased reliance on electronic trading, advancements in technology, and the development of more sophisticated [trading algorithms](../t/trading_algorithms.md). The enduring legacy of that tragic day continues to shape the landscape of global [financial markets](../f/financial_market.md) and the evolution of [algorithmic trading](../a/algorithmic_trading.md).
-

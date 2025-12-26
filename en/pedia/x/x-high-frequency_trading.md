@@ -67,15 +67,15 @@ The need for cutting-edge technology creates a barrier to entry, giving an edge 
 
 ### Virtu Financial
 
-Virtu Financial [Virtu Financial](https://www.virtu.com) is a leading HFT [firm](../f/firm.md) known for its [proprietary trading](../p/proprietary_trading.md) and [market](../m/market.md)-making activities.
+Virtu Financial Virtu Financial is a leading HFT [firm](../f/firm.md) known for its [proprietary trading](../p/proprietary_trading.md) and [market](../m/market.md)-making activities.
 
 ### Citadel Securities
 
-Citadel Securities [Citadel Securities](https://www.citadelsecurities.com) is another major player, providing [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes globally.
+Citadel Securities Citadel Securities is another major player, providing [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes globally.
 
 ### Two Sigma Securities
 
-Two Sigma Securities [Two Sigma Securities](https://www.twosigma.com) combines technology and [data science](../d/data_science_in_trading.md) to execute high-frequency transactions.
+Two Sigma Securities Two Sigma Securities combines technology and [data science](../d/data_science_in_trading.md) to execute high-frequency transactions.
 
 ## Regulatory Landscape
 

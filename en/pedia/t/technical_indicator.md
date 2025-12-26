@@ -1,6 +1,6 @@
 # Technical Indicators
 
-Technical indicators are mathematical calculations based on the price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) of a [security](../s/security.md) or contract. By analyzing historical data, these indicators help traders forecast future price movements. They are a crucial part of [technical analysis](../t/technical_analysis.md), used extensively in [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/accountability.md). This document provides a detailed examination of common technical indicators, their mathematical formulas, and their application in trading.
+Technical indicators are mathematical calculations based on the price, [volume](../v/volume.md), or [open interest](../o/open_interest.md) of a [security](../s/security.md) or contract. By analyzing historical data, these indicators help traders forecast future price movements. They are a crucial part of [technical analysis](../t/technical_analysis.md), used extensively in [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md). This document provides a detailed examination of common technical indicators, their mathematical formulas, and their application in trading.
 
 ## Types of Technical Indicators
 
@@ -10,8 +10,8 @@ Technical indicators are mathematical calculations based on the price, [volume](
 
 **Description:** The Simple Moving Average (SMA) is calculated by averaging a set number of past closing prices. It smooths out price data to identify the direction of the [trend](../t/trend.md).
 
-**Formula:** 
-\[ \text{SMA}(n) = \frac{P_1 + P_2 + ... + P_n}{n} \]
+**Formula:**
+\[ \text{SMA}(n) = \frac{P_1 + P_2 +... + P_n}{n} \]
 Where:
 - \( n \) = number of periods
 - \( P_i \) = price at each period
@@ -72,10 +72,10 @@ Where:
 **Description:** OBV uses [volume](../v/volume.md) flow to predict stock price movements. It adds [volume](../v/volume.md) on up days and subtracts [volume](../v/volume.md) on down days.
 
 **Formula:**
-\[ \text{OBV}_t = \begin{cases} 
-    \text{OBV}_{t-1} + V_t & \text{if } P_t > P_{t-1} \\
-    \text{OBV}_{t-1} - V_t & \text{if } P_t < P_{t-1} \\
-    \text{OBV}_{t-1} & \text{if } P_t = P_{t-1} 
+\[ \text{OBV}_t = \begin{cases}
+ \text{OBV}_{t-1} + V_t & \text{if } P_t > P_{t-1} \\
+ \text{OBV}_{t-1} - V_t & \text{if } P_t < P_{t-1} \\
+ \text{OBV}_{t-1} & \text{if } P_t = P_{t-1}
 \end{cases}
 \]
 Where:
@@ -97,18 +97,18 @@ Where:
 
 ### 6. Custom Indicators
 
-Traders can also create custom indicators by combining different existing indicators or by developing completely new ones using programming languages. For [algorithmic trading](../a/accountability.md), platforms like MetaTrader, [Amibroker](../a/amibroker.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) functionalities to develop custom technical indicators using languages like MQL, AFL, and C#.
+Traders can also create custom indicators by combining different existing indicators or by developing completely new ones using programming languages. For [algorithmic trading](../a/algorithmic_trading.md), platforms like MetaTrader, [Amibroker](../a/amibroker.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) functionalities to develop custom technical indicators using languages like MQL, AFL, and C#.
 
 ### Companies Offering Technical Analysis Tools
 
 #### TradingView
-[TradingView](https://www.tradingview.com) offers a comprehensive suite of tools for [technical analysis](../t/technical_analysis.md), including charting tools and various technical indicators. Users can create custom scripts using Pine Script, [TradingView](../t/tradingview.md)’s proprietary scripting language.
+TradingView offers a comprehensive suite of tools for [technical analysis](../t/technical_analysis.md), including charting tools and various technical indicators. Users can create custom scripts using Pine Script, [TradingView](../t/tradingview.md)’s proprietary scripting language.
 
 #### MetaTrader
-[MetaTrader](https://www.metatrader4.com/en) provides extensive tools for [technical analysis](../t/technical_analysis.md) and algo-trading. Traders can develop custom indicators using MQL4/MQL5.
+MetaTrader provides extensive tools for [technical analysis](../t/technical_analysis.md) and algo-trading. Traders can develop custom indicators using MQL4/MQL5.
 
 #### NinjaTrader
-[NinjaTrader](https://www.ninjatrader.com) offers advanced charting capabilities, including a wide [range](../r/range.md) of technical indicators. It supports custom development using C#.
+NinjaTrader offers advanced charting capabilities, including a wide [range](../r/range.md) of technical indicators. It supports custom development using C#.
 
 ## Conclusion
 

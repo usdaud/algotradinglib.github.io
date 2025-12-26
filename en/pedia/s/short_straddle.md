@@ -92,9 +92,9 @@ Short straddles are often used by experienced traders and institutional investor
 
 Several fintech companies and brokerages provide platforms that support advanced [options trading strategies](../o/options_trading_strategies.md), including short straddles:
 
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers [robust](../r/robust.md) tools for [options](../o/options.md) analysis and strategy [execution](../e/execution.md). [Thinkorswim](https://www.thinkorswim.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides extensive [options](../o/options.md) trading capabilities with a focus on professional traders. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **Tastyworks**: Known for its [options](../o/options.md) [trading platform](../t/trading_platform.md) and educational resources. [Tastyworks](https://www.tastyworks.com/)
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers [robust](../r/robust.md) tools for [options](../o/options.md) analysis and strategy [execution](../e/execution.md). Thinkorswim
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides extensive [options](../o/options.md) trading capabilities with a focus on professional traders. Interactive Brokers
+- **Tastyworks**: Known for its [options](../o/options.md) [trading platform](../t/trading_platform.md) and educational resources. Tastyworks
 
 ## Conclusion
 

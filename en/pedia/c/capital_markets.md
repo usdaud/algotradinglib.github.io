@@ -4,7 +4,7 @@
 
 ## Structure of Capital Markets
 
-[Capital](../c/capital.md) markets can be broadly classified into two main categories: primary markets and secondary markets. 
+[Capital](../c/capital.md) markets can be broadly classified into two main categories: primary markets and secondary markets.
 
 ### Primary Markets
 
@@ -90,7 +90,7 @@ These are [debt](../d/debt.md) instruments that signify a [loan](../l/loan.md) m
 
 ### Derivatives
 
-[Derivatives](../d/derivatives.md) are financial contracts deriving [value](../v/value.md) from an [underlying asset](../u/underlying_asset.md). They include [options](../o/options.md), [futures](../f/futures.md), and swaps. 
+[Derivatives](../d/derivatives.md) are financial contracts deriving [value](../v/value.md) from an [underlying asset](../u/underlying_asset.md). They include [options](../o/options.md), [futures](../f/futures.md), and swaps.
 
 - **[Options](../o/options.md)**: Allow but do not obligate transactions.
 - **[Futures](../f/futures.md)**: Standardized and obligate future transactions.
@@ -102,41 +102,41 @@ These are [debt](../d/debt.md) instruments that signify a [loan](../l/loan.md) m
 
 [Investment banks](../i/investment_bank_(ib).md) play a critical role in [capital](../c/capital.md) markets through [underwriting](../u/underwriting.md) securities, assisting in mergers and acquisitions, and providing advisory services. Leading global [investment banks](../i/investment_bank_(ib).md) include:
 
-- **Goldman Sachs** - [Goldman Sachs](https://www.goldmansachs.com/)
-- **JP Morgan Chase** - [JP Morgan Chase](https://www.jpmorganchase.com/)
-- **Morgan Stanley** - [Morgan Stanley](https://www.morganstanley.com/)
+- **Goldman Sachs** - Goldman Sachs
+- **JP Morgan Chase** - JP Morgan Chase
+- **Morgan Stanley** - Morgan Stanley
 
 ### Institutional Investors
 
 These include [insurance](../i/insurance.md) companies, pension funds, and mutual funds that manage large pools of [money](../m/money.md). Notable institutions include:
 
-- **BlackRock** - [BlackRock](https://www.blackrock.com/)
-- **Vanguard** - [Vanguard](https://www.vanguard.com/)
-- **[Fidelity Investments](../f/fidelity_investments.md)** - [Fidelity](https://www.fidelity.com/)
+- **BlackRock** - BlackRock
+- **Vanguard** - Vanguard
+- **[Fidelity Investments](../f/fidelity_investments.md)** - Fidelity
 
 ### Hedge Funds
 
 [Hedge](../h/hedge.md) funds are investment funds that employ diverse strategies to earn active returns for their investors. Notable firms include:
 
-- **Bridgewater Associates** - [Bridgewater](https://www.bridgewater.com/)
-- **Renaissance Technologies** - [Renaissance Technologies](https://www.rentec.com/)
-- **Citadel** - [Citadel](https://www.citadel.com/)
+- **Bridgewater Associates** - Bridgewater
+- **Renaissance Technologies** - Renaissance Technologies
+- **Citadel** - Citadel
 
 ### Regulatory Bodies
 
 Regulatory bodies oversee and regulate [capital](../c/capital.md) markets. Major entities include:
 
-- **SEC** - [SEC](https://www.sec.gov/)
-- **Financial Conduct Authority (FCA)** - [FCA](https://www.fca.org.uk/)
-- **Securities and [Exchange](../e/exchange.md) Board of India (SEBI)** - [SEBI](https://www.sebi.gov.in/)
+- **SEC** - SEC
+- **Financial Conduct Authority (FCA)** - FCA
+- **Securities and [Exchange](../e/exchange.md) Board of India (SEBI)** - SEBI
 
 ### Exchanges
 
 Stock and [commodity](../c/commodity.md) exchanges facilitate the trading of securities. Prominent exchanges include:
 
-- **New York Stock [Exchange](../e/exchange.md) (NYSE)** - [NYSE](https://www.nyse.com/)
-- **[NASDAQ](../n/nasdaq.md)** - [NASDAQ](https://www.nasdaq.com/)
-- **London Stock [Exchange](../e/exchange.md) (LSE)** - [LSE](https://www.londonstockexchange.com/)
+- **New York Stock [Exchange](../e/exchange.md) (NYSE)** - NYSE
+- **[NASDAQ](../n/nasdaq.md)** - NASDAQ
+- **London Stock [Exchange](../e/exchange.md) (LSE)** - LSE
 
 ## Technology in Capital Markets
 
@@ -148,22 +148,22 @@ The advent of electronic trading has revolutionized how securities are traded. T
 
 High-frequency trading (HFT) involves the use of powerful computers to conduct a large number of orders at extremely high speeds. Firms like:
 
-- **DRW** - [DRW](https://drw.com/)
-- **[Jump Trading](../j/jump_trading.md)** - [Jump Trading](https://www.jumptrading.com/)
+- **DRW** - DRW
+- **[Jump Trading](../j/jump_trading.md)** - Jump Trading
 
 ### Blockchain and Cryptocurrencies
 
 [Blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies are increasingly significant in [capital](../c/capital.md) markets, providing decentralized platforms for trading. Exchanges like:
 
-- **[Coinbase](../c/coinbase.md)** - [Coinbase](https://www.coinbase.com/)
-- **[Binance](../b/binance.md)** - [Binance](https://www.binance.com/)
+- **[Coinbase](../c/coinbase.md)** - Coinbase
+- **[Binance](../b/binance.md)** - Binance
 
 ### Artificial Intelligence and Machine Learning
 
 AI and ML are being deployed for [market](../m/market.md) predictions, algo trading, and [risk management](../r/risk_management.md). Companies leveraging AI include:
 
-- **Kensho Technologies** - [Kensho](https://www.kensho.com/)
-- **Numerai** - [Numerai](https://numer.ai/)
+- **Kensho Technologies** - Kensho
+- **Numerai** - Numerai
 
 ## Conclusion
 

@@ -18,7 +18,7 @@ The voluntary [bankruptcy](../b/bankruptcy.md) process typically begins with the
 There are several types of [bankruptcy](../b/bankruptcy.md) that debtors can file for, with the most common types being:
 
 - **Chapter 7 [Bankruptcy](../b/bankruptcy.md)** ([Liquidation](../l/liquidation.md)): This type involves the [liquidation](../l/liquidation.md) of the debtor’s non-exempt assets by a [trustee](../t/trustee.md), with the proceeds distributed to creditors. It is typically suited for individuals or businesses that cannot feasibly continue operations.
-  
+
 - **[Chapter 11 Bankruptcy](../c/chapter_11_bankruptcy.md)** ([Reorganization](../r/reorganization.md)): More complex and commonly used by businesses, Chapter 11 allows the debtor to restructure their debts and operations. The [business](../b/business.md) can continue to operate while devising a plan to [return](../r/return.md) to profitability.
 
 - **Chapter 13 [Bankruptcy](../b/bankruptcy.md)** (Wage Earner’s Plan): This type is available to individuals with regular [income](../i/income.md) and involves creating a [repayment](../r/repayment.md) plan that lasts three to five years to pay off or settle debts.
@@ -87,6 +87,6 @@ In Canada, the process is governed by the [Bankruptcy](../b/bankruptcy.md) and [
 
 ## Conclusion
 
-Voluntary [bankruptcy](../b/bankruptcy.md) is a legal remedy for individuals and businesses overwhelmed by [debt](../d/debt.md). While it offers significant relief and a potential fresh start, it also comes with substantial consequences, particularly regarding [creditworthiness](../c/creditworthiness.md) and [asset](../a/asset.md) loss. It is essential for debtors to consider all [options](../o/options.md), seek professional advice, and fully understand the [bankruptcy](../b/bankruptcy.md) process before proceeding. For more detailed information about specific [insolvency](../i/insolvency.md) services and bankruptcies for organizations, visit [Insolvency Service of United Kingdom](https://www.gov.uk/government/organisations/insolvency-service).
+Voluntary [bankruptcy](../b/bankruptcy.md) is a legal remedy for individuals and businesses overwhelmed by [debt](../d/debt.md). While it offers significant relief and a potential fresh start, it also comes with substantial consequences, particularly regarding [creditworthiness](../c/creditworthiness.md) and [asset](../a/asset.md) loss. It is essential for debtors to consider all [options](../o/options.md), seek professional advice, and fully understand the [bankruptcy](../b/bankruptcy.md) process before proceeding. For more detailed information about specific [insolvency](../i/insolvency.md) services and bankruptcies for organizations, visit Insolvency Service of United Kingdom.
 
 This complex yet invaluable tool ensures that debtors can manage their financial struggles within a structured and legally protected environment, ultimately contributing to financial stability and [economic cycles](../e/economic_cycles.md).

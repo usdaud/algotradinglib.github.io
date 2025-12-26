@@ -17,7 +17,7 @@ In [algorithmic trading](../a/accountability.md), achieving statistical [arbitra
 ## Equilibrium Models in Algorithmic Trading
 
 ### Limit Order Book Models
-A [limit order book](../l/limit_order_book.md) (LOB) represents the orders that participants in a [market](../m/market.md) are willing to buy or sell at different price levels. The equilibrium in LOB models is attained when the [order](../o/order.md) flow is balanced, and the [bid-ask spread](../b/bid-ask_spread.md) is stable. 
+A [limit order book](../l/limit_order_book.md) (LOB) represents the orders that participants in a [market](../m/market.md) are willing to buy or sell at different price levels. The equilibrium in LOB models is attained when the [order](../o/order.md) flow is balanced, and the [bid-ask spread](../b/bid-ask_spread.md) is stable.
 
 ### Microstructure Models
 [Market microstructure](../m/market_microstructure.md) models study the processes and outcomes of exchanging assets under various [trading rules](../t/trading_rules.md). Equilibrium in these models implies that [market](../m/market.md) prices reflect all available information, and [trading algorithms](../t/trading_algorithms.md) are optimized to execute trades with minimal [market](../m/market.md) impact.
@@ -40,15 +40,12 @@ While [trend](../t/trend.md)-following strategies may seem counter to the notion
 
 ### Virtu Financial
 Virtu Financial is one of the leading companies utilizing [algorithmic trading](../a/accountability.md) for [market](../m/market.md) making and [liquidity provision](../l/liquidity_provision.md). Their algorithms are designed to maintain [market](../m/market.md) equilibrium by executing trades across [multiple](../m/multiple.md) [asset](../a/asset.md) classes and venues.
-[Virtu Financial](https://www.virtu.com/)
 
 ### Hudson River Trading
-Hudson River Trading applies [quantitative trading](../q/quantitative_trading.md) strategies, including those focusing on [market](../m/market.md) equilibrium, to ensure efficient and balanced [trade](../t/trade.md) executions. 
-[Hudson River Trading](https://www.hudsonrivertrading.com/)
+Hudson River Trading applies [quantitative trading](../q/quantitative_trading.md) strategies, including those focusing on [market](../m/market.md) equilibrium, to ensure efficient and balanced [trade](../t/trade.md) executions.
 
 ### Two Sigma
 Two Sigma employs data-driven models and [machine learning](../m/machine_learning.md) to create [trading strategies](../t/trading_strategies.md) that contribute to [market](../m/market.md) equilibrium by identifying and exploiting small inefficiencies.
-[Two Sigma](https://www.twosigma.com/)
 
 ## Challenges in Maintaining Equilibrium
 

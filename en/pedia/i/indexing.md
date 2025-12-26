@@ -70,7 +70,7 @@ Two common investment vehicles that utilize indexing strategies are **[index](..
 
 Indices serve as leading [economic indicators](../e/economic_indicators.md) that help policymakers and analysts gauge the health of the [economy](../e/economy.md). Examples include:
 
-- **Consumer Price [Index](../i/index_instrument.md) (CPI)**: Measures the average change in prices paid by consumers over time for a [basket of goods](../b/basket_of_goods.md) and services. The **Bureau of Labor [Statistics](../s/statistics.md) (BLS)** provides data on CPI [here](https://www.bls.gov/cpi/).
+- **Consumer Price [Index](../i/index_instrument.md) (CPI)**: Measures the average change in prices paid by consumers over time for a [basket of goods](../b/basket_of_goods.md) and services. The **Bureau of Labor [Statistics](../s/statistics.md) (BLS)** provides data on CPI here.
 
 - **Producer Price [Index](../i/index_instrument.md) (PPI)**: Measures the average change in selling prices received by domestic producers for their output.
 
@@ -113,28 +113,28 @@ Indices are periodically rebalanced to ensure they reflect current [market](../m
 
 Several organizations specialize in creating and maintaining indices, including:
 
-- **S&P Dow Jones Indices**: A division of S&P Global, they [offer](../o/offer.md) a wide [range](../r/range.md) of indices including the S&P 500 and the DJIA. More information can be found [here](https://www.spglobal.com/spdji/).
-- **MSCI Inc.**: Provides indices covering global [equity](../e/equity.md) markets, including the MSCI World [Index](../i/index_instrument.md) and various sector-specific and region-specific indices. More details are available [here](https://www.msci.com/).
-- **[FTSE Russell](../f/ftse_russell.md)**: Responsible for the FTSE 100 and Russell 2000 indices. Visit their site [here](https://www.ftserussell.com/).
-- **[Bloomberg](../b/bloomberg.md)**: Offers indices that span the [asset](../a/asset.md) classes such as [Bloomberg](../b/bloomberg.md) Barclays Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md). Their official site is [here](https://www.bloomberg.com/professional/product/indices/).
+- **S&P Dow Jones Indices**: A division of S&P Global, they [offer](../o/offer.md) a wide [range](../r/range.md) of indices including the S&P 500 and the DJIA. More information can be found here.
+- **MSCI Inc.**: Provides indices covering global [equity](../e/equity.md) markets, including the MSCI World [Index](../i/index_instrument.md) and various sector-specific and region-specific indices. More details are available here.
+- **[FTSE Russell](../f/ftse_russell.md)**: Responsible for the FTSE 100 and Russell 2000 indices.
+- **[Bloomberg](../b/bloomberg.md)**: Offers indices that span the [asset](../a/asset.md) classes such as [Bloomberg](../b/bloomberg.md) Barclays Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md). Their public materials is here.
 
 ## Real-World Applications
 
 ### Institutional Investors
 
-Pension funds, endowments, and [insurance](../i/insurance.md) companies often use indexing strategies for their investment portfolios to achieve stable, long-term returns. For example, the **California Public Employees' Retirement System (CalPERS)** employs indexing for a substantial portion of its [equity](../e/equity.md) investments. More about their investment strategies can be found on their [website](https://www.calpers.ca.gov/).
+Pension funds, endowments, and [insurance](../i/insurance.md) companies often use indexing strategies for their investment portfolios to achieve stable, long-term returns. For example, the **California Public Employees' Retirement System (CalPERS)** employs indexing for a substantial portion of its [equity](../e/equity.md) investments.
 
 ### Individual Investors
 
-[Index](../i/index_instrument.md) funds and ETFs [offer](../o/offer.md) individual investors an accessible way to diversify their portfolios and achieve [market](../m/market.md)-level returns with lower fees. The rise of robo-advisors, such as **Betterment** and **Wealthfront**, largely relies on ETF-based indexing strategies to provide customized, automated investment portfolios. You can learn more about Betterment [here](https://www.betterment.com/) and Wealthfront [here](https://www.wealthfront.com/).
+[Index](../i/index_instrument.md) funds and ETFs [offer](../o/offer.md) individual investors an accessible way to diversify their portfolios and achieve [market](../m/market.md)-level returns with lower fees. The rise of robo-advisors, such as **Betterment** and **Wealthfront**, largely relies on ETF-based indexing strategies to provide customized, automated investment portfolios. You can learn more about Betterment here and Wealthfront here.
 
 ### Algorithmic Trading
 
-[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often use indices as benchmarks to optimize buy and sell signals. Strategies may include statistical [arbitrage](../a/arbitrage.md), where traders exploit price discrepancies between an [index](../i/index_instrument.md) and related securities. Companies like **[QuantConnect](../q/quantconnect.md)** [offer](../o/offer.md) platforms that enable developers to create and backtest [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) based on indices. More details can be found [here](https://www.quantconnect.com/).
+[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often use indices as benchmarks to optimize buy and sell signals. Strategies may include statistical [arbitrage](../a/arbitrage.md), where traders exploit price discrepancies between an [index](../i/index_instrument.md) and related securities. Companies like **[QuantConnect](../q/quantconnect.md)** [offer](../o/offer.md) platforms that enable developers to create and backtest [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) based on indices. More details can be found here.
 
 ### Risk Management
 
-Indices are also used in the context of [risk management](../r/risk_management.md) through the creation of [index](../i/index_instrument.md)-based [derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md). These financial instruments allow traders to [hedge](../h/hedge.md) against potential [market](../m/market.md) movements. Exchanges like the **Chicago Mercantile [Exchange](../e/exchange.md) (CME)** [offer](../o/offer.md) a [range](../r/range.md) of [index futures](../i/index_futures.md). Visit the CME [website](https://www.cmegroup.com/) for more information.
+Indices are also used in the context of [risk management](../r/risk_management.md) through the creation of [index](../i/index_instrument.md)-based [derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md). These financial instruments allow traders to [hedge](../h/hedge.md) against potential [market](../m/market.md) movements. Exchanges like the **Chicago Mercantile [Exchange](../e/exchange.md) (CME)** [offer](../o/offer.md) a [range](../r/range.md) of [index futures](../i/index_futures.md).
 
 ## Conclusion
 

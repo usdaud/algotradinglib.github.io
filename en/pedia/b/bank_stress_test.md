@@ -46,17 +46,14 @@ Finally, banks report their findings to regulatory bodies and stakeholders. If t
 ### United States: Comprehensive Capital Analysis and Review (CCAR)
 The Federal Reserve conducts CCAR each year to assess the [capital](../c/capital.md) planning practices and [capital](../c/capital.md) adequacy of large [bank](../b/bank.md) holding companies. CCAR evaluates both quantitative and qualitative factors to ensure that banks can maintain [capital](../c/capital.md) levels under stressful conditions.
 
-[Federal Reserve CCAR](https://www.federalreserve.gov/supervisionreg/ccar.htm)
 
 ### European Union: European Banking Authority (EBA) Stress Tests
 The EBA coordinates stress tests across the [European Union](../e/european_union_(eu).md) to assess the resilience of financial institutions in the face of adverse [market](../m/market.md) developments. The tests aim to identify vulnerabilities and ensure aligned regulatory responses across EU member states.
 
-[European Banking Authority Stress Testing](https://www.eba.europa.eu/risk-analysis-and-data/eu-wide-stress-testing)
 
 ### United Kingdom: Bank of England (BoE) Stress Tests
 The BoE conducts annual stress tests for major UK banks. These tests form part of the BoE's Financial Policy Committee's mandate to identify and mitigate systemic risks in the UK [financial system](../f/financial_system.md).
 
-[Bank of England Stress Testing](https://www.bankofengland.co.uk/stress-testing)
 
 ## Challenges and Criticisms
 

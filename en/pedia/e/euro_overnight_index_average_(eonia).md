@@ -48,7 +48,7 @@ Eonia is a critical [indicator](../i/indicator.md) of the health and stability o
 
 ## Transition to €STR
 
-On October 2, 2019, the European Central [Bank](../b/bank.md) introduced the [Euro](../e/euro.md) Short-Term Rate (€STR), designed to eventually replace Eonia. This transition was driven by the need for a more [robust](../r/robust.md) [benchmark](../b/benchmark.md) adhering to international standards, particularly in light of reforms undertaken following the LIBOR (London Interbank Offered Rate) scandal. €STR is based on a broader set of data and offers enhanced [transparency](../t/transparency.md) and representativeness.
+On October 2, 2019, the European Central [Bank](../b/bank.md) introduced the [Euro](../e/euro.md) Short-Term Rate (€STR), designed to eventually replace Eonia. This transition was driven by the need for a more [robust](../r/robust.md) [benchmark](../b/benchmark.md) adhering to international standards, particularly in light of reforms undertaken following the LIBOR (London Interbank Offered Rate) scandal. Note: LIBOR was officially discontinued in June 2023 and replaced by alternative reference rates such as SOFR (Secured Overnight Financing Rate) in the US and €STR in Europe. €STR is based on a broader set of data and offers enhanced [transparency](../t/transparency.md) and representativeness.
 
 ### Key Differences Between Eonia and €STR
 
@@ -70,6 +70,6 @@ Eonia has historically been a cornerstone of the [Eurozone](../e/eurozone.md)'s 
 
 ### Useful Links
 
-- [European Central Bank Official Website](https://www.ecb.europa.eu)
-- [Eonia on the ECB's Website](https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_short-term_rate/html/eonia.en.html)
-- [€STR Information](https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_short-term_rate/html/index.en.html)
+-
+- Eonia on the ECB's online platform
+- €STR Information

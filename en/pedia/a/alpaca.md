@@ -44,5 +44,4 @@ Alpaca offers extensive support through detailed documentation, user guides, tut
 
 Alpaca’s powerful API, [commission](../c/commission.md)-free trading, and [robust](../r/robust.md) support make it an ideal choice for developers, algorithmic traders, and fintech companies seeking a flexible and scalable [trading platform](../t/trading_platform.md).
 
-## Website
-Visit Alpaca's official website for more information: [Alpaca](https://alpaca.markets)
+##

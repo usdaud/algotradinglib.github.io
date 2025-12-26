@@ -25,7 +25,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 [Algorithmic market making](../a/algorithmic_market_making.md) involves providing [liquidity](../l/liquidity.md) to a [market](../m/market.md) by simultaneously [offering](../o/offering.md) to buy and sell assets. The algorithm quickly adjusts prices in real-time to maintain a spread, capturing the difference as [profit](../p/profit.md). [Market making algorithms](../m/market_making_algorithms.md) are highly complex, needing to constantly update prices based on [supply](../s/supply.md) and [demand](../d/demand.md), while also managing [risk](../r/risk.md).
 
 ### Mean Reversion
-[Mean reversion](../m/mean_reversion.md) strategies are based on the hypothesis that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical means over time. Algorithms can be designed to identify deviations from this mean and execute trades to [profit](../p/profit.md) from the eventual reversion. 
+[Mean reversion](../m/mean_reversion.md) strategies are based on the hypothesis that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical means over time. Algorithms can be designed to identify deviations from this mean and execute trades to [profit](../p/profit.md) from the eventual reversion.
 
 ### Momentum Strategies
 [Momentum](../m/momentum.md) algorithms identify trends in the [market](../m/market.md) and make trades that align with these trends. If prices are trending upwards, the algorithm [will](../w/will.md) place buy orders, while if prices are trending downwards, it [will](../w/will.md) place sell orders.
@@ -43,23 +43,23 @@ Effective [risk management](../r/risk_management.md) is crucial in [algorithmic 
 ### Regulation and Compliance
 [Algorithmic trading](../a/algorithmic_trading.md) firms must comply with various regulatory requirements. Regulations such as the [European Union](../e/european_union_(eu).md)'s [MiFID II](../m/mifid_ii.md) and the United States' SEC Rule 15c3-5 impose stringent guidelines on everything from trading activity to [risk](../r/risk.md) controls. Compliance ensures [market](../m/market.md) integrity and protects investors.
 
-### Leading Companies in Algorithmic Trading 
+### Leading Companies in Algorithmic Trading
 Several key players dominate the [algorithmic trading](../a/algorithmic_trading.md) [industry](../i/industry.md):
 
-1. [Virtu Financial](https://www.virtu.com/)
-   - Virtu Financial is one of the leading electronic trading firms, specializing in [market](../m/market.md) making and [execution](../e/execution.md) services.
+1. Virtu Financial
+ - Virtu Financial is one of the leading electronic trading firms, specializing in [market](../m/market.md) making and [execution](../e/execution.md) services.
 
-2. [Citadel Securities](https://www.citadelsecurities.com/)
-   - A major [market](../m/market.md)-maker and provider of [liquidity](../l/liquidity.md), Citadel Securities combines [quantitative research](../q/quantitative_research.md) and technology.
+2. Citadel Securities
+ - A major [market](../m/market.md)-maker and provider of [liquidity](../l/liquidity.md), Citadel Securities combines [quantitative research](../q/quantitative_research.md) and technology.
 
-3. [Jane Street](https://www.janestreet.com/)
-   - An innovative trading [firm](../f/firm.md) focusing on sophisticated strategies across various [asset](../a/asset.md) classes, heavily leveraging quantitative methods.
+3. Jane Street
+ - An innovative trading [firm](../f/firm.md) focusing on sophisticated strategies across various [asset](../a/asset.md) classes, heavily leveraging quantitative methods.
 
-4. [Two Sigma](https://www.twosigma.com/)
-   - A technology-driven trading [firm](../f/firm.md) that heavily utilizes [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md).
+4. Two Sigma
+ - A technology-driven trading [firm](../f/firm.md) that heavily utilizes [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md).
 
-5. [DRW Trading](https://drw.com/)
-   - A diversified [principal](../p/principal.md) trading [firm](../f/firm.md) combining traditional and modern approaches across a variety of products and [asset](../a/asset.md) classes.
+5. DRW Trading
+ - A diversified [principal](../p/principal.md) trading [firm](../f/firm.md) combining traditional and modern approaches across a variety of products and [asset](../a/asset.md) classes.
 
 ### Market Microstructure
 [Market microstructure](../m/market_microstructure.md) deals with the study of the mechanisms and effects of exchanges, trading venues, and [market](../m/market.md) participants. The primary areas of focus include:

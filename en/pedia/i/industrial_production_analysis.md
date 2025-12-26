@@ -15,10 +15,10 @@ The Industrial Production [Index](../i/index_instrument.md) (IPI) is one of the 
 
 Capacity utilization measures the extent to which an enterprise or [economy](../e/economy.md) utilizes its installed productive capacity. It is expressed as a percentage and serves as a gauge of [economic efficiency](../e/economic_efficiency.md) and slack.
 
-* **Formula**: 
-  \[
-  \text{[Capacity Utilization Rate](../c/capacity_utilization_rate.md)} = \frac{\text{Actual Output}}{\text{Potential Output}} \times 100
-  \]
+* **Formula**:
+ \[
+ \text{[Capacity Utilization Rate](../c/capacity_utilization_rate.md)} = \frac{\text{Actual Output}}{\text{Potential Output}} \times 100
+ \]
 
 * **Significance**: A high [capacity utilization rate](../c/capacity_utilization_rate.md) typically signifies [robust](../r/robust.md) economic activity, while a low rate could indicate underutilization and potential inefficiencies.
 
@@ -27,10 +27,10 @@ Capacity utilization measures the extent to which an enterprise or [economy](../
 Production function analysis examines the relationship between input factors (such as labor, [capital](../c/capital.md), and technology) and the output of industrial production. Common forms of production functions include the Cobb-Douglas production function and the Leontief production function.
 
 * **Cobb-Douglas Production Function**:
-  \[
-  Y = A \cdot L^\[alpha](../a/alpha.md) \cdot K^\[beta](../b/beta.md)
-  \]
-  where \(Y\) is the total production, \(A\) represents total [factor](../f/factor.md) [productivity](../p/productivity.md), \(L\) is labor input, \(K\) is [capital](../c/capital.md) input, and \(\[alpha](../a/alpha.md)\) and \(\[beta](../b/beta.md)\) are output elasticities of labor and [capital](../c/capital.md), respectively.
+ \[
+ Y = A \cdot L^\alpha \cdot K^\beta
+ \]
+ where \(Y\) is the total production, \(A\) represents total [factor](../f/factor.md) [productivity](../p/productivity.md), \(L\) is labor input, \(K\) is [capital](../c/capital.md) input, and \(\alpha\) and \(\beta\) are output elasticities of labor and [capital](../c/capital.md), respectively.
 
 * **Application**: By analyzing the production function, analysts can determine the contribution of each input to the overall production and identify areas for improvement.
 
@@ -112,19 +112,19 @@ Industrial production must often navigate complex environmental regulations and 
 
 General Electric has leveraged advanced analytics and digital twin technology to enhance its industrial production capabilities. The digital twin is a virtual replica of a physical [asset](../a/asset.md) that allows for real-time monitoring and [optimization](../o/optimization.md).
 
-* **Impact**: GE’s use of digital twins has resulted in improved [operational efficiency](../o/operational_efficiency_in_trading.md), reduced downtime, and better decision-making. For detailed information, visit [General Electric](https://www.ge.com/).
+* **Impact**: GE’s use of digital twins has resulted in improved [operational efficiency](../o/operational_efficiency_in_trading.md), reduced downtime, and better decision-making. For detailed information, visit General Electric.
 
 ### 2. Siemens
 
 Siemens, a global industrial giant, employs [Industry](../i/industry.md) 4.0 technologies to drive industrial production. Their use of the Siemens Digital Enterprise Suite integrates automation, [cloud computing](../c/cloud_computing_in_trading.md), and analytics to streamline production processes.
 
-* **Outcome**: Siemens has achieved significant improvements in production speed, flexibility, and quality. More details can be found on the [Siemens website](https://www.siemens.com/).
+* **Outcome**: Siemens has achieved significant improvements in production speed, flexibility, and quality. More
 
 ### 3. BMW Group
 
 BMW Group has implemented advanced robotics and AI-driven [quality control](../q/quality_control.md) systems in their [manufacturing](../m/manufacturing.md) plants. These technologies ensure precision and consistency in vehicle production.
 
-* **Result**: BMW’s innovative use of technology has enhanced [production efficiency](../p/production_efficiency.md) and product quality while reducing operational costs. Learn more at the [BMW Group website](https://www.bmwgroup.com/).
+* **Result**: BMW’s innovative use of technology has enhanced [production efficiency](../p/production_efficiency.md) and product quality while reducing operational costs.
 
 ## Conclusion
 

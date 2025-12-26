@@ -53,4 +53,3 @@ The Federal Reserve may influence the yields on these bonds through its [monetar
 
 As of 2023, 7-Year Treasury Bonds continue to be a focal point for investors and policymakers alike. The yields on these bonds have been subject to fluctuations driven by [economic recovery](../e/economic_recovery.md) post-pandemic, [inflation](../i/inflation.md) trends, and Federal Reserve policy adjustments. The [demand](../d/demand.md) for these bonds remains high from institutional investors, central banks, and individual investors seeking stable returns in uncertain times.
 
-For more information on 7-Year Treasury Bonds, you can visit the U.S. Department of the Treasury's official page: [U.S. Department of the Treasury](https://www.treasury.gov/).

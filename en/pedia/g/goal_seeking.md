@@ -1,7 +1,7 @@
 # Goal Seeking
 
 ## Introduction
-Goal seeking is a computational technique used in various fields, including [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md). It refers to the process of finding an unknown input [value](../v/value.md) that produces a desired result or 'goal'. In [algorithmic trading](../a/accountability.md) and [quantitative finance](../q/quantitative_finance.md), goal-seeking algorithms are employed to optimize [trading strategies](../t/trading_strategies.md), manage risks, identify [market](../m/market.md) opportunities, and achieve desired financial outcomes. This comprehensive guide [will](../w/will.md) delve into various aspects of goal seeking in the context of [algorithmic trading](../a/accountability.md).
+Goal seeking is a computational technique used in various fields, including [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It refers to the process of finding an unknown input [value](../v/value.md) that produces a desired result or 'goal'. In [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), goal-seeking algorithms are employed to optimize [trading strategies](../t/trading_strategies.md), manage risks, identify [market](../m/market.md) opportunities, and achieve desired financial outcomes. This comprehensive guide [will](../w/will.md) delve into various aspects of goal seeking in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Fundamentals of Goal Seeking
 Goal seeking is a reverse analysis technique that involves iterating through a [range](../r/range.md) of input values until the desired output is achieved. Unlike traditional methods, which start with known input values to generate an output, goal seeking works backward by starting with a known output and determining the necessary input.
@@ -24,7 +24,7 @@ The goal-seeking algorithm iteratively adjusts \( x \) to minimize the differenc
 ## Application Areas in Algorithmic Trading
 
 ### Strategy Optimization
-One of the primary uses of goal seeking in [algorithmic trading](../a/accountability.md) is the [optimization](../o/optimization.md) of [trading strategies](../t/trading_strategies.md) to maximize returns, reduce risks, or achieve other financial goals. Traders use [backtesting](../b/backtesting.md) and simulations to adjust strategy parameters until they achieve the optimal performance.
+One of the primary uses of goal seeking in [algorithmic trading](../a/algorithmic_trading.md) is the [optimization](../o/optimization.md) of [trading strategies](../t/trading_strategies.md) to maximize returns, reduce risks, or achieve other financial goals. Traders use [backtesting](../b/backtesting.md) and simulations to adjust strategy parameters until they achieve the optimal performance.
 
 #### Example
 If an algorithm aims to achieve a [Sharpe Ratio](../s/sharpe_ratio.md) of 2, goal seeking can adjust the input parameters such as entry/exit points, stop-loss limits, and position sizes to find the combination that delivers the desired [Sharpe Ratio](../s/sharpe_ratio.md).
@@ -36,7 +36,7 @@ Goal seeking can be crucial for managing risks in a portfolio. By defining [risk
 Traders use goal seeking to identify [market](../m/market.md) conditions that match specific criteria, such as identifying opportunities with a certain [profit](../p/profit.md) potential or [liquidity](../l/liquidity.md) level.
 
 ## Algorithms and Techniques
-Several algorithms and techniques are commonly used for goal seeking in [algorithmic trading](../a/accountability.md):
+Several algorithms and techniques are commonly used for goal seeking in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Newton-Raphson Method
 A popular method for finding roots of real-valued functions, the Newton-Raphson method can be used for goal seeking by iteratively adjusting input values based on the [derivatives](../d/derivatives.md) of the objective function.
@@ -62,13 +62,13 @@ Where:
 ## Practical Implementation
 
 ### Software Tools
-Various [software tools](../s/software_tools_for_trading.md) and platforms support goal seeking in [algorithmic trading](../a/accountability.md):
+Various [software tools](../s/software_tools_for_trading.md) and platforms support goal seeking in [algorithmic trading](../a/algorithmic_trading.md):
 
 #### Excel Goal Seek
 Microsoft Excel includes a built-in Goal Seek tool that allows users to find the necessary input values for a desired output in a spreadsheet. This is suitable for simple, linear problems but may not be ideal for complex [trading algorithms](../t/trading_algorithms.md).
 
 #### Python Libraries
-Python is extensively used in [algorithmic trading](../a/accountability.md) due to its [robust](../r/robust.md) libraries:
+Python is extensively used in [algorithmic trading](../a/algorithmic_trading.md) due to its [robust](../r/robust.md) libraries:
 
 1. **SciPy**: The `optimize` module in SciPy offers functions for [optimization](../o/optimization.md), including goal seeking.
 2. **NumPy**: Provides support for numerical operations, essential for implementing goal-seeking algorithms.
@@ -98,11 +98,9 @@ print(f"The required input [value](../v/value.md) is: {solution.root}")
 ### Commercial Platforms
 Several commercial platforms [offer](../o/offer.md) advanced goal-seeking capabilities:
 
-#### MetaTrader 4/5 (https://www.metatrader4.com/)
-MetaTrader is a popular [trading platform](../t/trading_platform.md) that supports automated [trading strategies](../t/trading_strategies.md) through Expert Advisors (EAs). It includes [optimization](../o/optimization.md) tools for strategy parameters, which utilize goal-seeking algorithms.
+#### MetaTrader 4/5 MetaTrader is a popular [trading platform](../t/trading_platform.md) that supports automated [trading strategies](../t/trading_strategies.md) through Expert Advisors (EAs). It includes [optimization](../o/optimization.md) tools for strategy parameters, which utilize goal-seeking algorithms.
 
-#### QuantConnect (https://www.quantconnect.com/)
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/accountability.md) platform with integrated [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) tools. Users can employ goal-seeking algorithms to refine their [trading strategies](../t/trading_strategies.md).
+#### [StockSharp](../s/stocksharp.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) tools. Users can employ goal-seeking algorithms to refine their [trading strategies](../t/trading_strategies.md).
 
 ## Challenges and Considerations
 
@@ -116,4 +114,4 @@ Goal seeking, especially for complex, multi-dimensional problems, can be computa
 [Financial markets](../f/financial_market.md) are dynamic and can change rapidly. Goal-seeking algorithms must be adaptable to new [market](../m/market.md) conditions to remain effective.
 
 ## Conclusion
-Goal seeking is a powerful technique in [algorithmic trading](../a/accountability.md), enabling traders to optimize strategies, manage risks, and identify [market](../m/market.md) opportunities. By leveraging various algorithms and [software tools](../s/software_tools_for_trading.md), traders can achieve their financial goals more effectively. However, it is essential to consider the risks of [overfitting](../o/overfitting.md), computational complexity, and [market dynamics](../m/market_dynamics.md) to ensure [robust](../r/robust.md) and reliable [trading performance](../t/trading_performance.md).
+Goal seeking is a powerful technique in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to optimize strategies, manage risks, and identify [market](../m/market.md) opportunities. By leveraging various algorithms and [software tools](../s/software_tools_for_trading.md), traders can achieve their financial goals more effectively. However, it is essential to consider the risks of [overfitting](../o/overfitting.md), computational complexity, and [market dynamics](../m/market_dynamics.md) to ensure [robust](../r/robust.md) and reliable [trading performance](../t/trading_performance.md).

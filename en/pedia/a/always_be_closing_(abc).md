@@ -1,6 +1,6 @@
 # Always Be Closing (ABC)
 
-"Always Be Closing" (ABC) is a strategy used commonly in sales and [business](../b/business.md) development that emphasizes the need for salespeople to focus continually on closing deals. In the world of [algorithmic trading](../a/accountability.md) (often abbreviated as algo-trading), this philosophy translates into a relentless pursuit of optimizing [trading algorithms](../t/trading_algorithms.md) for [profit](../p/profit.md) maximization. 
+"Always Be Closing" (ABC) is a strategy used commonly in sales and [business](../b/business.md) development that emphasizes the need for salespeople to focus continually on closing deals. In the world of [algorithmic trading](../a/accountability.md) (often abbreviated as algo-trading), this philosophy translates into a relentless pursuit of optimizing [trading algorithms](../t/trading_algorithms.md) for [profit](../p/profit.md) maximization.
 
 ## The Origin of ABC
 
@@ -26,15 +26,15 @@ The term "Always Be Closing" was popularized by David Mamet's 1992 film "Glengar
 
 ### 1. QuantConnect
 
-[QuantConnect](https://www.quantconnect.com) is a platform that provides tools for [algorithmic trading](../a/accountability.md), enabling traders to backtest and execute strategies across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. [QuantConnect](../q/quantconnect.md) places an emphasis on continuous improvement and [optimization](../o/optimization.md), embodying the ABC philosophy in the development and deployment of [trading algorithms](../t/trading_algorithms.md).
+QuantConnect is a platform that provides tools for [algorithmic trading](../a/accountability.md), enabling traders to backtest and execute strategies across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. [QuantConnect](../q/quantconnect.md) places an emphasis on continuous improvement and [optimization](../o/optimization.md), embodying the ABC philosophy in the development and deployment of [trading algorithms](../t/trading_algorithms.md).
 
 ### 2. Two Sigma
 
-[Two Sigma](https://www.twosigma.com) employs a scientific approach to [investment management](../i/investment_management.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md), distributed computing, and vast sets of data to optimize [trading strategies](../t/trading_strategies.md) continually, focusing on "closing" profitable transactions in the competitive landscape of [financial markets](../f/financial_market.md).
+Two Sigma employs a scientific approach to [investment management](../i/investment_management.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md), distributed computing, and vast sets of data to optimize [trading strategies](../t/trading_strategies.md) continually, focusing on "closing" profitable transactions in the competitive landscape of [financial markets](../f/financial_market.md).
 
 ### 3. Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com) is one of the world's most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). They are known for their relentless focus on leveraging [mathematical models](../m/mathematical_models_in_trading.md) to close trades profitably, consistently refining their strategies to maintain an edge over the [market](../m/market.md).
+Renaissance Technologies is one of the world's most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). They are known for their relentless focus on leveraging [mathematical models](../m/mathematical_models_in_trading.md) to close trades profitably, consistently refining their strategies to maintain an edge over the [market](../m/market.md).
 
 ## Tools and Technologies Supporting ABC in Algo-Trading
 
@@ -62,4 +62,4 @@ Regulatory bodies worldwide are increasingly scrutinizing algorithmic and high-f
 
 ## Conclusion
 
-The "Always Be Closing" philosophy in [algorithmic trading](../a/accountability.md) underscores the importance of continuous development, [optimization](../o/optimization.md), and [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md). By leveraging advanced technologies and [data analytics](../d/data_analytics.md), algo-traders strive to "close" as many profitable trades as possible, embodying the relentless pursuit of success that the ABC mantra encapsulates. The examples of companies like [QuantConnect](../q/quantconnect.md), Two Sigma, and Renaissance Technologies illustrate how this philosophy is applied in the real world, driving innovation and profitability in the [financial markets](../f/financial_market.md).
+The "Always Be Closing" philosophy in [algorithmic trading](../a/accountability.md) underscores the importance of continuous development, [optimization](../o/optimization.md), and [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md). By leveraging advanced technologies and [data analytics](../d/data_analytics.md), algo-traders strive to "close" as many profitable trades as possible, embodying the relentless pursuit of success that the ABC mantra encapsulates. The examples of companies like [StockSharp](../s/stocksharp.md), Two Sigma, and Renaissance Technologies illustrate how this philosophy is applied in the real world, driving innovation and profitability in the [financial markets](../f/financial_market.md).

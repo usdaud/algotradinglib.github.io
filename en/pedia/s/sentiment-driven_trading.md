@@ -50,12 +50,12 @@ Despite its advantages, sentiment-driven trading faces several challenges:
 
 Several companies and platforms specialize in providing [sentiment analysis](../s/sentiment_analysis.md) tools and data:
 
-1. **[Bloomberg](../b/bloomberg.md)**: Offers advanced [sentiment analysis](../s/sentiment_analysis.md) tools integrated into its terminal services. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
-2. **Refinitiv (formerly Thomson [Reuters](../r/reuters.md))**: Provides sentiment data through its Eikon platform. [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-3. **[RavenPack](../r/ravenpack.md)**: Specializes in real-time analytics and sentiment data for [financial markets](../f/financial_market.md). [RavenPack](https://www.ravenpack.com/)
-4. **AlphaSense**: Provides a search engine for [market](../m/market.md) intelligence with [sentiment analysis](../s/sentiment_analysis.md) capabilities. [AlphaSense](https://www.alpha-sense.com/)
-5. **StockTwits**: [Social media](../s/social_media.md) platform focused on financial discussions, [offering](../o/offering.md) [sentiment indicators](../s/sentiment_indicators.md). [StockTwits](https://stocktwits.com/)
-6. **Dataminr**: Uses AI to analyze public data and provide real-time alerts on [market sentiment](../m/market_sentiment.md). [Dataminr](https://www.dataminr.com/)
+1. **[Bloomberg](../b/bloomberg.md)**: Offers advanced [sentiment analysis](../s/sentiment_analysis.md) tools integrated into its terminal services. Bloomberg Terminal
+2. **Refinitiv (formerly Thomson [Reuters](../r/reuters.md))**: Provides sentiment data through its Eikon platform. Refinitiv Eikon
+3. **[RavenPack](../r/ravenpack.md)**: Specializes in real-time analytics and sentiment data for [financial markets](../f/financial_market.md). RavenPack
+4. **AlphaSense**: Provides a search engine for [market](../m/market.md) intelligence with [sentiment analysis](../s/sentiment_analysis.md) capabilities. AlphaSense
+5. **StockTwits**: [Social media](../s/social_media.md) platform focused on financial discussions, [offering](../o/offering.md) [sentiment indicators](../s/sentiment_indicators.md). StockTwits
+6. **Dataminr**: Uses AI to analyze public data and provide real-time alerts on [market sentiment](../m/market_sentiment.md). Dataminr
 
 ### Case Studies
 

@@ -6,7 +6,7 @@ In the complex world of [finance](../f/finance.md), accurately valuing assets is
 
 ### Concept
 
-Relative [valuation](../v/valuation.md) operates on the principle of [market](../m/market.md) comparisons. Unlike absolute [valuation models](../v/valuation_models.md), which attempt to determine the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) based on fundamentals such as discounted cash flows (DCF), relative [valuation](../v/valuation.md) relies on the [market](../m/market.md) prices of similar assets. The core idea is that similar assets should sell at similar prices, assuming efficient markets. 
+Relative [valuation](../v/valuation.md) operates on the principle of [market](../m/market.md) comparisons. Unlike absolute [valuation models](../v/valuation_models.md), which attempt to determine the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) based on fundamentals such as discounted cash flows (DCF), relative [valuation](../v/valuation.md) relies on the [market](../m/market.md) prices of similar assets. The core idea is that similar assets should sell at similar prices, assuming efficient markets.
 
 ### Ratios Used in Relative Valuation
 
@@ -95,22 +95,22 @@ Consider a fictitious company, TechInnovate Inc., seeking to evaluate its [valua
 1. **Identify Comparable Companies**: These might include other technology firms like SoftTech Corp., InnoGenius Ltd., and DigiSoft Inc., all operating in similar markets with comparable [business models](../b/business_models.md).
 
 2. **Calculate Ratios for Comparables**:
-   - **SoftTech Corp.**: P/E - 20, P/B - 3, P/S - 5, EV/EBITDA - 12
-   - **InnoGenius Ltd.**: P/E - 22, P/B - 3.2, P/S - 5.5, EV/EBITDA - 13
-   - **DigiSoft Inc.**: P/E - 19, P/B - 2.8, P/S - 4.8, EV/EBITDA - 11.5
+ - **SoftTech Corp.**: P/E - 20, P/B - 3, P/S - 5, EV/EBITDA - 12
+ - **InnoGenius Ltd.**: P/E - 22, P/B - 3.2, P/S - 5.5, EV/EBITDA - 13
+ - **DigiSoft Inc.**: P/E - 19, P/B - 2.8, P/S - 4.8, EV/EBITDA - 11.5
 
 3. **Calculate Average Ratios**:
-   - Average P/E = (20 + 22 + 19) / 3 = 20.3
-   - Average P/B = (3 + 3.2 + 2.8) / 3 = 3
-   - Average P/S = (5 + 5.5 + 4.8) / 3 = 5.1
-   - Average EV/EBITDA = (12 + 13 + 11.5) / 3 = 12.17
+ - Average P/E = (20 + 22 + 19) / 3 = 20.3
+ - Average P/B = (3 + 3.2 + 2.8) / 3 = 3
+ - Average P/S = (5 + 5.5 + 4.8) / 3 = 5.1
+ - Average EV/EBITDA = (12 + 13 + 11.5) / 3 = 12.17
 
 4. **Apply Ratios to TechInnovate**:
-   - Suppose TechInnovate’s EPS = $1.50, [Book Value](../b/book_value.md) per Share = $2, Sales per Share = $10, and EBITDA = $150 million with an enterprise [value](../v/value.md) of $1.8 billion.
-     - Implied share price using P/E = 20.3 * $1.50 = $30.45
-     - Implied share price using P/B = 3 * $2 = $6
-     - Implied share price using P/S = 5.1 * $10 = $51
-     - Implied share price using EV/EBITDA = Applying the average EV/EBITDA [multiple](../m/multiple.md) directly to the enterprise [value](../v/value.md) and EBITDA not needed in per-share [currency](../c/currency.md), the implied enterprise [value](../v/value.md) is 12.17 * 150 = $1.825 billion, close to stated enterprise [value](../v/value.md) indicating it is fairly valued by EV/EBITDA.
+ - Suppose TechInnovate’s EPS = $1.50, [Book Value](../b/book_value.md) per Share = $2, Sales per Share = $10, and EBITDA = $150 million with an enterprise [value](../v/value.md) of $1.8 billion.
+ - Implied share price using P/E = 20.3 * $1.50 = $30.45
+ - Implied share price using P/B = 3 * $2 = $6
+ - Implied share price using P/S = 5.1 * $10 = $51
+ - Implied share price using EV/EBITDA = Applying the average EV/EBITDA [multiple](../m/multiple.md) directly to the enterprise [value](../v/value.md) and EBITDA not needed in per-share [currency](../c/currency.md), the implied enterprise [value](../v/value.md) is 12.17 * 150 = $1.825 billion, close to stated enterprise [value](../v/value.md) indicating it is fairly valued by EV/EBITDA.
 
 5. **Consolidate** and perhaps average the different valuations, adjust according real positioning and specific conditions end up with an overall evaluated price [range](../r/range.md).
 
@@ -121,8 +121,8 @@ Consider a fictitious company, TechInnovate Inc., seeking to evaluate its [valua
 With advancements in fintech, the relative [valuation](../v/valuation.md) process can be automated. Algorithms can scan vast datasets to identify comparables, calculate ratios, and apply adjustments in real-time:
 
 - **AI and [Machine Learning](../m/machine_learning.md)**: These technologies can predict the most relevant comparables and forecast financial metrics with a higher degree of accuracy. They can even account for complex interactions and non-linear relationships that traditional methods might miss.
-  
-- **[Data Analytics](../d/data_analytics.md) Platforms**: Companies like [Bloomberg](../b/bloomberg.md) and MSCI provide platforms that integrate real-time data, allowing users to conduct relative [valuation](../v/valuation.md) more efficiently. For more information, visit [Bloomberg](https://www.bloomberg.com/professional/product/market-data).
+
+- **[Data Analytics](../d/data_analytics.md) Platforms**: Companies like [Bloomberg](../b/bloomberg.md) and MSCI provide platforms that integrate real-time data, allowing users to conduct relative [valuation](../v/valuation.md) more efficiently. For more information, visit Bloomberg.
 
 ### Regulatory Impact
 

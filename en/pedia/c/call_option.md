@@ -56,25 +56,25 @@ Another popular model is the binomial [options](../o/options.md) pricing model. 
 To implement these strategies, you can use specialized software or even develop your own algorithms using programming languages like Python, R, or C++.
 
 - **Python Libraries**: Libraries such as NumPy, pandas, and [QuantLib](../q/quantlib.md) can be useful for data analysis and [options](../o/options.md) pricing.
-- **APIs**: Many brokerage firms [offer](../o/offer.md) APIs to execute trades programmatically. Examples include [Interactive Brokers](https://www.interactivebrokers.com/) and [TD Ameritrade](https://www.tdameritrade.com/).
+- **APIs**: Many brokerage firms [offer](../o/offer.md) APIs to execute trades programmatically. Examples include Interactive Brokers and TD Ameritrade.
 
 ## Major Platforms for Trading Call Options
 
 ### Interactive Brokers
 
-[Interactive Brokers](https://www.interactivebrokers.com/) offers a [robust](../r/robust.md) platform for [options](../o/options.md) trading. With extensive [market](../m/market.md) access, low fees, and advanced trading tools, it's a favorite among professional traders.
+Interactive Brokers offers a [robust](../r/robust.md) platform for [options](../o/options.md) trading. With extensive [market](../m/market.md) access, low fees, and advanced trading tools, it's a favorite among professional traders.
 
 ### TD Ameritrade
 
-[TD Ameritrade](https://www.tdameritrade.com/) provides a user-friendly platform with comprehensive educational resources, making it ideal for both novice and experienced traders.
+TD Ameritrade provides a user-friendly platform with comprehensive educational resources, making it ideal for both novice and experienced traders.
 
 ### Robinhood
 
-[Robinhood](https://robinhood.com/) has democratized trading by [offering](../o/offering.md) zero-[commission](../c/commission.md) trades and an intuitive mobile app, although it offers fewer advanced tools compared to other platforms.
+Robinhood has democratized trading by [offering](../o/offering.md) zero-[commission](../c/commission.md) trades and an intuitive mobile app, although it offers fewer advanced tools compared to other platforms.
 
 ### Thinkorswim by TD Ameritrade
 
-For those looking for advanced desktop trading software, [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) offers a highly customizable and powerful platform for analysis and trading.
+For those looking for advanced desktop trading software, Thinkorswim offers a highly customizable and powerful platform for analysis and trading.
 
 ## Future Trends in Call Options Trading
 

@@ -16,9 +16,7 @@ Precious metals like gold, silver, and [platinum](../p/platinum.md) are valued n
 
 **Leading Companies:**
 1. **Barrick Gold [Corporation](../c/corporation.md)**
-   - Website: [Barrick Gold](https://www.barrick.com/)
 2. **Newmont [Corporation](../c/corporation.md)**
-   - Website: [Newmont](https://www.newmont.com/)
 
 ### Industrial Metals
 
@@ -26,9 +24,7 @@ Industrial metals such as steel, aluminum, copper, and zinc are pivotal for cons
 
 **Leading Companies:**
 1. **ArcelorMittal** (Steel)
-   - Website: [ArcelorMittal](https://corporate.arcelormittal.com/)
 2. **Alcoa [Corporation](../c/corporation.md)** (Aluminum)
-   - Website: [Alcoa](https://www.alcoa.com/)
 
 ## Chemicals
 
@@ -40,9 +36,7 @@ Basic chemicals include petrochemicals, bulk polymers, and synthetic glasses use
 
 **Leading Companies:**
 1. **BASF SE**
-   - Website: [BASF](https://www.basf.com/)
 2. **Dow Inc.**
-   - Website: [Dow](https://www.dow.com/)
 
 ### Specialty Chemicals
 
@@ -50,9 +44,7 @@ Specialty chemicals are produced in smaller quantities and tailored for specific
 
 **Leading Companies:**
 1. **DuPont de Nemours, Inc.**
-   - Website: [DuPont](https://www.dupont.com/)
 2. **Clariant AG**
-   - Website: [Clariant](https://www.clariant.com/)
 
 ### Consumer Chemicals
 
@@ -60,9 +52,7 @@ Consumer chemicals include products directly marketed to end consumers, such as 
 
 **Leading Companies:**
 1. **Procter & Gamble Co.**
-   - Website: [P&G](https://www.pg.com/)
 2. **Unilever N.V.**
-   - Website: [Unilever](https://www.unilever.com/)
 
 ## Plastics and Polymers
 
@@ -74,9 +64,7 @@ Thermoplastics are polymers that become moldable upon heating and solidify upon 
 
 **Leading Companies:**
 1. **LyondellBasell Industries**
-   - Website: [LyondellBasell](https://www.lyondellbasell.com/)
 2. **ExxonMobil Chemical**
-   - Website: [ExxonMobil Chemical](https://www.exxonmobilchemical.com/)
 
 ### Thermosetting Plastics
 
@@ -84,9 +72,7 @@ Thermosetting plastics, once cured, cannot be re-melted or reformulated. These p
 
 **Leading Companies:**
 1. **Hexion Inc.**
-   - Website: [Hexion](https://www.hexion.com/)
 2. **Huntsman [Corporation](../c/corporation.md)**
-   - Website: [Huntsman](https://www.huntsman.com/)
 
 ## Lumber and Timber
 
@@ -94,9 +80,7 @@ The lumber and timber sub-sector involves the harvesting of trees and their proc
 
 **Leading Companies:**
 1. **Weyerhaeuser Company**
-   - Website: [Weyerhaeuser](https://www.weyerhaeuser.com/)
 2. **West Fraser Timber Co. Ltd.**
-   - Website: [West Fraser](https://www.westfraser.com/)
 
 ## Agriculture
 
@@ -104,9 +88,7 @@ Agriculture produces the [raw materials](../r/raw_materials.md) vital for food p
 
 **Leading Companies:**
 1. **Archer Daniels Midland Company (ADM)**
-   - Website: [ADM](https://www.adm.com/)
 2. **Cargill, Incorporated**
-   - Website: [Cargill](https://www.cargill.com/)
 
 ## Key Market Factors
 

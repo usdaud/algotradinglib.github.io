@@ -9,7 +9,7 @@ A data lake is a storage repository that holds a vast amount of raw data in its 
 ### Key Characteristics
 
 1. **[Scalability](../s/scalability.md)**: Data lakes are designed to store petabytes and exabytes of data efficiently.
-2. **Flexibility**: Different types of data (structured, semi-structured, unstructured) can coexist and be processed as required. 
+2. **Flexibility**: Different types of data (structured, semi-structured, unstructured) can coexist and be processed as required.
 3. **Schema-on-Read**: Unlike databases that impose a schema upon writing data (Schema-on-Write), data lakes apply the schema when reading the data, providing flexibility in data consumption.
 4. **Cost-Effectiveness**: Using economical storage solutions like Hadoop, Amazon S3, or Azure Data Lake, companies can store vast amounts of data more affordably.
 5. **Advanced Analytics**: Data lakes support both [batch processing](../b/batch_processing.md) and real-time analytics, which are essential for high-frequency trading (HFT) and other [algorithmic trading](../a/algorithmic_trading.md) strategies.
@@ -20,7 +20,7 @@ A data lake is a storage repository that holds a vast amount of raw data in its 
 
 ### Data Ingestion
 
-Data lakes allow ingestion from [multiple](../m/multiple.md) sources such as historical [market](../m/market.md) data, real-time [tick](../t/tick.md) data, news feeds, [social media sentiment](../s/social_media_sentiment.md), and macroeconomic indicators. 
+Data lakes allow ingestion from [multiple](../m/multiple.md) sources such as historical [market](../m/market.md) data, real-time [tick](../t/tick.md) data, news feeds, [social media sentiment](../s/social_media_sentiment.md), and macroeconomic indicators.
 
 ### Data Storage
 
@@ -28,7 +28,7 @@ With their capacity to [handle](../h/handle.md) vast amounts of information, dat
 
 ### Advanced Data Analysis
 
-Data lakes support complex analytics workflows, including [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models which can unearth intricate patterns and predictive signals from vast datasets. 
+Data lakes support complex analytics workflows, including [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) models which can unearth intricate patterns and predictive signals from vast datasets.
 
 ### Low Latency
 
@@ -125,16 +125,16 @@ The advent of [quantum computing](../q/quantum_computing_in_trading.md) could re
 Several leading firms have adopted data lakes, witnessing significant improvements in their trading operations.
 
 ### JPMorgan Chase
-JPMorgan uses [Big Data](../b/big_data_in_trading.md) technologies, including data lakes, to [gain](../g/gain.md) deeper insights into [market](../m/market.md) conditions and refine their [algorithmic trading](../a/algorithmic_trading.md) strategies. [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
+JPMorgan uses [Big Data](../b/big_data_in_trading.md) technologies, including data lakes, to [gain](../g/gain.md) deeper insights into [market](../m/market.md) conditions and refine their [algorithmic trading](../a/algorithmic_trading.md) strategies. JPMorgan Chase & Co.
 
 ### Goldman Sachs
-Goldman Sachs leverages data lake architectures to integrate diverse datasets, ensuring their [trading algorithms](../t/trading_algorithms.md) have access to the most comprehensive and current data. [Goldman Sachs](https://www.goldmansachs.com/)
+Goldman Sachs leverages data lake architectures to integrate diverse datasets, ensuring their [trading algorithms](../t/trading_algorithms.md) have access to the most comprehensive and current data. Goldman Sachs
 
 ### Citadel
-Citadel harnesses data lakes to support their high-frequency trading operations, enabling efficient ingestion, storage, and processing of large volumes of [market](../m/market.md) data. [Citadel](https://www.citadel.com/)
+Citadel harnesses data lakes to support their high-frequency trading operations, enabling efficient ingestion, storage, and processing of large volumes of [market](../m/market.md) data. Citadel
 
 ## Conclusion
 
 Data lakes have transformed the data management landscape in trading, [offering](../o/offering.md) unprecedented flexibility, [scalability](../s/scalability.md), and cost-[efficiency](../e/efficiency.md). While challenges exist, the continuous evolution in technology promises to mitigate these issues, further enhancing the [value proposition](../v/value_proposition.md) of data lakes. As the world of trading becomes ever more data-driven, data lakes [will](../w/will.md) undoubtedly play a vital role in shaping its future.
 
-By understanding the intricacies and potential of data lakes, trading firms can [leverage](../l/leverage.md) this paradigm to [gain](../g/gain.md) a competitive edge, optimize their [trading algorithms](../t/trading_algorithms.md), and ultimately drive better financial outcomes.
+By understanding the intricacies and potential of data lakes, trading firms can [leverage](../l/leverage.md) this paradigm to [gain](../g/gain.md) a competitive edge, optimize their [trading algorithms](../t/trading_algorithms.md), and ultimately drive better financial outcomes.

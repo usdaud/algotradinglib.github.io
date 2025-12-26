@@ -19,9 +19,7 @@ Trading binary [options](../o/options.md) involves [multiple](../m/multiple.md) 
 
 To [trade](../t/trade.md) binary [options](../o/options.md), one must first select a reliable and regulated [broker](../b/broker.md). This is crucial because the binary [options](../o/options.md) [market](../m/market.md) has been plagued by scammers and fraudulent platforms. Some of the well-known binary [options](../o/options.md) brokers include:
 
-- IQ Option (https://iqoption.com)
-- Binary.com (https://www.binary.com)
-- Olymp [Trade](../t/trade.md) (https://olymptrade.com)
+- IQ Option - Binary.com - Olymp [Trade](../t/trade.md) (
 
 ### 2. **Selecting an Asset**
 
@@ -88,15 +86,15 @@ The binary [options](../o/options.md) [market](../m/market.md) has attracted sig
 ### Major Regulatory Actions
 
 1. **United States:**
-   - The [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) and Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) regulate binary [options](../o/options.md) in the U.S.
-   - They have taken legal action against fraudulent brokers and platform operators.
-   
+ - The [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) and Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) regulate binary [options](../o/options.md) in the U.S.
+ - They have taken legal action against fraudulent brokers and platform operators.
+
 2. **[European Union](../e/european_union_(eu).md):**
-   - The European Securities and Markets Authority (ESMA) has imposed strict regulations on binary [options](../o/options.md) trading.
-   - In 2018, ESMA banned the [marketing](../m/marketing.md), [distribution](../d/distribution.md), or [sale](../s/sale.md) of binary [options](../o/options.md) to retail investors in the EU.
-   
+ - The European Securities and Markets Authority (ESMA) has imposed strict regulations on binary [options](../o/options.md) trading.
+ - In 2018, ESMA banned the [marketing](../m/marketing.md), [distribution](../d/distribution.md), or [sale](../s/sale.md) of binary [options](../o/options.md) to retail investors in the EU.
+
 3. **Australia:**
-   - The Australian Securities and Investments [Commission](../c/commission.md) (ASIC) has also regulated binary [options](../o/options.md) and warned investors about the high risks.
+ - The Australian Securities and Investments [Commission](../c/commission.md) (ASIC) has also regulated binary [options](../o/options.md) and warned investors about the high risks.
 
 ### Ethical Concerns
 

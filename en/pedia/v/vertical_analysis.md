@@ -4,7 +4,7 @@ Vertical analysis, sometimes referred to as common-size [financial statement ana
 
 ## Understanding Vertical Analysis
 
-In vertical analysis, each item on a financial statement is [listed](../l/listed.md) as a percentage of another item. For instance, in an [income statement](../i/income_statement.md), [revenue](../r/revenue.md) is typically used as the base item, and each line item is expressed as a percentage of total [revenue](../r/revenue.md). On a [balance sheet](../b/balance_sheet.md), total assets are often used as the base, and each line item is expressed as a percentage of total assets. 
+In vertical analysis, each item on a financial statement is [listed](../l/listed.md) as a percentage of another item. For instance, in an [income statement](../i/income_statement.md), [revenue](../r/revenue.md) is typically used as the base item, and each line item is expressed as a percentage of total [revenue](../r/revenue.md). On a [balance sheet](../b/balance_sheet.md), total assets are often used as the base, and each line item is expressed as a percentage of total assets.
 
 The aim is to remove the effect of size and scale, making it easier to compare and analyze performance across different periods or companies. By highlighting changes in relative proportions, vertical analysis can pinpoint trends and flag potential issues that absolute values may not reveal.
 
@@ -81,7 +81,7 @@ print(decision)
 
 ### Real-life Application and Performance
 
-Algo trading firms and platforms frequently incorporate vertical analysis into their algorithms. One example is [Two Sigma](https://www.twosigma.com/), an [investment management](../i/investment_management.md) [firm](../f/firm.md) that heavily relies on [data science](../d/data_science_in_trading.md) and technology for their [trading strategies](../t/trading_strategies.md). By integrating vertical analysis into their algorithms, they can better understand the [financial statements](../f/financial_statements.md) of potential investments and execute trades based on this relative performance evaluation.
+Algo trading firms and platforms frequently incorporate vertical analysis into their algorithms. One example is Two Sigma, an [investment management](../i/investment_management.md) [firm](../f/firm.md) that heavily relies on [data science](../d/data_science_in_trading.md) and technology for their [trading strategies](../t/trading_strategies.md). By integrating vertical analysis into their algorithms, they can better understand the [financial statements](../f/financial_statements.md) of potential investments and execute trades based on this relative performance evaluation.
 
 ### Conclusion
 

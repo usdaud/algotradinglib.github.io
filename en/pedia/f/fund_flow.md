@@ -109,19 +109,19 @@ Several tools and platforms provide [fund](../f/fund.md) flow data and analysis.
 
 ### Morningstar
 
-[Morningstar](../m/morningstar.md) offers comprehensive [fund](../f/fund.md) flow data and analysis, covering a wide [range](../r/range.md) of mutual funds and ETFs. Their platform provides insights into [fund](../f/fund.md) performance, [investor](../i/investor.md) sentiment, and [market](../m/market.md) trends. (Website: [Morningstar](https://www.morningstar.com/))
+[Morningstar](../m/morningstar.md) offers comprehensive [fund](../f/fund.md) flow data and analysis, covering a wide [range](../r/range.md) of mutual funds and ETFs. Their platform provides insights into [fund](../f/fund.md) performance, [investor](../i/investor.md) sentiment, and [market](../m/market.md) trends.
 
 ### Lipper
 
-Lipper, a subsidiary of Refinitiv, provides [fund](../f/fund.md) flow data for mutual funds, ETFs, and other investment vehicles. Their analysis covers various [asset](../a/asset.md) classes and sectors, helping investors make informed decisions. (Website: [Lipper](https://www.lipperalpha.refinitiv.com/))
+Lipper, a subsidiary of Refinitiv, provides [fund](../f/fund.md) flow data for mutual funds, ETFs, and other investment vehicles. Their analysis covers various [asset](../a/asset.md) classes and sectors, helping investors make informed decisions.
 
 ### EPFR Global
 
-EPFR Global offers [fund](../f/fund.md) flow data and analysis for global markets, covering mutual funds, ETFs, and [hedge](../h/hedge.md) funds. Their platform provides insights into [investor](../i/investor.md) behavior and [market](../m/market.md) trends. (Website: [EPFR Global](https://www.epfrglobal.com/))
+EPFR Global offers [fund](../f/fund.md) flow data and analysis for global markets, covering mutual funds, ETFs, and [hedge](../h/hedge.md) funds. Their platform provides insights into [investor](../i/investor.md) behavior and [market](../m/market.md) trends.
 
 ### FactSet
 
-[FactSet](../f/factset.md) provides [fund](../f/fund.md) flow data and analytics, covering mutual funds, ETFs, and other investment vehicles. Their platform offers detailed insights into [market](../m/market.md) trends, [investor](../i/investor.md) sentiment, and [asset allocation](../a/asset_allocation.md). (Website: [FactSet](https://www.factset.com/))
+[FactSet](../f/factset.md) provides [fund](../f/fund.md) flow data and analytics, covering mutual funds, ETFs, and other investment vehicles. Their platform offers detailed insights into [market](../m/market.md) trends, [investor](../i/investor.md) sentiment, and [asset allocation](../a/asset_allocation.md).
 
 ## Conclusion
 

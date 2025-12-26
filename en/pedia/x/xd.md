@@ -32,4 +32,3 @@
 
 ## Conclusion
 XD ([Ex-Dividend](../e/ex-dividend.md)) is an important term in the [financial markets](../f/financial_market.md) that indicates when a stock is trading without the [value](../v/value.md) of its next [dividend](../d/dividend.md) [payment](../p/payment.md). Understanding the [ex-dividend](../e/ex-dividend.md) date, [record date](../r/record_date.md), and [payment](../p/payment.md) date is crucial for investors who seek [dividend](../d/dividend.md) [income](../i/income.md) or need to plan their investments around these key dates. By staying informed and strategically managing their investments, investors can effectively navigate the [ex-dividend](../e/ex-dividend.md) period and optimize their financial outcomes.
-

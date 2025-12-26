@@ -83,19 +83,19 @@ In Asia, dual class stock structures are gaining popularity, particularly in mar
 
 Alphabet, the [parent company](../p/parent_company.md) of Google, has one of the most well-known dual class stock structures. The company's founders, Larry Page and Sergey Brin, [hold](../h/hold.md) Class B [shares](../s/shares.md) with ten times the voting power of Class A [shares](../s/shares.md). This structure has allowed them to maintain control over the company's direction and strategic decisions. Even after stepping down from day-to-day management roles, Page and Brin continue to exert significant influence due to their voting power.
 
-[More about Alphabet Inc.](https://abc.xyz/)
+More about Alphabet Inc.
 
 ### Meta Platforms Inc. (Facebook)
 
 Facebook's dual class structure has allowed its CEO, [Mark Zuckerberg](../m/mark_zuckerberg.md), to maintain control over the company despite owning only a minority of the total [shares](../s/shares.md). Through Class B [shares](../s/shares.md), which carry ten votes each, Zuckerberg retains the ability to steer the company's direction and make pivotal decisions. This has been instrumental in enabling him to make bold moves, such as shifting the company's focus toward the metaverse.
 
-[More about Meta Platforms Inc.](https://about.fb.com/)
+More about Meta Platforms Inc.
 
 ### Snap Inc.
 
 Snap Inc., the [parent company](../p/parent_company.md) of Snapchat, took an unconventional approach by issuing Class A [shares](../s/shares.md) with no voting rights when it went public. This structure meant that public investors had no say in [corporate governance](../c/corporate_governance.md) matters. Co-founders Evan Spiegel and Bobby Murphy retained Class C [shares](../s/shares.md), each of which provides ten votes, ensuring concentrated control. This approach drew criticism but has allowed the founders to maintain their vision for the company.
 
-[More about Snap Inc.](https://www.snap.com/en-US)
+More about Snap Inc.
 
 ## Conclusion
 

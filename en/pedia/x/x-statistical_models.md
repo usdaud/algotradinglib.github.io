@@ -50,15 +50,15 @@ To ensure the reliability of an X-Statistical model, it must be trained on histo
 
 #### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development, [backtesting](../b/backtesting.md), and deployment of X-Statistical models. The platform caters to a wide [range](../r/range.md) of users, from academic researchers to professional traders.
+QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development, [backtesting](../b/backtesting.md), and deployment of X-Statistical models. The platform caters to a wide [range](../r/range.md) of users, from academic researchers to professional traders.
 
 #### WorldQuant
 
-[WorldQuant](https://www.worldquant.com) is a global quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that extensively utilizes X-Statistical models to identify trading opportunities across a variety of [asset](../a/asset.md) classes. They emphasize data-driven strategies and sophisticated statistical techniques.
+WorldQuant is a global quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that extensively utilizes X-Statistical models to identify trading opportunities across a variety of [asset](../a/asset.md) classes. They emphasize data-driven strategies and sophisticated statistical techniques.
 
 #### Two Sigma
 
-[Two Sigma](https://www.twosigma.com) is a technology-driven financial [firm](../f/firm.md) leveraging [data science](../d/data_science_in_trading.md), advanced mathematics, and distributed computing to develop high-performance [trading models](../t/trading_models.md). Their approach includes intensive research and application of X-Statistical models to optimize investment decisions.
+Two Sigma is a technology-driven financial [firm](../f/firm.md) leveraging [data science](../d/data_science_in_trading.md), advanced mathematics, and distributed computing to develop high-performance [trading models](../t/trading_models.md). Their approach includes intensive research and application of X-Statistical models to optimize investment decisions.
 
 ### Challenges and Limitations
 

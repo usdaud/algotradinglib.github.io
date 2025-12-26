@@ -53,19 +53,19 @@ Basket trading has evolved significantly with advances in technology. Several te
 Several pioneering firms are making significant strides in the basket trading domain through advanced technologies and innovative trading platforms. Some of these notable companies are:
 
 1. **[TradeStation](../t/tradestation.md) Group, Inc.**: Known for its [robust](../r/robust.md) [trading platform](../t/trading_platform.md), [TradeStation](../t/tradestation.md) offers comprehensive tools for basket trading, catering primarily to professional traders.
-    - [TradeStation](https://www.tradestation.com/)
+ - TradeStation
 
 2. **FlexTrade Systems Inc.**: FlexTrade offers cross-[asset](../a/asset.md) [execution](../e/execution.md) management systems specifically designed for basket trading, providing tailored solutions for institutional traders.
-    - [FlexTrade](https://flextrade.com/)
+ - FlexTrade
 
 3. **[Interactive Brokers](../i/interactive_brokers.md) LLC**: Renowned for its strong [algorithmic trading](../a/accountability.md) and basket [order](../o/order.md) capabilities, [Interactive Brokers](../i/interactive_brokers.md) provides a sophisticated [trading platform](../t/trading_platform.md) for investors worldwide.
-    - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Interactive Brokers
 
 4. **[Bloomberg](../b/bloomberg.md) L.P.**: [Bloomberg](../b/bloomberg.md)’s [execution](../e/execution.md) management systems (EMS) and terminal [offer](../o/offer.md) comprehensive basket trading functionalities, enabling seamless [trade](../t/trade.md) strategies for institutional investors.
-    - [Bloomberg](https://www.bloomberg.com/professional/product/execution-management-system/)
+ - Bloomberg
 
 5. **Virtu Financial**: A leading provider of [liquidity](../l/liquidity.md), Virtu Financial boasts sophisticated technologies for executing basket trades effectively across global markets.
-    - [Virtu Financial](https://www.virtu.com/)
+ - Virtu Financial
 
 ### Conclusion
 

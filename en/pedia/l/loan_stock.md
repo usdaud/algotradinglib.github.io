@@ -5,15 +5,15 @@
 ## Types of Loan Stock
 
 1. **Debentures**: These are [unsecured loan](../u/unsecured_loan.md) [stocks](../s/stock.md) that rely on the [issuer](../i/issuer.md)’s [creditworthiness](../c/creditworthiness.md). While they do not have [collateral](../c/collateral.md), they often come with covenants to protect investors.
-   
+
 2. **Bonds**: Bonds are a more commonly known form of [loan](../l/loan.md) stock that can be secured or unsecured. They are often issued by governments, municipalities, or corporations and come with a [fixed interest rate](../f/fixed_interest_rate.md) and a [maturity date](../m/maturity_date.md).
-   
+
 3. **Notes**: These are shorter-[term loan](../t/term_loan.md) [stocks](../s/stock.md) compared to bonds and debentures. Notes are typically unsecured and can either have a fixed or [variable interest rate](../v/variable_interest_rate.md).
 
 ## Characteristics of Loan Stock
 
 1. **Fixed [Interest](../i/interest.md) Payments**: [Loan](../l/loan.md) [stocks](../s/stock.md) usually come with a predetermined [interest rate](../i/interest_rate.md) that is paid out periodically. This makes them an attractive option for [income](../i/income.md)-focused investors.
-   
+
 2. **[Maturity Date](../m/maturity_date.md)**: [Loan](../l/loan.md) [stocks](../s/stock.md) have a specific [maturity date](../m/maturity_date.md) at which the [principal](../p/principal.md) amount is to be repaid to the investors.
 
 3. **Marketability**: [Loan](../l/loan.md) [stocks](../s/stock.md) can often be traded on public exchanges, making them relatively [liquid](../l/liquid.md), although the ease of trading can be affected by the [credit rating](../c/credit_rating.md) of the [issuer](../i/issuer.md) and [market](../m/market.md) conditions.
@@ -65,9 +65,7 @@ Many organizations [issue](../i/issue.md) [loan](../l/loan.md) stock to meet the
 ---
 
 For more information on these entities, you can visit:
-- [Apple Investor Relations](https://investor.apple.com/)
-- [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor/)
-- [U.S. Department of the Treasury](https://home.treasury.gov/)
+- U.S. Department of the Treasury
 
 ---
 

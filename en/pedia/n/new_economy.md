@@ -66,23 +66,23 @@ Automation and [artificial intelligence](../a/artificial_intelligence_in_trading
 
 ### Amazon
 
-Amazon started as an online bookstore and has since grown into a global e-[commerce](../c/commerce.md) giant, continually expanding its portfolio to include [cloud computing](../c/cloud_computing_in_trading.md) (Amazon Web Services), streaming services (Amazon Prime Video), and smart [home](../h/home.md) technology. [Amazon](https://www.amazon.com/)
+Amazon started as an online bookstore and has since grown into a global e-[commerce](../c/commerce.md) giant, continually expanding its portfolio to include [cloud computing](../c/cloud_computing_in_trading.md) (Amazon Web Services), streaming services (Amazon Prime Video), and smart [home](../h/home.md) technology. Amazon
 
 ### Google (Alphabet Inc.)
 
-Initially a search engine, Google has diversified into various fields, including advertising, [cloud computing](../c/cloud_computing_in_trading.md), autonomous vehicles, and [artificial intelligence](../a/artificial_intelligence_in_trading.md). Alphabet Inc. is the [parent company](../p/parent_company.md) that encompasses all of these ventures. [Google](https://www.google.com/)
+Initially a search engine, Google has diversified into various fields, including advertising, [cloud computing](../c/cloud_computing_in_trading.md), autonomous vehicles, and [artificial intelligence](../a/artificial_intelligence_in_trading.md). Alphabet Inc. is the [parent company](../p/parent_company.md) that encompasses all of these ventures. Google
 
 ### Microsoft
 
-Microsoft has been a leader in software development but has also made significant strides in [cloud computing](../c/cloud_computing_in_trading.md) with Azure, gaming with Xbox, and [productivity](../p/productivity.md) solutions with Office 365. [Microsoft](https://www.microsoft.com/)
+Microsoft has been a leader in software development but has also made significant strides in [cloud computing](../c/cloud_computing_in_trading.md) with Azure, gaming with Xbox, and [productivity](../p/productivity.md) solutions with Office 365. Microsoft
 
 ### Apple
 
-Known for its innovative hardware, including the iPhone, iPad, and Mac computers, Apple has also created an ecosystem of services like the App Store, Apple Music, and iCloud. [Apple](https://www.apple.com/)
+Known for its innovative hardware, including the iPhone, iPad, and Mac computers, Apple has also created an ecosystem of services like the App Store, Apple Music, and iCloud. Apple
 
 ### Tesla
 
-Tesla is at the forefront of electric vehicle innovations and energy solutions, disrupting the traditional automotive [industry](../i/industry.md) with its focus on sustainability and technology. [Tesla](https://www.tesla.com/)
+Tesla is at the forefront of electric vehicle innovations and energy solutions, disrupting the traditional automotive [industry](../i/industry.md) with its focus on sustainability and technology. Tesla
 
 ## Conclusion
 

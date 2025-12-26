@@ -95,6 +95,6 @@ Thus, a [business](../b/business.md) incorporated in Delaware with a [capital st
 
 For further detailed information about [franchise](../f/franchise.md) [taxes](../t/taxes.md) and how they might apply to your [business](../b/business.md), you can consult specific state government resources such as:
 
-- [Delaware Division of Corporations](https://corp.delaware.gov)
-- [Texas Comptroller of Public Accounts](https://comptroller.texas.gov)
-- [California Franchise Tax Board](https://www.ftb.ca.gov)
+- Delaware Division of Corporations
+- Texas Comptroller of Public Accounts
+- California Franchise Tax Board

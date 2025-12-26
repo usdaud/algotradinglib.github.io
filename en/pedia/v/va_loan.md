@@ -58,7 +58,7 @@ The process of obtaining a VA [loan](../l/loan.md) generally follows these steps
 
 The VA [loan](../l/loan.md) limit is the maximum amount the VA [will](../w/will.md) guarantee without a [down payment](../d/down_payment.md), which varies by county. As of 2020, the Blue Water Navy Vietnam Veterans Act removed previous VA [loan](../l/loan.md) limits for full entitlement, allowing eligible veterans to borrow above the conforming [loan](../l/loan.md) limit if they have full entitlement and sufficient [income](../i/income.md).
 
-*Full entitlement* is generally for those who have never used their benefit or have paid off a previous VA [loan](../l/loan.md) and have had their entitlement restored. For veterans with reduced entitlement due to current VA [loan](../l/loan.md) balances, the limits apply. 
+*Full entitlement* is generally for those who have never used their benefit or have paid off a previous VA [loan](../l/loan.md) and have had their entitlement restored. For veterans with reduced entitlement due to current VA [loan](../l/loan.md) balances, the limits apply.
 
 ## Refinancing with a VA Loan
 
@@ -75,4 +75,4 @@ The VA [loan](../l/loan.md) program has proven enormously successful since its i
 
 The VA [loan](../l/loan.md) program remains a critical benefit for eligible veterans, service members, and their families, [offering](../o/offering.md) unique advantages that make homeownership more accessible and affordable. Understanding the eligibility criteria, benefits, and process is essential for those considering a VA [loan](../l/loan.md), and leveraging the program can lead to significant financial benefits and stability.
 
-For more detailed information, veterans can visit the [U.S. Department of Veterans Affairs home loan program page](https://www.va.gov/housing-assistance/home-loans/) which provides comprehensive [guidance](../g/guidance.md) and resources related to VA loans.
+For more detailed information, veterans can consult U.S. Department of Veterans Affairs materials which provide comprehensive [guidance](../g/guidance.md) and resources related to VA loans.

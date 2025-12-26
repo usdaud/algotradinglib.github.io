@@ -65,19 +65,15 @@ Several [software tools](../s/software_tools_for_trading.md) and libraries are a
 
 **CVXOPT**:
 A Python library for convex [optimization](../o/optimization.md) based on the above principles. It provides a wide [range](../r/range.md) of solvers for different types of convex problems.
-[CVXOPT](https://cvxopt.org/)
 
 **MOSEK**:
 A software package designed for large-scale [optimization](../o/optimization.md) problems, including convex and mixed-integer [optimization](../o/optimization.md). It is particularly useful for high-frequency trading applications requiring real-time decision-making.
-[MOSEK](https://www.mosek.com/)
 
 **Gurobi**:
 One of the most powerful commercial solvers, Gurobi provides state-of-the-art algorithms for linear, quadratic, and convex [optimization](../o/optimization.md) problems.
-[Gurobi](https://www.gurobi.com/)
 
 **CVXPY**:
 A Python-embedded modeling language for convex [optimization](../o/optimization.md) problems. It integrates seamlessly with NumPy and SciPy, providing a flexible and intuitive interface.
-[CVXPY](https://www.cvxpy.org/)
 
 ### Advanced Topics in Convex Optimization
 
@@ -106,4 +102,3 @@ Developing more sophisticated models for real-time [risk management](../r/risk_m
 ### Conclusion
 
 Convex [optimization](../o/optimization.md) is a fundamental tool in [algorithmic trading](../a/algorithmic_trading.md), providing efficient and [robust](../r/robust.md) methods for [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and statistical [arbitrage](../a/arbitrage.md). With the continuous advancements in computational methods and technology, its applications are set to expand further, [offering](../o/offering.md) new opportunities and challenges in the [financial markets](../f/financial_market.md).
-

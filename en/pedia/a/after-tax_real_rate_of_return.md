@@ -17,10 +17,10 @@ The [nominal rate of return](../n/nominal_rate_of_return.md) is the percentage i
 To calculate the after-tax [rate of return](../r/rate_of_return.md), investors must subtract the tax impact from the [nominal](../n/nominal.md) [return](../r/return.md). For instance, if an investment yields a 10% [nominal](../n/nominal.md) [return](../r/return.md) and the [tax rate](../t/tax_rate.md) is 25%, the after-[tax return](../t/tax_return.md) would be 7.5%.
 
 ### Real Rate of Return
-The [real rate of return](../r/real_rate_of_return.md) adjusts the [nominal](../n/nominal.md) [return](../r/return.md) for [inflation](../i/inflation.md), reflecting the actual increase in [purchasing power](../p/purchasing_power.md). It is calculated by subtracting the [inflation](../i/inflation.md) rate from the [nominal rate of return](../n/nominal_rate_of_return.md). 
+The [real rate of return](../r/real_rate_of_return.md) adjusts the [nominal](../n/nominal.md) [return](../r/return.md) for [inflation](../i/inflation.md), reflecting the actual increase in [purchasing power](../p/purchasing_power.md). It is calculated by subtracting the [inflation](../i/inflation.md) rate from the [nominal rate of return](../n/nominal_rate_of_return.md).
 
 ### After-Tax Real Rate of Return
-Combining the concepts above, the after-tax [real rate of return](../r/real_rate_of_return.md) is the true [earnings](../e/earnings.md) from an investment after [accounting](../a/accounting.md) for both [taxes](../t/taxes.md) and [inflation](../i/inflation.md). This provides the most accurate measure of an investment's profitability. 
+Combining the concepts above, the after-tax [real rate of return](../r/real_rate_of_return.md) is the true [earnings](../e/earnings.md) from an investment after [accounting](../a/accounting.md) for both [taxes](../t/taxes.md) and [inflation](../i/inflation.md). This provides the most accurate measure of an investment's profitability.
 
 \[ \text{After-Tax [Real Rate of Return](../r/real_rate_of_return.md)} = \left( \frac{1 + \text{[Nominal](../n/nominal.md) Rate}}{1 + \text{[Inflation](../i/inflation.md) Rate}} - 1 \right) \times (1 - \text{[Tax Rate](../t/tax_rate.md)}) \]
 

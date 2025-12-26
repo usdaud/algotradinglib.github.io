@@ -1,12 +1,12 @@
 # J-Curve
 
-The concept of the J-Curve is a graphical representation commonly used in various fields including [economics](../e/economics.md), [finance](../f/finance.md), and [algorithmic trading](../a/accountability.md) to describe the initial decline followed by a significant rise in performance, profitability, or other metrics over time. In the context of [algorithmic trading](../a/accountability.md), the J-Curve can illustrate the lifecycle of a new [trading strategy](../t/trading_strategy.md), encompassing its early pitfalls and eventual profitability.
+The concept of the J-Curve is a graphical representation commonly used in various fields including [economics](../e/economics.md), [finance](../f/finance.md), and [algorithmic trading](../a/algorithmic_trading.md) to describe the initial decline followed by a significant rise in performance, profitability, or other metrics over time. In the context of [algorithmic trading](../a/algorithmic_trading.md), the J-Curve can illustrate the lifecycle of a new [trading strategy](../t/trading_strategy.md), encompassing its early pitfalls and eventual profitability.
 
 ## Phases of J-Curve in Algorithmic Trading
 
 ### Initial Development and Backtesting
 
-When a new [algorithmic trading](../a/accountability.md) strategy is devised, it begins with a phase of development and [backtesting](../b/backtesting.md). This involves creating a model based on historical [market](../m/market.md) data to predict future price movements and optimize the strategy.
+When a new [algorithmic trading](../a/algorithmic_trading.md) strategy is devised, it begins with a phase of development and [backtesting](../b/backtesting.md). This involves creating a model based on historical [market](../m/market.md) data to predict future price movements and optimize the strategy.
 
 1. **Data Collection**: Gathering extensive historical data to ensure the model is trained on a [robust](../r/robust.md) dataset. Sources can include exchanges, financial data providers, and proprietary systems.
 2. **Model Building**: Developing a trading algorithm often using [machine learning](../m/machine_learning.md) techniques, statistical models, or econometric methods.
@@ -44,25 +44,22 @@ After initial adaptation and several iterations of the refining process, the str
 
 ## Case Study: J-Curve in Algorithmic Trading Firms
 
-To illustrate the J-Curve in a real-world scenario, let's look at some [algorithmic trading](../a/accountability.md) firms and their experiences with [trading strategies](../t/trading_strategies.md).
+To illustrate the J-Curve in a real-world scenario, let's look at some [algorithmic trading](../a/algorithmic_trading.md) firms and their experiences with [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
 
 Renaissance Technologies, founded by Jim Simons, is renowned for its highly profitable [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). The company's flagship Medallion [Fund](../f/fund.md) demonstrated an initial learning phase where the strategies faced significant challenges and adjustments, ultimately leading to one of the most successful trading records.
 
-[Learn more about Renaissance Technologies](https://www.rentech.com/)
 
 ### Two Sigma
 
 Two Sigma, a quantitative investment [firm](../f/firm.md), also leverages massive data sets and [machine learning](../m/machine_learning.md) to drive its [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Initially, the [firm](../f/firm.md) faced challenges perfecting their models, but through continuous adaptation and leveraging advanced analytics, they managed to achieve consistent profitability, following the J-Curve trajectory.
 
-[Discover Two Sigma](https://www.twosigma.com/)
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management employs a disciplined, systematic approach to [investing](../i/investing.md). Initially, their algorithmic models faced a period of adaptation after deployment, adhering to the J-Curve pattern. Through rigorous empirical research and refining their models, AQR successfully navigated the J-Curve to achieve long-term profitability.
 
-[Explore AQR Capital Management](https://www.aqr.com/)
 
 ## Conclusion
 

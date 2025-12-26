@@ -39,22 +39,22 @@ Once the relevant factors are chosen and [weighted](../w/weighted.md), they are 
 #### Hedge Funds
 [Hedge](../h/hedge.md) funds are among the most active users of X-[Factor Analysis](../f/factor_analysis.md). By leveraging a wide array of data sources and sophisticated analytical techniques, [hedge](../h/hedge.md) funds aim to achieve higher returns through more informed and nuanced trading decisions.
 
-- **Example:** Bridgewater Associates, [website](https://www.bridgewater.com/), one of the world's largest [hedge](../h/hedge.md) funds, is known for its [incorporation](../i/incorporation.md) of diverse data points and sophisticated analytics in its [trading strategies](../t/trading_strategies.md).
+- **Example../h/hedge.md) funds, is known for its [incorporation](../i/incorporation.md) of diverse data points and sophisticated analytics in its [trading strategies](../t/trading_strategies.md).
 
 #### Proprietary Trading Firms
 [Proprietary trading](../p/proprietary_trading.md) firms also benefit significantly from X-[Factor Analysis](../f/factor_analysis.md). These firms use their own [capital](../c/capital.md) to [trade](../t/trade.md) and are highly incentivized to develop cutting-edge strategies that [outperform](../o/outperform.md) the [market](../m/market.md).
 
-- **Example:** Jane Street, [website](https://www.janestreet.com/), a prominent [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md), utilizes a blend of statistical and non-traditional data in its [algorithmic trading](../a/algorithmic_trading.md) models.
+- **Example../p/proprietary_trading.md) [firm](../f/firm.md), utilizes a blend of statistical and non-traditional data in its [algorithmic trading](../a/algorithmic_trading.md) models.
 
 #### Quantitative Research Institutions
 Academic and private research institutions contribute to the development of X-[Factor Analysis](../f/factor_analysis.md) methodologies. These institutions often publish groundbreaking research that pushes the boundaries of what's possible in [algorithmic trading](../a/algorithmic_trading.md).
 
-- **Example:** WorldQuant, [website](https://www.worldquant.com/), an international quantitative investment [firm](../f/firm.md) and research organization, heavily invests in innovating [quantitative research](../q/quantitative_research.md) techniques, including the use of [alternative data](../a/alternative_data.md) sources.
+- **Example../f/firm.md) and research organization, heavily invests in innovating [quantitative research](../q/quantitative_research.md) techniques, including the use of [alternative data](../a/alternative_data.md) sources.
 
 ### Key Challenges and Limitations
 
 1. **Data Quality and Reliability:** The quality and reliability of non-traditional data can vary significantly, posing a challenge for accurate analysis.
-   
+
 2. **[Overfitting](../o/overfitting.md) Risks:** Given the vast amount of data and potential factors, there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) models to historical data, which can lead to poor performance in live trading.
 
 3. **Regulatory Constraints:** The use of certain types of data, especially personal data from [social media](../s/social_media.md), may be subject to regulatory scrutiny and limitations.

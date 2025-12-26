@@ -78,10 +78,10 @@ The funds used to insure deposits come from premiums paid by banks into the [Dep
 
 Most banks and savings institutions in the U.S. are FDIC insured. Here are a few notable examples:
 
-* **JPMorgan Chase**: One of the largest banks in the U.S., [offering](../o/offering.md) a full [range](../r/range.md) of banking services. [JPMorgan Chase](https://www.jpmorganchase.com/)
-* **[Bank](../b/bank.md) of America**: A major nationwide [bank](../b/bank.md) with extensive [retail banking](../r/retail_banking.md) services. [Bank of America](https://www.bankofamerica.com/)
-* **Wells Fargo**: Provides a wide array of financial services across the country. [Wells Fargo](https://www.wellsfargo.com/)
-* **Citibank**: Known for its global presence and comprehensive banking products. [Citibank](https://www.citigroup.com/)
+* **JPMorgan Chase**: One of the largest banks in the U.S., [offering](../o/offering.md) a full [range](../r/range.md) of banking services. JPMorgan Chase
+* **[Bank](../b/bank.md) of America**: A major nationwide [bank](../b/bank.md) with extensive [retail banking](../r/retail_banking.md) services. Bank of America
+* **Wells Fargo**: Provides a wide array of financial services across the country. Wells Fargo
+* **Citibank**: Known for its global presence and comprehensive banking products. Citibank
 
 ## Conclusion
 

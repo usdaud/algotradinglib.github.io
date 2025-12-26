@@ -16,7 +16,7 @@ In official dollarization, the foreign [currency](../c/currency.md) becomes the 
 
 - *Ecuador*: Ecuador officially adopted the U.S. dollar in the year 2000.
 - *El Salvador*: El Salvador adopted the U.S. dollar in 2001.
-  
+
 ### Semi-official Dollarization
 
 In semi-official dollarization, a foreign [currency](../c/currency.md) is used alongside the [national currency](../n/national_currency.md). Both currencies are considered [legal tender](../l/legal_tender.md) and can be used for transactions. However, the country's central [bank](../b/bank.md) still issues its own [money](../m/money.md). Examples include:
@@ -89,21 +89,21 @@ A dollarized country becomes dependent on the economic policies of the country i
 
 ### Social and Political Opposition
 
-Dollarization can face significant opposition from political factions and the general public. People may view it as a loss of national sovereignty and a symbol of economic failure. 
+Dollarization can face significant opposition from political factions and the general public. People may view it as a loss of national sovereignty and a symbol of economic failure.
 
 ## Notable Examples of Dollarization
 
 ### Ecuador
 
-Ecuador is one of the most cited examples of official dollarization. In 2000, facing severe economic instability and [hyperinflation](../h/hyperinflation.md), Ecuador decided to adopt the U.S. dollar. The move stabilized the [economy](../e/economy.md) and curbed [inflation](../i/inflation.md), but it also led to a significant loss of [monetary policy](../m/monetary_policy.md) control. More information can be found on the [Central Bank of Ecuador](https://www.bce.fin.ec/) website.
+Ecuador is one of the most cited examples of official dollarization. In 2000, facing severe economic instability and [hyperinflation](../h/hyperinflation.md), Ecuador decided to adopt the U.S. dollar. The move stabilized the [economy](../e/economy.md) and curbed [inflation](../i/inflation.md), but it also led to a significant loss of [monetary policy](../m/monetary_policy.md) control.
 
 ### El Salvador
 
-El Salvador adopted the U.S. dollar in 2001 primarily to stabilize its [economy](../e/economy.md) and attract [foreign investment](../f/foreign_investment.md). While the move brought economic stability and increased [investor](../i/investor.md) confidence, it has also faced criticism for limiting the country's economic policy [options](../o/options.md). Visit the [Central Reserve Bank of El Salvador](http://www.bcr.gob.sv/) for more information.
+El Salvador adopted the U.S. dollar in 2001 primarily to stabilize its [economy](../e/economy.md) and attract [foreign investment](../f/foreign_investment.md). While the move brought economic stability and increased [investor](../i/investor.md) confidence, it has also faced criticism for limiting the country's economic policy [options](../o/options.md). Visit the Central Reserve Bank of El Salvador for more information.
 
 ### Panama
 
-Panama uses the U.S. dollar alongside its [national currency](../n/national_currency.md), the Balboa. The dollar is used for most transactions, and the Balboa is pegged to the U.S. dollar at a 1:1 ratio. The use of the U.S. dollar has facilitated [trade](../t/trade.md) and [finance](../f/finance.md), but the country loses out on [seigniorage](../s/seigniorage.md). More details can be found at the [Superintendency of Banks of Panama](https://www.superbancos.gob.pa/).
+Panama uses the U.S. dollar alongside its [national currency](../n/national_currency.md), the Balboa. The dollar is used for most transactions, and the Balboa is pegged to the U.S. dollar at a 1:1 ratio. The use of the U.S. dollar has facilitated [trade](../t/trade.md) and [finance](../f/finance.md), but the country loses out on [seigniorage](../s/seigniorage.md). More details can be found at the Superintendency of Banks of Panama.
 
 ## Conclusion
 

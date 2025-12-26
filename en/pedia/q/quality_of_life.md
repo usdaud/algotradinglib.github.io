@@ -33,17 +33,14 @@ FinTech, a portmanteau of "financial technology," refers to the integration of t
 
 Platforms like LendingClub and Prosper allow individuals to borrow [money](../m/money.md) directly from other individuals, bypassing traditional banks. This can provide access to loans at lower [interest](../i/interest.md) rates for borrowers, while [offering](../o/offering.md) competitive returns for lenders.
 
-**Website:** [LendingClub](https://www.lendingclub.com)
-
 ## Algotrading and Financial QoL
 
-[Algorithmic trading](../a/accountability.md), or algotrading, is the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and [volume](../v/volume.md). While predominantly associated with institutional traders, algotrading has implications for retail investors and overall financial QoL.
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, is the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and [volume](../v/volume.md). While predominantly associated with institutional traders, algotrading has implications for retail investors and overall financial QoL.
 
 ### Automated Investment Services
 
 Also known as robo-advisors, these services use algorithms to manage portfolios, making [investing](../i/investing.md) accessible to those with limited financial knowledge. Companies like Betterment and Wealthfront [offer](../o/offer.md) automated, low-cost investment advice and management.
 
-**Website:** [Betterment](https://www.betterment.com)
 
 ### Risk Management
 
@@ -57,10 +54,8 @@ The quality of financial life can significantly impact broader societal aspects.
 
 [Microfinance](../m/microfinance.md) institutions provide financial services to individuals or small businesses without access to traditional banking services. Organizations like Grameen [Bank](../b/bank.md) have enabled millions of people in developing countries to start businesses, thereby improving their QoL.
 
-**Website:** [Grameen Bank](http://www.grameen.com)
 
 ### Financial Literacy
-
 [Financial literacy](../f/financial_literacy.md) programs aim to educate individuals on managing their finances effectively. Improved [financial literacy](../f/financial_literacy.md) can lead to better decision-making, reduced [debt](../d/debt.md) levels, and increased savings, all of which contribute to a higher QoL.
 
 ## Psychological Well-being and Financial QoL
@@ -95,7 +90,6 @@ Advances in technology continue to shape the financial landscape, improving QoL 
 
 Laws that protect consumers from fraudulent practices and predatory lending can prevent financial exploitation and improve QoL. Agencies like the Consumer Financial Protection Bureau (CFPB) in the United States work to ensure fair treatment of consumers in the financial marketplace.
 
-**Website:** [CFPB](https://www.consumerfinance.gov)
 
 ### Social Security and Welfare Programs
 

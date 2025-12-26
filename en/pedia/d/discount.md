@@ -29,13 +29,13 @@ These discounts are used to adjust for the [risk](../r/risk.md) posed by differe
 
 [Trading algorithms](../t/trading_algorithms.md) frequently employ financial models which utilize discount rates to [value](../v/value.md) assets. The two most common models include:
 
-**Discounted [Cash Flow](../c/cash_flow.md) (DCF)**: This method involves estimating future free cash flows and [discounting](../d/discounting.md) them back to their [present value](../p/present_value.md) using a [discount rate](../d/discount_rate.md), which often reflects the [cost of capital](../c/cost_of_capital.md) or required [rate of return](../r/rate_of_return.md). 
+**Discounted [Cash Flow](../c/cash_flow.md) (DCF)**: This method involves estimating future free cash flows and [discounting](../d/discounting.md) them back to their [present value](../p/present_value.md) using a [discount rate](../d/discount_rate.md), which often reflects the [cost of capital](../c/cost_of_capital.md) or required [rate of return](../r/rate_of_return.md).
 
 **[Dividend](../d/dividend.md) Discount Model (DDM)**: Predominantly used for valuing [stocks](../s/stock.md), the DDM forecasts future dividends and discounts them to their [present value](../p/present_value.md).
 
 ### **Risk Management**
 
-Discounts in [risk management](../r/risk_management.md) are vital for modifying the exposure of a portfolio. By calculating and applying appropriate discount factors, algorithms can adjust their strategies dynamically to mitigate risks while maximizing returns. 
+Discounts in [risk management](../r/risk_management.md) are vital for modifying the exposure of a portfolio. By calculating and applying appropriate discount factors, algorithms can adjust their strategies dynamically to mitigate risks while maximizing returns.
 
 ### **Price Prediction Models**
 
@@ -43,9 +43,8 @@ Price prediction models often incorporate discounts to adjust historical price d
 
 ## Case Study: High-Frequency Trading Firms
 
-Several high-frequency trading (HFT) firms employ sophisticated [discounting](../d/discounting.md) techniques to maintain a competitive edge. Firms like Virtu Financial, a leading player in HFT, integrate complex discount algorithms in their [trading strategies](../t/trading_strategies.md) to optimize [transaction costs](../t/transaction_costs.md) and maximize profitability. 
+Several high-frequency trading (HFT) firms employ sophisticated [discounting](../d/discounting.md) techniques to maintain a competitive edge. Firms like Virtu Financial, a leading player in HFT, integrate complex discount algorithms in their [trading strategies](../t/trading_strategies.md) to optimize [transaction costs](../t/transaction_costs.md) and maximize profitability.
 
-Visit Virtu Financial's website: [Virtu Financial](https://www.virtu.com/)
 
 ### **Example: Virtu Financial**
 

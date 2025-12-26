@@ -93,5 +93,5 @@ Traders and analysts utilizing the Tenkan-Sen, in conjunction with other element
 
 For more detailed resources or to explore more on how financial institutions might incorporate the Tenkan-Sen and other Ichimoku components within their trading [infrastructure](../i/infrastructure.md), feel free to [check](../c/check.md) the following pages:
 
-- [Ichimoku Heaven - Comprehensive Documentation on Ichimoku Indicators](https://www.ichimokuheaven.com)
-- [TradingView - Introduction to Ichimoku Cloud](https://www.tradingview.com/wiki/Ichimoku_Cloud)
+- Ichimoku Heaven - Comprehensive Documentation on Ichimoku Indicators
+- TradingView - Introduction to Ichimoku Cloud

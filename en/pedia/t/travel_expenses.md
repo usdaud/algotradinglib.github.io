@@ -56,9 +56,9 @@ To streamline the process of managing travel expenses, many organizations use au
 
 Examples of popular travel [expense](../e/expense.md) management systems include:
 
-- **Concur**: A fully integrated travel and [expense](../e/expense.md) management solution. [Concur](https://www.concur.com/)
-- **Expensify**: A platform known for ease of use and powerful reporting features. [Expensify](https://www.expensify.com/)
-- **Zoho [Expense](../e/expense.md)**: An [expense](../e/expense.md) management system with a focus on usability and flexibility. [Zoho Expense](https://www.zoho.com/expense/)
+- **Concur**: A fully integrated travel and [expense](../e/expense.md) management solution. Concur
+- **Expensify**: A platform known for ease of use and powerful reporting features. Expensify
+- **Zoho [Expense](../e/expense.md)**: An [expense](../e/expense.md) management system with a focus on usability and flexibility. Zoho Expense
 
 ## Tax Implications
 
@@ -67,7 +67,7 @@ Travel expenses can have significant tax implications both for individuals and o
 - **Ordinary and Necessary**: The expenses must be ordinary (common and accepted in the [business](../b/business.md)) and necessary (appropriate and helpful).
 - **Away from [Home](../h/home.md)**: The travel must be far enough that the employee needs to sleep or rest to meet the demands of work.
 
-The IRS and corresponding bodies in other countries have specific guidelines for what constitutes deductible travel expenses. For the U.S., more information can be found directly from the [IRS](https://www.irs.gov/taxtopics/tc511).
+The IRS and corresponding bodies in other countries have specific guidelines for what constitutes deductible travel expenses. For the U.S., more information can be found directly from the IRS.
 
 ## International Travel
 

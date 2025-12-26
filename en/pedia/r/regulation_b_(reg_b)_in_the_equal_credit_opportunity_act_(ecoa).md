@@ -13,7 +13,7 @@ Regulation B applies to all creditors, including financial institutions, [credit
 Under Reg B, creditors are prohibited from the following discriminatory practices:
 
 1. **Demographic Characteristics**: Creditors cannot discriminate based on race, color, religion, national origin, sex, marital status, or age.
-   
+
 2. **Public Assistance [Income](../i/income.md)**: It is unlawful to discriminate against applicants because part or all of their [income](../i/income.md) derives from public assistance programs.
 
 3. **Exercising Rights**: Discrimination against applicants who have exercised any right under the [Consumer Credit](../c/consumer_credit.md) Protection Act is prohibited.
@@ -23,7 +23,7 @@ Under Reg B, creditors are prohibited from the following discriminatory practice
 When a [creditor](../c/creditor.md) takes an adverse action, such as denying [credit](../c/credit.md) or changing the terms of a previously approved [loan](../l/loan.md), Regulation B requires them to notify the applicant. The notice must include:
 
 1. **Statement of Action**: The notice must clearly state the action taken, such as [credit](../c/credit.md) denial.
-   
+
 2. **Reasons for Action**: It must provide specific reasons for the adverse action or state that the applicant has the right to request the reasons.
 
 3. **Applicant Rights**: The notice must inform the applicant of their rights under the ECOA, including their right to a copy of their [credit report](../c/credit_report.md) if a [credit report](../c/credit_report.md) influenced the decision.
@@ -37,7 +37,7 @@ Regulation B has strict guidelines on collecting demographic information. Credit
 Creditors must retain records related to [credit](../c/credit.md) applications and other [credit](../c/credit.md)-related activities for specified periods. This ensures [transparency](../t/transparency.md) and allows regulatory bodies to audit and enforce compliance effectively. Specific requirements include:
 
 1. **Applications**: Records of [credit](../c/credit.md) applications must be retained for at least 25 months.
-   
+
 2. **Adverse Actions**: Notices of adverse actions must be retained for the same period.
 
 3. **Compliance Records**: All other records related to compliance with Regulation B must also be maintained for appropriate durations.
@@ -47,7 +47,7 @@ Creditors must retain records related to [credit](../c/credit.md) applications a
 The enforcement of Regulation B is carried out by [federal agencies](../f/federal_agencies.md) such as the Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC), Consumer Financial Protection Bureau (CFPB), and other financial regulatory bodies. Penalties for non-compliance can include:
 
 1. **Civil Penalties**: Creditors found to be in violation may face monetary penalties.
-   
+
 2. **Legal Action**: Affected consumers have the right to take legal action against non-compliant creditors, which can result in substantial financial liabilities.
 
 ### Amendments and Updates
@@ -67,5 +67,3 @@ Regulation B provides essential protections for consumers, ensuring equal access
 ## Conclusion
 
 Regulation B under the Equal [Credit](../c/credit.md) Opportunity Act plays a critical role in promoting fairness and equal opportunity in the [credit](../c/credit.md) [industry](../i/industry.md). By prohibiting discrimination and ensuring [transparency](../t/transparency.md) in [credit](../c/credit.md) decisions, it supports consumers' rights and fosters a more inclusive financial environment. Creditors must adhere to Reg B's requirements to [uphold](../u/uphold.md) these principles and avoid potential penalties.
-
-For more information on Regulation B and the ECOA, you can visit the Federal Reserve's page on [Regulation B](https://www.federalreserve.gov/supervisionreg/regb.htm) or the Consumer Financial Protection Bureau's page on the [Equal Credit Opportunity Act](https://www.consumerfinance.gov/compliance/supervisory-guidance/ecoa/).

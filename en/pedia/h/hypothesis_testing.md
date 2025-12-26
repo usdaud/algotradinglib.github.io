@@ -1,6 +1,6 @@
 # Hypothesis Testing
 
-Hypothesis testing is a statistical method that allows traders to make inferences or draw conclusions about a population based on data collected from a sample. This method is particularly crucial in [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading), where decisions based on large datasets and statistical models can lead to significant financial gains or losses. Hypothesis testing helps to validate strategies, quantify risks, and enhance the robustness of [trading algorithms](../t/trading_algorithms.md). 
+Hypothesis testing is a statistical method that allows traders to make inferences or draw conclusions about a population based on data collected from a sample. This method is particularly crucial in [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading), where decisions based on large datasets and statistical models can lead to significant financial gains or losses. Hypothesis testing helps to validate strategies, quantify risks, and enhance the robustness of [trading algorithms](../t/trading_algorithms.md).
 
 ### Understanding Hypothesis Testing
 
@@ -50,35 +50,35 @@ In practice, hypothesis testing in [algorithmic trading](../a/algorithmic_tradin
 
 #### Data Collection and Preprocessing
 Gathering financial data is the first step. This can be done through APIs provided by financial service providers such as:
-- [Alpha Vantage](https://www.alphavantage.co/)
-- [QuantConnect](https://www.quantconnect.com/)
+- Alpha Vantage
+- QuantConnect
 
 Data preprocessing includes cleaning data, dealing with missing values, and normalizing numerical data.
 
 #### Formulating and Testing Hypotheses
 With data in hand, traders formulate their hypotheses and select an appropriate test. For example:
 - Testing if a moving average crossover strategy performs better than a buy-and-[hold](../h/hold.md) strategy:
-  - **[Null Hypothesis](../n/null_hypothesis.md)**: The moving average crossover strategy does not [yield](../y/yield.md) a higher [average return](../a/average_return.md).
-  - **Alternative Hypothesis**: The moving average crossover strategy yields a higher [average return](../a/average_return.md).
+ - **[Null Hypothesis](../n/null_hypothesis.md)**: The moving average crossover strategy does not [yield](../y/yield.md) a higher [average return](../a/average_return.md).
+ - **Alternative Hypothesis**: The moving average crossover strategy yields a higher [average return](../a/average_return.md).
 
 The [t-test](../t/t-test.md) might be chosen due to small sample sizes or unknown variances.
 
 #### Computing the Test Statistic
 Using statistical software or programming languages like Python and R:
 - **Python Example**:
-  ```python
-  from scipy [import](../i/import.md) stats
-  returns_ma = [...]  # returns from moving average strategy
-  returns_bh = [...]  # returns from buy-and-[hold](../h/hold.md) strategy
-  t_statistic, p_value = stats.ttest_ind(returns_ma, returns_bh)
-  ```
+ ```python
+ from scipy [import](../i/import.md) stats
+ returns_ma = [...] # returns from moving average strategy
+ returns_bh = [...] # returns from buy-and-[hold](../h/hold.md) strategy
+ t_statistic, p_value = stats.ttest_ind(returns_ma, returns_bh)
+ ```
 
 - **R Example**:
-  ```r
-  returns_ma <- c(...)  # returns from moving average strategy
-  returns_bh <- c(...)  # returns from buy-and-[hold](../h/hold.md) strategy
-  t.test(returns_ma, returns_bh)
-  ```
+ ```r
+ returns_ma <- c(...) # returns from moving average strategy
+ returns_bh <- c(...) # returns from buy-and-[hold](../h/hold.md) strategy
+ t.test(returns_ma, returns_bh)
+ ```
 
 #### Making Decisions
 Based on the p-[value](../v/value.md) obtained from the test statistic:
@@ -102,9 +102,9 @@ Before implementing a trading model, hypothesis testing ensures its robustness a
 
 Several tools and platforms facilitate hypothesis testing in [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), data analysis, and hypothesis testing capabilities. Visit [QuantConnect](https://www.quantconnect.com/) for more information.
-2. **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library for Python. Find it at [Zipline GitHub](https://github.com/quantopian/zipline).
-3. **[Quantlib](../q/quantlib.md)**: Provides a comprehensive suite for [quantitative analysis](../q/quantitative_analysis.md) and [trading systems](../t/trading_systems.md) development. Visit [Quantlib](https://www.quantlib.org/).
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), data analysis, and hypothesis testing capabilities. Visit QuantConnect for more information.
+2. **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library for Python. Find it at Zipline GitHub.
+3. **[Quantlib](../q/quantlib.md)**: Provides a comprehensive suite for [quantitative analysis](../q/quantitative_analysis.md) and [trading systems](../t/trading_systems.md) development. Visit Quantlib.
 
 ### Conclusion
 

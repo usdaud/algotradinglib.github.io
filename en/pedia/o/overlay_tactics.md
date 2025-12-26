@@ -43,8 +43,8 @@ Despite the benefits, there are several challenges involved in implementing [ove
 
 ## 6. Case Studies
 Several financial institutions and [hedge](../h/hedge.md) funds have successfully implemented [overlay](../o/overlay.md) tactics in their [trading strategies](../t/trading_strategies.md). For example:
-- [Two Sigma](https://www.twosigma.com/): This [hedge fund](../h/hedge_fund.md) uses data-driven approaches and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to enhance their [trading strategies](../t/trading_strategies.md).
-- [Citadel](https://www.citadel.com/): Citadel employs [overlay](../o/overlay.md) tactics involving [quantitative analysis](../q/quantitative_analysis.md) and high-frequency trading to achieve superior performance.
+- Two Sigma: This [hedge fund](../h/hedge_fund.md) uses data-driven approaches and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to enhance their [trading strategies](../t/trading_strategies.md).
+- Citadel: Citadel employs [overlay](../o/overlay.md) tactics involving [quantitative analysis](../q/quantitative_analysis.md) and high-frequency trading to achieve superior performance.
 
 ## 7. Future of Overlay Tactics
 The future of [overlay](../o/overlay.md) tactics in [algorithmic trading](../a/algorithmic_trading.md) is likely to be driven by advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and [quantum computing](../q/quantum_computing_in_trading.md). These technologies [will](../w/will.md) enable more sophisticated and highly dynamic [overlay strategies](../o/overlay_strategies.md) that can adapt in real-time to [market](../m/market.md) conditions.

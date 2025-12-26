@@ -51,7 +51,7 @@ The ATR is a [volatility](../v/volatility.md) [indicator](../i/indicator.md) tha
 
 Effective [whipsaw](../w/whipsaw.md) detection strategies must identify false movements and avoid entering trades during such times. Strategies include:
 
-### Statistical Models 
+### Statistical Models
 
 [Quantitative models](../q/quantitative_models.md) utilizing statistical measures can effectively detect and mitigate whipsaws. Examples include:
 - Moving Average Convergence [Divergence](../d/divergence.md) (MACD): Using convergence and [divergence](../d/divergence.md) of moving averages can provide indications of potential whipsaws.
@@ -123,6 +123,6 @@ Implementing and running sophisticated models requires significant computational
 [Whipsaw](../w/whipsaw.md) detection in [algorithmic trading](../a/algorithmic_trading.md) plays a pivotal role in minimizing trading risks associated with volatile [market](../m/market.md) conditions. By leveraging indicators such as moving averages, [Bollinger Bands](../b/bollinger_bands.md), ATR, and advanced techniques such as [machine learning](../m/machine_learning.md) and statistical models, traders can better identify and mitigate [whipsaw](../w/whipsaw.md) effects. Despite the inherent challenges, continuous innovation and [adaptive strategies](../a/adaptive_strategies.md) remain central to achieving [robust](../r/robust.md) [whipsaw](../w/whipsaw.md) detection and maintaining consistent [trading performance](../t/trading_performance.md).
 
 For further reading and reference, visit the following companies and their relevant documentation:
-- [Two Sigma](https://www.twosigma.com/)
-- [AQR Capital Management](https://www.aqr.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Two Sigma
+- AQR Capital Management
+- Citadel Securities

@@ -44,7 +44,7 @@ Understanding, identifying, and managing overs and shorts is critical for accura
 
 1. **Data Entry Errors:** Mistakes in recording buy or sell orders.
 2. **[Clearing and Settlement](../c/clearing_and_settlement.md) Delays:** Timing differences between [trade](../t/trade.md) [execution](../e/execution.md) and settlement can result in temporary discrepancies.
-3. **[Algorithmic Trading](../a/accountability.md):** In high-frequency trading, algorithm errors can lead to misreported positions.
+3. **[Algorithmic Trading](../a/algorithmic_trading.md):** In high-frequency trading, algorithm errors can lead to misreported positions.
 
 ### Impact
 
@@ -87,15 +87,15 @@ Understanding, identifying, and managing overs and shorts is critical for accura
 
 ### Banking and Financial Institutions
 
-Banks and [credit](../c/credit.md) unions frequently deal with over and short situations in daily operations, particularly in their cash handling departments. Regular audits and [reconciliation](../r/reconciliation.md) processes are implemented to maintain accuracy. An example is [Wells Fargo](https://www.wellsfargo.com/).
+Banks and [credit](../c/credit.md) unions frequently deal with over and short situations in daily operations, particularly in their cash handling departments. Regular audits and [reconciliation](../r/reconciliation.md) processes are implemented to maintain accuracy. An example is Wells Fargo.
 
 ### Trading Firms and Brokers
 
-Trading entities use sophisticated algorithms and software to manage trades and ensure accuracy. Firms like [Goldman Sachs](https://www.goldmansachs.com/) employ real-time monitoring and [reconciliation](../r/reconciliation.md) techniques to manage overs and shorts in their trading activities.
+Trading entities use sophisticated algorithms and software to manage trades and ensure accuracy. Firms like Goldman Sachs employ real-time monitoring and [reconciliation](../r/reconciliation.md) techniques to manage overs and shorts in their trading activities.
 
 ### Retail and Manufacturing
 
-Retail and [manufacturing](../m/manufacturing.md) sectors manage large inventories and thus face over and short issues regularly. Companies like [Walmart](https://www.walmart.com/) employ advanced [inventory management](../i/inventory_management.md) systems to [handle](../h/handle.md) discrepancies effectively.
+Retail and [manufacturing](../m/manufacturing.md) sectors manage large inventories and thus face over and short issues regularly. Companies like Walmart employ advanced [inventory management](../i/inventory_management.md) systems to [handle](../h/handle.md) discrepancies effectively.
 
 ## Conclusion
 

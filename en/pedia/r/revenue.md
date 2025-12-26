@@ -171,7 +171,6 @@ Amazon is a diversified [conglomerate](../c/conglomerate.md) with [multiple](../
 - **Subscription Services**: [Income](../i/income.md) from Prime memberships.
 - **Advertising Services**: Revenue from advertising on its platforms.
 
-For more information on Amazon’s revenue sources, you can visit their [official site](https://www.amazon.com/).
 
 ### Apple
 
@@ -181,7 +180,7 @@ Apple’s revenue streams include:
 - **Services**: [Income](../i/income.md) from App Store, iCloud, and other services.
 - **Wearables, [Home](../h/home.md), Accessories**: Revenue from products like Apple Watch and AirPods.
 
-For more on Apple’s financials, visit their [official site](https://www.apple.com/).
+For more on Apple’s financials,
 
 ### Financial Analysis
 

@@ -9,7 +9,7 @@
 To determine the [equilibrium](../e/equilibrium.md) quantity, economists study the [supply](../s/supply.md) and [demand](../d/demand.md) curves:
 
 1. **[Supply Curve](../s/supply_curve.md)**: This curve shows how much of a good producers are willing to [supply](../s/supply.md) at different prices. Generally, the higher the price, the more producers are willing to [supply](../s/supply.md) because they can achieve higher [profit margins](../p/profit_margins_in_trading.md).
-   
+
 2. **[Demand Curve](../d/demand_curve.md)**: This curve displays how much of a good consumers are willing to purchase at varying prices. Typically, consumers buy more of a good when its price is lower and less when its price is higher.
 
 The point where these two curves intersect represents the [equilibrium](../e/equilibrium.md) point. The price at this intersection is known as the [equilibrium](../e/equilibrium.md) price, and the quantity is the [equilibrium](../e/equilibrium.md) quantity. This point indicates a state of balance in the [market](../m/market.md), as the desires of consumers align with the capabilities of producers.
@@ -52,7 +52,6 @@ To find the [equilibrium](../e/equilibrium.md) quantity (\( Q^* \)) and [equilib
 [Substitute](../s/substitute.md) \( P^* \) back into either the [demand](../d/demand.md) or [supply](../s/supply.md) function to find \( Q^* \):
 
 \[ Q^* = a - bP^* \]
-or
 \[ Q^* = c + dP^* \]
 
 Both should [yield](../y/yield.md) the same [equilibrium](../e/equilibrium.md) quantity.
@@ -67,7 +66,7 @@ Both should [yield](../y/yield.md) the same [equilibrium](../e/equilibrium.md) q
 
 [Algorithmic trading](../a/accountability.md), often referred to as algo-trading, relies heavily on the principles of [supply](../s/supply.md) and [demand](../d/demand.md) and [equilibrium](../e/equilibrium.md). Traders use computer algorithms to buy and sell [stocks](../s/stock.md) or other financial instruments in an automated manner. These algorithms can be programmed to identify and act upon shifts in [market](../m/market.md) [equilibrium](../e/equilibrium.md). [Equilibrium](../e/equilibrium.md) pricing helps traders make informed decisions on when to execute trades to exploit price discrepancies efficiently.
 
-One concrete example is **Kensho** (https://www.kensho.com/), a company specializing in AI and [data analytics](../d/data_analytics.md) for financial services. Kensho’s algorithms analyze vast datasets to predict shifts in [market](../m/market.md) [equilibrium](../e/equilibrium.md) and uncover potential trading opportunities.
+One concrete example is **Kensho** ( a company specializing in AI and [data analytics](../d/data_analytics.md) for financial services. Kensho’s algorithms analyze vast datasets to predict shifts in [market](../m/market.md) [equilibrium](../e/equilibrium.md) and uncover potential trading opportunities.
 
 ### Inventory Management
 

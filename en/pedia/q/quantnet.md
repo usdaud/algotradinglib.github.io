@@ -50,5 +50,3 @@ QuantNet employs standard online [security](../s/security.md) measures to protec
 - **Secure Access**: Implementing secure login processes and user authentication to prevent unauthorized access.
 - **Moderation**: Active moderation to maintain the quality of discussions and prevent spam or abusive behavior.
 
-## Website
-For more information and to join the community, visit the official QuantNet website: [QuantNet](https://www.quantnet.com/)

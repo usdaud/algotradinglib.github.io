@@ -75,7 +75,7 @@ Now, we compute the TCE ratio:
 
 \[ \text{TCE Ratio} = \frac{\$200\, \text{million}}{\$1.9\, \text{billion}} \approx 10.53\% \]
 
-In this example, XYZ [Bank](../b/bank.md) has a TCE ratio of approximately 10.53%, indicating that slightly more than 10% of its [tangible assets](../t/tangible_asset.md) are financed by tangible common [equity](../e/equity.md). 
+In this example, XYZ [Bank](../b/bank.md) has a TCE ratio of approximately 10.53%, indicating that slightly more than 10% of its [tangible assets](../t/tangible_asset.md) are financed by tangible common [equity](../e/equity.md).
 
 ## TCE in Financial Statements
 
@@ -92,5 +92,3 @@ Despite its usefulness, TCE has several limitations:
 ## Conclusion
 
 Tangible Common [Equity](../e/equity.md) (TCE) is a pivotal metric for assessing the [underlying](../u/underlying.md) [financial health](../f/financial_health.md) and resilience of companies, especially in the banking sector. By focusing on [tangible assets](../t/tangible_asset.md) and [equity](../e/equity.md), TCE provides a conservative measure that helps investors, analysts, and regulators understand a company’s capacity to withstand financial difficulties. Whether used in [stress testing](../s/stress_testing.md), [risk management](../r/risk_management.md), or M&A analysis, TCE remains a cornerstone of financial evaluation, ensuring a clear-eyed view of a company's tangible financial foundation.
-
-[Example Bank with TCE details](https://www.examplebank.com/investor-relations)

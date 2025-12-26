@@ -42,13 +42,13 @@ In the context of [algorithmic trading](../a/accountability.md), this tradeoff m
 
 High-Frequency Trading embodies the [efficiency](../e/efficiency.md) aspect of the tradeoff. HFT firms invest heavily in technology and data to exploit very short-term [market](../m/market.md) inefficiencies. They employ sophisticated strategies to make rapid decisions and execute trades with minimal human intervention.
 
-**Example**: Virtu Financial [Website](https://www.virtu.com/) is a prominent HFT [firm](../f/firm.md) known for its advanced technological [infrastructure](../i/infrastructure.md) and [data analytics](../d/data_analytics.md) capabilities, enabling it to achieve high [efficiency](../e/efficiency.md) in its trading operations.
+**Example**../f/firm.md) known for its advanced technological [infrastructure](../i/infrastructure.md) and [data analytics](../d/data_analytics.md) capabilities, enabling it to achieve high [efficiency](../e/efficiency.md) in its trading operations.
 
 ### Retail Investors
 
 Retail investors often find themselves on the [equity](../e/equity.md) side of the tradeoff. With limited access to high-speed data and trading platforms, retail investors may find it challenging to compete with institutional investors and HFTs.
 
-**Example**: [Robinhood](../r/robinhood.md) [Website](https://robinhood.com/) is a [trading platform](../t/trading_platform.md) that aims to democratize trading by providing retail investors with zero-[commission](../c/commission.md) trades and user-friendly interfaces, thus addressing some [equity](../e/equity.md) concerns by making trading more accessible.
+**Example**: [Robinhood](../r/robinhood.md) online platform is a [trading platform](../t/trading_platform.md) that aims to democratize trading by providing retail investors with zero-[commission](../c/commission.md) trades and user-friendly interfaces, thus addressing some [equity](../e/equity.md) concerns by making trading more accessible.
 
 ## Mitigating the Tradeoff
 

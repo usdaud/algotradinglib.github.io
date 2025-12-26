@@ -58,7 +58,7 @@ The floating charge is a versatile [financial instrument](../f/financial_instrum
 
 For specific [industry](../i/industry.md) applications or to understand the [offering](../o/offering.md) of financial institutions specializing in floating charges, readers may explore resources from prominent financial advisory firms and commercial banks.
 
-- [HSBC](https://www.hsbc.com)
-- [Lloyds Bank](https://www.lloydsbank.com)
-- [Barclays](https://www.barclays.com)
-- [RBS (Royal Bank of Scotland)](https://www.rbs.com)
+- HSBC
+- Lloyds Bank
+- Barclays
+- RBS (Royal Bank of Scotland)

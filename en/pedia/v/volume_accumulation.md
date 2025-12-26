@@ -45,21 +45,21 @@ The term in parenthesis serves as a weighting [factor](../f/factor.md) that capt
 
 High-frequency trading (HFT) firms like Citadel Securities and Virtu Financial utilize sophisticated algorithms that incorporate [Volume](../v/volume.md) Accumulation metrics to maintain a competitive edge. These firms rely on the granularity of [volume](../v/volume.md) data to make split-second trading decisions.
 
-* [Citadel Securities](https://www.citadelsecurities.com/)
-* [Virtu Financial](https://www.virtu.com/)
+* Citadel Securities
+* Virtu Financial
 
 ### Brokerage Platforms
 
 Brokerage platforms such as [Interactive Brokers](../i/interactive_brokers.md) and [Charles Schwab](../c/charles_schwab.md) integrate [Volume](../v/volume.md) Accumulation tools in their trading platforms, allowing retail and institutional investors to [leverage](../l/leverage.md) this data in their [trading strategies](../t/trading_strategies.md).
 
-* [Interactive Brokers](https://www.interactivebrokers.com/)
-* [Charles Schwab](https://www.schwab.com/)
+* Interactive Brokers
+* Charles Schwab
 
 ### Quantitative Trading Firms
 
 [Quantitative trading](../q/quantitative_trading.md) firms like Renaissance Technologies employ advanced statistical models and algorithms that absorb [Volume](../v/volume.md) Accumulation data, among other factors, to execute trades based on quantitative signals derived from historical trading data.
 
-* [Renaissance Technologies](https://www.rentec.com/)
+* Renaissance Technologies
 
 ## Techniques and Indicators
 

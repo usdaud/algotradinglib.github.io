@@ -17,7 +17,7 @@ Discounted [Cash Flow](../c/cash_flow.md) (DCF) models are based on the principl
 [Yield to Maturity](../y/yield_to_maturity.md) (YTM) represents the [total return](../t/total_return.md) expected on a [bond](../b/bond.md) if it is held until [maturity](../m/maturity.md). It is effectively the internal [rate of return](../r/rate_of_return.md) (IRR) for the [bond](../b/bond.md), incorporating all future coupon payments and the [repayment](../r/repayment.md) of [par value](../p/par_value.md) at [maturity](../m/maturity.md).
 
 ##### Calculation method:
-[Yield to Maturity](../y/yield_to_maturity.md) is typically solved numerically using iterative techniques as it involves solving for the [discount rate](../d/discount_rate.md) \( r \) in the DCF model equation. 
+[Yield to Maturity](../y/yield_to_maturity.md) is typically solved numerically using iterative techniques as it involves solving for the [discount rate](../d/discount_rate.md) \( r \) in the DCF model equation.
 
 #### 3. Yield Spread Analysis
 [Yield](../y/yield.md) [spread analysis](../s/spread_analysis.md) involves comparing the [yield](../y/yield.md) of a particular [bond](../b/bond.md) to a [benchmark](../b/benchmark.md), such as the [yield](../y/yield.md) on government securities or bonds of similar [credit](../c/credit.md) quality. The spread can provide insights into the relative [risk](../r/risk.md) and potential [return](../r/return.md).
@@ -114,8 +114,8 @@ In [algorithmic trading](../a/algorithmic_trading.md), these [yield](../y/yield.
 [Yield](../y/yield.md) [valuation models](../v/valuation_models.md) are essential tools in the realm of [algorithmic trading](../a/algorithmic_trading.md). They provide a structured methodology to assess and compare the [value](../v/value.md) of bonds and other [fixed income securities](../f/fixed_income_securities.md), [accounting](../a/accounting.md) for factors such as [interest](../i/interest.md) rates, [credit risk](../c/credit_risk.md), and [market](../m/market.md) conditions. By leveraging these models, algorithmic traders can make precise and data-driven investment decisions, enhancing their ability to generate returns while managing risks effectively.
 
 For more detailed information and resources on companies specializing in financial analytics and [algorithmic trading](../a/algorithmic_trading.md), you can explore:
-- [Bloomberg](https://www.bloomberg.com/professional/)
-- [Morningstar](https://www.morningstar.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Kensho](https://www.kensho.com/)
-- [Axioma](https://www.axioma.com/)
+- Bloomberg
+- Morningstar
+- QuantConnect
+- Kensho
+- Axioma

@@ -15,9 +15,9 @@ where RS ([Relative Strength](../r/relative_strength.md)) is the average [gain](
 #### Interpreting RSI Values
 
 - **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Conditions**: RSI values [range](../r/range.md) from 0 to 100. Traditionally, an RSI above 70 indicates an [overbought](../o/overbought.md) condition, suggesting that the [asset](../a/asset.md) may be [overvalued](../o/overvalued.md) and potentially due for a price [correction](../c/correction.md) or [pullback](../p/pullback.md). Conversely, an RSI below 30 indicates an [oversold](../o/oversold.md) condition, suggesting that the [asset](../a/asset.md) may be [undervalued](../u/undervalued.md) and due for a price rebound.
-  
+
 - **Centerline Crossover**: An RSI level of 50 is considered the midpoint, and crossovers of this level can indicate potential changes in [market](../m/market.md) direction. When RSI moves above 50, it is often seen as a bullish signal, while a move below 50 can be viewed as bearish.
-  
+
 - **Divergences**: Divergences between the RSI and [price action](../p/price_action.md) can signal potential [reversal](../r/reversal.md) points. A [bullish divergence](../b/bullish_divergence.md) occurs when the price makes a new low, but the RSI forms a higher low, indicating weakening bearish [momentum](../m/momentum.md). Conversely, a [bearish divergence](../b/bearish_divergence.md) happens when the price makes a new high while the RSI forms a lower high, suggesting weakening bullish [momentum](../m/momentum.md).
 
 ### Practical Applications
@@ -39,4 +39,4 @@ While RSI is a powerful tool, it is not without limitations. [False signals](../
 
 Wilder’s RSI remains a vital component of [technical analysis](../t/technical_analysis.md), [offering](../o/offering.md) insights into [market](../m/market.md) [momentum](../m/momentum.md) and potential turning points. Its simplicity, ease of interpretation, and adaptability across different markets make it a valuable tool for traders and analysts.
 
-For more information on J. Welles Wilder and his contributions to [technical analysis](../t/technical_analysis.md), visit [Market Technicians Association](https://www.mta.org/j-welles-wilder-jr-cmt/).
+For more information on J. Welles Wilder and his contributions to [technical analysis](../t/technical_analysis.md), visit Market Technicians Association.

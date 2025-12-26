@@ -8,20 +8,20 @@ In its essence, [algorithmic trading](../a/algorithmic_trading.md) involves usin
 
 ### Key Components
 #### 1. **Predefined Rules**
-   The core of any trading algorithm is its set of predefined rules. These rules determine the algorithm's behavior in different [market](../m/market.md) conditions. Examples include:
-   - **Moving Averages:** Buy or sell signals triggered when the price crosses an average of past prices.
-   - **[Mean Reversion](../m/mean_reversion.md):** Betting that prices [will](../w/will.md) [return](../r/return.md) to their historical mean.
-   - **[Arbitrage](../a/arbitrage.md):** Exploiting price differences of the same [asset](../a/asset.md) in different markets.
-   - **[Market](../m/market.md)-Making:** Providing [liquidity](../l/liquidity.md) by placing simultaneous buy and sell orders.
+ The core of any trading algorithm is its set of predefined rules. These rules determine the algorithm's behavior in different [market](../m/market.md) conditions. Examples include:
+ - **Moving Averages:** Buy or sell signals triggered when the price crosses an average of past prices.
+ - **[Mean Reversion](../m/mean_reversion.md):** Betting that prices [will](../w/will.md) [return](../r/return.md) to their historical mean.
+ - **[Arbitrage](../a/arbitrage.md):** Exploiting price differences of the same [asset](../a/asset.md) in different markets.
+ - **[Market](../m/market.md)-Making:** Providing [liquidity](../l/liquidity.md) by placing simultaneous buy and sell orders.
 
 #### 2. **Data Input**
-   [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on data. Historical and real-time data feeds provide the raw material for analysis.
-   - **[Market](../m/market.md) Data:** This includes price, [volume](../v/volume.md), and [order book](../o/order_book.md) data.
-   - **Fundamental Data:** [Financial statements](../f/financial_statements.md), [earnings](../e/earnings.md) reports, and other company fundamentals.
-   - **[Alternative Data](../a/alternative_data.md):** [Non-traditional data sources](../n/non-traditional_data_sources.md) such as [social media sentiment](../s/social_media_sentiment.md) or news articles.
+ [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on data. Historical and real-time data feeds provide the raw material for analysis.
+ - **[Market](../m/market.md) Data:** This includes price, [volume](../v/volume.md), and [order book](../o/order_book.md) data.
+ - **Fundamental Data:** [Financial statements](../f/financial_statements.md), [earnings](../e/earnings.md) reports, and other company fundamentals.
+ - **[Alternative Data](../a/alternative_data.md):** [Non-traditional data sources](../n/non-traditional_data_sources.md) such as [social media sentiment](../s/social_media_sentiment.md) or news articles.
 
 #### 3. **Execution Venue**
-   Algorithms can direct trades to [multiple](../m/multiple.md) venues including traditional exchanges, [dark pools](../d/dark_pools.md), and electronic communications networks (ECNs). 
+ Algorithms can direct trades to [multiple](../m/multiple.md) venues including traditional exchanges, [dark pools](../d/dark_pools.md), and electronic communications networks (ECNs).
 
 ### Importance and Benefits
 Trading algorithms confer [multiple](../m/multiple.md) advantages:
@@ -38,7 +38,7 @@ Trading algorithms confer [multiple](../m/multiple.md) advantages:
 These algorithms are predicated on the statistical concept of [mean reversion](../m/mean_reversion.md), which posits that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical averages over time. When prices deviate significantly from their historical norms, [mean reversion](../m/mean_reversion.md) algorithms [will](../w/will.md) take positions that anticipate a [return](../r/return.md) to the mean.
 
 ### **3. Arbitrage Strategies**
-[Arbitrage](../a/arbitrage.md) algorithms exploit price inefficiencies between different markets or [asset](../a/asset.md) classes. Common types include 
+[Arbitrage](../a/arbitrage.md) algorithms exploit price inefficiencies between different markets or [asset](../a/asset.md) classes. Common types include
 - **Statistical [Arbitrage](../a/arbitrage.md):** Involves simultaneous buying and selling of correlated assets when their price differential departs from statistical norms.
 - **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md):** Profiting from discrepancies between the price of an [index](../i/index_instrument.md) and its constituent assets.
 
@@ -50,9 +50,7 @@ These algorithms scan news articles, [social media](../s/social_media.md) platfo
 
 ### **6. High-Frequency Trading (HFT)**
 HFT represents the apex of [algorithmic trading](../a/algorithmic_trading.md), focusing on executing orders in microseconds. Firms like Citadel Securities and Virtu Financial employ HFT algorithms for strategies including [arbitrage](../a/arbitrage.md) and [market](../m/market.md)-making.
-- Citadel Securities: https://www.citadelsecurities.com/
-- Virtu Financial: https://www.virtu.com/
-
+- Citadel Securities- Virtu Financial
 ## Implementation of Trading Algorithms
 
 Designing and implementing a trading algorithm involves [multiple](../m/multiple.md) steps:
@@ -68,17 +66,9 @@ Designing and implementing a trading algorithm involves [multiple](../m/multiple
 - **C++:** Preferred for [execution algorithms](../e/execution_algorithms.md) due to its speed and [efficiency](../e/efficiency.md).
 
 ### Backtesting Frameworks
-- **[QuantConnect](../q/quantconnect.md):** Offers cloud-based [backtesting](../b/backtesting.md) and strategy development.
-  - Website: https://www.[quantconnect](../q/quantconnect.md).com/
-- **Zipline:** [Open](../o/open.md)-source Python library for [algorithmic trading](../a/algorithmic_trading.md) [simulation](../s/simulation_in_trading.md).
-  - Website: https://www.zipline.io/
-
+- **[StockSharp](../s/stocksharp.md):** Offers [backtesting](../b/backtesting.md) and strategy development.
 ### Trading Platforms and APIs
 - **[Interactive Brokers](../i/interactive_brokers.md) (IB):** Offers extensive APIs for automating trades.
-  - Website: https://www.interactivebrokers.com/
-- **TD [Ameritrade](../a/ameritrade.md):** Provides APIs for trading and [market](../m/market.md) data.
-  - Website: https://developer.tdameritrade.com/
-
 ## Emerging Trends
 
 ### **Machine Learning and AI**

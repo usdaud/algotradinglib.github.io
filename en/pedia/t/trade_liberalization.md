@@ -75,4 +75,4 @@ Some argue for the use of strategic [trade](../t/trade.md) policies to protect k
 
 ---
 
-For more information on [trade](../t/trade.md) liberalization, you can visit the World [Trade](../t/trade.md) Organization (WTO) website at [https://www.wto.org](https://www.wto.org) or explore resources from the International Monetary [Fund](../f/fund.md) (IMF) at [https://www.imf.org](https://www.imf.org).
+For more information on [trade](../t/trade.md) liberalization, you can visit the World [Trade](../t/trade.md) Organization (WTO) online platform at or explore resources from the International Monetary [Fund](../f/fund.md) (IMF) at

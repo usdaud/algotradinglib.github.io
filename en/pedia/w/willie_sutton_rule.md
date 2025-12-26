@@ -10,7 +10,7 @@ Willie Sutton (1901-1980) was an American [bank](../b/bank.md) robber and escape
 
 ### The Alleged Quote
 
-Though the accuracy of the [quote](../q/quote.md) is debated, it serves as a metaphor for allocating resources effectively based on where they are most abundant or impactful. 
+Though the accuracy of the [quote](../q/quote.md) is debated, it serves as a metaphor for allocating resources effectively based on where they are most abundant or impactful.
 
 ## Application in Finance and Economics
 
@@ -34,7 +34,7 @@ Algorithmic traders often [target markets](../t/target_markets.md) with high [li
 
 ### Data-Driven Decisions
 
-In [algorithmic trading](../a/accountability.md), data is akin to [money](../m/money.md) in the Willie Sutton Rule. Quantitative analysts devote substantial effort to gather and analyze vast amounts of data to build effective [trading models](../t/trading_models.md). The premise remains the same: focus on high-quality, abundant data sources for better predictive accuracy.
+In [algorithmic trading](../a/algorithmic_trading.md), data is akin to [money](../m/money.md) in the Willie Sutton Rule. Quantitative analysts devote substantial effort to gather and analyze vast amounts of data to build effective [trading models](../t/trading_models.md). The premise remains the same: focus on high-quality, abundant data sources for better predictive accuracy.
 
 ### Resource Allocation in Algo Development
 

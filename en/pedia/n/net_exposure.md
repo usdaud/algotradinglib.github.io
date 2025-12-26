@@ -24,11 +24,11 @@ Net exposure is crucial for understanding the [risk](../r/risk.md) profile of a 
 
 - **[Risk](../r/risk.md) Assessment**: A higher net exposure usually indicates a higher [risk](../r/risk.md) level, while a lower net exposure might imply a conservative approach.
 - **[Performance Metrics](../p/performance_metrics.md)**: Net exposure is vital to assess the effectiveness of [hedging strategies](../h/hedging_strategies.md). Effective hedging should ideally bring the net exposure closer to zero, balancing out gains and losses.
-  
+
 ## Types of Exposure
 ### Gross Exposure
 [Gross exposure](../g/gross_exposure.md) is the sum of long and short positions, irrespective of their directions. For the previous example:
-  
+
 ```
 [Gross Exposure](../g/gross_exposure.md) = Long Positions + Short Positions = $100,000 + $40,000 = $140,000
 ```
@@ -41,7 +41,7 @@ A [market](../m/market.md)-[neutral](../n/neutral.md) position has a net exposur
 [Hedge](../h/hedge.md) funds often use net exposure to define their [trading strategies](../t/trading_strategies.md):
 
 - **[Equity](../e/equity.md) Long/Short**: These funds maintain both long and short positions in [equity](../e/equity.md) securities. The net exposure can vary but usually stays within a specified [range](../r/range.md) to control [risk](../r/risk.md).
-  
+
 ### Risk Parity
 [Risk parity](../r/risk_parity.md) strategies aim to balance [risk](../r/risk.md) across different [asset](../a/asset.md) classes, often using [leverage](../l/leverage.md) to scale exposure. Net exposure plays a key role in determining how much [leverage](../l/leverage.md) to apply.
 
@@ -85,10 +85,10 @@ Funds and financial institutions need to report their net exposure to regulatory
 
 ## Real-World Examples
 ### Bridgewater Associates
-Bridgewater Associates, a prominent [hedge fund](../h/hedge_fund.md), employs [risk parity](../r/risk_parity.md) strategies that carefully analyze and manage net exposure across [asset](../a/asset.md) classes. More details can be found on their [official website](https://www.bridgewater.com/).
+Bridgewater Associates, a prominent [hedge fund](../h/hedge_fund.md), employs [risk parity](../r/risk_parity.md) strategies that carefully analyze and manage net exposure across [asset](../a/asset.md) classes. More
 
 ### Renaissance Technologies
-Renaissance Technologies, another leading [hedge fund](../h/hedge_fund.md), utilizes [quantitative models](../q/quantitative_models.md) to manage net exposure dynamically. Their strategies often involve complex algorithms that adjust exposure based on [market](../m/market.md) data. For more information, visit their [official page](https://www.rentec.com/).
+Renaissance Technologies, another leading [hedge fund](../h/hedge_fund.md), utilizes [quantitative models](../q/quantitative_models.md) to manage net exposure dynamically. Their strategies often involve complex algorithms that adjust exposure based on [market](../m/market.md) data.
 
 ## Conclusion
 Net exposure is an essential metric for traders and portfolio managers. It offers insights into the [risk](../r/risk.md) and [return](../r/return.md) profile of a portfolio, guiding strategic decisions and [risk management](../r/risk_management.md) practices. By understanding and effectively managing net exposure, investors can better navigate [market](../m/market.md) complexities and achieve their financial goals.

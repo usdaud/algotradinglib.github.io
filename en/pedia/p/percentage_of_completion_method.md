@@ -14,12 +14,12 @@ The costs associated with the project are also recognized proportionally over th
 There are various ways to calculate the percentage of completion, including:
 
 - **Cost-to-cost method**: This is the most common and calculates the percentage of completion by dividing the incurred costs to date by the estimated total costs.
-  \[
-  \text{Percentage of Completion} = \frac{\text{Costs Incurred to Date}}{\text{Total Estimated Cost}}
-  \]
+ \[
+ \text{Percentage of Completion} = \frac{\text{Costs Incurred to Date}}{\text{Total Estimated Cost}}
+ \]
 
 - **Efforts-expended method**: This calculates completion based on the proportion of efforts expended to date compared to the total estimated efforts required.
-  
+
 - **Units-of-delivery method**: This approach calculates completion based on the number of units delivered compared to the total units expected to be delivered.
 
 ### Example Calculation
@@ -79,5 +79,5 @@ The Percentage of Completion method is a valuable [accounting](../a/accounting.m
 
 For detailed policies on the method, visit:
 
-[Financial Accounting Standards Board (FASB)](https://www.fasb.org/)
-[International Financial Reporting Standards (IFRS) Foundation](https://www.ifrs.org/)
+Financial Accounting Standards Board (FASB)
+International Financial Reporting Standards (IFRS) Foundation

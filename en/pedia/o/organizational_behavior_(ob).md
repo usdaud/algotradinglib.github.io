@@ -1,6 +1,6 @@
 # Organizational Behavior (OB)
 
-Organizational Behavior (OB) is a field of study that investigates how individuals, groups, and structures impact behavior within organizations. Its primary focus is to apply this knowledge toward improving an organization's effectiveness. This multidisciplinary field includes psychology, sociology, communication, and management and is applicable in various sectors including [finance](../f/finance.md), fintech, and [algorithmic trading](../a/accountability.md).
+Organizational Behavior (OB) is a field of study that investigates how individuals, groups, and structures impact behavior within organizations. Its primary focus is to apply this knowledge toward improving an organization's effectiveness. This multidisciplinary field includes psychology, sociology, communication, and management and is applicable in various sectors including [finance](../f/finance.md), fintech, and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Key Concepts in Organizational Behavior
 
@@ -10,7 +10,7 @@ Organizational Behavior (OB) is a field of study that investigates how individua
 
 ## Importance in Finance and Trading Sectors
 
-In [finance](../f/finance.md), particularly in niche areas such as fintech and [algorithmic trading](../a/accountability.md), employing OB principles can lead to optimized [trading strategies](../t/trading_strategies.md), improved decision-making processes, and a more cohesive organizational culture. For instance:
+In [finance](../f/finance.md), particularly in niche areas such as fintech and [algorithmic trading](../a/algorithmic_trading.md), employing OB principles can lead to optimized [trading strategies](../t/trading_strategies.md), improved decision-making processes, and a more cohesive organizational culture. For instance:
 
 - **Team Synergy**: Algorithms are developed by sophisticated teams of financial engineers, coders, and quantitative analysts. Effective team collaborations and conflict resolutions are crucial in this environment.
 - **[Leadership](../l/leadership.md)**: Effective [leadership](../l/leadership.md) helps in steering the organization towards its goals, ensuring that team members are aligned, motivated, and productive.
@@ -42,19 +42,19 @@ In [finance](../f/finance.md), particularly in niche areas such as fintech and [
 
 ### Enhancing Team Collaboration
 
-- **Effective Communication**: In [algorithmic trading](../a/accountability.md), clear and efficient communication can lead to better understanding and quicker adjustments to [trading strategies](../t/trading_strategies.md). Platforms like Slack or Zoom facilitate this.
+- **Effective Communication**: In [algorithmic trading](../a/algorithmic_trading.md), clear and efficient communication can lead to better understanding and quicker adjustments to [trading strategies](../t/trading_strategies.md). Platforms like Slack or Zoom facilitate this.
 - **Conflict Resolution**: Using OB techniques like mediation and [negotiation](../n/negotiation.md) to resolve team disputes can keep projects on track.
 
 ### Leadership in Fintech Startups
 
-- Leaders need to adopt agile and adaptive management styles to keep pace with technological innovations and regulatory changes. Companies like Revolut and Stripe thrive due to effective [leadership](../l/leadership.md) and agile structures. Visit [Revolut](https://www.revolut.com) and [Stripe](https://stripe.com) for more insights.
-  
+- Leaders need to adopt agile and adaptive management styles to keep pace with technological innovations and regulatory changes. Companies like Revolut and Stripe thrive due to effective [leadership](../l/leadership.md) and agile structures. Visit Revolut and Stripe for more insights.
+
 ### Structural Adaptability
 
-- Fintech firms like [Robinhood](../r/robinhood.md) or Square often employ flat organizational structures to foster innovation and quick decision-making. More information can be found at [Robinhood](https://robinhood.com) and [Square](https://squareup.com).
+- Fintech firms like [Robinhood](../r/robinhood.md) or Square often employ flat organizational structures to foster innovation and quick decision-making. More information can be found at Robinhood and Square.
 
 ## Conclusion
 
-Organizational Behavior is crucial for the success of any organization, especially in dynamic and fast-paced sectors like [finance](../f/finance.md), fintech, and [algorithmic trading](../a/accountability.md). By understanding how individuals, groups, and organizational structures work together, companies can enhance their [efficiency](../e/efficiency.md), adaptability, and innovation.
+Organizational Behavior is crucial for the success of any organization, especially in dynamic and fast-paced sectors like [finance](../f/finance.md), fintech, and [algorithmic trading](../a/algorithmic_trading.md). By understanding how individuals, groups, and organizational structures work together, companies can enhance their [efficiency](../e/efficiency.md), adaptability, and innovation.
 
-Implementing OB principles results in improved morale, better team performance, and an increased ability to adapt to [market](../m/market.md) and technological changes. As the line between human behavior and machine operations blurs, particularly in [algorithmic trading](../a/accountability.md), integrating OB becomes ever more essential.
+Implementing OB principles results in improved morale, better team performance, and an increased ability to adapt to [market](../m/market.md) and technological changes. As the line between human behavior and machine operations blurs, particularly in [algorithmic trading](../a/algorithmic_trading.md), integrating OB becomes ever more essential.

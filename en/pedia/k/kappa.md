@@ -33,4 +33,3 @@ Kappa is typically calculated using complex [mathematical models](../m/mathemati
 
 ## Conclusion
 Kappa is a vital measure in [options](../o/options.md) trading that helps assess the sensitivity of an option's price to changes in the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md). It is an essential tool for [risk management](../r/risk_management.md), pricing strategies, and [portfolio optimization](../p/portfolio_optimization.md). While complex, understanding and effectively using Kappa can provide significant advantages in navigating the dynamic and often volatile [options](../o/options.md) markets.
-

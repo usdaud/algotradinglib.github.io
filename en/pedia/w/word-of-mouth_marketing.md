@@ -31,16 +31,16 @@ To harness the power of word-of-mouth [marketing](../m/marketing.md) effectively
 ## Examples of Successful WOMM Campaigns
 Several brands have achieved significant growth through effective word-of-mouth [marketing](../m/marketing.md):
 - **Dropbox:** Dropbox’s referral program, which rewarded users with extra storage for inviting friends, played a crucial role in its early growth, driving millions of new sign-ups.
-  - Learn more: [Dropbox](https://www.dropbox.com)
+ - Learn more: Dropbox
 - **Tesla:** Tesla’s referral program incentivizes current owners to refer new buyers with perks such as free Supercharging miles or exclusive invites to events.
-  - Learn more: [Tesla](https://www.tesla.com)
+ - Learn more: Tesla
 - **Glossier:** Glossier leverages its community of passionate customers to spread the word about its products, often featuring user-generated content on its [social media](../s/social_media.md) channels.
-  - Learn more: [Glossier](https://www.glossier.com)
+ - Learn more: Glossier
 
 ## Measuring the Impact of WOMM
 To assess the effectiveness of word-of-mouth [marketing](../m/marketing.md), brands can utilize several metrics:
 - **Net Promoter Score (NPS):** NPS measures the likelihood of customers to recommend a brand to others and is a direct [indicator](../i/indicator.md) of potential word-of-mouth.
-- **Referral Traffic:** Tracking the [volume](../v/volume.md) of website traffic coming from referral links can provide insights into the reach of word-of-mouth campaigns.
+- **Referral Traffic:** Tracking the [volume](../v/volume.md) of online traffic coming from referral links can provide insights into the reach of word-of-mouth campaigns.
 - **Social Mentions and [Shares](../s/shares.md):** Monitoring the frequency and sentiment of brand mentions and [shares](../s/shares.md) on [social media](../s/social_media.md) helps gauge the spread and impact of WOMM.
 - **[Customer](../c/customer.md) Feedback and Surveys:** Regularly collecting and analyzing [customer](../c/customer.md) feedback can [offer](../o/offer.md) qualitative insights into how word-of-mouth is influencing brand perception.
 

@@ -40,11 +40,11 @@ CMOs were heavily criticized following the [subprime mortgage](../s/subprime_mor
 
 Many prominent financial institutions partake in the [origination](../o/origination.md), structuring, and management of CMOs, including:
 
-1. **[Freddie Mac](../f/freddie_mac.md)**: [Freddie Mac CMOs](https://www.freddiemac.com)
+1. **[Freddie Mac](../f/freddie_mac.md)**: Freddie Mac CMOs
 
-2. **Fannie Mae**: [Fannie Mae CMOs](https://www.fanniemae.com/)
+2. **Fannie Mae**: Fannie Mae CMOs
 
-3. **Ginnie Mae**: [Ginnie Mae CMOs](https://www.ginniemae.gov/)
+3. **Ginnie Mae**: Ginnie Mae CMOs
 
 ### Freddie Mac
 

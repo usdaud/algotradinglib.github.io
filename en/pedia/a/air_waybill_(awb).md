@@ -30,14 +30,14 @@ An AWB contains numerous fields to provide comprehensive details about the shipm
 There are two primary types of AWBs, each serving different purposes in the [logistics](../l/logistics.md) chain:
 
 1. **Master Air Waybill (MAWB)**:
-   - Issued by the main air carrier.
-   - Covers the entire shipment from origin to final destination.
-   - Used when a single shipper sends a shipment to a single consignee directly.
+ - Issued by the main air carrier.
+ - Covers the entire shipment from origin to final destination.
+ - Used when a single shipper sends a shipment to a single consignee directly.
 
 2. **House Air Waybill (HAWB)**:
-   - Issued by a freight forwarder or an intermediary.
-   - Used for consolidated shipments where [multiple](../m/multiple.md) shippers’ goods are grouped together.
-   - Each shipper receives a HAWB, while the freight forwarder manages the consolidated shipment under a MAWB.
+ - Issued by a freight forwarder or an intermediary.
+ - Used for consolidated shipments where [multiple](../m/multiple.md) shippers’ goods are grouped together.
+ - Each shipper receives a HAWB, while the freight forwarder manages the consolidated shipment under a MAWB.
 
 ## Legal and Regulatory Aspects
 
@@ -64,8 +64,6 @@ With the advent of technology, the traditional paper AWB is gradually being repl
 2. **Accuracy**: Minimizes errors compared to manual entry, ensuring better data quality.
 3. **Tracking**: Enhances real-time tracking of shipments through integrated digital systems.
 4. **Sustainability**: Contributes to environmental sustainability by reducing paper usage.
-
-For more information on e-AWB, you can visit the [IATA e-Air Waybill page](https://www.iata.org/en/programs/cargo/e/).
 
 ## Conclusion
 

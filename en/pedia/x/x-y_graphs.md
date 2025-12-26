@@ -15,16 +15,16 @@ Each point on the graph corresponds to a pair of values (x, y), each representin
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on data analysis and [pattern recognition](../p/pattern_recognition.md). X-Y graphs serve several critical purposes in this domain:
 
 1. **Visualization of Relationships**:
-   - X-Y graphs help visualize the relationship between two variables, such as price vs. time, [volume](../v/volume.md) vs. price changes, or moving averages of two different time periods.
+ - X-Y graphs help visualize the relationship between two variables, such as price vs. time, [volume](../v/volume.md) vs. price changes, or moving averages of two different time periods.
 
 2. **Identification of Trends**:
-   - By plotting variables over time, traders can identify trends such as linear relationships, cyclic patterns, and outliers.
- 
+ - By plotting variables over time, traders can identify trends such as linear relationships, cyclic patterns, and outliers.
+
 3. **[Correlation Analysis](../c/correlation_analysis.md)**:
-   - By examining how one variable changes in response to another, traders can make educated guesses about [market](../m/market.md) behaviors and decisions.
-   
+ - By examining how one variable changes in response to another, traders can make educated guesses about [market](../m/market.md) behaviors and decisions.
+
 4. **Feature Engineering**:
-   - In [quantitative analysis](../q/quantitative_analysis.md), creating derived features for [predictive modeling](../p/predictive_modeling.md) is essential. X-Y graphs help in understanding which features to include or engineer for models.
+ - In [quantitative analysis](../q/quantitative_analysis.md), creating derived features for [predictive modeling](../p/predictive_modeling.md) is essential. X-Y graphs help in understanding which features to include or engineer for models.
 
 ## Practical Applications
 
@@ -125,20 +125,20 @@ Statistical [Arbitrage](../a/arbitrage.md) (StatArb) involves the use of quantit
 ### Steps Involved:
 
 1. **Pair Selection**:
-   Identify pairs of [stocks](../s/stock.md) or financial instruments with historically correlated price movements.
+ Identify pairs of [stocks](../s/stock.md) or financial instruments with historically correlated price movements.
 
 2. **Spread Calculation**:
-   Plot the price difference (spread) between the pairs on an X-Y graph.
+ Plot the price difference (spread) between the pairs on an X-Y graph.
 
 3. **Signal Generation**:
-   Analyze the spread to generate buy/sell signals. If the spread diverges from the historical mean, it indicates a potential [profit](../p/profit.md) opportunity.
+ Analyze the spread to generate buy/sell signals. If the spread diverges from the historical mean, it indicates a potential [profit](../p/profit.md) opportunity.
 
 4. **Implementation**:
-   Use [algorithmic trading](../a/algorithmic_trading.md) systems to execute trades based on signals generated.
+ Use [algorithmic trading](../a/algorithmic_trading.md) systems to execute trades based on signals generated.
 
 ### Example Firms:
-- [Jane Street](https://www.janestreet.com/): Known for its expertise in [proprietary trading](../p/proprietary_trading.md) and advanced statistical methods.
-- [Two Sigma](https://www.twosigma.com/): Utilizes [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to develop sophisticated [trading strategies](../t/trading_strategies.md).
+- Jane Street: Known for its expertise in [proprietary trading](../p/proprietary_trading.md) and advanced statistical methods.
+- Two Sigma: Utilizes [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to develop sophisticated [trading strategies](../t/trading_strategies.md).
 
 ## Challenges and Considerations
 

@@ -11,7 +11,7 @@ Golden handcuffs originated as a mechanism to retain talent in highly competitiv
 The financial incentives that constitute golden handcuffs can take various forms:
 
 - **Stock [Options](../o/options.md)**: Employees are granted the option to purchase [shares](../s/shares.md) at a later date, typically at a price lower than the [market value](../m/market_value.md). These [options](../o/options.md) often vest over several years, meaning employees must stay with the company for a specified period to take full advantage.
-  
+
 - **Deferred Bonuses**: Bonuses are allocated but not paid out until a future date. The bonus can be forfeited if the employee leaves before the end of the [deferment period](../d/deferment_period.md).
 
 - **Pension Plans**: Enhanced pension benefits that accumulate more rapidly or are more generous but can be lost if the employee leaves the company prematurely.
@@ -24,7 +24,7 @@ The financial incentives that constitute golden handcuffs can take various forms
 **Advantages**:
 - **Employee Retention**: The primary advantage for employers is the retention of valuable employees, reducing the costs and disruptions associated with [turnover](../t/turnover.md).
 - **Alignment of Interests**: Golden handcuffs can align employees’ interests with the long-term success of the company, as their financial benefits are tied to their tenure.
-  
+
 **Disadvantages**:
 - **Financial Cost**: Implementing golden handcuffs can be expensive, especially if they involve stock [options](../o/options.md) or substantial bonuses.
 - **Potential for Conflict**: If employees feel trapped or [undervalued](../u/undervalued.md) despite their financial incentives, it could lead to reduced morale and [productivity](../p/productivity.md).
@@ -43,18 +43,18 @@ The financial incentives that constitute golden handcuffs can take various forms
 While many large corporations employ golden handcuffs to retain key talent, some notable examples include:
 
 - **Google**: Known for [offering](../o/offering.md) [lucrative](../l/lucrative.md) stock [options](../o/options.md) and comprehensive benefits, Google ensures that its employees are financially incentivized to stay with the company.
-  
-- **Goldman Sachs**: The financial services giant offers significant deferred bonuses and stock [options](../o/options.md) to retain its top executives and key employees: [Goldman Sachs Careers](https://www.goldmansachs.com/careers/)
 
-- **Apple**: Apple provides substantial stock grants that vest over a period of time, encouraging employees to stay in the long term: [Apple Jobs](https://www.apple.com/jobs/)
+- **Goldman Sachs**: The financial services giant offers significant deferred bonuses and stock [options](../o/options.md) to retain its top executives and key employees: Goldman Sachs Careers
+
+- **Apple**: Apple provides substantial stock grants that vest over a period of time, encouraging employees to stay in the long term: Apple Jobs
 
 ## Legal and Ethical Considerations
 
-Golden handcuffs must be carefully structured to avoid legal pitfalls and to ensure they are fair and transparent. 
+Golden handcuffs must be carefully structured to avoid legal pitfalls and to ensure they are fair and transparent.
 
 ### Legal Aspects
 - **Contract Law**: The terms of golden handcuffs must be clearly outlined in employment contracts, specifying the [vesting](../v/vesting.md) periods and conditions under which the benefits may be forfeited.
-  
+
 - **Tax Implications**: Both employer and employee must understand the tax consequences of various forms of [deferred compensation](../d/deferred_compensation.md) and stock [options](../o/options.md).
 
 ### Ethical Concerns

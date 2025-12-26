@@ -31,43 +31,42 @@ A user-friendly interface is crucial for ease of use. Most platforms [offer](../
 ### MetaTrader 4 & 5
 MetaTrader is one of the most widely used platforms in the retail trading world. It is known for its user-friendly interface, extensive charting tools, and support for automated trading through Expert Advisors (EAs). It supports [algorithmic trading](../a/algorithmic_trading.md) via the MQL4/MQL5 programming languages.
 
-- MetaTrader [Website](https://www.metatrader4.com/en)
+-
 
 ### NinjaTrader
 [NinjaTrader](../n/ninjatrader.md) is a popular platform [offering](../o/offering.md) advanced charting, [market](../m/market.md) analysis, and trading automation. It supports C# for scripting [trading strategies](../t/trading_strategies.md) and has a strong community of developers providing add-ons and plugins.
 
-- [NinjaTrader](../n/ninjatrader.md) [Website](https://www.ninjatrader.com/)
+- [NinjaTrader](../n/ninjatrader.md)
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is a cloud-based platform for [quantitative trading](../q/quantitative_trading.md) and research. It supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. The platform also offers a vast amount of historical data and integrates with various brokerage accounts for live trading.
+[QuantConnect](../q/quantconnect.md) is a platform for [quantitative trading](../q/quantitative_trading.md) and research. It supports C#. The platform also offers a vast amount of historical data and integrates with various brokerage accounts for live trading.
 
-- [QuantConnect](../q/quantconnect.md) [Website](https://www.quantconnect.com/)
+- [QuantConnect](../q/quantconnect.md)
 
 ### Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) (IB) is a well-known brokerage that offers its own [trading platform](../t/trading_platform.md) called [Trader](../t/trader.md) Workstation (TWS). TWS supports [algorithmic trading](../a/algorithmic_trading.md) through its API, which can be used with various programming languages like Java, Python, and C++.
 
-- [Interactive Brokers](../i/interactive_brokers.md) [Website](https://www.interactivebrokers.com/)
+- [Interactive Brokers](../i/interactive_brokers.md)
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) offers a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), with a focus on customization and advanced analytics. It features EasyLanguage, a proprietary scripting language designed to simplify the development of [trading strategies](../t/trading_strategies.md).
 
-- [TradeStation](../t/tradestation.md) [Website](https://www.tradestation.com/)
+- [TradeStation](../t/tradestation.md)
 
 ### Alpaca
 [Alpaca](../a/alpaca.md) is an API-first stock and crypto brokerage platform. It is known for providing [commission](../c/commission.md)-free trading and [offering](../o/offering.md) [robust](../r/robust.md) API support for automated trading. It supports [multiple](../m/multiple.md) programming languages including Python and JavaScript.
 
-- [Alpaca](../a/alpaca.md) [Website](https://alpaca.markets/)
+- [Alpaca](../a/alpaca.md)
 
 ### IBKR API
 [Interactive Brokers](../i/interactive_brokers.md) offers a powerful API that allows traders to build custom trading applications. The API supports [multiple](../m/multiple.md) languages such as Java, Python, C++, and more. It provides functionalities for [market](../m/market.md) data retrieval, [order](../o/order.md) [execution](../e/execution.md), and account management.
 
-- [Interactive Brokers](../i/interactive_brokers.md) API [Website](https://www.interactivebrokers.com/en/software/api/api.htm)
+- [Interactive Brokers](../i/interactive_brokers.md)
 
-### TDAmeritrade ThinkOrSwim
-[ThinkOrSwim](../t/thinkorswim.md) is the [trading platform](../t/trading_platform.md) offered by TDAmeritrade. Known for its rich feature set, it supports scripting through its proprietary ThinkScript language, enabling the development of complex [trading strategies](../t/trading_strategies.md). It also offers [robust](../r/robust.md) analysis tools and detailed data feeds.
+### Charles Schwab thinkorswim
+[ThinkOrSwim](../t/thinkorswim.md) is the [trading platform](../t/trading_platform.md) offered by [Charles Schwab](../c/charles_schwab.md) (following the acquisition of TD Ameritrade in September 2023). Known for its rich feature set, it supports scripting through its proprietary ThinkScript language, enabling the development of complex [trading strategies](../t/trading_strategies.md). It also offers [robust](../r/robust.md) analysis tools and detailed data feeds.
 
-- [ThinkOrSwim](../t/thinkorswim.md) [Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- [ThinkOrSwim](../t/thinkorswim.md)
 
 ## Conclusion
 [Algorithmic trading](../a/algorithmic_trading.md) platforms play a critical role in modern [financial markets](../f/financial_market.md) by providing the tools necessary for automated trading. These platforms combine advanced technologies, rich data access, and efficient [execution](../e/execution.md) capabilities to help traders implement and manage their strategies effectively. With a wide array of [options](../o/options.md) available, traders can choose a platform that best fits their needs and trading styles.
-

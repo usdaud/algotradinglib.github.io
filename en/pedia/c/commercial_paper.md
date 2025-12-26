@@ -1,6 +1,6 @@
 # Commercial Paper
 
-Commercial paper (CP) is a [money](../m/money.md)-[market](../m/market.md) [security](../s/security.md) issued by large corporations to obtain funds to meet [short-term debt](../s/short-term_debt.md) [obligations](../o/obligation.md) and typically has maturities ranging from a few days to one year. It is a key item in the world of [finance](../f/finance.md) and [commerce](../c/commerce.md), serving as a crucial mechanism for companies to manage their [liquidity](../l/liquidity.md) efficiently. Herein, we delve deeply into various aspects of commercial paper, looking at its origins, characteristics, types, issuance processes, and relevance in modern [finance](../f/finance.md). 
+Commercial paper (CP) is a [money](../m/money.md)-[market](../m/market.md) [security](../s/security.md) issued by large corporations to obtain funds to meet [short-term debt](../s/short-term_debt.md) [obligations](../o/obligation.md) and typically has maturities ranging from a few days to one year. It is a key item in the world of [finance](../f/finance.md) and [commerce](../c/commerce.md), serving as a crucial mechanism for companies to manage their [liquidity](../l/liquidity.md) efficiently. Herein, we delve deeply into various aspects of commercial paper, looking at its origins, characteristics, types, issuance processes, and relevance in modern [finance](../f/finance.md).
 
 ## Understanding Commercial Paper
 
@@ -19,7 +19,7 @@ Commercial paper is an unsecured [promissory note](../p/promissory_note.md) that
 
 There are two main types of commercial paper:
 
-1. **Direct Paper**: Issued by the [firm](../f/firm.md) directly to investors without using an intermediary. 
+1. **Direct Paper**: Issued by the [firm](../f/firm.md) directly to investors without using an intermediary.
 2. **[Dealer](../d/dealer.md) Paper**: Issued with the help of a [dealer](../d/dealer.md) or an intermediary who sells the CP to investors. Dealers typically charge a [fee](../f/fee.md) for this service.
 
 ## Issuance Process
@@ -44,7 +44,7 @@ The next step involves preparing the necessary documentation, including the [off
 
 ### Step 5: Issuance and Sale
 
-Upon approval of the documentation and finalization of terms, the CP is issued. If it's [dealer](../d/dealer.md) paper, the dealers sell the CP to investors. In the case of direct paper, the company sells it directly to investors. 
+Upon approval of the documentation and finalization of terms, the CP is issued. If it's [dealer](../d/dealer.md) paper, the dealers sell the CP to investors. In the case of direct paper, the company sells it directly to investors.
 
 ### Step 6: Recording and Reporting
 
@@ -54,11 +54,11 @@ Finally, the issuance and [sale](../s/sale.md) of the CP are recorded in the com
 
 Several companies are prominent players in the commercial paper [market](../m/market.md), both as issuers and dealers. Here are some notable examples:
 
-1. **JPMorgan Chase & Co.**: A major player in the financial world, JPMorgan plays an active role in issuing and dealing in commercial paper. You can visit their site [here](https://www.jpmorganchase.com/).
-2. **Goldman Sachs**: Known for their extensive financial services, Goldman Sachs is a significant [dealer](../d/dealer.md) in the commercial paper [market](../m/market.md). More information can be found [here](https://www.goldmansachs.com/).
-3. **Citigroup Inc.**: Citigroup offers a wide array of commercial paper services, including issuance and dealing. Their official page is [here](https://www.citigroup.com/).
-4. **PepsiCo**: As a typical [issuer](../i/issuer.md), PepsiCo leverages commercial paper to meet its short-term [financing](../f/financing.md) needs. For more details, you can [check](../c/check.md) [here](https://www.pepsico.com/).
-5. **General Electric (GE)**: Another prominent [issuer](../i/issuer.md) of CP, GE often uses it to manage their short-term [liquidity](../l/liquidity.md) needs. Visit GE’s site [here](https://www.ge.com/).
+1. **JPMorgan Chase & Co.**: A major player in the financial world, JPMorgan plays an active role in issuing and dealing in commercial paper.
+2. **Goldman Sachs**: Known for their extensive financial services, Goldman Sachs is a significant [dealer](../d/dealer.md) in the commercial paper [market](../m/market.md). More information can be found here.
+3. **Citigroup Inc.**: Citigroup offers a wide array of commercial paper services, including issuance and dealing.
+4. **PepsiCo**: As a typical [issuer](../i/issuer.md), PepsiCo leverages commercial paper to meet its short-term [financing](../f/financing.md) needs. For more details, you can [check](../c/check.md) here.
+5. **General Electric (GE)**: Another prominent [issuer](../i/issuer.md) of CP, GE often uses it to manage their short-term [liquidity](../l/liquidity.md) needs.
 
 ## Importance of Commercial Paper
 

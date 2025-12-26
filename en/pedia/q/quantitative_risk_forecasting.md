@@ -64,19 +64,19 @@ Corporates use [risk](../r/risk.md) [forecasting](../f/forecasting.md) to manage
 ## Key Players
 
 ### 1. MSCI Inc.
-MSCI [MSCI](https://www.msci.com/) provides [risk management](../r/risk_management.md) services and essential data through its [market](../m/market.md)-leading [risk models](../r/risk_models_in_trading.md) and portfolio analytics tools.
+MSCI MSCI provides [risk management](../r/risk_management.md) services and essential data through its [market](../m/market.md)-leading [risk models](../r/risk_models_in_trading.md) and portfolio analytics tools.
 
 ### 2. Moody’s Analytics
-Moody’s [Moody's Analytics](https://www.moodysanalytics.com/) offers comprehensive [risk management](../r/risk_management.md) software, services, and research to evaluate [credit](../c/credit.md) and [market risk](../m/market_risk.md).
+Moody’s Moody's Analytics offers comprehensive [risk management](../r/risk_management.md) software, services, and research to evaluate [credit](../c/credit.md) and [market risk](../m/market_risk.md).
 
 ### 3. SAS
-SAS [SAS](https://www.sas.com/) delivers advanced analytics solutions for [risk management](../r/risk_management.md), including [stress testing](../s/stress_testing_in_trading.md), [credit](../c/credit.md) scoring, and [market risk analysis](../m/market_risk_analysis.md).
+SAS SAS delivers advanced analytics solutions for [risk management](../r/risk_management.md), including [stress testing](../s/stress_testing_in_trading.md), [credit](../c/credit.md) scoring, and [market risk analysis](../m/market_risk_analysis.md).
 
 ### 4. BlackRock
-BlackRock's [BlackRock](https://www.blackrock.com/) Aladdin platform is a renowned [risk management](../r/risk_management.md), [portfolio management](../p/portfolio_management.md), and trading solution used globally by investment professionals.
+BlackRock's BlackRock Aladdin platform is a renowned [risk management](../r/risk_management.md), [portfolio management](../p/portfolio_management.md), and trading solution used globally by investment professionals.
 
 ### 5. Fitch Solutions
-Fitch Solutions [Fitch Solutions](https://www.fitchsolutions.com/) provides [credit risk](../c/credit_risk.md) and macroeconomic [risk analysis](../r/risk_analysis.md) and tools, enabling better-[risk](../r/risk.md) [forecasting](../f/forecasting.md) and management.
+Fitch Solutions Fitch Solutions provides [credit risk](../c/credit_risk.md) and macroeconomic [risk analysis](../r/risk_analysis.md) and tools, enabling better-[risk](../r/risk.md) [forecasting](../f/forecasting.md) and management.
 
 ## Conclusion
 

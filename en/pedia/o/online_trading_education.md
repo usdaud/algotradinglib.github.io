@@ -11,7 +11,7 @@ Online trading education encompasses various methods and materials designed to t
 #### Trading Theories and Strategies
 Understanding the theories that underpin [trading strategies](../t/trading_strategies.md) is crucial for any [trader](../t/trader.md). These theories include [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), and [quantitative analysis](../q/quantitative_analysis.md).
 
-- **[Technical Analysis](../t/technical_analysis.md)**: This involves analyzing statistical trends gathered from trading activity, such as price movement and [volume](../v/volume.md). It uses charts and other tools to identify patterns that might indicate future activity. 
+- **[Technical Analysis](../t/technical_analysis.md)**: This involves analyzing statistical trends gathered from trading activity, such as price movement and [volume](../v/volume.md). It uses charts and other tools to identify patterns that might indicate future activity.
 - **[Fundamental Analysis](../f/fundamental_analysis.md)**: This involves evaluating a [security](../s/security.md)'s [intrinsic value](../i/intrinsic_value.md) by examining related economic, financial, and other qualitative and quantitative factors.
 - **[Quantitative Analysis](../q/quantitative_analysis.md)**: This employs mathematical and statistical modeling, measurement, and research to understand behavior and predict future movements.
 
@@ -30,23 +30,18 @@ Understanding the tools and platforms used in trading can significantly affect a
 #### Investopedia
 Investopedia offers a comprehensive [range](../r/range.md) of educational materials, from articles and videos to advanced courses on various financial topics. They provide resources suitable for beginners to advanced traders.
 
-[Investopedia](https://www.investopedia.com)
 
 #### BabyPips
 Focused primarily on Forex trading, BabyPips offers an extensive educational resource known as the "School of Pipsology." It covers everything from the basics of Forex trading to advanced strategies and [risk management](../r/risk_management.md).
 
-[BabyPips](https://www.babypips.com)
 
 #### Coursera and Udemy
 Both platforms [offer](../o/offer.md) courses on trading and [finance](../f/finance.md) from various educators and institutions. Topics [range](../r/range.md) from stock trading basics to advanced [algorithmic trading](../a/algorithmic_trading.md) techniques.
 
-[Coursera](https://www.coursera.org)
-[Udemy](https://www.udemy.com)
 
 #### Online Trading Academy (OTA)
 OTA provides structured courses that cover various aspects of trading, including [stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), and Forex. They [offer](../o/offer.md) both online and on-location classes taught by experienced professionals.
 
-[Online Trading Academy](https://www.tradingacademy.com)
 
 ### Benefits of Online Trading Education
 

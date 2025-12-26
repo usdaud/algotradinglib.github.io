@@ -7,7 +7,7 @@ Micro cap refers to companies with relatively small [market](../m/market.md) cap
 ### Market Capitalization
 [Market capitalization](../m/market_capitalization.md), commonly referred to as [market](../m/market.md) cap, is the total [value](../v/value.md) of a company's outstanding [shares](../s/shares.md) of stock. It is calculated by multiplying the current stock price by the total number of outstanding [shares](../s/shares.md). Micro cap companies have [market](../m/market.md) capitalizations between $50 million and $300 million. These companies are relatively small compared to mid cap and large cap companies, which generally have [market](../m/market.md) caps exceeding $2 billion and $10 billion, respectively.
 
-### Volatility 
+### Volatility
 Micro cap [stocks](../s/stock.md) often exhibit higher [volatility](../v/volatility.md) than larger [stocks](../s/stock.md). [Volatility](../v/volatility.md) refers to the degree of variation in the stock price over a given period of time. Because micro cap [stocks](../s/stock.md) have lower trading volumes and less institutional ownership, their prices can fluctuate widely in response to [market](../m/market.md) news and [investor](../i/investor.md) sentiment.
 
 ### Lack of Analyst Coverage
@@ -47,19 +47,19 @@ Micro cap companies span various industries, including technology, healthcare, [
 
 ### Technology
 - **PennyMac Technology Solutions (PTS)**
-  **Website:** [PennyMac](https://www.pennymac.com)
+ **online platform:** PennyMac
 
 ### Healthcare
 - **Aytu BioScience, Inc. (AYTU)**
-  **Website:** [Aytu BioScience](https://aytubio.com)
+ **online platform:** Aytu BioScience
 
 ### Consumer Goods
 - **Revlon, Inc. (REV)**
-  **Website:** [Revlon](https://www.revlon.com)
+ **online platform:** Revlon
 
 ### Financial Services
 - **LendingClub [Corporation](../c/corporation.md) (LC)**
-  **Website:** [LendingClub](https://www.lendingclub.com)
+ **online platform:** LendingClub
 
 ## Regulatory Considerations
 

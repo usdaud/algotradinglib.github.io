@@ -12,7 +12,7 @@ At its core, [Tier 1 Capital](../t/tier_1_capital.md) consists primarily of comm
 
 The numerator in this formula, [Tier 1 Capital](../t/tier_1_capital.md), primarily includes:
 
-1. **Common [Equity](../e/equity.md) Tier 1 (CET1)**: This is the core [capital](../c/capital.md) that includes common [shares](../s/shares.md), [retained earnings](../r/retained_earnings.md), and other forms of [comprehensive income](../c/comprehensive_income.md). 
+1. **Common [Equity](../e/equity.md) Tier 1 (CET1)**: This is the core [capital](../c/capital.md) that includes common [shares](../s/shares.md), [retained earnings](../r/retained_earnings.md), and other forms of [comprehensive income](../c/comprehensive_income.md).
 2. **Additional [Tier 1 Capital](../t/tier_1_capital.md) (AT1)**: Instruments that may convert to [equity](../e/equity.md) or absorb losses in the event of a [financial crisis](../f/financial_crisis.md), such as non-cumulative [preferred stock](../p/preferred_stock.md).
 
 The denominator, Total [Risk-Weighted Assets](../r/risk-weighted_assets.md) (RWA), represents the assets held by the [bank](../b/bank.md), [weighted](../w/weighted.md) according to their [risk](../r/risk.md). Different types of assets have different [risk](../r/risk.md) weightings assigned by regulatory bodies.
@@ -26,7 +26,7 @@ The [Basel III](../b/basel_iii.md) framework, developed by the Basel Committee o
 Under [Basel III](../b/basel_iii.md), banks are required to [hold](../h/hold.md) a minimum [Tier 1 Capital](../t/tier_1_capital.md) Ratio of 6%. Additionally, within this ratio, banks must [hold](../h/hold.md) a minimum of 4.5% of Common [Equity](../e/equity.md) Tier 1 (CET1). There are also additional buffers, such as the [capital](../c/capital.md) conservation buffer and the countercyclical buffer, which can add to these minimum requirements.
 
 1. **Minimum CET1 Ratio**: 4.5%
-2. **Minimum [Tier 1 Capital](../t/tier_1_capital.md) Ratio**: 6% 
+2. **Minimum [Tier 1 Capital](../t/tier_1_capital.md) Ratio**: 6%
 3. **[Capital](../c/capital.md) Conservation Buffer**: 2.5% of RWAs, which is meant to ensure banks can maintain [capital](../c/capital.md) levels above the minimum in times of stress.
 4. **Countercyclical Buffer**: Up to 2.5% of RWAs, which can be imposed by national regulators during periods of high [credit](../c/credit.md) growth.
 
@@ -69,11 +69,11 @@ In the [European Union](../e/european_union_(eu).md), the [Basel III](../b/basel
 
 ### JP Morgan Chase
 
-One of the largest banks in the United States, JP Morgan Chase, often reports its [Tier 1 Capital](../t/tier_1_capital.md) Ratio in its quarterly and annual [financial statements](../f/financial_statements.md). As of 2022, JP Morgan Chase had a [Tier 1 Capital](../t/tier_1_capital.md) Ratio of approximately 16%, well above the [Basel III](../b/basel_iii.md) requirement. More details can be found on their [official site](https://www.jpmorganchase.com).
+One of the largest banks in the United States, JP Morgan Chase, often reports its [Tier 1 Capital](../t/tier_1_capital.md) Ratio in its quarterly and annual [financial statements](../f/financial_statements.md). As of 2022, JP Morgan Chase had a [Tier 1 Capital](../t/tier_1_capital.md) Ratio of approximately 16%, well above the [Basel III](../b/basel_iii.md) requirement.
 
 ### Deutsche Bank
 
-Deutsche [Bank](../b/bank.md), a major global financial institution based in Germany, has also focused on maintaining a strong [Tier 1 Capital](../t/tier_1_capital.md) Ratio. In its 2021 financial reports, Deutsche [Bank](../b/bank.md) reported a CET1 ratio of 13.2%, reflecting its commitment to financial stability and regulatory compliance. Further information is available on their [official site](https://www.db.com).
+Deutsche [Bank](../b/bank.md), a major global financial institution based in Germany, has also focused on maintaining a strong [Tier 1 Capital](../t/tier_1_capital.md) Ratio. In its 2021 financial reports, Deutsche [Bank](../b/bank.md) reported a CET1 ratio of 13.2%, reflecting its commitment to financial stability and regulatory compliance. Further information is available on their public materials.
 
 ## Conclusion
 

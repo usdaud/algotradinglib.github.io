@@ -26,8 +26,8 @@ In [hedge](../h/hedge.md) funds, the High-Water Mark is often coupled with a [hu
 1. **Set [Hurdle Rate](../h/hurdle_rate_in_trading.md)**: Assume the [hurdle rate](../h/hurdle_rate_in_trading.md) is 5% annually.
 2. **Calculate [Fund](../f/fund.md) NAV**: If the [fund](../f/fund.md)'s NAV is $100 million, a 5% [hurdle rate](../h/hurdle_rate_in_trading.md) makes the target NAV $105 million for the next year.
 3. **NAV Movements**: If the NAV reaches $108 million by year-end:
-    - **Surpass HWM and [Hurdle Rate](../h/hurdle_rate_in_trading.md)**: The [fund](../f/fund.md) has surpassed both the HWM and the [hurdle rate](../h/hurdle_rate_in_trading.md).
-    - **Performance [Fee](../f/fee.md) Eligibility**: The manager earns performance fees on the $3 million excess above the $105 million [hurdle rate](../h/hurdle_rate_in_trading.md).
+ - **Surpass HWM and [Hurdle Rate](../h/hurdle_rate_in_trading.md)**: The [fund](../f/fund.md) has surpassed both the HWM and the [hurdle rate](../h/hurdle_rate_in_trading.md).
+ - **Performance [Fee](../f/fee.md) Eligibility**: The manager earns performance fees on the $3 million excess above the $105 million [hurdle rate](../h/hurdle_rate_in_trading.md).
 4. **Revised HWM**: The new HWM is set at $108 million.
 
 ### Advantages and Disadvantages of High-Water Marks
@@ -46,10 +46,10 @@ In [hedge](../h/hedge.md) funds, the High-Water Mark is often coupled with a [hu
 One practical example is the [hedge fund](../h/hedge_fund.md) Renaissance Technologies. Renaissance Technologies, known for its Medallion [Fund](../f/fund.md), utilizes a HWM structure to maintain performance-driven incentives.
 
 - **Renaissance Technologies High-Water Mark**:
-    - **Medallion [Fund](../f/fund.md)**: Applies HWM alongside significant performance fees (often cited around 44%).
-    - **[Investor](../i/investor.md) Protection**: Ensures that investors are only paying for net performance over the historical peak.
+ - **Medallion [Fund](../f/fund.md)**: Applies HWM alongside significant performance fees (often cited around 44%).
+ - **[Investor](../i/investor.md) Protection**: Ensures that investors are only paying for net performance over the historical peak.
 
-For more information, please visit [Renaissance Technologies](https://www.rentec.com).
+For more information, please visit Renaissance Technologies.
 
 ### Conclusion
 

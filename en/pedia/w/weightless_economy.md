@@ -77,32 +77,32 @@ While the weightless [economy](../e/economy.md) brings numerous opportunities, i
 ### Opportunities
 
 - **[Economic Growth](../e/economic_growth.md):** The [scalability](../s/scalability.md) and innovation potential of the weightless [economy](../e/economy.md) can drive significant [economic growth](../e/economic_growth.md).
-  
+
 - **Inclusiveness:** Digital platforms can provide opportunities for underserved and remote communities to participate in the global [economy](../e/economy.md).
-  
+
 - **Sustainability:** A reduced reliance on physical goods can lead to a smaller environmental footprint, assuming energy consumption for digital [infrastructure](../i/infrastructure.md) is managed sustainably.
 
 ### Challenges
 
 - **Digital Divide:** Unequal access to ICT can widen the gap between rich and poor, both within and between countries.
-  
+
 - **Regulation:** The rapid pace of innovation can outstrip regulatory frameworks, leading to challenges in areas such as data privacy, cybersecurity, and competition law.
-  
+
 - **Job Displacement:** The transition to a weightless [economy](../e/economy.md) can lead to job displacement in traditional industries, necessitating comprehensive retraining programs.
 
 ## Case Studies
 
 ### Google
 
-Google epitomizes the weightless [economy](../e/economy.md). As a leader in search engines, cloud services, online advertising, and various other digital services, Google operates on a [business](../b/business.md) model that thrives on data and information. The [scalability](../s/scalability.md) of its platforms and the network effects engendered by its extensive user base illustrate the power of the weightless [economy](../e/economy.md). More about the company can be found on their [official website](https://about.google/).
+Google epitomizes the weightless [economy](../e/economy.md). As a leader in search engines, cloud services, online advertising, and various other digital services, Google operates on a [business](../b/business.md) model that thrives on data and information. The [scalability](../s/scalability.md) of its platforms and the network effects engendered by its extensive user base illustrate the power of the weightless [economy](../e/economy.md).
 
 ### Amazon Web Services (AWS)
 
-AWS is a subsidiary of Amazon and a prominent player in [cloud computing](../c/cloud_computing_in_trading.md). It provides scalable computing power, storage, and various other services to organizations worldwide. AWS exemplifies the digital service [economy](../e/economy.md), [offering](../o/offering.md) flexible and on-[demand](../d/demand.md) computing resources. For further information, visit their [website](https://aws.amazon.com/).
+AWS is a subsidiary of Amazon and a prominent player in [cloud computing](../c/cloud_computing_in_trading.md). It provides scalable computing power, storage, and various other services to organizations worldwide. AWS exemplifies the digital service [economy](../e/economy.md), [offering](../o/offering.md) flexible and on-[demand](../d/demand.md) computing resources.
 
 ### Netflix
 
-Netflix is a prime example of the digital service model in the entertainment [industry](../i/industry.md). It transitioned from a DVD rental service to a streaming giant, leveraging digital technology to deliver content to a global audience. Netflix's [business](../b/business.md) model showcases the [scalability](../s/scalability.md) and global reach of the weightless [economy](../e/economy.md). More about Netflix can be accessed [here](https://www.netflix.com/).
+Netflix is a prime example of the digital service model in the entertainment [industry](../i/industry.md). It transitioned from a DVD rental service to a streaming giant, leveraging digital technology to deliver content to a global audience. Netflix's [business](../b/business.md) model showcases the [scalability](../s/scalability.md) and global reach of the weightless [economy](../e/economy.md). More about Netflix can be accessed here.
 
 ## Future Prospects
 

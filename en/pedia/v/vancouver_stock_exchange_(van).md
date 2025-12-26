@@ -12,7 +12,7 @@ The VSE was established in Vancouver, British Columbia, which has long been a hu
 
 ### Trading Mechanisms
 
-The VSE operated both a physical trading floor and later transitioned to electronic trading platforms. Trading was conducted through a double auction system where buyers and sellers directly negotiated prices. 
+The VSE operated both a physical trading floor and later transitioned to electronic trading platforms. Trading was conducted through a double auction system where buyers and sellers directly negotiated prices.
 
 #### Floor Trading
 
@@ -62,5 +62,4 @@ Today, the TSXV continues the legacy of the VSE by providing a marketplace for e
 
 The journey of the Vancouver Stock [Exchange](../e/exchange.md), from its inception in 1907 to its integration into the TSX Venture [Exchange](../e/exchange.md), reflects the evolution of a marketplace tailored to high-[risk](../r/risk.md), high-reward investments. While it faced significant regulatory and reputational challenges, its role in [financing](../f/financing.md) pioneering ventures, especially in the natural resources sector, is undeniable. The [consolidation](../c/consolidation.md) into the TSXV has provided a more regulated and transparent environment for similar companies, ensuring ongoing support for entrepreneurial endeavors in Canada.
 
-For more detailed information, you can visit the official TSX Venture [Exchange](../e/exchange.md) website: [TSX Venture Exchange](https://www.tmx.com)
-
+For more detailed information, you can visit the official TSX Venture [Exchange](../e/exchange.md) online platform: TSX Venture Exchange

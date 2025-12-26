@@ -13,7 +13,7 @@ One of Kraken's most significant selling points is its commitment to [security](
 - **Cold Storage**: The majority of users’ funds are stored offline in cold storage environments, making them inaccessible to hackers.
 - **Two-[Factor](../f/factor.md) Authentication (2FA)**: Users are encouraged to enable 2FA to add an extra layer of [security](../s/security.md) to their accounts.
 - **PGP/GPG Email Encryption**: Kraken provides email encryption to protect sensitive communications between the platform and its users.
-- **SSL Encryption**: The entire Kraken website is encrypted using Secure Socket Layer (SSL) technology to protect users' data as it is transmitted over the internet.
+- **SSL Encryption**.
 
 ### Supported Assets
 
@@ -51,7 +51,7 @@ Kraken's [fee](../f/fee.md) structure is tiered based on the user's [30-day trad
 
 Kraken has developed [multiple](../m/multiple.md) interfaces to cater to different user needs:
 
-- **Kraken Web Platform**: The main website offers a [robust](../r/robust.md) and intuitive trading experience with various tools and charts.
+- **Kraken Web Platform**../r/robust.md) and intuitive trading experience with various tools and charts.
 - **Kraken Pro**: This is a more advanced [trading platform](../t/trading_platform.md) designed for professional traders, [offering](../o/offering.md) detailed charts, [order book](../o/order_book.md) data, and advanced [order types](../o/order_types_in_trading.md).
 - **Mobile Apps**: Kraken provides both a standard app and a Pro version for mobile users, ensuring that traders can manage their portfolios on the go.
 
@@ -65,7 +65,7 @@ Kraken is fully compliant with numerous regulatory requirements in various juris
 
 ### API for Algorithmic Trading
 
-For users interested in [algorithmic trading](../a/accountability.md), Kraken offers a comprehensive API suite. This includes both REST and WebSocket APIs, providing access to real-time and historical [market](../m/market.md) data, trading functionalities, and account management.
+For users interested in [algorithmic trading](../a/algorithmic_trading.md), Kraken offers a comprehensive API suite. This includes both REST and WebSocket APIs, providing access to real-time and historical [market](../m/market.md) data, trading functionalities, and account management.
 
 - **REST API**: Suitable for accessing historical data, placing trades, and managing accounts.
 - **WebSocket API**: Provides [real-time market data](../r/real-time_market_data.md), including [order book](../o/order_book.md) updates, [trade](../t/trade.md) executions, and ticker information.
@@ -101,4 +101,3 @@ Kraken continues to innovate and expand its offerings. Some of its planned initi
 
 Kraken has positioned itself as a trustworthy and comprehensive cryptocurrency [exchange](../e/exchange.md), [offering](../o/offering.md) a wide array of services to meet the needs of different traders. Its focus on [security](../s/security.md), regulatory compliance, and [customer](../c/customer.md) satisfaction has earned it a reputable status in the [industry](../i/industry.md).
 
-For more information, you can visit [Kraken's official website](https://www.kraken.com/).

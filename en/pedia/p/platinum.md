@@ -23,7 +23,7 @@ Platinum was used by ancient Egyptian civilizations for small artifacts and was 
 
 ## Market Dynamics
 
-The platinum [market](../m/market.md) is highly dynamic and influenced by several factors including [mining](../m/mining.md) [efficiency](../e/efficiency.md), industrial [demand](../d/demand.md), and geopolitical stability. 
+The platinum [market](../m/market.md) is highly dynamic and influenced by several factors including [mining](../m/mining.md) [efficiency](../e/efficiency.md), industrial [demand](../d/demand.md), and geopolitical stability.
 
 ### Mining
 
@@ -32,7 +32,7 @@ Primary production of platinum occurs in a handful of countries, with South Afri
 ### Industrial Demand
 
 1. **Automotive [Industry](../i/industry.md):** One of the largest consumers of platinum, the automotive [industry](../i/industry.md) uses it predominantly in catalytic converters to reduce harmful emissions. The shift towards electric vehicles may impact future [demand](../d/demand.md).
-   
+
 2. **Jewelry:** Platinum's lustrous appearance and hypoallergenic properties make it a popular choice for high-end jewelry.
 
 3. **Electronics:** It's used in various electronic components due to its conductive properties.
@@ -60,9 +60,9 @@ Investors can purchase physical platinum in the form of bars, coins, or jewelry.
 
 [Investing](../i/investing.md) in companies involved in platinum [mining](../m/mining.md) and production provides indirect exposure to platinum prices. Some notable companies include:
 
-- **Anglo American Platinum** ([Website](https://www.angloamericanplatinum.com/))
-- **Impala Platinum** ([Website](https://www.implats.co.za/))
-- **Sibanye Stillwater** ([Website](https://www.sibanyestillwater.com/))
+- **Anglo American Platinum**
+- **Impala Platinum**
+- **Sibanye Stillwater**
 
 ### Futures and Options
 
@@ -72,7 +72,7 @@ Platinum [futures](../f/futures.md) and [options](../o/options.md) traded on com
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has brought a new dimension to platinum trading, leveraging [quantitative models](../q/quantitative_models.md) to make rapid buy or sell decisions. Advanced algorithms analyze various data points including [market](../m/market.md) trends, news, and [economic indicators](../e/economic_indicators.md) to make trades.
+[Algorithmic trading](../a/algorithmic_trading.md) has brought a new dimension to platinum trading, leveraging [quantitative models](../q/quantitative_models.md) to make rapid buy or sell decisions. Advanced algorithms analyze various data points including [market](../m/market.md) trends, news, and [economic indicators](../e/economic_indicators.md) to make trades.
 
 - **High-Frequency Trading (HFT):** Specialized in executing a large number of orders at very fast speeds. Highly sophisticated algorithms and high-speed data processing are used to take advantage of price discrepancies.
 - **[Market Making Algorithms](../m/market_making_algorithms.md):** Provide [liquidity](../l/liquidity.md) by [offering](../o/offering.md) both buy and sell prices. These algorithms play a crucial role in narrowing [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and improving [market efficiency](../m/market_efficiency.md).

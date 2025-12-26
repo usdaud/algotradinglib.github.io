@@ -52,7 +52,7 @@ LTCM's collapse in 1998 is a pertinent example of the perils of ignoring [kurtos
 
 #### Application: Portfolio Optimization Tools
 
-Companies like **RiskMetrics Group** [Link](https://www.msci.com/riskmetrics) and **[Bloomberg](../b/bloomberg.md)** [Link](https://www.bloomberg.com/professional/product/risk-modeling/) [offer](../o/offer.md) advanced [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) tools that consider higher-[order](../o/order.md) moments, including [skewness and kurtosis](../s/skewness_and_kurtosis.md), for a more holistic [risk](../r/risk.md) assessment.
+Companies like **RiskMetrics Group** Link and **[Bloomberg](../b/bloomberg.md)** Link [offer](../o/offer.md) advanced [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) tools that consider higher-[order](../o/order.md) moments, including [skewness and kurtosis](../s/skewness_and_kurtosis.md), for a more holistic [risk](../r/risk.md) assessment.
 
 ### Real-World Implications
 
@@ -63,4 +63,3 @@ Companies like **RiskMetrics Group** [Link](https://www.msci.com/riskmetrics) an
 ### Conclusion
 
 The integration of [kurtosis](../k/kurtosis.md) into portfolio theory and [risk management](../r/risk_management.md) represents a significant enhancement over traditional models. By addressing the limitations of [mean-variance optimization](../m/mean-variance_optimization.md), investors and [risk](../r/risk.md) managers can better prepare and mitigate the effects of extreme [market](../m/market.md) events. In an era of increased [market](../m/market.md) [volatility](../v/volatility.md) and financial complexity, the importance of considering higher-[order](../o/order.md) moments like [kurtosis](../k/kurtosis.md) cannot be overstated, [offering](../o/offering.md) a more realistic and reliable approach to managing [financial risk](../f/financial_risk.md).
-

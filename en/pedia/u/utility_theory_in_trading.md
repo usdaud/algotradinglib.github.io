@@ -100,9 +100,9 @@ Consider an [algorithmic trading](../a/algorithmic_trading.md) strategy that inc
 
 ### 7. Case Study: Real-world Application
 
-Several financial institutions and investment firms implement [utility](../u/utility.md) theory in their trading and [risk management](../r/risk_management.md) frameworks. One notable example is [BlackRock](https://www.blackrock.com/), a global [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses advanced [quantitative models](../q/quantitative_models.md) incorporating [utility functions](../u/utility_functions_in_trading.md) to tailor investment solutions to client-specific [risk profiles](../r/risk_profiles.md) and objectives.
+Several financial institutions and investment firms implement [utility](../u/utility.md) theory in their trading and [risk management](../r/risk_management.md) frameworks. One notable example is BlackRock, a global [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses advanced [quantitative models](../q/quantitative_models.md) incorporating [utility functions](../u/utility_functions_in_trading.md) to tailor investment solutions to client-specific [risk profiles](../r/risk_profiles.md) and objectives.
 
-Another example is [Goldman Sachs](https://www.goldmansachs.com/), which employs [utility](../u/utility.md)-based approaches in structuring complex [derivatives](../d/derivatives.md) and managing [proprietary trading](../p/proprietary_trading.md) strategies, ensuring alignment with the [firm](../f/firm.md)’s [risk](../r/risk.md) appetite and [return](../r/return.md) targets.
+Another example is Goldman Sachs, which employs [utility](../u/utility.md)-based approaches in structuring complex [derivatives](../d/derivatives.md) and managing [proprietary trading](../p/proprietary_trading.md) strategies, ensuring alignment with the [firm](../f/firm.md)’s [risk](../r/risk.md) appetite and [return](../r/return.md) targets.
 
 ### 8. Conclusion
 

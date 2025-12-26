@@ -15,29 +15,29 @@ Weekly [volatility analysis](../v/volatility_analysis.md) is a fundamental aspec
 
 1. **[Standard Deviation](../s/standard_deviation.md)**: A statistical measure that quantifies the average [dispersion](../d/dispersion.md) of [asset](../a/asset.md) returns around their mean. It is calculated as follows:
 
-   \[
-   \sigma = \sqrt{\frac{\sum_{i=1}^{N}(R_i - \mu)^2}{N}}
-   \]
+ \[
+ \sigma = \sqrt{\frac{\sum_{i=1}^{N}(R_i - \mu)^2}{N}}
+ \]
 
-   where \( R_i \) are the returns, \( \mu \) is the mean [return](../r/return.md), and \( N \) is the number of returns.
+ where \( R_i \) are the returns, \( \mu \) is the mean [return](../r/return.md), and \( N \) is the number of returns.
 
 2. **[Historical Volatility](../h/historical_volatility.md) (HV)**: Calculated using past price data, [historical volatility](../h/historical_volatility.md) assesses the [dispersion](../d/dispersion.md) of historical prices. It is computed as:
 
-   \[
-   HV = \sqrt{\frac{\sum_{i=1}^{N}(log(P_i / P_{i-1}))^2}{N-1}}
-   \]
+ \[
+ HV = \sqrt{\frac{\sum_{i=1}^{N}(log(P_i / P_{i-1}))^2}{N-1}}
+ \]
 
-   where \( P_i \) represents the price at time \( i \).
+ where \( P_i \) represents the price at time \( i \).
 
 3. **Implied [Volatility](../v/volatility.md) (IV)**: Extracted from option prices, implied [volatility](../v/volatility.md) represents the [market](../m/market.md)'s expectation of future price [volatility](../v/volatility.md).
 
 4. **[Average True Range](../a/average_true_range_(atr).md) (ATR)**: A [technical analysis](../t/technical_analysis.md) [indicator](../i/indicator.md) that measures [market](../m/market.md) [volatility](../v/volatility.md) by decomposing the entire [range](../r/range.md) of an [asset](../a/asset.md) price for a specific period. It is expressed as follows:
 
-   \[
-   ATR = \frac{1}{n} \sum_{t=1}^{n} TR_t
-   \]
+ \[
+ ATR = \frac{1}{n} \sum_{t=1}^{n} TR_t
+ \]
 
-   where \( TR_t \) is the true [range](../r/range.md) for period \( t \).
+ where \( TR_t \) is the true [range](../r/range.md) for period \( t \).
 
 ## Weekly Volatility Calculation
 
@@ -46,11 +46,11 @@ To conduct a weekly [volatility analysis](../v/volatility_analysis.md):
 1. **Collect Data**: Gather historical price data, such as closing prices, for the [asset](../a/asset.md) over the desired time frame (e.g., one year).
 2. **Calculate Returns**: Compute daily returns as:
 
-   \[
-   R_t = \frac{P_t - P_{t-1}}{P_{t-1}}
-   \]
+ \[
+ R_t = \frac{P_t - P_{t-1}}{P_{t-1}}
+ \]
 
-   where \( R_t \) is the [return](../r/return.md) on day \( t \), \( P_t \) is the closing price on day \( t \), and \( P_{t-1} \) is the closing price on the previous day.
+ where \( R_t \) is the [return](../r/return.md) on day \( t \), \( P_t \) is the closing price on day \( t \), and \( P_{t-1} \) is the closing price on the previous day.
 
 3. **Weekly [Aggregation](../a/aggregation.md)**: Aggregate daily returns into weekly returns by summing daily returns for each week.
 4. **Compute Weekly [Volatility](../v/volatility.md)**: Use the aggregated weekly returns to calculate weekly [volatility](../v/volatility.md) using [standard deviation](../s/standard_deviation.md) or ATR.
@@ -66,7 +66,7 @@ To conduct a weekly [volatility analysis](../v/volatility_analysis.md):
 
 Several tools and platforms specialize in [volatility analysis](../v/volatility_analysis.md) and can be integrated into [algorithmic trading](../a/algorithmic_trading.md) systems:
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive financial data, including [volatility analysis](../v/volatility_analysis.md) tools. [Bloomberg](https://www.bloomberg.com/enterprise/what-is-the-bloomberg-terminal/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive financial data, including [volatility analysis](../v/volatility_analysis.md) tools. Bloomberg
 2. **Python Libraries**: Libraries like Pandas, NumPy, and SciPy are widely used for [volatility](../v/volatility.md) calculations and analysis.
 3. **Financial APIs**: Services like [Alpha](../a/alpha.md) Vantage and [Quandl](../q/quandl.md) provide historical price data suitable for [volatility](../v/volatility.md) calculations.
 

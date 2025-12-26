@@ -78,9 +78,9 @@ CCI is an [oscillator](../o/oscillator.md) used to identify cyclical trends in c
 
 For accurate detection of divergence, high-quality real-time and historical data are required. This data can be sourced from various providers, including:
 
-- **[Bloomberg](../b/bloomberg.md)**: [bloomberg.com](https://www.bloomberg.com/)
-- **[Reuters](../r/reuters.md)**: [reuters.com](https://www.reuters.com/)
-- **[Quandl](../q/quandl.md)**: [quandl.com](https://www.quandl.com/)
+- **[Bloomberg](../b/bloomberg.md)**: bloomberg.com
+- **[Reuters](../r/reuters.md)**: reuters.com
+- **[Quandl](../q/quandl.md)**: quandl.com
 
 ### Signal Detection
 

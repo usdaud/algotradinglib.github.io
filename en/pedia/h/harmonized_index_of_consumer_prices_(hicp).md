@@ -48,7 +48,7 @@ The most prominent application of the HICP is in the [monetary policy](../m/mone
 
 ### Economic Assessment and Comparison
 
-HICP facilitates meaningful cross-country economic comparisons within the EU. By harmonizing the measure of consumer [inflation](../i/inflation.md), it allows for assessing economic performance and coordinating fiscal policies among member states. 
+HICP facilitates meaningful cross-country economic comparisons within the EU. By harmonizing the measure of consumer [inflation](../i/inflation.md), it allows for assessing economic performance and coordinating fiscal policies among member states.
 
 ### Financial Markets
 
@@ -69,7 +69,7 @@ HICP has evolved significantly since its inception. Initially launched in 1997, 
 
 ## Data Accessibility and Transparency
 
-Eurostat ensures that HICP data is readily accessible to the public, promoting [transparency](../t/transparency.md). The data, methodologies, and explanations are thoroughly documented and frequently updated on Eurostat’s official website: [Eurostat HICP Data](https://ec.europa.eu/eurostat/web/hicp).
+Eurostat ensures that HICP data is readily accessible to the public, promoting [transparency](../t/transparency.md). The data, methodologies, and explanations are thoroughly documented and frequently updated on Eurostat’s public materials: Eurostat HICP Data.
 
 ## Conclusion
 

@@ -24,7 +24,7 @@ As dealers, firms [trade](../t/trade.md) securities for their own account, which
 - **Financial [Industry](../i/industry.md) Regulatory Authority (FINRA)**: Oversees brokerage firms and their employees to ensure fair practices.
 - **State Regulators**: Enforce securities regulations within individual states.
 
-[Broker](../b/broker.md)-dealers must register with the SEC and become members of FINRA. They must comply with periodic reporting requirements, adhere to [capital](../c/capital.md) adequacy standards, and ensure the proper conduct of their registered representatives. 
+[Broker](../b/broker.md)-dealers must register with the SEC and become members of FINRA. They must comply with periodic reporting requirements, adhere to [capital](../c/capital.md) adequacy standards, and ensure the proper conduct of their registered representatives.
 
 ## Types of Broker-Dealers
 
@@ -43,21 +43,21 @@ These cater primarily to institutional clients, such as large [asset](../a/asset
 ## Leading Broker-Dealers
 
 ### Goldman Sachs
-Goldman Sachs (www.goldmansachs.com) is one of the leading global [investment banks](../i/investment_bank_(ib).md) that operate as a [broker](../b/broker.md)-[dealer](../d/dealer.md). Its services include [investment banking](../i/investment_banking.md), securities, [asset management](../a/asset_management.md), and more.
+Goldman Sachs ( is one of the leading global [investment banks](../i/investment_bank_(ib).md) that operate as a [broker](../b/broker.md)-[dealer](../d/dealer.md). Its services include [investment banking](../i/investment_banking.md), securities, [asset management](../a/asset_management.md), and more.
 
 ### Morgan Stanley
-Morgan Stanley (www.morganstanley.com) operates as a [broker](../b/broker.md)-[dealer](../d/dealer.md) [offering](../o/offering.md) [wealth management](../w/wealth_management.md), trading, and [investment banking](../i/investment_banking.md) services to corporations, governments, and individuals worldwide.
+Morgan Stanley ( operates as a [broker](../b/broker.md)-[dealer](../d/dealer.md) [offering](../o/offering.md) [wealth management](../w/wealth_management.md), trading, and [investment banking](../i/investment_banking.md) services to corporations, governments, and individuals worldwide.
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) (www.schwab.com) is a full-service [broker](../b/broker.md)-[dealer](../d/dealer.md) [offering](../o/offering.md) a wide [range](../r/range.md) of services from trading and [investment management](../i/investment_management.md) to research and advice for individual investors.
+[Charles Schwab](../c/charles_schwab.md) ( is a full-service [broker](../b/broker.md)-[dealer](../d/dealer.md) [offering](../o/offering.md) a wide [range](../r/range.md) of services from trading and [investment management](../i/investment_management.md) to research and advice for individual investors.
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) (www.interactivebrokers.com) is known for its advanced trading platforms and low-cost trading, catering mainly to professional and institutional traders.
+[Interactive Brokers](../i/interactive_brokers.md) ( is known for its advanced trading platforms and low-cost trading, catering mainly to professional and institutional traders.
 
 ## Broker-Dealer Operations in Algo Trading
 
 ### Algorithmic Trading
-[Broker](../b/broker.md)-dealers play a crucial role in [algorithmic trading](../a/accountability.md), leveraging complex algorithms to execute trades at high speeds and large volumes. These algorithms use predefined criteria, such as price, [volume](../v/volume.md), and timing, to make trading decisions. 
+[Broker](../b/broker.md)-dealers play a crucial role in [algorithmic trading](../a/accountability.md), leveraging complex algorithms to execute trades at high speeds and large volumes. These algorithms use predefined criteria, such as price, [volume](../v/volume.md), and timing, to make trading decisions.
 
 ### Smart Order Routing
 [Smart Order Routing](../s/smart_order_routing.md) (SOR) systems are employed by [algorithmic trading](../a/accountability.md) brokers to ensure that orders are executed at the best possible prices across various exchanges and [dark pools](../d/dark_pools.md).

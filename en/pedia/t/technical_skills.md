@@ -153,7 +153,7 @@ Azure offers a [range](../r/range.md) of cloud services, including virtual machi
 
 Cryptocurrency trading involves buying and selling digital assets. Key aspects include:
 
-- **Exchanges**: Platforms like [Binance](../b/binance.md) ([https://www.binance.com](https://www.binance.com)) and [Coinbase](../c/coinbase.md).
+- **Exchanges**: Platforms like [Binance](../b/binance.md) ( and [Coinbase](../c/coinbase.md).
 - **Wallets**: Tools for storing and managing digital assets.
 
 ## Tools and Platforms
@@ -163,14 +163,13 @@ Cryptocurrency trading involves buying and selling digital assets. Key aspects i
 Platforms for executing trades and analyzing markets play a crucial role. Popular platforms include:
 
 - **MetaTrader**: Commonly used for forex and [commodity](../c/commodity.md) trading.
-- **Thinkorswim**: Offers advanced charting and analysis tools ([https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)).
-
+- **Thinkorswim**: Offers advanced charting and analysis tools
 ### Data Providers
 
 Access to reliable financial data is crucial. Leading providers include:
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Comprehensive data on [financial markets](../f/financial_market.md) and news. ([https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
-- **[Reuters](../r/reuters.md)**: Offers real-time data and news coverage. ([https://www.reuters.com](https://www.reuters.com))
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Comprehensive data on [financial markets](../f/financial_market.md) and news. (
+- **[Reuters](../r/reuters.md)**: Offers real-time data and news coverage. (
 
 ### Portfolio Management Tools
 

@@ -4,7 +4,7 @@ Arithmetic Mean, often referred to simply as the mean or average, is a fundament
 
 ## Definition
 
-The arithmetic mean of a collection of numbers is the sum of the numbers divided by the count of the numbers. Mathematically, for a dataset with n elements \(x_1, x_2, ..., x_n\), the arithmetic mean M is computed as:
+The arithmetic mean of a collection of numbers is the sum of the numbers divided by the count of the numbers. Mathematically, for a dataset with n elements \(x_1, x_2,..., x_n\), the arithmetic mean M is computed as:
 
 \[ M = \frac{1}{n} \sum_{i=1}^{n} x_i \]
 
@@ -28,8 +28,8 @@ In [algorithmic trading](../a/accountability.md) (algo trading), the arithmetic 
 ### Signal Generation
 
 1. **Moving Averages**: The arithmetic mean is used to calculate moving averages (simple, [weighted](../w/weighted.md), exponential) which are pivotal in [technical analysis](../t/technical_analysis.md) to identify trends. For instance, a Simple Moving Average (SMA) over a period of 10 days is:
-   \[ \text{SMA}(t) = \frac{1}{10} \sum_{i=0}^{9} P(t-i) \]
-   where \(P(t)\) is the price at time t.
+ \[ \text{SMA}(t) = \frac{1}{10} \sum_{i=0}^{9} P(t-i) \]
+ where \(P(t)\) is the price at time t.
 
 2. **[Mean Reversion](../m/mean_reversion.md) Strategies**: These strategies are based on the concept that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical mean. By computing the arithmetic mean of [asset](../a/asset.md) prices over a specific period, one can determine [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and generate [trading signals](../t/trading_signals.md).
 
@@ -44,9 +44,9 @@ In [algorithmic trading](../a/accountability.md) (algo trading), the arithmetic 
 Understanding the characteristics of the arithmetic mean helps in its effective deployment in algo trading.
 
 1. **Sensitivity to Extreme Values**: The arithmetic mean is highly sensitive to outliers, which can skew the result. For this reason, it’s often complemented with measures of [dispersion](../d/dispersion.md) like [standard deviation](../s/standard_deviation.md).
- 
+
 2. **Linear Transformation**: The arithmetic mean of a linear transformation \( aX + b \) of a random variable \( X \) is given by:
-   \[ M(aX + b) = aM(X) + b \]
+ \[ M(aX + b) = aM(X) + b \]
 
 3. **Sample Mean vs. Population Mean**: In trading, the arithmetic mean calculated from historical data is a sample mean. One needs to distinguish it from the population mean, which represents the [expected value](../e/expected_value.md) in a probabilistic sense.
 

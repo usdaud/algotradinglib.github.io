@@ -62,10 +62,10 @@ Advanced [risk management](../r/risk_management.md) algorithms continuously asse
 
 ## Case Studies
 ### S&P Global Market Intelligence
-[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md) provides tools and [data analytics](../d/data_analytics.md) for managing [market risk](../m/market_risk.md), including [volatility](../v/volatility.md). Their solutions assist in creating and executing effective [hedging strategies](../h/hedging_strategies.md). More information can be found [here](https://www.spglobal.com/marketintelligence/en/).
+[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md) provides tools and [data analytics](../d/data_analytics.md) for managing [market risk](../m/market_risk.md), including [volatility](../v/volatility.md). Their solutions assist in creating and executing effective [hedging strategies](../h/hedging_strategies.md). More information can be found here.
 
 ### CME Group
-CME Group offers a [range](../r/range.md) of [volatility](../v/volatility.md) products, including [futures](../f/futures.md) and [options](../o/options.md). They provide resources and tools for traders to [hedge](../h/hedge.md) against [market](../m/market.md) [volatility](../v/volatility.md). Learn more [here](https://www.cmegroup.com/).
+CME Group offers a [range](../r/range.md) of [volatility](../v/volatility.md) products, including [futures](../f/futures.md) and [options](../o/options.md). They provide resources and tools for traders to [hedge](../h/hedge.md) against [market](../m/market.md) [volatility](../v/volatility.md). Learn more here.
 
 ## Conclusion
 Hedging [volatility](../v/volatility.md) is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that involves sophisticated strategies and tools to manage the inherent risks of [financial markets](../f/financial_market.md). By understanding and utilizing effective hedging techniques, traders can protect their portfolios and achieve more stable returns despite the unpredictable nature of [market](../m/market.md) conditions.

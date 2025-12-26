@@ -31,19 +31,19 @@ Central banks, such as the Federal Reserve, the European Central [Bank](../b/ban
 
 In the United States, the Federal Reserve (often referred to as the "Fed") is responsible for setting reserve requirement ratios for [depository](../d/depository.md) institutions. Additionally, the Fed pays [interest](../i/interest.md) on excess reserves (IOER) to control the [supply](../s/supply.md) of [money](../m/money.md) and influence short-term [interest](../i/interest.md) rates.
 
-For more information about the Federal Reserve and its policies, you can visit their official website: [Federal Reserve](https://www.federalreserve.gov).
+
 
 ### The European Central Bank and Excess Reserves
 
 The European Central [Bank](../b/bank.md) (ECB) also plays a significant role in managing excess reserves within the [Eurozone](../e/eurozone.md). The ECB sets [reserve requirements](../r/reserve_requirements.md) for [credit](../c/credit.md) institutions and pays [interest](../i/interest.md) on excess reserves in its efforts to implement [monetary policy](../m/monetary_policy.md) and stabilize the [financial system](../f/financial_system.md).
 
-For more information about the European Central [Bank](../b/bank.md) and its policies, you can visit their official website: [European Central Bank](https://www.ecb.europa.eu).
+For more information about the European Central [Bank](../b/bank.md) and its policies,
 
 ### The Bank of Japan and Excess Reserves
 
 The [Bank](../b/bank.md) of Japan (BOJ) is responsible for setting [reserve requirements](../r/reserve_requirements.md) and managing excess reserves within the Japanese banking system. The BOJ uses various [monetary policy](../m/monetary_policy.md) tools to influence the levels of excess reserves and achieve its macroeconomic objectives.
 
-For more information about the [Bank](../b/bank.md) of Japan and its policies, you can visit their official website: [Bank of Japan](https://www.boj.or.jp).
+For more information about the [Bank](../b/bank.md) of Japan and its policies,
 
 ## Importance of Excess Reserves in Algorithmic Trading
 
@@ -81,6 +81,6 @@ Excess reserves are a fundamental concept in the banking and [financial markets]
 
 For further exploration and in-depth information, readers can refer to the official websites of the Federal Reserve, the European Central [Bank](../b/bank.md), and the [Bank](../b/bank.md) of Japan.
 
-- [Federal Reserve](https://www.federalreserve.gov)
-- [European Central Bank](https://www.ecb.europa.eu)
-- [Bank of Japan](https://www.boj.or.jp)
+- Federal Reserve
+- European Central Bank
+- Bank of Japan

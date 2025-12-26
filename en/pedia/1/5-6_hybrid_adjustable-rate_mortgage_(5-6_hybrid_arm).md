@@ -10,7 +10,7 @@ A 5-6 Hybrid Adjustable-Rate [Mortgage](../m/mortgage.md) (ARM) is a specialized
 
 2. **Adjustment Period:** After the initial fixed-rate period, the [interest rate](../i/interest_rate.md) adjusts every six months. The adjustment frequency is denoted by the '6' in the 5-6 ARM.
 
-3. **[Index](../i/index_instrument.md) and [Margin](../m/margin.md):** The [interest rate](../i/interest_rate.md) adjustments are usually tied to a specific financial [index](../i/index_instrument.md), such as the London Interbank Offered Rate (LIBOR) or the [U.S. Treasury](../u/u.s._treasury.md) Securities. A [margin](../m/margin.md), which is a fixed percentage point set by the [lender](../l/lender.md), is added to the [index](../i/index_instrument.md) to determine the new [interest rate](../i/interest_rate.md).
+3. **[Index](../i/index_instrument.md) and [Margin](../m/margin.md):** The [interest rate](../i/interest_rate.md) adjustments are usually tied to a specific financial [index](../i/index_instrument.md), such as the Secured Overnight Financing Rate (SOFR) or the [U.S. Treasury](../u/u.s._treasury.md) Securities. (Note: LIBOR was discontinued in June 2023 and has been replaced by SOFR and other alternative reference rates.) A [margin](../m/margin.md), which is a fixed percentage point set by the [lender](../l/lender.md), is added to the [index](../i/index_instrument.md) to determine the new [interest rate](../i/interest_rate.md).
 
 4. **Caps:** There are usually caps in place to limit how much the [interest rate](../i/interest_rate.md) can change during each adjustment period and over the life of the [loan](../l/loan.md). These caps provide some level of protection against extreme fluctuations in [interest](../i/interest.md) rates.
 
@@ -42,10 +42,10 @@ A 5-6 Hybrid Adjustable-Rate [Mortgage](../m/mortgage.md) (ARM) is a specialized
 
 Various financial institutions [offer](../o/offer.md) 5-6 Hybrid ARMs. Some prominent institutions include:
 
-1. [Wells Fargo](https://www.wellsfargo.com/)
-2. [Bank of America](https://www.bankofamerica.com/)
-3. [Quicken Loans](https://www.quickenloans.com/)
-4. [Chase](https://www.chase.com/)
+1. Wells Fargo
+2. Bank of America
+3. Quicken Loans
+4. Chase
 
 Each [lender](../l/lender.md) may have unique terms and conditions associated with their 5-6 [Hybrid ARM](../h/hybrid_arm.md) offerings, making it crucial for borrowers to compare [options](../o/options.md) and understand the fine print.
 

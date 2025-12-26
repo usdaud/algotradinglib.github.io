@@ -57,12 +57,12 @@ Full costing offers a comprehensive view of all costs incurred in the creation o
 
 ### Modern Methods
 1. **Activity-Based Costing (ABC)**: Allocates overheads more accurately based on activities that drive costs.
-   - **Steps**:
-     1. Identify activities that incur costs.
-     2. Assign costs to these activities.
-     3. Determine the cost drivers for each activity.
-     4. Allocate costs to products based on their consumption of activities.
-   - **Benefits**: Improved accuracy, better pricing and product mix decisions.
+ - **Steps**:
+ 1. Identify activities that incur costs.
+ 2. Assign costs to these activities.
+ 3. Determine the cost drivers for each activity.
+ 4. Allocate costs to products based on their consumption of activities.
+ - **Benefits**: Improved accuracy, better pricing and product mix decisions.
 
 ## Application in Industries
 
@@ -86,7 +86,7 @@ A pharmaceutical company produces medicines and vaccines. The full costing appro
 ## Software and Tools
 Several modern software solutions help businesses implement full costing by automating cost allocation and simplifying complexity. These include:
 
-1. **SAP ERP**: [SAP](https://www.sap.com/products/erp.html) offers comprehensive modules for full costing and financial management.
+1. **SAP ERP**: SAP offers comprehensive modules for full costing and financial management.
 2. **Oracle NetSuite**: A cloud-based solution that provides tools for comprehensive financial tracking and cost allocation.
 3. **QuickBooks Enterprise**: Popular among small to medium-sized enterprises for handling detailed costing and [financial analysis](../f/financial_analysis.md).
 

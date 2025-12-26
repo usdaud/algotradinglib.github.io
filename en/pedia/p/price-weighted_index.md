@@ -54,7 +54,7 @@ The creation of price-[weighted](../w/weighted.md) indices like the DJIA made se
 ### Definition
 
 - **Price-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md):** [Index](../i/index_instrument.md) [value](../v/value.md) derived from the price per share of its constituent [stocks](../s/stock.md). Each stock affects the [index](../i/index_instrument.md) proportionally to its price.
-  
+
 - **[Market](../m/market.md)-Cap-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md):** [Index](../i/index_instrument.md) [value](../v/value.md) derived from the [market capitalization](../m/market_capitalization.md) of its constituent [stocks](../s/stock.md). Each stock affects the [index](../i/index_instrument.md) proportionally to its total [market capitalization](../m/market_capitalization.md) (price per share * number of [shares](../s/shares.md) outstanding).
 
 ### Example Indices
@@ -65,7 +65,7 @@ The creation of price-[weighted](../w/weighted.md) indices like the DJIA made se
 ### Impact on Performance
 
 - In a price-[weighted](../w/weighted.md) [index](../i/index_instrument.md), a high-priced but smaller-cap stock can have a more substantial effect than a lower-priced but larger-cap stock. Conversely, in a [market](../m/market.md)-cap-[weighted](../w/weighted.md) [index](../i/index_instrument.md), [large-cap stocks](../l/large_cap_stocks.md) dominate the [index](../i/index_instrument.md) performance, providing a more comprehensive reflection of the overall [market](../m/market.md)'s performance.
-  
+
 ### Adjustments Required
 
 - **Price-[Weighted](../w/weighted.md) Indices:** Frequent adjustments are required to the divisor to account for stock splits, dividends, and changes in stock listings.
@@ -100,9 +100,7 @@ Given these criticisms, many modern indices prefer [market](../m/market.md)-cap-
 
 There are financial products like ETFs and mutual funds specifically designed to track price-[weighted](../w/weighted.md) indices. For instance, the SPDR Dow Jones Industrial Average ETF (Ticker: DIA) aims to mirror the DJIA's performance, allowing investors to [gain](../g/gain.md) exposure to these 30 companies collectively.
 
-[SPDR Dow Jones Industrial Average ETF](https://www.ssga.com/us/en/individual/etfs/funds/spdr-dow-jones-industrial-average-etf-trust-dia)
 
 ## Conclusion
 
 Price-[weighted](../w/weighted.md) indices, exemplified by the DJIA and [Nikkei](../n/nikkei.md) 225, [offer](../o/offer.md) unique perspectives on [market](../m/market.md) performance, heavily influenced by price fluctuations of high-priced [stocks](../s/stock.md). Despite their historical significance, they are gradually overshadowed by more representative methodologies like [market](../m/market.md)-cap-[weighted](../w/weighted.md) indices, which more accurately capture [market](../m/market.md) nuances by reflecting the total [economic value](../e/economic_value.md) of constituent companies. Nonetheless, understanding price-[weighted](../w/weighted.md) indices is fundamental for [finance](../f/finance.md) professionals, providing insights into traditional [market](../m/market.md) metrics and their evolution.
-

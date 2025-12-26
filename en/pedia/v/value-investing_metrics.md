@@ -5,7 +5,7 @@
 ### Price-to-Earnings (P/E) Ratio
 
 #### Definition
-The Price-to-[Earnings](../e/earnings.md) (P/E) ratio is one of the most commonly used [valuation](../v/valuation.md) metrics. It measures the current share price relative to the [earnings](../e/earnings.md) per share (EPS). 
+The Price-to-[Earnings](../e/earnings.md) (P/E) ratio is one of the most commonly used [valuation](../v/valuation.md) metrics. It measures the current share price relative to the [earnings](../e/earnings.md) per share (EPS).
 
 \[ \text{P/E Ratio} = \frac{\text{[Market Value](../m/market_value.md) per Share}}{\text{[Earnings](../e/earnings.md) per Share (EPS)}} \]
 
@@ -134,16 +134,15 @@ Once deployed, the algorithm needs to be monitored in real-time to ensure it ada
 #### Quantitative Hedge Funds
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma often use [value](../v/value.md)-[investing](../i/investing.md) metrics as part of broader [algorithmic trading](../a/algorithmic_trading.md) strategies. Both firms [leverage](../l/leverage.md) sophisticated algorithms that analyze these metrics in real-time to make trading decisions.
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Renaissance Technologies
+- Two Sigma
 
 #### Retail Algorithmic Trading Platforms
 Retail trading platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) provide APIs that enable individual traders to implement [value](../v/value.md)-[investing](../i/investing.md) metrics in their [trading algorithms](../t/trading_algorithms.md).
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpaca](https://alpaca.markets/)
+- QuantConnect
+- Alpaca
 
 ### Conclusion
 
 [Value](../v/value.md)-[investing](../i/investing.md) metrics are fundamental tools in the world of [algorithmic trading](../a/algorithmic_trading.md). They provide a quantifiable means to assess whether a stock is [undervalued](../u/undervalued.md), [offering](../o/offering.md) various angles of analysis from [earnings](../e/earnings.md) and book values to cash flows and dividends. While each metric has its own limitations, a composite approach that utilizes [multiple](../m/multiple.md) metrics can enhance the robustness of [algorithmic trading](../a/algorithmic_trading.md) strategies. By systematically incorporating these metrics, traders and investment firms can create algorithms that identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md), optimize trading decisions, and ultimately improve returns.
-

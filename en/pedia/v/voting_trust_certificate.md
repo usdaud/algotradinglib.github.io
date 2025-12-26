@@ -7,60 +7,60 @@ A [Voting Trust](../v/voting_trust.md) Certificate (VTC) is a financial mechanis
 ### Purpose
 
 1. **[Consolidation](../c/consolidation.md) of Voting Power**:
-   [Voting Trust](../v/voting_trust.md) Certificates are frequently used to consolidate the voting power of scattered shareholders. This allows for a unified strategic direction, particularly beneficial during hostile takeovers or other corporate actions requiring cohesive [shareholder](../s/shareholder.md) voting.
-   
+ [Voting Trust](../v/voting_trust.md) Certificates are frequently used to consolidate the voting power of scattered shareholders. This allows for a unified strategic direction, particularly beneficial during hostile takeovers or other corporate actions requiring cohesive [shareholder](../s/shareholder.md) voting.
+
 2. **Management Continuity**:
-   By transferring voting rights to a [trust](../t/trust.md), VTCs ensure that a loyal contingent of trustees continue to steer company policies. This mechanism is often employed to secure the management team and policies during uncertain times.
+ By transferring voting rights to a [trust](../t/trust.md), VTCs ensure that a loyal contingent of trustees continue to steer company policies. This mechanism is often employed to secure the management team and policies during uncertain times.
 
 3. **Facilitate Strategic Decisions**:
-   Decision-making in corporations with widely dispersed [shares](../s/shares.md) can be cumbersome. VTCs streamline voting processes, facilitating more nimble and decisive [corporate governance](../c/corporate_governance.md).
+ Decision-making in corporations with widely dispersed [shares](../s/shares.md) can be cumbersome. VTCs streamline voting processes, facilitating more nimble and decisive [corporate governance](../c/corporate_governance.md).
 
 4. **[Restructuring](../r/restructuring.md) and Compliance**:
-   In cases of [financial distress](../f/financial_distress.md) or [restructuring](../r/restructuring.md), VTCs can play a crucial role by centralizing control and ensuring compliance with necessary regulations.
+ In cases of [financial distress](../f/financial_distress.md) or [restructuring](../r/restructuring.md), VTCs can play a crucial role by centralizing control and ensuring compliance with necessary regulations.
 
 ### Mechanics of Voting Trust Certificates
 
 1. **Creation of the [Voting Trust](../v/voting_trust.md)**:
-   Voting trusts are created through a formal agreement amongst shareholders who agree to transfer their [shares](../s/shares.md) to the [trust](../t/trust.md). Terms are explicitly stated in a [trust](../t/trust.md) agreement, which includes the [duration](../d/duration.md) of the [trust](../t/trust.md), the rights and [obligations](../o/obligation.md) of trustees, and other pertinent details.
+ Voting trusts are created through a formal agreement amongst shareholders who agree to transfer their [shares](../s/shares.md) to the [trust](../t/trust.md). Terms are explicitly stated in a [trust](../t/trust.md) agreement, which includes the [duration](../d/duration.md) of the [trust](../t/trust.md), the rights and [obligations](../o/obligation.md) of trustees, and other pertinent details.
 
 2. **Issuance of [Voting Trust](../v/voting_trust.md) Certificates**:
-   Upon transferring [shares](../s/shares.md) to the [voting trust](../v/voting_trust.md), shareholders are issued [Voting Trust](../v/voting_trust.md) Certificates in [exchange](../e/exchange.md). These certificates represent the [shareholder](../s/shareholder.md)'s economic [interest](../i/interest.md) in the transferred [shares](../s/shares.md), including rights to dividends and other financial benefits.
+ Upon transferring [shares](../s/shares.md) to the [voting trust](../v/voting_trust.md), shareholders are issued [Voting Trust](../v/voting_trust.md) Certificates in [exchange](../e/exchange.md). These certificates represent the [shareholder](../s/shareholder.md)'s economic [interest](../i/interest.md) in the transferred [shares](../s/shares.md), including rights to dividends and other financial benefits.
 
 3. **Role of Trustees**:
-   The trustees, usually experienced professionals or trusted corporate insiders, are tasked with exercising the voting rights of the transferred [shares](../s/shares.md). They operate under the [guidance](../g/guidance.md) of the [trust](../t/trust.md) agreement, ensuring they align with the broader strategic goals outlined by the initial shareholders.
+ The trustees, usually experienced professionals or trusted corporate insiders, are tasked with exercising the voting rights of the transferred [shares](../s/shares.md). They operate under the [guidance](../g/guidance.md) of the [trust](../t/trust.md) agreement, ensuring they align with the broader strategic goals outlined by the initial shareholders.
 
 4. **Tenure and Termination**:
-   [Voting Trust](../v/voting_trust.md) Certificates and the associated [trust](../t/trust.md) typically have a defined term, after which the [trust](../t/trust.md) expires, and the original shareholders regain their voting rights. Alternatively, the [trust](../t/trust.md) agreement may provide mechanisms for early termination under specific circumstances.
+ [Voting Trust](../v/voting_trust.md) Certificates and the associated [trust](../t/trust.md) typically have a defined term, after which the [trust](../t/trust.md) expires, and the original shareholders regain their voting rights. Alternatively, the [trust](../t/trust.md) agreement may provide mechanisms for early termination under specific circumstances.
 
 ## Advantages and Disadvantages
 
 ### Advantages
 
 1. **Unified Voting Power**:
-   By pooling voting rights, VTCs can substantially strengthen a group’s control over corporate decisions, which can be vital during critical junctures like mergers, acquisitions, or [proxy](../p/proxy.md) battles.
+ By pooling voting rights, VTCs can substantially strengthen a group’s control over corporate decisions, which can be vital during critical junctures like mergers, acquisitions, or [proxy](../p/proxy.md) battles.
 
 2. **Management Stability**:
-   VTCs assure continuity of management and strategic direction, instilling confidence among employees, investors, and other stakeholders.
+ VTCs assure continuity of management and strategic direction, instilling confidence among employees, investors, and other stakeholders.
 
 3. **Streamlined Decision-Making**:
-   With consolidated voting power, decision-making processes become more efficient, enabling quicker responses to [business](../b/business.md) opportunities and challenges.
+ With consolidated voting power, decision-making processes become more efficient, enabling quicker responses to [business](../b/business.md) opportunities and challenges.
 
 4. **Financial [Restructuring](../r/restructuring.md)**:
-   During financial [restructuring](../r/restructuring.md), VTCs help centralize control, ensuring that all decisions align with the best recovery strategy.
+ During financial [restructuring](../r/restructuring.md), VTCs help centralize control, ensuring that all decisions align with the best recovery strategy.
 
 ### Disadvantages
 
 1. **Potential Abuse of Power**:
-   Concentrating voting rights in the hands of few trustees can lead to potential misuse of power. Misaligned interests between trustees and shareholders can result in decisions that may not benefit the broader [shareholder](../s/shareholder.md) base.
+ Concentrating voting rights in the hands of few trustees can lead to potential misuse of power. Misaligned interests between trustees and shareholders can result in decisions that may not benefit the broader [shareholder](../s/shareholder.md) base.
 
 2. **Limited Influence for Shareholders**:
-   Shareholders who transfer their voting rights to a [trust](../t/trust.md) might feel disenfranchised, as they no longer have a direct say in corporate elections and other significant decisions.
+ Shareholders who transfer their voting rights to a [trust](../t/trust.md) might feel disenfranchised, as they no longer have a direct say in corporate elections and other significant decisions.
 
 3. **Complexity and Cost**:
-   Setting up and managing a [voting trust](../v/voting_trust.md) involves legal, administrative, and operational complexities. This process can be time-consuming and costly.
+ Setting up and managing a [voting trust](../v/voting_trust.md) involves legal, administrative, and operational complexities. This process can be time-consuming and costly.
 
 4. **[Trustee](../t/trustee.md) Misalignment**:
-   Trustees may not always act in the best [interest](../i/interest.md) of the original shareholders, leading to conflicts and potential legal disputes.
+ Trustees may not always act in the best [interest](../i/interest.md) of the original shareholders, leading to conflicts and potential legal disputes.
 
 ## Legal and Regulatory Considerations
 
@@ -85,18 +85,18 @@ Voting trusts and the issuance of VTCs must comply with the company's charter an
 ### Historical Case Studies
 
 1. **United States Steel [Corporation](../c/corporation.md)**:
-   One of the most cited examples of a [voting trust](../v/voting_trust.md) involves the United States Steel [Corporation](../c/corporation.md), which used a [voting trust](../v/voting_trust.md) during its early 20th-century [consolidation](../c/consolidation.md) efforts. This [trust](../t/trust.md) enabled control over a vast array of smaller steel companies while standardizing management practices.
-   
+ One of the most cited examples of a [voting trust](../v/voting_trust.md) involves the United States Steel [Corporation](../c/corporation.md), which used a [voting trust](../v/voting_trust.md) during its early 20th-century [consolidation](../c/consolidation.md) efforts. This [trust](../t/trust.md) enabled control over a vast array of smaller steel companies while standardizing management practices.
+
 2. **Railroad [Industry](../i/industry.md)**:
-   Voting trusts have been extensively used in the railroad [industry](../i/industry.md). For instance, the Great Northern and Northern Pacific [merger](../m/merger.md) to form the Burlington Northern required a [voting trust](../v/voting_trust.md) to manage the regulatory approval process seamlessly.
+ Voting trusts have been extensively used in the railroad [industry](../i/industry.md). For instance, the Great Northern and Northern Pacific [merger](../m/merger.md) to form the Burlington Northern required a [voting trust](../v/voting_trust.md) to manage the regulatory approval process seamlessly.
 
 ### Recent Examples
 
 1. **Tech [Industry](../i/industry.md)**:
-   Modern tech companies sometimes utilize VTCs to maintain control over strategic decisions. For instance, in the event of an IPO or a significant [merger](../m/merger.md), pooling voting rights can ensure that founders and key investors retain control over the company's strategic decisions.
-   
+ Modern tech companies sometimes utilize VTCs to maintain control over strategic decisions. For instance, in the event of an IPO or a significant [merger](../m/merger.md), pooling voting rights can ensure that founders and key investors retain control over the company's strategic decisions.
+
 2. **[Financial Sector](../f/financial_sector.md)**:
-   Voting trusts have also found applications in the [financial sector](../f/financial_sector.md), where companies undergoing [restructuring](../r/restructuring.md) or facing regulatory hurdles might use VTCs to centralize decision-making temporarily.
+ Voting trusts have also found applications in the [financial sector](../f/financial_sector.md), where companies undergoing [restructuring](../r/restructuring.md) or facing regulatory hurdles might use VTCs to centralize decision-making temporarily.
 
 ## Alternatives to Voting Trust Certificates
 

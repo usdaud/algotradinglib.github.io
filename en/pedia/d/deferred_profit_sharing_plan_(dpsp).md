@@ -70,10 +70,7 @@ Ongoing monitoring and review of the DPSP are essential to ensure it remains com
 
 Several notable companies [offer](../o/offer.md) DPSPs as part of their employee benefits package. These companies recognize the [value](../v/value.md) of DPSPs in attracting and retaining top talent, motivating employees, and providing a secure retirement future. Examples include:
 
-- **Loblaw Companies Limited**: https://www.loblaw.ca/
-- **Canadian Tire [Corporation](../c/corporation.md)**: https://corp.canadiantire.ca/EN/Pages/[default](../d/default.md).aspx
-- **Saputo Inc.**: https://www.saputo.com/en
-
+- **Loblaw Companies Limited**- **Canadian Tire [Corporation](../c/corporation.md)**- **Saputo Inc.**
 These companies have successfully integrated DPSPs into their overall compensation strategy, demonstrating the benefits of [profit](../p/profit.md)-sharing and [retirement planning](../r/retirement_planning.md) for both employers and employees.
 
 ### Conclusion

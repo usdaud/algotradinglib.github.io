@@ -23,7 +23,7 @@ For example, if an investment grows from $1,000 to $1,500 over a 3-year period, 
 
 ### Significance in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), where investment decisions are driven by automated systems using intricate [mathematical models](../m/mathematical_models_in_trading.md), the concept of annualized [total return](../t/total_return.md) plays a vital role. Algos (algorithms) are evaluated based on their ability to deliver consistent high returns, and the annualized [total return](../t/total_return.md) provides a clear, quantifiable [benchmark](../b/benchmark.md) for this evaluation. 
+In [algorithmic trading](../a/accountability.md), where investment decisions are driven by automated systems using intricate [mathematical models](../m/mathematical_models_in_trading.md), the concept of annualized [total return](../t/total_return.md) plays a vital role. Algos (algorithms) are evaluated based on their ability to deliver consistent high returns, and the annualized [total return](../t/total_return.md) provides a clear, quantifiable [benchmark](../b/benchmark.md) for this evaluation.
 
 [Algorithmic trading](../a/accountability.md) models often optimize for `[Sharpe Ratio](../s/sharpe_ratio.md)` or `[Sortino Ratio](../s/sortino_ratio.md)`, both of which incorporate the annualized [total return](../t/total_return.md). The [Sharpe Ratio](../s/sharpe_ratio.md), for instance, measures [risk-adjusted return](../r/risk-adjusted_return.md) by comparing the annualized excess returns over the [risk](../r/risk.md)-free rate to the annualized [standard deviation](../s/standard_deviation.md) of those returns.
 
@@ -41,18 +41,18 @@ While the annualized [total return](../t/total_return.md) is particularly useful
 Several well-known financial institutions and [asset management](../a/asset_management.md) companies illustrate the application and reporting of annualized total returns:
 
 ### BlackRock
-[BlackRock](https://www.blackrock.com) is a premier global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) often reporting annualized total returns for various funds, such as ETFs and [index](../i/index_instrument.md) funds, providing [transparency](../t/transparency.md) and performance consistency to their investors.
+BlackRock is a premier global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) often reporting annualized total returns for various funds, such as ETFs and [index](../i/index_instrument.md) funds, providing [transparency](../t/transparency.md) and performance consistency to their investors.
 
 ### Vanguard
-[Vanguard](https://investor.vanguard.com) frequently publishes annualized total returns for its wide array of mutual funds and ETFs, allowing investors to compare various funds' performance over standard periods, usually 1-year, 5-year, and 10-year timeframes.
+Vanguard frequently publishes annualized total returns for its wide array of mutual funds and ETFs, allowing investors to compare various funds' performance over standard periods, usually 1-year, 5-year, and 10-year timeframes.
 
 ### Robo-Advisors
-Robo-advisors like [Betterment](https://www.betterment.com) and [Wealthfront](https://www.wealthfront.com) also utilize annualized total returns to demonstrate the effectiveness of their automated portfolios over various periods.
+Robo-advisors like Betterment and Wealthfront also utilize annualized total returns to demonstrate the effectiveness of their automated portfolios over various periods.
 
 ## Practical Implications
 
 ### Portfolio Management
-In managing a diversified portfolio, understanding and analyzing annualized total returns can help identify underperforming assets and reallocate [capital](../c/capital.md) more efficiently to optimize returns. 
+In managing a diversified portfolio, understanding and analyzing annualized total returns can help identify underperforming assets and reallocate [capital](../c/capital.md) more efficiently to optimize returns.
 
 ### Risk Management
 Annualized [total return](../t/total_return.md) also assists in assessing the [risk](../r/risk.md) profile of investments. Comparing annualized returns to historical benchmarks and [standard deviation](../s/standard_deviation.md) allows investors to gauge [risk](../r/risk.md)-adjusted performance.

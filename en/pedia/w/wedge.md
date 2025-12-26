@@ -4,17 +4,17 @@ In [technical analysis](../t/technical_analysis.md), a wedge is a [market](../m/
 
 ## Types of Wedges
 
-There are two main types of wedges: 
+There are two main types of wedges:
 
 1. **Rising Wedge:**
-    - A rising wedge occurs when both the [support and resistance](../s/support_and_resistance.md) lines slope upwards, but the support line is steeper than the resistance line.
-    - Usually seen as a bearish continuation or [reversal](../r/reversal.md) pattern.
-    - It indicates that the [asset](../a/asset.md)'s price is likely to fall once it breaks out of the pattern.
-   
+ - A rising wedge occurs when both the [support and resistance](../s/support_and_resistance.md) lines slope upwards, but the support line is steeper than the resistance line.
+ - Usually seen as a bearish continuation or [reversal](../r/reversal.md) pattern.
+ - It indicates that the [asset](../a/asset.md)'s price is likely to fall once it breaks out of the pattern.
+
 2. **Falling Wedge:**
-    - A falling wedge happens when both the [support and resistance](../s/support_and_resistance.md) lines are sloping downwards, but the resistance line is steeper than the support line.
-    - Generally seen as a bullish continuation or [reversal](../r/reversal.md) pattern.
-    - It suggests that the [asset](../a/asset.md)'s price is expected to rise once it breaks out of this pattern.
+ - A falling wedge happens when both the [support and resistance](../s/support_and_resistance.md) lines are sloping downwards, but the resistance line is steeper than the support line.
+ - Generally seen as a bullish continuation or [reversal](../r/reversal.md) pattern.
+ - It suggests that the [asset](../a/asset.md)'s price is expected to rise once it breaks out of this pattern.
 
 ## Formation of Wedge Patterns
 
@@ -24,7 +24,7 @@ There are two main types of wedges:
 1. Prices make higher highs and higher lows.
 2. The price [range](../r/range.md) starts to narrow as the [trend](../t/trend.md) lines converge.
 3. [Volume](../v/volume.md) tends to decrease as the pattern develops.
-4. [Breakout](../b/breakout.md), usually on increased [volume](../v/volume.md), occurs downward, indicating a potential sell signal. 
+4. [Breakout](../b/breakout.md), usually on increased [volume](../v/volume.md), occurs downward, indicating a potential sell signal.
 
 ### Falling Wedge Formation
 1. Prices make lower highs and lower lows.
@@ -56,12 +56,12 @@ Cryptocurrencies, known for their [volatility](../v/volatility.md), frequently s
 
 ### Entry and Exit Points
 - **For Rising Wedge:**
-    - **Entry:** When the price breaks below the lower support [trend](../t/trend.md) line.
-    - **Exit:** A predetermined target level or based on [trailing stop](../t/trailing_stop.md) loss methods.
+ - **Entry:** When the price breaks below the lower support [trend](../t/trend.md) line.
+ - **Exit:** A predetermined target level or based on [trailing stop](../t/trailing_stop.md) loss methods.
 
 - **For Falling Wedge:**
-    - **Entry:** When the price breaks above the upper resistance [trend](../t/trend.md) line.
-    - **Exit:** Based on resistance levels or [trailing stop](../t/trailing_stop.md) loss.
+ - **Entry:** When the price breaks above the upper resistance [trend](../t/trend.md) line.
+ - **Exit:** Based on resistance levels or [trailing stop](../t/trailing_stop.md) loss.
 
 ### Risk Management
 - **Stop-Loss:** Placing [stop-loss orders](../s/stop-loss_orders.md) just outside the pattern's boundary can minimize potential losses.
@@ -80,6 +80,6 @@ Several trading platforms [offer](../o/offer.md) tools and indicators to identif
 - **[TradingView](../t/tradingview.md):** Offers customizable charts and alerts to identify [wedge patterns](../w/wedge_patterns.md).
 - **MetaTrader 4 & 5:** Provides automated tools to integrate wedge [pattern recognition](../p/pattern_recognition.md) into [trading strategies](../t/trading_strategies.md).
 
-For further information, [portfolio management](../p/par.md) insights, and advanced [trading systems](../t/trading_systems.md), organizations like [QuantConnect](https://www.quantconnect.com) provide platforms for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) involving various technical patterns, including wedges.
+For further information, [portfolio management](../p/par.md) insights, and advanced [trading systems](../t/trading_systems.md), organizations like QuantConnect provide platforms for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) involving various technical patterns, including wedges.
 
 Understanding the comprehensive nature of [wedge patterns](../w/wedge_patterns.md) and their implications across different [financial markets](../f/financial_market.md) allows traders and investors to make informed, strategic decisions, enhancing their [trading performance](../t/trading_performance.md) and [portfolio management](../p/par.md).

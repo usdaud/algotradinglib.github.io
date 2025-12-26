@@ -34,21 +34,21 @@ Many Enterprise Resource Planning (ERP) systems and [accounting](../a/accounting
 ## Examples
 ### Sample Calculation
 1. **Initial Information:**
-   - Cost of [Asset](../a/asset.md): $100,000
-   - [Salvage Value](../s/salvage_value.md): $10,000
-   - Estimated Production during [Useful Life](../u/useful_life.md): 100,000 units
+ - Cost of [Asset](../a/asset.md): $100,000
+ - [Salvage Value](../s/salvage_value.md): $10,000
+ - Estimated Production during [Useful Life](../u/useful_life.md): 100,000 units
 
 2. **Annual Production:**
-   - Year 1: 10,000 units
-   - Year 2: 20,000 units
+ - Year 1: 10,000 units
+ - Year 2: 20,000 units
 
 3. **[Depreciation](../d/depreciation.md) Calculation:**
-   - [Depreciation](../d/depreciation.md) Rate per Unit: \( \frac{100,000 - 10,000}{100,000} = 0.90 \) USD
-   - Year 1 [Depreciation](../d/depreciation.md): \( 10,000 \times 0.90 = 9,000 \) USD
-   - Year 2 [Depreciation](../d/depreciation.md): \( 20,000 \times 0.90 = 18,000 \) USD
+ - [Depreciation](../d/depreciation.md) Rate per Unit: \( \frac{100,000 - 10,000}{100,000} = 0.90 \) USD
+ - Year 1 [Depreciation](../d/depreciation.md): \( 10,000 \times 0.90 = 9,000 \) USD
+ - Year 2 [Depreciation](../d/depreciation.md): \( 20,000 \times 0.90 = 18,000 \) USD
 
 ## Algorithmic Trading and FinTech Integration
-In the realm of [algorithmic trading](../a/accountability.md) and FinTech, UOP can have a place in [asset](../a/asset.md) lifecycle management for financial assets and [infrastructure](../i/infrastructure.md) investments. For instance:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and FinTech, UOP can have a place in [asset](../a/asset.md) lifecycle management for financial assets and [infrastructure](../i/infrastructure.md) investments. For instance:
 
 ### Predictive Maintenance
 Linking production data with [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can [yield](../y/yield.md) predictive maintenance schedules. By understanding patterns in [asset](../a/asset.md) usage and parallely using [depreciation](../d/depreciation.md) as an [indicator](../i/indicator.md), algorithms can predict when maintenance or replacements might be needed.
@@ -60,11 +60,11 @@ Assets’ [depreciation](../d/depreciation.md) using the UOP method can be a cri
 For financial products like leases or [asset](../a/asset.md)-backed securities involving machinery or production equipment, understanding the [depreciation](../d/depreciation.md) patterns via UOP can assist in better [risk](../r/risk.md) assessment and management.
 
 ## Conclusion
-The UOP method of [depreciation](../d/depreciation.md) offers a pragmatic and usage-aligned approach to [asset](../a/asset.md) [depreciation](../d/depreciation.md), especially for production-based industries. Despite its complexities and [volatility](../v/volatility.md), its accuracy in matching costs with [revenue](../r/revenue.md) makes it an invaluable tool in [financial accounting](../f/financial_accounting.md). Furthermore, its integration within ERP systems and potential application in areas like predictive maintenance and investment assessment underscores its versatility in modern financial and operational management. 
+The UOP method of [depreciation](../d/depreciation.md) offers a pragmatic and usage-aligned approach to [asset](../a/asset.md) [depreciation](../d/depreciation.md), especially for production-based industries. Despite its complexities and [volatility](../v/volatility.md), its accuracy in matching costs with [revenue](../r/revenue.md) makes it an invaluable tool in [financial accounting](../f/financial_accounting.md). Furthermore, its integration within ERP systems and potential application in areas like predictive maintenance and investment assessment underscores its versatility in modern financial and operational management.
 
 ## External Links
 For more information on UOP methods and their application in financial systems, you can refer to:
 
-- [Oracle Accounting Software](https://www.oracle.com/financials/)
-- [SAP ERP Systems](https://www.sap.com/products/financial-management/erp-accounting-financial-close.html)
-- [QuickBooks Accounting Software](https://quickbooks.intuit.com/)
+- Oracle Accounting Software
+- SAP ERP Systems
+- QuickBooks Accounting Software

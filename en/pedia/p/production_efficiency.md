@@ -15,7 +15,7 @@ The [law of diminishing returns](../l/law_of_diminishing_returns_in_trading.md) 
 ### Efficiency Ratios
 - **Output/Input Ratio**: Simple measure of how much output is obtained per unit of input.
 - **[Operational Efficiency](../o/operational_efficiency_in_trading.md) Ratio (OER)**: Total operational expenses divided by total [revenue](../r/revenue.md); lower values indicate higher [efficiency](../e/efficiency.md).
-  
+
 ### Utilization Metrics
 - **[Capacity Utilization Rate](../c/capacity_utilization_rate.md)**: Extent to which a [manufacturing](../m/manufacturing.md) entity uses its potential production capacity.
 - **[Throughput](../t/throughput.md)**: Rate at which the final products are produced.
@@ -53,12 +53,11 @@ The Toyota Production System (TPS) is a well-documented model known for its [eff
 Tesla utilizes advanced automation and [vertical integration](../v/vertical_integration.md) to enhance production [efficiency](../e/efficiency.md), aiming to lower the cost of electric vehicles.
 
 Learn more about Tesla's production methodologies here:
-[Tesla Gigafactories](https://www.tesla.com/gigafactory)
 
 ## Technological Advancements
 ### Automation and Robotics
 - Increasing use of robots to perform repetitive tasks, enhancing production speed, and reducing errors.
-  
+
 ### Internet of Things (IoT)
 - IoT devices collect real-time data to optimize production processes and predictive maintenance.
 

@@ -13,7 +13,7 @@ Cryptocurrency [trading algorithms](../t/trading_algorithms.md) represent a corn
 - **[Inventory Management](../i/inventory_management.md)**: The algorithm maintains a balanced [inventory](../i/inventory.md) to minimize directional exposure.
 
 ### 2. **Arbitrage Algorithms**
-[Arbitrage](../a/arbitrage.md) algorithms exploit price discrepancies of the same [asset](../a/asset.md) across different markets or exchanges. 
+[Arbitrage](../a/arbitrage.md) algorithms exploit price discrepancies of the same [asset](../a/asset.md) across different markets or exchanges.
 
 #### Types of Arbitrage:
 - **Spatial [Arbitrage](../a/arbitrage.md)**: Involves buying an [asset](../a/asset.md) on one [exchange](../e/exchange.md) where the price is lower and simultaneously selling it on another [exchange](../e/exchange.md) where the price is higher.
@@ -52,25 +52,21 @@ HFT algorithms execute a large number of orders at extremely high speeds to [pro
 
 ## Tools and Platforms for Algorithmic Trading
 
-### 1. **QuantConnect**
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes including cryptocurrencies. Users can write algorithms in C# and Python and backtest them on historical data.
-[QuantConnect](https://www.quantconnect.com/)
+### 1. **StockSharp**
+[StockSharp](../s/stocksharp.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes including cryptocurrencies. Users can write algorithms in C# and backtest them on historical data.
 
 ### 2. **TradingView**
 [TradingView](../t/tradingview.md) offers extensive charting tools and scripting capabilities through its proprietary Pine Script language. It allows traders to develop and backtest their own [trading strategies](../t/trading_strategies.md).
-[TradingView](https://www.tradingview.com/)
 
 ### 3. **MetaTrader 5 (MT5)**
 MT5 is a popular [trading platform](../t/trading_platform.md) that supports algo trading through its MQL5 programming language. It offers various tools for analysis, [backtesting](../b/backtesting.md), and [optimization](../o/optimization.md) of [trading strategies](../t/trading_strategies.md).
-[MetaTrader 5](https://www.metatrader5.com/)
 
 ### 4. **AlgoTrader**
 [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports cryptocurrency trading along with other [asset](../a/asset.md) classes. It offers comprehensive [backtesting](../b/backtesting.md), [risk management](../r/risk_management.md), and [execution](../e/execution.md) capabilities.
-[AlgoTrader](https://www.algotrader.com/)
 
 ### 5. **Kryll.io**
 Kryll.io offers a visual tool for creating [trading strategies](../t/trading_strategies.md) using drag-and-drop blocks. It supports [multiple](../m/multiple.md) exchanges and provides [backtesting](../b/backtesting.md) and live trading features.
-[Kryll.io](https://kryll.io/)
+Kryll.io
 
 ## Challenges and Risks
 

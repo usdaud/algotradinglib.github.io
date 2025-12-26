@@ -4,7 +4,7 @@
 
 In the world of [finance](../f/finance.md) and trading, a quote (also referred to as a [quotation](../q/quotation.md)) refers to the latest price at which a financial [security](../s/security.md) or [commodity](../c/commodity.md) has traded. Quotes are crucial as they provide investors and traders with the most recent buying and selling price of financial instruments, including [stocks](../s/stock.md), bonds, [foreign exchange](../f/foreign_exchange.md), and various [derivatives](../d/derivatives.md) and commodities. Financial quotes are available from a variety of sources and are essential for making informed trading decisions.
 
-### Bid and Ask Price 
+### Bid and Ask Price
 
 One of the key elements of a quote is the [bid and ask](../b/bid_and_ask.md) (or [offer](../o/offer.md)) prices. The [bid price](../b/bid_price.md) is the maximum price a buyer is willing to pay for a [security](../s/security.md), whereas the ask price is the minimum price a seller is willing to accept. The difference between the [bid and ask](../b/bid_and_ask.md) prices is known as the spread, and it is a reflection of the [liquidity](../l/liquidity.md) and [risk](../r/risk.md) of the [security](../s/security.md). A narrower spread typically indicates higher [liquidity](../l/liquidity.md).
 
@@ -14,7 +14,7 @@ One of the key elements of a quote is the [bid and ask](../b/bid_and_ask.md) (or
 
 ### Market Depth and Level II Quotes
 
-[Market depth](../m/market_depth.md) refers to the [market](../m/market.md)’s ability to absorb a relatively large [market order](../m/market_order.md) without impacting the price of the [security](../s/security.md). It provides insights into the [supply](../s/supply.md) and [demand](../d/demand.md) for a [security](../s/security.md) at various price levels. Level II quotes provide additional [market depth](../m/market_depth.md) information by displaying the bids and asks at different price levels. 
+[Market depth](../m/market_depth.md) refers to the [market](../m/market.md)’s ability to absorb a relatively large [market order](../m/market_order.md) without impacting the price of the [security](../s/security.md). It provides insights into the [supply](../s/supply.md) and [demand](../d/demand.md) for a [security](../s/security.md) at various price levels. Level II quotes provide additional [market depth](../m/market_depth.md) information by displaying the bids and asks at different price levels.
 
 - **[Market Depth](../m/market_depth.md)**: Information about the orders waiting to be filled at different prices.
 - **Level II Quotes**: Display the [order book](../o/order_book.md) and show the [bid and ask](../b/bid_and_ask.md) prices for [multiple](../m/multiple.md) price levels.
@@ -56,7 +56,7 @@ Quotes are available across different types of [financial markets](../f/financia
 
 ### Importance for Trading and Investing
 
-Financial quotes are fundamental for trading and [investing](../i/investing.md). They provide the necessary data to make informed decisions, including when to buy or sell a [security](../s/security.md). For traders, especially those engaged in high-frequency trading or [algorithmic trading](../a/accountability.md), real-time quotes are indispensable.
+Financial quotes are fundamental for trading and [investing](../i/investing.md). They provide the necessary data to make informed decisions, including when to buy or sell a [security](../s/security.md). For traders, especially those engaged in high-frequency trading or [algorithmic trading](../a/algorithmic_trading.md), real-time quotes are indispensable.
 
 ### Sources of Financial Quotes
 

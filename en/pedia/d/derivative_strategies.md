@@ -219,17 +219,17 @@ Effective [risk management](../r/risk_management.md) involves identifying, measu
 
 Leveraging technology and trading platforms is essential for implementing and managing [derivative](../d/derivative.md) strategies. Leading platforms [offer](../o/offer.md) advanced tools for analysis, [execution](../e/execution.md), and [risk management](../r/risk_management.md).
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for [market](../m/market.md) data, analytics, and trading. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **[Trading Technologies](../t/trading_technologies.md)**: A platform [offering](../o/offering.md) advanced trading tools for [futures](../f/futures.md), [options](../o/options.md), and other [derivatives](../d/derivatives.md). [Trading Technologies](https://www.tradingtechnologies.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: A platform providing access to a wide [range](../r/range.md) of global markets and [derivatives](../d/derivatives.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for [market](../m/market.md) data, analytics, and trading. Bloomberg
+- **[Trading Technologies](../t/trading_technologies.md)**: A platform [offering](../o/offering.md) advanced trading tools for [futures](../f/futures.md), [options](../o/options.md), and other [derivatives](../d/derivatives.md). Trading Technologies
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A platform providing access to a wide [range](../r/range.md) of global markets and [derivatives](../d/derivatives.md). Interactive Brokers
 
 ### Regulatory Considerations
 
 Compliance with regulatory requirements is crucial when engaging in [derivative](../d/derivative.md) strategies. Key regulatory bodies include:
 
-- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Oversees securities markets and protects investors. [SEC](https://www.sec.gov/)
-- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: Regulates [futures](../f/futures.md) and [options](../o/options.md) markets in the United States. [CFTC](https://www.cftc.gov/)
-- **European Securities and Markets Authority (ESMA)**: Ensures stability and [transparency](../t/transparency.md) in European [financial markets](../f/financial_market.md). [ESMA](https://www.esma.europa.eu/)
+- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Oversees securities markets and protects investors. SEC
+- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: Regulates [futures](../f/futures.md) and [options](../o/options.md) markets in the United States. CFTC
+- **European Securities and Markets Authority (ESMA)**: Ensures stability and [transparency](../t/transparency.md) in European [financial markets](../f/financial_market.md). ESMA
 
 ## Conclusion
 

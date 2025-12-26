@@ -56,7 +56,7 @@ NFTs are unique digital assets representing ownership or proof of authenticity o
 
 ### Enterprise Applications
 
-Ethereum has also found a [home](../h/home.md) in enterprises, where it is used for private [blockchain](../b/blockchain_in_trading.md) solutions. Companies like ConsenSys (https://consensys.net/) provide enterprise-grade solutions leveraging Ethereum to improve [business](../b/business.md) processes in industries like [supply chain](../s/supply_chain.md), healthcare, and [finance](../f/finance.md).
+Ethereum has also found a [home](../h/home.md) in enterprises, where it is used for private [blockchain](../b/blockchain_in_trading.md) solutions. Companies like ConsenSys ( provide enterprise-grade solutions leveraging Ethereum to improve [business](../b/business.md) processes in industries like [supply chain](../s/supply_chain.md), healthcare, and [finance](../f/finance.md).
 
 ### Initial Coin Offerings (ICOs)
 
@@ -100,4 +100,4 @@ There are concerns about centralization risks associated with staking in Ethereu
 
 ## Concluding Thoughts
 
-Ethereum has played a pivotal role in the development of the [blockchain](../b/blockchain_in_trading.md) and cryptocurrency [industry](../i/industry.md). By providing a flexible and [robust](../r/robust.md) platform for [smart contracts](../s/smart_contracts_in_trading.md) and decentralized applications, Ethereum has opened up a world of possibilities beyond digital currencies. As it continues to evolve with Ethereum 2.0, it aims to address its [scalability](../s/scalability.md) and environmental concerns, positioning itself for further growth and innovation in the years to come. For more detailed information and updates, Ethereum’s official website is a valuable resource: [ethereum.org](https://ethereum.org/).
+Ethereum has played a pivotal role in the development of the [blockchain](../b/blockchain_in_trading.md) and cryptocurrency [industry](../i/industry.md). By providing a flexible and [robust](../r/robust.md) platform for [smart contracts](../s/smart_contracts_in_trading.md) and decentralized applications, Ethereum has opened up a world of possibilities beyond digital currencies. As it continues to evolve with Ethereum 2.0, it aims to address its [scalability](../s/scalability.md) and environmental concerns, positioning itself for further growth and innovation in the years to come. For more detailed information and updates, Ethereum’s public materials is a valuable resource: online resource.

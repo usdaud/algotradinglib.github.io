@@ -9,7 +9,7 @@ At its core, an overnight position represents the [trader](../t/trader.md)'s exp
 ### Overnight vs. Intraday Positions
 
 - **Intraday Positions:** These are positions initiated and closed within the same trading day. Traders who engage in [intraday trading](../i/intraday_trading.md) aim to [capitalize](../c/capitalize.md) on small price movements and typically rely heavily on [technical analysis](../t/technical_analysis.md). The key benefit is that intraday positions avoid the risks associated with holding positions during non-trading hours.
-  
+
 - **Overnight Positions:** In contrast, these are positions held beyond the trading day, exposing the [trader](../t/trader.md) to overnight risks but also potential rewards. Holding an overnight position can be attractive if a [trader](../t/trader.md) anticipates favorable news or trends that may influence prices after [market](../m/market.md) hours.
 
 ## Significance in Different Markets
@@ -80,9 +80,9 @@ Retail traders also engage in overnight positions, especially those who utilize 
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems, such as those developed by firms like Renaissance Technologies, routinely [hold](../h/hold.md) overnight positions. These systems use complex algorithms to identify profitable trading opportunities, which can involve holding onto positions after [market](../m/market.md) close to benefit from anticipated [market](../m/market.md) movements.
+[Algorithmic trading](../a/algorithmic_trading.md) systems, such as those developed by firms like Renaissance Technologies, routinely [hold](../h/hold.md) overnight positions. These systems use complex algorithms to identify profitable trading opportunities, which can involve holding onto positions after [market](../m/market.md) close to benefit from anticipated [market](../m/market.md) movements.
 
-For more information about [algorithmic trading](../a/accountability.md) firms and their methodologies, you can visit [Renaissance Technologies](https://www.rentec.com/).</br>
+For more information about [algorithmic trading](../a/algorithmic_trading.md) firms and their methodologies, you can visit Renaissance Technologies.</br>
 
 ## Conclusion
 

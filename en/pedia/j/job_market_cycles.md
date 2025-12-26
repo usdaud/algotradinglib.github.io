@@ -4,7 +4,7 @@ Understanding the job [market cycles](../m/market_cycles.md) in [algorithmic tra
 
 ## 1. The Evolution of Algorithmic Trading
 
-The origins of [algorithmic trading](../a/algorithmic_trading.md) can be traced back to the 1970s and 1980s with the advent of computer technology in [financial markets](../f/financial_market.md). Electronic communication networks (ECNs) and the development of [quantitative analysis](../q/quantitative_analysis.md) methods laid the groundwork for modern algo-[trading systems](../t/trading_systems.md). By the early 2000s, advancements in high-frequency trading (HFT) further revolutionized the [industry](../i/industry.md), highlighting the need for sophisticated algorithms and [robust](../r/robust.md) trading infrastructures. 
+The origins of [algorithmic trading](../a/algorithmic_trading.md) can be traced back to the 1970s and 1980s with the advent of computer technology in [financial markets](../f/financial_market.md). Electronic communication networks (ECNs) and the development of [quantitative analysis](../q/quantitative_analysis.md) methods laid the groundwork for modern algo-[trading systems](../t/trading_systems.md). By the early 2000s, advancements in high-frequency trading (HFT) further revolutionized the [industry](../i/industry.md), highlighting the need for sophisticated algorithms and [robust](../r/robust.md) trading infrastructures.
 
 ### Key Historical Milestones
 - **1970s-1980s:** Introduction of computer technology in [financial markets](../f/financial_market.md).
@@ -16,12 +16,12 @@ The origins of [algorithmic trading](../a/algorithmic_trading.md) can be traced 
 Several companies have become prominent players in the algo-trading arena, [offering](../o/offering.md) a wide [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), technological solutions, and research capabilities.
 
 ### A. Quantitative Trading Firms
-1. **Two Sigma**: Known for its data-driven approach, Two Sigma integrates technology and [finance](../f/finance.md) to develop sophisticated [trading algorithms](../t/trading_algorithms.md). [Two Sigma](https://www.twosigma.com/)
-2. **Jane Street**: This [firm](../f/firm.md) specializes in providing [liquidity](../l/liquidity.md) and employs a variety of algorithmic and [quantitative trading](../q/quantitative_trading.md) strategies. [Jane Street](https://www.janestreet.com/)
+1. **Two Sigma**: Known for its data-driven approach, Two Sigma integrates technology and [finance](../f/finance.md) to develop sophisticated [trading algorithms](../t/trading_algorithms.md). Two Sigma
+2. **Jane Street**: This [firm](../f/firm.md) specializes in providing [liquidity](../l/liquidity.md) and employs a variety of algorithmic and [quantitative trading](../q/quantitative_trading.md) strategies. Jane Street
 
 ### B. Financial Technology Providers
-1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows developers to design, build, and test [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
-2. **[AlgoTrader](../a/algotrader.md)**: Provides software solutions for multi-[asset](../a/asset.md) [algorithmic trading](../a/algorithmic_trading.md) and automated [execution](../e/execution.md). [AlgoTrader](https://www.algotrader.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows developers to design, build, and test [trading algorithms](../t/trading_algorithms.md). QuantConnect
+2. **[AlgoTrader](../a/algotrader.md)**: Provides software solutions for multi-[asset](../a/asset.md) [algorithmic trading](../a/algorithmic_trading.md) and automated [execution](../e/execution.md). AlgoTrader
 
 ## 3. The Job Market for Algorithmic Traders
 
@@ -83,8 +83,8 @@ Hong Kong, Singapore, and Tokyo are leading algo-trading hubs in the Asia-Pacifi
 Leading institutions [offering](../o/offering.md) specialized programs in [quantitative finance](../q/quantitative_finance.md) and [financial engineering](../f/financial_engineering.md) include MIT, Stanford, and the University of Oxford.
 
 ### B. Online Courses and Certifications
-1. **Coursera**: Offers courses on [algorithmic trading](../a/algorithmic_trading.md), [machine learning](../m/machine_learning.md), and [financial engineering](../f/financial_engineering.md). [Coursera](https://www.coursera.org/)
-2. **Udacity**: Provides nano degree programs focused on programming and [data science](../d/data_science_in_trading.md), relevant for aspiring algo-traders. [Udacity](https://www.udacity.com/)
+1. **Coursera**: Offers courses on [algorithmic trading](../a/algorithmic_trading.md), [machine learning](../m/machine_learning.md), and [financial engineering](../f/financial_engineering.md). Coursera
+2. **Udacity**: Provides nano degree programs focused on programming and [data science](../d/data_science_in_trading.md), relevant for aspiring algo-traders. Udacity
 
 ### C. Professional Networks and Meetups
 Engaging with professional networks, such as those facilitated by the Global Association of [Risk](../r/risk.md) Professionals (GARP) and attending [industry](../i/industry.md) conferences like those hosted by Quantitative Work Alliance for Applied [Finance](../f/finance.md), Education, and Wisdom (QAFAW), help in building connections and staying updated with [industry](../i/industry.md) trends.

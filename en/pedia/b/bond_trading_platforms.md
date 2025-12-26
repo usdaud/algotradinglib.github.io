@@ -5,19 +5,19 @@
 ### Major Players in Bond Trading Platforms
 
 1. **[MarketAxess](../m/marketaxess.md)**
-   - [MarketAxess](https://www.marketaxess.com/) is one of the leading electronic trading platforms for fixed-[income](../i/income.md) securities. Known for its unparalleled reach in [corporate bond trading](../c/corporate_bond_trading.md), [MarketAxess](../m/marketaxess.md) offers a [robust](../r/robust.md), all-to-all [trading environment](../t/trading_environment.md) that includes institutional investors, [broker](../b/broker.md)-dealers, and other [market](../m/market.md) participants.
+ - MarketAxess is one of the leading electronic trading platforms for fixed-[income](../i/income.md) securities. Known for its unparalleled reach in [corporate bond trading](../c/corporate_bond_trading.md), [MarketAxess](../m/marketaxess.md) offers a [robust](../r/robust.md), all-to-all [trading environment](../t/trading_environment.md) that includes institutional investors, [broker](../b/broker.md)-dealers, and other [market](../m/market.md) participants.
 
 2. **Tradeweb**
-   - [Tradeweb](https://www.tradeweb.com/) provides an electronic trading network that supports a wide [range](../r/range.md) of fixed-[income](../i/income.md) securities. Tradeweb has a vast network and combines advanced technology with deep [liquidity](../l/liquidity.md) to [offer](../o/offer.md) comprehensive trading solutions for institutional investors.
+ - Tradeweb provides an electronic trading network that supports a wide [range](../r/range.md) of fixed-[income](../i/income.md) securities. Tradeweb has a vast network and combines advanced technology with deep [liquidity](../l/liquidity.md) to [offer](../o/offer.md) comprehensive trading solutions for institutional investors.
 
 3. **[Bloomberg](../b/bloomberg.md) ([Bloomberg](../b/bloomberg.md) Terminal)**
-   - The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) is a multifaceted tool providing not just [bond](../b/bond.md) trading capabilities but also a plethora of other financial services. It remains an [industry](../i/industry.md) standard in accessing [real-time market data](../r/real-time_market_data.md), news, and analytical tools alongside [bond](../b/bond.md) trading functionalities.
+ - The Bloomberg Terminal is a multifaceted tool providing not just [bond](../b/bond.md) trading capabilities but also a plethora of other financial services. It remains an [industry](../i/industry.md) standard in accessing [real-time market data](../r/real-time_market_data.md), news, and analytical tools alongside [bond](../b/bond.md) trading functionalities.
 
 4. **BondCliQ**
-   - [BondCliQ](https://www.bondcliq.com/) focuses on improving the clarity and [transparency](../t/transparency.md) of the [bond market](../b/bond_market.md). The platform specializes in consolidating and distributing institutional [bond](../b/bond.md) quotes, providing [market](../m/market.md) participants with better insights and trading opportunities.
+ - BondCliQ focuses on improving the clarity and [transparency](../t/transparency.md) of the [bond market](../b/bond_market.md). The platform specializes in consolidating and distributing institutional [bond](../b/bond.md) quotes, providing [market](../m/market.md) participants with better insights and trading opportunities.
 
 5. **Liquidnet**
-   - [Liquidnet](https://www.liquidnet.com/) offers a unique approach to [bond](../b/bond.md) trading by leveraging its extensive network of [asset](../a/asset.md) managers. Their platform facilitates [large block trades](../l/large_block_trades.md) with minimized [market](../m/market.md) impact, catering to institutional needs and providing high levels of [liquidity](../l/liquidity.md).
+ - Liquidnet offers a unique approach to [bond](../b/bond.md) trading by leveraging its extensive network of [asset](../a/asset.md) managers. Their platform facilitates [large block trades](../l/large_block_trades.md) with minimized [market](../m/market.md) impact, catering to institutional needs and providing high levels of [liquidity](../l/liquidity.md).
 
 ### Core Functionalities of Bond Trading Platforms
 
@@ -74,4 +74,4 @@ Future [bond](../b/bond.md) trading platforms may [offer](../o/offer.md) more co
 
 ### Conclusion
 
-[Bond](../b/bond.md) trading platforms represent a pivotal advance in the modernization of fixed-[income](../i/income.md) markets, [offering](../o/offering.md) unprecedented levels of [efficiency](../e/efficiency.md), [transparency](../t/transparency.md), and accessibility. As technology continues to evolve, these platforms are poised to introduce further innovations that [will](../w/will.md) shape the future of [bond](../b/bond.md) trading. Whether through AI, [blockchain](../b/blockchain_in_trading.md), or enhanced regulatory compliance, [bond](../b/bond.md) trading platforms [will](../w/will.md) continue to play a critical role in the financial ecosystem, driving forward the next wave of advancements in the [bond](../b/bond.md) markets.
+[Bond](../b/bond.md) trading platforms represent a pivotal advance in the modernization of fixed-[income](../i/income.md) markets, [offering](../o/offering.md) unprecedented levels of [efficiency](../e/efficiency.md), [transparency](../t/transparency.md), and accessibility. As technology continues to evolve, these platforms are poised to introduce further innovations that [will](../w/will.md) shape the future of [bond](../b/bond.md) trading. Whether through AI, [blockchain](../b/blockchain_in_trading.md), or enhanced regulatory compliance, [bond](../b/bond.md) trading platforms [will](../w/will.md) continue to play a critical role in the financial ecosystem, driving forward the next wave of advancements in the [bond](../b/bond.md) markets.

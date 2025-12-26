@@ -62,8 +62,8 @@ Many trading platforms like MetaTrader 5, [TradeStation](../t/tradestation.md), 
 
 ### Third-Party Analytics Tools
 
-- **Bookmap [Bookmap](https://www.bookmap.com/)**: A popular tool for visualizing [order book](../o/order_book.md) data in real-time, providing [heatmaps](../h/heatmaps_in_trading.md) and other visual cues to understand [market depth](../m/market_depth.md) and [order](../o/order.md) flow.
-- **[QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com/)**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and includes tools for [order book](../o/order_book.md) analysis.
+- **Bookmap Bookmap**: A popular tool for visualizing [order book](../o/order_book.md) data in real-time, providing [heatmaps](../h/heatmaps_in_trading.md) and other visual cues to understand [market depth](../m/market_depth.md) and [order](../o/order.md) flow.
+- **[QuantConnect](../q/quantconnect.md) QuantConnect**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and includes tools for [order book](../o/order_book.md) analysis.
 
 ### Proprietary Software
 

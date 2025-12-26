@@ -90,21 +90,21 @@ There is an increasing [demand](../d/demand.md) for sustainable and ethically so
 
 ### eBay
 
-eBay remains a quintessential example of a successful C2C platform. It has continually adapted to changing [market](../m/market.md) conditions by incorporating new features like "Buy It Now," which allows for instant purchases, and eBay Stores, which let sellers create branded storefronts. 
+eBay remains a quintessential example of a successful C2C platform. It has continually adapted to changing [market](../m/market.md) conditions by incorporating new features like "Buy It Now," which allows for instant purchases, and eBay Stores, which let sellers create branded storefronts.
 
-Visit: [eBay](https://www.ebay.com)
+Visit: eBay
 
 ### Airbnb
 
 Airbnb has revolutionized the travel [industry](../i/industry.md) by enabling homeowners to rent out their properties. It has built [trust](../t/trust.md) through verifications, reviews, and [customer](../c/customer.md) support, making it a trusted name in travel accommodations.
 
-Visit: [Airbnb](https://www.airbnb.com)
+Visit: Airbnb
 
 ### Etsy
 
 Etsy empowers individual artisans and craftspeople to reach a global audience. Its emphasis on handmade and [vintage](../v/vintage.md) items differentiates it from other e-[commerce](../c/commerce.md) platforms.
 
-Visit: [Etsy](https://www.etsy.com)
+Visit: Etsy
 
 ## Conclusion
 

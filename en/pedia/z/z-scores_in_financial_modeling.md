@@ -70,17 +70,12 @@ df['[Z-Score](../z/z-score.md)'] = (df['Returns'] - mean_return) / std_return
 print(df)
 ```
 
-### Companies Leveraging Z-Scores 
+### Companies Leveraging Z-Scores
 
 1. **Goldman Sachs**: This global investment [bank](../b/bank.md) uses statistical and [quantitative analysis](../q/quantitative_analysis.md) extensively, including [Z-scores](../z/z-scores_in_trading.md), to manage portfolios and develop [trading strategies](../t/trading_strategies.md).
-   - Website: [Goldman Sachs](https://www.goldmansachs.com)
-
 2. **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that focuses on [systematic trading](../s/systematic_trading.md) strategies and employs statistical models and [machine learning](../m/machine_learning.md) techniques, including [Z-scores](../z/z-scores_in_trading.md), to make investment decisions.
-   - Website: [Two Sigma](https://www.twosigma.com)
 
 3. **AQR [Capital](../c/capital.md) Management**: Known for its quantitative approach to [investment management](../i/investment_management.md), AQR utilizes [Z-scores](../z/z-scores_in_trading.md) among various other statistical tools for [risk](../r/risk.md) assessment and [portfolio optimization](../p/portfolio_optimization.md).
-   - Website: [AQR Capital Management](https://www.aqr.com)
 
 ### Conclusion
-
 [Z-scores](../z/z-scores_in_trading.md) are fundamental tools in [financial modeling](../f/financial_modeling.md) and analysis, enabling analysts to standardize returns, detect outliers, and gauge [risk](../r/risk.md). The [Altman Z-Score](../a/altman_z-score.md) is a classic example of its application in assessing the likelihood of corporate [bankruptcy](../b/bankruptcy.md). Despite its simplicity and effectiveness, one should be aware of the limitations and ensure a comprehensive analysis by incorporating other metrics and models.

@@ -46,4 +46,3 @@ The Greenspan Put remains a significant concept in understanding the relationshi
 
 ---
 
-For more details on Greenspan's policies and their impact, you can visit the Federal Reserve's official website [here](https://www.federalreserve.gov/).

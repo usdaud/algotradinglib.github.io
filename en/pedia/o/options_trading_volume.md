@@ -68,10 +68,10 @@ Softwares like OptionVue, ORATS, and [Livevol](../l/livevol.md) cater specifical
 
 For further information and tools related to [options](../o/options.md) trading [volume](../v/volume.md), you can explore the following resources:
 
-- [Nasdaq - Options Trading](https://www.nasdaq.com/solutions/nasdaq-options-market)
-- [E*TRADE - Options Trading](https://us.etrade.com/trading/options)
-- [TD Ameritrade - Options Trading](https://www.tdameritrade.com/investment-products/options-trading.page)
-- [Interactive Brokers - Options Trading](https://www.interactivebrokers.com/en/index.php?f=1264)
-- [OptionVue](https://www.optionvue.com/)
-- [ORATS](https://www.orats.com/)
-- [Livevol](https://www.livevol.com/)
+- Nasdaq - Options Trading
+- E*TRADE - Options Trading
+- TD Ameritrade - Options Trading
+- Interactive Brokers - Options Trading
+- OptionVue
+- ORATS
+- Livevol

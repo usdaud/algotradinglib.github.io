@@ -48,7 +48,7 @@ Various [mathematical models](../m/mathematical_models_in_trading.md) can be use
 
 #### Hedging Strategies
 
-Barrier [options](../o/options.md) require sophisticated [hedging strategies](../h/hedging_strategies.md) due to their path-dependent nature. Traditional [delta hedging](../d/delta_hedging.md) is often insufficient. Traders might use a combination of [Delta](../d/delta.md), [Gamma](../g/gamma.md), and [Vega](../v/vega.md) hedges to mitigate [risk](../r/risk.md) effectively. 
+Barrier [options](../o/options.md) require sophisticated [hedging strategies](../h/hedging_strategies.md) due to their path-dependent nature. Traditional [delta hedging](../d/delta_hedging.md) is often insufficient. Traders might use a combination of [Delta](../d/delta.md), [Gamma](../g/gamma.md), and [Vega](../v/vega.md) hedges to mitigate [risk](../r/risk.md) effectively.
 
 Banks and financial institutions [offering](../o/offering.md) barrier [options](../o/options.md) might additionally employ:
 
@@ -63,15 +63,15 @@ Banks and financial institutions [offering](../o/offering.md) barrier [options](
 
 #### Counterparty Risk
 
-One significant concern with knock-out barrier [options](../o/options.md) is the [counterparty risk](../c/counterparty_risk.md), especially in [over-the-counter (OTC) markets](../o/over-the-counter_markets.md). Since these [options](../o/options.md) are often customized contracts negotiated directly between parties, the [risk](../r/risk.md) of [default](../d/default.md) by the [counterparty](../c/counterparty.md) can be higher. 
+One significant concern with knock-out barrier [options](../o/options.md) is the [counterparty risk](../c/counterparty_risk.md), especially in [over-the-counter (OTC) markets](../o/over-the-counter_markets.md). Since these [options](../o/options.md) are often customized contracts negotiated directly between parties, the [risk](../r/risk.md) of [default](../d/default.md) by the [counterparty](../c/counterparty.md) can be higher.
 
 #### Real-World Examples and Providers
 
 Several prominent financial institutions provide knock-out barrier [options](../o/options.md). For practical engagements and additional resources, one could refer to:
 
-- **Goldman Sachs**: [Official Website](https://www.goldmansachs.com)
-- **J.P. Morgan**: [Official Website](https://www.jpmorgan.com)
-- **Barclays**: [Official Website](https://www.barclays.com)
+- **Goldman Sachs**:
+- **J.P. Morgan**:
+- **Barclays**:
 
 These institutions [offer](../o/offer.md) a suite of [exotic options](../e/exotic_options.md), including knock-out barrier [options](../o/options.md), and provide detailed insights and tools for managing these complex financial instruments.
 

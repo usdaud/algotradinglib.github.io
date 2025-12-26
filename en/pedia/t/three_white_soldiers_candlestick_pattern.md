@@ -45,7 +45,7 @@ A [market](../m/market.md) that has run too far too fast may be prone to a subse
 
 ## Advanced Applications in Algorithmic Trading
 ### Pattern Recognition Algorithms
-In [algorithmic trading](../a/accountability.md), [pattern recognition](../p/pattern_recognition.md) algorithms can be developed to identify the Three White Soldiers pattern automatically. These algorithms can analyze vast amounts of data to detect the pattern's formation in real-time, potentially [offering](../o/offering.md) a significant edge over manual trading.
+In [algorithmic trading](../a/algorithmic_trading.md), [pattern recognition](../p/pattern_recognition.md) algorithms can be developed to identify the Three White Soldiers pattern automatically. These algorithms can analyze vast amounts of data to detect the pattern's formation in real-time, potentially [offering](../o/offering.md) a significant edge over manual trading.
 
 ### Integration with Machine Learning
 [Machine learning](../m/machine_learning.md) models can be trained to enhance the prediction accuracy of the Three White Soldiers pattern by incorporating various features such as [market sentiment](../m/market_sentiment.md), trading [volume](../v/volume.md), and other [technical indicators](../t/technical_indicator.md).

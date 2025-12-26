@@ -1,6 +1,6 @@
 # Federal Funds
 
-Federal funds, commonly referred to as "fed funds," are overnight borrowings between banks and other financial institutions to maintain their [reserve requirements](../r/reserve_requirements.md) at the Federal Reserve. These funds play a critical role in the United States' banking system, facilitating [liquidity](../l/liquidity.md) and stability, and influencing overall economic activity through their impact on [interest](../i/interest.md) rates. 
+Federal funds, commonly referred to as "fed funds," are overnight borrowings between banks and other financial institutions to maintain their [reserve requirements](../r/reserve_requirements.md) at the Federal Reserve. These funds play a critical role in the United States' banking system, facilitating [liquidity](../l/liquidity.md) and stability, and influencing overall economic activity through their impact on [interest](../i/interest.md) rates.
 
 ## Overview of Federal Funds
 
@@ -43,10 +43,10 @@ Banks typically engage in federal funds transactions through a [broker](../b/bro
 ### Significance for Financial Institutions
 
 - **[Interest Rate](../i/interest_rate.md) Management**: Banks use federal funds transactions to manage their [interest rate](../i/interest_rate.md) exposure. By borrowing or lending fed funds, banks can influence their net [interest](../i/interest.md) margins—the difference between [interest](../i/interest.md) earned on assets and [interest](../i/interest.md) paid on liabilities.
-  
+
 - **[Liquidity](../l/liquidity.md) Management**: Federal funds play a pivotal role in [liquidity](../l/liquidity.md) management. They allow banks to smooth out fluctuations in reserve levels due to uncertainties in [deposit](../d/deposit.md) inflows or [loan](../l/loan.md) disbursements.
 
-- **[Risk Management](../r/risk_management.md)**: The ability to access the federal funds [market](../m/market.md) provides a safety net for banks, allowing them to manage short-term [liquidity](../l/liquidity.md) risks more effectively and maintain operational stability. 
+- **[Risk Management](../r/risk_management.md)**: The ability to access the federal funds [market](../m/market.md) provides a safety net for banks, allowing them to manage short-term [liquidity](../l/liquidity.md) risks more effectively and maintain operational stability.
 
 ## Federal Funds Rate and Economic Impacts
 

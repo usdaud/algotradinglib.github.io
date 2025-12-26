@@ -28,10 +28,7 @@ The **[buy and hold strategy](../b/buy_and_hold_strategy.md)** involves purchasi
 
 Also known as **robo-advisors**, automated investment services use algorithms to create and manage a diversified portfolio tailored to an [investor](../i/investor.md)'s goals and [risk tolerance](../r/risk_tolerance.md). Robo-advisors typically use ETFs to construct portfolios, [offering](../o/offering.md) a cost-effective and hands-off approach to [passive investing](../p/passive_investing.md). Notable robo-advisors include:
 
-- Betterment: [https://www.betterment.com/](https://www.betterment.com/)
-- Wealthfront: [https://www.wealthfront.com/](https://www.wealthfront.com/)
-- Vanguard Personal Advisor Services: [https://investor.vanguard.com/advice/personal-advisor](https://investor.vanguard.com/advice/personal-advisor)
-
+- Betterment- Wealthfront- Vanguard Personal Advisor Services
 ## Benefits of Passive Investment Strategies
 
 ### Lower Costs
@@ -78,32 +75,27 @@ Unlike active managers who can quickly adjust portfolios in response to [market]
 
 The Vanguard 500 [Index Fund](../i/index_fund.md) seeks to track the performance of the S&P 500 [Index](../i/index_instrument.md). It is one of the most well-known and widely used [index](../i/index_instrument.md) funds, [offering](../o/offering.md) broad exposure to U.S. [large-cap stocks](../l/large_cap_stocks.md).
 
-**Website**: [https://investor.vanguard.com/mutual-funds/profile/VFIAX](https://investor.vanguard.com/mutual-funds/profile/VFIAX)
-
+**online platform**
 ### SPDR S&P 500 ETF Trust (SPY)
 
 SPY is one of the first ETFs introduced and remains one of the most popular. It aims to replicate the performance of the S&P 500 [Index](../i/index_instrument.md), providing investors with a convenient way to invest in U.S. [large-cap stocks](../l/large_cap_stocks.md).
 
-**Website**: [https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy)
-
+**online platform**
 ### iShares MSCI Emerging Markets ETF (EEM)
 
 EEM tracks the performance of the MSCI Emerging Markets [Index](../i/index_instrument.md), [offering](../o/offering.md) exposure to a broad [range](../r/range.md) of companies in emerging and developing economies. This ETF provides [diversification](../d/diversification.md) across various sectors and countries outside the developed markets.
 
-**Website**: [https://www.ishares.com/us/products/239637/](https://www.ishares.com/us/products/239637/)
-
+**online platform**
 ### Fidelity ZERO Total Market Index Fund (FZROX)
 
 FZROX is an [index fund](../i/index_fund.md) that aims to replicate the performance of the Fidelity U.S. Total Investable [Market Index](../m/market_index.md). It is part of Fidelity's ZERO [fee](../f/fee.md) funds, which charge no [expense ratio](../e/expense_ratio.md), making it highly cost-effective for investors.
 
-**Website**: [https://fundresearch.fidelity.com/mutual-funds/summary/31635T826](https://fundresearch.fidelity.com/mutual-funds/summary/31635T826)
-
+**online platform**
 ### Schwab U.S. Broad Market ETF (SCHB)
 
 SCHB seeks to track the performance of the Dow Jones U.S. Broad Stock [Market Index](../m/market_index.md), [offering](../o/offering.md) exposure to a wide [range](../r/range.md) of U.S. [stocks](../s/stock.md) across various sectors and [market](../m/market.md) capitalizations. It is known for its low [expense ratio](../e/expense_ratio.md) and broad [market](../m/market.md) coverage.
 
-**Website**: [https://www.schwabassetmanagement.com/products/schb](https://www.schwabassetmanagement.com/products/schb)
-
+**online platform**
 ## The Role of Technology and Algorithmic Trading
 
 ### Algorithmic Index Tracking

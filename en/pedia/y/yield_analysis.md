@@ -13,7 +13,7 @@
 ### Types of Yield
 
 1. **[Current Yield](../c/current_yield.md)**: Indicates the annual [income](../i/income.md) ([interest](../i/interest.md) or dividends) divided by the current price of the [security](../s/security.md). This is a snapshot view and doesn't account for the entire life of the investment.
-   
+
 2. **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: Reflects the [total return](../t/total_return.md) anticipated if the [bond](../b/bond.md) is held until it matures, considering all coupon payments and the difference between the purchase price and the [par value](../p/par_value.md).
 
 3. **[Yield to Call](../y/yield_to_call.md) (YTC)**: Assumes the [bond](../b/bond.md) [will](../w/will.md) be called (redeemed by the [issuer](../i/issuer.md)) before it matures, which is relevant for callable bonds.
@@ -22,28 +22,28 @@
 
 ### Calculations Involved
 
-- **[Current Yield](../c/current_yield.md)**: 
-  \[
-  \text{[Current Yield](../c/current_yield.md)} = \frac{\text{Annual Coupon [Payment](../p/payment.md)}}{\text{Current [Market Price](../m/market_price.md)}}
-  \]
+- **[Current Yield](../c/current_yield.md)**:
+ \[
+ \text{[Current Yield](../c/current_yield.md)} = \frac{\text{Annual Coupon [Payment](../p/payment.md)}}{\text{Current [Market Price](../m/market_price.md)}}
+ \]
 
-- **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: 
-  \[
-  \text{YTM} = \sqrt[n]{\frac{C + \frac{F - P}{n}}{\frac{F + P}{2}}}
-  \]
-  Where \(C\) is the annual coupon [payment](../p/payment.md), \(F\) is the [face value](../f/face_value.md) of the [bond](../b/bond.md), \(P\) is the price of the [bond](../b/bond.md), and \(n\) is the years to [maturity](../m/maturity.md).
+- **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**:
+ \[
+ \text{YTM} = \sqrt[n]{\frac{C + \frac{F - P}{n}}{\frac{F + P}{2}}}
+ \]
+ Where \(C\) is the annual coupon [payment](../p/payment.md), \(F\) is the [face value](../f/face_value.md) of the [bond](../b/bond.md), \(P\) is the price of the [bond](../b/bond.md), and \(n\) is the years to [maturity](../m/maturity.md).
 
-- **[Yield Spread](../y/yield_spread.md)**: 
-  \[
-  \text{[Yield Spread](../y/yield_spread.md)} = \text{[Yield](../y/yield.md) on [Bond](../b/bond.md) A} - \text{[Yield](../y/yield.md) on [Bond](../b/bond.md) B}
-  \]
+- **[Yield Spread](../y/yield_spread.md)**:
+ \[
+ \text{[Yield Spread](../y/yield_spread.md)} = \text{[Yield](../y/yield.md) on [Bond](../b/bond.md) A} - \text{[Yield](../y/yield.md) on [Bond](../b/bond.md) B}
+ \]
 
 ## Tools and Techniques in Algorithmic Yield Analysis
 
 ### Algorithms
 
 1. **Simple [Yield](../y/yield.md) Algorithms**: Implement basic formulas for [Current Yield](../c/current_yield.md) and [Yield to Maturity](../y/yield_to_maturity.md) (YTM) computation.
-   
+
 2. **Complex Statistical Models**: Use [stochastic processes](../s/stochastic_processes.md), Monte Carlo simulations, and historical data to predict yields under various [market](../m/market.md) conditions.
 
 ### Software and Platforms
@@ -51,16 +51,12 @@
 Some advanced trading platforms and tools used for [yield](../y/yield.md) analysis in algo trading include:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive [yield](../y/yield.md) data and analytical tools.
-  [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Another leading platform [offering](../o/offering.md) [yield analysis tools](../y/yield_analysis_tools.md).
-  [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create and backtest [yield analysis models](../y/yield_analysis_models.md).
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create and backtest [yield analysis models](../y/yield_analysis_models.md).
 
 - **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for calculating [yield](../y/yield.md) and other financial metrics.
-  [Quantlib](https://www.quantlib.org/)
 
 ## Practical Applications in Algorithmic Trading
 

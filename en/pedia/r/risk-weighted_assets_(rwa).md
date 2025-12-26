@@ -48,7 +48,7 @@ Implemented in response to the 2008 [financial crisis](../f/financial_crisis.md)
 - Introduction of the [leverage ratio](../l/leverage_ratio.md).
 - [Liquidity](../l/liquidity.md) requirements like the [Liquidity](../l/liquidity.md) [Coverage Ratio](../c/coverage_ratio.md) (LCR) and Net Stable Funding Ratio (NSFR).
 
-For detailed information on [Basel III](../b/basel_iii.md), visit the official Basel Committee on Banking Supervision (BCBS) website: [BCBS Basel III](https://www.bis.org/bcbs/basel3.htm).
+For detailed information on [Basel III](../b/basel_iii.md),
 
 ## 4. Types of Risks Considered in RWAs
 
@@ -58,7 +58,7 @@ For detailed information on [Basel III](../b/basel_iii.md), visit the official B
 
 ### 4.2. Market Risk
 
-[Market risk](../m/market_risk.md) involves changes in the [market](../m/market.md) conditions affecting the [value](../v/value.md) of trading portfolios. This includes [interest rate risk](../i/interest_rate_risk.md), [equity](../e/equity.md) [risk](../r/risk.md), [foreign exchange risk](../f/foreign_exchange_risk.md), and [commodity](../c/commodity.md) [risk](../r/risk.md). 
+[Market risk](../m/market_risk.md) involves changes in the [market](../m/market.md) conditions affecting the [value](../v/value.md) of trading portfolios. This includes [interest rate risk](../i/interest_rate_risk.md), [equity](../e/equity.md) [risk](../r/risk.md), [foreign exchange risk](../f/foreign_exchange_risk.md), and [commodity](../c/commodity.md) [risk](../r/risk.md).
 
 ### 4.3. Operational Risk
 
@@ -126,11 +126,10 @@ Regulators and banks increasingly incorporate ESG factors into [risk](../r/risk.
 
 Efforts towards global harmonization of financial regulations aim to ensure consistent application of RWA frameworks across jurisdictions, enhancing cross-border financial stability.
 
-For more information about upcoming changes and ongoing research in RWAs, you may refer to resources provided by the Financial Stability Board: [Financial Stability Board](https://www.fsb.org/).
+For more information about upcoming changes and ongoing research in RWAs, you may refer to resources provided by the Financial Stability Board: Financial Stability Board.
 
 ## 9. Conclusion
 
 [Risk-Weighted Assets](../r/risk-weighted_assets.md) (RWAs) are a foundational element of modern financial regulation, enabling a [robust](../r/robust.md) method of ensuring that banks maintain adequate [capital](../c/capital.md) to cover potential risks. By integrating considerations for [credit](../c/credit.md), [market](../m/market.md), and operational risks, RWAs support financial stability and encourage prudent [risk management](../r/risk_management.md). Despite the complexities and challenges, ongoing advancements and regulatory developments promise to refine the approach, further securing the [financial system](../f/financial_system.md) against unforeseen shocks.
 
-For further reading and detailed regulatory guidelines, you can visit the [Bank](../b/bank.md) for International Settlements website: [Bank for International Settlements](https://www.bis.org/).
-
+For further reading and detailed regulatory guidelines, you can visit the [Bank](../b/bank.md) for International Settlements online platform: Bank for International Settlements.

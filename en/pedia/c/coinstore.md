@@ -99,4 +99,3 @@ Coinstore is continuously evolving, with several advancements and features in th
 
 Coinstore represents a comprehensive platform for cryptocurrency trading, [offering](../o/offering.md) a wide array of features tailored to both novice and professional traders. With its user-friendly interface, [robust](../r/robust.md) [security](../s/security.md) measures, and extensive [range](../r/range.md) of supported cryptocurrencies, Coinstore is well-positioned to remain a prominent player in the crypto [exchange](../e/exchange.md) ecosystem.
 
-For more information, you can visit their official website: [Coinstore](https://www.coinstore.com)

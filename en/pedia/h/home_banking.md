@@ -142,23 +142,23 @@ Sustainability and environmental considerations are becoming important in the ba
 
 ### Bank of America
 
-[Bank](../b/bank.md) of America offers a comprehensive [home](../h/home.md) banking platform that includes [online banking](../o/online_banking.md) and [mobile banking](../m/mobile_banking.md) services. Customers can manage accounts, transfer funds, pay bills, and [deposit](../d/deposit.md) checks using the platform. More information is available on their official website: [Bank of America Online Banking](https://www.bankofamerica.com/online-banking/overview/).
+[Bank](../b/bank.md) of America offers a comprehensive [home](../h/home.md) banking platform that includes [online banking](../o/online_banking.md) and [mobile banking](../m/mobile_banking.md) services. Customers can manage accounts, transfer funds, pay bills, and [deposit](../d/deposit.md) checks using the platform.
 
 ### Chase Bank
 
-Chase [Bank](../b/bank.md) provides a [robust](../r/robust.md) [online banking](../o/online_banking.md) system with a wide [range](../r/range.md) of features, including account management, [money](../m/money.md) transfers, bill payments, and [financial planning](../f/financial_planning.md) tools. Their [mobile banking](../m/mobile_banking.md) app is designed to [offer](../o/offer.md) a seamless user experience. Visit their website for details: [Chase Online Banking](https://www.chase.com/digital/online-banking).
+Chase [Bank](../b/bank.md) provides a [robust](../r/robust.md) [online banking](../o/online_banking.md) system with a wide [range](../r/range.md) of features, including account management, [money](../m/money.md) transfers, bill payments, and [financial planning](../f/financial_planning.md) tools. Their [mobile banking](../m/mobile_banking.md) app is designed to [offer](../o/offer.md) a seamless user experience.
 
 ### Wells Fargo
 
-Wells Fargo's [home](../h/home.md) banking services include [online banking](../o/online_banking.md) and a mobile app that supports various financial transactions. They [offer](../o/offer.md) financial management tools, customized alerts, and comprehensive [customer](../c/customer.md) support. Learn more at: [Wells Fargo Online Banking](https://www.wellsfargo.com/online-banking/).
+Wells Fargo's [home](../h/home.md) banking services include [online banking](../o/online_banking.md) and a mobile app that supports various financial transactions. They [offer](../o/offer.md) financial management tools, customized alerts, and comprehensive [customer](../c/customer.md) support. Learn more at: Wells Fargo Online Banking.
 
 ### Citibank
 
-Citibank provides an extensive suite of [online banking](../o/online_banking.md) services, including account monitoring, [fund](../f/fund.md) transfers, bill payments, and [investment management](../i/investment_management.md). Their platform emphasizes [security](../s/security.md) and user convenience. For more information, visit: [Citi Online Banking](https://online.citi.com/US/login.do?JFP_TOKEN=BWIJ37XY).
+Citibank provides an extensive suite of [online banking](../o/online_banking.md) services, including account monitoring, [fund](../f/fund.md) transfers, bill payments, and [investment management](../i/investment_management.md). Their platform emphasizes [security](../s/security.md) and user convenience. For more information, visit: Citi Online Banking.
 
 ### HSBC
 
-HSBC offers global [home](../h/home.md) banking services that cater to personal and [business](../b/business.md) customers. Their platform includes features for managing [multiple](../m/multiple.md) accounts, international [fund](../f/fund.md) transfers, and detailed financial analytics. Explore their offerings at: [HSBC Personal Internet Banking](https://www.us.hsbc.com/online-banking/).
+HSBC offers global [home](../h/home.md) banking services that cater to personal and [business](../b/business.md) customers. Their platform includes features for managing [multiple](../m/multiple.md) accounts, international [fund](../f/fund.md) transfers, and detailed financial analytics. Explore their offerings at: HSBC Personal Internet Banking.
 
 ## Conclusion
 

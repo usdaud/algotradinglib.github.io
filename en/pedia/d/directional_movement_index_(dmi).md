@@ -4,9 +4,9 @@ The Directional Movement [Index](../i/index_instrument.md) (DMI) is a technical 
 
 ### Components of DMI
 
-The DMI consists of three main components:  
-1. **Plus Directional [Indicator](../i/indicator.md) (+DI):** This [indicator](../i/indicator.md) measures upward movement or the strength of positive price changes. It captures the largest part of daily high movements over a specified period.  
-2. **Minus Directional [Indicator](../i/indicator.md) (-DI):** This element captures downward price movements and shows the strength of negative price changes, considering the largest part of daily low movements over a specified period.  
+The DMI consists of three main components:
+1. **Plus Directional [Indicator](../i/indicator.md) (+DI):** This [indicator](../i/indicator.md) measures upward movement or the strength of positive price changes. It captures the largest part of daily high movements over a specified period.
+2. **Minus Directional [Indicator](../i/indicator.md) (-DI):** This element captures downward price movements and shows the strength of negative price changes, considering the largest part of daily low movements over a specified period.
 3. **[Average Directional Index](../a/average_directional_index_(adx).md) (ADX):** This component specifies the overall strength of the [trend](../t/trend.md), regardless of its direction. The ADX is derived from the smoothed averages of the difference between +DI and -DI.
 
 ### Calculating DMI
@@ -14,21 +14,21 @@ The DMI consists of three main components:
 To understand the DMI components, we must first calculate the True [Range](../r/range.md) (TR), Plus Directional Movement (+DM), and Minus Directional Movement (-DM).
 
 1. **True [Range](../r/range.md) (TR):** The maximum [range](../r/range.md) of price movement for a given period, which is derived as follows:
-   - \( TR = \max[(Hight - Lowt), |Hight - Closet-1|, |Lowt - Closet-1|] \)
+ - \( TR = \max[(Hight - Lowt), |Hight - Closet-1|, |Lowt - Closet-1|] \)
 
 2. **Plus Directional Movement (+DM):** Only the positive part of price movement between the current and previous periods:
-   - If \( Hight - High_{t-1} > Low_{t-1} - Lowt \) and \( Hight - High_{t-1} > 0 \), then \( +DM = Hight - High_{t-1} \); otherwise, \( +DM = 0 \)
+ - If \( Hight - High_{t-1} > Low_{t-1} - Lowt \) and \( Hight - High_{t-1} > 0 \), then \( +DM = Hight - High_{t-1} \); otherwise, \( +DM = 0 \)
 
 3. **Minus Directional Movement (-DM):** The negative part of price movement between the current and previous periods:
-   - If \( Low_{t-1} - Lowt > Hight - High_{t-1} \) and \( Low_{t-1} - Lowt > 0 \), then \( -DM = Low_{t-1} - Lowt \); otherwise, \( -DM = 0 \)
+ - If \( Low_{t-1} - Lowt > Hight - High_{t-1} \) and \( Low_{t-1} - Lowt > 0 \), then \( -DM = Low_{t-1} - Lowt \); otherwise, \( -DM = 0 \)
 
 The smoothed averages of +DM and -DM over a specified period (commonly 14 days) are then calculated to get the Plus and Minus Directional Indicators:
-   - \( +DI = \left( \frac{SMMA(+DM)}{TR} \right) \times 100 \)
-   - \( -DI = \left( \frac{SMMA(-DM)}{TR} \right) \times 100 \)
+ - \( +DI = \left( \frac{SMMA(+DM)}{TR} \right) \times 100 \)
+ - \( -DI = \left( \frac{SMMA(-DM)}{TR} \right) \times 100 \)
 
 Where SMMA refers to the smoothed moving average. The ADX is then computed as the smoothed average of the Directional Movement [Index](../i/index_instrument.md) (DX):
-   - \( DX = \left( \frac{| +DI - -DI |}{+DI + -DI } \right) \times 100 \)
-   - \( ADX = SMMA(DX) \)
+ - \( DX = \left( \frac{| +DI - -DI |}{+DI + -DI } \right) \times 100 \)
+ - \( ADX = SMMA(DX) \)
 
 ### Interpreting DMI
 
@@ -74,11 +74,10 @@ Another use case is a [range](../r/range.md)-bound or sideways [market](../m/mar
 
 Several [algorithmic trading](../a/algorithmic_trading.md) platforms and providers incorporate DMI in their strategies. Some notable ones include:
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [QuantConnect](https://www.quantconnect.com/)
-- **[AlgoTrader](../a/algotrader.md)**: An institutional multi-[asset](../a/asset.md) [algorithmic trading](../a/algorithmic_trading.md) software [AlgoTrader](https://www.algotrader.com/)
-- **Quantopian**: Another platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) (although it ceased operations, it was popular for educational purposes)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform QuantConnect
+- **[AlgoTrader](../a/algotrader.md)**: An institutional multi-[asset](../a/asset.md) [algorithmic trading](../a/algorithmic_trading.md) software AlgoTrader
+- **Quantopian (Defunct)**: This platform ceased operations in November 2020. Its open-source library Zipline continues as zipline-reloaded, maintained by the community for educational and backtesting purposes
 
 ### Conclusion
 
 The Directional Movement [Index](../i/index_instrument.md) (DMI) is a powerful tool in the arsenal of both manual and algorithmic traders. Its ability to quantify [trend](../t/trend.md) strength and deliver clear buy and sell signals makes it invaluable for crafting sophisticated [trading strategies](../t/trading_strategies.md). When used in conjunction with other [technical indicators](../t/technical_indicators.md), DMI offers enriched insights and [robust](../r/robust.md) trading opportunities, further emphasizing its enduring significance in the world of [financial markets](../f/financial_market.md).
-

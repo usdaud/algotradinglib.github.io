@@ -58,11 +58,11 @@ Implementing a unified trading framework presents several challenges, including:
 
 Numerous companies [offer](../o/offer.md) solutions and services to support the implementation of a unified trading framework. Some of the leading providers include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for strategy development, [backtesting](../b/backtesting.md), and deployment.
-- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with features for data [acquisition](../a/acquisition.md), strategy development, [execution](../e/execution.md), and [risk management](../r/risk_management.md).
-- **[QuantHouse](../q/quanthouse.md)**: [QuantHouse](https://www.quanthouse.com/) delivers end-to-end solutions for [market](../m/market.md) data, trading [infrastructure](../i/infrastructure.md), and algo [execution](../e/execution.md).
-- **Numerai**: [Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) powered by a global network of data scientists who develop [machine learning](../m/machine_learning.md) models for trading.
-- **Kdb+**: [Kx Systems](https://kx.com/), known for its kdb+ database, is widely used in financial institutions for time-series data analysis and high-frequency trading applications.
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for strategy development, [backtesting](../b/backtesting.md), and deployment.
+- **[AlgoTrader](../a/algotrader.md)**: AlgoTrader provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with features for data [acquisition](../a/acquisition.md), strategy development, [execution](../e/execution.md), and [risk management](../r/risk_management.md).
+- **[QuantHouse](../q/quanthouse.md)**: QuantHouse delivers end-to-end solutions for [market](../m/market.md) data, trading [infrastructure](../i/infrastructure.md), and algo [execution](../e/execution.md).
+- **Numerai**: Numerai is a [hedge fund](../h/hedge_fund.md) powered by a global network of data scientists who develop [machine learning](../m/machine_learning.md) models for trading.
+- **Kdb+**: Kx Systems, known for its kdb+ database, is widely used in financial institutions for time-series data analysis and high-frequency trading applications.
 
 ### Conclusion
 

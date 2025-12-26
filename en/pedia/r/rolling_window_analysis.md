@@ -91,6 +91,5 @@ Through rolling [window analysis](../w/window_analysis_in_trading.md), QuantX Tr
 
 Rolling [window analysis](../w/window_analysis_in_trading.md) is a versatile and essential tool in the toolkit of any quantitative [trader](../t/trader.md) or financial analyst. Its capability to provide evolving insights into [time series](../t/time_series.md) data makes it invaluable for adapting to the ever-changing landscapes of [financial markets](../f/financial_market.md). By understanding its fundamentals, applications, challenges, and advanced techniques, practitioners can greatly enhance their analytical and [trading strategies](../t/trading_strategies.md).
 
-For further information on [algorithmic trading](../a/algorithmic_trading.md) services and tools, you can visit company's official site:
-- [QuantX Trading Solutions](https://www.quantxtradingsolutions.com)
-
+For further information on [algorithmic trading](../a/algorithmic_trading.md) services and tools, you can
+- QuantX Trading Solutions

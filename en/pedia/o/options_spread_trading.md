@@ -36,7 +36,7 @@ Types of vertical [spreads](../s/spreads.md) include:
 
 ### Horizontal (Calendar) Spreads
 
-Horizontal or calendar [spreads](../s/spreads.md) entail the simultaneous buying and selling of [options](../o/options.md) of the same type and [strike price](../s/strike_price.md) but with different expiration dates. 
+Horizontal or calendar [spreads](../s/spreads.md) entail the simultaneous buying and selling of [options](../o/options.md) of the same type and [strike price](../s/strike_price.md) but with different expiration dates.
 
 - **Example**: Buy a [call option](../c/call_option.md) expiring in one month and sell a [call option](../c/call_option.md) with the same [strike price](../s/strike_price.md) expiring in two months.
 
@@ -53,7 +53,7 @@ Ratio [spreads](../s/spreads.md) involve buying and selling different quantities
 ### Credit and Debit Spreads
 
 - **[Credit Spread](../c/credit_spread.md)**: This type of spread involves receiving a net [credit](../c/credit.md) to the [trader](../t/trader.md)’s account when opening the [trade](../t/trade.md). [Credit](../c/credit.md) [spreads](../s/spreads.md) are constructed by selling a higher [premium](../p/premium.md) option and buying a lower [premium](../p/premium.md) option.
-   
+
 - **[Debit](../d/debit.md) Spread**: This involves paying a net [debit](../d/debit.md) from the [trader](../t/trader.md)’s account when opening the [trade](../t/trade.md). [Debit](../d/debit.md) [spreads](../s/spreads.md) are constructed by buying a higher [premium](../p/premium.md) option and selling a lower [premium](../p/premium.md) option.
 
 ## Popular Strategies
@@ -90,18 +90,18 @@ Similar to a [straddle](../s/straddle.md) but uses [out-of-the-money options](..
 - **Flexibility**: Wide [range](../r/range.md) of possible strategies can adapt to different [market](../m/market.md) conditions.
 - **[Profit](../p/profit.md) from [Volatility](../v/volatility.md)**: Calendar [spreads](../s/spreads.md) and other strategies can [capitalize](../c/capitalize.md) on changes in [volatility](../v/volatility.md).
 - **Lower Costs**: Compared to outright long calls or puts, some [spreads](../s/spreads.md) necessitate lower initial investment.
-  
+
 ## Risks of Options Spread Trading
 
 - **Complexity**: Requires a sound understanding of [options](../o/options.md) trading mechanics and can be more difficult to manage.
 - **Limited [Profit](../p/profit.md) Potential**: In many cases, spreading may limit [profit](../p/profit.md) potential compared to [outright option](../o/outright_option.md) positions.
 - **[Commission](../c/commission.md) Costs**: Higher number of trades to establish [spreads](../s/spreads.md) can lead to increased [transaction costs](../t/transaction_costs.md).
-  
+
 ## Practical Considerations
 
 ### Choose the Right Brokerage
 
-Selecting the right brokerage platform is critical to successful [options](../o/options.md) [spread trading](../s/spread_trading.md). Look for platforms like [Interactive Brokers](https://www.interactivebrokers.com) or [TD Ameritrade](https://www.tdameritrade.com) [offering](../o/offering.md) low commissions, high [execution](../e/execution.md) speeds, and [robust](../r/robust.md) analytical tools.
+Selecting the right brokerage platform is critical to successful [options](../o/options.md) [spread trading](../s/spread_trading.md). Look for platforms like Interactive Brokers or TD Ameritrade [offering](../o/offering.md) low commissions, high [execution](../e/execution.md) speeds, and [robust](../r/robust.md) analytical tools.
 
 ### Risk Management
 
@@ -117,7 +117,7 @@ Continuously monitoring positions and making necessary adjustments according to 
 
 ### Educational Resources
 
-Utilize educational materials and tools such as [Option Alpha](https://optionalpha.com/) and [Tastytrade](https://www.tastytrade.com/) to enhance trading knowledge and stay updated with the latest trends and techniques.
+Utilize educational materials and tools such as Option Alpha and Tastytrade to enhance trading knowledge and stay updated with the latest trends and techniques.
 
 ## Conclusion
 

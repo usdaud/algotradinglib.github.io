@@ -8,10 +8,10 @@ A Shareholders' Agreement (SHA) is a legally binding contract among the sharehol
 One of the main purposes of an SHA is to clarify the roles and responsibilities of shareholders. This includes defining who can make what types of decisions and how major [business](../b/business.md) decisions [will](../w/will.md) be made.
 
 ### Protection of Minority Shareholders
-Minority shareholders often lack the power to influence management decisions. An SHA can include provisions that protect minority shareholders from unfair treatment by the majority. 
+Minority shareholders often lack the power to influence management decisions. An SHA can include provisions that protect minority shareholders from unfair treatment by the majority.
 
-### Ensuring Business Continuity 
-An SHA can lay down procedures for resolving disputes, thereby helping to maintain [business](../b/business.md) continuity. 
+### Ensuring Business Continuity
+An SHA can lay down procedures for resolving disputes, thereby helping to maintain [business](../b/business.md) continuity.
 
 ### Setting Terms for Share Transfers
 The agreement can define how and when [shares](../s/shares.md) can be transferred, preventing undesirable parties from gaining control.
@@ -63,16 +63,16 @@ In this agreement, the majority shareholders set the terms, which may not necess
 
 ## Benefits of a Shareholders' Agreement
 
-### Clarity and Certainty: 
+### Clarity and Certainty:
 An SHA provides a clear framework for operations and decision-making.
 
-### Risk Management: 
+### Risk Management:
 By outlining procedures and responsibilities, an SHA helps manage and mitigate risks associated with conflicts or unexpected events.
 
-### Flexibility: 
+### Flexibility:
 The agreement can be amended to reflect changing circumstances or needs of the [business](../b/business.md).
 
-### Legal Protection: 
+### Legal Protection:
 It offers a safeguard against disputes by providing a clear legal document that outlines everyone's rights and [obligations](../o/obligation.md).
 
 ## Limitations and Challenges
@@ -119,8 +119,8 @@ A Shareholders' Agreement is an essential document that helps to clearly delinea
 
 For further details on drafting and implementing a Shareholders' Agreement, you can visit organizational websites and legal firms specializing in [corporate governance](../c/corporate_governance.md), such as:
 
-- [LegalZoom: What is a Shareholders' Agreement?](https://www.legalzoom.com/articles/what-is-a-shareholders-agreement)
-- [DLA Piper: Shareholders’ Agreements](https://www.dlapiper.com/en/us/services/shareholders-agreements/)
-- [Clifford Chance: Corporate Governance](https://www.cliffordchance.com/expertise/services/corporate_governance.html)
+- LegalZoom: What is a Shareholders' Agreement?
+- DLA Piper: Shareholders’ Agreements
+- Clifford Chance: Corporate Governance
 
 By understanding the complexities and nuances of SHAs, shareholders can ensure their investments are well-protected and their [business](../b/business.md) runs smoothly.

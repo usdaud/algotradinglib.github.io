@@ -73,33 +73,27 @@ Identifying and exploiting inefficiencies in the [market](../m/market.md) is key
 ### Numerai
 
 Numerai operates a [hedge fund](../h/hedge_fund.md) powered by a network of data scientists who develop [forecasting models](../f/forecasting_models.md) using encrypted data. It leverages [machine learning](../m/machine_learning.md) techniques to predict [financial markets](../f/financial_market.md).
-[More about Numerai](https://numer.ai/)
 
 ### SigOpt
 
 SigOpt offers a platform for optimizing [machine learning](../m/machine_learning.md) models, including those used for [time series](../t/time_series.md) [forecasting](../f/forecasting.md) in trading. It provides a suite of tools to improve model performance.
-[More about SigOpt](https://sigopt.com/)
 
 ### Alpaca
 
 [Alpaca](../a/alpaca.md) provides a [commission](../c/commission.md)-free trading API for algorithmic traders. It allows users to implement and test their [time series](../t/time_series.md) [forecasting models](../f/forecasting_models.md) directly in a live [trading environment](../t/trading_environment.md).
-[More about Alpaca](https://alpaca.markets/)
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) a [wealth](../w/wealth.md) of historical [market](../m/market.md) data and financial tools. It supports [time series](../t/time_series.md) [forecasting models](../f/forecasting_models.md) for [backtesting](../b/backtesting.md) and live trading.
-[More about QuantConnect](https://www.quantconnect.com/)
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) a [wealth](../w/wealth.md) of historical [market](../m/market.md) data and financial tools. It supports [time series](../t/time_series.md) [forecasting models](../f/forecasting_models.md) for [backtesting](../b/backtesting.md) and live trading.
 
 ### Kite by Zerodha
 
 Kite is [Zerodha](../z/zerodha.md)'s [trading platform](../t/trading_platform.md) that integrates with various [algorithmic trading](../a/algorithmic_trading.md) tools. It provides [real-time market data](../r/real-time_market_data.md) access and supports [time series](../t/time_series.md) [forecasting models](../f/forecasting_models.md).
-[More about Kite by Zerodha](https://kite.zerodha.com/)
 
 ### BlackRock's Aladdin
 
 Aladdin is BlackRock's sophisticated [risk management](../r/risk_management.md) and analytics platform. It incorporates [time series](../t/time_series.md) [forecasting](../f/forecasting.md) for [risk](../r/risk.md) assessment and [portfolio management](../p/portfolio_management.md).
-[More about Aladdin](https://www.blackrock.com/aladdin)
 
 ## Conclusion
 
-[Time series](../t/time_series.md) [forecasting](../f/forecasting.md) is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), encompassing a variety of methods from classical statistical models to modern [machine learning](../m/machine_learning.md) techniques. It enables traders to predict future [market](../m/market.md) movements, manage risks, and potentially enhance returns. As the financial [industry](../i/industry.md) continues to embrace technology, the importance of accurate [forecasting models](../f/forecasting_models.md) becomes ever more critical. Companies like Numerai, SigOpt, [Alpaca](../a/alpaca.md), [QuantConnect](../q/quantconnect.md), Kite by [Zerodha](../z/zerodha.md), and BlackRock's Aladdin are at the forefront, providing innovative tools and platforms to harness the power of [time series](../t/time_series.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md).
+[Time series](../t/time_series.md) [forecasting](../f/forecasting.md) is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), encompassing a variety of methods from classical statistical models to modern [machine learning](../m/machine_learning.md) techniques. It enables traders to predict future [market](../m/market.md) movements, manage risks, and potentially enhance returns. As the financial [industry](../i/industry.md) continues to embrace technology, the importance of accurate [forecasting models](../f/forecasting_models.md) becomes ever more critical. Companies like Numerai, SigOpt, [Alpaca](../a/alpaca.md), [StockSharp](../s/stocksharp.md), Kite by [Zerodha](../z/zerodha.md), and BlackRock's Aladdin are at the forefront, providing innovative tools and platforms to harness the power of [time series](../t/time_series.md) [forecasting](../f/forecasting.md) in [algorithmic trading](../a/algorithmic_trading.md).

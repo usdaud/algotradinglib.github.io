@@ -22,8 +22,8 @@ From a financial and regulatory standpoint, it's crucial for non-[profit](../p/p
 The Internal [Revenue](../r/revenue.md) Service (IRS) in the United States has specific guidelines concerning [quid pro quo](../q/quid_pro_quo.md) contributions. According to the IRS, when a donor makes a [payment](../p/payment.md) exceeding $75 partly as a contribution and partly in [exchange](../e/exchange.md) for goods or services, the non-[profit](../p/profit.md) organization must provide the donor with a written [disclosure](../d/disclosure.md) statement:
 
 * **[Disclosure](../d/disclosure.md) Requirements**: The statement must include:
-  - The amount of the contribution that is deductible.
-  - A good-faith estimate of the [value](../v/value.md) of the goods or services provided in [return](../r/return.md).
+ - The amount of the contribution that is deductible.
+ - A good-faith estimate of the [value](../v/value.md) of the goods or services provided in [return](../r/return.md).
 
 Failure to adhere to these rules can subject the organization to penalties.
 
@@ -76,4 +76,4 @@ Non-profits should ensure that the benefits provided do not overshadow the prima
 
 [Quid pro quo](../q/quid_pro_quo.md) contributions represent a blend of charitable giving and transactional [exchange](../e/exchange.md), which requires careful handling to comply with financial regulations and maintain donor [trust](../t/trust.md). By accurately determining the fair [market value](../m/market_value.md) of the benefits provided and transparently communicating this to donors, non-profits can foster [trust](../t/trust.md) and ensure their fundraising strategies are effective and compliant.
 
-For more information, you can visit non-[profit](../p/profit.md) websites that detail their fundraising policies and compliance measures, such as [Charity Navigator](https://www.charitynavigator.org/) or specific non-[profit](../p/profit.md) organizations.
+For more information, you can visit non-[profit](../p/profit.md) websites that detail their fundraising policies and compliance measures, such as Charity Navigator or specific non-[profit](../p/profit.md) organizations.

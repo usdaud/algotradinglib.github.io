@@ -36,13 +36,13 @@ There are several types of [futures](../f/futures.md) swaps, each catering to di
 
 Several major financial institutions and exchanges [offer](../o/offer.md) [futures](../f/futures.md) swaps. Some of the key players in the [market](../m/market.md) include:
 
-1. **CME Group**: The CME Group offers a wide [range](../r/range.md) of [futures](../f/futures.md) and [options on futures](../o/options_on_futures.md) products, including [interest rate swaps](../i/interest_rate_swaps.md). More information can be found at [CME Group](https://www.cmegroup.com).
+1. **CME Group**: The CME Group offers a wide [range](../r/range.md) of [futures](../f/futures.md) and [options on futures](../o/options_on_futures.md) products, including [interest rate swaps](../i/interest_rate_swaps.md). More information can be found at CME Group.
 
-2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE provides trading and [clearing](../c/clearing.md) services for a variety of [futures contracts](../f/futures_contracts.md), including [commodity](../c/commodity.md) and financial [futures](../f/futures.md) swaps. More information can be found at [ICE](https://www.theice.com).
+2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE provides trading and [clearing](../c/clearing.md) services for a variety of [futures contracts](../f/futures_contracts.md), including [commodity](../c/commodity.md) and financial [futures](../f/futures.md) swaps. More information can be found at ICE.
 
-3. **Eurex**: Eurex is a European [exchange](../e/exchange.md) that offers trading in a variety of [derivatives](../d/derivatives.md), including [futures](../f/futures.md) swaps. More information can be found at [Eurex](https://www.eurex.com).
+3. **Eurex**: Eurex is a European [exchange](../e/exchange.md) that offers trading in a variety of [derivatives](../d/derivatives.md), including [futures](../f/futures.md) swaps. More information can be found at Eurex.
 
-4. **[Nasdaq](../n/nasdaq.md) [Futures](../f/futures.md) (NFX)**: NFX offers a [range](../r/range.md) of energy [futures](../f/futures.md) and [options](../o/options.md) products, including [futures](../f/futures.md) swaps. More information can be found at [Nasdaq Futures](https://www.nasdaq.com/solutions/nfx).
+4. **[Nasdaq](../n/nasdaq.md) [Futures](../f/futures.md) (NFX)**: NFX offers a [range](../r/range.md) of energy [futures](../f/futures.md) and [options](../o/options.md) products, including [futures](../f/futures.md) swaps. More information can be found at Nasdaq Futures.
 
 ### Applications of Futures Swaps
 
@@ -58,15 +58,15 @@ Several major financial institutions and exchanges [offer](../o/offer.md) [futur
 
 ### Example of a Futures Swap Trade
 
-Consider a company that wants to [hedge](../h/hedge.md) its exposure to rising [interest](../i/interest.md) rates. The company enters into a [futures](../f/futures.md) [swap](../s/swap.md) contract where it agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md) and receive a floating rate based on a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md), such as LIBOR.
+Consider a company that wants to [hedge](../h/hedge.md) its exposure to rising [interest](../i/interest.md) rates. The company enters into a [futures](../f/futures.md) [swap](../s/swap.md) contract where it agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md) and receive a floating rate based on a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md), such as SOFR (Secured Overnight Financing Rate, which replaced LIBOR in June 2023).
 
 The terms of the contract are as follows:
 - Notional amount: $100 million
 - [Fixed interest rate](../f/fixed_interest_rate.md): 2%
-- [Floating interest rate](../f/floating_interest_rate.md): 3-month LIBOR
+- [Floating interest rate](../f/floating_interest_rate.md): 3-month SOFR (which replaced LIBOR in June 2023)
 - [Swap](../s/swap.md) term: 5 years
 
-At the end of each quarter, the company and its [counterparty](../c/counterparty.md) [exchange](../e/exchange.md) [interest](../i/interest.md) payments based on the notional amount. If the 3-month [LIBOR rate](../l/libor_rate_analysis.md) rises above 2%, the company [will](../w/will.md) receive more in floating payments than it pays in fixed payments, effectively hedging its exposure to rising [interest](../i/interest.md) rates.
+At the end of each quarter, the company and its [counterparty](../c/counterparty.md) [exchange](../e/exchange.md) [interest](../i/interest.md) payments based on the notional amount. If the 3-month SOFR rate rises above 2%, the company [will](../w/will.md) receive more in floating payments than it pays in fixed payments, effectively hedging its exposure to rising [interest](../i/interest.md) rates.
 
 ### Risks Associated with Futures Swaps
 
@@ -84,13 +84,13 @@ While [futures](../f/futures.md) swaps [offer](../o/offer.md) several benefits, 
 
 [Futures](../f/futures.md) swaps are subject to regulatory oversight to ensure [market](../m/market.md) integrity and protect participants. Key regulatory bodies include:
 
-1. **U.S. [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: The CFTC regulates [futures](../f/futures.md) and [options](../o/options.md) markets in the United States, including [futures](../f/futures.md) swaps. More information can be found at [CFTC](https://www.cftc.gov).
+1. **U.S. [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: The CFTC regulates [futures](../f/futures.md) and [options](../o/options.md) markets in the United States, including [futures](../f/futures.md) swaps. More information can be found at CFTC.
 
-2. **European Securities and Markets Authority (ESMA)**: ESMA oversees [financial markets](../f/financial_market.md) in the [European Union](../e/european_union_(eu).md), including [derivatives](../d/derivatives.md) markets. More information can be found at [ESMA](https://www.esma.europa.eu).
+2. **European Securities and Markets Authority (ESMA)**: ESMA oversees [financial markets](../f/financial_market.md) in the [European Union](../e/european_union_(eu).md), including [derivatives](../d/derivatives.md) markets. More information can be found at ESMA.
 
-3. **Financial Conduct Authority (FCA)**: The FCA regulates [financial markets](../f/financial_market.md) in the United Kingdom, including [futures](../f/futures.md) swaps. More information can be found at [FCA](https://www.fca.org.uk).
+3. **Financial Conduct Authority (FCA)**: The FCA regulates [financial markets](../f/financial_market.md) in the United Kingdom, including [futures](../f/futures.md) swaps. More information can be found at FCA.
 
-4. **International Organization of Securities Commissions (IOSCO)**: IOSCO sets global standards for securities regulation, including oversight of [derivatives](../d/derivatives.md) markets. More information can be found at [IOSCO](https://www.iosco.org).
+4. **International Organization of Securities Commissions (IOSCO)**: IOSCO sets global standards for securities regulation, including oversight of [derivatives](../d/derivatives.md) markets. More information can be found at IOSCO.
 
 ### Conclusion
 

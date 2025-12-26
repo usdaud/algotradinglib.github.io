@@ -1,8 +1,8 @@
 # Expected Shortfall (ES)
 
-Expected [Shortfall](../s/shortfall.md) (ES), also known as Conditional [Value](../v/value.md)-at-[Risk](../r/risk.md) (CVaR) or Expected Tail Loss (ETL), is a [risk](../r/risk.md) measure used in the field of [quantitative finance](../q/quantitative_finance.md) and [risk management](../r/risk_management.md). This measure attempts to capture the [risk](../r/risk.md) of extreme loss in a more comprehensive manner compared to the more commonly used [Value](../v/value.md) at [Risk](../r/risk.md) (VaR). ES is particularly important in the context of algo trading, where managing [risk](../r/risk.md) efficiently is crucial for the success of [trading strategies](../t/trading_strategies.md). 
+Expected [Shortfall](../s/shortfall.md) (ES), also known as Conditional [Value](../v/value.md)-at-[Risk](../r/risk.md) (CVaR) or Expected Tail Loss (ETL), is a [risk](../r/risk.md) measure used in the field of [quantitative finance](../q/quantitative_finance.md) and [risk management](../r/risk_management.md). This measure attempts to capture the [risk](../r/risk.md) of extreme loss in a more comprehensive manner compared to the more commonly used [Value](../v/value.md) at [Risk](../r/risk.md) (VaR). ES is particularly important in the context of algo trading, where managing [risk](../r/risk.md) efficiently is crucial for the success of [trading strategies](../t/trading_strategies.md).
 
-At its core, Expected [Shortfall](../s/shortfall.md) answers the question: "What is the average of the worst losses?" Specifically, it provides an estimate for the average loss that occurs in the worst (e.g., 1%) of cases. Thus, while VaR provides a threshold loss [value](../v/value.md) that is not exceeded with a given confidence level, ES provides an average loss beyond that threshold. 
+At its core, Expected [Shortfall](../s/shortfall.md) answers the question: "What is the average of the worst losses?" Specifically, it provides an estimate for the average loss that occurs in the worst (e.g., 1%) of cases. Thus, while VaR provides a threshold loss [value](../v/value.md) that is not exceeded with a given confidence level, ES provides an average loss beyond that threshold.
 
 ## Definition and Formula
 
@@ -15,7 +15,7 @@ where:
 - \(X\) is the loss random variable,
 - \(VaR_\[alpha](../a/alpha.md)\) is the [Value](../v/value.md) at [Risk](../r/risk.md) at the confidence level \(\[alpha](../a/alpha.md)\).
 
-In essence, ES captures the expected loss given that the loss is beyond the VaR threshold. 
+In essence, ES captures the expected loss given that the loss is beyond the VaR threshold.
 
 ## Key Differences from Value at Risk (VaR)
 
@@ -46,7 +46,7 @@ Computing ES can be challenging due to the need to estimate tail-end risks accur
 
 Many financial software suites and programming libraries provide tools to compute Expected [Shortfall](../s/shortfall.md). For instance:
 
-- **MATLAB**: MATLAB's Financial Toolbox includes functions to compute ES using a variety of methods (more info can be found at [MathWorks](https://www.mathworks.com/products/financial.html)).
+- **MATLAB**: MATLAB's Financial Toolbox includes functions to compute ES using a variety of methods (more info can be found at MathWorks).
 - **R**: The R language provides packages like `PerformanceAnalytics` and `QRM` which include functions to calculate ES.
 - **Python**: Libraries such as `NumPy`, `Pandas`, and `SciPy` can be used to compute ES using both historical and [simulation](../s/simulation_in_trading.md) methods.
 

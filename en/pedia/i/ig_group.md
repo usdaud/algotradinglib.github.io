@@ -48,5 +48,3 @@ IG Group is regulated by several top-tier financial authorities, ensuring a secu
 - Monetary Authority of Singapore (MAS)
 - [Financial Markets](../f/financial_market.md) Authority (FMA) of New Zealand
 
-## Website
-For more information and to start trading, visit the official IG Group website: [IG Group](https://www.ig.com)

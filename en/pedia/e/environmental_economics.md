@@ -13,29 +13,29 @@ Environmental [economics](../e/economics.md) is concerned with how economic acti
 Environmental [economics](../e/economics.md) aims to:
 
 1. **Analyse Environmental Problems:**
-   - Evaluate the economic causes and effects of environmental issues such as climate change, air and water pollution, and resource [depletion](../d/depletion.md).
-   
+ - Evaluate the economic causes and effects of environmental issues such as climate change, air and water pollution, and resource [depletion](../d/depletion.md).
+
 2. **Develop and Advocate Policies:**
-   - Propose solutions that reduce environmental harm while promoting sustainable [economic growth](../e/economic_growth.md).
-   
+ - Propose solutions that reduce environmental harm while promoting sustainable [economic growth](../e/economic_growth.md).
+
 3. **Assign Economic Values to Environmental Goods:**
-   - Place monetary values on non-[market](../m/market.md) goods and services provided by the environment, such as clean air and biodiversity.
+ - Place monetary values on non-[market](../m/market.md) goods and services provided by the environment, such as clean air and biodiversity.
 
 ### Theoretical Foundations
 
 Environmental [economics](../e/economics.md) relies on several theoretical foundations, including:
 
 1. **Externalities:**
-   - Negative externalities occur when the production or consumption of goods and services imposes costs on third parties. For example, a factory emitting pollutants affects the health of nearby residents.
-   
+ - Negative externalities occur when the production or consumption of goods and services imposes costs on third parties. For example, a factory emitting pollutants affects the health of nearby residents.
+
 2. **Public Goods:**
-   - Environmental goods like clean air and water are considered public goods because they are non-excludable and non-rivalrous – everyone can benefit from them, and one person's use does not reduce their availability to others.
-   
+ - Environmental goods like clean air and water are considered public goods because they are non-excludable and non-rivalrous – everyone can benefit from them, and one person's use does not reduce their availability to others.
+
 3. **[Market Failure](../m/market_failure.md):**
-   - When markets [fail](../f/fail.md) to provide an efficient allocation of resources, usually because the prices do not reflect the environmental costs (externalities). Environmental [economics](../e/economics.md) seeks to correct these [market](../m/market.md) failures.
+ - When markets [fail](../f/fail.md) to provide an efficient allocation of resources, usually because the prices do not reflect the environmental costs (externalities). Environmental [economics](../e/economics.md) seeks to correct these [market](../m/market.md) failures.
 
 4. **[Valuation](../v/valuation.md) of Non-[Market](../m/market.md) Goods:**
-   - Methods such as contingent [valuation](../v/valuation.md) and [hedonic pricing](../h/hedonic_pricing.md) are used to estimate the [economic value](../e/economic_value.md) of non-[market](../m/market.md) environmental goods and services.
+ - Methods such as contingent [valuation](../v/valuation.md) and [hedonic pricing](../h/hedonic_pricing.md) are used to estimate the [economic value](../e/economic_value.md) of non-[market](../m/market.md) environmental goods and services.
 
 ## Policy Instruments in Environmental Economics
 
@@ -44,31 +44,31 @@ Environmental [economics](../e/economics.md) relies on several theoretical found
 These are regulatory policies where the government sets legal limits on pollution levels and mandates specific pollution-control technologies. Examples include:
 
 1. **Emission Standards:**
-   - Setting legal limits on the amount of pollutants that can be emitted by factories, vehicles, and other sources.
-   
+ - Setting legal limits on the amount of pollutants that can be emitted by factories, vehicles, and other sources.
+
 2. **Technology Standards:**
-   - Requiring the use of specific pollution control technologies.
+ - Requiring the use of specific pollution control technologies.
 
 ### Market-Based Instruments
 
 [Market](../m/market.md)-based instruments use economic incentives to encourage businesses and individuals to reduce their environmental impact. Examples include:
 
 1. **[Taxes](../t/taxes.md):**
-   - Environmental [taxes](../t/taxes.md) (or "green [taxes](../t/taxes.md)") impose a cost on pollution, effectively internalizing the [externality](../e/externality.md). For example, carbon [taxes](../t/taxes.md) incentivize firms to reduce carbon emissions.
-   
+ - Environmental [taxes](../t/taxes.md) (or "green [taxes](../t/taxes.md)") impose a cost on pollution, effectively internalizing the [externality](../e/externality.md). For example, carbon [taxes](../t/taxes.md) incentivize firms to reduce carbon emissions.
+
 2. **Subsidies:**
-   - Financial incentives provided to support environmentally friendly practices. For example, subsidies for renewable energy projects.
-   
+ - Financial incentives provided to support environmentally friendly practices. For example, subsidies for renewable energy projects.
+
 3. **Cap-and-[Trade](../t/trade.md) Systems:**
-   - Set a maximum allowable level of pollution (cap) and distribute or auction emission permits. Companies can [trade](../t/trade.md) these permits, providing a financial incentive to reduce emissions.
-   
+ - Set a maximum allowable level of pollution (cap) and distribute or auction emission permits. Companies can [trade](../t/trade.md) these permits, providing a financial incentive to reduce emissions.
+
 #### Notable Cap-and-Trade Programs
 
 - **[European Union](../e/european_union_(eu).md) Emissions Trading System (EU ETS):**
-  - The world's first and largest international cap-and-[trade](../t/trade.md) program aimed at reducing greenhouse gas emissions.
-  
+ - The world's first and largest international cap-and-[trade](../t/trade.md) program aimed at reducing greenhouse gas emissions.
+
 - **California Cap-and-[Trade](../t/trade.md) Program:**
-  - A state-level program in the United States designed to reduce GHG emissions from [industry](../i/industry.md), electricity, and natural gas sources.
+ - A state-level program in the United States designed to reduce GHG emissions from [industry](../i/industry.md), electricity, and natural gas sources.
 
 ### Voluntary Programs
 
@@ -97,21 +97,21 @@ An approach where existing valuations from one study are used in a new study whe
 Climate change is a major focus of environmental [economics](../e/economics.md). Economists study the costs and benefits of mitigation and adaptation strategies. Key areas include:
 
 1. **Carbon Pricing:**
-   - Implementing mechanisms like carbon [taxes](../t/taxes.md) and cap-and-[trade](../t/trade.md) systems to reduce greenhouse gas emissions.
-   
+ - Implementing mechanisms like carbon [taxes](../t/taxes.md) and cap-and-[trade](../t/trade.md) systems to reduce greenhouse gas emissions.
+
 2. **Economic Impacts of Climate Change:**
-   - Assessing how climate change affects economic activities and estimating the costs of adapting to these changes.
-   
+ - Assessing how climate change affects economic activities and estimating the costs of adapting to these changes.
+
 3. **[Cost-Benefit Analysis](../c/cost-benefit_analysis_in_trading.md) of Climate Policies:**
-   - Comparing the costs of implementing climate policies with the benefits of reduced adverse impacts.
+ - Comparing the costs of implementing climate policies with the benefits of reduced adverse impacts.
 
 ### Global Initiatives
 
 - **Paris Agreement:**
-  - An international treaty that aims to limit global temperature increase to well below 2°C above pre-industrial levels.
-  
+ - An international treaty that aims to limit global temperature increase to well below 2°C above pre-industrial levels.
+
 - **Intergovernmental Panel on Climate Change (IPCC):**
-  - Provides scientific assessments on climate change, its impacts, and potential future risks.
+ - Provides scientific assessments on climate change, its impacts, and potential future risks.
 
 ## Sustainability and Growth
 

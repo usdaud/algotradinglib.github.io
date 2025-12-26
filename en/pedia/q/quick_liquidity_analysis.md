@@ -72,9 +72,9 @@ While quick [liquidity analysis](../l/liquidity_analysis.md) offers significant 
 
 Several companies and platforms provide tools and services for quick [liquidity analysis](../l/liquidity_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). Some notable ones include:
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and execute [trading strategies](../t/trading_strategies.md). The platform supports [liquidity analysis](../l/liquidity_analysis.md) by providing real-time data and advanced analytics.
+1. **[QuantConnect](../q/quantconnect.md)**: QuantConnect offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and execute [trading strategies](../t/trading_strategies.md). The platform supports [liquidity analysis](../l/liquidity_analysis.md) by providing real-time data and advanced analytics.
 
-2. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com) is an [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md) platform that integrates [liquidity analysis](../l/liquidity_analysis.md) tools. It supports the development and deployment of complex [trading algorithms](../t/trading_algorithms.md) with [real-time market data](../r/real-time_market_data.md).
+2. **[AlgoTrader](../a/algotrader.md)**: AlgoTrader is an [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md) platform that integrates [liquidity analysis](../l/liquidity_analysis.md) tools. It supports the development and deployment of complex [trading algorithms](../t/trading_algorithms.md) with [real-time market data](../r/real-time_market_data.md).
 
 3. **[Bloomberg](../b/bloomberg.md) Terminal**: The [Bloomberg](../b/bloomberg.md) Terminal provides comprehensive financial data, analytics, and trading tools. It includes features for [market depth analysis](../m/market_depth_analysis.md), [volume analysis](../v/volume_analysis.md), and other [liquidity](../l/liquidity.md)-related metrics to support informed trading decisions.
 

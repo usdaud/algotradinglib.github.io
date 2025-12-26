@@ -83,4 +83,4 @@ Japan's [credit](../c/credit.md) ratings, assigned by international agencies, re
 ## Conclusion
 Japanese Government Bonds are a cornerstone of Japan's [financial system](../f/financial_system.md), providing critical funding for government operations, serving as investment vehicles, and acting as instruments of [monetary policy](../m/monetary_policy.md). The [market](../m/market.md)'s depth and [liquidity](../l/liquidity.md) make JGBs essential assets for a diverse [range](../r/range.md) of investors, from domestic banks to international funds. Despite challenges, such as an aging population and a low-[interest](../i/interest.md)-rate environment, JGBs continue to play a vital role in Japan's economic stability and growth.
 
-For more information about JGBs and related topics, you can visit the Ministry of [Finance](../f/finance.md) Japan's website: [Ministry of Finance Japan](https://www.mof.go.jp/english/).
+For more information about JGBs and related topics, you can visit the Ministry of [Finance](../f/finance.md) Japan's online platform: Ministry of Finance Japan.

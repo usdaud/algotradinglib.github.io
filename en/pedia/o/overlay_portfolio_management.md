@@ -63,16 +63,16 @@ Endowments and foundations look to [overlay](../o/overlay.md) management to ensu
 Several firms specialize in providing [overlay](../o/overlay.md) [portfolio management](../p/portfolio_management.md) services, leveraging their expertise in [derivatives](../d/derivatives.md) and [risk management](../r/risk_management.md). Some of these firms include:
 
 ### Russell Investments
-Russell Investments offers comprehensive [overlay](../o/overlay.md) management solutions focusing on [currency](../c/currency.md) [overlay](../o/overlay.md), [beta management](../b/beta_management.md), and target date strategies. For more information, visit [Russell Investments](https://russellinvestments.com/us/solutions/implementation-services/overlay-services).
+Russell Investments offers comprehensive [overlay](../o/overlay.md) management solutions focusing on [currency](../c/currency.md) [overlay](../o/overlay.md), [beta management](../b/beta_management.md), and target date strategies. For more information, visit Russell Investments.
 
 ### State Street Global Advisors
-State Street Global Advisors are known for their sophisticated [currency](../c/currency.md) management and [derivatives](../d/derivatives.md) expertise, providing customized [overlay strategies](../o/overlay_strategies.md) to institutional clients. Visit their site at [State Street Global Advisors](https://www.ssga.com/us/en/institutional/capabilities/currency-management).
+State Street Global Advisors are known for their sophisticated [currency](../c/currency.md) management and [derivatives](../d/derivatives.md) expertise, providing customized [overlay strategies](../o/overlay_strategies.md) to institutional clients.
 
 ### BlackRock
-BlackRock's [Financial Markets](../f/financial_market.md) Advisory team helps clients implement [overlay strategies](../o/overlay_strategies.md) that focus on enhancing returns and managing risks across various [asset](../a/asset.md) classes. More details can be found on their [BlackRock](https://www.blackrock.com/us/individual/products/239726/fund).
+BlackRock's [Financial Markets](../f/financial_market.md) Advisory team helps clients implement [overlay strategies](../o/overlay_strategies.md) that focus on enhancing returns and managing risks across various [asset](../a/asset.md) classes. More details can be found on their BlackRock.
 
 ### Parametric Portfolio Associates
-Parametric offers dedicated [overlay](../o/overlay.md) management services that include tax-managed overlays, [options](../o/options.md) overlays, and [exposure management](../e/exposure_management.md) overlays. More information is available at [Parametric Portfolio](https://www.parametricportfolio.com/).
+Parametric offers dedicated [overlay](../o/overlay.md) management services that include tax-managed overlays, [options](../o/options.md) overlays, and [exposure management](../e/exposure_management.md) overlays. More information is available at Parametric Portfolio.
 
 ## Challenges and Considerations
 

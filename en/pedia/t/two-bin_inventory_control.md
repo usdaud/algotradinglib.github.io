@@ -1,6 +1,6 @@
 # Two-Bin Inventory Control
 
-Two-bin [inventory](../i/inventory.md) control is a popular and straightforward management system used to monitor and manage [inventory](../i/inventory.md) levels effectively. It is particularly advantageous in industries where [inventory turnover](../i/inventory_turnover.md) rates are high, and items need constant replenishment to ensure smooth operational flow. This model is attractive for its simplicity and [efficiency](../e/efficiency.md), making it a useful strategy for various sectors, including [manufacturing](../m/manufacturing.md), healthcare, retail, and even in fintech and [algorithmic trading](../a/accountability.md) environments.
+Two-bin [inventory](../i/inventory.md) control is a popular and straightforward management system used to monitor and manage [inventory](../i/inventory.md) levels effectively. It is particularly advantageous in industries where [inventory turnover](../i/inventory_turnover.md) rates are high, and items need constant replenishment to ensure smooth operational flow. This model is attractive for its simplicity and [efficiency](../e/efficiency.md), making it a useful strategy for various sectors, including [manufacturing](../m/manufacturing.md), healthcare, retail, and even in fintech and [algorithmic trading](../a/algorithmic_trading.md) environments.
 
 ## Introduction to Two-Bin Inventory System
 
@@ -9,21 +9,21 @@ The two-bin [inventory](../i/inventory.md) control system is based on the idea o
 ### Key Components
 
 1. **Bin 1: Working Stock**
-   - Contains the primary [supply](../s/supply.md) of items.
-   - Is depleted during regular operations.
-   - Acts as the main source until it drops to a predetermined reorder point.
+ - Contains the primary [supply](../s/supply.md) of items.
+ - Is depleted during regular operations.
+ - Acts as the main source until it drops to a predetermined reorder point.
 
 2. **Bin 2: Reserve Stock (Safety Stock)**
-   - Serves as a backup, ensuring continuous availability.
-   - Is used only once Bin 1 is exhausted.
-   - Initiates a replenishment [order](../o/order.md) for Bin 1 when accessed.
+ - Serves as a backup, ensuring continuous availability.
+ - Is used only once Bin 1 is exhausted.
+ - Initiates a replenishment [order](../o/order.md) for Bin 1 when accessed.
 
 ### Common Applications
 
 - **[Manufacturing](../m/manufacturing.md):** Ensures key components are continuously available, reducing downtime due to stockouts.
 - **Healthcare:** Critical for managing medical supplies and ensuring they are available for patient care.
 - **Retail:** Helps maintain stock levels for frequently sold items, preventing lost sales.
-- **[Algorithmic Trading](../a/accountability.md):** Can be applied to manage the [inventory](../i/inventory.md) of financial assets, ensuring sufficient [liquidity](../l/liquidity.md) for [trading strategies](../t/trading_strategies.md).
+- **[Algorithmic Trading](../a/algorithmic_trading.md):** Can be applied to manage the [inventory](../i/inventory.md) of financial assets, ensuring sufficient [liquidity](../l/liquidity.md) for [trading strategies](../t/trading_strategies.md).
 
 ## Advantages of Two-Bin Inventory Control
 
@@ -79,4 +79,4 @@ The two-bin [inventory](../i/inventory.md) control system is a proven method for
 
 ---
 
-For more information on how modern [inventory management](../i/inventory_management.md) systems can benefit your organization, consider visiting [SAP Inventory Management](https://www.sap.com/products/erp/inventory-management.html) for comprehensive solutions powered by cutting-edge technology.
+For more information on how modern [inventory management](../i/inventory_management.md) systems can benefit your organization, consider visiting SAP Inventory Management for comprehensive solutions powered by cutting-edge technology.

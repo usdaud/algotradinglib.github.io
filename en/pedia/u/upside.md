@@ -49,7 +49,7 @@ Several methodologies and tools are employed by investors and analysts to assess
 
 [Quantitative analysis](../q/quantitative_analysis.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to assess [upside potential](../u/upside_potential_in_trading.md). This includes:
 
-- **[Algorithmic Trading](../a/accountability.md) Models**: Deploying algorithms to identify trading opportunities based on [upside potential](../u/upside_potential_in_trading.md).
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Models**: Deploying algorithms to identify trading opportunities based on [upside potential](../u/upside_potential_in_trading.md).
 - **[Risk Metrics](../r/risk_metrics.md)**: Utilizing metrics such as [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR) to evaluate the upside in the context of [risk](../r/risk.md).
 
 ## Case Studies and Examples
@@ -60,13 +60,11 @@ Several methodologies and tools are employed by investors and analysts to assess
 
 Tesla Inc. (TSLA), a leading electric vehicle manufacturer, has seen remarkable [upside potential](../u/upside_potential_in_trading.md) since its initial public [offering](../o/offering.md) (IPO) in 2010. Investors who recognized the growth prospects of electric vehicles and Tesla's innovative edge benefited immensely as the stock went from $17 per share at IPO to over $800 per share by 2021.
 
-[Visit Tesla](https://www.tesla.com)
 
 #### Amazon.com Inc.
 
 Amazon.com Inc. (AMZN) is another example where significant upside was realized. From a modest online bookstore to a global e-[commerce](../c/commerce.md) giant, the stock's upward journey has been fueled by continuous innovation, [expansion](../e/expansion.md) into new markets, and [robust](../r/robust.md) [financial performance](../f/financial_performance.md).
 
-[Visit Amazon](https://www.amazon.com)
 
 ### Learning from Missed Opportunities
 
@@ -74,7 +72,6 @@ Amazon.com Inc. (AMZN) is another example where significant upside was realized.
 
 Blockbuster's failure to recognize the [upside potential](../u/upside_potential_in_trading.md) in the transition to digital streaming, which Netflix capitalized on, serves as a practical lesson. While Netflix (NFLX) saw massive [upside potential](../u/upside_potential_in_trading.md) and adapted accordingly, Blockbuster failed to innovate, leading to its decline.
 
-[Visit Netflix](https://www.netflix.com)
 
 ## Risks and Challenges
 

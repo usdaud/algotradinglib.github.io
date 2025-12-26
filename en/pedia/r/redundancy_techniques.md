@@ -5,29 +5,29 @@ In [algorithmic trading](../a/algorithmic_trading.md), "redundancy" refers to th
 ### Types of Redundancy Techniques
 
 1. **Hardware Redundancy**
-    - **Dual Servers**: Involves the use of two or more servers that run the same [trading algorithms](../t/trading_algorithms.md). If one server fails, the other can immediately take over.
-    - **Backup Power Supplies**: Use of UPS (Uninterruptible Power [Supply](../s/supply.md)) systems to provide backup power in case of power outages.
-    - **RAID Arrays**: Implementation of RAID (Redundant Array of Independent Disks) to prevent data loss from disk failures.
+ - **Dual Servers**: Involves the use of two or more servers that run the same [trading algorithms](../t/trading_algorithms.md). If one server fails, the other can immediately take over.
+ - **Backup Power Supplies**: Use of UPS (Uninterruptible Power [Supply](../s/supply.md)) systems to provide backup power in case of power outages.
+ - **RAID Arrays**: Implementation of RAID (Redundant Array of Independent Disks) to prevent data loss from disk failures.
 
 2. **Network Redundancy**
-    - **[Multiple](../m/multiple.md) ISPs**: Utilizing [multiple](../m/multiple.md) Internet Service Providers (ISPs) to ensure a steady internet connection.
-    - **[Load](../l/load.md) Balancers**: Devices or software that distribute network traffic across several servers to prevent any single server from being overwhelmed.
-    - **Failover Mechanisms**: Automated systems that switch to a secondary network path if the primary path fails.
+ - **[Multiple](../m/multiple.md) ISPs**: Utilizing [multiple](../m/multiple.md) Internet Service Providers (ISPs) to ensure a steady internet connection.
+ - **[Load](../l/load.md) Balancers**: Devices or software that distribute network traffic across several servers to prevent any single server from being overwhelmed.
+ - **Failover Mechanisms**: Automated systems that switch to a secondary network path if the primary path fails.
 
 3. **Data Redundancy**
-    - **Mirrored Databases**: Real-time data replication to a secondary database to ensure no loss of data.
-    - **Cloud Storage**: Using cloud services like AWS, Azure, or Google Cloud for data backup and recovery.
-    - **Version Control**: Implementing version control systems for algorithm code and configuration files to prevent accidental overwriting and loss.
+ - **Mirrored Databases**: Real-time data replication to a secondary database to ensure no loss of data.
+ - **Cloud Storage**: Using cloud services like AWS, Azure, or Google Cloud for data backup and recovery.
+ - **Version Control**: Implementing version control systems for algorithm code and configuration files to prevent accidental overwriting and loss.
 
 4. **Software Redundancy**
-    - **Fault-Tolerant Software**: Software designed to continue functioning even if certain components [fail](../f/fail.md). This includes the use of error-checking and [correction](../c/correction.md) codes.
-    - **Microservices Architecture**: Breaking down applications into smaller, independent services that can operate individually. If one service fails, it doesn't bring down the entire system.
-    - **Continuous Integration/Continuous Deployment (CI/CD)**: Automated systems that ensure code changes are thoroughly tested and quickly deployed to avoid downtime.
+ - **Fault-Tolerant Software**: Software designed to continue functioning even if certain components [fail](../f/fail.md). This includes the use of error-checking and [correction](../c/correction.md) codes.
+ - **Microservices Architecture**: Breaking down applications into smaller, independent services that can operate individually. If one service fails, it doesn't bring down the entire system.
+ - **Continuous Integration/Continuous Deployment (CI/CD)**: Automated systems that ensure code changes are thoroughly tested and quickly deployed to avoid downtime.
 
 5. **Geographical Redundancy**
-    - **Data Centers in Different Locations**: Distributing data centers across [multiple](../m/multiple.md) geographical locations to protect against regional disasters.
-    - **Disaster Recovery Sites**: Secondary sites that can be activated in case the primary site becomes unavailable.
-    - **Cross-Regional Data Sync**: Ensuring that data in different regions are synchronized in real-time to maintain consistency.
+ - **Data Centers in Different Locations**: Distributing data centers across [multiple](../m/multiple.md) geographical locations to protect against regional disasters.
+ - **Disaster Recovery Sites**: Secondary sites that can be activated in case the primary site becomes unavailable.
+ - **Cross-Regional Data Sync**: Ensuring that data in different regions are synchronized in real-time to maintain consistency.
 
 ### Importance of Redundancy Techniques in Algorithmic Trading
 
@@ -41,39 +41,36 @@ Redundancy techniques are vital in [algorithmic trading](../a/algorithmic_tradin
 ### Implementing Redundancy Techniques
 
 1. **Planning and Design**
-    - **Assessment**: Conduct a thorough assessment of the trading system’s requirements and potential failure points.
-    - **Architecture**: Design a system architecture that incorporates redundancy at every critical point.
+ - **Assessment**: Conduct a thorough assessment of the trading system’s requirements and potential failure points.
+ - **Architecture**: Design a system architecture that incorporates redundancy at every critical point.
 
 2. **Hardware Setup**
-    - **Redundant Servers**: Setup [multiple](../m/multiple.md) servers with identical configurations.
-    - **RAID and Backup Power**: Implement RAID configurations and UPS systems.
+ - **Redundant Servers**: Setup [multiple](../m/multiple.md) servers with identical configurations.
+ - **RAID and Backup Power**: Implement RAID configurations and UPS systems.
 
 3. **Network Configuration**
-    - **[Multiple](../m/multiple.md) ISPs**: Contract with [multiple](../m/multiple.md) ISPs and configure [load](../l/load.md) balancers.
-    - **Failover Mechanisms**: Implement automated failover mechanisms.
+ - **[Multiple](../m/multiple.md) ISPs**: Contract with [multiple](../m/multiple.md) ISPs and configure [load](../l/load.md) balancers.
+ - **Failover Mechanisms**: Implement automated failover mechanisms.
 
 4. **Data Management**
-    - **Real-time Replication**: Use mirroring for real-time data replication.
-    - **Cloud Solutions**: Integrate cloud-based storage solutions for backups.
+ - **Real-time Replication**: Use mirroring for real-time data replication.
+ - **Cloud Solutions**: Integrate cloud-based storage solutions for backups.
 
 5. **Software Deployment**
-    - **CI/CD Pipelines**: Setup CI/CD pipelines for automated testing and deployment.
-    - **Microservices**: Develop and deploy microservices for critical functions.
+ - **CI/CD Pipelines**: Setup CI/CD pipelines for automated testing and deployment.
+ - **Microservices**: Develop and deploy microservices for critical functions.
 
 6. **Geographical Considerations**
-    - **Regional Data Centers**: Distribute data centers geographically.
-    - **Disaster Recovery**: Establish disaster recovery protocols and sites.
+ - **Regional Data Centers**: Distribute data centers geographically.
+ - **Disaster Recovery**: Establish disaster recovery protocols and sites.
 
 ### Examples of Companies Utilizing Redundancy Techniques
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers cloud-based [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) services, utilizing AWS for redundancy.
-   [QuantConnect](https://www.quantconnect.com/)
+1. **[StockSharp](../s/stocksharp.md)**: [StockSharp](../s/stocksharp.md) offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) services, utilizing AWS for redundancy.
 
 2. **[AlgoTrader](../a/algotrader.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) software that includes several redundancy features like failover mechanisms.
-   [AlgoTrader](https://www.algotrader.com/)
 
 3. **Kensho Technologies**: Uses advanced redundancy techniques for data management and [algorithmic trading](../a/algorithmic_trading.md).
-   [Kensho Technologies](https://www.kensho.com/)
 
 ### Case Study: Implementation in a Trading Firm
 
@@ -83,23 +80,23 @@ A large trading [firm](../f/firm.md) wanted to ensure that its trading operation
 #### Implementation
 
 1. **Hardware**
-    - **Servers**: They deployed two identical trading servers in different locations. Each server had RAID-10 configurations and was powered by independent UPS systems.
+ - **Servers**: They deployed two identical trading servers in different locations. Each server had RAID-10 configurations and was powered by independent UPS systems.
 
 2. **Network**
-    - **ISPs**: The [firm](../f/firm.md) contracted with three different ISPs and used advanced [load](../l/load.md) balancers to manage traffic.
-    - **Failover**: Implemented automated failover systems ensuring instant switch-over in case of primary ISP failure.
+ - **ISPs**: The [firm](../f/firm.md) contracted with three different ISPs and used advanced [load](../l/load.md) balancers to manage traffic.
+ - **Failover**: Implemented automated failover systems ensuring instant switch-over in case of primary ISP failure.
 
 3. **Data**
-    - **Mirroring**: All trading data was mirrored in real-time to a secondary database.
-    - **Cloud Storage**: Regular backups were taken and stored in AWS S3 buckets.
+ - **Mirroring**: All trading data was mirrored in real-time to a secondary database.
+ - **Cloud Storage**: Regular backups were taken and stored in AWS S3 buckets.
 
 4. **Software**
-    - **CI/CD**: Established [robust](../r/robust.md) CI/CD pipelines for automatic testing and deployment.
-    - **Microservices**: Decomposed the trading application into microservices to isolate and contain failures.
+ - **CI/CD**: Established [robust](../r/robust.md) CI/CD pipelines for automatic testing and deployment.
+ - **Microservices**: Decomposed the trading application into microservices to isolate and contain failures.
 
 5. **Geographical**
-    - **Data Centers**: Setup data centers in New York, London, and Singapore.
-    - **Disaster Recovery**: Implemented disaster recovery protocols with a secondary site ready to take over within seconds.
+ - **Data Centers**: Setup data centers in New York, London, and Singapore.
+ - **Disaster Recovery**: Implemented disaster recovery protocols with a secondary site ready to take over within seconds.
 
 #### Results
 The redundancy techniques ensured that the trading [firm](../f/firm.md) experienced zero downtime, even during a power outage and an ISP failure. The data integrity was maintained, and the [trading algorithms](../t/trading_algorithms.md) operated without any disruptions, highlighting the effectiveness of their multi-layered redundancy approach.
@@ -107,4 +104,3 @@ The redundancy techniques ensured that the trading [firm](../f/firm.md) experien
 ### Conclusion
 
 Redundancy techniques in [algorithmic trading](../a/algorithmic_trading.md) are essential for maintaining operational continuity and data integrity. By incorporating hardware, network, data, software, and geographical redundancies, [trading systems](../t/trading_systems.md) can achieve superior reliability and resilience. As [algorithmic trading](../a/algorithmic_trading.md) continues to grow, the importance of these techniques [will](../w/will.md) only increase, making them a critical component of any trading [infrastructure](../i/infrastructure.md).
-

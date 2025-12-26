@@ -63,7 +63,6 @@ Sustainable sourcing of raw materials addresses environmental and social impacts
 
 ## Case Study: Tesla's Raw Material Sourcing
 
-[Visit Tesla](https://www.tesla.com)
 
 Tesla, the electric vehicle and clean energy company, emphasizes sustainable raw material sourcing for its battery production. The company sources lithium, cobalt, nickel, and other minerals with a focus on responsible [mining](../m/mining.md) practices and reducing its environmental impact. Tesla has invested in partnerships and projects to secure a stable [supply](../s/supply.md) of these critical raw materials while promoting ethical sourcing standards.
 

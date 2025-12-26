@@ -24,7 +24,7 @@ In realizing the potential risks, businesses, governments, and software develope
 1. **Code Review and Testing**: Program codes were reviewed meticulously to identify date-related logic and storage, and extensive testing ensured the bugs were fixed.
 2. **System Upgrades**: Many organizations upgraded their hardware and software systems to ones that were Y2K compliant.
 3. **Development of Y2K Compliance Tools**: Tools and software aimed at analyzing, correcting, and simulating Y2K issues were developed and widely utilized.
-   - **Example**: IBM's Y2K Readiness Kit offered valuable resources for identifying and rectifying Y2K issues.
+ - **Example**: IBM's Y2K Readiness Kit offered valuable resources for identifying and rectifying Y2K issues.
 4. **Manual Intervention Plans**: [Contingency](../c/contingency.md) plans involving manual oversight of critical processes were developed to provide a safety net in case of system failures.
 5. **Global Cooperation**: International cooperation and information sharing helped ensure that different regions and sectors were informed about the [best practices](../b/best_practices.md) and solutions.
 
@@ -49,11 +49,11 @@ The Y2K [issue](../i/issue.md) highlighted several significant points relevant t
 4. **Global Standardization and Compliance**: Having standardized compliance mandates and global cooperation can better prepare the world for next significant IT-related challenges.
 
 ## Y2K Parallels: Fintech and Algo Trading
-While Y2K is a historic example, its essence is echoed even today in various forms, particularly within the rapidly evolving domains of fintech and [algorithmic trading](../a/accountability.md):
+While Y2K is a historic example, its essence is echoed even today in various forms, particularly within the rapidly evolving domains of fintech and [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Algorithm Stability and Testing**: Similar to Y2K date bugs, ensuring the stability and correctness of [trading algorithms](../t/trading_algorithms.md), especially during significant calendar events or unforeseen [market anomalies](../m/market_anomalies.md), is critical.
 2. **Time-series Data and [Big Data](../b/big_data_in_trading.md)**: Modern [trading systems](../t/trading_systems.md) [leverage](../l/leverage.md) vast amounts of time-series data. Ensuring accurate data representation and manipulation, avoiding bugs similar to Y2K, remains a crucial aspect of high-frequency trading and analysis.
 3. **Real-Time Systems**: Just as financial systems relied on correct date interpretation, modern [real-time trading systems](../r/real-time_trading_systems.md) require accurate, up-to-date data for decision-making to avoid systemic risks.
-   
+
 ## Conclusion
 The Y2K problem remains an essential case study in the annals of computing, [finance](../f/finance.md), and trading. It underscores the importance of [robust](../r/robust.md), forward-looking system design and the critical nature of diligent preparation and oversight in the face of potential global IT challenges. By understanding and learning from Y2K, modern financial and [trading systems](../t/trading_systems.md) can become more resilient, ensuring stability and accuracy in an ever-more interconnected world.

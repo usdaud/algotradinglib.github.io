@@ -38,13 +38,13 @@ The Basket of Goods, through the CPI, is crucial for several reasons:
 
 ## Real-World Examples
 ### United States Bureau of Labor Statistics (BLS)
-The U.S. Bureau of Labor [Statistics](../s/statistics.md) (BLS) publishes monthly updates on the CPI, reflecting the cost changes in their predefined basket of goods and services. Information on the U.S. CPI, including detailed methodologies and data, can be found here: [BLS CPI Overview](https://www.bls.gov/cpi/)
+The U.S. Bureau of Labor [Statistics](../s/statistics.md) (BLS) publishes monthly updates on the CPI, reflecting the cost changes in their predefined basket of goods and services. Information on the U.S. CPI, including detailed methodologies and data, can be found here: BLS CPI Overview
 
 ### Eurostat
-Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), provides harmonized indices of consumer prices (HICP). This allows for [inflation](../i/inflation.md) comparisons across EU member states. Detailed information is available here: [Eurostat HICP](https://ec.europa.eu/eurostat/web/hicp)
+Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), provides harmonized indices of consumer prices (HICP). This allows for [inflation](../i/inflation.md) comparisons across EU member states. Detailed information is available here: Eurostat HICP
 
 ### OECD
-The Organization for Economic Co-operation and Development (OECD) offers CPI data for its member countries, enabling economic analysis and international comparisons. Access their resources here: [OECD CPI](https://data.oecd.org/price/inflation-cpi.htm)
+The Organization for Economic Co-operation and Development (OECD) offers CPI data for its member countries, enabling economic analysis and international comparisons. Access their resources here: OECD CPI
 
 ## Limitations and Criticisms
 Despite its widespread use, the Basket of Goods approach and CPI have faced certain criticisms:

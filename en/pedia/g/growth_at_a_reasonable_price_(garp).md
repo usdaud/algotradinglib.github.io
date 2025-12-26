@@ -5,16 +5,16 @@
 ### Fundamental Principles of GARP
 
 1. **Growth Metrics:**
-   - **[Earnings](../e/earnings.md) Per Share (EPS) Growth:** Investors look for companies with a consistent and strong EPS growth, generally at a rate of 10%-20% per year.
-   - **[Revenue](../r/revenue.md) Growth:** Similar to EPS, [revenue](../r/revenue.md) growth is another critical metric. Sustained [revenue](../r/revenue.md) growth indicates that the company is successfully expanding its [customer](../c/customer.md) base and [market](../m/market.md) reach.
-   
+ - **[Earnings](../e/earnings.md) Per Share (EPS) Growth:** Investors look for companies with a consistent and strong EPS growth, generally at a rate of 10%-20% per year.
+ - **[Revenue](../r/revenue.md) Growth:** Similar to EPS, [revenue](../r/revenue.md) growth is another critical metric. Sustained [revenue](../r/revenue.md) growth indicates that the company is successfully expanding its [customer](../c/customer.md) base and [market](../m/market.md) reach.
+
 2. **[Valuation](../v/valuation.md) Metrics:**
-   - **Price-to-[Earnings](../e/earnings.md) Ratio (P/E Ratio):** Unlike pure growth investors who might ignore high P/E ratios, GARP investors are more cautious. They typically look for P/E ratios that are below the aggregate of their [earnings](../e/earnings.md) growth rate.
-   - **PEG Ratio (Price/[Earnings](../e/earnings.md) to Growth):** GARP investors place significant importance on the PEG ratio, which adjusts the P/E ratio by [accounting](../a/accounting.md) for the company's growth rate. A PEG ratio under 1 generally indicates that the stock might be [undervalued](../u/undervalued.md) relative to its growth potential.
+ - **Price-to-[Earnings](../e/earnings.md) Ratio (P/E Ratio):** Unlike pure growth investors who might ignore high P/E ratios, GARP investors are more cautious. They typically look for P/E ratios that are below the aggregate of their [earnings](../e/earnings.md) growth rate.
+ - **PEG Ratio (Price/[Earnings](../e/earnings.md) to Growth):** GARP investors place significant importance on the PEG ratio, which adjusts the P/E ratio by [accounting](../a/accounting.md) for the company's growth rate. A PEG ratio under 1 generally indicates that the stock might be [undervalued](../u/undervalued.md) relative to its growth potential.
 
 3. **Other Financial Metrics:**
-   - **[Return](../r/return.md) on [Equity](../e/equity.md) (ROE):** High ROE indicates efficient use of shareholders’ [equity](../e/equity.md) to generate profits.
-   - **[Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio:** A lower [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio suggests that the company is not heavily reliant on [debt](../d/debt.md) to [finance](../f/finance.md) its growth.
+ - **[Return](../r/return.md) on [Equity](../e/equity.md) (ROE):** High ROE indicates efficient use of shareholders’ [equity](../e/equity.md) to generate profits.
+ - **[Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio:** A lower [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio suggests that the company is not heavily reliant on [debt](../d/debt.md) to [finance](../f/finance.md) its growth.
 
 ### Characteristics of GARP Companies
 
@@ -37,16 +37,16 @@
 ### GARP vs. Other Investment Strategies
 
 1. **GARP vs. [Growth Investing](../g/growth_investing.md):**
-   - [Growth investing](../g/growth_investing.md) focuses solely on companies expected to grow [earnings](../e/earnings.md) at an above-average rate, often disregarding high valuations.
-   - GARP introduces [valuation](../v/valuation.md) metrics, ensuring that the investments are not excessively priced relative to their growth potential.
+ - [Growth investing](../g/growth_investing.md) focuses solely on companies expected to grow [earnings](../e/earnings.md) at an above-average rate, often disregarding high valuations.
+ - GARP introduces [valuation](../v/valuation.md) metrics, ensuring that the investments are not excessively priced relative to their growth potential.
 
 2. **GARP vs. [Value Investing](../v/value_investing.md):**
-   - [Value investing](../v/value_investing.md) targets [undervalued](../u/undervalued.md) [stocks](../s/stock.md) based on [fundamental analysis](../f/fundamental_analysis.md), without necessarily prioritizing growth prospects.
-   - GARP merges [value investing](../v/value_investing.md) principles with a focus on companies exhibiting strong and stable growth.
+ - [Value investing](../v/value_investing.md) targets [undervalued](../u/undervalued.md) [stocks](../s/stock.md) based on [fundamental analysis](../f/fundamental_analysis.md), without necessarily prioritizing growth prospects.
+ - GARP merges [value investing](../v/value_investing.md) principles with a focus on companies exhibiting strong and stable growth.
 
 3. **GARP vs. [Dividend](../d/dividend.md) [Investing](../i/investing.md):**
-   - [Dividend](../d/dividend.md) [investing](../i/investing.md) targets companies that pay high and consistent dividends, often associated with more mature, lower-growth companies.
-   - GARP typically does not prioritize [dividend yield](../d/dividend_yield.md); instead, it focuses on [earnings](../e/earnings.md) and [revenue](../r/revenue.md) growth combined with reasonable valuations.
+ - [Dividend](../d/dividend.md) [investing](../i/investing.md) targets companies that pay high and consistent dividends, often associated with more mature, lower-growth companies.
+ - GARP typically does not prioritize [dividend yield](../d/dividend_yield.md); instead, it focuses on [earnings](../e/earnings.md) and [revenue](../r/revenue.md) growth combined with reasonable valuations.
 
 ### Famous GARP Investors
 
@@ -80,5 +80,5 @@ To identify potential GARP investment opportunities, investors can use the follo
 The Growth at a Reasonable Price (GARP) strategy offers a balanced approach that combines the best aspects of [growth and value investing](../g/growth_and_value_investing.md). By focusing on companies with strong growth potential that are still reasonably valued, GARP provides a framework for potentially high returns while managing investment [risk](../r/risk.md). Investors who apply GARP principles rigorously can identify promising investment opportunities and achieve sustainable long-term growth.
 
 For more information about GARP [investing](../i/investing.md) strategies, you can visit reputable [investment company](../i/investment_company.md) websites, such as:
-- [Fidelity Investments](https://www.fidelity.com/)
-- [T. Rowe Price](https://www.troweprice.com/)
+- Fidelity Investments
+- T. Rowe Price

@@ -1,6 +1,6 @@
 # Physical vs. Cash Settlement
 
-In the realm of [financial markets](../f/financial_market.md), particularly in the context of [derivatives](../d/derivatives.md) such as [futures](../f/futures.md) and [options](../o/options.md), the terms "physical settlement" and "cash settlement" play crucial roles. Both methods of settlement define how the positions in these financial instruments are resolved upon expiration. Understanding the nuances between these two settlement methods is essential for traders, investment professionals, and anyone involved in [algorithmic trading](../a/algorithmic_trading.md). 
+In the realm of [financial markets](../f/financial_market.md), particularly in the context of [derivatives](../d/derivatives.md) such as [futures](../f/futures.md) and [options](../o/options.md), the terms "physical settlement" and "cash settlement" play crucial roles. Both methods of settlement define how the positions in these financial instruments are resolved upon expiration. Understanding the nuances between these two settlement methods is essential for traders, investment professionals, and anyone involved in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Physical Settlement
 
@@ -18,8 +18,8 @@ Physical settlement refers to the actual delivery of the [underlying asset](../u
 
 ### Examples of Physical Settlement
 
-- **[Commodity Futures](../c/commodity_futures.md)**: In markets like the Chicago Mercantile [Exchange](../e/exchange.md) (CME), many [commodity futures](../c/commodity_futures.md) contracts such as those for [crude oil](../c/crude_oil.md), gold, and wheat, typically involve physical settlement. [CME Group](https://www.cmegroup.com/)
-  
+- **[Commodity Futures](../c/commodity_futures.md)**: In markets like the Chicago Mercantile [Exchange](../e/exchange.md) (CME), many [commodity futures](../c/commodity_futures.md) contracts such as those for [crude oil](../c/crude_oil.md), gold, and wheat, typically involve physical settlement. CME Group
+
 - **[Bond Futures](../b/bond_futures.md)**: Some [bond](../b/bond.md) [futures contracts](../f/futures_contracts.md) also use physical settlement, where the buyer receives actual bonds at contract expiry.
 
 ## Cash Settlement
@@ -34,13 +34,13 @@ Cash settlement, on the other hand, does not involve the delivery of the [underl
 
 3. **Settlement Process**: The settlement involves calculating the difference between the final settlement price and the contract price, and then crediting or debiting the equivalent cash amount to the respective parties’ accounts.
 
-4. **Reduced Costs and Risks**: Since there is no [physical delivery](../p/physical_delivery_in_trading.md), the costs and logistical risks associated with transportation, storage, and [insurance](../i/insurance.md) are eliminated. 
+4. **Reduced Costs and Risks**: Since there is no [physical delivery](../p/physical_delivery_in_trading.md), the costs and logistical risks associated with transportation, storage, and [insurance](../i/insurance.md) are eliminated.
 
 ### Examples of Cash Settlement
 
 - **Stock [Index Futures](../i/index_futures.md)**: [Futures contracts](../f/futures_contracts.md) based on stock indices like the S&P 500 or the Dow Jones Industrial Average typically use cash settlement. Traders receive or pay the difference between the contract price and the [index](../i/index_instrument.md) closing price on the settlement date.
 
-- **[Currency](../c/currency.md) [Futures](../f/futures.md)**: Certain [currency](../c/currency.md) [futures](../f/futures.md) can also be cash-settled. An example is the [Euro](../e/euro.md) FX [Futures](../f/futures.md) traded on the CME, where settlement is in cash rather than actual [currency](../c/currency.md) delivery. [CME Group](https://www.cmegroup.com/)
+- **[Currency](../c/currency.md) [Futures](../f/futures.md)**: Certain [currency](../c/currency.md) [futures](../f/futures.md) can also be cash-settled. An example is the [Euro](../e/euro.md) FX [Futures](../f/futures.md) traded on the CME, where settlement is in cash rather than actual [currency](../c/currency.md) delivery. CME Group
 
 - **[Commodity](../c/commodity.md) Indices**: [Futures contracts](../f/futures_contracts.md) based on [commodity](../c/commodity.md) indices, such as the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index_instrument.md), are usually settled in cash.
 
@@ -51,22 +51,22 @@ Cash settlement, on the other hand, does not involve the delivery of the [underl
 #### Physical Settlement
 
 1. **Advantages**:
-   - **Direct Exposure**: Provides direct exposure to the [underlying asset](../u/underlying_asset.md) without the need for an intermediary.
-   - **Essential for Certain Commodities**: Necessary for commodities that need actual transfer and consumption.
+ - **Direct Exposure**: Provides direct exposure to the [underlying asset](../u/underlying_asset.md) without the need for an intermediary.
+ - **Essential for Certain Commodities**: Necessary for commodities that need actual transfer and consumption.
 
 2. **Disadvantages**:
-   - **Logistical Complexity**: Involves significant logistical arrangements and costs for delivery, storage, and transportation.
-   - **Higher [Transaction Costs](../t/transaction_costs.md)**: Additional costs for storage, [insurance](../i/insurance.md), and potential spoilage (in the case of perishable commodities).
+ - **Logistical Complexity**: Involves significant logistical arrangements and costs for delivery, storage, and transportation.
+ - **Higher [Transaction Costs](../t/transaction_costs.md)**: Additional costs for storage, [insurance](../i/insurance.md), and potential spoilage (in the case of perishable commodities).
 
 #### Cash Settlement
 
 1. **Advantages**:
-   - **Simplicity**: Easier and quicker settlement process without physical handling of the [underlying asset](../u/underlying_asset.md).
-   - **Lower Costs**: Reduces costs associated with delivery [logistics](../l/logistics.md), such as transportation and storage.
+ - **Simplicity**: Easier and quicker settlement process without physical handling of the [underlying asset](../u/underlying_asset.md).
+ - **Lower Costs**: Reduces costs associated with delivery [logistics](../l/logistics.md), such as transportation and storage.
 
 2. **Disadvantages**:
-   - **Indirect Exposure**: Does not provide direct exposure to the [underlying](../u/underlying.md) [commodity](../c/commodity.md) or [asset](../a/asset.md).
-   - **Price Discrepancies**: Potential for discrepancies between the cash settlement amount and actual [market](../m/market.md) conditions at expiry.
+ - **Indirect Exposure**: Does not provide direct exposure to the [underlying](../u/underlying.md) [commodity](../c/commodity.md) or [asset](../a/asset.md).
+ - **Price Discrepancies**: Potential for discrepancies between the cash settlement amount and actual [market](../m/market.md) conditions at expiry.
 
 ### Practical Considerations
 
@@ -94,4 +94,4 @@ Ultimately, the choice between physical and cash settlement depends on the natur
 
 To learn more about specific settlement processes or the financial products involved, detailed resources and contract specifications are often available from the exchanges where these contracts are traded. Some useful links include:
 
-- [CME Group](https://www.cmegroup.com/): For various [futures](../f/futures.md) and [options](../o/options.md) contracts with both physical and cash settlement mechanisms.
+- CME Group: For various [futures](../f/futures.md) and [options](../o/options.md) contracts with both physical and cash settlement mechanisms.

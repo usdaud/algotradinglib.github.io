@@ -62,16 +62,16 @@ High-performance computing (HPC) [infrastructure](../i/infrastructure.md), inclu
 In high-frequency trading, ultra-low-latency connections to exchanges and trading venues are crucial. Co-location services, direct [market](../m/market.md) access (DMA), and high-speed fiber-optic networks are employed to minimize latency and [gain](../g/gain.md) a competitive edge.
 
 ### Software and Platforms
-Quantitative traders use specialized software and platforms for developing, testing, and deploying [trading strategies](../t/trading_strategies.md). Popular tools include MATLAB, R, Python, and [proprietary trading](../p/proprietary_trading.md) platforms like [Bloomberg](../b/bloomberg.md) Terminal and [QuantConnect](../q/quantconnect.md).
+Quantitative traders use specialized software and platforms for developing, testing, and deploying [trading strategies](../t/trading_strategies.md). Popular tools include MATLAB, R, C#, and [proprietary trading](../p/proprietary_trading.md) platforms like [Bloomberg](../b/bloomberg.md) Terminal and [StockSharp](../s/stocksharp.md).
 
 ## Regulation and Compliance
 
 [Quantitative trading](../q/quantitative_trading.md) firms must adhere to regulatory requirements set by financial authorities. These regulations aim to maintain [market](../m/market.md) integrity, prevent [market manipulation](../m/market_manipulation.md), and ensure transparent trading practices. Key regulatory bodies include:
 
-- [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/)
-- [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov/)
-- [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu/)
-- [Financial Conduct Authority (FCA)](https://www.fca.org.uk/)
+- U.S. Securities and Exchange Commission (SEC)
+- Commodity Futures Trading Commission (CFTC)
+- European Securities and Markets Authority (ESMA)
+- Financial Conduct Authority (FCA)
 
 Regulations often address issues such as [market](../m/market.md) abuse, [algorithmic trading](../a/algorithmic_trading.md) controls, [risk management](../r/risk_management.md), and reporting [obligations](../o/obligation.md).
 
@@ -98,9 +98,9 @@ As [quantitative trading](../q/quantitative_trading.md) evolves, regulatory fram
 
 For more detailed insights into companies specializing in algorithmic and [quantitative trading](../q/quantitative_trading.md), consider exploring:
 
-- [Two Sigma](https://www.twosigma.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Citadel](https://www.citadel.com/)
-- [AQR Capital Management](https://www.aqr.com/)
+- Two Sigma
+- Renaissance Technologies
+- Citadel
+- AQR Capital Management
 
 This document aims to provide a foundational understanding of [quantitative trading](../q/quantitative_trading.md) strategies. For further reading and in-depth exploration, consider delving into specialized literature, academic journals, and [industry](../i/industry.md) whitepapers.

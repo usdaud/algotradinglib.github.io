@@ -81,7 +81,7 @@ An [investor](../i/investor.md) predicts that the yen [will](../w/will.md) stren
 
 ### Example 3: Arbitrage Opportunity
 
-Assume the following [interest](../i/interest.md) rates and [spot rate](../s/spot_rate.md): 
+Assume the following [interest](../i/interest.md) rates and [spot rate](../s/spot_rate.md):
 - 1-year Japanese [interest rate](../i/interest_rate.md): 0.1%
 - 1-year USD [interest rate](../i/interest_rate.md): 1.5%
 - Current [spot rate](../s/spot_rate.md): ¥110/USD
@@ -95,10 +95,10 @@ If the actual [forward rate](../f/forward_rate.md) in the [market](../m/market.m
 
 Several financial institutions and trading platforms provide yen [forward contract](../f/forward_contract.md) services:
 
-- [HSBC](https://www.hsbc.com) offers [forward contracts](../f/forward_contracts.md) and other [derivative](../d/derivative.md) products for various currencies including the yen.
-- [Citi](https://www.citigroup.com) provides customized [forward contracts](../f/forward_contracts.md) and other hedging solutions for corporate clients.
-- [Goldman Sachs](https://www.goldmansachs.com) facilitates [forward contracts](../f/forward_contracts.md) for institutional investors and corporate clients.
-- [JPMorgan Chase](https://www.jpmorganchase.com) offers a wide [range](../r/range.md) of [currency](../c/currency.md) [risk management](../r/risk_management.md) products, including yen [forward contracts](../f/forward_contracts.md).
+- HSBC offers [forward contracts](../f/forward_contracts.md) and other [derivative](../d/derivative.md) products for various currencies including the yen.
+- Citi provides customized [forward contracts](../f/forward_contracts.md) and other hedging solutions for corporate clients.
+- Goldman Sachs facilitates [forward contracts](../f/forward_contracts.md) for institutional investors and corporate clients.
+- JPMorgan Chase offers a wide [range](../r/range.md) of [currency](../c/currency.md) [risk management](../r/risk_management.md) products, including yen [forward contracts](../f/forward_contracts.md).
 
 ## Conclusion
 

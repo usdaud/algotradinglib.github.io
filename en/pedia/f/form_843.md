@@ -32,17 +32,17 @@ Form 843 should be used when a [taxpayer](../t/taxpayer.md) believes that:
 
 ### Step-by-Step Guide:
 
-1. **Download and Print Form 843:** The form is available on the IRS website [here](https://www.irs.gov/forms-pubs/about-form-843).
+1. **Download and Print Form 843.
 2. **Complete the Identifying Information:**
-   - [Taxpayer](../t/taxpayer.md)'s name, address, and identifying number ([social security](../s/social_security.md) number or employer identification number).
-   - Spouse’s information if filing jointly.
+ - [Taxpayer](../t/taxpayer.md)'s name, address, and identifying number ([social security](../s/social_security.md) number or employer identification number).
+ - Spouse’s information if filing jointly.
 3. **Explain the Reason for the Request:**
-   - Specify the tax year(s) involved.
-   - Details regarding the erroneous penalty or [interest](../i/interest.md).
-   - Section marking for abatement or refund.
+ - Specify the tax year(s) involved.
+ - Details regarding the erroneous penalty or [interest](../i/interest.md).
+ - Section marking for abatement or refund.
 4. **Sign and Date:**
-   - The [taxpayer](../t/taxpayer.md) or an authorized representative should sign.
-   - Include the date of completion.
+ - The [taxpayer](../t/taxpayer.md) or an authorized representative should sign.
+ - Include the date of completion.
 
 ## Supporting Documentation
 
@@ -64,7 +64,7 @@ Generally, taxpayers should file Form 843 within:
 ## Common Scenarios for Filing Form 843
 
 1. **Abatement of Penalties Due to Reasonable Cause:** This includes situations where taxpayers could not comply due to disasters, theft, illness, or other incapacitating events.
-   
+
 2. **[Interest](../i/interest.md) Abatement Due to IRS Error:** If the IRS misapplied payments or caused undue delays in processing.
 
 3. **Requesting Refunds for Overpaid [Taxes](../t/taxes.md):** When it’s discovered [taxes](../t/taxes.md) were calculated or paid incorrectly.
@@ -76,7 +76,7 @@ Generally, taxpayers should file Form 843 within:
 ## Special Considerations
 
 1. **IRS Error Penalty and [Interest](../i/interest.md) Abatement:** The IRS can generally abate [interest](../i/interest.md) on tax debts attributable to delays in performing ministerial or managerial acts.
-   
+
 2. **Filing on Behalf of Deceased Taxpayers/Estates:** Representatives must include proof of their authority, such as Form 56, Notice Concerning Fiduciary Relationship.
 
 3. **Professional Help:** Sometimes, it may be best to consult a tax professional or attorney to ensure proper completion and submission of Form 843, particularly in complex cases or large penalties.

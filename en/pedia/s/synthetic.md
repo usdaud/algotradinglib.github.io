@@ -2,6 +2,8 @@
 
 Synthetic financial instruments, also known as synthetic [derivatives](../d/derivatives.md), are financial constructs that emulate other financial products' behavior by combining various assets, [derivatives](../d/derivatives.md), or other financial instruments. These constructs can replicate the payoffs or [risk](../r/risk.md) exposures of the original instruments without actually owning them. Synthetic instruments are popular in [financial markets](../f/financial_market.md) due to their versatility, cost-effectiveness, and adaptability.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Types of Synthetic Financial Instruments
 
 ### Synthetic Long and Short Positions
@@ -43,13 +45,13 @@ Regulations and legal frameworks governing synthetic financial instruments can v
 ## Real-World Examples and Industry Applications
 
 ### Investment Banks
-[Investment banks](../i/investment_bank_(ib).md) like Goldman Sachs (https://www.goldmansachs.com/) and Morgan Stanley (https://www.morganstanley.com/) frequently use synthetic instruments in their trading, [risk management](../r/risk_management.md), and [financial engineering](../f/financial_engineering.md) activities. They create tailor-made synthetic products for their clients, including [hedge](../h/hedge.md) funds, institutional investors, and corporations.
+[Investment banks](../i/investment_bank_(ib).md) like Goldman Sachs ( and Morgan Stanley ( frequently use synthetic instruments in their trading, [risk management](../r/risk_management.md), and [financial engineering](../f/financial_engineering.md) activities. They create tailor-made synthetic products for their clients, including [hedge](../h/hedge.md) funds, institutional investors, and corporations.
 
 ### Hedge Funds
 [Hedge](../h/hedge.md) funds [capitalize](../c/capitalize.md) on synthetic instruments to implement various [trading strategies](../t/trading_strategies.md), such as [merger arbitrage](../m/merger_arbitrage.md), [long/short equity](../l/long_short_equity.md), and [global macro strategies](../g/global_macro_strategies.md). Synthetic instruments [offer](../o/offer.md) [hedge](../h/hedge.md) funds the flexibility and [leverage](../l/leverage.md) needed to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and pursue [alpha generation](../a/alpha_generation.md).
 
 ### ETFs and Index Funds
-ETFs and [index fund](../i/index_fund.md) providers like BlackRock’s [iShares](../i/ishares.md) (https://www.[ishares](../i/ishares.md).com/) and Vanguard (https://[investor](../i/investor.md).vanguard.com/) utilize synthetic replication methods to facilitate the creation of products that track indices, commodities, or other financial benchmarks.
+ETFs and [index fund](../i/index_fund.md) providers like BlackRock’s [iShares](../i/ishares.md) ( and Vanguard ( utilize synthetic replication methods to facilitate the creation of products that track indices, commodities, or other financial benchmarks.
 
 ## Conclusion
 

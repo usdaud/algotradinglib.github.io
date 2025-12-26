@@ -31,7 +31,7 @@ In the United States, the [Dodd-Frank Wall Street Reform and Consumer Protection
 The [industry](../i/industry.md) has seen several high-profile cases of spoofing. One notable instance is the case of Navinder Singh Sarao, who was accused of contributing to the 2010 Flash Crash, a [market](../m/market.md) event that saw rapid, severe [market](../m/market.md) declines. He allegedly used spoofing techniques to manipulate the price of [E-mini](../e/e-mini.md) S&P 500 [futures contracts](../f/futures_contracts.md).
 
 **CFTC Enforcement Actions:**
-The [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) maintains a page where they regularly update enforcement actions: [CFTC Enforcement Actions](https://www.cftc.gov/LawRegulation/Enforcement/EnforcementActions/index.htm).
+The [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) maintains a page where they regularly update enforcement actions: CFTC Enforcement Actions.
 
 ## Impact on Markets
 

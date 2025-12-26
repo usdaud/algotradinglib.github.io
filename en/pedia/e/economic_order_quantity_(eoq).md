@@ -36,7 +36,7 @@ EOQ calculations are based on several assumptions:
 - **[Lead Time](../l/lead_time.md) is constant and known**: The time between placing an [order](../o/order.md) and receiving it is predictable and does not vary.
 - **[Holding Costs](../h/holding_costs.md), Ordering Costs, and Unit Prices are constant**: These costs do not fluctuate over time.
 - **No Stockouts**: The [firm](../f/firm.md) never runs out of stock, meaning every [order](../o/order.md) is timed perfectly to meet [demand](../d/demand.md).
-  
+
 These assumptions are often criticized as being too simplistic for many real-world scenarios, but they provide a foundational model that can be adjusted as needed.
 
 ## Extensions and Variations of the EOQ Model
@@ -44,11 +44,11 @@ These assumptions are often criticized as being too simplistic for many real-wor
 In practice, the basic EOQ model might not always fit due to [variability](../v/variability.md) in [demand](../d/demand.md), lead times, and costs. Therefore, several extensions and variations exist:
 
 - **Economic Production Quantity (EPQ)**: A variation of EOQ, this model is used for production instead of ordering.
-  
+
 - **Quantity Discounts**: EOQ variations that incorporate bulk purchase discounts.
-  
+
 - **Backordering**: Adjusted EOQ calculations that take into account scenarios where backordering of items is allowed.
-  
+
 - **Stochastic EOQ Models**: These models account for randomness in [demand](../d/demand.md) or [lead time](../l/lead_time.md).
 
 ## Application of EOQ in Inventory Management
@@ -62,14 +62,14 @@ Implementing an EOQ model requires accurate input data and periodic review to en
 
 ## Real-World Example: Walmart
 
-To grasp how EOQ is applied in a large enterprise, consider Walmart, a retail giant recognized for its [logistics](../l/logistics.md) and [supply chain](../s/supply_chain.md) [efficiency](../e/efficiency.md). Walmart utilizes EOQ models to maintain optimal stock levels across its numerous stores. Their complex [inventory](../i/inventory.md) strategies go beyond the basic EOQ model, incorporating advanced software and real-time [data analytics](../d/data_analytics.md) to ensure shelves are stocked with minimal waste and cost. More details on Walmart’s [inventory management](../i/inventory_management.md) can be found on their official site: [Walmart](https://corporate.walmart.com).
+To grasp how EOQ is applied in a large enterprise, consider Walmart, a retail giant recognized for its [logistics](../l/logistics.md) and [supply chain](../s/supply_chain.md) [efficiency](../e/efficiency.md). Walmart utilizes EOQ models to maintain optimal stock levels across its numerous stores. Their complex [inventory](../i/inventory.md) strategies go beyond the basic EOQ model, incorporating advanced software and real-time [data analytics](../d/data_analytics.md) to ensure shelves are stocked with minimal waste and cost. More details on Walmart’s [inventory management](../i/inventory_management.md) can be found on their public materials: Walmart.
 
 ## Advantages of EOQ
 
 - **Cost Management**: Effectively balances [order](../o/order.md) and [holding costs](../h/holding_costs.md) to minimize total [inventory](../i/inventory.md) costs.
 - **Simplicity**: Provides a straightforward method for determining optimal [order](../o/order.md) quantities.
 - **[Inventory](../i/inventory.md) Control**: Helps in maintaining a consistent and reliable [supply chain](../s/supply_chain.md).
-  
+
 ## Limitations of EOQ
 
 - **Simplistic Assumptions**: Real-life [supply](../s/supply.md) chains often face fluctuating [demand](../d/demand.md), variable lead times, and changing costs, which EOQ might not account for.

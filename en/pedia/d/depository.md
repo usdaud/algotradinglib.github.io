@@ -30,17 +30,17 @@ There are two main types of depositories: central depositories and local deposit
 
 Central depositories, also known as central securities depositories (CSDs), are organizations that operate at a national or regional level. They play a crucial role in the financial [infrastructure](../i/infrastructure.md) of a country by providing centralized services for the safekeeping and settlement of securities. Examples of central depositories include:
 
-1. **The Depository [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC):** Based in the United States, DTCC provides [clearing and settlement](../c/clearing_and_settlement.md) services for equities, corporate and [municipal bonds](../m/municipal_bonds.md), government securities, and other financial assets. [Website](https://www.dtcc.com/)
-2. **[Euroclear](../e/euroclear.md):** Headquartered in Belgium, [Euroclear](../e/euroclear.md) is a global provider of securities settlement and [collateral management](../c/collateral_management.md) services. [Website](https://www.euroclear.com/)
-3. **Clearstream:** Based in Luxembourg, Clearstream offers post-[trade](../t/trade.md) services for the international securities [market](../m/market.md). [Website](https://www.clearstream.com/)
+1. **The Depository [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC):** Based in the United States, DTCC provides [clearing and settlement](../c/clearing_and_settlement.md) services for equities, corporate and [municipal bonds](../m/municipal_bonds.md), government securities,
+2. **[Euroclear](../e/euroclear.md):** Headquartered in Belgium, [Euroclear](../e/euroclear.md) is a global provider of securities settlement and [collateral management](../c/collateral_management.md)
+3. **Clearstream:** Based in Luxembourg, Clearstream offers post-[trade](../t/trade.md) services for the international securities [market](../m/market.md). online platform
 
 ### Local Depositories
 
 Local depositories operate within a specific country or [market](../m/market.md) and provide tailored services to meet the needs of local investors and [market](../m/market.md) participants. They may collaborate with central depositories to facilitate cross-border transactions. Examples of local depositories include:
 
-1. **Central Depository Company of Pakistan Limited (CDC):** The CDC offers depository services in Pakistan, including the safekeeping and settlement of securities. [Website](https://www.cdcpakistan.com/)
-2. **National Securities Depository Limited (NSDL):** Based in India, NSDL provides depository services for a wide [range](../r/range.md) of financial instruments, including equities, bonds, and mutual funds. [Website](https://nsdl.co.in/)
-3. **Central Securities Depository (CSD) of Ghana:** The CSD provides depository services for the Ghanaian securities [market](../m/market.md). [Website](https://www.csd.com.gh/)
+1. **Central Depository Company of Pakistan Limited (CDC):** The CDC offers depository services in Pakistan,
+2. **National Securities Depository Limited (NSDL):** Based in India, NSDL provides depository services for a wide [range](../r/range.md) of financial instruments, including equities, bonds,
+3. **Central Securities Depository (CSD) of Ghana:** The CSD provides depository services for the Ghanaian securities [market](../m/market.md). online platform
 
 ## Technological Advancements
 

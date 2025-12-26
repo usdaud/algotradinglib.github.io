@@ -67,4 +67,3 @@ The landscape of electronic payments is continually evolving, driven by technolo
 
 The Electronic Payments Network (EPN) is a cornerstone of the U.S. financial [infrastructure](../i/infrastructure.md), providing a critical service for processing electronic payments. Its secure, efficient, and reliable platform supports a vast array of financial transactions, contributing significantly to the [economy](../e/economy.md). As technology and regulatory landscapes continue to evolve, EPN remains committed to innovation and compliance, ensuring its continued relevance and effectiveness in the financial services [industry](../i/industry.md).
 
-For more information, you can visit the [Clearing House](https://www.theclearinghouse.org/) website.

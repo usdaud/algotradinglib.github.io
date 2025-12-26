@@ -105,6 +105,6 @@ Businesses must comply with IRS regulations when calculating [depreciation](../d
 
 The General [Depreciation](../d/depreciation.md) System (GDS) under MACRS provides significant advantages for businesses seeking to reduce [taxable income](../t/taxable_income.md) through [accelerated depreciation](../a/accelerated_depreciation.md). Understanding the nuances, including methods, property classifications, and special provisions like [bonus depreciation](../b/bonus_depreciation.md) and Section 179 expensing, is crucial for effective [tax planning](../t/tax_planning.md). The GDS helps businesses align tax deductions with [asset](../a/asset.md) usage patterns, leveraging tax deferrals to foster growth and [reinvestment](../r/reinvestment.md). Businesses should stay informed about IRS regulations and potential legislative changes that can impact [depreciation](../d/depreciation.md) strategies.
 
-For current and comprehensive information, businesses may consult the official IRS website or tax professionals who specialize in corporate [taxation](../t/taxation.md).
+For current and comprehensive information, businesses may consult the official IRS online platform or tax professionals who specialize in corporate [taxation](../t/taxation.md).
 
-For additional resources related to the Modified Accelerated Cost Recovery System (MACRS) and general [depreciation](../d/depreciation.md) methods, visit [IRS official website](https://www.irs.gov/).
+For additional resources related to the Modified Accelerated Cost Recovery System (MACRS) and general [depreciation](../d/depreciation.md) methods,

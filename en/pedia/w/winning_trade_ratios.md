@@ -41,14 +41,14 @@ Improving the Winning [Trade](../t/trade.md) Ratio involves a combination of str
 ### Example: Companies Utilizing Winning Trade Ratios
 Many companies utilize Winning [Trade](../t/trade.md) Ratios to enhance their [trading strategies](../t/trading_strategies.md) and improve performance. Some notable examples include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect Official Website](https://www.quantconnect.com/)
-  [QuantConnect](../q/quantconnect.md) is a leading [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design and implement [trading strategies](../t/trading_strategies.md). They [offer](../o/offer.md) extensive [backtesting](../b/backtesting.md) capabilities and [performance metrics](../p/performance_metrics.md), including Winning [Trade](../t/trade.md) Ratios.
+- **[QuantConnect](../q/quantconnect.md)**:
+ [QuantConnect](../q/quantconnect.md) is a leading [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design and implement [trading strategies](../t/trading_strategies.md). They [offer](../o/offer.md) extensive [backtesting](../b/backtesting.md) capabilities and [performance metrics](../p/performance_metrics.md), including Winning [Trade](../t/trade.md) Ratios.
 
-- **Numerai**: [Numerai Official Website](https://numer.ai/)
-  Numerai is a [hedge fund](../h/hedge_fund.md) that crowdsources [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. Winning [Trade](../t/trade.md) Ratios are crucial for evaluating and selecting the best performing models.
+- **Numerai**:
+ Numerai is a [hedge fund](../h/hedge_fund.md) that crowdsources [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. Winning [Trade](../t/trade.md) Ratios are crucial for evaluating and selecting the best performing models.
 
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Group (ATG)**: [ATG Official Website](https://atg.world/)
-  ATG specializes in developing [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and uses Winning [Trade](../t/trade.md) Ratios to constantly evaluate and optimize their [trading strategies](../t/trading_strategies.md).
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Group (ATG)**:
+ ATG specializes in developing [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and uses Winning [Trade](../t/trade.md) Ratios to constantly evaluate and optimize their [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 Winning [Trade](../t/trade.md) Ratios are a fundamental metric in the realm of [algorithmic trading](../a/algorithmic_trading.md), instrumental in performance assessment, [risk management](../r/risk_management.md), and strategy comparison. By understanding and improving WTR, traders and firms can enhance their [trading algorithms](../t/trading_algorithms.md), leading to higher profitability and greater [investor](../i/investor.md) confidence.

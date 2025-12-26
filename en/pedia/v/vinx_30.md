@@ -1,6 +1,6 @@
 # VINX 30
 
-The VINX 30 is a stock [market index](../m/market_index.md) that represents the 30 most traded [stocks](../s/stock.md) on the [Nasdaq](../n/nasdaq.md) Nordic [exchange](../e/exchange.md). It combines companies from Denmark, Finland, Iceland, Norway, and Sweden, [offering](../o/offering.md) a comprehensive view of the Nordic region's [stock market](../s/stock_market.md) performance. The [index](../i/index_instrument.md) serves as a barometer for the economic health and [market sentiment](../m/market_sentiment.md) of one of the world's most prosperous regions. 
+The VINX 30 is a stock [market index](../m/market_index.md) that represents the 30 most traded [stocks](../s/stock.md) on the [Nasdaq](../n/nasdaq.md) Nordic [exchange](../e/exchange.md). It combines companies from Denmark, Finland, Iceland, Norway, and Sweden, [offering](../o/offering.md) a comprehensive view of the Nordic region's [stock market](../s/stock_market.md) performance. The [index](../i/index_instrument.md) serves as a barometer for the economic health and [market sentiment](../m/market_sentiment.md) of one of the world's most prosperous regions.
 
 ## Composition and Calculation
 
@@ -95,6 +95,6 @@ Some fintech companies are exploring the use of [blockchain](../b/blockchain_in_
 
 ## Conclusion
 
-The VINX 30 is a crucial [index](../i/index_instrument.md) that provides a snapshot of the Nordic region's economic health and [market](../m/market.md) trends. For investors, it offers exposure to some of the strongest companies in Europe, spanning various sectors. Its use in financial products, [algorithmic trading](../a/accountability.md), and fintech highlights its significance and versatility in the modern financial landscape. Whether you're a [retail investor](../r/retail_investor.md), a professional [trader](../t/trader.md), or a fintech [entrepreneur](../e/entrepreneur.md), the VINX 30 opens up a world of opportunities within the [robust](../r/robust.md) Nordic [market](../m/market.md).
+The VINX 30 is a crucial [index](../i/index_instrument.md) that provides a snapshot of the Nordic region's economic health and [market](../m/market.md) trends. For investors, it offers exposure to some of the strongest companies in Europe, spanning various sectors. Its use in financial products, [algorithmic trading](../a/algorithmic_trading.md), and fintech highlights its significance and versatility in the modern financial landscape. Whether you're a [retail investor](../r/retail_investor.md), a professional [trader](../t/trader.md), or a fintech [entrepreneur](../e/entrepreneur.md), the VINX 30 opens up a world of opportunities within the [robust](../r/robust.md) Nordic [market](../m/market.md).
 
-For more detailed information, you can visit the [Nasdaq](../n/nasdaq.md) Nordic [exchange](../e/exchange.md)'s official page: [Nasdaq VINX 30](http://www.nasdaqomxnordic.com/index/Index_info?Instrument=SE0000293210)
+For more detailed information, you can visit the [Nasdaq](../n/nasdaq.md) Nordic [exchange](../e/exchange.md)'s public materials: Nasdaq VINX 30

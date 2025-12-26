@@ -112,31 +112,26 @@ Numerous platforms and tools aid traders in executing [vertical spread](../v/ver
 
 [Thinkorswim](../t/thinkorswim.md) provides a sophisticated [options](../o/options.md) [trading platform](../t/trading_platform.md) with charting tools, spread strategies, and [risk analysis](../r/risk_analysis.md).
 
-- **Website:** [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) offers an advanced [trading platform](../t/trading_platform.md) with [options spread trading](../o/options_spread_trading.md) capabilities and competitive pricing.
 
-- **Website:** [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Tastyworks
 
 Tastyworks focuses on [options](../o/options.md) trading with a user-friendly platform and educational resources on various spread strategies.
 
-- **Website:** [Tastyworks](https://www.tastyworks.com)
 
 ### OptionsPlay
 
 OptionsPlay provides tools to analyze and execute [options](../o/options.md) strategies, including vertical [spreads](../s/spreads.md), with visual aids and probability analysis.
 
-- **Website:** [OptionsPlay](https://www.optionsplay.com)
 
 ### TradeStation
 
 [TradeStation](../t/tradestation.md) offers a [robust](../r/robust.md) platform for [options](../o/options.md) trading with strategy [optimization](../o/optimization.md) and [backtesting](../b/backtesting.md) tools for vertical [spreads](../s/spreads.md).
 
-- **Website:** [TradeStation](https://www.tradestation.com)
 
 ## Conclusion
 

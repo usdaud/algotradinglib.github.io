@@ -16,9 +16,9 @@ The T [Distribution](../d/distribution.md) is symmetric around its mean, just li
 ### PDF and CDF
 - **Probability Density Function (PDF)**: The PDF of a T [Distribution](../d/distribution.md) with ν [degrees of freedom](../d/degrees_of_freedom.md) is given by:
 
-  ![PDF](https://wikimedia.org/api/rest_v1/media/math/render/svg/f2b25dd82374be7c4382c02f6670e15427e44f88)
+!PDF
 
-  where \( B \left( \frac{1}{2}, \frac{\nu}{2} \right) \) is the [Beta](../b/beta.md) function.
+ where \( B \left( \frac{1}{2}, \frac{\nu}{2} \right) \) is the [Beta](../b/beta.md) function.
 
 - **[Cumulative Distribution Function](../c/cumulative_distribution_function_in_trading.md) (CDF)**: The CDF is more complex and usually evaluated numerically.
 
@@ -42,7 +42,7 @@ In [finance](../f/finance.md), the T [Distribution](../d/distribution.md) can be
 
 ## T Distribution in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on statistical methods and models to generate [trading signals](../t/trading_signals.md). The T [Distribution](../d/distribution.md) can be employed in several ways within this domain:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on statistical methods and models to generate [trading signals](../t/trading_signals.md). The T [Distribution](../d/distribution.md) can be employed in several ways within this domain:
 
 ### Signal Generation
 Quantitative analysts might use the T [Distribution](../d/distribution.md) to establish thresholds for [trading signals](../t/trading_signals.md). For example, if a [trading strategy](../t/trading_strategy.md) is based on the [divergence](../d/divergence.md) of a certain metric from its mean, the T [Distribution](../d/distribution.md) can be used to determine the significance of the [divergence](../d/divergence.md), thereby creating buy or sell signals.
@@ -59,20 +59,20 @@ T [Distribution](../d/distribution.md) can also be instrumental in calculating d
 Several trading firms incorporate complex statistical models, including the T [Distribution](../d/distribution.md), into their [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). For example:
 
 - **Two Sigma Investments**: Known for leveraging [machine learning](../m/machine_learning.md), [big data analytics](../b/big_data_analytics_in_trading.md), and advanced statistical models.
-  Website: [Two Sigma Investments](https://www.twosigma.com/)
+ online platform: Two Sigma Investments
 
 - **Renaissance Technologies**: Another leading [firm](../f/firm.md) that utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for trading.
-  Website: [Renaissance Technologies](https://www.rentec.com/)
+ online platform: Renaissance Technologies
 
 ### Financial Software
 Several financial software companies [offer](../o/offer.md) tools that employ T [Distribution](../d/distribution.md) for various applications:
 
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Provides extensive tools for statistical analysis which include methods that utilize the T [Distribution](../d/distribution.md).
-  Website: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ online platform: Bloomberg
 
 - **R Studio**: An integrated development environment for R, which is widely used for statistical computing and graphics. It supports a variety of packages that implement the T [Distribution](../d/distribution.md) for statistical analysis.
-  Website: [RStudio](https://www.rstudio.com/)
+ online platform: RStudio
 
 ## Conclusion
 
-The T [Distribution](../d/distribution.md) is a cornerstone of inferential [statistics](../s/statistics.md), essential for performing hypothesis tests, constructing [confidence intervals](../c/confidence_intervals.md), and conducting [regression analysis](../r/regression_analysis.md), particularly in cases involving small sample sizes. Its unique properties, characterized by heavier tails and higher variance than the [normal distribution](../n/normal_distribution_in_trading.md), make it invaluable in both academic research and practical applications, including [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md). Through its various applications, the T [Distribution](../d/distribution.md) lends robustness to statistical conclusions, ensuring that analyses are correctly calibrated to account for potential extremities and uncertainties. From forming the [basis](../b/basis.md) of A/B testing in [marketing](../m/marketing.md) to enhancing [risk assessment models](../r/risk_assessment_models.md) in financial trading, the T [Distribution](../d/distribution.md) remains a versatile and vital tool in the statistician's toolkit.
+The T [Distribution](../d/distribution.md) is a cornerstone of inferential [statistics](../s/statistics.md), essential for performing hypothesis tests, constructing [confidence intervals](../c/confidence_intervals.md), and conducting [regression analysis](../r/regression_analysis.md), particularly in cases involving small sample sizes. Its unique properties, characterized by heavier tails and higher variance than the [normal distribution](../n/normal_distribution_in_trading.md), make it invaluable in both academic research and practical applications, including [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md). Through its various applications, the T [Distribution](../d/distribution.md) lends robustness to statistical conclusions, ensuring that analyses are correctly calibrated to account for potential extremities and uncertainties. From forming the [basis](../b/basis.md) of A/B testing in [marketing](../m/marketing.md) to enhancing [risk assessment models](../r/risk_assessment_models.md) in financial trading, the T [Distribution](../d/distribution.md) remains a versatile and vital tool in the statistician's toolkit.

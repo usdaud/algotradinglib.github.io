@@ -16,7 +16,7 @@ Negative [gaps](../g/gap.md) can fall into any of these categories, depending on
 ## Causes of Negative Gaps
 
 ### **1. Earnings Announcements**
-One of the primary causes of negative [gaps](../g/gap.md) is [earnings announcements](../e/earnings_announcements.md) that fall short of [market](../m/market.md) expectations. When a company reports [earnings](../e/earnings.md) below analyst forecasts, the stock price may gap down the following morning as investors adjust to the new information. 
+One of the primary causes of negative [gaps](../g/gap.md) is [earnings announcements](../e/earnings_announcements.md) that fall short of [market](../m/market.md) expectations. When a company reports [earnings](../e/earnings.md) below analyst forecasts, the stock price may gap down the following morning as investors adjust to the new information.
 
 ### **2. Downgrades by Analysts**
 Analyst downgrades can also trigger negative [gaps](../g/gap.md). If a renowned analyst downgrades a stock from "buy" to "[hold](../h/hold.md)" or "sell," it can cause a sharp decline in the stock price, resulting in a negative gap.

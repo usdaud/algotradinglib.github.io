@@ -26,15 +26,15 @@ Off-[exchange](../e/exchange.md) trading is subject to different regulatory over
 
 Off-[exchange](../e/exchange.md) [equity trading](../e/equity_trading.md) is often referred to as "[dark pool](../d/dark_pool.md)" trading. [Dark pools](../d/dark_pools.md) are private forums where buyers and sellers can [trade](../t/trade.md) large quantities of [stocks](../s/stock.md) without revealing their intentions to the broader [market](../m/market.md). This can help minimize the price impact of large trades. Some well-known [dark pool](../d/dark_pool.md) operators include:
 
-- **Instinet** - [Instinet](https://www.instinet.com)
-- **Liquidnet** - [Liquidnet](https://www.liquidnet.com)
-- **ITG Posit** - [Virtu Financial - ITG Posit](https://www.virtu.com/solutions/algorithms) (ITG Posit is now part of Virtu Financial)
+- **Instinet** - Instinet
+- **Liquidnet** - Liquidnet
+- **ITG Posit** - Virtu Financial - ITG Posit (ITG Posit is now part of Virtu Financial)
 
 ### 2. Fixed Income Trading
 
 Off-[exchange](../e/exchange.md) trading is especially common in the [fixed income](../f/fixed_income.md) [market](../m/market.md), where bonds and other [debt](../d/debt.md) instruments are often traded directly between institutional investors. The OTC [market](../m/market.md) for [fixed income securities](../f/fixed_income_securities.md) is typically less [liquid](../l/liquid.md) and more fragmented than the [equity](../e/equity.md) markets, requiring specialized knowledge and connections to navigate effectively.
 
-- **Tradeweb** - [Tradeweb](https://www.tradeweb.com)
+- **Tradeweb** - Tradeweb
 
 ### 3. Derivatives Trading
 
@@ -44,8 +44,8 @@ Off-[exchange](../e/exchange.md) trading is especially common in the [fixed inco
 
 The [foreign exchange](../f/foreign_exchange.md) (forex) [market](../m/market.md) is predominantly an OTC [market](../m/market.md), where [currency](../c/currency.md) pairs are traded 24/7 between parties around the globe. Forex trading involves a decentralized network of banks, brokers, and other financial institutions that interact electronically or via phone to [quote](../q/quote.md) prices and execute trades.
 
-- **[OANDA](../o/oanda.md)** - [OANDA](https://www.oanda.com)
-- **Forex.com** - [Forex.com](https://www.forex.com)
+- **[OANDA](../o/oanda.md)** - OANDA
+- **Forex.com** - Forex.com
 
 ## Benefits of Off-Exchange Trading
 
@@ -91,7 +91,7 @@ Advancements in technology have played a crucial role in the growth and evolutio
 
 Electronic trading platforms have revolutionized the OTC [market](../m/market.md) by providing more efficient and transparent means of executing trades. These platforms enable direct [market](../m/market.md) access (DMA) to [multiple](../m/multiple.md) [liquidity](../l/liquidity.md) providers, facilitating [price discovery](../p/price_discovery.md) and improving [execution](../e/execution.md) speeds.
 
-- **[MarketAxess](../m/marketaxess.md)** - [MarketAxess](https://www.marketaxess.com)
+- **[MarketAxess](../m/marketaxess.md)** - MarketAxess
 
 ### 2. Algorithmic Trading
 
@@ -101,7 +101,7 @@ Electronic trading platforms have revolutionized the OTC [market](../m/market.md
 
 [Distributed ledger technology](../d/distributed_ledger_technology.md), such as [blockchain](../b/blockchain_in_trading.md), has the potential to transform off-[exchange](../e/exchange.md) trading by [offering](../o/offering.md) enhanced [security](../s/security.md), [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md). DLT can be used for [trade](../t/trade.md) settlement, record-keeping, and facilitating [trust](../t/trust.md) between counterparties in OTC transactions.
 
-- **R3 Corda** - [R3 Corda](https://www.r3.com)
+- **R3 Corda** - R3 Corda
 
 ## Conclusion
 

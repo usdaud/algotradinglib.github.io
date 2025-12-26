@@ -38,9 +38,9 @@ The energy [infrastructure](../i/infrastructure.md) [industry](../i/industry.md)
 
 Some of the well-known MLPs in the energy [infrastructure](../i/infrastructure.md) sector include:
 
-- [Enterprise Products Partners L.P.](https://www.enterpriseproducts.com/)
-- [Magellan Midstream Partners, L.P.](https://www.magellanlp.com/)
-- [Energy Transfer LP](https://www.energytransfer.com/)
+- Enterprise Products Partners L.P.
+- Magellan Midstream Partners, L.P.
+- Energy Transfer LP
 
 ## The Role of MLPs in an Investment Portfolio
 

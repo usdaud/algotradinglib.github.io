@@ -10,7 +10,7 @@ The core idea behind the GMMA is to combine [multiple](../m/multiple.md) moving 
 
 The GMMA consists of two sets of exponentially moving averages (EMAs):
 
-### 1. Short-term EMAs: 
+### 1. Short-term EMAs:
 This group typically includes 6 moving averages, each calculated over a relatively short period (e.g., 3, 5, 8, 10, 12, and 15 days). These EMAs are used to represent the behavior of short-term traders and to gauge their sentiment.
 
 ### 2. Long-term EMAs:
@@ -29,7 +29,7 @@ One of the primary uses of the GMMA is to identify trends. When both sets of mov
 
 ### Signal Strength
 
-The spacing between the short-term and long-term EMAs can indicate the strength of the [trend](../t/trend.md). Wider spacing suggests a stronger [trend](../t/trend.md), while narrower spacing may indicate a weakening [trend](../t/trend.md). 
+The spacing between the short-term and long-term EMAs can indicate the strength of the [trend](../t/trend.md). Wider spacing suggests a stronger [trend](../t/trend.md), while narrower spacing may indicate a weakening [trend](../t/trend.md).
 
 ### Reversals and Breakouts
 

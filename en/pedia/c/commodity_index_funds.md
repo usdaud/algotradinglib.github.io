@@ -37,13 +37,10 @@ There are several prominent [commodity](../c/commodity.md) indices that [commodi
 Several financial institutions and [fund](../f/fund.md) managers [offer](../o/offer.md) [commodity](../c/commodity.md) [index](../i/index_instrument.md) funds:
 
 - **[iShares](../i/ishares.md) S&P GSCI [Commodity](../c/commodity.md)-Indexed [Trust](../t/trust.md) (NYSEARCA: GSG)**: Managed by BlackRock, this ETF aims to track the performance of the S&P GSCI.
-  [iShares GSG](https://www.ishares.com/us/products/239726/ishares-sp-gsci-commodityindexed-trust-fund)
 
 - **Invesco DB [Commodity](../c/commodity.md) [Index](../i/index_instrument.md) Tracking [Fund](../f/fund.md) (NYSEARCA: DBC)**: Tracks the DBIQ Optimum [Yield](../y/yield.md) Diversified [Commodity](../c/commodity.md) [Index](../i/index_instrument.md), focusing on [multiple](../m/multiple.md) sectors within the [commodity](../c/commodity.md) markets.
-  [Invesco DBC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=investor&ticker=DBC)
 
 - **Goldman Sachs Commodities Enhanced Strategy [Fund](../f/fund.md) (GSTIX)**: A [mutual fund](../m/mutual_fund.md) [offering](../o/offering.md) exposure to a wide [range](../r/range.md) of commodities, actively managed to enhance returns.
-  [Goldman Sachs GSTIX](https://www.gsam.com/content/gsam/us/en/advisors/products/mutual-funds/goldman-sachs-commodities-strategy-fund/documents.html)
 
 ## Advantages of Investing in Commodity Index Funds
 
@@ -71,4 +68,4 @@ Several financial institutions and [fund](../f/fund.md) managers [offer](../o/of
 
 ## Conclusion
 
-[Commodity](../c/commodity.md) [index](../i/index_instrument.md) funds [offer](../o/offer.md) a convenient way for investors to [gain](../g/gain.md) exposure to the commodities markets. They bring [diversification](../d/diversification.md), potential [inflation](../i/inflation.md) protection, and professional management to an investment portfolio. However, investors must also consider the inherent risks, such as [volatility](../v/volatility.md) and [contango](../c/contango.md), before committing [capital](../c/capital.md) to these financial instruments. Proper research and understanding of the specific [fund](../f/fund.md)'s strategy and [underlying](../u/underlying.md) [index](../i/index_instrument.md) are essential for informed investment decisions.
+[Commodity](../c/commodity.md) [index](../i/index_instrument.md) funds [offer](../o/offer.md) a convenient way for investors to [gain](../g/gain.md) exposure to the commodities markets. They bring [diversification](../d/diversification.md), potential [inflation](../i/inflation.md) protection, and professional management to an investment portfolio. However, investors must also consider the inherent risks, such as [volatility](../v/volatility.md) and [contango](../c/contango.md), before committing [capital](../c/capital.md) to these financial instruments. Proper research and understanding of the specific [fund](../f/fund.md)'s strategy and [underlying](../u/underlying.md) [index](../i/index_instrument.md) are essential for informed investment decisions.

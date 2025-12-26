@@ -21,7 +21,7 @@ Understanding the difference between gross and net [interest](../i/interest.md) 
 
 ### Importance in Algotrading
 
-Algotrading, or [algorithmic trading](../a/accountability.md), involves the use of computer algorithms to execute trades at high speed and frequency. In this context, gross [interest](../i/interest.md) is crucial as it helps in assessing the pure performance of [trading strategies](../t/trading_strategies.md) without external distortions. Algorithms can be designed to maximize gross [interest](../i/interest.md), thus enhancing overall returns.
+Algotrading, or [algorithmic trading](../a/algorithmic_trading.md), involves the use of computer algorithms to execute trades at high speed and frequency. In this context, gross [interest](../i/interest.md) is crucial as it helps in assessing the pure performance of [trading strategies](../t/trading_strategies.md) without external distortions. Algorithms can be designed to maximize gross [interest](../i/interest.md), thus enhancing overall returns.
 
 ### Applications in Various Financial Instruments
 
@@ -77,14 +77,14 @@ In HFT, algorithms execute numerous trades in a fraction of a second to [capital
 
 Several companies develop advanced algorithms and solutions to enhance [trading strategies](../t/trading_strategies.md) and maximize gross [interest](../i/interest.md). Some notable names in the [industry](../i/industry.md) include:
 
-- **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com) offers an [open](../o/open.md) [algorithmic trading](../a/accountability.md) platform allowing users to design and backtest [trading strategies](../t/trading_strategies.md).
-  
-- **AlgoTrader:** [AlgoTrader](https://www.algotrader.com) provides an institutional-grade [algorithmic trading](../a/accountability.md) system for managing and executing [trading strategies](../t/trading_strategies.md).
-  
-- **Kx Systems:** [Kx Systems](https://kx.com) specializes in high-performance streaming analytics, applied extensively in [algorithmic trading](../a/accountability.md).
-  
-- **[TradeStation](../t/tradestation.md):** [TradeStation](https://www.tradestation.com) offers a comprehensive suite of trading tools and automated strategy development.
-  
-- **QuantInsti:** [QuantInsti](https://www.quantinsti.com) provides education and resources for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+- **[QuantConnect](../q/quantconnect.md):** QuantConnect offers an [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to design and backtest [trading strategies](../t/trading_strategies.md).
 
-In conclusion, gross [interest](../i/interest.md) serves as a fundamental metric for evaluating the potential [earnings](../e/earnings.md) from various financial instruments before any deductions. Understanding its intricacies can significantly contribute to designing effective [trading strategies](../t/trading_strategies.md), especially in the high-stakes environment of [algorithmic trading](../a/accountability.md).
+- **AlgoTrader:** AlgoTrader provides an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) system for managing and executing [trading strategies](../t/trading_strategies.md).
+
+- **Kx Systems:** Kx Systems specializes in high-performance streaming analytics, applied extensively in [algorithmic trading](../a/algorithmic_trading.md).
+
+- **[TradeStation](../t/tradestation.md):** TradeStation offers a comprehensive suite of trading tools and automated strategy development.
+
+- **QuantInsti:** QuantInsti provides education and resources for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+
+In conclusion, gross [interest](../i/interest.md) serves as a fundamental metric for evaluating the potential [earnings](../e/earnings.md) from various financial instruments before any deductions. Understanding its intricacies can significantly contribute to designing effective [trading strategies](../t/trading_strategies.md), especially in the high-stakes environment of [algorithmic trading](../a/algorithmic_trading.md).

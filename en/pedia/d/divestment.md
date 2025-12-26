@@ -62,15 +62,15 @@ The strategic fit of the divested [asset](../a/asset.md) with potential buyers i
 
 ### 1. General Electric (GE)
 
-General Electric has undergone [multiple](../m/multiple.md) rounds of divestment over recent years, selling off divisions such as GE [Capital](../c/capital.md) and the appliances [business](../b/business.md) to focus more on aviation, power, and healthcare. [GE](https://www.ge.com/) has utilized divestment as a crucial strategy to refocus its [business](../b/business.md) operations and improve [financial health](../f/financial_health.md).
+General Electric has undergone [multiple](../m/multiple.md) rounds of divestment over recent years, selling off divisions such as GE [Capital](../c/capital.md) and the appliances [business](../b/business.md) to focus more on aviation, power, and healthcare. GE has utilized divestment as a crucial strategy to refocus its [business](../b/business.md) operations and improve [financial health](../f/financial_health.md).
 
 ### 2. IBM
 
-IBM divested its PC division to Lenovo in 2005 to concentrate on its core [business](../b/business.md) areas like enterprise systems, software, and services. This was a significant strategic move that allowed IBM to exit the highly competitive PC [market](../m/market.md). [IBM](https://www.ibm.com/) has since focused on [cloud computing](../c/cloud_computing_in_trading.md), AI, and advanced technologies.
+IBM divested its PC division to Lenovo in 2005 to concentrate on its core [business](../b/business.md) areas like enterprise systems, software, and services. This was a significant strategic move that allowed IBM to exit the highly competitive PC [market](../m/market.md). IBM has since focused on [cloud computing](../c/cloud_computing_in_trading.md), AI, and advanced technologies.
 
 ### 3. Pfizer
 
-Pharmaceutical giant Pfizer announced the divestment of its consumer health division to focus more on its core prescription drugs [business](../b/business.md). This move allowed Pfizer to raise substantial [capital](../c/capital.md) while refocusing its resources on its primary growth areas. [Pfizer](https://www.pfizer.com/) continues to streamline its operations to enhance its competitive stance in the pharmaceutical [industry](../i/industry.md).
+Pharmaceutical giant Pfizer announced the divestment of its consumer health division to focus more on its core prescription drugs [business](../b/business.md). This move allowed Pfizer to raise substantial [capital](../c/capital.md) while refocusing its resources on its primary growth areas. Pfizer continues to streamline its operations to enhance its competitive stance in the pharmaceutical [industry](../i/industry.md).
 
 ## Future Trends in Divestment and Algorithmic Trading
 

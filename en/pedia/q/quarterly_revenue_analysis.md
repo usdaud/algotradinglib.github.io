@@ -128,7 +128,4 @@ Procter & Gamble’s quarterly [revenue](../r/revenue.md) analysis focuses on th
 
 Quarterly [revenue](../r/revenue.md) analysis is a vital process for any [business](../b/business.md) aiming to maintain [financial health](../f/financial_health.md) and achieve sustainable growth. By thoroughly understanding and regularly analyzing their [revenue](../r/revenue.md) data, companies can make informed strategic decisions, anticipate future trends, and stay competitive in their respective markets. Through the use of advanced tools and techniques, businesses can enhance the accuracy and [efficiency](../e/efficiency.md) of their [revenue](../r/revenue.md) analysis, leading to better outcomes and long-term success.
 
-For more detailed insights into how specific companies manage their quarterly [revenue](../r/revenue.md) analysis, you can visit their respective [investor relations](../i/investor_relations.md) websites:
-- [Amazon Investor Relations](https://ir.aboutamazon.com/)
-- [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
-- [Procter & Gamble Investor Relations](https://www.pginvestor.com/)
+For more detailed insights into how specific companies manage their quarterly [revenue](../r/revenue.md) analysis, you can visit their respective [company filings](../i/investor_relations.md) websites:

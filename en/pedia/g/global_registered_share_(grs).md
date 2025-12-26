@@ -48,11 +48,11 @@ Despite the advantages, GRSs also come with challenges:
 
 ### Daimler AG
 
-Daimler AG was one of the pioneers in adopting the GRS structure. The company announced its plan to switch from a traditional [depository](../d/depository.md) receipt program to a GRS structure to simplify its [equity](../e/equity.md) structure and improve marketability. You can learn more about their implementation of GRSs on their [official website](https://www.daimler.com/investors/stock/share/).
+Daimler AG was one of the pioneers in adopting the GRS structure. The company announced its plan to switch from a traditional [depository](../d/depository.md) receipt program to a GRS structure to simplify its [equity](../e/equity.md) structure and improve marketability.
 
 ### Deutsche Bank
 
-Deutsche [Bank](../b/bank.md) also adopted the GRS structure for similar reasons, striving for greater appeal to international investors and enhanced [liquidity](../l/liquidity.md). More details about their GRS implementation can be found on their [official investor relations page](https://investor-relations.db.com/).
+Deutsche [Bank](../b/bank.md) also adopted the GRS structure for similar reasons, striving for greater appeal to international investors and enhanced [liquidity](../l/liquidity.md).
 
 ## Conclusion
 

@@ -103,11 +103,11 @@ print(y_pred)
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including [neural networks](../n/neural_networks_in_trading.md), to predict [market](../m/market.md) movements and execute trades. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including [neural networks](../n/neural_networks_in_trading.md), to predict [market](../m/market.md) movements and execute trades.
 
 #### Two Sigma
 
-Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [neural networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and [neural networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). More
 
 ## Conclusion
 

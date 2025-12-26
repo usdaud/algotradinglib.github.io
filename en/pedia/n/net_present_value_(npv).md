@@ -36,17 +36,17 @@ The step-by-step NPV calculation is as follows:
 
 1. Determine the annual cash flows: $30,000 for years 1 to 5.
 2. [Discount](../d/discount.md) each annual [cash flow](../c/cash_flow.md) to its [present value](../p/present_value.md):
-   - Year 1: \( \frac{30,000}{(1 + 0.1)^1} = 27,273 \)
-   - Year 2: \( \frac{30,000}{(1 + 0.1)^2} = 24,793 \)
-   - Year 3: \( \frac{30,000}{(1 + 0.1)^3} = 22,539 \)
-   - Year 4: \( \frac{30,000}{(1 + 0.1)^4} = 20,490 \)
-   - Year 5: \( \frac{30,000}{(1 + 0.1)^5} = 18,627 \)
+ - Year 1: \( \frac{30,000}{(1 + 0.1)^1} = 27,273 \)
+ - Year 2: \( \frac{30,000}{(1 + 0.1)^2} = 24,793 \)
+ - Year 3: \( \frac{30,000}{(1 + 0.1)^3} = 22,539 \)
+ - Year 4: \( \frac{30,000}{(1 + 0.1)^4} = 20,490 \)
+ - Year 5: \( \frac{30,000}{(1 + 0.1)^5} = 18,627 \)
 
 3. Sum these present values:
-   - NPV = 27,273 + 24,793 + 22,539 + 20,490 + 18,627 = 113,722
+ - NPV = 27,273 + 24,793 + 22,539 + 20,490 + 18,627 = 113,722
 
 4. Subtract the initial investment:
-   - NPV = 113,722 - 100,000 = 13,722
+ - NPV = 113,722 - 100,000 = 13,722
 
 The NPV of this project is $13,722, indicating a potentially profitable investment.
 

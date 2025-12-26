@@ -66,7 +66,7 @@ Endowments provide numerous benefits to institutions, including:
 
 ## Example: Harvard University Endowment
 
-Harvard University boasts the largest academic endowment in the world, valued at over $40 billion as of 2021. Managed by the Harvard Management Company (HMC), the endowment supports a wide [range](../r/range.md) of programs and initiatives. HMC employs a diversified [investment strategy](../i/investment_strategy.md) that includes domestic and foreign equities, [private equity](../p/private_equity.md), real assets, and [fixed income](../f/fixed_income.md). You can learn more about Harvard's endowment management at their official site: [Harvard Management Company](https://www.hmc.harvard.edu/).
+Harvard University boasts the largest academic endowment in the world, valued at over $40 billion as of 2021. Managed by the Harvard Management Company (HMC), the endowment supports a wide [range](../r/range.md) of programs and initiatives. HMC employs a diversified [investment strategy](../i/investment_strategy.md) that includes domestic and foreign equities, [private equity](../p/private_equity.md), real assets, and [fixed income](../f/fixed_income.md). You can learn more about Harvard's endowment management at their public materials: Harvard Management Company.
 
 ## Challenges in Endowment Management
 

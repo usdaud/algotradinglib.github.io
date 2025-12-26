@@ -68,13 +68,13 @@ Running a [market](../m/market.md) [simulation](../s/simulation_in_trading.md) i
 
 Several tools and platforms are available to facilitate [market](../m/market.md) [simulation](../s/simulation_in_trading.md):
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) and research platform that offers historical data and [cloud computing](../c/cloud_computing_in_trading.md) resources for [backtesting](../b/backtesting.md) strategies. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) and research platform that offers historical data and [cloud computing](../c/cloud_computing_in_trading.md) resources for [backtesting](../b/backtesting.md) strategies. QuantConnect
 
-2. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports multi-[asset](../a/asset.md) strategies and includes built-in [simulation](../s/simulation_in_trading.md) capabilities. [AlgoTrader](https://www.algotrader.com/)
+2. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports multi-[asset](../a/asset.md) strategies and includes built-in [simulation](../s/simulation_in_trading.md) capabilities. AlgoTrader
 
-3. **Matlab**: A high-level programming language and interactive environment used extensively in [quantitative finance](../q/quantitative_finance.md) for model building and [simulation](../s/simulation_in_trading.md). [Matlab](https://www.mathworks.com/products/matlab.html)
+3. **Matlab**: A high-level programming language and interactive environment used extensively in [quantitative finance](../q/quantitative_finance.md) for model building and [simulation](../s/simulation_in_trading.md). Matlab
 
-4. **Python Libraries**: Libraries like `[backtrader](../b/backtrader.md)`, `zipline`, and `PyAlgoTrade` provide extensive functionalities for building and running simulations in Python. 
+4. **Python Libraries**: Libraries like `[backtrader](../b/backtrader.md)`, `zipline`, and `PyAlgoTrade` provide extensive functionalities for building and running simulations in Python.
 
 5. **R**: The R programming language, with libraries like `quantstrat` and `PerformanceAnalytics`, is also popular for [financial modeling](../f/financial_modeling.md) and [simulation](../s/simulation_in_trading.md).
 

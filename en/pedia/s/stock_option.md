@@ -78,11 +78,11 @@ Stock [options](../o/options.md) are regulated by various financial bodies and a
 Several platforms and companies facilitate [options](../o/options.md) trading:
 
 - **Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE)**: The largest [options](../o/options.md) [exchange](../e/exchange.md) in the U.S.
-  - [CBOE](https://www.cboe.com/)
+ - CBOE
 - **[Interactive Brokers](../i/interactive_brokers.md)**: A popular platform for [options](../o/options.md) trading among individual and institutional traders.
-  - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Interactive Brokers
 - **[Robinhood](../r/robinhood.md)**: A [commission](../c/commission.md)-free trading app that has gained popularity among retail investors.
-  - [Robinhood](https://robinhood.com/)
+ - Robinhood
 
 ## Conclusion
 

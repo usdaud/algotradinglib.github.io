@@ -30,21 +30,21 @@ If the average daily temperature is above the base temperature, the HDD [value](
 
 1. **Day 1**: Average temperature is 50°F
 
-   ```
-   HDD = 65 - 50 = 15
-   ```
+ ```
+ HDD = 65 - 50 = 15
+ ```
 
 2. **Day 2**: Average temperature is 68°F
 
-   ```
-   HDD = 65 - 68 = 0 (No heating required)
-   ```
+ ```
+ HDD = 65 - 68 = 0 (No heating required)
+ ```
 
 3. **Day 3**: Average temperature is 60°F
 
-   ```
-   HDD = 65 - 60 = 5
-   ```
+ ```
+ HDD = 65 - 60 = 5
+ ```
 
 ### Monthly and Annual Totals
 
@@ -52,7 +52,7 @@ The HDD values for each day can be summed to give monthly or annual HDD values, 
 
 ## Applications in Algotrading
 
-Algotrading, or [algorithmic trading](../a/accountability.md), involves using computer algorithms to [trade](../t/trade.md) financial instruments in markets. HDD data can be an integral input for these algorithms, particularly in the [energy sector](../e/energy_sector.md).
+Algotrading, or [algorithmic trading](../a/algorithmic_trading.md), involves using computer algorithms to [trade](../t/trade.md) financial instruments in markets. HDD data can be an integral input for these algorithms, particularly in the [energy sector](../e/energy_sector.md).
 
 ### Energy Futures and Options
 
@@ -70,15 +70,15 @@ Traders use HDD projections to anticipate future energy needs, which directly im
 
 Several companies specialize in providing HDD data and related services:
 
-1. **AccuWeather**: AccuWeather offers detailed degree-day calculations and forecasts, which are crucial for [energy trading](../e/energy_trading.md) and [demand forecasting](../d/demand_forecasting.md). [AccuWeather Services](https://www.accuweather.com/en/business/weather-analytics/energy)
-   
-2. **NOAA**: The National Oceanic and Atmospheric Administration provides historical and forecast degree-day data for various regions in the U.S. [NOAA Degree Days](https://www.ncdc.noaa.gov/cdo-web/datasets/ANNUAL/file).
-   
-3. **WeatherBELL Analytics**: Specializes in delivering weather [data analytics](../d/data_analytics.md), including HDD calculations, for a variety of industries including energy. [WeatherBELL Analytics](http://www.weatherbell.com)
-   
-4. **Schneider Electric**: Provides energy management solutions that incorporate HDD data to optimize building heating systems. [Schneider Electric](https://www.se.com/us/en/)
-   
-5. **DTN**: Offers a [range](../r/range.md) of meteorological and [market](../m/market.md) data services, with HDD data being a crucial part of their energy solutions. [DTN Energy Solutions](https://www.dtn.com/)
+1. **AccuWeather**: AccuWeather offers detailed degree-day calculations and forecasts, which are crucial for [energy trading](../e/energy_trading.md) and [demand forecasting](../d/demand_forecasting.md). AccuWeather Services
+
+2. **NOAA**: The National Oceanic and Atmospheric Administration provides historical and forecast degree-day data for various regions in the U.S. NOAA Degree Days.
+
+3. **WeatherBELL Analytics**: Specializes in delivering weather [data analytics](../d/data_analytics.md), including HDD calculations, for a variety of industries including energy. WeatherBELL Analytics
+
+4. **Schneider Electric**: Provides energy management solutions that incorporate HDD data to optimize building heating systems. Schneider Electric
+
+5. **DTN**: Offers a [range](../r/range.md) of meteorological and [market](../m/market.md) data services, with HDD data being a crucial part of their energy solutions. DTN Energy Solutions
 
 ## Historical Trends and Climate Change
 

@@ -80,15 +80,12 @@ Engaging with [market](../m/market.md) makers to understand their strategies and
 
 WorldQuant is a quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that extensively uses [algorithmic trading](../a/algorithmic_trading.md) in its strategies. They focus on building diversified portfolios of [quantitative models](../q/quantitative_models.md) to reduce the [risk](../r/risk.md) associated with non-convergence. Their approach emphasizes rigorous data analysis and continuous model improvement to ensure stable and reliable performance.
 
-[WorldQuant](https://www.worldquant.com)
 
 ### Renaissance Technologies
 
 Renaissance Technologies is another leading [firm](../f/firm.md) in [algorithmic trading](../a/algorithmic_trading.md) that is known for its Medallion [Fund](../f/fund.md), which has consistently delivered exceptional returns. Their success is attributed to developing sophisticated models that can adapt to various [market](../m/market.md) conditions, mitigating the risks of non-convergence.
 
-[Renaissance Technologies](https://www.rentec.com)
 
 ## Conclusion
 
 Non-convergence in trading is a complex challenge that requires a deep understanding of algorithmic design, [market dynamics](../m/market_dynamics.md), and human behavior. By employing [robust](../r/robust.md) validation methods, [adaptive algorithms](../a/adaptive_algorithms.md), [diversification](../d/diversification.md), and real-time monitoring, traders and firms can mitigate the risks of non-converging strategies. As the field of [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, addressing non-convergence [will](../w/will.md) remain a crucial aspect of achieving consistent and reliable [trading performance](../t/trading_performance.md).
-

@@ -40,7 +40,7 @@ The primary objectives of the Eurozone include:
 The Eurozone is governed by a series of institutions and policy frameworks designed to maintain economic stability and coordinate [monetary policy](../m/monetary_policy.md). The key institutions include:
 
 ### European Central Bank (ECB)
-The ECB (https://www.ecb.europa.eu) is the central [bank](../b/bank.md) for the [euro](../e/euro.md) and administers [monetary policy](../m/monetary_policy.md) within the Eurozone. It aims to maintain price stability by controlling [inflation](../i/inflation.md) and managing [interest](../i/interest.md) rates.
+The ECB ( is the central [bank](../b/bank.md) for the [euro](../e/euro.md) and administers [monetary policy](../m/monetary_policy.md) within the Eurozone. It aims to maintain price stability by controlling [inflation](../i/inflation.md) and managing [interest](../i/interest.md) rates.
 
 ### Eurogroup
 The Eurogroup is an informal body comprising the [finance](../f/finance.md) ministers of Eurozone countries. It provides a platform for discussing economic policies and coordinating fiscal measures among the member states.

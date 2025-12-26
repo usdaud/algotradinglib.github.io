@@ -7,7 +7,7 @@ Bootstrap is a statistical technique used in [financial modeling](../f/financial
 ### Basic Steps
 
 1. **Data Collection**: Gather historical data relevant to the financial model. This could include stock prices, returns, or any other financial metric.
-  
+
 2. **Resampling**: Randomly draw samples from the dataset with replacement. The size of each sample is typically the same as the original dataset. Because [sampling](../s/sampling.md) is done with replacement, some data points may be repeated in a given sample, while others might be omitted.
 
 3. **Statistic Calculation**: Calculate the desired statistic (mean, variance, etc.) for each resampled dataset.
@@ -87,13 +87,13 @@ Repeatedly resampling from historical data can sometimes lead to [overfitting](.
 
 ## Real-World Examples
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is a platform that provides [algorithmic trading](../a/accountability.md) tools and data for [backtesting](../b/backtesting.md) and deployment. They incorporate bootstrapping techniques in their data analysis modules, allowing traders to simulate and validate their strategies under various [market](../m/market.md) conditions.
+[StockSharp](../s/stocksharp.md) is a platform that provides [algorithmic trading](../a/accountability.md) tools and data for [backtesting](../b/backtesting.md) and deployment. They incorporate bootstrapping techniques in their data analysis modules, allowing traders to simulate and validate their strategies under various [market](../m/market.md) conditions.
 
 ### Portfolio Visualizer
 
-Portfolio Visualizer (https://www.portfoliovisualizer.com/) offers advanced [portfolio analysis](../p/portfolio_analysis.md), including bootstrapped simulations for [risk](../r/risk.md) assessment and portfolio construction. This tool helps investors and traders create more resilient portfolios by understanding the statistical properties of their investments.
+Portfolio Visualizer ( offers advanced [portfolio analysis](../p/portfolio_analysis.md), including bootstrapped simulations for [risk](../r/risk.md) assessment and portfolio construction. This tool helps investors and traders create more resilient portfolios by understanding the statistical properties of their investments.
 
 ## Conclusion
 

@@ -4,7 +4,7 @@
 [Quantitative trading](../q/quantitative_trading.md), or quant trading, involves using advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities. These algorithms aim to exploit inefficiencies in the marketplace by making trades based on statistical, mathematical, or computational methods. This form of trading has become increasingly popular due to the rise of high-speed computer technology, which can process large chunks of data and execute trades in milliseconds.
 
 ## Historical Background
-[Quantitative trading](../q/quantitative_trading.md) became prominent in the late 1980s and early 1990s, driven by the work of pioneers like Ed Thorp and Jim Simons. Ed Thorp, a mathematician, used quantitative methods to devise betting strategies and later applied similar techniques to [financial markets](../f/financial_market.md). Jim Simons, a former code breaker and mathematician, founded Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) that became one of the most successful by using quantitative methods [Renaissance Technologies](https://www.rentec.com/).
+[Quantitative trading](../q/quantitative_trading.md) became prominent in the late 1980s and early 1990s, driven by the work of pioneers like Ed Thorp and Jim Simons. Ed Thorp, a mathematician, used quantitative methods to devise betting strategies and later applied similar techniques to [financial markets](../f/financial_market.md). Jim Simons, a former code breaker and mathematician, founded Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) that became one of the most successful by using quantitative methods Renaissance Technologies.
 
 ## Types of Quantitative Trading Algorithms
 
@@ -100,8 +100,7 @@ The increasing use of algorithms in trading raises ethical and regulatory questi
 
 ## References
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [PyAlgoTrade](https://github.com/gbeced/pyalgotrade)
-- [QuantLib](https://www.quantlib.org/)
-- [Kx Systems](https://kx.com/software/kdb-connectors/)
-
+- Renaissance Technologies
+- PyAlgoTrade
+- QuantLib
+- Kx Systems

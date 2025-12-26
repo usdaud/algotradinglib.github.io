@@ -70,7 +70,7 @@ Fintech innovations, including [data analytics](../d/data_analytics.md) and [art
 
 [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) can execute trades based on pre-set criteria and real-time information related to whisper [stocks](../s/stock.md). These automated systems can react instantaneously to [market](../m/market.md) movements, often executing trades faster than human traders.
 
-[Example of a company involved in this space: Renaissance Technologies](https://www.rentec.com/)
+Example of a company involved in this space: Renaissance Technologies
 
 ## Ethical Considerations
 

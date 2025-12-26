@@ -100,15 +100,15 @@ To illustrate the concept of operating expenses in the real world, let's look at
 
 ### 1. Amazon
 
-Amazon, the e-[commerce](../c/commerce.md) giant, has substantial operating expenses related to its vast operations. These include costs for [order](../o/order.md) fulfillment, [customer service](../c/customer_service.md), technology [infrastructure](../i/infrastructure.md), and [marketing](../m/marketing.md). Amazon's ability to optimize its operating expenses through automation, efficient [logistics](../l/logistics.md), and [economies of scale](../e/economies_of_scale.md) has been a key [factor](../f/factor.md) in its profitability and growth. For more information, visit [Amazon's Investor Relations](https://www.amazon.com/ir).
+Amazon, the e-[commerce](../c/commerce.md) giant, has substantial operating expenses related to its vast operations. These include costs for [order](../o/order.md) fulfillment, [customer service](../c/customer_service.md), technology [infrastructure](../i/infrastructure.md), and [marketing](../m/marketing.md). Amazon's ability to optimize its operating expenses through automation, efficient [logistics](../l/logistics.md), and [economies of scale](../e/economies_of_scale.md) has been a key [factor](../f/factor.md) in its profitability and growth.
 
 ### 2. Tesla
 
-Tesla, a leading electric vehicle manufacturer, incurs significant operating expenses in areas such as R&D, [marketing](../m/marketing.md), and administration. Tesla's continuous investment in R&D to innovate and improve its technology is reflected in its operating expenses. Despite high R&D costs, Tesla's strong sales growth and [operational efficiency](../o/operational_efficiency_in_trading.md) have enabled it to achieve profitability. For more information, visit [Tesla's Investor Relations](https://ir.tesla.com).
+Tesla, a leading electric vehicle manufacturer, incurs significant operating expenses in areas such as R&D, [marketing](../m/marketing.md), and administration. Tesla's continuous investment in R&D to innovate and improve its technology is reflected in its operating expenses. Despite high R&D costs, Tesla's strong sales growth and [operational efficiency](../o/operational_efficiency_in_trading.md) have enabled it to achieve profitability.
 
 ### 3. Google
 
-Google, a subsidiary of Alphabet Inc., has substantial operating expenses related to its core [business](../b/business.md) of online advertising and its various other ventures such as [cloud computing](../c/cloud_computing_in_trading.md) and hardware products. These expenses include costs for data centers, employee salaries, [marketing](../m/marketing.md), and R&D. Google's effective [expense](../e/expense.md) management and [revenue](../r/revenue.md) generation capabilities have contributed to its financial success. For more information, visit [Alphabet's Investor Relations](https://abc.xyz/investor).
+Google, a subsidiary of Alphabet Inc., has substantial operating expenses related to its core [business](../b/business.md) of online advertising and its various other ventures such as [cloud computing](../c/cloud_computing_in_trading.md) and hardware products. These expenses include costs for data centers, employee salaries, [marketing](../m/marketing.md), and R&D. Google's effective [expense](../e/expense.md) management and [revenue](../r/revenue.md) generation capabilities have contributed to its financial success.
 
 ## Conclusion
 

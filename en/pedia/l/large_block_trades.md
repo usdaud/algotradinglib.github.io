@@ -42,16 +42,16 @@ Executing large block trades involves [multiple](../m/multiple.md) challenges, p
 ### Case Studies and Real-World Applications
 
 **Instinet:** Instinet, a part of the Nomura Group, is a global financial services [firm](../f/firm.md) [offering](../o/offering.md) [execution](../e/execution.md) and research services. Instinet's BlockMatch, a [dark pool](../d/dark_pool.md) [offering](../o/offering.md), facilitates the anonymous trading of large blocks of [shares](../s/shares.md) and is designed to minimize [market](../m/market.md) impact.
-  * [Instinet](https://www.instinet.com)
+ * Instinet
 
 **Liquidnet:** Liquidnet is another prominent player in the block trading space. It connects [asset](../a/asset.md) managers with [buy-side](../b/buy-side.md) counterparts seeking to [trade](../t/trade.md) large blocks of equities. Liquidnet’s platform facilitates efficient and discreet [execution](../e/execution.md).
-  * [Liquidnet](https://www.liquidnet.com)
+ * Liquidnet
 
 ### Technological Innovations and Future Trends
 
 **AI and [Machine Learning](../m/machine_learning.md):** Innovations in AI and [machine learning](../m/machine_learning.md) are further refining [algorithmic trading](../a/algorithmic_trading.md) strategies for block trades. [Machine learning](../m/machine_learning.md) models can predict [market](../m/market.md) movements, optimize [trade](../t/trade.md) [execution](../e/execution.md) segments, and make real-time adjustments to strategies.
 
-**[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) offers potential for increased [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md) in the [execution](../e/execution.md) and settlement of block trades. 
+**[Blockchain](../b/blockchain_in_trading.md) Technology:** [Blockchain](../b/blockchain_in_trading.md) offers potential for increased [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md) in the [execution](../e/execution.md) and settlement of block trades.
 
 **Regulatory Environment:** The regulatory landscape surrounding block trading continues to evolve, with regulations like [MiFID II](../m/mifid_ii.md) in Europe imposing stricter [transparency](../t/transparency.md) requirements on [dark pools](../d/dark_pools.md) and over-the-counter (OTC) transactions.
 

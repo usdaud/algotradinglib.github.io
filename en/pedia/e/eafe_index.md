@@ -39,8 +39,8 @@ The [index](../i/index_instrument.md) is reviewed quarterly in February, May, Au
 
 ### Exchange-Traded Funds (ETFs)
 Several ETFs track the EAFE [Index](../i/index_instrument.md), providing an accessible option for investors to [gain](../g/gain.md) exposure to international developed markets. Prominent examples include:
-- **[iShares](../i/ishares.md) MSCI EAFE ETF (EFA)**: This is one of the largest and most popular ETFs tracking the EAFE [Index](../i/index_instrument.md). [iShares MSCI EAFE ETF](https://www.ishares.com/us/products/239623/)
-- **SPDR MSCI EAFE StrategicFactors ETF (QEFA)**: Combining the EAFE [Index](../i/index_instrument.md) with [factor](../f/factor.md)-based investment strategies. [SPDR MSCI EAFE StrategicFactors ETF](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-eafe-strategicfactors-etf-qefa)
+- **[iShares](../i/ishares.md) MSCI EAFE ETF (EFA)**: This is one of the largest and most popular ETFs tracking the EAFE [Index](../i/index_instrument.md). iShares MSCI EAFE ETF
+- **SPDR MSCI EAFE StrategicFactors ETF (QEFA)**: Combining the EAFE [Index](../i/index_instrument.md) with [factor](../f/factor.md)-based investment strategies. SPDR MSCI EAFE StrategicFactors ETF
 
 ### Mutual Funds
 Various mutual funds are benchmarked against the EAFE [Index](../i/index_instrument.md). These funds charge management fees but are governed by professional portfolio managers who actively select [stocks](../s/stock.md) to beat the [index](../i/index_instrument.md) performance.
@@ -66,6 +66,6 @@ Different regulatory environments across the included countries may result in va
 
 ## Conclusion
 
-The MSCI EAFE [Index](../i/index_instrument.md) plays a pivotal role in global [finance](../f/finance.md) by [offering](../o/offering.md) a comprehensive snapshot of the performance of developed international [equity](../e/equity.md) markets. It serves as a vital tool for benchmarking, [diversification](../d/diversification.md), and strategic [asset allocation](../a/asset_allocation.md), enabling investors to enhance their portfolios with international exposure. Despite the associated risks, such as [currency](../c/currency.md) fluctuations and [market](../m/market.md) instability, the EAFE [Index](../i/index_instrument.md) remains a cornerstone in the world of [international investing](../i/international_investing.md). 
+The MSCI EAFE [Index](../i/index_instrument.md) plays a pivotal role in global [finance](../f/finance.md) by [offering](../o/offering.md) a comprehensive snapshot of the performance of developed international [equity](../e/equity.md) markets. It serves as a vital tool for benchmarking, [diversification](../d/diversification.md), and strategic [asset allocation](../a/asset_allocation.md), enabling investors to enhance their portfolios with international exposure. Despite the associated risks, such as [currency](../c/currency.md) fluctuations and [market](../m/market.md) instability, the EAFE [Index](../i/index_instrument.md) remains a cornerstone in the world of [international investing](../i/international_investing.md).
 
 Understanding its components, methodology, and applications allows investors to make informed decisions, leveraging the [index](../i/index_instrument.md) to achieve higher [risk](../r/risk.md)-adjusted returns and diversify their investment portfolios across developed markets outside North America.

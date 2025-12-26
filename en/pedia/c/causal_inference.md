@@ -89,24 +89,24 @@ Several companies are at the forefront of integrating causal inference technique
 
 ### AQR Capital Management
 
-AQR (Applied [Quantitative Research](../q/quantitative_research.md)) is known for its rigorous research-oriented approach. They [leverage](../l/leverage.md) causal inference methods to develop [systematic trading](../s/systematic_trading.md) strategies. For more information, visit [AQR Capital Management](https://www.aqr.com).
+AQR (Applied [Quantitative Research](../q/quantitative_research.md)) is known for its rigorous research-oriented approach. They [leverage](../l/leverage.md) causal inference methods to develop [systematic trading](../s/systematic_trading.md) strategies. For more information, visit AQR Capital Management.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, employs complex statistical models, including causal inference techniques, to drive its [trading strategies](../t/trading_strategies.md). Visit their website at [Renaissance Technologies](https://www.rentec.com).
+Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, employs complex statistical models, including causal inference techniques, to drive its [trading strategies](../t/trading_strategies.md).
 
 ### Two Sigma
 
-Two Sigma integrates [machine learning](../m/machine_learning.md) and causal inference to build [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md). Their emphasis is on the scientific method to uncover hidden patterns and causal relationships in [financial markets](../f/financial_market.md). More information can be found at [Two Sigma](https://www.twosigma.com).
+Two Sigma integrates [machine learning](../m/machine_learning.md) and causal inference to build [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md). Their emphasis is on the scientific method to uncover hidden patterns and causal relationships in [financial markets](../f/financial_market.md). More information can be found at Two Sigma.
 
 ### BlackRock
 
-BlackRock's Aladdin platform incorporates advanced analytics, including causal inference, to support [portfolio management](../p/portfolio_management.md) and trading. For more information, visit [BlackRock](https://www.blackrock.com).
+BlackRock's Aladdin platform incorporates advanced analytics, including causal inference, to support [portfolio management](../p/portfolio_management.md) and trading. For more information, visit BlackRock.
 
 ### Goldman Sachs
 
-Goldman Sachs employs causal inference techniques to enhance its [algorithmic trading](../a/algorithmic_trading.md). They use these models for various applications like [risk management](../r/risk_management.md) and optimal [execution](../e/execution.md). Learn more at [Goldman Sachs](https://www.goldmansachs.com).
+Goldman Sachs employs causal inference techniques to enhance its [algorithmic trading](../a/algorithmic_trading.md). They use these models for various applications like [risk management](../r/risk_management.md) and optimal [execution](../e/execution.md). Learn more at Goldman Sachs.
 
 ## Conclusion
 
-Causal inference offers a powerful framework for understanding the [underlying](../u/underlying.md) mechanisms driving [financial markets](../f/financial_market.md). By moving beyond [correlation](../c/correlation.md) and focusing on causality, algorithmic traders can build more [robust](../r/robust.md), transparent, and effective [trading strategies](../t/trading_strategies.md). However, the complexity and challenges inherent in applying causal methods necessitate a careful, well-informed approach. As the field continues to evolve, we can expect more sophisticated tools and methodologies to emerge, further enhancing the capabilities of [algorithmic trading](../a/algorithmic_trading.md) systems.
+Causal inference offers a powerful framework for understanding the [underlying](../u/underlying.md) mechanisms driving [financial markets](../f/financial_market.md). By moving beyond [correlation](../c/correlation.md) and focusing on causality, algorithmic traders can build more [robust](../r/robust.md), transparent, and effective [trading strategies](../t/trading_strategies.md). However, the complexity and challenges inherent in applying causal methods necessitate a careful, well-informed approach. As the field continues to evolve, we can expect more sophisticated tools and methodologies to emerge, further enhancing the capabilities of [algorithmic trading](../a/algorithmic_trading.md) systems.

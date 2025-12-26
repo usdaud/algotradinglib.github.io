@@ -60,7 +60,7 @@ Apple Inc. closely tracks and analyzes unit sales of its product lines such as i
 - **[Inventory Management](../i/inventory_management.md)**: Apple optimizes its [inventory](../i/inventory.md) levels based on unit sales data to ensure timely availability of products without overstocking.
 - **Pricing Strategies**: Apple employs differential pricing strategies across various regions based on unit sales performance.
 
-For more detailed insights into Apple's [financial performance](../f/financial_performance.md) and unit sales data, refer to their [Investor Relations page](https://investor.apple.com/).
+For more detailed insights into Apple's [financial performance](../f/financial_performance.md) and unit sales data, refer to their company filings.
 
 ### Example in Automotive Industry: Tesla Inc.
 
@@ -69,7 +69,6 @@ Tesla Inc. tracks unit sales of its electric vehicles (EVs) to gauge [market](..
 - **Production Allocation**: Tesla uses unit sales data to allocate production resources efficiently among different models like Model S, Model 3, Model X, and Model Y.
 - **[Market](../m/market.md) [Expansion](../e/expansion.md)**: High unit sales in specific regions, such as Europe or Asia, inform Tesla's strategy for [market](../m/market.md) [expansion](../e/expansion.md) and the establishment of Gigafactories to meet regional [demand](../d/demand.md).
 
-For further details on Tesla's sales performance, visit their [Investor Relations page](https://ir.tesla.com/).
 
 ## Challenges in Tracking Unit Sales
 

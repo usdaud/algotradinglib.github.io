@@ -13,7 +13,7 @@ Net [Interest Rate](../i/interest_rate.md) Spread is a financial metric that ref
 ### Importance
 
 - **Profitability [Indicator](../i/indicator.md)**: A higher NIRS generally indicates that a financial institution is effectively managing its [interest](../i/interest.md)-earning assets and [interest](../i/interest.md)-bearing liabilities, leading to higher profitability.
-- **[Risk Management](../r/risk_management.md)**: Monitoring NIRS helps in understanding the [interest rate risk](../i/interest_rate_risk.md) and the gap between [asset](../a/asset.md) and [liability](../l/liability.md) maturities. 
+- **[Risk Management](../r/risk_management.md)**: Monitoring NIRS helps in understanding the [interest rate risk](../i/interest_rate_risk.md) and the gap between [asset](../a/asset.md) and [liability](../l/liability.md) maturities.
 - **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: NIRS serves as a measure of how well a financial institution is leveraging its [capital](../c/capital.md) to generate [income](../i/income.md).
 - **[Economic Indicator](../e/economic_indicator.md)**: Changes in NIRS can provide insights into the overall economic environment, especially in terms of [credit](../c/credit.md) [supply](../s/supply.md) and [demand](../d/demand.md) dynamics.
 
@@ -90,6 +90,6 @@ Effective [asset](../a/asset.md)-[liability](../l/liability.md) management (ALM)
 
 Net [Interest Rate](../i/interest_rate.md) Spread is a vital metric for understanding the [financial health](../f/financial_health.md) and profitability of banking institutions. It encapsulates the essence of how banks make [money](../m/money.md) through their core lending and borrowing activities. By carefully analyzing the components and factors influencing NIRS, stakeholders can [gain](../g/gain.md) insights into the economic environment, make informed strategic decisions, and manage risks effectively.
 
-For further reading and resources on Net [Interest Rate](../i/interest_rate.md) Spread, you can refer to reputable financial institutions' research pages such as JPMorgan Chase & Co. [Research Page](https://www.jpmorgan.com/insights/research) and Goldman Sachs [Research Page](https://www.goldmansachs.com/insights).
+For further reading and resources on Net [Interest Rate](../i/interest_rate.md) Spread, refer to research publications from institutions such as JPMorgan Chase & Co. and Goldman Sachs.
 
 Understanding NIRS in depth requires continuous monitoring of [market](../m/market.md) trends, regulatory changes, and [economic conditions](../e/economic_conditions.md), making it an indispensable tool for [financial analysis](../f/financial_analysis.md) and decision-making.

@@ -1,4 +1,3 @@
-# Investor Relations
 
 [Investor](../i/investor.md) Relations (IR) is a critical aspect of corporate communication and [finance](../f/finance.md), dealing with the management and dissemination of information to current and potential investors. This specialized field aims to provide a bridge between a [public company](../p/public_company.md) and its stakeholders, ensuring that investors have the necessary information to make informed decisions about their investments. Below is a breakdown of what [investor](../i/investor.md) relations entails, its importance, and how it functions within the corporate ecosystem.
 
@@ -13,7 +12,7 @@ The primary goals of IR are:
 4. To manage expectations by disclosing timely, accurate, and comprehensive information.
 5. To ensure compliance with regulatory requirements.
 
-## Key Players in Investor Relations
+## Key Players in company filings
 
 ### Corporate IR Professionals
 
@@ -31,7 +30,7 @@ Regulations and compliance are vital elements of IR, with bodies like the U.S. S
 
 Investors, ranging from institutional investors like mutual funds and pension funds to retail investors, are key stakeholders for IR. Financial analysts and [fund](../f/fund.md) managers rely on accurate and timely information to guide their investment strategies and decisions.
 
-## Methods and Tools in Investor Relations
+## Methods and Tools in company filings
 
 ### Communication Channels
 
@@ -64,10 +63,10 @@ IR requires adherence to strict regulatory guidelines to ensure fairness and [tr
 - **Form 10-K**: An annual comprehensive report filed by publicly traded companies, outlining [business](../b/business.md) operations and financial conditions.
 - **Form 10-Q**: Quarterly reports providing unaudited [financial statements](../f/financial_statements.md) and an update on company operations.
 - **Form 8-K**: Filed for unscheduled material events or corporate changes deemed important to shareholders.
-  
+
 Regulation Fair [Disclosure](../d/disclosure.md) (Reg FD) is particularly crucial in the U.S., mandating that all publicly traded companies must disclose material information to all investors simultaneously, to avoid [insider trading](../i/insider.md) and ensure a level playing field.
 
-## Best Practices in Investor Relations
+## Best Practices in company filings
 
 ### Clear Communication
 
@@ -87,15 +86,15 @@ Understanding [market sentiment](../m/market_sentiment.md) and how the company i
 
 ### Leveraging Technology
 
-Utilizing modern technology, from [investor](../i/investor.md) [relationship management](../r/relationship_management.md) (IRM) software to real-time [data analytics](../d/data_analytics.md), can enhance the effectiveness of IR activities. 
+Utilizing modern technology, from [investor](../i/investor.md) [relationship management](../r/relationship_management.md) (IRM) software to real-time [data analytics](../d/data_analytics.md), can enhance the effectiveness of IR activities.
 
 ## Case Study: Apple Inc.
 
-Apple Inc.'s IR practices exemplify many [best practices](../b/best_practices.md) in the field. Apple maintains a comprehensive IR section on its website, featuring easily accessible information, financial data, [earnings call](../e/earnings_call.md) transcripts, and press releases. Their approach emphasizes [transparency](../t/transparency.md) and regular engagement with shareholders.
+Apple Inc.'s IR practices exemplify many [best practices](../b/best_practices.md) in the field. Apple maintains a comprehensive IR section through its online channels, featuring easily accessible information, financial data, [earnings call](../e/earnings_call.md) transcripts, and press releases. Their approach emphasizes [transparency](../t/transparency.md) and regular engagement with shareholders.
 
-Corporate website: [Apple Investor Relations](https://investor.apple.com/)
+Corporate online platform
 
-## Challenges in Investor Relations
+## Challenges in company filings
 
 ### Market Volatility
 

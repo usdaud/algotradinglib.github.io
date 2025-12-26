@@ -44,7 +44,7 @@ Perpetual [options](../o/options.md) might come with higher premiums initially, 
 
 ### Market Risk
 
-Over time, the [underlying asset](../u/underlying_asset.md) of the perpetual option might go through phases of high [volatility](../v/volatility.md) or poor performance, impacting the option's [value](../v/value.md). 
+Over time, the [underlying asset](../u/underlying_asset.md) of the perpetual option might go through phases of high [volatility](../v/volatility.md) or poor performance, impacting the option's [value](../v/value.md).
 
 ### Complexity in Valuation
 
@@ -83,8 +83,7 @@ Advanced [fund](../f/fund.md) managers can integrate perpetual [options](../o/op
 
 While still not mainstream, perpetual [options](../o/options.md) have found niche applications within certain financial institutions and [hedge](../h/hedge.md) funds. Some trading platforms and financial service providers are beginning to [offer](../o/offer.md) perpetual [options](../o/options.md) as part of their product suite.
 
-- **dYdX (https://dydx.[exchange](../e/exchange.md)/)**: A prominent decentralized [exchange](../e/exchange.md) that offers perpetual contracts in the cryptocurrency space, akin to perpetual [options](../o/options.md) in structure. 
-
+- **dYdX ( A prominent decentralized [exchange](../e/exchange.md) that offers perpetual contracts in the cryptocurrency space, akin to perpetual [options](../o/options.md) in structure.
 ## Conclusion
 
 Perpetual [options](../o/options.md) present a distinct and flexible tool for both traders and investors. The elimination of expiry-related pressure, combined with the strategic advantages, renders them a valuable addition to the financial [derivatives](../d/derivatives.md) landscape. However, their complexity and cost mean that they might not be suitable for all [market](../m/market.md) participants. Understanding the fundamental aspects of [valuation](../v/valuation.md) and strategic application is crucial for anyone considering the use of perpetual [options](../o/options.md) in their trading or [investment strategy](../i/investment_strategy.md).

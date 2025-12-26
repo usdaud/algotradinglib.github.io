@@ -12,25 +12,25 @@ The period from approximately 1865 to 1900 in the United States is often referre
 
 John D. Rockefeller was the founder of Standard Oil Company, which became the largest and most powerful oil company in the world. Rockefeller implemented aggressive [business](../b/business.md) tactics such as [predatory pricing](../p/predatory_pricing.md) and creating a [monopoly](../m/monopoly.md) by buying out competitors, which led to the term "robber baron." His fortune made him one of the wealthiest individuals in modern history.
 
-* **Standard Oil**: [standardoil.com](https://www.standardoil.com/)
+* **Standard Oil**: standardoil.com
 
 ### Andrew Carnegie
 
 Andrew Carnegie was a steel magnate who led the enormous [expansion](../e/expansion.md) of the American steel [industry](../i/industry.md). Carnegie's tactics included [vertical integration](../v/vertical_integration.md), which involved controlling every aspect of the production process from [raw materials](../r/raw_materials.md) to transportation to [manufacturing](../m/manufacturing.md). Nevertheless, Carnegie also became known for his [philanthropy](../p/philanthropy.md), donating much of his [wealth](../w/wealth.md) to various causes.
 
-* **Carnegie [Corporation](../c/corporation.md) of New York**: [carnegie.org](https://www.carnegie.org/)
+* **Carnegie [Corporation](../c/corporation.md) of New York**: carnegie.org
 
 ### Cornelius Vanderbilt
 
 Cornelius Vanderbilt, known as the "Commodore," was a shipping and railroad tycoon. He founded many of the major transport routes in the United States, substantially reducing transportation costs and times. Vanderbilt's [business](../b/business.md) practices were often ruthless, involving cutthroat competition, but his contributions to the railroad [industry](../i/industry.md) were undeniable.
 
-* **Vanderbilt University**: [vanderbilt.edu](https://www.vanderbilt.edu/)
+* **Vanderbilt University**: vanderbilt.edu
 
 ### J.P. Morgan
 
 John Pierpont Morgan was a dominant force in American [finance](../f/finance.md) and banking. He directed the [merger](../m/merger.md) of numerous railroads and industrial corporations, including the creation of U.S. Steel [Corporation](../c/corporation.md). Morgan was known for his substantial influence over the country's [finance](../f/finance.md) system and even helped stabilize the American [economy](../e/economy.md) during the Panic of 1907.
 
-* **J.P. Morgan**: [jpmorgan.com](https://www.jpmorgan.com/)
+* **J.P. Morgan**: jpmorgan.com
 
 ## Business Practices
 
@@ -92,20 +92,20 @@ In the modern era, individuals such as Bill Gates, Jeff Bezos, and Elon Musk hav
 
 Co-founder of Microsoft, Bill Gates has been both praised and criticized for his [business](../b/business.md) practices. Like the Robber Barons, Gates has also turned to [philanthropy](../p/philanthropy.md), establishing the Bill & Melinda Gates Foundation, one of the largest private foundations in the world.
 
-* **Bill & Melinda Gates Foundation**: [gatesfoundation.org](https://www.gatesfoundation.org/)
+* **Bill & Melinda Gates Foundation**: gatesfoundation.org
 
 ### Jeff Bezos
 
 Founder of Amazon, Jeff Bezos's [business](../b/business.md) strategies, including aggressive [market](../m/market.md) domination and warehouse working conditions, have sparked debates reminiscent of those during the Gilded Age. His [acquisition](../a/acquisition.md) of The Washington Post and space exploration ventures mark significant contributions.
 
-* **Blue Origin**: [blueorigin.com](https://www.blueorigin.com/)
+* **Blue Origin**: blueorigin.com
 
 ### Elon Musk
 
 Elon Musk, CEO of companies such as Tesla and SpaceX, is another modern industrialist often compared to the Robber Barons. His bold ventures into electric vehicles and space exploration evoke parallels to the transformative ambitions of the Gilded Age tycoons.
 
-* **Tesla**: [tesla.com](https://www.tesla.com/)
-* **SpaceX**: [spacex.com](https://www.spacex.com/)
+* **Tesla**: tesla.com
+* **SpaceX**: spacex.com
 
 ## Conclusion
 

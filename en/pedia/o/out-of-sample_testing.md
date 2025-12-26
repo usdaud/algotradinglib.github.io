@@ -74,4 +74,4 @@ The model is developed and optimized using the first 7 years. Post [optimization
 
 This process mimics what professionals do and is critical for strategies deployed in [automated trading systems](../a/automated_trading_systems.md). Successful out-of-sample testing results provide confidence that the strategy may perform well in live trading, but ongoing monitoring and adjustments remain necessary to adapt to real-time [market dynamics](../m/market_dynamics.md).
 
-For more insights on implementing such strategies, refer to professionals in the field like [KJ Trading Systems](https://kjtradingsystems.com) that specialize in [systematic trading](../s/systematic_trading.md) systems and development paradigms.
+For more insights on implementing such strategies, refer to professionals in the field like KJ Trading Systems that specialize in [systematic trading](../s/systematic_trading.md) systems and development paradigms.

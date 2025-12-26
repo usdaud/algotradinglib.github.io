@@ -55,11 +55,11 @@ While COD reduces the [risk](../r/risk.md) of [fraud](../f/fraud.md) for buyers,
 
 ### E-commerce
 
-E-[commerce](../c/commerce.md) platforms widely use COD to attract customers who are skeptical about online payments. Large e-[commerce](../c/commerce.md) companies like Amazon and Flipkart (https://www.flipkart.com/) in India [offer](../o/offer.md) COD as a [payment](../p/payment.md) option.
+E-[commerce](../c/commerce.md) platforms widely use COD to attract customers who are skeptical about online payments. Large e-[commerce](../c/commerce.md) companies like Amazon and Flipkart ( in India [offer](../o/offer.md) COD as a [payment](../p/payment.md) option.
 
 ### Food and Grocery Delivery
 
-Food and grocery delivery services, such as Swiggy (https://www.swiggy.com/) and BigBasket (https://www.bigbasket.com/), utilize COD to cater to a broader [customer](../c/customer.md) base.
+Food and grocery delivery services, such as Swiggy ( and BigBasket ( utilize COD to cater to a broader [customer](../c/customer.md) base.
 
 ### Retail and Small Businesses
 

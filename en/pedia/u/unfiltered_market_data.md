@@ -10,11 +10,11 @@ Unfiltered [market](../m/market.md) data refers to the raw, unprocessed data str
 ### Types of Unfiltered Market Data
 
 1. **Level I Data:**
-   - This includes the best [bid and ask](../b/bid_and_ask.md) prices, along with their respective sizes and the last [trade](../t/trade.md) price.
+ - This includes the best [bid and ask](../b/bid_and_ask.md) prices, along with their respective sizes and the last [trade](../t/trade.md) price.
 2. **Level II Data:**
-   - Also known as [market depth](../m/market_depth.md) data, this includes all the bids and asks at different price levels, giving a deeper insight into [market](../m/market.md) [liquidity](../l/liquidity.md).
+ - Also known as [market depth](../m/market_depth.md) data, this includes all the bids and asks at different price levels, giving a deeper insight into [market](../m/market.md) [liquidity](../l/liquidity.md).
 3. **Full [Order Book](../o/order_book.md) (Level III):**
-   - This extends Level II data by including information such as [order](../o/order.md) additions, deletions, and modifications for all orders in the [market](../m/market.md).
+ - This extends Level II data by including information such as [order](../o/order.md) additions, deletions, and modifications for all orders in the [market](../m/market.md).
 
 ## Importance of Unfiltered Market Data
 
@@ -79,24 +79,19 @@ Regulations often require traders to maintain records of all trading activities,
 Several companies specialize in [offering](../o/offering.md) unfiltered [market](../m/market.md) data to traders and financial institutions. Some notable providers include:
 
 - **Thomson [Reuters](../r/reuters.md):**
-  - Provides real-time, unfiltered [market](../m/market.md) data across various [asset](../a/asset.md) classes.
-  - Website: [Thomson Reuters](https://www.thomsonreuters.com/)
+ - Provides real-time, unfiltered [market](../m/market.md) data across various [asset](../a/asset.md) classes.
 
 - **[Bloomberg](../b/bloomberg.md):**
-  - Offers a comprehensive suite of [market](../m/market.md) data products, including unfiltered feeds.
-  - Website: [Bloomberg](https://www.bloomberg.com/)
+ - Offers a comprehensive suite of [market](../m/market.md) data products, including unfiltered feeds.
 
 - **[Nasdaq](../n/nasdaq.md) [Market](../m/market.md) Data:**
-  - Provides [unfiltered data](../u/unfiltered_data_in_trading.md) directly from the [Nasdaq](../n/nasdaq.md) [exchange](../e/exchange.md), covering equities, [options](../o/options.md), and other instruments.
-  - Website: [Nasdaq Data](https://www.nasdaq.com/solutions/data)
+ - Provides [unfiltered data](../u/unfiltered_data_in_trading.md) directly from the [Nasdaq](../n/nasdaq.md) [exchange](../e/exchange.md), covering equities, [options](../o/options.md), and other instruments.
 
 - **ICE Data Services:**
-  - Offers unfiltered [market](../m/market.md) data across [multiple](../m/multiple.md) [asset](../a/asset.md) classes including commodities, equities, and [fixed income](../f/fixed_income.md).
-  - Website: [ICE Data](https://www.theice.com/market-data)
+ - Offers unfiltered [market](../m/market.md) data across [multiple](../m/multiple.md) [asset](../a/asset.md) classes including commodities, equities, and [fixed income](../f/fixed_income.md).
 
 - **[IEX Cloud](../i/iex_cloud.md):**
-  - A data platform that provides unfiltered [market](../m/market.md) data to developers and businesses.
-  - Website: [IEX Cloud](https://iexcloud.io/)
+ - A data platform that provides unfiltered [market](../m/market.md) data to developers and businesses.
 
 ## Conclusion
 

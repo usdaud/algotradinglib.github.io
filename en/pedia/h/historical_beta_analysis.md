@@ -32,7 +32,7 @@ In practice, this formula requires a series of [historical returns](../h/histori
 
 ## Examples of Beta Analysis in Practice
 
-Consider the following hypothetical scenario: 
+Consider the following hypothetical scenario:
 
 ### Example 1: Portfolio Diversification
 
@@ -52,13 +52,13 @@ A macro [hedge fund manager](../h/hedge_fund_manager.md) fears a potential [mark
 
 Several financial tools and platforms assist in conducting historical [beta](../b/beta.md) analysis, some of which include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive [beta](../b/beta.md) analysis tools and extensive [market](../m/market.md) data. [Bloomberg](https://www.bloomberg.com/)
-  
-- **[Morningstar](../m/morningstar.md)**: Provides [beta](../b/beta.md) values along with extensive historical performance data for [stocks](../s/stock.md) and funds. [Morningstar](https://www.morningstar.com/)
-  
-- **[Yahoo Finance](../y/yahoo_finance.md)**: A free resource that provides basic [beta](../b/beta.md) analysis and historical stock performance data. [Yahoo Finance](https://finance.yahoo.com/)
-  
-- **[TradingView](../t/tradingview.md)**: Features advanced charting tools and indicators to perform [beta](../b/beta.md) analysis. [TradingView](https://www.tradingview.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive [beta](../b/beta.md) analysis tools and extensive [market](../m/market.md) data. Bloomberg
+
+- **[Morningstar](../m/morningstar.md)**: Provides [beta](../b/beta.md) values along with extensive historical performance data for [stocks](../s/stock.md) and funds. Morningstar
+
+- **[Yahoo Finance](../y/yahoo_finance.md)**: A free resource that provides basic [beta](../b/beta.md) analysis and historical stock performance data. Yahoo Finance
+
+- **[TradingView](../t/tradingview.md)**: Features advanced charting tools and indicators to perform [beta](../b/beta.md) analysis. TradingView
 
 ## Limitations of Historical Beta Analysis
 

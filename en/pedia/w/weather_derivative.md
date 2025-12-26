@@ -13,7 +13,7 @@ Companies use weather [derivatives](../d/derivatives.md) to [hedge](../h/hedge.m
 Weather [derivatives](../d/derivatives.md) come in various forms, with the most common being swaps, [futures](../f/futures.md), and [options](../o/options.md).
 
 - **Weather Swaps:** Two parties agree to [exchange](../e/exchange.md) cash flows based on the outcome of a specific weather-related [index](../i/index_instrument.md). For example, a company concerned about excessive rainfall might enter into a [swap](../s/swap.md) where it receives payments if rainfall levels exceed a predetermined threshold, while making payments if rainfall is below that threshold.
-  
+
 - **[Weather Futures](../w/weather_future.md):** These are standardized contracts traded on exchanges, where the buyer agrees to purchase, and the seller agrees to deliver, a weather [index](../i/index_instrument.md) at a future date. The [value](../v/value.md) of the [futures contract](../f/futures_contract.md) fluctuates based on changes in the [underlying](../u/underlying.md) weather [index](../i/index_instrument.md).
 
 - **Weather [Options](../o/options.md):** These give the buyer the right, but not the obligation, to claim payments if a weather [index](../i/index_instrument.md) crosses a predefined level. A [call option](../c/call_option.md) might be used to protect against unusually hot weather, while a [put option](../p/put.md) could guard against unusually cold weather.
@@ -33,37 +33,37 @@ The payouts from weather [derivatives](../d/derivatives.md) are determined by we
 **How Weather [Derivatives](../d/derivatives.md) Work**
 
 1. **Identify the Weather Exposure:**
-   Companies first determine their exposure to weather [risk](../r/risk.md). For instance, a ski resort might be concerned about insufficient snowfall, while a [utility](../u/utility.md) company might be worried about a mild winter.
+ Companies first determine their exposure to weather [risk](../r/risk.md). For instance, a ski resort might be concerned about insufficient snowfall, while a [utility](../u/utility.md) company might be worried about a mild winter.
 
 2. **Structure the [Derivative](../d/derivative.md):**
-   The company structures a weather [derivative](../d/derivative.md) to address this [risk](../r/risk.md). This involves selecting an appropriate weather [index](../i/index_instrument.md), setting thresholds for payouts, and determining the [duration](../d/duration.md) of the contract.
+ The company structures a weather [derivative](../d/derivative.md) to address this [risk](../r/risk.md). This involves selecting an appropriate weather [index](../i/index_instrument.md), setting thresholds for payouts, and determining the [duration](../d/duration.md) of the contract.
 
 3. **Trading and [Execution](../e/execution.md):**
-   The [derivative](../d/derivative.md) can be traded over-the-counter (OTC) or through exchanges. Trading on an [exchange](../e/exchange.md) offers greater [liquidity](../l/liquidity.md) and [transparency](../t/transparency.md) but may be less customizable than OTC contracts.
+ The [derivative](../d/derivative.md) can be traded over-the-counter (OTC) or through exchanges. Trading on an [exchange](../e/exchange.md) offers greater [liquidity](../l/liquidity.md) and [transparency](../t/transparency.md) but may be less customizable than OTC contracts.
 
 4. **Monitoring and Settlement:**
-   Once the [derivative](../d/derivative.md) is in place, the parties monitor the weather [index](../i/index_instrument.md). If the observed weather deviates from the defined thresholds in the contract, payouts are made accordingly. Settlements are typically based on data from reputable meteorological organizations.
+ Once the [derivative](../d/derivative.md) is in place, the parties monitor the weather [index](../i/index_instrument.md). If the observed weather deviates from the defined thresholds in the contract, payouts are made accordingly. Settlements are typically based on data from reputable meteorological organizations.
 
 **Use Cases and Examples**
 
 - **[Energy Sector](../e/energy_sector.md):**
-  Energy companies often use weather [derivatives](../d/derivatives.md) to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of temperature fluctuations that could impact the [demand](../d/demand.md) for heating or cooling. For example, during a mild winter, less natural gas might be consumed for heating, leading to lower revenues for gas companies. A weather [derivative](../d/derivative.md) could mitigate this [risk](../r/risk.md) by providing payouts when the temperature deviates from normal levels.
+ Energy companies often use weather [derivatives](../d/derivatives.md) to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of temperature fluctuations that could impact the [demand](../d/demand.md) for heating or cooling. For example, during a mild winter, less natural gas might be consumed for heating, leading to lower revenues for gas companies. A weather [derivative](../d/derivative.md) could mitigate this [risk](../r/risk.md) by providing payouts when the temperature deviates from normal levels.
 
 - **Agriculture:**
-  Farmers can use weather [derivatives](../d/derivatives.md) to protect against adverse weather conditions such as droughts or excessive rainfall, which can impact crop yields. By purchasing a [derivative](../d/derivative.md) tied to a rainfall [index](../i/index_instrument.md), a farmer can receive compensation if rainfall levels are too low or too high.
+ Farmers can use weather [derivatives](../d/derivatives.md) to protect against adverse weather conditions such as droughts or excessive rainfall, which can impact crop yields. By purchasing a [derivative](../d/derivative.md) tied to a rainfall [index](../i/index_instrument.md), a farmer can receive compensation if rainfall levels are too low or too high.
 
 - **Retail:**
-  Retailers with seasonal products also face weather-related risks. For instance, sales of winter clothing could drop during a warm winter. A retail chain might use temperature-based weather [derivatives](../d/derivatives.md) to [offset](../o/offset.md) potential [revenue](../r/revenue.md) losses.
+ Retailers with seasonal products also face weather-related risks. For instance, sales of winter clothing could drop during a warm winter. A retail chain might use temperature-based weather [derivatives](../d/derivatives.md) to [offset](../o/offset.md) potential [revenue](../r/revenue.md) losses.
 
 - **Tourism:**
-  Tourism businesses like ski resorts or beach hotels are heavily dependent on favorable weather conditions. Ski resorts can [hedge](../h/hedge.md) against warm winters that result in less snowfall, while beach resorts can [hedge](../h/hedge.md) against rainy weather that could deter tourists.
+ Tourism businesses like ski resorts or beach hotels are heavily dependent on favorable weather conditions. Ski resorts can [hedge](../h/hedge.md) against warm winters that result in less snowfall, while beach resorts can [hedge](../h/hedge.md) against rainy weather that could deter tourists.
 
 **[Market](../m/market.md) Participants**
 
 Various [market](../m/market.md) participants are involved in the trading and structuring of weather [derivatives](../d/derivatives.md), including:
 
 - **Corporations:** Companies with significant weather exposure are primary users of weather [derivatives](../d/derivatives.md) to manage their risks.
-  
+
 - **[Hedge](../h/hedge.md) Funds:** [Hedge](../h/hedge.md) funds may [trade](../t/trade.md) weather [derivatives](../d/derivatives.md) to take advantage of weather-related opportunities or to diversify their portfolios.
 
 - **Insurers and Reinsurers:** [Insurance](../i/insurance.md) companies use weather [derivatives](../d/derivatives.md) to lay off some of their exposure to weather-related claims.
@@ -94,5 +94,4 @@ The integration of weather data with other financial data could lead to more sop
 
 Weather [derivatives](../d/derivatives.md) are a powerful tool for managing financial risks associated with weather fluctuations. They provide companies across various sectors with a way to protect against adverse weather conditions that can significantly impact operations and revenues. While the [market](../m/market.md) for weather [derivatives](../d/derivatives.md) has its complexities and challenges, advancements in technology and weather [forecasting](../f/forecasting.md), along with increased attention to weather [risk](../r/risk.md), are likely to drive future growth and innovation in this area.
 
-For more detailed information and specific services related to weather [derivatives](../d/derivatives.md), visit [AC Hedge](https://www.achehedge.com/) or [Climetrix](https://www.climetrix.com/).
-
+For more detailed information and specific services related to weather [derivatives](../d/derivatives.md), visit AC Hedge or Climetrix.

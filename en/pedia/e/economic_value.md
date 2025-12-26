@@ -77,7 +77,7 @@ In [financial markets](../f/financial_market.md), economic [value](../v/value.md
 
 ### Quantitative and Algorithmic Trading
 
-[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) [leverage](../l/leverage.md) economic [value](../v/value.md) indicators to identify trading opportunities. For example, algorithms might use economic data releases, corporate [earnings](../e/earnings.md) reports, and analyst forecasts to make trading decisions. Companies like Renaissance Technologies and Two Sigma use sophisticated algorithms to exploit inefficiencies in the [market](../m/market.md). For more information, you can visit [Renaissance Technologies](https://www.rentec.com/) and [Two Sigma](https://www.twosigma.com/).
+[Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) [leverage](../l/leverage.md) economic [value](../v/value.md) indicators to identify trading opportunities. For example, algorithms might use economic data releases, corporate [earnings](../e/earnings.md) reports, and analyst forecasts to make trading decisions. Companies like Renaissance Technologies and Two Sigma use sophisticated algorithms to exploit inefficiencies in the [market](../m/market.md). For more information, you can visit Renaissance Technologies and Two Sigma.
 
 ### Market Efficiency
 

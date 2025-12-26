@@ -1,6 +1,6 @@
 # Yield Volatility Forecasting
 
-[Yield](../y/yield.md) [volatility forecasting](../v/volatility_forecasting.md) refers to the process of predicting future [volatility](../v/volatility.md) in [asset](../a/asset.md) yields, particularly bonds. This practice is crucial for many financial institutions and investors, as [yield volatility](../y/yield_volatility.md) can significantly impact both returns and risks associated with [bond](../b/bond.md) investment portfolios. It plays a vital role in [risk management](../r/risk_management.md), [asset allocation](../a/asset_allocation.md), and [trading strategies](../t/trading_strategies.md). 
+[Yield](../y/yield.md) [volatility forecasting](../v/volatility_forecasting.md) refers to the process of predicting future [volatility](../v/volatility.md) in [asset](../a/asset.md) yields, particularly bonds. This practice is crucial for many financial institutions and investors, as [yield volatility](../y/yield_volatility.md) can significantly impact both returns and risks associated with [bond](../b/bond.md) investment portfolios. It plays a vital role in [risk management](../r/risk_management.md), [asset allocation](../a/asset_allocation.md), and [trading strategies](../t/trading_strategies.md).
 
 ## Understanding Yield Volatility
 

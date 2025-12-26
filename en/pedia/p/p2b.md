@@ -21,14 +21,14 @@ Peer-to-[Business](../b/business.md) (P2B) platforms enable individual investors
 
 ## Benefits of P2B
 - **For Businesses**:
-  - **Access to [Capital](../c/capital.md)**: Facilitates access to [capital](../c/capital.md) for small and medium-sized enterprises (SMEs) that might be underserved by traditional banks.
-  - **Quick Processing**: Significantly reduces the time taken to secure funding.
-  - **Flexible Terms**: More favorable and adaptable lending terms compared to conventional loans.
+ - **Access to [Capital](../c/capital.md)**: Facilitates access to [capital](../c/capital.md) for small and medium-sized enterprises (SMEs) that might be underserved by traditional banks.
+ - **Quick Processing**: Significantly reduces the time taken to secure funding.
+ - **Flexible Terms**: More favorable and adaptable lending terms compared to conventional loans.
 
 - **For Investors**:
-  - **Higher Returns**: Offers potential for higher returns compared to traditional savings accounts or investment products.
-  - **[Diversification](../d/diversification.md)**: Allows investors to diversify their portfolio by lending to various businesses.
-  - **[Transparency](../t/transparency.md)**: Enhanced [transparency](../t/transparency.md) regarding how funds are utilized and the returns expected.
+ - **Higher Returns**: Offers potential for higher returns compared to traditional savings accounts or investment products.
+ - **[Diversification](../d/diversification.md)**: Allows investors to diversify their portfolio by lending to various businesses.
+ - **[Transparency](../t/transparency.md)**: Enhanced [transparency](../t/transparency.md) regarding how funds are utilized and the returns expected.
 
 ## Risks Associated with P2B
 While P2B offers several advantages, it is not without its risks:
@@ -40,9 +40,9 @@ While P2B offers several advantages, it is not without its risks:
 ## Case Studies and Examples
 Many platforms around the world have embraced the P2B model, facilitating countless transactions. Examples include:
 
-- **Funding Circle**: [Funding Circle](https://www.fundingcircle.com/us/) is a leading P2B platform that allows investors to lend directly to small businesses in the UK and the US.
-- **LendingClub**: While originally a P2P platform, [LendingClub](https://www.lendingclub.com/) has incorporated a variety of models, including lending to businesses.
-- **OnDeck**: [OnDeck](https://www.ondeck.com/) focuses on providing loans to small businesses through its platform, backed by both individual and institutional investors.
+- **Funding Circle**: Funding Circle is a leading P2B platform that allows investors to lend directly to small businesses in the UK and the US.
+- **LendingClub**: While originally a P2P platform, LendingClub has incorporated a variety of models, including lending to businesses.
+- **OnDeck**: OnDeck focuses on providing loans to small businesses through its platform, backed by both individual and institutional investors.
 
 ## Technological Framework
 P2B platforms rely on [robust](../r/robust.md) technological [infrastructure](../i/infrastructure.md) to ensure secure, efficient, and transparent operations. Key components include:

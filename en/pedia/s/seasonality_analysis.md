@@ -48,15 +48,15 @@ The Halloween [Indicator](../i/indicator.md) suggests that stock returns are hig
 ## Software and Platforms
 Several [software tools](../s/software_tools_for_trading.md) and platforms facilitate [seasonality](../s/seasonality.md) analysis in [algorithmic trading](../a/algorithmic_trading.md):
 1. **[TradeStation](../t/tradestation.md):** A comprehensive [trading platform](../t/trading_platform.md) [offering](../o/offering.md) tools for [seasonality](../s/seasonality.md) analysis.
-2. **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) of seasonal strategies.
+2. **[StockSharp](../s/stocksharp.md):** A [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) of seasonal strategies.
 3. **[Bloomberg](../b/bloomberg.md) Terminal:** Provides advanced analytics and historical data for [seasonality](../s/seasonality.md) studies.
 4. **MetaTrader 4/5:** Popular trading platforms with plugins for [seasonality](../s/seasonality.md) analysis.
 
 For more information on these platforms, visit their respective websites:
-- [TradeStation](https://www.tradestation.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [MetaTrader](https://www.metatrader4.com/en)
+- TradeStation
+- QuantConnect
+- Bloomberg
+- MetaTrader
 
 ## Future Trends and Innovations
 Advancements in AI and [machine learning](../m/machine_learning.md) [will](../w/will.md) likely further enhance the capabilities of [seasonality](../s/seasonality.md) analysis. [Predictive models](../p/predictive_models_in_trading.md) [will](../w/will.md) become more sophisticated, incorporating a broader [range](../r/range.md) of data sources, including [social media sentiment](../s/social_media_sentiment.md) and [economic indicators](../e/economic_indicators.md).

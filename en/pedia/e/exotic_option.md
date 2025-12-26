@@ -45,7 +45,7 @@ Rainbow [options](../o/options.md) are multi-[asset](../a/asset.md) [options](..
 ### Risk Management
 - **Hedging:** Exotic [options](../o/options.md) are used to [hedge](../h/hedge.md) complex portfolios and exposures that cannot be effectively covered with standard [options](../o/options.md).
 - **Customized Strategies:** They allow the creation of custom [risk management](../r/risk_management.md) strategies for specific needs.
-  
+
 ### Speculation
 - **[Market](../m/market.md) Views:** Exotic [options](../o/options.md) provide investors with tools to express sophisticated [market](../m/market.md) views.
 - **High [Leverage](../l/leverage.md):** The complex structures often [offer](../o/offer.md) higher [leverage](../l/leverage.md) compared to standard [options](../o/options.md).
@@ -71,23 +71,19 @@ Pricing exotic [options](../o/options.md) is a complex task that often involves 
 
 ### 1. **Goldman Sachs**
 Goldman Sachs is a leading global investment [bank](../b/bank.md) that offers a wide [range](../r/range.md) of exotic [options](../o/options.md) to its clients. Their structured products cater to the specific needs of institutional and high-net-worth investors.
-[Goldman Sachs Exotic Derivatives](https://www.goldmansachs.com)
 
 ### 2. **J.P. Morgan**
 J.P. Morgan provides bespoke exotic [options](../o/options.md) and structured products. They have a [robust](../r/robust.md) framework for pricing, trading, and [risk management](../r/risk_management.md) of these complex [derivatives](../d/derivatives.md).
-[J.P. Morgan Structured Products](https://www.jpmorgan.com)
+J.P. Morgan Structured Products
 
 ### 3. **Societe Generale**
 Societe Generale has a strong presence in the [derivatives](../d/derivatives.md) [market](../m/market.md), including a diverse array of exotic [options](../o/options.md) tailored for different investment strategies.
-[Societe Generale Structured Products](https://www.societegenerale.com)
 
 ### 4. **Barclays**
 Barclays offers various structured products and exotic [options](../o/options.md) to institutional investors. They provide innovative solutions to meet complex financial needs.
-[Barclays Structured Products](https://www.barclays.com)
 
 ### 5. **Deutsche Bank**
 Deutsche [Bank](../b/bank.md) is renowned for its expertise in [derivatives](../d/derivatives.md) and offers a comprehensive suite of exotic [options](../o/options.md) and structured products.
-[Deutsche Bank Global Markets](https://www.db.com)
 
 ## Conclusion
 

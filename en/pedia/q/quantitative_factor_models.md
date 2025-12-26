@@ -9,9 +9,9 @@ A quantitative [factor](../f/factor.md) model is a mathematical representation t
 ### Basic Concepts
 
 1. **Factors**: In the context of [financial markets](../f/financial_market.md), a [factor](../f/factor.md) is a variable that influences the returns of securities. Factors can be broadly categorized as:
-   - **Macro Factors**: These are broad economic or [market](../m/market.md)-wide phenomena such as [interest](../i/interest.md) rates, [inflation](../i/inflation.md), or [economic growth](../e/economic_growth.md).
-   - **Style Factors**: Characteristics of securities such as [value](../v/value.md), size, [momentum](../m/momentum.md), quality, and [volatility](../v/volatility.md).
-   - **Sector/[Industry](../i/industry.md) Factors**: Specific to particular industries or sectors within the [economy](../e/economy.md).
+ - **Macro Factors**: These are broad economic or [market](../m/market.md)-wide phenomena such as [interest](../i/interest.md) rates, [inflation](../i/inflation.md), or [economic growth](../e/economic_growth.md).
+ - **Style Factors**: Characteristics of securities such as [value](../v/value.md), size, [momentum](../m/momentum.md), quality, and [volatility](../v/volatility.md).
+ - **Sector/[Industry](../i/industry.md) Factors**: Specific to particular industries or sectors within the [economy](../e/economy.md).
 
 2. **[Factor](../f/factor.md) Loadings**: These are coefficients that measure the sensitivity of an [asset](../a/asset.md) or portfolio to a specific [factor](../f/factor.md). High [factor](../f/factor.md) loadings indicate a strong relationship between the [asset](../a/asset.md)'s returns and the particular [factor](../f/factor.md).
 
@@ -23,7 +23,7 @@ A quantitative [factor](../f/factor.md) model is a mathematical representation t
 
 Quantitative [factor models](../f/factor_models.md) can be broadly classified into single-[factor](../f/factor.md) and multi-[factor models](../f/factor_models.md), each serving different analytical needs.
 
-#### Single-Factor Models 
+#### Single-Factor Models
 
 The most famous single-[factor](../f/factor.md) model is the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM), which explains [asset](../a/asset.md) returns as a function of [market risk](../m/market_risk.md).
 
@@ -38,7 +38,7 @@ Where:
 
 #### Multi-Factor Models
 
-These models extend the CAPM by incorporating [multiple](../m/multiple.md) factors beyond the [market portfolio](../m/market_portfolio.md). They are designed to [offer](../o/offer.md) a more nuanced explanation of [asset](../a/asset.md) returns. 
+These models extend the CAPM by incorporating [multiple](../m/multiple.md) factors beyond the [market portfolio](../m/market_portfolio.md). They are designed to [offer](../o/offer.md) a more nuanced explanation of [asset](../a/asset.md) returns.
 
 ##### Fama-French Three-Factor Model
 
@@ -120,21 +120,16 @@ Quantitative [factor models](../f/factor_models.md) have been extensively studie
 Investment firms and financial institutions use [factor models](../f/factor_models.md) across various applications:
 
 1. **[Portfolio Management](../p/portfolio_management.md)**: Companies like AQR [Capital](../c/capital.md) Management [leverage](../l/leverage.md) [factor models](../f/factor_models.md) for systematic [investing](../i/investing.md) strategies.
-   [AQR Capital Management](https://www.aqr.com)
 2. **[Risk Management](../r/risk_management.md)**: Institutions like BlackRock utilize [factor models](../f/factor_models.md) for [risk](../r/risk.md) assessment and control.
-   [BlackRock](https://www.blackrock.com)
 3. **Advisory Services**: Firms like MSCI provide [factor](../f/factor.md) model analytics for institutional investors.
-   [MSCI](https://www.msci.com)
 
 ### Software Tools
 
 Several [software tools](../s/software_tools_for_trading.md) and platforms are available to support quantitative [factor](../f/factor.md) modeling:
 
 1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides access to a wide [range](../r/range.md) of data and analytical tools for [factor](../f/factor.md) modeling.
-   [Bloomberg](https://www.bloomberg.com)
 2. **R and Python**: [Open](../o/open.md)-source programming languages with extensive libraries for statistical analysis and [factor](../f/factor.md) modeling.
 3. **[FactSet](../f/factset.md)**: Offers a suite of tools for [portfolio management](../p/portfolio_management.md) and [factor analysis](../f/factor_analysis.md).
-   [FactSet](https://www.factset.com)
 
 ## Challenges and Limitations
 

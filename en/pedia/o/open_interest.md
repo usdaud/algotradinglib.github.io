@@ -18,7 +18,7 @@ If a new buyer and seller enter the [market](../m/market.md) by creating a new p
 
 ## The Significance of Open Interest
 
-Understanding [Open](../o/open.md) [Interest](../i/interest.md) is critical for traders and analysts as it provides valuable information about [market sentiment](../m/market_sentiment.md) and potential price movements. 
+Understanding [Open](../o/open.md) [Interest](../i/interest.md) is critical for traders and analysts as it provides valuable information about [market sentiment](../m/market_sentiment.md) and potential price movements.
 
 ### Indicators of Market Activity
 
@@ -41,7 +41,7 @@ A rising [Open](../o/open.md) [Interest](../i/interest.md) paired with increasin
 ### Using Open Interest to Validate Trends
 
 - **[Trend](../t/trend.md) Confirmation**: When [Open](../o/open.md) [Interest](../i/interest.md) and price are both increasing, it aligns with bullish [market sentiment](../m/market_sentiment.md), potentially validating an upward [trend](../t/trend.md).
-  
+
 - **Exhaustion and Reversals**: If price movement is bullish, but [Open](../o/open.md) [Interest](../i/interest.md) starts to decline, it could indicate that the upward [trend](../t/trend.md) is losing [momentum](../m/momentum.md), possibly [forecasting](../f/forecasting.md) a [reversal](../r/reversal.md).
 
 ### Analyzing Futures Contracts
@@ -80,7 +80,7 @@ Numerous trading platforms provide real-time data on [Open](../o/open.md) [Inter
 
 ### Data Providers
 
-Specialized data providers, such as the CME Group ([CME Group](https://www.cmegroup.com/)) and the [Options](../o/options.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) ([The OCC](https://www.theocc.com/)), [offer](../o/offer.md) extensive data on [Open](../o/open.md) [Interest](../i/interest.md) for various [asset](../a/asset.md) classes.
+Specialized data providers, such as the CME Group (CME Group) and the [Options](../o/options.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (The OCC), [offer](../o/offer.md) extensive data on [Open](../o/open.md) [Interest](../i/interest.md) for various [asset](../a/asset.md) classes.
 
 ## Conclusion
 

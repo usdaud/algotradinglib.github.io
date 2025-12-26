@@ -22,7 +22,7 @@ To conduct a Regulation A [offering](../o/offering.md), companies must prepare a
 
 2. **Form 1-A**: This form is the application for a Regulation A [offering](../o/offering.md). It includes the [offering circular](../o/offering_circular.md) and other required information, such as the use of proceeds, legal matters, and any exhibits or schedules.
 
-3. **[Financial Statements](../f/financial_statements.md)**: Depending on the tier under which the [offering](../o/offering.md) is conducted, the [financial statements](../f/financial_statements.md) must be either reviewed or audited by an independent [accountant](../a/accountant.md). 
+3. **[Financial Statements](../f/financial_statements.md)**: Depending on the tier under which the [offering](../o/offering.md) is conducted, the [financial statements](../f/financial_statements.md) must be either reviewed or audited by an independent [accountant](../a/accountant.md).
 
 4. **Periodic Reports**: Companies conducting a Regulation A [offering](../o/offering.md) are required to file ongoing reports with the SEC, which may include annual and semi-annual reports (for Tier 2 offerings) and current event reports.
 
@@ -51,6 +51,6 @@ Regulation A offerings are divided into two tiers, each with different requireme
 Several companies have taken advantage of Regulation A to raise [capital](../c/capital.md). Notable examples include:
 
 - **Elio Motors**: An American automotive [startup](../s/startup.md) that used a Reg A+ [offering](../o/offering.md) to raise over $17 million for the development of its three-wheeled vehicle.
-- **StartEngine**: A [crowdfunding](../c/crowdfunding.md) platform that allows startups to raise [capital](../c/capital.md) through Reg A offerings. (https://www.startengine.com)
+- **StartEngine**: A [crowdfunding](../c/crowdfunding.md) platform that allows startups to raise [capital](../c/capital.md) through Reg A offerings. (
 
 By providing a streamlined process for raising [capital](../c/capital.md) from the public, Regulation A serves as a valuable tool for companies looking to grow while maintaining a level of [investor](../i/investor.md) protection mandated by the SEC.

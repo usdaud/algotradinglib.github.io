@@ -10,7 +10,7 @@ The UPA aims to codify the laws governing the formation, operation, and dissolut
 
 #### 1. Formation of Partnerships
 
-The UPA defines a partnership as an association of two or more persons to carry on a [business](../b/business.md) for [profit](../p/profit.md) as co-owners. It doesn't require a formal agreement or registration for the creation of a partnership—the partnership can be implied through the actions and relationships of the parties involved. 
+The UPA defines a partnership as an association of two or more persons to carry on a [business](../b/business.md) for [profit](../p/profit.md) as co-owners. It doesn't require a formal agreement or registration for the creation of a partnership—the partnership can be implied through the actions and relationships of the parties involved.
 
 #### 2. Partnership Property
 
@@ -64,4 +64,4 @@ RUPA emphasizes the preeminence of the partnership agreement in determining the 
 
 The Uniform Partnership Act and its revised version, RUPA, play critical roles in regulating partnerships within the United States. By providing consistency and clarity in partnership law, these acts facilitate smoother commercial operations, helping to align interests among co-owners and protect stakeholders in the partnership ecosystem.
 
-For more information on the Uniform Partnership Act and the Revised Uniform Partnership Act, you can visit the official page of the Uniform Law [Commission](../c/commission.md): [Uniform Law Commission](https://www.uniformlaws.org/).
+./c/commission.md): Uniform Law Commission.

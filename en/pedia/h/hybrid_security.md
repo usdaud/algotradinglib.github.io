@@ -31,7 +31,7 @@ Though hybrid securities [offer](../o/offer.md) [multiple](../m/multiple.md) adv
 
 A prominent example of hybrid securities in action is the issuance of CoCo bonds by major financial institutions. According to Deutsche [Bank](../b/bank.md):
 
-    "CoCo bonds are loss-absorbing instruments that convert into [equity](../e/equity.md) or are written down in the event of 'trigger events' to help banks meet regulatory [capital](../c/capital.md) requirements." [Source](https://www.db.com)
+ "CoCo bonds are loss-absorbing instruments that convert into [equity](../e/equity.md) or are written down in the event of 'trigger events' to help banks meet regulatory [capital](../c/capital.md) requirements." Source
 
 Such instruments became more popular following the [financial crisis](../f/financial_crisis.md) of 2008 as regulatory bodies like [Basel III](../b/basel_iii.md) mandated stronger [capital](../c/capital.md) structures for banks.
 

@@ -29,12 +29,12 @@ The [energy sector](../e/energy_sector.md) is fraught with [volatility](../v/vol
 The ERP exam is designed to test a candidate’s proficiency in the above areas through a combination of [multiple](../m/multiple.md)-choice and written questions. The exam is divided into two parts, each focusing on different aspects of energy [risk management](../r/risk_management.md):
 
 1. **ERP Exam Part I**
-   - Markets & Instruments
-   - [Valuation](../v/valuation.md) & [Risk](../r/risk.md) Analytics
+ - Markets & Instruments
+ - [Valuation](../v/valuation.md) & [Risk](../r/risk.md) Analytics
 
 2. **ERP Exam Part II**
-   - Advanced [Risk Management](../r/risk_management.md) & Trading
-   - Case Studies
+ - Advanced [Risk Management](../r/risk_management.md) & Trading
+ - Case Studies
 
 ### Preparation Resources
 
@@ -70,35 +70,35 @@ ERPs are in [demand](../d/demand.md) across a [range](../r/range.md) of industri
 ### Energy Companies
 
 1. **ExxonMobil**
-   - [ExxonMobil Careers](https://corporate.exxonmobil.com/careers)
+ - ExxonMobil Careers
 
 2. **Royal Dutch Shell**
-   - [Shell Careers](https://www.shell.com/careers.html)
+ - Shell Careers
 
 3. **BP (British [Petroleum](../p/petroleum.md))**
-   - [BP Careers](https://www.bp.com/en/global/corporate/careers.html)
+ - BP Careers
 
 ### Financial Institutions
 
 1. **Goldman Sachs**
-   - [Goldman Sachs Careers](https://www.goldmansachs.com/careers/)
+ - Goldman Sachs Careers
 
 2. **Morgan Stanley**
-   - [Morgan Stanley Careers](https://www.morganstanley.com/people-opportunities)
+ - Morgan Stanley Careers
 
 3. **J.P. Morgan**
-   - [J.P. Morgan Careers](https://careers.jpmorgan.com/global/en/home)
+ - J.P. Morgan Careers
 
 ### Renewable Energy & Consulting Firms
 
 1. **NextEra Energy**
-   - [NextEra Energy Careers](https://www.nexteraenergy.com/careers.html)
+ - NextEra Energy Careers
 
 2. **Deloitte**
-   - [Deloitte Careers](https://www2.deloitte.com/global/en/careers.html)
+ - Deloitte Careers
 
 3. **Accenture**
-   - [Accenture Careers](https://www.accenture.com/us-en/careers)
+ - Accenture Careers
 
 ## Benefits and Impact of ERP Certification
 

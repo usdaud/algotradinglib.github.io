@@ -69,7 +69,7 @@ The TSE enhances [financial inclusion](../f/financial_inclusion.md) by making in
 
 ### Market Size and Liquidity
 
-One of the primary challenges facing the TSE is its relatively small [market](../m/market.md) size and low [liquidity](../l/liquidity.md). Limited trading [volume](../v/volume.md) can lead to higher [volatility](../v/volatility.md) and difficulties in executing large transactions. 
+One of the primary challenges facing the TSE is its relatively small [market](../m/market.md) size and low [liquidity](../l/liquidity.md). Limited trading [volume](../v/volume.md) can lead to higher [volatility](../v/volatility.md) and difficulties in executing large transactions.
 
 ### Awareness and Education
 

@@ -1,6 +1,6 @@
 # Emerging Markets Bond Index (EMBI)
 
-The Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md) (EMBI) is a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) that measures the [total return](../t/total_return.md) performance of international government bonds issued by emerging [market](../m/market.md) countries, often denominated in hard currencies such as the US dollar, [euro](../e/euro.md), and yen. It is developed and maintained by J.P. Morgan, a global leader in financial services. 
+The Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md) (EMBI) is a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) that measures the [total return](../t/total_return.md) performance of international government bonds issued by emerging [market](../m/market.md) countries, often denominated in hard currencies such as the US dollar, [euro](../e/euro.md), and yen. It is developed and maintained by J.P. Morgan, a global leader in financial services.
 
 ## Overview
 
@@ -25,12 +25,12 @@ The [duration](../d/duration.md) of the bonds in the EMBI can vary widely, but t
 There are several variants of the EMBI to cater to different investment needs and preferences. These variants include:
 
 1. **EMBI Global**: This variant includes more countries and has broader [market](../m/market.md) coverage. It is often used by global investors seeking a comprehensive assessment of emerging [market](../m/market.md) [debt](../d/debt.md).
-   
+
 2. **EMBI+ (Plus)**: Focuses on a select group of more [liquid](../l/liquid.md) and creditworthy emerging [market](../m/market.md) bonds. It offers a more conservative investment option within the space.
 
 3. **GBI-EM ([Government Bond](../g/government_bond.md) [Index](../i/index_instrument.md) - Emerging Markets)**: Tracks local [currency](../c/currency.md) bonds of emerging [market](../m/market.md) governments, [offering](../o/offering.md) exposure to local [interest](../i/interest.md) rates and [currency](../c/currency.md) movements.
 
-4. **CEMBI (Corporate Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md))**: Tracks corporate bonds issued in emerging markets, allowing for an assessment of the corporate [debt](../d/debt.md) landscape in these regions. 
+4. **CEMBI (Corporate Emerging Markets [Bond](../b/bond.md) [Index](../i/index_instrument.md))**: Tracks corporate bonds issued in emerging markets, allowing for an assessment of the corporate [debt](../d/debt.md) landscape in these regions.
 
 ## Methodology
 
@@ -44,7 +44,7 @@ J.P. Morgan applies several criteria to select the bonds included in the EMBI. T
 
 ### Weighting
 
-The bonds in the EMBI are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md), meaning that larger issues have a greater influence on the [index](../i/index_instrument.md)’s performance. This approach helps to reflect the actual investment opportunities available in the [market](../m/market.md). 
+The bonds in the EMBI are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md), meaning that larger issues have a greater influence on the [index](../i/index_instrument.md)’s performance. This approach helps to reflect the actual investment opportunities available in the [market](../m/market.md).
 
 ## Benefits and Risks
 
@@ -76,9 +76,9 @@ Economic analysts and researchers use the EMBI to assess the health of emerging 
 
 ## Companies and Resources
 
-- [J.P. Morgan](https://www.jpmorgan.com/solutions/cib/markets/index-research/emerging-markets/embi): The primary provider of the EMBI, [offering](../o/offering.md) detailed information, research reports, and historical data on the [index](../i/index_instrument.md).
-- [BlackRock](https://www.blackrock.com): Offers [multiple](../m/multiple.md) funds and ETFs that track the performance of the EMBI.
-- [iShares](https://www.ishares.com): A prominent ETF provider under BlackRock, with specific funds dedicated to the EMBI.
+- J.P. Morgan: The primary provider of the EMBI, [offering](../o/offering.md) detailed information, research reports, and historical data on the [index](../i/index_instrument.md).
+- BlackRock: Offers [multiple](../m/multiple.md) funds and ETFs that track the performance of the EMBI.
+- iShares: A prominent ETF provider under BlackRock, with specific funds dedicated to the EMBI.
 
 ## Conclusion
 

@@ -104,4 +104,4 @@ The IMF continues to evolve as it addresses new global challenges. Issues like c
 
 In a world facing rapid technological change, increased geopolitical tensions, and environmental challenges, the role of the IMF in fostering international cooperation and financial stability remains crucial.
 
-For more detailed insights, visit the [official IMF website](https://www.imf.org).
+For more detailed insights,

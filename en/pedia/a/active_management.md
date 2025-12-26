@@ -58,7 +58,7 @@ Effective active management requires a high level of expertise and experience. I
 [Hedge](../h/hedge.md) funds are one of the most prominent examples of active management. These investment vehicles employ a variety of strategies, such as [long/short equity](../l/long_short_equity.md), [market](../m/market.md)-[neutral](../n/neutral.md), and [global macro](../g/global_macro.md), to achieve superior returns.
 
 #### Mutual Funds
-Many mutual funds are actively managed, with portfolio managers making decisions about which securities to buy and sell. Examples of companies that [offer](../o/offer.md) actively managed mutual funds include Fidelity (https://www.fidelity.com) and T. Rowe Price (https://www.troweprice.com).
+Many mutual funds are actively managed, with portfolio managers making decisions about which securities to buy and sell. Examples of companies that [offer](../o/offer.md) actively managed mutual funds include Fidelity ( and T. Rowe Price (
 
 #### Private Equity
 [Private equity](../p/private_equity.md) firms invest directly in private companies or conduct buyouts of public companies. These investments require active management to improve operational efficiencies and drive growth, which can lead to substantial returns.

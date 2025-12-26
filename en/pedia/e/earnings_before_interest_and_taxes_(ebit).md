@@ -29,26 +29,26 @@ In [algorithmic trading](../a/algorithmic_trading.md), EBIT is one piece of the 
 
 ### Example Companies
 
-1. **Microsoft [Corporation](../c/corporation.md)**: You can [check](../c/check.md) Microsoft's EBIT and [financial statements](../f/financial_statements.md) on their [official website](https://www.microsoft.com).
-2. **Apple Inc.**: Apple provides detailed financials, including EBIT, on their [investor relations page](https://investor.apple.com).
-3. **Tesla, Inc.**: Review Tesla's EBIT and other related metrics via their [investor relations page](https://ir.tesla.com).
+1. **Microsoft [Corporation](../c/corporation.md)**: You can [check](../c/check.md) Microsoft's EBIT and [financial statements](../f/financial_statements.md)
+2. **Apple Inc.**.
+3. **Tesla, Inc.**.
 
 ### EBIT in Financial Statements
 
 When glancing at a company’s [income statement](../i/income_statement.md), EBIT is often synonymous with "[Operating Income](../o/operating_income.md)" or "[Operating Profit](../o/operating_profit.md)". This is typically located after the total operating expenses line and before [interest](../i/interest.md) and tax expenses are deducted.
- 
+
 #### Example Income Statement
 
-|           | Q2 2023        | Q1 2023        |
+| | Q2 2023 | Q1 2023 |
 |-----------|----------------|----------------|
-| [Revenue](../r/revenue.md)   | $50,000,000    | $45,000,000    |
-| COGS      | $20,000,000    | $18,000,000    |
-| [Gross Profit](../g/gross_profit.md) | $30,000,000 | $27,000,000    |
+| [Revenue](../r/revenue.md) | $50,000,000 | $45,000,000 |
+| COGS | $20,000,000 | $18,000,000 |
+| [Gross Profit](../g/gross_profit.md) | $30,000,000 | $27,000,000 |
 | Operating Expenses | $10,000,000 | $9,000,000 |
-| EBIT      | $20,000,000    | $18,000,000    |
-| [Interest Expense](../i/interest_expense.md) | $1,000,000 | $1,000,000   |
-| [Tax Expense](../t/tax_expense.md) | $4,500,000  | $4,050,000     |
-| Net [Income](../i/income.md) | $14,500,000  | $12,950,000    |
+| EBIT | $20,000,000 | $18,000,000 |
+| [Interest Expense](../i/interest_expense.md) | $1,000,000 | $1,000,000 |
+| [Tax Expense](../t/tax_expense.md) | $4,500,000 | $4,050,000 |
+| Net [Income](../i/income.md) | $14,500,000 | $12,950,000 |
 
 ### Calculating EBIT with Real Data
 
@@ -62,10 +62,10 @@ To grasp the practical application of EBIT, consider the following simplified ex
 
 To calculate EBIT:
 1. Deduct COGS from [revenue](../r/revenue.md) to get [Gross Profit](../g/gross_profit.md):
-   \[ \text{[Gross Profit](../g/gross_profit.md)} = $100 \, \text{million} - $40 \, \text{million} = $60 \, \text{million} \]
+ \[ \text{[Gross Profit](../g/gross_profit.md)} = $100 \, \text{million} - $40 \, \text{million} = $60 \, \text{million} \]
 2. Subtract Operating Expenses from [Gross Profit](../g/gross_profit.md) to get EBIT:
-   \[ \text{EBIT} = $60 \, \text{million} - $30 \, \text{million} = $30 \, \text{million} \]
-   
+ \[ \text{EBIT} = $60 \, \text{million} - $30 \, \text{million} = $30 \, \text{million} \]
+
 In this example, EBIT is $30 million, which excludes the [interest](../i/interest.md) and tax expenses reflecting only the operational performance.
 
 ### Challenges and Considerations

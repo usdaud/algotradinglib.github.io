@@ -126,10 +126,10 @@ print(f'Durbin-Watson statistic: {dw_statistic}')
 
 Many financial institutions and trading firms use Durbin-Watson and other statistical tests to validate their models. Notable companies include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a leading [algorithmic trading](../a/accountability.md) platform that allows users to backtest and deploy their [trading strategies](../t/trading_strategies.md) while ensuring statistical rigor.
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect is a leading [algorithmic trading](../a/accountability.md) platform that allows users to backtest and deploy their [trading strategies](../t/trading_strategies.md) while ensuring statistical rigor.
 
-- **WorldQuant**: [WorldQuant](https://www.worldquant.com/) employs high-level quant strategies where such statistical tests are crucial for model validation and strategy [optimization](../o/optimization.md).
+- **WorldQuant**: WorldQuant employs high-level quant strategies where such statistical tests are crucial for model validation and strategy [optimization](../o/optimization.md).
 
-- **Jane Street**: [Jane Street](https://www.janestreet.com/) is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses advanced statistical techniques, including the Durbin-Watson test, to maintain the integrity of their [trading algorithms](../t/trading_algorithms.md).
+- **Jane Street**: Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses advanced statistical techniques, including the Durbin-Watson test, to maintain the integrity of their [trading algorithms](../t/trading_algorithms.md).
 
 Understanding the Durbin-Watson statistic and its application can significantly improve the robustness of regression models, particularly in fields like [finance](../f/finance.md) where data series often exhibit [autocorrelation](../a/autocorrelation.md). It forms an essential part of the toolkit for quantitative analysts, econometricians, and data scientists working with [time series](../t/time_series.md) data.

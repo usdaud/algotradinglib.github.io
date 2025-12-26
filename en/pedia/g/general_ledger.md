@@ -73,16 +73,16 @@ This statement documents the movements in [equity](../e/equity.md) over the peri
 Several software solutions are available to assist in maintaining an accurate general ledger, including:
 
 ### QuickBooks
-[QuickBooks](https://quickbooks.intuit.com/) offers [robust](../r/robust.md) [accounting](../a/accounting.md) tools that help small businesses manage their finances.
+QuickBooks offers [robust](../r/robust.md) [accounting](../a/accounting.md) tools that help small businesses manage their finances.
 
 ### SAP
-[SAP](https://www.sap.com/index.html) provides enterprise-level software with comprehensive general ledger capabilities suitable for large organizations.
+SAP provides enterprise-level software with comprehensive general ledger capabilities suitable for large organizations.
 
 ### Oracle Financials
-[Oracle Financials](https://www.oracle.com/erp/financials-cloud.html) delivers integrated financial management and general ledger functionalities, designed for complex [business](../b/business.md) environments.
+Oracle Financials delivers integrated financial management and general ledger functionalities, designed for complex [business](../b/business.md) environments.
 
 ### Xero
-[Xero](https://www.xero.com/) is a cloud-based [accounting](../a/accounting.md) software with powerful general ledger features, ideal for small to medium-sized businesses.
+Xero is a cloud-based [accounting](../a/accounting.md) software with powerful general ledger features, ideal for small to medium-sized businesses.
 
 ## Best Practices for General Ledger Management
 

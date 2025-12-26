@@ -88,18 +88,18 @@ The coupon rate heavily influences the [market price](../m/market_price.md) of a
 
 ### U.S. Treasury Bonds
 
-[U.S. Treasury](../u/u.s._treasury.md) securities are considered among the safest investments. They come in various maturities and coupon rates, with data available from the U.S. Department of the Treasury. [Link to Treasury Securities Resource](https://www.treasurydirect.gov).
+[U.S. Treasury](../u/u.s._treasury.md) securities are considered among the safest investments. They come in various maturities and coupon rates, with data available from the U.S. Department of the Treasury. Link to Treasury Securities Resource.
 
 ### Corporate Bonds
 
-Corporate bonds can be issued by companies from various industries with differing [credit](../c/credit.md) ratings. Information can be obtained from specific company [investor relations](../i/investor_relations.md) pages:
+Corporate bonds can be issued by companies from various industries with differing [credit](../c/credit.md) ratings. Information can be obtained from specific company [company filings](../i/investor_relations.md) pages:
 
-- Apple Inc. bonds: [Apple Investor Page](https://investor.apple.com)
-- Tesla Inc. bonds: [Tesla Investor Page](https://ir.tesla.com)
+- Apple Inc. bonds: Apple Investor Page
+- Tesla Inc. bonds: Tesla Investor Page
 
 ### Municipal Bonds
 
-[Municipal bonds](../m/municipal_bonds.md) are issued by state and local governments in the U.S. These bonds often have tax advantages and can be researched through municipal databases or specific governmental websites. 
+[Municipal bonds](../m/municipal_bonds.md) are issued by state and local governments in the U.S. These bonds often have tax advantages and can be researched through municipal databases or specific governmental websites.
 
 ## Conclusion
 

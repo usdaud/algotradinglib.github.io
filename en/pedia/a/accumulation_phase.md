@@ -52,18 +52,18 @@ With advancements in [natural language processing](../n/natural_language_process
 
 **Company Profile:** Amazon.com Inc. is one of the largest e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) companies globally. The stock has had [multiple](../m/multiple.md) accumulation phases through its growth.
 
-**Link:** [Amazon](https://www.amazon.com)
+**Link:** Amazon
 
 ### Case Study: Accumulation Phase in Early 2020
 
 In early 2020, the financial [market](../m/market.md) experienced significant downturns due to the COVID-19 pandemic. During this period, Amazon experienced a quick drop in stock price, but quickly saw an accumulation phase from savvy investors who recognized Amazon's potential to benefit from increased online shopping and cloud services [demand](../d/demand.md).
 
-**[Technical Indicators](../t/technical_indicator.md):** 
+**[Technical Indicators](../t/technical_indicator.md):**
 - The [50-day moving average](../1/50-day_moving_average.md) began to flatten after sharp declines.
 - The RSI indicated [oversold](../o/oversold.md) conditions below 30 before starting to rise as accumulation occurred.
 - [Volume](../v/volume.md) increased subtly during periods of price [consolidation](../c/consolidation.md).
 
-**Sentiment:** 
+**Sentiment:**
 - While broader [market sentiment](../m/market_sentiment.md) was negative, sentiment towards e-[commerce](../c/commerce.md) and cloud services began turning positive as investors recognized the shift in consumer behavior.
 
 ## Conclusion
@@ -71,4 +71,4 @@ In early 2020, the financial [market](../m/market.md) experienced significant do
 Understanding the accumulation phase is crucial for algorithmic traders looking to time their entries into markets effectively. By focusing on key indicators such as [volume](../v/volume.md), [price action](../p/price_action.md), and [market sentiment](../m/market_sentiment.md), traders can identify when an [asset](../a/asset.md) is being accumulated by informed investors. Utilizing advanced algorithmic strategies, traders can automate the recognition of these signs, allowing for more efficient and potentially profitable trading decisions.
 
 ## Reference Links
-- [Amazon](https://www.amazon.com)
+- Amazon

@@ -74,9 +74,9 @@ Goldman Sachs is a multinational investment [bank](../b/bank.md) that extensivel
 Jane Street is a global prop trading [firm](../f/firm.md) with a strong focus on [quantitative research](../q/quantitative_research.md) and technology. They utilize financial engineering to execute precise [trading strategies](../t/trading_strategies.md) and provide [liquidity](../l/liquidity.md) to the markets.
 
 For more detailed information, explore their official websites:
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [Jane Street](https://www.janestreet.com/)
+- Renaissance Technologies
+- Goldman Sachs
+- Jane Street
 
 ## Educational Pathways in Financial Engineering
 

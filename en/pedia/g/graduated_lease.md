@@ -40,7 +40,7 @@ Graduated leases are prevalent in [commercial real estate](../c/commercial_real_
 In some cases, graduated leases are also used for leasing high-[value](../v/value.md) equipment. The initial lower [lease payments](../l/lease_payments.md) make it easier for businesses to start using the equipment and gradually meet higher [lease payments](../l/lease_payments.md) as they generate more [revenue](../r/revenue.md).
 
 ## Case Study: XYZ Corporation
-**XYZ [Corporation](../c/corporation.md)** is a prominent [commercial real estate](../c/commercial_real_estate.md) [firm](../f/firm.md) that utilizes graduated lease structures to optimize their property portfolio. For more information, visit their [website](https://www.xyzcorporation.com).
+**XYZ [Corporation](../c/corporation.md)** is a prominent [commercial real estate](../c/commercial_real_estate.md) [firm](../f/firm.md) that utilizes graduated lease structures to optimize their property portfolio.
 
 ### Scenario
 XYZ [Corporation](../c/corporation.md) leased out a commercial property to a retail tenant. The lease terms are as follows:

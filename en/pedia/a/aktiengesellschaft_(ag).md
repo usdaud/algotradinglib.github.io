@@ -69,9 +69,9 @@ AGs can [issue](../i/issue.md) [shares](../s/shares.md) through various methods,
 
 Many globally recognized corporations are structured as AGs. Some notable examples include:
 
-- **Deutsche [Bank](../b/bank.md) AG (https://www.db.com):** One of the largest financial institutions in the world.
-- **Volkswagen AG (https://www.volkswagenag.com):** A leading automotive manufacturer.
-- **Siemens AG (https://new.siemens.com/global/en.html):** A major player in industrial [manufacturing](../m/manufacturing.md).
+- **Deutsche [Bank](../b/bank.md) AG ( One of the largest financial institutions in the world.
+- **Volkswagen AG A leading automotive manufacturer.
+- **Siemens AG ( A major player in industrial [manufacturing](../m/manufacturing.md).
 
 ## Advantages and Disadvantages
 

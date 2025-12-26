@@ -95,7 +95,7 @@ To address potential inefficiencies and risks associated with manual petty [cash
 
 ### Example
 
-**Spendesk** is a software that offers a comprehensive suite of tools for [business](../b/business.md) [expense](../e/expense.md) management, including petty cash [Spendesk](https://www.spendesk.com). Their platform allows for easy [expense](../e/expense.md) tracking, digitizing [receipts](../r/receipt.md), and better control over small cash expenditures.
+**Spendesk** is a software that offers a comprehensive suite of tools for [business](../b/business.md) [expense](../e/expense.md) management, including petty cash Spendesk. Their platform allows for easy [expense](../e/expense.md) tracking, digitizing [receipts](../r/receipt.md), and better control over small cash expenditures.
 
 ## Conclusion
 

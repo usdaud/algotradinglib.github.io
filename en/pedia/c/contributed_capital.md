@@ -43,18 +43,18 @@ The calculation of contributed [capital](../c/capital.md) involves summing the [
 Suppose a company issues 1,000,000 [shares](../s/shares.md) of [common stock](../c/common_stock.md) with a [par value](../p/par_value.md) of $0.01 per share for a total price of $10 per share. Here's how to calculate the contributed [capital](../c/capital.md):
 
 1. **[Par Value](../p/par_value.md) Contribution**:
-   - [Par Value](../p/par_value.md) = $0.01 per share
-   - [Issued Shares](../i/issued_shares.md) = 1,000,000
-   - [Par Value](../p/par_value.md) Contribution = 1,000,000 [shares](../s/shares.md) * $0.01 = $10,000
+ - [Par Value](../p/par_value.md) = $0.01 per share
+ - [Issued Shares](../i/issued_shares.md) = 1,000,000
+ - [Par Value](../p/par_value.md) Contribution = 1,000,000 [shares](../s/shares.md) * $0.01 = $10,000
 
 2. **[Additional Paid-In Capital](../a/additional_paid-in_capital.md) (APIC)**:
-   - Total Amount Received = 1,000,000 [shares](../s/shares.md) * $10 = $10,000,000
-   - APIC = $10,000,000 - $10,000 = $9,990,000
+ - Total Amount Received = 1,000,000 [shares](../s/shares.md) * $10 = $10,000,000
+ - APIC = $10,000,000 - $10,000 = $9,990,000
 
 3. **Total Contributed [Capital](../c/capital.md)**:
-   - [Par Value](../p/par_value.md) Contribution = $10,000
-   - APIC = $9,990,000
-   - Total Contributed [Capital](../c/capital.md) = $10,000 + $9,990,000 = $10,000,000
+ - [Par Value](../p/par_value.md) Contribution = $10,000
+ - APIC = $9,990,000
+ - Total Contributed [Capital](../c/capital.md) = $10,000 + $9,990,000 = $10,000,000
 
 ## Reporting Contributed Capital on Financial Statements
 
@@ -64,10 +64,10 @@ Contributed [capital](../c/capital.md) is reported on the company's [balance she
 
 **[Balance Sheet](../b/balance_sheet.md) (Partial)**
 
-| **[Equity](../e/equity.md)**                  | Amount        |
+| **[Equity](../e/equity.md)** | Amount |
 |-----------------------------|---------------|
-| [Common Stock](../c/common_stock.md) ([par value](../p/par_value.md))    | $10,000       |
-| [Additional Paid-In Capital](../a/additional_paid-in_capital.md)  | $9,990,000    |
+| [Common Stock](../c/common_stock.md) ([par value](../p/par_value.md)) | $10,000 |
+| [Additional Paid-In Capital](../a/additional_paid-in_capital.md) | $9,990,000 |
 | **Total Contributed [Capital](../c/capital.md)** | **$10,000,000** |
 
 ## Impact on Shareholders
@@ -107,18 +107,18 @@ In partnerships, contributed [capital](../c/capital.md) is known as partner cont
 A technology [startup](../s/startup.md) decides to raise additional [capital](../c/capital.md) to develop a new [product line](../p/product_line.md). It issues 500,000 [shares](../s/shares.md) of [common stock](../c/common_stock.md) at $15 per share. Here's the calculation of the newly contributed [capital](../c/capital.md):
 
 1. **[Par Value](../p/par_value.md) Contribution**:
-   - [Par Value](../p/par_value.md) = $0.01 per share
-   - [Issued Shares](../i/issued_shares.md) = 500,000
-   - [Par Value](../p/par_value.md) Contribution = 500,000 [shares](../s/shares.md) * $0.01 = $5,000
+ - [Par Value](../p/par_value.md) = $0.01 per share
+ - [Issued Shares](../i/issued_shares.md) = 500,000
+ - [Par Value](../p/par_value.md) Contribution = 500,000 [shares](../s/shares.md) * $0.01 = $5,000
 
 2. **[Additional Paid-In Capital](../a/additional_paid-in_capital.md) (APIC)**:
-   - Total Amount Received = 500,000 [shares](../s/shares.md) * $15 = $7,500,000
-   - APIC = $7,500,000 - $5,000 = $7,495,000
+ - Total Amount Received = 500,000 [shares](../s/shares.md) * $15 = $7,500,000
+ - APIC = $7,500,000 - $5,000 = $7,495,000
 
 3. **Total New Contributed [Capital](../c/capital.md)**:
-   - [Par Value](../p/par_value.md) Contribution = $5,000
-   - APIC = $7,495,000
-   - Total New Contributed [Capital](../c/capital.md) = $5,000 + $7,495,000 = $7,500,000
+ - [Par Value](../p/par_value.md) Contribution = $5,000
+ - APIC = $7,495,000
+ - Total New Contributed [Capital](../c/capital.md) = $5,000 + $7,495,000 = $7,500,000
 
 ### Dividend and Buyback Impact
 
@@ -126,12 +126,12 @@ A well-established [corporation](../c/corporation.md) decides to pay $2 per shar
 
 * **Dividends**: If the company has 10,000,000 [shares](../s/shares.md) outstanding before the [dividend](../d/dividend.md), the total [dividend](../d/dividend.md) [payout](../p/payout.md) is:
  \[
-10,000,000 \text{ [shares](../s/shares.md)} \times  \$2/\text{share} = \$20,000,000
+10,000,000 \text{ [shares](../s/shares.md)} \times \$2/\text{share} = \$20,000,000
 \]
 
 * **Buybacks**: The cost of buying back 1,000,000 [shares](../s/shares.md) at $20 per share is:
  \[
-1,000,000 \text{ [shares](../s/shares.md)} \times  \$20/\text{share} = \$20,000,000
+1,000,000 \text{ [shares](../s/shares.md)} \times \$20/\text{share} = \$20,000,000
 \]
 
 Combined, these actions decrease the company's cash [holdings](../h/holdings.md) by $40,000,000, which can affect [liquidity](../l/liquidity.md) but reduce outstanding share count, thus impacting the [market dynamics](../m/market_dynamics.md) of share prices.
@@ -140,4 +140,4 @@ Combined, these actions decrease the company's cash [holdings](../h/holdings.md)
 
 Contributed [capital](../c/capital.md) is a fundamental component of a company's [equity](../e/equity.md), encompassing the funds received from shareholders in [exchange](../e/exchange.md) for [common stock](../c/common_stock.md) and [additional paid-in capital](../a/additional_paid-in_capital.md). Its calculation is straightforward but vital for understanding a company's financial situation. Properly managing contributed [capital](../c/capital.md) is crucial for companies as it affects financial stability, growth potential, and [investor](../i/investor.md) confidence. By leveraging [equity financing](../e/equity_financing.md), retaining [earnings](../e/earnings.md), and strategically managing dividends and buybacks, companies can optimize their [capital structure](../c/capital_structure.md) to support long-term success and [shareholder value](../s/shareholder_value.md).
 
-For further detailed information and case studies on companies managing contributed [capital](../c/capital.md) innovatively, visit reputable financial websites and company [investor relations](../i/investor_relations.md) pages. Stay informed about the latest trends in [equity financing](../e/equity_financing.md) and contributed [capital](../c/capital.md) management to remain competitive in today's dynamic [business](../b/business.md) environment.
+For further detailed information and case studies on companies managing contributed [capital](../c/capital.md) innovatively, review reputable financial research and company filings. Stay informed about the latest trends in [equity financing](../e/equity_financing.md) and contributed [capital](../c/capital.md) management to remain competitive in today's dynamic [business](../b/business.md) environment.

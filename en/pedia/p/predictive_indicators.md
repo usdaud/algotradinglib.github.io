@@ -7,14 +7,14 @@ Predictive indicators are tools or frameworks used in [algorithmic trading](../a
 ### 1. Moving Averages
 
 #### Simple Moving Average (SMA)
-SMA is one of the most commonly used predictive indicators. It calculates the average of a selected [range](../r/range.md) of prices (typically closing prices) by the number of periods in that [range](../r/range.md). 
+SMA is one of the most commonly used predictive indicators. It calculates the average of a selected [range](../r/range.md) of prices (typically closing prices) by the number of periods in that [range](../r/range.md).
 
 #### Exponential Moving Average (EMA)
 Unlike the SMA, the EMA gives more weight to recent prices, making it more responsive to new information. This characteristic often makes it a preferred choice for many traders focusing on shorter time-frame strategies.
 
 ### 2. Bollinger Bands
 
-[Bollinger Bands](../b/bollinger_bands.md) consist of three lines: a middle band being the SMA, and an upper and lower band which are calculated by adding and subtracting a [multiple](../m/multiple.md) of the [standard deviation](../s/standard_deviation.md) to/from the middle band. 
+[Bollinger Bands](../b/bollinger_bands.md) consist of three lines: a middle band being the SMA, and an upper and lower band which are calculated by adding and subtracting a [multiple](../m/multiple.md) of the [standard deviation](../s/standard_deviation.md) to/from the middle band.
 
 ### 3. Relative Strength Index (RSI)
 
@@ -62,11 +62,11 @@ High-frequency trading firms use predictive indicators to identify [short-term t
 
 ### 2. Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like [Two Sigma](https://www.twosigma.com) and [Renaissance Technologies](https://www.rentec.com) employ sophisticated predictive indicators and [machine learning](../m/machine_learning.md) techniques to manage and optimize their portfolios.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Two Sigma and Renaissance Technologies employ sophisticated predictive indicators and [machine learning](../m/machine_learning.md) techniques to manage and optimize their portfolios.
 
 ### 3. Retail Trading Platforms
 
-Retail trading platforms such as [MetaTrader](https://www.metatrader4.com/en) [offer](../o/offer.md) a [range](../r/range.md) of predictive indicators that individual traders can use to build and back-test their algorithms.
+Retail trading platforms such as MetaTrader [offer](../o/offer.md) a [range](../r/range.md) of predictive indicators that individual traders can use to build and back-test their algorithms.
 
 ## Conclusion
 

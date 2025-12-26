@@ -48,5 +48,4 @@ Saxo [Bank](../b/bank.md) is regulated by several top-tier financial authorities
 - Monetary Authority of Singapore (MAS)
 - Swiss Financial [Market](../m/market.md) Supervisory Authority (FINMA)
 
-## Website
-For more information and to start trading, visit the official Saxo [Bank](../b/bank.md) website: [Saxo Bank](https://www.home.saxo)
+For more information and to start trading, visit the official Saxo [Bank](../b/bank.md) online platform: Saxo Bank

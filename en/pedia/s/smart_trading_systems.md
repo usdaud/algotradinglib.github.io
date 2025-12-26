@@ -49,16 +49,16 @@ Effective [risk management](../r/risk_management.md) is essential for the sustai
 ## Notable Companies in Smart Trading Systems
 
 ### Two Sigma
-Two Sigma (https://www.twosigma.com) is a technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md), distributed computing, and data analysis to create sophisticated [trading strategies](../t/trading_strategies.md).
+Two Sigma ( is a technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md), distributed computing, and data analysis to create sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
-Renaissance Technologies (https://www.rentec.com) is a prominent quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which employs [mathematical models](../m/mathematical_models_in_trading.md) to achieve remarkable returns.
+Renaissance Technologies ( is a prominent quantitative [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which employs [mathematical models](../m/mathematical_models_in_trading.md) to achieve remarkable returns.
 
 ### AQR Capital Management
-AQR [Capital](../c/capital.md) Management (https://www.aqr.com) leverages [quantitative investment strategies](../q/quantitative_investment_strategies.md) across various [asset](../a/asset.md) classes, utilizing extensive data analysis and advanced algorithms.
+AQR [Capital](../c/capital.md) Management ( leverages [quantitative investment strategies](../q/quantitative_investment_strategies.md) across various [asset](../a/asset.md) classes, utilizing extensive data analysis and advanced algorithms.
 
 ### Bridgewater Associates
-Bridgewater Associates (https://www.bridgewater.com) is one of the largest [hedge](../h/hedge.md) funds globally, known for its principles-focused approach and use of systematic strategies.
+Bridgewater Associates ( is one of the largest [hedge](../h/hedge.md) funds globally, known for its principles-focused approach and use of systematic strategies.
 
 ## Challenges and Future Directions
 

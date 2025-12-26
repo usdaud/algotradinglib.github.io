@@ -14,7 +14,7 @@
 
 ## Historical Context
 
-[Open](../o/open.md) Banking is not a new concept but has gained significant traction in the 2010s, particularly with regulatory pushes like PSD2 in the EU. 
+[Open](../o/open.md) Banking is not a new concept but has gained significant traction in the 2010s, particularly with regulatory pushes like PSD2 in the EU.
 
 * **PSD2 in Europe**: Enacted by the [European Union](../e/european_union_(eu).md), PSD2 mandates that banks must provide APIs for third-party services to access [customer](../c/customer.md) data, reshaping the European financial services landscape.
 * **[Open](../o/open.md) Banking Standard in the UK**: Followed PSD2, delivering consent-driven data sharing and innovative financial services in the UK.
@@ -67,9 +67,9 @@ Financial institutions and other partners can create more personalized and relev
 
 Several leading companies have embraced [Open](../o/open.md) Banking to provide advanced financial services:
 
-* **Plaid**: [Plaid Website](https://plaid.com)
-* **Yodlee**: [Yodlee Website](https://www.yodlee.com)
-* **Tink**: [Tink Website](https://tink.com)
+* **Plaid**:
+* **Yodlee**:
+* **Tink**:
 
 ## Regulatory Landscape
 
@@ -89,7 +89,7 @@ While the US does not have a regulatory mandate like PSD2, the [market](../m/mar
 
 ### Increased Adoption
 
-Expect wider adoption of [Open](../o/open.md) Banking standards globally, especially in regions where regulatory frameworks encourage such integrations. 
+Expect wider adoption of [Open](../o/open.md) Banking standards globally, especially in regions where regulatory frameworks encourage such integrations.
 
 ### Advanced Data Analytics
 

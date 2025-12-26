@@ -63,14 +63,14 @@ Policyholders should research the reputation and track record of unauthorized in
 
 [Lloyd's of London](../l/lloyd's_of_london.md) is a well-known example of an entity that often deals with [surplus lines insurance](../s/surplus_lines_insurance.md) through its syndicates. As a marketplace rather than an insurer itself, Lloyd's facilitates [underwriting](../u/underwriting.md) by various specialist syndicates that can cover risks not typically addressed by the admitted [market](../m/market.md). Despite its unauthorized status in many jurisdictions, Lloyd's is recognized for its stringent regulatory framework and financial backing.
 
-- [Lloyd's of London](https://www.lloyds.com/)
+- Lloyd's of London
 
 ### Case Study 2: Legends of the Excess and Surplus Lines Market
 
 Certain insurers have become legendary within the excess and [surplus](../s/surplus.md) lines [market](../m/market.md) due to their ability to consistently provide coverage for high-[risk](../r/risk.md) and hard-to-place risks. For instance, Scottsdale [Insurance](../i/insurance.md) Company and Markel [Corporation](../c/corporation.md) are well-known for their expertise in this niche [market](../m/market.md).
 
-- [Scottsdale Insurance Company](https://www.scottsdaleins.com/)
-- [Markel Corporation](https://www.markel.com/)
+- Scottsdale Insurance Company
+- Markel Corporation
 
 ## Conclusion
 

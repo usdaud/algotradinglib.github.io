@@ -1,6 +1,6 @@
 # 2-Factor Model
 
-The 2-[Factor](../f/factor.md) Model, also known as the two-[factor](../f/factor.md) model, is a financial model used to explain the returns of an [asset](../a/asset.md) or a portfolio through two distinct factors. This model is a form of multifactor model in financial mathematics, and it belongs to a broader class of [factor models](../f/factor_models.md) designed to capture the [underlying](../u/underlying.md) relevant factors affecting [asset](../a/asset.md) returns. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 2-[Factor](../f/factor.md) Model is especially important as it helps traders and [automated trading systems](../a/automated_trading_systems.md) make more informed decisions. 
+The 2-[Factor](../f/factor.md) Model, also known as the two-[factor](../f/factor.md) model, is a financial model used to explain the returns of an [asset](../a/asset.md) or a portfolio through two distinct factors. This model is a form of multifactor model in financial mathematics, and it belongs to a broader class of [factor models](../f/factor_models.md) designed to capture the [underlying](../u/underlying.md) relevant factors affecting [asset](../a/asset.md) returns. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 2-[Factor](../f/factor.md) Model is especially important as it helps traders and [automated trading systems](../a/automated_trading_systems.md) make more informed decisions.
 
 ### Understanding the Basic Concept of the 2-Factor Model
 
@@ -20,7 +20,7 @@ Where:
 The choice of factors in the 2-[Factor](../f/factor.md) Model is crucial and typically depends on the context of the analysis and the specific [market](../m/market.md) being modeled. Common factors include:
 
 1. **[Market Risk](../m/market_risk.md) (MKT)**: Often represented by the [return](../r/return.md) of a broad [market index](../m/market_index.md) like the S&P 500. This [factor](../f/factor.md) captures the [systematic risk](../s/systematic_risk.md) affecting all securities.
-   
+
 2. **[Firm](../f/firm.md)-Specific Factors (SMB, HML, etc.)**: These can include factors associated with [firm](../f/firm.md) size (Small Minus Big, SMB), [book-to-market ratio](../b/book-to-market_ratio.md) (High Minus Low, HML), and other metrics that have been shown to influence returns.
 
 ### Applications in Algo Trading
@@ -28,7 +28,7 @@ The choice of factors in the 2-[Factor](../f/factor.md) Model is crucial and typ
 [Algorithmic trading](../a/algorithmic_trading.md), or algo trading, describes the use of computer algorithms to manage trading decisions. The 2-[Factor](../f/factor.md) Model integrates seamlessly with automated [trading strategies](../t/trading_strategies.md) by:
 
 1. **[Risk Management](../r/risk_management.md)**: The two factors provide a clearer view of the [risk](../r/risk.md) associated with a particular [asset](../a/asset.md) or portfolio. Algo [trading systems](../t/trading_systems.md) use this information to make more accurate buy, sell, or [hold](../h/hold.md) decisions.
-   
+
 2. **[Factor](../f/factor.md)-Based Strategies**: Algo traders often develop strategies that exploit the systematic patterns in factors. For example, if one [factor](../f/factor.md) represents [market risk](../m/market_risk.md) and another represents [firm](../f/firm.md) size, algorithms can adapt their [trading strategies](../t/trading_strategies.md) based on the fluctuation in these factors.
 
 3. **[Performance Attribution](../p/performance_attribution.md)**: The model allows traders to attribute the performance of a portfolio to the respective factors, helping in identifying the source of returns—whether they are due to [market](../m/market.md) movements or unique attributes of the assets.
@@ -74,9 +74,9 @@ print(model.summary())
 Despite its usefulness, the 2-[Factor](../f/factor.md) Model has limitations:
 
 1. **Simplicity**: By only using two factors, the model may overlook other significant factors that affect [asset](../a/asset.md) returns, leading to potential inaccuracies.
-   
+
 2. **Static Nature**: The model assumes constant [factor](../f/factor.md) loadings over time, which might not [hold](../h/hold.md) true in dynamic markets.
-   
+
 3. **[Multicollinearity](../m/multicollinearity_in_trading.md)**: If the chosen factors are highly correlated, it may undermine the effectiveness of the model.
 
 ### Real-World Example: The Fama-French 3-Factor Model
@@ -91,5 +91,4 @@ Where `HML` stands for High Minus Low [book-to-market ratio](../b/book-to-market
 
 The 2-[Factor](../f/factor.md) Model represents a convenient and relatively simple tool for dissecting and understanding [asset](../a/asset.md) returns in an [algorithmic trading](../a/algorithmic_trading.md) context. Its ability to incorporate [multiple](../m/multiple.md) sources of [risk](../r/risk.md) and [return](../r/return.md) makes it indispensable for traders looking to refine their strategies and manage risks more effectively. However, traders must be mindful of its limitations and consider augmenting the model with additional factors or alternative approaches to capture all relevant [market dynamics](../m/market_dynamics.md).
 
-For further reading, you can explore more about [algorithmic trading](../a/algorithmic_trading.md) and financial models through companies such as [QuantConnect](https://www.quantconnect.com/) and [Kensho Technologies](https://www.kensho.com/).
-
+For further reading, you can explore more about [algorithmic trading](../a/algorithmic_trading.md) and financial models through companies such as QuantConnect and Kensho Technologies.

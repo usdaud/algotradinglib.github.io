@@ -78,7 +78,7 @@ Technology plays a pivotal role in [transaction](../t/transaction.md) cost manag
 
 2. **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) provides [robust](../r/robust.md) TCA solutions that help traders measure and minimize [transaction costs](../t/transaction_costs.md) through detailed analytics and performance benchmarks.
 
-3. **ITG (Investment Technology Group)**: ITG offers a suite of tools for [transaction cost analysis](../t/transaction_cost_analysis.md), including [predictive models](../p/predictive_models_in_trading.md), [execution algorithms](../e/execution_algorithms.md), and [liquidity](../l/liquidity.md) management solutions. [ITG](https://www.itg.com/)
+3. **ITG (Investment Technology Group)**: ITG offers a suite of tools for [transaction cost analysis](../t/transaction_cost_analysis.md), including [predictive models](../p/predictive_models_in_trading.md), [execution algorithms](../e/execution_algorithms.md), and [liquidity](../l/liquidity.md) management solutions. ITG
 
 #### Machine Learning and AI
 
@@ -92,15 +92,15 @@ Several institutions and firms specialize in providing [transaction](../t/transa
 
 #### Virtu Financial
 
-Virtu Financial is a leading provider of [market](../m/market.md)-making and [execution](../e/execution.md) services, [offering](../o/offering.md) advanced tools for [transaction cost analysis](../t/transaction_cost_analysis.md) and [optimization](../o/optimization.md). Their proprietary technology and [execution algorithms](../e/execution_algorithms.md) help traders achieve better [execution](../e/execution.md) prices and reduce [transaction costs](../t/transaction_costs.md). [Virtu Financial](https://www.virtu.com/)
+Virtu Financial is a leading provider of [market](../m/market.md)-making and [execution](../e/execution.md) services, [offering](../o/offering.md) advanced tools for [transaction cost analysis](../t/transaction_cost_analysis.md) and [optimization](../o/optimization.md). Their proprietary technology and [execution algorithms](../e/execution_algorithms.md) help traders achieve better [execution](../e/execution.md) prices and reduce [transaction costs](../t/transaction_costs.md). Virtu Financial
 
 #### Abel Noser
 
-Abel Noser is a pioneer in [transaction cost analysis](../t/transaction_cost_analysis.md) and agency-only [brokerage services](../b/brokerage_services.md). They provide comprehensive TCA solutions, pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) analytics, and [execution](../e/execution.md) consulting to help [asset](../a/asset.md) managers minimize [transaction costs](../t/transaction_costs.md). [Abel Noser](https://www.abelnoser.com/)
+Abel Noser is a pioneer in [transaction cost analysis](../t/transaction_cost_analysis.md) and agency-only [brokerage services](../b/brokerage_services.md). They provide comprehensive TCA solutions, pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) analytics, and [execution](../e/execution.md) consulting to help [asset](../a/asset.md) managers minimize [transaction costs](../t/transaction_costs.md). Abel Noser
 
 #### Liquidnet
 
-Liquidnet is a global institutional trading network that provides [liquidity](../l/liquidity.md) sourcing and [execution](../e/execution.md) services. Their [dark pool](../d/dark_pool.md) and [algorithmic trading](../a/algorithmic_trading.md) solutions help [asset](../a/asset.md) managers reduce [market](../m/market.md) impact and achieve better [execution](../e/execution.md) prices. [Liquidnet](https://www.liquidnet.com/)
+Liquidnet is a global institutional trading network that provides [liquidity](../l/liquidity.md) sourcing and [execution](../e/execution.md) services. Their [dark pool](../d/dark_pool.md) and [algorithmic trading](../a/algorithmic_trading.md) solutions help [asset](../a/asset.md) managers reduce [market](../m/market.md) impact and achieve better [execution](../e/execution.md) prices. Liquidnet
 
 ### Conclusion
 

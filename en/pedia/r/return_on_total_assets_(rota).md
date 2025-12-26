@@ -48,11 +48,11 @@ ROTA can vary significantly across different industries. [Capital](../c/capital.
 
 Consider two companies, Company A and Company B:
 
-- **Company A** has a net [income](../i/income.md) of $500,000 and total assets valued at $5,000,000.  
-  \[ \text{ROTA}_A = \frac{500,000}{5,000,000} = 10\% \]
+- **Company A** has a net [income](../i/income.md) of $500,000 and total assets valued at $5,000,000.
+ \[ \text{ROTA}_A = \frac{500,000}{5,000,000} = 10\% \]
 
-- **Company B** has a net [income](../i/income.md) of $750,000 and total assets valued at $7,500,000.  
-  \[ \text{ROTA}_B = \frac{750,000}{7,500,000} = 10\% \]
+- **Company B** has a net [income](../i/income.md) of $750,000 and total assets valued at $7,500,000.
+ \[ \text{ROTA}_B = \frac{750,000}{7,500,000} = 10\% \]
 
 Despite different sizes and [income](../i/income.md) levels, both companies exhibit the same ROTA of 10%, indicating similar [asset](../a/asset.md) [efficiency](../e/efficiency.md).
 
@@ -75,10 +75,8 @@ Companies can adopt several strategies to enhance ROTA, including:
 1. **Apple Inc.**: Apple's ROTA has often been scrutinized by investors to gauge how effectively the tech giant utilizes its expansive [asset](../a/asset.md) base.
 2. **Toyota Motor [Corporation](../c/corporation.md)**: As a [manufacturing](../m/manufacturing.md) leader, Toyota’s ROTA provides insights into how efficiently the company utilizes its substantial investments in plant, property, and equipment.
 
-To analyze any company's ROTA, refer to their [financial statements](../f/financial_statements.md) available on their [investor relations](../i/investor_relations.md) websites. For example:
+To analyze any company's ROTA, refer to their [financial statements](../f/financial_statements.md) available on their [company filings](../i/investor_relations.md) websites. For example:
 
-- [Apple Inc. Investor Relations](https://investor.apple.com/)
-- [Toyota Motor Corporation Investor Relations](https://global.toyota/en/ir/)
 
 ### Conclusion
 

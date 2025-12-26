@@ -2,6 +2,8 @@
 
 A Targeted Accrual [Redemption](../r/redemption.md) [Note](../n/note.md), commonly abbreviated as TARN, is a complex [financial instrument](../f/financial_instrument.md) that combines features of both a [debt security](../d/debt_security.md) and a [derivative](../d/derivative.md). It is primarily used in [structured finance](../s/structured_finance.md) to provide investors with predetermined returns while managing [risk](../r/risk.md) exposure to certain [underlying](../u/underlying.md) variables.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Introduction to TARN
 
 The TARN was designed to address specific investment needs and [risk management](../r/risk_management.md) strategies. Structured products like TARNs are tailored financial instruments, combining [underlying](../u/underlying.md) assets and [financial derivatives](../f/financial_derivatives.md) to achieve customized investment objectives. The unique structure of TARNs helps investors achieve targeted returns, often linked to specific financial indicators, such as [interest](../i/interest.md) rates or [commodity](../c/commodity.md) prices, while limiting exposure to [market](../m/market.md) risks.
@@ -103,4 +105,4 @@ High-net-worth individuals seeking tailored investment solutions often use TARNs
 
 Targeted Accrual [Redemption](../r/redemption.md) Notes represent a sophisticated [financial instrument](../f/financial_instrument.md) designed to provide customized returns while managing [risk](../r/risk.md) exposure. Their unique structure, combining fixed-[income](../i/income.md) characteristics with [derivatives](../d/derivatives.md), allows investors to achieve targeted [accruals](../a/accruals.md) and predefined [redemption](../r/redemption.md) scenarios. Despite their complexity and certain inherent risks, TARNs [offer](../o/offer.md) a compelling option for investors and financial institutions seeking tailored investment solutions and effective [risk management](../r/risk_management.md) tools.
 
-For more information on financial instruments and structured products, visit [CFA Institute](https://www.cfainstitute.org/).
+For more information on financial instruments and structured products, visit CFA Institute.

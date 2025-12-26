@@ -81,7 +81,7 @@ In 2009, General Motors filed for [bankruptcy](../b/bankruptcy.md) amidst the [f
 ### 3. Kodak
 Kodak, once a leader in photographic film, failed to adapt to the digital revolution. Declining sales, poor strategic decisions, and high costs led to the company filing for [bankruptcy](../b/bankruptcy.md) in 2012. Kodak has since reemerged, focusing on digital printing and imaging solutions.
 
-For more information on Kodak's transformation, visit [Kodak](https://www.kodak.com/)
+For more information on Kodak's transformation, visit Kodak
 
 ### 4. Blockbuster
 Blockbuster's inability to adapt to the rise of digital streaming services like Netflix led to its financial decline. The company filed for [bankruptcy](../b/bankruptcy.md) in 2010 and eventually ceased operations, marking the end of an era for traditional video rental stores.
@@ -89,7 +89,7 @@ Blockbuster's inability to adapt to the rise of digital streaming services like 
 ### 5. Toys "R" Us
 Toys "R" Us faced significant financial distress due to high [debt](../d/debt.md) levels from a leveraged [buyout](../b/buyout.md) and the rise of e-[commerce](../c/commerce.md). The company filed for [bankruptcy](../b/bankruptcy.md) in 2017 and liquidated its U.S. operations, though it continues to operate in some international markets.
 
-For insights on Toys “R” Us’ current operations, visit [Toys "R" Us](https://www.toysrus.com/)
+For insights on Toys “R” Us’ current operations, visit Toys "R" Us
 
 ## Conclusion
 

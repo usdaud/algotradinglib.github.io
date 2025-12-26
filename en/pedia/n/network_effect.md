@@ -36,7 +36,7 @@ In the realm of cryptocurrency, [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/e
 
 ### Peer-to-Peer Lending
 
-In peer-to-peer (P2P) lending platforms like LendingClub or Prosper, the network effect plays a crucial role. More lenders attract more borrowers and vice versa. As the platform grows, it can [offer](../o/offer.md) better rates and more [loan](../l/loan.md) [options](../o/options.md), increasing its attractiveness to new users. [LendingClub](https://www.lendingclub.com/) uses sophisticated algorithms to match borrowers with lenders and to assess [credit](../c/credit.md) risks, ensuring a [robust](../r/robust.md) and scalable network.
+In peer-to-peer (P2P) lending platforms like LendingClub or Prosper, the network effect plays a crucial role. More lenders attract more borrowers and vice versa. As the platform grows, it can [offer](../o/offer.md) better rates and more [loan](../l/loan.md) [options](../o/options.md), increasing its attractiveness to new users. LendingClub uses sophisticated algorithms to match borrowers with lenders and to assess [credit](../c/credit.md) risks, ensuring a [robust](../r/robust.md) and scalable network.
 
 ### Digital Wallets
 
@@ -44,7 +44,7 @@ Digital wallets like Apple Pay, Google Wallet, and Venmo [gain](../g/gain.md) [v
 
 ### Trading Platforms
 
-Online trading platforms such as [Robinhood](../r/robinhood.md) [leverage](../l/leverage.md) the network effect by attracting a large number of retail investors. This leads to increased [liquidity](../l/liquidity.md) and [market depth](../m/market_depth.md), making the platform more attractive to additional traders. [Robinhood](https://robinhood.com/) has built a massive user base by [offering](../o/offering.md) [commission](../c/commission.md)-free trading and an easy-to-use mobile app, creating a powerful network effect.
+Online trading platforms such as [Robinhood](../r/robinhood.md) [leverage](../l/leverage.md) the network effect by attracting a large number of retail investors. This leads to increased [liquidity](../l/liquidity.md) and [market depth](../m/market_depth.md), making the platform more attractive to additional traders. Robinhood has built a massive user base by [offering](../o/offering.md) [commission](../c/commission.md)-free trading and an easy-to-use mobile app, creating a powerful network effect.
 
 ## Risks and Challenges
 

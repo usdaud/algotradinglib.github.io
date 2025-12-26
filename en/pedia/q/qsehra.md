@@ -74,4 +74,4 @@ While QSEHRA offers significant benefits, there are some challenges and consider
 ## Conclusion
 The QSEHRA presents a viable alternative to traditional [group health insurance](../g/group_health_insurance.md) for small businesses, [offering](../o/offering.md) flexibility, [cost control](../c/cost_control.md), and potential tax benefits. By carefully implementing and managing a QSEHRA, small employers can provide meaningful health benefits to their employees, contributing to improved job satisfaction and retention.
 
-For more detailed information and assistance, please visit the official IRS [guidance](../g/guidance.md): [IRS.gov](https://www.irs.gov/).
+For more detailed information and assistance, please visit the official IRS [guidance](../g/guidance.md): IRS.gov.

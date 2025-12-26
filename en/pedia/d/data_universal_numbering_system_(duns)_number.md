@@ -23,7 +23,7 @@ A DUNS Number consists of nine digits, which do not carry any apparent meaning o
 
 Obtaining a DUNS Number is a relatively straightforward process:
 
-1. **Application Submission**: Businesses need to submit an application, typically through the D&B website.
+1. **Application Submission**: Businesses need to submit an application,
 2. **Data Verification**: Dun & Bradstreet verifies the [business](../b/business.md) information provided.
 3. **Generation**: A unique nine-digit DUNS Number is generated and issued to the [business](../b/business.md).
 
@@ -111,4 +111,4 @@ The ongoing effort to establish DUNS Numbers as a universal standard for [busine
 
 The DUNS Number is an essential tool for businesses worldwide. It offers a unique identifier that helps companies establish [credit](../c/credit.md), manage data, and facilitate global [trade](../t/trade.md). By understanding and leveraging their DUNS Number, businesses can improve their credibility, optimize their [supply](../s/supply.md) chains, and make informed strategic decisions. Whether it's for government contracting, financial services, international [trade](../t/trade.md), or [risk management](../r/risk_management.md), the DUNS Number proves to be an invaluable [asset](../a/asset.md) in today's interconnected global [economy](../e/economy.md).
 
-For more information, you can visit [Dun & Bradstreet](https://www.dnb.com/).
+For more information, you can visit Dun & Bradstreet.

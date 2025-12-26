@@ -76,10 +76,8 @@ Yankee CDs play a significant role in the [globalization](../g/globalization.md)
 ## Case Examples
 
 1. **Deutsche [Bank](../b/bank.md):** A prominent example of a foreign [bank](../b/bank.md) utilizing Yankee CDs. This German [bank](../b/bank.md) continuously issues Yankee CDs to access dollar funding, using its strong [credit rating](../c/credit_rating.md) to attract US investors.
-   - [Deutsche Bank - Official Site](https://www.db.com)
-   
+
 2. **Banco Santander:** As a vast multinational financial group based in Spain, Banco Santander issues Yankee CDs to maintain its US dollar [liquidity](../l/liquidity.md) and meet funding needs.
-   - [Banco Santander - Official Site](https://www.santander.com)
 
 ## Conclusion
 

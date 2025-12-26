@@ -10,20 +10,20 @@ Proper data [acquisition](../a/acquisition.md) is foundational for [algorithmic 
 
 #### Historical Data
 
-Historical data includes past price levels, trading volumes, and other relevant metrics. This data is crucial for [backtesting](../b/backtesting.md) algorithms before deploying them live. 
+Historical data includes past price levels, trading volumes, and other relevant metrics. This data is crucial for [backtesting](../b/backtesting.md) algorithms before deploying them live.
 
-* **Sources**: 
-  * Exchanges
-  * Financial data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), [Quandl](../q/quandl.md), etc.
-  * APIs from brokers like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com)
+* **Sources**:
+ * Exchanges
+ * Financial data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), [Quandl](../q/quandl.md), etc.
+ * APIs from brokers like [Interactive Brokers](../i/interactive_brokers.md) (
 
 #### Real-time Data
 
 Real-time data is vital for making immediate trading decisions. This data is streamed in real-time and includes up-to-the-second price updates and trading volumes.
 
 * **Sources**:
-  * Direct [market](../m/market.md) data feeds from exchanges
-  * Real-time APIs from brokers and data providers like [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets)
+ * Direct [market](../m/market.md) data feeds from exchanges
+ * Real-time APIs from brokers and data providers like [Alpaca](../a/alpaca.md) (
 
 ### 2. Strategy Development
 
@@ -52,7 +52,7 @@ Different models can be employed depending on the strategy:
 
 Tools for [backtesting](../b/backtesting.md) often include:
 * **Python Libraries**: Pandas, Numpy, PyAlgoTrade
-* **Commercial Software**: Metatrader, [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com)
+* **Commercial Software**: Metatrader, [StockSharp](../s/stocksharp.md)
 
 ### 4. Execution
 
@@ -66,8 +66,8 @@ An OMS is responsible for tracking and managing orders. Key features include:
 * [Risk management](../r/risk_management.md) tools
 
 Providers of OMS include:
-* **[MultiCharts](../m/multicharts.md) (https://www.[multicharts](../m/multicharts.md).com)**
-* **[NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com)**
+* **[MultiCharts](../m/multicharts.md) (
+* **[NinjaTrader](../n/ninjatrader.md) (
 
 #### Execution Algorithms
 
@@ -128,14 +128,10 @@ Efficient handling and processing of large datasets:
 ### Cloud Services
 
 Leveraging cloud [infrastructure](../i/infrastructure.md) for [scalability](../s/scalability.md) and reliability:
-* **AWS**: Amazon Web Services (https://aws.amazon.com)
-* **Azure**: Microsoft Azure (https://azure.microsoft.com)
-* **GCP**: Google Cloud Platform (https://cloud.google.com)
-
+* **AWS**: Amazon Web Services * **Azure**: Microsoft Azure * **GCP**: Google Cloud Platform
 ## Legal and Ethical Considerations
 
 Finally, legal and ethical considerations are crucial. Algorithmic traders must comply with:
-* Regulatory bodies such as the SEC (https://www.sec.gov) and the CFTC (https://www.cftc.gov)
-* [Best practices](../b/best_practices.md) in ethical trading to avoid [market manipulation](../m/market_manipulation.md)
+* Regulatory bodies such as the SEC and the CFTC * [Best practices](../b/best_practices.md) in ethical trading to avoid [market manipulation](../m/market_manipulation.md)
 
 In conclusion, end-to-end [algorithmic trading](../a/accountability.md) is a multifaceted discipline that encompasses a broad [range](../r/range.md) of skills and technologies. By automating the entire trading process, traders can execute more complex and varied strategies with a higher degree of [efficiency](../e/efficiency.md) and consistency.

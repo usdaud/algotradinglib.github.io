@@ -13,7 +13,7 @@
 [Volatility](../v/volatility.md) can be measured using different models and approaches. Common methods include:
 
 1. **[Historical Volatility](../h/historical_volatility.md) (HV)**: Calculated from past price data by computing the [standard deviation](../s/standard_deviation.md) of [logarithmic returns](../l/logarithmic_returns.md) over a specific period.
-   
+
 2. **Implied [Volatility](../v/volatility.md) (IV)**: Derived from the [market](../m/market.md) prices of [options](../o/options.md). It reflects the [market](../m/market.md)'s expectation of future [volatility](../v/volatility.md). Tools like the [Black-Scholes model](../b/black-scholes_model.md) are often used to extract IV.
 
 3. **[Realized Volatility](../r/realized_volatility.md) (RV)**: A measure of actual [historical volatility](../h/historical_volatility.md) calculated using high-frequency intraday data.
@@ -104,9 +104,8 @@
 
 ### Real-World Applications
 
-1. **[Hedge](../h/hedge.md) Funds**: Many [hedge](../h/hedge.md) funds use [volatility](../v/volatility.md) and skew analysis to design sophisticated [trading algorithms](../t/trading_algorithms.md). Firms like Renaissance Technologies [link](https://www.rentec.com/) [leverage](../l/leverage.md) quantitative techniques to exploit [market](../m/market.md) inefficiencies. 
-
-2. **[Proprietary Trading](../p/proprietary_trading.md) Firms**: Companies like Jane Street [link](https://www.janestreet.com/) integrate [volatility models](../v/volatility_models.md) into their [trading systems](../t/trading_systems.md) to enhance decision-making processes.
+1. **[Hedge](../h/hedge.md) Funds**: Many [hedge](../h/hedge.md) funds use [volatility](../v/volatility.md) and skew analysis to design sophisticated [trading algorithms](../t/trading_algorithms.md). Firms like Renaissance Technologies link [leverage](../l/leverage.md) quantitative techniques to exploit [market](../m/market.md) inefficiencies.
+2. **[Proprietary Trading](../p/proprietary_trading.md) Firms**: Companies like Jane Street link integrate [volatility models](../v/volatility_models.md) into their [trading systems](../t/trading_systems.md) to enhance decision-making processes.
 
 3. **[Asset Management](../a/asset_management.md)**: [Asset](../a/asset.md) managers use these analyses for allocations, applying dynamic strategies that account for [volatility](../v/volatility.md) and skew in portfolio construction.
 

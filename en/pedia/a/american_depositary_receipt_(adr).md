@@ -64,19 +64,19 @@ Foreign companies might adhere to different [accounting principles](../a/account
 
 Alibaba Group, the Chinese multinational [conglomerate](../c/conglomerate.md) specializing in e-[commerce](../c/commerce.md), technology, and retail, is a prominent example of a company with Level III ADRs [listed](../l/listed.md) on the NYSE. This listing has significantly increased Alibaba’s [visibility](../v/visibility.md) and [investor](../i/investor.md) base in the U.S., facilitating [capital](../c/capital.md) raising and global [expansion](../e/expansion.md) efforts.
 
-For more information: [Alibaba Group](https://www.alibabagroup.com/en/global/home)
+For more information: Alibaba Group
 
 ### Royal Dutch Shell
 
 Royal Dutch Shell, a global leader in the energy and petrochemical [industry](../i/industry.md), issues Level II ADRs that are traded on the NYSE. By doing so, Shell has improved its accessibility for U.S. investors and enhanced its [market](../m/market.md) presence.
 
-For more information: [Royal Dutch Shell](https://www.shell.com)
+For more information: Royal Dutch Shell
 
 ### Toyota Motor Corporation
 
 Toyota Motor [Corporation](../c/corporation.md), the well-known Japanese automotive manufacturer, has Level II ADRs [listed](../l/listed.md) on the NYSE. This listing allows Toyota to maintain a significant presence in the U.S. [capital markets](../c/capital_markets.md) while adhering to SEC reporting requirements.
 
-For more information: [Toyota Motor Corporation](https://www.toyota-global.com)
+For more information: Toyota Motor Corporation
 
 ## ADR Issuance Process
 

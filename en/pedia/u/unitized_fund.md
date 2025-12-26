@@ -68,19 +68,15 @@ While unitized funds and mutual funds share similarities, such as pooling invest
 Several financial institutions and [asset management](../a/asset_management.md) companies [offer](../o/offer.md) unitized funds. Some notable providers include:
 
 - **Vanguard**: Known for its low-cost [index](../i/index_instrument.md) funds and wide [range](../r/range.md) of investment [options](../o/options.md).
-  [Vanguard](https://www.vanguard.com/)
 
 - **[Fidelity Investments](../f/fidelity_investments.md)**: Offers a broad spectrum of unitized funds, covering various [asset](../a/asset.md) classes and investment strategies.
-  [Fidelity Investments](https://www.fidelity.com/)
 
 - **BlackRock**: The world's largest [asset](../a/asset.md) manager, [offering](../o/offering.md) comprehensive unitized [fund](../f/fund.md) [options](../o/options.md), including [iShares](../i/ishares.md) ETFs.
-  [BlackRock](https://www.blackrock.com/)
 
 - **Schroders**: Provides a [range](../r/range.md) of unitized funds focusing on global investment opportunities.
-  [Schroders](https://www.schroders.com/)
 
 - **T. Rowe Price**: Offers actively managed unitized funds with a focus on research-driven investment.
-  [T. Rowe Price](https://www.troweprice.com/)
+ T. Rowe Price
 
 ## Conclusion
 

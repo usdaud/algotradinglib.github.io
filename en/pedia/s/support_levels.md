@@ -28,7 +28,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), support levels serve as v
 
 ### Buy Signals
 
-A trading algorithm may generate a buy signal when the price approaches a recognized support level and shows signs of holding [firm](../f/firm.md) or bouncing back. 
+A trading algorithm may generate a buy signal when the price approaches a recognized support level and shows signs of holding [firm](../f/firm.md) or bouncing back.
 
 ### Stop-Loss Orders
 
@@ -90,13 +90,11 @@ Support levels can change due to evolving [market](../m/market.md) conditions. A
 
 Renaissance Technologies, one of the world’s most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), leverages complex algorithms that likely include support-level detection as part of their [trading strategies](../t/trading_strategies.md). Their use of sophisticated models to exploit [market](../m/market.md) inefficiencies showcases the importance of support levels in high-frequency and [algorithmic trading](../a/algorithmic_trading.md).
 
-[More about Renaissance Technologies](https://www.rentech.com/)
 
 ### Goldman Sachs' Algorithmic Trading Desk
 
 Goldman Sachs, a leading investment [bank](../b/bank.md), employs [algorithmic trading](../a/algorithmic_trading.md) on a massive scale. Their [trading algorithms](../t/trading_algorithms.md) likely use [support and resistance](../s/support_and_resistance.md) levels to manage [risk](../r/risk.md) and execute trades effectively.
 
-[More about Goldman Sachs](https://www.goldmansachs.com/what-we-do/securities/algorithmic-trading/)
 
 ## Conclusion
 

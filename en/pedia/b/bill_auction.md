@@ -11,8 +11,8 @@ Treasury bills are [short-term debt](../s/short-term_debt.md) instruments issued
 ### The Auction Process
 The process of auctioning T-bills involves several key stages:
 
-1. **Announcement**: The Treasury Department announces upcoming auctions through their official website and various financial news outlets. This announcement includes crucial details such as the auction date, the [maturity](../m/maturity.md) period, and the amount of T-bills to be sold.
-   
+1. **Announcement**: The Treasury Department announces upcoming auctions through official releases and various financial news outlets. This announcement includes crucial details such as the auction date, the [maturity](../m/maturity.md) period, and the amount of T-bills to be sold.
+
 2. **Bidding**: Participants submit their bids either competitively or non-competitively. In a competitive [bid](../b/bid.md), the bidder specifies the [yield](../y/yield.md) or [discount rate](../d/discount_rate.md) they are willing to accept. In a non-competitive [bid](../b/bid.md), the bidder agrees to accept the [yield](../y/yield.md) determined at the auction.
 
 3. **Auction [Execution](../e/execution.md)**: On the auction date, the Treasury reviews the bids and accepts the most favorable ones, starting with the lowest [yield](../y/yield.md) (highest price) and moving upwards until the entire [offering](../o/offering.md) amount is covered.
@@ -54,7 +54,7 @@ For individual investors or smaller institutions, seeking advice from financial 
 ## Tools and Platforms for Participating in Bill Auctions
 
 ### TreasuryDirect
-For individual investors in the United States, the U.S. Department of the Treasury offers **[TreasuryDirect](https://www.treasurydirect.gov)**, an online platform that allows users to participate in T-bill auctions directly, manage their investments, and receive payments electronically.
+For individual investors in the United States, the U.S. Department of the Treasury offers **TreasuryDirect**, an online platform that allows users to participate in T-bill auctions directly, manage their investments, and receive payments electronically.
 
 ### Brokerages and Financial Institutions
 Many brokerages and financial institutions facilitate participation in T-bill auctions. They provide access to both competitive and non-competitive bidding and often [offer](../o/offer.md) additional tools and advice for managing investments in government securities.

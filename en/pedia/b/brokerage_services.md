@@ -1,42 +1,42 @@
 # Brokerage Services
 
-[Algorithmic trading](../a/algorithmic_trading.md), colloquially known as "algo trading," is the process of placing buy or sell orders using automated and pre-programmed trading instructions based on various variables, such as time, price, and [volume](../v/volume.md). These algorithms are designed to perform trades at optimal times and prices, minimizing [market](../m/market.md) impact, reducing manual errors, and allowing for the [execution](../e/execution.md) of intricate [trading strategies](../t/trading_strategies.md) that might be impossible for a human to implement. Brokerage services play a crucial role in facilitating this highly technical and fast-paced [trading environment](../t/trading_environment.md). 
+[Algorithmic trading](../a/algorithmic_trading.md), colloquially known as "algo trading," is the process of placing buy or sell orders using automated and pre-programmed trading instructions based on various variables, such as time, price, and [volume](../v/volume.md). These algorithms are designed to perform trades at optimal times and prices, minimizing [market](../m/market.md) impact, reducing manual errors, and allowing for the [execution](../e/execution.md) of intricate [trading strategies](../t/trading_strategies.md) that might be impossible for a human to implement. Brokerage services play a crucial role in facilitating this highly technical and fast-paced [trading environment](../t/trading_environment.md).
 
 ## Role of Brokerage Services in Algorithmic Trading
 
 Brokerage services in the context of [algorithmic trading](../a/algorithmic_trading.md) encompass various functions, including:
 
 1. **Access to [Trade](../t/trade.md) [Execution](../e/execution.md) Platforms**:
-   - Brokers provide the necessary software and platforms that enable algo traders to link their algorithms to the trading exchanges.
-   - These platforms often come equipped with APIs (Application Programming Interfaces) which allow traders to implement and execute their customized [trading algorithms](../t/trading_algorithms.md).
+ - Brokers provide the necessary software and platforms that enable algo traders to link their algorithms to the trading exchanges.
+ - These platforms often come equipped with APIs (Application Programming Interfaces) which allow traders to implement and execute their customized [trading algorithms](../t/trading_algorithms.md).
 
 2. **[Market](../m/market.md) Access**:
-   - Brokers [offer](../o/offer.md) access to [multiple](../m/multiple.md) trading venues, including stock exchanges, forex markets, commodities markets, and [futures](../f/futures.md) markets.
-   - They ensure that the algorithms can interact with these markets with high reliability and low latency, a crucial requirement for successful algo trading.
+ - Brokers [offer](../o/offer.md) access to [multiple](../m/multiple.md) trading venues, including stock exchanges, forex markets, commodities markets, and [futures](../f/futures.md) markets.
+ - They ensure that the algorithms can interact with these markets with high reliability and low latency, a crucial requirement for successful algo trading.
 
 3. **[Provision](../p/provision.md) of Historical and Real-Time Data**:
-   - Time-stamped historical data and live [market](../m/market.md) data feeds are essential for the development, [backtesting](../b/backtesting.md), and implementation of [trading algorithms](../t/trading_algorithms.md).
-   - Brokers often partner with data vendors to provide this data seamlessly to their clients.
+ - Time-stamped historical data and live [market](../m/market.md) data feeds are essential for the development, [backtesting](../b/backtesting.md), and implementation of [trading algorithms](../t/trading_algorithms.md).
+ - Brokers often partner with data vendors to provide this data seamlessly to their clients.
 
 4. **Connectivity and Co-location Services**:
-   - Some brokerages [offer](../o/offer.md) co-location services, allowing traders to place their servers in close proximity to the [exchange](../e/exchange.md)'s data centers, dramatically decreasing latency.
-   - High-speed internet connections and direct [market](../m/market.md) access (DMA) are also provided to ensure the fastest possible [execution](../e/execution.md).
+ - Some brokerages [offer](../o/offer.md) co-location services, allowing traders to place their servers in close proximity to the [exchange](../e/exchange.md)'s data centers, dramatically decreasing latency.
+ - High-speed internet connections and direct [market](../m/market.md) access (DMA) are also provided to ensure the fastest possible [execution](../e/execution.md).
 
 5. **[Order Management Systems](../o/order_management_systems.md) (OMS) and [Execution](../e/execution.md) Management Systems (EMS)**:
-   - OMS and EMS provided by brokers help in the efficient management of orders from inception to [execution](../e/execution.md).
-   - These systems support [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md) and ensure compliance with regulatory and [risk](../r/risk.md)-management protocols.
+ - OMS and EMS provided by brokers help in the efficient management of orders from inception to [execution](../e/execution.md).
+ - These systems support [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md) and ensure compliance with regulatory and [risk](../r/risk.md)-management protocols.
 
 6. **[Risk Management](../r/risk_management.md) and Compliance Tools**:
-   - Brokerage firms equip traders with sophisticated [risk management](../r/risk_management.md) tools to monitor their positions and exposure in real-time, ensuring they adhere to predefined [risk](../r/risk.md) parameters.
-   - Compliance tools help in adhering to [trading rules](../t/trading_rules.md) and regulations, preventing any legal issues or penalties.
+ - Brokerage firms equip traders with sophisticated [risk management](../r/risk_management.md) tools to monitor their positions and exposure in real-time, ensuring they adhere to predefined [risk](../r/risk.md) parameters.
+ - Compliance tools help in adhering to [trading rules](../t/trading_rules.md) and regulations, preventing any legal issues or penalties.
 
 7. **Technical Support and Consultancy**:
-   - Given the complexity of [algorithmic trading](../a/algorithmic_trading.md), brokers often [offer](../o/offer.md) technical support to troubleshoot software or connectivity issues.
-   - They may also provide consultancy services to help design and optimize [trading strategies](../t/trading_strategies.md).
+ - Given the complexity of [algorithmic trading](../a/algorithmic_trading.md), brokers often [offer](../o/offer.md) technical support to troubleshoot software or connectivity issues.
+ - They may also provide consultancy services to help design and optimize [trading strategies](../t/trading_strategies.md).
 
 8. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md) Environments**:
-   - Brokers [offer](../o/offer.md) environments where traders can backtest their algorithms against historical data to gauge their potential effectiveness without risking real [money](../m/money.md).
-   - [Simulation](../s/simulation_in_trading.md) environments allow for real-world testing without any [financial exposure](../f/financial_exposure.md).
+ - Brokers [offer](../o/offer.md) environments where traders can backtest their algorithms against historical data to gauge their potential effectiveness without risking real [money](../m/money.md).
+ - [Simulation](../s/simulation_in_trading.md) environments allow for real-world testing without any [financial exposure](../f/financial_exposure.md).
 
 ## Major Brokerage Firms Offering Algorithmic Trading Services
 
@@ -44,23 +44,23 @@ Several brokerage firms have established themselves as leaders in providing serv
 
 ### Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) is one of the premier brokerage firms [offering](../o/offering.md) comprehensive solutions for algo traders. They provide an array of advanced trading platforms, [robust](../r/robust.md) API interfaces, and excellent [market](../m/market.md) access.
-- [Interactive Brokers](https://www.interactivebrokers.com)
+- Interactive Brokers
 
 ### Charles Schwab
 [Charles Schwab](../c/charles_schwab.md) integrates sophisticated trading tools and APIs suitable for algo trading, appealing to both retail and institutional traders.
-- [Charles Schwab](https://www.schwab.com)
+- Charles Schwab
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) is known for its powerful trading platforms and tools designed specifically for algorithmic traders. Their offerings include advanced [order management](../o/order_management_in_trading.md) and [backtesting](../b/backtesting.md) capabilities.
-- [TradeStation](https://www.tradestation.com)
+- TradeStation
 
-### TD Ameritrade
-TD [Ameritrade](../a/ameritrade.md) provides a highly customizable [trading platform](../t/trading_platform.md), [thinkorswim](../t/thinkorswim.md), which offers features suitable for algorithmic traders, such as advanced charting and [risk management](../r/risk_management.md) tools.
-- [TD Ameritrade](https://www.tdameritrade.com)
+### TD Ameritrade (Acquired by Charles Schwab)
+TD [Ameritrade](../a/ameritrade.md) was acquired by [Charles Schwab](../c/charles_schwab.md) on October 6, 2020, with full customer account integration completed over Labor Day weekend in September 2023. The platform provided a highly customizable [trading platform](../t/trading_platform.md), [thinkorswim](../t/thinkorswim.md), which offered features suitable for algorithmic traders, such as advanced charting and [risk management](../r/risk_management.md) tools. These capabilities are now integrated into Charles Schwab's offerings.
+- Charles Schwab
 
 ### Fidelity Investments
 [Fidelity Investments](../f/fidelity_investments.md) provides [robust](../r/robust.md) trading platforms integrated with extensive research and data, enabling traders to execute complex automated strategies.
-- [Fidelity Investments](https://www.fidelity.com)
+- Fidelity Investments
 
 ## Advanced Features in Brokerage Services
 
@@ -125,4 +125,4 @@ Though in its nascent stages, [quantum computing](../q/quantum_computing_in_trad
 
 ## Conclusion
 
-Brokerage services are the backbone of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) essential tools, platforms, and resources to execute highly complex [trading strategies](../t/trading_strategies.md) successfully. As technology advances, brokerage firms continue to innovate, providing more sophisticated and efficient services tailored to the needs of algorithmic traders. Whether through low latency executions, powerful APIs, or cutting-edge [data analytics](../d/data_analytics.md), brokerage services are at the forefront of empowering traders in the fast-paced and competitive world of [algorithmic trading](../a/algorithmic_trading.md).
+Brokerage services are the backbone of [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) essential tools, platforms, and resources to execute highly complex [trading strategies](../t/trading_strategies.md) successfully. As technology advances, brokerage firms continue to innovate, providing more sophisticated and efficient services tailored to the needs of algorithmic traders. Whether through low latency executions, powerful APIs, or cutting-edge [data analytics](../d/data_analytics.md), brokerage services are at the forefront of empowering traders in the fast-paced and competitive world of [algorithmic trading](../a/algorithmic_trading.md).

@@ -30,9 +30,9 @@ Hedonic pricing is also significant in [environmental economics](../e/environmen
 
 The general form of the hedonic pricing model can be expressed as:
 
-\[ P = f(X_1, X_2, ..., X_n) \]
+\[ P = f(X_1, X_2,..., X_n) \]
 
-Where \( P \) represents the price of the good, and \( X_1, X_2, ..., X_n \) represent the different attributes of the good. The function \( f \) is typically linear but can also be non-linear, depending on the nature of the relationship between the price and its attributes.
+Where \( P \) represents the price of the good, and \( X_1, X_2,..., X_n \) represent the different attributes of the good. The function \( f \) is typically linear but can also be non-linear, depending on the nature of the relationship between the price and its attributes.
 
 ### Example
 
@@ -86,8 +86,8 @@ Another application could be estimating the impact of air quality on property pr
 
 Companies specializing in [real estate](../r/real_estate.md) [valuation](../v/valuation.md) and analytics, such as Zillow and Redfin, [leverage](../l/leverage.md) hedonic pricing models to provide property valuations and [market](../m/market.md) insights.
 
-- [Zillow](https://www.zillow.com)
-- [Redfin](https://www.redfin.com)
+- Zillow
+- Redfin
 
 ### Environmental Consulting
 

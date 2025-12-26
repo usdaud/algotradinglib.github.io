@@ -4,7 +4,7 @@ Dual listing, also known as cross-listing, is the process in which a company's [
 
 ## Fundamentals of Dual Listing
 
-Dual listing enables a [firm](../f/firm.md) to list its [equity](../e/equity.md) [shares](../s/shares.md) on [multiple](../m/multiple.md) exchanges, creating a wider platform for trading and investment. Companies usually pursue dual listing across geographical boundaries, allowing them to tap into different pools of investors that might have distinct characteristics, preferences, and regulatory environments. 
+Dual listing enables a [firm](../f/firm.md) to list its [equity](../e/equity.md) [shares](../s/shares.md) on [multiple](../m/multiple.md) exchanges, creating a wider platform for trading and investment. Companies usually pursue dual listing across geographical boundaries, allowing them to tap into different pools of investors that might have distinct characteristics, preferences, and regulatory environments.
 
 There are several mechanisms to achieve dual listing, including:
 
@@ -81,17 +81,17 @@ Several high-profile companies have successfully engaged in dual listing to [lev
 ### Alibaba Group
 Alibaba Group, a Chinese e-[commerce](../c/commerce.md) giant, is one of the most cited examples of dual listing. It initially [listed](../l/listed.md) on the New York Stock [Exchange](../e/exchange.md) (NYSE) through a massive IPO in 2014 and subsequently conducted a secondary listing on the Hong Kong Stock [Exchange](../e/exchange.md) (HKEX) in 2019. This strategy allowed Alibaba to access both U.S. and Asian investors.
 
-**Website:** [Alibaba Group](https://www.alibabagroup.com/en/global/home)
+**online platform:** Alibaba Group
 
 ### BP plc
 BP plc, a British multinational oil and gas company, is another example of dual listing. BP has its primary listing on the London Stock [Exchange](../e/exchange.md) and a secondary listing on the New York Stock [Exchange](../e/exchange.md). This has facilitated access to European and American [capital markets](../c/capital_markets.md).
 
-**Website:** [BP plc](https://www.bp.com)
+**online platform:** BP plc
 
 ### HSBC Holdings plc
 HSBC [Holdings](../h/holdings.md) plc, a multinational banking and financial services [holding company](../h/holding_company.md), is dual-[listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) and the Hong Kong Stock [Exchange](../e/exchange.md). This has earned it a broad [investor](../i/investor.md) base and enhanced its global presence.
 
-**Website:** [HSBC Holdings plc](https://www.hsbc.com)
+**online platform:** HSBC Holdings plc
 
 ## Conclusion
 

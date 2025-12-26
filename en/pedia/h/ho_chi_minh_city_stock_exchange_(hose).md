@@ -1,6 +1,6 @@
 # Ho Chi Minh City Stock Exchange (HOSE)
 
-The Ho Chi Minh City Stock [Exchange](../e/exchange.md) (HOSE) is the largest stock [exchange](../e/exchange.md) in Vietnam in terms of [listed](../l/listed.md) companies and [market capitalization](../m/market_capitalization.md). It plays a pivotal role in the Vietnamese [capital markets](../c/capital_markets.md) and the broader [economy](../e/economy.md). Here we'll delve into the intricate details about its history, structure, operations, trading mechanisms, and its relevance to both local and international investors. 
+The Ho Chi Minh City Stock [Exchange](../e/exchange.md) (HOSE) is the largest stock [exchange](../e/exchange.md) in Vietnam in terms of [listed](../l/listed.md) companies and [market capitalization](../m/market_capitalization.md). It plays a pivotal role in the Vietnamese [capital markets](../c/capital_markets.md) and the broader [economy](../e/economy.md). Here we'll delve into the intricate details about its history, structure, operations, trading mechanisms, and its relevance to both local and international investors.
 
 ## Historical Background
 
@@ -10,7 +10,7 @@ The Ho Chi Minh City Stock [Exchange](../e/exchange.md), formerly known as the H
 
 The HOSE is regulated by the State Securities [Commission](../c/commission.md) (SSC) of Vietnam, and it operates under the legal framework established by the Vietnamese government. The [exchange](../e/exchange.md) itself is a state-owned enterprise and falls under the supervision of the Ministry of [Finance](../f/finance.md).
 
-### Key Departments 
+### Key Departments
 
 - **Listing and [Corporate Governance](../c/corporate_governance.md) Department:** Responsible for the listing of new companies and ensuring that [listed](../l/listed.md) companies adhere to [corporate governance](../c/corporate_governance.md) standards.
 - **[Market](../m/market.md) Supervision Department:** Monitors trading activities to prevent [market manipulation](../m/market_manipulation.md) and [fraud](../f/fraud.md).
@@ -36,7 +36,7 @@ HOSE offers a variety of [market](../m/market.md) segments catering to different
 
 ## Trading Mechanism
 
-HOSE employs a trading mechanism that includes both periodic call auctions and continuous [order](../o/order.md) matching. 
+HOSE employs a trading mechanism that includes both periodic call auctions and continuous [order](../o/order.md) matching.
 
 ### Trading Hours
 
@@ -101,4 +101,4 @@ While HOSE has made significant strides, it faces challenges such as:
 
 The Ho Chi Minh City Stock [Exchange](../e/exchange.md) has come a long way since its inception in 2000. It has not only contributed to the Vietnamese [economy](../e/economy.md) but also positioned itself as a crucial player in the Southeast Asian [financial markets](../f/financial_market.md). With the right regulatory environment, technological advancements, and international collaborations, HOSE aims to become more competitive and attractive to a global [investor](../i/investor.md) base.
 
-For more information, you can visit the official website of the Ho Chi Minh City Stock [Exchange](../e/exchange.md) [here](https://www.hsx.vn/).
+./e/exchange.md) here.

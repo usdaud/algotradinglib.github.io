@@ -9,20 +9,20 @@ Moving Averages are one of the most rudimentary and effective tools for identify
 ### Simple Moving Average (SMA)
 A Simple Moving Average calculates the average of a selected [range](../r/range.md) of prices. For instance, a 50-day SMA takes the closing prices of the last 50 days, sums them up, and divides by 50. The SMA is easy to calculate and helps to identify [market](../m/market.md) trends over various time frames.
 
-- **Calculation**: 
-  \[
-  SMA = \frac{P_1 + P_2 + ... + P_n}{n}
-  \]
-  Where \( P \) is the price at each period, and \( n \) is the number of periods.
-  
+- **Calculation**:
+ \[
+ SMA = \frac{P_1 + P_2 +... + P_n}{n}
+ \]
+ Where \( P \) is the price at each period, and \( n \) is the number of periods.
+
 ### Exponential Moving Average (EMA)
 Unlike the SMA, the Exponential Moving Average places more weight on recent prices, making it more responsive to new information. This characteristic makes the EMA preferable for [short-term trading](../s/short-term_trading.md) strategies.
 
 - **Calculation**:
-  \[
-  EMA_t = P_t \times \left( \frac{2}{n+1} \right) + EMA_{t-1} \times \left( 1 - \frac{2}{n+1} \right)
-  \]
-  Where \( EMA_t \) is the current EMA, \( P_t \) is the current price, \( n \) is the number of periods, and \( EMA_{t-1} \) is the EMA of the previous period.
+ \[
+ EMA_t = P_t \times \left( \frac{2}{n+1} \right) + EMA_{t-1} \times \left( 1 - \frac{2}{n+1} \right)
+ \]
+ Where \( EMA_t \) is the current EMA, \( P_t \) is the current price, \( n \) is the number of periods, and \( EMA_{t-1} \) is the EMA of the previous period.
 
 ## Moving Average Convergence Divergence (MACD)
 
@@ -49,7 +49,7 @@ Where \( RS \) is the [relative strength](../r/relative_strength.md), calculated
 ### Application
 - **Above 70**: The [market](../m/market.md) might be [overbought](../o/overbought.md), indicating a possible [downtrend](../d/downtrend.md).
 - **Below 30**: The [market](../m/market.md) might be [oversold](../o/oversold.md), indicating a possible [uptrend](../u/uptrend.md).
-  
+
 ## Bollinger Bands
 
 Created by John Bollinger, [Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being an n-period moving average, an upper band with k times n-period [standard deviation](../s/standard_deviation.md) above the average, and a lower band with k times the n-period [standard deviation](../s/standard_deviation.md) below the average.
@@ -78,7 +78,7 @@ Developed by Richard Donchian, the Donchian Channel uses the highest high and th
 ### Components
 - **Upper Band**: Highest high over N periods.
 - **Lower Band**: Lowest low over N periods.
-  
+
 ### Strategy
 - **Buy Signal**: When the price breaks above the upper band.
 - **Sell Signal**: When the price falls below the lower band.
@@ -102,19 +102,18 @@ The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, provides mo
 
 Various platforms and tools aid in the implementation of these models within an [algorithmic trading](../a/algorithmic_trading.md) system. Examples include:
 
-1. **MetaTrader 4/5** - Offers a comprehensive environment for building and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) using MQL scripting languages. [MetaTrader](https://www.metatrader4.com/en)
+1. **MetaTrader 4/5** - Offers a comprehensive environment for building and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) using MQL scripting languages. MetaTrader
 
-2. **[NinjaTrader](../n/ninjatrader.md)** - Another platform that supports building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies with powerful analysis tools. [NinjaTrader](https://www.ninjatrader.com/)
+2. **[NinjaTrader](../n/ninjatrader.md)** - Another platform that supports building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies with powerful analysis tools. NinjaTrader
 
-3. **[QuantConnect](../q/quantconnect.md)** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using [multiple](../m/multiple.md) programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
+3. **[QuantConnect](../q/quantconnect.md)** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using [multiple](../m/multiple.md) programming languages like C#, Python. QuantConnect
 
-4. **[Interactive Brokers](../i/interactive_brokers.md)** - An electronic [trading platform](../t/trading_platform.md) that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+4. **[Interactive Brokers](../i/interactive_brokers.md)** - An electronic [trading platform](../t/trading_platform.md) that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). Interactive Brokers
 
-5. **[TradeStation](../t/tradestation.md)** - Known for its easy-to-use charting and analysis tools, [offering](../o/offering.md) a platform for automating trades. [TradeStation](https://www.tradestation.com/)
+5. **[TradeStation](../t/tradestation.md)** - Known for its easy-to-use charting and analysis tools, [offering](../o/offering.md) a platform for automating trades. TradeStation
 
-6. **[AlgoTrader](../a/algotrader.md)** - A professional-grade [algorithmic trading](../a/algorithmic_trading.md) software for [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) groups. [AlgoTrader](https://www.algotrader.com/)
+6. **[AlgoTrader](../a/algotrader.md)** - A professional-grade [algorithmic trading](../a/algorithmic_trading.md) software for [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) groups. AlgoTrader
 
-37. **QuantInsti** - An educational platform providing courses and certification in [algorithmic trading](../a/algorithmic_trading.md). [QuantInsti](https://www.quantinsti.com/)
+37. **QuantInsti** - An educational platform providing courses and certification in [algorithmic trading](../a/algorithmic_trading.md). QuantInsti
 
 These [trend](../t/trend.md)-following models and trading platforms form the backbone of successful algo-[trading strategies](../t/trading_strategies.md). Traders and quants [leverage](../l/leverage.md) these models to [gain](../g/gain.md) insights into [market](../m/market.md) trends, thereby making informed trading decisions that can lead to substantial gains while managing [risk](../r/risk.md) effectively.
-

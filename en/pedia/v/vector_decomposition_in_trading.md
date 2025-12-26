@@ -6,9 +6,9 @@ Vector decomposition is a mathematical technique that involves breaking down a v
 
 Vector decomposition involves expressing a vector as a sum of two or more component vectors. Formally, if **v** is a vector, it can be decomposed as:
 
-**v** = **v₁** + **v₂** + ... + **vₙ**
+**v** = **v₁** + **v₂** +... + **vₙ**
 
-where **v₁**, **v₂**, ..., **vₙ** are the component vectors. These components can be orthogonal (perpendicular) to each other, which makes the decomposition particularly useful in trading as it simplifies the analysis of complex vector spaces into manageable parts.
+where **v₁**, **v₂**,..., **vₙ** are the component vectors. These components can be orthogonal (perpendicular) to each other, which makes the decomposition particularly useful in trading as it simplifies the analysis of complex vector spaces into manageable parts.
 
 ### Orthogonal Decomposition
 
@@ -74,15 +74,15 @@ Assume a portfolio has exposure to different [risk factors](../r/risk_factors_in
 
 ### 1. Two Sigma
 
-Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages advanced mathematical techniques, including vector decomposition, to build [trading algorithms](../t/trading_algorithms.md) and strategies. More information can be found at [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages advanced mathematical techniques, including vector decomposition, to build [trading algorithms](../t/trading_algorithms.md) and strategies. More information can be found at Two Sigma.
 
 ### 2. Renaissance Technologies
 
-Renaissance Technologies applies [quantitative models](../q/quantitative_models.md) and sophisticated algorithms, potentially involving vector decomposition, to exploit [market](../m/market.md) inefficiencies. Learn more at [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies applies [quantitative models](../q/quantitative_models.md) and sophisticated algorithms, potentially involving vector decomposition, to exploit [market](../m/market.md) inefficiencies. Learn more at Renaissance Technologies.
 
 ### 3. AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management uses [quantitative strategies](../q/quantitative_strategies_in_trading.md) that likely incorporate vector decomposition to enhance [trade](../t/trade.md) decisions and [portfolio management](../p/portfolio_management.md). Visit [AQR Capital Management](https://www.aqr.com/).
+AQR [Capital](../c/capital.md) Management uses [quantitative strategies](../q/quantitative_strategies_in_trading.md) that likely incorporate vector decomposition to enhance [trade](../t/trade.md) decisions and [portfolio management](../p/portfolio_management.md). Visit AQR Capital Management.
 
 ## Conclusion
 

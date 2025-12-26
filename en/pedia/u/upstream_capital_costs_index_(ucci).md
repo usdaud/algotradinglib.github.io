@@ -76,4 +76,4 @@ The future of the UCCI [will](../w/will.md) likely involve greater integration o
 - **Critical for Planning:** It is indispensable for planning, budgeting, and investment decisions in the [upstream](../u/upstream.md) oil and gas sector.
 - **Data-Driven Decisions:** Emphasizes the importance of data-driven decision-making in managing [capital](../c/capital.md) costs effectively.
 
-For more detailed information on UCCI and its latest updates, you can visit the [IHS Markit website](https://ihsmarkit.com/products/upstream-capital-costs-index.html).
+For more detailed information on UCCI and its latest updates,

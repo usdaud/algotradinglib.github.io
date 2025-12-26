@@ -23,7 +23,7 @@ The CDF of a Gaussian [distribution](../d/distribution.md) shows the probability
 ## Applications in Algorithmic Trading
 
 ### Modeling Asset Returns
-Many [algorithmic trading](../a/algorithmic_trading.md) strategies assume that the returns of financial instruments follow a Gaussian [distribution](../d/distribution.md). This assumption helps in simplifying the modeling process and making predictions about future prices. 
+Many [algorithmic trading](../a/algorithmic_trading.md) strategies assume that the returns of financial instruments follow a Gaussian [distribution](../d/distribution.md). This assumption helps in simplifying the modeling process and making predictions about future prices.
 
 ### Risk Management
 [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) is a widely used [risk management](../r/risk_management.md) tool in [finance](../f/finance.md), often computed under the assumption of normality of returns. Gaussian [distribution](../d/distribution.md) helps to estimate the potential loss in [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md).
@@ -43,8 +43,8 @@ While the Gaussian [distribution](../d/distribution.md) is powerful, it has its 
 
 ## Companies Utilizing Gaussian Distribution in Algorithmic Trading
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and utilizes Gaussian [distribution](../d/distribution.md) in many of its [backtesting](../b/backtesting.md) algorithms.
-2. **Numerai**: [Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that crowdsources stock predictions and employs Gaussian distributions in its [machine learning](../m/machine_learning.md) models to predict [stock market](../s/stock_market.md) movements.
+1. **[QuantConnect](../q/quantconnect.md)**: QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and utilizes Gaussian [distribution](../d/distribution.md) in many of its [backtesting](../b/backtesting.md) algorithms.
+2. **Numerai**: Numerai is a [hedge fund](../h/hedge_fund.md) that crowdsources stock predictions and employs Gaussian distributions in its [machine learning](../m/machine_learning.md) models to predict [stock market](../s/stock_market.md) movements.
 
 ## Conclusion
 

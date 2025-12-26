@@ -1,6 +1,6 @@
 # Interest Expense
 
-[Interest](../i/interest.md) [expense](../e/expense.md) refers to the cost incurred by an entity for borrowed funds. In the context of [financial statements](../f/financial_statements.md), it represents the [interest](../i/interest.md) payable on any borrowings—bonds, loans, convertible [debt](../d/debt.md), or lines of [credit](../c/credit.md). It is essentially the price paid for the use of borrowed [money](../m/money.md). For companies, it is a critical component of [financial analysis](../f/financial_analysis.md) because it affects the profitability and [cash flow](../c/cash_flow.md). 
+[Interest](../i/interest.md) [expense](../e/expense.md) refers to the cost incurred by an entity for borrowed funds. In the context of [financial statements](../f/financial_statements.md), it represents the [interest](../i/interest.md) payable on any borrowings—bonds, loans, convertible [debt](../d/debt.md), or lines of [credit](../c/credit.md). It is essentially the price paid for the use of borrowed [money](../m/money.md). For companies, it is a critical component of [financial analysis](../f/financial_analysis.md) because it affects the profitability and [cash flow](../c/cash_flow.md).
 
 ### Understanding Interest Expense
 
@@ -32,13 +32,13 @@ The calculation of [interest](../i/interest.md) [expense](../e/expense.md) is ge
 
 - **[Interest Coverage Ratio](../i/interest_coverage_ratio.md)**: This ratio helps determine how easily a company can pay [interest](../i/interest.md) on its outstanding [debt](../d/debt.md). It is calculated as:
 
-  \[ \text{[Interest Coverage Ratio](../i/interest_coverage_ratio.md)} = \frac{\text{EBIT}}{\text{[Interest](../i/interest.md) [Expense](../e/expense.md)}} \]
+ \[ \text{[Interest Coverage Ratio](../i/interest_coverage_ratio.md)} = \frac{\text{EBIT}}{\text{[Interest](../i/interest.md) [Expense](../e/expense.md)}} \]
 
-  Higher ratios are usually better, showing that the company can comfortably service its [debt](../d/debt.md).
+ Higher ratios are usually better, showing that the company can comfortably service its [debt](../d/debt.md).
 
 - **[Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio**: This ratio helps in understanding the balance between [debt](../d/debt.md) and [equity financing](../e/equity_financing.md). It is calculated as:
 
-  \[ \text{Debt-to-[Equity](../e/equity.md) Ratio} = \frac{\text{Total [Debt](../d/debt.md)}}{\text{Total [Equity](../e/equity.md)}} \]
+ \[ \text{Debt-to-[Equity](../e/equity.md) Ratio} = \frac{\text{Total [Debt](../d/debt.md)}}{\text{Total [Equity](../e/equity.md)}} \]
 
 ### Strategies to Manage Interest Expense
 
@@ -55,11 +55,11 @@ The calculation of [interest](../i/interest.md) [expense](../e/expense.md) is ge
 
 #### Amazon
 
-Amazon's financial reports provide insights into how one of the largest companies manages its [interest](../i/interest.md) expenses. Their detailed [financial statements](../f/financial_statements.md) can be found [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000).
+Amazon's financial reports provide insights into how one of the largest companies manages its [interest](../i/interest.md) expenses. Their detailed [financial statements](../f/financial_statements.md) can be found here.
 
 #### Apple Inc.
 
-Apple Inc. is another large [corporation](../c/corporation.md) that incurs significant [interest](../i/interest.md) expenses due to its borrowing. Insights and detailed financial data can be accessed [here](https://investor.apple.com/investor-relations/default.aspx).
+Apple Inc. is another large [corporation](../c/corporation.md) that incurs significant [interest](../i/interest.md) expenses due to its borrowing. Insights and detailed financial data can be accessed here.
 
 ### Strategies for Investors
 

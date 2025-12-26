@@ -86,17 +86,17 @@ The SEC requires [algorithmic trading](../a/algorithmic_trading.md) firms to mai
 ### 7.1 Renaissance Technologies
 Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, employs rigorous performance [risk analysis](../r/risk_analysis.md) to optimize their [trading strategies](../t/trading_strategies.md). The company's Medallion [Fund](../f/fund.md) uses intricate algorithms and extensive data analysis to stay ahead in the [market](../m/market.md).
 
-**Website:** [Renaissance Technologies](https://www.rentec.com/)
+**online platform:** Renaissance Technologies
 
 ### 7.2 Two Sigma
 Two Sigma utilizes advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) for trading and employs comprehensive performance [risk analysis](../r/risk_analysis.md) techniques to mitigate risks and enhance returns.
 
-**Website:** [Two Sigma](https://www.twosigma.com/)
+**online platform:** Two Sigma
 
 ### 7.3 Citadel Securities
 Citadel Securities places significant emphasis on real-time monitoring and [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) to minimize operational and [market](../m/market.md) risks in their [algorithmic trading](../a/algorithmic_trading.md) operations.
 
-**Website:** [Citadel Securities](https://www.citadelsecurities.com/)
+**online platform:** Citadel Securities
 
 ## 8. Conclusion
 

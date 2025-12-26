@@ -132,6 +132,6 @@ Effective [risk management](../r/risk_management.md) strategies are crucial for 
 ### Algorithmic Approach:
 [Risk management](../r/risk_management.md) algorithms continuously assess the portfolio's exposure to various risks, dynamically adjusting positions and implementing [stop-loss orders](../s/stop-loss_orders.md) to mitigate potential losses.
 
-To implement [capital](../c/capital.md) gains strategies effectively, traders and firms often rely on sophisticated [algorithmic trading](../a/algorithmic_trading.md) platforms. Companies like [QuantConnect](https://www.quantconnect.com/) [offer](../o/offer.md) platforms to build and deploy these strategies with historical data back-testing and live trading capabilities.
+To implement [capital](../c/capital.md) gains strategies effectively, traders and firms often rely on sophisticated [algorithmic trading](../a/algorithmic_trading.md) platforms. Companies like QuantConnect [offer](../o/offer.md) platforms to build and deploy these strategies with historical data back-testing and live trading capabilities.
 
 By understanding and leveraging these various strategies, traders can optimize their approach to maximize [capital](../c/capital.md) gains while managing risks effectively. [Algorithmic trading](../a/algorithmic_trading.md) adds a layer of precision, speed, and consistency, essential for success in modern [financial markets](../f/financial_market.md).

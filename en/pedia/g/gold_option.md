@@ -111,10 +111,10 @@ Gold is commonly priced in US Dollars (USD). Therefore, fluctuations in [currenc
 ## Key Players in the Gold Options Market
 
 ### CME Group
-The CME Group is one of the largest marketplaces for gold [options](../o/options.md). They [offer](../o/offer.md) [options](../o/options.md) on gold [futures contracts](../f/futures_contracts.md) and are a central player in the global gold [derivatives](../d/derivatives.md) [market](../m/market.md). More information can be found on their official [CME Group Gold Options page](https://www.cmegroup.com/trading/metals/precious/gold.html).
+The CME Group is one of the largest marketplaces for gold [options](../o/options.md). They [offer](../o/offer.md) [options](../o/options.md) on gold [futures contracts](../f/futures_contracts.md) and are a central player in the global gold [derivatives](../d/derivatives.md) [market](../m/market.md).
 
 ### London Metal Exchange (LME)
-The LME provides a platform for trading a wide [range](../r/range.md) of metals, including gold [options](../o/options.md). They are instrumental in setting global [benchmark](../b/benchmark.md) prices for metals markets. Details are available on their [LME Precious page](https://www.lme.com/Metals/Precious).
+The LME provides a platform for trading a wide [range](../r/range.md) of metals, including gold [options](../o/options.md). They are instrumental in setting global [benchmark](../b/benchmark.md) prices for metals markets. Details are available on their LME Precious page.
 
 ### Retail Brokerages
 Numerous retail brokerage firms allow individual investors to [trade](../t/trade.md) gold [options](../o/options.md). Platforms such as [Charles Schwab](../c/charles_schwab.md), TD [Ameritrade](../a/ameritrade.md), and [E*TRADE](../e/e_trade.md) [offer](../o/offer.md) access to gold [options](../o/options.md) with varying levels of support and education.

@@ -45,12 +45,9 @@ Several [software platforms](../s/software_platforms_for_trading.md) provide too
 
 ### Software and Algorithm Platforms
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies, incorporating [holdings](../h/holdings.md) analysis.
-   [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies, incorporating [holdings](../h/holdings.md) analysis.
 - **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software platform that supports multi-[asset](../a/asset.md) and multi-venue trading.
-   [AlgoTrader](https://www.algotrader.com/)
 - **MetaTrader 5**: A popular [trading platform](../t/trading_platform.md) known for its automated trading capabilities and analytical tools.
-   [MetaTrader 5](https://www.metatrader5.com/)
 
 ### Role of Machine Learning
 

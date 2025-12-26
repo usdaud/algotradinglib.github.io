@@ -6,7 +6,7 @@ BitMEX, which stands for "[Bitcoin](../b/bitcoin.md) Mercantile [Exchange](../e/
 ## Founders and History
 BitMEX was launched in 2014 by Arthur Hayes, Samuel Reed, and Ben Delo. Arthur Hayes, a former equities [trader](../t/trader.md) at Deutsche [Bank](../b/bank.md) and Citibank, envisioned a platform that would cater to professional traders interested in digital assets. Ben Delo, a former software engineer at IBM, and Samuel Reed, a consultant at Ticonderoga, joined him in realizing this vision.
 
-Over the years, BitMEX gained significant traction within the trading community thanks to its user-friendly interface, high [liquidity](../l/liquidity.md), and advanced features such as [leverage](../l/leverage.md) trading and perpetual contracts. 
+Over the years, BitMEX gained significant traction within the trading community thanks to its user-friendly interface, high [liquidity](../l/liquidity.md), and advanced features such as [leverage](../l/leverage.md) trading and perpetual contracts.
 
 ## Platform Features
 
@@ -47,14 +47,11 @@ BitMEX has faced regulatory challenges over the years. In October 2020, the U.S.
 [Algorithmic trading](../a/accountability.md), or algo trading, involves using computer algorithms to automatically execute [trading strategies](../t/trading_strategies.md). BitMEX offers features conducive to algo trading:
 
 - **API Access:** BitMEX provides [robust](../r/robust.md) API access, allowing traders to connect their algorithms to the [exchange](../e/exchange.md). The REST API and WebSocket API enable users to access [market](../m/market.md) data, place orders, and manage accounts programmatically.
-  - REST API Link: https://www.bitmex.com/app/apiOverview
-  - WebSocket API Link: https://www.bitmex.com/app/wsAPI
-
+ - REST API Link - WebSocket API Link
 - **[Market](../m/market.md) Data:** Through BitMEX APIs, traders can access real-time and historical [market](../m/market.md) data, essential for [backtesting](../b/backtesting.md) and developing [trading strategies](../t/trading_strategies.md).
 - **High [Liquidity](../l/liquidity.md):** BitMEX's high [liquidity](../l/liquidity.md) ensures that large orders can be executed with minimal [slippage](../s/slippage.md), a crucial [factor](../f/factor.md) for many [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 - **Testnet:** BitMEX offers a Testnet environment where traders can test their algorithms in a [risk](../r/risk.md)-free setting using simulated funds.
-  - Testnet Link: https://testnet.bitmex.com/
-
+ - Testnet Link
 ## Trading Fees
 BitMEX employs a maker-taker [fee](../f/fee.md) model:
 
@@ -81,10 +78,8 @@ BitMEX’s user interface caters primarily to professional traders. Key features
 BitMEX offers various educational resources to help users understand the platform and develop their trading skills:
 
 - **Documentation:** Extensive documentation covers all aspects of the platform, including how to use different features, understand contract specifications, and develop [trading algorithms](../t/trading_algorithms.md).
-  - Documentation Link: https://www.bitmex.com/app/technicalResources
-- **Blog:** BitMEX maintains a blog providing insights into [market](../m/market.md) trends, updates on platform features, and other educational content.
-  - Blog Link: https://blog.bitmex.com/
-
+ - Documentation Link- **Blog:** BitMEX maintains a blog providing insights into [market](../m/market.md) trends, updates on platform features, and other educational content.
+ - Blog Link
 ## Future Developments
 BitMEX continues to evolve and innovate in response to [market](../m/market.md) demands and regulatory requirements. Key areas of focus include:
 
@@ -93,8 +88,7 @@ BitMEX continues to evolve and innovate in response to [market](../m/market.md) 
 - **Technological Enhancements:** Continuous improvements to the trading engine, [security](../s/security.md) measures, and user interface to provide a seamless trading experience.
 
 ## Conclusion
-BitMEX remains a key player in the cryptocurrency trading space, particularly in the [derivatives](../d/derivatives.md) [market](../m/market.md). Its advanced features, high [leverage](../l/leverage.md) [options](../o/options.md), and [robust](../r/robust.md) trading engine make it a preferred choice for professional traders. However, regulatory challenges and criticisms highlight the need for ongoing improvements and compliance efforts to maintain its position in the [market](../m/market.md). For more information, visit their official website: https://www.bitmex.com/
-
+BitMEX remains a key player in the cryptocurrency trading space, particularly in the [derivatives](../d/derivatives.md) [market](../m/market.md). Its advanced features, high [leverage](../l/leverage.md) [options](../o/options.md), and [robust](../r/robust.md) trading engine make it a preferred choice for professional traders. However, regulatory challenges and criticisms highlight the need for ongoing improvements and compliance efforts to maintain its position in the [market](../m/market.md). For more information,
 ---
 
 This extensive overview of BitMEX provides a detailed understanding of the platform, its features, regulatory challenges, impact on the [market](../m/market.md), and future developments. Users and prospective traders can use this information to make informed decisions about engaging with the platform.

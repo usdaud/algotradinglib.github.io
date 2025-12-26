@@ -8,12 +8,12 @@ An **[order](../o/order.md) driven [market](../m/market.md)** is a type of finan
 [Order](../o/order.md) driven markets operate using an electronic [order](../o/order.md) matching system where different types of orders are placed by participants. These orders generally fall into two broad categories:
 
 1. **[Market](../m/market.md) Orders:** An [order](../o/order.md) to buy or sell immediately at the best available current price.
-2. **Limit Orders:** An [order](../o/order.md) to buy or sell at a specific price or better. 
+2. **Limit Orders:** An [order](../o/order.md) to buy or sell at a specific price or better.
 3. **Stop Orders:** Orders that become a [market order](../m/market_order.md) once a specified price threshold has been reached.
 4. **[Stop-Limit Orders](../s/stop-limit_orders.md):** A two-step [order](../o/order.md) type combining the features of a [stop order](../s/stop_order.md) and a [limit order](../l/limit_order.md).
 
 ### Order Book
-The heart of an [order](../o/order.md) driven [market](../m/market.md) is the [order book](../o/order_book.md), a real-time record showing the buy and sell limit orders for a particular [asset](../a/asset.md). The [order book](../o/order_book.md) organizes and prioritizes the orders based on the price and time of submission. It consists of two main parts: 
+The heart of an [order](../o/order.md) driven [market](../m/market.md) is the [order book](../o/order_book.md), a real-time record showing the buy and sell limit orders for a particular [asset](../a/asset.md). The [order book](../o/order_book.md) organizes and prioritizes the orders based on the price and time of submission. It consists of two main parts:
 
 1. **[Bid](../b/bid.md) Side:** Includes all buy orders.
 2. **Ask Side:** Includes all sell orders.
@@ -48,7 +48,7 @@ Certain [bond](../b/bond.md) markets, particularly those dealing with government
 ### Cryptocurrency Markets
 Cryptocurrency exchanges such as [Binance](../b/binance.md) and [Coinbase](../c/coinbase.md) operate on an [order](../o/order.md) driven [basis](../b/basis.md). These markets allow for trading of digital currencies like [Bitcoin](../b/bitcoin.md), [Ethereum](../e/ethereum_.md), and many others.
 
-## Benefits and Challenges 
+## Benefits and Challenges
 
 ### Benefits
 1. **[Price Discovery](../p/price_discovery.md):** High level of [transparency](../t/transparency.md) leads to efficient [price discovery](../p/price_discovery.md).
@@ -79,19 +79,16 @@ In an [order](../o/order.md) driven [market](../m/market.md), [algorithmic tradi
 ## Case Studies
 
 ### New York Stock Exchange (NYSE)
-The NYSE has been a prominent example of using an [order](../o/order.md) driven system. While it incorporates some elements of [quote](../q/quote.md)-driven mechanisms with its Designated [Market](../m/market.md) Makers (DMMs), the overwhelming majority of trading is driven by participant orders. 
+The NYSE has been a prominent example of using an [order](../o/order.md) driven system. While it incorporates some elements of [quote](../q/quote.md)-driven mechanisms with its Designated [Market](../m/market.md) Makers (DMMs), the overwhelming majority of trading is driven by participant orders.
 
-[New York Stock Exchange](https://www.nyse.com)
 
 ### NASDAQ
 [NASDAQ](../n/nasdaq.md) operates as a fully electronic [order](../o/order.md) driven [market](../m/market.md). [Market](../m/market.md) participants include a wide [range](../r/range.md) of stakeholders from individual traders to large institutional investors. The sophisticated matching engine efficiently handles a high [volume](../v/volume.md) of trades, maintaining fairness and [transparency](../t/transparency.md).
 
-[NASDAQ](https://www.nasdaq.com)
 
 ### Binance
 [Binance](../b/binance.md), one of the largest cryptocurrency exchanges, uses an [order](../o/order.md) driven system to facilitate trading across a wide [range](../r/range.md) of digital assets. The platform's sophisticated algorithms ensure efficient [order](../o/order.md) matching and [execution](../e/execution.md).
 
-[Binance](https://www.binance.com)
 
 ## Future of Order Driven Markets
 

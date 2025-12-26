@@ -24,9 +24,9 @@ Changing the [loan](../l/loan.md) term can be beneficial for various financial s
 ## Benefits of Rate-and-Term Refinance
 
 1. **Lower Monthly Payments**: By securing a lower [interest rate](../i/interest_rate.md) or extending the [loan](../l/loan.md) term, borrowers can reduce their monthly [mortgage](../m/mortgage.md) payments, making it easier to manage [cash flow](../c/cash_flow.md).
-  
+
 2. **[Interest](../i/interest.md) Savings**: Refinancing to a lower [interest rate](../i/interest_rate.md) can significantly cut down the amount of [interest](../i/interest.md) paid over the [loan](../l/loan.md)'s [duration](../d/duration.md).
-  
+
 3. **[Debt Consolidation](../d/debt_consolidation.md)**: While less common for rate-and-term refinances, some borrowers might use this as an opportunity to consolidate higher-[interest](../i/interest.md) [debt](../d/debt.md) into their [mortgage](../m/mortgage.md).
 
 4. **Stability and Predictability**: Switching from an adjustable-rate [mortgage](../m/mortgage.md) (ARM) to a [fixed-rate mortgage](../f/fixed-rate_mortgage.md) provides stability with unchanging monthly payments, shielding the homeowner from [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md).
@@ -36,11 +36,11 @@ Changing the [loan](../l/loan.md) term can be beneficial for various financial s
 Although rate-and-term refinancing can [offer](../o/offer.md) substantial benefits, it is associated with costs that need to be considered:
 
 1. **[Origination](../o/origination.md) Fees**: Fees charged by the [lender](../l/lender.md) to process the new [loan](../l/loan.md).
-  
+
 2. **[Appraisal](../a/appraisal.md) Fees**: Costs for having the [home](../h/home.md) appraised to determine its current [market value](../m/market_value.md).
-  
+
 3. **[Title Insurance](../t/title_insurance.md)**: Ensures that the property title is clear and protects against title defects.
-  
+
 4. **Closing Costs**: Various other fees that might include recording fees, [credit report](../c/credit_report.md) fees, and administrative costs.
 
 ## Considerations Before Refinancing
@@ -51,7 +51,7 @@ The break-even point is the time it takes for the savings from the new [loan](..
 
 ### Loan-to-Value (LTV) Ratio
 
-Lenders typically require a certain LTV ratio, which is the [loan](../l/loan.md) amount divided by the appraised [value](../v/value.md) of the property. A lower LTV ratio often results in more favorable [loan](../l/loan.md) terms. 
+Lenders typically require a certain LTV ratio, which is the [loan](../l/loan.md) amount divided by the appraised [value](../v/value.md) of the property. A lower LTV ratio often results in more favorable [loan](../l/loan.md) terms.
 
 ### Credit Score
 
@@ -64,7 +64,7 @@ A borrower’s [credit score](../c/credit_score.md) significantly influences the
 ## Steps to Rate-and-Term Refinance
 
 1. **Research and Compare Lenders**: Evaluate different lenders for rates, fees, and terms. Online tools and resource sites can aid in making comparisons.
-  
+
 2. **Application**: Submit an application with the chosen [lender](../l/lender.md). This involves providing financial information, such as [income](../i/income.md), debts, and [credit](../c/credit.md) history.
 
 3. **Documentation**: Prepare necessary documents, which may include tax returns, pay stubs, [bank](../b/bank.md) statements, and proof of [insurance](../i/insurance.md).
@@ -86,4 +86,4 @@ While rate-and-term [refinance](../r/refinance.md) is effective for specific goa
 
 Rate-and-term refinancing provides homeowners an opportunity to adjust their [mortgage](../m/mortgage.md) conditions to better fit their financial situation. By lowering the [interest rate](../i/interest_rate.md) or changing the [loan](../l/loan.md) term, borrowers can reduce monthly payments, save on [interest](../i/interest.md), or stabilize their [payment](../p/payment.md) plan. However, it's essential to consider the associated costs, evaluate the break-even point, and ensure that the new [loan](../l/loan.md) terms align with the long-term financial strategy. Homeowners should stay informed about [market](../m/market.md) conditions and meticulously weigh the benefits and expenses before proceeding with a rate-and-term [refinance](../r/refinance.md).
 
-For further reading and financial advice, [mortgage](../m/mortgage.md) calculators, and comparing lenders, refer to a trusted resource such as [Bankrate](https://www.bankrate.com).
+For further reading and financial advice, [mortgage](../m/mortgage.md) calculators, and comparing lenders, refer to a trusted resource such as Bankrate.

@@ -62,4 +62,4 @@ The landscape of financial newsletters and their evaluation has evolved with the
 ## Conclusion
 The Hulbert [Rating](../r/rating.md) stands as a significant innovation in the realm of financial advice, providing a much-needed yardstick for evaluating investment recommendations. Through rigorous methodology and ongoing assessments, it continues to aid individual investors, financial advisors, and institutions in making more informed investment decisions. As [financial markets](../f/financial_market.md) evolve, the Hulbert [Rating](../r/rating.md) remains a crucial tool for promoting [transparency](../t/transparency.md) and accountability in the world of financial newsletters.
 
-For more information: [Hulbert Ratings](https://hulbertratings.com)
+For more information: Hulbert Ratings

@@ -35,9 +35,9 @@ Algorithms can be customized to adapt to the dynamics of a buyer's [market](../m
 
 ## Companies Specializing in Algorithmic Trading
 
-1. **Jane Street**: [Jane Street](https://www.janestreet.com) is a global trading [firm](../f/firm.md) that uses sophisticated algorithms and strategies to [trade](../t/trade.md) a variety of financial instruments.
-2. **Two Sigma**: [Two Sigma](https://www.twosigma.com) uses advanced [data science](../d/data_science_in_trading.md) and technology to create [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) aimed at delivering high returns.
-3. **Citadel Securities**: [Citadel Securities](https://www.citadelsecurities.com) is well-known for its [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), providing [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes.
+1. **Jane Street**: Jane Street is a global trading [firm](../f/firm.md) that uses sophisticated algorithms and strategies to [trade](../t/trade.md) a variety of financial instruments.
+2. **Two Sigma**: Two Sigma uses advanced [data science](../d/data_science_in_trading.md) and technology to create [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) aimed at delivering high returns.
+3. **Citadel Securities**: Citadel Securities is well-known for its [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), providing [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes.
 4. **Renaissance Technologies**: Renaissance Technologies employs [quantitative models](../q/quantitative_models.md) derived from statistical analyses to develop its [trading strategies](../t/trading_strategies.md).
 
 ## Brief History and Evolution

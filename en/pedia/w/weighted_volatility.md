@@ -13,10 +13,10 @@
 ### 1. **Calculating Weighted Volatility**
 
 The calculation involves several steps:
-   1. **Data Selection**: Gather the relevant pricing data over the desired period.
-   2. **Weight [Assignment](../a/assignment.md)**: Assign weights to each data point. The choice of weighting scheme significantly affects the final metric. Common schemes include exponential (where recent data points are [weighted](../w/weighted.md) more heavily) or [volume](../v/volume.md)-based weights.
-   3. **[Weighted](../w/weighted.md) [Return](../r/return.md) Calculation**: Compute the returns for the chosen data points, adjusted by their weights.
-   4. **Variance/[Standard Deviation](../s/standard_deviation.md)**: Finally, calculate the [weighted](../w/weighted.md) variance or [standard deviation](../s/standard_deviation.md) of the [weighted returns](../w/weighted_returns_in_trading.md).
+ 1. **Data Selection**: Gather the relevant pricing data over the desired period.
+ 2. **Weight [Assignment](../a/assignment.md)**: Assign weights to each data point. The choice of weighting scheme significantly affects the final metric. Common schemes include exponential (where recent data points are [weighted](../w/weighted.md) more heavily) or [volume](../v/volume.md)-based weights.
+ 3. **[Weighted](../w/weighted.md) [Return](../r/return.md) Calculation**: Compute the returns for the chosen data points, adjusted by their weights.
+ 4. **Variance/[Standard Deviation](../s/standard_deviation.md)**: Finally, calculate the [weighted](../w/weighted.md) variance or [standard deviation](../s/standard_deviation.md) of the [weighted returns](../w/weighted_returns_in_trading.md).
 
 ### 2. **Common Weighting Schemes**
 
@@ -49,15 +49,15 @@ The calculation involves several steps:
 
 ### Example: XTX Markets
 
-XTX Markets, a leading [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), incorporates advanced [volatility](../v/volatility.md) measures including [weighted](../w/weighted.md) [volatility](../v/volatility.md) in their [trading strategies](../t/trading_strategies.md). XTX’s approach to [volatility](../v/volatility.md) assessment helps in maintaining [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md)' adaptability to current [market](../m/market.md) conditions. Their detailed methodology ensures that they remain competitive by making data-driven decisions in real time. 
+XTX Markets, a leading [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md), incorporates advanced [volatility](../v/volatility.md) measures including [weighted](../w/weighted.md) [volatility](../v/volatility.md) in their [trading strategies](../t/trading_strategies.md). XTX’s approach to [volatility](../v/volatility.md) assessment helps in maintaining [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md)' adaptability to current [market](../m/market.md) conditions. Their detailed methodology ensures that they remain competitive by making data-driven decisions in real time.
 
-For more information about XTX Markets, please visit their [official website](https://www.xtxmarkets.com).
+
 
 ### Example: Renaissance Technologies
 
 Renaissance Technologies, operated by the acclaimed Medallion [Fund](../f/fund.md), also utilizes sophisticated [volatility](../v/volatility.md) measures, including [weighted](../w/weighted.md) [volatility](../v/volatility.md), to calibrate their [trading models](../t/trading_models.md). By doing so, they can effectively [hedge](../h/hedge.md) risks and optimize portfolio allocations, contributing to their unparalleled returns.
 
-For more details, visit the Renaissance Technologies [website](https://www.rentec.com).
+
 
 ## Tools and Software for Weighted Volatility Calculation
 

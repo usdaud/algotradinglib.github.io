@@ -60,7 +60,7 @@ The future [value](../v/value.md) of your [annuity due](../a/annuity_due.md) aft
 
 ### Retirement Planning
 
-One of the most common applications of future [value](../v/value.md) of an annuity calculations is in [retirement planning](../r/retirement_planning.md). Individuals can use these calculations to determine how much they [will](../w/will.md) have saved up by their retirement date if they contribute a fixed amount periodically into a retirement [savings account](../s/savings_account.md). 
+One of the most common applications of future [value](../v/value.md) of an annuity calculations is in [retirement planning](../r/retirement_planning.md). Individuals can use these calculations to determine how much they [will](../w/will.md) have saved up by their retirement date if they contribute a fixed amount periodically into a retirement [savings account](../s/savings_account.md).
 
 ### Investing
 
@@ -95,6 +95,6 @@ While the future [value](../v/value.md) of an annuity provides a useful projecti
 
 Many online calculators are available to assist with the computation of the future [value](../v/value.md) of an annuity. Financial software and spreadsheets such as Microsoft Excel also [offer](../o/offer.md) built-in functions to facilitate these calculations.
 
-For more information, you can visit [financial planning](../f/financial_planning.md) resources and institutions such as [Fidelity](https://www.fidelity.com) and [Vanguard](https://www.vanguard.com).
+For more information, you can visit [financial planning](../f/financial_planning.md) resources and institutions such as Fidelity and Vanguard.
 
 Understanding and applying the concept of the future [value](../v/value.md) of an annuity can greatly enhance [financial planning](../f/financial_planning.md) and decision-making, ensuring individuals and businesses alike can meet their long-term financial goals effectively.

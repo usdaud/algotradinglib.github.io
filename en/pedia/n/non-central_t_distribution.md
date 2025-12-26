@@ -20,8 +20,8 @@ Where:
 2. **Non-Centrality Parameter (\( \[lambda](../l/lambda.md) \))**: This parameter introduces a deviation from the mean. When \( \[lambda](../l/lambda.md) = 0 \), the [distribution](../d/distribution.md) reduces to a standard Student's [T Distribution](../t/t_distribution.md). As \( \[lambda](../l/lambda.md) \) increases or decreases, the [distribution](../d/distribution.md) moves away from the central [normal distribution](../n/normal_distribution_in_trading.md).
 
 3. **Mean and Variance**:
-    - The mean of a non-central [T distribution](../t/t_distribution.md) is non-zero and shifts according to the non-centrality parameter.
-    - The variance is more complex to calculate and is affected by both the [degrees of freedom](../d/degrees_of_freedom.md) and the non-centrality parameter.
+ - The mean of a non-central [T distribution](../t/t_distribution.md) is non-zero and shifts according to the non-centrality parameter.
+ - The variance is more complex to calculate and is affected by both the [degrees of freedom](../d/degrees_of_freedom.md) and the non-centrality parameter.
 
 ### Applications in Algorithmic Trading
 
@@ -63,7 +63,7 @@ The Non-Central [T Distribution](../t/t_distribution.md) serves as a critical to
 
 For further exploration, readers can refer to financial data analysis libraries like:
 
-- [R Project](https://www.r-project.org/)
-- [SciPy Library](https://scipy.org/)
+- R Project
+- SciPy Library
 
 Through these resources, one can [leverage](../l/leverage.md) advanced statistical methods, including the non-central [T distribution](../t/t_distribution.md), to enhance analytical capabilities in [algorithmic trading](../a/algorithmic_trading.md).

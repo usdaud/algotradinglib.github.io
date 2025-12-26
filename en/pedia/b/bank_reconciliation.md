@@ -74,23 +74,18 @@ Ensure that employees involved in the [reconciliation](../r/reconciliation.md) p
 
 ### 1. QuickBooks
 QuickBooks is a widely-used [accounting](../a/accounting.md) software that offers [robust](../r/robust.md) [bank](../b/bank.md) [reconciliation](../r/reconciliation.md) features. It allows businesses to automate the [reconciliation](../r/reconciliation.md) process and ensure accurate financial records.
-[QuickBooks](https://quickbooks.intuit.com/)
 
 ### 2. Xero
 Xero is another popular [accounting](../a/accounting.md) software that simplifies [bank](../b/bank.md) [reconciliation](../r/reconciliation.md). It integrates with various banks and financial institutions, making the [reconciliation](../r/reconciliation.md) process seamless.
-[Xero](https://www.xero.com/)
 
 ### 3. Wave
 Wave is a free [accounting](../a/accounting.md) software that offers [bank](../b/bank.md) [reconciliation](../r/reconciliation.md) functionalities. It is suitable for small businesses and freelancers who need an efficient way to manage their finances.
-[Wave](https://www.waveapps.com/)
 
 ### 4. Zoho Books
 Zoho Books provides comprehensive banking and [reconciliation](../r/reconciliation.md) features, enabling businesses to keep their financial records accurate and up-to-date.
-[Zoho Books](https://www.zoho.com/us/books/)
 
 ### 5. FreshBooks
 FreshBooks offers easy-to-use [bank](../b/bank.md) [reconciliation](../r/reconciliation.md) tools that help businesses reconcile their accounts quickly and efficiently.
-[FreshBooks](https://www.freshbooks.com/)
 
 ## Conclusion
 

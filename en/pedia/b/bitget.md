@@ -90,4 +90,3 @@ Bitget has a global user base and actively engages with its community to foster 
 
 Bitget has established itself as a comprehensive and reliable platform in the cryptocurrency trading space. With an array of advanced trading products, [robust](../r/robust.md) [security](../s/security.md) measures, user-centric features, and a commitment to regulatory compliance, Bitget continues to attract and retain a growing global user base. Whether you're a novice [trader](../t/trader.md) or an experienced professional, Bitget provides the tools and resources to enhance your trading experience and achieve your financial goals.
 
-For more information, visit the official website: [Bitget](https://www.bitget.com)

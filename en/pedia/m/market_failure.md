@@ -57,7 +57,7 @@ Externalities can be inherent to the production and consumption of certain goods
 
 ### Information Problems
 
-Markets function optimally when participants have access to full and accurate information, but information asymmetry is common and can be a significant cause of [market](../m/market.md) failure. 
+Markets function optimally when participants have access to full and accurate information, but information asymmetry is common and can be a significant cause of [market](../m/market.md) failure.
 
 ## Government Intervention and Policy Responses
 

@@ -76,8 +76,6 @@ A [hedge fund manager](../h/hedge_fund_manager.md) buys [interest rate](../i/int
 
 ---
 
-[Financial Instruments - CME Group](https://www.cmegroup.com)
 
-[Bank for International Settlements - Basel III](https://www.bis.org/bcbs/basel3.htm)
 
-[U.S. Securities and Exchange Commission - Derivatives](https://www.sec.gov/spotlight/dodd-frank/derivatives.shtml)
+U.S. Securities and Exchange Commission - Derivatives

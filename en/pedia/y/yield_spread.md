@@ -15,14 +15,14 @@ The calculation of [yield](../y/yield.md) spread is straightforward:
 
 There are several commonly analyzed [yield](../y/yield.md) [spreads](../s/spreads.md):
 
-1. **[Credit](../c/credit.md) [Spreads](../s/spreads.md):** 
-   The difference in [yield](../y/yield.md) between two bonds of similar [maturity](../m/maturity.md) but different [credit](../c/credit.md) quality.
-   
-2. **[Maturity](../m/maturity.md) [Spreads](../s/spreads.md):** 
-   The difference in [yield](../y/yield.md) between two bonds of the same [credit](../c/credit.md) quality but different maturities.
-   
+1. **[Credit](../c/credit.md) [Spreads](../s/spreads.md):**
+ The difference in [yield](../y/yield.md) between two bonds of similar [maturity](../m/maturity.md) but different [credit](../c/credit.md) quality.
+
+2. **[Maturity](../m/maturity.md) [Spreads](../s/spreads.md):**
+ The difference in [yield](../y/yield.md) between two bonds of the same [credit](../c/credit.md) quality but different maturities.
+
 3. **Government [Yield](../y/yield.md) Spread:**
-    The difference between the yields on treasury securities and other government bonds.
+ The difference between the yields on treasury securities and other government bonds.
 
 ## Importance of Yield Spreads
 
@@ -70,19 +70,19 @@ The OAS measures the spread between a [bond](../b/bond.md) and [risk](../r/risk.
 
 ### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal provides [real-time market data](../r/real-time_market_data.md), news, and analytics, including [yield](../y/yield.md) [spreads](../s/spreads.md), and is widely used by institutional investors and algorithmic traders. More information is available on the official [Bloomberg](../b/bloomberg.md) [website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg](../b/bloomberg.md) Terminal provides [real-time market data](../r/real-time_market_data.md), news, and analytics, including [yield](../y/yield.md) [spreads](../s/spreads.md), and is widely used by institutional investors and algorithmic traders. More information is available on the official [Bloomberg](../b/bloomberg.md) online platform.
 
 ### Thomson Reuters Eikon
 
-Thomson [Reuters](../r/reuters.md) Eikon offers comprehensive data on [yield](../y/yield.md) [spreads](../s/spreads.md) and fixed-[income](../i/income.md) instruments, facilitating in-depth analysis and [algorithmic trading](../a/algorithmic_trading.md). Visit the [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) page for more details.
+Thomson [Reuters](../r/reuters.md) Eikon offers comprehensive data on [yield](../y/yield.md) [spreads](../s/spreads.md) and fixed-[income](../i/income.md) instruments, facilitating in-depth analysis and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### FactSet
 
-[FactSet](../f/factset.md) is another significant platform providing [data analytics](../d/data_analytics.md) for [yield](../y/yield.md) [spread analysis](../s/spread_analysis.md), catering to investment professionals and quantitative analysts. More information can be found on the [FactSet website](https://www.factset.com/).
+[FactSet](../f/factset.md) is another significant platform providing [data analytics](../d/data_analytics.md) for [yield](../y/yield.md) [spread analysis](../s/spread_analysis.md), catering to investment professionals and quantitative analysts.
 
 ### Quandl
 
-[Quandl](../q/quandl.md) provides a wide [range](../r/range.md) of financial, economic, and alternative datasets, which are essential for constructing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that involve [yield](../y/yield.md) [spreads](../s/spreads.md). Explore more on the [Quandl website](https://www.quandl.com/).
+[Quandl](../q/quandl.md) provides a wide [range](../r/range.md) of financial, economic, and alternative datasets, which are essential for constructing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that involve [yield](../y/yield.md) [spreads](../s/spreads.md).
 
 ## Practical Application in Trading
 

@@ -5,16 +5,16 @@ Kondratieff Cycle Theory, also known as K-waves, is a concept introduced by the 
 #### Phases of Kondratieff Cycles
 
 1. **[Expansion](../e/expansion.md) (Spring)**
-   - During the [expansion](../e/expansion.md) phase, the [economy](../e/economy.md) experiences [robust](../r/robust.md) growth driven by technological innovations and increased investments. This period is often characterized by rising [productivity](../p/productivity.md), increasing employment rates, and a general sense of optimism. Key innovations, such as the steam engine during the first [Kondratieff wave](../k/kondratieff_wave.md), spurred new industries and economic activities.
+ - During the [expansion](../e/expansion.md) phase, the [economy](../e/economy.md) experiences [robust](../r/robust.md) growth driven by technological innovations and increased investments. This period is often characterized by rising [productivity](../p/productivity.md), increasing employment rates, and a general sense of optimism. Key innovations, such as the steam engine during the first [Kondratieff wave](../k/kondratieff_wave.md), spurred new industries and economic activities.
 
 2. **[Stagnation](../s/stagnation.md) (Summer)**
-   - Following the period of [expansion](../e/expansion.md), the [economy](../e/economy.md) enters a [stagnation](../s/stagnation.md) or [maturity](../m/maturity.md) phase. While [economic indicators](../e/economic_indicators.md) remain stable, the growth rate begins to slow down as markets become saturated and the initial impact of technological innovations diminishes. Companies might experience weakening profits, and investment activities might slow down.
+ - Following the period of [expansion](../e/expansion.md), the [economy](../e/economy.md) enters a [stagnation](../s/stagnation.md) or [maturity](../m/maturity.md) phase. While [economic indicators](../e/economic_indicators.md) remain stable, the growth rate begins to slow down as markets become saturated and the initial impact of technological innovations diminishes. Companies might experience weakening profits, and investment activities might slow down.
 
 3. **[Recession](../r/recession.md) (Autumn)**
-   - The [recession](../r/recession.md) phase is marked by economic downturns, decreasing industrial production, and declining profits. During this time, financial crises and banking failures may occur as a consequence of excessive [speculation](../s/speculation.md) during the [expansion](../e/expansion.md) phase. As the [economy](../e/economy.md) contracts, [unemployment](../u/unemployment.md) rates rise, and [deflation](../d/deflation.md) might set in.
+ - The [recession](../r/recession.md) phase is marked by economic downturns, decreasing industrial production, and declining profits. During this time, financial crises and banking failures may occur as a consequence of excessive [speculation](../s/speculation.md) during the [expansion](../e/expansion.md) phase. As the [economy](../e/economy.md) contracts, [unemployment](../u/unemployment.md) rates rise, and [deflation](../d/deflation.md) might set in.
 
 4. **Recovery (Winter)**
-   - The recovery phase signifies the revival of the [economy](../e/economy.md), setting the stage for a new [expansion](../e/expansion.md) phase. This period is characterized by the absorption of previous excesses, [restructuring](../r/restructuring.md) of industries, and potentially new waves of technological innovation. Once the recovery gains [momentum](../m/momentum.md), a new cycle of economic [expansion](../e/expansion.md) can begin.
+ - The recovery phase signifies the revival of the [economy](../e/economy.md), setting the stage for a new [expansion](../e/expansion.md) phase. This period is characterized by the absorption of previous excesses, [restructuring](../r/restructuring.md) of industries, and potentially new waves of technological innovation. Once the recovery gains [momentum](../m/momentum.md), a new cycle of economic [expansion](../e/expansion.md) can begin.
 
 #### Historical Examples of Kondratieff Cycles
 
@@ -65,8 +65,8 @@ Despite these criticisms, the Kondratieff Cycle Theory continues to be a useful 
 
 #### Notable References:
 
-1. [Algorithmic Trading - Investopedia](https://www.investopedia.com/terms/a/algorithmictrading.asp)
-2. [Bridgewater Associates](https://www.bridgewater.com/)
-3. [Renaissance Technologies](https://www.rentech.com/)
+1. Algorithmic Trading - Investopedia
+2. Bridgewater Associates
+3. Renaissance Technologies
 
 Understanding these cycles can be crucial for investors, economists, and policymakers aiming to navigate and anticipate long-term economic trends successfully.

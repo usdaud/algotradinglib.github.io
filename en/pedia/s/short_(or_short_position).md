@@ -60,10 +60,10 @@ However, it can also have negative impacts, such as exacerbating [market](../m/m
 
 ## Short Selling in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, leverages [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute [short selling](../s/short_selling.md) strategies efficiently. Key techniques include:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, leverages [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute [short selling](../s/short_selling.md) strategies efficiently. Key techniques include:
 
 1. **Statistical [Arbitrage](../a/arbitrage.md)**: Using statistical models to identify and exploit price divergences between correlated assets.
-   
+
 2. **[Momentum Trading](../m/momentum_trading.md)**: Algorithms identify and short [stocks](../s/stock.md) demonstrating downward [momentum](../m/momentum.md).
 
 3. **[Mean Reversion](../m/mean_reversion.md)**: Based on the idea that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical means, algorithms short [overvalued](../o/overvalued.md) [stocks](../s/stock.md) expected to decline.
@@ -71,7 +71,7 @@ However, it can also have negative impacts, such as exacerbating [market](../m/m
 ### Tools and Technologies
 
 - **[Backtesting](../b/backtesting.md) Software**: Allows [trading algorithms](../t/trading_algorithms.md) to be tested on historical data to gauge performance and refine strategies.
-  
+
 - **High-Frequency Trading (HFT)**: Uses sophisticated algorithms and high-speed data feeds to execute numerous short trades rapidly.
 
 - **[Machine Learning](../m/machine_learning.md)**: Enhances [short selling](../s/short_selling.md) strategies by identifying patterns and predicting stock movements with greater accuracy.
@@ -81,17 +81,17 @@ However, it can also have negative impacts, such as exacerbating [market](../m/m
 Financial technology (Fintech) has revolutionized [short selling](../s/short_selling.md) by democratizing access to markets and providing innovative tools. Examples include:
 
 - **Robo-Advisors**: Platforms like Betterment and Wealthfront [offer](../o/offer.md) [automated portfolio management](../a/automated_portfolio_management.md), including short-selling [options](../o/options.md).
-  
+
 - **[Social Trading](../s/social_trading.md) Platforms**: Platforms like [eToro](../e/etoro.md) allow traders to follow and replicate successful short-selling strategies of other investors.
 
 - **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: Facilitates secure and transparent lending of securities for [short selling](../s/short_selling.md).
 
 ### Notable Fintech Companies
 
-- **[Robinhood](../r/robinhood.md)**: [Robinhood](https://robinhood.com/) offers [commission](../c/commission.md)-free trades and a user-friendly app, attracting a younger generation of traders into the short-selling arena.
+- **[Robinhood](../r/robinhood.md)**: Robinhood offers [commission](../c/commission.md)-free trades and a user-friendly app, attracting a younger generation of traders into the short-selling arena.
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/) provides advanced trading tools, including short-selling features, catering to both retail and institutional investors.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers provides advanced trading tools, including short-selling features, catering to both retail and institutional investors.
 
 ## Conclusion
 
-[Short selling](../s/short_selling.md) is a powerful yet risky [trading strategy](../t/trading_strategy.md) that involves borrowing and selling securities to [profit](../p/profit.md) from anticipated price declines. It plays a vital role in [market](../m/market.md) [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md) but is also associated with significant risks and regulatory scrutiny. Advancements in [algorithmic trading](../a/accountability.md) and fintech have made [short selling](../s/short_selling.md) more accessible and efficient, empowering traders to [leverage](../l/leverage.md) sophisticated tools and techniques. As markets continue to evolve, so [will](../w/will.md) the strategies and technologies employed in [short selling](../s/short_selling.md), ensuring its relevance in the financial ecosystem.
+[Short selling](../s/short_selling.md) is a powerful yet risky [trading strategy](../t/trading_strategy.md) that involves borrowing and selling securities to [profit](../p/profit.md) from anticipated price declines. It plays a vital role in [market](../m/market.md) [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md) but is also associated with significant risks and regulatory scrutiny. Advancements in [algorithmic trading](../a/algorithmic_trading.md) and fintech have made [short selling](../s/short_selling.md) more accessible and efficient, empowering traders to [leverage](../l/leverage.md) sophisticated tools and techniques. As markets continue to evolve, so [will](../w/will.md) the strategies and technologies employed in [short selling](../s/short_selling.md), ensuring its relevance in the financial ecosystem.

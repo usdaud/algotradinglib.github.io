@@ -41,15 +41,14 @@ These algorithms use statistical methods and [machine learning](../m/machine_lea
 
 ### 1. BlackRock’s Aladdin
 BlackRock's Aladdin platform is one of the most sophisticated systems for [asset management](../a/asset_management.md) and [bond](../b/bond.md) trading. It integrates [risk](../r/risk.md) analytics, [portfolio management](../p/portfolio_management.md), and trading [execution](../e/execution.md):
-[BlackRock Aladdin](https://www.blackrock.com/aladdin/products/aladdin-platform)
 
-### 2. MarkitSERV by IHS Markit
+### 2. MarkitSERV (Now part of S&P Global)
+**Note:** IHS Markit merged with S&P Global in February 2022. MarkitSERV is now part of S&P Global's offerings.
+
 MarkitSERV is a suite of services for automating the processing of [bond](../b/bond.md) trades, including [trade](../t/trade.md) confirmation, routing, and [clearing](../c/clearing.md):
-[MarkitSERV](https://ihsmarkit.com/products/markitserv.html)
 
 ### 3. Bloomberg Terminal
 The [Bloomberg](../b/bloomberg.md) Terminal offers extensive capabilities for [bond](../b/bond.md) trading, including access to real-time data, analytics, and electronic trading:
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Techniques Used in Bond Trading Algorithms
 
@@ -103,4 +102,4 @@ As computational power and data availability continue to rise, the adoption of A
 With a growing emphasis on sustainable [investing](../i/investing.md), algorithms [will](../w/will.md) increasingly incorporate ESG factors into [bond valuation](../b/bond_valuation.md) and trading decisions.
 
 ## Conclusion
-[Bond](../b/bond.md) [trading algorithms](../t/trading_algorithms.md) [offer](../o/offer.md) a blend of sophisticated [mathematical models](../m/mathematical_models_in_trading.md), [machine learning](../m/machine_learning.md) techniques, and real-time data processing to navigate the complexities of the [bond market](../b/bond_market.md). As technology continues to advance, the capabilities and applications of these algorithms are likely to expand, making them an indispensable tool in modern [financial markets](../f/financial_market.md).
+[Bond](../b/bond.md) [trading algorithms](../t/trading_algorithms.md) [offer](../o/offer.md) a blend of sophisticated [mathematical models](../m/mathematical_models_in_trading.md), [machine learning](../m/machine_learning.md) techniques, and real-time data processing to navigate the complexities of the [bond market](../b/bond_market.md). As technology continues to advance, the capabilities and applications of these algorithms are likely to expand, making them an indispensable tool in modern [financial markets](../f/financial_market.md).

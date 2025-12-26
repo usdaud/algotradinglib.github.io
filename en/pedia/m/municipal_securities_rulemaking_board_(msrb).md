@@ -16,7 +16,7 @@ The MSRB creates rules and guidelines aimed at promoting fair and equitable prac
 
 ### Market Transparency
 
-To enhance [market](../m/market.md) [transparency](../t/transparency.md), the MSRB operates the Electronic Municipal [Market](../m/market.md) Access (EMMA) website, which provides free public access to official municipal securities disclosures, [trade](../t/trade.md) data, and other critical information. EMMA serves as a centralized platform where investors and other [market](../m/market.md) participants can find comprehensive information about municipal securities.
+To enhance [market](../m/market.md) [transparency](../t/transparency.md), the MSRB operates the Electronic Municipal [Market](../m/market.md) Access (EMMA) online platform, which provides free public access to official municipal securities disclosures, [trade](../t/trade.md) data, and other critical information. EMMA serves as a centralized platform where investors and other [market](../m/market.md) participants can find comprehensive information about municipal securities.
 
 ### Professional Standards
 
@@ -48,7 +48,7 @@ Rule G-37 aims to eliminate "pay-to-play" practices by prohibiting municipal sec
 
 ### Rule G-38: Solicitation of Municipal Securities Business
 
-This rule prohibits dealers from paying any person who is not an affiliated person of the [dealer](../d/dealer.md) to solicit municipal securities [business](../b/business.md) on their behalf. 
+This rule prohibits dealers from paying any person who is not an affiliated person of the [dealer](../d/dealer.md) to solicit municipal securities [business](../b/business.md) on their behalf.
 
 ### Rule G-42: Duties of Non-Solicitor Municipal Advisors
 
@@ -103,5 +103,3 @@ The MSRB is engaging in a comprehensive review of its rules to ensure they remai
 ## Conclusion
 
 The MSRB plays a critical role in maintaining the integrity and [efficiency](../e/efficiency.md) of the municipal securities [market](../m/market.md). Through its rulemaking, educational initiatives, and commitment to [transparency](../t/transparency.md), the MSRB seeks to protect investors and promote a fair and competitive marketplace. As the [market](../m/market.md) continues to evolve, the MSRB remains at the forefront of efforts to adapt its regulations and resources to meet new challenges and opportunities.
-
-For more information, you can visit the MSRB's official website at [www.msrb.org](https://www.msrb.org).

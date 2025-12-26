@@ -12,21 +12,21 @@ Fixed-rate [payment](../p/payment.md) refers to a [payment](../p/payment.md) str
 
 Fixed-rate bonds are [debt](../d/debt.md) securities that pay a [fixed interest rate](../f/fixed_interest_rate.md) to investors at regular intervals. The [principal](../p/principal.md) amount is repaid at [maturity](../m/maturity.md). Governments and corporations commonly [issue](../i/issue.md) these types of bonds to raise [capital](../c/capital.md). The predictability of fixed [interest](../i/interest.md) payments makes these bonds appealing to [risk-averse](../r/risk-averse.md) investors. Some well-known fixed-rate [bond](../b/bond.md) examples are:
 
-- **[U.S. Treasury](../u/u.s._treasury.md) Bonds**: Issued by the U.S. Department of the Treasury. Further information can be found on [their website](https://home.treasury.gov/).
-- **Corporate Bonds**: Many companies [issue](../i/issue.md) fixed-rate bonds to [fund](../f/fund.md) [expansion](../e/expansion.md), research, and other activities. For instance, Apple frequently issues bonds, and details can often be found on their [investor relations page](https://investor.apple.com/).
+- **[U.S. Treasury](../u/u.s._treasury.md) Bonds**: Issued by the U.S. Department of the Treasury.
+- **Corporate Bonds**: Many companies [issue](../i/issue.md) fixed-rate bonds to [fund](../f/fund.md) [expansion](../e/expansion.md), research, and other activities. For instance, Apple frequently issues bonds, and details can often be found on their company filings.
 
 ### Mortgages
 
 Fixed-rate mortgages are [home](../h/home.md) loans where the [interest rate](../i/interest_rate.md) remains constant throughout the [loan](../l/loan.md) period. They are popular in various forms, including 15-year and 30-year fixed mortgages, providing homeowners with consistent [payment](../p/payment.md) amounts, which facilitates budgeting and [financial planning](../f/financial_planning.md). Leading financial institutions provide detailed information on their [mortgage](../m/mortgage.md) products:
 
-- **Wells Fargo**: Refer to their [mortgage page](https://www.wellsfargo.com/mortgage/).
-- **Quicken Loans**: Details available on their [website](https://www.quickenloans.com/).
+- **Wells Fargo**: Offers fixed-rate mortgage options.
+- **Quicken Loans**:
 
 ### Swaps
 
 [Interest rate swaps](../i/interest_rate_swaps.md) are [derivative](../d/derivative.md) contracts wherein one party exchanges a stream of future fixed-rate [interest](../i/interest.md) payments for floating-rate payments from another party. These are critical tools for managing [interest rate](../i/interest_rate.md) risks in [financial markets](../f/financial_market.md). Major banks and financial institutions like JP Morgan Chase [offer](../o/offer.md) comprehensive [swap](../s/swap.md)-related services:
 
-- **JP Morgan Chase**: More details can be found on their [corporate website](https://www.jpmorgan.com/).
+- **JP Morgan Chase**: More
 
 ## Advantages of Fixed-Rate Payments
 

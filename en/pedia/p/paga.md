@@ -92,4 +92,4 @@ Paga's future prospects are promising, given the continued growth of the fintech
 
 Paga has established itself as a pivotal player in the Nigerian fintech ecosystem, addressing critical challenges in financial access and inclusion. With its [robust](../r/robust.md) technology [infrastructure](../i/infrastructure.md), extensive agent network, and a [customer](../c/customer.md)-centric approach, Paga continues to drive financial empowerment for individuals and businesses alike. As it looks to the future, Paga’s ongoing efforts to expand its reach and diversify its product offerings [will](../w/will.md) play a crucial role in shaping the financial landscape across Africa.
 
-For more information, visit [Paga Group](https://www.mypaga.com/).
+For more information, visit Paga Group.

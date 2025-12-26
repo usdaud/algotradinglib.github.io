@@ -91,7 +91,7 @@ High R² values indicate that the model explains a large portion of the variance
 
 ### Model Validation and Selection
 
-Before deploying an [algorithmic trading](../a/accountability.md) model, it is necessary to validate its effectiveness. Goodness-of-fit measures help in selecting the appropriate model by quantifying the fit between the model predictions and actual [market](../m/market.md) data. For instance, traders can compare [multiple](../m/multiple.md) models using AIC or BIC and select the one with the lowest criterion [value](../v/value.md). This approach ensures that the chosen model balances complexity and fit adequately.
+Before deploying an [algorithmic trading](../a/algorithmic_trading.md) model, it is necessary to validate its effectiveness. Goodness-of-fit measures help in selecting the appropriate model by quantifying the fit between the model predictions and actual [market](../m/market.md) data. For instance, traders can compare [multiple](../m/multiple.md) models using AIC or BIC and select the one with the lowest criterion [value](../v/value.md). This approach ensures that the chosen model balances complexity and fit adequately.
 
 ### Risk Management
 

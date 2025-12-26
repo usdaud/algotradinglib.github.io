@@ -5,12 +5,12 @@
 ### Key Concepts in Vertical Spreads
 
 1. **Long [Vertical Spread](../v/vertical_spread.md)**: Involves buying an option at one [strike price](../s/strike_price.md) while simultaneously selling another option of the same class at a different [strike price](../s/strike_price.md). The main types are:
-   - **[Bull Call Spread](../b/bull_call_spread.md)**: Long call at lower [strike price](../s/strike_price.md) and [short call](../s/short_call.md) at higher [strike price](../s/strike_price.md).
-   - **[Bear Put Spread](../b/bear_put_spread.md)**: [Long put](../l/long_put.md) at higher [strike price](../s/strike_price.md) and [short put](../s/short_put.md) at lower [strike price](../s/strike_price.md).
+ - **[Bull Call Spread](../b/bull_call_spread.md)**: Long call at lower [strike price](../s/strike_price.md) and [short call](../s/short_call.md) at higher [strike price](../s/strike_price.md).
+ - **[Bear Put Spread](../b/bear_put_spread.md)**: [Long put](../l/long_put.md) at higher [strike price](../s/strike_price.md) and [short put](../s/short_put.md) at lower [strike price](../s/strike_price.md).
 
 2. **Short [Vertical Spread](../v/vertical_spread.md)**: In other words, [credit](../c/credit.md) [spreads](../s/spreads.md), which include:
-   - **[Bear Call Spread](../b/bear_call_spread.md)**: [Short call](../s/short_call.md) at lower [strike price](../s/strike_price.md) and long call at higher [strike price](../s/strike_price.md).
-   - **[Bull Put Spread](../b/bull_put_spread.md)**: [Short put](../s/short_put.md) at higher [strike price](../s/strike_price.md) and [long put](../l/long_put.md) at lower [strike price](../s/strike_price.md).
+ - **[Bear Call Spread](../b/bear_call_spread.md)**: [Short call](../s/short_call.md) at lower [strike price](../s/strike_price.md) and long call at higher [strike price](../s/strike_price.md).
+ - **[Bull Put Spread](../b/bull_put_spread.md)**: [Short put](../s/short_put.md) at higher [strike price](../s/strike_price.md) and [long put](../l/long_put.md) at lower [strike price](../s/strike_price.md).
 
 ### Advantages of Vertical Spread Combinations
 
@@ -22,28 +22,28 @@
 ### Types of Vertical Spreads
 
 1. **[Bull Call Spread](../b/bull_call_spread.md)**
-   - **Setup**: Buy a [call option](../c/call_option.md) with a lower [strike price](../s/strike_price.md) and sell another [call option](../c/call_option.md) with a higher [strike price](../s/strike_price.md), both expiring on the same date.
-   - **[Market](../m/market.md) Outlook**: Moderately bullish
-   - **Max [Profit](../p/profit.md)**: Difference in strike prices - [net premium](../n/net_premium.md) paid
-   - **Max Loss**: [Net premium](../n/net_premium.md) paid
+ - **Setup**: Buy a [call option](../c/call_option.md) with a lower [strike price](../s/strike_price.md) and sell another [call option](../c/call_option.md) with a higher [strike price](../s/strike_price.md), both expiring on the same date.
+ - **[Market](../m/market.md) Outlook**: Moderately bullish
+ - **Max [Profit](../p/profit.md)**: Difference in strike prices - [net premium](../n/net_premium.md) paid
+ - **Max Loss**: [Net premium](../n/net_premium.md) paid
 
 2. **[Bear Put Spread](../b/bear_put_spread.md)**
-   - **Setup**: Buy a [put option](../p/put.md) with a higher [strike price](../s/strike_price.md) and sell another [put option](../p/put.md) with a lower [strike price](../s/strike_price.md), both expiring on the same date.
-   - **[Market](../m/market.md) Outlook**: Moderately bearish
-   - **Max [Profit](../p/profit.md)**: Difference in strike prices - [net premium](../n/net_premium.md) paid
-   - **Max Loss**: [Net premium](../n/net_premium.md) paid
+ - **Setup**: Buy a [put option](../p/put.md) with a higher [strike price](../s/strike_price.md) and sell another [put option](../p/put.md) with a lower [strike price](../s/strike_price.md), both expiring on the same date.
+ - **[Market](../m/market.md) Outlook**: Moderately bearish
+ - **Max [Profit](../p/profit.md)**: Difference in strike prices - [net premium](../n/net_premium.md) paid
+ - **Max Loss**: [Net premium](../n/net_premium.md) paid
 
 3. **[Bear Call Spread](../b/bear_call_spread.md)**
-   - **Setup**: Sell a [call option](../c/call_option.md) with a lower [strike price](../s/strike_price.md) and buy another [call option](../c/call_option.md) with a higher [strike price](../s/strike_price.md), both expiring on the same date.
-   - **[Market](../m/market.md) Outlook**: Moderately bearish
-   - **Max [Profit](../p/profit.md)**: [Net premium](../n/net_premium.md) received
-   - **Max Loss**: Difference in strike prices - [net premium](../n/net_premium.md) received
+ - **Setup**: Sell a [call option](../c/call_option.md) with a lower [strike price](../s/strike_price.md) and buy another [call option](../c/call_option.md) with a higher [strike price](../s/strike_price.md), both expiring on the same date.
+ - **[Market](../m/market.md) Outlook**: Moderately bearish
+ - **Max [Profit](../p/profit.md)**: [Net premium](../n/net_premium.md) received
+ - **Max Loss**: Difference in strike prices - [net premium](../n/net_premium.md) received
 
 4. **[Bull Put Spread](../b/bull_put_spread.md)**
-   - **Setup**: Sell a [put option](../p/put.md) with a higher [strike price](../s/strike_price.md) and buy another [put option](../p/put.md) with a lower [strike price](../s/strike_price.md), both expiring on the same date.
-   - **[Market](../m/market.md) Outlook**: Moderately bullish
-   - **Max [Profit](../p/profit.md)**: [Net premium](../n/net_premium.md) received
-   - **Max Loss**: Difference in strike prices - [net premium](../n/net_premium.md) received
+ - **Setup**: Sell a [put option](../p/put.md) with a higher [strike price](../s/strike_price.md) and buy another [put option](../p/put.md) with a lower [strike price](../s/strike_price.md), both expiring on the same date.
+ - **[Market](../m/market.md) Outlook**: Moderately bullish
+ - **Max [Profit](../p/profit.md)**: [Net premium](../n/net_premium.md) received
+ - **Max Loss**: Difference in strike prices - [net premium](../n/net_premium.md) received
 
 ### Implementation in Algorithmic Trading
 
@@ -79,8 +79,8 @@ The [net premium](../n/net_premium.md) paid would be $3 ($5 - $2). The possible 
 [Vertical spread](../v/vertical_spread.md) combinations are potent tools in an algorithmic [trader](../t/trader.md)'s toolkit due to their defined outcomes, limited [risk](../r/risk.md), and flexibility. They cater to traders with moderate directional views and those looking to optimize [capital](../c/capital.md) [efficiency](../e/efficiency.md). Moreover, implementing these strategies algorithmically can enhance precision, reduce [execution](../e/execution.md) times, and potentially improve profitability through [systematic trading](../s/systematic_trading.md) methods.
 
 **Further Reading & Resources:**
-- [CME Group: Options on Futures](https://www.cmegroup.com/trading/options-of-futures.html)
-- [Nasdaq: Options Trading](https://www.nasdaq.com/solutions/options)
-- [Interactive Brokers: Options](https://www.interactivebrokers.com/en/index.php?f=4985)
+- CME Group: Options on Futures
+- Nasdaq: Options Trading
+- Interactive Brokers: Options
 
 For in-depth learning and real-time examples, traders and developers often refer to advanced trading platforms and financial research publications. Additionally, engaging in communities and forums can provide insight and strategies shared by experienced algorithmic traders.

@@ -32,7 +32,7 @@ The methodologies used in worst-case [scenario analysis](../s/scenario_analysis.
 
 ### Value-at-Risk (VaR)
 
-VaR is a statistical technique used to measure the [risk](../r/risk.md) of loss for investments. It estimates the maximum loss that a portfolio could face over a specified time period, given a certain confidence level. 
+VaR is a statistical technique used to measure the [risk](../r/risk.md) of loss for investments. It estimates the maximum loss that a portfolio could face over a specified time period, given a certain confidence level.
 
 #### Types of VaR
 
@@ -44,7 +44,7 @@ VaR is a statistical technique used to measure the [risk](../r/risk.md) of loss 
 
 [Drawdown analysis](../d/drawdown_analysis.md) focuses on the peak-to-[trough](../t/trough.md) decline in the [value](../v/value.md) of a trading algorithm’s portfolio. Understanding the maximum [drawdown](../d/drawdown.md) can help traders set appropriate stop-loss limits and [capital allocation](../c/capital_allocation.md) strategies.
 
-## Implementation of Worst-Case Scenario Analysis in Algorithmic Trading 
+## Implementation of Worst-Case Scenario Analysis in Algorithmic Trading
 
 ### Data Collection and Preparation
 
@@ -77,21 +77,21 @@ Worst-case [scenario analysis](../s/scenario_analysis.md) is not a one-time [exe
 
 ### Case Study 1: Citadel Securities
 
-Citadel Securities is one of the world's leading [market](../m/market.md) makers, renowned for its use of sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) employs extensive worst-case [scenario analysis](../s/scenario_analysis.md) to manage [risk](../r/risk.md) effectively. By continuously simulating worst-case conditions and applying rigorous stress tests, Citadel ensures its [trading algorithms](../t/trading_algorithms.md) remain [robust](../r/robust.md) even in the most volatile markets. 
+Citadel Securities is one of the world's leading [market](../m/market.md) makers, renowned for its use of sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) employs extensive worst-case [scenario analysis](../s/scenario_analysis.md) to manage [risk](../r/risk.md) effectively. By continuously simulating worst-case conditions and applying rigorous stress tests, Citadel ensures its [trading algorithms](../t/trading_algorithms.md) remain [robust](../r/robust.md) even in the most volatile markets.
 
-For more information, visit Citadel Securities: [Citadel](https://www.citadelsecurities.com/)
+For more information, visit Citadel Securities: Citadel
 
 ### Case Study 2: Renaissance Technologies
 
 Renaissance Technologies is a pioneering [hedge fund](../h/hedge_fund.md) known for its [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) has a long-standing tradition of employing worst-case [scenario analysis](../s/scenario_analysis.md) to protect its Medallion [Fund](../f/fund.md), which has boasted unparalleled returns. By leveraging advanced statistical models and simulations, Renaissance Technologies continuously assesses and mitigates potential risks.
 
-Learn more about Renaissance Technologies: [Renaissance Technologies](https://www.rentec.com/)
+Learn more about Renaissance Technologies: Renaissance Technologies
 
 ### Case Study 3: Two Sigma
 
 Two Sigma is another major player in the [algorithmic trading](../a/algorithmic_trading.md) space, using [data science](../d/data_science_in_trading.md) and technology to drive its investment strategies. The [firm](../f/firm.md) places a strong emphasis on [risk management](../r/risk_management.md), utilizing worst-case [scenario analysis](../s/scenario_analysis.md) to anticipate and prepare for extreme [market](../m/market.md) conditions. This proactive approach has helped Two Sigma maintain stability and performance throughout [market](../m/market.md) fluctuations.
 
-Further details are available at Two Sigma: [Two Sigma](https://www.twosigma.com/)
+Further details are available at Two Sigma: Two Sigma
 
 ## Challenges in Worst-Case Scenario Analysis
 

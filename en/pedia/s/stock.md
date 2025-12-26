@@ -121,11 +121,11 @@ With the advent of electronic trading platforms, trading stocks has become more 
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to execute trades at high speeds and frequencies. This form of trading is prevalent among institutional investors who seek to [capitalize](../c/capitalize.md) on small price inefficiencies. Learn more at [Two Sigma](https://www.twosigma.com).
+[Algorithmic trading](../a/algorithmic_trading.md) uses complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to execute trades at high speeds and frequencies. This form of trading is prevalent among institutional investors who seek to [capitalize](../c/capitalize.md) on small price inefficiencies. Learn more at Two Sigma.
 
 ### High-Frequency Trading (HFT)
 
-HFT is a subset of [algorithmic trading](../a/accountability.md) that involves executing a large number of orders at exceptionally high speeds. This strategy exploits small price differences and requires significant technological [infrastructure](../i/infrastructure.md).
+HFT is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing a large number of orders at exceptionally high speeds. This strategy exploits small price differences and requires significant technological [infrastructure](../i/infrastructure.md).
 
 ### Robo-Advisors
 

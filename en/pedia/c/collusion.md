@@ -4,13 +4,13 @@
 
 ## What is Collusion?
 
-Collusion is the act of two or more parties working together secretly to deceive others, particularly to create an unfair advantage in a [market](../m/market.md) or a competitive setting. This deceit can take numerous forms, such as price-fixing, [bid](../b/bid.md)-rigging, or [market manipulation](../m/market_manipulation.md). In the context of [algorithmic trading](../a/accountability.md), collusion is particularly insidious as it can occur at a scale and speed that makes detection difficult. 
+Collusion is the act of two or more parties working together secretly to deceive others, particularly to create an unfair advantage in a [market](../m/market.md) or a competitive setting. This deceit can take numerous forms, such as price-fixing, [bid](../b/bid.md)-rigging, or [market manipulation](../m/market_manipulation.md). In the context of [algorithmic trading](../a/accountability.md), collusion is particularly insidious as it can occur at a scale and speed that makes detection difficult.
 
 ## Forms of Collusion in Algorithmic Trading
 
 ### 1. Price-Fixing
 
-Price-fixing occurs when competitors agree on pricing strategies instead of letting [market dynamics](../m/market_dynamics.md) set prices. In [algorithmic trading](../a/accountability.md), this could involve trading bots programmed to maintain prices at artificially high or low levels. 
+Price-fixing occurs when competitors agree on pricing strategies instead of letting [market dynamics](../m/market_dynamics.md) set prices. In [algorithmic trading](../a/accountability.md), this could involve trading bots programmed to maintain prices at artificially high or low levels.
 
 ### 2. Bid-Rigging
 
@@ -45,9 +45,9 @@ The London Interbank Offered Rate (Libor) scandal involved major financial insti
 
 ### 2. Foreign Exchange Market Manipulation
 
-In 2013, several major banks were investigated and fined for colluding to manipulate [foreign exchange](../f/foreign_exchange.md) rates. Traders used private chat rooms to discuss and set prices for specific currencies. 
+In 2013, several major banks were investigated and fined for colluding to manipulate [foreign exchange](../f/foreign_exchange.md) rates. Traders used private chat rooms to discuss and set prices for specific currencies.
 
-For example, JPMorgan Chase (https://www.jpmorganchase.com) and Citigroup (https://www.citigroup.com) were among the institutions fined for their involvement.
+For example, JPMorgan Chase and Citigroup were among the institutions fined for their involvement.
 
 ## Legal and Regulatory Framework
 
@@ -57,7 +57,7 @@ For example, JPMorgan Chase (https://www.jpmorganchase.com) and Citigroup (https
 
 The Sherman Act:
 - Prohibits explicit collusion and conspiracy to restrain [trade](../t/trade.md).
-  
+
 The Clayton Act:
 - Addresses specific practices that the Sherman Act does not specifically prohibit.
 
@@ -65,8 +65,8 @@ The Clayton Act:
 
 Numerous regulatory bodies across the globe oversee and regulate trading practices to prevent collusion. Notable organizations include:
 
-- **The Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: The SEC regulates securities markets in the United States and enforces laws against [market manipulation](../m/market_manipulation.md) (https://www.sec.gov).
-- **The [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: The CFTC oversees [futures](../f/futures.md) and [options](../o/options.md) markets and imposes sanctions for collusion and [market manipulation](../m/market_manipulation.md) (https://www.cftc.gov).
+- **The Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: The SEC regulates securities markets in the United States and enforces laws against [market manipulation](../m/market_manipulation.md) (
+- **The [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: The CFTC oversees [futures](../f/futures.md) and [options](../o/options.md) markets and imposes sanctions for collusion and [market manipulation](../m/market_manipulation.md) (
 
 ### Technical Solutions for Detection
 
@@ -74,7 +74,7 @@ Given the speed and complexity of [algorithmic trading](../a/accountability.md),
 
 - **[Market](../m/market.md) Surveillance Systems**: Advanced [software platforms](../s/software_platforms_for_trading.md) can analyze trading patterns in real-time, identifying anomalies indicative of collusion.
 - **[Machine Learning](../m/machine_learning.md) and AI**: Algorithms can use [machine learning](../m/machine_learning.md) models to detect suspicious trading activities by identifying patterns that defy typical [market](../m/market.md) behavior.
-  
+
 ## Ethical Considerations
 
 Collusion in [algorithmic trading](../a/accountability.md) not only breaks laws but also erodes the ethical foundations of [financial markets](../f/financial_market.md). [Trust](../t/trust.md) and fairness are critical for the functioning of markets, and collusion undermines these principles. Companies have ethical [obligations](../o/obligation.md) to ensure their [trading algorithms](../t/trading_algorithms.md) do not engage in collusive behaviors.

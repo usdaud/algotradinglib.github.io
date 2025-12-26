@@ -39,5 +39,3 @@ Charles Schwab integrates with a variety of financial platforms and tools to enh
 - **[Wealth Management](../w/wealth_management.md)**: Supports [wealth management](../w/wealth_management.md) clients with personalized investment strategies and [portfolio management](../p/portfolio_management.md).
 - **Automated [Investing](../i/investing.md)**: Offers automated [investment management](../i/investment_management.md) through robo-advisory services for hands-off investors.
 
-## Website
-For more information and to explore Charles Schwab’s services, visit the official Charles Schwab website: [Charles Schwab](https://www.schwab.com)

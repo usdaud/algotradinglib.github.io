@@ -11,17 +11,17 @@ Voting [shares](../s/shares.md) are fundamental instruments in the corporate wor
 In the realm of [corporate finance](../c/corporate_finance.md), there are different types of [shares](../s/shares.md):
 
 1. **Voting [Shares](../s/shares.md) (Common or Ordinary [Shares](../s/shares.md)):**
-    - Provide shareholders with the right to vote.
-    - Typically, one vote per share.
-    - Entitles shareholders to dividends, if declared, and residual claim over assets in the event of [liquidation](../l/liquidation.md).
+ - Provide shareholders with the right to vote.
+ - Typically, one vote per share.
+ - Entitles shareholders to dividends, if declared, and residual claim over assets in the event of [liquidation](../l/liquidation.md).
 
 2. **Non-Voting [Shares](../s/shares.md):**
-    - Do not carry voting rights.
-    - Often have higher [dividend](../d/dividend.md) rights or other financial benefits to compensate for the lack of voting power.
+ - Do not carry voting rights.
+ - Often have higher [dividend](../d/dividend.md) rights or other financial benefits to compensate for the lack of voting power.
 
 3. **Preferred [Shares](../s/shares.md):**
-    - Generally, do not provide voting rights.
-    - Have fixed dividends and priority over common [shares](../s/shares.md) in terms of [dividend](../d/dividend.md) payments and claim over assets upon [liquidation](../l/liquidation.md).
+ - Generally, do not provide voting rights.
+ - Have fixed dividends and priority over common [shares](../s/shares.md) in terms of [dividend](../d/dividend.md) payments and claim over assets upon [liquidation](../l/liquidation.md).
 
 ### Importance of Voting Shares
 
@@ -44,15 +44,15 @@ The mechanics of how voting [shares](../s/shares.md) influence [corporate govern
 
 ### Alphabet Inc. (Google)
 
-Alphabet Inc., the [parent company](../p/parent_company.md) of Google, employs a dual-class share structure. Class A [shares](../s/shares.md) (GOOGL) are publicly traded and come with one vote per share. Class B [shares](../s/shares.md) are held by insiders and come with ten votes per share, allowing founders Sergey Brin and Larry Page to maintain control over the company. [Alphabet's Investor Relations](https://abc.xyz/investor/)
+Alphabet Inc., the [parent company](../p/parent_company.md) of Google, employs a dual-class share structure. Class A [shares](../s/shares.md) (GOOGL) are publicly traded and come with one vote per share. Class B [shares](../s/shares.md) are held by insiders and come with ten votes per share, allowing founders Sergey Brin and Larry Page to maintain control over the company. Alphabet's company filings
 
 ### Facebook, Inc.
 
-Facebook (now Meta Platforms, Inc.) also follows a dual-class share structure. Class A [shares](../s/shares.md) (FB) have one vote per share, while Class B [shares](../s/shares.md), generally held by [Mark Zuckerberg](../m/mark_zuckerberg.md) and other insiders, have ten votes per share, granting them significant control over corporate decisions. [Meta Platforms Investor Relations](https://investor.fb.com/home/default.aspx)
+Facebook (now Meta Platforms, Inc.) also follows a dual-class share structure. Class A [shares](../s/shares.md) (FB) have one vote per share, while Class B [shares](../s/shares.md), generally held by [Mark Zuckerberg](../m/mark_zuckerberg.md) and other insiders, have ten votes per share, granting them significant control over corporate decisions. Meta Platforms company filings
 
 ### Berkshire Hathaway
 
-[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, has both Class A (BRK.A) and Class B (BRK.B) [shares](../s/shares.md). Class A [shares](../s/shares.md) have significantly more voting power than Class B [shares](../s/shares.md), with each Class A share convertible into 1,500 Class B [shares](../s/shares.md). [Berkshire Hathaway Investor Relations](https://www.berkshirehathaway.com/)
+[Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, has both Class A (BRK.A) and Class B (BRK.B) [shares](../s/shares.md). Class A [shares](../s/shares.md) have significantly more voting power than Class B [shares](../s/shares.md), with each Class A share convertible into 1,500 Class B [shares](../s/shares.md). Berkshire Hathaway company filings
 
 ## Implementation in Trading and Investing
 

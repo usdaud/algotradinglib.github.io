@@ -39,4 +39,3 @@ A **Note** is a [financial instrument](../f/financial_instrument.md) that signif
 
 ## Conclusion
 Notes are versatile financial instruments used to formalize the terms of a [loan](../l/loan.md) or [debt](../d/debt.md) agreement between parties. They provide a clear and legally enforceable promise to pay a specified amount of [money](../m/money.md) at a future date or on [demand](../d/demand.md). Understanding the key components, types, importance, and [best practices](../b/best_practices.md) associated with notes can help individuals and businesses effectively manage their financial transactions and mitigate risks.
-

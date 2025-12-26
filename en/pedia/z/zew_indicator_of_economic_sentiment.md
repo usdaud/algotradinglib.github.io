@@ -88,4 +88,3 @@ The ZEW [Indicator](../i/indicator.md) is often compared with other sentiment an
 
 The ZEW [Indicator](../i/indicator.md) of Economic Sentiment is a key tool in the toolbox of financial analysts, investors, and policymakers. It provides a snapshot of economic expectations from the perspective of financial experts, [offering](../o/offering.md) valuable foresight into potential economic developments. While it has its limitations, its strengths as a [leading indicator](../l/leading_indicator.md) make it an essential part of the economic analysis landscape, particularly in assessing the future trajectory of the German [economy](../e/economy.md).
 
-For more information on ZEW and their research, visit their official website: [ZEW - Leibniz Centre for European Economic Research](https://www.zew.de/en).

@@ -73,13 +73,13 @@ The put-call [parity](../p/parity.md) relationship is a fundamental part of [opt
 Leading financial institutions and trading firms implement put-call [parity](../p/parity.md) in their [algorithmic trading](../a/algorithmic_trading.md) platforms. Below are some examples:
 
 - **Jane Street**: Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that leverages sophisticated models incorporating principles like put-call [parity](../p/parity.md).
-  Visit: [Jane Street Website](https://www.janestreet.com/)
+ Visit:
 
 - **Two Sigma**: Two Sigma’s technology-driven [trading strategies](../t/trading_strategies.md) rely heavily on mathematical principles including put-call [parity](../p/parity.md).
-  Visit: [Two Sigma Website](https://www.twosigma.com/)
+ Visit:
 
 - **Citadel Securities**: Citadel employs a [range](../r/range.md) of statistical and computational techniques to maintain [market efficiency](../m/market_efficiency.md), reflecting a deep understanding of concepts like put-call [parity](../p/parity.md).
-  Visit: [Citadel Securities Website](https://www.citadelsecurities.com/)
+ Visit:
 
 ## Challenges and Limitations
 
@@ -91,4 +91,3 @@ While put-call [parity](../p/parity.md) is a [robust](../r/robust.md) principle,
 ## Conclusion
 
 Put-call [parity](../p/parity.md) is integral to the framework of modern [options](../o/options.md) trading and [algorithmic trading](../a/algorithmic_trading.md) strategies. By understanding and applying this principle, traders can enhance their ability to identify [arbitrage](../a/arbitrage.md) opportunities, develop effective [hedging strategies](../h/hedging_strategies.md), and ensure accurate [options](../o/options.md) pricing. Despite practical challenges, the theoretical foundation of put-call [parity](../p/parity.md) continues to play a pivotal role in the sophisticated landscape of [algorithmic trading](../a/algorithmic_trading.md).
-

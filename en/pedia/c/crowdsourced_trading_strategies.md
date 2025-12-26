@@ -34,19 +34,19 @@ Crowdsourcing in [trading strategies](../t/trading_strategies.md) typically invo
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com) is a prominent platform that offers a collaborative environment for algorithmic traders to develop, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) provides access to extensive historical [market](../m/market.md) data, a cloud-based IDE, and integration with brokerage accounts for live trading. The platform also hosts competitions and challenges, encouraging community members to create and share innovative strategies.
+QuantConnect is a prominent platform that offers a collaborative environment for algorithmic traders to develop, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) provides access to extensive historical [market](../m/market.md) data, a cloud-based IDE, and integration with brokerage accounts for live trading. The platform also hosts competitions and challenges, encouraging community members to create and share innovative strategies.
 
 ### Numerai
 
-[Numerai](https://numer.ai) is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) models submitted by a global network of data scientists. Numerai disguises its trading data and provides it to participants who develop [predictive models](../p/predictive_models_in_trading.md). The best-performing models are then pooled together to inform the [hedge fund](../h/hedge_fund.md)'s trading decisions. Numerai rewards contributors with cryptocurrency tokens based on the performance of their models.
+Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) models submitted by a global network of data scientists. Numerai disguises its trading data and provides it to participants who develop [predictive models](../p/predictive_models_in_trading.md). The best-performing models are then pooled together to inform the [hedge fund](../h/hedge_fund.md)'s trading decisions. Numerai rewards contributors with cryptocurrency tokens based on the performance of their models.
 
 ### Collective2
 
-[Collective2](https://www.collective2.com/) is a marketplace where traders can publish their [trading strategies](../t/trading_strategies.md) and attract subscribers. Investors can browse and subscribe to various strategies, which are automatically executed in their brokerage accounts. Collective2 provides [performance metrics](../p/performance_metrics.md) and [risk](../r/risk.md) assessments to help investors make informed decisions.
+Collective2 is a marketplace where traders can publish their [trading strategies](../t/trading_strategies.md) and attract subscribers. Investors can browse and subscribe to various strategies, which are automatically executed in their brokerage accounts. Collective2 provides [performance metrics](../p/performance_metrics.md) and [risk](../r/risk.md) assessments to help investors make informed decisions.
 
 ### Quantiacs
 
-[Quantiacs](https://www.quantiacs.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that focuses on connecting quantitative traders with investors. Quantiacs organizes contests where participants develop and backtest [trading algorithms](../t/trading_algorithms.md) using provided data sets. The winning strategies receive funding from institutional investors, and creators earn performance-based rewards.
+Quantiacs is an [algorithmic trading](../a/algorithmic_trading.md) platform that focuses on connecting quantitative traders with investors. Quantiacs organizes contests where participants develop and backtest [trading algorithms](../t/trading_algorithms.md) using provided data sets. The winning strategies receive funding from institutional investors, and creators earn performance-based rewards.
 
 ## Case Studies
 
@@ -78,4 +78,4 @@ As crowdsourced trading becomes more prevalent, regulatory bodies are likely to 
 
 Crowdsourced [trading strategies](../t/trading_strategies.md) represent a paradigm shift in the development and implementation of [trading algorithms](../t/trading_algorithms.md). By harnessing the collective intelligence of a diverse and global community, these approaches aim to discover innovative and effective trading solutions that might otherwise be overlooked. While there are challenges to address, the potential benefits make crowdsourced trading a compelling and rapidly growing field within the financial [industry](../i/industry.md).
 
-As technology continues to advance and the financial landscape evolves, the role of crowdsourcing in [trading strategy](../t/trading_strategy.md) development is expected to expand, [offering](../o/offering.md) new opportunities for both traders and investors. Through collaboration, [transparency](../t/transparency.md), and innovation, crowdsourced [trading strategies](../t/trading_strategies.md) are set to redefine the future of [financial markets](../f/financial_market.md).
+As technology continues to advance and the financial landscape evolves, the role of crowdsourcing in [trading strategy](../t/trading_strategy.md) development is expected to expand, [offering](../o/offering.md) new opportunities for both traders and investors. Through collaboration, [transparency](../t/transparency.md), and innovation, crowdsourced [trading strategies](../t/trading_strategies.md) are set to redefine the future of [financial markets](../f/financial_market.md).

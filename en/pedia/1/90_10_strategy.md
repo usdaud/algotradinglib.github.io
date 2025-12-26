@@ -71,7 +71,7 @@ Effective [risk management](../r/risk_management.md) is crucial for the success 
 
 ### Example 1: QuantInsti's 90/10 Strategy
 
-QuantInsti offers educational resources and strategies for [algorithmic trading](../a/algorithmic_trading.md), including the 90/10 strategy. They emphasize the importance of data analysis, algorithmic design, and [risk management](../r/risk_management.md) in executing successful 90/10 strategies. More details can be found on their [website](https://www.quantinsti.com/).
+QuantInsti offers educational resources and strategies for [algorithmic trading](../a/algorithmic_trading.md), including the 90/10 strategy. They emphasize the importance of data analysis, algorithmic design, and [risk management](../r/risk_management.md) in executing successful 90/10 strategies. More
 
 ### Example 2: Proprietary Trading Firms
 
@@ -81,4 +81,4 @@ QuantInsti offers educational resources and strategies for [algorithmic trading]
 
 The 90/10 strategy in [algorithmic trading](../a/algorithmic_trading.md) offers a balanced approach to [risk](../r/risk.md) and reward. By allocating 90% of the [capital](../c/capital.md) to low-[risk](../r/risk.md), high-certainty trades and 10% to high-[risk](../r/risk.md), high-reward trades, traders can achieve consistent returns while still capturing significant gains from speculative opportunities. Effective implementation of this strategy requires [robust](../r/robust.md) [algorithm design](../a/algorithm_design.md), rigorous [backtesting](../b/backtesting.md), and proactive [risk management](../r/risk_management.md).
 
-The evolution of [algorithmic trading](../a/algorithmic_trading.md) and advancements in AI and [machine learning](../m/machine_learning.md) continue to enhance the success of strategies like the 90/10 approach. As traders and firms adapt to changing [market](../m/market.md) conditions, the 90/10 strategy remains an essential part of the [algorithmic trading](../a/algorithmic_trading.md) toolkit.
+The evolution of [algorithmic trading](../a/algorithmic_trading.md) and advancements in AI and [machine learning](../m/machine_learning.md) continue to enhance the success of strategies like the 90/10 approach. As traders and firms adapt to changing [market](../m/market.md) conditions, the 90/10 strategy remains an essential part of the [algorithmic trading](../a/algorithmic_trading.md) toolkit.

@@ -11,28 +11,28 @@
 [Equity](../e/equity.md) scanners are designed to monitor stock markets and identify potential trading opportunities in individual [stocks](../s/stock.md). These scanners analyze various parameters like price movements, [volume](../v/volume.md) changes, [technical indicators](../t/technical_indicators.md), and fundamental metrics to generate [trading signals](../t/trading_signals.md).
 
 #### Example: Finviz
-Finviz is a popular [equity](../e/equity.md) scanner that provides a wide [range](../r/range.md) of scanning capabilities based on technical and fundamental criteria. [Finviz](https://finviz.com)
+Finviz is a popular [equity](../e/equity.md) scanner that provides a wide [range](../r/range.md) of scanning capabilities based on technical and fundamental criteria. Finviz
 
 ### 2. Forex Scanners
 
 Forex scanners focus on the [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md), scanning [currency](../c/currency.md) pairs to identify [arbitrage](../a/arbitrage.md) opportunities, [trend](../t/trend.md) reversals, and other [trading signals](../t/trading_signals.md). They typically analyze factors such as [exchange](../e/exchange.md) rates, [interest](../i/interest.md) rates, and [geopolitical events](../g/geopolitical_events.md).
 
 #### Example: Forex Factory
-Forex Factory offers a comprehensive forex scanner that tracks [currency](../c/currency.md) pairs and provides real-time [market](../m/market.md) analysis. [Forex Factory](https://www.forexfactory.com)
+Forex Factory offers a comprehensive forex scanner that tracks [currency](../c/currency.md) pairs and provides real-time [market](../m/market.md) analysis. Forex Factory
 
 ### 3. Options Scanners
 
 [Options](../o/options.md) scanners are used to analyze [options](../o/options.md) markets and help traders identify potential opportunities in [options](../o/options.md) contracts. These scanners consider factors such as [options](../o/options.md) [volume](../v/volume.md), [open interest](../o/open_interest.md), strike prices, and implied [volatility](../v/volatility.md).
 
 #### Example: OptionsPlay
-OptionsPlay provides an advanced [options](../o/options.md) scanning platform that helps traders find optimal [options](../o/options.md) strategies. [OptionsPlay](https://www.optionsplay.com)
+OptionsPlay provides an advanced [options](../o/options.md) scanning platform that helps traders find optimal [options](../o/options.md) strategies. OptionsPlay
 
 ### 4. Cryptocurrency Scanners
 
 With the rise of cryptocurrency trading, dedicated cryptocurrency scanners have emerged to monitor digital assets across [multiple](../m/multiple.md) exchanges. These scanners track price movements, trading volumes, [social media](../s/social_media.md) mentions, and [blockchain](../b/blockchain_in_trading.md) data to generate [trading signals](../t/trading_signals.md).
 
 #### Example: Coinigy
-Coinigy offers a [robust](../r/robust.md) cryptocurrency scanner that integrates with [multiple](../m/multiple.md) exchanges to provide [real-time market data](../r/real-time_market_data.md) and analytics. [Coinigy](https://www.coinigy.com)
+Coinigy offers a [robust](../r/robust.md) cryptocurrency scanner that integrates with [multiple](../m/multiple.md) exchanges to provide [real-time market data](../r/real-time_market_data.md) and analytics. Coinigy
 
 ## Functionality of Market Scanners
 

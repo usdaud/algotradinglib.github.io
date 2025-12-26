@@ -53,9 +53,9 @@ High-Frequency Trading firms [leverage](../l/leverage.md) X-[Variance Analysis](
 
 Several companies provide tools and services dedicated to advanced [variance analysis](../v/variance_analysis.md) in [financial markets](../f/financial_market.md). Some of these are:
 
-- **[QuantConnect](../q/quantconnect.md)**: A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) solutions. [QuantConnect](https://www.quantconnect.com/)
-- **Kensho Technologies**: Known for their AI-powered analytics and financial intelligence solutions. [Kensho](https://www.kensho.com/)
-- **Two Sigma**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages cutting-edge technology and [data science](../d/data_science_in_trading.md) for [alpha generation](../a/alpha_generation.md). [Two Sigma](https://www.twosigma.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) solutions. QuantConnect
+- **Kensho Technologies**: Known for their AI-powered analytics and financial intelligence solutions. Kensho
+- **Two Sigma**: An [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages cutting-edge technology and [data science](../d/data_science_in_trading.md) for [alpha generation](../a/alpha_generation.md). Two Sigma
 
 ## Conclusion
 

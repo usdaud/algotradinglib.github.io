@@ -66,19 +66,17 @@ Before implementing an ESOP, companies typically conduct a [feasibility study](.
 
 Publix Super Markets is one of the largest employee-owned companies in the United States. The company has an extensive ESOP as part of its employee benefits program, contributing to its reputation as a great place to work.
 
-[Publix Super Markets](https://corporate.publix.com)
 
 ### W.L. Gore & Associates
 
 W.L. Gore & Associates, known for its Gore-Tex fabrics, has had an ESOP since its early days. The company's employee-centric culture is partly attributed to the incentives created by its ESOP.
 
-[W.L. Gore & Associates](https://www.gore.com)
+W.L. Gore & Associates
 
 ### Recology
 
 Recology is an integrated resource recovery company that provides waste management services. Its commitment to sustainability and employee ownership has been recognized through its successful ESOP structure.
 
-[Recology](https://www.recology.com)
 
 ## Tax Considerations and Benefits
 
@@ -104,7 +102,7 @@ The company's [financial health](../f/financial_health.md) is critical to the su
 
 Setting up and maintaining an ESOP can be complex and costly. Companies need to navigate legal, financial, and administrative hurdles, which can be burdensome without appropriate expertise.
 
-### Employee Understanding 
+### Employee Understanding
 
 Employees must understand how the ESOP works to fully appreciate its benefits. Lack of understanding can lead to misunderstandings and disillusionment.
 

@@ -38,7 +38,7 @@ Ensuring that the tax systems are transparent and fair instills confidence in th
 ## Impact on Algotrading and Fintech
 
 ### Algotrading
-In the realm of [algorithmic trading](../a/accountability.md) (algotrading), voluntary compliance plays a significant role in:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), voluntary compliance plays a significant role in:
 - **Regulatory Reporting**: Autonomous [trading systems](../t/trading_systems.md) must be designed to report transactions accurately and timely to comply with financial regulations.
 - **Tax Calculations**: Algorithms can be programmed to calculate and report tax [obligations](../o/obligation.md) for trading activities, adhering to the relevant tax codes.
 - **Audit Trails**: Maintaining comprehensive audit trails of all trades ensures [transparency](../t/transparency.md) and facilitates voluntary compliance with regulatory authorities.
@@ -57,12 +57,11 @@ The Internal [Revenue](../r/revenue.md) Service (IRS) in the United States promo
 ### Example 2: UK's HMRC Online Services
 Her Majesty's [Revenue](../r/revenue.md) and Customs (HMRC) in the United Kingdom offers comprehensive online services for tax filing and [payment](../p/payment.md). By simplifying processes and [offering](../o/offering.md) digital tools, HMRC enhances voluntary compliance among taxpayers.
 
-Visit [HMRC official page](https://www.gov.uk/government/organisations/hm-revenue-customs) for further details.
 
 ### Example 3: India's GST System
 India’s Goods and Services Tax (GST) system is designed to foster voluntary compliance through simplified tax filing mechanisms, real-time processing, and educational initiatives for taxpayers.
 
-Visit [GST official portal](https://www.gst.gov.in/) for further details.
+Visit GST official portal for further details.
 
 ## Challenges in Voluntary Compliance
 

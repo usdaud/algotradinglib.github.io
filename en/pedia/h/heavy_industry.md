@@ -21,29 +21,29 @@ Heavy [industry](../i/industry.md) refers to industries that involve large-scale
 ### Steel and Metal Manufacturing
 
 Steel and metal [manufacturing](../m/manufacturing.md) is a cornerstone of heavy [industry](../i/industry.md), providing vital materials for construction, [manufacturing](../m/manufacturing.md), and [infrastructure](../i/infrastructure.md) development. Companies such as ArcelorMittal and Nippon Steel are major players in this sector:
-- [ArcelorMittal](https://corporate.arcelormittal.com/)
-- [Nippon Steel](https://www.nipponsteel.com/en/)
+- ArcelorMittal
+- Nippon Steel
 
 ### Chemical Industry
 
 The chemical [industry](../i/industry.md) involves the production of industrial chemicals through complex chemical processes. This sector is crucial for producing [raw materials](../r/raw_materials.md) for pharmaceuticals, agriculture, and [manufacturing](../m/manufacturing.md). Leading companies include BASF:
-- [BASF](https://www.basf.com/global/en.html)
+- BASF
 
 ### Shipbuilding
 
 Shipbuilding is essential for global [trade](../t/trade.md) and transportation. It involves constructing large vessels that can carry goods and [raw materials](../r/raw_materials.md) across global routes. Major companies in this sector include Hyundai Heavy Industries:
-- [Hyundai Heavy Industries](https://www.hhi.co.kr/eng/)
+- Hyundai Heavy Industries
 
 ### Mining
 
 [Mining](../m/mining.md) is the extraction of valuable minerals or other geological materials from the earth. It provides the [raw materials](../r/raw_materials.md) needed for other industries, such as steel [manufacturing](../m/manufacturing.md) and energy production. Companies like Rio Tinto are significant operators:
-- [Rio Tinto](https://www.riotinto.com/)
+- Rio Tinto
 
 ### Machinery and Equipment
 
 This sector manufactures heavy machinery used in construction, agriculture, and other industries. Companies like Caterpillar and Komatsu are well-known in this area:
-- [Caterpillar](https://www.caterpillar.com/en.html)
-- [Komatsu](https://home.komatsu/en/)
+- Caterpillar
+- Komatsu
 
 ## Economic Impact
 

@@ -79,4 +79,4 @@ NASAA collaborates with various organizations and institutions to maximize its i
 
 The North American Securities Administrators Association (NASAA) plays a crucial role in protecting investors and maintaining the integrity of the securities markets in North America. Through its efforts in regulatory coordination, enforcement, [investor](../i/investor.md) education, and policy advocacy, NASAA helps create a safer and more transparent financial environment. The association’s initiatives not only enhance [investor](../i/investor.md) protection but also contribute to the overall confidence in the [financial markets](../f/financial_market.md).
 
-For more detailed information, you can visit the NASAA website: [http://www.nasaa.org/](http://www.nasaa.org/).
+For more detailed information,

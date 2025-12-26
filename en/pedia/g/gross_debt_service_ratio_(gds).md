@@ -48,5 +48,3 @@ While the GDS ratio is a useful [indicator](../i/indicator.md), it has some limi
 
 ## Conclusion
 The Gross [Debt Service](../d/debt_service.md) Ratio (GDS) is a vital tool for both lenders and borrowers, [offering](../o/offering.md) insights into housing affordability and financial stability. By calculating and monitoring the GDS ratio, borrowers can better prepare for homeownership and maintain a healthy financial profile, while lenders can assess and mitigate lending risks effectively.
-
-

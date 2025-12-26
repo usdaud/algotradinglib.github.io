@@ -40,9 +40,9 @@ Each year, as one [bond](../b/bond.md) matures, the proceeds are reinvested into
 
 ### Tools and Platforms
 Several financial platforms [offer](../o/offer.md) tools for [bond](../b/bond.md) [laddering](../l/laddering.md):
-- **Vanguard**: [Vanguard Bond Laddering Tool](https://investor.vanguard.com/investing/bonds)
-- **Fidelity**: [Fidelity Bond Ladder Tool](https://www.fidelity.com/fixed-income-bonds/bond-ladder)
-- **[Charles Schwab](../c/charles_schwab.md)**: [Schwab BondSource](https://www.schwab.com/fixed-income/bonds)
+- **Vanguard**: Vanguard Bond Laddering Tool
+- **Fidelity**: Fidelity Bond Ladder Tool
+- **[Charles Schwab](../c/charles_schwab.md)**: Schwab BondSource
 
 ## Risks Associated with Bond Laddering
 1. **[Credit Risk](../c/credit_risk.md)**: The [risk](../r/risk.md) that the [bond](../b/bond.md) [issuer](../i/issuer.md) [will](../w/will.md) [default](../d/default.md). It's lower for government bonds but higher for corporate bonds.
@@ -52,7 +52,7 @@ Several financial platforms [offer](../o/offer.md) tools for [bond](../b/bond.md
 
 ## Considerations
 ### Tax Implications
-[Interest](../i/interest.md) [income](../i/income.md) from bonds is generally taxable, though [municipal bonds](../m/municipal_bonds.md) may be exempt from federal and sometimes state [taxes](../t/taxes.md). 
+[Interest](../i/interest.md) [income](../i/income.md) from bonds is generally taxable, though [municipal bonds](../m/municipal_bonds.md) may be exempt from federal and sometimes state [taxes](../t/taxes.md).
 
 ### Investment Goals
 [Bond](../b/bond.md) [laddering](../l/laddering.md) is more suitable for investors seeking steady [income](../i/income.md) and [capital preservation](../c/capital_preservation.md) rather than high growth.
@@ -61,4 +61,4 @@ Several financial platforms [offer](../o/offer.md) tools for [bond](../b/bond.md
 During periods of rising [interest](../i/interest.md) rates, [bond](../b/bond.md) prices fall, which can affect the [value](../v/value.md) of bonds held in the portfolio. [Laddering](../l/laddering.md) helps to mitigate this, but users should still be aware of overall [market](../m/market.md) conditions.
 
 ## Conclusion
-[Bond](../b/bond.md) [laddering](../l/laddering.md) is a straightforward strategy that can help investors deal with [interest rate](../i/interest_rate.md) uncertainties and provide a regular [income](../i/income.md) stream. Understanding the types of bonds to invest in, the risks involved, and how to manage and maintain the ladder is crucial to effectively using this strategy. It’s particularly beneficial for those who prefer low-[risk](../r/risk.md) and predictable investment outcomes over more volatile investments like [stocks](../s/stock.md).
+[Bond](../b/bond.md) [laddering](../l/laddering.md) is a straightforward strategy that can help investors deal with [interest rate](../i/interest_rate.md) uncertainties and provide a regular [income](../i/income.md) stream. Understanding the types of bonds to invest in, the risks involved, and how to manage and maintain the ladder is crucial to effectively using this strategy. It’s particularly beneficial for those who prefer low-[risk](../r/risk.md) and predictable investment outcomes over more volatile investments like [stocks](../s/stock.md).

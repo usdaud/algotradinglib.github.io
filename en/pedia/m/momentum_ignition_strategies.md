@@ -67,10 +67,10 @@ The ethical and legal landscape around [momentum](../m/momentum.md) ignition is 
 ## Example Firms and Case Studies
 
 ### Virtu Financial
-Virtu Financial is a high-frequency trading [firm](../f/firm.md) known for employing sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including [momentum](../m/momentum.md) ignition. More information can be found on their [official website](https://www.virtu.com).
+Virtu Financial is a high-frequency trading [firm](../f/firm.md) known for employing sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including [momentum](../m/momentum.md) ignition.
 
 ### Citadel Securities
-Another prominent player in the HFT space, Citadel Securities uses [momentum](../m/momentum.md)-based strategies across various [asset](../a/asset.md) classes. Details are available on their [website](https://www.citadelsecurities.com).
+Another prominent player in the HFT space, Citadel Securities uses [momentum](../m/momentum.md)-based strategies across various [asset](../a/asset.md) classes.
 
 ### Case Study: The Flash Crash of 2010
 The Flash Crash is a prime example where [momentum](../m/momentum.md) ignition strategies were suspected to have played a role. A massive sell-off led to a spiral of rapid price declines, which many attributed to algorithmic traders employing aggressive strategies.

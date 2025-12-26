@@ -46,12 +46,12 @@ Qualified education expenses for the AOTC include:
 Besides the AOTC, other education-related credits available to taxpayers include the [Lifetime Learning Credit](../l/lifetime_learning_credit.md) (LLC) and the Tuition and Fees [Deduction](../d/deduction.md). Here's a brief comparison:
 
 1. **AOTC vs. LLC**:
-   - **Eligibility Period**: The AOTC is available only for the first four years of post-secondary education, while the LLC is available for all years of post-secondary education and for courses to acquire or improve job skills.
-   - **[Credit](../c/credit.md) Amount**: The AOTC offers a maximum [credit](../c/credit.md) of $2,500 per student, while the LLC offers up to $2,000 per [tax return](../t/tax_return.md).
-   - **Refundability**: The AOTC is partly refundable; the LLC is non-refundable.
+ - **Eligibility Period**: The AOTC is available only for the first four years of post-secondary education, while the LLC is available for all years of post-secondary education and for courses to acquire or improve job skills.
+ - **[Credit](../c/credit.md) Amount**: The AOTC offers a maximum [credit](../c/credit.md) of $2,500 per student, while the LLC offers up to $2,000 per [tax return](../t/tax_return.md).
+ - **Refundability**: The AOTC is partly refundable; the LLC is non-refundable.
 2. **AOTC vs. Tuition and Fees [Deduction](../d/deduction.md)**:
-   - **Nature of Benefit**: The AOTC is a [credit](../c/credit.md), directly reducing the amount of tax owed, whereas the Tuition and Fees [Deduction](../d/deduction.md) is an adjustment to [income](../i/income.md), reducing [taxable income](../t/taxable_income.md).
-   - **[Income](../i/income.md) Limits**: The AOTC has higher [income](../i/income.md) phase-out limits compared to the Tuition and Fees [Deduction](../d/deduction.md).
+ - **Nature of Benefit**: The AOTC is a [credit](../c/credit.md), directly reducing the amount of tax owed, whereas the Tuition and Fees [Deduction](../d/deduction.md) is an adjustment to [income](../i/income.md), reducing [taxable income](../t/taxable_income.md).
+ - **[Income](../i/income.md) Limits**: The AOTC has higher [income](../i/income.md) phase-out limits compared to the Tuition and Fees [Deduction](../d/deduction.md).
 
 ## Practical Examples
 
@@ -83,9 +83,9 @@ The AOTC is subject to legislative changes, so it's important for taxpayers to [
 
 ### IRS Resources
 
-1. [IRS American Opportunity Tax Credit](https://www.irs.gov/credits-deductions/individuals/aotc)
-2. [Form 8863 Instructions](https://www.irs.gov/forms-pubs/about-form-8863)
-3. [Form 1098-T Details](https://www.irs.gov/forms-pubs/about-form-1098-t)
+1. IRS American Opportunity Tax Credit
+2. Form 8863 Instructions
+3. Form 1098-T Details
 
 ## Conclusion
 

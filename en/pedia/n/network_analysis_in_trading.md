@@ -36,16 +36,16 @@ Events such as [earnings](../e/earnings.md) reports, economic data releases, or 
 
 Various tools and software are available to perform network analysis. These include:
 
-- **Gephi (https://gephi.org/)**: An [open](../o/open.md)-source network analysis and visualization software that is widely used for complex network analysis.
-- **Pajek (http://mrvar.fdv.uni-lj.si/pajek/)**: Another software tool designed for large network analysis which can [handle](../h/handle.md) networks containing millions of nodes.
+- **Gephi ( An [open](../o/open.md)-source network analysis and visualization software that is widely used for complex network analysis.
+- **Pajek ( Another software tool designed for large network analysis which can [handle](../h/handle.md) networks containing millions of nodes.
 - **Python Libraries**: Libraries like NetworkX and igraph are powerful tools for constructing and analyzing network graphs within Python.
 
 ### Case Studies
 
 #### Trading Firms Using Network Analysis
 
-- **WorldQuant (https://www.worldquant.com/)**: A quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses advanced [data analytics](../d/data_analytics.md), including network analysis, to generate [alpha](../a/alpha.md).
-- **Two Sigma (https://www.twosigma.com/)**: Known for using a variety of data sources and analysis techniques, including network theory, to inform trading decisions.
+- **WorldQuant ( A quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses advanced [data analytics](../d/data_analytics.md), including network analysis, to generate [alpha](../a/alpha.md).
+- **Two Sigma Known for using a variety of data sources and analysis techniques, including network theory, to inform trading decisions.
 
 #### Academic Research
 

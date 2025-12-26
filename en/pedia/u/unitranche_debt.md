@@ -58,7 +58,7 @@ Not all lenders [offer](../o/offer.md) unitranche [financing](../f/financing.md)
 
 ## Structure and Documentation
 
-The documentation for a unitranche [loan](../l/loan.md) typically consolidates the provisions that would normally be found in the documents for separate loans into a single document. This agreement [will](../w/will.md) specify the terms of the [loan](../l/loan.md), including [interest](../i/interest.md) rates, [repayment](../r/repayment.md) schedules, covenants, and the structure of any internal [payment](../p/payment.md) waterfall among the lenders. 
+The documentation for a unitranche [loan](../l/loan.md) typically consolidates the provisions that would normally be found in the documents for separate loans into a single document. This agreement [will](../w/will.md) specify the terms of the [loan](../l/loan.md), including [interest](../i/interest.md) rates, [repayment](../r/repayment.md) schedules, covenants, and the structure of any internal [payment](../p/payment.md) waterfall among the lenders.
 
 ### **Intercreditor Agreements**
 Often essential to unitranche loans are intercreditor agreements. These documents set forth the internal rights and [obligations](../o/obligation.md) of the lenders involved in the unitranche [facility](../f/facility.md), clarifying how payments are to be divided and what happens in the event of a [default](../d/default.md).
@@ -102,9 +102,9 @@ Companies looking to expand rapidly may find unitranche loans suitable due to th
 
 ## Conclusion
 
-Unitranche [debt](../d/debt.md) is an innovative [financing](../f/financing.md) solution that provides simplicity, [efficiency](../e/efficiency.md), and flexibility for middle-[market](../m/market.md) companies. By combining traditional layers of [debt](../d/debt.md) into a single [facility](../f/facility.md) with a blended [interest rate](../i/interest_rate.md), unitranche [financing](../f/financing.md) can expedite acquisitions, reduce administrative burdens, and [offer](../o/offer.md) clear predictability in [financial planning](../f/financial_planning.md). However, potential borrowers should carefully consider the higher [interest](../i/interest.md) rates and the complexities of internal [payment](../p/payment.md) structures. The decision to pursue unitranche [financing](../f/financing.md) should be based on a thorough assessment of the company’s financial needs and strategic goals. 
+Unitranche [debt](../d/debt.md) is an innovative [financing](../f/financing.md) solution that provides simplicity, [efficiency](../e/efficiency.md), and flexibility for middle-[market](../m/market.md) companies. By combining traditional layers of [debt](../d/debt.md) into a single [facility](../f/facility.md) with a blended [interest rate](../i/interest_rate.md), unitranche [financing](../f/financing.md) can expedite acquisitions, reduce administrative burdens, and [offer](../o/offer.md) clear predictability in [financial planning](../f/financial_planning.md). However, potential borrowers should carefully consider the higher [interest](../i/interest.md) rates and the complexities of internal [payment](../p/payment.md) structures. The decision to pursue unitranche [financing](../f/financing.md) should be based on a thorough assessment of the company’s financial needs and strategic goals.
 
 For more information, interested parties can explore various financial institutions and specialized lenders who [offer](../o/offer.md) unitranche [financing](../f/financing.md):
 
-- [Golub Capital](https://www.golubcapital.com)
-- [Ares Management](https://www.aresmgmt.com)
+- Golub Capital
+- Ares Management

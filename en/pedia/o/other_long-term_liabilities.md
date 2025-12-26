@@ -67,8 +67,7 @@ Creditors and investors analyze [long-term liabilities](../l/long-term_liabiliti
 
 ## Examples of Companies with Notable Long-Term Liabilities
 
-1. **General Motors:** [GM Financial Information](https://www.gmfinancial.com)
-2. **Tesla Inc.:** [Tesla Investor Relations](https://ir.tesla.com)
-3. **BP:** [BP Financial Report](https://www.bp.com/en/global/corporate/investors/results-and-reporting.html)
+1. **General Motors:** GM Financial Information
+3. **BP:** BP Financial Report
 
 By comprehending the nature and extent of other [long-term liabilities](../l/long-term_liabilities.md), investors and analysts can better understand a company’s financial position and anticipate future challenges. This, in turn, aids in making informed investment and lending decisions.

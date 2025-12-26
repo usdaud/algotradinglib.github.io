@@ -16,7 +16,7 @@ The `[underlying asset](../u/underlying_asset.md)` is the [financial asset](../f
 ## Methods of Underlying Price Analysis
 
 ### Fundamental Analysis
-[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) by examining related economic, financial, and other qualitative and quantitative factors. 
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) by examining related economic, financial, and other qualitative and quantitative factors.
 
 1. **[Financial Statements](../f/financial_statements.md)**: Analysis of a company's [earnings](../e/earnings.md) reports, balance sheets, [income](../i/income.md) statements, [cash flow](../c/cash_flow.md) statements.
 2. **[Economic Indicators](../e/economic_indicators.md)**: GDP growth, [inflation](../i/inflation.md) rates, employment data.
@@ -49,24 +49,24 @@ The `[underlying asset](../u/underlying_asset.md)` is the [financial asset](../f
 ### Bloomberg Terminal
 [Bloomberg](../b/bloomberg.md) Terminal provides real-time financial data, news feeds, and trading analytics.
 
-- [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- Bloomberg
 
 ### MetaTrader
 MetaTrader is a popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) [technical analysis](../t/technical_analysis.md) tools, automated trading capabilities, and [backtesting](../b/backtesting.md) features.
 
-- [MetaTrader](https://www.metaquotes.net/en/metatrader5)
+- MetaTrader
 
 ### MATLAB
 MATLAB is a high-performance language for technical computing, which is often used for [financial modeling](../f/financial_modeling.md) and [quantitative analysis](../q/quantitative_analysis.md).
 
-- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- MATLAB
 
 ### Python Libraries
 Python offers various libraries such as NumPy, pandas, and Scikit-Learn for data analysis, and modeling.
 
-- [NumPy](https://numpy.org/)
-- [pandas](https://pandas.pydata.org/)
-- [Scikit-Learn](https://scikit-learn.org/stable/)
+- NumPy
+- pandas
+- Scikit-Learn
 
 ## Case Studies
 

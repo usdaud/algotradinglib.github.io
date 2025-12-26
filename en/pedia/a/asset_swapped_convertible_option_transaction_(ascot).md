@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Asset](../a/asset.md) Swapped Convertible Option [Transaction](../t/transaction.md) (ASCOT) is a sophisticated financial [derivative](../d/derivative.md) that merges the features of [asset](../a/asset.md) swaps and convertible bonds. ASCOT structures are typically utilized by institutional investors seeking to manage [risk](../r/risk.md) and enhance returns through convertible bonds. Convertible bonds themselves are hybrid securities that include features of both bonds and [stocks](../s/stock.md), allowing investors to convert bonds into a predefined number of [shares](../s/shares.md). 
+[Asset](../a/asset.md) Swapped Convertible Option [Transaction](../t/transaction.md) (ASCOT) is a sophisticated financial [derivative](../d/derivative.md) that merges the features of [asset](../a/asset.md) swaps and convertible bonds. ASCOT structures are typically utilized by institutional investors seeking to manage [risk](../r/risk.md) and enhance returns through convertible bonds. Convertible bonds themselves are hybrid securities that include features of both bonds and [stocks](../s/stock.md), allowing investors to convert bonds into a predefined number of [shares](../s/shares.md).
 
 ASCOTs bring an additional level of complexity by introducing an [asset swap](../a/asset_swap.md), which is a [derivative](../d/derivative.md) that converts the cash flows from one type of [financial instrument](../f/financial_instrument.md) into another. This structure allows investors to alter the [risk](../r/risk.md) and [return](../r/return.md) profile of convertible bonds in ways that can be more aligned with their specific investment strategies.
 
@@ -63,9 +63,6 @@ Due to the complexity and bespoke nature of ASCOTs, institutional investors such
 ### Investment Banks
 [Investment banks](../i/investment_bank_(ib).md) play a crucial role in structuring ASCOT transactions. They act as counterparties in [asset](../a/asset.md) swaps, provide advisory services, and often facilitate the [execution](../e/execution.md) of ASCOT deals. Leading [investment banks](../i/investment_bank_(ib).md) like Goldman Sachs, JPMorgan Chase, and Morgan Stanley are prominent in this space.
 
-[Goldman Sachs](https://www.goldmansachs.com/)
-[JPMorgan Chase](https://www.jpmorganchase.com/)
-[Morgan Stanley](https://www.morganstanley.com/)
 
 ### Legal and Compliance Experts
 Given the regulatory and legal complexities of ASCOTs, specialized legal and compliance experts are essential in ensuring that all aspects of the [transaction](../t/transaction.md) adhere to relevant laws and regulations. Their expertise helps mitigate regulatory risks and ensures smooth [transaction execution](../t/transaction_execution.md).

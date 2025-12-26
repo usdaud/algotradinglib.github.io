@@ -10,19 +10,19 @@ A vested benefit refers to the portion of a retirement benefit that an employee 
 
 ## Types of Vesting Schedules
 
-There are generally three types of [vesting](../v/vesting.md) schedules that dictate how and when an employee becomes [fully vested](../f/fully_vested.md) in their benefits: 
+There are generally three types of [vesting](../v/vesting.md) schedules that dictate how and when an employee becomes [fully vested](../f/fully_vested.md) in their benefits:
 
 1. **Immediate [Vesting](../v/vesting.md)**:
-   - **Explanation**: Under immediate [vesting](../v/vesting.md), employees own 100% of their retirement benefits from the moment they are eligible to participate in the plan. This means that they are entitled to the complete benefits without any [waiting period](../w/waiting_period.md).
-   - **Example**: Employee Stock Ownership Plans (ESOPs) often use an immediate [vesting](../v/vesting.md) schedule.
+ - **Explanation**: Under immediate [vesting](../v/vesting.md), employees own 100% of their retirement benefits from the moment they are eligible to participate in the plan. This means that they are entitled to the complete benefits without any [waiting period](../w/waiting_period.md).
+ - **Example**: Employee Stock Ownership Plans (ESOPs) often use an immediate [vesting](../v/vesting.md) schedule.
 
 2. **Cliff [Vesting](../v/vesting.md)**:
-   - **Explanation**: Cliff [vesting](../v/vesting.md) involves a [waiting period](../w/waiting_period.md) after which the employee becomes [fully vested](../f/fully_vested.md) all at once. For example, an employer might set a three-year cliff [vesting](../v/vesting.md) schedule, which means employees are not vested at all for the first three years, but after three years of employment, they [gain](../g/gain.md) 100% ownership of their benefits.
-   - **Example**: A technology company might employ a four-year cliff [vesting](../v/vesting.md) plan for its retirement benefits, granting full benefits only after four years of service.
+ - **Explanation**: Cliff [vesting](../v/vesting.md) involves a [waiting period](../w/waiting_period.md) after which the employee becomes [fully vested](../f/fully_vested.md) all at once. For example, an employer might set a three-year cliff [vesting](../v/vesting.md) schedule, which means employees are not vested at all for the first three years, but after three years of employment, they [gain](../g/gain.md) 100% ownership of their benefits.
+ - **Example**: A technology company might employ a four-year cliff [vesting](../v/vesting.md) plan for its retirement benefits, granting full benefits only after four years of service.
 
 3. **[Graded Vesting](../g/graded_vesting.md)**:
-   - **Explanation**: Under [graded vesting](../g/graded_vesting.md), employees gradually become vested in incremental portions over a defined period. For example, an employee might become 20% vested after the first year, 40% after the second year, and [fully vested](../f/fully_vested.md) after five years.
-   - **Example**: Traditional pension plans often use a [graded vesting](../g/graded_vesting.md) schedule, increasing the vested percentage uniformly over the employee's tenure.
+ - **Explanation**: Under [graded vesting](../g/graded_vesting.md), employees gradually become vested in incremental portions over a defined period. For example, an employee might become 20% vested after the first year, 40% after the second year, and [fully vested](../f/fully_vested.md) after five years.
+ - **Example**: Traditional pension plans often use a [graded vesting](../g/graded_vesting.md) schedule, increasing the vested percentage uniformly over the employee's tenure.
 
 ## Importance of Vested Benefits in Financial Planning
 
@@ -75,7 +75,7 @@ In summary, vested benefits are a critical aspect of [retirement planning](../r/
 Exploring and understanding vested benefits offers a way to optimize financial well-being post-retirement, making them one of the cornerstone concepts in personal financial management and [retirement planning](../r/retirement_planning.md).
 
 For further details, company-specific information, or legal guidelines regarding vested benefits:
-- Visit [U.S. Department of Labor's ERISA page](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa)
-- For specific examples or implementations, explore [Vanguard](https://investor.vanguard.com/retirement), [Fidelity](https://www.fidelity.com/retirement-planning/overview), or [T. Rowe Price](https://www.troweprice.com/financial-intermediary/us/en/products/defined-contribution-plans.html) retirement resources.
+- U.S. Department of Labor ERISA materials
+- For specific examples or implementations, explore Vanguard, Fidelity, or T. Rowe Price retirement resources.
 
 Understanding vested benefits effectively [will](../w/will.md) ensure individuals make better-informed decisions regarding their retirement, employment, and long-term [financial health](../f/financial_health.md).

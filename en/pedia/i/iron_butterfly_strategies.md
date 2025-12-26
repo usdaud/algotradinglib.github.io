@@ -28,7 +28,7 @@ For example, if a stock is trading at $50:
 ## Risk and Reward Profile
 - **Maximum [Profit](../p/profit.md)**: Occurs when the [underlying asset](../u/underlying_asset.md)'s price is at the middle strike (i.e., the at-the-[money](../m/money.md) strike) at expiration. The [profit](../p/profit.md) is limited to the net [credit](../c/credit.md) received when establishing the [Iron Butterfly](../i/iron_butterfly.md).
 - **Maximum Loss**: Occurs when the [underlying asset](../u/underlying_asset.md)’s price at expiration is below the lower [strike price](../s/strike_price.md) of the put or above the higher [strike price](../s/strike_price.md) of the call. The loss is limited to the difference between the lower/higher strikes and the middle strike minus the net [credit](../c/credit.md) received.
-  
+
 The breakeven points for the [Iron Butterfly](../i/iron_butterfly.md) are calculated as follows:
 - Lower Breakeven: Middle [strike price](../s/strike_price.md) - Net [credit](../c/credit.md) received.
 - Upper Breakeven: Middle [strike price](../s/strike_price.md) + Net [credit](../c/credit.md) received.
@@ -60,10 +60,10 @@ The [Iron Butterfly](../i/iron_butterfly.md) strategy may have tax implications,
 
 ## Tools and Resources
 Several brokers and trading platforms [offer](../o/offer.md) tools and resources to help traders construct and manage [Iron Butterfly](../i/iron_butterfly.md) strategies, including:
-- **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/thinkorswim.html)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/)
-- **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com/)
-- **Tastyworks**: [Tastyworks](https://www.tastyworks.com/)
+- **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: TD Ameritrade
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **[TradeStation](../t/tradestation.md)**: TradeStation
+- **Tastyworks**: Tastyworks
 
 These platforms provide sophisticated analytical tools, extensive educational materials, and support for managing complex option positions.
 

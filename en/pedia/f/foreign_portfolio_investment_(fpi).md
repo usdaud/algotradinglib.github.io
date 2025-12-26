@@ -88,7 +88,7 @@ Technological advancements have revolutionized foreign [portfolio investment](..
 Some of the primary financial hubs attracting FPI include:
 
 ### New York
-- As the world's financial [capital](../c/capital.md), New York hosts major stock exchanges like NYSE and [NASDAQ](../n/nasdaq.md). 
+- As the world's financial [capital](../c/capital.md), New York hosts major stock exchanges like NYSE and [NASDAQ](../n/nasdaq.md).
 
 ### London
 - Known for its deep [financial markets](../f/financial_market.md), London is a central hub for [equity](../e/equity.md), [debt](../d/debt.md), and [derivative](../d/derivative.md) trading.
@@ -105,13 +105,13 @@ Some of the primary financial hubs attracting FPI include:
 
 Vanguard is one of the largest [asset management](../a/asset_management.md) companies globally, [offering](../o/offering.md) a [range](../r/range.md) of investment products, including mutual funds and ETFs, that facilitate FPI. Vanguard employs [passive investment strategies](../p/passive_investment_strategies.md) to provide broad [market exposure](../m/market_exposure.md).
 
-Website: [Vanguard](https://investor.vanguard.com)
+online platform: Vanguard
 
 ### Example 2: BlackRock
 
 BlackRock is another major player in the [investment management](../i/investment_management.md) [industry](../i/industry.md), specializing in [risk management](../r/risk_management.md) and advisory services. Through its [iShares](../i/ishares.md) [product line](../p/product_line.md), BlackRock offers a variety of ETFs that allow for international investment.
 
-Website: [BlackRock](https://www.blackrock.com)
+online platform: BlackRock
 
 ## Impact of Global Events
 

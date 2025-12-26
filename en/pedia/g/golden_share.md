@@ -1,6 +1,6 @@
 # Golden Share
 
-A "golden share" is a type of share that gives its holder special voting rights, enabling them to [exercise](../e/exercise.md) a significant degree of control over the company, beyond what is typically proportionate to their level of [equity](../e/equity.md) ownership. This special power is typically used by governments to retain control over privatized companies or in strategic industries where national [interest](../i/interest.md) is a consideration. 
+A "golden share" is a type of share that gives its holder special voting rights, enabling them to [exercise](../e/exercise.md) a significant degree of control over the company, beyond what is typically proportionate to their level of [equity](../e/equity.md) ownership. This special power is typically used by governments to retain control over privatized companies or in strategic industries where national [interest](../i/interest.md) is a consideration.
 
 ## Definition and Features
 
@@ -72,6 +72,6 @@ Golden [shares](../s/shares.md) represent a fascinating intersection of [equity]
 
 For more information about specific companies and their governance structures involving golden [shares](../s/shares.md), you may visit their official websites:
 
-- [EDP Energias de Portugal](https://www.edp.com/)
-- [Renault](https://www.renaultgroup.com/en/)
-- [ENI](https://www.eni.com/en-IT/home.html)
+- EDP Energias de Portugal
+- Renault
+- ENI

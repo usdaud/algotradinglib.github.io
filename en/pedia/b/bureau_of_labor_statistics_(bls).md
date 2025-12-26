@@ -1,6 +1,6 @@
 # Bureau of Labor Statistics (BLS)
 
-The Bureau of Labor [Statistics](../s/statistics.md) (BLS) is a unit of the United States Department of Labor. It is the [principal](../p/principal.md) federal agency responsible for measuring [labor market](../l/labor_market.md) activity, working conditions, and price changes in the [economy](../e/economy.md). The BLS collects, analyzes, and disseminates essential economic information to support public and private decision-making. 
+The Bureau of Labor [Statistics](../s/statistics.md) (BLS) is a unit of the United States Department of Labor. It is the [principal](../p/principal.md) federal agency responsible for measuring [labor market](../l/labor_market.md) activity, working conditions, and price changes in the [economy](../e/economy.md). The BLS collects, analyzes, and disseminates essential economic information to support public and private decision-making.
 
 ## Overview
 
@@ -90,7 +90,7 @@ The BLS uses online platforms to collect data from survey participants, enhancin
 
 ### Data Visualization
 
-[Data visualization](../d/data_visualization.md) tools help to present complex data in an easily understandable format. The BLS offers a [range](../r/range.md) of interactive charts, graphs, and maps on its website, enabling users to explore data trends more effectively.
+[Data visualization](../d/data_visualization.md) tools help to present complex data in an easily understandable format. The BLS offers a [range](../r/range.md) of interactive charts, graphs, and maps that enable users to explore data trends more effectively.
 
 ## Applications and Impact
 
@@ -130,4 +130,4 @@ As the global [economy](../e/economy.md) becomes increasingly interconnected, th
 
 ## Conclusion
 
-The Bureau of Labor [Statistics](../s/statistics.md) plays a vital role in the U.S. [economy](../e/economy.md) by providing reliable and timely data on [labor market](../l/labor_market.md) activity, prices, wages, and [productivity](../p/productivity.md). Its reports are essential for policymakers, businesses, researchers, and the public to understand and respond to economic trends. Through continuous innovation and adherence to rigorous methodological standards, the BLS ensures that its data remains an indispensable resource for economic analysis and decision-making. For more detailed information and access to various reports and data sets, visit the official [Bureau of Labor Statistics website](https://www.bls.gov).
+The Bureau of Labor [Statistics](../s/statistics.md) plays a vital role in the U.S. [economy](../e/economy.md) by providing reliable and timely data on [labor market](../l/labor_market.md) activity, prices, wages, and [productivity](../p/productivity.md). Its reports are essential for policymakers, businesses, researchers, and the public to understand and respond to economic trends. Through continuous innovation and adherence to rigorous methodological standards, the BLS ensures that its data remains an indispensable resource for economic analysis and decision-making. For more detailed information and access to various reports and data sets,

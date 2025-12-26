@@ -14,8 +14,8 @@ A [candlestick](../c/candlestick.md) chart is composed of numerous individual ca
 #### Structure of a Candlestick
 
 - **Body:** The wide part of the [candlestick](../c/candlestick.md), representing the price [range](../r/range.md) between the [open](../o/open.md) and close.
-  - **Bullish [Candlestick](../c/candlestick.md):** Formed when the closing price is higher than the [opening price](../o/opening_price.md), typically colored green or white.
-  - **Bearish [Candlestick](../c/candlestick.md):** Seen when the closing price is lower than the [opening price](../o/opening_price.md), usually colored red or black.
+ - **Bullish [Candlestick](../c/candlestick.md):** Formed when the closing price is higher than the [opening price](../o/opening_price.md), typically colored green or white.
+ - **Bearish [Candlestick](../c/candlestick.md):** Seen when the closing price is lower than the [opening price](../o/opening_price.md), usually colored red or black.
 - **Wicks (or Shadows):** Thin lines extending above and below the body, indicating the high and low prices.
 
 ### Common Candlestick Patterns
@@ -53,9 +53,9 @@ With the advancement of [artificial intelligence](../a/artificial_intelligence_i
 
 Several companies and platforms provide tools for automated [candlestick](../c/candlestick.md) [pattern recognition](../p/pattern_recognition.md):
 
-- **[TradingView](../t/tradingview.md):** An advanced financial visualization platform with real-time data, advanced charting tools, and automated [pattern recognition](../p/pattern_recognition.md) features. [Visit TradingView](https://www.tradingview.com/)
-- **MetaTrader:** A popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) sophisticated charting tools, [algorithmic trading](../a/algorithmic_trading.md) capabilities, and automated [candlestick](../c/candlestick.md) [pattern recognition](../p/pattern_recognition.md). [Visit MetaTrader](https://www.metatrader4.com/)
-- **[NinjaTrader](../n/ninjatrader.md):** Provides powerful trading software solutions with rich charting features and automated pattern detection. [Visit NinjaTrader](https://ninjatrader.com/)
+- **[TradingView](../t/tradingview.md):** An advanced financial visualization platform with real-time data, advanced charting tools, and automated [pattern recognition](../p/pattern_recognition.md) features. Visit TradingView
+- **MetaTrader:** A popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) sophisticated charting tools, [algorithmic trading](../a/algorithmic_trading.md) capabilities, and automated [candlestick](../c/candlestick.md) [pattern recognition](../p/pattern_recognition.md). Visit MetaTrader
+- **[NinjaTrader](../n/ninjatrader.md):** Provides powerful trading software solutions with rich charting features and automated pattern detection. Visit NinjaTrader
 
 #### Implementing Strategies
 
@@ -78,4 +78,4 @@ While training [machine learning](../m/machine_learning.md) models for [pattern 
 
 ### Conclusion
 
-[Candlestick](../c/candlestick.md) [pattern recognition](../p/pattern_recognition.md) is an invaluable tool in the arsenal of technical analysts and algo-traders, providing insights into [market sentiment](../m/market_sentiment.md) and potential price movements. With advancements in technology, automated recognition of these patterns has enhanced the precision and [efficiency](../e/efficiency.md) of [trading strategies](../t/trading_strategies.md), though it is imperative to combine patterns with other [technical indicators](../t/technical_indicators.md) and validate strategies through rigorous [backtesting](../b/backtesting.md). As the [financial markets](../f/financial_market.md) evolve, the role of [algorithmic trading](../a/algorithmic_trading.md) and the importance of sophisticated [pattern recognition](../p/pattern_recognition.md) continue to grow, demanding constant innovation and adaptation.
+[Candlestick](../c/candlestick.md) [pattern recognition](../p/pattern_recognition.md) is an invaluable tool in the arsenal of technical analysts and algo-traders, providing insights into [market sentiment](../m/market_sentiment.md) and potential price movements. With advancements in technology, automated recognition of these patterns has enhanced the precision and [efficiency](../e/efficiency.md) of [trading strategies](../t/trading_strategies.md), though it is imperative to combine patterns with other [technical indicators](../t/technical_indicators.md) and validate strategies through rigorous [backtesting](../b/backtesting.md). As the [financial markets](../f/financial_market.md) evolve, the role of [algorithmic trading](../a/algorithmic_trading.md) and the importance of sophisticated [pattern recognition](../p/pattern_recognition.md) continue to grow, demanding constant innovation and adaptation.

@@ -13,7 +13,7 @@ Several factors influence [Theta](../t/theta.md):
 1. **Time to Expiration**: [Options](../o/options.md) with shorter time durations have higher Thetas. As the [expiration date](../e/expiration_date.md) approaches, the rate of [time decay](../t/time_decay.md) accelerates.
 2. **Moneyness**: At-the-[money](../m/money.md) [options](../o/options.md) (where the [strike price](../s/strike_price.md) is close to the current [market price](../m/market_price.md)) typically exhibit higher Thetas compared to in-the-[money](../m/money.md) or [out-of-the-money options](../o/out-of-the-money_options.md).
 3. **[Volatility](../v/volatility.md)**: [Options](../o/options.md) in a highly volatile [market](../m/market.md) tend to have lower Thetas because higher [uncertainty](../u/uncertainty_in_trading.md) provides more [value](../v/value.md) to the time component.
-  
+
 ## Building Theta Neutral Strategies
 
 ### 1. **Calendar Spreads**
@@ -31,7 +31,7 @@ A [butterfly spread](../b/butterfly_spread.md) is a [neutral](../n/neutral.md) [
 ### 4. **Iron Condors**
 
 An [iron condor](../i/iron_condor.md) involves a combination of a [bull put spread](../b/bull_put_spread.md) and a [bear call spread](../b/bear_call_spread.md). The [trader](../t/trader.md) sells an out-of-the-[money](../m/money.md) put and buys a further out-of-the-[money](../m/money.md) put while simultaneously selling an out-of-the-[money](../m/money.md) call and buying a further out-of-the-[money](../m/money.md) call. This strategy is considered [Theta](../t/theta.md) [neutral](../n/neutral.md) because the [time decay](../t/time_decay.md) from the sold [options](../o/options.md) is balanced by the [time value](../t/time_value.md) retained in the purchased [options](../o/options.md).
-  
+
 ### 5. **Ratio Spreads**
 
 Ratio [spreads](../s/spreads.md) involve buying and selling different quantities of [options](../o/options.md) at different strike prices but with the same [expiration date](../e/expiration_date.md). A [trader](../t/trader.md) might buy one at-the-[money](../m/money.md) [call option](../c/call_option.md) and sell two out-of-the-[money](../m/money.md) call [options](../o/options.md). The net [Theta](../t/theta.md) exposure can be neutralized by carefully managing the strike prices and quantities.
@@ -41,13 +41,13 @@ Ratio [spreads](../s/spreads.md) involve buying and selling different quantities
 To effectively implement [Theta](../t/theta.md) [neutral](../n/neutral.md) strategies, you can use various trading platforms and software that calculate the [Greeks](../g/greeks.md) and simulate different scenarios. These tools help manage the complexities involved in maintaining a [Theta](../t/theta.md) [neutral](../n/neutral.md) portfolio. Some of the popular platforms and tools include:
 
 1. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A comprehensive [trading platform](../t/trading_platform.md) that offers advanced [options](../o/options.md) analysis tools, including [Theta](../t/theta.md) calculations and simulations.
-   - [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+ - Thinkorswim
 
 2. **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its sophisticated trading tools, [Interactive Brokers](../i/interactive_brokers.md) offers detailed [options](../o/options.md) analytics and [risk management](../r/risk_management.md) features.
-   - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Interactive Brokers
 
 3. **Tastyworks**: This platform is designed with [options](../o/options.md) traders in mind, [offering](../o/offering.md) intuitive visual representations of various strategies, including [Theta](../t/theta.md) [neutral](../n/neutral.md) approaches.
-   - [Tastyworks](https://www.tastyworks.com/)
+ - Tastyworks
 
 ## Challenges and Considerations
 

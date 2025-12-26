@@ -124,8 +124,8 @@ Different types of pooled funds are subject to varying levels of regulation. For
 Pooled funds [offer](../o/offer.md) a compelling way for investors to [gain](../g/gain.md) [diversification](../d/diversification.md), professional management, and potential cost savings. While they come with certain disadvantages and risks, the benefits often outweigh these drawbacks for many investors, especially those seeking broad [market exposure](../m/market_exposure.md) and professional investment oversight. Understanding the distinct characteristics and structures of different types of pooled funds can help investors make informed decisions aligned with their financial goals and [risk tolerance](../r/risk_tolerance.md).
 
 For more detailed information on specific funds, consider visiting the websites of prominent financial institutions and [asset](../a/asset.md) managers. For example:
-- [Vanguard](https://investor.vanguard.com/mutual-funds/)
-- [BlackRock](https://www.blackrock.com/us/individual/products/mutual-funds)
-- [Bridgewater Associates (Hedge Funds)](https://www.bridgewater.com)
+- Vanguard
+- BlackRock
+- Bridgewater Associates (Hedge Funds)
 
 These resources [offer](../o/offer.md) insights into the [range](../r/range.md) of products available, performance histories, [fee](../f/fee.md) structures, and other critical factors to consider when [investing](../i/investing.md) in pooled funds.

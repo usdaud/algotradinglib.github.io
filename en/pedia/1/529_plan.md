@@ -83,7 +83,7 @@ One of the flexibility features of 529 plans is the ability to change the [benef
 1. **Enrollment Fees**: [One-time charge](../o/one-time_charge.md) when opening the account.
 2. **Maintenance Fees**: Annual fees for administrative costs.
 3. **[Asset Management](../a/asset_management.md) Fees**: Fees associated with managing investment portfolios.
-4. **Program Management Fees**: Charged by the plan manager for operating the plan. 
+4. **Program Management Fees**: Charged by the plan manager for operating the plan.
 
 It's essential to compare these costs, as they vary significantly among plans.
 
@@ -123,9 +123,9 @@ Before committing to a 529 plan, it's worth considering alternative education sa
 
 Several financial institutions and state programs manage 529 plans. Notable providers include:
 
-- **Vanguard**: Renowned for low-cost investment [options](../o/options.md). More about their 529 services can be found [here](https://investor.vanguard.com/529-plan/).
-- **Fidelity**: Offers a [range](../r/range.md) of plans with strong investment choices. Visit their 529 page [here](https://www.fidelity.com/529-plans/overview).
-- **T. Rowe Price**: Known for [robust](../r/robust.md) age-based [options](../o/options.md). Explore their offerings [here](https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-college-savings-plan.html).
+- **Vanguard**: Renowned for low-cost investment [options](../o/options.md).
+- **Fidelity**: Offers a [range](../r/range.md) of plans with strong investment choices.
+- **T. Rowe Price**: Known for [robust](../r/robust.md) age-based [options](../o/options.md).
 
 ## Conclusion
 

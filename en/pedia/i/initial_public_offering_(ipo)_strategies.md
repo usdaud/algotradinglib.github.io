@@ -2,7 +2,7 @@
 
 An Initial Public [Offering](../o/offering.md) (IPO) is the process by which a [private company](../p/private_company.md) becomes publicly traded on a stock [exchange](../e/exchange.md). An IPO allows a company to raise [capital](../c/capital.md) from public investors. Algorithms in trading (or algotrading) have a profound impact on IPO strategies, influencing the investment decisions of institutional and individual traders alike. In this comprehensive guide, we explore different IPO strategies within the context of [algorithmic trading](../a/algorithmic_trading.md).
 
-### Understanding an IPO 
+### Understanding an IPO
 
 An IPO marks the first time that the [shares](../s/shares.md) of a [private company](../p/private_company.md) are offered to the public. This process transforms a privately held entity into a publicly traded company. IPOs can be a critical component of a company’s growth strategy, [offering](../o/offering.md) an infusion of cash that can be used for various purposes such as expanding operations, [investing](../i/investing.md) in research and development, or paying off [debt](../d/debt.md).
 
@@ -80,23 +80,23 @@ Several companies specialize in providing algotrading solutions tailored for IPO
 
 #### 1. **Virtu Financial**
 Virtu Financial is known for its emphasis on technological innovations in trading, including algotrading strategies that can be applied to IPOs.
-Website: [Virtu Financial](https://www.virtu.com)
+online platform: Virtu Financial
 
 #### 2. **QuantConnect**
 [QuantConnect](../q/quantconnect.md) provides a platform for designing, testing, and deploying algotrading strategies, including those focused on IPO investments.
-Website: [QuantConnect](https://www.quantconnect.com)
+online platform: QuantConnect
 
 #### 3. **Interactive Brokers**
 [Interactive Brokers](../i/interactive_brokers.md) offers advanced trading technology and algorithms that support IPO [trading strategies](../t/trading_strategies.md).
-Website: [Interactive Brokers](https://www.interactivebrokers.com)
+online platform: Interactive Brokers
 
 #### 4. **Trading Technologies**
 Trading Technologies specializes in sophisticated trading solutions, including algotrading platforms ideal for implementing IPO strategies.
-Website: [Trading Technologies](https://www.tradingtechnologies.com)
+online platform: Trading Technologies
 
 #### 5. **Kavout**
 Kavout leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to provide [trading signals](../t/trading_signals.md) and predictions, beneficial for IPO strategies.
-Website: [Kavout](https://www.kavout.com)
+online platform: Kavout
 
 ### Risks and Challenges in Algotrading for IPOs
 

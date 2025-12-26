@@ -101,4 +101,4 @@ The early 2000s housing boom in the United States is another example. Easy [cred
 
 An overheated [economy](../e/economy.md) poses significant risks, including high [inflation](../i/inflation.md), [asset](../a/asset.md) [bubbles](../b/bubble.md), and eventual economic downturns. Policymakers must monitor [economic indicators](../e/economic_indicators.md) closely and take timely actions to manage [growth rates](../g/growth_rates_in_trading.md). While fiscal and monetary measures can effectively address an overheated [economy](../e/economy.md), a balanced approach is crucial to avoid triggering a [recession](../r/recession.md).
 
-For more information on economic policies and indicators, you can visit the official website of the Federal Reserve (https://www.federalreserve.gov), which provides comprehensive resources and updates on [economic conditions](../e/economic_conditions.md) and policy measures.
+./e/economic_conditions.md) and policy measures.

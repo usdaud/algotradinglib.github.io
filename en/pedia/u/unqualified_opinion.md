@@ -73,10 +73,10 @@ A disclaimer of opinion is issued when auditors cannot form, and thus refuse to 
 ## Real-World Examples and Case Studies
 
 ### Apple Inc.
-Apple Inc. regularly receives unqualified opinions in its annual reports, reflecting its strong [internal controls](../i/internal_controls.md) and adherence to [accounting](../a/accounting.md) standards. For more information, you can visit [Apple's official investor relations page](https://investor.apple.com/).
+Apple Inc. regularly receives unqualified opinions in its annual reports, reflecting its strong [internal controls](../i/internal_controls.md) and adherence to [accounting](../a/accounting.md) standards.
 
 ### Microsoft Corporation
-Another example is Microsoft, which also consistently receives unqualified opinions. This demonstrates to shareholders and potential investors that Microsoft’s financial position and performance are presented accurately. Details can be found on [Microsoft's investor relations page](https://www.microsoft.com/en-us/investor).
+Another example is Microsoft, which also consistently receives unqualified opinions. This demonstrates to shareholders and potential investors that Microsoft’s financial position and performance are presented accurately.
 
 ### Case Study: Enron
 On the [flip](../f/flip.md) side, consider the infamous Enron scandal. Despite initially receiving unqualified opinions, subsequent investigations revealed severe [accounting](../a/accounting.md) [fraud](../f/fraud.md). This led to heightened scrutiny of auditing practices and stricter regulations under the Sarbanes-Oxley Act.

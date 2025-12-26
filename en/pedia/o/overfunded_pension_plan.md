@@ -16,7 +16,7 @@ Defined Contribution (DC) plans, like the 401(k) in the United States, do not pr
 
 ## Overfunding Scenario
 
-An overfunded [pension plan](../p/pension_plan.md) specifically relates to Defined Benefit plans. 
+An overfunded [pension plan](../p/pension_plan.md) specifically relates to Defined Benefit plans.
 
 ### Calculation of Overfunded Status
 
@@ -62,7 +62,7 @@ Overfunded status may allow for the amortization of [surplus](../s/surplus.md) i
 Overfunded plans often provide beneficiaries with greater [security](../s/security.md) that promised benefits [will](../w/will.md) be paid.
 
 #### Potential Enhancements
-In some cases, the [surplus](../s/surplus.md) might be used to enhance benefits or provide cost-of-living adjustments to retirees. 
+In some cases, the [surplus](../s/surplus.md) might be used to enhance benefits or provide cost-of-living adjustments to retirees.
 
 ## Managing Overfunded Pension Plans
 

@@ -72,7 +72,7 @@ Various surveys collect data directly from employers about their hiring plans, c
 
 ### Technology Sector
 
-In the [technology sector](../t/technology_sector.md), [demand](../d/demand.md) for labor has been influenced by rapid advancements in digital technologies and software development. Companies like Google [Google Careers](https://careers.google.com/), Amazon [Amazon Jobs](https://www.amazon.jobs/en/), and Microsoft [Microsoft Careers](https://careers.microsoft.com/) have consistently high [demand](../d/demand.md) for skilled engineers, developers, and IT professionals, reflecting the booming tech [industry](../i/industry.md)'s need for specialized labor.
+In the [technology sector](../t/technology_sector.md), [demand](../d/demand.md) for labor has been influenced by rapid advancements in digital technologies and software development. Companies like Google Google Careers, Amazon Amazon Jobs, and Microsoft Microsoft Careers have consistently high [demand](../d/demand.md) for skilled engineers, developers, and IT professionals, reflecting the booming tech [industry](../i/industry.md)'s need for specialized labor.
 
 ### Manufacturing Sector
 
@@ -80,7 +80,7 @@ In contrast, the [manufacturing](../m/manufacturing.md) sector has seen varying 
 
 ### Healthcare Sector
 
-The [healthcare sector](../h/healthcare_sector.md) has experienced growing [demand](../d/demand.md) for labor, fueled by aging populations and increasing healthcare needs. Institutions like the Mayo Clinic [Mayo Clinic Careers](https://jobs.mayoclinic.org/) and Cleveland Clinic [Cleveland Clinic Careers](https://jobs.clevelandclinic.org/) are consistently hiring healthcare professionals, from doctors and nurses to administrative staff.
+The [healthcare sector](../h/healthcare_sector.md) has experienced growing [demand](../d/demand.md) for labor, fueled by aging populations and increasing healthcare needs. Institutions like the Mayo Clinic Mayo Clinic Careers and Cleveland Clinic Cleveland Clinic Careers are consistently hiring healthcare professionals, from doctors and nurses to administrative staff.
 
 ## Future Trends in Demand for Labor
 
@@ -90,7 +90,7 @@ The [healthcare sector](../h/healthcare_sector.md) has experienced growing [dema
 
 ### Gig Economy
 
-The [gig economy](../g/gig_economy.md) is reshaping the [demand](../d/demand.md) for labor, with more people working as independent contractors, freelancers, or part-time workers. Platforms like Uber [Uber Careers](https://www.uber.com/us/en/careers/) and Upwork [Upwork](https://www.upwork.com/) facilitate this kind of employment, creating flexible work arrangements that can respond to fluctuating labor [demand](../d/demand.md).
+The [gig economy](../g/gig_economy.md) is reshaping the [demand](../d/demand.md) for labor, with more people working as independent contractors, freelancers, or part-time workers. Platforms like Uber Uber Careers and Upwork Upwork facilitate this kind of employment, creating flexible work arrangements that can respond to fluctuating labor [demand](../d/demand.md).
 
 ### Remote Work
 

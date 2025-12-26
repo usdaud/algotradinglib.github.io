@@ -42,9 +42,9 @@ SET CONNECT also supports various trading functionalities, including block tradi
 
 ### Algorithmic Trading
 
-In recent years, [algorithmic trading](../a/accountability.md) has gained traction on the SET. Utilizing predefined criteria and advanced statistical models, [algorithmic trading](../a/accountability.md) can execute orders at speeds unmatched by human traders. [Market](../m/market.md) participants often use [algorithmic trading](../a/accountability.md) for purposes such as [arbitrage](../a/arbitrage.md), [market](../m/market.md) making, and [trend following strategies](../t/trend_following_strategies.md).
+In recent years, [algorithmic trading](../a/algorithmic_trading.md) has gained traction on the SET. Utilizing predefined criteria and advanced statistical models, [algorithmic trading](../a/algorithmic_trading.md) can execute orders at speeds unmatched by human traders. [Market](../m/market.md) participants often use [algorithmic trading](../a/algorithmic_trading.md) for purposes such as [arbitrage](../a/arbitrage.md), [market](../m/market.md) making, and [trend following strategies](../t/trend_following_strategies.md).
 
-[Algorithmic trading](../a/accountability.md) systems interface seamlessly with SET CONNECT, leveraging its high-speed capabilities to [capitalize](../c/capitalize.md) on fleeting [market](../m/market.md) opportunities. Regulatory measures ensure that these high-frequency trading activities do not compromise [market](../m/market.md) fairness and integrity.
+[Algorithmic trading](../a/algorithmic_trading.md) systems interface seamlessly with SET CONNECT, leveraging its high-speed capabilities to [capitalize](../c/capitalize.md) on fleeting [market](../m/market.md) opportunities. Regulatory measures ensure that these high-frequency trading activities do not compromise [market](../m/market.md) fairness and integrity.
 
 ## Regulatory Framework
 
@@ -101,8 +101,7 @@ The SET operates on a calendar of Thai national holidays, during which the [exch
 
 ### References and Additional Information
 
-For more detailed information, traders and interested parties can visit the official SET website: [https://www.set.or.th](https://www.set.or.th).
-
+For more detailed information,
 ---
 
 The SET has evolved into a sophisticated and dynamic financial [market](../m/market.md) hub within Thailand and Southeast Asia. Through continued development and strategic initiatives, it seeks to mitigate challenges and [leverage](../l/leverage.md) opportunities, sustaining its growth trajectory while contributing to the broader economic landscape.

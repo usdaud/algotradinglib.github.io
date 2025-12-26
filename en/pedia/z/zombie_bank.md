@@ -75,6 +75,6 @@ Facilitating the [merger](../m/merger.md) or [acquisition](../a/acquisition.md) 
 ## Conclusion
 Zombie banks pose a significant threat to economic stability and growth. While governmental support and regulatory [forbearance](../f/forbearance.md) can provide temporary relief, they often lead to prolonged economic inefficiencies and [stagnation](../s/stagnation.md). Addressing zombie banks requires a combination of resolute regulatory actions, effective [recapitalization](../r/recapitalization.md) strategies, and continuous monitoring to ensure that financial institutions operate in a sound and sustainable manner. The lessons learned from past crises underscore the importance of swift and decisive action to manage and mitigate the risks associated with zombie banks.
 
-For further reading on this topic, you can visit financial institutions and regulatory bodies' websites, like the [Federal Reserve](https://www.federalreserve.gov/) or [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
+For further reading on this topic, you can visit financial institutions and regulatory bodies' websites, like the Federal Reserve or European Central Bank.
 
 #include "zombie_bank.md"

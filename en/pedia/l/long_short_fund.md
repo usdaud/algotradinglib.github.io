@@ -14,11 +14,11 @@ A short position involves selling a [security](../s/security.md) that the [inves
 The core strategy of a Long/Short [Fund](../f/fund.md) is to combine these positions to [hedge](../h/hedge.md) against [market risk](../m/market_risk.md) while taking advantage of specific mispricings or opportunities in the [market](../m/market.md). By holding both long and short positions, the [fund](../f/fund.md) aims to achieve returns regardless of overall [market](../m/market.md) movements. Here are some key strategies and components employed by Long/Short Funds:
 
 - **[Market Neutral](../m/market_neutral.md) Strategy:** This involves maintaining a balance between long and short positions to [hedge](../h/hedge.md) against [market risk](../m/market_risk.md). The goal is to achieve returns from the specific performance of the chosen securities rather than from general [market](../m/market.md) trends.
-  
+
 - **Directional Strategy:** Here, the [fund](../f/fund.md) may tilt more towards long positions in a [bull market](../b/bull_market.md) or more towards short positions in a [bear market](../b/bear_market.md). The [fund manager](../f/fund_manager.md) adjusts the balance based on their [market](../m/market.md) outlook.
-  
+
 - **[Leverage](../l/leverage.md):** Long/Short Funds often use [leverage](../l/leverage.md) to amplify their positions and potential returns. This involves borrowing [capital](../c/capital.md) to increase the size of their investment.
-  
+
 - **[Pairs Trading](../p/pairs_trading.md):** This is a specific long/short strategy where the [fund](../f/fund.md) simultaneously takes a long position in an [undervalued](../u/undervalued.md) [security](../s/security.md) and a short position in a related [overvalued](../o/overvalued.md) [security](../s/security.md), relying on the relative performance of the two.
 
 ## Risk Management
@@ -46,13 +46,13 @@ This metric evaluates [risk](../r/risk.md)-adjusted returns by comparing the [fu
 
 ## Example of Long/Short Funds
 
-1. **Citadel** - Citadel is a global financial institution with a strong presence in the [Long/Short equity](../l/long_short_equity.md) strategy. Learn more at [Citadel](https://www.citadel.com/).
+1. **Citadel** - Citadel is a global financial institution with a strong presence in the [Long/Short equity](../l/long_short_equity.md) strategy. Learn more at Citadel.
 
-2. **Bridgewater Associates** - Known for its macroeconomic approach, Bridgewater integrates Long/Short strategies in its portfolio. More details at [Bridgewater Associates](https://www.bridgewater.com/).
+2. **Bridgewater Associates** - Known for its macroeconomic approach, Bridgewater integrates Long/Short strategies in its portfolio. More details at Bridgewater Associates.
 
-3. **AQR [Capital](../c/capital.md) Management** - AQR employs quantitative methods to implement its [Long/Short equity](../l/long_short_equity.md) strategies. Explore AQR at [AQR Capital Management](https://www.aqr.com/).
+3. **AQR [Capital](../c/capital.md) Management** - AQR employs quantitative methods to implement its [Long/Short equity](../l/long_short_equity.md) strategies. Explore AQR at AQR Capital Management.
 
-4. **Two Sigma** - Using technological and data-driven methods, Two Sigma features Long/Short strategies in its investment approach. Visit [Two Sigma](https://www.twosigma.com/).
+4. **Two Sigma** - Using technological and data-driven methods, Two Sigma features Long/Short strategies in its investment approach. Visit Two Sigma.
 
 ## Conclusion
 

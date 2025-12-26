@@ -124,4 +124,4 @@ Scholars employ per capita [statistics](../s/statistics.md) in [social sciences]
 
 Per capita metrics serve as foundational tools in [economics](../e/economics.md), [finance](../f/finance.md), and [social sciences](../s/social_sciences.md), providing a standardized method for interpreting data on a per-person [basis](../b/basis.md). They aid in equitable comparisons across different populations and regions, supporting informed decision-making and comprehensive analysis. Whether it's GDP per capita for economic assessments, healthcare expenditure per capita for policy formulation, or crime rate per capita for law enforcement resource allocation, these [statistics](../s/statistics.md) [offer](../o/offer.md) indispensable insights into the average conditions impacting individuals within larger populations.
 
-For more details about financial metrics and tools, visit [Investopedia](https://www.investopedia.com).
+For more details about financial metrics and tools, visit Investopedia.

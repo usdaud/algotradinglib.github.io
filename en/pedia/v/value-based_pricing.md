@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Value](../v/value.md)-based pricing is a strategy where the price of a product or service is determined by the [perceived value](../p/perceived_value.md) to the [customer](../c/customer.md) rather than the cost of production or historical prices. This approach is commonly used in various sectors including technology, pharmaceuticals, and luxury goods, where the unique [value](../v/value.md) propositions provide opportunities for companies to charge higher prices for their offerings. 
+[Value](../v/value.md)-based pricing is a strategy where the price of a product or service is determined by the [perceived value](../p/perceived_value.md) to the [customer](../c/customer.md) rather than the cost of production or historical prices. This approach is commonly used in various sectors including technology, pharmaceuticals, and luxury goods, where the unique [value](../v/value.md) propositions provide opportunities for companies to charge higher prices for their offerings.
 
 ## What is Value-Based Pricing?
 
@@ -52,7 +52,7 @@ By aligning prices with [customer](../c/customer.md) [value](../v/value.md), com
 
 ### Estimating Customer Perceptions
 
-Accurately estimating [customer](../c/customer.md) perceptions and willingness to pay can be challenging. Customers may not always provide honest feedback, and their perceptions can change over time due to various factors such as [market](../m/market.md) trends and competitor actions. 
+Accurately estimating [customer](../c/customer.md) perceptions and willingness to pay can be challenging. Customers may not always provide honest feedback, and their perceptions can change over time due to various factors such as [market](../m/market.md) trends and competitor actions.
 
 ### Complexity
 

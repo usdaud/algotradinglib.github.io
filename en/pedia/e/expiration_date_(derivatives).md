@@ -74,11 +74,11 @@ Different exchanges and jurisdictions have specific rules concerning [derivative
 
 ### Options Clearing Corporation (OCC)
 
-The OCC ensures that [options](../o/options.md) contracts are exercised appropriately and that the writers of [options](../o/options.md) fulfill their [obligations](../o/obligation.md). It plays a vital role in maintaining [market](../m/market.md) integrity and protecting [market](../m/market.md) participants as expiration dates approach. (Website: [Options Clearing Corporation](https://www.theocc.com/))
+The OCC ensures that [options](../o/options.md) contracts are exercised appropriately and that the writers of [options](../o/options.md) fulfill their [obligations](../o/obligation.md). It plays a vital role in maintaining [market](../m/market.md) integrity and protecting [market](../m/market.md) participants as expiration dates approach.
 
 ### National Futures Association (NFA)
 
-The NFA oversees [futures](../f/futures.md) trading in the United States and ensures [transparency](../t/transparency.md) and fairness in the [futures](../f/futures.md) markets. It also provides educational resources to help traders understand the implications of contract expiration. (Website: [National Futures Association](https://www.nfa.futures.org/))
+The NFA oversees [futures](../f/futures.md) trading in the United States and ensures [transparency](../t/transparency.md) and fairness in the [futures](../f/futures.md) markets. It also provides educational resources to help traders understand the implications of contract expiration.
 
 ## Technological and Market Developments
 
@@ -92,7 +92,7 @@ High-frequency traders utilize sophisticated algorithms to exploit minute [marke
 
 ### Exchange Platforms
 
-Modern electronic [exchange](../e/exchange.md) platforms have improved [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [derivatives](../d/derivatives.md) trading. Platforms like the Chicago Mercantile [Exchange](../e/exchange.md) (CME) provide detailed guidelines and support for managing positions as expiration dates approach. (Website: [CME Group](https://www.cmegroup.com/))
+Modern electronic [exchange](../e/exchange.md) platforms have improved [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in [derivatives](../d/derivatives.md) trading. Platforms like the Chicago Mercantile [Exchange](../e/exchange.md) (CME) provide detailed guidelines and support for managing positions as expiration dates approach.
 
 ## Conclusion
 

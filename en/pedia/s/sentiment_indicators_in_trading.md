@@ -63,50 +63,50 @@ Some traders use [sentiment indicators](../s/sentiment_indicators.md) to [hedge]
 
 This weekly survey measures the sentiment of retail investors. It separates the results into three categories: bullish, bearish, and [neutral](../n/neutral.md). Many traders use this survey as a contrarian [indicator](../i/indicator.md) when sentiment levels reach extreme highs or lows.
 
-Website: [AAII Sentiment Survey](https://www.aaii.com/sentimentsurvey)
+online platform: AAII Sentiment Survey
 
 ### CNN Fear & Greed Index
 
 The Fear & Greed [Index](../i/index_instrument.md) by CNN [Business](../b/business.md) is designed to measure the primary emotions driving the [market](../m/market.md). It tracks seven different factors including the stock [price momentum](../p/price_momentum.md), stock price strength, stock price breadth, [market](../m/market.md) [volatility](../v/volatility.md), [safe haven](../s/safe_haven.md) [demand](../d/demand.md), [junk bond](../j/junk_bond.md) [demand](../d/demand.md), and [market](../m/market.md) [momentum](../m/momentum.md).
 
-Website: [CNN Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/)
+online platform: CNN Fear & Greed Index
 
 ### Investors Intelligence Sentiment Index
 
 Investors Intelligence analyzes over 100 investment newsletters to produce a sentiment [index](../i/index_instrument.md). This report categorizes the newsletters as bullish, bearish, or calling for a [correction](../c/correction.md), [offering](../o/offering.md) a snapshot of the prevailing sentiment among [market](../m/market.md) analysts.
 
-Website: [Investors Intelligence](https://www.investorsintelligence.com/x/us_advisors_sentiment.html)
+online platform: Investors Intelligence
 
 ### NAAIM Exposure Index
 
 The National Association of Active Investment Managers (NAAIM) Exposure [Index](../i/index_instrument.md) represents the average exposure to US [equity](../e/equity.md) markets reported by its members. It provides a gauge of the sentiment among professional active [asset](../a/asset.md) managers.
 
-Website: [NAAIM Exposure Index](https://www.naaim.org/programs/naaim-exposure-index/)
+online platform: NAAIM Exposure Index
 
 ### Commitment of Traders (COT) Report
 
 Published by the CFTC, the Commitment of Traders report breaks down [open interest](../o/open_interest.md) positions held by commercial and non-commercial traders. It can be particularly useful for understanding sentiment in the [futures](../f/futures.md) markets.
 
-Website: [CFTC Commitment of Traders Report](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm)
+online platform: CFTC Commitment of Traders Report
 
 ### Put/Call Ratio
 
 This ratio, compiled by the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md) (CBOE), compares the number of [put options](../p/put_options.md) traded to the number of call [options](../o/options.md) traded. Extreme values in the put/call ratio can be used as a contrarian [indicator](../i/indicator.md).
 
-Website: [CBOE Put/Call Ratio](https://www.cboe.com/tradable_products/options_indices/put-call_ratio/)
+online platform: CBOE Put/Call Ratio
 
 ### Volatility Index (VIX)
 
 The VIX, calculated by the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md), measures the [market](../m/market.md)'s expectation of 30-day [volatility](../v/volatility.md). It is often considered a "fear gauge" since it tends to rise when the [market](../m/market.md) declines.
 
-Website: [CBOE Volatility Index (VIX)](https://www.cboe.com/tradable_products/vix/)
+online platform: CBOE Volatility Index (VIX)
 
 ### Social Media Sentiment Platforms
 
 Several platforms use AI to analyze sentiment on [social media](../s/social_media.md) feeds. Examples include StockTwits and Sentifi. These platforms can provide real-time [sentiment analysis](../s/sentiment_analysis.md) based on [social media](../s/social_media.md) discussions.
 
-Website: [StockTwits](https://stocktwits.com/)
-Website: [Sentifi](https://www.sentifi.com/)
+online platform: StockTwits
+online platform: Sentifi
 
 ### Surveys from Banks and Investment Firms
 

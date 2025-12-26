@@ -4,7 +4,7 @@ Alternative data refers to data that is derived from non-traditional sources. Th
 
 ## Introduction
 
-The emergence of alternative data is closely tied to advancements in technology, particularly [big data analytics](../b/big_data_analytics_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These advancements have allowed [market](../m/market.md) participants to process and analyze vast amounts of non-traditional data at unprecedented speed and accuracy. 
+The emergence of alternative data is closely tied to advancements in technology, particularly [big data analytics](../b/big_data_analytics_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These advancements have allowed [market](../m/market.md) participants to process and analyze vast amounts of non-traditional data at unprecedented speed and accuracy.
 
 ## Types of Alternative Data
 
@@ -18,7 +18,7 @@ Satellite imagery provides valuable insights into various industries, including 
 
 ### 3. Transaction Data
 
-Purchase transactions made using [credit](../c/credit.md) and [debit](../d/debit.md) cards serve as a [robust](../r/robust.md) [indicator](../i/indicator.md) of consumer behavior. Companies such as [Second Measure](https://www.secondmeasure.com/) provide [transaction](../t/transaction.md) [data analytics](../d/data_analytics.md) to [offer](../o/offer.md) insights on consumer spending trends.
+Purchase transactions made using [credit](../c/credit.md) and [debit](../d/debit.md) cards serve as a [robust](../r/robust.md) [indicator](../i/indicator.md) of consumer behavior. Companies such as Second Measure provide [transaction](../t/transaction.md) [data analytics](../d/data_analytics.md) to [offer](../o/offer.md) insights on consumer spending trends.
 
 ### 4. Web Scraping
 
@@ -30,7 +30,7 @@ Data from app usage, including download numbers and user engagement metrics, can
 
 ### 6. Geospatial Data
 
-Geospatial data from mobile phones can provide insights into foot traffic and consumer behavior. Companies like [Orbital Insight](https://orbitalinsight.com/) specialize in geospatial analytics.
+Geospatial data from mobile phones can provide insights into foot traffic and consumer behavior. Companies like Orbital Insight specialize in geospatial analytics.
 
 ### 7. Weather Data
 
@@ -80,15 +80,15 @@ Collecting, processing, and analyzing alternative data can be expensive. The hig
 
 ### Example 1: Kensho Technologies
 
-[Kensho Technologies](https://www.kensho.com/) uses [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to provide financial insights. They analyze various alternative data sources, including news articles, [social media](../s/social_media.md) posts, and [economic indicators](../e/economic_indicators.md), to forecast [market](../m/market.md) trends.
+Kensho Technologies uses [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to provide financial insights. They analyze various alternative data sources, including news articles, [social media](../s/social_media.md) posts, and [economic indicators](../e/economic_indicators.md), to forecast [market](../m/market.md) trends.
 
-### Example 2: Quantopian and the Twitter Sentiment Approach
+### Example 2: Quantopian and the Twitter Sentiment Approach (Historical)
 
-Quantopian is a crowd-sourced quantitative investment [firm](../f/firm.md) that has leveraged Twitter sentiment data to enhance its [trading algorithms](../t/trading_algorithms.md). By analyzing millions of tweets, they derive [market sentiment](../m/market_sentiment.md) scores that influence their trading decisions.
+Quantopian was a crowd-sourced quantitative investment platform that leveraged Twitter sentiment data to enhance its [trading algorithms](../t/trading_algorithms.md). Before its closure in November 2020, they analyzed millions of tweets to derive [market sentiment](../m/market_sentiment.md) scores that influenced their trading decisions. While Quantopian is no longer operational, this approach pioneered the integration of social media sentiment into algorithmic trading and is now widely adopted by other firms.
 
 ### Example 3: RavenPack
 
-[RavenPack](https://www.ravenpack.com/) uses NLP ([Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)) to analyze news and [social media](../s/social_media.md) content for [sentiment analysis](../s/sentiment_analysis.md). Their data feeds are used by [hedge](../h/hedge.md) funds and financial institutions to make better trading decisions.
+RavenPack uses NLP ([Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)) to analyze news and [social media](../s/social_media.md) content for [sentiment analysis](../s/sentiment_analysis.md). Their data feeds are used by [hedge](../h/hedge.md) funds and financial institutions to make better trading decisions.
 
 ## Future Trends
 
@@ -107,4 +107,3 @@ As technology evolves, new sources of alternative data [will](../w/will.md) emer
 ## Conclusion
 
 Alternative data provides a [competitive advantage](../c/competitive_advantage.md) for traders by [offering](../o/offering.md) unique insights that are not available through traditional data sources. While it poses challenges, including data quality and privacy concerns, the benefits often outweigh the drawbacks. As technology continues to advance, the use of alternative data in [algorithmic trading](../a/algorithmic_trading.md) is likely to become even more prevalent.
-

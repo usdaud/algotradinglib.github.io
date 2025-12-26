@@ -107,15 +107,15 @@ The inherent [volatility](../v/volatility.md) of small cap [stocks](../s/stock.m
 Algorithmic traders use advanced [data analysis techniques](../d/data_analysis_techniques.md) to process large volumes of information quickly. [Machine learning](../m/machine_learning.md) models can identify patterns and trends, aiding in the selection and timing of small cap trades.
 
 ### Risk Management
-Effective [risk management](../r/risk_management.md) is crucial in [algorithmic trading](../a/accountability.md) of small caps. Algorithms can be designed with strict [risk](../r/risk.md) parameters, such as [stop-loss orders](../s/stop-loss_orders.md), to mitigate potential losses from volatile price movements.
+Effective [risk management](../r/risk_management.md) is crucial in [algorithmic trading](../a/algorithmic_trading.md) of small caps. Algorithms can be designed with strict [risk](../r/risk.md) parameters, such as [stop-loss orders](../s/stop-loss_orders.md), to mitigate potential losses from volatile price movements.
 
 ### Backtesting Strategies
 Before deploying a trading algorithm, extensive [backtesting](../b/backtesting.md) using historical data is necessary. This process helps in refining the strategy and ensuring that it performs well under different [market](../m/market.md) conditions.
 
 ## Conclusion
-[Investing](../i/investing.md) in small cap [stocks](../s/stock.md) can be incredibly rewarding due to their high growth potential and [diversification benefits](../d/diversification_benefits.md). However, the associated risks require careful analysis, diligent research, and [strategic management](../s/strategic_management.md). Whether through [fundamental analysis](../f/fundamental_analysis.md), diversified portfolios, or [algorithmic trading](../a/accountability.md), understanding the unique dynamics of small cap [stocks](../s/stock.md) is essential for successful [investing](../i/investing.md).
+[Investing](../i/investing.md) in small cap [stocks](../s/stock.md) can be incredibly rewarding due to their high growth potential and [diversification benefits](../d/diversification_benefits.md). However, the associated risks require careful analysis, diligent research, and [strategic management](../s/strategic_management.md). Whether through [fundamental analysis](../f/fundamental_analysis.md), diversified portfolios, or [algorithmic trading](../a/algorithmic_trading.md), understanding the unique dynamics of small cap [stocks](../s/stock.md) is essential for successful [investing](../i/investing.md).
 
 ### Resources for Further Reading
-- [Russell Indexes](https://www.ftserussell.com/index/spotlight/russell-2000)
-- [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-600/)
-- [MSCI Small Cap Index](https://www.msci.com/msci-global-small-cap-indexes)
+- Russell Indexes
+- S&P Dow Jones Indices
+- MSCI Small Cap Index

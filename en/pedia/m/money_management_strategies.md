@@ -28,7 +28,7 @@ Fixed fractional [position sizing](../p/position_sizing.md) is one of the most p
 
 **Disadvantages**:
 - May lead to significant drawdowns during periods of consecutive losses.
-  
+
 ### 2. Fixed Ratio Position Sizing
 
 Fixed ratio [position sizing](../p/position_sizing.md), also known as [Kelly Criterion](../k/kelly_criterion.md), is a method that adjusts position sizes based on the profitability and [risk](../r/risk.md) of the trading system. This method aims to increase position sizes as the account grows, but at a diminishing rate, thereby controlling [risk](../r/risk.md).
@@ -100,7 +100,7 @@ The percent [volatility](../v/volatility.md) model adjusts position sizes based 
 
 ### Software and Tools
 
-Implementing [money management](../m/money_management.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) requires the use of specialized software and tools that can automate the calculation and application of these strategies. Popular trading platforms and [portfolio management](../p/portfolio_management.md) software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) features to incorporate [money management](../m/money_management.md) rules within [trading algorithms](../t/trading_algorithms.md).
+Implementing [money management](../m/money_management.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) requires the use of specialized software and tools that can automate the calculation and application of these strategies. Popular trading platforms and [portfolio management](../p/portfolio_management.md) software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [StockSharp](../s/stocksharp.md) [offer](../o/offer.md) features to incorporate [money management](../m/money_management.md) rules within [trading algorithms](../t/trading_algorithms.md).
 
 ### Custom Algorithms
 

@@ -31,10 +31,10 @@ Position traders [hold](../h/hold.md) positions for longer periods, ranging from
 [Fundamental analysis](../f/fundamental_analysis.md) evaluates a [financial instrument](../f/financial_instrument.md)'s [intrinsic value](../i/intrinsic_value.md) by examining related economic, financial, and other qualitative and quantitative factors.
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md), or algo-trading, uses automated software to execute trades based on pre-defined criteria. This method leverages algorithms to determine optimal [trade](../t/trade.md) conditions, minimizing human error and reaction times.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, uses automated software to execute trades based on pre-defined criteria. This method leverages algorithms to determine optimal [trade](../t/trade.md) conditions, minimizing human error and reaction times.
 
 ### High-Frequency Trading (HFT)
-High-Frequency Trading is a subset of [algorithmic trading](../a/accountability.md) that executes a high number of orders at extremely fast speeds. It takes advantage of small price imbalances in the [market](../m/market.md).
+High-Frequency Trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that executes a high number of orders at extremely fast speeds. It takes advantage of small price imbalances in the [market](../m/market.md).
 
 ### Arbitrage
 [Arbitrage](../a/arbitrage.md) involves taking advantage of price differences between markets. Traders buy an [asset](../a/asset.md) in one [market](../m/market.md) at a lower price and simultaneously sell it in another [market](../m/market.md) at a higher price.
@@ -112,18 +112,18 @@ Increasing focus on environmental, social, and governance (ESG) factors is influ
 ## Prominent Trading Companies and Platforms
 
 ### Goldman Sachs
-Goldman Sachs (https://www.goldmansachs.com/) is a leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) [offering](../o/offering.md) a [range](../r/range.md) of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments, and individuals.
+Goldman Sachs ( is a leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) [offering](../o/offering.md) a [range](../r/range.md) of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments, and individuals.
 
 ### JP Morgan
-J.P. Morgan (https://www.jpmorgan.com/) is a global leader in financial services, providing strategic advice and products to the world’s most prominent corporations, governments, wealthy individuals, and institutional investors.
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world’s most prominent corporations, governments, wealthy individuals, and institutional investors.
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) is an automated global electronic [broker](../b/broker.md) specializing in routing orders across [asset](../a/asset.md) classes to various [market](../m/market.md) destinations.
+[Interactive Brokers](../i/interactive_brokers.md) ( is an automated global electronic [broker](../b/broker.md) specializing in routing orders across [asset](../a/asset.md) classes to various [market](../m/market.md) destinations.
 
 ### Robinhood
-[Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) is a [commission](../c/commission.md)-free trading app popular among retail traders for its user-friendly interface and access to a wide [range](../r/range.md) of financial instruments.
+[Robinhood](../r/robinhood.md) ( is a [commission](../c/commission.md)-free trading app popular among retail traders for its user-friendly interface and access to a wide [range](../r/range.md) of financial instruments.
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) (https://www.schwab.com/) is a major brokerage [firm](../f/firm.md) [offering](../o/offering.md) a full [range](../r/range.md) of investment services including trading, advisory, and financial management services to individual retail investors and institutions.
+[Charles Schwab](../c/charles_schwab.md) ( is a major brokerage [firm](../f/firm.md) [offering](../o/offering.md) a full [range](../r/range.md) of investment services including trading, advisory, and financial management services to individual retail investors and institutions.
 
 In conclusion, trading is a multifaceted field that spans various strategies, types of traders, and technological advancements. As the [financial markets](../f/financial_market.md) continue to evolve, traders must adapt to new trends and regulatory environments to succeed. Whether trading as an individual or part of an institution, a deep understanding of the [market dynamics](../m/market_dynamics.md) and continuous learning are keys to achieving trading success.

@@ -1,6 +1,6 @@
 # DuPont Analysis
 
-DuPont Analysis, also known as the DuPont Identity, is a framework used to decompose a company's [return](../r/return.md) on [equity](../e/equity.md) (ROE) into three distinct components: operating [efficiency](../e/efficiency.md), [asset](../a/asset.md) use [efficiency](../e/efficiency.md), and financial [leverage](../l/leverage.md). This method helps investors understand the [underlying](../u/underlying.md) forces driving a company's ROE and allows for a more detailed assessment of a company's [financial performance](../f/financial_performance.md). 
+DuPont Analysis, also known as the DuPont Identity, is a framework used to decompose a company's [return](../r/return.md) on [equity](../e/equity.md) (ROE) into three distinct components: operating [efficiency](../e/efficiency.md), [asset](../a/asset.md) use [efficiency](../e/efficiency.md), and financial [leverage](../l/leverage.md). This method helps investors understand the [underlying](../u/underlying.md) forces driving a company's ROE and allows for a more detailed assessment of a company's [financial performance](../f/financial_performance.md).
 
 ## Origins and History
 
@@ -115,19 +115,19 @@ Several financial [software tools](../s/software_tools_for_trading.md) and platf
 
 [Bloomberg Terminal](../b/bloomberg_terminal.md) provides a sophisticated [financial analysis](../f/financial_analysis.md) platform used by professionals across the globe. Users can access extensive financial data, including the ability to perform detailed DuPont Analyses on publicly traded companies.
 
-Visit: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+Visit: Bloomberg Terminal
 
 ### FactSet
 
 [FactSet](../f/factset.md) is another excellent tool for financial analytics. It offers comprehensive data and analytics, including detailed [financial statement analysis](../f/financial_statement_analysis.md) and the ability to perform DuPont Analysis.
 
-Visit: [FactSet](https://www.factset.com/)
+Visit: FactSet
 
 ### Morningstar Direct
 
 [Morningstar](../m/morningstar.md) Direct offers a [range](../r/range.md) of financial research tools, including the ability to perform detailed financial ratio analyses such as DuPont Analysis.
 
-Visit: [Morningstar Direct](https://www.morningstar.com/products/direct)
+Visit: Morningstar Direct
 
 ## Conclusion
 

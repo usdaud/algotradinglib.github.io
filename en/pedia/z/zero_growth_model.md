@@ -48,7 +48,6 @@ The Zero Growth Model is often compared with the Constant Growth Model ([Gordon 
 ## Real-World Example
 Consider a [utility](../u/utility.md) company like Consolidated Edison, Inc. (Con Edison). Such companies often exhibit stable [earnings](../e/earnings.md) and dividends:
 
-[Con Edison - Investor Relations](https://investor.conedison.com)
 
 Suppose Con Edison pays an annual [dividend](../d/dividend.md) of $3 per share, and investors require a 5% [return](../r/return.md). Using the Zero Growth Model, the [valuation](../v/valuation.md) would be:
 

@@ -97,15 +97,12 @@ Several companies provide services and solutions for back-office operations in f
 
 #### Broadridge Financial Solutions
 Broadridge offers technology solutions to streamline back-office operations, including [trade](../t/trade.md) processing, regulatory compliance, and data management.
-[Broadridge Financial Solutions](https://www.broadridge.com/)
 
 #### SunGard (now part of FIS)
 SunGard provides solutions for [trade](../t/trade.md) [clearing](../c/clearing.md), settlement, corporate actions, and [risk management](../r/risk_management.md).
-[FIS Global](https://www.fisglobal.com/)
 
 #### IHS Markit (now part of S&P Global)
 IHS Markit offers solutions for [trade](../t/trade.md) processing, compliance, and [data analytics](../d/data_analytics.md).
-[S&P Global](https://www.spglobal.com/)
 
 ### Conclusion
 

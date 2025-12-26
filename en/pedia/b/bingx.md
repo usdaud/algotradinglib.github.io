@@ -95,4 +95,3 @@ BingX maintains an active community presence across various platforms, [offering
 
 BingX stands out in the crowded cryptocurrency trading space with its comprehensive set of tools and features geared towards both novice and professional traders. Its emphasis on [social trading](../s/social_trading.md) sets it apart, providing an opportunity for less experienced traders to learn and earn from seasoned professionals. A strong focus on user experience, coupled with [robust](../r/robust.md) [security](../s/security.md) measures and educational resources, makes BingX a noteworthy platform for anyone interested in cryptocurrency trading.
 
-For more information, visit the official [BingX website](https://www.bingx.com).

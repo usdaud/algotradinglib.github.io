@@ -38,17 +38,17 @@ This solution shows that \( S_t \), the stock price, has a [log-normal distribut
 ### Applications of Geometric Brownian Motion
 
 1. **Option Pricing**: GBM is extensively used in the [Black-Scholes model](../b/black-scholes_model.md) to derive the pricing of European call and [put options](../p/put_options.md).
-    - Black-Scholes Formula: To price a European [call option](../c/call_option.md), the Black-Scholes formula takes the form:
-    \[ C = S_0 N(d_1) - K e^{-rT} N(d_2) \]
+ - Black-Scholes Formula: To price a European [call option](../c/call_option.md), the Black-Scholes formula takes the form:
+ \[ C = S_0 N(d_1) - K e^{-rT} N(d_2) \]
 
-    where:
-    \[ d_1 = \frac{\ln(S_0/K) + (r + \sigma^2/2)T}{\sigma \sqrt{T}} \]
-    \[ d_2 = d_1 - \sigma \sqrt{T} \]
-    - \( C \) is the [call option](../c/call_option.md) price.
-    - \( K \) is the [strike price](../s/strike_price.md).
-    - \( T \) is the time to [maturity](../m/maturity.md).
-    - \( r \) is the [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md).
-    - \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md).
+ where:
+ \[ d_1 = \frac{\ln(S_0/K) + (r + \sigma^2/2)T}{\sigma \sqrt{T}} \]
+ \[ d_2 = d_1 - \sigma \sqrt{T} \]
+ - \( C \) is the [call option](../c/call_option.md) price.
+ - \( K \) is the [strike price](../s/strike_price.md).
+ - \( T \) is the time to [maturity](../m/maturity.md).
+ - \( r \) is the [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md).
+ - \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md).
 
 2. **Stock Price Modeling**: GBM is used to simulate future stock prices, enabling [risk](../r/risk.md) assessment and [portfolio management](../p/portfolio_management.md).
 3. **[Risk Management](../r/risk_management.md)**: By simulating the future [distribution](../d/distribution.md) of [asset](../a/asset.md) prices, firms can quantify potential risks and set appropriate [capital](../c/capital.md) reserves.

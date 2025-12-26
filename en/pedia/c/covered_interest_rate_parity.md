@@ -24,12 +24,12 @@ The underpinning logic of CIRP is the "no [arbitrage](../a/arbitrage.md)" condit
 To illustrate the practical application, consider an [investor](../i/investor.md) who can either invest in the domestic [market](../m/market.md) or convert [currency](../c/currency.md) and invest abroad. If CIRP holds, both investments should [yield](../y/yield.md) the same [return](../r/return.md) when adjusted for [exchange](../e/exchange.md) rates. Here’s a step-by-step walkthrough:
 
 1. **Initial Investment**:
-   - Invest 1 unit of domestic [currency](../c/currency.md) over a period at domestic [interest rate](../i/interest_rate.md) \( i_d \).
+ - Invest 1 unit of domestic [currency](../c/currency.md) over a period at domestic [interest rate](../i/interest_rate.md) \( i_d \).
 
 2. **[Foreign Investment](../f/foreign_investment.md)**:
-   - Convert 1 unit of domestic [currency](../c/currency.md) to foreign [currency](../c/currency.md) at current [spot rate](../s/spot_rate.md) \( S \).
-   - Invest the converted foreign [currency](../c/currency.md) at foreign [interest rate](../i/interest_rate.md) \( i_f \).
-   - [Hedge](../h/hedge.md) the future [value](../v/value.md) of this [foreign investment](../f/foreign_investment.md) using a [forward contract](../f/forward_contract.md) at [forward rate](../f/forward_rate.md) \( F \).
+ - Convert 1 unit of domestic [currency](../c/currency.md) to foreign [currency](../c/currency.md) at current [spot rate](../s/spot_rate.md) \( S \).
+ - Invest the converted foreign [currency](../c/currency.md) at foreign [interest rate](../i/interest_rate.md) \( i_f \).
+ - [Hedge](../h/hedge.md) the future [value](../v/value.md) of this [foreign investment](../f/foreign_investment.md) using a [forward contract](../f/forward_contract.md) at [forward rate](../f/forward_rate.md) \( F \).
 
 The no-[arbitrage](../a/arbitrage.md) condition states that the end [return](../r/return.md) (including [interest](../i/interest.md)) from both investments should be equal when converted back to the original [currency](../c/currency.md), which reinforces the CIRP formula.
 
@@ -73,6 +73,6 @@ Thus, the forward [exchange rate](../e/exchange_rate.md) should be approximately
 
 Covered [Interest Rate Parity](../i/interest_rate_parity.md) is an essential concept in international [finance](../f/finance.md), ensuring [equilibrium](../e/equilibrium.md) between the [foreign exchange](../f/foreign_exchange.md) and [money](../m/money.md) markets. By understanding and applying CIRP, investors and corporations can make informed decisions regarding hedging, [investing](../i/investing.md), and navigating the complex landscape of global [financial markets](../f/financial_market.md). While theoretical in nature, CIRP plays a pivotal role in real-world financial operations and [exchange rate](../e/exchange_rate.md) determination.
 
-For more insights and practical applications on CIRP, financial institutions like **Investopedia** and **GetSmarter** provide extensive resources and examples ([link to Investopedia](https://www.investopedia.com), [link to GetSmarter](https://www.getsmarter.com)).
+For more insights and practical applications on CIRP, financial institutions like **Investopedia** and **GetSmarter** provide extensive resources and examples (link to Investopedia, link to GetSmarter).
 
 Understanding CIRP thoroughly provides one with not just theoretical knowledge but also practical tools to navigate the intricate web of global [finance](../f/finance.md).

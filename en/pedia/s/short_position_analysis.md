@@ -51,13 +51,13 @@ Algorithms continuously monitor the performance of short positions and can adjus
 
 ## Examples of Algorithms and Platforms
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where traders can create, backtest, and deploy [short selling](../s/short_selling.md) strategies.
+QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where traders can create, backtest, and deploy [short selling](../s/short_selling.md) strategies.
 
 ### Alpaca
-[Alpaca](https://alpaca.markets/) provides an API for [commission](../c/commission.md)-free trading, allowing developers to implement and execute [short selling](../s/short_selling.md) strategies programmatically.
+Alpaca provides an API for [commission](../c/commission.md)-free trading, allowing developers to implement and execute [short selling](../s/short_selling.md) strategies programmatically.
 
 ### Interactive Brokers API
-[Interactive Brokers](https://www.interactivebrokers.com/) offers an API that supports [short selling](../s/short_selling.md), allowing for highly customizable [algorithmic trading](../a/algorithmic_trading.md) solutions.
+Interactive Brokers offers an API that supports [short selling](../s/short_selling.md), allowing for highly customizable [algorithmic trading](../a/algorithmic_trading.md) solutions.
 
 ## Conclusion
 Short position analysis in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated approach that can [yield](../y/yield.md) significant rewards but also comes with substantial risks. Understanding the mechanics, employing effective strategies, and implementing [robust](../r/robust.md) [risk management](../r/risk_management.md) practices are crucial for success. By leveraging advanced algorithms and platforms, traders can more effectively navigate the complex landscape of [short selling](../s/short_selling.md) to achieve their financial objectives.

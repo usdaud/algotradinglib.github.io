@@ -3,7 +3,6 @@
 ## Introduction
 Bithumb is one of South Korea's largest cryptocurrency exchanges, providing a platform for trading [Bitcoin](../b/bitcoin.md), [Ethereum](../e/ethereum_.md), [Ripple](../r/ripple.md), and a wide [range](../r/range.md) of other digital assets. Since its launch, Bithumb has established itself as one of the premier cryptocurrency exchanges in Asia, with its platform [offering](../o/offering.md) extensive trading tools, high [liquidity](../l/liquidity.md), and [robust](../r/robust.md) [security](../s/security.md) measures.
 
-Website: [Bithumb](https://www.bithumb.com)
 
 ## History
 Bithumb was founded in 2014 by a South Korean company named BTC Korea.Com Co., Ltd. It quickly rose to prominence in the cryptocurrency world due to its accessibility and broad [range](../r/range.md) of [listed](../l/listed.md) cryptocurrencies. In 2017, Bithumb became the world's largest cryptocurrency [exchange](../e/exchange.md) by trading [volume](../v/volume.md), benefiting significantly from South Korea's increasing [interest](../i/interest.md) in digital currencies.
@@ -19,7 +18,7 @@ Bithumb was founded in 2014 by a South Korean company named BTC Korea.Com Co., L
 - **Cold Wallets:** The majority of funds are stored in cold wallets, which are not connected to the internet, minimizing the [risk](../r/risk.md) of cyber attacks.
 - **Two-[Factor](../f/factor.md) Authentication (2FA):** Provides an additional layer of [security](../s/security.md) for user accounts.
 - **Encryption:** Uses advanced encryption techniques to protect user data and [transaction](../t/transaction.md) information.
-- **Regular [Security](../s/security.md) Audits:** Conducts regular [security](../s/security.md) audits and employs dedicated [security](../s/security.md) teams to continually monitor and enhance [security](../s/security.md) protocols. 
+- **Regular [Security](../s/security.md) Audits:** Conducts regular [security](../s/security.md) audits and employs dedicated [security](../s/security.md) teams to continually monitor and enhance [security](../s/security.md) protocols.
 - **[Insurance](../i/insurance.md):** Bithumb has [insurance](../i/insurance.md) policies to help cover losses in the event of a [security](../s/security.md) breach.
 
 ## Fees
@@ -29,8 +28,8 @@ Bithumb employs a maker-taker [fee](../f/fee.md) model:
 Fees can be reduced through membership plans or promotions. [Deposit](../d/deposit.md) charges depend on the cryptocurrency, while [withdrawal](../w/withdrawal.md) fees vary and are typically higher to cover network [transaction costs](../t/transaction_costs.md).
 
 ## Payment Methods
-- **[Bank](../b/bank.md) Transfers:** Available for South Korean Won (KRW) deposits and withdrawals. 
-- **Cryptocurrency Deposits:** Bithumb supports deposits and withdrawals of various cryptocurrencies. 
+- **[Bank](../b/bank.md) Transfers:** Available for South Korean Won (KRW) deposits and withdrawals.
+- **Cryptocurrency Deposits:** Bithumb supports deposits and withdrawals of various cryptocurrencies.
 
 ## Regulatory Compliance
 Bithumb is subject to South Korea's stringent financial regulations and complies with Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) requirements. Users must verify their identities before fully utilizing the platform, a process that involves submitting identification documents.
@@ -38,7 +37,7 @@ Bithumb is subject to South Korea's stringent financial regulations and complies
 ## Recent Developments
 ### Strategic Partnerships and Acquisitions
 In recent years, Bithumb has continued to expand its reach through strategic partnerships and acquisitions. For example:
-- **FTX Partnership:** In January 2019, Bithumb partnered with FTX, a well-known cryptocurrency [derivatives](../d/derivatives.md) [exchange](../e/exchange.md), to enhance its service offerings, especially in [derivative](../d/derivative.md) products.
+- **FTX Partnership (Historical):** In January 2019, Bithumb partnered with FTX to enhance its derivative offerings. Note: FTX collapsed in November 2022 amid fraud allegations and filed for bankruptcy. This partnership is no longer active.
 - **Apricot [Acquisition](../a/acquisition.md):** In 2021, Bithumb invested in [blockchain](../b/blockchain_in_trading.md) analytics [firm](../f/firm.md) Apricot, aiming to strengthen its compliance and regulatory frameworks.
 
 ### New Product Launches
@@ -48,7 +47,7 @@ Bithumb consistently expands its product suite:
 - **DeFi and NFTs:** Recently, Bithumb has ventured into decentralized [finance](../f/finance.md) (DeFi) and non-fungible tokens (NFTs), aligning itself with emerging trends in the [blockchain](../b/blockchain_in_trading.md) sector.
 
 ## API and Algorithmic Trading
-Bithumb provides comprehensive API support, facilitating [algorithmic trading](../a/accountability.md). 
+Bithumb provides comprehensive API support, facilitating [algorithmic trading](../a/accountability.md).
 ### API Endpoints
 - **Rest API:** Allows for public and private interactions with the [exchange](../e/exchange.md), including [market](../m/market.md) data retrieval, account management, and [order](../o/order.md) placement.
 - **WebSocket API:** Supports [real-time market data](../r/real-time_market_data.md) and [order book](../o/order_book.md) updates.
@@ -57,22 +56,22 @@ Bithumb provides comprehensive API support, facilitating [algorithmic trading](.
 - **GET /public/ticker:** Retrieves the latest ticker data.
 - **POST /private/[order](../o/order.md):** Places a new [order](../o/order.md).
 
-### Algorithmic Trading Strategies 
+### Algorithmic Trading Strategies
 Several [trading strategies](../t/trading_strategies.md) can be implemented on Bithumb:
 - **[Market](../m/market.md) Making:** Involves placing buy and sell orders to [profit](../p/profit.md) from [bid-ask spread](../b/bid-ask_spread.md) differentials.
 - **[Arbitrage](../a/arbitrage.md):** Leveraging price discrepancies across different exchanges.
 - **[Trend Following](../t/trend_following.md):** Utilizing algorithms to follow [market](../m/market.md) trends and execute trades accordingly.
 
 ### API Documentation
-Complete API documentation can be found on Bithumb's official website: [Bithumb API](https://api.bithumb.com).
+Complete API documentation is available from Bithumb.
 
 ## Challenges and Controversies
 Despite its success, Bithumb has faced several challenges and controversies:
 - **[Security](../s/security.md) Breaches:** The platform has experienced [multiple](../m/multiple.md) [security](../s/security.md) breaches, notably in 2017 and 2019, resulting in significant financial losses. These incidents have raised questions about Bithumb's [security](../s/security.md) protocols.
 - **Regulatory Scrutiny:** Bithumb has faced scrutiny from South Korean regulators, particularly concerning adherence to KYC and AML regulations. This scrutiny has led to temporary halts in some services and increased regulatory measures.
-- **Legal Issues:** Several legal battles have plagued the company, involving disputes over management control and allegations of fraudulent practices. 
+- **Legal Issues:** Several legal battles have plagued the company, involving disputes over management control and allegations of fraudulent practices.
 
 ## Conclusion
 Bithumb remains a significant player in the global cryptocurrency [market](../m/market.md), particularly in Asia. Its expansive array of cryptocurrencies, advanced trading features, and commitment to enhancing [security](../s/security.md) and regulatory compliance make it a preferred platform for many traders. However, ongoing challenges, such as [security](../s/security.md) concerns and regulatory scrutiny, continue to test its resilience in the rapidly evolving digital [asset](../a/asset.md) landscape.
 
-For more details, visit [Bithumb](https://www.bithumb.com).
+For more details, visit Bithumb.

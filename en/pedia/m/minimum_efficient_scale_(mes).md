@@ -23,11 +23,11 @@ Achieving MES often involves significant [capital investment](../c/capital_inves
 
 Consider different industries and their respective MES:
 
-- **[Manufacturing](../m/manufacturing.md)**: In automobile production, firms like Tesla achieve MES by scaling up production facilities and [investing](../i/investing.md) in automation technologies. This allows them to reduce per unit costs significantly. [Tesla](https://www.tesla.com/)
-  
-- **Retail**: Retail giants like Walmart achieve MES through vast [distribution](../d/distribution.md) networks and bulk purchasing, reducing per unit costs of goods sold. Their MES is attained by optimizing [logistics](../l/logistics.md) and [inventory management](../i/inventory_management.md). [Walmart](https://www.walmart.com/)
+- **[Manufacturing](../m/manufacturing.md)**: In automobile production, firms like Tesla achieve MES by scaling up production facilities and [investing](../i/investing.md) in automation technologies. This allows them to reduce per unit costs significantly. Tesla
 
-- **Technology**: Technology firms like Amazon Web Services (AWS) achieve MES through extensive cloud [infrastructure](../i/infrastructure.md), allowing them to [offer](../o/offer.md) scalable services at lower costs to a growing number of clients. [AWS](https://aws.amazon.com/)
+- **Retail**: Retail giants like Walmart achieve MES through vast [distribution](../d/distribution.md) networks and bulk purchasing, reducing per unit costs of goods sold. Their MES is attained by optimizing [logistics](../l/logistics.md) and [inventory management](../i/inventory_management.md). Walmart
+
+- **Technology**: Technology firms like Amazon Web Services (AWS) achieve MES through extensive cloud [infrastructure](../i/infrastructure.md), allowing them to [offer](../o/offer.md) scalable services at lower costs to a growing number of clients. AWS
 
 ## Relevance in Competitive Strategy
 
@@ -50,10 +50,10 @@ Determining MES has several financial implications:
 
 ## MES in Digital and Algorithmic Trading
 
-In the context of digital and [algorithmic trading](../a/accountability.md), MES is achieved through investment in advanced algorithmic [infrastructure](../i/infrastructure.md), high-frequency [trading systems](../t/trading_systems.md), and efficient data processing capabilities. Companies such as Jane Street and Two Sigma invest heavily in achieving MES through sophisticated technologies. This allows them to execute trades at minimal costs and maintain competitive advantages. 
+In the context of digital and [algorithmic trading](../a/algorithmic_trading.md), MES is achieved through investment in advanced algorithmic [infrastructure](../i/infrastructure.md), high-frequency [trading systems](../t/trading_systems.md), and efficient data processing capabilities. Companies such as Jane Street and Two Sigma invest heavily in achieving MES through sophisticated technologies. This allows them to execute trades at minimal costs and maintain competitive advantages.
 
-- [Jane Street](https://www.janestreet.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Jane Street
+- Two Sigma
 
 ## Technological Enhancements
 

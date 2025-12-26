@@ -33,7 +33,7 @@
 ### Rebalancing Techniques
 
 1. **Calendar [Rebalancing](../r/rebalancing.md)**: Adjustments are made at regular, predetermined intervals such as monthly, quarterly, or annually. This is straightforward and ensures discipline but may lead to [rebalancing](../r/rebalancing.md) at suboptimal times.
-   
+
 2. **Threshold [Rebalancing](../r/rebalancing.md)**: Portfolio is rebalanced only when [asset](../a/asset.md) weights deviate beyond predefined thresholds (e.g., ±5%) from their target allocations. This can be more efficient as it responds to [market](../m/market.md) movements, but requires continuous monitoring.
 
 3. **Hybrid [Rebalancing](../r/rebalancing.md)**: Combines calendar and threshold approaches, where periodic checks are made, and [rebalancing](../r/rebalancing.md) occurs only if significant deviations from targets are observed. This aims to balance discipline with responsiveness to [market](../m/market.md) conditions.
@@ -43,16 +43,15 @@
 With the advent of [algorithmic trading](../a/algorithmic_trading.md), [rebalancing](../r/rebalancing.md) has become more sophisticated and efficient. Algorithms can continuously monitor portfolios and execute [rebalancing](../r/rebalancing.md) decisions based on predefined rules, minimizing human intervention and emotional biases.
 
 1. **Automation**: Strategies can be coded to run at specified intervals or in response to [market](../m/market.md) triggers, ensuring timely and precise adjustments.
-   
+
 2. **[Backtesting](../b/backtesting.md)**: Historical data can be used to simulate and refine [rebalancing strategies](../r/rebalancing_strategies.md), optimizing parameters like frequency and thresholds for better performance.
-   
+
 3. **[Optimization](../o/optimization.md) Algorithms**: Advanced techniques like [genetic algorithms](../g/genetic_algorithms_in_trading.md) or [machine learning](../m/machine_learning.md) can be employed to determine optimal [rebalancing](../r/rebalancing.md) schedules, balancing costs and benefits dynamically.
 
 ### Example
 
-A quant trading [firm](../f/firm.md) like [Two Sigma](https://www.twosigma.com) uses sophisticated models and algorithms to determine optimal [rebalancing](../r/rebalancing.md) frequencies for various strategies. They [leverage](../l/leverage.md) vast amounts of data and advanced analytics to ensure portfolios remain aligned with strategic objectives without incurring excessive [transaction costs](../t/transaction_costs.md).
+A quant trading [firm](../f/firm.md) like Two Sigma uses sophisticated models and algorithms to determine optimal [rebalancing](../r/rebalancing.md) frequencies for various strategies. They [leverage](../l/leverage.md) vast amounts of data and advanced analytics to ensure portfolios remain aligned with strategic objectives without incurring excessive [transaction costs](../t/transaction_costs.md).
 
 ### Conclusion
 
 [Rebalancing](../r/rebalancing.md) frequency is a vital parameter in the realm of [algorithmic trading](../a/algorithmic_trading.md), influencing a portfolio’s [risk](../r/risk.md), returns, and overall [efficiency](../e/efficiency.md). Its determination is a nuanced process that must consider investment goals, [market](../m/market.md) conditions, and cost implications. With advances in technology and [data analytics](../d/data_analytics.md), traders and portfolio managers can now implement more finely-tuned [rebalancing strategies](../r/rebalancing_strategies.md), enhancing their ability to navigate the complexities of the [financial markets](../f/financial_market.md).
-

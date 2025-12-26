@@ -68,15 +68,15 @@ In 2016, Anheuser-Busch InBev acquired SABMiller for over $100 billion. Given th
 
 ### Renaissance Technologies
 
-Renaissance Technologies, one of the most prominent [hedge](../h/hedge.md) funds engaging in [quantitative trading](../q/quantitative_trading.md) and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) strategies, is renowned for its sophisticated models and algorithms ([Renaissance Technologies](https://www.rentec.com/)).
+Renaissance Technologies, one of the most prominent [hedge](../h/hedge.md) funds engaging in [quantitative trading](../q/quantitative_trading.md) and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) strategies, is renowned for its sophisticated models and algorithms (Renaissance Technologies).
 
 ### Citadel
 
-Another leading [firm](../f/firm.md) in the [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) space is Citadel, a global financial institution that employs a variety of [trading strategies](../t/trading_strategies.md), including [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) ([Citadel](https://www.citadel.com/)).
+Another leading [firm](../f/firm.md) in the [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) space is Citadel, a global financial institution that employs a variety of [trading strategies](../t/trading_strategies.md), including [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) (Citadel).
 
 ### DE Shaw
 
-DE Shaw is known for its extensive use of [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) in its investment approach ([DE Shaw](https://www.deshaw.com/)).
+DE Shaw is known for its extensive use of [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) in its investment approach (DE Shaw).
 
 ## Conclusion
 

@@ -52,17 +52,17 @@ Though Raw [Beta](../b/beta.md) offers valuable insights, it comes with certain 
 
 Several companies [offer](../o/offer.md) advanced tools and platforms for Raw [Beta](../b/beta.md) and other financial analyses.
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) provides sophisticated analytics tools which include Raw [Beta](../b/beta.md) calculations for a vast array of financial instruments. More details can be accessed at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) provides sophisticated analytics tools which include Raw [Beta](../b/beta.md) calculations for a vast array of financial instruments. More details can be accessed at Bloomberg.
 
-2. **[Morningstar](../m/morningstar.md)**: Known for its wide array of financial data and research, [Morningstar](../m/morningstar.md) includes Raw [Beta](../b/beta.md) in its suite of tools for professional and individual investors. Learn more at [Morningstar](https://www.morningstar.com/).
+2. **[Morningstar](../m/morningstar.md)**: Known for its wide array of financial data and research, [Morningstar](../m/morningstar.md) includes Raw [Beta](../b/beta.md) in its suite of tools for professional and individual investors. Learn more at Morningstar.
 
 ### Application in Funds
 
 [Hedge](../h/hedge.md) funds and [investment management](../i/investment_management.md) firms frequently utilize Raw [Beta](../b/beta.md) analyses in their [trading algorithms](../t/trading_algorithms.md).
 
-1. **Two Sigma**: A quant-driven investment [firm](../f/firm.md) that utilizes statistical models, including Raw [Beta](../b/beta.md) in its strategies. More information can be found at [Two Sigma](https://www.twosigma.com/).
+1. **Two Sigma**: A quant-driven investment [firm](../f/firm.md) that utilizes statistical models, including Raw [Beta](../b/beta.md) in its strategies. More information can be found at Two Sigma.
 
-2. **DE Shaw Group**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) employing complex [mathematical models](../m/mathematical_models_in_trading.md) such as Raw [Beta](../b/beta.md) analytics. Visit their site at [DE Shaw](https://www.deshaw.com/).
+2. **DE Shaw Group**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) employing complex [mathematical models](../m/mathematical_models_in_trading.md) such as Raw [Beta](../b/beta.md) analytics.
 
 ## Case Study: A Simple Regression Analysis
 

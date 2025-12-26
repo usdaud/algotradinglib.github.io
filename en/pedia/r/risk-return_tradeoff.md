@@ -8,7 +8,7 @@ The [risk](../r/risk.md)-[return](../r/return.md) tradeoff is a fundamental conc
 
 **[Risk](../r/risk.md)** refers to the potential that an investment's actual [return](../r/return.md) [will](../w/will.md) be different from its [expected return](../e/expected_return.md). This includes the possibility of losing some or all of the original investment. It can be quantified in several ways, including [standard deviation](../s/standard_deviation.md), [beta](../b/beta.md) (for [systematic risk](../s/systematic_risk.md)), and [value](../v/value.md) at [risk](../r/risk.md) (VaR).
 
-**[Return](../r/return.md)** is the [gain](../g/gain.md) or loss generated on an investment over a particular period. This is generally measured as a percentage of the investment's initial cost. 
+**[Return](../r/return.md)** is the [gain](../g/gain.md) or loss generated on an investment over a particular period. This is generally measured as a percentage of the investment's initial cost.
 
 ### The Relationship
 
@@ -68,7 +68,7 @@ High-frequency trading leverages powerful algorithms and high-speed data network
 
 Wealthfront provides automated [investment management](../i/investment_management.md) and [financial planning](../f/financial_planning.md) services. By utilizing advanced algorithms, Wealthfront helps clients optimize their portfolios to achieve a balance between [risk](../r/risk.md) and [return](../r/return.md). The [firm](../f/firm.md) employs a sophisticated, data-driven approach to ensure that clients stay aligned with their investment goals while managing potential risks effectively.
 
-For more information, visit their [website](https://www.wealthfront.com/).
+
 
 ## Regulatory Considerations
 

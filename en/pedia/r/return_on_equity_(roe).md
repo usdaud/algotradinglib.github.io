@@ -17,9 +17,9 @@ In this formula:
 [Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," involves the use of computer algorithms to automatically make trading decisions based on a set of predefined criteria. One of the key metrics that these algorithms often consider is the ROE. Here's why:
 
 1. **[Efficiency](../e/efficiency.md) [Indicator](../i/indicator.md)**: ROE serves as a measure of how well a company is using its [equity](../e/equity.md) to generate profits. Higher ROE values indicate more efficient use of [equity](../e/equity.md), signaling potentially more attractive investment opportunities for algo traders.
-  
+
 2. **[Benchmark Comparison](../b/benchmark_comparison.md)**: [Trading algorithms](../t/trading_algorithms.md) compare the ROE of a company against [industry](../i/industry.md) benchmarks to assess relative performance. If a company has an ROE above the [industry](../i/industry.md) average, it may be flagged as a better investment prospect.
-  
+
 3. **Historical Performance**: Algorithms can analyze historical ROE data to detect trends and patterns. Consistently high or improving ROE values can indicate stable or growing profitability, which is a positive signal for investors.
 
 4. **[Risk](../r/risk.md) Assessment**: ROE helps in understanding the [risk](../r/risk.md)-reward profile of a company. A high ROE might indicate strong performance, but it can also imply higher [risk](../r/risk.md) if driven by excessive [leverage](../l/leverage.md).
@@ -28,11 +28,11 @@ In this formula:
 
 ## Components Influencing ROE
 
-1. **Net [Income](../i/income.md)**: Anything affecting net [income](../i/income.md), such as [revenue](../r/revenue.md) growth, cost management, and tax policies, [will](../w/will.md) directly impact ROE. 
+1. **Net [Income](../i/income.md)**: Anything affecting net [income](../i/income.md), such as [revenue](../r/revenue.md) growth, cost management, and tax policies, [will](../w/will.md) directly impact ROE.
 
-2. **Shareholders' [Equity](../e/equity.md)**: Changes in [equity](../e/equity.md), either through stock buybacks, issuance of new [shares](../s/shares.md), or [retained earnings](../r/retained_earnings.md), [will](../w/will.md) also affect the ROE. 
+2. **Shareholders' [Equity](../e/equity.md)**: Changes in [equity](../e/equity.md), either through stock buybacks, issuance of new [shares](../s/shares.md), or [retained earnings](../r/retained_earnings.md), [will](../w/will.md) also affect the ROE.
 
-3. **[Leverage](../l/leverage.md)**: Companies often use [debt financing](../d/debt_financing.md) to boost returns, which can artificially inflate ROE but comes with increased [risk](../r/risk.md). 
+3. **[Leverage](../l/leverage.md)**: Companies often use [debt financing](../d/debt_financing.md) to boost returns, which can artificially inflate ROE but comes with increased [risk](../r/risk.md).
 
 4. **[Dividend Policy](../d/dividend_policy.md)**: [Retained earnings](../r/retained_earnings.md) that are reinvested into the company can enhance [equity](../e/equity.md) and future [profit](../p/profit.md), impacting ROE positively.
 
@@ -55,7 +55,7 @@ Several [software platforms](../s/software_platforms_for_trading.md) and tools p
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial tool that provides extensive data on financial metrics, including ROE, and allows for the creation of customized algorithms.
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon provides detailed financial metrics and [quantitative analysis](../q/quantitative_analysis.md) tools suitable for [algorithmic trading](../a/algorithmic_trading.md).
 - **MATLAB**: A high-level language and interactive environment that can be used to perform complex mathematical computations, including ROE analysis, and develop custom [trading algorithms](../t/trading_algorithms.md).
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers data feeds and [backtesting](../b/backtesting.md) capabilities where ROE can be part of your strategy development.
+- **[StockSharp](../s/stocksharp.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that offers data feeds and [backtesting](../b/backtesting.md) capabilities where ROE can be part of your strategy development.
 
 ## Challenges and Limitations
 
@@ -71,9 +71,9 @@ Several [software platforms](../s/software_platforms_for_trading.md) and tools p
 
 Several [hedge](../h/hedge.md) funds and financial institutions have successfully incorporated ROE into their [algorithmic trading](../a/algorithmic_trading.md) models to enhance performance. Notable examples include:
 
-- **Renaissance Technologies**: One of the most successful [hedge](../h/hedge.md) funds that relies heavily on quantitative methods, including metrics like ROE, to drive its [trading strategies](../t/trading_strategies.md). More information can be found on their [website](https://www.rentec.com/).
-  
-- **Two Sigma Investments**: Another prominent name in quant trading, Two Sigma uses advanced models that take into account [financial ratios](../f/financial_ratios.md) like ROE to inform their strategies. Visit their [website](https://www.twosigma.com/) for more details.
+- **Renaissance Technologies**: One of the most successful [hedge](../h/hedge.md) funds that relies heavily on quantitative methods, including metrics like ROE, to drive its [trading strategies](../t/trading_strategies.md).
+
+- **Two Sigma Investments**: Another prominent name in quant trading, Two Sigma uses advanced models that take into account [financial ratios](../f/financial_ratios.md) like ROE to inform their strategies.
 
 ## Conclusion
 

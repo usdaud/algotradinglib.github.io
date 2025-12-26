@@ -64,11 +64,11 @@ where \( \mu \) is the drift rate, \( \sigma \) is the [volatility](../v/volatil
 
 ### Dynamic Portfolio Management
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms, such as those offered by firms like [QuantConnect](https://www.quantconnect.com/) and [Kensho](https://www.kensho.com/), incorporate [Gamma](../g/gamma.md) [Weighted](../w/weighted.md) Models to dynamically manage portfolios. These systems continuously monitor the [Greeks](../g/greeks.md) of the portfolio and automatically adjust positions to maintain the desired [risk](../r/risk.md) profile.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms, such as those offered by firms like QuantConnect and Kensho, incorporate [Gamma](../g/gamma.md) [Weighted](../w/weighted.md) Models to dynamically manage portfolios. These systems continuously monitor the [Greeks](../g/greeks.md) of the portfolio and automatically adjust positions to maintain the desired [risk](../r/risk.md) profile.
 
 ### Automated Hedging Strategies
 
-[Gamma](../g/gamma.md) [Weighted](../w/weighted.md) Models facilitate automated [hedging strategies](../h/hedging_strategies.md) by providing real-time adjustments to the [hedge ratio](../h/hedge_ratio.md). [Trading algorithms](../t/trading_algorithms.md) can be designed to rebalance the hedges frequently, reducing exposure to large, unexpected [market](../m/market.md) movements. 
+[Gamma](../g/gamma.md) [Weighted](../w/weighted.md) Models facilitate automated [hedging strategies](../h/hedging_strategies.md) by providing real-time adjustments to the [hedge ratio](../h/hedge_ratio.md). [Trading algorithms](../t/trading_algorithms.md) can be designed to rebalance the hedges frequently, reducing exposure to large, unexpected [market](../m/market.md) movements.
 
 ### Personalized Trading Algorithms
 
@@ -76,8 +76,7 @@ Quantitative traders and developers can build personalized [trading algorithms](
 
 ### Risk Mitigation
 
-Firms like [Kensho](https://www.kensho.com/) [leverage](../l/leverage.md) [Gamma](../g/gamma.md) [Weighted](../w/weighted.md) Models for [risk](../r/risk.md) mitigation purposes. By analyzing [Gamma](../g/gamma.md), these platforms can foresee risks associated with non-linear price movements and suggest preemptive measures. 
-
+Firms like Kensho [leverage](../l/leverage.md) [Gamma](../g/gamma.md) [Weighted](../w/weighted.md) Models for [risk](../r/risk.md) mitigation purposes. By analyzing [Gamma](../g/gamma.md), these platforms can foresee risks associated with non-linear price movements and suggest preemptive measures.
 ## Case Studies and Practical Examples
 
 ### Case Study 1: Hedge Fund Implementation
@@ -88,9 +87,9 @@ A [hedge fund](../h/hedge_fund.md) using a [Gamma](../g/gamma.md) [Weighted](../
 
 In high-frequency trading (HFT), precise and rapid [execution](../e/execution.md) is crucial. By incorporating [Gamma](../g/gamma.md) [Weighted](../w/weighted.md) Models, a high-frequency trading [firm](../f/firm.md) was able to optimize their [trade](../t/trade.md) [execution](../e/execution.md) strategies, adjusting their positions in milliseconds to account for sudden [market](../m/market.md) shifts. This not only improved profitability but also minimized [risk](../r/risk.md) exposure.
 
-### Case Study 3: Retail Trader Using QuantConnect
+### Case Study 3: Retail Trader Using StockSharp
 
-A retail [trader](../t/trader.md) using the [QuantConnect](../q/quantconnect.md) platform implemented a [Gamma](../g/gamma.md) [Weighted](../w/weighted.md) algorithm. The [trader](../t/trader.md) could effectively balance their [options](../o/options.md) portfolio, leading to a more stable [return](../r/return.md) profile with less sensitivity to sudden [market](../m/market.md) movements. Through continuous [backtesting](../b/backtesting.md) and adjustments, the algorithm improved the [trader](../t/trader.md)’s overall performance.
+A retail [trader](../t/trader.md) using the [StockSharp](../s/stocksharp.md) platform implemented a [Gamma](../g/gamma.md) [Weighted](../w/weighted.md) algorithm. The [trader](../t/trader.md) could effectively balance their [options](../o/options.md) portfolio, leading to a more stable [return](../r/return.md) profile with less sensitivity to sudden [market](../m/market.md) movements. Through continuous [backtesting](../b/backtesting.md) and adjustments, the algorithm improved the [trader](../t/trader.md)’s overall performance.
 
 ### Case Study 4: Market Making
 

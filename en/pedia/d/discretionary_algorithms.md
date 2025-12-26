@@ -43,16 +43,12 @@ Some [proprietary trading](../p/proprietary_trading.md) firms focus on developin
 While specific company details might not be universally accessible, several firms and platforms are known for their work in discretionary [algorithmic trading](../a/algorithmic_trading.md). Leading [proprietary trading](../p/proprietary_trading.md) firms often implement discretionary algorithms. Some notable mentions include:
 
 - **Two Sigma Investments:** Known for their quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies, Two Sigma integrates human oversight in some of their trading methodologies.
-[Website](https://www.twosigma.com/)
 
 - **Citadel LLC:** Another leading [hedge fund](../h/hedge_fund.md) that employs a combination of automated and [discretionary trading](../d/discretionary_trading.md) strategies.
-[Website](https://www.citadel.com/)
 
 - **Virtu Financial:** While primarily known for high-frequency trading, Virtu also incorporates elements of [discretionary trading](../d/discretionary_trading.md) in their strategy.
-[Website](https://www.virtu.com/)
 
 - **AQR [Capital](../c/capital.md) Management:** A [firm](../f/firm.md) that combines quantitative methods with discretionary insights to manage their portfolios.
-[Website](https://www.aqr.com/)
 
 ## Challenges and Considerations
 
@@ -90,4 +86,4 @@ As the financial [industry](../i/industry.md) continues to evolve, there is an i
 
 ## Conclusion
 
-Discretionary algorithms represent a powerful approach to trading that leverages the strengths of both human [judgment](../j/judgment.md) and computational capabilities. By combining the analytical power of algorithms with the intuition and experience of human traders, discretionary algorithms [offer](../o/offer.md) a flexible and adaptive solution for navigating complex and dynamic [market](../m/market.md) environments. However, successful implementation requires careful consideration of various challenges, including [risk management](../r/risk_management.md), skill requirements, and regulatory compliance. As technology continues to advance, the integration of AI, [alternative data](../a/alternative_data.md), and enhanced [risk management](../r/risk_management.md) tools are likely to shape the future of discretionary [algorithmic trading](../a/algorithmic_trading.md).
+Discretionary algorithms represent a powerful approach to trading that leverages the strengths of both human [judgment](../j/judgment.md) and computational capabilities. By combining the analytical power of algorithms with the intuition and experience of human traders, discretionary algorithms [offer](../o/offer.md) a flexible and adaptive solution for navigating complex and dynamic [market](../m/market.md) environments. However, successful implementation requires careful consideration of various challenges, including [risk management](../r/risk_management.md), skill requirements, and regulatory compliance. As technology continues to advance, the integration of AI, [alternative data](../a/alternative_data.md), and enhanced [risk management](../r/risk_management.md) tools are likely to shape the future of discretionary [algorithmic trading](../a/algorithmic_trading.md).

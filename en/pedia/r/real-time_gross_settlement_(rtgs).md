@@ -71,31 +71,26 @@ Ensuring interoperability with other [payment](../p/payment.md) systems and cros
 
 Operated by the Federal Reserve, Fedwire is the premier RTGS system in the United States, handling trillions of dollars of transactions each day.
 
-[Learn more about Fedwire](https://www.frbservices.org/financial-services/wires/)
 
 ### TARGET2 (European Union)
 
 TARGET2 is the RTGS system for the [Eurozone](../e/eurozone.md), operated by the Eurosystem, which comprises the European Central [Bank](../b/bank.md) and the National Central Banks of [Eurozone](../e/eurozone.md) countries.
 
-[Learn more about TARGET2](https://www.ecb.europa.eu/paym/target/html/index.en.html)
 
 ### CHAPS (UK)
 
 The [Clearing House](../c/clearing_house.md) Automated [Payment](../p/payment.md) System (CHAPS) is managed by the [Bank](../b/bank.md) of England and used for high-[value](../v/value.md) sterling transactions.
 
-[Learn more about CHAPS](https://www.bankofengland.co.uk/payment-and-settlement/chaps)
 
 ### RTGS Renewal Program
 
 In response to evolving financial environments and technological advancements, some countries are modernizing their RTGS [infrastructure](../i/infrastructure.md). For instance:
 
 1. **[Bank](../b/bank.md) of England RTGS Renewal**: Aiming to enhance resilience, flexibility, and innovation.
-   
-   [Bank of England RTGS Renewal](https://www.bankofengland.co.uk/payment-and-settlement/rtgs-renewal-programme)
+
 
 2. **ISO 20022 Migration**: Many RTGS systems are migrating to the ISO 20022 messaging standard to enable richer data transactions and better interoperability.
 
-[Learn more about ISO 20022](https://www.iso20022.org/)
 
 ## The Future of RTGS
 

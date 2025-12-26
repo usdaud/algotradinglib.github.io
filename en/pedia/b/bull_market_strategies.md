@@ -71,7 +71,7 @@ Successful [investing](../i/investing.md) in a [bull market](../b/bull_market.md
 
 For further detailed research and resources, consider accessing [financial analysis](../f/financial_analysis.md) platforms or consulting investment firms such as:
 
-- [Fidelity Investments](https://www.fidelity.com)
-- [Charles Schwab](https://www.schwab.com)
-- [ProShares](https://www.proshares.com)
-- [Direxion](https://www.direxion.com)
+- Fidelity Investments
+- Charles Schwab
+- ProShares
+- Direxion

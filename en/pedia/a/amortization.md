@@ -66,11 +66,11 @@ Here is an example of the first few rows of the amortization schedule for our ex
 
 | [Payment](../p/payment.md) Number | [Payment](../p/payment.md) Date | [Payment](../p/payment.md) Amount | [Interest](../i/interest.md) Portion | [Principal](../p/principal.md) Portion | Remaining Balance |
 |----------------|--------------|----------------|------------------|-------------------|-------------------|
-| 1              | 01/2023      | $599.55        | $500.00          | $99.55            | $99,900.45        |
-| 2              | 02/2023      | $599.55        | $499.50          | $100.05           | $99,800.40        |
-| 3              | 03/2023      | $599.55        | $499.00          | $100.55           | $99,699.85        |
-| 4              | 04/2023      | $599.55        | $498.50          | $101.05           | $99,598.80        |
-| ...            | ...          | ...            | ...              | ...               | ...               |
+| 1 | 01/2023 | $599.55 | $500.00 | $99.55 | $99,900.45 |
+| 2 | 02/2023 | $599.55 | $499.50 | $100.05 | $99,800.40 |
+| 3 | 03/2023 | $599.55 | $499.00 | $100.55 | $99,699.85 |
+| 4 | 04/2023 | $599.55 | $498.50 | $101.05 | $99,598.80 |
+|... |... |... |... |... |... |
 
 ## Benefits of an Amortization Schedule
 
@@ -97,8 +97,8 @@ While it’s possible to calculate an amortization schedule manually using the a
 ### Online Calculators
 
 Numerous online platforms [offer](../o/offer.md) [mortgage](../m/mortgage.md) calculators where borrowers input the [loan](../l/loan.md) amount, [interest rate](../i/interest_rate.md), and term to generate an amortization schedule. Examples include:
-- [Bankrate Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx)
-- [Mortgage Calculator](https://www.mortgagecalculator.org/)
+- Bankrate Mortgage Calculator
+- Mortgage Calculator
 
 ### Excel and Spreadsheet Software
 

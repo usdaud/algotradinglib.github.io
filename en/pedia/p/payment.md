@@ -80,8 +80,7 @@ AI and [machine learning](../m/machine_learning.md) continue to play a pivotal r
 In conclusion, the payment landscape is undergoing rapid transformation driven by technological advancements and changing consumer behaviors. As digital payment methods proliferate, issues of [security](../s/security.md), regulation, and innovation [will](../w/will.md) remain at the forefront of the [industry](../i/industry.md)’s development. Companies, financial institutions, and regulators must collaborate to navigate these changes while ensuring that payment systems are secure, efficient, and accessible to all.
 
 For more information on payment systems and fintech innovations, you can visit:
-- [Visa](https://www.visa.com)
-- [Mastercard](https://www.mastercard.com)
-- [PayPal](https://www.paypal.com)
-- [Square](https://squareup.com)
-
+- Visa
+- Mastercard
+- PayPal
+- Square

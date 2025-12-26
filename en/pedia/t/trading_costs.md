@@ -30,7 +30,7 @@ Latency is the delay between the initiation of an [order](../o/order.md) and its
 Access to [real-time market data](../r/real-time_market_data.md) is crucial for [algorithmic trading](../a/algorithmic_trading.md). Exchanges and data providers charge fees for delivering this data. The cost can vary significantly depending on the type and frequency of data required. High-frequency traders, who need the most up-to-date information, often incur higher data fees.
 
 #### Technology Infrastructure
-Running an [algorithmic trading](../a/algorithmic_trading.md) operation requires significant investment in technology [infrastructure](../i/infrastructure.md). This includes powerful servers, low-latency network connections, and sophisticated trading platforms. Moreover, maintaining and upgrading this [infrastructure](../i/infrastructure.md) adds to the costs. 
+Running an [algorithmic trading](../a/algorithmic_trading.md) operation requires significant investment in technology [infrastructure](../i/infrastructure.md). This includes powerful servers, low-latency network connections, and sophisticated trading platforms. Moreover, maintaining and upgrading this [infrastructure](../i/infrastructure.md) adds to the costs.
 
 #### Colocation
 Colocation refers to placing trading servers in close proximity to the [exchange](../e/exchange.md)’s servers to reduce latency. Exchanges often [offer](../o/offer.md) colocation services, which come at a [premium](../p/premium.md) cost. Colocation can provide a competitive edge by ensuring faster [order](../o/order.md) [execution](../e/execution.md).
@@ -46,13 +46,13 @@ Trading firms are subject to various regulatory fees imposed by exchanges and re
 ### Examples of Firms Focused on Reducing Trading Costs
 
 #### Virtu Financial
-Virtu Financial is a prominent player in the [market](../m/market.md)-making and high-frequency trading space. They [leverage](../l/leverage.md) advanced technology to provide [liquidity](../l/liquidity.md) and strive to minimize trading costs. More information can be found on their website: [Virtu Financial](https://www.virtu.com/)
+Virtu Financial is a prominent player in the [market](../m/market.md)-making and high-frequency trading space. They [leverage](../l/leverage.md) advanced technology to provide [liquidity](../l/liquidity.md) and strive to minimize trading costs. Virtu Financial
 
 #### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) offers [algorithmic trading](../a/algorithmic_trading.md) platforms and has a reputation for low-cost trading solutions. Their [commission](../c/commission.md) structure is competitive, and they provide advanced tools for minimizing trading costs. More details are available on their website: [Interactive Brokers](https://www.interactivebrokers.com/)
+[Interactive Brokers](../i/interactive_brokers.md) offers [algorithmic trading](../a/algorithmic_trading.md) platforms and has a reputation for low-cost trading solutions. Their [commission](../c/commission.md) structure is competitive, and they provide advanced tools for minimizing trading costs. More details are available through its online channels: Interactive Brokers
 
 #### QuantConnect
-[QuantConnect](../q/quantconnect.md) provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). They emphasize [open](../o/open.md)-source algorithms and [offer](../o/offer.md) various tools to help traders reduce costs. Visit their site for more information: [QuantConnect](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). They emphasize [open](../o/open.md)-source algorithms and [offer](../o/offer.md) various tools to help traders reduce costs.
 
 ### Conclusion
 

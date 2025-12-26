@@ -52,9 +52,9 @@ Heatmaps can be generated using various data sources, including:
 
 Several trading platforms and software [offer](../o/offer.md) built-in [heatmap](../h/heatmap.md) functionalities, such as:
 
-- **[TradingView](../t/tradingview.md):** One of the most popular trading platforms that [offer](../o/offer.md) customizable heatmaps. ([TradingView](https://www.tradingview.com))
-- **[eSignal](../e/esignal.md):** Provides advanced charting tools including heatmaps. ([eSignal](https://www.esignal.com))
-- **[Thinkorswim](../t/thinkorswim.md):** Offered by TD [Ameritrade](../a/ameritrade.md), this platform includes [heatmap](../h/heatmap.md) visualizations. ([Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
+- **[TradingView](../t/tradingview.md):** One of the most popular trading platforms that [offer](../o/offer.md) customizable heatmaps. (TradingView)
+- **[eSignal](../e/esignal.md):** Provides advanced charting tools including heatmaps. (eSignal)
+- **[Thinkorswim](../t/thinkorswim.md):** Offered by TD [Ameritrade](../a/ameritrade.md), this platform includes [heatmap](../h/heatmap.md) visualizations. (Thinkorswim)
 
 ## Case Studies
 

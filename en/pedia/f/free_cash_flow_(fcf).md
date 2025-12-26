@@ -81,31 +81,29 @@ Several companies are renowned for their strong FCF generation capabilities. The
 
 Apple Inc. consistently generates significant FCF, allowing it to [return](../r/return.md) a substantial amount of [capital](../c/capital.md) to shareholders through dividends and [share buybacks](../s/share_buybacks.md). The company's focus on [operational efficiency](../o/operational_efficiency_in_trading.md) and its ability to generate cash from its highly profitable product lines contribute to its strong FCF.
 
-[Apple Inc. Investor Relations](https://investor.apple.com/)
+Apple Inc. company filings
 
 ### Microsoft Corporation
 
 Microsoft [Corporation](../c/corporation.md)'s diverse [product portfolio](../p/product_portfolio.md), which includes software, cloud services, and gaming, contributes to its [robust](../r/robust.md) FCF. The company uses its strong [cash flow](../c/cash_flow.md) to invest in new growth opportunities and [return](../r/return.md) [capital](../c/capital.md) to shareholders.
 
-[Microsoft Corporation Investor Relations](https://www.microsoft.com/en-us/Investor/)
 
 ### Alphabet Inc.
 
 Alphabet Inc., the [parent company](../p/parent_company.md) of Google, generates substantial FCF from its advertising [business](../b/business.md). The company reinvests this cash into new ventures and technologies while also returning [capital](../c/capital.md) to shareholders through buybacks.
 
-[Alphabet Inc. Investor Relations](https://abc.xyz/investor/)
+Alphabet Inc. company filings
 
 ### Johnson & Johnson
 
 Johnson & Johnson’s diverse healthcare product lines, which include pharmaceuticals, medical devices, and consumer health products, contribute to its stable and significant FCF. The company uses this cash to invest in research and development and to provide steady dividends to its shareholders.
 
-[Johnson & Johnson Investor Relations](https://www.jnj.com/investor-relations/)
 
 ### Amazon.com Inc.
 
 Amazon.com Inc. generates significant FCF from its e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) businesses. The company reinvests much of its [cash flow](../c/cash_flow.md) into expanding its logistical capabilities and new [business](../b/business.md) ventures, but also maintains a strong [balance sheet](../b/balance_sheet.md).
 
-[Amazon.com Inc. Investor Relations](https://www.amazon.com/ir)
+online resource Inc. company filings
 
 ## Conclusion
 

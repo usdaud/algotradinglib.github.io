@@ -8,7 +8,7 @@ The reserve ratio is a tool used by central banks to control [liquidity](../l/li
 
 1. **Economic Stability:** A higher reserve ratio means banks have less [money](../m/money.md) to lend out, reducing the [money supply](../m/money_supply.md) and cooling off an [overheated economy](../o/overheated_economy.md). Conversely, a lower reserve ratio increases the [money supply](../m/money_supply.md), which can help stimulate an [economy](../e/economy.md) during a [recession](../r/recession.md).
 
-2. **[Credit](../c/credit.md) Control:** By controlling the amount banks can lend, the central [bank](../b/bank.md) can manage [inflation](../i/inflation.md) and ensure that the [economy](../e/economy.md) does not overheat. 
+2. **[Credit](../c/credit.md) Control:** By controlling the amount banks can lend, the central [bank](../b/bank.md) can manage [inflation](../i/inflation.md) and ensure that the [economy](../e/economy.md) does not overheat.
 
 3. **Confidence in the Banking System:** The reserve ratio ensures that banks have enough [liquidity](../l/liquidity.md) to meet [customer](../c/customer.md) withdrawals, which helps maintain public confidence in the banking system.
 
@@ -74,4 +74,4 @@ Despite its importance, the reserve ratio is not without challenges and criticis
 
 The reserve ratio remains a foundational element of modern banking and [monetary policy](../m/monetary_policy.md). By influencing the amount of [money](../m/money.md) banks can create through lending, the reserve ratio plays a critical role in ensuring economic stability, controlling [inflation](../i/inflation.md), and maintaining confidence in the banking system. As [financial markets](../f/financial_market.md) and technologies evolve, so too may the approaches to setting and implementing [reserve requirements](../r/reserve_requirements.md), ensuring they remain effective in a changing economic landscape.
 
-For more insights and detailed information from [industry](../i/industry.md) leaders, you can visit the Federal Reserve's official website [Federal Reserve](https://www.federalreserve.gov/) or the European Central [Bank](../b/bank.md)'s site at [European Central Bank](https://www.ecb.europa.eu/).
+For more insights and detailed information from [industry](../i/industry.md) leaders,./b/bank.md)'s site at European Central Bank.

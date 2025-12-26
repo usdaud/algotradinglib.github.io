@@ -31,7 +31,6 @@ Implied [volatility](../v/volatility.md) represents the [market](../m/market.md)
 ### Black-Scholes Model
 The [Black-Scholes Model](../b/black-scholes_model.md) (BSM) is one of the most well-known and widely-used models for pricing European-style [options](../o/options.md). It was developed by Fischer Black, Myron Scholes, and Robert Merton in the early 1970s. The BSM formula for a European [call option](../c/call_option.md) is:
 \[ C = S_0 N(d_1) - K e^{-rT} N(d_2) \]
-where
 \[ d_1 = \frac{\ln(S_0/K) + (r + \sigma^2/2)T}{\sigma\sqrt{T}} \]
 \[ d_2 = d_1 - \sigma\sqrt{T} \]
 - \( S_0 \) is the current price of the [underlying asset](../u/underlying_asset.md).
@@ -67,7 +66,7 @@ Variance and [volatility](../v/volatility.md) swaps are [financial derivatives](
 ## Applications of Option Pricing Theory in Algorithmic Trading and FinTech
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md), also known as algo-trading, involves using computer algorithms to execute trades based on pre-defined criteria. [Option pricing models](../o/option_pricing_models.md) play a vital role in [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), helping traders identify mispriced [options](../o/options.md) and [arbitrage opportunities](../a/arbitrage_opportunities.md). Advanced algorithms incorporate real-time data, such as implied [volatility](../v/volatility.md) surfaces, to optimize trading decisions and manage [risk](../r/risk.md).
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, involves using computer algorithms to execute trades based on pre-defined criteria. [Option pricing models](../o/option_pricing_models.md) play a vital role in [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), helping traders identify mispriced [options](../o/options.md) and [arbitrage opportunities](../a/arbitrage_opportunities.md). Advanced algorithms incorporate real-time data, such as implied [volatility](../v/volatility.md) surfaces, to optimize trading decisions and manage [risk](../r/risk.md).
 
 ### Market Making
 [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) to [financial markets](../f/financial_market.md) by continuously quoting [bid and ask](../b/bid_and_ask.md) prices for various securities. In the [options](../o/options.md) [market](../m/market.md), [market](../m/market.md) makers use sophisticated [option pricing models](../o/option_pricing_models.md) to determine fair prices and manage their inventories. By accurately pricing [options](../o/options.md), [market](../m/market.md) makers can [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md) while mitigating the [risk](../r/risk.md) of holding [inventory](../i/inventory.md).
@@ -82,9 +81,7 @@ Robo-advisors are automated investment platforms that provide financial advice a
 The rise of decentralized [finance](../f/finance.md) (DeFi) has led to the development of [blockchain](../b/blockchain_in_trading.md)-based platforms [offering](../o/offering.md) crypto [derivatives](../d/derivatives.md), including [options](../o/options.md) on cryptocurrencies. [Smart contracts](../s/smart_contracts_in_trading.md) on blockchains execute these [derivatives](../d/derivatives.md), and [option pricing models](../o/option_pricing_models.md) are adapted for the unique characteristics of digital assets, such as high [volatility](../v/volatility.md) and [liquidity](../l/liquidity.md) constraints. Platforms like Synthetix and Opyn [offer](../o/offer.md) decentralized [options](../o/options.md) trading, leveraging option pricing theory to facilitate fair and transparent markets.
 
 For more information on these platforms:
-- Synthetix: [https://synthetix.io/](https://synthetix.io/)
-- Opyn: [https://www.opyn.co/](https://www.opyn.co/)
-
+- Synthetix- Opyn
 ## Conclusion
 
 Option Pricing Theory is a cornerstone of modern [financial markets](../f/financial_market.md), [offering](../o/offering.md) essential tools for valuing, trading, and managing [risk](../r/risk.md) associated with [options](../o/options.md) and other [derivatives](../d/derivatives.md). From foundational models like Black-Scholes to advanced stochastic [volatility](../v/volatility.md) and jump-diffusion models, the field continues to evolve, driven by academic research and practical applications. Whether in traditional [finance](../f/finance.md) or the burgeoning field of FinTech and DeFi, option pricing theory remains integral to optimizing [trading strategies](../t/trading_strategies.md), enhancing [market](../m/market.md) [liquidity](../l/liquidity.md), and safeguarding against financial uncertainties.

@@ -44,19 +44,19 @@ A [white knight](../w/white_knight.md) is a more favorable company that the targ
 
 One of the most famous hostile takeovers was the [acquisition](../a/acquisition.md) of RJR Nabisco by the [private equity](../p/private_equity.md) [firm](../f/firm.md) Kohlberg Kravis Roberts & Co. L.P. (KKR) in 1988. The deal was worth $31.1 billion and is chronicled in the book "Barbarians at the Gate" by Bryan Burrough and John Helyar. KKR's aggressive [bid](../b/bid.md) for RJR Nabisco became a landmark in the history of [corporate finance](../c/corporate_finance.md).
 
-For more information: [Kohlberg Kravis Roberts & Co. L.P.](https://www.kkr.com/)
+For more information: Kohlberg Kravis Roberts & Co. L.P.
 
 ### 2. The Battle for Yahoo!
 
 Microsoft's [bid](../b/bid.md) to acquire Yahoo! in 2008 is a well-known example of a [hostile takeover](../h/hostile_takeover.md) attempt. Microsoft made an unsolicited [offer](../o/offer.md) of $44.6 billion, which was rejected by Yahoo!’s management. Despite increasing the [offer](../o/offer.md), Microsoft eventually withdrew its [bid](../b/bid.md) due to strong opposition from Yahoo!’s board.
 
-For more information: [Microsoft](https://www.microsoft.com/) and [Yahoo!](https://www.yahoo.com/)
+For more information: Microsoft and Yahoo!
 
 ### 3. The Hostile Takeover of Airgas by Air Products
 
 In 2010, Air Products made a [hostile bid](../h/hostile_bid.md) to acquire Airgas, a process industrial gas provider. Airgas rejected [multiple](../m/multiple.md) offers from Air Products, which led to a protracted and publicized battle. Ultimately, Air Products dropped its [bid](../b/bid.md) in 2011.
 
-For more information: [Air Products](https://www.airproducts.com/)
+For more information: Air Products
 
 ## Benefits and Drawbacks of Hostile Takeovers
 

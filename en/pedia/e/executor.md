@@ -33,4 +33,3 @@ An **Executor** is an individual or institution appointed to carry out the terms
 
 ## Conclusion
 The role of an executor is critical in the [estate planning](../e/estate_planning.md) process, ensuring that the deceased's wishes are honored and their assets are distributed appropriately. Executors must be chosen with care, considering their ability to [handle](../h/handle.md) the responsibilities and potential challenges involved. Whether an individual, professional, or corporate executor, the chosen party must act with integrity, diligence, and [transparency](../t/transparency.md) to effectively manage the [estate](../e/estate.md) and serve the beneficiaries' interests.
-

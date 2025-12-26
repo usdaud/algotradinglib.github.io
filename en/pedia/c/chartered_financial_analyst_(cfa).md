@@ -89,7 +89,7 @@ Upon successfully passing all three levels of the CFA exam and meeting the work 
 
 ## CFA Institute
 
-The CFA Institute is a global non-[profit](../p/profit.md) professional organization with over 170,000 members, including the world's largest network of local investment professionals. The CFA Institute's mission is to lead the investment profession globally by promoting the highest standards of ethics, education, and professional excellence. 
+The CFA Institute is a global non-[profit](../p/profit.md) professional organization with over 170,000 members, including the world's largest network of local investment professionals. The CFA Institute's mission is to lead the investment profession globally by promoting the highest standards of ethics, education, and professional excellence.
 
 The CFA Institute provides a [range](../r/range.md) of services to its members, including:
 
@@ -98,7 +98,7 @@ The CFA Institute provides a [range](../r/range.md) of services to its members, 
 - Publishing research and analysis on current trends and issues in the investment [industry](../i/industry.md).
 - Advocating for ethical behavior and professional standards in the investment community.
 
-For more information, visit the [CFA Institute website](https://www.cfainstitute.org).
+
 
 ## Benefits of Being a CFA Charterholder
 
@@ -129,7 +129,7 @@ CFA charterholders have access to a global network of investment professionals t
 
 ### Continuing Education
 
-The CFA Institute offers a wide [range](../r/range.md) of continuing education opportunities to help charterholders stay current with [industry](../i/industry.md) developments and maintain their professional competence. 
+The CFA Institute offers a wide [range](../r/range.md) of continuing education opportunities to help charterholders stay current with [industry](../i/industry.md) developments and maintain their professional competence.
 
 ## Challenges of the CFA Program
 
@@ -147,6 +147,6 @@ The CFA Program involves various fees, including enrollment, registration, and s
 
 ## Conclusion
 
-The Chartered Financial Analyst (CFA) designation is a prestigious credential that demonstrates expertise, commitment, and [ethical standards](../e/ethical_standards_in_trading.md) in the investment profession. It offers numerous benefits, including global recognition, career opportunities, and access to a network of professionals. However, obtaining the CFA charter requires significant dedication, time, and effort. For those who are committed to advancing their careers in [finance](../f/finance.md) and investment, the CFA designation can be a valuable and rewarding achievement. 
+The Chartered Financial Analyst (CFA) designation is a prestigious credential that demonstrates expertise, commitment, and [ethical standards](../e/ethical_standards_in_trading.md) in the investment profession. It offers numerous benefits, including global recognition, career opportunities, and access to a network of professionals. However, obtaining the CFA charter requires significant dedication, time, and effort. For those who are committed to advancing their careers in [finance](../f/finance.md) and investment, the CFA designation can be a valuable and rewarding achievement.
 
-For more detailed information, please visit the [CFA Institute website](https://www.cfainstitute.org).
+For more detailed information, please

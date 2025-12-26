@@ -7,33 +7,33 @@ A histogram is a graphical representation of the [distribution](../d/distributio
 A histogram comprises several key components:
 
 1. **Bins (or Buckets):**
-   - Bins are intervals that group the data into distinct segments. Each bin represents a [range](../r/range.md) of values, and the frequency of data within each bin is depicted. The choice of bin size can significantly affect the representation of the data.
+ - Bins are intervals that group the data into distinct segments. Each bin represents a [range](../r/range.md) of values, and the frequency of data within each bin is depicted. The choice of bin size can significantly affect the representation of the data.
 
 2. **Frequency:**
-   - Frequency refers to the number of data points within each bin. The height of each bar in the histogram corresponds to the frequency of data points in that bin.
+ - Frequency refers to the number of data points within each bin. The height of each bar in the histogram corresponds to the frequency of data points in that bin.
 
 3. **Axis:**
-   - The x-axis represents the [range](../r/range.md) of values divided into bins.
-   - The y-axis represents the frequency of the data points within each bin.
+ - The x-axis represents the [range](../r/range.md) of values divided into bins.
+ - The y-axis represents the frequency of the data points within each bin.
 
 ## Creating Histograms
 
 ### Steps to Create a Histogram
 
 1. **Collect Data:**
-   - Gather the continuous data you wish to analyze.
+ - Gather the continuous data you wish to analyze.
 
 2. **Choose the Number of Bins:**
-   - Decide the number of bins or intervals to divide the data into. Common methods for choosing the bin size include Sturges' Rule, the Rice Rule, and the Freedman-Diaconis Rule.
+ - Decide the number of bins or intervals to divide the data into. Common methods for choosing the bin size include Sturges' Rule, the Rice Rule, and the Freedman-Diaconis Rule.
 
 3. **Divide the Data:**
-   - Sort the data into the chosen bins.
+ - Sort the data into the chosen bins.
 
 4. **Count Frequencies:**
-   - Count the number of data points in each bin.
+ - Count the number of data points in each bin.
 
 5. **Plot:**
-   - Draw the bars for each bin with heights representing the frequencies.
+ - Draw the bars for each bin with heights representing the frequencies.
 
 ### Example of Creating a Histogram in Python
 
@@ -82,7 +82,7 @@ In [machine learning](../m/machine_learning.md), histograms are used to:
 
 ### 1. **Kernel Density Estimation**
 
-While histograms are useful for visualizing data [distribution](../d/distribution.md), they can sometimes provide a coarse representation, especially with inadequate bin sizes. Kernel density estimation (KDE) offers a more refined approach by smoothing the [distribution](../d/distribution.md) using kernels. Unlike histograms, KDE does not require binning the data and can provide a continuous probability density function. 
+While histograms are useful for visualizing data [distribution](../d/distribution.md), they can sometimes provide a coarse representation, especially with inadequate bin sizes. Kernel density estimation (KDE) offers a more refined approach by smoothing the [distribution](../d/distribution.md) using kernels. Unlike histograms, KDE does not require binning the data and can provide a continuous probability density function.
 
 ### 2. **2D Histograms**
 
@@ -163,7 +163,7 @@ plt.show()
 
 ### Importance of Histograms in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), histograms are instrumental in understanding the [distribution](../d/distribution.md) and behavior of financial data. Some applications include:
+In [algorithmic trading](../a/algorithmic_trading.md), histograms are instrumental in understanding the [distribution](../d/distribution.md) and behavior of financial data. Some applications include:
 
 - **Price [Distribution](../d/distribution.md) Analysis**: Analyzing the price [distribution](../d/distribution.md) of [stocks](../s/stock.md), commodities, or [currency](../c/currency.md) pairs to make informed trading decisions.
 - **[Volume Analysis](../v/volume_analysis.md)**: Understanding the [distribution](../d/distribution.md) of trading [volume](../v/volume.md) over time or across different price levels.
@@ -232,4 +232,4 @@ plt.show()
 
 ## Conclusion
 
-Histograms are versatile tools that provide a visual representation of data [distribution](../d/distribution.md), making them valuable for various applications in [data visualization](../d/data_visualization.md), statistical analysis, [machine learning](../m/machine_learning.md), and [algorithmic trading](../a/accountability.md). Whether analyzing financial data, evaluating [trading algorithms](../t/trading_algorithms.md), or transforming features for [machine learning](../m/machine_learning.md) models, histograms [offer](../o/offer.md) a straightforward yet powerful means of extracting insights from data. Proper understanding and utilization of histograms can lead to more informed decision-making and improved outcomes in diverse fields.
+Histograms are versatile tools that provide a visual representation of data [distribution](../d/distribution.md), making them valuable for various applications in [data visualization](../d/data_visualization.md), statistical analysis, [machine learning](../m/machine_learning.md), and [algorithmic trading](../a/algorithmic_trading.md). Whether analyzing financial data, evaluating [trading algorithms](../t/trading_algorithms.md), or transforming features for [machine learning](../m/machine_learning.md) models, histograms [offer](../o/offer.md) a straightforward yet powerful means of extracting insights from data. Proper understanding and utilization of histograms can lead to more informed decision-making and improved outcomes in diverse fields.

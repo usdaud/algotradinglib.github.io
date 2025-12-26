@@ -40,16 +40,16 @@ The distribution of algorithmic strategies refers to how these are disseminated 
 
 3. **Latency**: The delay between the signal generation by the algorithm and the [execution](../e/execution.md) of a [trade](../t/trade.md). Reducing latency is crucial in HFT where milliseconds can determine success or failure.
 
-    - **Types of Latency**:
-        - Network Latency: The time taken for data to travel from the [exchange](../e/exchange.md) to the trading [firm](../f/firm.md)'s servers.
-        - Processing Latency: The time taken to process data and make trading decisions.
-        - [Order](../o/order.md) [Execution](../e/execution.md) Latency: The time taken from sending the [order](../o/order.md) to the [exchange](../e/exchange.md) to its actual [execution](../e/execution.md).
+ - **Types of Latency**:
+ - Network Latency: The time taken for data to travel from the [exchange](../e/exchange.md) to the trading [firm](../f/firm.md)'s servers.
+ - Processing Latency: The time taken to process data and make trading decisions.
+ - [Order](../o/order.md) [Execution](../e/execution.md) Latency: The time taken from sending the [order](../o/order.md) to the [exchange](../e/exchange.md) to its actual [execution](../e/execution.md).
 
 ### Example Providers
 
-- **Colocation Services**: Companies like Equinix provide colocation services where trading firms can place their servers in close proximity to exchanges ([Equinix](https://www.equinix.com/services/data-centers/)).
-  
-- **[Market](../m/market.md) Data Feeds**: Thomson [Reuters](../r/reuters.md) and [Bloomberg](../b/bloomberg.md) are major providers of [market](../m/market.md) data feeds essential for [algorithmic trading](../a/accountability.md) ([Refinitiv](https://www.refinitiv.com) and [Bloomberg](https://www.bloomberg.com)).
+- **Colocation Services**: Companies like Equinix provide colocation services where trading firms can place their servers in close proximity to exchanges (Equinix).
+
+- **[Market](../m/market.md) Data Feeds**: Thomson [Reuters](../r/reuters.md) and [Bloomberg](../b/bloomberg.md) are major providers of [market](../m/market.md) data feeds essential for [algorithmic trading](../a/accountability.md) (Refinitiv and Bloomberg).
 
 ## 3. Clearing and Settlement
 
@@ -62,7 +62,7 @@ After [trade](../t/trade.md) [execution](../e/execution.md), the [transaction](.
 [Clearing](../c/clearing.md) refers to the process of reconciling orders between two parties. It’s aimed at ensuring that both parties honor their [trade](../t/trade.md) commitments, reducing the [risk](../r/risk.md) of [default](../d/default.md).
 
 - **Clearinghouses**: Centralized entities like the [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC) in the United States [handle](../h/handle.md) this process. They act as an intermediary, guaranteeing the [trade](../t/trade.md).
-  
+
 - **[Margin](../m/margin.md) Requirements**: Clearinghouses often require traders to post margins. For [futures](../f/futures.md) and [derivatives](../d/derivatives.md), this involves daily marking to [market](../m/market.md).
 
 ### Settlement
@@ -70,12 +70,12 @@ After [trade](../t/trade.md) [execution](../e/execution.md), the [transaction](.
 Settlement is the actual transfer of the [asset](../a/asset.md) from the seller to the buyer and the corresponding transfer of funds.
 
 - **T+2/T+1**: Most [equity](../e/equity.md) trades settle two days after the [trade](../t/trade.md) date (T+2). There’s a push to reduce this to one day (T+1) to reduce [risk](../r/risk.md).
-  
+
 - **Digital Settlement**: Innovations like [blockchain](../b/blockchain_in_trading.md) and digital ledger technologies (DLT) propose to revolutionize how settlement is conducted, aiming for instantaneous settlement.
 
 ### Real-World Examples
 
-- **DTCC**: The world's largest financial services [corporation](../c/corporation.md) dealing with the post-[trade](../t/trade.md) settlements ([DTCC](https://www.dtcc.com)).
+- **DTCC**: The world's largest financial services [corporation](../c/corporation.md) dealing with the post-[trade](../t/trade.md) settlements (DTCC).
 
 ## 4. Distribution of Portfolio Returns
 
@@ -109,7 +109,7 @@ Monte Carlo simulations are often employed to generate a distribution of potenti
 
 ### Major Providers
 
-- **Algo [Execution](../e/execution.md) Providers**: Firms like Citadel Securities, Virtu Financial, and Renaissance Technologies [offer](../o/offer.md) sophisticated [order](../o/order.md) [execution algorithms](../e/execution_algorithms.md) ([Citadel Securities](https://www.citadelsecurities.com), [Virtu Financial](https://www.virtu.com), [Renaissance Technologies](https://www.rentech.com)).
+- **Algo [Execution](../e/execution.md) Providers**: Firms like Citadel Securities, Virtu Financial, and Renaissance Technologies [offer](../o/offer.md) sophisticated [order](../o/order.md) [execution algorithms](../e/execution_algorithms.md) (Citadel Securities, Virtu Financial, Renaissance Technologies).
 
 ## Conclusion
 

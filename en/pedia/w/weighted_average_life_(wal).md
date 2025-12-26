@@ -68,23 +68,23 @@ Suppose an MBS has the following scheduled [principal](../p/principal.md) repaym
 
 | Period (Months) | [Principal](../p/principal.md) [Repayment](../r/repayment.md) ($) |
 |-----------------|-------------------------|
-| 1               | 1,000                   |
-| 2               | 2,000                   |
-| 3               | 3,000                   |
-| 4               | 4,000                   |
+| 1 | 1,000 |
+| 2 | 2,000 |
+| 3 | 3,000 |
+| 4 | 4,000 |
 
-1. **Identify [Cash Flow](../c/cash_flow.md) Schedule**: 
-   - Payments: $1,000, $2,000, $3,000, $4,000
-2. **Assign Time Periods**: 
-   - Periods: 1, 2, 3, 4 months
+1. **Identify [Cash Flow](../c/cash_flow.md) Schedule**:
+ - Payments: $1,000, $2,000, $3,000, $4,000
+2. **Assign Time Periods**:
+ - Periods: 1, 2, 3, 4 months
 3. **Calculate Period Weights**:
-   - [Weighted](../w/weighted.md) [Value](../v/value.md): \[ (1,000 \times 1) + (2,000 \times 2) + (3,000 \times 3) + (4,000 \times 4) \]
-   - [Weighted](../w/weighted.md) [Value](../v/value.md): \[ 1,000 + 4,000 + 9,000 + 16,000 = 30,000 \]
+ - [Weighted](../w/weighted.md) [Value](../v/value.md): \[ (1,000 \times 1) + (2,000 \times 2) + (3,000 \times 3) + (4,000 \times 4) \]
+ - [Weighted](../w/weighted.md) [Value](../v/value.md): \[ 1,000 + 4,000 + 9,000 + 16,000 = 30,000 \]
 4. **Sum [Weighted](../w/weighted.md) Values**:
-   - Sum of [Weighted](../w/weighted.md) Values: $30,000
+ - Sum of [Weighted](../w/weighted.md) Values: $30,000
 5. **Divide by Total [Principal](../p/principal.md)**:
-   - Total [Principal](../p/principal.md): $10,000
-   - WAL: \[ \frac{30,000}{10,000} = 3 \] months.
+ - Total [Principal](../p/principal.md): $10,000
+ - WAL: \[ \frac{30,000}{10,000} = 3 \] months.
 
 Thus, the WAL of the MBS is 3 months.
 

@@ -71,8 +71,8 @@ While the QFII program offers significant advantages, it also presents several c
 
 Several high-profile international institutions have obtained QFII status and are actively participating in domestic markets under this program. Noteworthy examples include:
 
-1. **BlackRock**: [Blackrock](https://www.blackrock.com) - One of the world's largest [asset](../a/asset.md) managers, BlackRock has been an active participant in China's QFII program, leveraging its extensive resources and expertise to tap into emerging [market](../m/market.md) opportunities.
-2. **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com) - A major global investment [bank](../b/bank.md), Goldman Sachs has utilized its QFII status to access Chinese markets, enhance its investment portfolios, and provide clients with diversified exposure to high-growth assets.
+1. **BlackRock**: Blackrock - One of the world's largest [asset](../a/asset.md) managers, BlackRock has been an active participant in China's QFII program, leveraging its extensive resources and expertise to tap into emerging [market](../m/market.md) opportunities.
+2. **Goldman Sachs**: Goldman Sachs - A major global investment [bank](../b/bank.md), Goldman Sachs has utilized its QFII status to access Chinese markets, enhance its investment portfolios, and provide clients with diversified exposure to high-growth assets.
 
 ## Recent Developments and Future Outlook
 

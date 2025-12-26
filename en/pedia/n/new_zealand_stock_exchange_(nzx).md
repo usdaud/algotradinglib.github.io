@@ -42,17 +42,17 @@ Good [corporate governance](../c/corporate_governance.md) is a cornerstone of NZ
 
 ## Financial Performance and Market Data
 
-NZX provides extensive [market](../m/market.md) data and analytics, including real-time prices, historical data, and financial reports. The [exchange](../e/exchange.md) offers various data plans catering to individual investors, institutional clients, and data vendors. 
+NZX provides extensive [market](../m/market.md) data and analytics, including real-time prices, historical data, and financial reports. The [exchange](../e/exchange.md) offers various data plans catering to individual investors, institutional clients, and data vendors.
 
 ## Key Metrics and Statistics
 
-| Metric                     | [Value](../v/value.md) (as of 2023)      |
+| Metric | [Value](../v/value.md) (as of 2023) |
 |----------------------------|-------------------------|
-| Total [Market Capitalization](../m/market_capitalization.md)| NZD 200 billion         |
-| Number of [Listed](../l/listed.md) Companies | 200                     |
-| Average Daily [Turnover](../t/turnover.md)     | NZD 150 million         |
-| Number of ETFs             | 30                      |
-| Number of [Derivatives](../d/derivatives.md) Traded| 2 million contracts    |
+| Total [Market Capitalization](../m/market_capitalization.md)| NZD 200 billion |
+| Number of [Listed](../l/listed.md) Companies | 200 |
+| Average Daily [Turnover](../t/turnover.md) | NZD 150 million |
+| Number of ETFs | 30 |
+| Number of [Derivatives](../d/derivatives.md) Traded| 2 million contracts |
 
 ## Notable Listed Companies
 
@@ -62,7 +62,7 @@ NZX provides extensive [market](../m/market.md) data and analytics, including re
 - **Air New Zealand Limited (AIR)**: The national airline with a global footprint.
 - **Spark New Zealand Limited (SPK)**: Major telecommunications provider.
 
-## Investor Relations and Communications
+## company filings and Communications
 
 NZX maintains a transparent communication policy, providing regular updates, [market](../m/market.md) commentary, and [investor](../i/investor.md) education resources. The [exchange](../e/exchange.md) also hosts various events, workshops, and webinars to engage with [market](../m/market.md) participants and promote [financial literacy](../f/financial_literacy.md).
 
@@ -74,7 +74,7 @@ NZX is committed to sustainable [finance](../f/finance.md) and promoting ESG pri
 
 Looking ahead, NZX aims to expand its product offerings, enhance technological [infrastructure](../i/infrastructure.md), and foster greater participation in the [capital markets](../c/capital_markets.md). The [exchange](../e/exchange.md) is exploring opportunities in digital assets, fintech collaboration, and international partnerships to bolster its competitive edge.
 
-For more information, visit the [NZX official website](https://www.nzx.com/).
+
 
 ### Notes for Algorithmic Trading
 
@@ -84,7 +84,7 @@ For more information, visit the [NZX official website](https://www.nzx.com/).
 
 **Co-Location Services**: To further reduce latency, NZX provides co-location services, enabling traders to place their servers in close proximity to the [exchange](../e/exchange.md)’s data center.
 
-**[Transaction Costs](../t/transaction_costs.md) and Fees**: Understanding the [fee](../f/fee.md) structure is vital for [algorithmic trading](../a/accountability.md), as [transaction costs](../t/transaction_costs.md) can impact profitability.
+**[Transaction Costs](../t/transaction_costs.md) and Fees**: Understanding the [fee](../f/fee.md) structure is vital for [algorithmic trading](../a/algorithmic_trading.md), as [transaction costs](../t/transaction_costs.md) can impact profitability.
 
 **Regulatory Considerations**: Algorithmic traders must comply with NZX and FMA regulations to avoid penalties and ensure [market](../m/market.md) integrity.
 

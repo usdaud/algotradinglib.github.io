@@ -28,7 +28,7 @@ Regulations and oversight of the viatical settlement [industry](../i/industry.md
 
 4. **Transfer**: Upon acceptance, the ownership of the policy is transferred from the policyholder to the viatical settlement provider. The provider assumes responsibility for paying any future premiums.
 
-5. **[Payout](../p/payout.md)**: The policyholder receives the agreed lump sum [payment](../p/payment.md). 
+5. **[Payout](../p/payout.md)**: The policyholder receives the agreed lump sum [payment](../p/payment.md).
 
 6. **[Death Benefit](../d/death_benefit.md) Collection**: Upon the death of the insured, the viatical settlement provider or [investor](../i/investor.md) contacts the [insurance](../i/insurance.md) company to collect the full [death benefit](../d/death_benefit.md).
 
@@ -36,9 +36,9 @@ Regulations and oversight of the viatical settlement [industry](../i/industry.md
 
 In the United States, the regulation of viatical settlements is primarily handled at the state level. Some of the key regulatory measures include:
 - **Licensing Requirements**: Viatical settlement providers and brokers are often required to obtain a license to operate in many states. This ensures that they meet certain standards of practice and ethics.
-  
+
 - **[Disclosure](../d/disclosure.md) Requirements**: States typically require full [disclosure](../d/disclosure.md) to the policyholder about the terms of the viatical settlement, including the amount they [will](../w/will.md) receive, any fees involved, and the process of transferring policy ownership.
-  
+
 - **Consumer Protections**: Many states impose consumer protection regulations to safeguard policyholders, such as ensuring confidentiality, providing rescission periods, and requiring [transparency](../t/transparency.md) in the [transaction](../t/transaction.md).
 
 - **[Fraud](../f/fraud.md) Prevention**: To mitigate fraudulent activities, regulations often include measures to verify the authenticity of medical records, the legitimacy of [life insurance](../l/life_insurance.md) policies, and the good faith of viatical settlement providers and brokers.
@@ -52,7 +52,7 @@ For policyholders, a viatical settlement offers several financial advantages:
 - **No Future Premiums**: After selling the policy, the policyholder is relieved of the obligation to pay future premiums, which can be significant especially if financial resources are limited.
 
 For viatical settlement providers and investors, the key financial incentives include:
-- **Potential Profits**: By purchasing policies at a [discount](../d/discount.md) and collecting the full [death benefit](../d/death_benefit.md) upon the insured's death, providers and investors can realize substantial returns. 
+- **Potential Profits**: By purchasing policies at a [discount](../d/discount.md) and collecting the full [death benefit](../d/death_benefit.md) upon the insured's death, providers and investors can realize substantial returns.
 
 However, there are also risks to consider:
 - **Longevity [Risk](../r/risk.md)**: If the policyholder lives longer than expected, the purchaser must continue paying premiums, reducing the net [profit](../p/profit.md).
@@ -70,11 +70,11 @@ Despite these concerns, proponents argue that viatical settlements [offer](../o/
 
 It is important to distinguish between viatical settlements and life settlements. While both involve selling a [life insurance](../l/life_insurance.md) policy, the primary differences lie in the condition of the policyholder and the expected [payout](../p/payout.md):
 - **Viatical Settlements**: These are specifically for terminally ill individuals with a limited [life expectancy](../l/life_expectancy.md). The [payout](../p/payout.md) tends to be higher due to the shorter expected [duration](../d/duration.md) of [premium](../p/premium.md) payments.
-  
+
 - **Life Settlements**: Life settlements are for older individuals (usually seniors) who are not necessarily terminally ill but still wish to sell their [life insurance](../l/life_insurance.md) policies. The [life expectancy](../l/life_expectancy.md) of the insured is typically longer, resulting in a lower [payout](../p/payout.md) compared to viatical settlements.
 
 ## Conclusion
 
-Viatical settlements provide a crucial financial lifeline for terminally ill individuals, allowing them to access the [value](../v/value.md) of their [life insurance](../l/life_insurance.md) policies to cover immediate expenses. While the [industry](../i/industry.md) presents both significant benefits and considerable risks, understanding the detailed process, regulatory environment, and ethical implications can help stakeholders make informed decisions. As with any financial arrangement, careful consideration and [due diligence](../d/due_diligence.md) are essential to navigate the complexities and harness the potential benefits of viatical settlements. 
+Viatical settlements provide a crucial financial lifeline for terminally ill individuals, allowing them to access the [value](../v/value.md) of their [life insurance](../l/life_insurance.md) policies to cover immediate expenses. While the [industry](../i/industry.md) presents both significant benefits and considerable risks, understanding the detailed process, regulatory environment, and ethical implications can help stakeholders make informed decisions. As with any financial arrangement, careful consideration and [due diligence](../d/due_diligence.md) are essential to navigate the complexities and harness the potential benefits of viatical settlements.
 
-For more information on companies involved in viatical settlements, one may visit the websites of prominent viatical settlement providers such as [Life Insurance Settlements, Inc. (LISI)](https://www.lisettlements.com/) or [The Coventry Group](https://www.coventry.com/), which [offer](../o/offer.md) detailed insights into their processes, services, and [ethical standards](../e/ethical_standards_in_trading.md).
+For more information on companies involved in viatical settlements, one may visit the websites of prominent viatical settlement providers such as Life Insurance Settlements, Inc. (LISI) or The Coventry Group, which [offer](../o/offer.md) detailed insights into their processes, services, and [ethical standards](../e/ethical_standards_in_trading.md).

@@ -15,8 +15,8 @@ If the [Trade](../t/trade.md) Balance is negative, the country is a net importer
 ### Examples of Net Importers
 
 1. **United States**: As one of the largest economies globally, the United States consistently runs a [trade deficit](../t/trade_deficit.md), importing more goods and services than it exports. Factors contributing to this status include a strong domestic [demand](../d/demand.md) for [consumer goods](../c/consumer_goods.md), energy resources, and industrial supplies.
-   
-2. **United Kingdom**: The UK also often runs a [trade deficit](../t/trade_deficit.md), partly due to its consumption patterns and the structure of its [economy](../e/economy.md), which is heavily service-oriented. 
+
+2. **United Kingdom**: The UK also often runs a [trade deficit](../t/trade_deficit.md), partly due to its consumption patterns and the structure of its [economy](../e/economy.md), which is heavily service-oriented.
 
 3. **India**: India imports a significant amount of oil and [consumer goods](../c/consumer_goods.md) while exporting services and software, leading to a [trade](../t/trade.md) imbalance.
 
@@ -56,7 +56,7 @@ Several factors influence whether a country becomes a net importer, including:
 
 ### Economic Structure
 
-Countries with a service-oriented [economy](../e/economy.md) tend to [import](../i/import.md) more goods, while those with a [manufacturing](../m/manufacturing.md) base are more likely to be net exporters. 
+Countries with a service-oriented [economy](../e/economy.md) tend to [import](../i/import.md) more goods, while those with a [manufacturing](../m/manufacturing.md) base are more likely to be net exporters.
 
 ### Exchange Rates
 

@@ -11,7 +11,7 @@ OEICs have a board of directors, which takes responsibility for running the comp
 ### Key Features
 
 1. **[Open](../o/open.md)-Ended Structure**: [Shares](../s/shares.md) in an OEIC are not fixed and can be created or redeemed according to [investor](../i/investor.md) [demand](../d/demand.md). This allows the size of the [fund](../f/fund.md) to grow and shrink.
-   
+
 2. **Pricing**: The price at which [shares](../s/shares.md) are bought and sold is based on the Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV) of the [fund](../f/fund.md)'s investments. The NAV is calculated daily, providing a transparent [basis](../b/basis.md) for trading [shares](../s/shares.md).
 
 3. **Investment Objectives and Strategies**: OEICs can pursue a [range](../r/range.md) of strategies and objectives, from conservative [income](../i/income.md) generation to aggressive growth. The [investment strategy](../i/investment_strategy.md) is typically outlined in the [fund](../f/fund.md)’s [prospectus](../p/prospectus.md).
@@ -23,7 +23,7 @@ OEICs have a board of directors, which takes responsibility for running the comp
 ## Advantages of OEICs
 
 1. **[Liquidity](../l/liquidity.md)**: The [open](../o/open.md)-ended nature allows investors to buy and sell [shares](../s/shares.md) easily, making OEICs suitable for those needing flexibility.
-   
+
 2. **Professional Management**: OEICs are managed by professional [fund](../f/fund.md) managers who make investment decisions based on extensive research and analysis.
 
 3. **[Diversification](../d/diversification.md)**: They [offer](../o/offer.md) investors a way to diversify their investments across various [asset](../a/asset.md) classes, sectors, and geographies, mitigating individual [asset](../a/asset.md) [risk](../r/risk.md).
@@ -57,7 +57,7 @@ Property OEICs invest in [real estate](../r/real_estate.md) assets, including co
 ## Risks Associated with OEICs
 
 1. **[Market Risk](../m/market_risk.md)**: The [value](../v/value.md) of the investments held by the OEIC can fluctuate due to changes in [market](../m/market.md) conditions.
-   
+
 2. **[Liquidity Risk](../l/liquidity_risk.md)**: Although OEICs are designed to be [liquid](../l/liquid.md), there can be situations where the [underlying](../u/underlying.md) assets are not easily sellable, affecting the [fund](../f/fund.md)'s ability to meet [redemption](../r/redemption.md) requests.
 
 3. **[Credit Risk](../c/credit_risk.md)**: For [bond](../b/bond.md) OEICs, there is the [risk](../r/risk.md) that the [issuer](../i/issuer.md) of the [bond](../b/bond.md) could [default](../d/default.md) on its payments.
@@ -71,7 +71,7 @@ Property OEICs invest in [real estate](../r/real_estate.md) assets, including co
 [Investing](../i/investing.md) in an OEIC typically involves the following steps:
 
 1. **Research**: Understand your investment objectives, [risk tolerance](../r/risk_tolerance.md), and the specific details of the OEIC, including its performance history and management team.
-   
+
 2. **Selecting a [Fund](../f/fund.md)**: Choose a [fund](../f/fund.md) that aligns with your investment objectives. This can be done through financial advisors, [fund](../f/fund.md) platforms, or directly through the [fund](../f/fund.md) family.
 
 3. **Account Setup**: [Open](../o/open.md) an investment account if you don’t already have one. This could be through a brokerage [firm](../f/firm.md), an online investment platform, or directly with the [fund](../f/fund.md).
@@ -108,9 +108,9 @@ OEICs are tax-efficient investment vehicles. The way they are taxed can vary bas
 
 Several financial institutions are well-known for managing OEICs. Here are a few of them:
 
-- **BlackRock**: [BlackRock](https://www.blackrock.com/) offers a variety of OEICs spanning different sectors and [asset](../a/asset.md) classes.
-- **Fidelity International**: [Fidelity International](https://www.fidelityinternational.com/) provides numerous OEIC [options](../o/options.md) focusing on equities, bonds, and balanced portfolios.
-- **Vanguard**: [Vanguard](https://www.vanguard.co.uk/) offers cost-effective OEICs that enable investors to diversify across a broad spectrum of [asset](../a/asset.md) types.
+- **BlackRock**: BlackRock offers a variety of OEICs spanning different sectors and [asset](../a/asset.md) classes.
+- **Fidelity International**: Fidelity International provides numerous OEIC [options](../o/options.md) focusing on equities, bonds, and balanced portfolios.
+- **Vanguard**: Vanguard offers cost-effective OEICs that enable investors to diversify across a broad spectrum of [asset](../a/asset.md) types.
 
 ## Conclusion
 

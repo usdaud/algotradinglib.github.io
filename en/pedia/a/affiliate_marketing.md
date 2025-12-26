@@ -1,6 +1,6 @@
 # Affiliate Marketing
 
-Affiliate [marketing](../m/marketing.md) is a performance-based [marketing strategy](../m/marketing_strategy.md) where businesses reward affiliates (partners) for driving traffic, sales, or other desired actions to the company's website through the affiliate's own [marketing](../m/marketing.md) efforts. This strategy creates a symbiotic relationship where both the [business](../b/business.md) and the affiliate benefit from successful conversions.
+Affiliate [marketing](../m/marketing.md) is a performance-based [marketing strategy](../m/marketing_strategy.md) where businesses reward affiliates (partners) for driving traffic, sales, or other desired actions to the company's online channels through the affiliate's own [marketing](../m/marketing.md) efforts. This strategy creates a symbiotic relationship where both the [business](../b/business.md) and the affiliate benefit from successful conversions.
 
 ## Key Players in Affiliate Marketing
 
@@ -20,10 +20,10 @@ The consumer is the end user who interacts with the affiliate's [marketing](../m
 
 An affiliate network acts as an intermediary between the merchant and the affiliate. Networks provide a platform for managing affiliate programs, tracking performance, handling payments, and providing support. Popular affiliate networks include:
 
-- [CJ Affiliate](https://www.cj.com/)
-- [ShareASale](https://www.shareasale.com/)
-- [Rakuten Marketing](https://rakutenadvertising.com/)
-- [Amazon Associates](https://affiliate-program.amazon.com/)
+- CJ Affiliate
+- ShareASale
+- Rakuten Marketing
+- Amazon Associates
 
 ## How Affiliate Marketing Works
 

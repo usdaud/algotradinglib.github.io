@@ -55,9 +55,9 @@ Managing accounts payable can present several challenges, including:
 Adopting [best practices](../b/best_practices.md) can help businesses manage accounts payable more efficiently:
 
 - **Automation**: Implementing AP automation software to streamline [invoice](../i/invoice.md) processing, reduce errors, and enhance [productivity](../p/productivity.md). Notable providers include:
-  - [Tipalti](https://tipalti.com/)
-  - [SAP Ariba](https://www.sap.com/products/accounts-payable-ariba.html)
-  - [Coupa](https://www.coupa.com/)
+ - Tipalti
+ - SAP Ariba
+ - Coupa
 
 - **Regular [Reconciliation](../r/reconciliation.md)**: Regularly reconciling accounts payable records with supplier statements to identify discrepancies early.
 - **Supplier Communication**: Maintaining [open](../o/open.md) lines of communication with suppliers to address any issues promptly and strengthen relationships.

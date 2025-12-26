@@ -62,7 +62,7 @@ Despite being enacted over 80 years ago, the principles and provisions of the [I
 
 ## Resources and Further Reading
 
-- [Securities and Exchange Commission (SEC) - Investment Company Registration and Regulation](https://www.sec.gov)
-- [Investment Company Institute (ICI)](https://www.ici.org)
+- Securities and Exchange Commission (SEC) - Investment Company Registration and Regulation
+- Investment Company Institute (ICI)
 
 The complexity and comprehensive coverage of the [Investment Company](../i/investment_company.md) Act of 1940 underscore its importance in maintaining the stability, integrity, and fairness of [financial markets](../f/financial_market.md). By providing a detailed regulatory framework, the Act ensures that investors are protected, and the fiduciary responsibilities of investment companies are upheld.

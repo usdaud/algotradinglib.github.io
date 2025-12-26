@@ -53,21 +53,17 @@ The final step is to deploy the strategy in a live [trading environment](../t/tr
 
 Several tools and platforms are available that can assist in the hypothesis validation process. Here are a few noteworthy ones:
 
-1. **[QuantConnect](../q/quantconnect.md)**: This platform offers a cloud-based environment for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. It provides access to historical data, [backtesting](../b/backtesting.md) capabilities, and integrates with various brokerages.
+1. **[StockSharp](../s/stocksharp.md)**: This platform offers an environment for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. It provides access to historical data, [backtesting](../b/backtesting.md) capabilities, and integrates with various brokerages.
 
-   [QuantConnect](https://www.quantconnect.com/)
 
 2. **[AlgoTrader](../a/algotrader.md)**: This is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports [multi-asset trading](../m/multi-asset_trading.md) and offers tools for [backtesting](../b/backtesting.md), statistical analysis, and live trading.
 
-   [AlgoTrader](https://www.algotrader.com/)
 
 3. **MetaTrader 5**: A popular [trading platform](../t/trading_platform.md) that offers extensive tools for [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) of [trading strategies](../t/trading_strategies.md). It also supports automated trading through expert advisors (EAs).
 
-   [MetaTrader 5](https://www.metatrader5.com/)
 
 4. **[TradingView](../t/tradingview.md)**: Known for its powerful charting tools and [social trading](../s/social_trading.md) features, [TradingView](../t/tradingview.md) also offers [backtesting](../b/backtesting.md) capabilities through its Pine Script language.
 
-   [TradingView](https://www.tradingview.com/)
 
 ## Conclusion
 

@@ -61,15 +61,15 @@ Form a diversified portfolio by selecting the top-ranked [stocks](../s/stock.md)
 
 ## Example of Magic Formula Investing in Action
 
-Let’s consider an example to visualize the theoretical application of Magic Formula [Investing](../i/investing.md). Assume a simplified [market](../m/market.md) with five [stocks](../s/stock.md): 
+Let’s consider an example to visualize the theoretical application of Magic Formula [Investing](../i/investing.md). Assume a simplified [market](../m/market.md) with five [stocks](../s/stock.md):
 
 | Stock | EBIT | Enterprise [Value](../v/value.md) (EV) | [Return](../r/return.md) on [Capital](../c/capital.md) | Composite Rank |
 |-------|------|-----------------------|--------------------|----------------|
-| A     | 200  | 2000                  | 0.1                | 2              |
-| B     | 300  | 6000                  | 0.05               | 5              |
-| C     | 150  | 1000                  | 0.15               | 1              |
-| D     | 220  | 2500                  | 0.088              | 3              |
-| E     | 180  | 2200                  | 0.082              | 4              |
+| A | 200 | 2000 | 0.1 | 2 |
+| B | 300 | 6000 | 0.05 | 5 |
+| C | 150 | 1000 | 0.15 | 1 |
+| D | 220 | 2500 | 0.088 | 3 |
+| E | 180 | 2200 | 0.082 | 4 |
 
 Ranked by combined [Earnings Yield](../e/earnings_yield.md) and ROC, [stocks](../s/stock.md) C, A, and D make it to the top. These would be the [stocks](../s/stock.md) to be included in the portfolio.
 
@@ -97,9 +97,9 @@ The accuracy of financial data (EBIT, Enterprise [Value](../v/value.md), etc.) i
 
 Implementing the strategy across a diversified set of [stocks](../s/stock.md) may incur significant [trading costs](../t/trading_costs.md), especially in less [liquid](../l/liquid.md) markets. These costs can eat into the excess returns.
 
-## Automating Magic Formula Investing 
+## Automating Magic Formula Investing
 
-With technological advancements, automating Magic Formula [Investing](../i/investing.md) has become feasible. [Algorithmic trading](../a/accountability.md) systems can streamline the formula’s implementation, minimizing manual labor and potential errors. Here's how:
+With technological advancements, automating Magic Formula [Investing](../i/investing.md) has become feasible. [Algorithmic trading](../a/algorithmic_trading.md) systems can streamline the formula’s implementation, minimizing manual labor and potential errors. Here's how:
 
 ### 1. Data Integration
 
@@ -121,7 +121,7 @@ Implement rules for portfolio selection, [rebalancing](../r/rebalancing.md), and
 
 Quantopian, before its closure, was a platform allowing individuals to automate and backtest [trading strategies](../t/trading_strategies.md), including Magic Formula [Investing](../i/investing.md). Tools like these, despite their end, underscore the feasibility of automated [investing](../i/investing.md) strategies.
 
-[Quantopian's Legacy](https://quantopian.com)
+Quantopian's Legacy
 
 ## Conclusion
 

@@ -42,7 +42,7 @@ Consider a company that produces and sells widgets. The company's fixed costs ar
 
 Using the formula for the breakeven point in units:
 
-\[ 
+\[
 \begin{aligned}
 \text{Breakeven Point (Units)} &= \frac{\text{Fixed Costs}}{\text{Selling Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit}} \\
 &= \frac{\$10,000}{\$50 - \$30} \\
@@ -59,7 +59,7 @@ Using the same company with fixed costs of $10,000 per month, suppose the total 
 
 Using the formula for the breakeven point in sales [revenue](../r/revenue.md):
 
-\[ 
+\[
 \begin{aligned}
 \text{Breakeven Point (Sales [Revenue](../r/revenue.md))} &= \frac{\text{Fixed Costs}}{1 - \left(\frac{\text{Variable Costs}}{\text{Sales [Revenue](../r/revenue.md)}}\right)} \\
 &= \frac{\$10,000}{1 - \left(\frac{\$15,000}{\$25,000}\right)} \\
@@ -79,7 +79,7 @@ This means the company needs to generate $25,000 in sales [revenue](../r/revenue
 
 Suppose the selling price per widget increases from $50 to $60, while the fixed costs remain at $10,000 and the variable costs per unit remain at $30. The new breakeven point can be calculated as follows:
 
-\[ 
+\[
 \begin{aligned}
 \text{New Breakeven Point (Units)} &= \frac{\text{Fixed Costs}}{\text{Selling Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit}} \\
 &= \frac{\$10,000}{\$60 - \$30} \\
@@ -94,7 +94,7 @@ With the increased selling price, the company now needs to sell fewer widgets (a
 
 Suppose the [variable cost](../v/variable_cost.md) per widget increases from $30 to $35, while the fixed costs remain at $10,000 and the selling price per unit remains at $50. The new breakeven point can be calculated as follows:
 
-\[ 
+\[
 \begin{aligned}
 \text{New Breakeven Point (Units)} &= \frac{\text{Fixed Costs}}{\text{Selling Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit}} \\
 &= \frac{\$10,000}{\$50 - \$35} \\
@@ -119,7 +119,7 @@ Consider an [algorithmic trading](../a/accountability.md) strategy with the foll
 
 Using the breakeven point formula for units:
 
-\[ 
+\[
 \begin{aligned}
 \text{Breakeven Point (Trades)} &= \frac{\text{Fixed Costs}}{\text{Average [Profit](../p/profit.md) per [Trade](../t/trade.md)} - \text{[Variable Cost](../v/variable_cost.md) per [Trade](../t/trade.md)}} \\
 &= \frac{\$1,000}{\$5 - \$1} \\
@@ -180,13 +180,11 @@ For companies that sell [multiple](../m/multiple.md) products, the breakeven ana
 
 Tesla, Inc. is a renowned electric vehicle manufacturer. Understanding its breakeven point is crucial for managing [production costs](../p/production_costs.md) and setting sales targets. By analyzing its fixed and variable costs, Tesla can determine the number of electric vehicles it needs to sell to cover its costs and achieve profitability.
 
-For detailed financial reports and analysis, visit Tesla's [investor relations](../i/investor_relations.md) page: [Tesla Investor Relations](https://ir.tesla.com).
 
 ### Example 2: Amazon.com, Inc.
 
 Amazon.com, Inc. is a global e-[commerce](../c/commerce.md) giant. Given its diverse [range](../r/range.md) of products and services, calculating the breakeven point for different segments helps the company optimize its operations and pricing strategies. Amazon leverages advanced [financial modeling](../f/financial_modeling.md) to assess the impact of cost changes on profitability.
 
-For detailed financial reports and analysis, visit Amazon's [investor relations](../i/investor_relations.md) page: [Amazon Investor Relations](https://www.amazon.com/ir).
 
 ## Conclusion
 

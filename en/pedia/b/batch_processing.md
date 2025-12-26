@@ -9,7 +9,7 @@ In batch processing, tasks are queued and executed one after the other. These ta
 ## Advantages of Batch Processing in Algo-Trading
 
 1. **[Efficiency](../e/efficiency.md)**: Batch processing can [handle](../h/handle.md) large volumes of data and complex computations more efficiently than real-time processing. This [efficiency](../e/efficiency.md) is crucial for algo-trading, where data streams from various [financial markets](../f/financial_market.md) need to be processed in bulk.
-   
+
 2. **Cost-Effectiveness**: Batch processing reduces computational costs by optimizing resource utilization. Instead of continuously consuming resources for real-time processing, tasks can be batched together and executed during off-peak hours.
 
 3. **Error Handling and Recovery**: Batch processing provides better control over error handling and recovery processes. If errors occur, they can be more easily detected, logged, and managed in a batch process.
@@ -56,37 +56,37 @@ In batch processing, tasks are queued and executed one after the other. These ta
 
 - **Overview**: An [open](../o/open.md)-source framework that facilitates distributed storage and processing of large datasets across clusters of computers.
 - **Application**: Used in algo-trading for processing large volumes of historical [market](../m/market.md) data and training [machine learning](../m/machine_learning.md) models.
-- **Link**: [Apache Hadoop](https://hadoop.apache.org/)
+- **Link**: Apache Hadoop
 
 ### 2. **Apache Spark**
 
 - **Overview**: An [open](../o/open.md)-source unified analytics engine for large-scale data processing, with built-in modules for SQL, streaming, and [machine learning](../m/machine_learning.md).
 - **Application**: Employed in algo-trading for distributed data processing and handling complex computations in batch [mode](../m/mode.md).
-- **Link**: [Apache Spark](https://spark.apache.org/)
+- **Link**: Apache Spark
 
 ### 3. **Google Cloud Platform (GCP)**
 
 - **Overview**: A suite of [cloud computing](../c/cloud_computing_in_trading.md) services that run on the same [infrastructure](../i/infrastructure.md) that Google uses internally for its end-user products.
 - **Application**: GCP provides scalable batch processing solutions through its BigQuery and Dataproc services.
-- **Link**: [Google Cloud Platform](https://cloud.google.com/)
+- **Link**: Google Cloud Platform
 
 ### 4. **AWS Batch**
 
 - **Overview**: A fully managed batch processing service by Amazon Web Services (AWS) that enables developers to efficiently run thousands of batch computing jobs.
 - **Application**: AWS Batch is used in algo-trading to manage and execute large-scale batch processing tasks like [backtesting](../b/backtesting.md) and model training.
-- **Link**: [AWS Batch](https://aws.amazon.com/batch/)
+- **Link**: AWS Batch
 
 ### 5. **Microsoft Azure Batch**
 
 - **Overview**: A cloud service by Microsoft that provides job scheduling and compute management to run large-scale parallel and high-performance computing applications efficiently in the cloud.
 - **Application**: Azure Batch is employed in algo-trading workflows for processing extensive datasets and optimizing [trading algorithms](../t/trading_algorithms.md).
-- **Link**: [Microsoft Azure Batch](https://azure.microsoft.com/en-us/services/batch/)
+- **Link**: Microsoft Azure Batch
 
 ### 6. **Databricks**
 
 - **Overview**: A data and AI company that provides a unified platform for data engineering, [data science](../d/data_science_in_trading.md), and [machine learning](../m/machine_learning.md).
 - **Application**: Databricks leverages Apache Spark for fast and scalable batch processing tasks, widely used in algo-trading for data analysis and model training.
-- **Link**: [Databricks](https://databricks.com/)
+- **Link**: Databricks
 
 ## Conclusion
 

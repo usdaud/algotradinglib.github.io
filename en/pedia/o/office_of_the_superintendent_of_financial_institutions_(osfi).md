@@ -88,4 +88,3 @@ In response to the COVID-19 pandemic, OSFI implemented various measures to suppo
 ## Conclusion
 The Office of the Superintendent of Financial Institutions (OSFI) is crucial for maintaining the stability, safety, and soundness of the Canadian [financial system](../f/financial_system.md). Through its comprehensive regulatory and supervisory frameworks, OSFI ensures that financial institutions operate efficiently while protecting the interests of depositors, policyholders, and other stakeholders. Despite facing challenges related to innovation, systemic risks, and [market](../m/market.md) changes, OSFI continues to evolve and adapt, thereby playing a pivotal role in the financial ecosystem.
 
-For further information, you can visit OSFI’s official website: [OSFI](https://www.osfi-bsif.gc.ca/Eng/Pages/default.aspx).

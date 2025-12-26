@@ -65,4 +65,4 @@ In 2019, Uber Technologies Inc. faced a turbulent period post-IPO. The stock pri
 
 The lock-up period is a critical mechanism in IPOs designed to stabilize share prices and build [investor](../i/investor.md) confidence. By understanding the dynamics of the lock-up period, [market](../m/market.md) participants can make more informed decisions and anticipate potential [market](../m/market.md) movements related to newly public companies.
 
-For further information on specific lock-up agreements, you can refer to companies' IPO prospectuses and SEC filings. For example, more on the lock-up period can be found in [Facebook’s Investor Relations](https://investor.fb.com) or [Uber’s Investor Relations](https://investor.uber.com).
+For further information on specific lock-up agreements, you can refer to companies' IPO prospectuses and SEC filings. For example, more on the lock-up period can be found in Facebook’s company filings or Uber’s company filings.

@@ -32,8 +32,8 @@ This is a common method for dealing with endogeneity using instrumental variable
 1. **Price Movements and Trading [Volume](../v/volume.md)**: Algorithms often [factor](../f/factor.md) in trading volumes as an endogenous variable, where price changes and volumes influence each other.
 2. **[Market Sentiment](../m/market_sentiment.md) and [Asset](../a/asset.md) Prices**: [Sentiment analysis](../s/sentiment_analysis.md) can include endogenous variables where [market](../m/market.md) news and price movements have a bidirectional relationship.
 
-### Case Study: "QuantConnect" Platform
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides an [algorithmic trading](../a/accountability.md) platform where endogeneity must be considered in designing [trading algorithms](../t/trading_algorithms.md). Algorithms might consider endogenous variables like [historical volatility](../h/historical_volatility.md) and trading [volume](../v/volume.md) to predict stock movements effectively.
+### Case Study: "StockSharp" Platform
+[StockSharp](../s/stocksharp.md) provides an [algorithmic trading](../a/accountability.md) platform where endogeneity must be considered in designing [trading algorithms](../t/trading_algorithms.md). Algorithms might consider endogenous variables like [historical volatility](../h/historical_volatility.md) and trading [volume](../v/volume.md) to predict stock movements effectively.
 
 ## Conclusion
 

@@ -18,7 +18,7 @@ In simpler terms, if you own an option, every day that passes, the [value](../v/
 
 ## Calculating Theta
 
-[Theta](../t/theta.md) is usually expressed as a negative number and is calculated on a per-day [basis](../b/basis.md). For example, a [theta](../t/theta.md) [value](../v/value.md) of -0.05 indicates that the option [will](../w/will.md) lose $0.05 in [value](../v/value.md) each day. 
+[Theta](../t/theta.md) is usually expressed as a negative number and is calculated on a per-day [basis](../b/basis.md). For example, a [theta](../t/theta.md) [value](../v/value.md) of -0.05 indicates that the option [will](../w/will.md) lose $0.05 in [value](../v/value.md) each day.
 
 The calculation of [theta](../t/theta.md) is complex and typically requires the use of [mathematical models](../m/mathematical_models_in_trading.md), such as the [Black-Scholes model](../b/black-scholes_model.md), to estimate. The primary factors influencing [theta](../t/theta.md) are:
 

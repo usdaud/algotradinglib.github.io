@@ -36,15 +36,15 @@ Tokocrypto is committed to increasing cryptocurrency awareness and adoption. The
 
 Tokocrypto has formed several strategic partnerships to enhance its offerings and expand its reach.
 
-1. **[Binance](../b/binance.md)**: In May 2020, Tokocrypto announced a strategic partnership with [Binance](../b/binance.md), one of the largest cryptocurrency exchanges in the world. This alliance provides Tokocrypto with enhanced [liquidity](../l/liquidity.md), technology, and expertise from a global leader in cryptocurrency trading. More information about this partnership can be found on the [Tokocrypto website](https://www.tokocrypto.com).
-   
+1. **[Binance](../b/binance.md)**: In May 2020, Tokocrypto announced a strategic partnership with [Binance](../b/binance.md), one of the largest cryptocurrency exchanges in the world. This alliance provides Tokocrypto with enhanced [liquidity](../l/liquidity.md), technology, and expertise from a global leader in cryptocurrency trading.
+
 2. **BAPPEBTI Approval**: Tokocrypto is one of the few exchanges officially registered and regulated by Indonesia's [Commodity Futures](../c/commodity_futures.md) Trading Regulatory Agency (BAPPEBTI), ensuring compliance with local regulatory standards. This registration boosts user confidence in the platform's legitimacy and operational integrity.
 
 ## User Base and Market Presence
 
 ### User Base
 
-Tokocrypto caters primarily to the Indonesian [market](../m/market.md) but has ambitions to expand to other Southeast Asian countries. The platform has seen [exponential growth](../e/exponential_growth.md) in its user base since its inception, thanks to its focus on localization, ease of use, and strategic partnerships. 
+Tokocrypto caters primarily to the Indonesian [market](../m/market.md) but has ambitions to expand to other Southeast Asian countries. The platform has seen [exponential growth](../e/exponential_growth.md) in its user base since its inception, thanks to its focus on localization, ease of use, and strategic partnerships.
 
 ### Market Presence
 
@@ -99,4 +99,3 @@ Tokocrypto is committed to leveraging the latest technological advancements to i
 
 Tokocrypto has established itself as a reliable and user-friendly cryptocurrency [exchange](../e/exchange.md) in Indonesia. With its focus on [security](../s/security.md), regulatory compliance, and [customer](../c/customer.md) satisfaction, the platform is well-positioned to [capitalize](../c/capitalize.md) on the growing [interest](../i/interest.md) in cryptocurrencies in Southeast Asia. As Tokocrypto continues to expand its services and [market](../m/market.md) presence, it is expected to play a significant role in promoting cryptocurrency adoption in the region.
 
-More information can be found directly on the [Tokocrypto website](https://www.tokocrypto.com).

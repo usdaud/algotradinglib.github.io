@@ -103,11 +103,11 @@ Leveraging technologies like [artificial intelligence](../a/artificial_intellige
 
 ### JP Morgan Chase
 
-JP Morgan Chase, a leading global financial institution, focuses heavily on managing its net [interest](../i/interest.md) [income](../i/income.md). With a diverse portfolio of loans and investments, the [bank](../b/bank.md) continually monitors [interest rate](../i/interest_rate.md) movements and adjusts its strategies accordingly. More information can be found on their [website](https://www.jpmorganchase.com).
+JP Morgan Chase, a leading global financial institution, focuses heavily on managing its net [interest](../i/interest.md) [income](../i/income.md). With a diverse portfolio of loans and investments, the [bank](../b/bank.md) continually monitors [interest rate](../i/interest_rate.md) movements and adjusts its strategies accordingly.
 
 ### Bank of America
 
-[Bank](../b/bank.md) of America adopts comprehensive [risk management](../r/risk_management.md) practices to ensure stable net [interest](../i/interest.md) [income](../i/income.md). Through diversified lending practices and effective ALM strategies, they manage to balance profitability and [risk](../r/risk.md). Additional details are available on their [website](https://www.bankofamerica.com).
+[Bank](../b/bank.md) of America adopts comprehensive [risk management](../r/risk_management.md) practices to ensure stable net [interest](../i/interest.md) [income](../i/income.md). Through diversified lending practices and effective ALM strategies, they manage to balance profitability and [risk](../r/risk.md).
 
 ## Regulatory Considerations
 

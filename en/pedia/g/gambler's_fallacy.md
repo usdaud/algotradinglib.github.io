@@ -43,7 +43,7 @@ To avoid falling into the trap of the Gambler's Fallacy, it's essential to under
 
 1. **Education**: Learning about [probability theory](../p/probability_theory_in_trading.md) can help individuals understand and avoid logical fallacies.
 2. **Awareness**: Being mindful of [cognitive biases](../c/cognitive_biases_in_trading.md) and [heuristics](../h/heuristics.md) can help counteract their effects.
-3. **Tools and Technology**: Utilize [algorithmic trading](../a/accountability.md) systems and [data analytics](../d/data_analytics.md) tools that are designed to mitigate human biases.
+3. **Tools and Technology**: Utilize [algorithmic trading](../a/algorithmic_trading.md) systems and [data analytics](../d/data_analytics.md) tools that are designed to mitigate human biases.
 
 ## Algorithms to Avoid Gambler's Fallacy
 
@@ -60,8 +60,8 @@ Monte Carlo simulations model the probability of different outcomes in a process
 [Machine learning](../m/machine_learning.md) models that involve [stochastic processes](../s/stochastic_processes.md) can account for randomness and avoid the biases introduced by the Gambler's Fallacy.
 
 #### Example Companies Offering Solutions
-- **[QuantConnect](../q/quantconnect.md)** ([QuantConnect](https://www.quantconnect.com/)): Provides [algorithmic trading](../a/accountability.md) tools and [backtesting](../b/backtesting.md) capabilities that help traders validate their strategies without falling prey to biases.
-- **Numerai** ([Numerai](https://numer.ai/)): Uses [machine learning](../m/machine_learning.md) to forecast [financial markets](../f/financial_market.md) and neutralizes biases, including the Gambler's Fallacy.
+- **[QuantConnect](../q/quantconnect.md)** (QuantConnect): Provides [algorithmic trading](../a/algorithmic_trading.md) tools and [backtesting](../b/backtesting.md) capabilities that help traders validate their strategies without falling prey to biases.
+- **Numerai** (Numerai): Uses [machine learning](../m/machine_learning.md) to forecast [financial markets](../f/financial_market.md) and neutralizes biases, including the Gambler's Fallacy.
 
 ## Conclusion
 

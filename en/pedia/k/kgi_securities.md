@@ -45,5 +45,3 @@ KGI Securities is regulated by several top-tier financial authorities, ensuring 
 - Monetary Authority of Singapore (MAS)
 - Financial Supervisory [Commission](../c/commission.md) (FSC) in Taiwan
 
-## Website
-For more information and to start trading, visit the official KGI Securities website: [KGI Securities](https://www.kgieworld.com)

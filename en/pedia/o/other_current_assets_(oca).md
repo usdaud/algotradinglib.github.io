@@ -71,7 +71,7 @@ Modern enterprise resource planning (ERP) systems can significantly enhance the 
 ### Case Study: Apple Inc.
 Apple Inc., a leading technology company, provides a comprehensive example of managing other [current assets](../c/current_assets.md). According to Apple's [balance sheet](../b/balance_sheet.md), the company lists various components under its OCA, including prepaid expenses and other [current assets](../c/current_assets.md). These assets play a crucial role in Apple's overall [liquidity](../l/liquidity.md) and operational strategy, showcasing how a large [corporation](../c/corporation.md) effectively manages and utilizes its short-term resources.
 
-You can find more detailed and updated information from their [official financial statements](https://investor.apple.com/investor-relations/default.aspx).
+You can find more detailed and updated information from their official financial statements.
 
 ## Conclusion
 

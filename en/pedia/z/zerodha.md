@@ -46,5 +46,3 @@ Zerodha is regulated by several top-tier financial authorities in India, ensurin
 - Bombay Stock [Exchange](../e/exchange.md) (BSE)
 - Multi [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) (MCX)
 
-## Website
-For more information and to start trading, visit the official Zerodha website: [Zerodha](https://www.zerodha.com)

@@ -39,7 +39,7 @@ The first step in calculating [joint](../j/joint.md) entropy is to gather histor
 The next step is to estimate the [joint](../j/joint.md) [probability distribution](../p/probability_distribution.md) of the [asset](../a/asset.md) returns. This can be achieved using various methods, such as:
 
 - **[Histogram](../h/histogram.md) Estimation**: This involves partitioning the [range](../r/range.md) of possible returns into discrete bins and counting the occurrences within each bin to estimate the [joint probability](../j/joint_probability.md).
-  
+
 - **Kernel Density Estimation (KDE)**: This non-parametric method uses kernels to smooth the [joint](../j/joint.md) [probability distribution](../p/probability_distribution.md), providing a more continuous estimate.
 
 #### Joint Entropy Calculation
@@ -54,16 +54,16 @@ Consider a portfolio containing two assets, A and B. The [historical returns](..
 
 | Day | [Return](../r/return.md) A | [Return](../r/return.md) B |
 |-----|----------|----------|
-| 1   | 0.01     | 0.02     |
-| 2   | -0.02    | -0.01    |
-| 3   | 0.03     | 0.04     |
-| 4   | 0.01     | -0.02    |
-| 5   | 0.00     | 0.01     |
-| 6   | -0.03    | -0.03    |
-| 7   | 0.02     | 0.03     |
-| 8   | -0.01    | -0.02    |
-| 9   | 0.01     | 0.02     |
-| 10  | 0.03     | 0.03     |
+| 1 | 0.01 | 0.02 |
+| 2 | -0.02 | -0.01 |
+| 3 | 0.03 | 0.04 |
+| 4 | 0.01 | -0.02 |
+| 5 | 0.00 | 0.01 |
+| 6 | -0.03 | -0.03 |
+| 7 | 0.02 | 0.03 |
+| 8 | -0.01 | -0.02 |
+| 9 | 0.01 | 0.02 |
+| 10 | 0.03 | 0.03 |
 
 Using these returns, we can estimate the [joint](../j/joint.md) [probability distribution](../p/probability_distribution.md) and subsequently calculate the [joint](../j/joint.md) entropy. Let us assume we opt for [histogram](../h/histogram.md) estimation and divide the returns into discrete bins. After estimating the probabilities, we can compute the [joint](../j/joint.md) entropy.
 

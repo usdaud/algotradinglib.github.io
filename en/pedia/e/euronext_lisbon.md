@@ -28,20 +28,15 @@ Equities [listed](../l/listed.md) on [Euronext](../e/euronext.md) Lisbon include
 
 Some of the major companies [listed](../l/listed.md) on [Euronext](../e/euronext.md) Lisbon include:
 
-1. **Galp Energia** (https://www.galp.com)
-   - A major player in the [energy sector](../e/energy_sector.md), focusing on oil and gas exploration, production, and refining.
+1. **Galp Energia** - A major player in the [energy sector](../e/energy_sector.md), focusing on oil and gas exploration, production, and refining.
 
-2. **EDP - Energias de Portugal** (https://www.edp.com)
-   - A leading [utility](../u/utility.md) company involved in the generation, [distribution](../d/distribution.md), and [supply](../s/supply.md) of electricity and gas.
+2. **EDP - Energias de Portugal** - A leading [utility](../u/utility.md) company involved in the generation, [distribution](../d/distribution.md), and [supply](../s/supply.md) of electricity and gas.
 
-3. **Jerónimo Martins** (https://www.jeronimomartins.com)
-   - A significant player in the food [distribution](../d/distribution.md) and retail sector, operating stores in Portugal, Poland, and Colombia.
+3. **Jerónimo Martins** - A significant player in the food [distribution](../d/distribution.md) and retail sector, operating stores in Portugal, Poland, and Colombia.
 
-4. **BCP - Banco Comercial Português** (https://ind.millenniumbcp.pt/en)
-   - The largest [bank](../b/bank.md) in Portugal, [offering](../o/offering.md) a full [range](../r/range.md) of banking services to individuals, businesses, and institutional clients.
+4. **BCP - Banco Comercial Português** - The largest [bank](../b/bank.md) in Portugal, [offering](../o/offering.md) a full [range](../r/range.md) of banking services to individuals, businesses, and institutional clients.
 
-5. **Sonae** (https://www.sonae.pt)
-   - A diversified [conglomerate](../c/conglomerate.md) with operations in retail, shopping centers, and telecommunications.
+5. **Sonae** - A diversified [conglomerate](../c/conglomerate.md) with operations in retail, shopping centers, and telecommunications.
 
 ## Market Hours
 

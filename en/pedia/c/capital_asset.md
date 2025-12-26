@@ -9,24 +9,24 @@ A [capital](../c/capital.md) [asset](../a/asset.md) is defined as property of an
 
 ### Types of Capital Assets
 1. **[Physical Capital](../p/physical_capital.md) Assets**: These are tangible items such as:
-   - [Real Estate](../r/real_estate.md) (Land and Buildings)
-   - Machinery and Equipment
-   - Vehicles
-   - Office Furniture
-   
+ - [Real Estate](../r/real_estate.md) (Land and Buildings)
+ - Machinery and Equipment
+ - Vehicles
+ - Office Furniture
+
 2. **Financial [Capital](../c/capital.md) Assets**: These are intangible investments such as:
-   - [Stocks](../s/stock.md)
-   - Bonds
-   - Mutual Funds
-   - [Options](../o/options.md)
-   - Commodities
-   
+ - [Stocks](../s/stock.md)
+ - Bonds
+ - Mutual Funds
+ - [Options](../o/options.md)
+ - Commodities
+
 3. **[Intellectual Capital](../i/intellectual_capital.md) Assets**: These include assets that are not physical but contribute significantly to a company's [value](../v/value.md), such as:
-   - Patents
-   - Trademarks
-   - Copyrights
-   - [Goodwill](../g/goodwill.md)
-   
+ - Patents
+ - Trademarks
+ - Copyrights
+ - [Goodwill](../g/goodwill.md)
+
 ## Valuation of Capital Assets
 
 Understanding the [value](../v/value.md) of a [capital](../c/capital.md) [asset](../a/asset.md) is crucial for both investment and [accounting](../a/accounting.md) purposes. The [valuation](../v/valuation.md) process may involve several methods, depending on the type of [asset](../a/asset.md) and its intended use. Below are some common methods:
@@ -45,10 +45,10 @@ For [physical capital](../p/physical_capital.md) assets, [depreciation](../d/dep
 
 ## Tax Implications
 
-[Capital](../c/capital.md) assets have specific tax implications, particularly concerning gains and losses realized upon their [sale](../s/sale.md). 
+[Capital](../c/capital.md) assets have specific tax implications, particularly concerning gains and losses realized upon their [sale](../s/sale.md).
 
 ### Capital Gains
-A [capital gain](../c/capital_gain.md) occurs when a [capital](../c/capital.md) [asset](../a/asset.md) sells for more than its purchase price. Tax authorities generally classify [capital](../c/capital.md) gains into short-term and long-term, with different tax rates applying to each. 
+A [capital gain](../c/capital_gain.md) occurs when a [capital](../c/capital.md) [asset](../a/asset.md) sells for more than its purchase price. Tax authorities generally classify [capital](../c/capital.md) gains into short-term and long-term, with different tax rates applying to each.
 
 ### Capital Losses
 If a [capital](../c/capital.md) [asset](../a/asset.md) sells for less than its purchase price, this constitutes a [capital](../c/capital.md) loss. Unlike gains, [capital](../c/capital.md) losses can sometimes be used to [offset](../o/offset.md) other [income](../i/income.md), providing a [tax benefit](../t/tax_benefit.md).
@@ -87,13 +87,13 @@ Some algo trading approaches focus on high-frequency trading (HFT), making extre
 Several companies have gained prominence in deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) for managing [capital](../c/capital.md) assets. Understanding what they [offer](../o/offer.md) can provide context for the practical applications of algo trading.
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) is a [hedge fund](../h/hedge_fund.md) that leverages technology-driven [trading strategies](../t/trading_strategies.md). Their approach involves [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to find patterns in large datasets, optimizing [asset management](../a/asset_management.md).
+Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages technology-driven [trading strategies](../t/trading_strategies.md). Their approach involves [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to find patterns in large datasets, optimizing [asset management](../a/asset_management.md).
 
 ### Renaissance Technologies
 Renaissance Technologies, particularly its Medallion [Fund](../f/fund.md), is known for using advanced [mathematical models](../m/mathematical_models_in_trading.md) to guide its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs computer-based algorithms to identify assets with high potential returns.
 
 ### Citadel
-[Citadel](https://www.citadel.com/) is another major player using technology and [quantitative research](../q/quantitative_research.md) to manage and [trade](../t/trade.md) various [capital](../c/capital.md) assets. They are noted for their sophisticated applications of algo trading techniques.
+Citadel is another major player using technology and [quantitative research](../q/quantitative_research.md) to manage and [trade](../t/trade.md) various [capital](../c/capital.md) assets. They are noted for their sophisticated applications of algo trading techniques.
 
 ## Conclusion
 
@@ -101,5 +101,5 @@ Renaissance Technologies, particularly its Medallion [Fund](../f/fund.md), is kn
 
 ## External Links
 
-1. [Two Sigma](https://www.twosigma.com/)
-2. [Citadel](https://www.citadel.com/)
+1. Two Sigma
+2. Citadel

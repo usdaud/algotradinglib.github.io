@@ -72,7 +72,7 @@ During M&A activities, sunk costs like prior investments in acquired entities' [
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), decision models and algorithms are designed to respond solely to current [market dynamics](../m/market_dynamics.md) and prospective returns, explicitly ignoring past expenses as sunk costs. This approach enhances the pursuit of optimal [trading strategies](../t/trading_strategies.md) focused on future profitability.
+In [algorithmic trading](../a/algorithmic_trading.md), decision models and algorithms are designed to respond solely to current [market dynamics](../m/market_dynamics.md) and prospective returns, explicitly ignoring past expenses as sunk costs. This approach enhances the pursuit of optimal [trading strategies](../t/trading_strategies.md) focused on future profitability.
 
 ### Risk Management
 
@@ -88,4 +88,4 @@ Mastering the concept of sunk costs is pivotal for rational decision-making. By 
 
 In high-stakes domains like trading and [corporate finance](../c/corporate_finance.md), the strategic exclusion of sunk costs from present and future considerations strengthens economic rationality, mitigates [risk](../r/risk.md), and supports sound financial projections.
 
-For a more practical engagement with the concept of sunk costs in [business](../b/business.md) and financial contexts, organizations like McKinsey & Company (https://www.mckinsey.com), Boston Consulting Group (BCG) (https://www.bcg.com), and Deloitte (https://www2.deloitte.com) [offer](../o/offer.md) valuable resources and expert consultation services.
+For a more practical engagement with the concept of sunk costs in [business](../b/business.md) and financial contexts, organizations like McKinsey & Company ( Boston Consulting Group (BCG) ( and Deloitte ( [offer](../o/offer.md) valuable resources and expert consultation services.

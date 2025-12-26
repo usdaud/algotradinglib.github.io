@@ -1,6 +1,6 @@
 # Appropriation Account
 
-An appropriation account is a part of an organization's bookkeeping or financial records, which delves specifically into the allocation and [distribution](../d/distribution.md) of profits and [retained earnings](../r/retained_earnings.md). This account is crucial for businesses, particularly for partnerships and companies, as it ensures the correct dissemination of funds according to the agreed rules. The appropriation account thus helps stakeholders, including partners, shareholders, and creditors, understand how profits are utilized or earmarked for various financial [obligations](../o/obligation.md). 
+An appropriation account is a part of an organization's bookkeeping or financial records, which delves specifically into the allocation and [distribution](../d/distribution.md) of profits and [retained earnings](../r/retained_earnings.md). This account is crucial for businesses, particularly for partnerships and companies, as it ensures the correct dissemination of funds according to the agreed rules. The appropriation account thus helps stakeholders, including partners, shareholders, and creditors, understand how profits are utilized or earmarked for various financial [obligations](../o/obligation.md).
 
 ## Definition and Purpose
 

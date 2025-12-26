@@ -1,6 +1,6 @@
 # Uptick Indicator
 
-The [Uptick](../u/uptick.md) [Indicator](../i/indicator.md) is a tool commonly used in [financial analysis](../f/financial_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to identify stock price movements. The term "[uptick](../u/uptick.md)" refers to a [transaction](../t/transaction.md) occurring at a price higher than the previous [transaction](../t/transaction.md). This simple yet effective [indicator](../i/indicator.md) helps traders understand [market](../m/market.md) trends and can be a critical component in [trading strategies](../t/trading_strategies.md). 
+The [Uptick](../u/uptick.md) [Indicator](../i/indicator.md) is a tool commonly used in [financial analysis](../f/financial_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to identify stock price movements. The term "[uptick](../u/uptick.md)" refers to a [transaction](../t/transaction.md) occurring at a price higher than the previous [transaction](../t/transaction.md). This simple yet effective [indicator](../i/indicator.md) helps traders understand [market](../m/market.md) trends and can be a critical component in [trading strategies](../t/trading_strategies.md).
 
 ## Understanding the Uptick and Downtick
 
@@ -8,7 +8,7 @@ To grasp the concept of the [Uptick](../u/uptick.md) [Indicator](../i/indicator.
 - **[Uptick](../u/uptick.md):** When a stock's price moves up from its previous price.
 - **Downtick:** When a stock's price moves down from its previous price.
 
-The [Uptick](../u/uptick.md) [Indicator](../i/indicator.md) measures the number of upticks versus downticks over a specific period, enabling traders to gauge [market sentiment](../m/market_sentiment.md). This data can provide insights into whether buyers or sellers are currently in control, allowing for more informed trading decisions. 
+The [Uptick](../u/uptick.md) [Indicator](../i/indicator.md) measures the number of upticks versus downticks over a specific period, enabling traders to gauge [market sentiment](../m/market_sentiment.md). This data can provide insights into whether buyers or sellers are currently in control, allowing for more informed trading decisions.
 
 ## Construction of the Uptick Indicator
 
@@ -23,16 +23,16 @@ The [Uptick](../u/uptick.md) [Indicator](../i/indicator.md) measures the number 
 The calculation involves:
 
 1. **Identification:** Determining an [uptick](../u/uptick.md) or downtick.
-   - Compare the current [transaction](../t/transaction.md) price with the previous one.
-   - Mark an [uptick](../u/uptick.md) if the current price is higher.
-   - Mark a downtick if the current price is lower.
+ - Compare the current [transaction](../t/transaction.md) price with the previous one.
+ - Mark an [uptick](../u/uptick.md) if the current price is higher.
+ - Mark a downtick if the current price is lower.
 
 2. **[Aggregation](../a/aggregation.md):** Summing up the total number of upticks and downticks separately over a period.
-   - Total Upticks (TU)
-   - Total Downticks (TD)
+ - Total Upticks (TU)
+ - Total Downticks (TD)
 
 3. **Ratio Calculation:** Calculating the [Uptick](../u/uptick.md) Ratio.
-   - [Uptick](../u/uptick.md) Ratio = TU / (TU + TD)
+ - [Uptick](../u/uptick.md) Ratio = TU / (TU + TD)
 
 This ratio can point to the strength of buying versus selling pressure in the [market](../m/market.md). A higher [uptick](../u/uptick.md) ratio suggests stronger buying [interest](../i/interest.md), whereas a lower ratio indicates selling pressure.
 
@@ -47,8 +47,8 @@ Consider a simple trading algorithm where the buy and sell decisions are based o
 1. **Data Feed**: Real-time price data is fed into the algorithm.
 2. **[Indicator](../i/indicator.md) Calculation**: The [Uptick](../u/uptick.md) [Indicator](../i/indicator.md) continuously calculates the ratio.
 3. **Decision Rules**:
-   - If [Uptick](../u/uptick.md) Ratio > 0.60, place a buy [order](../o/order.md).
-   - If [Uptick](../u/uptick.md) Ratio < 0.40, place a sell [order](../o/order.md).
+ - If [Uptick](../u/uptick.md) Ratio > 0.60, place a buy [order](../o/order.md).
+ - If [Uptick](../u/uptick.md) Ratio < 0.40, place a sell [order](../o/order.md).
 
 Such rules can be tailored to fit various [trading strategies](../t/trading_strategies.md), incorporating [risk management](../r/risk_management.md) and other indicators for confirmation.
 
@@ -57,10 +57,10 @@ Such rules can be tailored to fit various [trading strategies](../t/trading_stra
 ### Popular Trading Platforms
 
 Several platforms support the creation and [backtesting](../b/backtesting.md) of algorithms using the [Uptick](../u/uptick.md) [Indicator](../i/indicator.md).
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an integrated environment supporting [multiple](../m/multiple.md) financial indicators, including the [Uptick](../u/uptick.md) [Indicator](../i/indicator.md). [QuantConnect](https://www.quantconnect.com)
-- **[TradingView](../t/tradingview.md)**: [TradingView](../t/tradingview.md) provides powerful charting tools and script coding features like Pine Script for custom indicators. [TradingView](https://www.tradingview.com)
-- **MetaTrader**: Widely known in Forex trading, MetaTrader also allows for custom [indicator](../i/indicator.md) implementation and [automated trading systems](../a/automated_trading_systems.md). [MetaTrader](https://www.metatrader4.com)
-  
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an integrated environment supporting [multiple](../m/multiple.md) financial indicators, including the [Uptick](../u/uptick.md) [Indicator](../i/indicator.md). QuantConnect
+- **[TradingView](../t/tradingview.md)**: [TradingView](../t/tradingview.md) provides powerful charting tools and script coding features like Pine Script for custom indicators. TradingView
+- **MetaTrader**: Widely known in Forex trading, MetaTrader also allows for custom [indicator](../i/indicator.md) implementation and [automated trading systems](../a/automated_trading_systems.md). MetaTrader
+
 ### Custom Script Example for TradingView (Pine Script)
 
 Below is an illustrative Pine Script code for implementing an [Uptick](../u/uptick.md) [Indicator](../i/indicator.md) on [TradingView](../t/tradingview.md):

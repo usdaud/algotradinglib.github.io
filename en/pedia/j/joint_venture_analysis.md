@@ -177,7 +177,7 @@ One of the well-known [joint](../j/joint.md) ventures in the [technology sector]
 
 Hulu is another notable example of a successful [joint](../j/joint.md) venture. This streaming service was launched as a partnership between NBC Universal, News [Corporation](../c/corporation.md), and later joined by Disney and WarnerMedia. Each partner brought valuable content and resources, making Hulu a formidable player in the streaming [industry](../i/industry.md). The JV facilitated the pooling of content libraries, technical expertise, and financial resources, contributing to Hulu’s growth and success.
 
-For more information on Hulu, visit: [Hulu](https://www.hulu.com/)
+For more information on Hulu, visit: Hulu
 
 ## Conclusion
 

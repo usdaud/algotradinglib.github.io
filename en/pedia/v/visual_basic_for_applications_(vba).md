@@ -29,7 +29,7 @@ VBA is commonly employed to develop complex financial models involving [forecast
 Traders and financial analysts use VBA to streamline data analysis processes by automating data imports, cleaning, and preprocessing tasks. It helps in manipulating large datasets and applying statistical methods, subsequently visualizing the results with custom charts and graphs.
 
 ### 3. Algorithmic Trading
-For [algorithmic trading](../a/accountability.md), VBA can be leveraged to create and backtest [trading strategies](../t/trading_strategies.md). It allows the automation of [trade](../t/trade.md) [execution](../e/execution.md) by linking Excel with trading platforms through APIs. VBA scripts can be developed to execute trades based on predefined criteria, manage orders, and track performance.
+For [algorithmic trading](../a/algorithmic_trading.md), VBA can be leveraged to create and backtest [trading strategies](../t/trading_strategies.md). It allows the automation of [trade](../t/trade.md) [execution](../e/execution.md) by linking Excel with trading platforms through APIs. VBA scripts can be developed to execute trades based on predefined criteria, manage orders, and track performance.
 
 ### 4. Portfolio Management
 Automating the calculation of [performance metrics](../p/performance_metrics.md) such as [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR), Sharpe ratios, and [diversification](../d/diversification.md) [statistics](../s/statistics.md) is common in [portfolio management](../p/par.md). VBA allows for the periodic rebalance of portfolios as per the predefined strategies without manual intervention.
@@ -181,5 +181,4 @@ End Sub
 
 Visual Basic for Applications (VBA) remains a pivotal tool within [finance](../f/finance.md) and trading sectors for automation, analysis, and strategy development. While it comes with certain limitations and is best suited for small to medium scale operations, its integration with Excel and other Microsoft Office tools provides significant advantages in handling financial data, automating tasks, and enhancing [productivity](../p/productivity.md).
 
-For more detailed information, you can visit [Microsoft's VBA official documentation](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office).
-
+For more detailed information, you can visit Microsoft's VBA official documentation.

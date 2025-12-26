@@ -8,7 +8,7 @@ Financial markets are platforms or mechanisms that allow individuals, companies,
 
 Stock markets, also known as [equity](../e/equity.md) markets, are platforms where [shares](../s/shares.md) of publicly traded companies are bought and sold. These markets play a crucial role in the [economy](../e/economy.md) by providing companies with access to [capital](../c/capital.md) through the issuance of stock and [offering](../o/offering.md) investors an opportunity to own a portion of businesses. The two main components of the [stock market](../s/stock_market.md) are the [primary market](../p/primary_market.md) and the [secondary market](../s/secondary_market.md).
 
-**[Primary Market](../p/primary_market.md):** The [primary market](../p/primary_market.md) is where new securities are issued and sold for the first time. Companies raise [capital](../c/capital.md) by issuing Initial Public Offerings (IPOs) or by selling additional stock through follow-on offerings. 
+**[Primary Market](../p/primary_market.md):** The [primary market](../p/primary_market.md) is where new securities are issued and sold for the first time. Companies raise [capital](../c/capital.md) by issuing Initial Public Offerings (IPOs) or by selling additional stock through follow-on offerings.
 
 **[Secondary Market](../s/secondary_market.md):** In the [secondary market](../s/secondary_market.md), previously issued securities are traded among investors. The stock exchanges such as the New York Stock [Exchange](../e/exchange.md) (NYSE) and [Nasdaq](../n/nasdaq.md) are examples of secondary markets.
 
@@ -88,10 +88,7 @@ Technological advancements have significantly transformed financial markets. The
 
 ### Example Companies
 
-**[Robinhood](../r/robinhood.md):** https://[robinhood](../r/robinhood.md).com/
-**[Interactive Brokers](../i/interactive_brokers.md):** https://www.interactivebrokers.com/
-**[Coinbase](../c/coinbase.md):** https://www.[coinbase](../c/coinbase.md).com/
-
+**[Robinhood](../r/robinhood.md):** **[Interactive Brokers](../i/interactive_brokers.md):** **[Coinbase](../c/coinbase.md):**
 ## Conclusion
 
 Financial markets are the backbone of the global [economy](../e/economy.md), facilitating the flow of [capital](../c/capital.md), enabling investment, and supporting [economic growth](../e/economic_growth.md). Understanding the structure, functions, and participants of financial markets is essential for investors, policymakers, and businesses to navigate the complex financial landscape effectively.

@@ -117,11 +117,11 @@ Financial institutions are continuously developing new products and services to 
 
 ### Unilever
 
-Unilever, a global [consumer goods](../c/consumer_goods.md) company, often deals with [repatriation](../r/repatriation.md) of profits across [multiple](../m/multiple.md) countries. The company's strategy involves careful planning of the timing and method of [repatriation](../r/repatriation.md) to minimize tax liabilities and [currency](../c/currency.md) [risk](../r/risk.md). More details about Unilever's financial strategies can be found on their [official website](https://www.unilever.com).
+Unilever, a global [consumer goods](../c/consumer_goods.md) company, often deals with [repatriation](../r/repatriation.md) of profits across [multiple](../m/multiple.md) countries. The company's strategy involves careful planning of the timing and method of [repatriation](../r/repatriation.md) to minimize tax liabilities and [currency](../c/currency.md) [risk](../r/risk.md). More details about Unilever's
 
 ### Apple Inc.
 
-Apple Inc. has historically held a significant amount of cash reserves outside the United States. The company has navigated various [repatriation](../r/repatriation.md) challenges, particularly in the context of U.S. tax reforms. For more information on Apple’s financial strategies, visit the [official website](https://www.apple.com).
+Apple Inc. has historically held a significant amount of cash reserves outside the United States. The company has navigated various [repatriation](../r/repatriation.md) challenges, particularly in the context of U.S. tax reforms.
 
 ## Conclusion
 

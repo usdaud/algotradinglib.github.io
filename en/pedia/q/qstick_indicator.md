@@ -1,6 +1,6 @@
 # Qstick Indicator
 
-The Qstick [Indicator](../i/indicator.md) is a [technical analysis](../t/technical_analysis.md) tool used primarily in trading and [finance](../f/finance.md) to gauge the [market sentiment](../m/market_sentiment.md) over a particular period. Developed by Tushar Chande, the Qstick [indicator](../i/indicator.md) measures the average difference between the [open](../o/open.md) and close prices in a specified period, allowing traders to determine the [underlying](../u/underlying.md) [trend](../t/trend.md) and potential reversals. This detail-rich measurement is beneficial for both manual traders and [algorithmic trading](../a/accountability.md) systems.
+The Qstick [Indicator](../i/indicator.md) is a [technical analysis](../t/technical_analysis.md) tool used primarily in trading and [finance](../f/finance.md) to gauge the [market sentiment](../m/market_sentiment.md) over a particular period. Developed by Tushar Chande, the Qstick [indicator](../i/indicator.md) measures the average difference between the [open](../o/open.md) and close prices in a specified period, allowing traders to determine the [underlying](../u/underlying.md) [trend](../t/trend.md) and potential reversals. This detail-rich measurement is beneficial for both manual traders and [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## What is Qstick Indicator?
 
@@ -11,22 +11,22 @@ The Qstick [Indicator](../i/indicator.md) computes the [arithmetic mean](../a/ar
 To calculate the Qstick [Indicator](../i/indicator.md), follow these steps:
 
 1. Determine the difference between the close price and the [open](../o/open.md) price for each day. This is the daily net price movement.
-   
-   \[
-   NP = Close - [Open](../o/open.md)
-   \]
-   
+
+ \[
+ NP = Close - [Open](../o/open.md)
+ \]
+
 2. Sum up these daily net price movements over a specified number of days (n).
-   
-   \[
-   \text{Sum} = \sum_{i=1}^{n} NP_i
-   \]
+
+ \[
+ \text{Sum} = \sum_{i=1}^{n} NP_i
+ \]
 
 3. Compute the average daily net price movement over these n days.
-   
-   \[
-   \text{Qstick} = \frac{\text{Sum}}{n}
-   \]
+
+ \[
+ \text{Qstick} = \frac{\text{Sum}}{n}
+ \]
 
 The parameter n can be adjusted based on the desired sensitivity of the [indicator](../i/indicator.md). Shorter periods make the Qstick more sensitive to price changes, while longer periods smooth out the [indicator](../i/indicator.md), making it more resilient to short-term fluctuations.
 
@@ -46,7 +46,7 @@ A Qstick [value](../v/value.md) around zero indicates that the [market](../m/mar
 
 ## Implementation in Algorithmic Trading
 
-The Qstick [Indicator](../i/indicator.md) can be seamlessly integrated into [algorithmic trading](../a/accountability.md) systems. Given its straightforward calculation, it can be used in real-time to adjust [trading strategies](../t/trading_strategies.md) dynamically. Algorithmic traders can use the Qstick [Indicator](../i/indicator.md) to:
+The Qstick [Indicator](../i/indicator.md) can be seamlessly integrated into [algorithmic trading](../a/algorithmic_trading.md) systems. Given its straightforward calculation, it can be used in real-time to adjust [trading strategies](../t/trading_strategies.md) dynamically. Algorithmic traders can use the Qstick [Indicator](../i/indicator.md) to:
 - Identify potential entry and exit points.
 - Filter out [noise](../n/noise.md) from high-frequency [trading signals](../t/trading_signals.md).
 - Adjust position sizes based on [underlying](../u/underlying.md) [market sentiment](../m/market_sentiment.md).
@@ -75,7 +75,7 @@ def calculate_qstick(data, period=14):
 
 # Example usage:
 # Suppose 'df' is a DataFrame containing your market data with 'Open' and 'Close' columns
-df = pd.DataFrame({
+df = pd.DataFrame{
     '[Open](../o/open.md)': [100, 102, 101, 103, 102, 104, 105],
     'Close': [102, 101, 103, 102, 104, 105, 106]
 })
@@ -117,8 +117,8 @@ The Qstick can act as a complementary tool to other [technical indicators](../t/
 
 ## Conclusion
 
-The Qstick [Indicator](../i/indicator.md) is a valuable tool for analyzing [market sentiment](../m/market_sentiment.md) and identifying trends based on the relationship between opening and closing prices. Whether used alone or in combination with other indicators, it offers crucial insights that can enhance [trading strategies](../t/trading_strategies.md). Its simplicity and effectiveness make it suitable for manual and [algorithmic trading](../a/accountability.md) applications, providing traders with clear and actionable signals.
+The Qstick [Indicator](../i/indicator.md) is a valuable tool for analyzing [market sentiment](../m/market_sentiment.md) and identifying trends based on the relationship between opening and closing prices. Whether used alone or in combination with other indicators, it offers crucial insights that can enhance [trading strategies](../t/trading_strategies.md). Its simplicity and effectiveness make it suitable for manual and [algorithmic trading](../a/algorithmic_trading.md) applications, providing traders with clear and actionable signals.
 
 Traders and financial analysts continuously seek tools and indicators that [offer](../o/offer.md) reliable and actionable insights, and the Qstick [Indicator](../i/indicator.md) fits this criterion well. By incorporating the Qstick into their analytical toolkit, traders can better navigate the complexities of [financial markets](../f/financial_market.md), making more informed and strategic decisions.
 
-For more detailed financial analytics tools and services, you can explore [Chande's Technologies](https://chandetech.com).
+For more detailed financial analytics tools and services, you can explore Chande's Technologies.

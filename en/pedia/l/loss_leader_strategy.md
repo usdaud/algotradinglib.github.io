@@ -74,7 +74,7 @@ Costco uses rotisserie chickens as a loss leader. Priced well below [market](../
 
 ### Advantages
 
-1. **Increased Foot Traffic:** Attracts more customers into the store or website.
+1. **Increased Foot Traffic:**
 2. **[Customer](../c/customer.md) [Acquisition](../a/acquisition.md):** Helps in acquiring new customers who can be nurtured for repeat [business](../b/business.md).
 3. **Cross-Selling Opportunities:** Increases the likelihood of selling higher-[margin](../m/margin.md) items.
 4. **[Inventory Management](../i/inventory_management.md):** Helps in moving [inventory](../i/inventory.md) that might not sell otherwise.

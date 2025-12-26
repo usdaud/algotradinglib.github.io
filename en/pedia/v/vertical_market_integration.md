@@ -14,7 +14,7 @@ There are two primary types of [vertical integration](../v/vertical_integration.
 #### Forward Integration
 [Forward integration](../f/forward_integration.md) takes place when a company takes control of the [distribution](../d/distribution.md) process of its products. This type of integration is about moving closer to the end consumer by acquiring distributors or retailers to control the pricing, presentation, and [marketing](../m/marketing.md) of the finished products.
 
-- **Example:** A clothing manufacturer opens its own retail stores instead of relying on third-party stores to sell its products. 
+- **Example:** A clothing manufacturer opens its own retail stores instead of relying on third-party stores to sell its products.
 
 ### Benefits of Vertical Integration
 
@@ -39,22 +39,19 @@ Despite its advantages, [vertical integration](../v/vertical_integration.md) doe
 
 Several companies have adopted [vertical integration](../v/vertical_integration.md) strategies to strengthen their [market](../m/market.md) position and operational capabilities:
 
-- **Apple Inc.**: Apple has embraced both backward and [forward integration](../f/forward_integration.md). The company designs its own hardware and software, exerts significant control over its [supply chain](../s/supply_chain.md), and manages its own retail stores and online [distribution](../d/distribution.md) channels. 
-  - [Apple - Official Site](https://www.apple.com)
+- **Apple Inc.**: Apple has embraced both backward and [forward integration](../f/forward_integration.md). The company designs its own hardware and software, exerts significant control over its [supply chain](../s/supply_chain.md), and manages its own retail stores and online [distribution](../d/distribution.md) channels.
 
 - **Amazon.com, Inc.**: Amazon has also adopted a [vertical integration](../v/vertical_integration.md) strategy by operating its [distribution](../d/distribution.md) centers, delivery networks, and cloud services. Amazon's [acquisition](../a/acquisition.md) of Whole Foods is a notable example of [forward integration](../f/forward_integration.md).
-  - [Amazon - Official Site](https://www.amazon.com)
 
 - **Tesla, Inc.**: Tesla has vertically integrated by producing its own batteries (through its Gigafactories), [manufacturing](../m/manufacturing.md) electric vehicles, and operating its own sales and service centers.
-  - [Tesla - Official Site](https://www.tesla.com)
 
 ### Vertical Integration in Algo Trading
 
-In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), [vertical integration](../v/vertical_integration.md) can significantly impact a [firm](../f/firm.md)'s competitive edge. Algo trading firms benefit from controlling more of the trading process, from data [acquisition](../a/acquisition.md) to [execution](../e/execution.md). 
+In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), [vertical integration](../v/vertical_integration.md) can significantly impact a [firm](../f/firm.md)'s competitive edge. Algo trading firms benefit from controlling more of the trading process, from data [acquisition](../a/acquisition.md) to [execution](../e/execution.md).
 
 #### Data Acquisition and Processing
 
-[Algorithmic trading](../a/algorithmic_trading.md) firms emphasize acquiring high-quality, granular data. [Vertical integration](../v/vertical_integration.md) can involve owning the data sources and the processing [infrastructure](../i/infrastructure.md) to collate and analyze this data more efficiently. 
+[Algorithmic trading](../a/algorithmic_trading.md) firms emphasize acquiring high-quality, granular data. [Vertical integration](../v/vertical_integration.md) can involve owning the data sources and the processing [infrastructure](../i/infrastructure.md) to collate and analyze this data more efficiently.
 
 - **Example:** A trading [firm](../f/firm.md) might own a subsidiary that specializes in financial data feeds, providing [real-time market data](../r/real-time_market_data.md) to inform [trading algorithms](../t/trading_algorithms.md).
 

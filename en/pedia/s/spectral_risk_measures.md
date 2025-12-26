@@ -17,21 +17,21 @@ Spectral [risk measures](../r/risk_measures.md) come in as a more nuanced and fl
 A spectral [risk](../r/risk.md) measure is a coherent [risk](../r/risk.md) measure associated with a spectrum, represented by a function, that weights different quantiles of the [loss distribution](../l/loss_distribution.md). Mathematically, a spectral [risk](../r/risk.md) measure can be defined via the following steps:
 
 1. **Weight Function**: Define a weighting function, denoted as φ(α), where α lies in the interval [0, 1], representing the level of [risk](../r/risk.md) aversion:
-    - φ(α) must be non-negative.
-    - φ(α) must be non-decreasing.
-    - The integral over [0, 1] must equal 1:
-      \[
-      \int_0^1 \phi(\[alpha](../a/alpha.md)) d\[alpha](../a/alpha.md) = 1
-      \]
+ - φ(α) must be non-negative.
+ - φ(α) must be non-decreasing.
+ - The integral over [0, 1] must equal 1:
+ \[
+ \int_0^1 \phi(\[alpha](../a/alpha.md)) d\[alpha](../a/alpha.md) = 1
+ \]
 
 2. **[Loss Distribution](../l/loss_distribution.md)**: Let L be a random variable representing the loss of a portfolio.
 
 3. **Quantile Function**: Denote the quantile function of L as \( q_L(α) \), which is the inverse of the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) (CDF) of L.
 
 4. **Spectral [Risk](../r/risk.md) Measure**: The spectral [risk](../r/risk.md) measure ρ associated with φ is given by:
-    \[
-    \[rho](../r/rho.md)(L) = \int_0^1 q_L(\[alpha](../a/alpha.md)) \, \phi(\[alpha](../a/alpha.md)) d\[alpha](../a/alpha.md)
-    \]
+ \[
+ \[rho](../r/rho.md)(L) = \int_0^1 q_L(\[alpha](../a/alpha.md)) \, \phi(\[alpha](../a/alpha.md)) d\[alpha](../a/alpha.md)
+ \]
 
 Here, q_L(α) represents the quantiles of the [loss distribution](../l/loss_distribution.md), and φ(α) weights those quantiles according to the [investor](../i/investor.md)'s [risk](../r/risk.md) attitude.
 
@@ -40,7 +40,7 @@ Here, q_L(α) represents the quantiles of the [loss distribution](../l/loss_dist
 Spectral [risk measures](../r/risk_measures.md) inherit several properties from coherent [risk measures](../r/risk_measures.md), making them [robust](../r/robust.md) and appealing for practical applications:
 
 1. **Monotonicity**: If the loss from one portfolio is always worse than another, the [risk](../r/risk.md) measure [will](../w/will.md) reflect higher [risk](../r/risk.md) for the worse-performing portfolio.
-  
+
 2. **Subadditivity**: The combined portfolio [risk](../r/risk.md) [will](../w/will.md) not exceed the sum of individual risks, promoting [diversification](../d/diversification.md).
 
 3. **Translation Invariance**: Adding a certain amount to all outcomes increases the [risk](../r/risk.md) measure by that amount, allowing for clear adjustments.
@@ -79,7 +79,7 @@ The parameters of [trading algorithms](../t/trading_algorithms.md) often need to
 
 ## Real-world Examples and Case Studies
 
-Several financial institutions and [hedge](../h/hedge.md) funds have adopted spectral [risk measures](../r/risk_measures.md) to enhance their [risk management](../r/risk_management.md) practices and optimize [trading strategies](../t/trading_strategies.md). Companies like [MSCI](https://www.msci.com/), which provides [risk management](../r/risk_management.md) tools, have integrated complex [risk measures](../r/risk_measures.md) including spectral measures into their product offerings. Another example is [Axioma](https://www.axioma.com/), known for its advanced [risk](../r/risk.md) modeling and portfolio construction solutions.
+Several financial institutions and [hedge](../h/hedge.md) funds have adopted spectral [risk measures](../r/risk_measures.md) to enhance their [risk management](../r/risk_management.md) practices and optimize [trading strategies](../t/trading_strategies.md). Companies like MSCI, which provides [risk management](../r/risk_management.md) tools, have integrated complex [risk measures](../r/risk_measures.md) including spectral measures into their product offerings. Another example is Axioma, known for its advanced [risk](../r/risk.md) modeling and portfolio construction solutions.
 
 In practice, the adoption of spectral [risk measures](../r/risk_measures.md) helps these firms [offer](../o/offer.md) more personalized and accurate [risk](../r/risk.md) assessments, boosting [investor](../i/investor.md) confidence and promoting more sophisticated [trading strategies](../t/trading_strategies.md).
 
@@ -87,14 +87,12 @@ In practice, the adoption of spectral [risk measures](../r/risk_measures.md) hel
 
 Axioma is a notable provider of [risk](../r/risk.md) and [portfolio management](../p/portfolio_management.md) tools that incorporate advanced [risk measures](../r/risk_measures.md), including spectral [risk measures](../r/risk_measures.md). Their solutions allow traders and [risk](../r/risk.md) managers to tailor their [risk](../r/risk.md) assessments to the specific [risk](../r/risk.md) aversion profiles of their investors, improving overall decision-making processes.
 
-For more details, visit: [https://www.axioma.com/](https://www.axioma.com/)
-
+For more details, visit
 ### MSCI
 
 MSCI provides a wide [range](../r/range.md) of tools and analytics for [risk management](../r/risk_management.md). The adoption of spectral [risk measures](../r/risk_measures.md) allows MSCI clients to achieve a higher degree of precision in their [risk](../r/risk.md) evaluations, especially when dealing with complex portfolios in volatile markets.
 
-For more details, visit: [https://www.msci.com/](https://www.msci.com/)
-
+For more details, visit
 ## Conclusion
 
 Spectral [risk measures](../r/risk_measures.md) represent an advanced and flexible approach to [risk management](../r/risk_management.md), particularly in the context of [algorithmic trading](../a/algorithmic_trading.md). By incorporating [investor](../i/investor.md)-specific [risk](../r/risk.md) aversion profiles through a [weighted](../w/weighted.md) function, these measures [offer](../o/offer.md) a refined method to assess and manage potential financial losses.

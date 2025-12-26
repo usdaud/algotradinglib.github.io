@@ -37,7 +37,7 @@ The EPA engages in extensive public outreach to inform and educate citizens abou
 
 - Publishing educational materials and reports
 - Hosting workshops and conferences
-- Maintaining an informative website (https://www.epa.gov) with a [wealth](../w/wealth.md) of resources
+- Maintaining an informative online platform ( with a [wealth](../w/wealth.md) of resources
 
 # Major Environmental Laws Administered by the EPA
 
@@ -97,4 +97,4 @@ However, the agency continues to face several challenges, including:
 
 # Conclusion
 
-The Environmental Protection Agency plays a crucial role in safeguarding the environment and public health. Through its regulatory framework, research, funding, education, and enforcement activities, the EPA strives to create a cleaner, healthier, and more sustainable environment for future generations. The agency's work not only addresses immediate environmental concerns but also anticipates and mitigates future risks, ensuring the continued well-being of communities and ecosystems across the United States and beyond. For more information on the comprehensive work done by the EPA, you can visit their official website at [EPA](https://www.epa.gov).
+The Environmental Protection Agency plays a crucial role in safeguarding the environment and public health. Through its regulatory framework, research, funding, education, and enforcement activities, the EPA strives to create a cleaner, healthier, and more sustainable environment for future generations. The agency's work not only addresses immediate environmental concerns but also anticipates and mitigates future risks, ensuring the continued well-being of communities and ecosystems across the United States and beyond.

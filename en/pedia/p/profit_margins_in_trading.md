@@ -42,7 +42,7 @@ This metric provides a percentage that is easy to compare across different [trad
 
 ### Operating Profit Margin
 
-[Operating profit](../o/operating_profit.md) [margin](../m/margin.md) takes into account not only the direct costs of trading but also indirect costs such as overhead, [administrative expenses](../a/administrative_expenses.md), and other operational costs. 
+[Operating profit](../o/operating_profit.md) [margin](../m/margin.md) takes into account not only the direct costs of trading but also indirect costs such as overhead, [administrative expenses](../a/administrative_expenses.md), and other operational costs.
 
 ```markdown
 [Operating Profit](../o/operating_profit.md) [Margin](../m/margin.md) = (([Revenue](../r/revenue.md) - ([Trading Costs](../t/trading_costs.md) + Operating Expenses)) / [Revenue](../r/revenue.md)) * 100
@@ -82,7 +82,7 @@ Using [leverage](../l/leverage.md) can amplify returns, but it also increases th
 
 Goldman Sachs operates a highly diversified trading [business](../b/business.md). The company leverages advanced technology and a global reach to optimize its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md)'s focus on [risk management](../r/risk_management.md) and cost [efficiency](../e/efficiency.md) has been key to maintaining [robust](../r/robust.md) [profit](../p/profit.md) margins.
 
-- Visit [Goldman Sachs](https://www.goldmansachs.com/) for more information.
+- Visit Goldman Sachs for more information.
 
 ## Conclusion
 

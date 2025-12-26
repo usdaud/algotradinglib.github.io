@@ -33,38 +33,34 @@ Utilities [Industry](../i/industry.md) ETFs can vary based on their specific foc
 ### 1. Utilities Select Sector SPDR Fund (XLU)
 
 - **Overview**: XLU seeks to provide investment results that, before expenses, generally correspond to the price and [yield](../y/yield.md) performance of the Utilities Select Sector [Index](../i/index_instrument.md).
-- **Website**: [Utilities Select Sector SPDR Fund (XLU)](https://www.ssga.com/us/en/individual/etfs/funds/the-utilities-select-sector-spdr-fund-xlu)
 - **Key Features**:
-  - Broad exposure to the U.S. [utilities sector](../u/utilities_sector.md).
-  - [Holdings](../h/holdings.md) include top [utility](../u/utility.md) companies.
-  - Popular among investors for its size and [liquidity](../l/liquidity.md).
+ - Broad exposure to the U.S. [utilities sector](../u/utilities_sector.md).
+ - [Holdings](../h/holdings.md) include top [utility](../u/utility.md) companies.
+ - Popular among investors for its size and [liquidity](../l/liquidity.md).
 
 ### 2. Vanguard Utilities ETF (VPU)
 
 - **Overview**: VPU seeks to track the performance of the MSCI US Investable [Market](../m/market.md) Utilities 25/50 [Index](../i/index_instrument.md).
-- **Website**: [Vanguard Utilities ETF (VPU)](https://investor.vanguard.com/etf/profile/VPU)
 - **Key Features**:
-  - Low [expense ratio](../e/expense_ratio.md) compared to other utilities ETFs.
-  - Focus on U.S.-based [utility](../u/utility.md) companies.
-  - A mix of large, mid, and small-cap [utility](../u/utility.md) [stocks](../s/stock.md).
+ - Low [expense ratio](../e/expense_ratio.md) compared to other utilities ETFs.
+ - Focus on U.S.-based [utility](../u/utility.md) companies.
+ - A mix of large, mid, and small-cap [utility](../u/utility.md) [stocks](../s/stock.md).
 
 ### 3. iShares U.S. Utilities ETF (IDU)
 
 - **Overview**: IDU seeks to track the investment results of an [index](../i/index_instrument.md) composed of U.S. equities in the [utilities sector](../u/utilities_sector.md).
-- **Website**: [iShares U.S. Utilities ETF (IDU)](https://www.ishares.com/us/products/239716)
 - **Key Features**:
-  - Diversified exposure to the U.S. [utilities sector](../u/utilities_sector.md).
-  - Invests in electric, gas, and water utilities.
-  - Suited for investors looking for a broad approach to the sector.
+ - Diversified exposure to the U.S. [utilities sector](../u/utilities_sector.md).
+ - Invests in electric, gas, and water utilities.
+ - Suited for investors looking for a broad approach to the sector.
 
 ### 4. First Trust Utilities AlphaDEX Fund (FXU)
 
 - **Overview**: FXU seeks to provide investment results that correspond generally to the price and [yield](../y/yield.md) (before fees and expenses) of the StrataQuant Utilities [Index](../i/index_instrument.md).
-- **Website**: [First Trust Utilities AlphaDEX Fund (FXU)](https://www.ftportfolios.com/Retail/ETF/ETFsummary.aspx?Ticker=FXU)
 - **Key Features**:
-  - Utilizes a unique stock selection methodology.
-  - Aims to [overweight](../o/overweight.md) attractive [stocks](../s/stock.md) and [underweight](../u/underweight.md) less attractive [stocks](../s/stock.md).
-  - More [active management](../a/active_management.md) approach compared to traditional ETFs.
+ - Utilizes a unique stock selection methodology.
+ - Aims to [overweight](../o/overweight.md) attractive [stocks](../s/stock.md) and [underweight](../u/underweight.md) less attractive [stocks](../s/stock.md).
+ - More [active management](../a/active_management.md) approach compared to traditional ETFs.
 
 ## Benefits of Investing in Utilities Industry ETFs
 

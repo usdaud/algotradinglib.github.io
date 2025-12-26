@@ -37,12 +37,12 @@ For instance, an algorithmic strategy designed to [capitalize](../c/capitalize.m
 Understanding the distinction between a [debit](../d/debit.md) balance and a [credit](../c/credit.md) balance is essential for anyone engaging in financial activities, including [algorithmic trading](../a/accountability.md).
 
 - **[Debit](../d/debit.md) Balance**: Reflects [money](../m/money.md) that is owed. In a trading context, this usually relates to the amount borrowed from a [broker](../b/broker.md).
-  
+
 - **[Credit](../c/credit.md) Balance**: Indicates the [money](../m/money.md) that is available on the account or owed to the account holder. It's essentially the opposite of a [debit](../d/debit.md) balance.
 
 ### Real-World Example: Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) (IB) is one of the leading brokerage firms [offering](../o/offering.md) a [robust](../r/robust.md) platform for [algorithmic trading](../a/accountability.md). The company provides [margin](../m/margin.md) accounts that allow traders to [trade](../t/trade.md) on [leverage](../l/leverage.md). You can explore their offerings in more detail [here](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) (IB) is one of the leading brokerage firms [offering](../o/offering.md) a [robust](../r/robust.md) platform for [algorithmic trading](../a/accountability.md). The company provides [margin](../m/margin.md) accounts that allow traders to [trade](../t/trade.md) on [leverage](../l/leverage.md). You can explore their offerings in more detail here.
 
 On the [Interactive Brokers](../i/interactive_brokers.md) platform, traders can monitor their [debit](../d/debit.md) balances in real-time. The platform also offers features to manage [margin](../m/margin.md) requirements efficiently. For instance, if the [value](../v/value.md) of the securities in a [trader](../t/trader.md)’s [margin account](../m/margin_account.md) falls below the [maintenance margin](../m/maintenance_margin.md), [Interactive Brokers](../i/interactive_brokers.md) [will](../w/will.md) [issue](../i/issue.md) a [margin](../m/margin.md) maintenance call. The [trader](../t/trader.md) [will](../w/will.md) then need to either [deposit](../d/deposit.md) additional funds or [liquidate](../l/liquidate.md) some assets to cover the [debit](../d/debit.md) balance.
 

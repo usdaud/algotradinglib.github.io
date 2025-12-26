@@ -8,10 +8,10 @@ Introduced in 1980 under SEC Rule 12b-1, these fees were originally intended to 
 
 ### Breakdown of 12b-1 Fees
 
-12b-1 fees can include two primary components: 
+12b-1 fees can include two primary components:
 
 1. **[Distribution](../d/distribution.md) Fees:** These are fees paid to brokers, advisors, or salespersons for selling the [fund](../f/fund.md) to new investors.
-2. **Service Fees:** These fees are used to compensate brokers and others for ongoing account services provided to shareholders. 
+2. **Service Fees:** These fees are used to compensate brokers and others for ongoing account services provided to shareholders.
 
 A [fund](../f/fund.md) can charge up to 1% of its assets annually under the 12b-1 rule, which is divided into up to 0.75% for [distribution](../d/distribution.md) and 0.25% for servicing. It’s noteworthy that not all mutual funds charge 12b-1 fees; those that do must clearly outline these fees in the [fund](../f/fund.md)’s [prospectus](../p/prospectus.md).
 
@@ -43,9 +43,9 @@ When selecting a [mutual fund](../m/mutual_fund.md), investors should:
 
 Several [mutual fund](../m/mutual_fund.md) companies have chosen different approaches regarding 12b-1 fees:
 
-- **[Fidelity Investments](../f/fidelity_investments.md)** [Fidelity Investments](https://www.fidelity.com): Fidelity offers many no-[load](../l/load.md) funds that do not charge 12b-1 fees.
-- **Vanguard** [Vanguard](https://www.vanguard.com): Vanguard is known for its low-cost funds that typically avoid 12b-1 fees.
-- **[Charles Schwab](../c/charles_schwab.md)** [Charles Schwab](https://www.schwab.com): Schwab provides a variety of low-cost mutual funds and ETFs that aim to minimize fees, including 12b-1 fees.
+- **[Fidelity Investments](../f/fidelity_investments.md)** Fidelity Investments: Fidelity offers many no-[load](../l/load.md) funds that do not charge 12b-1 fees.
+- **Vanguard** Vanguard: Vanguard is known for its low-cost funds that typically avoid 12b-1 fees.
+- **[Charles Schwab](../c/charles_schwab.md)** Charles Schwab: Schwab provides a variety of low-cost mutual funds and ETFs that aim to minimize fees, including 12b-1 fees.
 
 ### Conclusion
 

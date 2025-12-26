@@ -19,7 +19,7 @@ Tangible [personal property](../p/personal_property.md) encompasses all physical
 
 ## Classification of Tangible Personal Property
 
-Tangible [personal property](../p/personal_property.md) can be further classified into two main categories: 
+Tangible [personal property](../p/personal_property.md) can be further classified into two main categories:
 1. **[Business](../b/business.md) Tangible [Personal Property](../p/personal_property.md):** Assets used in the conduct of [business](../b/business.md) operations. Examples include office equipment, machinery, and [inventory](../i/inventory.md).
 2. **Non-[Business](../b/business.md) Tangible [Personal Property](../p/personal_property.md):** Assets owned by individuals not related to [business activities](../b/business_activities.md). Examples include personal vehicles, household furniture, and electronics.
 
@@ -53,7 +53,7 @@ For federal tax purposes, tangible [personal property](../p/personal_property.md
 
 - **Straight-Line [Depreciation](../d/depreciation.md):** The cost of the property is deducted in equal installments over its [useful life](../u/useful_life.md).
 - **[Accelerated Depreciation](../a/accelerated_depreciation.md):** Allows larger deductions in the earlier years of the property’s [useful life](../u/useful_life.md). Methods such as Double Declining Balance (DDB) are common for [accelerated depreciation](../a/accelerated_depreciation.md).
-  
+
 ### Section 179 and Bonus Depreciation
 
 The IRS provides additional methods to accelerate [depreciation](../d/depreciation.md), such as Section 179 expensing and [bonus depreciation](../b/bonus_depreciation.md):

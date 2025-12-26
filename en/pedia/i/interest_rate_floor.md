@@ -10,7 +10,7 @@ An [interest rate](../i/interest_rate.md) floor contract typically involves two 
 
 The typical structure of an [interest rate](../i/interest_rate.md) floor involves the following components:
 
-1. **Reference [Interest Rate](../i/interest_rate.md):** The commonly used benchmarks include LIBOR (London Interbank Offered Rate), EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate), or other regional [interest](../i/interest.md) rates pertinent to the financial product in question.
+1. **Reference [Interest Rate](../i/interest_rate.md):** The commonly used benchmarks include SOFR (Secured Overnight Financing Rate), SONIA, €STR, or EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate) for regional [interest](../i/interest.md) rates pertinent to the financial product in question.
 
 2. **Floor Rate:** This is the minimum [interest rate](../i/interest_rate.md) level agreed upon by both parties. If the [reference rate](../r/reference_rate.md) falls below the floor rate, the seller makes up the difference.
 
@@ -20,7 +20,7 @@ The typical structure of an [interest rate](../i/interest_rate.md) floor involve
 
 ### Example Scenario
 
-Consider an [investor](../i/investor.md) who holds a floating rate [bond](../b/bond.md) that pays [interest](../i/interest.md) based on 3-month LIBOR plus a spread of 1%. To protect against the [risk](../r/risk.md) of LIBOR falling below a certain level, the [investor](../i/investor.md) buys an [interest rate](../i/interest_rate.md) floor with a floor rate of 1%. If LIBOR falls to 0.5%, the floor ensures that the [investor](../i/investor.md) still receives a total [interest rate](../i/interest_rate.md) of 1.5% (the 1% floor rate plus the 0.5% spread).
+Consider an [investor](../i/investor.md) who holds a floating rate [bond](../b/bond.md) that pays [interest](../i/interest.md) based on 3-month SOFR plus a spread of 1%. To protect against the [risk](../r/risk.md) of SOFR falling below a certain level, the [investor](../i/investor.md) buys an [interest rate](../i/interest_rate.md) floor with a floor rate of 1%. If SOFR falls to 0.5%, the floor ensures that the [investor](../i/investor.md) still receives a total [interest rate](../i/interest_rate.md) of 1.5% (the 1% floor rate plus the 0.5% spread).
 
 ## Hedging Strategies and Use Cases
 
@@ -54,9 +54,9 @@ Valuing an [interest rate](../i/interest_rate.md) floor involves complex [financ
 
 Several financial institutions [offer](../o/offer.md) [interest rate](../i/interest_rate.md) floors as standalone [derivatives](../d/derivatives.md) or as components of broader financial products. For example:
 
-- [Goldman Sachs](https://www.goldmansachs.com/) provides sophisticated [interest rate derivatives](../i/interest_rate_derivatives.md), including floors, tailored to their clients' specific needs.
-- [J.P. Morgan](https://www.jpmorgan.com/), known for its comprehensive financial solutions, offers [interest rate risk management](../i/interest_rate_risk_management.md) tools that include [interest rate](../i/interest_rate.md) floors.
-- [CME Group](https://www.cmegroup.com/) lists [interest rate derivatives](../i/interest_rate_derivatives.md), [offering](../o/offering.md) standardized contracts that can include [interest rate](../i/interest_rate.md) floors for managing exposure.
+- Goldman Sachs provides sophisticated [interest rate derivatives](../i/interest_rate_derivatives.md), including floors, tailored to their clients' specific needs.
+- J.P. Morgan, known for its comprehensive financial solutions, offers [interest rate risk management](../i/interest_rate_risk_management.md) tools that include [interest rate](../i/interest_rate.md) floors.
+- CME Group lists [interest rate derivatives](../i/interest_rate_derivatives.md), [offering](../o/offering.md) standardized contracts that can include [interest rate](../i/interest_rate.md) floors for managing exposure.
 
 ## Regulatory Environment
 

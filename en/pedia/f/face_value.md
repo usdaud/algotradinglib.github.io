@@ -39,7 +39,7 @@ A [corporation](../c/corporation.md) might [issue](../i/issue.md) [shares](../s/
 
 ### Bond Market
 
-In the [bond market](../b/bond_market.md), the relationship between face [value](../v/value.md), [market value](../m/market_value.md), and [interest](../i/interest.md) rates is significant. 
+In the [bond market](../b/bond_market.md), the relationship between face [value](../v/value.md), [market value](../m/market_value.md), and [interest](../i/interest.md) rates is significant.
 
 - **[Premium](../p/premium.md) and [Discount](../d/discount.md):** Bonds can be traded above ([premium](../p/premium.md)) or below ([discount](../d/discount.md)) their face [value](../v/value.md) in secondary markets, depending on current [interest](../i/interest.md) rates relative to the [bond](../b/bond.md)'s [coupon rate](../c/coupon_rate.md). For instance, if [interest](../i/interest.md) rates decline below the [bond](../b/bond.md)'s [coupon rate](../c/coupon_rate.md), the [bond](../b/bond.md)'s [market price](../m/market_price.md) may rise above its face [value](../v/value.md).
 - **[Yield](../y/yield.md):** The [yield](../y/yield.md) of a [bond](../b/bond.md), which is a measure of [return](../r/return.md), is affected by its face [value](../v/value.md). [Yield](../y/yield.md) calculations often involve comparing the face [value](../v/value.md) to the [bond](../b/bond.md)'s current [market price](../m/market_price.md).

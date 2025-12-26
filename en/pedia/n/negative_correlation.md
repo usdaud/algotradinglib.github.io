@@ -85,7 +85,7 @@ During the 2008 [financial crisis](../f/financial_crisis.md), many investors wit
 
 Ray Dalio, founder of Bridgewater Associates, is known for advocating diversified portfolios using the concept of negative [correlation](../c/correlation.md). His "All Weather Portfolio" is designed to perform well across different economic environments by balancing various [asset](../a/asset.md) classes with differing correlations.
 
-For more information on portfolio construction by Bridgewater, you can visit their [official website](https://www.bridgewater.com).
+
 
 ## Challenges and Criticisms
 

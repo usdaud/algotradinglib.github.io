@@ -6,7 +6,7 @@ Spread [options](../o/options.md) represent one of the more sophisticated instru
 
 At its core, a spread option represents a [derivative](../d/derivative.md) contract that provides the right, but not the obligation, to [trade](../t/trade.md) on the difference in prices between two [underlying](../u/underlying.md) assets. These assets can [range](../r/range.md) from equities and commodities to [foreign exchange](../f/foreign_exchange.md) pairs or even [interest](../i/interest.md) rates. Spread [options](../o/options.md) can help traders exploit opportunities arising from [market](../m/market.md) inefficiencies by taking advantage of relative price movements rather than absolute price changes.
 
-Spread [options](../o/options.md) can be categorized based on their [underlying asset](../u/underlying_asset.md) classes, expiration dates, and the particular configurations or "[spreads](../s/spreads.md)" they employ. 
+Spread [options](../o/options.md) can be categorized based on their [underlying asset](../u/underlying_asset.md) classes, expiration dates, and the particular configurations or "[spreads](../s/spreads.md)" they employ.
 
 ## Types of Spread Options
 
@@ -70,15 +70,15 @@ Spread [options](../o/options.md) provide various pathways to enhance returns, w
 
 ### Proprietary Trading Firms
 
-[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street (https://www.janestreet.com/) and Citadel (https://www.citadel.com/) extensively use spread [options](../o/options.md) as part of their [algorithmic trading](../a/algorithmic_trading.md) strategies. These firms have highly advanced [trading algorithms](../t/trading_algorithms.md) designed to capture minuscule differences in [market](../m/market.md) prices across different assets, leveraging [financial engineering](../f/financial_engineering.md) to deploy spread [options](../o/options.md) effectively.
+[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street ( and Citadel ( extensively use spread [options](../o/options.md) as part of their [algorithmic trading](../a/algorithmic_trading.md) strategies. These firms have highly advanced [trading algorithms](../t/trading_algorithms.md) designed to capture minuscule differences in [market](../m/market.md) prices across different assets, leveraging [financial engineering](../f/financial_engineering.md) to deploy spread [options](../o/options.md) effectively.
 
 ### Investment Banks
 
-[Investment banks](../i/investment_bank_(ib).md) like Goldman Sachs (https://www.goldmansachs.com/) and JPMorgan (https://www.jpmorgan.com/) also utilize spread [options](../o/options.md) for client services and prop trading activities. They use [quantitative models](../q/quantitative_models.md) and extensive research to tailor spread option strategies to varying [market](../m/market.md) conditions.
+[Investment banks](../i/investment_bank_(ib).md) like Goldman Sachs ( and JPMorgan ( also utilize spread [options](../o/options.md) for client services and prop trading activities. They use [quantitative models](../q/quantitative_models.md) and extensive research to tailor spread option strategies to varying [market](../m/market.md) conditions.
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds such as Renaissance Technologies (https://www.rentec.com/) and Bridgewater Associates (https://www.bridgewater.com/) rely heavily on spread [options](../o/options.md). These funds employ complex algorithms and extensive [quantitative analysis](../q/quantitative_analysis.md) to optimize their [trading strategies](../t/trading_strategies.md), using spread [options](../o/options.md) to balance [risk](../r/risk.md) and reward dynamically.
+[Hedge](../h/hedge.md) funds such as Renaissance Technologies ( and Bridgewater Associates ( rely heavily on spread [options](../o/options.md). These funds employ complex algorithms and extensive [quantitative analysis](../q/quantitative_analysis.md) to optimize their [trading strategies](../t/trading_strategies.md), using spread [options](../o/options.md) to balance [risk](../r/risk.md) and reward dynamically.
 
 ## Conclusion
 

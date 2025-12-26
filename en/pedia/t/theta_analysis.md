@@ -12,7 +12,7 @@ Given that [options](../o/options.md) are wasting assets, they eventually expire
 
 [Theta](../t/theta.md) is generally derived using complex mathematical formulas underpinned by the [Black-Scholes model](../b/black-scholes_model.md), the Binomial model, or other sophisticated pricing models. These models take into account several factors including the current stock price, [strike price](../s/strike_price.md), [volatility](../v/volatility.md), time to expiration, and [interest](../i/interest.md) rates. The typical expression for [Theta](../t/theta.md) in the [Black-Scholes model](../b/black-scholes_model.md) for a European [call option](../c/call_option.md) is:
 
-\[ \[Theta](../t/theta.md) = - \frac{S \sigma N'(d_1)}{2 \sqrt{T}} - r K e^{-rT} N(d_2)  \]
+\[ \[Theta](../t/theta.md) = - \frac{S \sigma N'(d_1)}{2 \sqrt{T}} - r K e^{-rT} N(d_2) \]
 
 Likewise, the [Theta](../t/theta.md) of a European [put option](../p/put.md) is given by:
 
@@ -33,8 +33,8 @@ Where:
 Several key factors influence the [Theta](../t/theta.md) [value](../v/value.md) of an option:
 
 1. **Time to Expiration:** [Theta](../t/theta.md) is typically larger (in absolute terms) for [options](../o/options.md) that are closer to expiration. As the [expiration date](../e/expiration_date.md) approaches, the [time decay](../t/time_decay.md) accelerates.
-   
-2. **[Volatility](../v/volatility.md):** Generally, [options](../o/options.md) with higher [volatility](../v/volatility.md) have higher [Theta](../t/theta.md) values. Elevated [volatility](../v/volatility.md) often increases the option's [premium](../p/premium.md), thereby amplifying the rate of [time decay](../t/time_decay.md). 
+
+2. **[Volatility](../v/volatility.md):** Generally, [options](../o/options.md) with higher [volatility](../v/volatility.md) have higher [Theta](../t/theta.md) values. Elevated [volatility](../v/volatility.md) often increases the option's [premium](../p/premium.md), thereby amplifying the rate of [time decay](../t/time_decay.md).
 
 3. **Option Type and Position:** The [Theta](../t/theta.md) for out-of-the-[money](../m/money.md) (OTM) and at-the-[money](../m/money.md) (ATM) [options](../o/options.md) is generally higher than for in-the-[money](../m/money.md) (ITM) [options](../o/options.md). ATM [options](../o/options.md) experience the most rapid [time decay](../t/time_decay.md) as they are highly sensitive to whether the option ends up ITM or OTM as expiration looms.
 
@@ -72,11 +72,11 @@ These strategies do not rely on the price movement of the [underlying asset](../
 
 Given [Theta](../t/theta.md)'s importance, several automated tools and platforms are available to help traders integrate [Theta](../t/theta.md) into their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and live trading support. It allows integration of custom [Theta](../t/theta.md) analyses into strategy formulations.
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and live trading support. It allows integration of custom [Theta](../t/theta.md) analyses into strategy formulations.
 
-- **TAS (Trading Analysis Suite)**: Offered by TradingAnalysis, [TAS](https://tradinganalysis.com/) provides detailed Greek analytics tools that can be used to gauge [Theta](../t/theta.md) impact on various [options](../o/options.md) strategies.
+- **TAS (Trading Analysis Suite)**: Offered by TradingAnalysis, TAS provides detailed Greek analytics tools that can be used to gauge [Theta](../t/theta.md) impact on various [options](../o/options.md) strategies.
 
-- **Orats (Option Research & Technology Services)**: [Orats](https://orats.com/) offers comprehensive [options](../o/options.md) analytics, including [Theta](../t/theta.md) analysis, to facilitate sophisticated [options trading strategies](../o/options_trading_strategies.md).
+- **Orats (Option Research & Technology Services)**: Orats offers comprehensive [options](../o/options.md) analytics, including [Theta](../t/theta.md) analysis, to facilitate sophisticated [options trading strategies](../o/options_trading_strategies.md).
 
 ## Conclusion
 

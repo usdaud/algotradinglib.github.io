@@ -14,7 +14,7 @@ Traditional [market capitalization](../m/market_capitalization.md) has its drawb
 1. **Insiders:** These can include company executives, directors, or employees who [hold](../h/hold.md) [shares](../s/shares.md) as part of their compensation packages.
 2. **Governments:** In some cases, governments may [hold](../h/hold.md) substantial amounts of [shares](../s/shares.md), often as part of [privatization](../p/privatization.md) or as a strategic investment.
 3. **Founders and Strategic Entities:** Founders, venture capitalists, and other [pre-IPO](../p/pre-ipo.md) investors may [hold](../h/hold.md) significant [shares](../s/shares.md) that are often subject to lock-in periods.
-   
+
 This inclusion of non-tradable [shares](../s/shares.md) can distort the [perceived value](../p/perceived_value.md) and [liquidity risk](../l/liquidity_risk.md) of a company’s stock, making it seem more [liquid](../l/liquid.md) than it actually is.
 
 ## Calculating Float-Adjusted Market Capitalization
@@ -30,7 +30,7 @@ For example, if the same company mentioned above has 1 million [shares](../s/sha
 \[ \text{Float-Adjusted [Market Capitalization](../m/market_capitalization.md)} = 700,000 \times 50 = 35,000,000 \]
 
 ## Importance in Index Construction
-[Float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) is particularly crucial in the construction and maintenance of [stock market](../s/stock_market.md) indices. Major indices like the S&P 500, FTSE 100, and others use [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) to ensure that the [index](../i/index_instrument.md) more accurately reflects the performance and [liquidity](../l/liquidity.md) of the included companies. 
+[Float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) is particularly crucial in the construction and maintenance of [stock market](../s/stock_market.md) indices. Major indices like the S&P 500, FTSE 100, and others use [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) to ensure that the [index](../i/index_instrument.md) more accurately reflects the performance and [liquidity](../l/liquidity.md) of the included companies.
 
 For example, the S&P 500 introduced [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) methodology in 2005. This change aimed to provide a more realistic and investable [benchmark](../b/benchmark.md) for [index](../i/index_instrument.md) funds and institutional investors.
 
@@ -43,14 +43,14 @@ For example, the S&P 500 introduced [float](../f/float.md)-adjusted [market capi
 
 ## Case Studies
 ### Apple Inc. (AAPL)
-As of 2023, Apple Inc. is one of the largest companies by [market capitalization](../m/market_capitalization.md) globally. Understanding its [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) can provide insights into its investment dynamics. 
+As of 2023, Apple Inc. is one of the largest companies by [market capitalization](../m/market_capitalization.md) globally. Understanding its [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) can provide insights into its investment dynamics.
 
-On Apple's [Investor Relations page](https://investor.apple.com/), you can find detailed information about the number of [shares](../s/shares.md) outstanding, insider [holdings](../h/holdings.md), and more, which can help in calculating the [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md).
+On Apple's company filings, you can find detailed information about the number of [shares](../s/shares.md) outstanding, insider [holdings](../h/holdings.md), and more, which can help in calculating the [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md).
 
 ### Tesla Inc. (TSLA)
 Tesla is another interesting example, given the significant amount of [shares](../s/shares.md) held by its founder, Elon Musk. The [float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) of Tesla gives a better understanding of the company’s [liquidity](../l/liquidity.md) and [market risk](../m/market_risk.md) compared to its traditional [market capitalization](../m/market_capitalization.md).
 
-Details about Tesla's shareholding structure can be accessed on [Tesla’s Investor Relations site](https://ir.tesla.com/).
+Details about Tesla's shareholding structure can be accessed on Tesla’s company filings.
 
 ## Conclusion
 [Float](../f/float.md)-adjusted [market capitalization](../m/market_capitalization.md) is an essential metric for providing a more realistic view of a company's [market value](../m/market_value.md) and [liquidity risk](../l/liquidity_risk.md). It is indispensable for [index construction](../i/index_construction.md) and is highly beneficial for various investment strategies. By excluding non-tradable [shares](../s/shares.md), this metric ensures that investors and funds get an accurate picture of the [stocks](../s/stock.md) they are interested in, allowing for more informed decision-making.

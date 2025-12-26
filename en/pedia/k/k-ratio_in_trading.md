@@ -12,7 +12,7 @@ To calculate the K-Ratio, follow these steps:
 
 1. **Calculate the [equity](../e/equity.md) curve:** Plot the cumulative returns of the [trading strategy](../t/trading_strategy.md) or portfolio over time.
 2. **[Linear regression](../l/linear_regression.md):** Perform a [linear regression](../l/linear_regression.md) analysis on the [equity](../e/equity.md) curve to determine the slope of the regression line. The slope indicates the average [rate of return](../r/rate_of_return.md).
-3. **Calculate residuals:** Determine the residuals or deviations of the actual returns from the regression line. 
+3. **Calculate residuals:** Determine the residuals or deviations of the actual returns from the regression line.
 4. **[Standard error](../s/standard_error.md) of the slope:** Calculate the [standard error](../s/standard_error.md) of the slope, which measures the [standard deviation](../s/standard_deviation.md) of the residuals.
 5. **K-Ratio formula:** Finally, compute the K-Ratio using the formula:
 
@@ -50,37 +50,37 @@ For algorithmic and discretionary traders alike, the K-Ratio is valuable in perf
 
 Several [proprietary trading](../p/proprietary_trading.md) firms and [hedge](../h/hedge.md) funds utilize the K-Ratio as part of their performance evaluation frameworks. While specific details and proprietary techniques are often not publicly disclosed, notable firms in the [algorithmic trading](../a/algorithmic_trading.md) space likely incorporate such metrics. For instance:
 
-- **Jane Street (https://www.janestreet.com/):** A prominent [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) approaches, possibly employing the K-Ratio in evaluating strategy performance.
-- **Renaissance Technologies (https://www.rentech.com/):** A renowned [hedge fund](../h/hedge_fund.md) using sophisticated [quantitative models](../q/quantitative_models.md), likely leveraging various [performance metrics](../p/performance_metrics.md), including the K-Ratio, to refine their strategies.
+- **Jane Street ( A prominent [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) approaches, possibly employing the K-Ratio in evaluating strategy performance.
+- **Renaissance Technologies ( A renowned [hedge fund](../h/hedge_fund.md) using sophisticated [quantitative models](../q/quantitative_models.md), likely leveraging various [performance metrics](../p/performance_metrics.md), including the K-Ratio, to refine their strategies.
 
 ### Example Calculation
 
 To illustrate the calculation of the K-Ratio, consider a hypothetical [trading strategy](../t/trading_strategy.md) with monthly cumulative returns data. Here's a simplified step-by-step calculation:
 
 1. **Cumulative returns data:**
-   | Month | Cumulative [Return](../r/return.md) |
-   |-------|--------------------|
-   | 1     | 2%                 |
-   | 2     | 4%                 |
-   | 3     | 6%                 |
-   | 4     | 8%                 |
-   | 5     | 10%                |
+ | Month | Cumulative [Return](../r/return.md) |
+ |-------|--------------------|
+ | 1 | 2% |
+ | 2 | 4% |
+ | 3 | 6% |
+ | 4 | 8% |
+ | 5 | 10% |
 
 2. **Plotting the [equity](../e/equity.md) curve:**
-   The x-axis represents time (months), and the y-axis represents cumulative returns.
+ The x-axis represents time (months), and the y-axis represents cumulative returns.
 
 3. **[Linear regression](../l/linear_regression.md):**
-   Perform a [linear regression](../l/linear_regression.md) on the data points to find the slope (let's assume the slope is 2).
+ Perform a [linear regression](../l/linear_regression.md) on the data points to find the slope (let's assume the slope is 2).
 
 4. **Calculate residuals:**
-   Determine the deviations of actual returns from the regression line.
+ Determine the deviations of actual returns from the regression line.
 
 5. **[Standard error](../s/standard_error.md) of the slope:**
-   Calculate the [standard error](../s/standard_error.md) of the slope (assume it is 0.1).
+ Calculate the [standard error](../s/standard_error.md) of the slope (assume it is 0.1).
 
 6. **K-Ratio calculation:**
-   Using the formula:
-   \[ \text{K-Ratio} = \frac{2}{0.1} = 20 \]
+ Using the formula:
+ \[ \text{K-Ratio} = \frac{2}{0.1} = 20 \]
 
 This example demonstrates a high K-Ratio, indicating a smooth and consistent [equity](../e/equity.md) growth.
 

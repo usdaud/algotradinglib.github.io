@@ -68,10 +68,10 @@ NAFTA faced its share of criticisms and controversies:
 
 ## Successor Agreement: USMCA
 
-In response to both the successes and controversies of NAFTA, the United States, Canada, and Mexico renegotiated the agreement, resulting in the United States-Mexico-Canada Agreement (USMCA), which took effect on July 1, 2020. The USMCA aimed to address some of the criticisms of NAFTA and modernize the [trade](../t/trade.md) relationship among the three countries with updated provisions on digital [trade](../t/trade.md), labor, and environmental standards. 
+In response to both the successes and controversies of NAFTA, the United States, Canada, and Mexico renegotiated the agreement, resulting in the United States-Mexico-Canada Agreement (USMCA), which took effect on July 1, 2020. The USMCA aimed to address some of the criticisms of NAFTA and modernize the [trade](../t/trade.md) relationship among the three countries with updated provisions on digital [trade](../t/trade.md), labor, and environmental standards.
 
 For more information on the current [trade](../t/trade.md) relationship and successor agreement, please refer to the following sources:
 
-- [Office of the United States Trade Representative (USTR) - USMCA](https://ustr.gov/usmca)
-- [Government of Canada - CUSMA](https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/index.aspx?lang=eng)
-- [Government of Mexico - T-MEC](https://www.gob.mx/t-mec)
+- Office of the United States Trade Representative (USTR) - USMCA
+- Government of Canada - CUSMA
+- Government of Mexico - T-MEC

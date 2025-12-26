@@ -76,13 +76,13 @@ Modern electronic banking platforms [offer](../o/offer.md) seamless integration 
 
 JPMorgan Chase, a global banking leader, offers comprehensive Vostro account services to correspondent banks. Their Vostro account platform enables seamless cross-border transactions, [liquidity](../l/liquidity.md) management, and real-time reporting. By leveraging advanced technologies and [robust](../r/robust.md) operational frameworks, JPMorgan Chase ensures secure and efficient Vostro account operations for their foreign banking partners.
 
-For more information, visit: [JPMorgan Chase Vostro Services](https://www.jpmorgan.com/)
+For more information, visit: JPMorgan Chase Vostro Services
 
 #### Case Study 2: HSBC Global Vostro Solutions
 
 HSBC, one of the world's largest banking and financial services organizations, provides tailored Vostro account solutions to foreign banks. Their services include multi-[currency](../c/currency.md) account capabilities, competitive [foreign exchange](../f/foreign_exchange.md) rates, and integrated electronic banking platforms. HSBC's Vostro accounts facilitate global [trade](../t/trade.md), remittances, and investment transactions, supporting the international banking needs of their correspondent partners.
 
-For more information, visit: [HSBC Global Vostro Solutions](https://www.hsbc.com/)
+For more information, visit: HSBC Global Vostro Solutions
 
 ### Conclusion
 

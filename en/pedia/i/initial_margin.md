@@ -19,9 +19,9 @@ The initial [margin](../m/margin.md) serves [multiple](../m/multiple.md) key rol
 The calculation of Initial [Margin](../m/margin.md) can be complex and varies across [asset](../a/asset.md) classes and exchanges. However, commonly used methods include:
 
 1. **SPAN (Standard [Portfolio Analysis](../p/portfolio_analysis.md) of [Risk](../r/risk.md))**: Developed by the Chicago Mercantile [Exchange](../e/exchange.md) (CME), SPAN is widely used for [futures](../f/futures.md) and [options](../o/options.md). It evaluates the portfolio’s total [risk](../r/risk.md) and computes the required [margin](../m/margin.md).
-   
+
 2. **VaR ([Value](../v/value.md) at [Risk](../r/risk.md))**: This method estimates the potential loss in the [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md).
-   
+
 3. **Fixed Percentage**: Some markets and brokers use a fixed percentage of the [trade](../t/trade.md) size as the initial [margin](../m/margin.md). For example, [equity](../e/equity.md) margins in the U.S. are often set at 50%.
 
 ### Example Calculation
@@ -62,19 +62,19 @@ In the forex [market](../m/market.md), initial [margin](../m/margin.md) requirem
 
 ## Technological Advancements
 
-The calculation and management of initial [margin](../m/margin.md) have significantly benefitted from technological advancements. With the rise of [algorithmic trading](../a/accountability.md) and high-frequency trading (HFT), real-time [margin](../m/margin.md) calculation and monitoring have become crucial. Advanced algorithms and [software platforms](../s/software_platforms_for_trading.md) now [offer](../o/offer.md) features like:
+The calculation and management of initial [margin](../m/margin.md) have significantly benefitted from technological advancements. With the rise of [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading (HFT), real-time [margin](../m/margin.md) calculation and monitoring have become crucial. Advanced algorithms and [software platforms](../s/software_platforms_for_trading.md) now [offer](../o/offer.md) features like:
 
 1. **Real-Time [Margin](../m/margin.md) Calculation**: Continuously updates [margin](../m/margin.md) requirements based on [market](../m/market.md) movements.
-   
+
 2. **Portfolio Margining**: Allows for the margining of a portfolio rather than individual positions, providing more efficient use of [capital](../c/capital.md).
-   
+
 3. **[Risk Management](../r/risk_management.md) Tools**: Enable traders and brokers to monitor and mitigate [risk](../r/risk.md) in real-time.
 
 Examples of technological platforms [offering](../o/offering.md) advanced [margin](../m/margin.md) solutions include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [TradeStation](https://www.tradestation.com/)
-- [CQG](https://www.cqg.com/)
+- Interactive Brokers
+- TradeStation
+- CQG
 
 ## Practical Considerations
 

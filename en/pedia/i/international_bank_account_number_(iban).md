@@ -10,10 +10,10 @@ An IBAN is a unique code that identifies a specific [bank](../b/bank.md) account
 
 An IBAN consists of up to 34 alphanumeric characters, which include the following components:
 
-1. **Country Code**: The first two letters represent the country in which the [bank](../b/bank.md) account is held. This code is based on the ISO 3166-1 [alpha](../a/alpha.md)-2 standard. For example, "GB" for the United Kingdom, "DE" for Germany, or "FR" for France.
-   
+1. **Country Code**: The first two letters represent the country in which the [bank](../b/bank.md) account is held. This code is based on the ISO 3166-1 alpha-2 standard. For example, "GB" for the United Kingdom, "DE" for Germany, or "FR" for France.
+
 2. **[Check](../c/check.md) Digits**: The next two digits provide a method for validating the IBAN to prevent errors in transcription. These digits are calculated using the MOD-97-10 algorithm.
-   
+
 3. **Basic [Bank](../b/bank.md) [Account Number](../a/account_number.md) (BBAN)**: The remaining characters form the Basic [Bank](../b/bank.md) [Account Number](../a/account_number.md), which varies in length and format from one country to another. The BBAN includes the [bank](../b/bank.md) code, branch code, and the [account number](../a/account_number.md) itself.
 
 ### Example of an IBAN
@@ -49,7 +49,7 @@ The use of IBAN provides several benefits for international financial transactio
 IBAN is just one of several systems designed to facilitate international payments. Here are some common alternatives:
 
 - **SWIFT/BIC Code**: The Society for Worldwide Interbank Financial Telecommunication (SWIFT) assigns [Business](../b/business.md) Identifier Codes (BICs) to financial institutions. These codes are used alongside IBANs for international transfers.
-  
+
 - **ABA Routing Number**: Used primarily within the United States, the American Bankers Association (ABA) routing number identifies financial institutions but is not standardized for international use.
 
 - **CHIPS UID**: The [Clearing House](../c/clearing_house.md) Interbank Payments System (CHIPS) Universal Identifier (UID) is used in the US for large-[value](../v/value.md) payments, often within the same country.
@@ -71,7 +71,7 @@ This process ensures that the [payment](../p/payment.md) is directed accurately 
 
 The International [Bank](../b/bank.md) [Account Number](../a/account_number.md) (IBAN) is a crucial component of modern international banking, providing a standardized and reliable method for identifying [bank](../b/bank.md) accounts across national borders. Its adoption has significantly improved the [efficiency](../e/efficiency.md), accuracy, and cost-effectiveness of cross-border financial transactions. As global [commerce](../c/commerce.md) continues to expand, the use of IBAN [will](../w/will.md) likely become even more widespread, further enhancing the ease of international payments.
 
-For more details about IBAN, guidelines, and tools for validating IBANs, visit the official website at [IBAN](https://www.iban.com).
+
 
 ---
 

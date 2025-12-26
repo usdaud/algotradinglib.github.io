@@ -4,7 +4,7 @@ In the world of [actuarial science](../a/actuarial_science.md) and [financial ac
 
 ## What is Actuarial Gain or Loss?
 
-Actuarial [gain](../g/gain.md) or loss occurs due to changes in the assumptions or experiences that are used to calculate the [present value](../p/present_value.md) of a company's pension [obligations](../o/obligation.md) and the [value](../v/value.md) of [pension plan](../p/pension_plan.md) assets. These assumptions can include factors such as [life expectancy](../l/life_expectancy.md), employee [turnover](../t/turnover.md), salary growth, [discount](../d/discount.md) rates, and the [rate of return](../r/rate_of_return.md) on plan assets. 
+Actuarial [gain](../g/gain.md) or loss occurs due to changes in the assumptions or experiences that are used to calculate the [present value](../p/present_value.md) of a company's pension [obligations](../o/obligation.md) and the [value](../v/value.md) of [pension plan](../p/pension_plan.md) assets. These assumptions can include factors such as [life expectancy](../l/life_expectancy.md), employee [turnover](../t/turnover.md), salary growth, [discount](../d/discount.md) rates, and the [rate of return](../r/rate_of_return.md) on plan assets.
 
 ### Actuarial Assumptions
 
@@ -38,7 +38,7 @@ The treatment of actuarial gains and losses can have significant impacts on a co
 
 ## Real World Examples
 
-### Major Corporations 
+### Major Corporations
 
 Organizations with significant defined benefit pension plans, such as General Electric, Ford, and IBM, regularly encounter actuarial gains and losses. These changes are typically detailed in their annual [financial statements](../f/financial_statements.md). Companies provide detailed disclosures about the actuarial assumptions used, the impact of experience adjustments, and the changes in financial assumptions that have influenced the actuarial gains or losses recognized for the period.
 
@@ -46,14 +46,14 @@ Organizations with significant defined benefit pension plans, such as General El
 
 To observe the application of [accounting](../a/accounting.md) for actuarial gains and losses, one can look into the financial disclosures of companies. For example:
 
-- **General Electric (GE)**: Provides detailed information on pension [obligations](../o/obligation.md) and the assumptions used in their [annual report](../a/annual_report.md), available on their [official website](https://www.ge.com/investor-relations).
-- **IBM**: Discusses the impact of actuarial gains and losses on their [financial statements](../f/financial_statements.md) in their annual reports, accessible via their [investor relations page](https://www.ibm.com/investor/).
+- **General Electric (GE)**: Provides detailed information on pension [obligations](../o/obligation.md) and the assumptions used in their [annual report](../a/annual_report.md),
+- **IBM**: Discusses the impact of actuarial gains and losses on their [financial statements](../f/financial_statements.md) in their annual reports.
 
 ## The Role of Actuaries
 
 Actuaries play a crucial role in valuing pension plans and calculating the actuarial gains or losses. They employ mathematical and statistical techniques to make predictions about future events, utilizing historical data and trends. Actuaries must comply with professional standards and often work alongside accountants and financial analysts to ensure that the actuarial assumptions and valuations are accurate and appropriate.
 
-### Professional Organizations 
+### Professional Organizations
 
 Several professional organizations provide guidelines and standards for actuaries, such as:
 - **The Society of Actuaries (SOA)**

@@ -104,7 +104,7 @@ Many [portfolio management](../p/par.md) platforms [offer](../o/offer.md) built-
 
 ### Algorithmic Trading Platforms
 
-Advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) [offer](../o/offer.md) modules that calculate the Average [Cost Basis](../c/cost_basis.md) as part of their broader suite of [quantitative analysis tools](../q/quantitative_analysis_tools.md). These platforms allow traders to backtest strategies and see how different [cost basis](../c/cost_basis.md) methods impact the performance and tax implications of their [trading strategies](../t/trading_strategies.md).
+Advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) like [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) [offer](../o/offer.md) modules that calculate the Average [Cost Basis](../c/cost_basis.md) as part of their broader suite of [quantitative analysis tools](../q/quantitative_analysis_tools.md). These platforms allow traders to backtest strategies and see how different [cost basis](../c/cost_basis.md) methods impact the performance and tax implications of their [trading strategies](../t/trading_strategies.md).
 
 ### Custom Algorithms
 
@@ -146,10 +146,10 @@ The Average [Cost Basis](../c/cost_basis.md) method offers a practical and strai
 
 For more information and practical applications, consider exploring [portfolio management](../p/par.md) software and [algorithmic trading platforms](../a/algorithmic_trading_platforms.md):
 
-- [Ally Invest](https://www.ally.com/invest/)
-- [E*TRADE](https://us.etrade.com/home)
-- [Charles Schwab](https://www.schwab.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpaca](https://alpaca.markets/)
+- Ally Invest
+- E*TRADE
+- Charles Schwab
+- QuantConnect
+- Alpaca
 
 Understanding and effectively utilizing the Average [Cost Basis](../c/cost_basis.md) can lead to more efficient [portfolio management](../p/par.md) and better-informed trading decisions, thereby enhancing overall [financial performance](../f/financial_performance.md).

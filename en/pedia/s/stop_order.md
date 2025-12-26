@@ -10,7 +10,7 @@ The stop price is the criterion that triggers the conversion of a stop [order](.
 ### Execution
 Upon reaching the stop price, the stop [order](../o/order.md) transforms into a [market order](../m/market_order.md) and is executed at the next available [market price](../m/market_price.md). This attribute implies that the final [execution](../e/execution.md) price could be different from the stop price, especially in volatile [market](../m/market.md) conditions.
 
-### Time Validity 
+### Time Validity
 Stop orders can have varied time validity, such as:
 
 - **Day Orders**: These orders expire if not triggered by the end of the trading day.
@@ -45,16 +45,16 @@ Strategically placing stop orders is critical. Placing stop prices too close to 
 
 ### Broker Platforms
 Different trading platforms [offer](../o/offer.md) varied functionalities for setting up and managing stop orders. Advanced platforms may provide conditional orders, automated adjustments, and real-time monitoring tools. Notable brokerage firms [offering](../o/offering.md) [robust](../r/robust.md) stop [order](../o/order.md) functionalities include:
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [TD Ameritrade](https://www.tdameritrade.com/)
-- [Charles Schwab](https://www.schwab.com/)
+- Interactive Brokers
+- TD Ameritrade
+- Charles Schwab
 
 ### Regulatory Considerations
 Regulations surrounding stop orders may vary by country and [exchange](../e/exchange.md). Traders must comply with regional regulatory requirements to ensure proper [execution](../e/execution.md) and reporting.
 
 ## Algorithmic Trading and Stop Orders
 
-In the realm of [algorithmic trading](../a/accountability.md), stop orders play an essential role in automated strategies. These strategies often incorporate stop orders to manage [risk](../r/risk.md) dynamically. Key components here include:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), stop orders play an essential role in automated strategies. These strategies often incorporate stop orders to manage [risk](../r/risk.md) dynamically. Key components here include:
 
 ### Automated Stop Adjustments
 Algorithms can adapt stop prices based on [real-time market data](../r/real-time_market_data.md) and predefined criteria. This adaptability can optimize [trade](../t/trade.md) outcomes by responding swiftly to [market](../m/market.md) changes.

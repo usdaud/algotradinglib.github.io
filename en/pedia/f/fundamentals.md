@@ -94,16 +94,11 @@ Ethical issues in [algorithmic trading](../a/accountability.md) include [market 
 
 Several companies have excelled in [algorithmic trading](../a/accountability.md) and provide platforms or tools essential for its operation. These companies include:
 
-- **[QuantConnect](../q/quantconnect.md):** Provides a cloud-based [algorithmic trading](../a/accountability.md) platform with [backtesting](../b/backtesting.md) capabilities.
-  [QuantConnect](https://www.quantconnect.com)
+- **[StockSharp](../s/stocksharp.md):** Provides a [algorithmic trading](../a/accountability.md) platform with [backtesting](../b/backtesting.md) capabilities.
 - **AlgoTrader:** Offers institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md) for [quantitative research](../q/quantitative_research.md) and automated trading.
-  [AlgoTrader](https://www.algotrader.com)
 - **Kdb+ (by Kx Systems):** A high-performance database used by financial institutions for [time series analysis](../t/time_series_analysis.md).
-  [Kx Systems](https://kx.com/products/kdb/)
 - **[TradeStation](../t/tradestation.md):** Provides tools and support for developing and [backtesting trading strategies](../b/backtesting_trading_strategies.md).
-  [TradeStation](https://www.tradestation.com)
 - **Two Sigma:** A [hedge fund](../h/hedge_fund.md) that extensively employs [machine learning](../m/machine_learning.md) and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
-  [Two Sigma](https://www.twosigma.com)
 
 ## Conclusion
 

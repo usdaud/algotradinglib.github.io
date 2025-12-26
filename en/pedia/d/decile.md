@@ -20,24 +20,24 @@ The process of calculating deciles involves organizing the data in ascending [or
 
 1. **Sort the Data**: Arrange the data in ascending [order](../o/order.md).
 2. **Divide the Data into Ten Equal Parts**: Each part representing 10% of the data.
-3. **Determine the Position of Each Decile**: Use the formula \(D_j = j \cdot (N + 1) / 10\) for \(j = 1, 2, 3, ..., 9\), where \(N\) is the number of observations. 
+3. **Determine the Position of Each Decile**: Use the formula \(D_j = j \cdot (N + 1) / 10\) for \(j = 1, 2, 3,..., 9\), where \(N\) is the number of observations.
 4. **Interpolate if Necessary**: If the position is not an integer, use [interpolation](../i/interpolation.md) to find the decile [value](../v/value.md).
 
 ### Example Calculation
 
-Suppose we have the following dataset of 10 returns: [2, 7, 15, 22, 27, 33, 38, 41, 45, 50]. 
+Suppose we have the following dataset of 10 returns: [2, 7, 15, 22, 27, 33, 38, 41, 45, 50].
 
 Sorted, this dataset is already in ascending [order](../o/order.md). Here is the step-by-step process to find deciles:
 
 1. **First Decile (D1)**:
-   \[D1 = 1 \cdot (10 + 1) / 10 = 1.1\]
-   Since the position is 1.1, we interpolate between the first (2) and second (7) data points.
-   \[D1 = 2 + 0.1 \cdot (7 - 2) = 2 + 0.5 = 2.5\]
+ \[D1 = 1 \cdot (10 + 1) / 10 = 1.1\]
+ Since the position is 1.1, we interpolate between the first (2) and second (7) data points.
+ \[D1 = 2 + 0.1 \cdot (7 - 2) = 2 + 0.5 = 2.5\]
 
 2. **Second Decile (D2)**:
-   \[D2 = 2 \cdot (10 + 1) / 10 = 2.2\]
-   Interpolating between the second (7) and third (15) data points:
-   \[D2 = 7 + 0.2 \cdot (15 - 7) = 7 + 1.6 = 8.6\]
+ \[D2 = 2 \cdot (10 + 1) / 10 = 2.2\]
+ Interpolating between the second (7) and third (15) data points:
+ \[D2 = 7 + 0.2 \cdot (15 - 7) = 7 + 1.6 = 8.6\]
 
 3. **Continue this process for all deciles**.
 

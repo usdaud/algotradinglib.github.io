@@ -45,10 +45,10 @@ Imagine a [bond](../b/bond.md) with the following cash flows, yielding 5%:
 
 | Year | [Cash Flow](../c/cash_flow.md) |
 | ---- | --------- |
-| 1    | $100      |
-| 2    | $100      |
-| 3    | $100      |
-| 4    | $1100     |
+| 1 | $100 |
+| 2 | $100 |
+| 3 | $100 |
+| 4 | $1100 |
 
 First, we determine the [present value](../p/present_value.md) of each [cash flow](../c/cash_flow.md):
 

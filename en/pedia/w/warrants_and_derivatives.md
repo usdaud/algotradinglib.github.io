@@ -1,10 +1,10 @@
 # Warrants and Derivatives
 
-[Warrants](../w/warrants_in_trading.md) and [derivatives](../d/derivatives.md) are complex financial instruments used in the trading and investment world. They provide investors and traders with avenues to speculate, [hedge](../h/hedge.md), and [arbitrage](../a/arbitrage.md) in various markets. This article delves into these instruments, their types, uses, advantages, and risks, as well as the role they play in [algorithmic trading](../a/algorithmic_trading.md). 
+[Warrants](../w/warrants_in_trading.md) and [derivatives](../d/derivatives.md) are complex financial instruments used in the trading and investment world. They provide investors and traders with avenues to speculate, [hedge](../h/hedge.md), and [arbitrage](../a/arbitrage.md) in various markets. This article delves into these instruments, their types, uses, advantages, and risks, as well as the role they play in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Warrants
 
-[Warrants](../w/warrants_in_trading.md) are [derivatives](../d/derivatives.md) that confer the right, but not the obligation, to buy (in the case of call [warrants](../w/warrants_in_trading.md)) or sell (in the case of put [warrants](../w/warrants_in_trading.md)) a specific amount of a stock, [bond](../b/bond.md), or other [financial instrument](../f/financial_instrument.md) at a specified price before the [expiration date](../e/expiration_date.md). 
+[Warrants](../w/warrants_in_trading.md) are [derivatives](../d/derivatives.md) that confer the right, but not the obligation, to buy (in the case of call [warrants](../w/warrants_in_trading.md)) or sell (in the case of put [warrants](../w/warrants_in_trading.md)) a specific amount of a stock, [bond](../b/bond.md), or other [financial instrument](../f/financial_instrument.md) at a specified price before the [expiration date](../e/expiration_date.md).
 
 ### Types of Warrants
 
@@ -96,8 +96,8 @@
 [Warrants](../w/warrants_in_trading.md) and [derivatives](../d/derivatives.md) are crucial components of the [financial markets](../f/financial_market.md), [offering](../o/offering.md) unique opportunities for [speculation](../s/speculation.md), hedging, and [arbitrage](../a/arbitrage.md). However, they come with significant risks, including [market](../m/market.md), [credit](../c/credit.md), [liquidity](../l/liquidity.md), and operational risks. [Algorithmic trading](../a/algorithmic_trading.md) has become an essential tool in navigating these complex instruments due to its [efficiency](../e/efficiency.md), precision, and ability to process large volumes of data. Despite its benefits, [algorithmic trading](../a/algorithmic_trading.md) also presents its own set of challenges, requiring advanced technological [infrastructure](../i/infrastructure.md), regulatory compliance, and [risk management](../r/risk_management.md) strategies.
 
 For more information on [algorithmic trading](../a/algorithmic_trading.md) and [derivative](../d/derivative.md) instruments, you can visit the following companies and platforms:
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [Bloomberg](https://www.bloomberg.com/)
-- [CME Group](https://www.cmegroup.com/)
+- Goldman Sachs
+- JPMorgan Chase & Co.
+- Interactive Brokers
+- Bloomberg
+- CME Group

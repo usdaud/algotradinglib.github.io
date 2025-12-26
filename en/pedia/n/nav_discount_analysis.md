@@ -40,7 +40,7 @@ Several factors can result in a NAV [discount](../d/discount.md):
 
 [Algorithmic trading](../a/algorithmic_trading.md) (algo trading) involves the use of computer algorithms to execute trades at high speeds and based on pre-defined criteria. NAV [discount](../d/discount.md) analysis is crucial for developing and optimizing [trading strategies](../t/trading_strategies.md) for several reasons:
 
-1. **[Arbitrage](../a/arbitrage.md) Opportunities**: Algorithms can identify and exploit [arbitrage](../a/arbitrage.md) opportunities between NAV and [market price](../m/market_price.md). 
+1. **[Arbitrage](../a/arbitrage.md) Opportunities**: Algorithms can identify and exploit [arbitrage](../a/arbitrage.md) opportunities between NAV and [market price](../m/market_price.md).
 
 2. **[Risk Management](../r/risk_management.md)**: Incorporating NAV [discount](../d/discount.md) analysis into algorithms helps mitigate risks by avoiding [overvalued](../o/overvalued.md) funds and identifying [undervalued](../u/undervalued.md) ones.
 
@@ -64,16 +64,16 @@ Here are some [trading strategies](../t/trading_strategies.md) that can be imple
 
 Various fintech firms and platforms specialize in NAV [discount](../d/discount.md) algo trading and investment research:
 
-1. **Kensho Technologies**: Known for AI-driven financial analytics [Kensho](https://www.kensho.com/)
+1. **Kensho Technologies**: Known for AI-driven financial analytics Kensho
 
-2. **[QuantConnect](../q/quantconnect.md)**: Provides a collaborative environment for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies [QuantConnect](https://www.quantconnect.com/)
+2. **[QuantConnect](../q/quantconnect.md)**: Provides a collaborative environment for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies QuantConnect
 
-3. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md) and distributed computing for trading [Two Sigma](https://www.twosigma.com/)
+3. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md) and distributed computing for trading Two Sigma
 
-4. **AlphaSimplex Group**: Focuses on [alternative investment](../a/alternative_investment.md) solutions leveraging NAV analysis among other strategies [AlphaSimplex](https://www.alphasimplex.com/)
+4. **AlphaSimplex Group**: Focuses on [alternative investment](../a/alternative_investment.md) solutions leveraging NAV analysis among other strategies AlphaSimplex
 
-5. **WorldQuant**: Uses [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies integrating NAV [discount](../d/discount.md) data [WorldQuant](https://www.worldquant.com/)
+5. **WorldQuant**: Uses [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies integrating NAV [discount](../d/discount.md) data WorldQuant
 
 ### Conclusion
 
-NAV [discount](../d/discount.md) analysis is a critical aspect of evaluating and trading ETFs and closed-end funds. For algorithmic traders, understanding and effectively utilizing NAV discounts can [open](../o/open.md) up significant opportunities for [profit](../p/profit.md) generation, [risk management](../r/risk_management.md), and enhancing trading [efficiency](../e/efficiency.md). As technology and data processing capabilities continue to advance, integrating NAV [discount](../d/discount.md) analysis into sophisticated [trading algorithms](../t/trading_algorithms.md) [will](../w/will.md) remain an essential tool for both institutional and retail investors. 
+NAV [discount](../d/discount.md) analysis is a critical aspect of evaluating and trading ETFs and closed-end funds. For algorithmic traders, understanding and effectively utilizing NAV discounts can [open](../o/open.md) up significant opportunities for [profit](../p/profit.md) generation, [risk management](../r/risk_management.md), and enhancing trading [efficiency](../e/efficiency.md). As technology and data processing capabilities continue to advance, integrating NAV [discount](../d/discount.md) analysis into sophisticated [trading algorithms](../t/trading_algorithms.md) [will](../w/will.md) remain an essential tool for both institutional and retail investors.

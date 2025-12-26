@@ -63,8 +63,7 @@ The legal validity of Letters of Guarantee varies across jurisdictions. In some 
 ## Digitalization and Fintech
 The advent of digital banking and fintech has revolutionized Letters of Guarantee. Platforms now [offer](../o/offer.md) digitized issuance, real-time tracking, and [blockchain](../b/blockchain_in_trading.md)-based guarantees, enhancing [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md).
 
-Companies like Komgo ([link](https://www.komgo.io/)) [offer](../o/offer.md) [blockchain](../b/blockchain_in_trading.md) solutions for [trade](../t/trade.md) [financing](../f/financing.md), including digital guarantees, thereby revolutionizing the process and significantly reducing operational friction.
+Companies like Komgo (link) [offer](../o/offer.md) [blockchain](../b/blockchain_in_trading.md) solutions for [trade](../t/trade.md) [financing](../f/financing.md), including digital guarantees, thereby revolutionizing the process and significantly reducing operational friction.
 
 ## Conclusion
 A Letter of Guarantee is an indispensable financial tool that facilitates [trust](../t/trust.md) and [security](../s/security.md) in transactions. By understanding its various types, key elements, operational mechanism, and role in different sectors, businesses can [leverage](../l/leverage.md) this instrument to mitigate risks and foster smoother, more secure financial dealings. The ongoing digital transformation in this domain, driven by fintech innovations, is set to further streamline and enhance the efficacy of Letters of Guarantee.
-

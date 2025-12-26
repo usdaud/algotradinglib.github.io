@@ -4,7 +4,7 @@ In the realm of [financial markets](../f/financial_market.md), the concept of th
 
 ### Understanding the Zero Bound
 
-The zero bound is an economic state where the short-term [nominal](../n/nominal.md) [interest](../i/interest.md) rates are at or near 0%, limiting the central [bank](../b/bank.md)'s ability to use traditional rate cuts to stimulate economic activity. This often occurs during periods of deep [recession](../r/recession.md) or economic [stagnation](../s/stagnation.md), where [demand](../d/demand.md) is weak, [unemployment](../u/unemployment.md) is high, and [deflation](../d/deflation.md) risks are significant. 
+The zero bound is an economic state where the short-term [nominal](../n/nominal.md) [interest](../i/interest.md) rates are at or near 0%, limiting the central [bank](../b/bank.md)'s ability to use traditional rate cuts to stimulate economic activity. This often occurs during periods of deep [recession](../r/recession.md) or economic [stagnation](../s/stagnation.md), where [demand](../d/demand.md) is weak, [unemployment](../u/unemployment.md) is high, and [deflation](../d/deflation.md) risks are significant.
 
 ### Quantitative Easing (QE)
 
@@ -106,6 +106,6 @@ The effectiveness and implications of zero bound [interest rate](../i/interest_r
 - **Global Coordination:** In a globally interconnected [economy](../e/economy.md), policy actions in one country can have [ripple](../r/ripple.md) effects internationally, necessitating coordination among central banks.
 - **Long-term Effects:** While these policies can provide short-term economic boosts, their long-term consequences, including potential [asset](../a/asset.md) [bubbles](../b/bubble.md) and increased public [debt](../d/debt.md), must be carefully managed.
 
-For more information, you can visit the official websites of central banks like the [Federal Reserve](https://www.federalreserve.gov/), [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), and [Bank of Japan](https://www.boj.or.jp/en/).
+For more information, you can visit the official websites of central banks like the Federal Reserve, European Central Bank, and Bank of Japan.
 
 Understanding and effectively deploying zero bound [interest rate](../i/interest_rate.md) strategies is crucial in navigating challenging economic landscapes and ensuring sustainable growth and stability.

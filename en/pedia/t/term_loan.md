@@ -2,11 +2,13 @@
 
 A term [loan](../l/loan.md) is a type of [loan](../l/loan.md) that is issued by a financial institution and has a set [repayment](../r/repayment.md) schedule and either a fixed or [floating interest rate](../f/floating_interest_rate.md). It is a common form of funding for businesses of all sizes that need long-term [capital](../c/capital.md) for operations, acquisitions, or [expansion](../e/expansion.md). Term loans can also be used by individuals for purposes such as purchasing property or starting a [business](../b/business.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Features of Term Loans
 
 ### 1. **Fixed or Floating Interest Rates**
 
-Term loans can have either a fixed or [floating interest rate](../f/floating_interest_rate.md). 
+Term loans can have either a fixed or [floating interest rate](../f/floating_interest_rate.md).
 
 - **[Fixed Interest Rate](../f/fixed_interest_rate.md)**: The [interest rate](../i/interest_rate.md) remains constant throughout the life of the [loan](../l/loan.md), providing predictability in payments.
 - **[Floating Interest Rate](../f/floating_interest_rate.md)**: The [interest rate](../i/interest_rate.md) can change over time, typically based on a [benchmark](../b/benchmark.md) rate such as the LIBOR (London Interbank Offered Rate) or the [federal funds rate](../f/federal_funds_rate.md).
@@ -46,30 +48,30 @@ Long-term loans have maturities of more than three years and are often used for 
 ### Pros
 
 1. **Predictable Payments**
-   - Fixed [interest](../i/interest.md) rates and set [repayment](../r/repayment.md) schedules provide predictable [payment](../p/payment.md) amounts, making it easier for businesses to manage their budgets.
+ - Fixed [interest](../i/interest.md) rates and set [repayment](../r/repayment.md) schedules provide predictable [payment](../p/payment.md) amounts, making it easier for businesses to manage their budgets.
 
 2. **Lower [Interest](../i/interest.md) Rates**
-   - Term loans generally [offer](../o/offer.md) lower [interest](../i/interest.md) rates compared to [credit](../c/credit.md) cards or [revolving credit](../r/revolving_credit.md) facilities.
+ - Term loans generally [offer](../o/offer.md) lower [interest](../i/interest.md) rates compared to [credit](../c/credit.md) cards or [revolving credit](../r/revolving_credit.md) facilities.
 
 3. **Longer [Repayment](../r/repayment.md) Periods**
-   - Longer [maturity](../m/maturity.md) periods provide the borrower more time to repay the [loan](../l/loan.md), which can be beneficial for large investments.
+ - Longer [maturity](../m/maturity.md) periods provide the borrower more time to repay the [loan](../l/loan.md), which can be beneficial for large investments.
 
 4. **Flexible Use of Funds**
-   - Borrowers can use the funds for various purposes like expanding operations, purchasing equipment, or refinancing existing [debt](../d/debt.md).
+ - Borrowers can use the funds for various purposes like expanding operations, purchasing equipment, or refinancing existing [debt](../d/debt.md).
 
 ### Cons
 
 1. **[Collateral](../c/collateral.md) Requirement**
-   - The requirement for [collateral](../c/collateral.md) can be a barrier to obtaining a term [loan](../l/loan.md), particularly for new or small businesses.
+ - The requirement for [collateral](../c/collateral.md) can be a barrier to obtaining a term [loan](../l/loan.md), particularly for new or small businesses.
 
 2. **[Loan](../l/loan.md) Covenants**
-   - Covenants can restrict the borrower’s operational flexibility and financial decisions.
+ - Covenants can restrict the borrower’s operational flexibility and financial decisions.
 
 3. **[Interest Rate Risk](../i/interest_rate_risk.md)**
-   - For loans with floating [interest](../i/interest.md) rates, the borrower faces the [risk](../r/risk.md) of increasing payments if [interest](../i/interest.md) rates rise.
+ - For loans with floating [interest](../i/interest.md) rates, the borrower faces the [risk](../r/risk.md) of increasing payments if [interest](../i/interest.md) rates rise.
 
 4. **[Creditworthiness](../c/creditworthiness.md)**
-   - The borrower's [credit](../c/credit.md) history and financial standing significantly impact both the approval process and the [interest rate](../i/interest_rate.md).
+ - The borrower's [credit](../c/credit.md) history and financial standing significantly impact both the approval process and the [interest rate](../i/interest_rate.md).
 
 ## Application Process for Term Loans
 
@@ -111,8 +113,8 @@ Online lenders such as Kabbage and OnDeck provide a convenient and fast applicat
 
 Some financial institutions specialize in providing term loans for specific industries, such as healthcare, [real estate](../r/real_estate.md), or agriculture.
 
-- [Kabbage](https://www.kabbage.com)
-- [OnDeck](https://www.ondeck.com)
+- Kabbage
+- OnDeck
 
 ## Use Cases for Term Loans
 
@@ -154,4 +156,4 @@ Securing appropriate [insurance](../i/insurance.md) can protect the borrower’s
 
 Term loans are a versatile and widely-used [financing](../f/financing.md) option for both businesses and individuals. They [offer](../o/offer.md) predictable [repayment](../r/repayment.md) schedules, potentially lower [interest](../i/interest.md) rates, and flexible use of funds. However, they also come with requirements for [collateral](../c/collateral.md) and covenants that can impose operational restrictions. Understanding the various aspects of term loans, from their pros and cons to the application process and [risk management](../r/risk_management.md) strategies, can help borrowers make informed decisions that align with their financial goals.
 
-For more detailed information about specific lenders and their offerings, borrowers can visit the websites of well-known online lenders such as [Kabbage](https://www.kabbage.com) and [OnDeck](https://www.ondeck.com).
+For more detailed information about specific lenders and their offerings, borrowers can visit the websites of well-known online lenders such as Kabbage and OnDeck.

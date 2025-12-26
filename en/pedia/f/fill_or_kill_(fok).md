@@ -1,6 +1,6 @@
 # Fill Or Kill (FOK)
 
-Fill Or [Kill](../k/kill.md) (FOK) is a specific type of [order](../o/order.md) used in [financial markets](../f/financial_market.md), particularly for trading [stocks](../s/stock.md), [options](../o/options.md), and other securities. This term is essential to understand if you are delving into [algorithmic trading](../a/accountability.md) (algotrading), where speed and precision can significantly influence trading outcomes. 
+Fill Or [Kill](../k/kill.md) (FOK) is a specific type of [order](../o/order.md) used in [financial markets](../f/financial_market.md), particularly for trading [stocks](../s/stock.md), [options](../o/options.md), and other securities. This term is essential to understand if you are delving into [algorithmic trading](../a/accountability.md) (algotrading), where speed and precision can significantly influence trading outcomes.
 
 ## Definition and Purpose
 
@@ -48,7 +48,7 @@ Upon receiving the FOK [order](../o/order.md), the trading system checks the [li
 ### Example in Different Markets
 
 1. **[Stock Market](../s/stock_market.md)**: In a [liquid market](../l/liquid_market.md) like the New York Stock [Exchange](../e/exchange.md) (NYSE), a FOK [order](../o/order.md) for 1000 [shares](../s/shares.md) of a [blue-chip stock](../b/blue-chip_stock.md) is likely to be executed quickly if the price conditions are reasonable. However, in a less [liquid market](../l/liquid_market.md), the [order](../o/order.md) might not be filled at all due to insufficient available [shares](../s/shares.md) at the desired price.
- 
+
 2. **[Options](../o/options.md) [Market](../m/market.md)**: In the [options](../o/options.md) [market](../m/market.md), FOK orders can be used to ensure the [acquisition](../a/acquisition.md) of a specific number of contracts. Given the complexity and lower [liquidity](../l/liquidity.md) of [options](../o/options.md) compared to [stocks](../s/stock.md), FOK orders ensure precise [execution](../e/execution.md) without partial fills.
 
 3. **[Futures Market](../f/futures_market.md)**: In [futures](../f/futures.md) trading, FOK orders are particularly useful for large institutional traders who need to enter or exit positions swiftly to avoid [slippage](../s/slippage.md) and [market](../m/market.md) impact.
@@ -138,7 +138,7 @@ print(result)  # Output [will](../w/will.md) either be "[Order](../o/order.md) F
 
 Most [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) are executed through trading APIs provided by brokerage firms. For example, [Interactive Brokers](../i/interactive_brokers.md) offers an API that supports advanced [order types](../o/order_types_in_trading.md) including FOK. Traders need to ensure that their code interfaces correctly with the API and handles the necessary [trade](../t/trade.md) lifecycle events.
 
-For more information on [Interactive Brokers](../i/interactive_brokers.md)' API, visit their official site: [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041).
+For more information on [Interactive Brokers](../i/interactive_brokers.md)' API,
 
 ### Performance Considerations
 

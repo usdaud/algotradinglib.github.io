@@ -90,4 +90,3 @@ AscendEX offers a mobile application that provides all the functionalities of th
 
 AscendEX has rapidly grown to become a leading digital [asset](../a/asset.md) [trading platform](../t/trading_platform.md) by [offering](../o/offering.md) a wide [range](../r/range.md) of products and services tailored to meet the needs of both retail and institutional investors. With its focus on [security](../s/security.md), innovation, and user experience, AscendEX continues to attract a growing user base and establish itself as a key player in the cryptocurrency trading [industry](../i/industry.md).
 
-For more information, you can visit their official website: [AscendEX](https://ascendex.com).

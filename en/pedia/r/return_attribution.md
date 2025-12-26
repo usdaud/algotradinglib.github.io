@@ -66,7 +66,7 @@ These models, such as the Fama-French three-[factor](../f/factor.md) model, exte
 
 ### **3. Client Reporting**
 
-For institutional algo-traders managing funds, [return](../r/return.md) attribution is essential in client reporting. It offers [transparency](../t/transparency.md) into how the client's investments are performing and why certain returns were achieved. Platforms like BlackRock's Aladdin (https://www.blackrock.com/aladdin) provide such reporting capabilities.
+For institutional algo-traders managing funds, [return](../r/return.md) attribution is essential in client reporting. It offers [transparency](../t/transparency.md) into how the client's investments are performing and why certain returns were achieved. Platforms like BlackRock's Aladdin ( provide such reporting capabilities.
 
 ### **4. Regulatory Compliance**
 

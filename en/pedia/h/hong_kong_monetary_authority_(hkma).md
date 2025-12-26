@@ -7,7 +7,7 @@ The Hong Kong Monetary Authority (HKMA) is the central banking institution of Ho
 The HKMA encompasses several core functions that ensure monetary stability and effective functioning of the [financial system](../f/financial_system.md):
 
 ### 1. Currency Stability
-HKMA's primary mandate involves maintaining [currency](../c/currency.md) stability. Under the linked [exchange rate](../e/exchange_rate.md) system, the Hong Kong Dollar (HKD) is pegged to the US Dollar (USD). The HKMA keeps the HKD [exchange rate](../e/exchange_rate.md) stable around 7.80 HKD to 1 USD by adjusting the Aggregate Balance, which is the balance of the banking system in the [Interbank market](../i/interbank_market.md). 
+HKMA's primary mandate involves maintaining [currency](../c/currency.md) stability. Under the linked [exchange rate](../e/exchange_rate.md) system, the Hong Kong Dollar (HKD) is pegged to the US Dollar (USD). The HKMA keeps the HKD [exchange rate](../e/exchange_rate.md) stable around 7.80 HKD to 1 USD by adjusting the Aggregate Balance, which is the balance of the banking system in the [Interbank market](../i/interbank_market.md).
 
 ### 2. Banking Supervision
 The HKMA supervises and monitors banks operating in Hong Kong to ensure their stability, soundness, and compliance with international banking standards. It follows rigorous prudential regulatory frameworks and conducts regular reviews and audits of banks' [risk management](../r/risk_management.md) practices.
@@ -25,7 +25,7 @@ The HKMA actively promotes the development of Hong Kong’s [financial markets](
 The HKMA operates under a clear governance structure that includes the following entities:
 
 ### Exchange Fund Advisory Committee (EFAC)
-The EFAC advises the Financial Secretary on matters related to the [Exchange](../e/exchange.md) [Fund](../f/fund.md) and the stability of Hong Kong’s monetary system. 
+The EFAC advises the Financial Secretary on matters related to the [Exchange](../e/exchange.md) [Fund](../f/fund.md) and the stability of Hong Kong’s monetary system.
 
 ### The Monetary Authority
 The head of the HKMA is the Monetary Authority. The Monetary Authority is appointed by the Financial Secretary and oversees the operations and administrative functions of the HKMA.
@@ -34,7 +34,7 @@ The head of the HKMA is the Monetary Authority. The Monetary Authority is appoin
 Several specialized committees operate under the HKMA, providing expert advice on various policy and operational issues within the Authority’s mandate.
 
 ## Monetary Policy
-The HKMA's [monetary policy](../m/monetary_policy.md) framework is built around the management of the Linked [Exchange Rate](../e/exchange_rate.md) system. Through the Aggregate Balance, the HKMA effectively influences domestic [interest](../i/interest.md) rates, aligning them closely with US Federal Reserve's rates due to the USD peg. 
+The HKMA's [monetary policy](../m/monetary_policy.md) framework is built around the management of the Linked [Exchange Rate](../e/exchange_rate.md) system. Through the Aggregate Balance, the HKMA effectively influences domestic [interest](../i/interest.md) rates, aligning them closely with US Federal Reserve's rates due to the USD peg.
 
 The [interest rate](../i/interest_rate.md) adjustment mechanism, known as the “[Discount](../d/discount.md) Window,” allows banks to borrow funds from the HKMA at a [discount rate](../d/discount_rate.md), providing a monetary tool to manage [liquidity](../l/liquidity.md) in the banking system.
 
@@ -44,7 +44,7 @@ The HKMA follows international banking standards, such as the [Basel Accords](..
 ### Basel III Implementation
 HKMA has fully implemented [Basel III](../b/basel_iii.md) standards to ensure that banks maintain adequate [capital](../c/capital.md) buffers, manage [leverage](../l/leverage.md), and are suitably [liquid](../l/liquid.md) to mitigate risks.
 
-### Anti-Money Laundering (AML) 
+### Anti-Money Laundering (AML)
 HKMA enforces stringent AML regulations, ensuring banks implement [robust](../r/robust.md) mechanisms for preventing [money laundering](../m/money_laundering.md) and combating the [financing](../f/financing.md) of terrorism.
 
 ### Consumer Protection
@@ -90,4 +90,4 @@ HKMA participates in the BIS, contributing to global financial stability discuss
 HKMA engages with IOSCO to ensure [robust](../r/robust.md) and transparent securities markets.
 
 ## Contact and Additional Information
-For more detailed information about the HKMA, policies, publications, and services, visit their [official website](https://www.hkma.gov.hk).
+For more detailed information about the HKMA, policies, publications, and services,

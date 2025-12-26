@@ -10,11 +10,11 @@ Euribor reflects the average rate at which [eurozone](../e/eurozone.md) banks [o
 
 ### Panel Banks
 
-Euribor is calculated based on the contributions from a panel of leading European banks. The panel currently consists of 18 banks, selected for their [market](../m/market.md) activity, [credit rating](../c/credit_rating.md), and [volume](../v/volume.md) of loans. These banks submit the rates at which they believe they could borrow funds from other banks in the [Eurozone](../e/eurozone.md). 
+Euribor is calculated based on the contributions from a panel of leading European banks. The panel currently consists of 18 banks, selected for their [market](../m/market.md) activity, [credit rating](../c/credit_rating.md), and [volume](../v/volume.md) of loans. These banks submit the rates at which they believe they could borrow funds from other banks in the [Eurozone](../e/eurozone.md).
 
 ### Trimmed Mean
 
-The actual calculation involves a [trimmed mean](../t/trimmed_mean.md) to reduce the effect of outliers. Specifically, the highest and lowest 15% of the submitted rates are excluded. The remaining rates are averaged to produce the Euribor rate for each [maturity](../m/maturity.md). 
+The actual calculation involves a [trimmed mean](../t/trimmed_mean.md) to reduce the effect of outliers. Specifically, the highest and lowest 15% of the submitted rates are excluded. The remaining rates are averaged to produce the Euribor rate for each [maturity](../m/maturity.md).
 
 ## Maturities
 
@@ -71,11 +71,11 @@ In the realm of [algorithmic trading](../a/accountability.md), Euribor plays a p
 
 ### European Money Markets Institute (EMMI)
 
-EMMI oversees the administration of Euribor. They provide detailed methodologies and ensure compliance with regulatory standards. [EMMI Website](https://www.emmi-benchmarks.eu/)
+EMMI oversees the administration of Euribor. They provide detailed methodologies
 
 ### European Central Bank (ECB)
 
-While the ECB doesn't administer Euribor, they closely monitor it as part of their [monetary policy](../m/monetary_policy.md) framework. Euribor rates are often considered when setting key [interest](../i/interest.md) rates. [ECB Website](https://www.ecb.europa.eu/home/html/index.en.html)
+While the ECB doesn't administer Euribor, they closely monitor it as part of their [monetary policy](../m/monetary_policy.md) framework. Euribor rates are often considered when setting key [interest](../i/interest.md)
 
 ## Conclusion
 

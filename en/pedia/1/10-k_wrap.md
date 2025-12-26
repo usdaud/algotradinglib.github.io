@@ -4,20 +4,20 @@ In the world of [finance](../f/finance.md), [transparency](../t/transparency.md)
 
 ## What is a 10-K Wrap?
 
-A 10-K wrap refers to a modified, more user-friendly version of the 10-K form, a comprehensive summary document that SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)) regulations require publicly traded companies to file annually. Unlike the more straightforward 10-K form, which is dense and highly technical, the 10-K wrap often includes additional elements like executive summaries, visual aids, and easier-to-digest narratives. 
+A 10-K wrap refers to a modified, more user-friendly version of the 10-K form, a comprehensive summary document that SEC (Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)) regulations require publicly traded companies to file annually. Unlike the more straightforward 10-K form, which is dense and highly technical, the 10-K wrap often includes additional elements like executive summaries, visual aids, and easier-to-digest narratives.
 
 The 10-K wrap is not a form mandated by regulatory authorities. Instead, it is an enhanced version of the legally required 10-K form, designed to be more easily understood by shareholders and potential investors. It aims to summarize and highlight critical information contained within the official 10-K filing, helping investors to make more informed decisions.
 
 ## How Does the 10-K Wrap Work?
 
 ### Filing with the SEC
-Publicly traded companies must file a 10-K form with the SEC within 60 to 90 days after the end of their fiscal year. The 10-K wrap is generally prepared and distributed after the official 10-K has been filed. 
+Publicly traded companies must file a 10-K form with the SEC within 60 to 90 days after the end of their fiscal year. The 10-K wrap is generally prepared and distributed after the official 10-K has been filed.
 
 ### Compilation and Design
 Unlike the mandatory 10-K, which follows a strict format and set of guidelines provided by the SEC, the 10-K wrap can be customized. Companies often employ the services of professional designers, financial writers, and PR departments to prepare this document. They include an overview of the critical sections of the 10-K, supplementing it with graphical and textual elements to make it more approachable.
 
 ### Distribution
-While the official 10-K is filed electronically with the SEC and made available through the EDGAR database, the 10-K wrap is usually distributed directly to shareholders and investors. It may be sent out via email, posted on the company's website, or included as part of the [annual report](../a/annual_report.md) mailing.
+While the official 10-K is filed electronically with the SEC and made available through the EDGAR database, the 10-K wrap is usually distributed directly to shareholders and investors. It may be sent out via email, posted through the company's online channels, or included as part of the [annual report](../a/annual_report.md) mailing.
 
 ## Key Elements of a 10-K Wrap
 
@@ -61,13 +61,13 @@ A simplified version of the auditor’s report may be included to assure shareho
 Several companies are known for producing effective and engaging 10-K wraps. Here are a few examples:
 
 ### Apple Inc.
-Apple's 10-K wraps are exemplary for their crisp design, clear infographics, and concise summaries. They tend to focus on innovation, [customer](../c/customer.md) satisfaction, and [financial health](../f/financial_health.md). Further information can be found on their [Investor Relations page](https://investor.apple.com/).
+Apple's 10-K wraps are exemplary for their crisp design, clear infographics, and concise summaries. They tend to focus on innovation, [customer](../c/customer.md) satisfaction, and [financial health](../f/financial_health.md).
 
 ### Microsoft Corporation
-Microsoft's 10-K wraps make extensive use of visuals and summarize complex financial data in a highly readable format. The sections are well-organized, making it easy to find and understand key information. For more details, visit [Microsoft Investor Relations](https://www.microsoft.com/investor).
+Microsoft's 10-K wraps make extensive use of visuals and summarize complex financial data in a highly readable format. The sections are well-organized, making it easy to find and understand key information.
 
 ### The Coca-Cola Company
-Coca-Cola's 10-K wraps are a model of simplicity and clarity. They effectively use visual aids and straightforward language to make their financial and [business](../b/business.md) information accessible to a broad audience. More information can be found on their [Investor Information page](https://investors.coca-colacompany.com/).
+Coca-Cola's 10-K wraps are a model of simplicity and clarity. They effectively use visual aids and straightforward language to make their financial and [business](../b/business.md) information accessible to a broad audience.
 
 ## Conclusion
 A 10-K wrap is an invaluable tool for investors, providing a more accessible, engaging, and concise summary of the mandatory 10-K form. By leveraging executive summaries, simplified [financial statements](../f/financial_statements.md), visual aids, and more, companies can better communicate their [financial health](../f/financial_health.md), risks, and strategic direction to shareholders and potential investors. Understanding the key elements and purpose of a 10-K wrap can assist investors in making more informed decisions and companies in fostering stronger relations with their stakeholders.

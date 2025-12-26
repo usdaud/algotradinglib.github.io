@@ -19,14 +19,14 @@ Where:
 
 ### Example Calculation
 
-Suppose a borrower takes a [loan](../l/loan.md) of $10,000 at an annual [interest rate](../i/interest_rate.md) of 12% for a period of 2 years. 
+Suppose a borrower takes a [loan](../l/loan.md) of $10,000 at an annual [interest rate](../i/interest_rate.md) of 12% for a period of 2 years.
 
 1. First, convert annual [interest rate](../i/interest_rate.md) to monthly by dividing it by 12:
-   \[ \text{Monthly [Interest Rate](../i/interest_rate.md) (r)} = \frac{12}{12 \times 100} = 0.01 \]
+ \[ \text{Monthly [Interest Rate](../i/interest_rate.md) (r)} = \frac{12}{12 \times 100} = 0.01 \]
 2. [Loan](../l/loan.md) tenure in months (n):
-   \[ \text{n} = 2 \times 12 = 24 \]
+ \[ \text{n} = 2 \times 12 = 24 \]
 3. Substituting the values into the EMI formula:
-   \[ EMI = \frac{10000 \times 0.01 \times (1+0.01)^{24}}{(1+0.01)^{24} - 1} \approx 470.73 \]
+ \[ EMI = \frac{10000 \times 0.01 \times (1+0.01)^{24}}{(1+0.01)^{24} - 1} \approx 470.73 \]
 
 Thus, the EMI [will](../w/will.md) be approximately $470.73.
 
@@ -84,8 +84,8 @@ When considering a [loan](../l/loan.md) with EMIs, potential borrowers should:
 
 Various financial websites and apps [offer](../o/offer.md) online EMI calculators, which help you calculate the EMI values based on different [principal](../p/principal.md) amounts, [interest](../i/interest.md) rates, and [loan](../l/loan.md) tenures. Some popular platforms include:
 
-- **[Bank](../b/bank.md) websites**: Most banks like HDFC [Bank](../b/bank.md) (https://www.hdfcbank.com), ICICI [Bank](../b/bank.md) (https://www.icicibank.com), and SBI (https://sbi.co.in) have their own EMI calculators.
-- **[Financial planning](../f/financial_planning.md) tools**: Websites like BankBazaar (https://www.bankbazaar.com) and Calculator.net (https://www.calculator.net) [offer](../o/offer.md) comprehensive EMI calculation tools.
+- **[Bank](../b/bank.md) websites**: Most banks like HDFC [Bank](../b/bank.md) ( ICICI [Bank](../b/bank.md) ( and SBI ( have their own EMI calculators.
+- **[Financial planning](../f/financial_planning.md) tools**: Websites like BankBazaar ( and Calculator.net ( [offer](../o/offer.md) comprehensive EMI calculation tools.
 
 ## Regulatory Aspects
 

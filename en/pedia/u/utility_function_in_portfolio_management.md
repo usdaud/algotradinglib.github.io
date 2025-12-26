@@ -128,18 +128,14 @@ Numerous financial institutions and [asset management](../a/asset_management.md)
 ### BlackRock
 
 BlackRock, one of the world’s largest [asset](../a/asset.md) managers, employs advanced modeling techniques incorporating [utility functions](../u/utility_functions_in_trading.md) to tailor investment solutions. Their tools [offer](../o/offer.md) personalized advice based on [investor](../i/investor.md)’s [risk](../r/risk.md) preferences, utilizing [utility functions](../u/utility_functions_in_trading.md) to generate optimal portfolios.
-[BlackRock](https://www.blackrock.com)
 
 ### Vanguard
 
 Vanguard uses [utility](../u/utility.md) function-driven frameworks to advise clients on [asset allocation](../a/asset_allocation.md) and portfolio construction. Their approach ensures that client portfolios are aligned with individual [risk](../r/risk.md) tolerances and investment goals.
-[Vanguard](https://www.vanguard.com)
 
 ### Robo-Advisors
 
 Robo-advisors like Betterment and Wealthfront utilize algorithms that implement [utility functions](../u/utility_functions_in_trading.md) to automate [portfolio management](../p/portfolio_management.md). These platforms assess [investor](../i/investor.md) [risk](../r/risk.md) preferences and optimize portfolios accordingly.
-[Betterment](https://www.betterment.com)
-[Wealthfront](https://www.wealthfront.com)
 
 ## Challenges and Criticisms
 

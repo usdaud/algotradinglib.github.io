@@ -4,35 +4,35 @@ Worden Stochastics is a unique variant of the [stochastic oscillator](../s/stoch
 
 ## What is Worden Stochastics?
 
-Worden Stochastics is a modified version of the classic [stochastic oscillator](../s/stochastic_oscillator.md) tailored for enhanced sensitivity and accuracy in detecting price movements. Developed by the renowned Worden Brothers, known for their TC2000 trading software (https://www.tc2000.com/), this [indicator](../i/indicator.md) aims to provide traders with more reliable signals in a varying [market](../m/market.md) landscape. Unlike the traditional [stochastic oscillator](../s/stochastic_oscillator.md), Worden Stochastics incorporates additional smoothing techniques and adaptive parameters that respond dynamically to [market](../m/market.md) conditions.
+Worden Stochastics is a modified version of the classic [stochastic oscillator](../s/stochastic_oscillator.md) tailored for enhanced sensitivity and accuracy in detecting price movements. Developed by the renowned Worden Brothers, known for their TC2000 trading software ( this [indicator](../i/indicator.md) aims to provide traders with more reliable signals in a varying [market](../m/market.md) landscape. Unlike the traditional [stochastic oscillator](../s/stochastic_oscillator.md), Worden Stochastics incorporates additional smoothing techniques and adaptive parameters that respond dynamically to [market](../m/market.md) conditions.
 
 ## Calculation of Worden Stochastics
 
 The calculation of Worden Stochastics involves several steps, where each step offers a refinement over the conventional stochastic formula. Below is the core mathematical underpinning of this [indicator](../i/indicator.md):
 
 1. **Raw Stochastic Calculation**:
-   - \[
-   \%K_\text{raw} = \frac{(C - L_n)}{(H_n - L_n)} \times 100
-   \]
-   Where:
-   - \( C \) is the most recent closing price.
-   - \( L_n \) is the lowest price over the past \( n \) periods.
-   - \( H_n \) is the highest price over the past \( n \) periods.
-   - \( \%K_\text{raw} \) is the raw stochastic [value](../v/value.md).
+ - \[
+ \%K_\text{raw} = \frac{(C - L_n)}{(H_n - L_n)} \times 100
+ \]
+ Where:
+ - \( C \) is the most recent closing price.
+ - \( L_n \) is the lowest price over the past \( n \) periods.
+ - \( H_n \) is the highest price over the past \( n \) periods.
+ - \( \%K_\text{raw} \) is the raw stochastic [value](../v/value.md).
 
 2. **Smoothing**: Apply a moving average to the raw stochastic values to smooth the data and reduce [noise](../n/noise.md). Typically, an exponential moving average (EMA) or a simple moving average (SMA) is used:
-   - \[
-   \%K = \text{SMA}(\%K_\text{raw}, m)
-   \]
-   Where \( m \) is the smoothing [factor](../f/factor.md), often set between 3 and 5 periods.
+ - \[
+ \%K = \text{SMA}(\%K_\text{raw}, m)
+ \]
+ Where \( m \) is the smoothing [factor](../f/factor.md), often set between 3 and 5 periods.
 
 3. **Worden’s Custom Smoothing**: Worden Stochastics employs a proprietary smoothing algorithm that adjusts based on [market](../m/market.md) [volatility](../v/volatility.md) and other parameters, providing a more adaptive and responsive [indicator](../i/indicator.md). This additional smoothing is what sets Worden Stochastics apart.
 
 4. **Signal Line**: The \%D line, which acts as a signal line, is calculated by applying another level of smoothing to the \%K line:
-   - \[
-   \%D = \text{SMA}(\%K, t)
-   \]
-   Where \( t \) represents another chosen time period, typically between 3 and 5 periods.
+ - \[
+ \%D = \text{SMA}(\%K, t)
+ \]
+ Where \( t \) represents another chosen time period, typically between 3 and 5 periods.
 
 ## Application in Trading
 
@@ -93,4 +93,3 @@ Sometimes, breaking typical rules yields insights. For instance, if the [stochas
 
 Worden Stochastics stands out as a sophisticated and flexible tool in the arsenal of modern traders. Its enhanced sensitivity, adaptability, and reduced [noise](../n/noise.md) levels make it an excellent choice for identifying tradable opportunities across various [market](../m/market.md) conditions. By understanding its calculation, applications, and advantages, traders can harness the full potential of Worden Stochastics to enhance their [market](../m/market.md) analysis and [trading performance](../t/trading_performance.md).
 
-For more information about the development and applications of Worden Stochastics, traders can explore resources and tools provided by Worden Brothers on their official website: [TC2000](https://www.tc2000.com/).

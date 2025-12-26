@@ -44,19 +44,19 @@ Several prominent financial institutions and [index](../i/index_instrument.md) p
 
 #### MSCI Inc.
 
-MSCI Inc. (Morgan Stanley [Capital](../c/capital.md) International) is a leading provider of research-based indexes and analytics. Their [range](../r/range.md) of MSCI [Factor](../f/factor.md) Indexes includes products targeting [value](../v/value.md), [momentum](../m/momentum.md), size, and quality. For more information, visit [MSCI](https://www.msci.com).
+MSCI Inc. (Morgan Stanley [Capital](../c/capital.md) International) is a leading provider of research-based indexes and analytics. Their [range](../r/range.md) of MSCI [Factor](../f/factor.md) Indexes includes products targeting [value](../v/value.md), [momentum](../m/momentum.md), size, and quality. For more information, visit MSCI.
 
 #### FTSE Russell
 
-[FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock [Exchange](../e/exchange.md) Group, provides a comprehensive suite of [smart beta](../s/smart_beta.md) indexes through its [FTSE Russell](../f/ftse_russell.md) [Smart Beta](../s/smart_beta.md) [Index](../i/index_instrument.md) Series. These indexes track specific factors such as quality, low [volatility](../v/volatility.md), and [yield](../y/yield.md). For more information, visit [FTSE Russell](https://www.ftserussell.com).
+[FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock [Exchange](../e/exchange.md) Group, provides a comprehensive suite of [smart beta](../s/smart_beta.md) indexes through its [FTSE Russell](../f/ftse_russell.md) [Smart Beta](../s/smart_beta.md) [Index](../i/index_instrument.md) Series. These indexes track specific factors such as quality, low [volatility](../v/volatility.md), and [yield](../y/yield.md). For more information, visit FTSE Russell.
 
 #### S&P Dow Jones Indices
 
-S&P Dow Jones Indices offers a broad [range](../r/range.md) of [factor](../f/factor.md)-based and strategic [beta](../b/beta.md) indexes under its SPDR (Standard & Poor's Depositary [Receipts](../r/receipt.md)) [product line](../p/product_line.md). Their indexes [leverage](../l/leverage.md) factors such as [value](../v/value.md), [momentum](../m/momentum.md), [dividend yield](../d/dividend_yield.md), and quality. For more information, visit [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/).
+S&P Dow Jones Indices offers a broad [range](../r/range.md) of [factor](../f/factor.md)-based and strategic [beta](../b/beta.md) indexes under its SPDR (Standard & Poor's Depositary [Receipts](../r/receipt.md)) [product line](../p/product_line.md). Their indexes [leverage](../l/leverage.md) factors such as [value](../v/value.md), [momentum](../m/momentum.md), [dividend yield](../d/dividend_yield.md), and quality. For more information, visit S&P Dow Jones Indices.
 
 #### BlackRock (iShares)
 
-BlackRock, through its [iShares](../i/ishares.md) division, offers numerous [smart beta](../s/smart_beta.md) ETFs that track indexes focused on various factors, including minimum [volatility](../v/volatility.md), [dividend](../d/dividend.md) growth, and quality. These products aim to provide tactical and strategic [options](../o/options.md) for portfolio construction. For more information, visit [BlackRock](https://www.blackrock.com).
+BlackRock, through its [iShares](../i/ishares.md) division, offers numerous [smart beta](../s/smart_beta.md) ETFs that track indexes focused on various factors, including minimum [volatility](../v/volatility.md), [dividend](../d/dividend.md) growth, and quality. These products aim to provide tactical and strategic [options](../o/options.md) for portfolio construction. For more information, visit BlackRock.
 
 ### Use Cases and Applications
 

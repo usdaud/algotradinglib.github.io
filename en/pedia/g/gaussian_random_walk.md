@@ -8,7 +8,7 @@ A Gaussian Random Walk can be mathematically defined as follows:
 
 A sequence of [random variables](../r/random_variables.md) \( \{X_t\}_{t=0}^\infty \) constitutes a Gaussian Random Walk if:
 1. \( X_0 = x_0 \) (initial [value](../v/value.md))
-2. \( X_t = X_{t-1} + \epsilon_t \), where \( \epsilon_t \) are i.i.d. normal [random variables](../r/random_variables.md) 
+2. \( X_t = X_{t-1} + \epsilon_t \), where \( \epsilon_t \) are i.i.d. normal [random variables](../r/random_variables.md)
 
 Formally:
 \[ X_t = X_{t-1} + \epsilon_t, \quad \epsilon_t \sim N(\mu, \sigma^2) \]
@@ -94,14 +94,14 @@ plt.show()
 #### Further Reading and Resources
 
 1. **Books**
-   - "[Options](../o/options.md), [Futures](../f/futures.md), and Other [Derivatives](../d/derivatives.md)" by John C. Hull
-   - "The Concepts and Practice of [Mathematical Finance](../m/mathematical_finance.md)" by Mark S. Joshi
+ - "[Options](../o/options.md), [Futures](../f/futures.md), and Other [Derivatives](../d/derivatives.md)" by John C. Hull
+ - "The Concepts and Practice of [Mathematical Finance](../m/mathematical_finance.md)" by Mark S. Joshi
 
 2. **Online Courses**
-   - Coursera: [Financial Engineering and Risk Management](https://www.coursera.org/learn/financial-engineering-risk-management)
-   - edX: [Algorithmic Trading Strategies](https://www.edx.org/course/algorithmic-trading-strategies)
+ - Coursera: Financial Engineering and Risk Management
+ - edX: Algorithmic Trading Strategies
 
 3. **Research Papers**
-   - Fama, E. F. (1965). "Random Walks in [Stock Market](../s/stock_market.md) Prices". Financial Analysts [Journal](../j/journal.md).
+ - Fama, E. F. (1965). "Random Walks in [Stock Market](../s/stock_market.md) Prices". Financial Analysts [Journal](../j/journal.md).
 
 By understanding the Gaussian Random Walk, traders and financial engineers can better interpret [market](../m/market.md) behavior and design more effective [trading strategies](../t/trading_strategies.md) and models.

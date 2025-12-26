@@ -81,19 +81,19 @@ During extreme [market](../m/market.md) conditions, [liquidity](../l/liquidity.m
 ## 6. Leading Companies Offering Money Market Funds
 
 ### 6.1 Vanguard
-Vanguard is one of the world's largest [investment management](../i/investment_management.md) companies, [offering](../o/offering.md) a variety of [money market](../m/money_market.md) funds that cater to different [risk](../r/risk.md) tolerances and investment objectives. More information can be found on their [website](https://investor.vanguard.com).
+Vanguard is one of the world's largest [investment management](../i/investment_management.md) companies, [offering](../o/offering.md) a variety of [money market](../m/money_market.md) funds that cater to different [risk](../r/risk.md) tolerances and investment objectives.
 
 ### 6.2 Fidelity
-Fidelity offers a comprehensive suite of [money market](../m/money_market.md) funds, including government, prime, and municipal [options](../o/options.md). Their funds are designed to meet the needs of various investors, from individuals to large institutions. Visit their [site](https://www.fidelity.com) for more details.
+Fidelity offers a comprehensive suite of [money market](../m/money_market.md) funds, including government, prime, and municipal [options](../o/options.md). Their funds are designed to meet the needs of various investors, from individuals to large institutions.
 
 ### 6.3 Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) provides a [range](../r/range.md) of [money market](../m/money_market.md) funds, including taxable and tax-exempt [options](../o/options.md). Their offerings are aimed at retail investors as well as corporate cash managers. Additional information is available at the [Charles Schwab website](https://www.schwab.com).
+[Charles Schwab](../c/charles_schwab.md) provides a [range](../r/range.md) of [money market](../m/money_market.md) funds, including taxable and tax-exempt [options](../o/options.md). Their offerings are aimed at retail investors as well as corporate cash managers.
 
 ### 6.4 BlackRock
-BlackRock is a global leader in [investment management](../i/investment_management.md), with a diverse portfolio of [money market](../m/money_market.md) funds designed to meet different [investor](../i/investor.md) preferences. Their funds prioritize [liquidity](../l/liquidity.md), safety, and competitive [yield](../y/yield.md). For more information, visit [BlackRock's website](https://www.blackrock.com).
+BlackRock is a global leader in [investment management](../i/investment_management.md), with a diverse portfolio of [money market](../m/money_market.md) funds designed to meet different [investor](../i/investor.md) preferences. Their funds prioritize [liquidity](../l/liquidity.md), safety, and competitive [yield](../y/yield.md).
 
 ### 6.5 JP Morgan Asset Management
-JP Morgan offers various [money market](../m/money_market.md) funds tailored to the needs of individual and institutional investors. Their funds focus on maintaining [liquidity](../l/liquidity.md) and [capital preservation](../c/capital_preservation.md) while providing competitive yields. More information can be found on the [JP Morgan website](https://am.jpmorgan.com).
+JP Morgan offers various [money market](../m/money_market.md) funds tailored to the needs of individual and institutional investors. Their funds focus on maintaining [liquidity](../l/liquidity.md) and [capital preservation](../c/capital_preservation.md) while providing competitive yields.
 
 ## 7. Conclusion
 

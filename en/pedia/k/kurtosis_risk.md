@@ -77,5 +77,4 @@ Leveraging advanced analytical tools that incorporate [kurtosis](../k/kurtosis.m
 
 [Kurtosis](../k/kurtosis.md) [risk](../r/risk.md) represents a crucial aspect of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md) that cannot be overlooked. As [financial markets](../f/financial_market.md) frequently exhibit fat tails, incorporating [kurtosis](../k/kurtosis.md) into [risk models](../r/risk_models_in_trading.md) and [trading strategies](../t/trading_strategies.md) is vital. By acknowledging and addressing [kurtosis](../k/kurtosis.md) [risk](../r/risk.md), algorithmic traders can better prepare for extreme events, improving the resilience and performance of their [trading systems](../t/trading_systems.md) over time.
 
-For further reading and in-depth research, visiting specific trading platforms and financial analytics companies that emphasize [risk management](../r/risk_management.md) and advanced statistical modeling is recommended. These include [Numerix](https://www.numerix.com) and [QuantConnect](https://www.quantconnect.com).
-
+For further reading and in-depth research, visiting specific trading platforms and financial analytics companies that emphasize [risk management](../r/risk_management.md) and advanced statistical modeling is recommended. These include Numerix and QuantConnect.

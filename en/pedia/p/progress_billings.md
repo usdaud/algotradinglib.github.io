@@ -56,16 +56,16 @@ Advances in financial technology have led to the development of numerous softwar
 ### Leading Progress Billing Software
 
 1. **Procore**: A comprehensive construction management software that includes features for progress billing, budgeting, and financial management.
-   - [Procore](https://www.procore.com)
+ - Procore
 
 2. **AIA Contract Documents**: Provides standardized forms and agreements for the architecture, engineering, and construction [industry](../i/industry.md), facilitating the process of progress billing.
-   - [AIA Contract Documents](https://www.aiacontracts.org)
+ - AIA Contract Documents
 
 3. **Sage 100 Contractor**: Offers construction [accounting](../a/accounting.md) and [project management](../p/project_management.md) features, including progress billing capabilities.
-   - [Sage 100 Contractor](https://www.sage.com/en-us/products/sage-100-contractor/)
+ - Sage 100 Contractor
 
 4. **CMiC**: Integrated software for construction firms, combining [project management](../p/project_management.md) with financials, including progress billing.
-   - [CMiC](https://cmicglobal.com)
+ - CMiC
 
 ## Accounting for Progress Billings
 
@@ -80,16 +80,16 @@ The [percentage of completion method](../p/percentage_of_completion_method.md) (
 In [accounting](../a/accounting.md), progress billing transactions typically involve [multiple](../m/multiple.md) [journal](../j/journal.md) entries:
 
 1. **[Revenue Recognition](../r/revenue_recognition.md)**
-   - **[Debit](../d/debit.md)** Accounts [Receivable](../r/receivable.md)
-   - **[Credit](../c/credit.md)** Progress Billings (or [Revenue](../r/revenue.md))
+ - **[Debit](../d/debit.md)** Accounts [Receivable](../r/receivable.md)
+ - **[Credit](../c/credit.md)** Progress Billings (or [Revenue](../r/revenue.md))
 
 2. **[Expense](../e/expense.md) Recognition**
-   - **[Debit](../d/debit.md)** Cost of Goods Sold
-   - **[Credit](../c/credit.md)** [Inventory](../i/inventory.md) or Accounts Payable
+ - **[Debit](../d/debit.md)** Cost of Goods Sold
+ - **[Credit](../c/credit.md)** [Inventory](../i/inventory.md) or Accounts Payable
 
 3. **Retainage**
-   - **[Debit](../d/debit.md)** Retainage [Receivable](../r/receivable.md)
-   - **[Credit](../c/credit.md)** Progress Billings
+ - **[Debit](../d/debit.md)** Retainage [Receivable](../r/receivable.md)
+ - **[Credit](../c/credit.md)** Progress Billings
 
 ## Challenges in Progress Billings
 

@@ -89,11 +89,11 @@ Behavioral [investing](../i/investing.md) incorporates insights from [behavioral
 
 ### High-Frequency Trading Firms
 
-High-frequency trading firms, such as Citadel Securities (https://www.citadelsecurities.com/), use sophisticated algorithms and advanced technology to execute trades in fractions of a second. By exploiting minute price discrepancies, these firms aim to capture profits before these inefficiencies are corrected. Their activities highlight both the speed at which information is integrated into prices and the complexities introduced by modern trading technologies.
+High-frequency trading firms, such as Citadel Securities use sophisticated algorithms and advanced technology to execute trades in fractions of a second. By exploiting minute price discrepancies, these firms aim to capture profits before these inefficiencies are corrected. Their activities highlight both the speed at which information is integrated into prices and the complexities introduced by modern trading technologies.
 
 ### Behavioral Funds
 
-Funds like Fuller & Thaler [Asset Management](../a/asset_management.md) (https://www.fullerthaler.com/) apply principles from [behavioral finance](../b/behavioral_finance.md) to their investment decisions. By understanding common [cognitive biases](../c/cognitive_biases_in_trading.md) and their impact on [investor](../i/investor.md) behavior, these funds strive to achieve above-average returns by capitalizing on predictable irrational behaviors in the [market](../m/market.md).
+Funds like Fuller & Thaler [Asset Management](../a/asset_management.md) ( apply principles from [behavioral finance](../b/behavioral_finance.md) to their investment decisions. By understanding common [cognitive biases](../c/cognitive_biases_in_trading.md) and their impact on [investor](../i/investor.md) behavior, these funds strive to achieve above-average returns by capitalizing on predictable irrational behaviors in the [market](../m/market.md).
 
 ## Conclusion
 

@@ -55,11 +55,11 @@ A Venture-[Capital](../c/capital.md)-Backed Initial Public [Offering](../o/offer
 
 ### Example 1: Facebook
 
-Facebook's IPO in 2012 is one of the most renowned VC-backed public offerings. Backed by firms like Accel Partners, Facebook raised $16 billion, making it one of the largest IPOs in tech history. [Facebook](https://about.fb.com/)
+Facebook's IPO in 2012 is one of the most renowned VC-backed public offerings. Backed by firms like Accel Partners, Facebook raised $16 billion, making it one of the largest IPOs in tech history. Facebook
 
 ### Example 2: Uber
 
-Uber went public in 2019, following substantial VC investments from firms such as [Benchmark](../b/benchmark.md) and SoftBank. The IPO raised $8.1 billion, making it one of the largest for a tech company. [Uber](https://www.uber.com/)
+Uber went public in 2019, following substantial VC investments from firms such as [Benchmark](../b/benchmark.md) and SoftBank. The IPO raised $8.1 billion, making it one of the largest for a tech company. Uber
 
 ## Conclusion
 

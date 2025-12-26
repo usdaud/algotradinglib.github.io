@@ -68,11 +68,11 @@ MSCI’s commitment to excellence has not gone unnoticed. The company has receiv
 
 As the investment landscape continues to evolve, MSCI stands at the forefront of innovation, constantly expanding and refining its suite of tools and services. The company remains dedicated to helping investors navigate the complexities of global markets and achieve their financial goals.
 
-For more in-depth information about MSCI Inc. and their offerings, visit their official website: [MSCI Inc.](https://www.msci.com).
+For more in-depth information about MSCI Inc. and their offerings,.
 
 ## Conclusion
 
-MSCI Inc. is a cornerstone of the financial services [industry](../i/industry.md), providing invaluable tools and services that aid investors worldwide. Whether it’s through their comprehensive [indexing](../i/indexing.md) capabilities, cutting-edge ESG research, or advanced [risk](../r/risk.md) analytics, MSCI continues to empower its clients to make well-informed, strategic investment decisions. 
+MSCI Inc. is a cornerstone of the financial services [industry](../i/industry.md), providing invaluable tools and services that aid investors worldwide. Whether it’s through their comprehensive [indexing](../i/indexing.md) capabilities, cutting-edge ESG research, or advanced [risk](../r/risk.md) analytics, MSCI continues to empower its clients to make well-informed, strategic investment decisions.
 
 ```
 ```

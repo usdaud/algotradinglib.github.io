@@ -66,19 +66,19 @@ The computational requirements for high [turnover](../t/turnover.md) strategies 
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a pioneer in high-frequency trading and [quantitative investment strategies](../q/quantitative_investment_strategies.md). Their Medallion [Fund](../f/fund.md) is known for its high [turnover](../t/turnover.md) and exceptional returns. [Renaissance Technologies](https://www.rentec.com).
+Renaissance Technologies is a pioneer in high-frequency trading and [quantitative investment strategies](../q/quantitative_investment_strategies.md). Their Medallion [Fund](../f/fund.md) is known for its high [turnover](../t/turnover.md) and exceptional returns. Renaissance Technologies.
 
 ### Bridgewater Associates
 
-Bridgewater Associates, founded by Ray Dalio, employs a mix of high and low [turnover](../t/turnover.md) strategies. Their flagship Pure [Alpha](../a/alpha.md) [Fund](../f/fund.md) uses a [range](../r/range.md) of algorithmic strategies to exploit [market](../m/market.md) inefficiencies. [Bridgewater Associates](https://www.bridgewater.com).
+Bridgewater Associates, founded by Ray Dalio, employs a mix of high and low [turnover](../t/turnover.md) strategies. Their flagship Pure [Alpha](../a/alpha.md) [Fund](../f/fund.md) uses a [range](../r/range.md) of algorithmic strategies to exploit [market](../m/market.md) inefficiencies. Bridgewater Associates.
 
 ### Two Sigma
 
-Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to identify trading opportunities. The [firm](../f/firm.md) employs a variety of strategies, including high [turnover](../t/turnover.md) [quantitative trading](../q/quantitative_trading.md) and lower [turnover](../t/turnover.md) [value investing](../v/value_investing.md). [Two Sigma](https://www.twosigma.com).
+Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to identify trading opportunities. The [firm](../f/firm.md) employs a variety of strategies, including high [turnover](../t/turnover.md) [quantitative trading](../q/quantitative_trading.md) and lower [turnover](../t/turnover.md) [value investing](../v/value_investing.md). Two Sigma.
 
 ### Vanguard
 
-Vanguard is well-known for its low [turnover](../t/turnover.md) [index](../i/index_instrument.md) funds and ETFs. The [firm](../f/firm.md) advocates for a buy-and-[hold](../h/hold.md) approach and aims to provide long-term [value](../v/value.md) to investors. [Vanguard](https://www.vanguard.com).
+Vanguard is well-known for its low [turnover](../t/turnover.md) [index](../i/index_instrument.md) funds and ETFs. The [firm](../f/firm.md) advocates for a buy-and-[hold](../h/hold.md) approach and aims to provide long-term [value](../v/value.md) to investors. Vanguard.
 
 ## Conclusion
 

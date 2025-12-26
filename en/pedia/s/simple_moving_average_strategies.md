@@ -35,7 +35,7 @@ This is a straightforward strategy where traders use a single SMA to make tradin
 [import](../i/import.md) numpy as np
 
 # Sample data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Close': [10, 10.5, 11, 11.5, 11, 10.5, 10, 9.5, 9, 9.5, 10, 10.5, 11, 11.5, 12]
 })
 
@@ -59,7 +59,7 @@ This strategy employs two SMAs with different time periods. Traders use a short-
 [import](../i/import.md) numpy as np
 
 # Sample data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Close': [10, 10.5, 11, 11.5, 11, 10.5, 10, 9.5, 9, 9.5, 10, 10.5, 11, 11.5, 12]
 })
 
@@ -84,7 +84,7 @@ This strategy utilizes three SMAs of different time periods to generate signals.
 [import](../i/import.md) numpy as np
 
 # Sample data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Close': [10, 10.5, 11, 11.5, 11, 10.5, 10, 9.5, 9, 9.5, 10, 10.5, 11, 11.5, 12]
 })
 
@@ -109,7 +109,7 @@ Unlike static SMA crossover strategies, a Dynamic SMA strategy adjusts the SMA p
 [import](../i/import.md) numpy as np
 
 # Sample data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Close': [10, 10.5, 11, 11.5, 11, 10.5, 10, 9.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
     'High': [10.2, 10.7, 11.2, 11.7, 11.2, 10.7, 10.2, 9.7, 9.2, 9.7, 10.2, 10.7, 11.2, 11.7, 12.2],
     'Low': [9.8, 10.3, 10.8, 11.3, 10.8, 10.3, 9.8, 9.3, 8.8, 9.3, 9.8, 10.3, 10.8, 11.3, 11.8]
@@ -137,9 +137,9 @@ print(data)
 ### Popular Platforms for Algortihmic Trading
 Several platforms and companies provide tools for implementing and testing SMA strategies. Some notable ones include:
 
-- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with a wide [range](../r/range.md) of tools for [backtesting](../b/backtesting.md) and deployment. [QuantConnect](https://www.quantconnect.com/)
-- **Quantiacs**: A marketplace for [trading algorithms](../t/trading_algorithms.md) where developers can design, backtest, and deploy their models. [Quantiacs](https://quantiacs.com/)
-- **MetaTrader**: Offers a popular [trading platform](../t/trading_platform.md) with [robust](../r/robust.md) support for [algorithmic trading](../a/algorithmic_trading.md) via MetaQuotes Language (MQL). [MetaTrader](https://www.metatrader5.com/en)
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with a wide [range](../r/range.md) of tools for [backtesting](../b/backtesting.md) and deployment. QuantConnect
+- **Quantiacs**: A marketplace for [trading algorithms](../t/trading_algorithms.md) where developers can design, backtest, and deploy their models. Quantiacs
+- **MetaTrader**: Offers a popular [trading platform](../t/trading_platform.md) with [robust](../r/robust.md) support for [algorithmic trading](../a/algorithmic_trading.md) via MetaQuotes Language (MQL). MetaTrader
 
 ### Conclusion
 Simple [Moving Average strategies](../m/moving_average_strategies.md) [offer](../o/offer.md) a reliable and accessible way to engage in [algorithmic trading](../a/algorithmic_trading.md). By understanding and implementing various SMA strategies, traders can improve their [market](../m/market.md) analysis and decision-making processes. While these strategies come with certain limitations, their straightforward nature makes them a valuable tool in the [trader](../t/trader.md)'s toolkit.

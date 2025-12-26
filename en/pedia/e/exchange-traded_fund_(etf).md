@@ -4,7 +4,7 @@ An [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) (ETF) is a type of [
 
 ## Introduction to ETFs
 
-ETFs are a popular [investment vehicle](../i/investment_vehicle.md) that combines the [diversification benefits](../d/diversification_benefits.md) of mutual funds with the ease of trading individual [stocks](../s/stock.md). They provide exposure to a broad [range](../r/range.md) of [asset](../a/asset.md) classes and investment strategies, making them a versatile tool for both individual and institutional investors. 
+ETFs are a popular [investment vehicle](../i/investment_vehicle.md) that combines the [diversification benefits](../d/diversification_benefits.md) of mutual funds with the ease of trading individual [stocks](../s/stock.md). They provide exposure to a broad [range](../r/range.md) of [asset](../a/asset.md) classes and investment strategies, making them a versatile tool for both individual and institutional investors.
 
 ## How ETFs Work
 
@@ -80,15 +80,15 @@ ETFs may not perfectly replicate the performance of the [underlying](../u/underl
 
 ### iShares
 
-Managed by BlackRock, [iShares](../i/ishares.md) offers a wide [range](../r/range.md) of ETF [options](../o/options.md) and is one of the largest ETF providers in the world. Their offerings cover various [asset](../a/asset.md) classes and sectors. [iShares Website](https://www.ishares.com)
+Managed by BlackRock, [iShares](../i/ishares.md) offers a wide [range](../r/range.md) of ETF [options](../o/options.md) and is one of the largest ETF providers in the world. Their offerings cover various [asset](../a/asset.md)
 
 ### Vanguard
 
-Vanguard is another major player in the ETF [market](../m/market.md), known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Their ETFs cover a broad spectrum of [asset](../a/asset.md) classes and investment strategies. [Vanguard Website](https://www.vanguard.com)
+Vanguard is another major player in the ETF [market](../m/market.md), known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Their ETFs cover a broad spectrum of [asset](../a/asset.md)
 
 ### SPDR
 
-Offered by State Street Global Advisors, SPDR ETFs include some of the most well-known and widely traded ETFs in the [industry](../i/industry.md), such as the SPDR S&P 500 ETF (SPY). [SPDR Website](https://www.ssga.com)
+Offered by State Street Global Advisors, SPDR ETFs include some of the most well-known and widely traded ETFs in the [industry](../i/industry.md),
 
 ## Regulatory Aspects
 

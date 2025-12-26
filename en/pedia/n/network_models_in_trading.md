@@ -74,19 +74,19 @@ In HFT, milliseconds matter. Network models can enhance [trading algorithms](../
 
 JPMorgan Chase uses network models for [risk management](../r/risk_management.md) and [market trend analysis](../m/market_trend_analysis.md). The [firm](../f/firm.md)'s [quantitative research](../q/quantitative_research.md) wing leverages these models to enhance [trading strategies](../t/trading_strategies.md) and manage portfolio risks effectively. The [bank](../b/bank.md)'s strategies are heavily reliant on network models to stay ahead in the competitive financial [market](../m/market.md).
 
-**Reference**: [JPMorgan Chase](https://www.jpmorganchase.com)
+**Reference**: JPMorgan Chase
 
 ### Two Sigma
 
 Two Sigma, a quantitative investment [firm](../f/firm.md), employs advanced network models to perfect their [trading algorithms](../t/trading_algorithms.md). By using [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md), Two Sigma creates [robust](../r/robust.md) network models that provide deep insights into [market](../m/market.md) behavior.
 
-**Reference**: [Two Sigma](https://www.twosigma.com)
+**Reference**: Two Sigma
 
 ### Renaissance Technologies
 
 Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, has been known for utilizing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including network models, to [trade](../t/trade.md) in various [financial markets](../f/financial_market.md). Their Medallion [Fund](../f/fund.md), in particular, uses these models to achieve legendary returns.
 
-**Reference**: [Renaissance Technologies](https://www.rentec.com)
+**Reference**: Renaissance Technologies
 
 ## Challenges and Future Trends
 
@@ -109,6 +109,6 @@ Network models represent a significant advancement in the realm of trading, [off
 As technology continues to evolve, the role of network models in trading is likely to expand, opening up new possibilities and applications. However, it [will](../w/will.md) be crucial for firms to address associated challenges, such as data quality, model complexity, and ethical considerations, to fully harness the potential of these sophisticated tools.
 
 For further reading and detailed case studies, you can visit the following links:
-- [JPMorgan Chase](https://www.jpmorganchase.com)
-- [Two Sigma](https://www.twosigma.com)
-- [Renaissance Technologies](https://www.rentec.com)
+- JPMorgan Chase
+- Two Sigma
+- Renaissance Technologies

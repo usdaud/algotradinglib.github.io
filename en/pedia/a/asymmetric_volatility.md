@@ -9,16 +9,16 @@ Asymmetric [volatility](../v/volatility.md) refers to the empirical observation 
 
 **2. Causes and Theories Behind Asymmetric [Volatility](../v/volatility.md):**
 
-   - **[Leverage Effect](../l/leverage_effect_in_trading.md):** Introduced by Black (1976), the [leverage effect](../l/leverage_effect_in_trading.md) suggests that as a company's stock price falls, its [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio increases, leading to higher financial [leverage](../l/leverage.md) and consequently, higher [equity](../e/equity.md) [volatility](../v/volatility.md).
-   - **[Volatility](../v/volatility.md) Feedback Effect:** Proposed by Pindyck (1982), this hypothesis posits that anticipated changes in [volatility](../v/volatility.md) can affect stock prices themselves. For instance, if investors expect higher future [volatility](../v/volatility.md), they might require higher returns for holding riskier assets, leading to immediate price drops.
-   - **Behavioral Factors:** [Investor](../i/investor.md) psychology and [herd behavior](../h/herd_behavior_in_trading.md) play a role. In bad times, panic selling and [overreaction](../o/overreaction.md) can exacerbate [market](../m/market.md) movements, increasing [volatility](../v/volatility.md). Conversely, in good times, [investor](../i/investor.md) overconfidence might dampen [volatility](../v/volatility.md).
+ - **[Leverage Effect](../l/leverage_effect_in_trading.md):** Introduced by Black (1976), the [leverage effect](../l/leverage_effect_in_trading.md) suggests that as a company's stock price falls, its [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio increases, leading to higher financial [leverage](../l/leverage.md) and consequently, higher [equity](../e/equity.md) [volatility](../v/volatility.md).
+ - **[Volatility](../v/volatility.md) Feedback Effect:** Proposed by Pindyck (1982), this hypothesis posits that anticipated changes in [volatility](../v/volatility.md) can affect stock prices themselves. For instance, if investors expect higher future [volatility](../v/volatility.md), they might require higher returns for holding riskier assets, leading to immediate price drops.
+ - **Behavioral Factors:** [Investor](../i/investor.md) psychology and [herd behavior](../h/herd_behavior_in_trading.md) play a role. In bad times, panic selling and [overreaction](../o/overreaction.md) can exacerbate [market](../m/market.md) movements, increasing [volatility](../v/volatility.md). Conversely, in good times, [investor](../i/investor.md) overconfidence might dampen [volatility](../v/volatility.md).
 
 ### Measurement of Asymmetric Volatility
 
 Quantifying asymmetric [volatility](../v/volatility.md) involves several statistical models, including:
 
 - **[GARCH Models](../g/garch_models.md):** Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) models and their variants, such as EGARCH (Exponential GARCH) and TGARCH (Threshold GARCH), are employed to capture the asymmetry in [volatility](../v/volatility.md).
-  
+
 - **[Stochastic Volatility Models](../s/stochastic_volatility_models.md):** These models introduce random [volatility](../v/volatility.md) components and can capture [volatility clustering](../v/volatility_clustering.md) and asymmetry.
 
 ### Implications for Financial Markets
@@ -39,8 +39,8 @@ Numerous empirical studies support the presence of asymmetric [volatility](../v/
 
 **2. Real-World Applications:**
 
-   - **[Trading Strategies](../t/trading_strategies.md):** [Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate asymmetric [volatility](../v/volatility.md) to better predict price movements and [volatility](../v/volatility.md) spikes, adapting buy/sell decisions accordingly.
-   - **[Volatility](../v/volatility.md) Products:** Financial products such as [volatility](../v/volatility.md) swaps and VIX [futures](../f/futures.md) are explicitly designed to [trade](../t/trade.md) on expectations of future [volatility](../v/volatility.md), where understanding asymmetric patterns can provide a competitive edge.
+ - **[Trading Strategies](../t/trading_strategies.md):** [Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate asymmetric [volatility](../v/volatility.md) to better predict price movements and [volatility](../v/volatility.md) spikes, adapting buy/sell decisions accordingly.
+ - **[Volatility](../v/volatility.md) Products:** Financial products such as [volatility](../v/volatility.md) swaps and VIX [futures](../f/futures.md) are explicitly designed to [trade](../t/trade.md) on expectations of future [volatility](../v/volatility.md), where understanding asymmetric patterns can provide a competitive edge.
 
 ### Contemporary Research and Trends
 The study of asymmetric [volatility](../v/volatility.md) continues to evolve as more sophisticated models and larger datasets become available. [Machine learning](../m/machine_learning.md) techniques are increasingly employed to capture complex patterns and improve predictive accuracy.

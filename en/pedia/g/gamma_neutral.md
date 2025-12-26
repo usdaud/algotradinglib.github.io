@@ -79,7 +79,7 @@ Maintaining a [gamma](../g/gamma.md) [neutral](../n/neutral.md) portfolio requir
 
 ### Costs
 
-Frequent adjustments incur [transaction costs](../t/transaction_costs.md), which can add up and erode profits. 
+Frequent adjustments incur [transaction costs](../t/transaction_costs.md), which can add up and erode profits.
 
 ### Slippage
 

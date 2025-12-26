@@ -6,7 +6,7 @@ Lloyd's of London, often referred to simply as Lloyd's, is a British [insurance]
 
 ### 1.1 Origins
 
-Lloyd's of London traces its origins back to 1688, when Edward Lloyd opened a coffee house on Tower Street in London. Lloyd's coffee house became a popular rendezvous for ship owners, merchants, and underwriters who sought [insurance](../i/insurance.md) for their ventures. The venue provided a place to discuss shipping news and events, thereby becoming an important hub for maritime [insurance](../i/insurance.md). 
+Lloyd's of London traces its origins back to 1688, when Edward Lloyd opened a coffee house on Tower Street in London. Lloyd's coffee house became a popular rendezvous for ship owners, merchants, and underwriters who sought [insurance](../i/insurance.md) for their ventures. The venue provided a place to discuss shipping news and events, thereby becoming an important hub for maritime [insurance](../i/insurance.md).
 
 ### 1.2 Development
 
@@ -16,7 +16,6 @@ By the early 18th century, the coffee house had evolved into an organized [marke
 
 The 20th century saw significant modernization within Lloyd's. The Lloyd’s Act of 1982 further updated its legal structure, helping it navigate various challenges, including [market](../m/market.md) turbulence and regulatory changes. In 1986, the Lloyd's building, a high-tech architectural marvel designed by Richard Rogers, was completed. It has since become an iconic symbol of Lloyd's and of London's financial district.
 
-For more details, you can visit Lloyd's official website: [Lloyd's of London](https://www.lloyds.com)
 
 ## 2. Structure
 
@@ -74,8 +73,7 @@ Lloyd's conducts rigorous internal audits and compliance checks to ensure adhere
 
 ### 5.1 Financial Performance
 
-Lloyd's has consistently maintained [robust](../r/robust.md) [financial performance](../f/financial_performance.md), even in the face of economic downturns and catastrophic events. Reports and [financial statements](../f/financial_statements.md) are regularly published on their [official website](https://www.lloyds.com). 
-
+Lloyd's has consistently maintained [robust](../r/robust.md) [financial performance](../f/financial_performance.md), even in the face of economic downturns and catastrophic events. Reports and [financial statements](../f/financial_statements.md)
 ### 5.2 Global Reach
 
 Lloyd's operates in [multiple](../m/multiple.md) countries through a network of offices and partnerships. This global reach allows it to serve a diversified client base and [offer](../o/offer.md) a wide [range](../r/range.md) of [insurance](../i/insurance.md) products.

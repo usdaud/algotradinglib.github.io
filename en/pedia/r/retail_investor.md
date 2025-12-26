@@ -38,30 +38,30 @@ Retail [investor](../i/investor.md) behavior has been a topic of considerable [i
 The advent of the internet and fintech innovations have significantly impacted retail [investing](../i/investing.md), making it more accessible and user-friendly. Technologies influencing retail [investing](../i/investing.md) include:
 
 - **Robo-Advisors**: Automated platforms providing financial advice and management with minimal human intervention. Examples include Wealthfront, Betterment, and Stash.
-  - [Wealthfront](https://www.wealthfront.com)
-  - [Betterment](https://www.betterment.com)
-  - [Stash](https://www.stash.com)
+ - Wealthfront
+ - Betterment
+ - Stash
 
 - **Mobile Trading Apps**: Apps like [Robinhood](../r/robinhood.md), [E*TRADE](../e/e_trade.md), and TD [Ameritrade](../a/ameritrade.md) have democratized trading by [offering](../o/offering.md) low or zero-[commission](../c/commission.md) trades, easy-to-use interfaces, and educational resources.
-  - [Robinhood](https://www.robinhood.com)
-  - [E*TRADE](https://www.etrade.com)
-  - [TD Ameritrade](https://www.tdameritrade.com)
+ - Robinhood
+ - E*TRADE
+ - TD Ameritrade
 
 - **[Crowdfunding](../c/crowdfunding.md) and [Peer-to-Peer Lending](../p/peer-to-peer_lending.md)**: Platforms like Kickstarter, Indiegogo for [crowdfunding](../c/crowdfunding.md), and LendingClub, Prosper for [peer-to-peer lending](../p/peer-to-peer_lending.md), allow retail investors to engage in [alternative investment](../a/alternative_investment.md) opportunities.
-  - [Kickstarter](https://www.kickstarter.com)
-  - [Indiegogo](https://www.indiegogo.com)
-  - [LendingClub](https://www.lendingclub.com)
-  - [Prosper](https://www.prosper.com)
+ - Kickstarter
+ - Indiegogo
+ - LendingClub
+ - Prosper
 
 ## Regulatory Framework
 
 Retail investors' activities are subject to regulatory oversight aimed at protecting their interests and ensuring fair [market](../m/market.md) practices. Key regulatory bodies include:
 
 - **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: The primary regulator for securities markets in the U.S., ensuring [transparency](../t/transparency.md) and protecting against [fraud](../f/fraud.md).
-  - [SEC](https://www.sec.gov)
+ - SEC
 
 - **Financial [Industry](../i/industry.md) Regulatory Authority (FINRA)**: Oversees brokerage firms and their registered representatives in the U.S., ensuring compliance with [market](../m/market.md) rules.
-  - [FINRA](https://www.finra.org)
+ - FINRA
 
 ## Retail vs. Institutional Investors
 
@@ -75,7 +75,7 @@ Retail investors' activities are subject to regulatory oversight aimed at protec
 
 - **Price Movements**: Institutional trades can drive significant price movements, while retail trading activity generally provides [liquidity](../l/liquidity.md) and can sometimes exacerbate [volatility](../v/volatility.md) due to behavioral effects.
 - **[Market Sentiment](../m/market_sentiment.md)**: Retail traders' aggregate actions can influence [market sentiment](../m/market_sentiment.md), often creating [momentum](../m/momentum.md) in certain [stocks](../s/stock.md) or [market](../m/market.md) sectors.
- 
+
 ## Popular Investment Vehicles
 
 Retail investors have access to various investment vehicles, each with distinct characteristics:
@@ -112,20 +112,20 @@ Despite the advantages of flexibility and direct control, retail investors face 
 To help mitigate these challenges, various resources are available for retail investors aiming to improve their [financial literacy](../f/financial_literacy.md) and investment acumen:
 
 - **Financial News and Media**: Websites like [Bloomberg](../b/bloomberg.md), CNBC, and [Reuters](../r/reuters.md) provide up-to-date [market](../m/market.md) news and analysis.
-  - [Bloomberg](https://www.bloomberg.com)
-  - [CNBC](https://www.cnbc.com)
-  - [Reuters](https://www.reuters.com)
+ - Bloomberg
+ - CNBC
+ - Reuters
 
 - **Educational Platforms**: Websites and courses like Investopedia, Coursera, and Khan Academy [offer](../o/offer.md) tutorials and courses on [investing](../i/investing.md) and [personal finance](../p/personal_finance_in_trading.md).
-  - [Investopedia](https://www.investopedia.com)
-  - [Coursera](https://www.coursera.org)
-  - [Khan Academy](https://www.khanacademy.org)
+ - Investopedia
+ - Coursera
+ - Khan Academy
 
 - **Investment Books**: Classic and contemporary books such as "The Intelligent [Investor](../i/investor.md)" by [Benjamin Graham](../b/benjamin_graham.md), "A Random Walk Down [Wall Street](../w/wall_street.md)" by Burton Malkiel, and "One Up On [Wall Street](../w/wall_street.md)" by Peter Lynch provide insights into investment strategies and [market](../m/market.md) psychology.
 
 - **[Finance](../f/finance.md) Communities and Forums**: Online forums like Reddit's r/[investing](../i/investing.md) and financial communities on platforms like Quora allow investors to share experiences and advice.
-  - [Reddit r/investing](https://www.reddit.com/r/investing)
-  - [Quora](https://www.quora.com)
+ - Reddit r/investing
+ - Quora
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Tangible Assets
 
-In [finance](../f/finance.md) and [accounting](../a/accounting.md), assets are the economic resources owned by a [business](../b/business.md) or individual that are expected to provide future benefits. Assets are categorized into two primary types: tangible assets and intangible assets. This detailed examination delves into the intricacies of tangible assets, explores their significance, and contrasts them with their intangible counterparts. 
+In [finance](../f/finance.md) and [accounting](../a/accounting.md), assets are the economic resources owned by a [business](../b/business.md) or individual that are expected to provide future benefits. Assets are categorized into two primary types: tangible assets and intangible assets. This detailed examination delves into the intricacies of tangible assets, explores their significance, and contrasts them with their intangible counterparts.
 
 ## Definition of Tangible Assets
 

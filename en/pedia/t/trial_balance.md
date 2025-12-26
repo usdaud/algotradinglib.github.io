@@ -19,30 +19,30 @@ The preparation of a trial balance follows these steps:
 ### Step-by-Step Process:
 
 1. **Ledger Balances Extraction:**
-   Extract the balances from all the individual ledger accounts. This step might involve small balance accounts or summed totals for accounts with high activity.
+ Extract the balances from all the individual ledger accounts. This step might involve small balance accounts or summed totals for accounts with high activity.
 
 2. **Entry into Worksheet:**
-   List the accounts and their balances on a trial balance worksheet. Accounts with [debit](../d/debit.md) balances go in the [debit](../d/debit.md) column, and those with [credit](../c/credit.md) balances go in the [credit](../c/credit.md) column.
+ List the accounts and their balances on a trial balance worksheet. Accounts with [debit](../d/debit.md) balances go in the [debit](../d/debit.md) column, and those with [credit](../c/credit.md) balances go in the [credit](../c/credit.md) column.
 
 3. **Sum the Columns:**
-   Add up the amounts in the [debit](../d/debit.md) column and the [credit](../c/credit.md) column separately.
+ Add up the amounts in the [debit](../d/debit.md) column and the [credit](../c/credit.md) column separately.
 
 4. **Comparison:**
-   Compare the totals of the [debit](../d/debit.md) and [credit](../c/credit.md) columns. If they are equal, it implies that the ledger entries are arithmetically correct. If they differ, it signals errors that need further investigation.
+ Compare the totals of the [debit](../d/debit.md) and [credit](../c/credit.md) columns. If they are equal, it implies that the ledger entries are arithmetically correct. If they differ, it signals errors that need further investigation.
 
 ### Example:
 Consider the following simplified example of a trial balance:
 
-| Account       | [Debit](../d/debit.md) ($) | [Credit](../c/credit.md) ($) |
+| Account | [Debit](../d/debit.md) ($) | [Credit](../c/credit.md) ($) |
 |---------------|-----------|------------|
-| Cash          | 5,000     |            |
-| Accounts [Receivable](../r/receivable.md) | 3,000 |        |
-| [Inventory](../i/inventory.md)     | 2,000     |            |
-| Accounts Payable  |         | 1,500  |
-| [Revenue](../r/revenue.md)       |         | 8,000       |
-| Expenses      | 4,500     |            |
-| [Equity](../e/equity.md)        |         | 5,000       |
-| **Total**      | **14,500**  | **14,500**  |
+| Cash | 5,000 | |
+| Accounts [Receivable](../r/receivable.md) | 3,000 | |
+| [Inventory](../i/inventory.md) | 2,000 | |
+| Accounts Payable | | 1,500 |
+| [Revenue](../r/revenue.md) | | 8,000 |
+| Expenses | 4,500 | |
+| [Equity](../e/equity.md) | | 5,000 |
+| **Total** | **14,500** | **14,500** |
 
 In this case, the total of the [debit](../d/debit.md) column ($14,500) matches the total of the [credit](../c/credit.md) column ($14,500), indicating that the ledger is in balance.
 

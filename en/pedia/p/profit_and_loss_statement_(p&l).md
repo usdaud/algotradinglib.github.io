@@ -25,7 +25,7 @@ Operating expenses are the costs incurred during the regular operation of a [bus
 
 - **Selling, General and [Administrative Expenses](../a/administrative_expenses.md) (SG&A)**: These encompass all of the costs, direct or indirect, of selling a product. It includes salaries, rent, utilities, [marketing](../m/marketing.md), and [administrative expenses](../a/administrative_expenses.md).
 - **[Depreciation](../d/depreciation.md) and Amortization**: These expenses represent the reduction in [value](../v/value.md) of tangible and intangible assets over time.
- 
+
 ### 5. Operating Income
 
 [Operating Income](../o/operating_income.md), also known as [operating profit](../o/operating_profit.md) or [Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md) (EBIT), is calculated by subtracting operating expenses from the [gross profit](../g/gross_profit.md). It reflects the [profit](../p/profit.md) generated from regular [business](../b/business.md) operations and does not include [income](../i/income.md) from investments, [interest](../i/interest.md), or [taxes](../t/taxes.md).
@@ -50,7 +50,7 @@ The P&L statement provides a clear picture of a company's [financial performance
 
 ### 2. Budgeting and Forecasting
 
-Businesses use P&L statements to understand past performance and predict future financial trends. This is essential for budgeting and effectively allocating resources. 
+Businesses use P&L statements to understand past performance and predict future financial trends. This is essential for budgeting and effectively allocating resources.
 
 ### 3. Decision Making
 
@@ -68,7 +68,7 @@ Companies can compare their P&L statements with competitors' financial reports t
 
 ### Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), the P&L statement is indispensable. Algorithmic traders use [financial statements](../f/financial_statements.md), including P&L, to develop, backtest, and optimize [trading strategies](../t/trading_strategies.md). Here’s how:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the P&L statement is indispensable. Algorithmic traders use [financial statements](../f/financial_statements.md), including P&L, to develop, backtest, and optimize [trading strategies](../t/trading_strategies.md). Here’s how:
 
 - **Strategy Development**: By understanding a company’s profitability over time, algorithmic traders can develop models that predict stock price movements based on [financial health](../f/financial_health.md).
 - **[Backtesting](../b/backtesting.md)**: Historical P&L data allows traders to test their models against past performance, enhancing the reliability and accuracy of predictive algorithms.
@@ -99,7 +99,6 @@ While the P&L statement is extraordinarily beneficial, it does have some limitat
 - **[Accounting Policies](../a/accounting_policies.md)**: Different [accounting policies](../a/accounting_policies.md) may affect the comparability of P&L statements across companies (e.g., FIFO vs. LIFO [inventory accounting](../i/inventory_accounting.md)).
 - **Non-Operational Factors**: It might reflect one-time gains or losses not related to core operations, thus distorting the true operational performance.
 
-For further details on constructing and interpreting P&L statements, you can visit the relevant corporate page: [Company XYZ - Financial Reporting](https://www.examplesite.com/financial-reporting).
 
 ## Conclusion
 

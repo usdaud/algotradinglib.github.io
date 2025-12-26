@@ -37,9 +37,9 @@ Managing tail [risk](../r/risk.md) requires a combination of strategies designed
 
 ### Real-World Applications
 
-Various financial institutions and firms specialize in products and services aimed at managing tail [risk](../r/risk.md). One such example is Universa Investments, a [hedge fund](../h/hedge_fund.md) that focuses on [tail risk hedging](../t/tail_risk_hedging.md). Founded by Mark Spitznagel, Universa Investments capitalizes on extreme [market](../m/market.md) movements to [offer](../o/offer.md) protection against catastrophic [market](../m/market.md) declines. For more details, visit their [official website](http://universa.net).
+Various financial institutions and firms specialize in products and services aimed at managing tail [risk](../r/risk.md). One such example is Universa Investments, a [hedge fund](../h/hedge_fund.md) that focuses on [tail risk hedging](../t/tail_risk_hedging.md). Founded by Mark Spitznagel, Universa Investments capitalizes on extreme [market](../m/market.md) movements to [offer](../o/offer.md) protection against catastrophic [market](../m/market.md) declines.
 
-Another company specializing in [risk management](../r/risk_management.md), including tail [risk](../r/risk.md), is AQR [Capital](../c/capital.md) Management. They [offer](../o/offer.md) a [range](../r/range.md) of strategies designed to provide downside protection and manage extreme [market](../m/market.md) risks. You can learn more about their offerings by visiting [AQR Capital Management](https://www.aqr.com).
+Another company specializing in [risk management](../r/risk_management.md), including tail [risk](../r/risk.md), is AQR [Capital](../c/capital.md) Management. They [offer](../o/offer.md) a [range](../r/range.md) of strategies designed to provide downside protection and manage extreme [market](../m/market.md) risks. You can learn more about their offerings by visiting AQR Capital Management.
 
 ### Conclusion
 

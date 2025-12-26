@@ -137,14 +137,14 @@ To effectively [trade](../t/trade.md) bullish [reversal patterns](../r/reversal_
 
 ## Conclusion
 
-Bullish [reversal patterns](../r/reversal_patterns.md) are powerful tools in [technical analysis](../t/technical_analysis.md) that can signal potential turning points in the [market](../m/market.md). By understanding the characteristics and interpretations of patterns like the hammer, bullish engulfing, and [morning star](../m/morning_star.md), traders can identify potential buying opportunities during downtrends. 
+Bullish [reversal patterns](../r/reversal_patterns.md) are powerful tools in [technical analysis](../t/technical_analysis.md) that can signal potential turning points in the [market](../m/market.md). By understanding the characteristics and interpretations of patterns like the hammer, bullish engulfing, and [morning star](../m/morning_star.md), traders can identify potential buying opportunities during downtrends.
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), these patterns can be incorporated into [trading strategies](../t/trading_strategies.md) through [pattern recognition](../p/pattern_recognition.md) algorithms, [machine learning](../m/machine_learning.md) models, and [robust](../r/robust.md) [risk management](../r/risk_management.md) techniques. By leveraging real-time data feeds and API integration, traders can automate the detection and [execution](../e/execution.md) of trades based on bullish [reversal patterns](../r/reversal_patterns.md), potentially leading to more consistent and profitable trading outcomes.
 
 For more information and resources on [algorithmic trading](../a/algorithmic_trading.md), visit the following links:
-- [MetaTrader](https://www.metatrader4.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [Alpaca](https://alpaca.markets/)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Reuters](https://www.reuters.com/)
-- [Quandl](https://www.quandl.com/)
+- MetaTrader
+- Interactive Brokers
+- Alpaca
+- Bloomberg Terminal
+- Reuters
+- Quandl

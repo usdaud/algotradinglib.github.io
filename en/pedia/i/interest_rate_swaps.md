@@ -5,7 +5,7 @@ An [Interest Rate Swap](../i/interest_rate_swap.md) (IRS) is a financial [deriva
 ### Key Concepts of Interest Rate Swaps
 
 #### Notional Amount
-The notional amount, or notional [principal](../p/principal.md), is the reference amount upon which the exchanged [interest](../i/interest.md) payments are based. Importantly, this amount is not typically exchanged between the parties but serves as the [benchmark](../b/benchmark.md) for calculating the [interest](../i/interest.md) payments. 
+The notional amount, or notional [principal](../p/principal.md), is the reference amount upon which the exchanged [interest](../i/interest.md) payments are based. Importantly, this amount is not typically exchanged between the parties but serves as the [benchmark](../b/benchmark.md) for calculating the [interest](../i/interest.md) payments.
 
 #### Fixed vs. Floating Rates
 In a standard [interest rate swap](../i/interest_rate_swap.md), one party agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md), while the other pays a [floating interest rate](../f/floating_interest_rate.md), typically indexed to a [benchmark](../b/benchmark.md) such as LIBOR (London Interbank Offered Rate) or SOFR (Secured Overnight [Financing](../f/financing.md) Rate). The most common structure is a fixed-for-floating [swap](../s/swap.md), though there are variations such as floating-for-floating or fixed-for-fixed swaps.
@@ -65,15 +65,15 @@ For swaps used as hedging instruments, companies can apply [hedge accounting](..
 #### Investment Banks
 [Investment banks](../i/investment_bank_(ib).md) such as Goldman Sachs, JPMorgan Chase, and Morgan Stanley are major [market](../m/market.md) makers in the [interest rate swap](../i/interest_rate_swap.md) [market](../m/market.md). They facilitate transactions, provide [liquidity](../l/liquidity.md), and [offer](../o/offer.md) pricing and [execution](../e/execution.md) services to clients.
 
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [JPMorgan Chase](https://www.jpmorganchase.com)
-- [Morgan Stanley](https://www.morganstanley.com)
+- Goldman Sachs
+- JPMorgan Chase
+- Morgan Stanley
 
 #### Clearinghouses
 Central clearinghouses such as LCH and CME [Clearing](../c/clearing.md) play a crucial role in reducing [counterparty risk](../c/counterparty_risk.md) by acting as intermediaries in [swap](../s/swap.md) transactions. They guarantee the performance of the [swap](../s/swap.md) contract by requiring [collateral](../c/collateral.md) and marking positions to [market](../m/market.md) daily.
 
-- [LCH](https://www.lch.com)
-- [CME Clearing](https://www.cmegroup.com/clearing/financial-and-otc-clearing.html)
+- LCH
+- CME Clearing
 
 ### Challenges and Risks
 

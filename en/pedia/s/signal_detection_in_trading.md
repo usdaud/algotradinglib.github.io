@@ -20,7 +20,7 @@ Transforming raw data into meaningful features is essential for efficient signal
 
 ### 4. **Algorithm and Model Development**
 
-Algorithms play a significant role in signal detection. There are primarily two types of algorithms: 
+Algorithms play a significant role in signal detection. There are primarily two types of algorithms:
 - **[Technical Analysis](../t/technical_analysis.md) Algorithms**: These use price and [volume](../v/volume.md) data to identify signals. Common algorithms include various kinds of moving averages, [Bollinger Bands](../b/bollinger_bands.md), and others.
 - **Statistical Analysis Algorithms**: These are more advanced and incorporate statistical methods like [regression analysis](../r/regression_analysis.md), ANOVA (Analysis of Variance), etc.
 
@@ -74,9 +74,9 @@ Various tools and platforms are available for signal detection in trading:
 
 ### 1. **Software Platforms**
 
-- **MetaTrader 4/5**: Widely used trading platforms [offering](../o/offering.md) [technical analysis](../t/technical_analysis.md) tools. [MetaTrader](https://www.metatrader4.com/en)
-- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and [market](../m/market.md) analytics. [NinjaTrader](https://ninjatrader.com/)
-- **[TradingView](../t/tradingview.md)**: Offers extensive charting and [social trading](../s/social_trading.md) features. [TradingView](https://www.tradingview.com/)
+- **MetaTrader 4/5**: Widely used trading platforms [offering](../o/offering.md) [technical analysis](../t/technical_analysis.md) tools. MetaTrader
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and [market](../m/market.md) analytics. NinjaTrader
+- **[TradingView](../t/tradingview.md)**: Offers extensive charting and [social trading](../s/social_trading.md) features. TradingView
 
 ### 2. **Programming Languages**
 
@@ -85,9 +85,9 @@ Various tools and platforms are available for signal detection in trading:
 
 ### 3. **APIs**
 
-- **[Alpha](../a/alpha.md) Vantage API**: Provides real-time and historical [market](../m/market.md) data. [Alpha Vantage](https://www.alphavantage.co/)
-- **[Yahoo Finance](../y/yahoo_finance.md) API**: For retrieving stock prices and other financial data. [Yahoo Finance](https://www.yahoofinanceapi.com/)
-- **[Quandl](../q/quandl.md) API**: Offers a plethora of financial and economic data. [Quandl](https://www.quandl.com/)
+- **[Alpha](../a/alpha.md) Vantage API**: Provides real-time and historical [market](../m/market.md) data. Alpha Vantage
+- **[Yahoo Finance](../y/yahoo_finance.md) API**: For retrieving stock prices and other financial data. Yahoo Finance
+- **[Quandl](../q/quandl.md) API**: Offers a plethora of financial and economic data. Quandl
 
 ## Case Studies
 
@@ -99,11 +99,11 @@ Renaissance Technologies, led by Jim Simons, is known for its Medallion [Fund](.
 
 ### 2. **Two Sigma**
 
-Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to identify signals. The company has been successful in uncovering inefficiencies in [financial markets](../f/financial_market.md) for profitable trades. [Two Sigma](https://www.twosigma.com/)
+Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to identify signals. The company has been successful in uncovering inefficiencies in [financial markets](../f/financial_market.md) for profitable trades. Two Sigma
 
 ### 3. **AQR Capital Management**
 
-AQR employs both quantitative and discretionary strategies. Signal detection forms the crux of its [trading strategies](../t/trading_strategies.md). [AQR](https://www.aqr.com/)
+AQR employs both quantitative and discretionary strategies. Signal detection forms the crux of its [trading strategies](../t/trading_strategies.md). AQR
 
 ## Challenges in Signal Detection
 
@@ -128,4 +128,3 @@ Regulatory constraints can impact the effectiveness of certain [trading strategi
 ## Conclusion
 
 Signal detection is an integral part of [algorithmic trading](../a/algorithmic_trading.md), combining elements of [data science](../d/data_science_in_trading.md), statistical analysis, and [machine learning](../m/machine_learning.md). While it offers the potential for significant returns, the complexity and challenges involved require [robust](../r/robust.md) strategies, continuous monitoring, and ongoing [optimization](../o/optimization.md).
-

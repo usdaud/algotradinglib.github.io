@@ -102,4 +102,4 @@ The Court upheld a [judgment](../j/judgment.md) against Tyson Foods for failing 
 
 ## Resources
 
-For additional information, you can visit the Department of Labor's Wage and Hour Division website: [WHD Website](https://www.dol.gov/agencies/whd)
+For additional information, you can

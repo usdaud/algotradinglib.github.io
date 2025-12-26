@@ -4,7 +4,7 @@
 
 #### 1. **Zipline**
 
-**Zipline** is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) library initiated by Quantopian. Written in Python, it is used to develop, backtest, and execute [trading strategies](../t/trading_strategies.md).
+**Zipline** is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) library originally developed by Quantopian (which ceased operations in November 2020). Written in Python, it is used to develop, backtest, and execute [trading strategies](../t/trading_strategies.md). The library continues as a community-maintained project (zipline-reloaded).
 
 ##### Key Features:
 - **Ease of Use**: Straightforward API and excellent integration with the Python ecosystem.
@@ -12,7 +12,7 @@
 - **Broad Data Support**: Ability to ingest data from various sources, including CSV files and APIs.
 - **Community Support**: Extensive documentation and a supportive community.
 
-Here's the official [Zipline repository on GitHub](https://github.com/quantopian/zipline).
+Here's the official Zipline repository on GitHub.
 
 #### 2. **Backtrader**
 
@@ -24,11 +24,10 @@ Here's the official [Zipline repository on GitHub](https://github.com/quantopian
 - **Indicators and Analyzers**: A vast library of built-in [technical indicators](../t/technical_indicators.md) and performance analyzers.
 - **[Broker](../b/broker.md) Integration**: Integration with brokers like [Interactive Brokers](../i/interactive_brokers.md) for real-time trading.
 
-Find more about it on the [Backtrader website](https://www.backtrader.com/).
 
-#### 3. **QuantConnect**
+#### 3. **StockSharp**
 
-**[QuantConnect](../q/quantconnect.md)** is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, [offering](../o/offering.md) extensive tools for developing and testing [trading strategies](../t/trading_strategies.md).
+**[StockSharp](../s/stocksharp.md)** is a [algorithmic trading](../a/algorithmic_trading.md) platform, [offering](../o/offering.md) extensive tools for developing and testing [trading strategies](../t/trading_strategies.md).
 
 ##### Key Features:
 - **Integrated Environment**: Combines [backtesting](../b/backtesting.md) with live trading capabilities.
@@ -36,7 +35,7 @@ Find more about it on the [Backtrader website](https://www.backtrader.com/).
 - **Fast [Backtesting](../b/backtesting.md)**: High-speed [backtesting](../b/backtesting.md) engine.
 - **Algorithm Labs**: Collaborative coding environment to share and test strategies.
 
-Explore more at the [QuantConnect website](https://www.quantconnect.com/).
+
 
 #### 4. **PyAlgoTrade**
 
@@ -48,7 +47,7 @@ Explore more at the [QuantConnect website](https://www.quantconnect.com/).
 - **[Performance Metrics](../p/performance_metrics.md)**: Provides [performance metrics](../p/performance_metrics.md) out of the box.
 - **Paper Trading**: Simulates trades to test strategies without real [money](../m/money.md).
 
-[Check](../c/check.md) out the [PyAlgoTrade GitHub repository](https://github.com/gbeced/pyalgotrade).
+[Check](../c/check.md) out the PyAlgoTrade GitHub repository.
 
 #### 5. **Quantlib**
 
@@ -60,7 +59,6 @@ Explore more at the [QuantConnect website](https://www.quantconnect.com/).
 - **High Performance**: Efficient numerical algorithms for fast computations.
 - **Extensible**: Modular design enables customization and extension.
 
-Learn more on the [Quantlib official site](https://www.quantlib.org/).
 
 #### 6. **TradeStation EasyLanguage**
 
@@ -72,7 +70,7 @@ Learn more on the [Quantlib official site](https://www.quantlib.org/).
 - **Comprehensive Tools**: Advanced charting, strategy [optimization](../o/optimization.md), and [genetic algorithms](../g/genetic_algorithms_in_trading.md).
 - **[Broker](../b/broker.md) Integration**: Directly linked to [TradeStation](../t/tradestation.md) [brokerage services](../b/brokerage_services.md).
 
-Visit the [TradeStation website](https://www.tradestation.com/).
+
 
 #### 7. **MetaTrader 4 (MT4)**
 
@@ -84,7 +82,7 @@ Visit the [TradeStation website](https://www.tradestation.com/).
 - **Historical Data**: Access to extensive historical [market](../m/market.md) data.
 - **Strategy Tester**: Built-in strategy tester for optimizing [trading algorithms](../t/trading_algorithms.md).
 
-Learn more on the [MetaTrader 4 website](https://www.metatrader4.com/).
+
 
 #### 8. **Amibroker**
 
@@ -96,7 +94,7 @@ Learn more on the [MetaTrader 4 website](https://www.metatrader4.com/).
 - **[Optimization](../o/optimization.md) Tools**: Sophisticated genetic [optimization](../o/optimization.md) and Monte Carlo analysis.
 - **High Performance**: Capable of handling millions of data points efficiently.
 
-Visit the [Amibroker website](http://www.amibroker.com/).
+
 
 #### 9. **NinjaTrader**
 
@@ -108,7 +106,7 @@ Visit the [Amibroker website](http://www.amibroker.com/).
 - **[Market](../m/market.md) Replay**: Rewind and replay [market](../m/market.md) data to refine strategies.
 - **[Brokerage Services](../b/brokerage_services.md)**: Integrated with [NinjaTrader](../n/ninjatrader.md) Brokerage for live trading.
 
-For more details, visit the [NinjaTrader website](https://ninjatrader.com/).
+
 
 #### 10. **AlgoTrader**
 
@@ -120,8 +118,8 @@ For more details, visit the [NinjaTrader website](https://ninjatrader.com/).
 - **Custom Strategies**: Develop custom strategies using Java and Scala.
 - **Analytics and Reporting**: Advanced analytics and detailed performance reports.
 
-Explore more on the [AlgoTrader website](https://www.algotrader.com/).
+
 
 ### Conclusion
 
-Choosing the right [backtesting](../b/backtesting.md) framework depends on various factors, including the [asset class](../a/asset_class.md), the programming language, required features, and the level of expertise. Each framework offers unique advantages, making it essential to evaluate them based on your specific needs and trading goals. From beginner-friendly [options](../o/options.md) like MetaTrader 4 to comprehensive platforms like [AlgoTrader](../a/algotrader.md), the landscape of [backtesting](../b/backtesting.md) frameworks is rich and diverse, providing ample opportunities for traders to refine and optimize their strategies before deploying them in live markets.
+Choosing the right [backtesting](../b/backtesting.md) framework depends on various factors, including the [asset class](../a/asset_class.md), the programming language, required features, and the level of expertise. Each framework offers unique advantages, making it essential to evaluate them based on your specific needs and trading goals. From beginner-friendly [options](../o/options.md) like MetaTrader 4 to comprehensive platforms like [AlgoTrader](../a/algotrader.md), the landscape of [backtesting](../b/backtesting.md) frameworks is rich and diverse, providing ample opportunities for traders to refine and optimize their strategies before deploying them in live markets.

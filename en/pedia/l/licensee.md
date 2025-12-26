@@ -83,17 +83,17 @@ Licensees must account for licensing fees and royalties in their [financial stat
 ### ARM Holdings and Semiconductor Companies
 ARM [Holdings](../h/holdings.md), a leader in semiconductor intellectual property, licenses its chip designs to various tech giants like Apple, Samsung, and Qualcomm. By licensing rather than [manufacturing](../m/manufacturing.md), ARM has secured a [robust](../r/robust.md) [business](../b/business.md) model with widespread technology adoption.
 
-**[Learn more about ARM Holdings](https://www.arm.com/)**
+**Learn more about ARM Holdings**
 
 ### Disney and Merchandise Licensing
 Disney licenses its vast array of characters to various companies for merchandise production. This strategy has exponentially increased their brand reach and generated substantial [revenue](../r/revenue.md) without the need for Disney to [handle](../h/handle.md) [manufacturing](../m/manufacturing.md) [logistics](../l/logistics.md).
 
-**[Learn more about Disney](https://www.thewaltdisneycompany.com/)**
+**Learn more about Disney**
 
 ### Microsoft and Software Licensing
 Microsoft licenses its software, such as Windows and Office, to millions of users worldwide. This model has allowed Microsoft to dominate the software [market](../m/market.md) and establish a [recurring revenue](../r/recurring_revenue.md) stream through continuous updates and renewals.
 
-**[Learn more about Microsoft](https://www.microsoft.com/)**
+**Learn more about Microsoft**
 
 ## Conclusion
 

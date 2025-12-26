@@ -1,6 +1,6 @@
 # Annual Equivalent Rate (AER)
 
-The Annual Equivalent Rate (AER) is a standardized [interest rate](../i/interest_rate.md) calculation that allows consumers and investors to compare various financial products with different [compounding](../c/compounding.md) periods on a common [basis](../b/basis.md). AER is particularly relevant in the context of savings accounts, fixed deposits, and other [interest](../i/interest.md)-bearing financial products. 
+The Annual Equivalent Rate (AER) is a standardized [interest rate](../i/interest_rate.md) calculation that allows consumers and investors to compare various financial products with different [compounding](../c/compounding.md) periods on a common [basis](../b/basis.md). AER is particularly relevant in the context of savings accounts, fixed deposits, and other [interest](../i/interest.md)-bearing financial products.
 
 ## Concept of AER
 
@@ -54,7 +54,7 @@ AER helps investors to compare different savings accounts which may [offer](../o
 
 Fixed deposits, or time deposits, often come with varying terms and [compounding](../c/compounding.md) frequencies. AER provides a clear picture of the actual [annual return](../a/annual_return.md), assisting investors in making informed decisions.
 
-**Example:** [Barclays Fixed Deposits](https://www.barclays.co.uk/savings/fixed-rate-bonds/)
+**Example:** Barclays Fixed Deposits
 
 ### Investment Portfolios
 
@@ -64,7 +64,7 @@ For portfolio managers and algorithmic traders, AER can serve as a [benchmark](.
 
 In the case of loans and mortgages, the AER (often referred to as APR or Annual Percentage Rate) helps borrowers understand the real cost of borrowing. It includes [interest](../i/interest.md) rates and any additional fees.
 
-**Example:** [HSBC Loans](https://www.hsbc.co.uk/loans/)
+**Example:** HSBC Loans
 
 ## Limitations of AER
 

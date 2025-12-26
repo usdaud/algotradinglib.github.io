@@ -10,10 +10,10 @@ Modified cash [basis](../b/basis.md) [accounting](../a/accounting.md) recognizes
 
 1. **Cash [Basis](../b/basis.md) Elements**: It recognizes transactions based on cash flows. [Income](../i/income.md) is recorded when cash is received, and expenses are recognized when they are paid. This provides a straightforward view of the actual [cash flow](../c/cash_flow.md) position of the organization at a particular time.
 
-2. **Accrual [Basis](../b/basis.md) Elements**: 
-    - **Accounts [Receivable](../r/receivable.md)**: Recognized when the [invoice](../i/invoice.md) is issued, even if the cash hasn't been received yet.
-    - **Accounts Payable**: Recorded when the obligation is incurred, not necessarily when the cash is paid.
-    - **[Depreciation](../d/depreciation.md) of Fixed Assets**: [Long-term assets](../l/long-term_assets.md) are capitalized and depreciated over their [useful life](../u/useful_life.md) instead of recording them as expenses when purchased.
+2. **Accrual [Basis](../b/basis.md) Elements**:
+ - **Accounts [Receivable](../r/receivable.md)**: Recognized when the [invoice](../i/invoice.md) is issued, even if the cash hasn't been received yet.
+ - **Accounts Payable**: Recorded when the obligation is incurred, not necessarily when the cash is paid.
+ - **[Depreciation](../d/depreciation.md) of Fixed Assets**: [Long-term assets](../l/long-term_assets.md) are capitalized and depreciated over their [useful life](../u/useful_life.md) instead of recording them as expenses when purchased.
 
 ### Examples of Modified Cash Basis Transactions
 

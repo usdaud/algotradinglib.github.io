@@ -58,9 +58,9 @@ Several IRS Private Letter Rulings (PLRs) and court cases have shaped the landsc
 ### Financial Management Firms
 
 Several financial services firms specialize in providing QDOT-related services, including [trust](../t/trust.md) setups, compliance, and ongoing management. Examples of these include:
-- **[Fidelity Investments](../f/fidelity_investments.md)**: [https://www.fidelity.com]
-- **[Charles Schwab](../c/charles_schwab.md)**: [https://www.schwab.com]
-- **BMO Private [Bank](../b/bank.md)**: [https://www.bmo.com/main/personal/private-[wealth](../w/wealth.md)/]
+- **[Fidelity Investments](../f/fidelity_investments.md)**: [
+- **[Charles Schwab](../c/charles_schwab.md)**: [
+- **BMO Private [Bank](../b/bank.md)**: [
 
 ## Conclusion
 

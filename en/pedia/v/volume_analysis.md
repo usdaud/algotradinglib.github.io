@@ -5,7 +5,7 @@
 ## Key Concepts in Volume Analysis
 
 ### 1. Trading Volume
-Trading [volume](../v/volume.md) refers to the number of [shares](../s/shares.md) or contracts traded in a [security](../s/security.md) or [market](../m/market.md) during a given period. It is a critical metric that indicates [market](../m/market.md) activity and [liquidity](../l/liquidity.md). 
+Trading [volume](../v/volume.md) refers to the number of [shares](../s/shares.md) or contracts traded in a [security](../s/security.md) or [market](../m/market.md) during a given period. It is a critical metric that indicates [market](../m/market.md) activity and [liquidity](../l/liquidity.md).
 
 ### 2. Volume Spread Analysis (VSA)
 [Volume](../v/volume.md) [Spread Analysis](../s/spread_analysis.md) is a method of analyzing the relationship between [volume](../v/volume.md) and [price action](../p/price_action.md). It seeks to reveal the activities of major [market](../m/market.md) players by examining the spread (the difference between the high and low prices during a trading interval) and the [volume](../v/volume.md).
@@ -35,10 +35,10 @@ Analyzing [volume](../v/volume.md) helps gauge the [market sentiment](../m/marke
 
 ### Demonstrations with Companies
 #### TradingView
-[TradingView](https://www.tradingview.com) offers advanced [volume analysis tools](../v/volume_analysis_tools.md) and charts that are instrumental for traders looking to incorporate [volume](../v/volume.md) analysis into their strategies.
+TradingView offers advanced [volume analysis tools](../v/volume_analysis_tools.md) and charts that are instrumental for traders looking to incorporate [volume](../v/volume.md) analysis into their strategies.
 
 #### MetaQuotes Software
-Developers of the MetaTrader platforms, [MetaQuotes Software](https://www.metaquotes.net), provide in-depth [volume indicators](../v/volume_indicators.md) and functionalities to assist algorithmic traders in integrating [volume](../v/volume.md) analysis into Expert Advisors (EAs) and custom indicators.
+Developers of the MetaTrader platforms, MetaQuotes Software, provide in-depth [volume indicators](../v/volume_indicators.md) and functionalities to assist algorithmic traders in integrating [volume](../v/volume.md) analysis into Expert Advisors (EAs) and custom indicators.
 
 ## Algorithmic Strategies Using Volume Analysis
 

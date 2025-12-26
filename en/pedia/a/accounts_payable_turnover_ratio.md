@@ -1,6 +1,6 @@
 # Accounts Payable Turnover Ratio
 
-The Accounts Payable [Turnover Ratio](../t/turnover_ratio.md) (APTR) is an important financial metric used to quantify the rate at which a company pays off its suppliers. This ratio provides insights into a company's short-term [liquidity](../l/liquidity.md) and [operational efficiency](../o/operational_efficiency_in_trading.md). It is crucial for investors, financial analysts, and managers to understand how well a company manages its payables, as it has implications for [cash flow](../c/cash_flow.md) management and the overall [financial health](../f/financial_health.md) of the organization. 
+The Accounts Payable [Turnover Ratio](../t/turnover_ratio.md) (APTR) is an important financial metric used to quantify the rate at which a company pays off its suppliers. This ratio provides insights into a company's short-term [liquidity](../l/liquidity.md) and [operational efficiency](../o/operational_efficiency_in_trading.md). It is crucial for investors, financial analysts, and managers to understand how well a company manages its payables, as it has implications for [cash flow](../c/cash_flow.md) management and the overall [financial health](../f/financial_health.md) of the organization.
 
 ## Definition and Formula
 
@@ -25,23 +25,23 @@ A high Accounts Payable [Turnover Ratio](../t/turnover_ratio.md) indicates that 
 ### High APTR
 
 - **Pros**:
-  - Indicates strong [cash flow](../c/cash_flow.md) and [liquidity](../l/liquidity.md).
-  - Suppliers are more likely to [trust](../t/trust.md) and provide better terms.
-  - Reduced [risk](../r/risk.md) of liabilities and [interest](../i/interest.md) payments on overdue invoices.
-  
+ - Indicates strong [cash flow](../c/cash_flow.md) and [liquidity](../l/liquidity.md).
+ - Suppliers are more likely to [trust](../t/trust.md) and provide better terms.
+ - Reduced [risk](../r/risk.md) of liabilities and [interest](../i/interest.md) payments on overdue invoices.
+
 - **Cons**:
-  - May indicate poor [working capital management](../w/working_capital_management.md) if the company is not taking advantage of [credit](../c/credit.md) terms offered by suppliers.
-  - Potential loss of [interest](../i/interest.md) [income](../i/income.md) from not utilizing the full [credit](../c/credit.md) period.
+ - May indicate poor [working capital management](../w/working_capital_management.md) if the company is not taking advantage of [credit](../c/credit.md) terms offered by suppliers.
+ - Potential loss of [interest](../i/interest.md) [income](../i/income.md) from not utilizing the full [credit](../c/credit.md) period.
 
 ### Low APTR
 
 - **Pros**:
-  - Utilizing full [credit](../c/credit.md) terms can improve [working capital management](../w/working_capital_management.md).
-  - May help in generating [interest](../i/interest.md) [income](../i/income.md) by delaying payments within agreed terms.
-  
+ - Utilizing full [credit](../c/credit.md) terms can improve [working capital management](../w/working_capital_management.md).
+ - May help in generating [interest](../i/interest.md) [income](../i/income.md) by delaying payments within agreed terms.
+
 - **Cons**:
-  - Potential [liquidity](../l/liquidity.md) issues and poor [cash flow](../c/cash_flow.md) management.
-  - [Risk](../r/risk.md) of damaging supplier relationships and losing favorable terms.
+ - Potential [liquidity](../l/liquidity.md) issues and poor [cash flow](../c/cash_flow.md) management.
+ - [Risk](../r/risk.md) of damaging supplier relationships and losing favorable terms.
 
 ## Industry Comparisons
 
@@ -57,7 +57,7 @@ The optimal Accounts Payable [Turnover Ratio](../t/turnover_ratio.md) can vary s
 
 ### Case Study: Walmart Inc.
 
-Walmart Inc. (https://www.walmart.com/) is one of the largest retail corporations in the world, known for its efficient [supply chain](../s/supply_chain.md) management. Examining Walmart’s APTR can provide insights into how the company manages its payables.
+Walmart Inc. ( is one of the largest retail corporations in the world, known for its efficient [supply chain](../s/supply_chain.md) management. Examining Walmart’s APTR can provide insights into how the company manages its payables.
 
 For instance, if Walmart’s Total Supplier Purchases for a fiscal year were $400 billion, and the Average Accounts Payable was $20 billion, the APTR would be:
 

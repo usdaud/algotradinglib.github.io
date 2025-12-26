@@ -44,7 +44,7 @@ Real-time [risk](../r/risk.md) monitoring systems can help detect and respond to
 
 ### 1. Circuit Breakers
 
-Circuit breakers are mechanisms designed to halt trading during extreme [volatility](../v/volatility.md) to prevent further [financial distress](../f/financial_distress.md). These can be built into algorithms or set at an organizational level. 
+Circuit breakers are mechanisms designed to halt trading during extreme [volatility](../v/volatility.md) to prevent further [financial distress](../f/financial_distress.md). These can be built into algorithms or set at an organizational level.
 
 - **Automatic Shutdowns:** Configuring systems to automatically shut down trading operations if certain thresholds are met.
 - **Manual Intervention:** Ensuring that human oversight is available to intervene if automated systems [fail](../f/fail.md) to respond appropriately.
@@ -78,7 +78,7 @@ In 2012, Knight [Capital](../c/capital.md) experienced a $440 million loss due t
 
 ### 3. The Role of Risk Management in High-Frequency Trading (HFT) Firms
 
-High-Frequency Trading (HFT) firms, such as Virtu Financial (https://www.virtu.com), have implemented sophisticated X-[risk management](../r/risk_management.md) systems. Virtu Financial, for instance, is known for its "[kill](../k/kill.md) switch" mechanism that instantly shuts down trading in case of abnormal activity.
+High-Frequency Trading (HFT) firms, such as Virtu Financial ( have implemented sophisticated X-[risk management](../r/risk_management.md) systems. Virtu Financial, for instance, is known for its "[kill](../k/kill.md) switch" mechanism that instantly shuts down trading in case of abnormal activity.
 
 ## Tools and Technologies for X-Risk Management
 

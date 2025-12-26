@@ -63,12 +63,12 @@ Even with [negative correlation](../n/negative_correlation.md) strategies, extre
 #### Renaissance Technologies
 
 Renaissance Technologies, founded by Jim Simons, is one of the most successful [hedge](../h/hedge.md) funds known for its [quantitative trading](../q/quantitative_trading.md) strategies. Their Medallion [Fund](../f/fund.md) is reputed for its sophisticated use of statistical [arbitrage](../a/arbitrage.md) and [market](../m/market.md)-[neutral](../n/neutral.md) strategies, largely shielded from broader [market](../m/market.md) movements.
-Link: [Renaissance Technologies](https://www.rentec.com/)
+Link: Renaissance Technologies
 
 #### Bridgewater Associates
 
 Founded by Ray Dalio, Bridgewater Associates employs various algorithmic strategies, including those based on [negative correlation](../n/negative_correlation.md). Their Pure [Alpha](../a/alpha.md) [Fund](../f/fund.md) seeks to create a diversified portfolio by combining assets with negative or low correlations.
-Link: [Bridgewater Associates](https://www.bridgewater.com/)
+Link: Bridgewater Associates
 
 ### Future of Negative Correlation Strategies
 

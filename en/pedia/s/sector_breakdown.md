@@ -24,7 +24,7 @@ The [financial sector](../f/financial_sector.md) includes companies that provide
 - **Investment funds**: Organizations managing collective investments.
 - **[Insurance](../i/insurance.md) companies**: Entities [offering](../o/offering.md) [risk management](../r/risk_management.md) through insurances.
 - **[Real estate](../r/real_estate.md)**: Firms involved in property development, management, and investment.
-  
+
 ### Technology
 
 The [technology sector](../t/technology_sector.md) covers a wide [range](../r/range.md) of companies centered around the development, [manufacturing](../m/manufacturing.md), and [distribution](../d/distribution.md) of technology-based goods and services. It includes:
@@ -112,23 +112,23 @@ Comparing the performance of different sectors can [offer](../o/offer.md) insigh
 ### Sector Indices
 
 [Sector indices](../s/sector_indices.md) are benchmarks that track the performance of specific sectors. Leading financial services providers like S&P Global and MSCI [offer](../o/offer.md) various [sector indices](../s/sector_indices.md), which are widely used by investors for benchmarking and analysis. For example:
-- [S&P 500 Sector Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview)
-- [MSCI Global Sector Indices](https://www.msci.com/sectors)
+- S&P 500 Sector Indices
+- MSCI Global Sector Indices
 
 ### ETFs and Mutual Funds
 
 There are numerous [exchange](../e/exchange.md)-traded funds (ETFs) and mutual funds focused on specific sectors. These financial instruments [offer](../o/offer.md) an easy way for investors to [gain](../g/gain.md) exposure to different sectors without having to pick individual [stocks](../s/stock.md). For example:
-- [Vanguard Sector ETFs](https://investor.vanguard.com/etf/list#/)
-- [Fidelity Sector Mutual Funds](https://www.fidelity.com/mutual-funds/investing-ideas/sector-investing)
+- Vanguard Sector ETFs
+- Fidelity Sector Mutual Funds
 
 ### Software and Analytical Platforms
 
 Various software and analytical tools are designed to assist in conducting a sector breakdown. These tools [offer](../o/offer.md) real-time data, historical performance, and various financial metrics. Popular platforms include:
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Morningstar Direct](https://www.morningstar.com/products/direct)
-- [FactSet](https://www.factset.com/solutions/industries/asset-managers)
+- Bloomberg Terminal
+- Morningstar Direct
+- FactSet
 
-### Fundamental and Technical Analysis 
+### Fundamental and Technical Analysis
 
 Investors employ both fundamental and [technical analysis](../t/technical_analysis.md) to evaluate sectors:
 

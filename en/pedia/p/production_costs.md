@@ -121,8 +121,8 @@ Dell's build-to-[order](../o/order.md) [manufacturing](../m/manufacturing.md) ap
 Apple has optimized its [supply chain](../s/supply_chain.md) management to control production costs effectively. Strategic partnerships with suppliers, rigorous [quality control](../q/quality_control.md), and efficient [logistics](../l/logistics.md) have enabled Apple to maintain profitability by controlling costs.
 
 For more detailed information, you can explore the following resources:
-- [Toyota Production System](https://www.toyota-global.com/company/vision_philosophy/toyota_production_system/)
-- [Dell](https://www.dell.com)
-- [Apple](https://www.apple.com/supply-chain/)
+- Toyota Production System
+- Dell
+- Apple
 
 Understanding production costs involves a comprehensive analysis of the various factors and methods involved in [manufacturing](../m/manufacturing.md). By carefully managing these costs, businesses can improve profitability and maintain a competitive edge in the [market](../m/market.md).

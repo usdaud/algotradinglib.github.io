@@ -56,7 +56,7 @@ Some argue that [momentum](../m/momentum.md) profits are a compensation for [ris
 
 ### Algorithmic Trading Platforms
 
-[Momentum](../m/momentum.md) strategies are commonly implemented on [algorithmic trading](../a/algorithmic_trading.md) platforms that use sophisticated algorithms to identify and exploit [momentum](../m/momentum.md) patterns. Platforms like [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and [Interactive Brokers](../i/interactive_brokers.md) [offer](../o/offer.md) tools and APIs for developing and executing [momentum](../m/momentum.md)-based [trading strategies](../t/trading_strategies.md).
+[Momentum](../m/momentum.md) strategies are commonly implemented on [algorithmic trading](../a/algorithmic_trading.md) platforms that use sophisticated algorithms to identify and exploit [momentum](../m/momentum.md) patterns. Platforms like [StockSharp](../s/stocksharp.md), [Alpaca](../a/alpaca.md), and [Interactive Brokers](../i/interactive_brokers.md) [offer](../o/offer.md) tools and APIs for developing and executing [momentum](../m/momentum.md)-based [trading strategies](../t/trading_strategies.md).
 
 ### Exchange-Traded Funds (ETFs)
 
@@ -90,6 +90,6 @@ The [Momentum](../m/momentum.md) [Factor](../f/factor.md) is a powerful and wide
 
 For more detailed information on [momentum](../m/momentum.md) strategies and their theoretical foundations, you can explore the following resources:
 
-- [QuantConnect - Momentum Trading](https://www.quantconnect.com/learning/articles/momentum-trading)
-- [Interactive Brokers - Momentum Strategies](https://www.interactivebrokers.com/en/index.php?f=2228&nhf=T)
-- [Alpaca - Algorithmic Trading](https://alpaca.markets/)
+- QuantConnect - Momentum Trading
+- Interactive Brokers - Momentum Strategies
+- Alpaca - Algorithmic Trading

@@ -4,7 +4,7 @@
 
 ## The Role of a Wealth Psychologist
 
-[Wealth](../w/wealth.md) psychologists use their expertise to assist clients in various aspects of their financial lives. Unlike financial advisors, who primarily focus on [wealth](../w/wealth.md) accumulation, investment strategies, and [financial planning](../f/financial_planning.md), [wealth](../w/wealth.md) psychologists focus on the psychological and emotional aspects of [wealth](../w/wealth.md). Their roles can [range](../r/range.md) from addressing anxiety and guilt associated with [wealth](../w/wealth.md) to helping clients understand their relationship with [money](../m/money.md). 
+[Wealth](../w/wealth.md) psychologists use their expertise to assist clients in various aspects of their financial lives. Unlike financial advisors, who primarily focus on [wealth](../w/wealth.md) accumulation, investment strategies, and [financial planning](../f/financial_planning.md), [wealth](../w/wealth.md) psychologists focus on the psychological and emotional aspects of [wealth](../w/wealth.md). Their roles can [range](../r/range.md) from addressing anxiety and guilt associated with [wealth](../w/wealth.md) to helping clients understand their relationship with [money](../m/money.md).
 
 [Wealth](../w/wealth.md) psychologists often work with families to ensure that [wealth](../w/wealth.md) is not a source of conflict. They can help develop family mission statements, legacy planning, and foster healthy communication about finances. Their goal is to help clients live more fulfilled lives by ensuring that their [wealth](../w/wealth.md) aligns with their values and personal goals.
 
@@ -76,6 +76,6 @@ Several individuals and institutions have been instrumental in developing and pr
 
 For more information about some leading practitioners and organizations in the field, you can visit:
 
-- [James Grubman, Ph.D.](https://jamesgrubman.com/)
-- [The Sudden Wealth Institute](https://www.suddenwealthinstitute.com/)
-- [Wealth Legacy Group](https://wealthlegacygroup.com/)
+- James Grubman, Ph.D.
+- The Sudden Wealth Institute
+- Wealth Legacy Group

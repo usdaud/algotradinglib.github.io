@@ -15,7 +15,7 @@ Where RS ([Relative Strength](../r/relative_strength.md)) is the average of X da
 ## Interpretation of 1-Day RSI
 
 1. **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Conditions:** The RSI is most commonly used to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions in the [market](../m/market.md). An RSI above 70 is typically considered [overbought](../o/overbought.md), while an RSI below 30 is considered [oversold](../o/oversold.md). In the context of a 1-Day RSI, these thresholds can provide quick insights into short-term price movements.
-  
+
 2. **Divergences:** Divergences between the RSI and the [underlying](../u/underlying.md) [price action](../p/price_action.md) can indicate potential reversals. For instance, if the price is making higher highs but the RSI is making lower highs, this could indicate a potential bearish [reversal](../r/reversal.md).
 
 3. **Centerline Crossover:** RSI values above 50 generally indicate upward [momentum](../m/momentum.md), while RSI values below 50 suggest downward [momentum](../m/momentum.md). The 50-level crossover can act as a signal for [trend](../t/trend.md) confirmation.
@@ -103,28 +103,22 @@ Several platforms and tools can be utilized to implement and backtest 1-Day RSI 
 
 MetaTrader is a popular platform for algo trading [offering](../o/offering.md) extensive tools for [technical analysis](../t/technical_analysis.md) and automated trading using Expert Advisors (EAs).
 
-- **MetaTrader 5:** [https://www.metatrader5.com/en](https://www.metatrader5.com/en)
-
+- **MetaTrader 5:**
 ### TradingView
 
 [TradingView](../t/tradingview.md) offers powerful charting tools and a scripting language called Pine Script which allows traders to develop and backtest their strategies.
 
-- **[TradingView](../t/tradingview.md):** [https://www.tradingview.com/](https://www.tradingview.com/)
-
+- **[TradingView](../t/tradingview.md):**
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports coding in Python and C#. It provides extensive historical data and [backtesting](../b/backtesting.md) capabilities.
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that supports coding in C#. It provides extensive historical data and [backtesting](../b/backtesting.md) capabilities.
 
-- **[QuantConnect](../q/quantconnect.md):** [https://www.quantconnect.com/](https://www.quantconnect.com/)
-
+- **[QuantConnect](../q/quantconnect.md):**
 ### Algorithmic Trading APIs
 
 APIs like [Alpaca](../a/alpaca.md), [Interactive Brokers](../i/interactive_brokers.md), and TD [Ameritrade](../a/ameritrade.md) allow for the development of custom trading applications capable of executing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-- **[Alpaca](../a/alpaca.md):** [https://alpaca.markets/](https://alpaca.markets/)
-- **[Interactive Brokers](../i/interactive_brokers.md):** [https://www.interactivebrokers.com/](https://www.interactivebrokers.com/)
-- **TD [Ameritrade](../a/ameritrade.md):** [https://www.tdameritrade.com/tools-and-platforms/](https://www.tdameritrade.com/tools-and-platforms/)
-
+- **[Alpaca](../a/alpaca.md):** - **[Interactive Brokers](../i/interactive_brokers.md):** - **TD [Ameritrade](../a/ameritrade.md):**
 ## Advanced Considerations
 
 ### Machine Learning Integrations
@@ -141,4 +135,4 @@ Ensuring compliance with trading regulations is crucial for [algorithmic trading
 
 ## Conclusion
 
-The 1-Day RSI is a powerful tool for identifying [short-term trading](../s/short-term_trading.md) opportunities, particularly in the realms of [mean reversion](../m/mean_reversion.md) and [trend following](../t/trend_following.md) strategies. However, its effectiveness is significantly enhanced when used in combination with additional indicators and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. By integrating advanced tools and platforms, and considering innovative techniques such as [machine learning](../m/machine_learning.md), traders can further bolster their strategies' accuracy and profitability.
+The 1-Day RSI is a powerful tool for identifying [short-term trading](../s/short-term_trading.md) opportunities, particularly in the realms of [mean reversion](../m/mean_reversion.md) and [trend following](../t/trend_following.md) strategies. However, its effectiveness is significantly enhanced when used in combination with additional indicators and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. By integrating advanced tools and platforms, and considering innovative techniques such as [machine learning](../m/machine_learning.md), traders can further bolster their strategies' accuracy and profitability.

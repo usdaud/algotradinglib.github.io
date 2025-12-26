@@ -88,14 +88,14 @@ The [financial sector](../f/financial_sector.md) operates under a variety of reg
 ## Leading Institutions and Resources
 
 ### Key Institutions
-- **Federal Reserve (https://www.federalreserve.gov/):** The central [bank](../b/bank.md) of the United States, responsible for [monetary policy](../m/monetary_policy.md) and [financial system](../f/financial_system.md) stability.
-- **International Monetary [Fund](../f/fund.md) (IMF) (https://www.imf.org/):** An international organization aimed at promoting global economic stability and growth.
-- **[World Bank](../w/world_bank.md) (https://www.worldbank.org/):** Provides financial and technical assistance to developing countries aiming at reducing [poverty](../p/poverty.md).
+- **Federal Reserve ( The central [bank](../b/bank.md) of the United States, responsible for [monetary policy](../m/monetary_policy.md) and [financial system](../f/financial_system.md) stability.
+- **International Monetary [Fund](../f/fund.md) (IMF) ( An international organization aimed at promoting global economic stability and growth.
+- **[World Bank](../w/world_bank.md) ( Provides financial and technical assistance to developing countries aiming at reducing [poverty](../p/poverty.md).
 
 ### Academic Resources
 Several academic journals and institutions focus on the study and advancement of financial [economics](../e/economics.md), including:
-- **[Journal](../j/journal.md) of [Finance](../f/finance.md) (https://jfin-swufe.springeropen.com/):** A leading academic [journal](../j/journal.md) covering all aspects of [finance](../f/finance.md).
-- **Financial [Economics](../e/economics.md) Network (https://www.ssrn.com/[index](../i/index_instrument.md).cfm/en/fin):** A repository of research papers and working documents in financial [economics](../e/economics.md).
+- **[Journal](../j/journal.md) of [Finance](../f/finance.md) ( A leading academic [journal](../j/journal.md) covering all aspects of [finance](../f/finance.md).
+- **Financial [Economics](../e/economics.md) Network ( A repository of research papers and working documents in financial [economics](../e/economics.md).
 
 ## Conclusion
 Financial [economics](../e/economics.md) is a complex field that integrates economic principles with financial practices to inform investment strategies, corporate policies, and regulatory measures. Its multidimensional nature spans across various segments of [finance](../f/finance.md), [offering](../o/offering.md) critical insights into [market](../m/market.md) behaviors, [risk management](../r/risk_management.md), and economic dynamics.

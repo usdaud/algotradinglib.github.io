@@ -38,15 +38,15 @@ The [yield curve](../y/yield_curve.md) is typically plotted with the [interest r
 
 #### Notable Companies Utilizing Yield Curve Techniques
 
-1. **BlackRock**: BlackRock's impressive Aladdin platform integrates advanced [yield curve](../y/yield_curve.md) models to provide comprehensive [risk management](../r/risk_management.md) and analytics. More information can be found [here](https://www.blackrock.com/aladdin).
+1. **BlackRock**: BlackRock's impressive Aladdin platform integrates advanced [yield curve](../y/yield_curve.md) models to provide comprehensive [risk management](../r/risk_management.md) and analytics. More information can be found here.
 
-2. **Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) leverages sophisticated statistical models, including [yield curve](../y/yield_curve.md) analysis, to inform its [trading strategies](../t/trading_strategies.md). Learn more about Two Sigma [here](https://www.twosigma.com).
+2. **Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) leverages sophisticated statistical models, including [yield curve](../y/yield_curve.md) analysis, to inform its [trading strategies](../t/trading_strategies.md). Learn more about Two Sigma here.
 
-3. **Citadel**: Citadel uses [yield curve](../y/yield_curve.md) techniques as part of its fixed-[income](../i/income.md) and macroeconomic [trading strategies](../t/trading_strategies.md), enhancing their ability to exploit [market](../m/market.md) inefficiencies. Discover more [here](https://www.citadel.com).
+3. **Citadel**: Citadel uses [yield curve](../y/yield_curve.md) techniques as part of its fixed-[income](../i/income.md) and macroeconomic [trading strategies](../t/trading_strategies.md), enhancing their ability to exploit [market](../m/market.md) inefficiencies. Discover more here.
 
-4. **AQR [Capital](../c/capital.md) Management**: AQR integrates [yield curve](../y/yield_curve.md) analysis into its [multi-asset trading](../m/multi-asset_trading.md) strategies, emphasizing evidence-based investment decisions. More information can be found [here](https://www.aqr.com).
+4. **AQR [Capital](../c/capital.md) Management**: AQR integrates [yield curve](../y/yield_curve.md) analysis into its [multi-asset trading](../m/multi-asset_trading.md) strategies, emphasizing evidence-based investment decisions. More information can be found here.
 
-5. **Bridgewater Associates**: Known for its deep macroeconomic insights, Bridgewater uses [yield curve](../y/yield_curve.md) techniques to understand [economic cycles](../e/economic_cycles.md) and inform investment strategies. Learn more [here](https://www.bridgewater.com).
+5. **Bridgewater Associates**: Known for its deep macroeconomic insights, Bridgewater uses [yield curve](../y/yield_curve.md) techniques to understand [economic cycles](../e/economic_cycles.md) and inform investment strategies. Learn more here.
 
 #### Conclusion
 

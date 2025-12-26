@@ -42,7 +42,7 @@ Forward testing involves running the model in a simulated environment using [rea
 - **[Execution](../e/execution.md) Lag**: Differences in simulated [trade](../t/trade.md) [execution](../e/execution.md) speeds versus actual markets can impact results.
 
 #### 3. Stress Testing
-[Stress testing](../s/stress_testing_in_trading.md) evaluates how well the model performs under extreme [market](../m/market.md) conditions, such as financial crises, [flash crashes](../f/flash_crashes.md), or significant economic events. 
+[Stress testing](../s/stress_testing_in_trading.md) evaluates how well the model performs under extreme [market](../m/market.md) conditions, such as financial crises, [flash crashes](../f/flash_crashes.md), or significant economic events.
 
 ##### Methodology
 - **[Scenario Analysis](../s/scenario_analysis.md)**: Creating hypothetical or historical extreme scenarios to test the model.
@@ -67,10 +67,10 @@ When evaluating a [quantitative trading](../q/quantitative_trading.md) model, th
 
 There are numerous tools and platforms available for X-Quant Model Testing, each [offering](../o/offering.md) various features for different aspects of testing:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides cloud-based [backtesting](../b/backtesting.md), integrated data feeds, and a live [trading environment](../t/trading_environment.md). [QuantConnect](https://www.quantconnect.com/)
-- **[TradingView](../t/tradingview.md)**: Offers advanced charting tools, [social trading](../s/social_trading.md) features, and [backtesting](../b/backtesting.md) capabilities. [TradingView](https://www.tradingview.com/)
-- **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for pricing, [risk management](../r/risk_management.md), and model testing. [Quantlib](https://www.quantlib.org/)
-- **[MultiCharts](../m/multicharts.md)**: A professional [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced analysis tools and high-precision [backtesting](../b/backtesting.md) capabilities. [MultiCharts](https://www.multicharts.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides cloud-based [backtesting](../b/backtesting.md), integrated data feeds, and a live [trading environment](../t/trading_environment.md). QuantConnect
+- **[TradingView](../t/tradingview.md)**: Offers advanced charting tools, [social trading](../s/social_trading.md) features, and [backtesting](../b/backtesting.md) capabilities. TradingView
+- **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for pricing, [risk management](../r/risk_management.md), and model testing. Quantlib
+- **[MultiCharts](../m/multicharts.md)**: A professional [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced analysis tools and high-precision [backtesting](../b/backtesting.md) capabilities. MultiCharts
 
 ### Conclusion
 

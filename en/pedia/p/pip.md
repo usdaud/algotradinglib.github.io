@@ -13,9 +13,9 @@ A pip is traditionally considered the smallest price increment that a [currency 
 Understanding pips is crucial for forex traders for several reasons:
 
 1. **[Profit](../p/profit.md) and Loss Calculation**: Pips are the [basis](../b/basis.md) for calculating profits and losses. For example, if you bought the EUR/USD at 1.1000 and sold it at 1.1010, this 10 pip move would determine your [profit](../p/profit.md) (excluding other factors like [spreads](../s/spreads.md) and commissions).
-  
+
 2. **[Risk Management](../r/risk_management.md)**: Pips are used to define [risk management](../r/risk_management.md) strategies, such as stop-loss and take-[profit](../p/profit.md) levels. Determining how many pips you are willing to [risk](../r/risk.md) or aiming to [gain](../g/gain.md) helps in setting these critical [risk management](../r/risk_management.md) tools.
-  
+
 3. **Brokerage Costs**: Most brokerage fees in forex are based on the spread, which is the difference between the [bid and ask](../b/bid_and_ask.md) prices, typically quoted in pips. Thus, understanding pips helps in evaluating the cost of trading through different brokers.
 
 ### Variations in Pip Value
@@ -23,7 +23,7 @@ Understanding pips is crucial for forex traders for several reasons:
 While the 1/100th of a cent is standard for most [currency](../c/currency.md) pairs, exceptions exist for some types of traders and certain [currency](../c/currency.md) pairs:
 
 - **JPY Pairs**: For [currency](../c/currency.md) pairs that include the Japanese yen (e.g., USD/JPY), the second decimal point is typically considered the pip. Therefore, a movement from 105.60 to 105.61 constitutes a one pip change, translating to 0.01 in [value](../v/value.md).
-  
+
 - **Fractional Pips**: Some brokers also [offer](../o/offer.md) "fractional pips" or "pipettes," which are 1/10th of a standard pip. This allows for more precise measurements and tighter [spreads](../s/spreads.md). For EUR/USD, this would mean quoting prices to five decimal places (e.g., 1.10005).
 
 ## Calculation of Pip Value
@@ -33,7 +33,7 @@ While the 1/100th of a cent is standard for most [currency](../c/currency.md) pa
 Generally, pip values can be translated into monetary [value](../v/value.md) based on the lot size. In forex, a standard lot equals 100,000 units of the base [currency](../c/currency.md). For most major pairs, one pip [value](../v/value.md) for one standard lot is approximately $10. This is because a movement of one pip in a full-sized lot translates into a $10 move:
 
 Example:
-- If you [trade](../t/trade.md) the EUR/USD with a standard lot and the [exchange rate](../e/exchange_rate.md) moves 1 pip (from 1.1000 to 1.1001), the [profit](../p/profit.md) or loss would be $10. 
+- If you [trade](../t/trade.md) the EUR/USD with a standard lot and the [exchange rate](../e/exchange_rate.md) moves 1 pip (from 1.1000 to 1.1001), the [profit](../p/profit.md) or loss would be $10.
 
 ### Mini and Micro Lots
 
@@ -54,7 +54,7 @@ For pairs where the USD is the [quote currency](../q/quote_currency.md) and not 
 For instance, if you're trading EUR/GBP:
 
 1. Determine the [exchange rate](../e/exchange_rate.md): Suppose it is 0.85000.
-   
+
 2. Calculate:
 
 \[ \text{Pip [Value](../v/value.md)} = \frac{0.0001} {0.85000} \times 100,000 \approx 11.76 \text{ GBP per pip per standard lot} \]
@@ -72,7 +72,7 @@ Understanding and applying pip values is essential for executing various [tradin
 
 Proper pip measurement equips traders with the ability to conduct [robust](../r/robust.md) [risk](../r/risk.md) assessments. For instance:
 - **[Stop-loss Orders](../s/stop-loss_orders.md)**: By setting a [stop-loss order](../s/stop-loss_order.md) at a certain number of pips away from the entry price, traders can cap their potential losses.
-  
+
 - **Take-[Profit](../p/profit.md) Orders**: Conversely, take-[profit](../p/profit.md) orders can be set at a specific number of pips away from the entry price to [lock in profits](../l/lock_in_profits.md) at a predetermined level.
 
 ### Trading Platforms

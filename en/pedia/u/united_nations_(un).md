@@ -64,6 +64,5 @@ Reform efforts have focused on enhancing [transparency](../t/transparency.md), a
 
 ### Conclusion
 
-The United Nations plays a vital role in promoting international cooperation and addressing global challenges. From maintaining peace and [security](../s/security.md) to promoting sustainable development and human rights, the UN's work affects billions of lives worldwide. As the world confronts new and evolving challenges, the United Nations’ mission remains as crucial as ever, driving collective action towards a more peaceful, equitable, and sustainable future. 
+The United Nations plays a vital role in promoting international cooperation and addressing global challenges. From maintaining peace and [security](../s/security.md) to promoting sustainable development and human rights, the UN's work affects billions of lives worldwide. As the world confronts new and evolving challenges, the United Nations’ mission remains as crucial as ever, driving collective action towards a more peaceful, equitable, and sustainable future.
 
-For more information about the UN and its initiatives, visit the [official United Nations website](https://www.un.org).

@@ -13,7 +13,7 @@ Demographic segmentation divides the [market](../m/market.md) based on measurabl
 - **Gender**: Certain products and services are tailored specifically for men or women.
 - **[Income](../i/income.md)**: Luxury goods target higher-[income](../i/income.md) groups, while [budget](../b/budget.md) products are directed at lower-[income](../i/income.md) segments.
 - **Occupation**: [Marketing](../m/marketing.md) strategies often target professionals with specific needs.
-  
+
 ### 2. Psychographic Segmentation
 Psychographic segmentation categorizes consumers based on their lifestyle, activities, interests, opinions, and values.
 
@@ -22,12 +22,12 @@ Psychographic segmentation categorizes consumers based on their lifestyle, activ
 - **Social Class**: This can dictate the type and quality of products a consumer would purchase.
 
 ### 3. Geographic Segmentation
-Geographic segmentation divides the [market](../m/market.md) based on location such as country, region, city, and neighborhood. 
+Geographic segmentation divides the [market](../m/market.md) based on location such as country, region, city, and neighborhood.
 
 - **Climate**: Products and services vary significantly based on the climate of the region.
 - **Urban vs. Rural**: Different [marketing](../m/marketing.md) strategies are used for urban and rural areas.
 
-### 4. Behavioral Segmentation 
+### 4. Behavioral Segmentation
 Behavioral segmentation classifies consumers based on their knowledge of, attitude towards, use of, or response to a product.
 
 - **Purchase behavior**: Identifying patterns based on purchase history.
@@ -35,7 +35,7 @@ Behavioral segmentation classifies consumers based on their knowledge of, attitu
 - **User status**: Targeting non-users, potential users, first-time users, regular users, etc.
 - **Usage rate**: Heavy, medium, and light users are often targeted with different strategies.
 
-## Importance of Market Segmentation 
+## Importance of Market Segmentation
 Understanding and implementing [market segmentation](../m/market_segmentation.md) can [yield](../y/yield.md) several benefits for businesses:
 
 1. **Enhanced Product Development**: Ability to develop products that are more likely to meet the specific needs of each segment.
@@ -44,7 +44,7 @@ Understanding and implementing [market segmentation](../m/market_segmentation.md
 4. **Increase in [Market Share](../m/market_share.md)**: By targeting specific niches, companies can grow their [market share](../m/market_share.md) effectively.
 5. **[Customer](../c/customer.md) Retention**: Better satisfaction and engagement through personalized [marketing](../m/marketing.md).
 
-## Market Segmentation Process 
+## Market Segmentation Process
 The [market segmentation](../m/market_segmentation.md) process involves several critical steps:
 
 ### Step 1: Identify Market Needs
@@ -83,16 +83,16 @@ Several tools and techniques can assist businesses in performing [market segment
 [Multiple](../m/multiple.md) companies have effectively leveraged [market segmentation](../m/market_segmentation.md) to achieve remarkable success. Here are three prominent examples:
 
 ### Coca-Cola
-Coca-Cola uses a variety of [market segmentation](../m/market_segmentation.md) strategies to appeal to different consumer tastes and preferences. 
-- **Link**: [Coca-Cola Company](https://www.coca-colacompany.com)
+Coca-Cola uses a variety of [market segmentation](../m/market_segmentation.md) strategies to appeal to different consumer tastes and preferences.
+- **Link**: Coca-Cola Company
 
 ### Nike
 Nike segments its [market](../m/market.md) based on factors like geographic location, psychographic attributes, and behavioral tendencies, tailoring its products to elite athletes and casual fitness enthusiasts alike.
-- **Link**: [Nike](https://www.nike.com)
+- **Link**: Nike
 
 ### Apple
 Apple's segmentation strategy focuses on demographic factors such as [income](../i/income.md) level, along with psychographic elements, by creating [premium](../p/premium.md) products aimed at tech-savvy consumers seeking high-quality, innovative gadgets.
-- **Link**: [Apple](https://www.apple.com)
+- **Link**: Apple
 
 ## Challenges in Market Segmentation
 Despite its numerous benefits, [market segmentation](../m/market_segmentation.md) comes with challenges:

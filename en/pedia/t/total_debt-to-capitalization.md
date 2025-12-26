@@ -1,6 +1,6 @@
 # Total Debt-to-Capitalization
 
-Total [Debt](../d/debt.md)-to-[Capitalization](../c/capitalization.md) is a critical financial metric utilized by investors, analysts, and financial professionals to assess the financial [leverage](../l/leverage.md) and overall [risk](../r/risk.md) profile of a company. This ratio provides insight into the extent to which a company is using [debt](../d/debt.md) to [finance](../f/finance.md) its operations compared to its [equity](../e/equity.md). The ratio is particularly valuable for evaluating a company's [capital structure](../c/capital_structure.md), helping to understand how much of the company's funding comes from [debt](../d/debt.md) versus [equity](../e/equity.md). 
+Total [Debt](../d/debt.md)-to-[Capitalization](../c/capitalization.md) is a critical financial metric utilized by investors, analysts, and financial professionals to assess the financial [leverage](../l/leverage.md) and overall [risk](../r/risk.md) profile of a company. This ratio provides insight into the extent to which a company is using [debt](../d/debt.md) to [finance](../f/finance.md) its operations compared to its [equity](../e/equity.md). The ratio is particularly valuable for evaluating a company's [capital structure](../c/capital_structure.md), helping to understand how much of the company's funding comes from [debt](../d/debt.md) versus [equity](../e/equity.md).
 
 ## Definition and Calculation
 
@@ -101,4 +101,4 @@ Apple's Total [Debt](../d/debt.md)-to-[Capitalization](../c/capitalization.md) r
 
 The Total [Debt](../d/debt.md)-to-[Capitalization](../c/capitalization.md) ratio is an invaluable tool for assessing a company's financial [leverage](../l/leverage.md) and [capital structure](../c/capital_structure.md). By understanding this ratio, stakeholders can make informed decisions about the [financial health](../f/financial_health.md), [risk](../r/risk.md), and performance potential of a company. While it provides critical insights, it should be used in conjunction with other financial metrics and [trend analysis](../t/trend_analysis.md) to [gain](../g/gain.md) a comprehensive view of a company's financial position.
 
-For more direct applications and detailed financial information, investors may refer to company filings and [financial statements](../f/financial_statements.md) available on official corporate websites. For instance, more information on Apple's financial status can be found at their [investor relations](../i/investor_relations.md) page: [Apple Investor Relations](https://investor.apple.com/).
+For more direct applications and detailed financial information, investors may refer to company filings and [financial statements](../f/financial_statements.md).

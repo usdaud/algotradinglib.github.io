@@ -1,6 +1,6 @@
 # 3(c)(7) Exemption
 
-The 3(c)(7) [exemption](../e/exemption.md) is a [provision](../p/provision.md) under the [Investment Company Act of 1940](../i/investment_company_act_of_1940.md), which allows certain investment funds to be exempt from registering with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). Specifically, it pertains to investment funds that are exclusively offered to “qualified purchasers.” This [exemption](../e/exemption.md) is a crucial tool for [hedge](../h/hedge.md) funds, [private equity](../p/private_equity.md) funds, and other private funds as it allows them to avoid the rigorous regulatory and reporting requirements applied to public funds. 
+The 3(c)(7) [exemption](../e/exemption.md) is a [provision](../p/provision.md) under the [Investment Company Act of 1940](../i/investment_company_act_of_1940.md), which allows certain investment funds to be exempt from registering with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). Specifically, it pertains to investment funds that are exclusively offered to “qualified purchasers.” This [exemption](../e/exemption.md) is a crucial tool for [hedge](../h/hedge.md) funds, [private equity](../p/private_equity.md) funds, and other private funds as it allows them to avoid the rigorous regulatory and reporting requirements applied to public funds.
 
 ## Qualified Purchasers
 
@@ -36,7 +36,7 @@ Funds must comply with federal anti-[fraud](../f/fraud.md) provisions, specifica
 
 ### Know Your Customer (KYC) and Anti-Money Laundering (AML) Regulations
 
-Even though 3(c)(7) funds are exempt from some SEC requirements, they must comply with KYC and AML regulations to prevent illicit activities such as [money laundering](../m/money_laundering.md) and [fraud](../f/fraud.md). 
+Even though 3(c)(7) funds are exempt from some SEC requirements, they must comply with KYC and AML regulations to prevent illicit activities such as [money laundering](../m/money_laundering.md) and [fraud](../f/fraud.md).
 
 ### Investor Verification
 
@@ -48,7 +48,7 @@ While not as extensive as those for registered funds, 3(c)(7) funds must provide
 
 ## Comparison with 3(c)(1) Exemption
 
-Understanding the nuances between the 3(c)(7) and 3(c)(1) exemptions is crucial for [fund](../f/fund.md) managers deciding on the best structure for regulatory compliance. 
+Understanding the nuances between the 3(c)(7) and 3(c)(1) exemptions is crucial for [fund](../f/fund.md) managers deciding on the best structure for regulatory compliance.
 
 ### Investor Limits
 
@@ -66,11 +66,11 @@ Typically, smaller [hedge](../h/hedge.md) funds, [venture capital funds](../v/ve
 
 ### Bridgewater Associates
 
-Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds in the world, initially relied on the 3(c)(1) [exemption](../e/exemption.md) but transitioned to utilizing exemptions under 3(c)(7) to accommodate a growing number of sophisticated investors who met the qualified purchaser criteria. Their scale and operational complexity necessitated the flexibility provided by the 3(c)(7) [exemption](../e/exemption.md). You can learn more about Bridgewater Associates at their [official website](https://www.bridgewater.com).
+Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds in the world, initially relied on the 3(c)(1) [exemption](../e/exemption.md) but transitioned to utilizing exemptions under 3(c)(7) to accommodate a growing number of sophisticated investors who met the qualified purchaser criteria. Their scale and operational complexity necessitated the flexibility provided by the 3(c)(7) [exemption](../e/exemption.md).
 
 ### The Blackstone Group
 
-The Blackstone Group utilizes the 3(c)(7) [exemption](../e/exemption.md) for many of its [private equity](../p/private_equity.md) and [real estate](../r/real_estate.md) funds, allowing them to raise large pools of [capital](../c/capital.md) from a diverse array of institutional investors and high-net-worth individuals. By adhering to the qualifications and regulations under 3(c)(7), Blackstone can effectively manage numerous investors while capitalizing on higher flexibility in their investment strategies. More information about The Blackstone Group can be found on their [official website](https://www.blackstone.com).
+The Blackstone Group utilizes the 3(c)(7) [exemption](../e/exemption.md) for many of its [private equity](../p/private_equity.md) and [real estate](../r/real_estate.md) funds, allowing them to raise large pools of [capital](../c/capital.md) from a diverse array of institutional investors and high-net-worth individuals. By adhering to the qualifications and regulations under 3(c)(7), Blackstone can effectively manage numerous investors while capitalizing on higher flexibility in their investment strategies.
 
 ## Conclusion
 

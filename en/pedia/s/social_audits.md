@@ -131,19 +131,19 @@ Cultural differences can pose challenges, especially in multinational organizati
 
 Walmart conducts regular social audits of its suppliers to ensure compliance with its [ethical standards](../e/ethical_standards_in_trading.md). These audits focus on labor practices, health and safety, and the environmental impact of supplier operations.
 
-For more information, visit: [Walmart's Ethical Sourcing](https://corporate.walmart.com/sourcing)
+For more information, visit: Walmart's Ethical Sourcing
 
 ### Nike
 
 Nike has implemented a comprehensive social auditing program to monitor labor practices and working conditions in its [supply chain](../s/supply_chain.md). This initiative includes regular audits, worker interviews, and collaboration with NGOs.
 
-For more information, visit: [Nike's Sustainability](https://purpose.nike.com/)
+For more information, visit: Nike's Sustainability
 
 ### Patagonia
 
 Patagonia conducts social audits to ensure that its suppliers adhere to its high standards for labor practices and environmental responsibility. The company publishes the results of these audits in its annual [social responsibility](../s/social_responsibility.md) report.
 
-For more information, visit: [Patagonia's Ironclad Guarantee and Social Responsibility](https://www.patagonia.com/ironclad-guarantee.html)
+For more information, visit: Patagonia's Ironclad Guarantee and Social Responsibility
 
 ## Conclusion
 

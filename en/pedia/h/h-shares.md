@@ -42,15 +42,14 @@ Price discrepancies between H-[shares](../s/shares.md) and [A-shares](../a/a-sha
 
 ### 1. **Industrial and Commercial Bank of China (ICBC)**
 
-ICBC is one of the world’s largest banks by total assets and is dual-[listed](../l/listed.md) on both the Shanghai Stock [Exchange](../e/exchange.md) and the HKEX. [ICBC](https://www.icbc.com.cn/icbc). 
+ICBC is one of the world’s largest banks by total assets and is dual-[listed](../l/listed.md) on both the Shanghai Stock [Exchange](../e/exchange.md) and the HKEX. ICBC.
+### 2. **China Mobile**
 
-### 2. **China Mobile** 
-
-China Mobile is the largest telecommunications operator in China. It is [listed](../l/listed.md) both in Hong Kong and on the New York Stock [Exchange](../e/exchange.md) via American Depositary [Receipts](../r/receipt.md) (ADRs). [China Mobile](https://www.chinamobileltd.com).
+China Mobile is the largest telecommunications operator in China. It is [listed](../l/listed.md) both in Hong Kong and on the New York Stock [Exchange](../e/exchange.md) via American Depositary [Receipts](../r/receipt.md) (ADRs). China Mobile.
 
 ### 3. **PetroChina**
 
-PetroChina is a state-owned oil and gas company and one of the largest companies in China by [market capitalization](../m/market_capitalization.md). It is [listed](../l/listed.md) on the HKEX as well as on the Shanghai Stock [Exchange](../e/exchange.md) and the NYSE. [PetroChina](http://www.petrochina.com.cn).
+PetroChina is a state-owned oil and gas company and one of the largest companies in China by [market capitalization](../m/market_capitalization.md). It is [listed](../l/listed.md) on the HKEX as well as on the Shanghai Stock [Exchange](../e/exchange.md) and the NYSE. PetroChina.
 
 ## Risks and Challenges
 

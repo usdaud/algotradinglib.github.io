@@ -1,10 +1,10 @@
 # Underinsured Motorist Endorsement
 
-In the complex world of [insurance](../i/insurance.md), an Underinsured Motorist (UIM) [Endorsement](../e/endorsement.md) is an essential term that car owners should be aware of. This particular type of coverage comes into play when an accident occurs, and the at-fault driver’s [insurance](../i/insurance.md) is insufficient to cover the damages suffered by the insured party. Understanding the intricacies of an Underinsured Motorist [Endorsement](../e/endorsement.md) can significantly benefit policyholders by providing them with the necessary financial protection in adverse situations. 
+In the complex world of [insurance](../i/insurance.md), an Underinsured Motorist (UIM) [Endorsement](../e/endorsement.md) is an essential term that car owners should be aware of. This particular type of coverage comes into play when an accident occurs, and the at-fault driver’s [insurance](../i/insurance.md) is insufficient to cover the damages suffered by the insured party. Understanding the intricacies of an Underinsured Motorist [Endorsement](../e/endorsement.md) can significantly benefit policyholders by providing them with the necessary financial protection in adverse situations.
 
 ## Understanding the Basics
 
-An Underinsured Motorist [Endorsement](../e/endorsement.md) adds an extra layer of protection to an auto [insurance](../i/insurance.md) policy. It is designed to help cover the gap between the at-fault driver’s [liability](../l/liability.md) limits and the actual expenses incurred from the accident. This [endorsement](../e/endorsement.md) becomes critically important in cases where the other driver's [insurance](../i/insurance.md) is insufficient to cover medical expenses, lost wages, or damage repairs. 
+An Underinsured Motorist [Endorsement](../e/endorsement.md) adds an extra layer of protection to an auto [insurance](../i/insurance.md) policy. It is designed to help cover the gap between the at-fault driver’s [liability](../l/liability.md) limits and the actual expenses incurred from the accident. This [endorsement](../e/endorsement.md) becomes critically important in cases where the other driver's [insurance](../i/insurance.md) is insufficient to cover medical expenses, lost wages, or damage repairs.
 
 ## Importance of UIM Coverage
 

@@ -18,7 +18,7 @@ Moving averages smooth out price data by creating a constantly updated average p
 #### Simple Moving Average (SMA)
 - **Methodology**: The average price over a specified number of periods.
 - **Application**: Used to identify [trend](../t/trend.md) directions. For instance, a rising SMA indicates an upward [trend](../t/trend.md).
-  
+
 #### Exponential Moving Average (EMA)
 - **Methodology**: Gives more weight to recent prices to be more responsive.
 - **Application**: Used for identifying trends with less lag than the SMA.
@@ -105,8 +105,4 @@ Timing models are a fundamental component of [algorithmic trading](../a/algorith
 
 ## References
 
-- **TrendSpider**: [https://www.trendspider.com](https://www.trendspider.com)
-- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
-- **Kaggle**: [https://www.kaggle.com](https://www.kaggle.com)
-- **[Alpha](../a/alpha.md) Vantage**: [https://www.alphavantage.co](https://www.alphavantage.co)
-- **[Quandl](../q/quandl.md)**: [https://www.quandl.com](https://www.quandl.com)
+- **TrendSpider**- **[QuantConnect](../q/quantconnect.md)**- **Kaggle**- **[Alpha](../a/alpha.md) Vantage**- **[Quandl](../q/quandl.md)**

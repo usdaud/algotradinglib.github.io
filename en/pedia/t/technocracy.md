@@ -41,19 +41,19 @@ Several countries and organizations have incorporated technocratic elements in t
 
 Singapore is often cited as a successful example of technocratic governance, blending technocratic principles with democratic elements. The country's governance emphasizes meritocracy, long-term planning, and policy designed based on empirical evidence.
 
-- **Public Service Division (PSD)**: Singapore's PSD emphasizes talent management, ensuring that the civil service is staffed with highly skilled and knowledgeable individuals. [PSD Website](https://www.psd.gov.sg/)
+- **Public Service Division (PSD)**: Singapore's PSD emphasizes talent management, ensuring that the civil service is staffed
 
 ### European Union
 
 Certain elements of the [European Union](../e/european_union_(eu).md) (EU) showcase technocratic governance, particularly within its institutions like the European [Commission](../c/commission.md).
 
-- **European Central [Bank](../b/bank.md) (ECB)**: The ECB's operations are heavily influenced by economic expertise and scientific analysis to ensure monetary stability. [ECB Website](https://www.ecb.europa.eu/)
+- **European Central [Bank](../b/bank.md) (ECB)**: The ECB's operations are heavily influenced by economic expertise
 
 ### China
 
 China incorporates a form of technocratic governance within its one-party political system, focusing heavily on meritocratic advancements in the Communist Party.
 
-- **National Development and Reform [Commission](../c/commission.md) (NDRC)**: The NDRC is a pivotal agency in China that oversees economic and social development policies. [NDRC Website](http://en.ndrc.gov.cn/)
+- **National Development and Reform [Commission](../c/commission.md) (NDRC)**: The NDRC is a pivotal agency in China
 
 ## Technocracy and Technology
 

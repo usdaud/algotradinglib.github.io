@@ -8,7 +8,7 @@ In rule-based trading, also known as algorithmic or [systematic trading](../s/sy
 
 ## Benefits of Rule-Based Trading
 
-### Consistency 
+### Consistency
 One of the most significant benefits of rule-based trading is the consistency it introduces in trading activities. By adhering to a predefined set of rules, traders can consistently apply their strategies without succumbing to [psychological biases](../p/psychological_biases_in_trading.md) or emotional pressures.
 
 ### Speed and Efficiency
@@ -45,7 +45,7 @@ The core of a rule-based trading system is the signal generation component. This
 ### Execution Management
 [Execution](../e/execution.md) management is the process of placing trades in the [market](../m/market.md) after signals are generated. This module ensures that trades are executed at the desired prices using appropriate [order types](../o/order_types_in_trading.md). It may also include mechanisms to minimize [market](../m/market.md) impact and [slippage](../s/slippage.md).
 
-### Risk Management 
+### Risk Management
 [Risk management](../r/risk_management.md) is an integral part of rule-based trading. This component monitors the portfolio to ensure it adheres to [risk](../r/risk.md) parameters. [Stop-loss orders](../s/stop-loss_orders.md), position-sizing rules, and [diversification strategies](../d/diversification_strategies.md) are examples of [risk management](../r/risk_management.md) techniques employed.
 
 ### Performance Monitoring
@@ -60,12 +60,12 @@ Several frameworks and tools are available for developing rule-based [trading sy
 - **MetaTrader:** This [trading platform](../t/trading_platform.md) supports MQL for developing automated [trading strategies](../t/trading_strategies.md).
 - **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source platform [offering](../o/offering.md) resources and a community for [algorithmic trading](../a/algorithmic_trading.md).
 
-**URL:** [QuantConnect](https://www.quantconnect.com/)
+**URL:** QuantConnect
 
 ### Integration with Brokers
 Integration with brokers is essential for the [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md). Many brokers [offer](../o/offer.md) APIs that allow direct communication between rule-based systems and trading platforms. Popular [broker](../b/broker.md) APIs include those from [Interactive Brokers](../i/interactive_brokers.md), [Alpaca](../a/alpaca.md), and TD [Ameritrade](../a/ameritrade.md).
 
-**URL:** [Interactive Brokers](https://www.interactivebrokers.com/)
+**URL:** Interactive Brokers
 
 ### Backtesting and Simulation
 Before deploying a rule-based trading system, it is crucial to backtest the strategy using historical data. This involves running the strategy on past data to evaluate its performance. [Simulation](../s/simulation_in_trading.md) extends [backtesting](../b/backtesting.md) to include virtual trading in live [market](../m/market.md) conditions with simulated [capital](../c/capital.md).
@@ -92,17 +92,17 @@ Latency, or the delay between signal generation and [order](../o/order.md) [exec
 ### Renaissance Technologies
 Renaissance Technologies, founded by Jim Simons, is one of the most successful [hedge](../h/hedge.md) funds using rule-based trading. Their Medallion [Fund](../f/fund.md) has consistently outperformed the [market](../m/market.md), attributed largely to their mathematical and [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-**URL:** [Renaissance Technologies](https://www.rentec.com/)
+**URL:** Renaissance Technologies
 
 ### Two Sigma
 Two Sigma is another leading [hedge fund](../h/hedge_fund.md) that employs advanced rule-based [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) [big data](../b/big_data_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) to develop sophisticated algorithms for trading.
 
-**URL:** [Two Sigma](https://www.twosigma.com/)
+**URL:** Two Sigma
 
 ### Citadel
 Citadel, founded by Kenneth C. Griffin, uses a combination of [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. Their systematic approach has enabled them to achieve high returns and significant [market](../m/market.md) influence.
 
-**URL:** [Citadel](https://www.citadel.com/)
+**URL:** Citadel
 
 ## Future Trends in Rule-Based Trading
 

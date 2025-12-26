@@ -54,12 +54,8 @@ The ECB adopted ZIRP in the wake of the [European sovereign debt crisis](../e/eu
 ### Companies and Institutions
 Several financial companies and institutions analyze and react to ZIRP's implications. Some prominent ones include:
 
-- **Goldman Sachs** ([https://www.goldmansachs.com/](https://www.goldmansachs.com/))
-- **BlackRock** ([https://www.blackrock.com/](https://www.blackrock.com/))
-- **[Fidelity Investments](../f/fidelity_investments.md)** ([https://www.fidelity.com/](https://www.fidelity.com/))
-- **Vanguard Group** ([https://www.vanguard.com/](https://www.vanguard.com/))
-- **JP Morgan Chase & Co.** ([https://www.jpmorganchase.com/](https://www.jpmorganchase.com/))
-
+- **Goldman Sachs** - **BlackRock** - **[Fidelity Investments](../f/fidelity_investments.md)** (
+- **Vanguard Group** - **JP Morgan Chase & Co.**
 These institutions provide research, investment strategies, and financial products tailored to the low-[interest](../i/interest.md)-rate environment brought by ZIRP.
 
 ### Conclusion

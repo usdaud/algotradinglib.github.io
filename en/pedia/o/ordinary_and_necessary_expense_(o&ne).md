@@ -17,32 +17,32 @@ In the context of U.S. tax law, particularly under the Internal [Revenue](../r/r
 ### Examples
 
 1. **Office Supplies**:
-   Purchases such as paper, pens, computers, and other materials required for the operation of an office are considered ordinary and necessary.
+ Purchases such as paper, pens, computers, and other materials required for the operation of an office are considered ordinary and necessary.
 
 2. **Employee Salaries**:
-   Compensation paid to employees, including their bonuses and benefits, constitutes a necessary [expense](../e/expense.md) vital for [business](../b/business.md) operation.
+ Compensation paid to employees, including their bonuses and benefits, constitutes a necessary [expense](../e/expense.md) vital for [business](../b/business.md) operation.
 
 3. **Rent and Utilities**:
-   Payments for office space, utilities (electricity, water, internet), and maintenance costs are usual and necessary for housing the [business](../b/business.md)’s operations.
+ Payments for office space, utilities (electricity, water, internet), and maintenance costs are usual and necessary for housing the [business](../b/business.md)’s operations.
 
 4. **[Travel Expenses](../t/travel_expenses.md)**:
-   Travel costs for [business](../b/business.md) purposes, including airfare, lodging, meals, and transportation, provided they are necessary for meetings, conferences, or client interactions.
+ Travel costs for [business](../b/business.md) purposes, including airfare, lodging, meals, and transportation, provided they are necessary for meetings, conferences, or client interactions.
 
 5. **Legal and Professional Fees**:
-   Costs for legal advice, [accounting](../a/accounting.md) fees, and other consulting services that support the [business](../b/business.md)’s operations and compliance.
+ Costs for legal advice, [accounting](../a/accounting.md) fees, and other consulting services that support the [business](../b/business.md)’s operations and compliance.
 
 ### Non-Deductible Expenses
 
-Not all expenses qualify as deductible, even if they seem necessary. Personal expenses, [capital](../c/capital.md) expenditures, and illegal payments cannot be deducted. 
+Not all expenses qualify as deductible, even if they seem necessary. Personal expenses, [capital](../c/capital.md) expenditures, and illegal payments cannot be deducted.
 
 1. **Personal, Living, or Family Expenses**:
-   Costs that are personal in nature can't be deducted even if they include [business](../b/business.md)-related activities.
+ Costs that are personal in nature can't be deducted even if they include [business](../b/business.md)-related activities.
 
 2. **[Capital](../c/capital.md) Expenditures**:
-   Investments in [long-term assets](../l/long-term_assets.md) like property, equipment, or vehicles are capitalized and depreciated over time, rather than being deducted as current expenses.
+ Investments in [long-term assets](../l/long-term_assets.md) like property, equipment, or vehicles are capitalized and depreciated over time, rather than being deducted as current expenses.
 
 3. **Illegal Payments**:
-   Bribes, kickbacks, or payments made in violation of the law are explicitly non-deductible.
+ Bribes, kickbacks, or payments made in violation of the law are explicitly non-deductible.
 
 ## Importance for Businesses
 
@@ -66,27 +66,27 @@ The IRS scrutinizes deductions claimed as ordinary and necessary, particularly f
 
 ## Advanced Considerations in Accounting
 
-For businesses engaged in more complex operations and financial practices, such as [algorithmic trading](../a/accountability.md) or fintech services, understanding and documenting expenses becomes even more critical.
+For businesses engaged in more complex operations and financial practices, such as [algorithmic trading](../a/algorithmic_trading.md) or fintech services, understanding and documenting expenses becomes even more critical.
 
 ### Algorithmic Trading Firms
 
-[Algorithmic trading](../a/accountability.md) firms may have unique expenses, including:
+[Algorithmic trading](../a/algorithmic_trading.md) firms may have unique expenses, including:
 
 - **Technology [Infrastructure](../i/infrastructure.md)**:
-  Costs for servers, high-speed internet, and specialized software subscriptions.
-  
+ Costs for servers, high-speed internet, and specialized software subscriptions.
+
 - **Research and Development**:
-  Expenses related to developing new [trading algorithms](../t/trading_algorithms.md), including salaries for data scientists and research teams.
+ Expenses related to developing new [trading algorithms](../t/trading_algorithms.md), including salaries for data scientists and research teams.
 
 ### Fintech Companies
 
 Fintech companies deal with:
 
 - **Regulatory Compliance**:
-  Costs to comply with financial regulations, including legal consultations and software for monitoring financial transactions.
-  
+ Costs to comply with financial regulations, including legal consultations and software for monitoring financial transactions.
+
 - **[Data Security](../d/data_security_in_trading.md)**:
-  Investments in cybersecurity measures, data encryption, and [insurance](../i/insurance.md) against data breaches.
+ Investments in cybersecurity measures, data encryption, and [insurance](../i/insurance.md) against data breaches.
 
 ### International Tax Considerations
 

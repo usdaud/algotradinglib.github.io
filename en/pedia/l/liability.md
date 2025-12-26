@@ -22,7 +22,7 @@ Liability, in the context of [finance](../f/finance.md) and trading, refers to a
 2. **Bonds Payable:** Debts that a company has issued in the form of bonds.
 3. **Deferred Tax Liabilities:** [Taxes](../t/taxes.md) that are assessed or due for [payment](../p/payment.md) for future periods.
 4. **Pension Liabilities:** [Obligations](../o/obligation.md) related to employee retirement plans.
-  
+
 ## Liabilities in Financial Statements
 
 ### Balance Sheet
@@ -68,7 +68,6 @@ Governments and regulating bodies impose various regulations to ensure that firm
 ### Example: Liability for Technology Companies
 
 For technology companies, liabilities can be found on their financial websites. For example, Apple Inc.'s liabilities can be explored through their official financial documents:
-- [Apple Inc. Investor Relations](https://investor.apple.com/investor-relations/default.aspx)
 
 ## Conclusion
 

@@ -11,9 +11,9 @@ Groupon was founded in Chicago in November 2008 by Andrew Mason, Eric Lefkofsky,
 Groupon's [business](../b/business.md) model hinges on [offering](../o/offering.md) significant discounts on popular local services and products by leveraging bulk purchasing capabilities. Unlike traditional coupon services where a [discount](../d/discount.md) applies automatically, Groupon offers daily deals that must reach a tipping point before becoming valid. Here’s a more detailed breakdown of the unique components that make up Groupon’s model:
 
 - **Deal-of-the-Day**: The primary and most popular product offered by Groupon is the ‘Deal of the Day’, which features a heavily discounted local service or product for 24 hours.
-  
+
 - **Collective Bargaining**: Groupon negotiates [discount](../d/discount.md) deals with local businesses. These deals require a minimum number of customers to purchase before the deal is valid, leveraging collective [buying power](../b/buying_power.md).
-  
+
 - **[Revenue](../r/revenue.md) Model**: Groupon earns [revenue](../r/revenue.md) by taking a cut of each deal sold. Typically, merchants agree to provide goods or services at significantly reduced prices, anticipating increased foot traffic and future repeat [business](../b/business.md).
 
 - **Merchant Benefits**: For merchants, Groupon offers an innovative way to attract new customers and ensure higher [visibility](../v/visibility.md). The idea is that once customers use the Groupon, they [will](../w/will.md) come back and pay full price, leading to long-term benefits for the [business](../b/business.md).
@@ -22,7 +22,6 @@ Groupon's [business](../b/business.md) model hinges on [offering](../o/offering.
 
 Groupon’s operations are highly dependent on technology to manage the vast array of deals daily. Key technological components include:
 
-- **Website and Mobile App**: Groupon’s website and mobile applications are the central platforms for all their services. Subscribers use these platforms to browse, purchase, and redeem deals.
 
 - **Personalization**: Advanced algorithms [offer](../o/offer.md) tailored deals to users based on their location, previous purchases, and [interest](../i/interest.md) profiles.
 
@@ -50,15 +49,15 @@ Groupon's rise to prominence hasn't been without its challenges and criticisms. 
 
 Groupon has seen changes in [leadership](../l/leadership.md) reflecting its evolutionary trajectory. Prominent figures include:
 
-- **Andrew Mason**: Co-founder and original CEO, whose [leadership](../l/leadership.md) saw the rapid rise of Groupon.
-- **Eric Lefkofsky**: Co-founder and once Chief Executive Officer, who took over after Mason's departure.
+- **Andrew Mason**: Co-founder and original CEO (2008-2013), whose [leadership](../l/leadership.md) saw the rapid rise of Groupon.
+- **Eric Lefkofsky**: Co-founder and CEO (2013-2015), who took over after Mason's departure.
 - **Rich Williams**: Served as CEO from 2015 to 2020 during a period of strategic refocus.
-- **Aaron Cooper**: Interim CEO as of 2020, focusing on [operational efficiency](../o/operational_efficiency_in_trading.md) and revamping Groupon's [business](../b/business.md) model.
+- **Kedar Deshpande**: CEO since 2022, leading the company's continued transformation and focus on local experiences marketplace.
 
 ## Future Prospects
 
 Groupon continues to explore new avenues and strategies to remain relevant and profitable in an increasingly competitive e-[commerce](../c/commerce.md) environment. Future directions may include enhanced merchant relationships, advanced personalization, strategic partnerships, and expanded product offerings.
 
-For more detailed information about Groupon and its latest updates, visit their official website: [Groupon](https://www.groupon.com).
+For more detailed information about Groupon and its latest updates,
 
 By maintaining innovation and addressing past criticisms, Groupon aims to consolidate its position as a leading player in the deals subscription [market](../m/market.md) while [offering](../o/offering.md) unbeatable [value](../v/value.md) to both merchants and consumers.

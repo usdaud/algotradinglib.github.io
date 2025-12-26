@@ -101,7 +101,7 @@ Urban planners often use shadow pricing to estimate the [economic value](../e/ec
 Shadow pricing is an indispensable tool in [economics](../e/economics.md), [finance](../f/finance.md), and policy-making. It bridges the gap between [market](../m/market.md) and non-[market](../m/market.md) goods, allowing decision-makers to incorporate the [value](../v/value.md) of intangible resources into their analyses. Despite the challenges, shadow pricing provides a framework for more informed and efficient resource allocation, contributing to economic development and sustainable growth.
 
 For more information on shadow pricing and how it is applied in different fields:
-- [Environmental Protection Agency (EPA)](https://www.epa.gov)
-- [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov)
+- Environmental Protection Agency (EPA)
+- National Oceanic and Atmospheric Administration (NOAA)
 
 Understanding and effectively applying shadow pricing can lead to better decision-making processes that promote both [economic efficiency](../e/economic_efficiency.md) and social [welfare](../w/welfare.md). By addressing the [value](../v/value.md) of non-[market](../m/market.md) goods, policymakers and businesses can make more informed choices that reflect the full [range](../r/range.md) of benefits and costs associated with their actions.

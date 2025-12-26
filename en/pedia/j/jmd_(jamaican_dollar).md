@@ -4,7 +4,7 @@
 
 The Jamaican Dollar, abbreviated as JMD, is the official [currency](../c/currency.md) of Jamaica. The symbol for the [currency](../c/currency.md) is $ or J$, and it is further subdivided into 100 cents. The Jamaican Dollar has a fascinating history tied to the island's colonial past and has evolved significantly since it was first introduced.
 
-[Algorithmic trading](../a/accountability.md), often referred to as algo trading, involves the use of complex algorithms and software to automate trading decisions in [financial markets](../f/financial_market.md). The Jamaican Dollar, like other currencies, is subject to trading in the global forex [market](../m/market.md), and consequently, it is of [interest](../i/interest.md) to algorithmic traders. 
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, involves the use of complex algorithms and software to automate trading decisions in [financial markets](../f/financial_market.md). The Jamaican Dollar, like other currencies, is subject to trading in the global forex [market](../m/market.md), and consequently, it is of [interest](../i/interest.md) to algorithmic traders.
 
 ## History and Evolution of the Jamaican Dollar
 
@@ -12,7 +12,7 @@ The Jamaican Dollar was introduced in 1969, replacing the Jamaican Pound at a ra
 
 ### Notable Historical Changes
 
-- **Early Years**: In its early years, the JMD was pegged to the US dollar, but this peg was eventually removed, leading to a more volatile [exchange rate](../e/exchange_rate.md). 
+- **Early Years**: In its early years, the JMD was pegged to the US dollar, but this peg was eventually removed, leading to a more volatile [exchange rate](../e/exchange_rate.md).
 - **1980s and 1990s**: The [currency](../c/currency.md) experienced various economic challenges due to political and economic instabilities, which affected its [value](../v/value.md) significantly.
 
 ## The Jamaican Dollar in the Forex Market
@@ -32,7 +32,7 @@ The Jamaican Dollar is traded in the global [foreign exchange](../f/foreign_exch
 
 - **[Trend Following](../t/trend_following.md)**: This strategy involves tracking [market](../m/market.md) trends and making trading decisions based on the identified direction of [market](../m/market.md) movement. For JMD, this can involve monitoring [economic indicators](../e/economic_indicators.md) from Jamaica.
 - **[Mean Reversion](../m/mean_reversion.md)**: This strategy is based on the assumption that [asset](../a/asset.md) prices [will](../w/will.md) revert to their mean over time. Historical data on JMD can be used to identify the average price and predict reversion points.
-- **[Arbitrage](../a/arbitrage.md)**: Involves the simultaneous purchase and [sale](../s/sale.md) of the JMD across different markets to exploit price differences. 
+- **[Arbitrage](../a/arbitrage.md)**: Involves the simultaneous purchase and [sale](../s/sale.md) of the JMD across different markets to exploit price differences.
 - **High-Frequency Trading (HFT)**: Uses sophisticated algorithms to make rapid trading decisions. HFT can [capitalize](../c/capitalize.md) on small price discrepancies in the JMD [market](../m/market.md) due to its relatively lower [liquidity](../l/liquidity.md) compared to major currencies.
 
 ### Key Components in Developing JMD Algo Trading Systems
@@ -43,7 +43,7 @@ The Jamaican Dollar is traded in the global [foreign exchange](../f/foreign_exch
 
 ## Tools and Technologies for Trading JMD
 
-Several tools and technologies are available to facilitate [algorithmic trading](../a/accountability.md) in the Jamaican Dollar. These tools help in developing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
+Several tools and technologies are available to facilitate [algorithmic trading](../a/algorithmic_trading.md) in the Jamaican Dollar. These tools help in developing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
 
 ### Programming Languages
 
@@ -54,8 +54,8 @@ Several tools and technologies are available to facilitate [algorithmic trading]
 ### Trading Platforms
 
 - **MetaTrader (MT4/MT5)**: Offers automated trading through Expert Advisors (EAs) that can be programmed to execute trades based on predefined conditions.
-- **[cTrader](../c/ctrader.md)**: Provides [algorithmic trading](../a/accountability.md) capabilities with its cAlgo tool, which allows for coding in C#.
-- **[Interactive Brokers](../i/interactive_brokers.md)** (link: [Interactive Brokers](https://www.interactivebrokers.com)): Offers a [robust](../r/robust.md) API that supports [multiple](../m/multiple.md) programming languages for developing custom [trading algorithms](../t/trading_algorithms.md).
+- **[cTrader](../c/ctrader.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) capabilities with its cAlgo tool, which allows for coding in C#.
+- **[Interactive Brokers](../i/interactive_brokers.md)** (link: Interactive Brokers): Offers a [robust](../r/robust.md) API that supports [multiple](../m/multiple.md) programming languages for developing custom [trading algorithms](../t/trading_algorithms.md).
 
 ### Data Providers
 
@@ -92,8 +92,8 @@ The JMD can be subject to high [volatility](../v/volatility.md) due to economic 
 
 ## Future Prospects of JMD in Algorithmic Trading
 
-The evolving economic landscape of Jamaica and technological advancements in trading platforms promise exciting possibilities for JMD in the [algorithmic trading](../a/accountability.md) space. With increasing integration of AI and [machine learning](../m/machine_learning.md) in [trading systems](../t/trading_systems.md), there is potential for even more sophisticated and precise [trading strategies](../t/trading_strategies.md) involving JMD.
+The evolving economic landscape of Jamaica and technological advancements in trading platforms promise exciting possibilities for JMD in the [algorithmic trading](../a/algorithmic_trading.md) space. With increasing integration of AI and [machine learning](../m/machine_learning.md) in [trading systems](../t/trading_systems.md), there is potential for even more sophisticated and precise [trading strategies](../t/trading_strategies.md) involving JMD.
 
 ### Conclusion
 
-[Algorithmic trading](../a/accountability.md) of the Jamaican Dollar involves leveraging historical data, [economic indicators](../e/economic_indicators.md), and advanced computational tools to design profitable [trading strategies](../t/trading_strategies.md). Despite challenges such as [liquidity](../l/liquidity.md) and data availability, the JMD presents unique opportunities for traders willing to delve into the intricacies of this [currency](../c/currency.md). As technology advances and [financial markets](../f/financial_market.md) continue to evolve, the role of JMD in [algorithmic trading](../a/accountability.md) is poised to expand, [offering](../o/offering.md) new avenues for financial growth and innovation.
+[Algorithmic trading](../a/algorithmic_trading.md) of the Jamaican Dollar involves leveraging historical data, [economic indicators](../e/economic_indicators.md), and advanced computational tools to design profitable [trading strategies](../t/trading_strategies.md). Despite challenges such as [liquidity](../l/liquidity.md) and data availability, the JMD presents unique opportunities for traders willing to delve into the intricacies of this [currency](../c/currency.md). As technology advances and [financial markets](../f/financial_market.md) continue to evolve, the role of JMD in [algorithmic trading](../a/algorithmic_trading.md) is poised to expand, [offering](../o/offering.md) new avenues for financial growth and innovation.

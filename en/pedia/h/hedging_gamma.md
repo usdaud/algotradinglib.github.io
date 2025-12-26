@@ -7,7 +7,7 @@
 To fully appreciate [gamma hedging](../g/gamma_hedging.md), it's crucial to first understand [delta](../d/delta.md) and [gamma](../g/gamma.md):
 
 - **[Delta](../d/delta.md) (Δ)**: This metric represents the rate of change of an option's price with respect to changes in the price of the [underlying asset](../u/underlying_asset.md). For example, an option with a [delta](../d/delta.md) of 0.5 [will](../w/will.md) move $0.50 for every $1.00 move in the [underlying asset](../u/underlying_asset.md). Deltas [range](../r/range.md) from -1 to 1.
-- **[Gamma](../g/gamma.md) (Γ)**: This metric measures the rate of change of [delta](../d/delta.md) with respect to changes in the price of the [underlying asset](../u/underlying_asset.md). Since [delta](../d/delta.md) itself can change based on the [underlying asset](../u/underlying_asset.md)'s price movements, [gamma](../g/gamma.md) provides valuable insight into the stability of [delta](../d/delta.md). 
+- **[Gamma](../g/gamma.md) (Γ)**: This metric measures the rate of change of [delta](../d/delta.md) with respect to changes in the price of the [underlying asset](../u/underlying_asset.md). Since [delta](../d/delta.md) itself can change based on the [underlying asset](../u/underlying_asset.md)'s price movements, [gamma](../g/gamma.md) provides valuable insight into the stability of [delta](../d/delta.md).
 
 High [gamma](../g/gamma.md) values indicate that [delta](../d/delta.md) is sensitive to movements in the [underlying asset](../u/underlying_asset.md)'s price, leading to potential large swings in portfolio [value](../v/value.md) if unmanaged.
 
@@ -120,9 +120,9 @@ Leveraging [machine learning](../m/machine_learning.md) and [artificial intellig
 
 Some high-frequency trading firms specialize in automated [gamma hedging](../g/gamma_hedging.md) strategies, executing trades at lightning speed to [capitalize](../c/capitalize.md) on small [market](../m/market.md) movements. Notable firms include:
 
-- **Citadel Securities**: [website](https://www.citadelsecurities.com/)
-- **Virtu Financial**: [website](https://www.virtu.com/)
-- **[Jump Trading](../j/jump_trading.md)**: [website](https://www.jumptrading.com/)
+- **Citadel Securities**
+- **Virtu Financial**
+- **[Jump Trading](../j/jump_trading.md)**
 
 ### Blockchain and Distributed Ledger Technology
 

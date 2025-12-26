@@ -66,5 +66,5 @@ Unlisted equities [offer](../o/offer.md) a unique investment avenue with their o
 
 ### Resources and Further Reading
 
-- [SpaceX](https://www.spacex.com/)
-- [Stripe](https://stripe.com/)
+- SpaceX
+- Stripe

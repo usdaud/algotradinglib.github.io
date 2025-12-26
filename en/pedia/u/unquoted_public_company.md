@@ -1,14 +1,14 @@
 # Unquoted Public Company
 
-An unquoted [public company](../p/public_company.md), also known as an unlisted [public company](../p/public_company.md), is a type of [business](../b/business.md) structure that is recognized in many jurisdictions. Despite being designated as a [public company](../p/public_company.md), it does not have its [shares](../s/shares.md) traded on any formal stock [exchange](../e/exchange.md). This unique structure has implications from [corporate governance](../c/corporate_governance.md), regulatory compliance, [stakeholder](../s/stakeholder.md) engagement, and [capital](../c/capital.md) raising perspectives. 
+An unquoted [public company](../p/public_company.md), also known as an unlisted [public company](../p/public_company.md), is a type of [business](../b/business.md) structure that is recognized in many jurisdictions. Despite being designated as a [public company](../p/public_company.md), it does not have its [shares](../s/shares.md) traded on any formal stock [exchange](../e/exchange.md). This unique structure has implications from [corporate governance](../c/corporate_governance.md), regulatory compliance, [stakeholder](../s/stakeholder.md) engagement, and [capital](../c/capital.md) raising perspectives.
 
 ## Key Characteristics
 
 ### Public Without a Listing
-An unquoted [public company](../p/public_company.md) has completed the formal process of registering as a [public company](../p/public_company.md) under relevant regulatory authorities but has chosen not to list its [shares](../s/shares.md) on any public stock [exchange](../e/exchange.md). They may instead rely on private transactions to raise [capital](../c/capital.md) or [trade](../t/trade.md) [shares](../s/shares.md). 
+An unquoted [public company](../p/public_company.md) has completed the formal process of registering as a [public company](../p/public_company.md) under relevant regulatory authorities but has chosen not to list its [shares](../s/shares.md) on any public stock [exchange](../e/exchange.md). They may instead rely on private transactions to raise [capital](../c/capital.md) or [trade](../t/trade.md) [shares](../s/shares.md).
 
 ### Regulatory Compliance
-Even though they are not [listed](../l/listed.md), these companies often still have to adhere to several regulatory requirements meant to ensure [transparency](../t/transparency.md), [corporate governance](../c/corporate_governance.md), and [shareholder](../s/shareholder.md) rights. This can include filing annual reports, holding annual general meetings (AGMs), and conforming to audit requirements. 
+Even though they are not [listed](../l/listed.md), these companies often still have to adhere to several regulatory requirements meant to ensure [transparency](../t/transparency.md), [corporate governance](../c/corporate_governance.md), and [shareholder](../s/shareholder.md) rights. This can include filing annual reports, holding annual general meetings (AGMs), and conforming to audit requirements.
 
 ### Shareholder Rights
 Shareholders of unquoted public companies generally [hold](../h/hold.md) the same rights as those in publicly [listed](../l/listed.md) companies, including voting on significant corporate actions, dividends, and access to certain forms of financial information.
@@ -50,16 +50,16 @@ In some cases, an unquoted [public company](../p/public_company.md) may conduct 
 Several well-known companies have operated as unquoted public companies at different points in their journey. It is important to consider that some organizations may toggle between [listed](../l/listed.md) and unlisted statuses based on their strategic needs.
 
 1. **Cargill, Inc.**
-   Cargill is one of the largest privately-held corporations in the United States, known for its food processing capabilities. At various points, it has exhibited characteristics of an unquoted public entity.
-   - [Cargill](https://www.cargill.com)
+ Cargill is one of the largest privately-held corporations in the United States, known for its food processing capabilities. At various points, it has exhibited characteristics of an unquoted public entity.
+ - Cargill
 
 2. **Mars, Inc.**
-   A global manufacturer of confectionery, pet food, and other food products, Mars is another large company that has maintained privacy while operating with [public company](../p/public_company.md)-like governance.
-   - [Mars](https://www.mars.com)
+ A global manufacturer of confectionery, pet food, and other food products, Mars is another large company that has maintained privacy while operating with [public company](../p/public_company.md)-like governance.
+ - Mars
 
 3. **Deloitte LLP**
-   Deloitte has a complex structure involving [multiple](../m/multiple.md) privately held partnerships with public oversight, often blending characteristics of both unquoted and privately held firms.
-   - [Deloitte](https://www2.deloitte.com)
+ Deloitte has a complex structure involving [multiple](../m/multiple.md) privately held partnerships with public oversight, often blending characteristics of both unquoted and privately held firms.
+ - Deloitte
 
 ## Legal Frameworks
 

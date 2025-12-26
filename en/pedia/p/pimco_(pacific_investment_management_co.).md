@@ -63,7 +63,7 @@ With offices in major financial centers around the world, including New York, Lo
 PIMCO leverages advanced technology to enhance its investment processes, improve [efficiency](../e/efficiency.md), and drive innovation. This includes the use of:
 
 - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md):** To analyze large datasets and extract meaningful investment insights.
-- **[Algorithmic Trading](../a/accountability.md):** To execute trades with precision and speed.
+- **[Algorithmic Trading](../a/algorithmic_trading.md):** To execute trades with precision and speed.
 - **[Big Data Analytics](../b/big_data_analytics_in_trading.md):** For comprehensive [market research](../m/market_research.md) and predictive analysis.
 
 ## Awards and Recognition
@@ -80,11 +80,8 @@ The PIMCO Foundation supports initiatives aimed at improving communities globall
 
 ## Conclusion
 
-PIMCO stands as a pillar in the [investment management](../i/investment_management.md) [industry](../i/industry.md), renowned for its expertise in [fixed income](../f/fixed_income.md) and diverse [range](../r/range.md) of investment products. With a strong focus on research, [risk management](../r/risk_management.md), and technological integration, PIMCO continues to drive [value](../v/value.md) for its clients globally. For more information, visit their official website: [PIMCO](https://www.pimco.com).
+PIMCO stands as a pillar in the [investment management](../i/investment_management.md) [industry](../i/industry.md), renowned for its expertise in [fixed income](../f/fixed_income.md) and diverse [range](../r/range.md) of investment products. With a strong focus on research, [risk management](../r/risk_management.md), and technological integration, PIMCO continues to drive [value](../v/value.md) for its clients globally.
 
 ---
 
 PIMCO exemplifies the convergence of seasoned [investment management](../i/investment_management.md) with cutting-edge technology, [offering](../o/offering.md) [robust](../r/robust.md) strategies that adapt to ever-changing [market dynamics](../m/market_dynamics.md). Through its commitment to innovation, [risk management](../r/risk_management.md), and corporate responsibility, PIMCO remains a trusted partner for investors worldwide.
-
-
-

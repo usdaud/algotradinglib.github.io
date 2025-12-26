@@ -38,16 +38,16 @@ For companies dealing with physical products, an [inventory](../i/inventory.md) 
 
 ### Goodwill Write-Down
 
-[Goodwill](../g/goodwill.md) represents the [premium](../p/premium.md) paid over the [fair value](../f/fair_value.md) of net identifiable assets during an [acquisition](../a/acquisition.md). If the acquired company or division doesn’t perform as expected, a [goodwill](../g/goodwill.md) write-down may be necessary. 
+[Goodwill](../g/goodwill.md) represents the [premium](../p/premium.md) paid over the [fair value](../f/fair_value.md) of net identifiable assets during an [acquisition](../a/acquisition.md). If the acquired company or division doesn’t perform as expected, a [goodwill](../g/goodwill.md) write-down may be necessary.
 
 In 2018, Kraft Heinz reported a major $15 billion write-down primarily due to [goodwill impairment](../g/goodwill_impairment.md). This monumental write-down highlighted significant overvaluation issues related to past acquisitions and brand [valuation](../v/valuation.md).
 
-## Write-Down vs. Write-Off 
+## Write-Down vs. Write-Off
 
 While the terms are often used interchangeably, they have distinct meanings:
 
 - **Write-Down**: A partial reduction in the [value](../v/value.md) of an [asset](../a/asset.md). The [asset](../a/asset.md) still retains some recoverable [value](../v/value.md).
-- **[Write-Off](../w/write-off.md)**: Represents a complete [devaluation](../d/devaluation.md) of an [asset](../a/asset.md), implying that the [asset](../a/asset.md) is no longer recoverable or has no [market value](../m/market_value.md). 
+- **[Write-Off](../w/write-off.md)**: Represents a complete [devaluation](../d/devaluation.md) of an [asset](../a/asset.md), implying that the [asset](../a/asset.md) is no longer recoverable or has no [market value](../m/market_value.md).
 
 For example, if a [loan](../l/loan.md) is deemed irrecoverable, the [lender](../l/lender.md) might write off the entire amount. Conversely, if only part of the [loan](../l/loan.md) is expected to be uncollectible, a write-down of the expected uncollectible portion would be made.
 
@@ -65,7 +65,7 @@ Companies can adopt several measures to minimize the need for write-downs:
 
 ## Write-Downs in the Context of Algorithmic Trading
 
-In the domain of [algorithmic trading](../a/accountability.md), understanding write-downs is vital for several reasons:
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), understanding write-downs is vital for several reasons:
 
 1. **[Portfolio Management](../p/par.md)**: Algorithms designed for managing investment portfolios must account for potential write-downs to reassess [asset allocation](../a/asset_allocation.md) and rebalance the portfolio accordingly.
 2. **[Risk](../r/risk.md) Assessment**: Incorporating write-down forecasts can enhance the [risk assessment models](../r/risk_assessment_models.md), allowing algorithms to preemptively adjust [trading strategies](../t/trading_strategies.md).
@@ -73,4 +73,4 @@ In the domain of [algorithmic trading](../a/accountability.md), understanding wr
 
 ## Conclusion
 
-Write-downs are a fundamental aspect of [financial accounting](../f/financial_accounting.md), ensuring assets' values are reflected accurately on [financial statements](../f/financial_statements.md). They help companies manage and report losses due to [asset](../a/asset.md) [devaluation](../d/devaluation.md), providing a clearer financial picture to investors, stakeholders, and regulators. Understanding write-downs, their causes, and their impacts are crucial for anyone involved in [financial analysis](../f/financial_analysis.md), [accounting](../a/accounting.md), and investment. In the world of [algorithmic trading](../a/accountability.md), effectively integrating write-down considerations into [trading strategies](../t/trading_strategies.md) can lead to more [robust](../r/robust.md) and resilient [trading models](../t/trading_models.md).
+Write-downs are a fundamental aspect of [financial accounting](../f/financial_accounting.md), ensuring assets' values are reflected accurately on [financial statements](../f/financial_statements.md). They help companies manage and report losses due to [asset](../a/asset.md) [devaluation](../d/devaluation.md), providing a clearer financial picture to investors, stakeholders, and regulators. Understanding write-downs, their causes, and their impacts are crucial for anyone involved in [financial analysis](../f/financial_analysis.md), [accounting](../a/accounting.md), and investment. In the world of [algorithmic trading](../a/algorithmic_trading.md), effectively integrating write-down considerations into [trading strategies](../t/trading_strategies.md) can lead to more [robust](../r/robust.md) and resilient [trading models](../t/trading_models.md).

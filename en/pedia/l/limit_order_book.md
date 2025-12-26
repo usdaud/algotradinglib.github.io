@@ -9,7 +9,7 @@ A [limit order](../l/limit_order.md) to buy is placed below the current [market 
 The [limit order](../l/limit_order.md) book is typically organized into two columns: bids and asks.
 
 - **[Bid](../b/bid.md) Side**: This column lists all the buy orders. Each entry includes the price at which a [trader](../t/trader.md) is willing to buy the [asset](../a/asset.md) and the quantity they want to purchase at that price.
-  
+
 - **Ask Side**: This column lists all the sell orders. Each entry includes the price at which a [trader](../t/trader.md) is willing to sell the [asset](../a/asset.md) and the quantity they want to sell at that price.
 
 The LOB is sorted by price levels, with the highest [bid](../b/bid.md) prices at the top of the [bid](../b/bid.md) side and the lowest ask prices at the top of the ask side. This organization helps traders quickly assess the best available prices for buying and selling.
@@ -19,13 +19,13 @@ The LOB is sorted by price levels, with the highest [bid](../b/bid.md) prices at
 ### Market Orders and Limit Orders
 
 - **[Market](../m/market.md) Orders**: These are orders to buy or sell immediately at the best available price. They do not specify a price and are matched against the existing limit orders in the LOB.
-  
+
 - **Limit Orders**: These specify a price at which the [trader](../t/trader.md) is willing to buy or sell. These orders are added to the LOB and [will](../w/will.md) only be executed if the [market price](../m/market_price.md) reaches the specified limit price.
 
 ### Best Bid and Best Ask
 
 - **Best [Bid](../b/bid.md)**: The highest price at which someone is willing to buy an [asset](../a/asset.md).
-  
+
 - **Best Ask**: The lowest price at which someone is willing to sell an [asset](../a/asset.md).
 
 The difference between the best [bid](../b/bid.md) and the best ask is known as the **[bid-ask spread](../b/bid-ask_spread.md)**. A narrower spread typically indicates higher [liquidity](../l/liquidity.md).
@@ -60,19 +60,19 @@ HFT firms rely heavily on the LOB to execute large volumes of trades at very hig
 
 The [NASDAQ](../n/nasdaq.md) [exchange](../e/exchange.md) operates an electronic [limit order](../l/limit_order.md) book where all buy and sell orders are organized and matched. [NASDAQ](../n/nasdaq.md) provides detailed LOB data to traders and firms for analytical purposes, helping them devise [trading strategies](../t/trading_strategies.md) based on the [order](../o/order.md) flow and depth.
 
-Website: [NASDAQ](http://www.nasdaq.com/)
+online platform: NASDAQ
 
 ### New York Stock Exchange (NYSE)
 
 The NYSE also operates a hybrid [market](../m/market.md) that combines a physical trading floor with an electronic LOB. Traders can place limit orders through the [exchange](../e/exchange.md)’s electronic system, which are then visible in the LOB.
 
-Website: [NYSE](https://www.nyse.com/)
+online platform: NYSE
 
 ### Binance
 
 In the cryptocurrency [market](../m/market.md), exchanges like [Binance](../b/binance.md) maintain LOBs for various digital assets. Traders can view detailed [order book](../o/order_book.md) data to make informed decisions about buying and selling cryptocurrencies.
 
-Website: [Binance](https://www.binance.com/)
+online platform: Binance
 
 ## Challenges and Considerations
 

@@ -23,7 +23,7 @@ An [order book](../o/order_book.md) is an electronic list of buy and sell orders
 [Market](../m/market.md) makers are participants who continuously provide buy and sell quotes to ensure [liquidity](../l/liquidity.md) and smoother trading. Their role is crucial in maintaining [market](../m/market.md) stability.
 
 - **Role of [Market](../m/market.md) Makers**: They [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md) and help reduce [volatility](../v/volatility.md) by being ready to [trade](../t/trade.md) at publicly quoted prices.
-- [Virtu Financial](https://www.virtu.com/) is an example of a prominent [firm](../f/firm.md) acting as a [market maker](../m/market_maker.md) in modern [financial markets](../f/financial_market.md).
+- Virtu Financial is an example of a prominent [firm](../f/firm.md) acting as a [market maker](../m/market_maker.md) in modern [financial markets](../f/financial_market.md).
 
 #### 4. Price Discovery Mechanism
 [Price discovery](../p/price_discovery.md) refers to the process through which [market](../m/market.md) prices are determined, reflecting all available information.
@@ -52,7 +52,7 @@ High-frequency trading involves executing a large number of orders at extremely 
 
 - **Latency [Arbitrage](../a/arbitrage.md)**: Exploiting delays in the dissemination of [market](../m/market.md) information.
 - **Statistical [Arbitrage](../a/arbitrage.md)**: [Quantitative investment strategies](../q/quantitative_investment_strategies.md) aiming to [profit](../p/profit.md) from price anomalies.
-- [Citadel Securities](https://www.citadelsecurities.com/) is a leading [firm](../f/firm.md) in the HFT space.
+- Citadel Securities is a leading [firm](../f/firm.md) in the HFT space.
 
 ### Applications of Microstructure Theory
 
@@ -89,7 +89,7 @@ The regulatory landscape shapes how microstructure theory is applied in practice
 
 - **[Market Manipulation](../m/market_manipulation.md)**: Practices such as [spoofing](../s/spoofing.md) and layering that distort [market](../m/market.md) prices and trading behavior.
 - **Best [Execution](../e/execution.md)**: Regulatory requirement ensuring brokers execute orders at the best possible terms for their clients.
-- [FINRA](https://www.finra.org/): The Financial [Industry](../i/industry.md) Regulatory Authority, a U.S. regulator overseeing brokerage firms and [exchange](../e/exchange.md) markets.
+- FINRA: The Financial [Industry](../i/industry.md) Regulatory Authority, a U.S. regulator overseeing brokerage firms and [exchange](../e/exchange.md) markets.
 
 ### Conclusion
 
@@ -97,6 +97,6 @@ Microstructure theory provides a [robust](../r/robust.md) framework for understa
 
 ### References
 
-1. [Virtu Financial](https://www.virtu.com/)
-2. [Citadel Securities](https://www.citadelsecurities.com/)
-3. [FINRA](https://www.finra.org/)
+1. Virtu Financial
+2. Citadel Securities
+3. FINRA

@@ -112,7 +112,7 @@ Individual investors may also purchase zero coupon bonds, especially those looki
 
 The [U.S. Treasury](../u/u.s._treasury.md) issues STRIPS (Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) Securities), which are zero coupon bonds derived from traditional Treasury securities.
 
-- [U.S. Treasury](https://www.treasurydirect.gov)
+- U.S. Treasury
 
 #### Municipalities
 

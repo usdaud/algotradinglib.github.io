@@ -62,8 +62,8 @@ Compliance with these regulations ensures that [trust](../t/trust.md) companies 
 
 With advancements in technology, digital [trust](../t/trust.md) companies have emerged, providing a tech-savvy alternative to traditional [trust](../t/trust.md) services. These companies use digital platforms to manage assets, [offer](../o/offer.md) [estate planning](../e/estate_planning.md) tools, and provide financial advice online. Examples include:
 
-- **Betterment [Trust](../t/trust.md) Services** ([Betterment](https://www.betterment.com/))
-- **Personal [Capital](../c/capital.md) [Trust](../t/trust.md) Services** ([Personal Capital](https://www.personalcapital.com/))
+- **Betterment [Trust](../t/trust.md) Services** (Betterment)
+- **Personal [Capital](../c/capital.md) [Trust](../t/trust.md) Services** (Personal Capital)
 
 ### 2. **Automation and AI**
 
@@ -83,5 +83,5 @@ As [trust](../t/trust.md) companies [handle](../h/handle.md) sensitive financial
 
 For more information about specific [trust](../t/trust.md) companies and their services, you can visit their websites, such as:
 
-- [Northern Trust Corporation](https://www.northerntrust.com/)
-- [BNY Mellon Wealth Management](https://www.bnymellonwealth.com/)
+- Northern Trust Corporation
+- BNY Mellon Wealth Management

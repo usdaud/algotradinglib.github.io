@@ -38,13 +38,13 @@ Disputes among [joint account](../j/joint_account.md) holders can be challenging
 ## Algotrading and Fintech Applications
 
 ### Algorithmic Trading
-In the world of [algorithmic trading](../a/accountability.md), undivided accounts can be used by trading firms or investment groups to manage pooled resources efficiently. Having an undivided account allows the [trading algorithms](../t/trading_algorithms.md) to operate seamlessly without individual permissions slowing down the process.
+In the world of [algorithmic trading](../a/algorithmic_trading.md), undivided accounts can be used by trading firms or investment groups to manage pooled resources efficiently. Having an undivided account allows the [trading algorithms](../t/trading_algorithms.md) to operate seamlessly without individual permissions slowing down the process.
 
 ### Fintech Solutions
 Fintech companies have developed a myriad of solutions to simplify the management of undivided accounts. Apps and platforms now [offer](../o/offer.md) features like real-time notifications, expenditure tracking, and automated budgeting tools to help [joint account](../j/joint_account.md) holders manage their finances more effectively.
 
 ### Case Study: Splitwise
-Splitwise is a popular app that helps users manage shared expenses by automatically dividing costs and keeping track of who owes what. While not a [financial account](../f/financial_account.md) per se, Splitwise's functionality illustrates the growing importance of fintech solutions in managing shared financial arrangements. You can learn more about Splitwise at their [official website](https://www.splitwise.com).
+Splitwise is a popular app that helps users manage shared expenses by automatically dividing costs and keeping track of who owes what. While not a [financial account](../f/financial_account.md) per se, Splitwise's functionality illustrates the growing importance of fintech solutions in managing shared financial arrangements.
 
 ## Considerations for Opening an Undivided Account
 
@@ -58,4 +58,4 @@ Formalizing the arrangement with a written agreement can provide additional prot
 All parties involved in an undivided account should have a good understanding of financial management to avoid potential pitfalls. [Joint](../j/joint.md) educational sessions or consultations with financial advisors can be beneficial.
 
 ## Conclusion
-Undivided accounts [offer](../o/offer.md) a flexible and convenient way for [multiple](../m/multiple.md) individuals or entities to manage shared resources. However, they come with inherent risks and legal complexities that must be carefully navigated. With the rise of fintech solutions and [algorithmic trading](../a/accountability.md), managing undivided accounts has become more streamlined, but the importance of [trust](../t/trust.md), communication, and legal safeguards cannot be overstated. For those willing to embrace the collaborative nature of undivided accounts, the benefits can be significant.
+Undivided accounts [offer](../o/offer.md) a flexible and convenient way for [multiple](../m/multiple.md) individuals or entities to manage shared resources. However, they come with inherent risks and legal complexities that must be carefully navigated. With the rise of fintech solutions and [algorithmic trading](../a/algorithmic_trading.md), managing undivided accounts has become more streamlined, but the importance of [trust](../t/trust.md), communication, and legal safeguards cannot be overstated. For those willing to embrace the collaborative nature of undivided accounts, the benefits can be significant.

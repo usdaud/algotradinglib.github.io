@@ -14,7 +14,7 @@ The Gibraltar Pound, abbreviated as GIP and denoted by the symbol £, is pegged 
 
 The issuance and regulation of the Gibraltar Pound are overseen by the Government of Gibraltar, specifically the Treasury Department. The [currency](../c/currency.md) is backed by the reserves held in British pounds, ensuring stability and confidence both locally and internationally.
 
-**Learn more:** [Government of Gibraltar Treasury Department](https://www.gibraltar.gov.gi/new/treasury)
+**Learn more:** Government of Gibraltar Treasury Department
 
 ### Exchange and Usage
 
@@ -28,19 +28,19 @@ The GIP is accepted throughout Gibraltar alongside the British Pound. Given its 
 
 One of the cornerstones of Gibraltar's [economy](../e/economy.md) is its [robust](../r/robust.md) financial services sector. Leveraging its favorable tax environment and [robust](../r/robust.md) regulatory framework, Gibraltar has attracted international banks, [insurance](../i/insurance.md) firms, and investment companies. The territory's Financial Services [Commission](../c/commission.md) (GFSC) ensures compliance with EU and international standards.
 
-**Learn more:** [Gibraltar Financial Services Commission](https://www.gfsc.gi/)
+**Learn more:** Gibraltar Financial Services Commission
 
 #### Online Gaming
 
 Gibraltar is also renowned as a leading hub for the online gaming [industry](../i/industry.md). Its regulatory environment, combined with favorable [taxation](../t/taxation.md) and high-speed internet [infrastructure](../i/infrastructure.md), makes it an attractive location for major players in the sector. Renowned companies like bet365, 888 [Holdings](../h/holdings.md), and Lottoland have substantial operations in Gibraltar.
 
-**Learn more:** [Gibraltar Licensing Authority](https://www.gibraltar.gov.gi/new/gambling-division)
+**Learn more:** Gibraltar Licensing Authority
 
 #### Tourism
 
 Tourism plays a significant role in Gibraltar's [economy](../e/economy.md), attracting visitors with its rich history, unique natural landscape, and strategic location. Key tourist attractions include the Rock of Gibraltar, the Upper Rock Nature Reserve, and the Gibraltar Museum.
 
-**Learn more:** [Gibraltar Tourist Board](http://www.visitgibraltar.gi/)
+**Learn more:** Gibraltar Tourist Board
 
 ### Trade and Import-Export
 

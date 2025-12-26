@@ -88,7 +88,7 @@ Advanced cybersecurity measures, including encrypted communication and multi-[fa
 ## Case Study: Use of Omnibus Accounts
 
 ### Fidelity Investments
-[Fidelity Investments](../f/fidelity_investments.md), a well-known financial services [corporation](../c/corporation.md), utilizes omnibus accounts to manage large volumes of trades and settlements efficiently. By pooling client assets into omnibus accounts, Fidelity ensures streamlined processing, cost-effectiveness, and enhanced client privacy. For more information, you can visit [Fidelity Investments](https://www.fidelity.com/).
+[Fidelity Investments](../f/fidelity_investments.md), a well-known financial services [corporation](../c/corporation.md), utilizes omnibus accounts to manage large volumes of trades and settlements efficiently. By pooling client assets into omnibus accounts, Fidelity ensures streamlined processing, cost-effectiveness, and enhanced client privacy. For more information, you can visit Fidelity Investments.
 
 ## Conclusion
 

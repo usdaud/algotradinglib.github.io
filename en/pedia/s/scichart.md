@@ -53,6 +53,3 @@ SciChart employs [robust](../r/robust.md) [security](../s/security.md) measures 
 - **Data Encryption**: Advanced encryption technologies to secure sensitive information.
 - **Secure Software Development**: Adherence to [best practices](../b/best_practices.md) in secure software development to prevent vulnerabilities.
 - **Regular Updates**: Continuous updates and patches to address [security](../s/security.md) vulnerabilities and enhance functionality.
-
-## Website
-For more information about SciChart and their services, visit the official website: [SciChart](https://www.scichart.com/)

@@ -9,7 +9,7 @@ An [Equity](../e/equity.md)-Linked [Note](../n/note.md) (ELN) is a structured fi
 1. **[Principal](../p/principal.md) Amount**: This is the initial investment amount in the ELN, often referred to as the [face value](../f/face_value.md).
 2. **[Maturity Date](../m/maturity_date.md)**: The date on which the ELN matures and the [investor](../i/investor.md) is repaid the [principal](../p/principal.md) amount, subject to the performance of the linked [equity](../e/equity.md).
 3. **Linked [Equity](../e/equity.md)**: The specific stock, basket of [stocks](../s/stock.md), or [equity](../e/equity.md) [index](../i/index_instrument.md) to which the performance of the ELN is tied.
-4. **[Interest](../i/interest.md)/[Dividend](../d/dividend.md) Payments**: Some ELNs may [offer](../o/offer.md) periodic [interest](../i/interest.md) payments, which could be fixed or variable based on the performance of the linked [equity](../e/equity.md). 
+4. **[Interest](../i/interest.md)/[Dividend](../d/dividend.md) Payments**: Some ELNs may [offer](../o/offer.md) periodic [interest](../i/interest.md) payments, which could be fixed or variable based on the performance of the linked [equity](../e/equity.md).
 
 ### Types of ELNs
 
@@ -27,7 +27,7 @@ ELNs are typically issued by financial institutions such as [investment banks](.
 ### Performance Calculation
 
 The [return](../r/return.md) on an ELN is usually linked to the performance of a particular [equity](../e/equity.md) or a basket of equities. This linkage can be realized in various ways:
- 
+
 1. **Direct [Correlation](../c/correlation.md)**: The [return](../r/return.md) is directly tied to the price change of the linked [equity](../e/equity.md).
 2. **Option-Based**: The [return](../r/return.md) is calculated based on the [payout](../p/payout.md) of an embedded option within the ELN, such as a call or [put option](../p/put.md) on the linked [equity](../e/equity.md).
 
@@ -86,19 +86,19 @@ ELNs can be structured to provide tax benefits. Depending on the jurisdiction an
 Several major financial institutions are known for issuing [Equity](../e/equity.md)-Linked Notes. These institutions typically have a strong [credit rating](../c/credit_rating.md), providing a degree of [assurance](../a/assurance.md) to investors about the [security](../s/security.md) of their investment. Some of the well-known issuers include:
 
 1. **J.P. Morgan**:
-   Website: [J.P. Morgan Structured Investments](https://www.jpmorgan.com/wealth-management/structured-investments)
+ online platform: J.P. Morgan Structured Investments
 
 2. **Goldman Sachs**:
-   Website: [Goldman Sachs Structured Products](https://www.goldmansachs.com/what-we-do/investment-management/private-wealth-management/structured-products/)
+ online platform: Goldman Sachs Structured Products
 
 3. **Morgan Stanley**:
-   Website: [Morgan Stanley Structured Investments](https://www.morganstanley.com/wealth-investmentsolutions/structured-products/)
+ online platform: Morgan Stanley Structured Investments
 
 4. **Citibank**:
-   Website: [Citi Structured Products](https://www.citi.com/investmentservices/structured-solutions)
+ online platform: Citi Structured Products
 
 5. **[UBS](../u/ubs.md)**:
-   Website: [UBS Structured Products](https://www.ubs.com/global/en/wealth-management/investments/structured-products.html)
+ online platform: UBS Structured Products
 
 ## Conclusion
 

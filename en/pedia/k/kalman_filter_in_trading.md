@@ -25,13 +25,13 @@ Where:
 - \( \hat{x}_{k|k} \) is the updated state estimate at time \( k \)
 - \( P_{k|k-1} \) is the predicted error [covariance](../c/covariance.md) at time \( k \)
 - \( P_{k|k} \) is the updated error [covariance](../c/covariance.md) at time \( k \)
-- \( A \) is the state transition model which applies to the previous state \( \hat{x}_{k-1} \) 
+- \( A \) is the state transition model which applies to the previous state \( \hat{x}_{k-1} \)
 - \( B \) is the control input model which applies to the control input \( u_{k-1} \)
-- \( Q \) is the process [noise](../n/noise.md) [covariance](../c/covariance.md) 
-- \( H \) is the observation model which maps the true state space into the observed space 
-- \( R \) is the measurement [noise](../n/noise.md) [covariance](../c/covariance.md) 
+- \( Q \) is the process [noise](../n/noise.md) [covariance](../c/covariance.md)
+- \( H \) is the observation model which maps the true state space into the observed space
+- \( R \) is the measurement [noise](../n/noise.md) [covariance](../c/covariance.md)
 - \( K_k \) is the [Kalman Gain](../k/kalman_gain_in_trading.md) at time \( k \)
-- \( I \) is the identity matrix 
+- \( I \) is the identity matrix
 
 #### Application of Kalman Filter in Trading
 
@@ -90,11 +90,11 @@ print(filtered_prices)
 
 #### Integration with Trading Platforms
 
-Platforms such as [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) and MetaTrader 5 (https://www.metaquotes.net/en/[metatrader5](../m/metatrader5.md)) can integrate Kalman Filter-based strategies for [algorithmic trading](../a/algorithmic_trading.md). These platforms [offer](../o/offer.md) extensive libraries and APIs for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) that implement Kalman Filters.
+Platforms such as [QuantConnect](../q/quantconnect.md) and MetaTrader 5 ( can integrate Kalman Filter-based strategies for [algorithmic trading](../a/algorithmic_trading.md). These platforms [offer](../o/offer.md) extensive libraries and APIs for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) that implement Kalman Filters.
 
 ##### QuantConnect Integration
 
-[QuantConnect](../q/quantconnect.md) provides tools that allow traders to backtest and implement [algorithmic trading](../a/algorithmic_trading.md) strategies using high-resolution financial data. Incorporating the Kalman Filter into such strategies involves coding and integrating it within the [QuantConnect](../q/quantconnect.md) framework, which supports languages like Python and C#.
+[QuantConnect](../q/quantconnect.md) provides tools that allow traders to backtest and implement [algorithmic trading](../a/algorithmic_trading.md) strategies using high-resolution financial data. Incorporating the Kalman Filter into such strategies involves coding and integrating it within the [QuantConnect](../q/quantconnect.md) framework, which supports C#.
 
 Example (Pseudo-Code):
 ```python

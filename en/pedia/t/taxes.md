@@ -1,6 +1,6 @@
 # Taxes
 
-Taxes are mandatory financial charges or levies imposed by a government on individuals, businesses, and other entities to [fund](../f/fund.md) public expenditures. They are a crucial aspect of any [economy](../e/economy.md), providing the [revenue](../r/revenue.md) needed for government functions, [infrastructure](../i/infrastructure.md) development, public services, and [welfare](../w/welfare.md) programs. Understanding how taxes work is essential for personal [financial planning](../f/financial_planning.md), [business](../b/business.md) operations, and investment strategies. This document [will](../w/will.md) delve into different types of taxes, their purposes, and implications, with a focus on those relevant to [finance](../f/finance.md) and trading, including [algorithmic trading](../a/accountability.md) and financial technology (fintech).
+Taxes are mandatory financial charges or levies imposed by a government on individuals, businesses, and other entities to [fund](../f/fund.md) public expenditures. They are a crucial aspect of any [economy](../e/economy.md), providing the [revenue](../r/revenue.md) needed for government functions, [infrastructure](../i/infrastructure.md) development, public services, and [welfare](../w/welfare.md) programs. Understanding how taxes work is essential for personal [financial planning](../f/financial_planning.md), [business](../b/business.md) operations, and investment strategies. This document [will](../w/will.md) delve into different types of taxes, their purposes, and implications, with a focus on those relevant to [finance](../f/finance.md) and trading, including [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech).
 
 ## Types of Taxes
 
@@ -67,7 +67,7 @@ Day traders frequently buy and sell securities within the same trading day. This
 
 ### Algorithmic Trading and Tax Considerations
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute trades at high speeds. While it offers [efficiency](../e/efficiency.md) and consistency, it also presents unique tax challenges.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute trades at high speeds. While it offers [efficiency](../e/efficiency.md) and consistency, it also presents unique tax challenges.
 
 - **High-Frequency Trading Tax**: Jurisdictions considering the FTT target high-frequency trades to curb [market](../m/market.md) excesses and generate [revenue](../r/revenue.md).
 - **Software and Hardware Deductions**: Traders can often deduct the costs of trading software, hardware, and related expenses.

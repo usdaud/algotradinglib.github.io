@@ -144,4 +144,3 @@ The TWSE faces several challenges but also numerous opportunities for growth:
 
 The Taiwan Stock [Exchange](../e/exchange.md) plays a vital role in Taiwan's economic development and is a critical component of the global financial [market](../m/market.md). With its [robust](../r/robust.md) [infrastructure](../i/infrastructure.md), transparent regulatory environment, and commitment to innovation, the TWSE is poised to continue its growth and prominence on the world stage.
 
-For more information, visit the [Taiwan Stock Exchange Official Website](https://www.twse.com.tw/en/).

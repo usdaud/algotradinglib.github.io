@@ -7,9 +7,9 @@ An [underwriter](../u/underwriter.md) [syndicate](../s/syndicate.md), also known
 An [underwriter](../u/underwriter.md) [syndicate](../s/syndicate.md) typically consists of:
 
 - **Lead [Underwriter](../u/underwriter.md)(s):** Also known as the book-running manager, this entity is primarily responsible for coordinating the arrangement of the [syndicate](../s/syndicate.md) and managing the process of the securities [offering](../o/offering.md). The lead [underwriter](../u/underwriter.md) is also responsible for pricing the securities, [marketing](../m/marketing.md) the [issue](../i/issue.md) to investors, and distributing the securities among the [syndicate](../s/syndicate.md) members. The lead [underwriter](../u/underwriter.md) takes on the largest share of the [risk](../r/risk.md) and often earns the highest fees.
-  
+
 - **Co-Managers:** These are additional underwriters who work with the lead [underwriter](../u/underwriter.md) to oversee the issuance process. Co-managers provide additional [distribution](../d/distribution.md) channels and share in the [underwriting](../u/underwriting.md) [risk](../r/risk.md) to a lesser extent compared to the lead [underwriter](../u/underwriter.md).
-  
+
 - **Selling Group Members:** These are firms that do not assume any [underwriting](../u/underwriting.md) [risk](../r/risk.md) but assist in the [sale](../s/sale.md) of the securities. They earn a selling concession for the securities they sell.
 
 ## Roles and Responsibilities
@@ -92,7 +92,7 @@ A formal [syndicate](../s/syndicate.md) agreement is drawn up, outlining the rol
 
 One of the most notable examples of an [underwriter](../u/underwriter.md) [syndicate](../s/syndicate.md) at work is the Facebook IPO in 2012. Facebook selected Morgan Stanley as the lead [underwriter](../u/underwriter.md), with Goldman Sachs, J.P. Morgan, and others serving as co-managers. The [syndicate](../s/syndicate.md) helped Facebook successfully raise $16 billion, making it one of the largest technology IPOs in history. The consortium of underwriters played a crucial role in setting the [offering price](../o/offering_price.md), [marketing](../m/marketing.md) the [shares](../s/shares.md), and managing the [distribution](../d/distribution.md) of the securities.
 
-For further information on Morgan Stanley's role and its operations, you can visit their official website: [Morgan Stanley](https://www.morganstanley.com).
+
 
 ## Challenges and Criticisms
 
@@ -120,7 +120,7 @@ Technological advancements, such as [blockchain](../b/blockchain_in_trading.md) 
 
 ### Fintech Integration
 
-The integration of fintech solutions is enabling more streamlined and efficient [underwriting](../u/underwriting.md) processes. Platforms that [offer](../o/offer.md) [algorithmic trading](../a/accountability.md), real-time analytics, and automated compliance checks are reducing the time and cost associated with [underwriting](../u/underwriting.md).
+The integration of fintech solutions is enabling more streamlined and efficient [underwriting](../u/underwriting.md) processes. Platforms that [offer](../o/offer.md) [algorithmic trading](../a/algorithmic_trading.md), real-time analytics, and automated compliance checks are reducing the time and cost associated with [underwriting](../u/underwriting.md).
 
 ### ESG Considerations
 

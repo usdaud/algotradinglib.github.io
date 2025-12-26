@@ -2,7 +2,7 @@
 
 The Discounted [Payback Period](../p/payback_period.md) (DPP) is a financial metric used to evaluate the [risk](../r/risk.md) and profitability of an investment project. While the traditional [payback period](../p/payback_period.md) simply measures the time required for an investment to generate an amount of [cash flow](../c/cash_flow.md) sufficient to recover the initial investment, the DPP refines this by considering the [time value](../t/time_value.md) of [money](../m/money.md) (TVM). In essence, the DPP calculates the time required to break even in Net [Present Value](../p/present_value.md) (NPV) terms.
 
-## Definition and Formula 
+## Definition and Formula
 
 The Discounted [Payback Period](../p/payback_period.md) is the time it takes for the discounted cash flows of a project to cover the initial investment cost. Unlike the simple [payback period](../p/payback_period.md), which ignores the timing and [risk](../r/risk.md) of cash flows, the DPP discounts the cash flows at a specific [discount rate](../d/discount_rate.md), usually aligned with the company's [cost of capital](../c/cost_of_capital.md).
 
@@ -19,7 +19,7 @@ Where:
 - \( I \) = Initial investment
 - \( t \) = Time periods (years, months, etc.)
 
-### Steps to Calculate 
+### Steps to Calculate
 
 1. **Identify the Initial Investment**: Determine the initial outlay for the project.
 2. **Choose the Appropriate [Discount Rate](../d/discount_rate.md)**: Typically, the company’s [Weighted Average](../w/weighted_average.md) [Cost of Capital](../c/cost_of_capital.md) (WACC) is used as the [discount rate](../d/discount_rate.md).
@@ -59,7 +59,7 @@ Since the cumulative discounted [cash flow](../c/cash_flow.md) of $8,983 by the 
 
 ## Applications in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), the DPP can be used to ascertain the viability of [trading strategies](../t/trading_strategies.md), particularly those requiring substantial initial [capital](../c/capital.md) for technology, data [acquisition](../a/acquisition.md), and [infrastructure](../i/infrastructure.md) development. 
+In the realm of [algorithmic trading](../a/accountability.md), the DPP can be used to ascertain the viability of [trading strategies](../t/trading_strategies.md), particularly those requiring substantial initial [capital](../c/capital.md) for technology, data [acquisition](../a/acquisition.md), and [infrastructure](../i/infrastructure.md) development.
 
 ### Case Study Example: Trading Algorithms
 

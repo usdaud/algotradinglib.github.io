@@ -1,17 +1,17 @@
 # Paradox of Thrift
 
-The Paradox of Thrift is an economic theory that suggests that if everyone tries to save more [money](../m/money.md) during a [recession](../r/recession.md), [aggregate demand](../a/aggregate_demand.md) [will](../w/will.md) fall, and this [will](../w/will.md), in turn, lower total savings in the [economy](../e/economy.md). This paradoxical situation occurs because while it's beneficial for individuals to save [money](../m/money.md), if everyone saves more instead of spending, it can lead to a decrease in overall economic output, leading to lower [income](../i/income.md) and thus lower overall savings. The concept is rooted in [Keynesian economics](../k/keynesian_economics_in_trading.md) and was popularized by British [economist](../e/economist.md) [John Maynard Keynes](../j/john_maynard_keynes.md) in the 20th century. 
+The Paradox of Thrift is an economic theory that suggests that if everyone tries to save more [money](../m/money.md) during a [recession](../r/recession.md), [aggregate demand](../a/aggregate_demand.md) [will](../w/will.md) fall, and this [will](../w/will.md), in turn, lower total savings in the [economy](../e/economy.md). This paradoxical situation occurs because while it's beneficial for individuals to save [money](../m/money.md), if everyone saves more instead of spending, it can lead to a decrease in overall economic output, leading to lower [income](../i/income.md) and thus lower overall savings. The concept is rooted in [Keynesian economics](../k/keynesian_economics_in_trading.md) and was popularized by British [economist](../e/economist.md) [John Maynard Keynes](../j/john_maynard_keynes.md) in the 20th century.
 
 ## The Theory
 
 The Paradox of Thrift specifically deals with the aggregate behavior of individuals and the overall impact on the [economy](../e/economy.md). When people collectively decide to save more [money](../m/money.md):
 
 1. **Reduction in Consumption**: Individual saving leads to a reduction in consumption expenditure, which is a major component of [aggregate demand](../a/aggregate_demand.md). When [aggregate demand](../a/aggregate_demand.md) decreases, businesses experience lower sales.
-  
+
 2. **Decrease in [Business](../b/business.md) Revenues**: Lower sales volumes reduce the revenues for businesses, which can force them to cut expenses, including laying off employees and cutting back on investments.
-  
+
 3. **Increased [Unemployment](../u/unemployment.md)**: As businesses cut costs and reduce their workforce, [unemployment](../u/unemployment.md) rises, leading to a further decrease in aggregate [income](../i/income.md) and consumption.
-  
+
 4. **Cycle of Decline**: This creates a vicious cycle where decreased spending leads to lower production, thereby leading to lower [income](../i/income.md) and further reducing consumption and aggregate savings.
 
 ## Implications of the Paradox
@@ -25,9 +25,9 @@ The key insight from the Paradox of Thrift is the dichotomy between the microeco
 Governments and central banks often need to consider the Paradox of Thrift when making fiscal and monetary policies:
 
 1. **Stimulus Packages**: Governments might need to inject [money](../m/money.md) into the [economy](../e/economy.md) through stimulus packages to encourage spending and investment when the [economy](../e/economy.md) is in a downturn.
-  
+
 2. **[Interest](../i/interest.md) Rates**: Central banks may lower [interest](../i/interest.md) rates to make borrowing more attractive than saving, stimulating investment and spending.
-  
+
 3. **Public Spending**: Increased government spending on [infrastructure](../i/infrastructure.md) or public services can [offset](../o/offset.md) reduced private consumption.
 
 ## Historical Context
@@ -57,9 +57,9 @@ During the COVID-19 pandemic, many economies witnessed a similar phenomenon. Wit
 While the Paradox of Thrift is an influential theory, it is not without criticisms:
 
 1. **Long-Term Savings and Investment**: Critics argue that higher saving can lead to greater pool of resources available for investments in the long term, which is beneficial for [economic growth](../e/economic_growth.md).
-  
-2. **[Supply](../s/supply.md)-Side Factors**: Some economists argue that focusing on [aggregate demand](../a/aggregate_demand.md) neglects [supply](../s/supply.md)-side factors that also influence economic stability and growth. 
-  
+
+2. **[Supply](../s/supply.md)-Side Factors**: Some economists argue that focusing on [aggregate demand](../a/aggregate_demand.md) neglects [supply](../s/supply.md)-side factors that also influence economic stability and growth.
+
 3. **Crowding Out**: There is a concern that increased government spending could "crowd out" private investment by driving up [interest](../i/interest.md) rates.
 
 ## Conclusion

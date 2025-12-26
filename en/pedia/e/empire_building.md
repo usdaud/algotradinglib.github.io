@@ -46,19 +46,19 @@ Empire building in [algorithmic trading](../a/accountability.md) represents the 
 
 Renaissance Technologies, founded by James Simons, exemplifies empire building within the realm of [algorithmic trading](../a/accountability.md). Known for its Medallion [Fund](../f/fund.md), Renaissance utilizes a vast array of [quantitative models](../q/quantitative_models.md) and data-driven strategies to achieve superior returns. The [firm](../f/firm.md)'s growth is marked by its significant investments in technology, research, and an unparalleled focus on talent [acquisition](../a/acquisition.md).
 
-For more information: [Renaissance Technologies](https://www.rentec.com)
+For more information: Renaissance Technologies
 
 ### Two Sigma
 
 Two Sigma, co-founded by David Siegel and John Overdeck, operates at the intersection of technology and [finance](../f/finance.md). With a heavy emphasis on engineering and [data science](../d/data_science_in_trading.md), Two Sigma continuously expands its trading capabilities and [market](../m/market.md) presence, evidencing a strategic initiative to build a trading empire.
 
-For more information: [Two Sigma](https://www.twosigma.com)
+For more information: Two Sigma
 
 ### Citadel Securities
 
 Under the [leadership](../l/leadership.md) of Ken Griffin, Citadel Securities has grown into a formidable power in [market](../m/market.md)-making and high-frequency trading. Its empire-building strategies include extensive investments in IT [infrastructure](../i/infrastructure.md), cutting-edge [trading algorithms](../t/trading_algorithms.md), and a commitment to recruiting top-tier talent.
 
-For more information: [Citadel Securities](https://www.citadelsecurities.com)
+For more information: Citadel Securities
 
 ## Challenges and Risks of Empire Building
 

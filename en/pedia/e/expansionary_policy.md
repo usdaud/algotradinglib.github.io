@@ -24,7 +24,7 @@ Expansionary policy is a macroeconomic policy that seeks to expand the [money su
 Expansionary policy is often used to encourage [economic growth](../e/economic_growth.md) during periods of [recession](../r/recession.md) or economic slowdown. By increasing the [money supply](../m/money_supply.md) and lowering [interest](../i/interest.md) rates, the policy aims to make borrowing cheaper and more accessible, thereby stimulating consumption and investment. Increased consumption boosts [demand](../d/demand.md) for goods and services, while increased investment implies higher production capacity and job creation.
 
 ### Combat Unemployment
-Higher economic activity driven by increased [demand](../d/demand.md) and investment often leads to job creation and reduction in [unemployment](../u/unemployment.md) rates. This is particularly essential during economic downturns when businesses lay off workers due to reduced activity. 
+Higher economic activity driven by increased [demand](../d/demand.md) and investment often leads to job creation and reduction in [unemployment](../u/unemployment.md) rates. This is particularly essential during economic downturns when businesses lay off workers due to reduced activity.
 
 ### Counter Deflation
 [Deflation](../d/deflation.md), a decrease in the general [price level](../p/price_level.md) of goods and services, can be damaging as it may lead to decreased consumer spending and higher real [debt](../d/debt.md) burdens. Expansionary policy can help counter [deflation](../d/deflation.md) by increasing the [money supply](../m/money_supply.md) and encouraging spending, driving prices up.
@@ -41,7 +41,7 @@ Central banks use [interest rate](../i/interest_rate.md) policies to influence t
 [Open market operations](../o/open_market_operations.md) involve the buying and selling of government securities in the [market](../m/market.md):
 
 - **Buying Securities:** When the central [bank](../b/bank.md) buys government securities, it pays with newly created [money](../m/money.md), thereby increasing the [money supply](../m/money_supply.md).
-- **Selling Securities:** While not part of expansionary policy, selling securities would withdraw [money](../m/money.md) from the system. 
+- **Selling Securities:** While not part of expansionary policy, selling securities would withdraw [money](../m/money.md) from the system.
 
 ### Quantitative Easing
 [Quantitative Easing](../q/quantitative_easing.md) (QE) is used when traditional [monetary policy](../m/monetary_policy.md) tools become ineffective, especially when [interest](../i/interest.md) rates are near zero. The central [bank](../b/bank.md) purchases longer-term securities, including government bonds and other financial assets to inject [liquidity](../l/liquidity.md) into the [financial system](../f/financial_system.md):

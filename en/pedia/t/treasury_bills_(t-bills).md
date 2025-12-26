@@ -28,7 +28,7 @@ T-Bills are issued in various maturities, most commonly:
 Investors can purchase T-Bills through various methods:
 1. **TreasuryDirect:** The [U.S. Treasury](../u/u.s._treasury.md)'s online platform allows individuals to buy T-Bills directly.
 2. **Banks and Brokers:** Banks and brokerage firms act as intermediaries for purchasing T-Bills.
-   
+
 ### Auction Process
 
 ### Non-competitive Bids
@@ -101,8 +101,8 @@ Individual investors may add T-Bills to their portfolio as a safe and [liquid](.
 
 ## Conclusion
 
-Treasury Bills [offer](../o/offer.md) a secure, short-term, and [liquid](../l/liquid.md) investment option suitable for both individual and institutional investors. While the returns are generally lower compared to higher-[risk](../r/risk.md) investments, the safety and reliability of T-Bills make them a valuable component of a diversified [investment strategy](../i/investment_strategy.md). 
+Treasury Bills [offer](../o/offer.md) a secure, short-term, and [liquid](../l/liquid.md) investment option suitable for both individual and institutional investors. While the returns are generally lower compared to higher-[risk](../r/risk.md) investments, the safety and reliability of T-Bills make them a valuable component of a diversified [investment strategy](../i/investment_strategy.md).
 
-For further information, you can visit the U.S. Department of the Treasury's website: [TreasuryDirect](https://www.treasurydirect.gov).
+For further information, you can visit the U.S. Department of the Treasury's online platform: TreasuryDirect.
 
 ---

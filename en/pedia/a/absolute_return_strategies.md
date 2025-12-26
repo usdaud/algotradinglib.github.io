@@ -27,7 +27,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using [quantitative models](
 A [trader](../t/trader.md) might use historical price data and sophisticated algorithms to find pairs of [stocks](../s/stock.md) (e.g., two technology companies) that typically move together. When the prices diverge beyond a certain threshold, the [trader](../t/trader.md) could buy the underperforming stock and short the outperforming stock, expecting the prices to converge.
 
 ### 4. Event-Driven Strategies
-Event-driven strategies seek to [capitalize](../c/capitalize.md) on price movements stemming from specific events such as mergers, acquisitions, restructurings, or [earnings announcements](../e/earnings_announcements.md). 
+Event-driven strategies seek to [capitalize](../c/capitalize.md) on price movements stemming from specific events such as mergers, acquisitions, restructurings, or [earnings announcements](../e/earnings_announcements.md).
 
 **Example:**
 - **[Merger](../m/merger.md) [Arbitrage](../a/arbitrage.md):** As discussed, involves taking positions based on announced mergers.
@@ -56,27 +56,15 @@ A multi-strategy [fund](../f/fund.md) might allocate a portion of its [capital](
 
 ### 1. AQR Capital Management
 AQR [Capital](../c/capital.md) Management is a global [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its quantitative approach to [absolute return](../a/absolute_return.md) strategies. The [firm](../f/firm.md) employs sophisticated algorithms and a multi-strategy approach to achieve consistent returns.
-Website: [AQR Capital Management](https://www.aqr.com/)
-
 ### 2. Bridgewater Associates
 Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h/hedge.md) funds in the world. The [firm](../f/firm.md) uses a [global macro](../g/global_macro.md) strategy to navigate various [market](../m/market.md) conditions and achieve absolute returns.
-Website: [Bridgewater Associates](https://www.bridgewater.com/)
-
 ### 3. Renaissance Technologies
 Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and attain high absolute returns.
-Website: [Renaissance Technologies](https://www.rentec.com/)
-
 ### 4. Two Sigma Investments
 Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and advanced [data analytics](../d/data_analytics.md) to pursue [absolute return](../a/absolute_return.md) strategies across various [asset](../a/asset.md) classes.
-Website: [Two Sigma Investments](https://www.twosigma.com/)
-
 ### 5. Man Group
 Man Group is an active [investment management](../i/investment_management.md) [firm](../f/firm.md) that offers a variety of [absolute return](../a/absolute_return.md) strategies, including [market neutral](../m/market_neutral.md) and [global macro](../g/global_macro.md), across its different investment divisions.
-Website: [Man Group](https://www.man.com/)
-
 ### 6. Citadel LLC
 Citadel is a global [hedge fund](../h/hedge_fund.md) and financial services [firm](../f/firm.md) that employs a wide [range](../r/range.md) of quantitative and event-driven [absolute return](../a/absolute_return.md) strategies.
-Website: [Citadel LLC](https://www.citadel.com/)
-
 ## Conclusion
-[Absolute return](../a/absolute_return.md) strategies are versatile and sophisticated approaches aiming to provide positive returns regardless of [market](../m/market.md) conditions. These strategies vary widely, incorporating diverse methodologies like [market neutral](../m/market_neutral.md), [arbitrage](../a/arbitrage.md), event-driven, and [global macro](../g/global_macro.md). While they [offer](../o/offer.md) the potential for significant returns, they also require advanced expertise and may carry higher risks compared to traditional investment approaches. Companies like AQR [Capital](../c/capital.md) Management, Bridgewater Associates, Renaissance Technologies, and others exemplify the implementation of these sophisticated strategies in the pursuit of absolute returns.
+[Absolute return](../a/absolute_return.md) strategies are versatile and sophisticated approaches aiming to provide positive returns regardless of [market](../m/market.md) conditions. These strategies vary widely, incorporating diverse methodologies like [market neutral](../m/market_neutral.md), [arbitrage](../a/arbitrage.md), event-driven, and [global macro](../g/global_macro.md). While they [offer](../o/offer.md) the potential for significant returns, they also require advanced expertise and may carry higher risks compared to traditional investment approaches. Companies like AQR [Capital](../c/capital.md) Management, Bridgewater Associates, Renaissance Technologies, and others exemplify the implementation of these sophisticated strategies in the pursuit of absolute returns.

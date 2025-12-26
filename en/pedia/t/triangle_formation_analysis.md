@@ -15,7 +15,7 @@ A symmetrical [triangle](../t/triangle.md) pattern forms when the price of a [se
 ### Analysis
 - **Trendlines:** The upper [trendline](../t/trendline.md) is descending, while the lower [trendline](../t/trendline.md) is ascending. The two lines eventually meet, forming the [triangle](../t/triangle.md)'s apex.
 - **[Volume](../v/volume.md):** [Volume](../v/volume.md) tends to decrease as the pattern progresses, reflecting reduced trading activity. A [breakout](../b/breakout.md) is often accompanied by a significant increase in [volume](../v/volume.md).
-- **[Breakout](../b/breakout.md) Direction:** A [breakout](../b/breakout.md) can occur in either direction, often following the direction of the prevailing [trend](../t/trend.md) before the pattern's formation. 
+- **[Breakout](../b/breakout.md) Direction:** A [breakout](../b/breakout.md) can occur in either direction, often following the direction of the prevailing [trend](../t/trend.md) before the pattern's formation.
 
 ### Usage in Algo-Trading
 In algo-trading, algorithms can be programmed to detect symmetrical [triangle](../t/triangle.md) formations. Upon detection, the algorithm can set up trades to [capitalize](../c/capitalize.md) on the potential [breakout](../b/breakout.md). For instance:
@@ -146,9 +146,6 @@ cerebro.run()
 ## Real-World Applications and Companies
 Several companies specialize in providing tools and platforms for algo-trading with sophisticated [pattern recognition](../p/pattern_recognition.md) capabilities:
 
-- **[QuantConnect](../q/quantconnect.md):** Offers a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) https://www.[quantconnect](../q/quantconnect.md).com
-- **[Kinetick](../k/kinetick.md):** Provides [market](../m/market.md) data services https://[kinetick](../k/kinetick.md).com
-- **[TradeStation](../t/tradestation.md):** Integrated trading and analysis platform https://www.[tradestation](../t/tradestation.md).com
-
+- **[QuantConnect](../q/quantconnect.md):** Offers a platform for [algorithmic trading](../a/algorithmic_trading.md) - **[Kinetick](../k/kinetick.md):** Provides [market](../m/market.md) data services - **[TradeStation](../t/tradestation.md):** Integrated trading and analysis platform
 ## Conclusion
 [Triangle](../t/triangle.md) formations are pivotal in [technical analysis](../t/technical_analysis.md) and algo-trading. Understanding symmetrical, ascending, and descending triangles equips traders with the tools necessary for predicting price movements with higher accuracy. By integrating advanced algorithms and [robust](../r/robust.md) [risk management](../r/risk_management.md) strategies, traders can effectively exploit these patterns, maximizing their [trading performance](../t/trading_performance.md). Furthermore, evolving technologies such as [machine learning](../m/machine_learning.md) and [deep learning](../d/deep_learning.md) present exciting opportunities for enhancements in detecting and trading [triangle](../t/triangle.md) formations.

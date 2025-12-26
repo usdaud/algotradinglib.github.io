@@ -52,11 +52,7 @@ Despite its potential for [profit](../p/profit.md), [weighted](../w/weighted.md)
 ### Prominent Players in Weighted Index Arbitrage
 Several [hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms specialize in or utilize [weighted](../w/weighted.md) [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) as part of their [trading strategies](../t/trading_strategies.md). Some of these players include:
 
-- **Renaissance Technologies**: https://www.rentec.com/
-- **Two Sigma Investments**: https://www.twosigma.com/
-- **Citadel Securities**: https://www.citadelsecurities.com/
-- **Virtu Financial**: https://www.virtu.com/
-
+- **Renaissance Technologies**- **Two Sigma Investments**- **Citadel Securities**- **Virtu Financial**
 ### Real-World Applications and Examples
 [Weighted](../w/weighted.md) [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) strategies are widely employed in real-world [financial markets](../f/financial_market.md). Examples include:
 
@@ -74,4 +70,3 @@ Advanced technological [infrastructure](../i/infrastructure.md) is essential for
 
 ### Conclusion
 [Weighted](../w/weighted.md) [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) is a sophisticated [trading strategy](../t/trading_strategy.md) that relies heavily on advanced quantitative methods and technologies. It represents a microcosm of how modern [financial markets](../f/financial_market.md) [leverage](../l/leverage.md) computational power and [data analytics](../d/data_analytics.md) to exploit fleeting [market](../m/market.md) inefficiencies. As markets evolve, the techniques and tools employed in [weighted](../w/weighted.md) [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md) [will](../w/will.md) continue to advance, pushing the boundaries of traditional trading philosophies and [offering](../o/offering.md) new opportunities for [profit](../p/profit.md) generation.
-

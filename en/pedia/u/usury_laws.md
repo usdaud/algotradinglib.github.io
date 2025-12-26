@@ -12,7 +12,7 @@ In medieval Europe, the Catholic Church took a strong stance against [usury](../
 
 In the modern era, [usury](../u/usury.md) laws are more sophisticated and vary widely between countries and states. They set maximum [interest](../i/interest.md) rates that lenders can charge borrowers. These rates are influenced by a [range](../r/range.md) of factors, including [inflation](../i/inflation.md), the borrower's [credit](../c/credit.md) profile, and the overall economic environment.
 
-In the United States, for example, [usury](../u/usury.md) laws differ from state to state. Some states have relatively high caps on [interest](../i/interest.md) rates, while others maintain strict limits. Additionally, federal laws such as the Truth in Lending Act (TILA) require lenders to disclose the terms and costs of borrowing, including [interest](../i/interest.md) rates, to ensure [transparency](../t/transparency.md). 
+In the United States, for example, [usury](../u/usury.md) laws differ from state to state. Some states have relatively high caps on [interest](../i/interest.md) rates, while others maintain strict limits. Additionally, federal laws such as the Truth in Lending Act (TILA) require lenders to disclose the terms and costs of borrowing, including [interest](../i/interest.md) rates, to ensure [transparency](../t/transparency.md).
 
 ## Implementation and Enforcement
 
@@ -27,7 +27,7 @@ In the United States, each state sets its own [usury](../u/usury.md) limits, but
 
 ### United Kingdom
 
-In the UK, there is no singular statutory [usury](../u/usury.md) law as seen in the United States, but regulation is accomplished through a combination of consumer protection laws, competition law, and the oversight of the Financial Conduct Authority (FCA), which has the authority to set caps on high-cost short-term [credit](../c/credit.md). 
+In the UK, there is no singular statutory [usury](../u/usury.md) law as seen in the United States, but regulation is accomplished through a combination of consumer protection laws, competition law, and the oversight of the Financial Conduct Authority (FCA), which has the authority to set caps on high-cost short-term [credit](../c/credit.md).
 
 ### European Union
 

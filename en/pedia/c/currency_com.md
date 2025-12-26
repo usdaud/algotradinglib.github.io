@@ -2,7 +2,7 @@
 
 [Currency](../c/currency.md).com is a next-generation financial technology company that specializes in the trading of tokenized assets on a [blockchain](../b/blockchain_in_trading.md)-based platform. Established in 2018, [Currency](../c/currency.md).com seeks to bridge the gap between traditional [finance](../f/finance.md) and the world of digital assets, [offering](../o/offering.md) a versatile and innovative platform for investors to [trade](../t/trade.md) a wide [range](../r/range.md) of financial instruments, including [stocks](../s/stock.md), commodities, indices, and cryptocurrencies.
 
-[Currency](../c/currency.md).com operates under regulatory oversight, adhering to stringent compliance protocols to ensure a secure [trading environment](../t/trading_environment.md). The platform is designed to cater to both retail and institutional investors, providing advanced trading tools, high [liquidity](../l/liquidity.md), and competitively low fees. 
+[Currency](../c/currency.md).com operates under regulatory oversight, adhering to stringent compliance protocols to ensure a secure [trading environment](../t/trading_environment.md). The platform is designed to cater to both retail and institutional investors, providing advanced trading tools, high [liquidity](../l/liquidity.md), and competitively low fees.
 
 ## Key Features
 
@@ -70,4 +70,4 @@ To foster a better understanding of trading and investments, [Currency](../c/cur
 - **Demo Accounts**: Practice trading with virtual funds to get accustomed to the platform without [financial risk](../f/financial_risk.md).
 
 ## Conclusion
-[Currency](../c/currency.md).com is an innovative platform that smartly integrates the worlds of traditional [finance](../f/finance.md) and digital assets through tokenization. By providing a secure, regulated, and user-friendly environment, it aims to democratize access to a wide [range](../r/range.md) of financial instruments for investors around the globe. For more detailed information or to start trading, visit their official site at [Currency.com](https://currency.com/).
+[Currency](../c/currency.md).com is an innovative platform that smartly integrates the worlds of traditional [finance](../f/finance.md) and digital assets through tokenization. By providing a secure, regulated, and user-friendly environment, it aims to democratize access to a wide [range](../r/range.md) of financial instruments for investors around the globe. For more detailed information or to start trading, com.

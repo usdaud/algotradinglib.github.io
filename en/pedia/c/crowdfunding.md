@@ -24,28 +24,28 @@ Also known as peer-to-peer (P2P) lending, [debt](../d/debt.md)-based crowdfundin
 ## Key Platforms in Crowdfunding
 
 ### Kickstarter
-[Kickstarter](https://www.kickstarter.com) is one of the most well-known reward-based crowdfunding platforms. It focuses on creative projects like films, music, art, theater, games, comics, design, and technology. Since its launch in 2009, Kickstarter has helped raise billions of dollars for hundreds of thousands of projects.
+Kickstarter is one of the most well-known reward-based crowdfunding platforms. It focuses on creative projects like films, music, art, theater, games, comics, design, and technology. Since its launch in 2009, Kickstarter has helped raise billions of dollars for hundreds of thousands of projects.
 
 ### Indiegogo
-[Indiegogo](https://www.indiegogo.com) is another major player in the reward-based crowdfunding space. It supports a wide [range](../r/range.md) of projects and also offers a flexible funding option, allowing fundraisers to keep the [money](../m/money.md) they raise even if they don't meet their funding goal.
+Indiegogo is another major player in the reward-based crowdfunding space. It supports a wide [range](../r/range.md) of projects and also offers a flexible funding option, allowing fundraisers to keep the [money](../m/money.md) they raise even if they don't meet their funding goal.
 
 ### Seedrs
-[Seedrs](https://www.seedrs.com) is an [equity](../e/equity.md) crowdfunding platform that helps startups raise investment from a large pool of investors in [exchange](../e/exchange.md) for [equity](../e/equity.md). It is based in the UK and has facilitated significant investment in various startups across Europe.
+Seedrs is an [equity](../e/equity.md) crowdfunding platform that helps startups raise investment from a large pool of investors in [exchange](../e/exchange.md) for [equity](../e/equity.md). It is based in the UK and has facilitated significant investment in various startups across Europe.
 
 ### Crowdcube
-[Crowdcube](https://www.crowdcube.com) is another leading [equity](../e/equity.md) crowdfunding platform in Europe. It allows small businesses and startups to raise [capital](../c/capital.md) by [offering](../o/offering.md) [shares](../s/shares.md) to retail investors and has successfully funded numerous enterprises.
+Crowdcube is another leading [equity](../e/equity.md) crowdfunding platform in Europe. It allows small businesses and startups to raise [capital](../c/capital.md) by [offering](../o/offering.md) [shares](../s/shares.md) to retail investors and has successfully funded numerous enterprises.
 
 ### LendingClub
-[LendingClub](https://www.lendingclub.com) operates in the [debt](../d/debt.md)-based crowdfunding sector. It connects borrowers with investors willing to [fund](../f/fund.md) their loans, providing an alternative to traditional banking loans. It predominantly focuses on personal and small [business](../b/business.md) loans.
+LendingClub operates in the [debt](../d/debt.md)-based crowdfunding sector. It connects borrowers with investors willing to [fund](../f/fund.md) their loans, providing an alternative to traditional banking loans. It predominantly focuses on personal and small [business](../b/business.md) loans.
 
 ### Prosper
-[Prosper](https://www.prosper.com) is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform operating in the [debt](../d/debt.md)-based crowdfunding space. It offers personal loans that are funded by individual investors. Borrowers can obtain loans with competitive [interest](../i/interest.md) rates, and investors can earn returns from their funded loans.
+Prosper is a [peer-to-peer lending](../p/peer-to-peer_lending.md) platform operating in the [debt](../d/debt.md)-based crowdfunding space. It offers personal loans that are funded by individual investors. Borrowers can obtain loans with competitive [interest](../i/interest.md) rates, and investors can earn returns from their funded loans.
 
 ### Fundrise
-[Fundrise](https://www.fundrise.com) operates in the [real estate](../r/real_estate.md) crowdfunding [market](../m/market.md). It allows individual investors to invest in a diversified portfolio of [real estate](../r/real_estate.md) assets, providing access to [commercial real estate](../c/commercial_real_estate.md) investments that were previously available only to institutional investors.
+Fundrise operates in the [real estate](../r/real_estate.md) crowdfunding [market](../m/market.md). It allows individual investors to invest in a diversified portfolio of [real estate](../r/real_estate.md) assets, providing access to [commercial real estate](../c/commercial_real_estate.md) investments that were previously available only to institutional investors.
 
 ### RealtyMogul
-[RealtyMogul](https://www.realtymogul.com) is another [real estate](../r/real_estate.md) crowdfunding platform that enables investors to invest in [commercial real estate](../c/commercial_real_estate.md) projects. It offers a [range](../r/range.md) of investment opportunities, including residential apartment buildings, office buildings, and retail centers.
+RealtyMogul is another [real estate](../r/real_estate.md) crowdfunding platform that enables investors to invest in [commercial real estate](../c/commercial_real_estate.md) projects. It offers a [range](../r/range.md) of investment opportunities, including residential apartment buildings, office buildings, and retail centers.
 
 ## Advantages of Crowdfunding
 

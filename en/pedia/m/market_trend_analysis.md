@@ -1,6 +1,6 @@
 # Market Trend Analysis
 
-[Market](../m/market.md) [trend analysis](../t/trend_analysis.md) is a method used in [technical analysis](../t/technical_analysis.md) that attempts to predict future stock price movements based on recently observed [trend](../t/trend.md) data. The primary tools used for this analysis are various forms of charting to represent historical price movement and [volume](../v/volume.md) data. [Market](../m/market.md) [trend analysis](../t/trend_analysis.md) is essential for investors and traders to make informed decisions and optimize their [trading strategies](../t/trading_strategies.md). 
+[Market](../m/market.md) [trend analysis](../t/trend_analysis.md) is a method used in [technical analysis](../t/technical_analysis.md) that attempts to predict future stock price movements based on recently observed [trend](../t/trend.md) data. The primary tools used for this analysis are various forms of charting to represent historical price movement and [volume](../v/volume.md) data. [Market](../m/market.md) [trend analysis](../t/trend_analysis.md) is essential for investors and traders to make informed decisions and optimize their [trading strategies](../t/trading_strategies.md).
 
 ## What is a Market Trend?
 
@@ -26,7 +26,7 @@ A [market](../m/market.md) [trend](../t/trend.md) refers to the perceived tenden
 
 **Moving Averages** are among the most commonly used tools for identifying [market](../m/market.md) trends. They smooth out price data to create a single flowing line, which is easier to interpret. Commonly used moving averages include Simple Moving Averages (SMA) and Exponential Moving Averages (EMA).
 
-- **Simple Moving Average (SMA)**: This is the average of prices over a specific number of periods. 
+- **Simple Moving Average (SMA)**: This is the average of prices over a specific number of periods.
 - **Exponential Moving Average (EMA)**: This type of moving average gives more weight to recent prices, making it more sensitive to recent price changes.
 
 ### Relative Strength Index (RSI)
@@ -67,11 +67,11 @@ A **contrarian strategy** is designed to go against prevailing [market](../m/mar
 
 ### Hedge Funds
 
-Major [hedge](../h/hedge.md) funds like **Two Sigma** (https://www.twosigma.com/) and **Renaissance Technologies** (httи://www.rentec.com/) [leverage](../l/leverage.md) sophisticated [trend analysis](../t/trend_analysis.md) techniques to make high-frequency trades and [gain](../g/gain.md) a competitive edge.
+Major [hedge](../h/hedge.md) funds like **Two Sigma** ( and **Renaissance Technologies** (httи:// [leverage](../l/leverage.md) sophisticated [trend analysis](../t/trend_analysis.md) techniques to make high-frequency trades and [gain](../g/gain.md) a competitive edge.
 
 ### Quantitative Trading Firms
 
-[Quantitative trading](../q/quantitative_trading.md) firms such as **Jane Street** (https://www.janestreet.com/) rely heavily on [market](../m/market.md) [trend analysis](../t/trend_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to drive decision-making and to execute trades at lightning speed.
+[Quantitative trading](../q/quantitative_trading.md) firms such as **Jane Street** ( rely heavily on [market](../m/market.md) [trend analysis](../t/trend_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to drive decision-making and to execute trades at lightning speed.
 
 ### Retail Investors and Day Traders
 
@@ -88,4 +88,4 @@ While [market](../m/market.md) [trend analysis](../t/trend_analysis.md) offers s
 
 ## Conclusion
 
-[Market](../m/market.md) [trend analysis](../t/trend_analysis.md) remains a cornerstone of [technical analysis](../t/technical_analysis.md), [offering](../o/offering.md) invaluable insights into price movements and [market dynamics](../m/market_dynamics.md). However, it is crucial for traders and investors to understand its limitations and to use it in conjunction with other forms of analysis for the best results. Through the effective use of [trend analysis](../t/trend_analysis.md) tools and techniques, investors can better navigate the complexities of the [financial markets](../f/financial_market.md). 
+[Market](../m/market.md) [trend analysis](../t/trend_analysis.md) remains a cornerstone of [technical analysis](../t/technical_analysis.md), [offering](../o/offering.md) invaluable insights into price movements and [market dynamics](../m/market_dynamics.md). However, it is crucial for traders and investors to understand its limitations and to use it in conjunction with other forms of analysis for the best results. Through the effective use of [trend analysis](../t/trend_analysis.md) tools and techniques, investors can better navigate the complexities of the [financial markets](../f/financial_market.md).

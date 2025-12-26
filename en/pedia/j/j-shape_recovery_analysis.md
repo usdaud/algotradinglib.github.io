@@ -44,13 +44,13 @@ The global [economy](../e/economy.md) saw several instances of J-shaped recovery
 
 ## Tools and Technologies
 ### Data Analytics Platforms
-[Data analytics](../d/data_analytics.md) platforms such as [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provide comprehensive [market](../m/market.md) data essential for identifying J-shaped recoveries.
+[Data analytics](../d/data_analytics.md) platforms such as Bloomberg Terminal and Refinitiv Eikon provide comprehensive [market](../m/market.md) data essential for identifying J-shaped recoveries.
 
 ### AI and Machine Learning
-Utilizing AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md), trading platforms like [Kensho](https://www.spglobal.com/en/what-we-do/our-capabilities/ai-and-data-science-technologies) integrate sophisticated analysis capabilities to identify and act on J-shaped recovery patterns.
+Utilizing AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md), trading platforms like Kensho integrate sophisticated analysis capabilities to identify and act on J-shaped recovery patterns.
 
 ### Trading Platforms
-High-frequency trading platforms such as [TradeStation](https://www.tradestation.com) allow traders to implement complex algorithms tailored to exploit J-shaped recovery trends.
+High-frequency trading platforms such as TradeStation allow traders to implement complex algorithms tailored to exploit J-shaped recovery trends.
 
 ## Conclusion
 Understanding and leveraging J-shaped recovery patterns can significantly enhance [algorithmic trading](../a/algorithmic_trading.md) strategies, [offering](../o/offering.md) unique opportunities and insights. However, it requires sophisticated tools, comprehensive data analysis, and prudent [risk management](../r/risk_management.md) to be effectively incorporated into [trading algorithms](../t/trading_algorithms.md).

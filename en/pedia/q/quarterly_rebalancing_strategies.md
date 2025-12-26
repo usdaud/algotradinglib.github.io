@@ -68,11 +68,11 @@ Despite the advantages, [quarterly rebalancing](../q/quarterly_rebalancing.md) a
 
 Several financial firms and platforms specialize in providing automated [rebalancing](../r/rebalancing.md) services, leveraging advanced algorithms and technology:
 
-1. **Wealthfront**: A robo-advisor [offering](../o/offering.md) automatic [portfolio rebalancing](../p/portfolio_rebalancing.md) as part of its service. Wealthfront uses sophisticated algorithms to maintain target [asset](../a/asset.md) allocations. More information is available on their [official website](https://www.wealthfront.com).
+1. **Wealthfront**: A robo-advisor [offering](../o/offering.md) automatic [portfolio rebalancing](../p/portfolio_rebalancing.md) as part of its service. Wealthfront uses sophisticated algorithms to maintain target [asset](../a/asset.md) allocations.
 
-2. **Betterment**: Another leading robo-advisor that automates the [rebalancing](../r/rebalancing.md) process. Betterment continuously monitors and adjusts portfolios to keep them aligned with investors' goals. More information can be found [here](https://www.betterment.com).
+2. **Betterment**: Another leading robo-advisor that automates the [rebalancing](../r/rebalancing.md) process. Betterment continuously monitors and adjusts portfolios to keep them aligned with investors' goals. More information can be found here.
 
-3. **[Interactive Brokers](../i/interactive_brokers.md)**: This [firm](../f/firm.md) offers sophisticated [rebalancing](../r/rebalancing.md) tools within its trading platforms, allowing individual traders and institutions to automate and optimize their [rebalancing strategies](../r/rebalancing_strategies.md). Visit their site [here](https://www.interactivebrokers.com).
+3. **[Interactive Brokers](../i/interactive_brokers.md)**: This [firm](../f/firm.md) offers sophisticated [rebalancing](../r/rebalancing.md) tools within its trading platforms, allowing individual traders and institutions to automate and optimize their [rebalancing strategies](../r/rebalancing_strategies.md).
 
 ## Advanced Rebalancing Strategies
 

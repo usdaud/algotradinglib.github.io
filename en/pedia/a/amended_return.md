@@ -55,9 +55,9 @@ For U.S. taxpayers living abroad, special rules apply, and coordinating amendmen
 
 ## Top Companies in Tax Software and Services
 
-- **TurboTax**: [TurboTax](https://turbotax.intuit.com)
-- **H&R Block**: [H&R Block](https://www.hrblock.com)
-- **TaxAct**: [TaxAct](https://www.taxact.com)
+- **TurboTax**: TurboTax
+- **H&R Block**: H&R Block
+- **TaxAct**: TaxAct
 
 ## Conclusion
 

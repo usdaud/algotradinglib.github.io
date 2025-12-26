@@ -77,8 +77,8 @@ As markets evolve and technology continues to advance, the NMS is likely to unde
 
 For further information, you can visit the following resources:
 
-- [Securities and Exchange Commission (SEC)](https://www.sec.gov/)
-- [Consolidated Tape Association (CTA)](https://www.ctaplan.com/)
-- [National Securities Clearing [Corporation](../c/corporation.md) (NSCC)](https://www.dtcc.com/[clearing](../c/clearing.md)-services/equities-tradecapture/]
+- Securities and Exchange Commission (SEC)
+- Consolidated Tape Association (CTA)
+- [National Securities Clearing [Corporation](../c/corporation.md) (NSCC)](
 
 In conclusion, the National [Market](../m/market.md) System remains a fundamental aspect of the U.S. [stock market](../s/stock_market.md) [infrastructure](../i/infrastructure.md), balancing the interests of various [market](../m/market.md) participants and adapting to new financial innovations and challenges.

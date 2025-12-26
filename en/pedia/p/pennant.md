@@ -39,20 +39,20 @@ Conversely, a bearish pennant forms in a [downtrend](../d/downtrend.md). It begi
 Understanding the formation process of a pennant pattern involves analyzing [market](../m/market.md) psychology and [price action](../p/price_action.md) dynamics at each stage:
 
 1. **Initial Surge (Flagpole Formation)**:
-    - In a bullish scenario, buyer enthusiasm drives a sharp price increase, creating the flagpole.
-    - In a bearish scenario, panic selling leads to a rapid price drop, forming the flagpole.
-   
+ - In a bullish scenario, buyer enthusiasm drives a sharp price increase, creating the flagpole.
+ - In a bearish scenario, panic selling leads to a rapid price drop, forming the flagpole.
+
 2. **[Consolidation](../c/consolidation.md) (Pennant Formation)**:
-    - After the initial surge, the [market](../m/market.md) enters a cooling-off period where prices fluctuate within a tightening [range](../r/range.md).
-    - Traders' indecision is evident as buying and selling pressures balance each other out, creating the symmetrical [triangle](../t/triangle.md).
-   
+ - After the initial surge, the [market](../m/market.md) enters a cooling-off period where prices fluctuate within a tightening [range](../r/range.md).
+ - Traders' indecision is evident as buying and selling pressures balance each other out, creating the symmetrical [triangle](../t/triangle.md).
+
 3. **[Volume Analysis](../v/volume_analysis.md)**:
-    - During the flagpole formation, trading [volume](../v/volume.md) spikes significantly.
-    - As the pennant forms, the [volume](../v/volume.md) typically decreases, indicating reduced trading activity during [consolidation](../c/consolidation.md).
+ - During the flagpole formation, trading [volume](../v/volume.md) spikes significantly.
+ - As the pennant forms, the [volume](../v/volume.md) typically decreases, indicating reduced trading activity during [consolidation](../c/consolidation.md).
 
 4. **[Breakout](../b/breakout.md)**:
-    - The pattern completes when price breaks out from the pennant, accompanied by a [volume](../v/volume.md) surge.
-    - Traders often look for confirmation through increased [volume](../v/volume.md) and sustained price movement in the direction of the [breakout](../b/breakout.md).
+ - The pattern completes when price breaks out from the pennant, accompanied by a [volume](../v/volume.md) surge.
+ - Traders often look for confirmation through increased [volume](../v/volume.md) and sustained price movement in the direction of the [breakout](../b/breakout.md).
 
 ## Tactical Advantages of Trading Pennants
 
@@ -79,18 +79,18 @@ The [consolidation](../c/consolidation.md) phase within the pennant allows trade
 Understanding pennants and utilizing them effectively requires practice and real-world application. Several trading platforms and financial services [offer](../o/offer.md) tools for recognizing and trading pennant patterns:
 
 1. **[TradingView](../t/tradingview.md)**: A popular charting platform that provides advanced tools for [technical analysis](../t/technical_analysis.md). Traders can easily identify pennant formations using its comprehensive charting features.
-   - [TradingView](https://www.tradingview.com)
-   
+ - TradingView
+
 2. **MetaTrader**: MetaTrader 4 and 5 [offer](../o/offer.md) [robust](../r/robust.md) charting capabilities and automated trading [options](../o/options.md). Traders can use scripts and indicators to highlight pennant patterns.
-   - [MetaTrader](https://www.metatrader4.com)
-   
+ - MetaTrader
+
 3. **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: Known for its sophisticated trading tools, Thinkorswim provides a rich set of [technical analysis](../t/technical_analysis.md) features, including [pattern recognition](../p/pattern_recognition.md).
-   - [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-   
-4. **[Algorithmic Trading](../a/accountability.md)**:
-    - Many [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) incorporate pennant patterns to automate trading decisions. By programming patterns recognition into algorithms, traders can [capitalize](../c/capitalize.md) on pennant breakouts with precision and speed.
-    - Popular trading frameworks, such as [QuantConnect](../q/quantconnect.md), allow developers to backtest and deploy strategies that include pennant pattern analysis.
-    - [QuantConnect](https://www.quantconnect.com)
+ - Thinkorswim
+
+4. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
+ - Many [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) incorporate pennant patterns to automate trading decisions. By programming patterns recognition into algorithms, traders can [capitalize](../c/capitalize.md) on pennant breakouts with precision and speed.
+ - Popular trading frameworks, such as [QuantConnect](../q/quantconnect.md), allow developers to backtest and deploy strategies that include pennant pattern analysis.
+ - QuantConnect
 
 ## Practical Example
 
@@ -99,28 +99,28 @@ To illustrate the application of the pennant pattern in a trading scenario, let'
 ### Step-by-Step Trading with a Bullish Pennant
 
 1. **Identify the Flagpole**:
-    - Analyzing a stock chart, you identify a strong upward price movement spanning several days, forming the flagpole.
-   
+ - Analyzing a stock chart, you identify a strong upward price movement spanning several days, forming the flagpole.
+
 2. **Spot the Pennant**:
-    - During the following days, you observe a contraction in [price action](../p/price_action.md), forming the pennant shape with converging trendlines.
-   
+ - During the following days, you observe a contraction in [price action](../p/price_action.md), forming the pennant shape with converging trendlines.
+
 3. **[Volume Analysis](../v/volume_analysis.md)**:
-    - You notice a spike in [volume](../v/volume.md) during the flagpole formation, followed by decreasing [volume](../v/volume.md) as the pennant forms, confirming the pattern.
-   
+ - You notice a spike in [volume](../v/volume.md) during the flagpole formation, followed by decreasing [volume](../v/volume.md) as the pennant forms, confirming the pattern.
+
 4. **Set Entry Point**:
-    - Plan to enter a long position when the price breaks upward from the pennant. Use the upper [trendline](../t/trendline.md) of the pennant as a trigger.
-   
+ - Plan to enter a long position when the price breaks upward from the pennant. Use the upper [trendline](../t/trendline.md) of the pennant as a trigger.
+
 5. **Determine Stop-Loss**:
-    - Set a [stop-loss order](../s/stop-loss_order.md) just below the pennant's lower [trendline](../t/trendline.md) to limit potential losses.
-   
+ - Set a [stop-loss order](../s/stop-loss_order.md) just below the pennant's lower [trendline](../t/trendline.md) to limit potential losses.
+
 6. **Establish [Profit](../p/profit.md) Target**:
-    - Measure the flagpole's height and project this distance upward from the [breakout](../b/breakout.md) point to set your [profit](../p/profit.md) target.
-   
+ - Measure the flagpole's height and project this distance upward from the [breakout](../b/breakout.md) point to set your [profit](../p/profit.md) target.
+
 7. **Monitor [Breakout](../b/breakout.md)**:
-    - Once the price breaks out and trading [volume](../v/volume.md) increases, execute your [trade](../t/trade.md). Continue to monitor the movement to ensure it aligns with expectations.
-   
+ - Once the price breaks out and trading [volume](../v/volume.md) increases, execute your [trade](../t/trade.md). Continue to monitor the movement to ensure it aligns with expectations.
+
 8. **Adjust and Exit**:
-    - As the price approaches your target, adjust your stop-loss to [lock in profits](../l/lock_in_profits.md). Exit the [trade](../t/trade.md) when the target is reached or if [reversal indicators](../r/reversal_indicators.md) emerge.
+ - As the price approaches your target, adjust your stop-loss to [lock in profits](../l/lock_in_profits.md). Exit the [trade](../t/trade.md) when the target is reached or if [reversal indicators](../r/reversal_indicators.md) emerge.
 
 By following this practical approach, traders can effectively [capitalize](../c/capitalize.md) on bullish pennant patterns, enhancing their [trading strategies](../t/trading_strategies.md).
 

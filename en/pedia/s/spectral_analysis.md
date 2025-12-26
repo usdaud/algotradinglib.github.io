@@ -8,13 +8,13 @@ Spectral analysis, also known as frequency domain analysis, is a mathematical to
 
 Spectral analysis transforms a time-series signal into its frequency components, leveraging mathematical techniques like the Fourier Transform. This decomposition allows one to identify cyclical patterns and dominant frequencies that might not be apparent in the time domain.
 
-1. **Time Domain vs Frequency Domain**: 
-    - **Time Domain**: Represents data points as values over time.
-    - **Frequency Domain**: Represents data points as sums of sinusoidal components, each with its own frequency, amplitude, and phase.
+1. **Time Domain vs Frequency Domain**:
+ - **Time Domain**: Represents data points as values over time.
+ - **Frequency Domain**: Represents data points as sums of sinusoidal components, each with its own frequency, amplitude, and phase.
 
-2. **Fourier Transform**: 
-    - The Fourier Transform is the most commonly used method for transforming data between the time and frequency domains. It converts a time-series signal into a complex-valued function of frequency.
-    - **Discrete Fourier Transform (DFT)**: Applied when analyzing discrete data points, typically through an algorithm known as the Fast Fourier Transform (FFT).
+2. **Fourier Transform**:
+ - The Fourier Transform is the most commonly used method for transforming data between the time and frequency domains. It converts a time-series signal into a complex-valued function of frequency.
+ - **Discrete Fourier Transform (DFT)**: Applied when analyzing discrete data points, typically through an algorithm known as the Fast Fourier Transform (FFT).
 
 ### Applications in Finance
 
@@ -34,15 +34,15 @@ To perform spectral analysis, traders need time-series data such as historical p
 ### Applying Fourier Transform
 
 1. **Preparation**:
-    - Convert time-series data into a format suitable for FFT processing, usually a sequence of equally spaced data points.
-    - Preprocessing can include detrending and normalization to remove non-stationarities and scale the data.
+ - Convert time-series data into a format suitable for FFT processing, usually a sequence of equally spaced data points.
+ - Preprocessing can include detrending and normalization to remove non-stationarities and scale the data.
 
 2. **FFT Computation**:
-    - Apply FFT to the prepared data to obtain the frequency domain representation.
-    - Most programming languages and mathematical computing environments (Python, MATLAB, R, etc.) provide FFT functions. In Python, libraries like NumPy [offer](../o/offer.md) `numpy.fft.fft`.
+ - Apply FFT to the prepared data to obtain the frequency domain representation.
+ - Most programming languages and mathematical computing environments (Python, MATLAB, R, etc.) provide FFT functions. In Python, libraries like NumPy [offer](../o/offer.md) `numpy.fft.fft`.
 
 3. **Analysis**:
-    - Analyze the output from the FFT to identify significant frequencies. The power spectrum, which is the square of the magnitude of the FFT coefficients, is often used to visualize and identify dominant cycles.
+ - Analyze the output from the FFT to identify significant frequencies. The power spectrum, which is the square of the magnitude of the FFT coefficients, is often used to visualize and identify dominant cycles.
 
 ### Case Study: Implementing Spectral Analysis in Python
 
@@ -108,13 +108,13 @@ By understanding the spectral characteristics of different assets, traders can b
 While spectral analysis offers valuable insights, it also has its limitations and challenges:
 
 1. **Non-stationarity**:
-    - Financial time-series data often exhibit non-stationarity, meaning statistical properties change over time. Preprocessing steps such as detrending and differencing can mitigate this but might not completely eliminate the [issue](../i/issue.md).
-    
+ - Financial time-series data often exhibit non-stationarity, meaning statistical properties change over time. Preprocessing steps such as detrending and differencing can mitigate this but might not completely eliminate the [issue](../i/issue.md).
+
 2. **[Overfitting](../o/overfitting.md)**:
-    - There's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) models to historical data. Cross-validation and [out-of-sample testing](../o/out-of-sample_testing.md) can help ensure that spectral models generalize well to new data.
+ - There's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) models to historical data. Cross-validation and [out-of-sample testing](../o/out-of-sample_testing.md) can help ensure that spectral models generalize well to new data.
 
 3. **Interpretation**:
-    - The results of spectral analysis can be complex to interpret. Expertise in both [spectral methods](../s/spectral_methods.md) and [financial markets](../f/financial_market.md) is crucial to draw meaningful conclusions.
+ - The results of spectral analysis can be complex to interpret. Expertise in both [spectral methods](../s/spectral_methods.md) and [financial markets](../f/financial_market.md) is crucial to draw meaningful conclusions.
 
 ## Advanced Techniques and Tools
 
@@ -129,24 +129,24 @@ HHT is another advanced method combining empirical [mode](../m/mode.md) decompos
 ### Software and Libraries
 
 1. **Python**:
-    - Libraries like SciPy, NumPy, and pandas facilitate spectral analysis.
-    - Specialized libraries such as PyWavelets enable [wavelet analysis](../w/wavelet_analysis.md).
+ - Libraries like SciPy, NumPy, and pandas facilitate spectral analysis.
+ - Specialized libraries such as PyWavelets enable [wavelet analysis](../w/wavelet_analysis.md).
 
 2. **MATLAB**:
-    - MATLAB offers a comprehensive environment for spectral analysis, with built-in functions for FFT, [wavelet transform](../w/wavelet_transform_in_trading.md), and more.
-    
+ - MATLAB offers a comprehensive environment for spectral analysis, with built-in functions for FFT, [wavelet transform](../w/wavelet_transform_in_trading.md), and more.
+
 3. **R**:
-    - R packages like `wavelets` and `TSA` ([Time Series Analysis](../t/time_series_analysis.md)) provide tools for [spectral methods](../s/spectral_methods.md) in [financial analysis](../f/financial_analysis.md).
+ - R packages like `wavelets` and `TSA` ([Time Series Analysis](../t/time_series_analysis.md)) provide tools for [spectral methods](../s/spectral_methods.md) in [financial analysis](../f/financial_analysis.md).
 
 ### Professional Services
 
 Several financial technology companies [offer](../o/offer.md) platforms and APIs integrating spectral analysis for traders. Examples include:
 
-1. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform providing data, [backtesting](../b/backtesting.md), and [execution](../e/execution.md) capabilities, along with advanced analytics tools including spectral analysis.
-   - [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform providing data, [backtesting](../b/backtesting.md), and [execution](../e/execution.md) capabilities, along with advanced analytics tools including spectral analysis.
+ - QuantConnect
 
 2. **[Alpaca](../a/alpaca.md)**: API for [algorithmic trading](../a/algorithmic_trading.md) with features for data analysis and strategy implementation, supporting a variety of analytical methods including spectral analysis.
-   - [Alpaca](https://alpaca.markets)
+ - Alpaca
 
 ## Conclusion
 

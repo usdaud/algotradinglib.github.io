@@ -38,4 +38,3 @@
 
 ## Conclusion
 EOS is a powerful [blockchain](../b/blockchain_in_trading.md) platform that addresses many of the [scalability](../s/scalability.md) and usability issues faced by earlier [blockchain](../b/blockchain_in_trading.md) systems. Its focus on high [throughput](../t/throughput.md), user-friendly development tools, and [robust](../r/robust.md) governance makes it an attractive choice for developers and businesses looking to build decentralized applications. However, its governance and resource management models present unique challenges that need to be carefully considered.
-

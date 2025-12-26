@@ -40,14 +40,11 @@ For example, if a company has an EPS of $5 and its current share price is $50, t
 ### Real-World Application
 Several firms and platforms [offer](../o/offer.md) tools and algorithms to incorporate [earnings](../e/earnings.md) [yield](../y/yield.md) into [trading strategies](../t/trading_strategies.md). For instance:
 
-1. **[QuantConnect](../q/quantconnect.md)**: A leading [algorithmic trading](../a/algorithmic_trading.md) platform that provides various tools for developing and [backtesting](../b/backtesting.md) strategies. [QuantConnect](../q/quantconnect.md) allows users to implement [earnings](../e/earnings.md) [yield](../y/yield.md) as a parameter in their [trading algorithms](../t/trading_algorithms.md). 
-   [Link to QuantConnect](https://www.quantconnect.com/)
+1. **[StockSharp](../s/stocksharp.md)**: A leading [algorithmic trading](../a/algorithmic_trading.md) platform that provides various tools for developing and [backtesting](../b/backtesting.md) strategies. [StockSharp](../s/stocksharp.md) allows users to implement [earnings](../e/earnings.md) [yield](../y/yield.md) as a parameter in their [trading algorithms](../t/trading_algorithms.md).
 
 2. **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free trading API for developers. Users can develop and deploy [trading algorithms](../t/trading_algorithms.md) that use [earnings](../e/earnings.md) [yield](../y/yield.md) as part of their decision criteria.
-   [Link to Alpaca](https://alpaca.markets/)
 
 3. **Kensho Technologies**: Utilizing AI and [data science](../d/data_science_in_trading.md), Kensho offers advanced analytics that can incorporate [earnings](../e/earnings.md) [yield](../y/yield.md) into [predictive models](../p/predictive_models_in_trading.md) and [trading strategies](../t/trading_strategies.md).
-   [Link to Kensho Technologies](https://www.kensho.com/)
 
 ### Conclusion
 [Earnings](../e/earnings.md) [yield](../y/yield.md) is a versatile financial metric that can significantly enhance [algorithmic trading](../a/algorithmic_trading.md) strategies. By identifying [undervalued](../u/undervalued.md) [stocks](../s/stock.md), optimizing portfolios, and improving [predictive models](../p/predictive_models_in_trading.md), [earnings](../e/earnings.md) [yield](../y/yield.md) helps traders and investors make more informed decisions. Integrating it with other financial indicators and leveraging advanced technologies can provide a competitive edge in the [financial markets](../f/financial_market.md).

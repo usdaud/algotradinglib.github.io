@@ -7,7 +7,7 @@ In the complex world of global [finance](../f/finance.md), understanding the nua
 The [Current Account](../c/current_account.md) itself is a broad measure of a country’s foreign transactions and is divided into four major components:
 
 1. **[Trade](../t/trade.md) in Goods and Services**: This is the largest component and includes the [export](../e/export.md) and [import](../i/import.md) of goods (merchandise) and services. When exports exceed imports, the balance is positive, leading to a [trade surplus](../t/trade_surplus.md). Conversely, when imports exceed exports, the balance is negative, resulting in a [trade deficit](../t/trade_deficit.md).
-   
+
 2. **[Income](../i/income.md)**: This component includes [earnings](../e/earnings.md) on investments abroad (like interests, dividends, and remittances from citizens working overseas) minus payments made to foreign investors.
 
 3. **Direct Transfers**: This involves unilateral transfers of [money](../m/money.md) between countries, such as [foreign aid](../f/foreign_aid.md), gifts, and remittances from individuals working abroad sending [money](../m/money.md) back to their [home](../h/home.md) country.
@@ -19,7 +19,7 @@ The [Current Account](../c/current_account.md) itself is a broad measure of a co
 [Current Account](../c/current_account.md) Deficits can arise from various factors, which might include:
 
 1. **Higher Domestic Consumption**: Increased consumer [demand](../d/demand.md) for foreign goods and services, leading to higher imports.
-   
+
 2. **[Capital](../c/capital.md) Inflows**: In situations where a country is a desirable destination for investment, [capital](../c/capital.md) inflows can lead to an appreciation of the local [currency](../c/currency.md), making imports cheaper and exports more expensive.
 
 3. **Structural Economic Issues**: Sometimes the structure of an [economy](../e/economy.md) necessitates more imports than it can generate through exports. For example, a country rich in natural resources might need to [import](../i/import.md) manufactured goods.
@@ -68,15 +68,15 @@ Countries employ a [range](../r/range.md) of strategies to address [Current Acco
 
 ### BlackRock
 
-[BlackRock](https://www.blackrock.com) is a global [asset management](../a/asset_management.md) company that often analyzes the impacts of [Current Account](../c/current_account.md) Deficits on investment strategies. With its extensive research and financial advisory services, BlackRock plays a crucial role in advising both countries and corporations on how to navigate through imbalances in Current Accounts.
+BlackRock is a global [asset management](../a/asset_management.md) company that often analyzes the impacts of [Current Account](../c/current_account.md) Deficits on investment strategies. With its extensive research and financial advisory services, BlackRock plays a crucial role in advising both countries and corporations on how to navigate through imbalances in Current Accounts.
 
 ### McKinsey & Company
 
-[McKinsey & Company](https://www.mckinsey.com) frequently publishes in-depth reports on global economic trends, including [Current Account](../c/current_account.md) Deficits. Their consultancy services help governments and businesses understand the implications of CAD and devise strategies to address them.
+McKinsey & Company frequently publishes in-depth reports on global economic trends, including [Current Account](../c/current_account.md) Deficits. Their consultancy services help governments and businesses understand the implications of CAD and devise strategies to address them.
 
 ### The International Monetary Fund (IMF)
 
-The [IMF](https://www.imf.org) is deeply involved in monitoring and providing assistance to countries with significant [Current Account](../c/current_account.md) Deficits. Through its surveillance, policy advice, and financial support programs, the IMF aids countries in achieving sustainable economic balances.
+The IMF is deeply involved in monitoring and providing assistance to countries with significant [Current Account](../c/current_account.md) Deficits. Through its surveillance, policy advice, and financial support programs, the IMF aids countries in achieving sustainable economic balances.
 
 ## Conclusion
 

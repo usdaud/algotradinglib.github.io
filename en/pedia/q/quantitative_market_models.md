@@ -99,11 +99,11 @@ Stochastic models are widely used in option pricing, enabling accurate [valuatio
 
 Several companies and research institutions specialize in the development and application of quantitative [market](../m/market.md) models. Some notable organizations include:
 
-- [The MathWorks](https://www.mathworks.com/solutions/quantitative-finance.html): Known for their MATLAB software, which is extensively used for [quantitative finance](../q/quantitative_finance.md) and model development.
-- [Bloomberg](https://www.bloomberg.com/professional/solution/quantitative-research/): Provides a suite of quant tools and [data analytics](../d/data_analytics.md) for financial professionals.
-- [QuantConnect](https://www.quantconnect.com/): An [open](../o/open.md) platform [offering](../o/offering.md) tools and data for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
-- [Two Sigma](https://www.twosigma.com/): A [hedge fund](../h/hedge_fund.md) that leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [machine learning](../m/machine_learning.md) for investment decisions.
-- [Jane Street](https://www.janestreet.com/): Engages in [proprietary trading](../p/proprietary_trading.md), using [quantitative models](../q/quantitative_models.md) to make markets and manage risks.
+- The MathWorks: Known for their MATLAB software, which is extensively used for [quantitative finance](../q/quantitative_finance.md) and model development.
+- Bloomberg: Provides a suite of quant tools and [data analytics](../d/data_analytics.md) for financial professionals.
+- QuantConnect: An [open](../o/open.md) platform [offering](../o/offering.md) tools and data for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- Two Sigma: A [hedge fund](../h/hedge_fund.md) that leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [machine learning](../m/machine_learning.md) for investment decisions.
+- Jane Street: Engages in [proprietary trading](../p/proprietary_trading.md), using [quantitative models](../q/quantitative_models.md) to make markets and manage risks.
 
 ## Conclusion
 

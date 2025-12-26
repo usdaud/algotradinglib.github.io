@@ -62,7 +62,7 @@ ROAA is highly regarded in the banking sector where [asset](../a/asset.md) base 
 
 #### Example: JPMorgan Chase
 
-ROAA is a crucial measure for financial giants like JPMorgan Chase. The [bank](../b/bank.md)'s consistent ROAA performance not only signifies its ability to manage assets but also reflects its strategic investments and [risk control](../r/risk_control.md) practices. Visit their [official website](https://www.jpmorganchase.com) to explore further corporate financials and [performance metrics](../p/performance_metrics.md).
+ROAA is a crucial measure for financial giants like JPMorgan Chase. The [bank](../b/bank.md)'s consistent ROAA performance not only signifies its ability to manage assets but also reflects its strategic investments and [risk control](../r/risk_control.md) practices../p/performance_metrics.md).
 
 ### Tech Sector
 
@@ -70,7 +70,7 @@ In the tech [industry](../i/industry.md), where intangible assets like intellect
 
 #### Example: Google (Alphabet Inc.)
 
-For a giant like Google, ROAA can shed light on [efficiency](../e/efficiency.md) in leveraging technological assets and innovations to generate [income](../i/income.md). By frequently measuring ROAA, Alphabet Inc. ensures alignment with its long-term financial goals and growth strategies. Visit their [official website](https://abc.xyz) for extended financial insights and reports.
+For a giant like Google, ROAA can shed light on [efficiency](../e/efficiency.md) in leveraging technological assets and innovations to generate [income](../i/income.md). By frequently measuring ROAA, Alphabet Inc. ensures alignment with its long-term financial goals and growth strategies.
 
 ## Analyzing Trends
 

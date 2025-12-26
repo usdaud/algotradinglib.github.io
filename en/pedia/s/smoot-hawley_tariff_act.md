@@ -20,7 +20,7 @@ The Smoot-Hawley [Tariff](../t/tariff.md) Act raised U.S. tariffs on over 20,000
 
 - **Agricultural Products**: Duties on agricultural goods were increased with the aim to protect American farmers, who were among the hardest-hit groups during the [Great Depression](../g/great_depression.md). However, this led to other countries imposing retaliatory tariffs on U.S. agricultural exports.
 - **Industrial Products**: The act imposed higher tariffs on various industrial goods, including manufactured goods and [raw materials](../r/raw_materials.md). This was intended to shield American manufacturers but ultimately led to increased [production costs](../p/production_costs.md) and decreased competitiveness.
-  
+
 ## Economic Impact
 
 ### Domestic Consequences

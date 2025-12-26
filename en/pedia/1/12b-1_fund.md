@@ -4,7 +4,7 @@ A 12B-1 [fund](../f/fund.md) refers to mutual funds that are permitted to charge
 
 ### Historical Context
 
-SEC Rule 12B-1 was a result of the environment faced by mutual funds in the late 1970s. At that time, the [mutual fund](../m/mutual_fund.md) [industry](../i/industry.md) was struggling with dwindling [asset](../a/asset.md) inflows and competition from other investment vehicles. The SEC adopted Rule 12B-1 to help mutual funds attract more investors. 
+SEC Rule 12B-1 was a result of the environment faced by mutual funds in the late 1970s. At that time, the [mutual fund](../m/mutual_fund.md) [industry](../i/industry.md) was struggling with dwindling [asset](../a/asset.md) inflows and competition from other investment vehicles. The SEC adopted Rule 12B-1 to help mutual funds attract more investors.
 
 ### Definition of 12B-1 Fees
 
@@ -25,7 +25,7 @@ These fees are generally deducted from the [fund](../f/fund.md)'s assets, which 
 
 ### Types of Share Classes
 
-Mutual funds often [offer](../o/offer.md) different classes of [shares](../s/shares.md), each with varying [fee](../f/fee.md) structures. Here is a breakdown of typical share classes and their general [fee](../f/fee.md) configurations: 
+Mutual funds often [offer](../o/offer.md) different classes of [shares](../s/shares.md), each with varying [fee](../f/fee.md) structures. Here is a breakdown of typical share classes and their general [fee](../f/fee.md) configurations:
 - **Class A [Shares](../s/shares.md)**: May charge a [front-end load](../f/front-end_load.md) (sales charge paid when [shares](../s/shares.md) are purchased) but typically have lower [12B-1 fees](../1/12b-1_fees.md).
 - **Class B [Shares](../s/shares.md)**: Often have no [front-end load](../f/front-end_load.md) but could have higher [12B-1 fees](../1/12b-1_fees.md) and contingent deferred sales charges (CDSC).
 - **Class C [Shares](../s/shares.md)**: Might have no [front-end load](../f/front-end_load.md) and lower CDSC but usually have higher [12B-1 fees](../1/12b-1_fees.md).
@@ -44,7 +44,7 @@ Mutual funds often [offer](../o/offer.md) different classes of [shares](../s/sha
 
 ### Regulatory Controversies and Reforms
 
-The introduction of Rule 12B-1 met with both support and skepticism. Over time, the perception of [12B-1 fees](../1/12b-1_fees.md) has tilted towards scrutiny and calls for reform. Critics argue that these fees were initially justified as temporary measures to stabilize the [mutual fund](../m/mutual_fund.md) [industry](../i/industry.md) but have since become a permanent feature that may not always benefit investors. 
+The introduction of Rule 12B-1 met with both support and skepticism. Over time, the perception of [12B-1 fees](../1/12b-1_fees.md) has tilted towards scrutiny and calls for reform. Critics argue that these fees were initially justified as temporary measures to stabilize the [mutual fund](../m/mutual_fund.md) [industry](../i/industry.md) but have since become a permanent feature that may not always benefit investors.
 
 [Multiple](../m/multiple.md) regulatory bodies have reviewed the efficacy and structure of [12B-1 fees](../1/12b-1_fees.md) over the years. For instance, in 2010, the SEC proposed reforms aimed at increasing [transparency](../t/transparency.md) and limiting the fees. However, modifications to Rule 12B-1 have not been comprehensively implemented.
 
@@ -57,7 +57,7 @@ Investors wary of [12B-1 fees](../1/12b-1_fees.md) have alternatives:
 
 ### Case Study: Vanguard's Approach
 
-One example of a prevalent investment [firm](../f/firm.md) that has distanced itself from [12B-1 fees](../1/12b-1_fees.md) is [Vanguard](https://investor.vanguard.com/home). Vanguard's unique structure, where it is owned by its funds, which in turn are owned by their investors, helps prioritize low-cost [investing](../i/investing.md). Vanguard funds generally do not impose [12B-1 fees](../1/12b-1_fees.md), representing an [investor](../i/investor.md)-centric approach that aligns the interests of management with those of the shareholders.
+One example of a prevalent investment [firm](../f/firm.md) that has distanced itself from [12B-1 fees](../1/12b-1_fees.md) is Vanguard. Vanguard's unique structure, where it is owned by its funds, which in turn are owned by their investors, helps prioritize low-cost [investing](../i/investing.md). Vanguard funds generally do not impose [12B-1 fees](../1/12b-1_fees.md), representing an [investor](../i/investor.md)-centric approach that aligns the interests of management with those of the shareholders.
 
 ### Conclusion
 

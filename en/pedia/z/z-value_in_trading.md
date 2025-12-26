@@ -26,14 +26,14 @@ To calculate the Z-[value](../v/value.md) for returns in a [trading strategy](..
 1. **Data Collection**: Gather historical price data for the [asset](../a/asset.md) or portfolio under consideration.
 2. **[Return](../r/return.md) Calculation**: Compute the returns using the formula:
 
-   \[ R_t = \frac{P_t - P_{t-1}}{P_{t-1}} \]
+ \[ R_t = \frac{P_t - P_{t-1}}{P_{t-1}} \]
 
-   Where \( P_t \) is the price at time \( t \).
-   
+ Where \( P_t \) is the price at time \( t \).
+
 3. **Mean and [Standard Deviation](../s/standard_deviation.md)**: Calculate the mean (\( \mu \)) and [standard deviation](../s/standard_deviation.md) (\( \sigma \)) of the returns.
 4. **Z-[Value](../v/value.md) Computation**: Apply the Z-[value](../v/value.md) formula to the individual returns:
 
-   \[ Z_t = \frac{(R_t - \mu)}{\sigma} \]
+ \[ Z_t = \frac{(R_t - \mu)}{\sigma} \]
 
 ### Applications of Z-Value in Trading Strategies
 
@@ -87,10 +87,10 @@ print(data[['[Return](../r/return.md)', 'Z-[Value](../v/value.md)']].tail())
 
 Several prominent financial institutions and technology firms utilize statistical methods, including Z-values, for their [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). Some notable companies include:
 
-- **Jane Street**: [janestreet.com](https://www.janestreet.com/)
-- **Two Sigma**: [twosigma.com](https://www.twosigma.com/)
-- **Renaissance Technologies**: Unofficial link ([here](https://funds.ft.com/uk/Security/Details/USA:RENEI))
-- **Citadel**: [citadel.com](https://www.citadel.com/)
+- **Jane Street**: janestreet.com
+- **Two Sigma**: twosigma.com
+- **Renaissance Technologies**: Unofficial link (here)
+- **Citadel**: citadel.com
 
 ### Conclusion
 

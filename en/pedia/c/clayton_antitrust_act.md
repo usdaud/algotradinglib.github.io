@@ -76,7 +76,7 @@ In today's complex and globalized [economy](../e/economy.md), the principles of 
 
 In recent years, the FTC has initiated [antitrust](../a/antitrust.md) actions against major technology firms. For example, in December 2020, the FTC filed a lawsuit against Facebook, accusing it of maintaining a [social networking](../s/social_networking.md) [monopoly](../m/monopoly.md) through anti-competitive practices. The lawsuit seeks to address Facebook's [acquisition](../a/acquisition.md) strategies and potentially break up its [monopoly](../m/monopoly.md) by unwinding prior acquisitions of Instagram and WhatsApp.
 
-[FTC vs. Facebook](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization)
+FTC vs. Facebook
 
 ## Conclusion
 

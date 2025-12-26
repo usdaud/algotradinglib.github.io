@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP)
 
-[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) is an interdisciplinary field combining linguistics, computer science, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enable computers to understand, interpret, and generate human language. NLP has various applications spanning from simple tasks like spell [check](../c/check.md) in word processors to more complex tasks like [sentiment analysis](../s/sentiment_analysis.md), machine translation, and question answering. In the context of trading and [finance](../f/finance.md), NLP plays a pivotal role by extracting valuable information from textual data sources such as news articles, financial reports, [social media](../s/social_media.md) feeds, and earning calls which can be used to inform trading decisions. 
+[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) is an interdisciplinary field combining linguistics, computer science, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enable computers to understand, interpret, and generate human language. NLP has various applications spanning from simple tasks like spell [check](../c/check.md) in word processors to more complex tasks like [sentiment analysis](../s/sentiment_analysis.md), machine translation, and question answering. In the context of trading and [finance](../f/finance.md), NLP plays a pivotal role by extracting valuable information from textual data sources such as news articles, financial reports, [social media](../s/social_media.md) feeds, and earning calls which can be used to inform trading decisions.
 
 ## Core Concepts of NLP
 
@@ -111,7 +111,7 @@ Bidirectional Encoder Representations from [Transformers](../t/transformers.md) 
 
 #### GPT
 
-Generative Pre-trained Transformer (GPT) focuses on language generation tasks and has been instrumental in creating advanced models capable of generating human-like text. 
+Generative Pre-trained Transformer (GPT) focuses on language generation tasks and has been instrumental in creating advanced models capable of generating human-like text.
 
 ### Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
 
@@ -164,18 +164,18 @@ NLP models can inadvertently learn and propagate biases present in the training 
 ## Leading Companies and Research Institutions in NLP
 
 ### OpenAI
-OpenAI is renowned for its advancements in NLP, particularly with the development of GPT-3. More information can be found [here](https://openai.com).
+OpenAI is renowned for its advancements in NLP, particularly with the development of GPT-3. More information can be found here.
 
 ### Google AI
-Google AI has been at the forefront of NLP research, developing models like BERT and contributing richly to the NLP community. Visit their page [here](https://ai.google/).
+Google AI has been at the forefront of NLP research, developing models like BERT and contributing richly to the NLP community.
 
 ### Hugging Face
-Hugging Face is a company that specializes in NLP, [offering](../o/offering.md) an extensive library of pre-trained models and tools for developers. Explore their resources [here](https://huggingface.co).
+Hugging Face is a company that specializes in NLP, [offering](../o/offering.md) an extensive library of pre-trained models and tools for developers. Explore their resources here.
 
 ### Allen Institute for AI (AI2)
-AI2 conducts cutting-edge research on NLP, especially in the domains of [knowledge extraction](../k/knowledge_extraction_in_trading.md) and commonsense reasoning. Learn more [here](https://allenai.org).
+AI2 conducts cutting-edge research on NLP, especially in the domains of [knowledge extraction](../k/knowledge_extraction_in_trading.md) and commonsense reasoning. Learn more here.
 
 ### Stanford NLP
-Stanford NLP group is one of the leading academic bodies in NLP research. Visit their website for more information [here](https://nlp.stanford.edu).
+Stanford NLP group is one of the leading academic bodies in NLP research.
 
 In conclusion, NLP is a rapidly evolving field with immense potential in trading and [finance](../f/finance.md). It provides powerful tools to extract actionable insights from vast amounts of unstructured text data, enabling better decision-making and strategy development.

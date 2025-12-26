@@ -37,4 +37,3 @@
 
 ## Conclusion
 Exercising an option is a critical decision in [options](../o/options.md) trading, involving the use of the rights granted by the option contract to buy or sell the [underlying asset](../u/underlying_asset.md). Understanding when and how to exercise [options](../o/options.md) effectively can significantly impact an [investor](../i/investor.md)'s profitability and [risk management](../r/risk_management.md). It requires careful consideration of various factors, including [intrinsic value](../i/intrinsic_value.md), [market](../m/market.md) conditions, and potential alternatives.
-

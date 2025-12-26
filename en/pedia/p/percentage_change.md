@@ -35,17 +35,17 @@ In the dynamic markets of Forex and cryptocurrencies, percentage change is inval
 ### Step-by-Step Calculation
 
 1. **Identify the New and Old Values**:
-   - Determine the [value](../v/value.md) at the start of the period (Old [Value](../v/value.md)).
-   - Determine the [value](../v/value.md) at the end of the period (New [Value](../v/value.md)).
+ - Determine the [value](../v/value.md) at the start of the period (Old [Value](../v/value.md)).
+ - Determine the [value](../v/value.md) at the end of the period (New [Value](../v/value.md)).
 
 2. **Compute the Difference**:
-   - Subtract the Old [Value](../v/value.md) from the New [Value](../v/value.md) to find the difference.
+ - Subtract the Old [Value](../v/value.md) from the New [Value](../v/value.md) to find the difference.
 
 3. **Divide by the Old [Value](../v/value.md)**:
-   - Take the difference and divide it by the Old [Value](../v/value.md).
+ - Take the difference and divide it by the Old [Value](../v/value.md).
 
 4. **Convert to Percentage**:
-   - Multiply the resulting figure by 100 to convert it to a percentage.
+ - Multiply the resulting figure by 100 to convert it to a percentage.
 
 ### Practical Example
 
@@ -72,7 +72,7 @@ Percentage change enables [comparative analysis](../c/comparative_analysis.md) a
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), percentage change plays a pivotal role in developing [trading strategies](../t/trading_strategies.md) and models. Algorithms can be programmed to react to specific percentage changes in [asset](../a/asset.md) prices, thus automating trading decisions. For instance, a strategy may be devised to buy a stock if it drops by more than 5% within a day, anticipating a rebound.
+In [algorithmic trading](../a/algorithmic_trading.md), percentage change plays a pivotal role in developing [trading strategies](../t/trading_strategies.md) and models. Algorithms can be programmed to react to specific percentage changes in [asset](../a/asset.md) prices, thus automating trading decisions. For instance, a strategy may be devised to buy a stock if it drops by more than 5% within a day, anticipating a rebound.
 
 ### Risk Management
 
@@ -84,7 +84,7 @@ FinTech companies [leverage](../l/leverage.md) percentage change in various appl
 
 ### Example - Betterment
 
-Betterment, a prominent robo-advisor, uses percentage change extensively to [offer](../o/offer.md) automated, algorithm-driven [financial planning](../f/financial_planning.md) services. More details about their services can be found here: [Betterment](https://www.betterment.com/)
+Betterment, a prominent robo-advisor, uses percentage change extensively to [offer](../o/offer.md) automated, algorithm-driven [financial planning](../f/financial_planning.md) services. More details about their services can be found here: Betterment
 
 ### Predictive Analytics
 

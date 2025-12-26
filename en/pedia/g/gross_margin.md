@@ -136,11 +136,11 @@ Gross [margin](../m/margin.md) focuses on profitability related to production an
 
 ### Apple Inc.
 
-Apple Inc. (https://www.apple.com) is a prime example of a company with a high gross [margin](../m/margin.md), reflecting its strong brand, [premium](../p/premium.md) pricing strategy, and efficient [supply chain](../s/supply_chain.md) management. According to recent financial reports, Apple consistently achieves gross margins above 38%, showcasing its ability to manage [production costs](../p/production_costs.md) while maintaining high sales prices.
+Apple Inc. ( is a prime example of a company with a high gross [margin](../m/margin.md), reflecting its strong brand, [premium](../p/premium.md) pricing strategy, and efficient [supply chain](../s/supply_chain.md) management. According to recent financial reports, Apple consistently achieves gross margins above 38%, showcasing its ability to manage [production costs](../p/production_costs.md) while maintaining high sales prices.
 
 ### Amazon
 
-Amazon (https://www.amazon.com) operates with a different [business](../b/business.md) model, often characterized by lower gross margins compared to companies like Apple. Amazon's extensive investments in [logistics](../l/logistics.md), fulfillment centers, and technology contribute to higher COGS. However, the company's strategy focuses on high sales volumes and [market share](../m/market_share.md), offsetting lower gross margins with enormous [revenue](../r/revenue.md) and operational efficiencies.
+Amazon ( operates with a different [business](../b/business.md) model, often characterized by lower gross margins compared to companies like Apple. Amazon's extensive investments in [logistics](../l/logistics.md), fulfillment centers, and technology contribute to higher COGS. However, the company's strategy focuses on high sales volumes and [market share](../m/market_share.md), offsetting lower gross margins with enormous [revenue](../r/revenue.md) and operational efficiencies.
 
 ## Conclusion
 

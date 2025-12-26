@@ -8,22 +8,20 @@ The Chartered [Retirement Planning](../r/retirement_planning.md) Counselor (CRPC
 
 The Chartered [Retirement Planning](../r/retirement_planning.md) Counselor (CRPC) program is offered by the College for [Financial Planning](../f/financial_planning.md). This institution has been a leader in the financial education sector and provides various professional certifications in [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md).
 
-**Website:** [College for Financial Planning](https://www.kaplanfinancial.com/cfp)
-
 ### Objectives
 
 The primary objective of the CRPC designation is to provide financial professionals with comprehensive education in [retirement planning](../r/retirement_planning.md). The curriculum is designed to make them proficient in evaluating and implementing retirement strategies for their clients. The certification aims to build competence in the following areas:
 
 1. **Understanding Retirement Needs**
-   - Assess the specific requirements and goals of clients approaching retirement.
+ - Assess the specific requirements and goals of clients approaching retirement.
 2. **Developing Retirement Plans**
-   - Create personalized retirement plans suitable to individual client needs.
+ - Create personalized retirement plans suitable to individual client needs.
 3. **Investment Strategies**
-   - Apply investment strategies that align with retirement goals.
+ - Apply investment strategies that align with retirement goals.
 4. **Tax [Efficiency](../e/efficiency.md)**
-   - Implement tax-efficient strategies to maximize retirement [income](../i/income.md).
+ - Implement tax-efficient strategies to maximize retirement [income](../i/income.md).
 5. **[Estate Planning](../e/estate_planning.md)**
-   - Provide [guidance](../g/guidance.md) on [estate planning](../e/estate_planning.md) to ensure smooth transfer of assets.
+ - Provide [guidance](../g/guidance.md) on [estate planning](../e/estate_planning.md) to ensure smooth transfer of assets.
 
 ## Curriculum
 
@@ -78,22 +76,22 @@ The CRPC certification exam comprises [multiple](../m/multiple.md)-choice questi
 ### For Financial Professionals
 
 1. **Specialized Knowledge**
-   - Provides a deep understanding of [retirement planning](../r/retirement_planning.md), setting them apart from generalist financial advisors.
+ - Provides a deep understanding of [retirement planning](../r/retirement_planning.md), setting them apart from generalist financial advisors.
 2. **Client [Trust](../t/trust.md)**
-   - Builds client confidence through certified expertise and knowledge.
+ - Builds client confidence through certified expertise and knowledge.
 3. **Career Enhancement**
-   - Opens up new career opportunities and roles in [retirement planning](../r/retirement_planning.md).
+ - Opens up new career opportunities and roles in [retirement planning](../r/retirement_planning.md).
 4. **Continuing Education**
-   - Satisfies some continuing education requirements for other professional designations, such as the CFP®.
+ - Satisfies some continuing education requirements for other professional designations, such as the CFP®.
 
 ### For Clients
 
 1. **Customized Plans**
-   - Receives customized, effective retirement plans tailored to their specific needs.
+ - Receives customized, effective retirement plans tailored to their specific needs.
 2. **Confidence in Advisor’s Expertise**
-   - Gains peace of mind from working with a qualified professional.
+ - Gains peace of mind from working with a qualified professional.
 3. **Comprehensive [Guidance](../g/guidance.md)**
-   - Accesses comprehensive [guidance](../g/guidance.md) covering all aspects of retirement from [income](../i/income.md) strategies to [estate planning](../e/estate_planning.md).
+ - Accesses comprehensive [guidance](../g/guidance.md) covering all aspects of retirement from [income](../i/income.md) strategies to [estate planning](../e/estate_planning.md).
 
 ## Continuing Education Requirements
 
@@ -106,26 +104,22 @@ While there are numerous [financial planning](../f/financial_planning.md) certif
 ### CRPC vs. CFP®
 
 - **Certified [Financial Planner](../f/financial_planner.md) (CFP®):**
-  - Broader focus covering all aspects of [financial planning](../f/financial_planning.md) including investments, [insurance](../i/insurance.md), [estate planning](../e/estate_planning.md), [taxes](../t/taxes.md), and retirement.
-  - Requires completing a comprehensive education program, passing a multi-day examination, and adhering to extensive ongoing education requirements.
-  - Website: [Certified Financial Planner Board of Standards](https://www.cfp.net)
+ - Broader focus covering all aspects of [financial planning](../f/financial_planning.md) including investments, [insurance](../i/insurance.md), [estate planning](../e/estate_planning.md), [taxes](../t/taxes.md), and retirement.
+ - Requires completing a comprehensive education program, passing a multi-day examination, and adhering to extensive ongoing education requirements.
 
 - **Chartered [Retirement Planning](../r/retirement_planning.md) Counselor (CRPC):**
-  - Concentrates primarily on [retirement planning](../r/retirement_planning.md).
-  - Less extensive coursework compared to CFP®.
-  - Shorter and more focused examination.
-  - Website: [College for Financial Planning](https://www.kaplanfinancial.com/cfp/crpc)
+ - Concentrates primarily on [retirement planning](../r/retirement_planning.md).
+ - Less extensive coursework compared to CFP®.
+ - Shorter and more focused examination.
 
 ### CRPC vs. RICP®
 
 - **Retirement [Income](../i/income.md) Certified Professional (RICP®):**
-  - Focuses more narrowly on generating [income](../i/income.md) during retirement.
-  - Offered by The American College of Financial Services.
-  - Website: [The American College of Financial Services](https://www.theamericancollege.edu/designations-degrees/ricp)
+ - Focuses more narrowly on generating [income](../i/income.md) during retirement.
+ - Offered by The American College of Financial Services.
 
 - **Chartered [Retirement Planning](../r/retirement_planning.md) Counselor (CRPC):**
-  - Broader [scope](../s/scope.md) covering both the accumulation and [distribution](../d/distribution.md) stages of [retirement planning](../r/retirement_planning.md).
-  - Website: [College for Financial Planning](https://www.kaplanfinancial.com/cfp/crpc)
+ - Broader [scope](../s/scope.md) covering both the accumulation and [distribution](../d/distribution.md) stages of [retirement planning](../r/retirement_planning.md).
 
 ## Conclusion
 

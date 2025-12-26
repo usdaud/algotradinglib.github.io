@@ -104,31 +104,31 @@ The DDM values a company based on the [present value](../p/present_value.md) of 
 
 ### 1. **Goldman Sachs**
 Goldman Sachs is a global leader in [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md). The [firm](../f/firm.md) offers a wide [range](../r/range.md) of financial services to a substantial and diversified client base, including corporations, financial institutions, governments, and individuals.
-Website: [Goldman Sachs](https://www.goldmansachs.com/)
+online platform: Goldman Sachs
 
 ### 2. **J.P. Morgan**
 J.P. Morgan is one of the world's largest [investment banks](../i/investment_bank_(ib).md), providing a wide [range](../r/range.md) of services in [investment banking](../i/investment_banking.md), financial services, [asset management](../a/asset_management.md), and [private equity](../p/private_equity.md). The [firm](../f/firm.md) has a global presence and serves large corporations, governments, and institutional investors.
-Website: [J.P. Morgan](https://www.jpmorgan.com/)
+online platform: J.P. Morgan
 
 ### 3. **Morgan Stanley**
 Morgan Stanley is a leading global financial services [firm](../f/firm.md) providing [investment banking](../i/investment_banking.md), securities, [wealth management](../w/wealth_management.md), and [investment management](../i/investment_management.md) services. The company operates in three [business](../b/business.md) segments: Institutional Securities, [Wealth Management](../w/wealth_management.md), and [Investment Management](../i/investment_management.md).
-Website: [Morgan Stanley](https://www.morganstanley.com/)
+online platform: Morgan Stanley
 
 ### 4. **Bank of America Merrill Lynch**
 [Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md) provides [investment banking](../i/investment_banking.md) services, including [capital](../c/capital.md) [market](../m/market.md) transactions, mergers and acquisitions, and corporate [finance](../f/finance.md) advisory services. The [firm](../f/firm.md) serves a wide [range](../r/range.md) of clients, including corporations, governments, institutions, and individual investors.
-Website: [Bank of America Merrill Lynch](https://www.bofaml.com/)
+online platform: Bank of America Merrill Lynch
 
 ### 5. **Citigroup**
 Citigroup is a global financial services company [offering](../o/offering.md) consumer banking, corporate and [investment banking](../i/investment_banking.md), securities brokerage, and [wealth management](../w/wealth_management.md) services. The company operates in over 160 countries and has a comprehensive [range](../r/range.md) of financial products and services.
-Website: [Citigroup](https://www.citigroup.com/)
+online platform: Citigroup
 
 ### 6. **Lazard**
 Lazard is a financial advisory and [asset management](../a/asset_management.md) [firm](../f/firm.md) that advises clients on strategic and financial matters, including mergers and acquisitions, [restructuring](../r/restructuring.md), [capital](../c/capital.md) raising, and [risk management](../r/risk_management.md). The [firm](../f/firm.md) serves corporations, businesses, and governments worldwide.
-Website: [Lazard](https://www.lazard.com/)
+online platform: Lazard
 
 ### 7. **Barclays**
 Barclays is a British multinational investment [bank](../b/bank.md) and financial services company [offering](../o/offering.md) a wide [range](../r/range.md) of services, including corporate banking, [investment banking](../i/investment_banking.md), [wealth](../w/wealth.md) and [investment management](../i/investment_management.md), and personal banking. The company has a strong global presence.
-Website: [Barclays](https://www.barclays.com/)
+online platform: Barclays
 
 ## Conclusion
 Corporate [finance](../f/finance.md) is a dynamic and complex field that focuses on optimizing a company's [financial performance](../f/financial_performance.md) and increasing [shareholder value](../s/shareholder_value.md) through strategic decision-making in areas such as investment, [financing](../f/financing.md), and [risk management](../r/risk_management.md). By understanding the key concepts, models, and tools of corporate [finance](../f/finance.md), companies can make informed financial decisions to achieve their long-term goals and ensure sustainable growth.

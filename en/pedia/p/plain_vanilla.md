@@ -2,6 +2,8 @@
 
 Plain vanilla, in the context of [finance](../f/finance.md), is a term used to describe the simplest form of financial instruments or products without any complex features or additional modifications. These products are straightforward and lack "bells and whistles," making them easy to understand and use. The term "plain vanilla" can apply to various financial instruments, including bonds, [options](../o/options.md), swaps, and loans. This document aims to provide a comprehensive overview of plain vanilla instruments, focusing on their definitions, characteristics, uses, and examples in the [financial markets](../f/financial_market.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Understanding Plain Vanilla Financial Instruments
 
 Plain vanilla financial products are the foundational elements on which more complex [derivatives](../d/derivatives.md) and structured products are built. They are typically the first point of entry for investors and traders when they start exploring the [financial markets](../f/financial_market.md). Here's a detailed look at some common plain vanilla instruments:
@@ -130,4 +132,4 @@ The U.S. Department of the Treasury issues plain vanilla bonds to [finance](../f
 
 Plain vanilla financial instruments serve as the building blocks of the [financial markets](../f/financial_market.md). Their simplicity, [transparency](../t/transparency.md), and predictability make them attractive to a wide [range](../r/range.md) of participants, from individual investors to large corporations. While they may lack the customization and potential returns of more complex [derivatives](../d/derivatives.md), their ease of use and lower costs ensure their continued relevance in the financial landscape.
 
-For more information on financial products and services, you can visit reputable financial institutions' websites, such as [JPMorgan Chase](https://www.jpmorganchase.com/) or [Goldman Sachs](https://www.goldmansachs.com/).
+For more information on financial products and services, you can visit reputable financial institutions' websites, such as JPMorgan Chase or Goldman Sachs.

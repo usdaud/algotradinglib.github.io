@@ -17,7 +17,7 @@ In Madoff’s case, his investment [firm](../f/firm.md) claimed to employ a "spl
 ## Discovery and Aftermath
 
 ### The Unraveling
-The [Ponzi scheme](../p/ponzi_scheme.md) began to unravel in December 2008, during the global [financial crisis](../f/financial_crisis.md). Investors, suffering losses in other investments and seeking [liquidity](../l/liquidity.md), began requesting redemptions from Madoff’s [firm](../f/firm.md). On December 10, 2008, Madoff confessed to his sons that his investment advisory [business](../b/business.md) was a massive [Ponzi scheme](../p/ponzi_scheme.md). His sons turned him in to the authorities the next day. 
+The [Ponzi scheme](../p/ponzi_scheme.md) began to unravel in December 2008, during the global [financial crisis](../f/financial_crisis.md). Investors, suffering losses in other investments and seeking [liquidity](../l/liquidity.md), began requesting redemptions from Madoff’s [firm](../f/firm.md). On December 10, 2008, Madoff confessed to his sons that his investment advisory [business](../b/business.md) was a massive [Ponzi scheme](../p/ponzi_scheme.md). His sons turned him in to the authorities the next day.
 
 Madoff was arrested on December 11, 2008, and charged with securities [fraud](../f/fraud.md). On March 12, 2009, Madoff pleaded guilty to 11 federal felonies, admitting to operating the largest [Ponzi scheme](../p/ponzi_scheme.md) in history and defrauding thousands of investors of billions of dollars. He was sentenced to 150 years in prison on June 29, 2009.
 
@@ -46,6 +46,6 @@ The Madoff [Ponzi scheme](../p/ponzi_scheme.md) illuminated significant [gaps](.
 Bernie Madoff’s story is one of rise, deceit, and catastrophic fall. As one of the most notorious figures in financial history, his name has become synonymous with financial [fraud](../f/fraud.md) and the devastating impact such deceit can have on individuals and institutions alike. While his [Ponzi scheme](../p/ponzi_scheme.md) caused immense harm, it also prompted significant improvements in regulatory practices, hopefully preventing future occurrences of similar large-scale frauds.
 
 For more detailed information on the [firm](../f/firm.md) and recovery efforts:
-- [Bernard L. Madoff Investment Securities LLC](http://www.madofftrustee.com)
+- Bernard L. Madoff Investment Securities LLC
 
 Bernie Madoff’s life and actions serve as a cautionary tale, emphasizing the importance of ethical conduct, vigilance, and the need for [robust](../r/robust.md) regulatory systems to protect investors in the complex world of [finance](../f/finance.md).

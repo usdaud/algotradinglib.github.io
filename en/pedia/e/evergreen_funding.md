@@ -24,7 +24,7 @@ Evergreen funding is characterized by its ongoing contribution structure. Instea
 
 1. **[Dilution](../d/dilution.md) [Risk](../r/risk.md)**: Continuous funding might lead to ownership [dilution](../d/dilution.md) if the company issues new [shares](../s/shares.md) repeatedly to [gain](../g/gain.md) this funding.
 2. **Complacency**: The steady flow of funds might lead to complacency in the management team, reducing the drive to innovate or efficiently manage resources.
-3. **[Investor Relations](../i/investor_relations.md)**: Ongoing funding requires maintaining strong, trusting relationships with investors who are prepared to commit continuously, which might be challenging.
+3. **[company filings](../i/investor_relations.md)**: Ongoing funding requires maintaining strong, trusting relationships with investors who are prepared to commit continuously, which might be challenging.
 4. **[Valuation](../v/valuation.md) [Uncertainty](../u/uncertainty_in_trading.md)**: Traditional funding rounds involve [valuation](../v/valuation.md) events; with evergreen funding, fewer such events occur, which might create uncertainties about the company's current [market](../m/market.md) [valuation](../v/valuation.md).
 
 ## Real-world Applications
@@ -49,11 +49,11 @@ Non-[profit](../p/profit.md) organizations sometimes use evergreen funding strat
 
 ### Sequoia Capital
 
-Sequoia [Capital](../c/capital.md) has been known to use an evergreen [fund](../f/fund.md) structure for continuously reinvesting returns from its funds into new and existing investments, promoting a long-term [investment strategy](../i/investment_strategy.md). [Sequoia Capital](https://www.sequoiacap.com/).
+Sequoia [Capital](../c/capital.md) has been known to use an evergreen [fund](../f/fund.md) structure for continuously reinvesting returns from its funds into new and existing investments, promoting a long-term [investment strategy](../i/investment_strategy.md). Sequoia Capital.
 
 ### SJF Ventures
 
-SJF Ventures operates an evergreen [fund](../f/fund.md) that focuses on impact investments, continuously injecting [capital](../c/capital.md) into companies that align with their social and environmental goals. [SJF Ventures](https://sjfventures.com/).
+SJF Ventures operates an evergreen [fund](../f/fund.md) that focuses on impact investments, continuously injecting [capital](../c/capital.md) into companies that align with their social and environmental goals. SJF Ventures.
 
 ## Future of Evergreen Funding
 

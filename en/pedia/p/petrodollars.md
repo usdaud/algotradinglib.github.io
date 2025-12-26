@@ -88,13 +88,13 @@ Continued efforts to diversify economies remain crucial for oil-exporting countr
 
 Saudi Arabia stands as a prominent example of a country heavily influenced by petrodollars. The world’s largest oil exporter, Saudi Arabia has utilized its vast petrodollar revenues to invest in [infrastructure](../i/infrastructure.md), defense, and social projects. The Saudi Vision 2030 initiative exemplifies efforts to diversify its [economy](../e/economy.md) and reduce reliance on oil by fostering growth in various industries.
 
-For more information on Saudi Vision 2030, visit [vision2030.gov.sa](https://www.vision2030.gov.sa/).
+For more information on Saudi Vision 2030, visit vision2030.gov.sa.
 
 ### Norway
 
 Norway’s management of its petrodollar revenues through the Government Pension [Fund](../f/fund.md) Global serves as a model for effective use of oil [wealth](../w/wealth.md). By [investing](../i/investing.md) in a diverse portfolio of global assets, Norway has built one of the largest sovereign [wealth](../w/wealth.md) funds, ensuring long-term economic stability and prosperity for future generations.
 
-For more information on Norway's Government Pension [Fund](../f/fund.md) Global, visit [nbim.no](https://www.nbim.no/).
+For more information on Norway's Government Pension [Fund](../f/fund.md) Global, visit nbim.no.
 
 ## Conclusion
 

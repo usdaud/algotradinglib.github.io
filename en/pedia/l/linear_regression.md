@@ -12,7 +12,7 @@ Here, \( \beta_0 \) is the intercept, \( \beta_1 \) is the slope of the line, an
 
 For [multiple](../m/multiple.md) variables, you can use **[multiple linear regression](../m/multiple_linear_regression.md)**:
 
-\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + ... + \beta_n X_n + \epsilon \]
+\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 +... + \beta_n X_n + \epsilon \]
 
 ### Key Concepts in Linear Regression
 
@@ -39,7 +39,7 @@ For linear regression to be effective, several assumptions must [hold](../h/hold
 
 Collect historical price data for assets you're interested in. This data can be sourced from APIs provided by financial data companies.
 
-For instance, [Alpha Vantage](https://www.alphavantage.co) provides comprehensive APIs for financial data.
+For instance, Alpha Vantage provides comprehensive APIs for financial data.
 
 #### 2. Data Preprocessing
 
@@ -109,11 +109,11 @@ Assess the [risk](../r/risk.md) of [trading strategies](../t/trading_strategies.
 
 ### Real-World Examples
 
-1. [QuantConnect](https://www.quantconnect.com/): Provides a platform for developing [algorithmic trading](../a/algorithmic_trading.md) strategies using various methods, including linear regression.
+1. QuantConnect: Provides a platform for developing [algorithmic trading](../a/algorithmic_trading.md) strategies using various methods, including linear regression.
 
-2. [AlgoTrader](https://www.algotrader.com/): [AlgoTrader](../a/algotrader.md) users can integrate linear regression models into their strategies to enhance predictive accuracy.
+2. AlgoTrader: [AlgoTrader](../a/algotrader.md) users can integrate linear regression models into their strategies to enhance predictive accuracy.
 
-3. [QuantInsti](https://www.quantinsti.com/): Offers courses and materials on using linear regression for [algorithmic trading](../a/algorithmic_trading.md).
+3. QuantInsti: Offers courses and materials on using linear regression for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Conclusion
 

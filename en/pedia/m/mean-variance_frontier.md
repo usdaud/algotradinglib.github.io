@@ -86,11 +86,11 @@ The portfolio that maximizes the [Sharpe Ratio](../s/sharpe_ratio.md) is the tan
 
 #### Asset Management Firms
 
-Many [asset management](../a/asset_management.md) firms use the principles of the Mean-Variance Frontier to construct and manage investment portfolios. For example, BlackRock (https://www.blackrock.com) and Vanguard (https://www.vanguard.com) [offer](../o/offer.md) various funds and investment products designed to achieve efficient [risk](../r/risk.md)-[return](../r/return.md) profiles based on modern portfolio theory.
+Many [asset management](../a/asset_management.md) firms use the principles of the Mean-Variance Frontier to construct and manage investment portfolios. For example, BlackRock ( and Vanguard ( [offer](../o/offer.md) various funds and investment products designed to achieve efficient [risk](../r/risk.md)-[return](../r/return.md) profiles based on modern portfolio theory.
 
 #### Robo-Advisors
 
-Robo-advisors are automated platforms that use algorithms to provide investment advice and [portfolio management](../p/portfolio_management.md) services. Companies like Betterment (https://www.betterment.com) and Wealthfront (https://www.wealthfront.com) utilize the Mean-Variance Frontier to construct diversified portfolios tailored to individual investors' [risk](../r/risk.md) preferences and financial goals.
+Robo-advisors are automated platforms that use algorithms to provide investment advice and [portfolio management](../p/portfolio_management.md) services. Companies like Betterment ( and Wealthfront ( utilize the Mean-Variance Frontier to construct diversified portfolios tailored to individual investors' [risk](../r/risk.md) preferences and financial goals.
 
 ### Limitations and Criticisms
 

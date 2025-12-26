@@ -51,7 +51,7 @@ Understanding and articulating the [value](../v/value.md) proposition can guide 
 
 ## Crafting a Strong Value Proposition
 
-Creating a strong [value](../v/value.md) proposition involves several iterative steps to accurately capture the essence of the [value](../v/value.md) being provided to the [customer](../c/customer.md). 
+Creating a strong [value](../v/value.md) proposition involves several iterative steps to accurately capture the essence of the [value](../v/value.md) being provided to the [customer](../c/customer.md).
 
 ### Steps to Develop a Value Proposition
 
@@ -75,7 +75,7 @@ A [value](../v/value.md) proposition should be tested and refined based on [cust
 
 ## Role in Digital and Algorithmic Trading
 
-In digital and [algorithmic trading](../a/accountability.md), the [value](../v/value.md) proposition plays a critical role in defining why traders and investors should use a particular platform or tool, especially given the complex nature of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) and the specialized needs of traders.
+In digital and [algorithmic trading](../a/algorithmic_trading.md), the [value](../v/value.md) proposition plays a critical role in defining why traders and investors should use a particular platform or tool, especially given the complex nature of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) and the specialized needs of traders.
 
 ### Unique Features and Benefits
 
@@ -88,9 +88,9 @@ For [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), the 
 
 ### Case Study
 
-**Company**: [QuantConnect](../q/quantconnect.md)
-**[Value](../v/value.md) Proposition**: "[Algorithmic trading](../a/accountability.md), simplified. Build your investments with code, ready to backtest and deploy on live markets."
-[QuantConnect](../q/quantconnect.md) offers an integrated environment for traders to develop, backtest, and deploy algorithmic strategies in a straightforward, streamlined manner.
+**Company**: [StockSharp](../s/stocksharp.md)
+**[Value](../v/value.md) Proposition**: "[Algorithmic trading](../a/algorithmic_trading.md), simplified. Build your investments with code, ready to backtest and deploy on live markets."
+[StockSharp](../s/stocksharp.md) offers an integrated environment for traders to develop, backtest, and deploy algorithmic strategies in a straightforward, streamlined manner.
 
 ## Communicating Value Proposition
 
@@ -98,7 +98,6 @@ Communicating your [value](../v/value.md) proposition effectively involves utili
 
 ### Channels for Communication
 
-1. **Website**: A primary platform for showcasing your [value](../v/value.md) proposition clearly on your homepage and key landing pages.
 2. **[Social Media](../s/social_media.md)**: Engaging content across [social media](../s/social_media.md) platforms that emphasizes the [value](../v/value.md) offered.
 3. **Email [Marketing](../m/marketing.md)**: Direct communication with customers and prospects highlighting key benefits and updates.
 4. **Product Demos**: Interactive demos that showcase the product's [value](../v/value.md) in real-time.
@@ -116,6 +115,6 @@ The [value](../v/value.md) proposition is a fundamental element of [business](..
 
 For more information on examples mentioned:
 
-- **Revolut**: [Revolut](https://www.revolut.com)
-- **[eToro](../e/etoro.md)**: [eToro](https://www.etoro.com)
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com)
+- **Revolut**: Revolut
+- **[eToro](../e/etoro.md)**: eToro
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect

@@ -104,4 +104,4 @@ To avoid these issues, double-[check](../c/check.md) the form for accuracy and c
 
 Form 4506 is an essential document for taxpayers who need full copies of previously filed tax returns. Proper understanding and meticulous completion of this form ensure that the needed documentation can be obtained timely and effectively. By following the outlined steps and addressing common pitfalls, taxpayers can navigate the process seamlessly and achieve their financial or legal objectives with the necessary IRS documentation in hand.
 
-For more detailed instructions on Form 4506, visit the official [IRS website](https://www.irs.gov/forms-pubs/about-form-4506).
+For more detailed instructions on Form 4506,

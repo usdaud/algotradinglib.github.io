@@ -4,23 +4,23 @@
 
 ### Key Components
 
-1. **Simplified Architecture:**  
-   With fewer parameters than o1, o1-mini reduces computational overhead while preserving essential [chain-of-thought reasoning](../c/chain-of-thought_reasoning.md).
+1. **Simplified Architecture:**
+ With fewer parameters than o1, o1-mini reduces computational overhead while preserving essential [chain-of-thought reasoning](../c/chain-of-thought_reasoning.md).
 
-2. **Optimized Computation:**  
-   Advanced techniques in model compression and quantization allow for faster responses without a dramatic loss in accuracy.
+2. **Optimized Computation:**
+ Advanced techniques in model compression and quantization allow for faster responses without a dramatic loss in accuracy.
 
-3. **Resource Adaptation:**  
-   Designed for deployment in settings like mobile devices or low-resource servers, o1-mini offers a practical balance between performance and [efficiency](../e/efficiency.md).
+3. **Resource Adaptation:**
+ Designed for deployment in settings like mobile devices or low-resource servers, o1-mini offers a practical balance between performance and [efficiency](../e/efficiency.md).
 
 ### Applications
 
-- **Everyday Tasks:**  
-  Quick responses for chatbots, text generation, and simple queries.
-- **Resource-Constrained Environments:**  
-  Ideal for mobile apps and web services where low latency is crucial.
-- **Prototyping:**  
-  A cost-effective option for rapid testing and development of new AI applications.
+- **Everyday Tasks:**
+ Quick responses for chatbots, text generation, and simple queries.
+- **Resource-Constrained Environments:**
+ Ideal for mobile apps and web services where low latency is crucial.
+- **Prototyping:**
+ A cost-effective option for rapid testing and development of new AI applications.
 
 ### Advantages
 

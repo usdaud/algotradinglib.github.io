@@ -4,15 +4,15 @@
 
 ## Understanding the VIX
 
-The [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), or VIX, is a real-time [index](../i/index_instrument.md) that represents the [market](../m/market.md)'s expectations for [volatility](../v/volatility.md) over the coming 30 days. It is derived from the implied volatilities of a wide [range](../r/range.md) of S&P 500 [index options](../i/index_options.md), both calls and puts. Essentially, the VIX measures the [market sentiment](../m/market_sentiment.md) and the expected fluctuation [range](../r/range.md) of the S&P 500, making it a significant [indicator](../i/indicator.md) for investors and traders alike. 
+The [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), or VIX, is a real-time [index](../i/index_instrument.md) that represents the [market](../m/market.md)'s expectations for [volatility](../v/volatility.md) over the coming 30 days. It is derived from the implied volatilities of a wide [range](../r/range.md) of S&P 500 [index options](../i/index_options.md), both calls and puts. Essentially, the VIX measures the [market sentiment](../m/market_sentiment.md) and the expected fluctuation [range](../r/range.md) of the S&P 500, making it a significant [indicator](../i/indicator.md) for investors and traders alike.
 
 The calculation of the VIX involves complex mathematics, computing a [weighted](../w/weighted.md) sum of specific [options](../o/options.md), and this data is updated constantly during trading hours. Due to its complexity, not many retail investors go into the details of the VIX's computation, but understanding its directional movement is crucial for utilizing [VIX Options](../v/vix_option.md) effectively.
 
-More information about the VIX and its calculation can be found on the [CBOE website](https://www.cboe.com/tradable_products/vix/).
+
 
 ## Types of VIX Options
 
-[VIX Options](../v/vix_option.md) come in two primary types: call [options](../o/options.md) and [put options](../p/put_options.md). 
+[VIX Options](../v/vix_option.md) come in two primary types: call [options](../o/options.md) and [put options](../p/put_options.md).
 
 1. **VIX Call [Options](../o/options.md)**: These give the holder the right, but not the obligation, to buy the VIX at a predetermined [strike price](../s/strike_price.md) on or before a specified [expiration date](../e/expiration_date.md). Investors utilize call [options](../o/options.md) when they predict that [market](../m/market.md) [volatility](../v/volatility.md) [will](../w/will.md) increase, typically during times of economic [uncertainty](../u/uncertainty_in_trading.md) or [market](../m/market.md) downturns.
 
@@ -78,4 +78,4 @@ The introduction of [VIX Options](../v/vix_option.md) has significantly impacted
 
 [Volatility](../v/volatility.md) [Index Options](../i/index_options.md) [offer](../o/offer.md) unique opportunities for investors aiming to speculate on or [hedge](../h/hedge.md) against [market](../m/market.md) [volatility](../v/volatility.md). While they are complex instruments requiring a good understanding of the [underlying](../u/underlying.md) concepts, their flexibility and the [risk management](../r/risk_management.md) tools they provide are invaluable. Whether used for hedging, [speculation](../s/speculation.md), or [diversification](../d/diversification.md), [VIX Options](../v/vix_option.md) have become an essential component of modern [financial markets](../f/financial_market.md), reflecting the ever-evolving landscape of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md).
 
-For more details on [VIX Options](../v/vix_option.md), visit the [CBOE website](https://www.cboe.com/tradable_products/vix/). 
+For more details on [VIX Options](../v/vix_option.md),

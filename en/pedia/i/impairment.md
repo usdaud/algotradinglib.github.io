@@ -21,7 +21,7 @@ Several factors can lead to the impairment of an [asset](../a/asset.md):
 3. **Legal Changes**: New regulations or laws that impact the usefulness of an [asset](../a/asset.md).
 4. **Technological Advancements**: Innovations that make an [asset](../a/asset.md) obsolete.
 5. **Environmental Factors**: Natural disasters or other events that damage or destroy an [asset](../a/asset.md).
-   
+
 ## Recognizing Impairment Loss
 
 The process to recognize impairment loss involves several steps:
@@ -93,11 +93,11 @@ In the United States, impairment testing is governed by ASC 360 for long-lived a
 
 #### General Electric (GE)
 
-In 2018, General Electric (GE) [reported an impairment charge](https://www.ge.com/reports/general-electric-reports-2018-restructuring/) of approximately $22 billion on its Power segment’s [goodwill](../g/goodwill.md). This charge followed the deterioration in the [market](../m/market.md) conditions and revised [cash flow](../c/cash_flow.md) projections.
+In 2018, General Electric (GE) reported an impairment charge of approximately $22 billion on its Power segment’s [goodwill](../g/goodwill.md). This charge followed the deterioration in the [market](../m/market.md) conditions and revised [cash flow](../c/cash_flow.md) projections.
 
 #### Kraft Heinz
 
-In February 2019, Kraft Heinz [disclosed a $15.4 billion impairment charge](https://www.kraftheinzcompany.com/news/KraftHeinzReportsFourthQuarterandFullYear2018Results.html) related to [goodwill impairment](../g/goodwill_impairment.md) tied to several of its key brands, reflecting increased competition and changes in consumer preferences.
+In February 2019, Kraft Heinz disclosed a $15.4 billion impairment charge related to [goodwill impairment](../g/goodwill_impairment.md) tied to several of its key brands, reflecting increased competition and changes in consumer preferences.
 
 ### Industries Affected
 

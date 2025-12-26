@@ -4,7 +4,7 @@
 
 ### Basics of Limit Orders
 
-A [limit order](../l/limit_order.md) is an [order](../o/order.md) to buy or sell a [security](../s/security.md) at a specified price or better. For a [buy limit order](../b/buy_limit_order.md), the [execution](../e/execution.md) price must be at the limit price or lower. Conversely, for a sell [limit order](../l/limit_order.md), the [execution](../e/execution.md) price must be at the limit price or higher. 
+A [limit order](../l/limit_order.md) is an [order](../o/order.md) to buy or sell a [security](../s/security.md) at a specified price or better. For a [buy limit order](../b/buy_limit_order.md), the [execution](../e/execution.md) price must be at the limit price or lower. Conversely, for a sell [limit order](../l/limit_order.md), the [execution](../e/execution.md) price must be at the limit price or higher.
 
 **Example:**
 - If a [trader](../t/trader.md) places a [buy limit order](../b/buy_limit_order.md) for a stock at $10, the [order](../o/order.md) [will](../w/will.md) only be executed if the stock’s price is $10 or lower.
@@ -68,4 +68,4 @@ These strategies use [quantitative models](../q/quantitative_models.md) to ident
 
 [Limit order](../l/limit_order.md) [execution](../e/execution.md) is a powerful tool within [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) control over [trade](../t/trade.md) prices and enabling sophisticated [trading strategies](../t/trading_strategies.md). By carefully designing and implementing [limit order strategies](../l/limit_order_strategies.md), traders and algorithms can improve [execution](../e/execution.md) [efficiency](../e/efficiency.md), manage [risk](../r/risk.md), and enhance overall [trading performance](../t/trading_performance.md).
 
-For more detailed information on [algorithmic trading](../a/algorithmic_trading.md) solutions and [limit order](../l/limit_order.md) [execution](../e/execution.md) strategies, you can visit [industry](../i/industry.md) leaders like [QuantConnect](https://www.quantconnect.com) and [AlgoTrader](https://www.algotrader.com).
+For more detailed information on [algorithmic trading](../a/algorithmic_trading.md) solutions and [limit order](../l/limit_order.md) [execution](../e/execution.md) strategies, you can visit [industry](../i/industry.md) leaders like QuantConnect and AlgoTrader.

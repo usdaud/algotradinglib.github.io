@@ -2,8 +2,6 @@
 
 Crypto.com [Exchange](../e/exchange.md) is a sophisticated cryptocurrency [trading platform](../t/trading_platform.md) designed to cater to a wide [range](../r/range.md) of trading needs, from beginner to professional levels. Built under the broader umbrella of Crypto.com, a prominent player in the [blockchain](../b/blockchain_in_trading.md) and cryptocurrency space, Crypto.com [Exchange](../e/exchange.md) offers a comprehensive ecosystem for trading, storing, and utilizing digital assets. Headquartered in Hong Kong, the [exchange](../e/exchange.md) has rapidly gained popularity due to its competitive [fee](../f/fee.md) structure, advanced trading features, and strong commitment to [security](../s/security.md).
 
-Official Website: [Crypto.com Exchange](https://crypto.com/exchange)
-
 ## History and Background
 
 Crypto.com was initially launched in 2016 under the name Monaco Technologies GmbH by founders Kris Marszalek, Rafael Melo, Gary Or, and Bobby Bao. The company's vision was to accelerate the world's transition to cryptocurrency by fundamentally changing how people [handle](../h/handle.md) their finances. By 2018, the company rebranded to Crypto.com, reflecting its ambition to become a leading platform in the cryptocurrency [industry](../i/industry.md).

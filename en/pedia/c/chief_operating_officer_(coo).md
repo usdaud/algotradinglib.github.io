@@ -51,7 +51,7 @@ The COO typically reports directly to the CEO and often stands as their right-ha
 ### Case Example: Airbnb
 Airbnb provides a notable example of an effective COO. Belinda Johnson served as Airbnb's COO from 2018 to early 2020. During her tenure, she played a critical role in scaling the company's operations globally, implementing strategic initiatives, and navigating regulatory challenges. Her [leadership](../l/leadership.md) was instrumental in Airbnb's growth and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
-For more information, visit [Airbnb](https://www.airbnb.com).
+For more information, visit Airbnb.
 
 ## The Evolving Role of the COO
 The COO's role is continually evolving, influenced by [industry](../i/industry.md) trends, technological advancements, and organizational changes. Emerging areas of focus for COOs include digital transformation, sustainability, and diversity and inclusion.

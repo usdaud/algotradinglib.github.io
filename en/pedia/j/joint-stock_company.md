@@ -32,10 +32,10 @@ The 20th century saw the [globalization](../g/globalization.md) of economies and
 ### Formation Process
 
 1. **[Incorporation](../i/incorporation.md)**: The process starts with the [incorporation](../i/incorporation.md) of the company, involving:
-   - **Choosing a Company Name**: Must be unique and not misleading.
-   - **Filing [Incorporation](../i/incorporation.md) Documents**: These typically include the Articles of [Incorporation](../i/incorporation.md) (Name, Purpose, Share Structure) and, in some jurisdictions, the Memorandum of Association.
-   - **Paying Filing Fees**: Fees associated with the [incorporation](../i/incorporation.md) process.
- 
+ - **Choosing a Company Name**: Must be unique and not misleading.
+ - **Filing [Incorporation](../i/incorporation.md) Documents**: These typically include the Articles of [Incorporation](../i/incorporation.md) (Name, Purpose, Share Structure) and, in some jurisdictions, the Memorandum of Association.
+ - **Paying Filing Fees**: Fees associated with the [incorporation](../i/incorporation.md) process.
+
 2. **Share Issuance**: [Shares](../s/shares.md) are issued to founders and initial investors, defining the ownership structure.
 
 3. **[Corporate Governance](../c/corporate_governance.md) Setup**: Establishing the board of directors, drafting bylaws, and outlining roles and responsibilities of managers.
@@ -98,18 +98,18 @@ In the U.S., JSCs (often referred to as corporations) are regulated at both the 
 
 ### Tech Giants
 
-- **Apple Inc.**: One of the largest and most recognizable JSCs, publicly traded on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md) ([Apple Inc.](https://www.apple.com/)).
-- **Microsoft [Corporation](../c/corporation.md)**: Another major public JSC, traded on the [NASDAQ](../n/nasdaq.md) ([Microsoft Corporation](https://www.microsoft.com/)).
+- **Apple Inc.**: One of the largest and most recognizable JSCs, publicly traded on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md) (Apple Inc.).
+- **Microsoft [Corporation](../c/corporation.md)**: Another major public JSC, traded on the [NASDAQ](../n/nasdaq.md) (Microsoft Corporation).
 
 ### Financial Sector
 
-- **JPMorgan Chase & Co.**: A prominent financial services JSC, [listed](../l/listed.md) on the NYSE ([JPMorgan Chase & Co.](https://www.jpmorganchase.com/)).
-- **Goldman Sachs Group, Inc.**: A leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md), also publicly traded on the NYSE ([Goldman Sachs](https://www.goldmansachs.com/)).
+- **JPMorgan Chase & Co.**: A prominent financial services JSC, [listed](../l/listed.md) on the NYSE (JPMorgan Chase & Co.).
+- **Goldman Sachs Group, Inc.**: A leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md), also publicly traded on the NYSE (Goldman Sachs).
 
 ### Manufacturing and Industrial Giants
 
-- **The Boeing Company**: One of the world's largest aerospace companies and a leading manufacturer of commercial jetliners, traded on the NYSE ([The Boeing Company](https://www.boeing.com/)).
-- **General Motors Company**: A major player in the automotive [industry](../i/industry.md), publicly traded on the NYSE ([General Motors](https://www.gm.com/)).
+- **The Boeing Company**: One of the world's largest aerospace companies and a leading manufacturer of commercial jetliners, traded on the NYSE (The Boeing Company).
+- **General Motors Company**: A major player in the automotive [industry](../i/industry.md), publicly traded on the NYSE (General Motors).
 
 ## Future Trends and Challenges
 

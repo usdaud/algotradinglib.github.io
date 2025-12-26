@@ -16,9 +16,9 @@ Several factors can influence [credit](../c/credit.md) scores, including:
 
 ### Monitoring Credit Scores
 Consumers can monitor their [credit](../c/credit.md) scores through various services. Some of the major [credit](../c/credit.md) reporting agencies are:
-- **Equifax**: [Equifax](https://www.equifax.com/)
-- **TransUnion**: [TransUnion](https://www.transunion.com/)
-- **Experian**: [Experian](https://www.experian.com/)
+- **Equifax**: Equifax
+- **TransUnion**: TransUnion
+- **Experian**: Experian
 
 ## Causes of Bad Credit
 Bad [credit](../c/credit.md) can be the result of various financial behaviors and circumstances, including:
@@ -57,4 +57,3 @@ It is important to understand the legal framework surrounding [credit](../c/cred
 
 ## Conclusion
 Bad [credit](../c/credit.md) can significantly impact an individual’s [financial health](../f/financial_health.md) and opportunities. Understanding how [credit](../c/credit.md) scores work, the causes and consequences of bad [credit](../c/credit.md), and the steps that can be taken to repair it are essential for financial stability and growth. Utilizing resources and possibly seeking professional help can aid in navigating the complexities of [credit](../c/credit.md) repair.
-

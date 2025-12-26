@@ -68,9 +68,9 @@ The rise of [big data](../b/big_data_in_trading.md) and social networks has open
 
 There are numerous institutions and research centers dedicated to the study of social [economics](../e/economics.md). Here are a few notable ones:
 
-- **[World Bank](../w/world_bank.md)**: The [World Bank](../w/world_bank.md) conducts extensive research on economic development, [poverty](../p/poverty.md) reduction, and social policies. [World Bank](https://www.worldbank.org/)
-- **OECD (Organisation for Economic Co-operation and Development)**: The OECD produces important data and analyses on economic and social policies among member countries. [OECD](https://www.oecd.org/)
-- **Institute for Social and Economic Research (ISER)**: ISER at the University of Essex conducts multidisciplinary research on social and economic issues. [ISER](https://www.iser.essex.ac.uk/)
-- **National Bureau of Economic Research (NBER)**: NBER provides economic research and focuses on understanding how economic behaviors are shaped by social factors. [NBER](https://www.nber.org/)
+- **[World Bank](../w/world_bank.md)**: The [World Bank](../w/world_bank.md) conducts extensive research on economic development, [poverty](../p/poverty.md) reduction, and social policies. World Bank
+- **OECD (Organisation for Economic Co-operation and Development)**: The OECD produces important data and analyses on economic and social policies among member countries. OECD
+- **Institute for Social and Economic Research (ISER)**: ISER at the University of Essex conducts multidisciplinary research on social and economic issues. ISER
+- **National Bureau of Economic Research (NBER)**: NBER provides economic research and focuses on understanding how economic behaviors are shaped by social factors. NBER
 
 Social [economics](../e/economics.md) offers a comprehensive and nuanced understanding of how economies function within the broader social context. By integrating social, economic, and behavioral sciences, it provides valuable insights for addressing the complex challenges facing modern societies.

@@ -1,6 +1,6 @@
 # Time Value
 
-The concept of time [value](../v/value.md) is a fundamental principle in [finance](../f/finance.md) and trading that refers to the idea that [money](../m/money.md) available today is worth more than the same amount of [money](../m/money.md) available in the future. This principle is crucial for understanding and evaluating financial decisions, investments, and the [value](../v/value.md) of [options](../o/options.md) and other [derivatives](../d/derivatives.md). In this comprehensive exposition, we [will](../w/will.md) delve into various aspects of the time [value](../v/value.md) of [money](../m/money.md) (TVM), including its theoretical underpinnings, mathematical formulations, applications in different financial instruments, and its importance in [algorithmic trading](../a/accountability.md) and FinTech.
+The concept of time [value](../v/value.md) is a fundamental principle in [finance](../f/finance.md) and trading that refers to the idea that [money](../m/money.md) available today is worth more than the same amount of [money](../m/money.md) available in the future. This principle is crucial for understanding and evaluating financial decisions, investments, and the [value](../v/value.md) of [options](../o/options.md) and other [derivatives](../d/derivatives.md). In this comprehensive exposition, we [will](../w/will.md) delve into various aspects of the time [value](../v/value.md) of [money](../m/money.md) (TVM), including its theoretical underpinnings, mathematical formulations, applications in different financial instruments, and its importance in [algorithmic trading](../a/algorithmic_trading.md) and FinTech.
 
 ## Understanding Time Value of Money
 
@@ -10,7 +10,7 @@ The time [value](../v/value.md) of [money](../m/money.md) is rooted in the prefe
 2. **[Opportunity Cost](../o/opportunity_cost.md)**: [Money](../m/money.md) available today can be invested to earn returns. The potential [earnings](../e/earnings.md) from such investments represent an [opportunity cost](../o/opportunity_cost.md) of holding [money](../m/money.md) in the future.
 3. **[Risk](../r/risk.md) and [Uncertainty](../u/uncertainty_in_trading.md)**: Future cash flows are uncertain, and there is a [risk](../r/risk.md) associated with deferring consumption or investment.
 
-## Key Components 
+## Key Components
 
 ### Present Value (PV)
 
@@ -63,7 +63,7 @@ The [future value of an annuity](../f/future_value_of_an_annuity.md) is calculat
 
 \[ FV_{\text{annuity}} = P \times \left( \frac{(1 + r)^n - 1}{r} \right) \]
 
-## Applications in Financial Instruments 
+## Applications in Financial Instruments
 
 ### Bonds
 
@@ -93,7 +93,7 @@ In HFT, where trades are executed at ultra-fast speeds, understanding the immedi
 
 ### Arbitrage Opportunities
 
-[Arbitrage](../a/arbitrage.md) strategies in [algorithmic trading](../a/accountability.md) exploit price discrepancies between correlated assets. Time [value](../v/value.md) calculations help in assessing the cost and profitability of buying and selling different instruments over time.
+[Arbitrage](../a/arbitrage.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) exploit price discrepancies between correlated assets. Time [value](../v/value.md) calculations help in assessing the cost and profitability of buying and selling different instruments over time.
 
 ## Role in FinTech
 
@@ -111,12 +111,12 @@ In the nascent field of decentralized [finance](../f/finance.md) (DeFi), TVM is 
 
 ## Conclusion
 
-The time [value](../v/value.md) of [money](../m/money.md) is a pivotal concept in [finance](../f/finance.md) and trading, influencing how various financial instruments are valued and how investment decisions are made. Understanding TVM's nuances allows for more informed and rational decision-making, whether in traditional [finance](../f/finance.md), [algorithmic trading](../a/accountability.md), or cutting-edge FinTech applications. The mathematical foundations and practical applications across different domains underscore its timeless relevance and importance in the financial world.
+The time [value](../v/value.md) of [money](../m/money.md) is a pivotal concept in [finance](../f/finance.md) and trading, influencing how various financial instruments are valued and how investment decisions are made. Understanding TVM's nuances allows for more informed and rational decision-making, whether in traditional [finance](../f/finance.md), [algorithmic trading](../a/algorithmic_trading.md), or cutting-edge FinTech applications. The mathematical foundations and practical applications across different domains underscore its timeless relevance and importance in the financial world.
 
 For further reading and tools to calculate TVM, you can explore:
-- [Investopedia Article on TVM](https://www.investopedia.com/terms/t/timevalueofmoney.asp)
-- [LendingClub's Platform](https://www.lendingclub.com/)
-- [Black-Scholes Option Pricing](https://www.investopedia.com/terms/b/blackscholes.asp)
+- Investopedia Article on TVM
+- LendingClub's Platform
+- Black-Scholes Option Pricing
 
 ---
 This document aims to provide an in-depth understanding suitable for anyone from novice traders to seasoned financial professionals seeking to deepen their knowledge of the time [value](../v/value.md) of [money](../m/money.md) concept and its applications.

@@ -9,7 +9,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), layered [tra
 ### Benefits of Layered Trading Strategies
 
 1. **[Diversification](../d/diversification.md) of [Risk](../r/risk.md)**: By employing [multiple](../m/multiple.md) strategies, traders can spread their [risk](../r/risk.md) across various algorithms. This reduces the likelihood of significant losses, as different strategies may perform better under different [market](../m/market.md) conditions.
-   
+
 2. **Enhanced Performance**: Layered strategies can [complement](../c/complement.md) each other’s strengths and weaknesses. For instance, one algorithm might excel in trending markets, while another performs better in volatile or sideways markets.
 
 3. **Increased Adaptability**: Markets are inherently unpredictable and can change rapidly. Layered [trading strategies](../t/trading_strategies.md) can adapt more quickly to these changes by switching between or combining different strategies that are better suited to the current [market](../m/market.md) environment.
@@ -53,7 +53,7 @@ High-frequency trading (HFT) strategies involve executing a large number of trad
 To implement layered [trading strategies](../t/trading_strategies.md) effectively, a [robust](../r/robust.md) and scalable framework is essential. This includes:
 
 1. **Technology**: High-performance computing environments to [handle](../h/handle.md) the complex calculations and large datasets involved in [trading strategies](../t/trading_strategies.md).
-   
+
 2. **Data**: Access to high-quality [market](../m/market.md) data, including historical and real-time data, is critical. This may also include [alternative data](../a/alternative_data.md) sources for [sentiment analysis](../s/sentiment_analysis.md) or other non-traditional [trading signals](../t/trading_signals.md).
 
 3. **Connectivity**: Low-latency connections to exchanges and other trading venues to ensure timely [execution](../e/execution.md) of trades.
@@ -80,7 +80,7 @@ Once implemented, continuous monitoring and maintenance are crucial to ensure th
 
 ### Real-World Application
 
-One notable example of a company utilizing layered [trading strategies](../t/trading_strategies.md) is Renaissance Technologies. Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs a multitude of [quantitative strategies](../q/quantitative_strategies_in_trading.md), layered and coordinated to achieve remarkable returns. More information about Renaissance Technologies can be found [here](https://www.rentec.com).
+One notable example of a company utilizing layered [trading strategies](../t/trading_strategies.md) is Renaissance Technologies. Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies employs a multitude of [quantitative strategies](../q/quantitative_strategies_in_trading.md), layered and coordinated to achieve remarkable returns. More information about Renaissance Technologies can be found here.
 
 ## Conclusion
 

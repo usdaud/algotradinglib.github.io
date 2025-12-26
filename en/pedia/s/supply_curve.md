@@ -2,7 +2,7 @@
 
 The [supply](../s/supply.md) curve is a fundamental concept in [economics](../e/economics.md) that describes the relationship between the price of a good or service and the quantity that suppliers are willing to produce and sell in the [market](../m/market.md). This relationship is usually represented graphically, with the price on the vertical axis and the quantity on the horizontal axis. Understanding the [supply](../s/supply.md) curve is essential for analyzing [market](../m/market.md) behaviors, predicting how prices may change in response to various factors, and developing effective economic policies. This article delves deep into the principles, determinants, features, and implications of the [supply](../s/supply.md) curve.
 
-## Basic Concept 
+## Basic Concept
 
 The [supply](../s/supply.md) curve is based on the [law of supply](../l/law_of_supply.md), which states that, all else being equal, an increase in the price of a good [will](../w/will.md) result in an increase in the [quantity supplied](../q/quantity_supplied.md). Conversely, if the price of a good decreases, the [quantity supplied](../q/quantity_supplied.md) [will](../w/will.md) also decrease. This positive relationship is typically represented by an upward-sloping curve.
 
@@ -77,7 +77,7 @@ The [elasticity](../e/elasticity.md) of [supply](../s/supply.md) depends on fact
 
 ## Implications for Businesses and Policymakers
 
-Understanding the [supply](../s/supply.md) curve is crucial for [business](../b/business.md) strategies and policy formulations. Businesses use this information to set prices, forecast [financial performance](../f/financial_performance.md), and plan production. Policymakers utilize [supply](../s/supply.md) curves to predict the impact of regulations, [taxes](../t/taxes.md), and subsidies on the [market](../m/market.md). 
+Understanding the [supply](../s/supply.md) curve is crucial for [business](../b/business.md) strategies and policy formulations. Businesses use this information to set prices, forecast [financial performance](../f/financial_performance.md), and plan production. Policymakers utilize [supply](../s/supply.md) curves to predict the impact of regulations, [taxes](../t/taxes.md), and subsidies on the [market](../m/market.md).
 
 ### Real-World Applications
 
@@ -96,9 +96,9 @@ In more complex [market](../m/market.md) structures like oligopolies or monopoli
 
 ### Algorithmic Trading and Supply Curves
 
-In the realm of [algorithmic trading](../a/accountability.md) and fintech, understanding [supply](../s/supply.md) dynamics is key. [Automated trading systems](../a/automated_trading_systems.md) may use historical [supply](../s/supply.md) data to forecast price movements and optimize [trading strategies](../t/trading_strategies.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and fintech, understanding [supply](../s/supply.md) dynamics is key. [Automated trading systems](../a/automated_trading_systems.md) may use historical [supply](../s/supply.md) data to forecast price movements and optimize [trading strategies](../t/trading_strategies.md).
 
-For further insights, exploring technical documentation and resources from companies like Three Sigma (https://threesigma.com) can provide in-depth understanding and practical applications.
+For further insights, exploring technical documentation and resources from companies like Three Sigma can provide in-depth understanding and practical applications.
 
 ## Conclusion
 

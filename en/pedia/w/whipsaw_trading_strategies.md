@@ -115,7 +115,7 @@ Feed the model historical price data and label instances of known whipsaws to im
 
 ## Real-World Application of Whipsaw Strategies
 
-Several high-frequency trading firms and financial institutions [leverage](../l/leverage.md) [whipsaw](../w/whipsaw.md) strategies to enhance [algorithmic trading](../a/algorithmic_trading.md) performance. For practical insights, one such company is the leading financial analytics [firm](../f/firm.md), [Kx Systems](https://www.kx.com/).
+Several high-frequency trading firms and financial institutions [leverage](../l/leverage.md) [whipsaw](../w/whipsaw.md) strategies to enhance [algorithmic trading](../a/algorithmic_trading.md) performance. For practical insights, one such company is the leading financial analytics [firm](../f/firm.md), Kx Systems.
 
 ### Case Study: Kx Systems
 

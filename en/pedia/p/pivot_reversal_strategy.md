@@ -39,19 +39,19 @@ Each type may appeal to different trading styles and may be chosen based on spec
 
 ### Overview
 
-The Pivot [Reversal](../r/reversal.md) Strategy is designed to [capitalize](../c/capitalize.md) on anticipated price reversals at [pivot points](../p/pivot_points.md). The core concept revolves around buying low near [support levels](../s/support_levels.md) and selling high near resistance levels, essentially using [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions to determine [trade](../t/trade.md) entry and exit points. 
+The Pivot [Reversal](../r/reversal.md) Strategy is designed to [capitalize](../c/capitalize.md) on anticipated price reversals at [pivot points](../p/pivot_points.md). The core concept revolves around buying low near [support levels](../s/support_levels.md) and selling high near resistance levels, essentially using [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions to determine [trade](../t/trade.md) entry and exit points.
 
 ### Entry and Exit Signals
 
 1. **Buying Opportunities**: A buy signal is generated when the price falls to a pivot support level (S1, S2, or S3) and shows signs of [reversal](../r/reversal.md), such as:
-   - A bullish [candlestick](../c/candlestick.md) pattern forming at the support level.
-   - Increased buying [volume](../v/volume.md) at the support level.
-   - Positive [divergence](../d/divergence.md) on an accompanying [indicator](../i/indicator.md) like RSI or MACD near the support level.
+ - A bullish [candlestick](../c/candlestick.md) pattern forming at the support level.
+ - Increased buying [volume](../v/volume.md) at the support level.
+ - Positive [divergence](../d/divergence.md) on an accompanying [indicator](../i/indicator.md) like RSI or MACD near the support level.
 
 2. **Selling Opportunities**: A sell signal is generated when the price rises to a pivot resistance level (R1, R2, or R3) and shows signs of [reversal](../r/reversal.md), such as:
-   - A bearish [candlestick](../c/candlestick.md) pattern forming at the resistance level.
-   - Increased selling [volume](../v/volume.md) at the resistance level.
-   - Negative [divergence](../d/divergence.md) on an accompanying [indicator](../i/indicator.md) like RSI or MACD near the resistance level.
+ - A bearish [candlestick](../c/candlestick.md) pattern forming at the resistance level.
+ - Increased selling [volume](../v/volume.md) at the resistance level.
+ - Negative [divergence](../d/divergence.md) on an accompanying [indicator](../i/indicator.md) like RSI or MACD near the resistance level.
 
 ### Risk Management
 
@@ -114,9 +114,9 @@ generate_signals(df)
 
 Several trading platforms and companies [offer](../o/offer.md) support for implementing and [backtesting](../b/backtesting.md) the Pivot [Reversal](../r/reversal.md) Strategy:
 
-- **MetaTrader**: Provides tools for [algorithmic trading](../a/algorithmic_trading.md) and custom [indicator](../i/indicator.md) creation (https://www.[metatrader4](../m/metatrader4.md).com/).
-- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based algorithm [trading platform](../t/trading_platform.md) for [backtesting](../b/backtesting.md) and live trading in various [asset](../a/asset.md) classes (https://www.[quantconnect](../q/quantconnect.md).com/).
-- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) with an extensive [range](../r/range.md) of [technical indicators](../t/technical_indicators.md) and automated trading tools (https://[ninjatrader](../n/ninjatrader.md).com/).
+- **MetaTrader**: Provides tools for [algorithmic trading](../a/algorithmic_trading.md) and custom [indicator](../i/indicator.md) creation (
+- **[QuantConnect](../q/quantconnect.md)**: Offers a algorithm [trading platform](../t/trading_platform.md) for [backtesting](../b/backtesting.md) and live trading in various [asset](../a/asset.md) classes (
+- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) with an extensive [range](../r/range.md) of [technical indicators](../t/technical_indicators.md) and automated trading tools (
 
 ## 4. Advantages and Limitations
 

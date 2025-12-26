@@ -50,7 +50,7 @@ One of the critical areas where the Sherman [Antitrust](../a/antitrust.md) Act p
 Recent high-profile cases include attempts to merge large companies in the telecommunications sector, technology [industry](../i/industry.md), and others. For instance, the proposed [merger](../m/merger.md) between AT&T and Time Warner faced significant scrutiny before being allowed under certain conditions.
 
 ### High-Frequency Trading (HFT) and Algorithmic Trading
-In the age of high-frequency trading and [algorithmic trading](../a/accountability.md), the Sherman Act has evolved to address new forms of anti-competitive behavior. Practices like [collusion](../c/collusion.md) among [trading algorithms](../t/trading_algorithms.md) or manipulation of stock prices via rapid trades may fall under the purview of the Act. Regulatory bodies now pay close attention to ensure these technologies do not unfairly disadvantage other [market](../m/market.md) participants or lead to monopolistic [market](../m/market.md) structures.
+In the age of high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md), the Sherman Act has evolved to address new forms of anti-competitive behavior. Practices like [collusion](../c/collusion.md) among [trading algorithms](../t/trading_algorithms.md) or manipulation of stock prices via rapid trades may fall under the purview of the Act. Regulatory bodies now pay close attention to ensure these technologies do not unfairly disadvantage other [market](../m/market.md) participants or lead to monopolistic [market](../m/market.md) structures.
 
 ### Fintech Companies
 Fintech companies often operate in highly innovative spaces and can quickly [gain](../g/gain.md) substantial [market power](../m/market_power.md). The Sherman [Antitrust](../a/antitrust.md) Act ensures that even these modern enterprises remain subject to scrutiny. For example, digital [payment](../p/payment.md) platforms, lending entities, and cryptocurrency exchanges must be cautious about practices that could be interpreted as monopolistic or anti-competitive.
@@ -74,5 +74,5 @@ The Sherman [Antitrust](../a/antitrust.md) Act remains a cornerstone of U.S. com
 
 For more details on the enforcement and educational resources, you can visit:
 
-- [Federal Trade Commission (FTC)](https://www.ftc.gov)
-- [United States Department of Justice - Antitrust Division (DOJ)](https://www.justice.gov/atr)
+- Federal Trade Commission (FTC)
+- United States Department of Justice - Antitrust Division (DOJ)

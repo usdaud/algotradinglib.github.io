@@ -35,17 +35,17 @@ This model is particularly popular because it prevents negative [interest](../i/
 
 The [Hull-White model](../h/hull-white_model.md) is a more flexible extension of the Vasicek model, incorporating time-varying parameters. It is defined by the following SDE:
 
-\[ dr_t = \left( \[theta](../t/theta.md)(t) - a r_t \right) dt + \sigma dW_t \]
+\[ dr_t = \left( \theta(t) - a r_t \right) dt + \sigma dW_t \]
 
-where \( \[theta](../t/theta.md)(t) \) is a time-dependent function. This flexibility allows the model to fit the current [term structure of interest rates](../t/term_structure_of_interest_rates.md) accurately.
+where \( \theta(t) \) is a time-dependent function. This flexibility allows the model to fit the current [term structure of interest rates](../t/term_structure_of_interest_rates.md) accurately.
 
 ### 6. The Heath-Jarrow-Morton (HJM) Framework
 
 The HJM framework focuses on modeling the entire [forward rate](../f/forward_rate.md) curve rather than just the short rate. It is capable of capturing the movement of the entire [yield curve](../y/yield_curve.md) through time rather than just a single instant. The HJM model is defined as:
 
-\[ df(t,T) = \[alpha](../a/alpha.md)(t,T)dt + \sigma(t,T) dW_t \]
+\[ df(t,T) = \alpha(t,T)dt + \sigma(t,T) dW_t \]
 
-where \( f(t,T) \) is the [forward rate](../f/forward_rate.md) at time \( t \) for [maturity](../m/maturity.md) \( T \), and \( \[alpha](../a/alpha.md)(t,T) \) and \( \sigma(t,T) \) are deterministic functions.
+where \( f(t,T) \) is the [forward rate](../f/forward_rate.md) at time \( t \) for [maturity](../m/maturity.md) \( T \), and \( \alpha(t,T) \) and \( \sigma(t,T) \) are deterministic functions.
 
 ### 7. The LIBOR Market Model (BGM Model)
 
@@ -80,10 +80,10 @@ Calibration is a critical step in [interest rate](../i/interest_rate.md) modelin
 
 Several companies specialize in providing tools and services for [interest rate](../i/interest_rate.md) modeling:
 
-- **[Bloomberg](../b/bloomberg.md) L.P.:** A global financial services, software, and media company providing financial [software tools](../s/software_tools_for_trading.md) and analytics. [Bloomberg L.P.](https://www.bloomberg.com/)
-- **Numerix:** A leading provider of [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing technology. [Numerix](https://www.numerix.com/)
-- **FIS:** Offers comprehensive software solutions for financial services, including [interest rate](../i/interest_rate.md) modeling. [FIS](https://www.fisglobal.com/)
-- **Quantifi:** Provides [risk](../r/risk.md), analytics, and trading solutions for the global [financial markets](../f/financial_market.md). [Quantifi](https://www.quantifisolutions.com/)
+- **[Bloomberg](../b/bloomberg.md) L.P.:** A global financial services, software, and media company providing financial [software tools](../s/software_tools_for_trading.md) and analytics. Bloomberg L.P.
+- **Numerix:** A leading provider of [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing technology. Numerix
+- **FIS:** Offers comprehensive software solutions for financial services, including [interest rate](../i/interest_rate.md) modeling. FIS
+- **Quantifi:** Provides [risk](../r/risk.md), analytics, and trading solutions for the global [financial markets](../f/financial_market.md). Quantifi
 
 ### Conclusion
 

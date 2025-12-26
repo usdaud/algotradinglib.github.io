@@ -55,11 +55,11 @@ For businesses engaged in international [trade](../t/trade.md), [foreign exchang
 
 Several large financial institutions dominate the [business](../b/business.md) banking landscape, [offering](../o/offering.md) a wide [range](../r/range.md) of products and services to businesses of all sizes. Some of the leading players in the [industry](../i/industry.md) include:
 
-- **JPMorgan Chase**: [jpmorganchase.com](https://www.jpmorganchase.com/)
-- **[Bank](../b/bank.md) of America**: [bankofamerica.com](https://www.bankofamerica.com/)
-- **Wells Fargo**: [wellsfargo.com](https://www.wellsfargo.com/)
-- **Citibank**: [citibank.com](https://www.citibank.com/)
-- **HSBC**: [hsbc.com](https://www.hsbc.com/)
+- **JPMorgan Chase**: jpmorganchase.com
+- **[Bank](../b/bank.md) of America**: bankofamerica.com
+- **Wells Fargo**: wellsfargo.com
+- **Citibank**: citibank.com
+- **HSBC**: hsbc.com
 
 ## Challenges and Trends in Business Banking
 
@@ -103,10 +103,10 @@ The future of [business](../b/business.md) banking [will](../w/will.md) be shape
 
 Fintech companies are increasingly disrupting the traditional banking sector by [offering](../o/offering.md) innovative, technology-driven financial solutions. These companies [leverage](../l/leverage.md) advanced technologies such as AI, [blockchain](../b/blockchain_in_trading.md), and [big data](../b/big_data_in_trading.md) to provide more efficient and cost-effective services. Some notable fintech players in the [business](../b/business.md) banking space include:
 
-- **Square**: [squareup.com](https://squareup.com/)
-- **Stripe**: [stripe.com](https://www.stripe.com/)
-- **Brex**: [brex.com](https://www.brex.com/)
-- **Revolut**: [revolut.com](https://www.revolut.com/)
+- **Square**: squareup.com
+- **Stripe**: stripe.com
+- **Brex**: brex.com
+- **Revolut**: revolut.com
 
 ### Open Banking
 

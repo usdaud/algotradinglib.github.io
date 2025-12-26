@@ -43,7 +43,7 @@ Investment firms are required to take all reasonable steps to obtain the best po
 ### 6. Algorithmic and High-Frequency Trading Regulations
 Given the rise of automated trading, [MiFID II](../m/mifid_ii.md) imposed strict rules on algorithmic and high-frequency trading, including:
 - **Algorithm registration**: Firms are required to register their algorithms with regulators.
-- **[Risk](../r/risk.md) controls**: Firms must implement systems and controls to manage risks associated with [algorithmic trading](../a/accountability.md).
+- **[Risk](../r/risk.md) controls**: Firms must implement systems and controls to manage risks associated with [algorithmic trading](../a/algorithmic_trading.md).
 - **[Market](../m/market.md) making**: Firms engaged in high-frequency trading must meet specific [market](../m/market.md)-making [obligations](../o/obligation.md).
 
 ## Reporting and Compliance Requirements
@@ -69,10 +69,8 @@ The cost of regulatory compliance has increased due to [robust](../r/robust.md) 
 [Investor](../i/investor.md) lifecycle management has been impacted by the need to perform continuous suitability assessments and undertake stringent [due diligence](../d/due_diligence.md) processes.
 
 ### 4. Impact on Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) has been subject to tighter regulation to ensure it does not exacerbate [market](../m/market.md) [volatility](../v/volatility.md) or contribute to [systemic risk](../s/systemic_risk.md).
+[Algorithmic trading](../a/algorithmic_trading.md) has been subject to tighter regulation to ensure it does not exacerbate [market](../m/market.md) [volatility](../v/volatility.md) or contribute to [systemic risk](../s/systemic_risk.md).
 
 ## Conclusion
 
 MiFID and [MiFID II](../m/mifid_ii.md) play an essential role in shaping the financial [market](../m/market.md) landscape within the EU. They aim to create a more transparent, competitive, and stable [market](../m/market.md) environment while providing increased protection to investors. The regulations have set a high standard for [market](../m/market.md) practices, affecting every aspect of investment services from [market](../m/market.md) structure to reporting and beyond.
-
-For further details or updates on MiFID, you can refer to the official [European Commission's MiFID page](https://ec.europa.eu/info/law/markets-financial-instruments-mifid-ii-directive-2014-65-eu_en).

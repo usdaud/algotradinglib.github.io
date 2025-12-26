@@ -68,7 +68,7 @@ NLP techniques help in analyzing unstructured textual data from news articles, [
 ### Visualization Tools
 
 - **Matplotlib/Seaborn (Python)**: For creating static, animated, and interactive visualizations.
-- **Tableau**: Provides [business](../b/business.md) intelligence tools to visualize data in a straightforward manner. 
+- **Tableau**: Provides [business](../b/business.md) intelligence tools to visualize data in a straightforward manner.
 - **D3.js**: JavaScript library for producing dynamic, interactive visualizations in web browsers.
 
 ## Case Studies and Real-World Applications
@@ -76,14 +76,14 @@ NLP techniques help in analyzing unstructured textual data from news articles, [
 ### Quantitative Hedge Funds
 
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma heavily rely on observational data analysis:
-- **Renaissance Technologies**: Uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify subtle patterns and predict price movements with incredible precision. [Renaissance Technologies](https://www.rentec.com/)
-- **Two Sigma**: Employs [machine learning](../m/machine_learning.md) and distributed computing to build models that ingest and analyze vast datasets. [Two Sigma](https://www.twosigma.com/)
+- **Renaissance Technologies**: Uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify subtle patterns and predict price movements with incredible precision. Renaissance Technologies
+- **Two Sigma**: Employs [machine learning](../m/machine_learning.md) and distributed computing to build models that ingest and analyze vast datasets. Two Sigma
 
 ### High-Frequency Trading (HFT)
 
 Firms such as Virtu Financial and Citadel Securities engage in HFT, executing a large number of orders at extremely high speeds using observational data:
-- **Virtu Financial**: Known for its use of technology-driven [trading models](../t/trading_models.md) to generate profits. [Virtu Financial](https://www.virtu.com/)
-- **Citadel Securities**: Leverages vast amounts of data and algorithms for trading. [Citadel Securities](https://www.citadelsecurities.com/)
+- **Virtu Financial**: Known for its use of technology-driven [trading models](../t/trading_models.md) to generate profits. Virtu Financial
+- **Citadel Securities**: Leverages vast amounts of data and algorithms for trading. Citadel Securities
 
 ## Challenges and Ethical Considerations
 
@@ -116,4 +116,3 @@ The use of [non-traditional data sources](../n/non-traditional_data_sources.md) 
 ## Conclusion
 
 Observational data analysis is the backbone of modern [algorithmic trading](../a/algorithmic_trading.md), providing the insights necessary to develop and refine [trading strategies](../t/trading_strategies.md). As technology continues to evolve, the [scope](../s/scope.md) and accuracy of these analyses [will](../w/will.md) only improve, opening up new possibilities and challenges in the world of [finance](../f/finance.md).
-

@@ -28,7 +28,7 @@ In contemporary times, the Indian Rupee comes in various denominations and is pr
 
 ### Reserve Bank of India (RBI)
 
-The Reserve [Bank](../b/bank.md) of India, established in 1935, is responsible for issuing and regulating the Indian [national currency](../n/national_currency.md). The RBI designs and governs its legal framework, [monetary policy](../m/monetary_policy.md), and [currency](../c/currency.md) issuance. For more information, visit the official website of RBI: [RBI Official Site](https://www.rbi.org.in/)
+The Reserve [Bank](../b/bank.md) of India, established in 1935, is responsible for issuing and regulating the Indian [national currency](../n/national_currency.md). The RBI designs and governs its legal framework, [monetary policy](../m/monetary_policy.md), and [currency](../c/currency.md) issuance.
 
 ## Valuation Mechanism of the Indian Rupee
 
@@ -80,7 +80,7 @@ Technological advancements have revolutionized the trading of the Indian Rupee i
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or alogrithmic trading, involves the use of computer algorithms to execute trades at high speed based on predefined criteria. In the context of the INR, [algorithmic trading](../a/accountability.md) mechanisms enable traders to take advantage of small price differentials that would be otherwise undetectable.
+[Algorithmic trading](../a/algorithmic_trading.md), or alogrithmic trading, involves the use of computer algorithms to execute trades at high speed based on predefined criteria. In the context of the INR, [algorithmic trading](../a/algorithmic_trading.md) mechanisms enable traders to take advantage of small price differentials that would be otherwise undetectable.
 
 ### Trading Platforms
 

@@ -1,10 +1,10 @@
 # Key Rate Risk Management
 
-In the realm of [finance](../f/finance.md) and fixed-[income](../i/income.md) securities, managing [interest rate risk](../i/interest_rate_risk.md) is critical to preserving an investment portfolio’s [value](../v/value.md). One sophisticated approach for such [risk management](../r/risk_management.md) is **[Key Rate](../k/key_rate.md) [Risk Management](../r/risk_management.md)**. This method goes beyond traditional [duration](../d/duration.md) and [convexity](../c/convexity.md) analysis to provide a more granular assessment of [interest rate](../i/interest_rate.md) exposure. [Key Rate](../k/key_rate.md) [Risk Management](../r/risk_management.md) involves analyzing the sensitivities of a [bond](../b/bond.md) or a portfolio to changes in [interest](../i/interest.md) rates at specific [maturity](../m/maturity.md) points or "key rates" on the [yield curve](../y/yield_curve.md). 
+In the realm of [finance](../f/finance.md) and fixed-[income](../i/income.md) securities, managing [interest rate risk](../i/interest_rate_risk.md) is critical to preserving an investment portfolio’s [value](../v/value.md). One sophisticated approach for such [risk management](../r/risk_management.md) is **[Key Rate](../k/key_rate.md) [Risk Management](../r/risk_management.md)**. This method goes beyond traditional [duration](../d/duration.md) and [convexity](../c/convexity.md) analysis to provide a more granular assessment of [interest rate](../i/interest_rate.md) exposure. [Key Rate](../k/key_rate.md) [Risk Management](../r/risk_management.md) involves analyzing the sensitivities of a [bond](../b/bond.md) or a portfolio to changes in [interest](../i/interest.md) rates at specific [maturity](../m/maturity.md) points or "key rates" on the [yield curve](../y/yield_curve.md).
 
 ### Understanding Key Rate Duration
 
-[Key Rate Duration](../k/key_rate_duration.md) (KRD) is a measure used to estimate the sensitivity of a [bond](../b/bond.md)'s price to a 1% change in [interest](../i/interest.md) rates at a specific [maturity](../m/maturity.md) point while keeping other maturities constant. This concept recognizes that changes in [interest](../i/interest.md) rates do not always affect all maturities equally. 
+[Key Rate Duration](../k/key_rate_duration.md) (KRD) is a measure used to estimate the sensitivity of a [bond](../b/bond.md)'s price to a 1% change in [interest](../i/interest.md) rates at a specific [maturity](../m/maturity.md) point while keeping other maturities constant. This concept recognizes that changes in [interest](../i/interest.md) rates do not always affect all maturities equally.
 
 For instance, a [portfolio manager](../p/portfolio_manager.md) might be concerned about fluctuating [interest](../i/interest.md) rates at the 2-year, 5-year, 10-year, and 30-year points on the [yield curve](../y/yield_curve.md). By identifying the KRD at these points, the manager can understand how the [bond](../b/bond.md) or portfolio [will](../w/will.md) be affected by [interest rate](../i/interest_rate.md) movements at these specific maturities.
 
@@ -38,7 +38,7 @@ Managing a portfolio with consideration for [key rate](../k/key_rate.md) risks c
 
 ### Advances in Key Rate Risk Analytics
 
-Technological advancements have greatly facilitated the implementation of [Key Rate](../k/key_rate.md) [Risk Management](../r/risk_management.md). Companies specializing in financial analytics provide tools and software enabling sophisticated KRD analysis. Leading firms such as [BlackRock](https://www.blackrock.com), [Bloomberg](https://www.bloomberg.com), and [RiskMetrics Group](https://www.msci.com/riskmetrics) [offer](../o/offer.md) proprietary platforms that support comprehensive [risk](../r/risk.md) assessment across various [yield curve](../y/yield_curve.md) maturities.
+Technological advancements have greatly facilitated the implementation of [Key Rate](../k/key_rate.md) [Risk Management](../r/risk_management.md). Companies specializing in financial analytics provide tools and software enabling sophisticated KRD analysis. Leading firms such as BlackRock, Bloomberg, and RiskMetrics Group [offer](../o/offer.md) proprietary platforms that support comprehensive [risk](../r/risk.md) assessment across various [yield curve](../y/yield_curve.md) maturities.
 
 ### Integration with Factor Models
 

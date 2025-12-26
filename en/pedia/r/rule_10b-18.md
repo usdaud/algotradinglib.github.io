@@ -53,15 +53,15 @@ Companies undertake stock buybacks for [multiple](../m/multiple.md) reasons:
 
 #### Apple Inc.
 
-Apple Inc. is a prominent example of a company that has engaged in substantial stock repurchase activities. The company has announced several large [buyback](../b/buyback.md) programs, aiming to [return](../r/return.md) [capital](../c/capital.md) to shareholders by reducing the number of outstanding [shares](../s/shares.md). By adhering to Rule 10b-18, Apple can repurchase [shares](../s/shares.md) without the [risk](../r/risk.md) of being accused of stock price manipulation. For further details on Apple’s [buyback](../b/buyback.md) programs, refer to their [Investor Relations page](https://investor.apple.com/).
+Apple Inc. is a prominent example of a company that has engaged in substantial stock repurchase activities. The company has announced several large [buyback](../b/buyback.md) programs, aiming to [return](../r/return.md) [capital](../c/capital.md) to shareholders by reducing the number of outstanding [shares](../s/shares.md). By adhering to Rule 10b-18, Apple can repurchase [shares](../s/shares.md) without the [risk](../r/risk.md) of being accused of stock price manipulation. For further details on Apple’s [buyback](../b/buyback.md) programs, refer to their company filings.
 
 #### JPMorgan Chase & Co.
 
-JPMorgan Chase & Co. is another example of a company that has consistently engaged in stock buybacks. The financial institution usually announces repurchase programs as part of its [capital](../c/capital.md) [return](../r/return.md) strategy. Complying with Rule 10b-18 allows JPMorgan Chase to make these repurchases secure in the knowledge that they are operating within SEC guidelines. More information can be found on their [Investor Relations page](https://www.jpmorganchase.com/ir).
+JPMorgan Chase & Co. is another example of a company that has consistently engaged in stock buybacks. The financial institution usually announces repurchase programs as part of its [capital](../c/capital.md) [return](../r/return.md) strategy. Complying with Rule 10b-18 allows JPMorgan Chase to make these repurchases secure in the knowledge that they are operating within SEC guidelines.
 
 ### Evolution and Amendments of Rule 10b-18
 
-Since its inception in 1982, Rule 10b-18 has undergone periodic reviews and revisions to adapt to changing [market](../m/market.md) conditions and practices. Observers and regulators continually assess the rule's effectiveness in achieving its objectives while maintaining [market](../m/market.md) integrity. 
+Since its inception in 1982, Rule 10b-18 has undergone periodic reviews and revisions to adapt to changing [market](../m/market.md) conditions and practices. Observers and regulators continually assess the rule's effectiveness in achieving its objectives while maintaining [market](../m/market.md) integrity.
 
 ## Conclusion
 

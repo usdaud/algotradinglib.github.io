@@ -34,12 +34,12 @@ Strategies to combat overfitting include both pre-processing techniques and mode
 
 1. **Cross-Validation**: Using techniques like k-fold cross-validation to ensure the model generalizes well to unseen data.
 2. **Regularization**: Adding a regularization term to the loss function to penalize larger coefficients, thus discouraging overly complex models.
-   - **L1 Regularization (Lasso)**: Adds absolute [value](../v/value.md) of magnitude of the coefficients.
-   - **L2 Regularization (Ridge)**: Adds squared magnitude of the coefficients.
+ - **L1 Regularization (Lasso)**: Adds absolute [value](../v/value.md) of magnitude of the coefficients.
+ - **L2 Regularization (Ridge)**: Adds squared magnitude of the coefficients.
 
 ### Practical Example in Trading Algorithms
 
-Consider an example where a trading algorithm attempts to predict the price of a stock based on various indicators: moving average, [volume](../v/volume.md), [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), etc. If the model overfits, it might memorably use intricate patterns from the training period which do not [hold](../h/hold.md) in the future. 
+Consider an example where a trading algorithm attempts to predict the price of a stock based on various indicators: moving average, [volume](../v/volume.md), [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), etc. If the model overfits, it might memorably use intricate patterns from the training period which do not [hold](../h/hold.md) in the future.
 
 ```python
 from sklearn.linear_model [import](../i/import.md) Lasso
@@ -112,7 +112,7 @@ Bayesian methods incorporate prior knowledge about the [distribution](../d/distr
 
 ## Practical Implications and Tools
 
-To implement these strategies effectively, several tools and libraries are commonly used in [algorithmic trading](../a/accountability.md) and [machine learning](../m/machine_learning.md):
+To implement these strategies effectively, several tools and libraries are commonly used in [algorithmic trading](../a/algorithmic_trading.md) and [machine learning](../m/machine_learning.md):
 
 ### Python Libraries
 
@@ -124,8 +124,8 @@ To implement these strategies effectively, several tools and libraries are commo
 
 Many platforms and services support [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) to address overfitting concerns:
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/accountability.md) platform that supports C#, Python, and F#. (https://www.[quantconnect](../q/quantconnect.md).com)
-- **Quantopian**: An online platform for [algorithmic trading](../a/accountability.md) and [backtesting](../b/backtesting.md) ([Note](../n/note.md): As of 2020, Quantopian has been acquired by [Robinhood](../r/robinhood.md)).
+- **[QuantConnect](../q/quantconnect.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that supports C#, Python, and F#. (
+- **Quantopian**: An online platform for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) ([Note](../n/note.md): As of 2020, Quantopian has been acquired by [Robinhood](../r/robinhood.md)).
 - **Metatrader**: Popular for Forex trading, supporting automated trading via Expert Advisors (EAs).
 
 ### Industry Practices

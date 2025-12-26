@@ -58,7 +58,7 @@ Using sound statistical and algorithmic techniques is key to avoiding the pitfal
 
 ### Leveraging Domain Expertise
 
-Incorporating domain expertise into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) is essential. Domain experts can provide valuable insights that go beyond what can be extracted from data alone, helping to identify meaningful patterns and avoid spurious correlations. 
+Incorporating domain expertise into [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) is essential. Domain experts can provide valuable insights that go beyond what can be extracted from data alone, helping to identify meaningful patterns and avoid spurious correlations.
 
 ### Ethical and Regulatory Considerations
 
@@ -68,11 +68,11 @@ Incorporating domain expertise into [algorithmic trading strategies](../a/algori
 
 ### Virtu Financial
 
-Virtu Financial (https://www.virtu.com/) is a prominent player in the HFT arena. They employ sophisticated [quantitative models](../q/quantitative_models.md) and advanced technology to execute trades across a variety of [asset](../a/asset.md) classes. Virtu is known for its use of vast data sets and real-time processing capabilities to facilitate high-frequency trading, navigating the complexity without falling into the "boiling the ocean" trap by focusing on specific strategies that can be executed with high reliability.
+Virtu Financial ( is a prominent player in the HFT arena. They employ sophisticated [quantitative models](../q/quantitative_models.md) and advanced technology to execute trades across a variety of [asset](../a/asset.md) classes. Virtu is known for its use of vast data sets and real-time processing capabilities to facilitate high-frequency trading, navigating the complexity without falling into the "boiling the ocean" trap by focusing on specific strategies that can be executed with high reliability.
 
 ### Citadel Securities
 
-Citadel Securities (https://www.citadelsecurities.com/) is another key player known for its expertise in [algorithmic trading](../a/accountability.md) and [market](../m/market.md)-making activities. The [firm](../f/firm.md) combines massive computational power with [machine learning](../m/machine_learning.md) and AI to optimize [trading strategies](../t/trading_strategies.md) in real-time. Citadel Securities emphasizes rigorous testing, validation, and continuous improvement of its algorithms to ensure they are not just theoretically sound but also practically effective in real-world environments.
+Citadel Securities ( is another key player known for its expertise in [algorithmic trading](../a/accountability.md) and [market](../m/market.md)-making activities. The [firm](../f/firm.md) combines massive computational power with [machine learning](../m/machine_learning.md) and AI to optimize [trading strategies](../t/trading_strategies.md) in real-time. Citadel Securities emphasizes rigorous testing, validation, and continuous improvement of its algorithms to ensure they are not just theoretically sound but also practically effective in real-world environments.
 
 ### Renaissance Technologies
 

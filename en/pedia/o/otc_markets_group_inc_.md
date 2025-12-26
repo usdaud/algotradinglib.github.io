@@ -6,7 +6,7 @@ OTC Markets Group Inc. is a premier financial marketplace providing trading of o
 
 Founded in 1913 as National [Quotation](../q/quotation.md) Bureau (NQB), OTC Markets Group Inc. has evolved from publishing [pink sheets](../p/pink_sheets.md) and [yellow sheets](../y/yellow_sheets.md) of stock quotes to becoming a comprehensive, cutting-edge financial trading system. It rebranded to its current name in 2010, emphasizing its role as a significant player in the [financial markets](../f/financial_market.md) ecosystem.
 
-Visit [OTC Markets](https://www.otcmarkets.com/) for more details.
+Visit OTC Markets for more details.
 
 ## Types of Markets
 
@@ -14,12 +14,12 @@ OTC Markets Group operates three [primary market](../p/primary_market.md) tiers,
 
 - **[OTCQX](../o/otcqx.md)**: This is the highest tier for well-established, high-quality companies that meet stringent financial standards and undergo regular [disclosure](../d/disclosure.md) practices. Companies on the [OTCQX](../o/otcqx.md) marketplace are considered reputable and are usually fully SEC-reporting or alternatively reporting according to their country’s legal requirements. Examples of notable [OTCQX](../o/otcqx.md)-[listed](../l/listed.md) companies include Adidas and Roche.
 
-- **OTCQB**: Known as the “Venture [Market](../m/market.md),” OTCQB caters to U.S. and international growth companies, including developmental stage and early-stage entities. It represents an intermediate level of reporting and [transparency](../t/transparency.md). Companies must have current financial reporting and must pass a minimum [bid price](../b/bid_price.md) test, among other requirements. 
+- **OTCQB**: Known as the “Venture [Market](../m/market.md),” OTCQB caters to U.S. and international growth companies, including developmental stage and early-stage entities. It represents an intermediate level of reporting and [transparency](../t/transparency.md). Companies must have current financial reporting and must pass a minimum [bid price](../b/bid_price.md) test, among other requirements.
 
 - **Pink [Open Market](../o/open_market.md)**: Formerly known as the [Pink Sheets](../p/pink_sheets.md), this [market](../m/market.md) includes a diverse assortment of [equity](../e/equity.md) types, from legitimate companies to those with minimal financial reporting. The Pink [Open Market](../o/open_market.md) is divided into three further categories:
-  - **Current Information**: Companies that provide regular financial reports and disclosures to the public.
-  - **Limited Information**: Companies that have less frequent or irregular updates.
-  - **No Information**: Companies that do not provide any regular financial reports, thus [offering](../o/offering.md) the least [transparency](../t/transparency.md).
+ - **Current Information**: Companies that provide regular financial reports and disclosures to the public.
+ - **Limited Information**: Companies that have less frequent or irregular updates.
+ - **No Information**: Companies that do not provide any regular financial reports, thus [offering](../o/offering.md) the least [transparency](../t/transparency.md).
 
 ## Trading Mechanism
 
@@ -56,4 +56,4 @@ OTC Markets are regulated by the Financial [Industry](../i/industry.md) Regulato
 
 OTC Markets Group Inc. plays a crucial role in the financial ecosystem by providing a venue for the trading of diverse and often underrepresented securities. It offers an essential alternative to conventional [exchange](../e/exchange.md) trading, supporting [capital](../c/capital.md) formation for a wide array of companies while granting investors access to investment opportunities that are not available on mainstream stock exchanges. While the flexibility and cost-effectiveness are notable advantages, participants must carefully consider the inherent risks associated with OTC trading.
 
-For more information and real-time updates, visit the official [OTC Markets Group Inc. website](https://www.otcmarkets.com/).
+For more information and real-time updates,

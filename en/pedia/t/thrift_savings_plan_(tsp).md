@@ -25,7 +25,7 @@ In addition to these five funds, TSP also offers Lifecycle (L) Funds, which are 
 
 ## Managing TSP Accounts
 
-Participants can manage their TSP accounts through various online tools and services available on the TSP website. These tools include:
+Participants can manage their TSP accounts. These tools include:
 
 - **Account Access:** Participants can view their [account balance](../a/account_balance.md), request [fund](../f/fund.md) reallocations, and track their investment performance.
 - **Contribution Management:** Participants can adjust their contribution amounts and allocate contributions to different TSP funds.
@@ -51,5 +51,3 @@ Participants also have the option to roll over their TSP balance into another re
 ## Conclusion
 
 The Thrift Savings Plan provides federal employees and members of the uniformed services with a valuable tool for retirement savings. By [offering](../o/offering.md) a [range](../r/range.md) of investment [options](../o/options.md), tax advantages, and flexible contribution and [withdrawal](../w/withdrawal.md) choices, the TSP supports participants in building a secure financial future.
-
-For more information on TSP, federal employees can visit the official TSP website at [www.tsp.gov](https://www.tsp.gov).

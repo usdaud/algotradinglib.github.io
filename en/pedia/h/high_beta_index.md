@@ -88,7 +88,6 @@ High [beta](../b/beta.md) indices might have high concentrations in particular s
 High [beta](../b/beta.md) indices are often tracked by ETFs. Examples include:
 
 - **Invesco S&P 500 High [Beta](../b/beta.md) ETF (Ticker: SPHB)**: Aims to track the performance of the S&P 500 High [Beta](../b/beta.md) [Index](../i/index_instrument.md).
-  [Invesco S&P 500 High Beta ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=SPHB)
 
 ### Leveraged ETFs
 
@@ -114,7 +113,6 @@ Trading [futures](../f/futures.md) and [options](../o/options.md) on high [beta]
 
 1. **S&P 500 Low [Volatility](../v/volatility.md) [Index](../i/index_instrument.md)**: Consists of [stocks](../s/stock.md) with the lowest [beta](../b/beta.md) values.
 2. **Invesco S&P 500 Low [Volatility](../v/volatility.md) ETF (Ticker: SPLV)**: Tracks the S&P 500 Low [Volatility](../v/volatility.md) [Index](../i/index_instrument.md).
-   [Invesco S&P 500 Low Volatility ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=SPLV)
 
 ## Performance Metrics
 

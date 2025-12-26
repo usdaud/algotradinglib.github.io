@@ -52,13 +52,13 @@ Several regulatory bodies monitor and regulate MLM activities:
 ## Examples of MLM Companies
 
 ### Amway
-Amway offers a [range](../r/range.md) of products including health, beauty, and [home](../h/home.md) care items. The company has a complex structure where distributors earn [money](../m/money.md) both through direct sales and recruiting new members. [Amway](https://www.amwayglobal.com/)
+Amway offers a [range](../r/range.md) of products including health, beauty, and [home](../h/home.md) care items. The company has a complex structure where distributors earn [money](../m/money.md) both through direct sales and recruiting new members. Amway
 
 ### Herbalife
-Specializes in nutrition and weight management products. Distributors earn through direct sales and by creating a downline of new recruits. [Herbalife](https://www.herbalife.com/)
+Specializes in nutrition and weight management products. Distributors earn through direct sales and by creating a downline of new recruits. Herbalife
 
 ### Avon
-Known for its beauty and personal care products, Avon operates using a direct sales model, accompanied by multilevel recruitment. [Avon](https://www.avon.com/)
+Known for its beauty and personal care products, Avon operates using a direct sales model, accompanied by multilevel recruitment. Avon
 
 ## Ethical and Social Considerations
 

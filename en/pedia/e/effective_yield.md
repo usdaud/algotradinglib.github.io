@@ -13,7 +13,7 @@ Before delving into effective [yield](../y/yield.md), it's important to understa
 
 ## Compounding and Effective Yield
 
-Effective [yield](../y/yield.md), on the other hand, goes a step further. It incorporates the impact of [compounding](../c/compounding.md) — the process where [earnings](../e/earnings.md) on an investment generate their own [earnings](../e/earnings.md) over time. This is particularly relevant for bonds and other fixed-[income](../i/income.md) securities where [interest](../i/interest.md) can be compounded periodically (e.g., semi-annually, quarterly, monthly). 
+Effective [yield](../y/yield.md), on the other hand, goes a step further. It incorporates the impact of [compounding](../c/compounding.md) — the process where [earnings](../e/earnings.md) on an investment generate their own [earnings](../e/earnings.md) over time. This is particularly relevant for bonds and other fixed-[income](../i/income.md) securities where [interest](../i/interest.md) can be compounded periodically (e.g., semi-annually, quarterly, monthly).
 
 The formula for effective [yield](../y/yield.md) is:
 
@@ -69,7 +69,7 @@ This demonstrates the powerful effect of more frequent [compounding](../c/compou
 
 ## Online Tools and Resources
 
-Several online calculators and financial tools can help traders calculate effective [yield](../y/yield.md) accurately. Advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) might integrate these calculations directly into their systems. Popular financial websites like [Investopedia](https://www.investopedia.com), [Yahoo Finance](https://finance.yahoo.com), and [MarketWatch](https://www.marketwatch.com) often [offer](../o/offer.md) free calculators that can be used to compute effective yields.
+Several online calculators and financial tools can help traders calculate effective [yield](../y/yield.md) accurately. Advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) might integrate these calculations directly into their systems. Popular financial websites like Investopedia, Yahoo Finance, and MarketWatch often [offer](../o/offer.md) free calculators that can be used to compute effective yields.
 
 ## Software and Algorithms Involving Effective Yield
 
@@ -81,10 +81,10 @@ Several online calculators and financial tools can help traders calculate effect
 
 Notable [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) and tools include:
 
-- [QuantConnect](https://www.quantconnect.com): Offers tools for [backtesting](../b/backtesting.md) and deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) which can incorporate effective [yield](../y/yield.md) calculations.
-- [Alpaca](https://alpaca.markets): Provides a low-latency [trading platform](../t/trading_platform.md) with APIs that can be used to develop and deploy algorithms with effective [yield](../y/yield.md) considerations.
-- [MetaTrader](https://www.metatrader4.com): Popular for forex and CFD trading, also facilitates the creation of custom indicators that can [factor](../f/factor.md) in effective yields.
-- [TradeStation](https://www.tradestation.com): A comprehensive platform that supports complex algorithmic strategies, including those that need to account for effective [yield](../y/yield.md).
+- QuantConnect: Offers tools for [backtesting](../b/backtesting.md) and deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) which can incorporate effective [yield](../y/yield.md) calculations.
+- Alpaca: Provides a low-latency [trading platform](../t/trading_platform.md) with APIs that can be used to develop and deploy algorithms with effective [yield](../y/yield.md) considerations.
+- MetaTrader: Popular for forex and CFD trading, also facilitates the creation of custom indicators that can [factor](../f/factor.md) in effective yields.
+- TradeStation: A comprehensive platform that supports complex algorithmic strategies, including those that need to account for effective [yield](../y/yield.md).
 
 ## Practical Considerations
 

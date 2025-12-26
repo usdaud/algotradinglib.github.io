@@ -10,7 +10,7 @@ The WFE was founded in 1961, initially as the Federation of European Securities 
 
 The WFE's primary mission is to facilitate the development of well-regulated, transparent, and efficient markets worldwide. It aims to ensure that markets are [robust](../r/robust.md) and accessible, fostering [trust](../t/trust.md) and growth in the [financial sector](../f/financial_sector.md).
 
-### Key Objectives 
+### Key Objectives
 1. **Advocacy**: Representing the interests of its members to global policymakers and regulators.
 2. **Standards and [Best Practices](../b/best_practices.md)**: Promoting high standards of regulation and [market](../m/market.md) practice.
 3. **Research and Education**: Providing insights and educational resources on [market](../m/market.md) trends and developments.
@@ -50,7 +50,7 @@ The WFE conducts research on various aspects of [market](../m/market.md) operati
 
 ### Networking and Cooperation
 
-The WFE facilitates a global platform for [networking](../n/networking.md) and cooperation among its members. It organizes conferences, seminars, and working groups where members can share experiences, discuss challenges, and collaborate on initiatives. 
+The WFE facilitates a global platform for [networking](../n/networking.md) and cooperation among its members. It organizes conferences, seminars, and working groups where members can share experiences, discuss challenges, and collaborate on initiatives.
 
 ## Significance in Financial Markets
 
@@ -62,7 +62,7 @@ Through its advocacy and standard-setting activities, the WFE helps ensure that 
 
 ### Encouraging Innovation
 
-The WFE actively engages in discussions on [market](../m/market.md) innovation and technology, such as [blockchain](../b/blockchain_in_trading.md), fintech, and [algorithmic trading](../a/accountability.md). By promoting a forward-thinking approach, it helps its members stay competitive and adapt to the rapidly changing financial landscape.
+The WFE actively engages in discussions on [market](../m/market.md) innovation and technology, such as [blockchain](../b/blockchain_in_trading.md), fintech, and [algorithmic trading](../a/algorithmic_trading.md). By promoting a forward-thinking approach, it helps its members stay competitive and adapt to the rapidly changing financial landscape.
 
 ### Supporting Emerging Markets
 
@@ -70,7 +70,7 @@ By including emerging markets as affiliate members, the WFE plays a crucial role
 
 ## Challenges and Future Directions
 
-Despite its significant contributions, the WFE faces several challenges. These include regulatory pressures, technological disruptions, and the need to balance diverse member interests. 
+Despite its significant contributions, the WFE faces several challenges. These include regulatory pressures, technological disruptions, and the need to balance diverse member interests.
 
 ### Regulatory Pressures
 Global [financial markets](../f/financial_market.md) are subject to increasing regulatory scrutiny. The WFE must navigate these complex regulatory landscapes and advocate for policies that support [market](../m/market.md) development while ensuring [investor](../i/investor.md) protection and [market](../m/market.md) integrity.
@@ -85,5 +85,4 @@ The WFE's diverse membership includes both large, established exchanges and smal
 
 The World Federation of Stock Exchanges is a cornerstone of the global financial [market](../m/market.md) [infrastructure](../i/infrastructure.md). Through its advocacy, standard-setting, research, and [networking](../n/networking.md) activities, it plays a vital role in promoting fair, transparent, and efficient markets worldwide. As [financial markets](../f/financial_market.md) continue to evolve, the WFE [will](../w/will.md) remain an essential player, supporting its members in navigating new challenges and opportunities.
 
-For more detailed information about the World Federation of Stock Exchanges, you can visit their official website [here](https://www.world-exchanges.org).
-
+For more detailed information about the World Federation of Stock Exchanges,

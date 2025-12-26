@@ -41,7 +41,7 @@ High-Frequency Trading is a subset of [algorithmic trading](../a/algorithmic_tra
 - [Event-driven trading](../e/event-driven_trading.md)
 - [Liquidity provision](../l/liquidity_provision.md)
 
-HFT firms often colocate their servers near [exchange](../e/exchange.md) servers to minimize latency. Examples of prominent HFT firms include Virtu Financial [Virtu Financial](https://www.virtu.com/) and Citadel Securities [Citadel Securities](https://www.citadelsecurities.com/).
+HFT firms often colocate their servers near [exchange](../e/exchange.md) servers to minimize latency. Examples of prominent HFT firms include Virtu Financial Virtu Financial and Citadel Securities Citadel Securities.
 
 ### Machine Learning and AI in Trading
 
@@ -89,11 +89,11 @@ Successful implementation of X-Systems Trading requires [robust](../r/robust.md)
 
 ### Trading Platforms
 
-Trading platforms provide the interface for executing algorithmic trades. Popular platforms include MetaTrader [MetaTrader](https://www.metatrader5.com/en), [NinjaTrader](../n/ninjatrader.md) [NinjaTrader](https://ninjatrader.com/), and [TradeStation](../t/tradestation.md) [TradeStation](https://www.tradestation.com/).
+Trading platforms provide the interface for executing algorithmic trades. Popular platforms include MetaTrader MetaTrader, [NinjaTrader](../n/ninjatrader.md) NinjaTrader, and [TradeStation](../t/tradestation.md) TradeStation.
 
 ### Data Feeds
 
-Real-time and historical data feeds are essential for analyzing [market](../m/market.md) conditions and [backtesting](../b/backtesting.md) strategies. Leading data providers include [Bloomberg](../b/bloomberg.md) [Bloomberg](https://www.bloomberg.com/professional/) and Thomson [Reuters](../r/reuters.md) [Thomson Reuters](https://www.thomsonreuters.com/).
+Real-time and historical data feeds are essential for analyzing [market](../m/market.md) conditions and [backtesting](../b/backtesting.md) strategies. Leading data providers include [Bloomberg](../b/bloomberg.md) Bloomberg and Thomson [Reuters](../r/reuters.md) Thomson Reuters.
 
 ### Execution Management Systems (EMS)
 

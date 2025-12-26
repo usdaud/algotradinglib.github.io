@@ -1,7 +1,7 @@
 # Quarterly Risk Assessment
 
 ## Introduction
-**Quarterly [Risk](../r/risk.md) Assessment (QRA)** in [algorithmic trading](../a/algorithmic_trading.md) is a crucial practice aimed at managing and mitigating risks that arise from the deployment of automated [trading strategies](../t/trading_strategies.md). This assessment is performed every quarter to identify potential vulnerabilities, evaluate the performance of [trading algorithms](../t/trading_algorithms.md), ensure compliance with regulatory requirements, and make necessary adjustments to minimize financial losses. 
+**Quarterly [Risk](../r/risk.md) Assessment (QRA)** in [algorithmic trading](../a/algorithmic_trading.md) is a crucial practice aimed at managing and mitigating risks that arise from the deployment of automated [trading strategies](../t/trading_strategies.md). This assessment is performed every quarter to identify potential vulnerabilities, evaluate the performance of [trading algorithms](../t/trading_algorithms.md), ensure compliance with regulatory requirements, and make necessary adjustments to minimize financial losses.
 
 ## Key Components of QRA
 
@@ -77,22 +77,22 @@ Staying informed about changes in regulations and implementing necessary updates
 ## Companies Specializing in QRA for Algorithmic Trading
 
 ### Axioma Inc.
-[Axioma Inc.](https://www.qontigo.com) provides [risk management](../r/risk_management.md) solutions, including tools for [stress testing](../s/stress_testing_in_trading.md), portfolio construction, and [performance attribution](../p/performance_attribution.md). Their [risk models](../r/risk_models_in_trading.md) are widely used in the financial [industry](../i/industry.md) to manage and mitigate risks in [algorithmic trading](../a/algorithmic_trading.md).
+Axioma Inc. provides [risk management](../r/risk_management.md) solutions, including tools for [stress testing](../s/stress_testing_in_trading.md), portfolio construction, and [performance attribution](../p/performance_attribution.md). Their [risk models](../r/risk_models_in_trading.md) are widely used in the financial [industry](../i/industry.md) to manage and mitigate risks in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### MSCI Inc.
-[MSCI Inc.](https://www.msci.com) offers a [range](../r/range.md) of [risk management](../r/risk_management.md) and performance measurement tools. Their solutions, such as Barra [Risk Models](../r/risk_models_in_trading.md), are designed to help firms assess and manage risks in their trading portfolios.
+MSCI Inc. offers a [range](../r/range.md) of [risk management](../r/risk_management.md) and performance measurement tools. Their solutions, such as Barra [Risk Models](../r/risk_models_in_trading.md), are designed to help firms assess and manage risks in their trading portfolios.
 
 ### RiskMetrics Group
-[RiskMetrics Group](https://www.msci.com/riskmetrics) provides [risk](../r/risk.md) assessment services and software solutions for measuring [market](../m/market.md) and [credit](../c/credit.md) risks. Their tools are used by financial institutions to perform comprehensive [risk](../r/risk.md) evaluations and [stress testing](../s/stress_testing_in_trading.md).
+RiskMetrics Group provides [risk](../r/risk.md) assessment services and software solutions for measuring [market](../m/market.md) and [credit](../c/credit.md) risks. Their tools are used by financial institutions to perform comprehensive [risk](../r/risk.md) evaluations and [stress testing](../s/stress_testing_in_trading.md).
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com) offers a platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). They provide [risk management](../r/risk_management.md) tools and analytics to help traders identify and mitigate risks in their strategies.
+QuantConnect offers a platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). They provide [risk management](../r/risk_management.md) tools and analytics to help traders identify and mitigate risks in their strategies.
 
 ### AlphaSense
-[AlphaSense](https://www.alpha-sense.com) offers an AI-driven financial search engine that helps traders and analysts stay informed about [market](../m/market.md) trends, news, and regulatory changes. Their platform aids in identifying potential risks and opportunities in the [market](../m/market.md).
+AlphaSense offers an AI-driven financial search engine that helps traders and analysts stay informed about [market](../m/market.md) trends, news, and regulatory changes. Their platform aids in identifying potential risks and opportunities in the [market](../m/market.md).
 
 ### RISKIDENT
-[RISKIDENT](https://www.riskident.com) provides [fraud](../f/fraud.md) prevention and [risk management](../r/risk_management.md) solutions. Their technology helps in identifying and mitigating operational and compliance risks associated with [algorithmic trading](../a/algorithmic_trading.md).
+RISKIDENT provides [fraud](../f/fraud.md) prevention and [risk management](../r/risk_management.md) solutions. Their technology helps in identifying and mitigating operational and compliance risks associated with [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Conclusion
 Quarterly [Risk](../r/risk.md) Assessment in [algorithmic trading](../a/algorithmic_trading.md) is an essential practice for managing and mitigating risks associated with automated [trading strategies](../t/trading_strategies.md). By systematically identifying, measuring, and mitigating risks, trading firms can enhance the robustness of their algorithms, ensure compliance with regulatory standards, and improve overall [trading performance](../t/trading_performance.md). The use of advanced [risk management](../r/risk_management.md) tools and regular performance evaluations are key components in maintaining a resilient and compliant [trading environment](../t/trading_environment.md).

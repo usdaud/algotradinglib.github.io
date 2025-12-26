@@ -106,17 +106,17 @@ The [Ichimoku Cloud](../i/ichimoku_cloud.md) is a collection of [technical indic
 ### MetaTrader 5 (MT5)
 MetaTrader 5 is a multi-[asset](../a/asset.md) platform that allows trading Forex, [stocks](../s/stock.md), and [futures](../f/futures.md). It offers [advanced technical analysis](../a/advanced_technical_analysis.md) tools, [automated trading systems](../a/automated_trading_systems.md) (trading bots, Expert Advisors), and copy trading.
 
-Visit MetaTrader [here](https://www.metatrader5.com/en).
+Visit MetaTrader here.
 
 ### TradingView
 [TradingView](../t/tradingview.md) is a social network for traders and investors, [offering](../o/offering.md) live quotes, stock charts, and expert trading ideas. It also provides a wide [range](../r/range.md) of [technical analysis](../t/technical_analysis.md) tools and indicators to aid in trading decisions.
 
-Visit [TradingView](../t/tradingview.md) [here](https://www.tradingview.com/).
+Visit [TradingView](../t/tradingview.md) here.
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, [broker](../b/broker.md) integrations, and an IDE to design and backtest [trading strategies](../t/trading_strategies.md) in [multiple](../m/multiple.md) programming languages. It supports the development of indicators to be utilized in custom [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, [broker](../b/broker.md) integrations, and an IDE to design and backtest [trading strategies](../t/trading_strategies.md) in C#. It supports the development of indicators to be utilized in custom [trading algorithms](../t/trading_algorithms.md).
 
-Visit [QuantConnect](../q/quantconnect.md) [here](https://www.quantconnect.com/).
+Visit [QuantConnect](../q/quantconnect.md) here.
 
 ## Conclusion
 

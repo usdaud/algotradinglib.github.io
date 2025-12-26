@@ -62,15 +62,15 @@ Gross [profit margins](../p/profit_margins_in_trading.md) can vary significantly
 
 ### Technology Sector
 
-The [technology sector](../t/technology_sector.md) often enjoys high gross [profit margins](../p/profit_margins_in_trading.md) because of the lower cost of production relative to the selling price of software and hardware products. For example, companies like Apple Inc. (https://www.apple.com) report high gross [profit margins](../p/profit_margins_in_trading.md) because of their brand [value](../v/value.md) and efficient production processes.
+The [technology sector](../t/technology_sector.md) often enjoys high gross [profit margins](../p/profit_margins_in_trading.md) because of the lower cost of production relative to the selling price of software and hardware products. For example, companies like Apple Inc. ( report high gross [profit margins](../p/profit_margins_in_trading.md) because of their brand [value](../v/value.md) and efficient production processes.
 
 ### Retail Sector
 
-Retail companies may have lower gross [profit margins](../p/profit_margins_in_trading.md) due to higher COGS, which includes purchasing [inventory](../i/inventory.md), transportation, and storage costs. Walmart (https://www.walmart.com) showcases this with its lower [margin](../m/margin.md) strategy enabled by high [volume](../v/volume.md) sales.
+Retail companies may have lower gross [profit margins](../p/profit_margins_in_trading.md) due to higher COGS, which includes purchasing [inventory](../i/inventory.md), transportation, and storage costs. Walmart ( showcases this with its lower [margin](../m/margin.md) strategy enabled by high [volume](../v/volume.md) sales.
 
 ### Manufacturing Sector
 
-[Manufacturing](../m/manufacturing.md) companies might show varied gross [profit margins](../p/profit_margins_in_trading.md) depending on the complexity of their production processes and their [industry](../i/industry.md). For example, automobile manufacturers like Tesla (https://www.tesla.com) may have different margins compared to those in the textile [industry](../i/industry.md).
+[Manufacturing](../m/manufacturing.md) companies might show varied gross [profit margins](../p/profit_margins_in_trading.md) depending on the complexity of their production processes and their [industry](../i/industry.md). For example, automobile manufacturers like Tesla ( may have different margins compared to those in the textile [industry](../i/industry.md).
 
 ## Enhancing Gross Profit
 
@@ -93,7 +93,7 @@ Gross [profit](../p/profit.md) focuses on production and sales [efficiency](../e
 
 ## Real-World Example
 
-Consider The [Home](../h/home.md) Depot, Inc. (https://www.homedepot.com), a large [home](../h/home.md) improvement retailer. For the fiscal year ending in 2022, The [Home](../h/home.md) Depot reported [net sales](../n/net_sales.md) of approximately $151 billion and COGS of roughly $100 billion.
+Consider The [Home](../h/home.md) Depot, Inc. ( a large [home](../h/home.md) improvement retailer. For the fiscal year ending in 2022, The [Home](../h/home.md) Depot reported [net sales](../n/net_sales.md) of approximately $151 billion and COGS of roughly $100 billion.
 
 ```
 Gross [Profit](../p/profit.md) = $151 billion - $100 billion = $51 billion

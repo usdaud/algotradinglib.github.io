@@ -40,7 +40,7 @@ The industrial goods market involves the [sale](../s/sale.md) of machinery, [man
 
 #### E-commerce Market
 
-The e-[commerce](../c/commerce.md) market involves the buying and selling of goods and services over the internet. This market has seen tremendous growth in recent years with major players like Amazon and Alibaba dominating the space. 
+The e-[commerce](../c/commerce.md) market involves the buying and selling of goods and services over the internet. This market has seen tremendous growth in recent years with major players like Amazon and Alibaba dominating the space.
 
 #### Cryptocurrency Market
 
@@ -66,7 +66,7 @@ A [monopoly](../m/monopoly.md) exists when a single [firm](../f/firm.md) is the 
 
 ### Duopoly
 
-A [duopoly](../d/duopoly.md) is a specific type of [oligopoly](../o/oligopoly.md) where only two firms have dominant control over a market. This often results in competitive practices, pricing strategies, and strategic alliances. 
+A [duopoly](../d/duopoly.md) is a specific type of [oligopoly](../o/oligopoly.md) where only two firms have dominant control over a market. This often results in competitive practices, pricing strategies, and strategic alliances.
 
 ## Market Participants
 
@@ -108,7 +108,7 @@ Regulators ensure that markets operate fairly and efficiently. Examples include 
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses computer programs to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies that human traders cannot achieve. It is based on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, often deployed to exploit market inefficiencies.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer programs to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies that human traders cannot achieve. It is based on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, often deployed to exploit market inefficiencies.
 
 ### Blockchain and Distributed Ledger Technology
 
@@ -120,4 +120,4 @@ Regulators ensure that markets operate fairly and efficiently. Examples include 
 
 ## Conclusion
 
-Markets are complex systems that facilitate the [exchange](../e/exchange.md) of goods, services, and financial instruments. Understanding the various types of markets, their structure, and dynamics is crucial for participants to navigate and succeed. Technological advancements such as [algorithmic trading](../a/accountability.md), [blockchain](../b/blockchain_in_trading.md), and AI are continually reshaping the landscape, making it more efficient but also more challenging. By studying these elements, traders and investors can better understand the forces at play and make more informed decisions.
+Markets are complex systems that facilitate the [exchange](../e/exchange.md) of goods, services, and financial instruments. Understanding the various types of markets, their structure, and dynamics is crucial for participants to navigate and succeed. Technological advancements such as [algorithmic trading](../a/algorithmic_trading.md), [blockchain](../b/blockchain_in_trading.md), and AI are continually reshaping the landscape, making it more efficient but also more challenging. By studying these elements, traders and investors can better understand the forces at play and make more informed decisions.

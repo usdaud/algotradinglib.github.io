@@ -16,7 +16,7 @@ There are several methods to reduce variance in [algorithmic trading](../a/algor
 
 #### Example: Portfolio Diversification
 
-A diversified portfolio might include [stocks](../s/stock.md), bonds, commodities, and [real estate](../r/real_estate.md). Each [asset class](../a/asset_class.md) responds differently to [economic conditions](../e/economic_conditions.md), which helps in smoothing overall returns. 
+A diversified portfolio might include [stocks](../s/stock.md), bonds, commodities, and [real estate](../r/real_estate.md). Each [asset class](../a/asset_class.md) responds differently to [economic conditions](../e/economic_conditions.md), which helps in smoothing overall returns.
 
 ### 2. Hedging
 
@@ -56,21 +56,18 @@ Several companies have successfully implemented variance reduction techniques to
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a pioneering [hedge fund](../h/hedge_fund.md), employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve high returns with low [volatility](../v/volatility.md). 
+Renaissance Technologies, a pioneering [hedge fund](../h/hedge_fund.md), employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve high returns with low [volatility](../v/volatility.md).
 
-[Website](https://www.rentec.com/)
 
 ### Two Sigma
 
 Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to develop model-driven [trading strategies](../t/trading_strategies.md). Variance reduction is integral to their approach to creating stable returns.
 
-[Website](https://www.twosigma.com/)
 
 ### Citadel LLC
 
 Citadel uses a wide array of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including variance reduction techniques, to manage [risk](../r/risk.md) and optimize performance. Their multi-strategy approach helps in diversifying and hedging portfolios effectively.
 
-[Website](https://www.citadel.com/)
 
 ## Conclusion
 

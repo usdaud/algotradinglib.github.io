@@ -8,7 +8,7 @@ In the world of [finance](../f/finance.md) and trading, the term "Widow Maker" c
 
 The term "Widow Maker" has its roots in the treacherous conditions of certain jobs or situations that posed significant fatal risks, literally making widows out of the workers’ spouses. In the financial context, it symbolizes trades that appear promising but carry a high [risk](../r/risk.md) of resulting in substantial losses. Therefore, engaging in these trades can metaphorically "make a widow" out of a [trader](../t/trader.md), given the potential financial devastation.
 
-## Notable Widow Maker Trades 
+## Notable Widow Maker Trades
 
 ### Treasury Bond Short
 
@@ -18,7 +18,7 @@ One of the most infamous Widow Maker trades is shorting the [U.S. Treasury](../u
 2. **[Economic Conditions](../e/economic_conditions.md)**: Often unpredictable economic data or geopolitical events can make Treasury [bond](../b/bond.md) prices behave non-intuitively. For instance, periods of [deflation](../d/deflation.md) or economic slowdown can keep [bond](../b/bond.md) yields low for far longer than anticipated.
 3. **[Hedge](../h/hedge.md) Funds’ Miscalculations**: Many [hedge](../h/hedge.md) funds have attempted to [capitalize](../c/capitalize.md) on short-term rises in [bond](../b/bond.md) yields only to be burned when yields unexpectedly dropped again. Historically, big names in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md) have been impacted by this [trade](../t/trade.md).
 
-### Japanese Yen 
+### Japanese Yen
 
 The Japanese Yen has been another perennial Widow Maker for traders aiming to short it. Several characteristics make this [currency](../c/currency.md) pair difficult to predict and [trade](../t/trade.md):
 
@@ -42,7 +42,7 @@ One of the primary reasons trades become so devastating is the use of high [leve
 
 ### Misjudgment of Market Fundamentals
 
-Often, traders enter these positions based on a fundamental misjudgment of [market](../m/market.md) conditions. For example, if a [trader](../t/trader.md) incorrectly forecasts [inflation](../i/inflation.md) rates or central [bank](../b/bank.md) policies, the repercussions can be severe. 
+Often, traders enter these positions based on a fundamental misjudgment of [market](../m/market.md) conditions. For example, if a [trader](../t/trader.md) incorrectly forecasts [inflation](../i/inflation.md) rates or central [bank](../b/bank.md) policies, the repercussions can be severe.
 
 ### Liquidity Crunch
 
@@ -65,8 +65,8 @@ Hedging involves taking offsetting positions to protect against unfavorable move
 ### Risk Management Software
 
 Advanced [risk management](../r/risk_management.md) software can continuously monitor position sizes, [margin](../m/margin.md) levels, and [market](../m/market.md) conditions to alert traders of potential risks. Some leading companies providing these solutions include:
-- [Morningstar](https://www.morningstar.com/)
-- [Bloomberg Risk Manager](https://www.bloomberg.com/professional/product/risk/)
+- Morningstar
+- Bloomberg Risk Manager
 
 ## A Hopeful Outlook
 

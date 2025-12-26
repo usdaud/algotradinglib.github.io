@@ -83,8 +83,8 @@ Zero-Lower-Bound [trading strategies](../t/trading_strategies.md) necessitate a 
 
 ## Further Reading and Resources
 
-- [Federal Reserve Bank of New York](https://www.newyorkfed.org)
-- [European Central Bank (ECB)](https://www.ecb.europa.eu)
-- [Bank of Japan (BOJ)](https://www.boj.or.jp)
+- Federal Reserve Bank of New York
+- European Central Bank (ECB)
+- Bank of Japan (BOJ)
 
 By understanding macroeconomic indicators, policy changes, and [market](../m/market.md) reactions, traders can develop sophisticated strategies to manage the complexities of Zero-Lower-Bound conditions effectively.

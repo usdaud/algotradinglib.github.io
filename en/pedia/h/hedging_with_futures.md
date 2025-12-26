@@ -66,13 +66,13 @@ Energy companies frequently use [futures](../f/futures.md) to [hedge](../h/hedge
 Banks and other financial institutions use [futures](../f/futures.md) to manage [interest rate](../i/interest_rate.md) and [currency](../c/currency.md) [risk](../r/risk.md). A [bank](../b/bank.md) worried about rising [interest](../i/interest.md) rates might use [interest rate futures](../i/interest_rate_futures.md) to [hedge](../h/hedge.md). Additionally, if a [bank](../b/bank.md) has international exposure, it may use [currency](../c/currency.md) [futures](../f/futures.md) to [hedge](../h/hedge.md) against [exchange rate](../e/exchange_rate.md) movements.
 
 #### Example Company
-- **CME Group**: A global markets company providing [futures](../f/futures.md) and [options on futures](../o/options_on_futures.md) trading in a broad array of [asset](../a/asset.md) classes, including agriculture, energy, metals, and financials. [Website](https://www.cmegroup.com/)
+- **CME Group**: A global markets company providing [futures](../f/futures.md) and [options on futures](../o/options_on_futures.md) trading in a broad array of [asset](../a/asset.md) classes, including agriculture, energy, metals,
 
 ### 5.4. Corporations
 Multinational companies often have exposure to various risks related to [commodity](../c/commodity.md) prices, [interest](../i/interest.md) rates, or currencies. They use [futures](../f/futures.md) to stabilize operating and [financing](../f/financing.md) costs.
 
 #### Example Company
-- **Cargill**: An international provider of food, agriculture, financial, and industrial products and services, using [futures](../f/futures.md) extensively to [hedge](../h/hedge.md) [commodity](../c/commodity.md) price risks. [Website](https://www.cargill.com/)
+- **Cargill**: An international provider of food, agriculture, financial, and industrial products and services, using [futures](../f/futures.md) extensively to [hedge](../h/hedge.md) [commodity](../c/commodity.md)
 
 ## 6. Benefits and Limitations of Hedging with Futures
 

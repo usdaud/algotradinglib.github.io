@@ -14,7 +14,7 @@ Legal [tender](../t/tender.md) can be categorized into various types based on th
 
 1. **[Fiat Money](../f/fiat_money.md)**: Most modern legal tenders fall under this category. [Fiat money](../f/fiat_money.md) has no [intrinsic value](../i/intrinsic_value.md) and is not backed by a physical [commodity](../c/commodity.md) but is recognized by the government. Examples include the US Dollar, [Euro](../e/euro.md), and Japanese Yen.
 
-2. **[Commodity](../c/commodity.md) [Money](../m/money.md)**: This form of [money](../m/money.md) is backed by a physical [commodity](../c/commodity.md), such as gold or silver. Although less common today, historically, many currencies were based on specific quantities of precious metals. 
+2. **[Commodity](../c/commodity.md) [Money](../m/money.md)**: This form of [money](../m/money.md) is backed by a physical [commodity](../c/commodity.md), such as gold or silver. Although less common today, historically, many currencies were based on specific quantities of precious metals.
 
 3. **Representative [Money](../m/money.md)**: This type includes certificates or tokens that can be exchanged for a specific amount of a [commodity](../c/commodity.md). Paper notes used in the [gold standard](../g/gold_standard.md) system are a prime example of representative [money](../m/money.md).
 

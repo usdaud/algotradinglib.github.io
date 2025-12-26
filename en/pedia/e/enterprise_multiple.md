@@ -1,6 +1,6 @@
 # Enterprise Multiple
 
-The Enterprise [Multiple](../m/multiple.md) (EM) is a financial [valuation](../v/valuation.md) metric used to assess the [value](../v/value.md) of a company. It is calculated as the enterprise [value](../v/value.md) (EV) divided by EBITDA ([Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization). This metric is particularly helpful for comparing companies with different [capital](../c/capital.md) structures, and it can [offer](../o/offer.md) insights into how a company is valued by the [market](../m/market.md) relative to its [earnings](../e/earnings.md). 
+The Enterprise [Multiple](../m/multiple.md) (EM) is a financial [valuation](../v/valuation.md) metric used to assess the [value](../v/value.md) of a company. It is calculated as the enterprise [value](../v/value.md) (EV) divided by EBITDA ([Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization). This metric is particularly helpful for comparing companies with different [capital](../c/capital.md) structures, and it can [offer](../o/offer.md) insights into how a company is valued by the [market](../m/market.md) relative to its [earnings](../e/earnings.md).
 
 ## Understanding Enterprise Multiple (EM)
 
@@ -74,7 +74,7 @@ For multinational companies, [exchange](../e/exchange.md) rates, varying tax jur
 
 Amazon ([NASDAQ](../n/nasdaq.md): AMZN) has often been cited as a company with a high EM due to its rapid growth and heavy [reinvestment](../r/reinvestment.md) strategies. Despite having high [debt](../d/debt.md) levels and low net [income](../i/income.md) from a traditional [accounting](../a/accounting.md) perspective, its substantial EBITDA and [market capitalization](../m/market_capitalization.md) contribute to a large enterprise [value](../v/value.md), leading to a high EM.
 
-For more detailed and current financial data, refer to Amazon’s [investor relations](../i/investor_relations.md) webpage: [Amazon Investor Relations](https://ir.aboutamazon.com/overview/default.aspx).
+For more detailed and current financial data, refer to Amazon’s [company filings](../i/investor_relations.md) webpage.
 
 ### Conclusion
 

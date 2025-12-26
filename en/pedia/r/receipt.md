@@ -55,11 +55,11 @@ In the trading sector, professional and accurate receipts can enhance client [tr
 
 ## Receipts in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), receipts play a vital role in ensuring [transparency](../t/transparency.md) and accountability. Here’s how they are utilized:
+In [algorithmic trading](../a/algorithmic_trading.md), receipts play a vital role in ensuring [transparency](../t/transparency.md) and accountability. Here’s how they are utilized:
 
 ### Transaction Logging
 
-[Algorithmic trading](../a/accountability.md) involves executing numerous trades within seconds or milliseconds. Each [transaction](../t/transaction.md) generates a receipt, which is logged meticulously. These logs are crucial for tracking performance, back-testing [trading algorithms](../t/trading_algorithms.md), and compliance.
+[Algorithmic trading](../a/algorithmic_trading.md) involves executing numerous trades within seconds or milliseconds. Each [transaction](../t/transaction.md) generates a receipt, which is logged meticulously. These logs are crucial for tracking performance, back-testing [trading algorithms](../t/trading_algorithms.md), and compliance.
 
 ### Error Detection
 

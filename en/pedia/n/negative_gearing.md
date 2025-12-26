@@ -5,7 +5,7 @@ Negative [gearing](../g/gearing.md) is a financial strategy often employed by in
 ## Key Concepts of Negative Gearing
 
 1. **Borrowing to Invest**: Investors take out loans to purchase investment properties or other assets with the anticipation that these investments [will](../w/will.md) appreciate over time.
-   
+
 2. **[Income](../i/income.md) and Expenses**: The [income](../i/income.md) generated from these investments (rent, dividends, etc.) is less than the expenses ([mortgage](../m/mortgage.md) [interest](../i/interest.md), maintenance costs, management fees, etc.), leading to a [net loss](../n/net_loss.md).
 
 3. **Tax Benefits**: The primary incentive for engaging in negative [gearing](../g/gearing.md) is the ability to deduct this [net loss](../n/net_loss.md) from an [investor](../i/investor.md)'s [taxable income](../t/taxable_income.md), potentially leading to significant tax savings.
@@ -79,7 +79,7 @@ Negative [gearing](../g/gearing.md) also faces various criticisms and policy deb
 Investors utilizing negative [gearing](../g/gearing.md) typically adopt a long-term perspective, aiming to benefit from:
 
 1. **[Compounding](../c/compounding.md) Growth**: Over extended periods, the [compounding](../c/compounding.md) effect of [capital](../c/capital.md) gains can outweigh short-term losses.
-   
+
 2. **[Market Cycles](../m/market_cycles.md)**: By holding investments through different [market cycles](../m/market_cycles.md), investors may reap significant appreciation benefits over time.
 
 ### Best Practices

@@ -41,7 +41,7 @@ The amount and [duration](../d/duration.md) of benefits can vary significantly b
 The impacts of FUTA on employers include:
 
 1. **Financial Responsibility**: Employers must account for the cost of FUTA [taxes](../t/taxes.md) when budgeting for [payroll](../p/payroll.md). Even though the amount may seem small, it is combined with other [payroll](../p/payroll.md) [taxes](../t/taxes.md) and contributions, increasing the overall cost of employment.
-   
+
 2. **Compliance Requirements**: Employers must ensure that they correctly calculate their FUTA liabilities, file the necessary forms on time, and make appropriate payments. Non-compliance can result in penalties and [interest](../i/interest.md) charges.
 
 3. **Interaction with State [Taxes](../t/taxes.md)**: Employers must navigate both federal and state requirements. While FUTA provides a [tax credit](../t/tax_credit.md) for state [unemployment](../u/unemployment.md) [taxes](../t/taxes.md) paid, this creates an administrative burden to track and report both sets of [taxes](../t/taxes.md) accurately.

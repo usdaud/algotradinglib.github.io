@@ -16,7 +16,7 @@ One of the critical aspects of enhanced [index](../i/index_instrument.md) funds 
 ## Comparing Enhanced Index Funds to Traditional Index Funds
 
 - **Performance Potential:** Enhanced [index](../i/index_instrument.md) funds aim to [outperform](../o/outperform.md) traditional [index](../i/index_instrument.md) funds by employing active strategies. While traditional [index](../i/index_instrument.md) funds aim to match the performance of the [benchmark](../b/benchmark.md), enhanced [index](../i/index_instrument.md) funds seek to exceed it.
-  
+
 - **Cost:** Enhanced [index](../i/index_instrument.md) funds generally have higher [expense](../e/expense.md) ratios compared to traditional [index](../i/index_instrument.md) funds due to the [active management](../a/active_management.md) component. However, they usually have lower costs than fully active funds.
 
 - **[Risk](../r/risk.md):** While traditional [index](../i/index_instrument.md) funds adhere strictly to the [benchmark](../b/benchmark.md), enhanced [index](../i/index_instrument.md) funds might introduce additional risks due to the [active management](../a/active_management.md) strategies they employ.
@@ -59,14 +59,12 @@ Vanguard is known for its [range](../r/range.md) of [index](../i/index_instrumen
 ### BlackRock Advantage Series
 BlackRock offers a series of enhanced [index](../i/index_instrument.md) funds that utilize their Aladdin platform and other proprietary technologies to inform investment decisions and enhance returns.
 
-Visit BlackRock's page for more details: [BlackRock Enhanced Index Solutions](https://www.blackrock.com/us/individual/products/249855/)
 
 ### Fidelity Enhanced Index Funds
 Fidelity provides a suite of enhanced [index](../i/index_instrument.md) funds that incorporate various [active management](../a/active_management.md) strategies aimed at delivering superior returns while maintaining [robust](../r/robust.md) [risk](../r/risk.md) controls.
 
-Read more at: [Fidelity Enhanced Index Funds](https://www.fidelity.com/mutual-funds/fidelity-funds/overview)
+Read more at: Fidelity Enhanced Index Funds
 
 ## Conclusion
 
 Enhanced [index](../i/index_instrument.md) funds represent a compelling investment option, blending the stability of passive [indexing](../i/indexing.md) with the potential for outperformance through [active management](../a/active_management.md) strategies. While they come with their own set of risks and costs, the promise of superior [risk](../r/risk.md)-adjusted returns makes them an attractive choice for investors looking to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities. As with any investment, it’s crucial to thoroughly research and understand the [fund](../f/fund.md)’s strategy and management before committing [capital](../c/capital.md).
-

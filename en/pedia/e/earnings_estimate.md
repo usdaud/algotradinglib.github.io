@@ -49,8 +49,8 @@ Modern [trading algorithms](../t/trading_algorithms.md) often incorporate [senti
 [Machine learning](../m/machine_learning.md) models, particularly those based on [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [neural networks](../n/neural_networks_in_trading.md), are increasingly used in algotrading to predict [earnings](../e/earnings.md) outcomes. These models can process vast amounts of unstructured data, such as news articles and [earnings call](../e/earnings_call.md) transcripts, to identify patterns and make predictions about future [earnings](../e/earnings.md).
 
 **Examples of Companies Utilizing Advanced Techniques**:
-- **Kensho Technologies**: Kensho leverages [machine learning](../m/machine_learning.md) to analyze financial data and predict [market](../m/market.md) outcomes. For more information, visit [Kensho Technologies](https://www.kensho.com).
-- **Numerai**: Numerai is a [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and crowdsourced models to generate [trading signals](../t/trading_signals.md). More details can be found at [Numerai](https://numer.ai).
+- **Kensho Technologies**: Kensho leverages [machine learning](../m/machine_learning.md) to analyze financial data and predict [market](../m/market.md) outcomes. For more information, visit Kensho Technologies.
+- **Numerai**: Numerai is a [hedge fund](../h/hedge_fund.md) that uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) and crowdsourced models to generate [trading signals](../t/trading_signals.md). More details can be found at Numerai.
 
 ## Challenges in Using Earnings Estimates for Trading
 

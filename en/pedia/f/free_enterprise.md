@@ -72,23 +72,23 @@ Several companies specialize in [algorithmic trading](../a/accountability.md), [
 
 ### 1. Virtu Financial
 
-Virtu Financial (https://www.virtu.com) is a leading global [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The company uses advanced technology and algorithms to [trade](../t/trade.md) a wide [range](../r/range.md) of financial instruments across various [asset](../a/asset.md) classes.
+Virtu Financial ( is a leading global [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The company uses advanced technology and algorithms to [trade](../t/trade.md) a wide [range](../r/range.md) of financial instruments across various [asset](../a/asset.md) classes.
 
 ### 2. Citadel Securities
 
-Citadel Securities (https://www.citadelsecurities.com) is a major player in [algorithmic trading](../a/accountability.md) and [market](../m/market.md) making. The [firm](../f/firm.md) provides [liquidity](../l/liquidity.md) across various [financial markets](../f/financial_market.md) and leverages cutting-edge technology to deliver efficient trading solutions.
+Citadel Securities ( is a major player in [algorithmic trading](../a/accountability.md) and [market](../m/market.md) making. The [firm](../f/firm.md) provides [liquidity](../l/liquidity.md) across various [financial markets](../f/financial_market.md) and leverages cutting-edge technology to deliver efficient trading solutions.
 
 ### 3. Renaissance Technologies
 
-Renaissance Technologies (https://www.rentec.com) is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), has achieved exceptional returns over the years.
+Renaissance Technologies ( is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), has achieved exceptional returns over the years.
 
 ### 4. Two Sigma Investments
 
-Two Sigma Investments (https://www.twosigma.com) is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies its expertise in technology and data analysis to identify [market](../m/market.md) opportunities.
+Two Sigma Investments ( is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [machine learning](../m/machine_learning.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies its expertise in technology and data analysis to identify [market](../m/market.md) opportunities.
 
 ### 5. DE Shaw & Co.
 
-DE Shaw & Co. (https://www.deshaw.com) is a global investment and technology development [firm](../f/firm.md). The company utilizes [proprietary algorithms](../p/proprietary_algorithms.md) and computational methods to manage investments across various [asset](../a/asset.md) classes.
+DE Shaw & Co. ( is a global investment and technology development [firm](../f/firm.md). The company utilizes [proprietary algorithms](../p/proprietary_algorithms.md) and computational methods to manage investments across various [asset](../a/asset.md) classes.
 
 ## Regulatory Landscape
 
@@ -96,15 +96,15 @@ Given the complexities and potential risks associated with [algorithmic trading]
 
 ### 1. Securities and Exchange Commission (SEC)
 
-The SEC (https://www.sec.gov) regulates securities markets in the United States. It enforces rules to prevent [market manipulation](../m/market_manipulation.md), [insider trading](../i/insider.md), and other illegal activities in the context of [algorithmic trading](../a/accountability.md).
+The SEC ( regulates securities markets in the United States. It enforces rules to prevent [market manipulation](../m/market_manipulation.md), [insider trading](../i/insider.md), and other illegal activities in the context of [algorithmic trading](../a/accountability.md).
 
 ### 2. Financial Industry Regulatory Authority (FINRA)
 
-FINRA (https://www.finra.org) oversees [broker](../b/broker.md)-dealers in the U.S. and enforces compliance with securities laws. The organization monitors [algorithmic trading](../a/accountability.md) activities to ensure they adhere to [industry](../i/industry.md) standards and regulations.
+FINRA ( oversees [broker](../b/broker.md)-dealers in the U.S. and enforces compliance with securities laws. The organization monitors [algorithmic trading](../a/accountability.md) activities to ensure they adhere to [industry](../i/industry.md) standards and regulations.
 
 ### 3. European Securities and Markets Authority (ESMA)
 
-ESMA (https://www.esma.europa.eu) is responsible for regulating securities markets in the [European Union](../e/european_union_(eu).md). It establishes guidelines on [algorithmic trading](../a/accountability.md), including requirements for pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) [transparency](../t/transparency.md).
+ESMA ( is responsible for regulating securities markets in the [European Union](../e/european_union_(eu).md). It establishes guidelines on [algorithmic trading](../a/accountability.md), including requirements for pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) [transparency](../t/transparency.md).
 
 ## Challenges and Criticisms
 

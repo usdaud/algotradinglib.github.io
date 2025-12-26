@@ -1,6 +1,6 @@
 # Profit Centers
 
-A [profit](../p/profit.md) center is a branch or division of a company that is treated as a separate unit for the purpose of assessing its profitability. By treating a particular division as a [profit](../p/profit.md) center, a company can evaluate the efficient use of its resources and make strategic [business](../b/business.md) decisions to optimize performance. This allows management to track revenues, expenses, and profits for that division independently. 
+A [profit](../p/profit.md) center is a branch or division of a company that is treated as a separate unit for the purpose of assessing its profitability. By treating a particular division as a [profit](../p/profit.md) center, a company can evaluate the efficient use of its resources and make strategic [business](../b/business.md) decisions to optimize performance. This allows management to track revenues, expenses, and profits for that division independently.
 
 In the modern [business](../b/business.md) landscape, where [diversification](../d/diversification.md) and decentralization are common, the concept of [profit](../p/profit.md) centers is crucial for [managerial accounting](../m/managerial_accounting.md) and strategic planning. The effectiveness of a [profit](../p/profit.md) center model hinges on proper [execution](../e/execution.md), and it involves assigning clear accountability, establishing [performance metrics](../p/performance_metrics.md), and fostering a culture of [transparency](../t/transparency.md) and goal alignment.
 
@@ -82,12 +82,11 @@ Ensure that managers of [profit](../p/profit.md) centers understand their roles 
 ### Example: Procter & Gamble
 Procter & Gamble (P&G) organizes its various consumer product lines into separate [profit](../p/profit.md) centers. Each of these lines, such as beauty, grooming, health care, fabric & [home](../h/home.md) care, and baby, feminine & family care, is treated as a distinct unit for tracking profitability.
 
-For more detailed information, you can visit their [official site](https://us.pg.com/).
+For more detailed information, you can
 
 ### Example: General Electric
 General Electric (GE) segments its operations into various [profit](../p/profit.md) centers, covering areas like aviation, healthcare, power, renewable energy, and digital services. Each segment has its financial reporting and [performance metrics](../p/performance_metrics.md).
 
-More details can be accessed on their [official site](https://www.ge.com/).
 
 ## Conclusion
 

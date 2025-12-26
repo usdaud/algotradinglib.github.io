@@ -4,23 +4,23 @@
 
 ### Key Components
 
-1. **Enhanced Chain-of-Thought:**  
-   o3 generates a more detailed internal reasoning process, allowing it to solve complex problems with greater accuracy.
+1. **Enhanced Chain-of-Thought:**
+ o3 generates a more detailed internal reasoning process, allowing it to solve complex problems with greater accuracy.
 
-2. **Optimized Architecture:**  
-   New algorithms and training methods reduce computational overhead while boosting performance, making o3 more efficient than its predecessor.
+2. **Optimized Architecture:**
+ New algorithms and training methods reduce computational overhead while boosting performance, making o3 more efficient than its predecessor.
 
-3. **Safety Improvements:**  
-   Additional safeguards have been integrated to minimize the [risk](../r/risk.md) of generating harmful or incorrect outputs.
+3. **Safety Improvements:**
+ Additional safeguards have been integrated to minimize the [risk](../r/risk.md) of generating harmful or incorrect outputs.
 
 ### Applications
 
-- **Complex Problem Solving:**  
-  Ideal for advanced mathematical, coding, and logical challenges.
-- **Research and Development:**  
-  Supports scientific research requiring meticulous step-by-step analysis.
-- **Professional Use Cases:**  
-  Enhances applications in sectors where precision and reliability are paramount.
+- **Complex Problem Solving:**
+ Ideal for advanced mathematical, coding, and logical challenges.
+- **Research and Development:**
+ Supports scientific research requiring meticulous step-by-step analysis.
+- **Professional Use Cases:**
+ Enhances applications in sectors where precision and reliability are paramount.
 
 ### Advantages
 

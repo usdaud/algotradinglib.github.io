@@ -12,9 +12,8 @@ The Westpac Consumer Confidence [Index](../i/index_instrument.md) gauges Austral
 4. **Long-term economic view**: Expectations for the [economy](../e/economy.md)’s performance over the next five years.
 5. **Buying conditions**: Opinions on whether the present is a good or bad time to buy major household items.
 
-Together, these questions form a composite [index](../i/index_instrument.md) that reflects the overall sentiment. 
+Together, these questions form a composite [index](../i/index_instrument.md) that reflects the overall sentiment.
 
-[Westpac Consumer Confidence Index](https://www.westpac.com.au/about-westpac/media/reports/consumer-sentiment/)
 
 ## Importance in Financial Markets
 
@@ -54,11 +53,11 @@ Responses are [weighted](../w/weighted.md) based on demographic factors to ensur
 
 ## Application in Algorithmic Trading and Fintech
 
-In recent years, the Westpac Consumer Confidence [Index](../i/index_instrument.md) has also found applications in [algorithmic trading](../a/accountability.md) and financial technology (fintech). Quantitative analysts and developers in the fintech [industry](../i/industry.md) incorporate the [index](../i/index_instrument.md) as one of the macroeconomic variables in their [trading algorithms](../t/trading_algorithms.md).
+In recent years, the Westpac Consumer Confidence [Index](../i/index_instrument.md) has also found applications in [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech). Quantitative analysts and developers in the fintech [industry](../i/industry.md) incorporate the [index](../i/index_instrument.md) as one of the macroeconomic variables in their [trading algorithms](../t/trading_algorithms.md).
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) models use various data points, including consumer confidence indices, to make trading decisions. For instance:
+[Algorithmic trading](../a/algorithmic_trading.md) models use various data points, including consumer confidence indices, to make trading decisions. For instance:
 
 - **[Predictive Modeling](../p/predictive_modeling.md)**: The [index](../i/index_instrument.md) is used in [predictive models](../p/predictive_models_in_trading.md) that forecast future [stock market](../s/stock_market.md) movements. Algorithms can be programmed to identify historical patterns between consumer confidence and [stock market](../s/stock_market.md) performance.
 - **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: Real-time monitoring of the [index](../i/index_instrument.md) allows algorithmic traders to gauge [market sentiment](../m/market_sentiment.md) and make rapid trading decisions based on shifts in consumer confidence.
@@ -90,4 +89,4 @@ Although consumer confidence can be a [leading indicator](../l/leading_indicator
 
 ## Conclusion
 
-The Westpac Consumer Confidence [Index](../i/index_instrument.md) is a pivotal instrument in understanding consumer sentiment and its implications for the Australian [economy](../e/economy.md). For nearly half a century, it has provided valuable insights to policymakers, economists, investors, and businesses. In the evolving landscape of fintech and [algorithmic trading](../a/accountability.md), its relevance continues to grow, [offering](../o/offering.md) sophisticated tools for analysis and decision-making.
+The Westpac Consumer Confidence [Index](../i/index_instrument.md) is a pivotal instrument in understanding consumer sentiment and its implications for the Australian [economy](../e/economy.md). For nearly half a century, it has provided valuable insights to policymakers, economists, investors, and businesses. In the evolving landscape of fintech and [algorithmic trading](../a/algorithmic_trading.md), its relevance continues to grow, [offering](../o/offering.md) sophisticated tools for analysis and decision-making.

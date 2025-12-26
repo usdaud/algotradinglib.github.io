@@ -24,7 +24,7 @@ Nasdaq uses a [dealer market](../d/dealer_market.md), where [multiple](../m/mult
 
 - **Electronic Communication Networks (ECNs)**: These are automated systems that match buy and sell orders for securities without the need for a traditional stock [exchange](../e/exchange.md).
 - **Nasdaq Integrated [Order](../o/order.md) Platform (IOP)**: This platform integrates various [liquidity pools](../l/liquidity_pools.md) and [execution](../e/execution.md) services, providing a seamless trading experience.
-  
+
 ## Technological Innovations
 
 Nasdaq has consistently been at the forefront of technological innovations in [financial markets](../f/financial_market.md):
@@ -35,7 +35,7 @@ Nasdaq has consistently been at the forefront of technological innovations in [f
 
 ## Algorithmic Trading and Fintech
 
-[Algorithmic trading](../a/accountability.md), or algotrading, involves the use of computer programs and algorithms to execute trades at high speeds and volumes. Nasdaq provides a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) for algotrading, supported by high-frequency trading (HFT) firms and institutional investors. Key components of Nasdaq's algotrading ecosystem include:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves the use of computer programs and algorithms to execute trades at high speeds and volumes. Nasdaq provides a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) for algotrading, supported by high-frequency trading (HFT) firms and institutional investors. Key components of Nasdaq's algotrading ecosystem include:
 
 - **Nasdaq [Execution](../e/execution.md) Services**: This suite offers advanced [order types](../o/order_types_in_trading.md), [smart order routing](../s/smart_order_routing.md), and [dark pool](../d/dark_pool.md) access to optimize [trade](../t/trade.md) [execution](../e/execution.md).
 - **Nasdaq Data Link**: A comprehensive platform providing real-time and historical [market](../m/market.md) data, essential for developing and testing [trading algorithms](../t/trading_algorithms.md).
@@ -48,7 +48,6 @@ Fintech innovations have further strengthened Nasdaq's position as a leading sto
 
 ## Link
 
-For more information, you can visit the official Nasdaq website: [Nasdaq](https://www.nasdaq.com)
 
 ## Market Information Dissemination
 
@@ -82,5 +81,3 @@ Nasdaq continues to innovate and adapt to the evolving financial landscape. Majo
 ## Conclusion
 
 The Nasdaq has had a transformative impact on global [financial markets](../f/financial_market.md) since its inception. Through continuous innovation, technological advancements, and strategic partnerships, it remains a cornerstone of modern trading and [finance](../f/finance.md). With a strong focus on integrating cutting-edge technologies and maintaining regulatory compliance, Nasdaq is well-positioned to navigate the future's complexities and opportunities.
-
-For more details, explore the Nasdaq website: [Nasdaq](https://www.nasdaq.com)

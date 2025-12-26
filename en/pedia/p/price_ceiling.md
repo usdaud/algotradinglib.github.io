@@ -6,7 +6,7 @@ A **price ceiling** is a government-imposed limit on the price charged for a pro
 
 A price ceiling is a legal maximum price that one can charge for a good or service, which is set below the natural [market](../m/market.md) [equilibrium](../e/equilibrium.md) price. The concept of [equilibrium](../e/equilibrium.md) price pertains to the point where the [supply](../s/supply.md) of a product matches its [demand](../d/demand.md). By setting a ceiling below this price, the intention is to make these goods more accessible to those who might otherwise be priced out of the [market](../m/market.md).
 
-### Examples of Price Ceilings 
+### Examples of Price Ceilings
 
 1. **[Rent Control](../r/rent_control.md):** This is perhaps the most common example of a price ceiling. Governments impose maximum rent prices to protect tenants from rapidly rising housing costs. For example, New York City has historically implemented [rent control](../r/rent_control.md) policies to maintain affordable housing.
 2. **Essential Medicines:** Price ceilings on essential medicines ensure that life-saving treatments remain affordable for the population. This can be critical in countries where the healthcare system is vulnerable to monopolistic practices or price gouging.
@@ -37,7 +37,7 @@ Economic models illustrate the theoretical impact of price ceilings on [supply](
 
 ### Basic Supply and Demand Model
 
-In a typical [supply](../s/supply.md) and [demand](../d/demand.md) graph, the [equilibrium](../e/equilibrium.md) price (P*) and quantity (Q*) are determined by the intersection of the [supply](../s/supply.md) (S) and [demand](../d/demand.md) (D) curves. 
+In a typical [supply](../s/supply.md) and [demand](../d/demand.md) graph, the [equilibrium](../e/equilibrium.md) price (P*) and quantity (Q*) are determined by the intersection of the [supply](../s/supply.md) (S) and [demand](../d/demand.md) (D) curves.
 
 When a price ceiling (Pc) is set below the [equilibrium](../e/equilibrium.md) price:
 - **[Quantity Demanded](../q/quantity_demanded.md) (Qd):** Increases because consumers are willing to purchase more at the lower price.

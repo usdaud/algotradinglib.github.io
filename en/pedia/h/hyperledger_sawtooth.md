@@ -84,59 +84,56 @@ Before setting up [Hyperledger](../h/hyperledger.md) Sawtooth, ensure you have t
 
 ### Setting Up a Sawtooth Network
 1. **Clone the Sawtooth Repository**:
-   ```bash
-   git clone https://github.com/[hyperledger](../h/hyperledger.md)/sawtooth-core.git
-   cd sawtooth-core
-   ```
+ ```bash
+ ```
 
 2. **Start the Network Using Docker Compose**:
-   ```bash
-   docker-compose -f docker/compose/smallbank.yaml up
-   ```
+ ```bash
+ docker-compose -f docker/compose/smallbank.yaml up
+ ```
 
 3. **Submit Transactions**:
-   Use the Sawtooth CLI or REST API to submit transactions to the network.
+ Use the Sawtooth CLI or REST API to submit transactions to the network.
 
 ### Writing Smart Contracts
 Sawtooth supports different languages for smart contract development. Here’s an example of writing a simple smart contract in Python:
 
 1. **Create a [Transaction](../t/transaction.md) Processor**:
-   ```python
-   from sawtooth_sdk.processor.handler [import](../i/import.md) TransactionHandler
-   
-   class SimpleHandler(TransactionHandler):
-       def __init__(self):
-           super().__init__(
-               family_name='simple',
-               family_versions=['1.0'],
-               namespaces=['simple'])
-       
-       def apply(self, [transaction](../t/transaction.md), context):
-           # Implement the [transaction](../t/transaction.md) logic here
-           pass
-   ```
+ ```python
+ from sawtooth_sdk.processor.handler [import](../i/import.md) TransactionHandler
+
+ class SimpleHandler(TransactionHandler):
+ def __init__(self):
+ super().__init__(
+ family_name='simple',
+ family_versions=['1.0'],
+ namespaces=['simple'])
+
+ def apply(self, [transaction](../t/transaction.md), context):
+ # Implement the [transaction](../t/transaction.md) logic here
+ ```
 
 2. **Register the Handler**:
-   ```python
-   from sawtooth_sdk.processor.core [import](../i/import.md) TransactionProcessor
-   
-   processor = TransactionProcessor(url='tcp://localhost:4004')
-   handler = SimpleHandler()
-   processor.add_handler(handler)
-   processor.start()
-   ```
+ ```python
+ from sawtooth_sdk.processor.core [import](../i/import.md) TransactionProcessor
+
+ processor = TransactionProcessor(url='tcp://localhost:4004')
+ handler = SimpleHandler()
+ processor.add_handler(handler)
+ processor.start()
+ ```
 
 3. **Deploy the Processor**:
-   Deploy the smart contract by running the [transaction](../t/transaction.md) processor. The transactions sent to the network [will](../w/will.md) now be processed by this custom logic.
+ Deploy the smart contract by running the [transaction](../t/transaction.md) processor. The transactions sent to the network [will](../w/will.md) now be processed by this custom logic.
 
 ## Community and Support
 
 [Hyperledger](../h/hyperledger.md) Sawtooth has an active community of developers and contributors. Here are some ways to get involved:
 
 - **Join the Mailing Lists**: Participate in discussions and stay updated with the latest developments.
-- **Contribute to the Codebase**: Contribute code, documentation, or report issues on the [Sawtooth GitHub Repository](https://github.com/hyperledger/sawtooth-core).
+- **Contribute to the Codebase**: Contribute code, documentation, or report issues on the Sawtooth GitHub Repository.
 - **Attend Community Meetings**: Join the community calls to discuss ideas and collaborate with other developers.
-- **Explore Official Documentation**: Detailed documentation is available on the [Hyperledger Sawtooth Documentation site](https://sawtooth.hyperledger.org/docs/).
+- **Explore Official Documentation**: Detailed documentation is available in the Hyperledger Sawtooth documentation.
 
 ## Conclusion
 

@@ -21,33 +21,33 @@ where \( R \) is the [range](../r/range.md) of cumulative deviations from the me
 There are several methods to estimate the [Hurst Exponent](../h/hurst_exponent.md), including but not limited to:
 
 1. **R/S Analysis:**
-    The classical method involves calculating the rescaled [range](../r/range.md) and plotting it on a log-log scale.
+ The classical method involves calculating the rescaled [range](../r/range.md) and plotting it on a log-log scale.
 
 2. **Aggregated Variance Method:**
-    This technique involves summing successive data points to create a new series and observing the variance.
+ This technique involves summing successive data points to create a new series and observing the variance.
 
 3. **Periodogram Method:**
-    In this approach, spectral density is analyzed to estimate `H`.
+ In this approach, spectral density is analyzed to estimate `H`.
 
 4. **DFA (Detrended Fluctuation Analysis):**
-    DFA is used to [handle](../h/handle.md) non-stationarity in the [time series](../t/time_series.md).
+ DFA is used to [handle](../h/handle.md) non-stationarity in the [time series](../t/time_series.md).
 
 ### Practical Steps for Calculation
 
 1. **Data Preparation:**
-    [Load](../l/load.md) your [time series](../t/time_series.md) data. Ensure it's cleaned (no missing data points).
+ [Load](../l/load.md) your [time series](../t/time_series.md) data. Ensure it's cleaned (no missing data points).
 
 2. **Cumulative Deviation Calculation:**
-    Calculate the cumulative deviation of the [time series](../t/time_series.md) from the mean.
+ Calculate the cumulative deviation of the [time series](../t/time_series.md) from the mean.
 
 3. **[Range](../r/range.md) and [Standard Deviation](../s/standard_deviation.md) Calculation:**
-    Calculate the [range](../r/range.md) of the cumulative deviation and the [standard deviation](../s/standard_deviation.md) of the [time series](../t/time_series.md).
+ Calculate the [range](../r/range.md) of the cumulative deviation and the [standard deviation](../s/standard_deviation.md) of the [time series](../t/time_series.md).
 
 4. **Logarithmic Transformation:**
-    Apply logarithmic transformation to the rescaled [range](../r/range.md) `(R/S)` and time `T`.
+ Apply logarithmic transformation to the rescaled [range](../r/range.md) `(R/S)` and time `T`.
 
 5. **[Linear Regression](../l/linear_regression.md):**
-    Perform [linear regression](../l/linear_regression.md) on the transformed values to estimate the slope, which gives the [Hurst Exponent](../h/hurst_exponent.md) `H`.
+ Perform [linear regression](../l/linear_regression.md) on the transformed values to estimate the slope, which gives the [Hurst Exponent](../h/hurst_exponent.md) `H`.
 
 ### Example in Python
 
@@ -96,4 +96,4 @@ Real-world financial data often exhibit non-stationary characteristics, making [
 
 The [Hurst Exponent](../h/hurst_exponent.md) is a powerful tool for [time series analysis](../t/time_series_analysis.md), providing insight into the long-term memory and predictability of [financial markets](../f/financial_market.md). Its ability to distinguish between random walks, mean-reverting, and trending behaviors makes it invaluable in developing and refining [algorithmic trading](../a/algorithmic_trading.md) strategies. However, like all models and indicators, it has limitations that must be understood and considered in practical applications.
 
-Several companies provide tools and platforms to facilitate [Hurst Exponent](../h/hurst_exponent.md) Analysis, such as numerical computation software from MathWorks (https://www.mathworks.com/products/matlab.html) and Python libraries like `numpy` and `scipy`. For real-time applications and more sophisticated analyses, firms like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/product/api/) [offer](../o/offer.md) APIs to retrieve financial data to apply such methodologies effectively.
+Several companies provide tools and platforms to facilitate [Hurst Exponent](../h/hurst_exponent.md) Analysis, such as numerical computation software from MathWorks ( and Python libraries like `numpy` and `scipy`. For real-time applications and more sophisticated analyses, firms like [Bloomberg](../b/bloomberg.md) ( [offer](../o/offer.md) APIs to retrieve financial data to apply such methodologies effectively.

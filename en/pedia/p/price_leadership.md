@@ -38,9 +38,7 @@ Several industries have notable examples of price [leadership](../l/leadership.m
 - **Airlines:** Companies like [Delta](../d/delta.md) Air Lines set price standards that others in the [industry](../i/industry.md) adjust their pricing models to follow suit.
 
 Specific company links:
-- Toyota: [Toyota Global](https://www.toyota-global.com/)
-- Walmart: [Walmart Official Site](https://www.walmart.com/)
-- [Delta](../d/delta.md) Air Lines: [Delta Official Site](https://www.delta.com/)
+- Toyota: Toyota Global
 
 ## Regulatory Concerns
 

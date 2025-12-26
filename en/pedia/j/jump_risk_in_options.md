@@ -17,7 +17,7 @@ Jump [risk](../r/risk.md), also known as discontinuity [risk](../r/risk.md), is 
 Traditional [option pricing models](../o/option_pricing_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md), typically assume a continuous [distribution](../d/distribution.md) of [asset](../a/asset.md) prices, which does not account for sudden jumps. Hence, more advanced models that incorporate jump [risk](../r/risk.md) have been developed:
 
 - **Merton's Jump-Diffusion Model:** This model, formulated by Robert C. Merton in 1976, incorporates both continuous price changes (diffusion) and discrete jumps. It allows for the sudden and sizable changes in [asset](../a/asset.md) prices by adding a jump component to the standard Brownian motion used in the [Black-Scholes model](../b/black-scholes_model.md).
-  
+
 - **Variance [Gamma](../g/gamma.md) Model:** This model, developed by Dilip B. Madan and Eugene Seneta, extends the jump-diffusion approach by incorporating a stochastic process that allows for jumps. It is particularly effective in capturing the leptokurtic (fat-tailed) nature of [asset](../a/asset.md) returns.
 
 ### Managing Jump Risk
@@ -36,10 +36,10 @@ Traditional [option pricing models](../o/option_pricing_models.md), such as the 
 ### Firms Specializing in Managing Jump Risk
 Several financial firms specialize in managing jump [risk](../r/risk.md) through advanced quantitative methods and [algorithmic trading](../a/algorithmic_trading.md). These firms [leverage](../l/leverage.md) sophisticated models and high-frequency [trading strategies](../t/trading_strategies.md) to navigate sudden [market](../m/market.md) movements. Some notable firms include:
 
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/)
-- **Citadel Securities**: [Citadel Securities](https://www.citadelsecurities.com/)
-- **[Jump Trading](../j/jump_trading.md)**: [Jump Trading](https://www.jumptrading.com/)
-- **Renaissance Technologies**: [Renaissance Technologies](https://www.rentech.com/)
+- **Two Sigma**: Two Sigma
+- **Citadel Securities**: Citadel Securities
+- **[Jump Trading](../j/jump_trading.md)**: Jump Trading
+- **Renaissance Technologies**: Renaissance Technologies
 
 ### Conclusion
 Jump [risk](../r/risk.md) remains a critical concern for [options](../o/options.md) traders due to its inherent unpredictability and potential for substantial financial impact. By understanding the key drivers, employing advanced modeling techniques, and implementing effective [risk management](../r/risk_management.md) strategies, traders can better navigate the complexities introduced by sudden [market](../m/market.md) movements. Keeping abreast of current events and continuously refining models and strategies ensure resilience against jump risks in an ever-evolving financial landscape.

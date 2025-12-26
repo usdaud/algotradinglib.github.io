@@ -58,7 +58,7 @@ Traders can exit their positions when the Lips cross into the Teeth and Jaw, ind
 ## Advantages
 
 - **Clarity:** The Alligator [indicator](../i/indicator.md) provides clear visual cues and makes it easier to identify [trend](../t/trend.md) directions.
-  
+
 - **Versatility:** Effective across various [market](../m/market.md) conditions, including [stocks](../s/stock.md), forex, commodities, and [futures](../f/futures.md).
 
 - **Confluence:** It can be used in conjunction with other indicators to enhance [trading strategies](../t/trading_strategies.md) and confirm signals.
@@ -66,13 +66,13 @@ Traders can exit their positions when the Lips cross into the Teeth and Jaw, ind
 ## Limitations
 
 - **[Lagging Indicator](../l/lagging_indicator.md):** As a moving average-based tool, it tends to lag behind the [market](../m/market.md), causing delayed signals.
-  
+
 - **Whipsaws:** In sideways markets, the [indicator](../i/indicator.md) might generate [false signals](../f/false_signals_in_trading.md) due to frequent crossovers of the lines.
 
 ## Case Studies
 
 ### Example 1: Forex Market
-In a typical Forex pair, say EUR/USD, the Alligator [indicator](../i/indicator.md) helps identify a significant upward [trend](../t/trend.md) when a strong [divergence](../d/divergence.md) between the Lips, Teeth, and Jaw is observed. 
+In a typical Forex pair, say EUR/USD, the Alligator [indicator](../i/indicator.md) helps identify a significant upward [trend](../t/trend.md) when a strong [divergence](../d/divergence.md) between the Lips, Teeth, and Jaw is observed.
 
 ### Example 2: Stock Market
 For equities like the S&P 500 [index](../i/index_instrument.md), the Alligator [indicator](../i/indicator.md) is beneficial during periods of strong directional movement, providing reliable buy or sell signals.
@@ -82,6 +82,6 @@ For equities like the S&P 500 [index](../i/index_instrument.md), the Alligator [
 The Williams Alligator [Indicator](../i/indicator.md) remains one of the fundamental tools in [technical analysis](../t/technical_analysis.md), providing traders with a [robust](../r/robust.md) mechanism to discern [market cycles](../m/market_cycles.md) and potential [trade](../t/trade.md) opportunities. By understanding its components, phases, and applications, traders can make more informed decisions and optimize their [trading strategies](../t/trading_strategies.md).
 
 To learn more about companies using [advanced technical analysis](../a/advanced_technical_analysis.md) tools, visit the following links:
-- [TradingView](https://www.tradingview.com)
-- [MetaQuotes](https://www.metaquotes.net)
-- [ThinkMarkets](https://www.thinkmarkets.com)
+- TradingView
+- MetaQuotes
+- ThinkMarkets

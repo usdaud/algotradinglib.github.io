@@ -22,7 +22,7 @@ In January 2018, BTCC was acquired by a Hong Kong-based [blockchain](../b/blockc
 
 ### BTCC Exchange
 
-The BTCC [exchange](../e/exchange.md) offers a user-friendly platform for buying, selling, and trading a variety of cryptocurrencies. The [exchange](../e/exchange.md) provides support for major cryptocurrencies including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), and Litecoin (LTC), among others. 
+The BTCC [exchange](../e/exchange.md) offers a user-friendly platform for buying, selling, and trading a variety of cryptocurrencies. The [exchange](../e/exchange.md) provides support for major cryptocurrencies including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), and Litecoin (LTC), among others.
 
 Key features of the BTCC [exchange](../e/exchange.md) include:
 - **Advanced Trading Interface**: A sophisticated interface equipped with charting tools and [real-time market data](../r/real-time_market_data.md).
@@ -96,4 +96,3 @@ BTCC actively engages with the cryptocurrency community through various initiati
 
 BTCC has had a significant impact on the cryptocurrency [market](../m/market.md) since its inception. Despite facing numerous challenges, the platform has managed to adapt and thrive, continually evolving to meet the needs of its users. With a strong focus on [security](../s/security.md), [transparency](../t/transparency.md), and innovation, BTCC is well-positioned to remain a key player in the global cryptocurrency ecosystem.
 
-For more information, you can visit their [official website](https://www.btcc.com/).

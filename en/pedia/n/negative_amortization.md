@@ -1,6 +1,6 @@
 # Negative Amortization
 
-Negative amortization is a financial concept in which the outstanding [principal](../p/principal.md) amount of a [loan](../l/loan.md) increases instead of decreasing over time. This occurs when the [loan](../l/loan.md) payments made by the borrower are less than the [interest](../i/interest.md) due for that period, causing the remaining unpaid [interest](../i/interest.md) to be added to the [principal](../p/principal.md) balance. Negative amortization is often encountered in Adjustable Rate Mortgages (ARMs) and certain student [loan](../l/loan.md) structures, and it can result in significant [financial risk](../f/financial_risk.md) for both lenders and borrowers. 
+Negative amortization is a financial concept in which the outstanding [principal](../p/principal.md) amount of a [loan](../l/loan.md) increases instead of decreasing over time. This occurs when the [loan](../l/loan.md) payments made by the borrower are less than the [interest](../i/interest.md) due for that period, causing the remaining unpaid [interest](../i/interest.md) to be added to the [principal](../p/principal.md) balance. Negative amortization is often encountered in Adjustable Rate Mortgages (ARMs) and certain student [loan](../l/loan.md) structures, and it can result in significant [financial risk](../f/financial_risk.md) for both lenders and borrowers.
 
 ## Definition and Mechanics
 
@@ -24,7 +24,7 @@ Negative amortization is often observed in loans with variable or adjustable [in
 
 Adjustable Rate Mortgages are a prevalent example of loans susceptible to negative amortization. These mortgages typically start with a [fixed interest rate](../f/fixed_interest_rate.md) for an introductory period and then adjust periodically based on a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md). The attraction of initially low payments can lead borrowers to choose ARMs, but they often come with the caveat of potential [payment](../p/payment.md) spikes when the rate resets.
 
-During the adjustment period, if the [interest rate](../i/interest_rate.md) increases dramatically, the borrower's payments may not be sufficient to cover the newly calculated [interest](../i/interest.md). Consequently, this unpaid [interest](../i/interest.md) is capitalized and added to the [loan](../l/loan.md)'s [principal](../p/principal.md) balance. 
+During the adjustment period, if the [interest rate](../i/interest_rate.md) increases dramatically, the borrower's payments may not be sufficient to cover the newly calculated [interest](../i/interest.md). Consequently, this unpaid [interest](../i/interest.md) is capitalized and added to the [loan](../l/loan.md)'s [principal](../p/principal.md) balance.
 
 ### Student Loans
 
@@ -74,4 +74,4 @@ In some cases, modifying the [loan](../l/loan.md) terms may be a viable option. 
 
 Negative amortization represents a significant [financial risk](../f/financial_risk.md) due to the potential for increasing [debt](../d/debt.md) loads and financial strain on borrowers. While initially appealing due to lower payments, loans susceptible to negative amortization can become unmanageable if not properly understood and managed. Borrowers should thoroughly understand [loan](../l/loan.md) terms, make more than the minimum payments when possible, and seek professional advice to mitigate the risks associated with negative amortization. Lenders, too, should transparently disclose the potential for negative amortization and ensure that borrowers are fully aware of the long-term implications of their [loan](../l/loan.md) choices.
 
-For more in-depth information about [mortgage](../m/mortgage.md) [options](../o/options.md) and financial counseling, you can visit [Freddie Mac](http://www.freddiemac.com/) or consult financial advisory services like [Wells Fargo Financial Advisors](https://www.wellsfargo.com/investments/financial-advisors/).
+For more in-depth information about [mortgage](../m/mortgage.md) [options](../o/options.md) and financial counseling, you can visit Freddie Mac or consult financial advisory services like Wells Fargo Financial Advisors.

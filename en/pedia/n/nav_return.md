@@ -92,11 +92,11 @@ While NAV [Return](../r/return.md) focuses on the net [asset](../a/asset.md) [va
 
 ### Mutual Funds
 
-Many mutual funds, such as those managed by Vanguard (https://[investor](../i/investor.md).vanguard.com), provide detailed reports of their NAV [Return](../r/return.md).
+Many mutual funds, such as those managed by Vanguard ( provide detailed reports of their NAV [Return](../r/return.md).
 
 ### ETFs
 
-[iShares](../i/ishares.md) by BlackRock (https://www.[ishares](../i/ishares.md).com) is a popular provider of ETFs, and they often outline their NAV Returns, enabling investors to make informed investment choices.
+[iShares](../i/ishares.md) by BlackRock ( is a popular provider of ETFs, and they often outline their NAV Returns, enabling investors to make informed investment choices.
 
 ### Hedge Funds
 
@@ -104,7 +104,7 @@ Many mutual funds, such as those managed by Vanguard (https://[investor](../i/in
 
 ### Automated Trading Platforms
 
-Platforms like Wealthfront (https://www.wealthfront.com) and Betterment (https://www.betterment.com) use NAV Returns among other metrics to [offer](../o/offer.md) algorithmically-driven investment advice and [portfolio management](../p/par.md).
+Platforms like Wealthfront ( and Betterment ( use NAV Returns among other metrics to [offer](../o/offer.md) algorithmically-driven investment advice and [portfolio management](../p/par.md).
 
 ## Conclusion
 

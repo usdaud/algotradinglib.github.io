@@ -61,7 +61,7 @@ In the forex [market](../m/market.md), the [carry trade](../c/carry_trade.md) st
 Several trading platforms and tools can assist in executing rollover trades efficiently. These include:
 
 ### Trading Platforms
-**MetaTrader 4 and 5**: These popular trading platforms [offer](../o/offer.md) built-in tools for managing rollover in forex trades. See more at [MetaTrader](https://www.metatrader4.com).
+**MetaTrader 4 and 5**: These popular trading platforms [offer](../o/offer.md) built-in tools for managing rollover in forex trades. See more at MetaTrader.
 
 ### Automated Rollover Tools
 Many brokers [offer](../o/offer.md) automated rollover tools that assist in transitioning positions from one contract to another, reducing the manual effort and [risk](../r/risk.md) of error.

@@ -50,11 +50,11 @@
 
 Some prominent [market](../m/market.md) makers on [NASDAQ](../n/nasdaq.md) include:
 
-- **Citadel Securities**: Known for its dominant role in [equity](../e/equity.md) and [options market making](../o/options_market_making.md). (Website: [Citadel Securities](https://www.citadelsecurities.com/))
+- **Citadel Securities**: Known for its dominant role in [equity](../e/equity.md) and [options market making](../o/options_market_making.md).
 
-- **Virtu Financial**: One of the largest electronic [market](../m/market.md) makers globally, active across numerous [asset](../a/asset.md) classes. (Website: [Virtu Financial](https://www.virtu.com/))
+- **Virtu Financial**: One of the largest electronic [market](../m/market.md) makers globally, active across numerous [asset](../a/asset.md) classes.
 
-- **Jane Street**: Renowned for [quantitative research](../q/quantitative_research.md)-driven trading and [market](../m/market.md) making across various financial instruments. (Website: [Jane Street](https://www.janestreet.com/))
+- **Jane Street**: Renowned for [quantitative research](../q/quantitative_research.md)-driven trading and [market](../m/market.md) making across various financial instruments.
 
 ### Conclusion
 

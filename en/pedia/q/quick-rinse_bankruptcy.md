@@ -71,5 +71,5 @@ Similarly, Chrysler filed for [Chapter 11 bankruptcy](../c/chapter_11_bankruptcy
 Quick-rinse [bankruptcy](../b/bankruptcy.md) is an effective tool for companies that need to restructure their [debt](../d/debt.md) and emerge from [financial distress](../f/financial_distress.md) swiftly. By pre-negotiating a [bankruptcy](../b/bankruptcy.md) plan with creditors, companies can minimize the [duration](../d/duration.md) and cost of [bankruptcy](../b/bankruptcy.md) while maintaining greater control over the [restructuring](../r/restructuring.md) process. However, successful implementation requires thorough preparation, effective [negotiation](../n/negotiation.md), and clear communication with all stakeholders.
 
 For more information on companies that have undergone quick-rinse [bankruptcy](../b/bankruptcy.md) and detailed case studies, you may refer to their official websites:
-- [General Motors Official Website](https://www.gm.com)
-- [Chrysler Official Website](https://www.stellantis.com)
+-
+-

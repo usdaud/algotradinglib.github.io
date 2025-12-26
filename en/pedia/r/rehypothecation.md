@@ -66,9 +66,9 @@ Rehypothecation remains a double-edged sword in the financial [industry](../i/in
 
 ## External Resources
 
-- [Federal Reserve Regulation T](https://www.federalreserve.gov/supervisionreg/reglisting.htm)
-- [Basel III Summary](https://www.bis.org/bcbs/basel3.htm)
-- [Dodd-Frank Wall Street Reform and Consumer Protection Act](https://www.sec.gov/spotlight/dodd-frank.shtml)
-- [EMIR Overview](https://www.esma.europa.eu/regulation/post-trading/emir)
+- Federal Reserve Regulation T
+- Basel III Summary
+- Dodd-Frank Wall Street Reform and Consumer Protection Act
+- EMIR Overview
 
 By examining the multifaceted nature of rehypothecation, stakeholders in the [financial markets](../f/financial_market.md) can better appreciate both the opportunities and the risks it presents. Continuing advancements in regulatory frameworks and [market](../m/market.md) practices [will](../w/will.md) likely shape its role in future financial landscapes.

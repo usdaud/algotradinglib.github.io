@@ -6,8 +6,6 @@ DigiFinex, short for Digital Financial [Exchange](../e/exchange.md), is a popula
 
 DigiFinex was founded by a group of [blockchain](../b/blockchain_in_trading.md) enthusiasts and experienced financial professionals. The [exchange](../e/exchange.md) is based in Singapore and has expanded its services globally. Its primary aim is to [offer](../o/offer.md) a reliable platform for buying, selling, and trading a wide array of cryptocurrencies.
 
-### Website
-[Visit DigiFinex](https://www.digifinex.com/)
 
 ## Core Features
 

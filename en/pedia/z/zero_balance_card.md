@@ -18,7 +18,7 @@
 ## Applications in Trading and Finance
 
 ### Corporate Expense Management
-[Zero Balance](../z/zero_balance.md) Cards are extensively used in corporate [expense](../e/expense.md) management. They provide companies with a [robust](../r/robust.md) tool for managing employee spending, allowing for strict control over expenditures while simplifying the [reconciliation](../r/reconciliation.md) process. 
+[Zero Balance](../z/zero_balance.md) Cards are extensively used in corporate [expense](../e/expense.md) management. They provide companies with a [robust](../r/robust.md) tool for managing employee spending, allowing for strict control over expenditures while simplifying the [reconciliation](../r/reconciliation.md) process.
 
 ### Treasury Operations
 In treasury operations, [Zero Balance](../z/zero_balance.md) Cards facilitate precise [cash flow](../c/cash_flow.md) management. Treasurers can allocate funds for specific transactions or departments with minimal [risk](../r/risk.md) of over-expenditure, ensuring optimal [liquidity](../l/liquidity.md) management.
@@ -44,11 +44,11 @@ Cardholders can monitor transactions in real time, providing an additional layer
 
 Several financial institutions and fintech companies [offer](../o/offer.md) [Zero Balance](../z/zero_balance.md) Cards tailored to different needs. Notable providers include:
 
-- **[Bank](../b/bank.md) of America**: [Bank of America Zero Balance Card](https://www.bankofamerica.com/)
-- **Chase**: [Chase Zero Balance Card](https://www.chase.com/)
-- **American Express**: [American Express Zero Balance Card](https://www.americanexpress.com/)
-- **Revolut**: [Revolut Zero Balance Card](https://www.revolut.com/)
-- **Wise (formerly TransferWise)**: [Wise Zero Balance Card](https://wise.com/)
+- **[Bank](../b/bank.md) of America**: Bank of America Zero Balance Card
+- **Chase**: Chase Zero Balance Card
+- **American Express**: American Express Zero Balance Card
+- **Revolut**: Revolut Zero Balance Card
+- **Wise (formerly TransferWise)**: Wise Zero Balance Card
 
 ## Technical Implementation
 

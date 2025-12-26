@@ -27,18 +27,18 @@ Gross Domestic Product (GDP) is perhaps the most comprehensive measure of an [ec
 The [unemployment rate](../u/unemployment_rate.md) is a measure of the number of people who are actively looking for work but aren't currently employed. It is an important [indicator](../i/indicator.md) of [labor market](../l/labor_market.md) health.
 
 - **Types of [Unemployment](../u/unemployment.md)**:
-    - **[Frictional Unemployment](../f/frictional_unemployment.md)**: Short-term [unemployment](../u/unemployment.md) that occurs when people are between jobs or entering the workforce.
-    - **[Structural Unemployment](../s/structural_unemployment.md)**: Long-term [unemployment](../u/unemployment.md) caused by shifts in the [economy](../e/economy.md) and mismatches between skills and jobs.
-    - **[Cyclical Unemployment](../c/cyclical_unemployment.md)**: Caused by economic downturns or recessions.
-    - **Seasonal [Unemployment](../u/unemployment.md)**: Varies by season, often seen in industries like agriculture and tourism.
+ - **[Frictional Unemployment](../f/frictional_unemployment.md)**: Short-term [unemployment](../u/unemployment.md) that occurs when people are between jobs or entering the workforce.
+ - **[Structural Unemployment](../s/structural_unemployment.md)**: Long-term [unemployment](../u/unemployment.md) caused by shifts in the [economy](../e/economy.md) and mismatches between skills and jobs.
+ - **[Cyclical Unemployment](../c/cyclical_unemployment.md)**: Caused by economic downturns or recessions.
+ - **Seasonal [Unemployment](../u/unemployment.md)**: Varies by season, often seen in industries like agriculture and tourism.
 
 ### Interest Rates
 [Interest](../i/interest.md) rates represent the cost of borrowing [money](../m/money.md) and are set by a country's central [bank](../b/bank.md). They are fundamental to other macroeconomic factors like [inflation](../i/inflation.md) and [unemployment](../u/unemployment.md).
 
 - **[Monetary Policy](../m/monetary_policy.md)**: Central banks use [monetary policy](../m/monetary_policy.md) to influence [interest](../i/interest.md) rates, controlling [inflation](../i/inflation.md) and stabilizing the [currency](../c/currency.md).
 - **Types of [Interest](../i/interest.md) Rates**:
-    - **[Nominal Interest Rate](../n/nominal_interest_rate.md)**: The stated [interest rate](../i/interest_rate.md) on a [loan](../l/loan.md) or investment.
-    - **[Real Interest Rate](../r/real_interest_rate.md)**: The [nominal](../n/nominal.md) rate adjusted for [inflation](../i/inflation.md).
+ - **[Nominal Interest Rate](../n/nominal_interest_rate.md)**: The stated [interest rate](../i/interest_rate.md) on a [loan](../l/loan.md) or investment.
+ - **[Real Interest Rate](../r/real_interest_rate.md)**: The [nominal](../n/nominal.md) rate adjusted for [inflation](../i/inflation.md).
 
 ### Exchange Rates
 [Exchange](../e/exchange.md) rates determine how much one [currency](../c/currency.md) is worth in terms of another. They influence international [trade](../t/trade.md) and investments and can be affected by a variety of factors such as [interest](../i/interest.md) rates, economic stability, and political conditions.

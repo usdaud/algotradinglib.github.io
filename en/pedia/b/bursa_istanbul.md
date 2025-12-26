@@ -17,7 +17,7 @@ Borsa Istanbul is divided into different markets to cater to various types of fi
 - **[Derivatives](../d/derivatives.md) [Market](../m/market.md):** For trading [futures](../f/futures.md) and [options](../o/options.md) contracts.
 - **Precious Metals and Diamond Markets:** For trading in gold, silver, [platinum](../p/platinum.md), and [diamonds](../d/diamonds.md).
 - **International [Market](../m/market.md):** Facilitates the listing and trading of foreign securities.
-  
+
 ## Trading Mechanisms
 
 ### Trading Hours
@@ -85,4 +85,3 @@ Borsa Istanbul faces challenges such as global economic [volatility](../v/volati
 
 Borsa Istanbul is a burgeoning player in the global financial [market](../m/market.md), characterized by its advanced technological [infrastructure](../i/infrastructure.md), diverse [market](../m/market.md) segments, and strategic initiatives to integrate with global markets. Its role in the Turkish [economy](../e/economy.md) is vital, helping to channel savings into productive investments and [offering](../o/offering.md) [liquidity](../l/liquidity.md) for trading securities.
 
-For more detailed information, please refer to the official website of Borsa Istanbul: [Borsa Istanbul](https://www.borsaistanbul.com/).

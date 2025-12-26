@@ -95,7 +95,7 @@ Six Sigma's reliance on data collection and analysis leads to more informed deci
 Training employees in Six Sigma methodologies and tools can lead to higher engagement and job satisfaction as they actively contribute to continuous improvement efforts.
 
 ## Six Sigma in Financial Services
-Six Sigma is widely used in the [financial sector](../f/financial_sector.md) to improve [business](../b/business.md) processes such as [transaction](../t/transaction.md) processing, [risk management](../r/risk_management.md), and [customer service](../c/customer_service.md). 
+Six Sigma is widely used in the [financial sector](../f/financial_sector.md) to improve [business](../b/business.md) processes such as [transaction](../t/transaction.md) processing, [risk management](../r/risk_management.md), and [customer service](../c/customer_service.md).
 
 ### Transaction Processing
 Six Sigma helps streamline [transaction](../t/transaction.md) processes to reduce errors and cycle times, leading to quicker and more accurate [payment](../p/payment.md) handling and settlements.
@@ -109,8 +109,8 @@ By improving service processes and reducing error rates, financial institutions 
 ## Certifications and Training
 Professionals can become certified at various levels in Six Sigma, such as Yellow Belt, Green Belt, Black Belt, and Master Black Belt. Numerous organizations provide Six Sigma training and certification, including:
 
-- [Six Sigma Institute](https://www.sixsigmainstitute.org/)
-- [ASQ (American Society for Quality)](https://asq.org/cert/six-sigma)
+- Six Sigma Institute
+- ASQ (American Society for Quality)
 
 Each level of certification requires a deepening understanding of Six Sigma principles and the ability to apply these techniques to real-world problems.
 

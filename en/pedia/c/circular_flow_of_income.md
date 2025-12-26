@@ -22,7 +22,7 @@ When introducing the government sector, we need to account for [taxation](../t/t
 In an [open](../o/open.md) [economy](../e/economy.md), we also consider the foreign sector, which includes exports and imports. Households and firms can buy goods and services from abroad (imports), and firms can sell goods and services to foreign entities (exports). Thus, the [net export](../n/net_export.md) (exports minus imports) is an integral part of the circular flow of [income](../i/income.md).
 
 ### Injections and Leakages
-Apart from the basic spending by households, we also consider injections and leakages in the circular flow of [income](../i/income.md) model. 
+Apart from the basic spending by households, we also consider injections and leakages in the circular flow of [income](../i/income.md) model.
 
 1. **Injections:** These are additions to the [economy](../e/economy.md)'s circular flow of [income](../i/income.md). They include investment (by firms), government spending, and exports.
 2. **Leakages:** These are withdrawals from the [economy](../e/economy.md)'s circular flow. They include savings (by households), [taxes](../t/taxes.md), and imports.
@@ -50,7 +50,7 @@ While GDP is a crucial [indicator](../i/indicator.md), it comes with limitations
 The Circular Flow of [Income](../i/income.md) model provides a visual and simplified representation of how [money](../m/money.md) moves through the [economy](../e/economy.md). It helps economists and policymakers understand the complex interdependencies among different sectors and the impact of various economic activities and policies.
 
 ### Policy Formulation
-Governments use this model to devise and implement effective economic policies. For instance, understanding where leakages occur can help in developing strategies to increase injections, stimulating [economic growth](../e/economic_growth.md). 
+Governments use this model to devise and implement effective economic policies. For instance, understanding where leakages occur can help in developing strategies to increase injections, stimulating [economic growth](../e/economic_growth.md).
 
 ### Business Planning
 Firms can use insights from the circular flow model to make better [business](../b/business.md) decisions. By understanding spending patterns and [income](../i/income.md) flows, businesses can forecast [demand](../d/demand.md) for their products and make informed investment choices.

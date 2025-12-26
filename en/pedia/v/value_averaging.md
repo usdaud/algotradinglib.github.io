@@ -49,9 +49,9 @@ If the portfolio's [value](../v/value.md) after Q1 is $10,100, then:
 ## Tools and Calculators
 Several financial tools and calculators aid in implementing VA strategies by automating the complex calculations and adjustments required. Some notable platforms include:
 
-- **Financial Engines**: Provides [robust](../r/robust.md) financial advisory services including VA calculations. (Visit [Financial Engines](https://financialengines.com))
-- **Portfolio Visualizer**: Offers various [investment strategy](../i/investment_strategy.md) simulators, including VA tools. (Visit [Portfolio Visualizer](https://www.portfoliovisualizer.com))
-- **Personal [Capital](../c/capital.md)**: While primarily focusing on [financial planning](../f/financial_planning.md), it also aids in customized investment strategies. (Visit [Personal Capital](https://www.personalcapital.com))
+- **Financial Engines**: Provides [robust](../r/robust.md) financial advisory services including VA calculations. (Visit Financial Engines)
+- **Portfolio Visualizer**: Offers various [investment strategy](../i/investment_strategy.md) simulators, including VA tools. (Visit Portfolio Visualizer)
+- **Personal [Capital](../c/capital.md)**: While primarily focusing on [financial planning](../f/financial_planning.md), it also aids in customized investment strategies. (Visit Personal Capital)
 
 ## Real-World Applications
 

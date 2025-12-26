@@ -17,7 +17,7 @@ Sovereign repatriation involves government-controlled funds such as sovereign [w
 
 ## Drivers and Challenges
 
-### **Economic Conditions** 
+### **Economic Conditions**
 Economic stability or instability is a primary driver for repatriation. For instance, if the [economic conditions](../e/economic_conditions.md) in a [home](../h/home.md) country improve, there is an incentive for MNCs and individuals to repatriate funds to benefit from a stronger [currency](../c/currency.md), better investment opportunities, or safer financial environments.
 
 ### **Taxation and Regulation**
@@ -43,10 +43,10 @@ Accurate documentation is necessary for regulatory compliance. Entities and indi
 ## Repatriation in Practice
 
 ### **Apple Inc.**
-Apple Inc. is an exemplary case of corporate repatriation. The company repatriated over $250 billion in cash [holdings](../h/holdings.md) from abroad following the U.S. TCJA of 2017, which lowered the [tax rate](../t/tax_rate.md) on repatriated profits. This allowed Apple to [fund](../f/fund.md) domestic investments, [share buybacks](../s/share_buybacks.md), and dividends. [Apple Inc.](https://www.apple.com/)
+Apple Inc. is an exemplary case of corporate repatriation. The company repatriated over $250 billion in cash [holdings](../h/holdings.md) from abroad following the U.S. TCJA of 2017, which lowered the [tax rate](../t/tax_rate.md) on repatriated profits. This allowed Apple to [fund](../f/fund.md) domestic investments, [share buybacks](../s/share_buybacks.md), and dividends. Apple Inc.
 
 ### **Norwegian Sovereign Wealth Fund**
-The Norwegian Sovereign [Wealth](../w/wealth.md) [Fund](../f/fund.md), known as the Government Pension [Fund](../f/fund.md) Global, occasionally repatriates funds to cover [budget](../b/budget.md) deficits or support the country’s [economy](../e/economy.md). The [fund](../f/fund.md)’s management involves careful planning to minimize the impact of large-scale repatriation on forex markets and the country's [economy](../e/economy.md). [Norwegian Sovereign Wealth Fund](https://www.nbim.no/)
+The Norwegian Sovereign [Wealth](../w/wealth.md) [Fund](../f/fund.md), known as the Government Pension [Fund](../f/fund.md) Global, occasionally repatriates funds to cover [budget](../b/budget.md) deficits or support the country’s [economy](../e/economy.md). The [fund](../f/fund.md)’s management involves careful planning to minimize the impact of large-scale repatriation on forex markets and the country's [economy](../e/economy.md). Norwegian Sovereign Wealth Fund
 
 ### **Individual Expatriates**
 Expatriates repatriating funds back [home](../h/home.md) often rely on financial advisors to navigate [taxation](../t/taxation.md) challenges. For example, American expatriates repatriating to the USA need to account for the [Foreign Earned Income Exclusion](../f/foreign_earned_income_exclusion.md) (FEIE) and any applicable Foreign Tax Credits (FTC).

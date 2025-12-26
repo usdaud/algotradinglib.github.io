@@ -6,7 +6,7 @@ A Backdoor [Roth IRA](../r/roth_ira.md) is a method for individuals, particularl
 
 ### Income Limits for Roth IRA Contributions
 
-Roth IRAs are attractive because they allow for [tax-free](../t/tax_free.md) withdrawals in retirement. However, the IRS imposes [income](../i/income.md) limits on who can contribute directly to a [Roth IRA](../r/roth_ira.md). For 2023, single filers with a modified adjusted [gross income](../g/gross_income.md) (MAGI) of $153,000 or more and married couples filing jointly with a MAGI of $228,000 or more are ineligible to contribute directly to a [Roth IRA](../r/roth_ira.md).
+Roth IRAs are attractive because they allow for [tax-free](../t/tax_free.md) withdrawals in retirement. However, the IRS imposes [income](../i/income.md) limits on who can contribute directly to a [Roth IRA](../r/roth_ira.md). For 2023, single filers with a modified adjusted [gross income](../g/gross_income.md) (MAGI) of $138,000 or more and married couples filing jointly with a MAGI of $218,000 or more are ineligible to contribute directly to a [Roth IRA](../r/roth_ira.md).
 
 ### Benefits of Roth IRA
 
@@ -23,7 +23,7 @@ The first step in executing a Backdoor [Roth IRA](../r/roth_ira.md) is to make a
 
 ### Step 2: Convert to a Roth IRA
 
-After the contribution has been made to the [traditional IRA](../t/traditional_ira.md), the next step is to convert the amount to a [Roth IRA](../r/roth_ira.md). This can typically be done through your brokerage's website or by contacting them directly. When you convert to a [Roth IRA](../r/roth_ira.md), you may owe [taxes](../t/taxes.md) on any gains earned in the [traditional IRA](../t/traditional_ira.md) before the conversion and on contributions that were deducted on your [tax return](../t/tax_return.md).
+After the contribution has been made to the [traditional IRA](../t/traditional_ira.md), the next step is to convert the amount to a [Roth IRA](../r/roth_ira.md). This can typically be done through your brokerage's online portal or by contacting them directly. When you convert to a [Roth IRA](../r/roth_ira.md), you may owe [taxes](../t/taxes.md) on any gains earned in the [traditional IRA](../t/traditional_ira.md) before the conversion and on contributions that were deducted on your [tax return](../t/tax_return.md).
 
 ### Step 3: Report the Conversion on Your Taxes
 
@@ -79,7 +79,7 @@ Roth IRAs can create tax [diversification](../d/diversification.md) in retiremen
 
 ### Financial Calculators
 
-Several financial calculators can help you understand the impact of a Backdoor [Roth IRA](../r/roth_ira.md) on your tax situation. Websites like [Bankrate](https://www.bankrate.com/calculators/retirement/roth-ira-conversion-calculator.aspx) [offer](../o/offer.md) tools to simulate the tax implications and benefits of Roth conversions.
+Several financial calculators can help you understand the impact of a Backdoor [Roth IRA](../r/roth_ira.md) on your tax situation. Websites like Bankrate [offer](../o/offer.md) tools to simulate the tax implications and benefits of Roth conversions.
 
 ### Professional Advice
 

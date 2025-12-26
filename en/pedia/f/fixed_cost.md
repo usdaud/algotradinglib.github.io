@@ -5,7 +5,7 @@ Fixed costs, also known as an overhead cost or indirect cost, are [business](../
 ## Characteristics of Fixed Costs
 
 1. **Independence from Production Level**: Fixed costs remain constant no matter the company's level of production or sales [volume](../v/volume.md). Examples include rent, salaries of permanent staff, and [depreciation](../d/depreciation.md) of assets.
- 
+
 2. **Predictability**: Because they do not fluctuate based on production or sales [volume](../v/volume.md), fixed costs can be easily predicted and budgeted for.
 
 3. **Long-term Commitments**: Often, fixed costs are long-term commitments such as lease agreements, long-term contracts, or salaries for permanent employees.

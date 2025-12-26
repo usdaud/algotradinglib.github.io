@@ -34,7 +34,7 @@ Foreign [sale](../s/sale.md) rights involve selling the book in a [market](../m/
 Authors and publishers typically negotiate a contract outlining which subsidiary rights the publisher is able to exploit. This contract governs the terms including the [payment](../p/payment.md) structure—whether it's a flat [fee](../f/fee.md), royalties, or a mixture of both.
 
 ### Revenue Distribution
-[Revenue](../r/revenue.md) generated from exploiting subsidiary rights is often shared between the author and the publisher. The percentage allocation of these revenues is usually pre-defined in the contract. 
+[Revenue](../r/revenue.md) generated from exploiting subsidiary rights is often shared between the author and the publisher. The percentage allocation of these revenues is usually pre-defined in the contract.
 
 ### Legal Disputes
 Disagreements can arise over the interpretation of rights and their usage. Legal advisors and agents often play crucial roles in mediating these disputes and ensuring fair negotiations.

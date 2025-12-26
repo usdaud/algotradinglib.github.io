@@ -48,15 +48,15 @@ The Equation of [Exchange](../e/exchange.md) helps economists analyze the impact
 
 ### Fisher's Quantity Theory of Money
 The Equation of [Exchange](../e/exchange.md) is rooted in the [Quantity Theory of Money](../q/quantity_theory_of_money.md), initially articulated by Irving Fisher in the early 20th century. Fisher's theory posits that changes in the [money supply](../m/money_supply.md) have a direct, proportional relationship with the [price level](../p/price_level.md), providing that the [velocity of money](../v/velocity_of_money.md) and real output remain [unchanged](../u/unchanged.md).
-- Fisher’s work can be explored in-depth at [Fisher College](http://fisher.edu).
+- Fisher’s work can be explored in-depth at Fisher College.
 
 ### Keynesian Economics
 [John Maynard Keynes](../j/john_maynard_keynes.md) challenged the classical quantity theory by introducing factors like [liquidity](../l/liquidity.md) preference and the propensity to consume. [Keynesian economics](../k/keynesian_economics_in_trading.md) suggests that velocity and price levels are more dynamic and can be influenced by factors other than the [money supply](../m/money_supply.md), such as [fiscal policy](../f/fiscal_policy.md) and [aggregate demand](../a/aggregate_demand.md).
-- More on [Keynesian economics](../k/keynesian_economics_in_trading.md) can be found at [The Keynesian Approach](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm).
+- More on [Keynesian economics](../k/keynesian_economics_in_trading.md) can be found at The Keynesian Approach.
 
 ### Monetarism
 Monetarists like [Milton Friedman](../m/milton_friedman.md) revisited the Quantity Theory, emphasizing the long-term impact of the [money supply](../m/money_supply.md) on price levels and output. They argue that controlling [inflation](../i/inflation.md) involves maintaining a stable growth rate in the [money supply](../m/money_supply.md), independent of short-term economic fluctuations.
-- For insights into [monetarism](../m/monetarism.md), refer to [Milton Friedman and Monetarism](https://miltonfriedman.hoover.org/).
+- For insights into [monetarism](../m/monetarism.md), refer to Milton Friedman and Monetarism.
 
 ## Empirical Evidence
 

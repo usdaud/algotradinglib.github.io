@@ -2,7 +2,7 @@
 
 [Leverage](../l/leverage.md) refers to the use of borrowed [capital](../c/capital.md) or financial [derivatives](../d/derivatives.md) to increase the potential [return](../r/return.md) of an investment. It allows traders to control a larger position than they could with their own [capital](../c/capital.md) alone. [Leverage](../l/leverage.md) is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), as it significantly affects [risk management](../r/risk_management.md) and returns.
 
-### Understanding Leverage 
+### Understanding Leverage
 
 [Leverage](../l/leverage.md) is expressed as a ratio, such as 2:1, 5:1, or 100:1. A 2:1 [leverage ratio](../l/leverage_ratio.md) means that for every dollar of the [trader](../t/trader.md)’s own [capital](../c/capital.md), they can borrow and [trade](../t/trade.md) two additional dollars. In other words, [leverage](../l/leverage.md) magnifies both gains and losses. It’s a double-edged sword that requires careful management.
 
@@ -11,7 +11,7 @@ Example:
 - **[Leverage Ratio](../l/leverage_ratio.md):** 5:1
 - **Trading Amount:** $50,000 ($10,000 own [capital](../c/capital.md) + $40,000 borrowed [capital](../c/capital.md))
 
-### Types of Leverage 
+### Types of Leverage
 
 #### Financial Leverage
 Financial [leverage](../l/leverage.md) involves borrowing [capital](../c/capital.md) to increase the overall investment size. This type of [leverage](../l/leverage.md) is common in various markets, including forex, [stocks](../s/stock.md), and [derivatives](../d/derivatives.md).
@@ -107,15 +107,13 @@ Several tools and platforms are available to facilitate leveraged trading in alg
 #### MetaTrader 4 and 5
 MetaTrader is a popular [trading platform](../t/trading_platform.md) that supports leveraged trading and algorithmic strategies. It offers [robust](../r/robust.md) tools for [backtesting](../b/backtesting.md) and automated [execution](../e/execution.md).
 
-#### QuantConnect
-[QuantConnect](../q/quantconnect.md) provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers integration with various brokers for live trading.
+#### StockSharp
+[StockSharp](../s/stocksharp.md) provides a platform for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers integration with various brokers for live trading.
 
-[QuantConnect](https://www.quantconnect.com/)
 
 #### Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) offers a sophisticated [trading platform](../t/trading_platform.md) with access to global markets. It supports high levels of [leverage](../l/leverage.md) and provides tools for [risk management](../r/risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md).
 
-[Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Conclusion
 

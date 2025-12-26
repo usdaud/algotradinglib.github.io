@@ -7,7 +7,7 @@ In [financial markets](../f/financial_market.md) and trading, Works-in-Progress 
 To comprehend the significance of WIP, it's essential to break down the elements that constitute it. Typically, WIP includes three core components:
 
 1. **[Raw Materials](../r/raw_materials.md)**: These are the [basic materials](../b/basic_materials.md) that are yet to be fully transformed into completed products. In a [manufacturing](../m/manufacturing.md) context, [raw materials](../r/raw_materials.md) can [range](../r/range.md) from metals and plastics to textiles and chemicals.
- 
+
 2. **Labor**: This includes the cost associated with the manpower required to convert [raw materials](../r/raw_materials.md) into finished products. Labor costs encompass wages, benefits, and other compensations provided to workers involved in the production process.
 
 3. **Overhead**: Overhead pertains to additional costs that are not directly tied to [raw materials](../r/raw_materials.md) or labor but are necessary for the production process. Examples include [utility](../u/utility.md) expenses, [depreciation](../d/depreciation.md) of equipment, and various administrative costs.
@@ -38,9 +38,9 @@ Consider a furniture [manufacturing](../m/manufacturing.md) company:
 
 - **Beginning WIP [Inventory](../i/inventory.md)**: $10,000
 - **[Manufacturing](../m/manufacturing.md) Costs Incurred**:
-  - [Raw Materials](../r/raw_materials.md): $15,000
-  - Labor: $10,000
-  - Overhead: $5,000
+ - [Raw Materials](../r/raw_materials.md): $15,000
+ - Labor: $10,000
+ - Overhead: $5,000
 - **Ending WIP [Inventory](../i/inventory.md)**: $18,000
 
 Using the formula:
@@ -90,11 +90,11 @@ Modern businesses often employ ERP systems to manage and track WIP. ERP systems 
 
 Several ERP providers specialize in comprehensive WIP management solutions:
 
-- **SAP ERP**: Known for its [robust](../r/robust.md) [inventory management](../i/inventory_management.md) features, SAP ERP provides extensive tools for tracking production processes and WIP. More details can be found on their official website: [SAP](https://www.sap.com/products/erp.html)
+- **SAP ERP**: Known for its [robust](../r/robust.md) [inventory management](../i/inventory_management.md) features, SAP ERP provides extensive tools for tracking production processes and WIP.
 
-- **Oracle ERP Cloud**: Oracle offers cloud-based ERP solutions with advanced analytics and reporting capabilities for managing WIP. Additional information is available at: [Oracle](https://www.oracle.com/cloud/erp/)
+- **Oracle ERP Cloud**: Oracle offers cloud-based ERP solutions with advanced analytics and reporting capabilities for managing WIP. Additional information is available at: Oracle
 
-- **Microsoft Dynamics 365**: This ERP solution integrates with other Microsoft tools, providing a user-friendly interface for managing WIP and [inventory](../i/inventory.md) processes. Learn more at: [Microsoft](https://dynamics.microsoft.com/en-us/erp/overview/)
+- **Microsoft Dynamics 365**: This ERP solution integrates with other Microsoft tools, providing a user-friendly interface for managing WIP and [inventory](../i/inventory.md) processes. Learn more at: Microsoft
 
 ## Challenges in Managing WIP
 

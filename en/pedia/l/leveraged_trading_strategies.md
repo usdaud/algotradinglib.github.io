@@ -57,11 +57,11 @@ Diversifying across different assets or markets can spread [risk](../r/risk.md) 
 
 #### Interactive Brokers
 
-[Interactive Brokers](https://www.interactivebrokers.com) provides a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) with high [leverage](../l/leverage.md) [options](../o/options.md) and comprehensive [risk management](../r/risk_management.md) tools, making it suitable for professional traders.
+Interactive Brokers provides a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) with high [leverage](../l/leverage.md) [options](../o/options.md) and comprehensive [risk management](../r/risk_management.md) tools, making it suitable for professional traders.
 
 #### eToro
 
-[eToro](https://www.etoro.com) offers [social trading](../s/social_trading.md) alongside leveraged products, allowing traders to follow and copy strategies from experienced investors.
+eToro offers [social trading](../s/social_trading.md) alongside leveraged products, allowing traders to follow and copy strategies from experienced investors.
 
 #### MetaTrader 4/5
 

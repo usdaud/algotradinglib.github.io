@@ -1,6 +1,8 @@
 # Weighted Average Coupon (WAC)
 
-The [Weighted Average](../w/weighted_average.md) Coupon (WAC) is a financial metric used primarily in the [mortgage](../m/mortgage.md)-backed securities (MBS) [industry](../i/industry.md). It represents the average [interest rate](../i/interest_rate.md) of a pool of loans, mortgages, or other assets, [weighted](../w/weighted.md) by the balance of each [loan](../l/loan.md) at a given point in time. Understanding the WAC is essential for investors and analysts to assess the [yield](../y/yield.md), [risk](../r/risk.md), and performance characteristics of a specific MBS. 
+The [Weighted Average](../w/weighted_average.md) Coupon (WAC) is a financial metric used primarily in the [mortgage](../m/mortgage.md)-backed securities (MBS) [industry](../i/industry.md). It represents the average [interest rate](../i/interest_rate.md) of a pool of loans, mortgages, or other assets, [weighted](../w/weighted.md) by the balance of each [loan](../l/loan.md) at a given point in time. Understanding the WAC is essential for investors and analysts to assess the [yield](../y/yield.md), [risk](../r/risk.md), and performance characteristics of a specific MBS.
+
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
 
 To elucidate the concept more thoroughly, we'll explore various facets of WAC, including its calculation, significance in the financial [industry](../i/industry.md), relationship with other securities, and real-world applications in [portfolio management](../p/par.md).
 
@@ -101,12 +103,12 @@ Fintech platforms have emerged that [offer](../o/offer.md) comprehensive analyti
 
 For more information on such platforms, you can visit:
 
-- [Yieldbook](https://www.yieldbook.com/)
-- [Intex Solutions](https://www.intex.com/)
+- Yieldbook
+- Intex Solutions
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems use complex algorithms to [trade](../t/trade.md) MBS based on the WAC and other financial indicators. These systems can execute trades at high speeds and volumes, ensuring optimal investment returns. The growing reliance on [algorithmic trading](../a/accountability.md) has necessitated precise and timely WAC calculations, which are now an integral part of many [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems use complex algorithms to [trade](../t/trade.md) MBS based on the WAC and other financial indicators. These systems can execute trades at high speeds and volumes, ensuring optimal investment returns. The growing reliance on [algorithmic trading](../a/algorithmic_trading.md) has necessitated precise and timely WAC calculations, which are now an integral part of many [trading algorithms](../t/trading_algorithms.md).
 
 ### Cloud Computing
 

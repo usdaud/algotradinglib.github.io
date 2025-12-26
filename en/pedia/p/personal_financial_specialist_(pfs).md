@@ -83,12 +83,12 @@ Earning the PFS designation can [open](../o/open.md) many doors for a CPA. Caree
 
 ## Conclusion
 
-A Personal Financial Specialist (PFS) designation not only broadens the [scope](../s/scope.md) of a CPA’s practice but also significantly enhances their ability to serve clients comprehensively. By integrating detailed [financial planning](../f/financial_planning.md) with tax and [accounting](../a/accounting.md) expertise, PFS professionals are uniquely qualified to provide holistic and trustworthy financial advice. For more information, interested candidates and clients can visit the AICPA's official PFS page [here](https://www.aicpa.org/membership/join/designations/pfs.html).
+A Personal Financial Specialist (PFS) designation not only broadens the [scope](../s/scope.md) of a CPA’s practice but also significantly enhances their ability to serve clients comprehensively. By integrating detailed [financial planning](../f/financial_planning.md) with tax and [accounting](../a/accounting.md) expertise, PFS professionals are uniquely qualified to provide holistic and trustworthy financial advice.
 
 ## External Resources
 
 For more in-depth exploration, you may refer to resources directly from the AICPA or specific professional courses and literature focusing on PFS and related [financial planning](../f/financial_planning.md) disciplines.
 
 For more information:
-- [American Institute of Certified Public Accountants (AICPA)](https://www.aicpa.org)
-- [Details on Personal Financial Specialist (PFS) Designation](https://www.aicpa.org/membership/join/designations/pfs.html)
+- American Institute of Certified Public Accountants (AICPA)
+- Details on Personal Financial Specialist (PFS) Designation

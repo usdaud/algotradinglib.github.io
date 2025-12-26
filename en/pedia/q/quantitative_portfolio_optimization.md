@@ -6,7 +6,7 @@ Quantitative [portfolio optimization](../p/portfolio_optimization.md) is a mathe
 ## Key Concepts
 
 ### Modern Portfolio Theory (MPT)
-Modern Portfolio Theory provides a framework for building an investment portfolio that aims to maximize [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md). It introduces the concept of the [efficient frontier](../e/efficient_frontier.md), which is a set of optimal portfolios [offering](../o/offering.md) the highest [expected return](../e/expected_return.md) for a defined level of [risk](../r/risk.md). 
+Modern Portfolio Theory provides a framework for building an investment portfolio that aims to maximize [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md). It introduces the concept of the [efficient frontier](../e/efficient_frontier.md), which is a set of optimal portfolios [offering](../o/offering.md) the highest [expected return](../e/expected_return.md) for a defined level of [risk](../r/risk.md).
 
 ### Efficient Frontier
 The [efficient frontier](../e/efficient_frontier.md) represents the set of portfolios that provide the highest [expected return](../e/expected_return.md) for a specified level of [risk](../r/risk.md). Any portfolio that lies below the [efficient frontier](../e/efficient_frontier.md) is considered sub-optimal because it does not provide enough [return](../r/return.md) for the level of [risk](../r/risk.md) assumed.
@@ -75,22 +75,22 @@ Quadratic programming is used extensively in [portfolio optimization](../p/portf
 Robo-advisors use [quantitative models](../q/quantitative_models.md) to provide automated, algorithm-driven [financial planning](../f/financial_planning.md) services with little or no human supervision. They [leverage](../l/leverage.md) [portfolio optimization](../p/portfolio_optimization.md) techniques to [offer](../o/offer.md) tailored investment solutions.
 
 Examples include:
-- [Betterment](https://www.betterment.com/)
-- [Wealthfront](https://www.wealthfront.com/)
+- Betterment
+- Wealthfront
 
 ### Algorithmic Trading Firms
 [Algorithmic trading](../a/algorithmic_trading.md) firms employ sophisticated [portfolio optimization](../p/portfolio_optimization.md) techniques to manage [risk](../r/risk.md) and optimize returns. These firms rely heavily on quantitative methods to develop [trading strategies](../t/trading_strategies.md).
 
 Examples include:
-- [Renaissance Technologies](https://www.rentec.com)
-- [Two Sigma](https://www.twosigma.com)
+- Renaissance Technologies
+- Two Sigma
 
 ### Asset Management Companies
 [Asset management](../a/asset_management.md) firms use [portfolio optimization](../p/portfolio_optimization.md) to construct diversified investment portfolios that aim to achieve specific investment objectives, such as maximizing returns, minimizing risks, or achieving a balanced growth.
 
 Examples include:
-- [BlackRock](https://www.blackrock.com/)
-- [Vanguard](https://investor.vanguard.com)
+- BlackRock
+- Vanguard
 
 ## Challenges and Limitations
 

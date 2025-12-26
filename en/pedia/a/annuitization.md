@@ -104,19 +104,19 @@ Several reputable companies [offer](../o/offer.md) annuity products. Here are a 
 
 ### Prudential Financial
 
-Prudential Financial offers a wide [range](../r/range.md) of annuity products, including fixed, variable, and indexed annuities. More information can be found on their [official website](https://www.prudential.com/).
+Prudential Financial offers a wide [range](../r/range.md) of annuity products, including fixed, variable, and indexed annuities.
 
 ### MetLife
 
-MetLife provides various annuity [options](../o/options.md) designed to meet different retirement needs, including immediate and deferred annuities. Visit their [website](https://www.metlife.com/) for more details.
+MetLife provides various annuity [options](../o/options.md) designed to meet different retirement needs, including immediate and deferred annuities.
 
 ### Fidelity Investments
 
-[Fidelity Investments](../f/fidelity_investments.md) offers several annuity products, with a focus on providing retirement [income](../i/income.md) solutions while managing [risk](../r/risk.md). [Check](../c/check.md) their offerings on their [website](https://www.fidelity.com/).
+[Fidelity Investments](../f/fidelity_investments.md) offers several annuity products, with a focus on providing retirement [income](../i/income.md) solutions while managing [risk](../r/risk.md). [Check](../c/check.md)
 
 ### Principal Financial Group
 
-[Principal](../p/principal.md) Financial Group offers both fixed and variable annuities, aiming to help individuals create and protect retirement [income](../i/income.md). More information is available on their [website](https://www.principal.com/).
+[Principal](../p/principal.md) Financial Group offers both fixed and variable annuities, aiming to help individuals create and protect retirement [income](../i/income.md).
 
 ## Conclusion
 

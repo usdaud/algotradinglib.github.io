@@ -6,7 +6,7 @@
 
 ### Interest Rate Swaps
 
-[Interest rate swaps](../i/interest_rate_swaps.md) are one of the most common types of [interest rate derivatives](../i/interest_rate_derivatives.md). In a standard [interest rate swap](../i/interest_rate_swap.md), two parties agree to [exchange](../e/exchange.md) [interest rate](../i/interest_rate.md) payments on a [principal](../p/principal.md) amount over a set period. Typically, one party pays a fixed rate while the other pays a floating rate, such as the LIBOR (London Interbank Offered Rate).
+[Interest rate swaps](../i/interest_rate_swaps.md) are one of the most common types of [interest rate derivatives](../i/interest_rate_derivatives.md). In a standard [interest rate swap](../i/interest_rate_swap.md), two parties agree to [exchange](../e/exchange.md) [interest rate](../i/interest_rate.md) payments on a [principal](../p/principal.md) amount over a set period. Typically, one party pays a fixed rate while the other pays a floating rate linked to a benchmark rate such as SOFR (Secured Overnight Financing Rate), SONIA, or €STR.
 
 1. **[Plain Vanilla](../p/plain_vanilla.md) Swaps:** These are the simplest form of [interest rate swaps](../i/interest_rate_swaps.md) where a [fixed interest rate](../f/fixed_interest_rate.md) is exchanged for a floating rate.
 2. **[Basis](../b/basis.md) Swaps:** In a [basis](../b/basis.md) [swap](../s/swap.md), both parties [exchange](../e/exchange.md) floating rates, often tied to different benchmarks.
@@ -78,25 +78,25 @@ Changes in [interest](../i/interest.md) rates can significantly affect the [valu
 
 Banks and financial institutions are major players in the [interest rate derivatives](../i/interest_rate_derivatives.md) [market](../m/market.md). They use these instruments for hedging exposures and facilitating client transactions. Major institutions include:
 
-1. [J.P. Morgan](https://www.jpmorganchase.com)
-2. [Goldman Sachs](https://www.goldmansachs.com)
-3. [Barclays](https://www.barclays.co.uk)
+1. J.P. Morgan
+2. Goldman Sachs
+3. Barclays
 
 ### Exchanges
 
 Prominent exchanges that [offer](../o/offer.md) [interest rate derivatives](../i/interest_rate_derivatives.md) include:
 
-1. [Chicago Mercantile Exchange (CME)](https://www.cmegroup.com)
-2. [Intercontinental Exchange (ICE)](https://www.theice.com)
-3. [Euronext](https://www.euronext.com)
+1. Chicago Mercantile Exchange (CME)
+2. Intercontinental Exchange (ICE)
+3. Euronext
 
 ### Clearinghouses
 
 Clearinghouses reduce [counterparty risk](../c/counterparty_risk.md) by acting as intermediaries in [derivative](../d/derivative.md) transactions. Notable clearinghouses include:
 
-1. [LCH Clearnet](https://www.lch.com)
-2. [CME Clearing](https://www.cmegroup.com/clearing.html)
-3. [Eurex Clearing](https://www.eurex.com/ex-en/clearing)
+1. LCH Clearnet
+2. CME Clearing
+3. Eurex Clearing
 
 ## Regulatory Environment
 

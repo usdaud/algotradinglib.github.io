@@ -25,44 +25,44 @@ The methodology of UVA involves several steps:
 ### Steps in UVA
 
 **1. Data Collection:**
-   - Collect detailed trading data in real-time or from historical records.
-   - Ensure data includes [trade](../t/trade.md) size, price, cumulative [volume](../v/volume.md), [bid-ask spread](../b/bid-ask_spread.md), and timestamps.
+ - Collect detailed trading data in real-time or from historical records.
+ - Ensure data includes [trade](../t/trade.md) size, price, cumulative [volume](../v/volume.md), [bid-ask spread](../b/bid-ask_spread.md), and timestamps.
 
 **2. Data Segmentation:**
-   - Segment the total trading [volume](../v/volume.md) into smaller units, such as individual [shares](../s/shares.md) or contracts.
-   - Look for meaningful groupings of trades based on [trade](../t/trade.md) size, frequency, and price levels.
+ - Segment the total trading [volume](../v/volume.md) into smaller units, such as individual [shares](../s/shares.md) or contracts.
+ - Look for meaningful groupings of trades based on [trade](../t/trade.md) size, frequency, and price levels.
 
 **3. Statistical Analysis:**
-   - Analyze [trade](../t/trade.md) frequency and [distribution](../d/distribution.md) using statistical measures such as mean, [median](../m/median.md), [standard deviation](../s/standard_deviation.md), and variance.
-   - Use advanced techniques like [clustering algorithms](../c/clustering_algorithms.md) to group trades with similar characteristics.
+ - Analyze [trade](../t/trade.md) frequency and [distribution](../d/distribution.md) using statistical measures such as mean, [median](../m/median.md), [standard deviation](../s/standard_deviation.md), and variance.
+ - Use advanced techniques like [clustering algorithms](../c/clustering_algorithms.md) to group trades with similar characteristics.
 
 **4. [Volume](../v/volume.md) Clusters Identification:**
-   - Identify [volume](../v/volume.md) clusters where a significant number of trades were executed around specific price levels.
-   - Clusters may indicate areas of [interest](../i/interest.md) for [market](../m/market.md) participants, such as accumulation or [distribution](../d/distribution.md) phases.
+ - Identify [volume](../v/volume.md) clusters where a significant number of trades were executed around specific price levels.
+ - Clusters may indicate areas of [interest](../i/interest.md) for [market](../m/market.md) participants, such as accumulation or [distribution](../d/distribution.md) phases.
 
 **5. Impact Assessment:**
-   - Evaluate how [volume](../v/volume.md) clusters influence price movements by comparing price changes before, during, and after the formation of clusters.
-   - Determine potential [support and resistance](../s/support_and_resistance.md) levels based on historical data.
+ - Evaluate how [volume](../v/volume.md) clusters influence price movements by comparing price changes before, during, and after the formation of clusters.
+ - Determine potential [support and resistance](../s/support_and_resistance.md) levels based on historical data.
 
 ## Practical Application in Algorithmic Trading
 
 UVA is particularly useful in [algorithmic trading](../a/algorithmic_trading.md) for the following purposes:
 
 1. **Enhanced Price Prediction:**
-    - By understanding the granular [distribution](../d/distribution.md) of trades, algorithms can better predict short-term price movements.
-    - Identifying [volume](../v/volume.md) clusters helps algorithms forecast potential [support and resistance](../s/support_and_resistance.md) levels more accurately.
+ - By understanding the granular [distribution](../d/distribution.md) of trades, algorithms can better predict short-term price movements.
+ - Identifying [volume](../v/volume.md) clusters helps algorithms forecast potential [support and resistance](../s/support_and_resistance.md) levels more accurately.
 
 2. **Improved [Trade](../t/trade.md) [Execution](../e/execution.md):**
-    - Algorithms can optimize [trade](../t/trade.md) [execution](../e/execution.md) strategies by analyzing the timing and size of trades.
-    - Minimizing [market](../m/market.md) impact by breaking large orders into smaller units aligned with observed trading patterns.
+ - Algorithms can optimize [trade](../t/trade.md) [execution](../e/execution.md) strategies by analyzing the timing and size of trades.
+ - Minimizing [market](../m/market.md) impact by breaking large orders into smaller units aligned with observed trading patterns.
 
 3. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md):**
-    - UVA helps in interpreting [market sentiment](../m/market_sentiment.md) by analyzing the behavior of different [market](../m/market.md) participants.
-    - Large trades may indicate institutional [interest](../i/interest.md), while smaller, frequent trades might reflect retail activity.
+ - UVA helps in interpreting [market sentiment](../m/market_sentiment.md) by analyzing the behavior of different [market](../m/market.md) participants.
+ - Large trades may indicate institutional [interest](../i/interest.md), while smaller, frequent trades might reflect retail activity.
 
 4. **[Risk Management](../r/risk_management.md):**
-    - By understanding [volume](../v/volume.md) dynamics, traders can develop better [risk management](../r/risk_management.md) strategies.
-    - Identifying abnormal [trade](../t/trade.md) patterns may signal potential [market manipulation](../m/market_manipulation.md) or unusual activity.
+ - By understanding [volume](../v/volume.md) dynamics, traders can develop better [risk management](../r/risk_management.md) strategies.
+ - Identifying abnormal [trade](../t/trade.md) patterns may signal potential [market manipulation](../m/market_manipulation.md) or unusual activity.
 
 ## Tools and Software for Unit Volume Analysis
 
@@ -81,24 +81,23 @@ A trading [firm](../f/firm.md) wants to optimize its algorithm for trading a hig
 ### Step-by-Step Implementation
 
 1. **Collect Detailed [Trade](../t/trade.md) Data:**
-    - Obtain real-time trading data for the stock, including [trade](../t/trade.md) size, price, and timestamps.
-    - Use NYSE's Trading Analytics tool for comprehensive data (https://www.nyse.com/[market](../m/market.md)-data/historical).
-
+ - Obtain real-time trading data for the stock, including [trade](../t/trade.md) size, price, and timestamps.
+ - Use NYSE's Trading Analytics tool for comprehensive data
 2. **Segmentation and Analysis:**
-    - Segment the [trade](../t/trade.md) data into individual units.
-    - Use Python for initial data processing and statistical analysis.
+ - Segment the [trade](../t/trade.md) data into individual units.
+ - Use Python for initial data processing and statistical analysis.
 
 3. **Identify [Volume](../v/volume.md) Clusters:**
-    - Apply [clustering algorithms](../c/clustering_algorithms.md) to identify significant [volume](../v/volume.md) clusters.
-    - Use [k-means clustering](../k/k-means_clustering_in_trading.md) in R to group similar trades.
+ - Apply [clustering algorithms](../c/clustering_algorithms.md) to identify significant [volume](../v/volume.md) clusters.
+ - Use [k-means clustering](../k/k-means_clustering_in_trading.md) in R to group similar trades.
 
 4. **Impact Assessment:**
-    - Assess the impact of identified clusters on the stock’s price.
-    - Use [regression analysis](../r/regression_analysis.md) to evaluate the relationship between [volume](../v/volume.md) clusters and price movements in MATLAB.
+ - Assess the impact of identified clusters on the stock’s price.
+ - Use [regression analysis](../r/regression_analysis.md) to evaluate the relationship between [volume](../v/volume.md) clusters and price movements in MATLAB.
 
 5. **Algorithm [Optimization](../o/optimization.md):**
-    - Integrate findings into the trading algorithm.
-    - Test the optimized algorithm using historical data and real-time simulations to validate performance improvements.
+ - Integrate findings into the trading algorithm.
+ - Test the optimized algorithm using historical data and real-time simulations to validate performance improvements.
 
 ## Conclusion
 

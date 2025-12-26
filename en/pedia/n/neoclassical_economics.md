@@ -32,7 +32,7 @@ Neoclassical [economics](../e/economics.md) classifies markets into different st
 
 ### Efficient Market Hypothesis (EMH)
 
-The [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md), rooted in neoclassical [economics](../e/economics.md), posits that [financial markets](../f/financial_market.md) are "informationally efficient." This means that [asset](../a/asset.md) prices reflect all available information at any given time, making it impossible to consistently achieve higher returns through stock picking or [market timing](../m/market_timing.md). 
+The [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md), rooted in neoclassical [economics](../e/economics.md), posits that [financial markets](../f/financial_market.md) are "informationally efficient." This means that [asset](../a/asset.md) prices reflect all available information at any given time, making it impossible to consistently achieve higher returns through stock picking or [market timing](../m/market_timing.md).
 
 ### Portfolio Theory
 

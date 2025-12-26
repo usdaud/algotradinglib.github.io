@@ -24,7 +24,7 @@ After the reintroduction of the Guinean franc in 1985, the [currency](../c/curre
 
 ### The Role of the Central Bank of the Republic of Guinea (BCRG)
 
-The Central [Bank](../b/bank.md) of the Republic of Guinea (BCRG) is the primary institution responsible for the issuance and regulation of the Guinea Franc. The BCRG's responsibilities include [monetary policy](../m/monetary_policy.md) oversight, [currency](../c/currency.md) issuance, maintaining price stability, and ensuring the smooth operation of [payment](../p/payment.md) systems. For more information about BCRG, visit [BCRG](https://www.bcrg-guinee.org/).
+The Central [Bank](../b/bank.md) of the Republic of Guinea (BCRG) is the primary institution responsible for the issuance and regulation of the Guinea Franc. The BCRG's responsibilities include [monetary policy](../m/monetary_policy.md) oversight, [currency](../c/currency.md) issuance, maintaining price stability, and ensuring the smooth operation of [payment](../p/payment.md) systems. For more information about BCRG, visit BCRG.
 
 ### Currency Denominations
 

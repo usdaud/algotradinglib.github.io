@@ -13,11 +13,11 @@ A typical [demand](../d/demand.md) schedule might look something like this:
 
 | Price (P) | [Quantity Demanded](../q/quantity_demanded.md) (Q) |
 |-----------|-----------------------|
-| $10       | 100 units             |
-| $8        | 150 units             |
-| $6        | 200 units             |
-| $4        | 300 units             |
-| $2        | 500 units             |
+| $10 | 100 units |
+| $8 | 150 units |
+| $6 | 200 units |
+| $4 | 300 units |
+| $2 | 500 units |
 
 This table indicates that as the price decreases, the [quantity demanded](../q/quantity_demanded.md) generally increases, all else being equal.
 
@@ -44,7 +44,7 @@ While the [Law of Demand](../l/law_of_demand.md) holds true for most goods, ther
 
 ## Importance in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) utilizes computer algorithms to execute trades at speeds and frequencies impossible for a human [trader](../t/trader.md). We can apply the principles of [demand](../d/demand.md) schedules to develop, test, and optimize [trading strategies](../t/trading_strategies.md). 
+[Algorithmic trading](../a/accountability.md) utilizes computer algorithms to execute trades at speeds and frequencies impossible for a human [trader](../t/trader.md). We can apply the principles of [demand](../d/demand.md) schedules to develop, test, and optimize [trading strategies](../t/trading_strategies.md).
 
 ### Developing Trading Algorithms
 
@@ -87,9 +87,9 @@ An increase in the number of buyers in the [market](../m/market.md) [will](../w/
 
 Several trading platforms and financial services companies employ [demand](../d/demand.md) schedules as part of their [trading strategies](../t/trading_strategies.md). Below are a couple of examples:
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that allows traders to design, test, and deploy [trading strategies](../t/trading_strategies.md). Their platform uses historical and real-time data to help algo traders understand [demand](../d/demand.md) schedules and optimize their strategies. More information can be found on their [official website](https://www.quantconnect.com/).
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that allows traders to design, test, and deploy [trading strategies](../t/trading_strategies.md). Their platform uses historical and real-time data to help algo traders understand [demand](../d/demand.md) schedules and optimize their strategies.
 
-2. **Kensho Technologies**: Kensho Technologies provides [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) solutions to financial services companies. They [offer](../o/offer.md) tools that can help in analyzing [demand](../d/demand.md) schedules and incorporating them into [trading algorithms](../t/trading_algorithms.md). Visit them at their [official website](https://www.kensho.com/).
+2. **Kensho Technologies**: Kensho Technologies provides [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) solutions to financial services companies. They [offer](../o/offer.md) tools that can help in analyzing [demand](../d/demand.md) schedules and incorporating them into [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

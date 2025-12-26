@@ -4,7 +4,7 @@ The [bid-ask spread](../b/bid-ask_spread.md) is a fundamental concept in trading
 
 ## Definition of Bid-Ask Spread
 
-The [bid-ask spread](../b/bid-ask_spread.md) refers to the difference between the highest price that a buyer (the "[bid](../b/bid.md)") is willing to pay for an [asset](../a/asset.md) and the lowest price that a seller (the "ask") is willing to accept. This spread is a measure of [market](../m/market.md) [liquidity](../l/liquidity.md) and [transaction](../t/transaction.md) cost, reflecting the [supply](../s/supply.md) and [demand](../d/demand.md) dynamics for a given [asset](../a/asset.md). A narrower spread indicates high [liquidity](../l/liquidity.md), meaning there are many buyers and sellers actively trading the [asset](../a/asset.md). Conversely, a wider spread suggests lower [liquidity](../l/liquidity.md) and higher [transaction costs](../t/transaction_costs.md). 
+The [bid-ask spread](../b/bid-ask_spread.md) refers to the difference between the highest price that a buyer (the "[bid](../b/bid.md)") is willing to pay for an [asset](../a/asset.md) and the lowest price that a seller (the "ask") is willing to accept. This spread is a measure of [market](../m/market.md) [liquidity](../l/liquidity.md) and [transaction](../t/transaction.md) cost, reflecting the [supply](../s/supply.md) and [demand](../d/demand.md) dynamics for a given [asset](../a/asset.md). A narrower spread indicates high [liquidity](../l/liquidity.md), meaning there are many buyers and sellers actively trading the [asset](../a/asset.md). Conversely, a wider spread suggests lower [liquidity](../l/liquidity.md) and higher [transaction costs](../t/transaction_costs.md).
 
 ## Components of Bid-Ask Spread
 
@@ -87,9 +87,9 @@ The [bid-ask spread](../b/bid-ask_spread.md) is a vital component of [financial 
 
 For further reading and tools related to [bid-ask spread](../b/bid-ask_spread.md) analysis and trading [optimization](../o/optimization.md), you may visit the following resources:
 
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [E*TRADE](https://us.etrade.com/)
-- [Charles Schwab](https://www.schwab.com/)
-- [TradeStation](https://www.tradestation.com/)
+- Interactive Brokers
+- E*TRADE
+- Charles Schwab
+- TradeStation
 
-These platforms [offer](../o/offer.md) valuable tools and resources for both novice and experienced traders aiming to understand and manage the [bid-ask spread](../b/bid-ask_spread.md) effectively.
+These platforms [offer](../o/offer.md) valuable tools and resources for both novice and experienced traders aiming to understand and manage the [bid-ask spread](../b/bid-ask_spread.md) effectively.

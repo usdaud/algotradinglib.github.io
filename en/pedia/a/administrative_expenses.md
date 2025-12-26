@@ -147,19 +147,19 @@ Administrative expenses related to [insurance](../i/insurance.md) and legal fees
 
 Amazon, a global e-[commerce](../c/commerce.md) giant, efficiently manages its administrative expenses through continuous innovation and automation. They [leverage](../l/leverage.md) advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) to optimize their administrative processes, reducing human intervention and operational costs.
 
-For more details: [Amazon](https://www.amazon.com)
+For more details: Amazon
 
 ### Google (Alphabet Inc.)
 
 Google, under its [parent company](../p/parent_company.md) Alphabet Inc., maintains a strong focus on managing administrative expenses by adopting a centralized shared services model. This approach helps them efficiently manage costs related to HR, [finance](../f/finance.md), IT, and other administrative functions across the entire organization.
 
-For more details: [Google](https://www.google.com/about/)
+For more details: Google
 
 ### Microsoft
 
 Microsoft employs a detailed budgeting and [forecasting](../f/forecasting.md) approach to manage its administrative expenses. By continuously monitoring and analyzing expenditure, they identify cost-saving opportunities and ensure efficient utilization of resources.
 
-For more details: [Microsoft](https://www.microsoft.com)
+For more details: Microsoft
 
 ## Conclusion
 

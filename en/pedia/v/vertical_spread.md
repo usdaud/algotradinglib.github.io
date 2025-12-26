@@ -92,10 +92,9 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), vertical [
 
 [QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md) in various [asset](../a/asset.md) classes, including [options](../o/options.md). Vertical [spreads](../s/spreads.md) can be efficiently executed using [QuantConnect](../q/quantconnect.md)'s extensive library of data and algorithms.
 
-**Learn more about [QuantConnect](../q/quantconnect.md):** [https://www.quantconnect.com/](https://www.quantconnect.com/)
-
+**Learn more about [QuantConnect](../q/quantconnect.md):**
 ## Conclusion
 
 Vertical [spreads](../s/spreads.md) [offer](../o/offer.md) a structured and relatively conservative approach to [options](../o/options.md) trading. Traders can [leverage](../l/leverage.md) vertical [spreads](../s/spreads.md) to [capitalize](../c/capitalize.md) on anticipated [market](../m/market.md) movements while limiting [risk](../r/risk.md). Advances in [algorithmic trading](../a/algorithmic_trading.md) further enhance the appeal of vertical [spreads](../s/spreads.md) by allowing for systematic and emotion-free [execution](../e/execution.md) of these strategies. Whether traders are bullish or bearish, vertical [spreads](../s/spreads.md) provide flexibility and reduced [risk](../r/risk.md) compared to strategies involving single [options](../o/options.md) positions.
 
-Leveraging platforms like [QuantConnect](../q/quantconnect.md) for [algorithmic trading](../a/algorithmic_trading.md) can help traders efficiently implement vertical [spreads](../s/spreads.md), maximizing their potential for profits while minimizing [risk](../r/risk.md) exposure. As the trading landscape continues to evolve, vertical [spreads](../s/spreads.md) are likely to remain a staple strategy for both individual and institutional traders.
+Leveraging platforms like [StockSharp](../s/stocksharp.md) for [algorithmic trading](../a/algorithmic_trading.md) can help traders efficiently implement vertical [spreads](../s/spreads.md), maximizing their potential for profits while minimizing [risk](../r/risk.md) exposure. As the trading landscape continues to evolve, vertical [spreads](../s/spreads.md) are likely to remain a staple strategy for both individual and institutional traders.

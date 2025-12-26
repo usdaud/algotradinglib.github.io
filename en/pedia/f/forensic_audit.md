@@ -17,12 +17,12 @@ The primary objectives of a forensic audit include:
 ## Types of Forensic Audits
 
 1. **[Fraud](../f/fraud.md) Investigations:** Identifying significant irregularities, fraudulent financial activities, and manipulations within an organization. This is the most common type of forensic audit.
-   
+
 2. **[Bankruptcy](../b/bankruptcy.md) Cases:** Examining a bankrupt company’s [financial statements](../f/financial_statements.md) to determine the reasons for its [financial distress](../f/financial_distress.md) and ensure there has been no misconduct by the management.
-   
+
 3. **Medical Claims Audit:** Involves investigating billing practices and claims lodged with [insurance](../i/insurance.md) companies to identify fraudulent claims and billing errors.
-   
-4. **[Royalty](../r/royalty.md) Audits:** Ensuring that a company complies with [royalty](../r/royalty.md) agreements and accurately reports and pays royalties. 
+
+4. **[Royalty](../r/royalty.md) Audits:** Ensuring that a company complies with [royalty](../r/royalty.md) agreements and accurately reports and pays royalties.
 
 5. **[Shareholder](../s/shareholder.md) and Partnership Disputes:** Assessing possible financial mismanagement and its impact on the shareholders or partners.
 
@@ -30,34 +30,34 @@ The primary objectives of a forensic audit include:
 
 ### Planning and Preparation
 - **Understanding Client Needs:** Initial discussions with the client to understand the specific [fraud](../f/fraud.md), financial discrepancies, or the type of financial misconduct suspected.
-  
+
 - **Objective Setting:** Establishing clear objectives and goals of the audit to tailor the investigation process effectively.
-  
+
 - **Team Composition:** Forming a team of forensic auditors with specialized skills relevant to the case, such as IT experts, accountants, and legal advisors.
 
 ### Investigation
 - **Gathering Evidence:** Collecting data from financial records, emails, and other documents. This could involve examining electronic data with specialized [software tools](../s/software_tools_for_trading.md).
-  
+
 - **Interviewing:** Conducting interviews with employees, management, and other stakeholders to gather insights and identify inconsistencies.
-  
+
 - **Reviewing [Internal Controls](../i/internal_controls.md):** Evaluating the organization’s [internal controls](../i/internal_controls.md) to discover weaknesses that could have allowed the [fraud](../f/fraud.md) to occur.
 
 ### Reporting
 - **Drafting Reports:** Creating formal reports documenting the findings of the forensic audit. These reports often include detailed analysis, evidence, and recommended corrective actions.
-  
+
 - **Presenting Findings:** Delivering findings to key stakeholders, including management, legal teams, and sometimes public regulators, depending on the case.
 
 ### Litigation Support
 - **Expert Testimony:** Providing expert testimony in court cases. Forensic auditors may be called upon to testify regarding their findings and methodologies used to detect [fraud](../f/fraud.md).
-  
+
 - **Follow-Up Actions:** Working with the organization to implement recommendations and improve [internal controls](../i/internal_controls.md) to prevent future occurrences of [fraud](../f/fraud.md).
 
 ## Tools Used in Forensic Audits
 
 1. **Data Analysis Tools:** Tools such as ACL, IDEA, and SAS for analyzing extensive data sets to identify patterns, anomalies, and outliers.
-   
+
 2. **[Forensic Accounting](../f/forensic_accounting.md) Software:** Advanced software like EnCase or FTK for digital forensic investigations.
-   
+
 3. **Visualization Tools:** Tools such as Tableau or Power BI to create visual representations of financial data for easier understanding and communication.
 
 ## Forensic Audit in Different Sectors
@@ -82,13 +82,13 @@ Satyam Computer Services, an IT services company in India, was involved in a mas
 ## Best Practices in Forensic Auditing
 
 1. **Maintain Independence:** Objectivity is crucial. Forensic auditors should avoid conflicts of [interest](../i/interest.md) to ensure the credibility of the audit.
-   
+
 2. **Documentation:** Thorough documentation of all processes, findings, and communications during the audit to support subsequent legal proceedings.
-   
+
 3. **Continuous Learning:** Forensic auditors should stay updated with the latest [fraud](../f/fraud.md) schemes, regulatory changes, and advancements in forensic technology.
-   
+
 4. **Collaboration:** Working closely with the legal team, management, and other stakeholders to ensure comprehensive and effective audits.
-  
+
 5. **Report Writing:** Clear, concise, and objective reports that are easily understandable and provide actionable recommendations.
 
 ## Forensic Audit Firms
@@ -96,19 +96,19 @@ Satyam Computer Services, an IT services company in India, was involved in a mas
 Several firms specialize in forensic audits and related services. Here are a few renowned firms:
 
 ### Deloitte
-[https://www2.deloitte.com](https://www2.deloitte.com)
+
 Deloitte offers a [range](../r/range.md) of forensic audit and investigation services, leveraging advanced technology and expertise to detect and mitigate financial misconduct.
 
 ### PricewaterhouseCoopers (PwC)
-[https://www.pwc.com](https://www.pwc.com)
+
 PwC provides comprehensive forensic services, including [fraud](../f/fraud.md) detection, [asset](../a/asset.md) tracing, and anti-[money laundering](../m/money_laundering.md) services.
 
 ### Ernst & Young (EY)
-[https://www.ey.com](https://www.ey.com)
+
 EY’s forensic audit services include [fraud](../f/fraud.md) and investigation, dispute services, and regulatory compliance, tailored to meet the specific needs of their clients.
 
 ### KPMG
-[https://home.kpmg](https://home.kpmg)
+
 KPMG’s forensic practice helps clients manage [risk](../r/risk.md), investigate alleged misconduct, and resolve disputes through a combination of forensic technology and specialized expertise.
 
 ## Conclusion

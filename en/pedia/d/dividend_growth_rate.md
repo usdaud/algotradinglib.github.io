@@ -31,7 +31,7 @@ For example, if a company's [dividend](../d/dividend.md) increased from $1.00 pe
 [Dividend](../d/dividend.md) growth rate is an essential metric for several reasons:
 
 1. **[Indicator](../i/indicator.md) of [Financial Health](../f/financial_health.md)**: Consistent [dividend](../d/dividend.md) growth suggests that a company is financially healthy and generates sufficient profits to share with its shareholders.
-  
+
 2. **[Inflation Hedge](../i/inflation_hedge.md)**: Companies that consistently grow their dividends can provide a [hedge](../h/hedge.md) against [inflation](../i/inflation.md), ensuring that the [purchasing power](../p/purchasing_power.md) of the [income](../i/income.md) stream is maintained.
 
 3. **Investment Returns**: Over time, [dividend](../d/dividend.md) growth can significantly enhance the [total return](../t/total_return.md) of an investment through the power of [compounding](../c/compounding.md).
@@ -60,11 +60,11 @@ Several factors can influence a company's [dividend](../d/dividend.md) growth ra
 
 Several companies are renowned for their consistent [dividend](../d/dividend.md) growth and are often referred to as "[Dividend](../d/dividend.md) Aristocrats" or "[Dividend](../d/dividend.md) Kings." These companies typically belong to industries like [consumer staples](../c/consumer_staples.md), healthcare, and utilities, which have stable and predictable [earnings](../e/earnings.md). Here are some notable examples:
 
-- **The Coca-Cola Company**: Known for a long streak of [dividend](../d/dividend.md) increases. More details can be accessed [here](https://www.coca-colacompany.com).
-  
-- **Johnson & Johnson**: Another company with a long history of consistent [dividend](../d/dividend.md) growth. More details can be accessed [here](https://www.jnj.com).
+- **The Coca-Cola Company**: Known for a long streak of [dividend](../d/dividend.md) increases. More details can be accessed here.
 
-- **Procter & Gamble**: A leading [consumer goods](../c/consumer_goods.md) company with a strong record of [dividend](../d/dividend.md) payments. More details can be accessed [here](https://us.pg.com).
+- **Johnson & Johnson**: Another company with a long history of consistent [dividend](../d/dividend.md) growth. More details can be accessed here.
+
+- **Procter & Gamble**: A leading [consumer goods](../c/consumer_goods.md) company with a strong record of [dividend](../d/dividend.md) payments. More details can be accessed here.
 
 These companies are often included in [dividend](../d/dividend.md)-focused mutual funds and ETFs, providing [income](../i/income.md)-focused investors with stable returns.
 

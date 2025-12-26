@@ -49,7 +49,7 @@ Members enjoy several benefits, including access to exclusive [market](../m/mark
 
 ### Algorithmic Trading
 
-The advent of [algorithmic trading](../a/accountability.md) has revolutionized gold trading. [Algorithmic trading](../a/accountability.md), or algo-trading, involves using complex algorithms to execute trades at high speeds and volumes. WGC's research often delves into how algo-trading influences gold [market](../m/market.md) [liquidity](../l/liquidity.md), pricing, and [volatility](../v/volatility.md).
+The advent of [algorithmic trading](../a/algorithmic_trading.md) has revolutionized gold trading. [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using complex algorithms to execute trades at high speeds and volumes. WGC's research often delves into how algo-trading influences gold [market](../m/market.md) [liquidity](../l/liquidity.md), pricing, and [volatility](../v/volatility.md).
 
 ### Fintech in Gold Markets
 
@@ -65,7 +65,7 @@ WGC provides a plethora of educational resources aimed at various stakeholders i
 
 ## Contact and Further Information
 
-For more detailed information and resources, you can visit the official World Gold Council website: [World Gold Council](https://www.gold.org).
+For more detailed information and resources,
 
 ---
 

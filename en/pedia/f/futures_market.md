@@ -18,10 +18,10 @@ The [futures](../f/futures.md) [market](../m/market.md) has its roots in the agr
 
 [Futures](../f/futures.md) exchanges are platforms where [futures contracts](../f/futures_contracts.md) are traded. They provide a regulated environment for participants to buy and sell [futures contracts](../f/futures_contracts.md). Prominent [futures](../f/futures.md) exchanges include:
 
-- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: [CME Group](https://www.cmegroup.com/)
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: [Intercontinental Exchange](https://www.theice.com/)
-- **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**: [NYMEX](https://www.cmegroup.com/company/nymex.html)
-- **Eurex [Exchange](../e/exchange.md)**: [Eurex](https://www.eurex.com/)
+- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: CME Group
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: Intercontinental Exchange
+- **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**: NYMEX
+- **Eurex [Exchange](../e/exchange.md)**: Eurex
 
 ### Standardization
 
@@ -127,10 +127,10 @@ The use of [leverage](../l/leverage.md) amplifies both potential gains and losse
 
 [Futures](../f/futures.md) markets are regulated by various governmental and non-governmental organizations to ensure fair and transparent trading. Key regulatory bodies include:
 
-- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: [CFTC](https://www.cftc.gov/)
-- **National [Futures](../f/futures.md) Association (NFA)**: [NFA](https://www.nfa.futures.org/)
-- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: [SEC](https://www.sec.gov/)
-- **European Securities and Markets Authority (ESMA)**: [ESMA](https://www.esma.europa.eu/)
+- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: CFTC
+- **National [Futures](../f/futures.md) Association (NFA)**: NFA
+- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: SEC
+- **European Securities and Markets Authority (ESMA)**: ESMA
 
 ### Compliance and Reporting
 

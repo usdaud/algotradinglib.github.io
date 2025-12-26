@@ -6,7 +6,7 @@ The term structure of [interest](../i/interest.md) rates, also known as the [yie
 
 ### Yield Curve
 
-The [yield curve](../y/yield_curve.md) is a graphical representation that shows the [interest](../i/interest.md) rates of bonds (usually government bonds) of equal [credit](../c/credit.md) quality but different [maturity](../m/maturity.md) dates. The curve typically plots the [yield](../y/yield.md) on the vertical axis and the time to [maturity](../m/maturity.md) on the horizontal axis. The shape of the [yield curve](../y/yield_curve.md) holds significant information about the [market](../m/market.md)'s expectations of future [interest](../i/interest.md) rates and [economic conditions](../e/economic_conditions.md). 
+The [yield curve](../y/yield_curve.md) is a graphical representation that shows the [interest](../i/interest.md) rates of bonds (usually government bonds) of equal [credit](../c/credit.md) quality but different [maturity](../m/maturity.md) dates. The curve typically plots the [yield](../y/yield.md) on the vertical axis and the time to [maturity](../m/maturity.md) on the horizontal axis. The shape of the [yield curve](../y/yield_curve.md) holds significant information about the [market](../m/market.md)'s expectations of future [interest](../i/interest.md) rates and [economic conditions](../e/economic_conditions.md).
 
 ### Types of Yield Curves
 

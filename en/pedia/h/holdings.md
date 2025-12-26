@@ -1,6 +1,6 @@
 # Holdings
 
-Holdings are collections of financial assets held by an individual, [institutional investor](../i/institutional_investor.md), or managed as part of a collective investment scheme. They are essential in understanding the breadth and depth of a portfolio or [fund](../f/fund.md). In the realm of [algorithmic trading](../a/accountability.md) (or "algo trading"), holdings are crucial because they represent the assets that algo strategies aim to optimize, manage, and [trade](../t/trade.md). 
+Holdings are collections of financial assets held by an individual, [institutional investor](../i/institutional_investor.md), or managed as part of a collective investment scheme. They are essential in understanding the breadth and depth of a portfolio or [fund](../f/fund.md). In the realm of [algorithmic trading](../a/algorithmic_trading.md) (or "algo trading"), holdings are crucial because they represent the assets that algo strategies aim to optimize, manage, and [trade](../t/trade.md).
 
 ## Definition and Importance
 
@@ -8,29 +8,29 @@ Holdings typically include [stocks](../s/stock.md), bonds, commodities, currenci
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) employs computer algorithms to manage and execute trades. These algorithms can efficiently [handle](../h/handle.md) large volumes of trades, maximizing speed and accuracy while minimizing human error. In [investing](../i/investing.md), holdings serve as the "[inventory](../i/inventory.md)" from which algorithms operate, making optimal trading decisions based on predefined parameters.
+[Algorithmic trading](../a/algorithmic_trading.md) employs computer algorithms to manage and execute trades. These algorithms can efficiently [handle](../h/handle.md) large volumes of trades, maximizing speed and accuracy while minimizing human error. In [investing](../i/investing.md), holdings serve as the "[inventory](../i/inventory.md)" from which algorithms operate, making optimal trading decisions based on predefined parameters.
 
 ### Key Components in Algo Trading
 
 1. **Data Analysis**: This includes historical data, [real-time market data](../r/real-time_market_data.md), [financial statements](../f/financial_statements.md), and other pertinent information. [Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can process and identify patterns to inform trading decisions.
-   
+
 2. **[Risk Management](../r/risk_management.md)**: Algorithms must account for [market](../m/market.md) risks, [liquidity](../l/liquidity.md) risks, and specific [asset](../a/asset.md) risks to avoid significant losses.
-   
+
 3. **[Optimization](../o/optimization.md) Techniques**: These include techniques such as [mean-variance optimization](../m/mean-variance_optimization.md), which helps in [asset allocation](../a/asset_allocation.md) within a portfolio to balance returns and risks.
 
 4. **[Execution](../e/execution.md) Strategies**: Strategies such as High-Frequency Trading (HFT) and Statistical [Arbitrage](../a/arbitrage.md) (StatArb) rely heavily on the efficient management of holdings to exploit [market](../m/market.md) inefficiencies rapidly.
 
 ### Real-World Applications
 
-**BlackRock**: BlackRock, one of the world's leading investment firms, utilizes [algorithmic trading](../a/accountability.md) to manage its extensive [range](../r/range.md) of holdings (source: [BlackRock](https://www.blackrock.com)). They employ sophisticated [trading algorithms](../t/trading_algorithms.md) for their [iShares](../i/ishares.md) ETF products to ensure [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md).
+**BlackRock**: BlackRock, one of the world's leading investment firms, utilizes [algorithmic trading](../a/algorithmic_trading.md) to manage its extensive [range](../r/range.md) of holdings (source: BlackRock). They employ sophisticated [trading algorithms](../t/trading_algorithms.md) for their [iShares](../i/ishares.md) ETF products to ensure [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md).
 
-**Two Sigma**: Two Sigma, a prominent quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md), uses [data science](../d/data_science_in_trading.md) and technology to manage its investments (source: [Two Sigma](https://www.twosigma.com)). Their strategies heavily depend on the effective analysis and management of holdings, leveraging vast datasets and innovative algorithms.
+**Two Sigma**: Two Sigma, a prominent quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md), uses [data science](../d/data_science_in_trading.md) and technology to manage its investments (source: Two Sigma). Their strategies heavily depend on the effective analysis and management of holdings, leveraging vast datasets and innovative algorithms.
 
 ## Types of Holdings
 
 ### Equity Holdings
 
-[Equity](../e/equity.md) holdings represent ownership in companies through [stocks](../s/stock.md). They are subject to [market](../m/market.md) [volatility](../v/volatility.md) and company performance. In [algorithmic trading](../a/accountability.md), [equity](../e/equity.md) holdings might be assessed based on various quantitative factors such as price movements, [earnings](../e/earnings.md) reports, and [market sentiment](../m/market_sentiment.md).
+[Equity](../e/equity.md) holdings represent ownership in companies through [stocks](../s/stock.md). They are subject to [market](../m/market.md) [volatility](../v/volatility.md) and company performance. In [algorithmic trading](../a/algorithmic_trading.md), [equity](../e/equity.md) holdings might be assessed based on various quantitative factors such as price movements, [earnings](../e/earnings.md) reports, and [market sentiment](../m/market_sentiment.md).
 
 ### Fixed-Income Holdings
 
@@ -50,7 +50,7 @@ ETFs are investment funds that [trade](../t/trade.md) on stock exchanges. They c
 
 ## Strategies Involving Holdings
 
-### Mean-Variance Optimization 
+### Mean-Variance Optimization
 
 This is a mathematical framework for assembling a portfolio of assets such that the [expected return](../e/expected_return.md) is maximized for a given level of [risk](../r/risk.md). Algorithmic traders use this technique to allocate holdings efficiently.
 
@@ -75,24 +75,24 @@ HFT strategies execute numerous trades within fractions of a second. Holdings in
 [Risk management](../r/risk_management.md) is a cornerstone of algo trading. Various methods exist to mitigate risks associated with holdings:
 
 1. **[Diversification](../d/diversification.md)**: Spread investments across different [asset](../a/asset.md) classes to reduce exposure to a single [market](../m/market.md) event.
-   
+
 2. **Hedging**: Using [derivatives](../d/derivatives.md) or other instruments to [offset](../o/offset.md) potential losses in holdings.
-   
+
 3. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Predefined orders to sell holdings when they reach a certain loss level.
-   
+
 4. **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: A statistical technique to measure the [risk](../r/risk.md) of loss on a specific portfolio of holdings.
-   
+
 5. **[Stress Testing](../s/stress_testing.md)**: Simulating extreme [market](../m/market.md) conditions to see how holdings fare under hypothetical scenarios.
 
 ## Future Trends in Holdings and Algo Trading
 
 ### Machine Learning and AI
 
-Advancements in AI and [machine learning](../m/machine_learning.md) are continually enhancing [algorithmic trading](../a/accountability.md) capabilities. These technologies can analyze vast amounts of data quickly, identify patterns humans might miss, and make more autonomous and precise trading decisions.
+Advancements in AI and [machine learning](../m/machine_learning.md) are continually enhancing [algorithmic trading](../a/algorithmic_trading.md) capabilities. These technologies can analyze vast amounts of data quickly, identify patterns humans might miss, and make more autonomous and precise trading decisions.
 
 ### Blockchain and Cryptocurrencies
 
-With the rise of [blockchain](../b/blockchain_in_trading.md) technology and digital assets, they're becoming an integral part of holdings in [algorithmic trading](../a/accountability.md). Cryptocurrencies introduce new dimensions of [volatility](../v/volatility.md) and trading opportunities.
+With the rise of [blockchain](../b/blockchain_in_trading.md) technology and digital assets, they're becoming an integral part of holdings in [algorithmic trading](../a/algorithmic_trading.md). Cryptocurrencies introduce new dimensions of [volatility](../v/volatility.md) and trading opportunities.
 
 ### Regulatory Changes
 
@@ -100,8 +100,8 @@ Financial regulations continually evolve, impacting how holdings are managed and
 
 ### Quantum Computing
 
-[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [algorithmic trading](../a/accountability.md) by solving complex [optimization](../o/optimization.md) problems faster than classical computers. This could dramatically alter how holdings are managed, especially for large portfolios.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex [optimization](../o/optimization.md) problems faster than classical computers. This could dramatically alter how holdings are managed, especially for large portfolios.
 
 ## Conclusion
 
-Holdings are the backbone of any financial portfolio, representing the diverse [range](../r/range.md) of assets an individual or institution possesses. In [algorithmic trading](../a/accountability.md), the efficient management, analysis, and [optimization](../o/optimization.md) of these holdings are critical to achieving desired financial outcomes. As technology continues to evolve, the strategies and tools used in managing holdings [will](../w/will.md) become increasingly sophisticated, driving new opportunities and challenges in the investment landscape.
+Holdings are the backbone of any financial portfolio, representing the diverse [range](../r/range.md) of assets an individual or institution possesses. In [algorithmic trading](../a/algorithmic_trading.md), the efficient management, analysis, and [optimization](../o/optimization.md) of these holdings are critical to achieving desired financial outcomes. As technology continues to evolve, the strategies and tools used in managing holdings [will](../w/will.md) become increasingly sophisticated, driving new opportunities and challenges in the investment landscape.

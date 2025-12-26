@@ -6,9 +6,9 @@ WazirX is a leading cryptocurrency [exchange](../e/exchange.md) based in India. 
 ## Founders and Team
 WazirX was founded by Nischal Shetty, Sameer Mhatre, and Siddharth Menon. Nischal Shetty, the CEO of WazirX, is a technology [entrepreneur](../e/entrepreneur.md) and a [blockchain](../b/blockchain_in_trading.md) advocate. Before starting WazirX, he also founded Crowdfire, a [social media](../s/social_media.md) management platform.
 
-- Nischal Shetty: Twitter - [@nischal_shetty](https://twitter.com/nischal_shetty)
-- Sameer Mhatre: LinkedIn - [Sameer Mhatre](https://www.linkedin.com/in/sameermhatre/)
-- Siddharth Menon: LinkedIn - [Siddharth Menon](https://www.linkedin.com/in/siddharth-menon/)
+- Nischal Shetty: Twitter - @nischal_shetty
+- Sameer Mhatre: LinkedIn - Sameer Mhatre
+- Siddharth Menon: LinkedIn - Siddharth Menon
 
 ## Platform Features
 
@@ -33,7 +33,7 @@ In 2019, WazirX was acquired by [Binance](../b/binance.md), one of the world's l
 ## Technical Infrastructure
 
 ### WazirX API
-The WazirX API allows developers to integrate the platform's functionalities into their own applications. It supports various endpoints for [market](../m/market.md) data, trading, account balances, and more. The API is RESTful, making it easy to use for most developers. For detailed API documentation, visit the [WazirX API Documentation](https://wazirx.github.io/).
+The WazirX API allows developers to integrate the platform's functionalities into their own applications. It supports various endpoints for [market](../m/market.md) data, trading, account balances, and more. The API is RESTful, making it easy to use for most developers. For detailed API documentation, visit the WazirX API Documentation.
 
 ### Technical Indicators and Tools
 WazirX offers a suite of [technical analysis tools](../t/technical_analysis_tools.md) to help traders make informed decisions. These tools include charting software with [multiple](../m/multiple.md) [technical indicators](../t/technical_indicator.md) such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and [Bollinger Bands](../b/bollinger_band.md).
@@ -66,4 +66,3 @@ WazirX has seen substantial growth since its inception. Here are some key [stati
 ## Conclusion
 WazirX has established itself as a leading cryptocurrency [exchange](../e/exchange.md) in India and beyond. With its user-friendly interface, wide [range](../r/range.md) of supported cryptocurrencies, strong [security](../s/security.md) measures, and continuous innovation, WazirX is well-positioned to remain a significant player in the ever-evolving cryptocurrency landscape. The [acquisition](../a/acquisition.md) by [Binance](../b/binance.md) has only bolstered its capabilities, providing users with a more comprehensive and seamless trading experience.
 
-For more information, visit the official website: [WazirX](https://wazirx.com/).

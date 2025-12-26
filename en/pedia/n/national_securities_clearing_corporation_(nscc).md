@@ -62,4 +62,3 @@ The fintech revolution brings both innovative solutions and competitive pressure
 ## Conclusion
 The National Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (NSCC) is an essential entity in the [financial markets](../f/financial_market.md), providing critical [clearing](../c/clearing.md), settlement, and [risk management](../r/risk_management.md) services. Through continuous innovations and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, NSCC ensures the smooth functioning and stability of the [financial markets](../f/financial_market.md). As the financial landscape evolves, NSCC’s role remains crucial in fostering [trust](../t/trust.md), [efficiency](../e/efficiency.md), and resilience in the securities trading ecosystem.
 
-For more information, you can visit the [DTCC website](https://www.dtcc.com/clearing-services/equities-clearing-services/nscc).

@@ -1,6 +1,6 @@
 # Non-Recourse Finance
 
-Non-[recourse](../r/recourse.md) [finance](../f/finance.md) is a type of [loan](../l/loan.md) secured by [collateral](../c/collateral.md), typically property, whereby the [lender](../l/lender.md)'s recovery is limited to the [collateral](../c/collateral.md) itself in the event of borrower [default](../d/default.md). The borrower is not personally liable beyond the [collateral](../c/collateral.md) securing the [loan](../l/loan.md). This type of [financing](../f/financing.md) is often used in [real estate](../r/real_estate.md) and [project finance](../p/project_finance.md) and offers specific advantages and complexities that both lenders and borrowers must understand. 
+Non-[recourse](../r/recourse.md) [finance](../f/finance.md) is a type of [loan](../l/loan.md) secured by [collateral](../c/collateral.md), typically property, whereby the [lender](../l/lender.md)'s recovery is limited to the [collateral](../c/collateral.md) itself in the event of borrower [default](../d/default.md). The borrower is not personally liable beyond the [collateral](../c/collateral.md) securing the [loan](../l/loan.md). This type of [financing](../f/financing.md) is often used in [real estate](../r/real_estate.md) and [project finance](../p/project_finance.md) and offers specific advantages and complexities that both lenders and borrowers must understand.
 
 ## Key Characteristics
 

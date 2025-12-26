@@ -42,10 +42,10 @@ The [exit strategy](../e/exit_strategy.md) is how the [private equity](../p/priv
 ## Case Studies
 
 ### The Acquisition of Hilton Hotels by Blackstone Group
-In 2007, The Blackstone Group acquired Hilton Hotels in a deal valued at $26 billion. The purchase was highly leveraged, and Blackstone utilized a mix of [debt](../d/debt.md) and [equity](../e/equity.md) to [finance](../f/finance.md) the [acquisition](../a/acquisition.md). The strategy included modernizing Hilton’s [holdings](../h/holdings.md), rebranding, and operational improvements, which significantly increased the company's [value](../v/value.md). In 2013, Blackstone began selling its stake through a series of IPOs, realizing substantial profits. ([Blackstone](https://www.blackstone.com/))
+In 2007, The Blackstone Group acquired Hilton Hotels in a deal valued at $26 billion. The purchase was highly leveraged, and Blackstone utilized a mix of [debt](../d/debt.md) and [equity](../e/equity.md) to [finance](../f/finance.md) the [acquisition](../a/acquisition.md). The strategy included modernizing Hilton’s [holdings](../h/holdings.md), rebranding, and operational improvements, which significantly increased the company's [value](../v/value.md). In 2013, Blackstone began selling its stake through a series of IPOs, realizing substantial profits. (Blackstone)
 
 ### The Dell Inc. Buyout by Michael Dell and Silver Lake Partners
-In 2013, Dell Inc. went private in a leveraged [buyout](../b/buyout.md) by Michael Dell and Silver Lake Partners valued at approximately $24 billion. The [buyout](../b/buyout.md) was financed through a combination of cash, [equity](../e/equity.md), and [debt](../d/debt.md), allowing Dell to restructure away from public [market](../m/market.md) pressures. Michael Dell aimed to transform Dell by focusing on enterprise solutions and services. The company subsequently saw significant growth and in 2018, Dell returned to the public [market](../m/market.md) through a complex financial maneuver. ([Silver Lake Partners](https://www.silverlake.com/))
+In 2013, Dell Inc. went private in a leveraged [buyout](../b/buyout.md) by Michael Dell and Silver Lake Partners valued at approximately $24 billion. The [buyout](../b/buyout.md) was financed through a combination of cash, [equity](../e/equity.md), and [debt](../d/debt.md), allowing Dell to restructure away from public [market](../m/market.md) pressures. Michael Dell aimed to transform Dell by focusing on enterprise solutions and services. The company subsequently saw significant growth and in 2018, Dell returned to the public [market](../m/market.md) through a complex financial maneuver. (Silver Lake Partners)
 
 ## LBO Model
 
@@ -69,4 +69,4 @@ Leveraged buyouts are complex financial transactions that involve significant [r
 
 For further information on LBOs, one might consult specialized [private equity](../p/private_equity.md) firms or [investment banks](../i/investment_bank_(ib).md) that regularly engage in these transactions. Each deal is unique, and success requires meticulous planning, strategic insight, and careful management.
 
-Explore more about LBO and deal structures on [private equity](../p/private_equity.md) [firm](../f/firm.md) websites such as [Apollo Global Management](https://www.apollo.com/).
+Explore more about LBO and deal structures on [private equity](../p/private_equity.md) [firm](../f/firm.md) websites such as Apollo Global Management.

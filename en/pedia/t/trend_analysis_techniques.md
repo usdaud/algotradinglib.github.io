@@ -12,7 +12,7 @@ SMA = (P1 + P2 + ... + Pn) / n
 ```
 
 In this formula:
-- **P1, P2, ..., Pn** represent the prices for respective periods.
+- **P1, P2,..., Pn** represent the prices for respective periods.
 - **n** represents the number of periods.
 
 ### Exponential Moving Average (EMA)
@@ -138,4 +138,4 @@ In [reinforcement learning](../r/reinforcement_learning.md), an agent learns to 
 
 ---
 
-For those interested in delving deeper into [algorithmic trading](../a/algorithmic_trading.md) and [trend analysis](../t/trend_analysis.md), consider exploring resources and platforms offered by companies such as [QuantConnect](https://www.quantconnect.com/) and [Alpaca](https://alpaca.markets/).
+For those interested in delving deeper into [algorithmic trading](../a/algorithmic_trading.md) and [trend analysis](../t/trend_analysis.md), consider exploring resources and platforms offered by companies such as QuantConnect and Alpaca.

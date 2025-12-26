@@ -1,6 +1,6 @@
 # Uncovered Option
 
-**Uncovered Option**, also known as a [naked option](../n/naked_option.md), is a [finance](../f/finance.md) term used primarily in [options](../o/options.md) trading. It refers to an [options](../o/options.md) strategy in which the seller (also referred to as the [writer](../w/writer.md)) of an option does not [hold](../h/hold.md) a corresponding position in the [underlying asset](../u/underlying_asset.md), such as [stocks](../s/stock.md) or bonds. Uncovered [options](../o/options.md) are highly speculative and can be risky, given the significant potential for losses. 
+**Uncovered Option**, also known as a [naked option](../n/naked_option.md), is a [finance](../f/finance.md) term used primarily in [options](../o/options.md) trading. It refers to an [options](../o/options.md) strategy in which the seller (also referred to as the [writer](../w/writer.md)) of an option does not [hold](../h/hold.md) a corresponding position in the [underlying asset](../u/underlying_asset.md), such as [stocks](../s/stock.md) or bonds. Uncovered [options](../o/options.md) are highly speculative and can be risky, given the significant potential for losses.
 
 ## Fundamental Concepts
 
@@ -15,7 +15,7 @@ Before diving into the intricacies of uncovered [options](../o/options.md), it's
 In [options](../o/options.md) trading, there are two primary types of strategies that involve selling [options](../o/options.md): covered and uncovered.
 
 #### Covered Option
-- When selling a [call option](../c/call_option.md), the seller owns the [underlying asset](../u/underlying_asset.md). 
+- When selling a [call option](../c/call_option.md), the seller owns the [underlying asset](../u/underlying_asset.md).
 - When selling a [put option](../p/put.md), the seller has reserved cash or equivalent [collateral](../c/collateral.md) to purchase the [asset](../a/asset.md) if needed.
 
 #### Uncovered Option (Naked Option)
@@ -83,5 +83,5 @@ Uncovered [options](../o/options.md) [offer](../o/offer.md) the potential for hi
 
 For more detailed information on uncovered [options](../o/options.md) and related [trading strategies](../t/trading_strategies.md), you can visit the following resources:
 
-- [Options Industry Council](https://www.optionseducation.org/)
-- [Chicago Board Options Exchange (CBOE)](https://www.cboe.com/)
+- Options Industry Council
+- Chicago Board Options Exchange (CBOE)

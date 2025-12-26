@@ -76,7 +76,7 @@ Numerous tools and software solutions are available to facilitate P&L analysis i
 
 ### 1. Trading Analytics Platforms
 
-Platforms such as [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and Quantopian [QuantConnect](https://www.quantconnect.com/) provide [robust](../r/robust.md) analytics and back-testing tools for [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) features to analyze and report P&L effectively.
+Platforms such as [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and Quantopian QuantConnect provide [robust](../r/robust.md) analytics and back-testing tools for [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) features to analyze and report P&L effectively.
 
 ### 2. Financial Software
 
@@ -105,7 +105,7 @@ AlgoTradeX employs a [market](../m/market.md)-making strategy, providing [liquid
 
 ### P&L Analysis
 
-#### Calculation 
+#### Calculation
 
 1. **Total [Revenue](../r/revenue.md):** $5,500,000 (Realized Gains + [Unrealized Gains](../u/unrealized_gains.md))
 2. **Total Expenses:** $1,950,000 ([Transaction Fees](../t/transaction_fees.md) + [Slippage](../s/slippage.md) + [Market](../m/market.md) Data Fees + [Infrastructure](../i/infrastructure.md) Costs)
@@ -125,4 +125,3 @@ AlgoTradeX employs a [market](../m/market.md)-making strategy, providing [liquid
 ## Conclusion
 
 [Profit](../p/profit.md) and Loss (P&L) analysis is a vital process in [algorithmic trading](../a/algorithmic_trading.md), providing detailed insights into the profitability and [efficiency](../e/efficiency.md) of [trading strategies](../t/trading_strategies.md). By thoroughly examining [revenue](../r/revenue.md) and expenses, traders can identify areas for improvement and make informed decisions to enhance their [trading systems](../t/trading_systems.md). [Robust](../r/robust.md) P&L analysis, supported by accurate data and advanced analytical tools, is essential for sustained success in the competitive landscape of [algorithmic trading](../a/algorithmic_trading.md).
-

@@ -77,10 +77,10 @@ The necessity of periodic [rebalancing](../r/rebalancing.md) demands continuous 
 Several financial products are designed to mimic the equal weight strategy. Equal weight [index](../i/index_instrument.md) funds and ETFs provide investors with a convenient way to [gain](../g/gain.md) exposure to this strategy without having to manage it themselves. Some notable examples include:
 
 - **Invesco S&P 500® Equal Weight ETF (RSP):** This ETF aims to [offer](../o/offer.md) the performance of the S&P 500 Equal Weight [Index](../i/index_instrument.md), providing equal exposure to S&P 500 constituents.
-  - [Invesco S&P 500® Equal Weight ETF (RSP) - Invesco](https://www.invesco.com/us/financial-products/etfs/holdings?productId=RSP)
-  
+ - Invesco S&P 500® Equal Weight ETF (RSP) - Invesco
+
 - **Guggenheim S&P 500® Equal Weight ETF (EWRI):** Similar to Invesco's RSP, this ETF targets an equal weight replication of the S&P 500 [Index](../i/index_instrument.md).
-  - [Guggenheim S&P 500® Equal Weight ETF (EWRI) - Guggenheim Investments](https://www.guggenheiminvestments.com/products/etf/EWRI)
+ - Guggenheim S&P 500® Equal Weight ETF (EWRI) - Guggenheim Investments
 
 ### Asset Allocation and Portfolio Management
 

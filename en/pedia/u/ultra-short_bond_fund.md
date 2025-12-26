@@ -1,6 +1,6 @@
 # Ultra-Short Bond Fund
 
-An Ultra-Short [Bond Fund](../b/bond_fund.md) refers to a type of [mutual fund](../m/mutual_fund.md) or [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that invests predominantly in fixed-[income](../i/income.md) securities with very short maturities, generally ranging from one to 12 months. These funds are designed to [offer](../o/offer.md) a higher [yield](../y/yield.md) than [money market](../m/money_market.md) funds while maintaining relatively low levels of [risk](../r/risk.md) and [volatility](../v/volatility.md). 
+An Ultra-Short [Bond Fund](../b/bond_fund.md) refers to a type of [mutual fund](../m/mutual_fund.md) or [exchange](../e/exchange.md)-traded [fund](../f/fund.md) (ETF) that invests predominantly in fixed-[income](../i/income.md) securities with very short maturities, generally ranging from one to 12 months. These funds are designed to [offer](../o/offer.md) a higher [yield](../y/yield.md) than [money market](../m/money_market.md) funds while maintaining relatively low levels of [risk](../r/risk.md) and [volatility](../v/volatility.md).
 
 ## Overview
 
@@ -83,20 +83,16 @@ When selecting an ultra-short [bond fund](../b/bond_fund.md), consider the follo
 ## Popular Ultra-Short Bond Funds
 
 1. **PIMCO Enhanced Short [Maturity](../m/maturity.md) Active ETF (MINT)**: Managed by PIMCO, this ETF aims to provide high current [income](../i/income.md) while maintaining a [duration](../d/duration.md) of less than one year, focusing on a diversified portfolio.
-   
-   [PIMCO MINT](https://www.pimco.com/en-us/investments/etf/enhanced-short-maturity-active-etf)
+
 
 2. **Vanguard Ultra-Short-Term [Bond Fund](../b/bond_fund.md) (VUBFX)**: This [fund](../f/fund.md) invests in high-quality, short-term investment-grade [fixed income securities](../f/fixed_income_securities.md) and aims to preserve [capital](../c/capital.md) while [offering](../o/offering.md) a competitive [yield](../y/yield.md).
-   
-   [Vanguard VUBFX](https://investor.vanguard.com/mutual-funds/profile/VUBFX)
+
 
 3. **BlackRock Short-Term [Bond Fund](../b/bond_fund.md) (BSBSX)**: Focused on short-term bonds to [offer](../o/offer.md) stability and moderate [income](../i/income.md).
-   
-   [BlackRock BSBSX](https://www.blackrock.com/us/individual/products/239664/)
+
 
 4. **SPDR [Bloomberg](../b/bloomberg.md) Barclays 1-3 Month T-Bill ETF (BIL)**: Tracks a [market](../m/market.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) of [U.S. Treasury](../u/u.s._treasury.md) bills with maturities of one to three months.
-   
-   [SPDR BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil)
+
 
 ## Conclusion
 

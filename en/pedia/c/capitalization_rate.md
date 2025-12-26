@@ -1,6 +1,6 @@
 # Capitalization Rate
 
-[Capitalization](../c/capitalization.md) rate, commonly referred to as cap rate, is a crucial term in the field of [real estate](../r/real_estate.md) investment. It provides investors an efficient way to evaluate investment properties and make informed decisions. It is a metric used to estimate the [rate of return](../r/rate_of_return.md) on an [investment property](../i/investment_property.md) based on the expected [income](../i/income.md) that the property [will](../w/will.md) generate. 
+[Capitalization](../c/capitalization.md) rate, commonly referred to as cap rate, is a crucial term in the field of [real estate](../r/real_estate.md) investment. It provides investors an efficient way to evaluate investment properties and make informed decisions. It is a metric used to estimate the [rate of return](../r/rate_of_return.md) on an [investment property](../i/investment_property.md) based on the expected [income](../i/income.md) that the property [will](../w/will.md) generate.
 
 ## Definition and Formula
 
@@ -17,13 +17,13 @@ For example, if a property generates $100,000 per year in net [operating income]
 
 \[ \text{Cap Rate} = \frac{100,000}{1,000,000} = 0.1 \text{ or } 10\% \]
 
-## Importance of Cap Rate 
+## Importance of Cap Rate
 
 Cap rate is a vital gauge for [real estate](../r/real_estate.md) investors for several reasons:
 
 1. **Comparing Investment Opportunities**: It allows investors to compare different properties or [real estate](../r/real_estate.md) markets easily by providing a standardized metric.
 
-2. **[Risk](../r/risk.md) Assessment**: A higher cap rate typically indicates a higher [risk](../r/risk.md) and higher potential [return](../r/return.md), while a lower cap rate suggests a lower [risk](../r/risk.md) and lower potential [return](../r/return.md). 
+2. **[Risk](../r/risk.md) Assessment**: A higher cap rate typically indicates a higher [risk](../r/risk.md) and higher potential [return](../r/return.md), while a lower cap rate suggests a lower [risk](../r/risk.md) and lower potential [return](../r/return.md).
 
 3. **[Valuation](../v/valuation.md)**: It helps in valuating whether the property price is fair and aligns with [market](../m/market.md) conditions.
 
@@ -41,7 +41,7 @@ Several factors can affect the cap rate of a property:
 
 ### Scenario Analysis
 
-Consider two investment properties: 
+Consider two investment properties:
 
 - **Property A**: Located in a prime commercial area, generating $120,000 in NOI, with a [market value](../m/market_value.md) of $1,500,000.
 - **Property B**: Situated in a less desirable location, generating $100,000 in NOI, with a [market value](../m/market_value.md) of $800,000.
@@ -73,19 +73,19 @@ While the cap rate is a powerful tool, it is not without limitations:
 Cap rate plays a fundamental role in various [real estate](../r/real_estate.md) investment strategies:
 
 1. **Core Strategy**: Involves [investing](../i/investing.md) in high-quality properties in prime locations with low cap rates, prioritizing stability and modest returns over high [risk](../r/risk.md).
-  
+
 2. **[Value](../v/value.md)-Add Strategy**: Targeting properties with potential for improvement to increase NOI and, ultimately, increase the property's [value](../v/value.md), typically involves higher initial cap rates.
-  
+
 3. **Opportunistic Strategy**: Focuses on distressed or [undervalued](../u/undervalued.md) properties with very high cap rates, accepting significant risks for potential high rewards.
 
 ### Company Applications
 
 Several [real estate](../r/real_estate.md) investment firms and platforms emphasize cap rates in their evaluations, such as:
 
-- **CBRE**: CBRE focuses on [commercial real estate](../c/commercial_real_estate.md) services and uses cap rates as a key metric in their [market](../m/market.md) analyses and advisory services. [CBRE](https://www.cbre.com/)
-- **Cushman & Wakefield**: This global [real estate](../r/real_estate.md) services [firm](../f/firm.md) provides cap rate data and analysis for various property types and markets. [Cushman & Wakefield](https://www.cushmanwakefield.com/)
-- **Real [Capital](../c/capital.md) Analytics (RCA)**: This [data analytics](../d/data_analytics.md) [firm](../f/firm.md) offers comprehensive cap rate reports and [market](../m/market.md) [trend](../t/trend.md) analyses. [Real Capital Analytics](https://www.rcanalytics.com/)
-  
+- **CBRE**: CBRE focuses on [commercial real estate](../c/commercial_real_estate.md) services and uses cap rates as a key metric in their [market](../m/market.md) analyses and advisory services. CBRE
+- **Cushman & Wakefield**: This global [real estate](../r/real_estate.md) services [firm](../f/firm.md) provides cap rate data and analysis for various property types and markets. Cushman & Wakefield
+- **Real [Capital](../c/capital.md) Analytics (RCA)**: This [data analytics](../d/data_analytics.md) [firm](../f/firm.md) offers comprehensive cap rate reports and [market](../m/market.md) [trend](../t/trend.md) analyses. Real Capital Analytics
+
 ### Cap Rate Trends and Analytics
 
 [Real estate](../r/real_estate.md) markets are continually evolving, and cap rate trends [offer](../o/offer.md) insight into economic climates:
@@ -93,10 +93,10 @@ Several [real estate](../r/real_estate.md) investment firms and platforms emphas
 - **[Bull](../b/bull.md) Markets**: During economic booms, cap rates tend to compress as property values rise faster than NOI.
 - **Bear Markets**: In economic downturns, cap rates generally expand as property values decline more rapidly than NOI.
 
-Investors closely monitor these trends for timing investments and assessing [market](../m/market.md) cyclicality. 
+Investors closely monitor these trends for timing investments and assessing [market](../m/market.md) cyclicality.
 
 ## Conclusion
 
 The [capitalization](../c/capitalization.md) rate is an indispensable tool for [real estate](../r/real_estate.md) investors. It serves as a fundamental metric for assessing investment viability, comparing opportunities, and making informed decisions in a constantly changing [market](../m/market.md). By understanding and applying cap rates effectively, investors can optimize their portfolios, balance [risk](../r/risk.md) and [return](../r/return.md), and achieve long-term investment success.
 
-For further reading and professional [guidance](../g/guidance.md), consult [real estate](../r/real_estate.md) investment firms like [CBRE](https://www.cbre.com/), [Cushman & Wakefield](https://www.cushmanwakefield.com/), and [Real Capital Analytics](https://www.rcanalytics.com/), which provide detailed insights and expert analysis in [real estate](../r/real_estate.md) investments.
+For further reading and professional [guidance](../g/guidance.md), consult [real estate](../r/real_estate.md) investment firms like CBRE, Cushman & Wakefield, and Real Capital Analytics, which provide detailed insights and expert analysis in [real estate](../r/real_estate.md) investments.

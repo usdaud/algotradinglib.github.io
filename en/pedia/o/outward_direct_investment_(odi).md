@@ -108,15 +108,15 @@ ODI has been instrumental in the global [expansion](../e/expansion.md) of many m
 
 ### Walmart's Expansion into Global Markets
 
-Walmart, the world's largest retailer, has successfully expanded its operations into various international markets through ODI. The company established a significant presence in markets like Canada, Mexico, China, and the United Kingdom by acquiring local retail chains and forming strategic alliances. [Walmart](https://www.walmart.com/)
+Walmart, the world's largest retailer, has successfully expanded its operations into various international markets through ODI. The company established a significant presence in markets like Canada, Mexico, China, and the United Kingdom by acquiring local retail chains and forming strategic alliances. Walmart
 
 ### Tata Group's International Ventures
 
-India's Tata Group has pursued an aggressive ODI strategy to diversify its [business](../b/business.md) portfolio and enter new markets. Notable investments include the [acquisition](../a/acquisition.md) of British steelmaker Corus, luxury car brand Jaguar Land Rover, and Tetley, a leading tea company. These ventures have positioned Tata Group as a global player in [multiple](../m/multiple.md) industries. [Tata Group](https://www.tata.com/)
+India's Tata Group has pursued an aggressive ODI strategy to diversify its [business](../b/business.md) portfolio and enter new markets. Notable investments include the [acquisition](../a/acquisition.md) of British steelmaker Corus, luxury car brand Jaguar Land Rover, and Tetley, a leading tea company. These ventures have positioned Tata Group as a global player in [multiple](../m/multiple.md) industries. Tata Group
 
 ### Apple's Manufacturing Investments in China
 
-Apple Inc. has made substantial ODI investments in China to take advantage of the country's cost-effective [manufacturing](../m/manufacturing.md) capabilities. Through partnerships with local manufacturers like Foxconn, Apple has successfully scaled its production capacity and maintained competitive pricing for its products. [Apple](https://www.apple.com/)
+Apple Inc. has made substantial ODI investments in China to take advantage of the country's cost-effective [manufacturing](../m/manufacturing.md) capabilities. Through partnerships with local manufacturers like Foxconn, Apple has successfully scaled its production capacity and maintained competitive pricing for its products. Apple
 
 ## Government Policies and Support for ODI
 

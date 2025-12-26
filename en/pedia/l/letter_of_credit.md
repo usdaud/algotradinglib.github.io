@@ -55,7 +55,7 @@ A **Red Clause LC** allows the [beneficiary](../b/beneficiary.md) to draw advanc
 1. **[Payment](../p/payment.md) [Assurance](../a/assurance.md)**: Guarantees [payment](../p/payment.md) upon delivery of compliant documents.
 2. **[Credit](../c/credit.md) Enhancement**: An LC is often more reliable than an [open](../o/open.md) account [transaction](../t/transaction.md).
 3. **[Risk](../r/risk.md) Reduction**: Reduces the [risk](../r/risk.md) of non-[payment](../p/payment.md) from foreign buyers.
-  
+
 ## Documentation Required in Letters of Credit
 
 The specific documents required [will](../w/will.md) vary depending on the agreement, but commonly required documents include:
@@ -88,4 +88,4 @@ The operation of LCs is governed by various rules and regulations. The most wide
 Letters of [Credit](../c/credit.md) are powerful financial tools that facilitate secure and smooth transactions in international and domestic [trade](../t/trade.md). By understanding their complexities, the types available, key participants, and documentation involved, businesses can effectively mitigate risks and enhance the credibility and reliability of their [trade](../t/trade.md) operations. For more information about the specific services and support in LCs, reputable banks and financial institutions can be consulted.
 
 **References**:
-- [International Chamber of Commerce (ICC)](https://iccwbo.org)
+- International Chamber of Commerce (ICC)

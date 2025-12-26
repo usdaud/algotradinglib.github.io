@@ -80,12 +80,7 @@ In the [European Union](../e/european_union_(eu).md), the European [Market](../m
 
 Several platforms and firms facilitate trading while managing counterparty risks. Some renowned firms include:
 
-- **NYSE (New York Stock [Exchange](../e/exchange.md))**: https://www.nyse.com
-- **[Charles Schwab](../c/charles_schwab.md)**: https://www.schwab.com
-- **[Interactive Brokers](../i/interactive_brokers.md)**: https://www.interactivebrokers.com
-- **CME Group**: https://www.cmegroup.com
-- **[Nasdaq](../n/nasdaq.md)**: https://www.[nasdaq](../n/nasdaq.md).com
-
+- **NYSE (New York Stock [Exchange](../e/exchange.md))**- **[Charles Schwab](../c/charles_schwab.md)**- **[Interactive Brokers](../i/interactive_brokers.md)**- **CME Group**- **[Nasdaq](../n/nasdaq.md)**
 These institutions have [robust](../r/robust.md) systems to evaluate and manage counterparty risks.
 
 ## Conclusion

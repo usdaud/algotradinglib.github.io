@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Technical job skills are specialized knowledge and competencies required to perform specific tasks related to a particular job or [industry](../i/industry.md). These skills are often acquired through education, training, and hands-on experience. Unlike [soft skills](../s/soft_skills.md), which include traits like communication and teamwork, [technical skills](../t/technical_skills.md) involve the use of tools, technologies, and methodologies to achieve desired outcomes. 
+Technical job skills are specialized knowledge and competencies required to perform specific tasks related to a particular job or [industry](../i/industry.md). These skills are often acquired through education, training, and hands-on experience. Unlike [soft skills](../s/soft_skills.md), which include traits like communication and teamwork, [technical skills](../t/technical_skills.md) involve the use of tools, technologies, and methodologies to achieve desired outcomes.
 
-In the fields of trading and [finance](../f/finance.md), technical job skills are crucial for analyzing financial data, executing trades, developing investment strategies, and managing portfolios. This article delves into the various technical job skills essential for professionals in trading, [finance](../f/finance.md), and particularly [algorithmic trading](../a/accountability.md) and financial technology (fintech).
+In the fields of trading and [finance](../f/finance.md), technical job skills are crucial for analyzing financial data, executing trades, developing investment strategies, and managing portfolios. This article delves into the various technical job skills essential for professionals in trading, [finance](../f/finance.md), and particularly [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech).
 
 ## Financial Analysis
 
@@ -34,11 +34,11 @@ In the fields of trading and [finance](../f/finance.md), technical job skills ar
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves using computer algorithms to execute trades at high speed and frequency. Key [technical skills](../t/technical_skills.md) are:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer algorithms to execute trades at high speed and frequency. Key [technical skills](../t/technical_skills.md) are:
 
 - **Algorithm Development**: Creating [trading algorithms](../t/trading_algorithms.md) using programming languages such as Python, C++, and Java.
 - **[Backtesting](../b/backtesting.md)**: Testing algorithms on historical data to evaluate their performance.
-- **[Risk Management](../r/risk_management.md)**: Implementing strategies to manage risks associated with [algorithmic trading](../a/accountability.md).
+- **[Risk Management](../r/risk_management.md)**: Implementing strategies to manage risks associated with [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Financial Modelling
 

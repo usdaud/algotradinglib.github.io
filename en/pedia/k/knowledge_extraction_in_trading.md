@@ -72,10 +72,10 @@ Knowledge extraction has numerous applications in trading, such as:
 
 Several companies [leverage](../l/leverage.md) knowledge extraction to [offer](../o/offer.md) trading solutions. Some notable ones include:
 
-- **Kensho Technologies**: Offers [machine learning](../m/machine_learning.md)-powered insights for [finance](../f/finance.md) and healthcare. [Kensho](https://www.kensho.com/)
-- **Numerai**: An AI-powered [hedge fund](../h/hedge_fund.md) that crowdsources financial models. [Numerai](https://numer.ai/)
-- **[Quandl](../q/quandl.md)**: Provides a wide [range](../r/range.md) of financial, economic, and [alternative data](../a/alternative_data.md). [Quandl](https://www.quandl.com/)
-- **Sentifi**: Specializes in [alternative data](../a/alternative_data.md) and [sentiment analysis](../s/sentiment_analysis.md). [Sentifi](https://www.sentifi.com/)
+- **Kensho Technologies**: Offers [machine learning](../m/machine_learning.md)-powered insights for [finance](../f/finance.md) and healthcare. Kensho
+- **Numerai**: An AI-powered [hedge fund](../h/hedge_fund.md) that crowdsources financial models. Numerai
+- **[Quandl](../q/quandl.md)**: Provides a wide [range](../r/range.md) of financial, economic, and [alternative data](../a/alternative_data.md). Quandl
+- **Sentifi**: Specializes in [alternative data](../a/alternative_data.md) and [sentiment analysis](../s/sentiment_analysis.md). Sentifi
 
 ## Conclusion
 

@@ -15,16 +15,16 @@ $$
 To calculate the YTD [return](../r/return.md), follow these steps:
 
 1. **Determine the Starting [Value](../v/value.md):**
-   Begin by identifying the [value](../v/value.md) of the investment on the first day of the year. This is often referred to as the "opening [value](../v/value.md)" or "starting [value](../v/value.md)."
+ Begin by identifying the [value](../v/value.md) of the investment on the first day of the year. This is often referred to as the "opening [value](../v/value.md)" or "starting [value](../v/value.md)."
 
 2. **Identify the Current [Value](../v/value.md):**
-   Find the current [market value](../m/market_value.md) of the investment. This is the [value](../v/value.md) as of the most recent date you want to measure.
+ Find the current [market value](../m/market_value.md) of the investment. This is the [value](../v/value.md) as of the most recent date you want to measure.
 
 3. **Collect Any [Income](../i/income.md) [Distribution](../d/distribution.md):**
-   If the investment generates [income](../i/income.md) (such as dividends from [stocks](../s/stock.md) or [interest](../i/interest.md) from bonds), include those amounts in the calculation for a [total return](../t/total_return.md) perspective.
+ If the investment generates [income](../i/income.md) (such as dividends from [stocks](../s/stock.md) or [interest](../i/interest.md) from bonds), include those amounts in the calculation for a [total return](../t/total_return.md) perspective.
 
 4. **Apply the YTD [Return](../r/return.md) Formula:**
-   Plug these values into the YTD [return](../r/return.md) formula to determine the [percentage change](../p/percentage_change.md).
+ Plug these values into the YTD [return](../r/return.md) formula to determine the [percentage change](../p/percentage_change.md).
 
 ### Example Calculation
 
@@ -45,19 +45,19 @@ Therefore, the YTD [return](../r/return.md) for the stock is 22%.
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on quantitative data to make decisions. Knowing the YTD [return](../r/return.md) is crucial for several reasons:
 
 1. **Performance Tracking:**
-   [Algorithmic trading](../a/algorithmic_trading.md) systems constantly monitor positions and portfolios to ensure alignment with overall [market](../m/market.md) performance and benchmarks.
+ [Algorithmic trading](../a/algorithmic_trading.md) systems constantly monitor positions and portfolios to ensure alignment with overall [market](../m/market.md) performance and benchmarks.
 
 2. **[Risk Management](../r/risk_management.md):**
-   A negative YTD [return](../r/return.md) might signal a review of [trading strategies](../t/trading_strategies.md) or [risk management](../r/risk_management.md) protocols to prevent further losses.
+ A negative YTD [return](../r/return.md) might signal a review of [trading strategies](../t/trading_strategies.md) or [risk management](../r/risk_management.md) protocols to prevent further losses.
 
 3. **[Rebalancing](../r/rebalancing.md) Portfolios:**
-   Regularly calculating and analyzing YTD returns allows algorithms to rebalance portfolios if needed, optimizing for either [risk](../r/risk.md) minimization or [return](../r/return.md) maximization.
+ Regularly calculating and analyzing YTD returns allows algorithms to rebalance portfolios if needed, optimizing for either [risk](../r/risk.md) minimization or [return](../r/return.md) maximization.
 
 4. **[Comparative Analysis](../c/comparative_analysis.md):**
-   YTD returns of different assets or portfolios can be compared to [benchmark](../b/benchmark.md) indices or other investments to gauge relative performance.
+ YTD returns of different assets or portfolios can be compared to [benchmark](../b/benchmark.md) indices or other investments to gauge relative performance.
 
 5. **Generating Signals:**
-   Certain strategies might use YTD [return](../r/return.md) thresholds as triggers to either enter or exit positions.
+ Certain strategies might use YTD [return](../r/return.md) thresholds as triggers to either enter or exit positions.
 
 ## Practical Applications and Examples
 
@@ -78,13 +78,13 @@ In forex trading, measuring YTD [return](../r/return.md) helps traders understan
 There are several tools and platforms available to facilitate the calculation of YTD returns:
 
 - **Brokerage Platforms:**
-  Most brokerage platforms, like [Interactive Brokers](https://www.interactivebrokers.com), [offer](../o/offer.md) built-in tools and reports to calculate and display the YTD [return](../r/return.md) for various investments.
+ Most brokerage platforms, like Interactive Brokers, [offer](../o/offer.md) built-in tools and reports to calculate and display the YTD [return](../r/return.md) for various investments.
 
 - **Financial Software:**
-  Software like [MetaTrader](https://www.metatrader4.com) allows for the advanced analytics and custom scripts that can calculate YTD returns.
+ Software like MetaTrader allows for the advanced analytics and custom scripts that can calculate YTD returns.
 
 - **Spreadsheet Software:**
-  Programs like Microsoft Excel and Google Sheets can be used for custom YTD [return](../r/return.md) calculations using built-in financial formulas.
+ Programs like Microsoft Excel and Google Sheets can be used for custom YTD [return](../r/return.md) calculations using built-in financial formulas.
 
 ## Conclusion
 

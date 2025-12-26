@@ -6,13 +6,13 @@
 2. Overview of [Form 2106](../f/form_2106_employee_business_expenses.md)-EZ
 3. Eligibility Criteria for Filing [Form 2106](../f/form_2106_employee_business_expenses.md)-EZ
 4. Specific Instructions for Completing [Form 2106](../f/form_2106_employee_business_expenses.md)-EZ
-    1. Part I: Employee [Business](../b/business.md) Expenses
-    2. Part II: Vehicle Expenses
+ 1. Part I: Employee [Business](../b/business.md) Expenses
+ 2. Part II: Vehicle Expenses
 5. Record Keeping Requirements
 6. Common Deductible Expenses
-    1. [Travel Expenses](../t/travel_expenses.md)
-    2. Transportation Costs
-    3. Other [Business](../b/business.md) Expenses
+ 1. [Travel Expenses](../t/travel_expenses.md)
+ 2. Transportation Costs
+ 3. Other [Business](../b/business.md) Expenses
 7. Limitations and Restrictions on Deductions
 8. Alternates and Successors to [Form 2106](../f/form_2106_employee_business_expenses.md)-EZ
 9. Practical Use Cases

@@ -6,7 +6,7 @@ An oil field is a region with significant reserves of [petroleum](../p/petroleum
 
 The discovery of oil fields marks the beginning of the extraction process. Traditionally, geologists have employed several methods to locate potential [oil reserves](../o/oil_reserves.md), such as analyzing rock formations, sediment layers, and surface features. Advances in technology have made this process more efficient and accurate, notably through the use of seismic surveys, remote sensing, and satellite imagery.
 
-### Seismic Surveys 
+### Seismic Surveys
 
 Seismic surveys are a primary tool for oil exploration. By emitting sound waves into the ground and interpreting the echoes that [return](../r/return.md), geologists can create detailed images of sub-surface structures. This method allows for the identification of rock formations that may contain oil.
 

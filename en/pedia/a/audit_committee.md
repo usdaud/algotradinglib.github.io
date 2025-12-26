@@ -8,7 +8,7 @@ An audit committee is typically composed of members of the board of directors wh
 
 ### Independence and Expertise
 
-Independence is a cornerstone of the audit committee's effectiveness. Members must be free from any relationships that might impair their [judgment](../j/judgment.md). Additionally, the collective expertise of the committee ought to encompass a deep understanding of [accounting principles](../a/accounting_principles.md), [financial statements](../f/financial_statements.md), and the ways financial information influences various [business](../b/business.md) decisions. 
+Independence is a cornerstone of the audit committee's effectiveness. Members must be free from any relationships that might impair their [judgment](../j/judgment.md). Additionally, the collective expertise of the committee ought to encompass a deep understanding of [accounting principles](../a/accounting_principles.md), [financial statements](../f/financial_statements.md), and the ways financial information influences various [business](../b/business.md) decisions.
 
 ### Size and Tenure
 
@@ -68,11 +68,11 @@ Keeping pace with regulatory changes is critical. Since regulations like the Sar
 
 ### Microsoft Corporation
 
-Microsoft's audit committee is a [robust](../r/robust.md) example of operational excellence and strict adherence to [corporate governance](../c/corporate_governance.md) standards. The committee's charter is publicly available, ensuring [transparency](../t/transparency.md) in its operations. For more information about Microsoft's audit committee, you can visit their [corporate governance](../c/corporate_governance.md) page [here](https://www.microsoft.com/en-us/investor/corporate-governance/audit-committee).
+Microsoft's audit committee is a [robust](../r/robust.md) example of operational excellence and strict adherence to [corporate governance](../c/corporate_governance.md) standards. The committee's charter is publicly available, ensuring [transparency](../t/transparency.md) in its operations.
 
 ### JP Morgan Chase & Co.
 
-JP Morgan Chase & Co. has an audit committee that exemplifies strong oversight and [risk management](../r/risk_management.md) practices. Their audit committee's comprehensive approach to financial integrity sets a standard in the financial [industry](../i/industry.md). More details can be found on JP Morgan’s official [audit committee page](https://www.jpmorganchase.com/about/governance/board-committees/audit).
+JP Morgan Chase & Co. has an audit committee that exemplifies strong oversight and [risk management](../r/risk_management.md) practices. Their audit committee's comprehensive approach to financial integrity sets a standard in the financial [industry](../i/industry.md).
 
 ## Conclusion
 

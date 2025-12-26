@@ -90,7 +90,7 @@ Once a [Triple Bottom](../t/triple_bottom.md) pattern is identified, [backtestin
 
 Develop or use existing trading bots that execute trades based on [Triple Bottom](../t/triple_bottom.md) patterns. These bots can incorporate [machine learning](../m/machine_learning.md) techniques to continuously improve [pattern recognition](../p/pattern_recognition.md) and optimize trading decisions.
 
-- Example: [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/), [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
+- Example: [Alpaca](../a/alpaca.md) ( [QuantConnect](../q/quantconnect.md) (
 
 ## Real-world Examples
 

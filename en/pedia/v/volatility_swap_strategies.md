@@ -55,7 +55,7 @@ As over-the-counter (OTC) instruments, [volatility](../v/volatility.md) swaps ca
 
 ### Case Study on a Leading Volatility Swap Platform
 
-One notable company facilitating extensive use of [volatility](../v/volatility.md) swaps is [Bloomberg](https://www.bloomberg.com), which offers sophisticated financial tools for pricing, [valuation](../v/valuation.md), and [risk management](../r/risk_management.md) of [volatility](../v/volatility.md) swaps. Their platform provides [market](../m/market.md) participants with the necessary data feeds, analytics, and trading [execution](../e/execution.md) capabilities required to [trade](../t/trade.md) these [derivatives](../d/derivatives.md) efficiently.
+One notable company facilitating extensive use of [volatility](../v/volatility.md) swaps is Bloomberg, which offers sophisticated financial tools for pricing, [valuation](../v/valuation.md), and [risk management](../r/risk_management.md) of [volatility](../v/volatility.md) swaps. Their platform provides [market](../m/market.md) participants with the necessary data feeds, analytics, and trading [execution](../e/execution.md) capabilities required to [trade](../t/trade.md) these [derivatives](../d/derivatives.md) efficiently.
 
 ### Conclusion
 

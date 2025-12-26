@@ -57,19 +57,19 @@ Luxury brands producing Veblen goods often segment their markets carefully, intr
 
 Brands such as Rolls-Royce, Lamborghini, and Bentley produce vehicles that are quintessential Veblen goods. For instance, Rolls-Royce's bespoke services allow customers to design unique cars, enhancing both price and exclusivity.
 
-Website: [Rolls-Royce Motor Cars](https://www.rolls-roycemotorcars.com/)
+online platform: Rolls-Royce Motor Cars
 
 ### High-End Watches
 
 Brands like Rolex, Patek Philippe, and Audemars Piguet manufacture watches that serve as status symbols. The price of these watches is much more than their utilitarian function of telling time; they embody prestige and craftsmanship.
 
-Website: [Rolex](https://www.rolex.com/)
+online platform: Rolex
 
 ### Designer Apparel
 
 High-fashion brands such as Gucci, Louis Vuitton, and Hermes are well-known producers of Veblen goods in the apparel and accessories [industry](../i/industry.md). Limited edition releases and exclusive collections regularly capture global attention and command top-tier prices.
 
-Website: [Gucci](https://www.gucci.com/)
+online platform: Gucci
 
 ## Criticisms and Economic Implications
 

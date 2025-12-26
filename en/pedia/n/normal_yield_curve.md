@@ -1,6 +1,6 @@
 # Normal Yield Curve
 
-The normal [yield curve](../y/yard.md), also known as the positive [yield curve](../y/yard.md), is a graphical representation that depicts the relationship between the [interest](../i/interest.md) rates (or yields) of bonds with differing maturities. This occurs under typical [market](../m/market.md) conditions where longer-term [debt](../d/debt.md) instruments have higher yields than shorter-term [debt](../d/debt.md) instruments due to risks associated with time, such as [inflation](../i/inflation.md) and [interest rate](../i/interest_rate.md) fluctuations. Understanding the normal [yield curve](../y/yard.md) is fundamental for investors, economists, and policymakers when analyzing [economic conditions](../e/economic_conditions.md) and making financial decisions. 
+The normal [yield curve](../y/yard.md), also known as the positive [yield curve](../y/yard.md), is a graphical representation that depicts the relationship between the [interest](../i/interest.md) rates (or yields) of bonds with differing maturities. This occurs under typical [market](../m/market.md) conditions where longer-term [debt](../d/debt.md) instruments have higher yields than shorter-term [debt](../d/debt.md) instruments due to risks associated with time, such as [inflation](../i/inflation.md) and [interest rate](../i/interest_rate.md) fluctuations. Understanding the normal [yield curve](../y/yard.md) is fundamental for investors, economists, and policymakers when analyzing [economic conditions](../e/economic_conditions.md) and making financial decisions.
 
 ## Definition and Basics
 
@@ -100,7 +100,7 @@ Corporations monitor the [yield curve](../y/yard.md) to determine the best times
 
 ### Technological Advancements
 
-With the rise of [algorithmic trading](../a/accountability.md) and advanced financial technologies, [yield curve analysis](../y/yield_curve_analysis.md) is becoming more sophisticated. Algorithms can analyze vast amounts of data to predict movements in the curve more accurately.
+With the rise of [algorithmic trading](../a/algorithmic_trading.md) and advanced financial technologies, [yield curve analysis](../y/yield_curve_analysis.md) is becoming more sophisticated. Algorithms can analyze vast amounts of data to predict movements in the curve more accurately.
 
 ### Global Influences
 
@@ -111,5 +111,5 @@ Global [economic conditions](../e/economic_conditions.md) and policies also affe
 Environmental, social, and governance (ESG) factors are becoming increasingly important. [Yield](../y/yield.md) curves for [green bonds](../g/green_bonds.md) and other sustainable [finance](../f/finance.md) instruments could behave differently due to varying [risk](../r/risk.md) perceptions.
 
 For further details and real-time data on [yield](../y/yield.md) curves:
-- [U.S. Department of the Treasury](https://home.treasury.gov/)
-- [Federal Reserve Board](https://www.federalreserve.gov/)
+- U.S. Department of the Treasury
+- Federal Reserve Board

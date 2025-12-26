@@ -2,6 +2,8 @@
 
 The LIBOR (London Interbank Offered Rate) scandal is one of the most significant financial scandals in recent history, involving the manipulation of the London Interbank Offered Rate by major global banks. The scandal, which came to light in 2012, exposed how several institutions colluded to manipulate this [benchmark](../b/benchmark.md) rate, which impacts trillions of dollars of financial contracts worldwide.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Background
 
 ### What is LIBOR?
@@ -19,7 +21,7 @@ LIBOR is calculated by taking an average of the submitted rates from a designate
 The scandal came to public attention when it was revealed that [multiple](../m/multiple.md) banks had colluded to manipulate LIBOR submissions for their financial [gain](../g/gain.md). The manipulation occurred in two primary ways:
 
 1. **[Profit](../p/profit.md) Motives**: Traders at various institutions colluded to submit artificially low or high rates to change the LIBOR according to their trading positions. By manipulating LIBOR, they aimed to increase the profitability of their own [derivative](../d/derivative.md) trades.
- 
+
 2. **Perception of Stability**: During the [financial crisis](../f/financial_crisis.md) of 2007-2008, banks submitted falsely low rates to create an illusion of [financial health](../f/financial_health.md) and stability. Reporting lower borrowing costs suggested that these institutions were more creditworthy than they actually were, thus maintaining [customer](../c/customer.md) confidence and avoiding panic in the [financial markets](../f/financial_market.md).
 
 ### Key Players Involved
@@ -53,7 +55,7 @@ One of the most impactful outcomes of the scandal has been the decision to gradu
 
 - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: The preferred alternative in the U.S. for USD LIBOR.
 - **SONIA (Sterling Overnight [Index](../i/index_instrument.md) Average)**: The replacement for GBP LIBOR.
-- **ESTER ([Euro](../e/euro.md) Short-Term Rate)**: Used to replace EUR LIBOR.
+- **ESTR ([Euro](../e/euro.md) Short-Term Rate)**: Used to replace EUR LIBOR.
 
 These new benchmarks are based on actual [transaction](../t/transaction.md) data rather than self-reported rates, aimed at preventing future manipulations and ensuring greater integrity in the [financial markets](../f/financial_market.md).
 
@@ -89,4 +91,4 @@ The LIBOR scandal serves as a stark reminder of the importance of ethical behavi
 
 The LIBOR scandal marks a defining moment in financial history, encapsulating how systemic vulnerabilities, coupled with unethical behavior, can severely distort global markets. It led to substantial fines, criminal charges, and a comprehensive overhaul of the financial [benchmark](../b/benchmark.md) system. The transition to alternative rates represents a collective effort to build a more trustworthy and resilient financial [infrastructure](../i/infrastructure.md). Moving forward, the lessons from the LIBOR scandal [will](../w/will.md) continue to shape regulatory policies and [market](../m/market.md) practices, striving to [uphold](../u/uphold.md) the integrity and stability of the global [financial system](../f/financial_system.md).
 
-For more information on the current status and future implementations of financial benchmarks, refer to the [Intercontinental Exchange](https://www.theice.com) and [Financial Conduct Authority](https://www.fca.org.uk) websites.
+For more information on the current status and future implementations of financial benchmarks, refer to the Intercontinental Exchange and Financial Conduct Authority websites.

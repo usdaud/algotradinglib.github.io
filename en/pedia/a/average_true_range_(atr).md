@@ -64,7 +64,4 @@ Average True [Range](../r/range.md) (ATR) remains an invaluable tool for traders
 
 For further information on ATR tools and platforms, here are links to relevant sites:
 
-- **[TradingView](../t/tradingview.md):** [https://www.tradingview.com/](https://www.tradingview.com/)
-- **MetaTrader:** [https://www.metatrader4.com/](https://www.metatrader4.com/)
-- **[Thinkorswim](../t/thinkorswim.md):** [https://www.thinkorswim.com/](https://www.thinkorswim.com/)
-
+- **[TradingView](../t/tradingview.md):** - **MetaTrader:** - **[Thinkorswim](../t/thinkorswim.md):**

@@ -9,7 +9,7 @@
 ### The Mechanics of Short Selling
 
 1. **Borrowing Securities**: The short seller borrows securities from a [broker](../b/broker.md) or another [institutional investor](../i/institutional_investor.md). There usually is a borrowing [fee](../f/fee.md) associated with this [transaction](../t/transaction.md).
-   
+
 2. **Selling the Borrowed Securities**: The borrowed securities are sold in the [open market](../o/open_market.md) at prevailing prices.
 
 3. **Repurchasing the Securities**: The short seller later buys the same securities to [return](../r/return.md) to the [lender](../l/lender.md). The goal is to repurchase the securities at a lower price than they were sold for.
@@ -30,19 +30,19 @@ The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commissio
 
 3. **Price Test Restriction**: Although abolished in 2007, a modified [uptick rule](../u/uptick_rule.md) was reinstituted in 2010. It prevents [short selling](../s/short_selling.md) at a price less than or equal to the national best [bid](../b/bid.md) when the stock has declined by 10% or more in one day.
 
-For more details, you can refer to the SEC's page on [Regulation SHO](../r/regulation_sho.md) [here](https://www.sec.gov/divisions/marketreg/mrfaqregsho1204.htm).
+./r/regulation_sho.md) here.
 
 ### European Union Regulation (EU)
 
 In Europe, [short selling](../s/short_selling.md) regulations are more stringent under the EU [Short Selling](../s/short_selling.md) Regulation (SSR), effective since November 2012 with the following key components:
 
 1. **[Transparency](../t/transparency.md)**: Investors must disclose significant net short positions in EU [shares](../s/shares.md) and sovereign [debt](../d/debt.md) to the relevant authorities and the public.
-   
+
 2. **Restrictions on Uncovered Short Sales**: Uncovered (or naked) [short selling](../s/short_selling.md) of [shares](../s/shares.md) and certain sovereign [debt](../d/debt.md) instruments is prohibited. This means that the short seller must either borrow the [shares](../s/shares.md) or have an arrangement ensuring that the securities can be borrowed before the [short sale](../s/short_sale.md) is made.
 
 3. **Emergency Powers of National Authorities**: National regulatory authorities can temporarily restrict or ban [short selling](../s/short_selling.md) of certain instruments in exceptional [market](../m/market.md) conditions.
 
-The official document for EU SSR can be found [here](https://ec.europa.eu/info/law/law-topic/eu-financial-regulation_en).
+The official document for EU SSR can be found here.
 
 ### Hong Kong Regulation
 
@@ -52,7 +52,7 @@ Hong Kong also has strict short-selling regulations under the Securities and [Fu
 
 2. **Reporting and [Disclosure](../d/disclosure.md)**: Short sellers are required to report their short positions to the Hong Kong Stock [Exchange](../e/exchange.md).
 
-The official details for Hong Kong's [short selling](../s/short_selling.md) regulations can be accessed [here](https://www.hkex.com.hk/eng/market/sec_tradinfra/tradinfo/sell_reg.htm).
+The official details for Hong Kong's [short selling](../s/short_selling.md) regulations can be accessed here.
 
 ### Japan Regulation
 
@@ -62,7 +62,7 @@ Japan's Financial Services Agency (FSA) has implemented its own set of rules to 
 
 2. **[Disclosure](../d/disclosure.md) Requirements**: Investors must report large short positions to the FSA.
 
-Japan's detailed [short selling](../s/short_selling.md) regulations can be found [here](https://www.fsa.go.jp/en/news/short/20200316.html).
+Japan's detailed [short selling](../s/short_selling.md) regulations can be found here.
 
 ## Market Reactions and Ethical Considerations
 
@@ -71,7 +71,7 @@ Japan's detailed [short selling](../s/short_selling.md) regulations can be found
 ### Market Reactions
 
 1. **[Market](../m/market.md) Panic**: During [market](../m/market.md) downturns, excessive [short selling](../s/short_selling.md) can exacerbate declines, causing panic selling among investors.
-   
+
 2. **Short Squeezes**: Rapid price increases can occur if short sellers rush to buy back [shares](../s/shares.md) to cover their positions, driving the price up further.
 
 ### Ethical Considerations

@@ -87,6 +87,6 @@ The Detrended Price [Oscillator](../o/oscillator.md) is a valuable tool for trad
 
 ## References
 
-- [MetaTrader](https://www.metatrader4.com)
-- [NinjaTrader](https://ninjatrader.com)
-- [TradingView](https://www.tradingview.com)
+- MetaTrader
+- NinjaTrader
+- TradingView

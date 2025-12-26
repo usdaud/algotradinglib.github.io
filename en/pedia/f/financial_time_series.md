@@ -35,16 +35,16 @@ Financial [time series](../t/time_series.md) data is characterized by:
 
 Historical data is essential for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Sources include:
 
-- **Exchanges and [market](../m/market.md) data providers**: Providing raw data feeds (e.g., NYSE [link](https://www.nyse.com/), [NASDAQ](../n/nasdaq.md) [link](https://www.nasdaq.com/)).
-- **Third-party services**: Platforms like [Bloomberg](../b/bloomberg.md) [link](https://www.bloomberg.com/), [Reuters](../r/reuters.md) [link](https://www.reuters.com/), and [Quandl](../q/quandl.md) [link](https://www.quandl.com/) [offer](../o/offer.md) extensive financial databases.
-- **API services**: Websites like [Alpha](../a/alpha.md) Vantage [link](https://www.alphavantage.co/) and [IEX Cloud](../i/iex_cloud.md) [link](https://iexcloud.io/) provide APIs for accessing financial data.
+- **Exchanges and [market](../m/market.md) data providers**: Providing raw data feeds (e.g., NYSE link, [NASDAQ](../n/nasdaq.md) link).
+- **Third-party services**: Platforms like [Bloomberg](../b/bloomberg.md) link, [Reuters](../r/reuters.md) link, and [Quandl](../q/quandl.md) link [offer](../o/offer.md) extensive financial databases.
+- **API services**: Websites like [Alpha](../a/alpha.md) Vantage link and [IEX Cloud](../i/iex_cloud.md) link provide APIs for accessing financial data.
 
 ### Real-time Data
 
 For live trading, real-time data is crucial. Sources include:
 
-- **Brokerage firms**: Brokers like [Interactive Brokers](../i/interactive_brokers.md) [link](https://www.interactivebrokers.com/).
-- **Real-time data vendors**: Providers such as [TradeStation](../t/tradestation.md) [link](https://www.tradestation.com/) and [eSignal](../e/esignal.md) [link](https://www.esignal.com/).
+- **Brokerage firms**: Brokers like [Interactive Brokers](../i/interactive_brokers.md) link.
+- **Real-time data vendors**: Providers such as [TradeStation](../t/tradestation.md) link and [eSignal](../e/esignal.md) link.
 
 ## Data Preprocessing and Cleaning
 
@@ -113,7 +113,7 @@ Assessing strategy performance typically involves:
 
 - **MetaTrader**: Widely used for forex and CFDs trading, with support for [algorithmic trading](../a/algorithmic_trading.md) scripts.
 - **[NinjaTrader](../n/ninjatrader.md)**: Integrated platform for [futures](../f/futures.md) and forex trading.
-- **[QuantConnect](../q/quantconnect.md)**: Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform.
+- **[StockSharp](../s/stocksharp.md)**: [algorithmic trading](../a/algorithmic_trading.md) platform.
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a trading API allowing for [algorithmic execution](../a/algorithmic_execution.md).
 
 ## Conclusion

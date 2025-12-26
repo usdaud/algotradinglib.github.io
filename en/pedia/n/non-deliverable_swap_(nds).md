@@ -7,29 +7,29 @@ A Non-Deliverable [Swap](../s/swap.md) (NDS) is a financial [derivative](../d/de
 ### Components of an NDS
 
 1. **Notional Amount**:
-   - The notional amount is the predetermined amount of [money](../m/money.md) in the non-deliverable [currency](../c/currency.md) that dictates the size of the contract. This amount is used purely for the calculation of settlement amounts and does not change hands.
+ - The notional amount is the predetermined amount of [money](../m/money.md) in the non-deliverable [currency](../c/currency.md) that dictates the size of the contract. This amount is used purely for the calculation of settlement amounts and does not change hands.
 
 2. **Settlement [Currency](../c/currency.md)**:
-   - This is the [currency](../c/currency.md) in which the contract [will](../w/will.md) be settled. Given the non-deliverable nature, settlements are usually done in a convertible [currency](../c/currency.md) like USD.
+ - This is the [currency](../c/currency.md) in which the contract [will](../w/will.md) be settled. Given the non-deliverable nature, settlements are usually done in a convertible [currency](../c/currency.md) like USD.
 
 3. **Fixing Date**:
-   - This date is crucial as it determines the [exchange rate](../e/exchange_rate.md) to be used for settlement purposes. It is typically a few days before the settlement date.
+ - This date is crucial as it determines the [exchange rate](../e/exchange_rate.md) to be used for settlement purposes. It is typically a few days before the settlement date.
 
 4. **Settlement Date**:
-   - The date on which the final settlement amounts are exchanged between the counterparties.
+ - The date on which the final settlement amounts are exchanged between the counterparties.
 
 ### Operational Mechanism
 
 An NDS works by comparing the [exchange rate](../e/exchange_rate.md) agreed upon at the start of the contract (the NDS rate) with the rate observed on the fixing date (the fixing rate). The difference between these rates, applied to the notional amount, determines the cash settlement.
 
 1. **Agreement Stage**:
-   - Two parties agree on the notional amount, the NDS rate, the fixing date, and the settlement date. These agreements form the [basis](../b/basis.md) of the contract.
+ - Two parties agree on the notional amount, the NDS rate, the fixing date, and the settlement date. These agreements form the [basis](../b/basis.md) of the contract.
 
 2. **Fixing Stage**:
-   - On the fixing date, the relevant [exchange rate](../e/exchange_rate.md) is observed, often using a recognized [benchmark](../b/benchmark.md) or source such as a central [bank](../b/bank.md)'s official rate.
+ - On the fixing date, the relevant [exchange rate](../e/exchange_rate.md) is observed, often using a recognized [benchmark](../b/benchmark.md) or source such as a central [bank](../b/bank.md)'s official rate.
 
 3. **Settlement Stage**:
-   - The difference between the fixing rate and the NDS rate is applied to the notional amount to calculate the settlement amount. This amount is paid or received in the settlement [currency](../c/currency.md).
+ - The difference between the fixing rate and the NDS rate is applied to the notional amount to calculate the settlement amount. This amount is paid or received in the settlement [currency](../c/currency.md).
 
 ### Example
 
@@ -39,7 +39,7 @@ Let's assume that ABC Corp and XYZ Ltd enter into an NDS contract with the follo
 - Fixing Date: December 1.
 - Settlement Date: December 5.
 
-On December 1, the observed [exchange rate](../e/exchange_rate.md) is 76 INR/USD (fixing rate). The difference between the fixing rate and the NDS rate is 1 INR/USD. Therefore, ABC Corp would pay XYZ Ltd:  
+On December 1, the observed [exchange rate](../e/exchange_rate.md) is 76 INR/USD (fixing rate). The difference between the fixing rate and the NDS rate is 1 INR/USD. Therefore, ABC Corp would pay XYZ Ltd:
 \[ \frac{10,000,000 \text{ INR}}{76 \text{ INR/USD}} - \frac{10,000,000 \text{ INR}}{75 \text{ INR/USD}} = 131,578.95 \text{ USD} \]
 
 ## Applications and Use Cases
@@ -85,16 +85,16 @@ In times of high [volatility](../v/volatility.md) or regulatory change, the NDS 
 ### Factors Influencing NDS Pricing
 
 1. **[Interest Rate](../i/interest_rate.md) Differentials**:
-   - The difference in [interest](../i/interest.md) rates between the two currencies involved, often referred to as the [forward premium](../f/forward_premium.md) or [discount](../d/discount.md), plays a crucial role in NDS pricing.
+ - The difference in [interest](../i/interest.md) rates between the two currencies involved, often referred to as the [forward premium](../f/forward_premium.md) or [discount](../d/discount.md), plays a crucial role in NDS pricing.
 
 2. **[Market](../m/market.md) [Volatility](../v/volatility.md)**:
-   - Higher [volatility](../v/volatility.md) in the non-deliverable [currency](../c/currency.md) can lead to wider [spreads](../s/spreads.md) and higher costs associated with NDS contracts.
+ - Higher [volatility](../v/volatility.md) in the non-deliverable [currency](../c/currency.md) can lead to wider [spreads](../s/spreads.md) and higher costs associated with NDS contracts.
 
 3. **[Economic Indicators](../e/economic_indicators.md)**:
-   - [Inflation](../i/inflation.md), GDP growth, [trade](../t/trade.md) balances, and other macroeconomic factors impact [currency](../c/currency.md) strength and, consequently, NDS valuations.
+ - [Inflation](../i/inflation.md), GDP growth, [trade](../t/trade.md) balances, and other macroeconomic factors impact [currency](../c/currency.md) strength and, consequently, NDS valuations.
 
 4. **Political and Regulatory Environment**:
-   - Changes in [government policies](../g/government_policies_in_trading.md), central [bank](../b/bank.md) interventions, and geopolitical events can influence the perceived [risk](../r/risk.md) and attractiveness of NDS contracts.
+ - Changes in [government policies](../g/government_policies_in_trading.md), central [bank](../b/bank.md) interventions, and geopolitical events can influence the perceived [risk](../r/risk.md) and attractiveness of NDS contracts.
 
 ### Valuation Techniques
 
@@ -107,13 +107,13 @@ The valuations are typically presented in terms of the [present value](../p/pres
 NDS contracts carry several [risk](../r/risk.md) dimensions, including [credit risk](../c/credit_risk.md), [market risk](../m/market_risk.md), and [operational risk](../o/operational_risk.md). [Risk management](../r/risk_management.md) practices for NDS include:
 
 1. **[Counterparty](../c/counterparty.md) [Credit Risk](../c/credit_risk.md)**:
-   - Assessing the [creditworthiness](../c/creditworthiness.md) of counterparties and incorporating [credit risk](../c/credit_risk.md) mitigants such as [collateral](../c/collateral.md) requirements and [netting](../n/netting.md) agreements.
+ - Assessing the [creditworthiness](../c/creditworthiness.md) of counterparties and incorporating [credit risk](../c/credit_risk.md) mitigants such as [collateral](../c/collateral.md) requirements and [netting](../n/netting.md) agreements.
 
 2. **[Market Risk](../m/market_risk.md)**:
-   - Monitoring and managing exposure to [currency](../c/currency.md) movements through dynamic [hedging strategies](../h/hedging_strategies.md).
+ - Monitoring and managing exposure to [currency](../c/currency.md) movements through dynamic [hedging strategies](../h/hedging_strategies.md).
 
 3. **[Operational Risk](../o/operational_risk.md)**:
-   - Ensuring [robust](../r/robust.md) operational [infrastructure](../i/infrastructure.md), including accurate and timely settlement processes.
+ - Ensuring [robust](../r/robust.md) operational [infrastructure](../i/infrastructure.md), including accurate and timely settlement processes.
 
 ## Regulatory and Legal Considerations
 
@@ -147,4 +147,4 @@ AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading
 
 Non-Deliverable Swaps (NDS) are instrumental in managing [currency](../c/currency.md) [risk](../r/risk.md), particularly in markets with restricted or non-convertible currencies. Their unique features, such as cash settlement and flexibility, make them a critical tool for corporations, financial institutions, and traders. As the global financial landscape evolves, the NDS [market](../m/market.md) is likely to see continued growth and innovation, driven by advancements in technology and changes in regulatory frameworks.
 
-For more information on NDS and related financial instruments, visit [ISDA](https://www.isda.org/) or [financial institutions offering NDS](https://www.jpmorgan.com/) services.
+For more information on NDS and related financial instruments, visit ISDA or financial institutions offering NDS services.

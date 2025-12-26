@@ -13,19 +13,19 @@ Quick [Turnaround](../t/turnaround.md) Strategies (QTS) are high-frequency [trad
 
 ## Types of Quick Turnaround Strategies
 1. **[Market](../m/market.md) Making**: This strategy focuses on providing [liquidity](../l/liquidity.md) to the [market](../m/market.md) by placing both buy and sell orders close to the current [market price](../m/market_price.md). The objective is to capture the [bid-ask spread](../b/bid-ask_spread.md).
-   - **Example**: [Virtu Financial](https://www.virtu.com)
+ - **Example**: Virtu Financial
 
 2. **Statistical [Arbitrage](../a/arbitrage.md)**: This involves exploiting statistical mispricings in the [market](../m/market.md) by identifying pairs or groups of securities that deviate from their historical relationships.
-   - **Example**: [Renaissance Technologies](https://www.rentec.com)
+ - **Example**: Renaissance Technologies
 
 3. **Latency [Arbitrage](../a/arbitrage.md)**: This takes advantage of the small time delays in [market](../m/market.md) data arriving at different locations. Firms use high-speed connections to access exchanges faster than competitors.
-   - **Example**: [Jump Trading](https://www.jumptrading.com)
+ - **Example**: Jump Trading
 
 4. **[Momentum Trading](../m/momentum_trading.md)**: This strategy focuses on the continuation of existing [market](../m/market.md) trends by analyzing short-term movements and executing trades in the direction of the [trend](../t/trend.md).
-   - **Example**: [Two Sigma](https://www.twosigma.com)
+ - **Example**: Two Sigma
 
 5. **[Event-Driven Trading](../e/event-driven_trading.md)**: Utilizes news feeds and announcements to make trades based on expected [market](../m/market.md) reactions to events such as [earnings](../e/earnings.md) reports, mergers, or macroeconomic data releases.
-   - **Example**: [Citadel Securities](https://www.citadelsecurities.com)
+ - **Example**: Citadel Securities
 
 ## Technology Infrastructure
 ### Hardware Requirements
@@ -51,12 +51,12 @@ Quick [Turnaround](../t/turnaround.md) Strategies (QTS) are high-frequency [trad
 ## Regulatory Considerations
 Given the complexity and speed of QTS, they are subject to stringent regulatory oversight to ensure [market](../m/market.md) fairness and stability.
 1. **[Market](../m/market.md) Abuse and Manipulation**: Ensuring strategies do not engage in illegal practices such as [spoofing](../s/spoofing.md) or layering.
-   - **Example Regulation**: Dodd-Frank Act in the United States
+ - **Example Regulation**: Dodd-Frank Act in the United States
 2. **[Risk](../r/risk.md) Controls**: Firms must implement [risk management](../r/risk_management.md) controls to mitigate systemic risks.
-   - **Example Regulation**: Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) in the [European Union](../e/european_union_(eu).md)
-  
+ - **Example Regulation**: Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) in the [European Union](../e/european_union_(eu).md)
+
 3. **Reporting and [Transparency](../t/transparency.md)**: Detailed reporting of trading activities to regulatory bodies for [transparency](../t/transparency.md) and monitoring.
-   - **Example Regulation**: Regulation SCI by SEC in the United States
+ - **Example Regulation**: Regulation SCI by SEC in the United States
 
 ## Ethical and Market Implications
 1. **[Market](../m/market.md) [Liquidity](../l/liquidity.md)**: While QTS can add [liquidity](../l/liquidity.md) to markets, they can also create [volatility](../v/volatility.md), particularly in times of [market](../m/market.md) stress.
@@ -65,4 +65,3 @@ Given the complexity and speed of QTS, they are subject to stringent regulatory 
 
 ## Conclusion
 Quick [Turnaround](../t/turnaround.md) Strategies represent a pinnacle of modern trading technology, leveraging speed, [volume](../v/volume.md), and data-driven insights to achieve significant returns in short timeframes. While the benefits of these strategies are clear in terms of [profit](../p/profit.md) and [market efficiency](../m/market_efficiency.md), they also pose significant challenges in terms of [risk management](../r/risk_management.md) and ethical considerations. Firms engaging in QTS must navigate a complex landscape of technological requirements, regulatory frameworks, and [market dynamics](../m/market_dynamics.md) to succeed.
-

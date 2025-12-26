@@ -9,11 +9,11 @@ The On-Balance [Volume](../v/volume.md) [indicator](../i/indicator.md) accumulat
 ## Calculation of OBV
 The OBV calculation formula is straightforward:
 - If the closing price today is higher than the closing price yesterday:
-  - `OBV_today = OBV_yesterday + Volume_today`
+ - `OBV_today = OBV_yesterday + Volume_today`
 - If the closing price today is lower than the closing price yesterday:
-  - `OBV_today = OBV_yesterday - Volume_today`
+ - `OBV_today = OBV_yesterday - Volume_today`
 - If the closing prices are the same:
-  - `OBV_today = OBV_yesterday`
+ - `OBV_today = OBV_yesterday`
 
 The key to understanding OBV is recognizing how the shifts in [volume](../v/volume.md) can signal potential price moves. As the cumulative OBV rises or falls, it provides early warning signs, potentially ahead of actual price movements.
 
@@ -69,7 +69,7 @@ Let's consider Google (Alphabet Inc.) as a case study for OBV application. Suppo
 On the other hand, consider Tesla Inc., where the stock price is in a [consolidation](../c/consolidation.md) phase, moving sideways. If the OBV starts to increase significantly during this period without a corresponding price rise, it might hint at an impending upward [breakout](../b/breakout.md).
 
 ## Companies Utilizing OBV
-Many [hedge](../h/hedge.md) funds and trading firms integrate OBV into their automated [trading algorithms](../t/trading_algorithms.md) to enhance the prediction accuracy of their models. Companies like Renaissance Technologies ([Renaissance Technologies](https://www.rentec.com/)) and Two Sigma ([Two Sigma](https://www.twosigma.com/)) are known for their advanced [algorithmic trading](../a/algorithmic_trading.md) strategies, which may incorporate [volume](../v/volume.md)-based indicators such as OBV.
+Many [hedge](../h/hedge.md) funds and trading firms integrate OBV into their automated [trading algorithms](../t/trading_algorithms.md) to enhance the prediction accuracy of their models. Companies like Renaissance Technologies (Renaissance Technologies) and Two Sigma (Two Sigma) are known for their advanced [algorithmic trading](../a/algorithmic_trading.md) strategies, which may incorporate [volume](../v/volume.md)-based indicators such as OBV.
 
 ## Conclusion
 On-Balance [Volume](../v/volume.md) (OBV) is a powerful tool in [technical analysis](../t/technical_analysis.md) that provides valuable insights into price movements by focusing on [volume](../v/volume.md) data. Despite its limitations, OBV remains a popular [indicator](../i/indicator.md) due to its simplicity and effectiveness in [forecasting](../f/forecasting.md) trends. When used alongside other [technical indicators](../t/technical_indicators.md), OBV can significantly enhance [trading strategies](../t/trading_strategies.md) and decision-making processes, ultimately supporting traders in navigating the complexities of [financial markets](../f/financial_market.md).

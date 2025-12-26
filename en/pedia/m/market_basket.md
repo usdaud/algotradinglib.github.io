@@ -18,17 +18,17 @@ This implies that if product A is purchased, there is a certain probability that
 
 Several key metrics are fundamental to evaluating association rules:
 - **Support**: The proportion of transactions that contain both A and B. Support helps determine the relevance of the rule.
-  \[
-  \text{Support}(A \rightarrow B) = \frac{\text{Number of transactions containing both A and B}}{\text{Total number of transactions}}
-  \]
+ \[
+ \text{Support}(A \rightarrow B) = \frac{\text{Number of transactions containing both A and B}}{\text{Total number of transactions}}
+ \]
 - **Confidence**: The likelihood that B is purchased when A is purchased. Confidence measures the reliability of the rule.
-  \[
-  \text{Confidence}(A \rightarrow B) = \frac{\text{Number of transactions containing both A and B}}{\text{Number of transactions containing A}}
-  \]
+ \[
+ \text{Confidence}(A \rightarrow B) = \frac{\text{Number of transactions containing both A and B}}{\text{Number of transactions containing A}}
+ \]
 - **Lift**: The ratio of the observed support to that expected if A and B were independent. A lift [value](../v/value.md) greater than 1 indicates a [positive correlation](../p/positive_correlation.md).
-  \[
-  \text{Lift}(A \rightarrow B) = \frac{\text{Support}(A \rightarrow B)}{\text{Support}(A) \times \text{Support}(B)}
-  \]
+ \[
+ \text{Lift}(A \rightarrow B) = \frac{\text{Support}(A \rightarrow B)}{\text{Support}(A) \times \text{Support}(B)}
+ \]
 
 ## Methodologies of Market Basket Analysis
 
@@ -72,20 +72,18 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) f
 ### Python Libraries
 
 - **mlxtend.frequent_patterns**: A module within the mlxtend library specifically designed for executing association rule algorithms like Apriori and FP-Growth.
-  - Documentation: [mlxtend.frequent_patterns](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/)
+ - Documentation: mlxtend.frequent_patterns
 
 ### R Packages
 
 - **arules**: A comprehensive R package for [mining](../m/mining.md) and analyzing association rules and frequent itemsets.
-  - Documentation: [arules package](https://cran.r-project.org/web/packages/arules/arules.pdf)
+ - Documentation: arules package
 
 ### Commercial Software
 
 - **IBM SPSS Modeler**: A [data mining](../d/data_mining.md) and text analytics platform that includes tools for [Market](../m/market.md) Basket Analysis.
-  - Website: [IBM SPSS Modeler](https://www.ibm.com/products/spss-modeler)
 
 - **RapidMiner**: An [open](../o/open.md)-source [data science](../d/data_science_in_trading.md) platform that supports various [data mining](../d/data_mining.md) techniques, including MBA.
-  - Website: [RapidMiner](https://rapidminer.com/)
 
 ## Case Studies and Real-World Examples
 

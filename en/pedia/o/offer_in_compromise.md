@@ -7,7 +7,7 @@ An [Offer](../o/offer.md) in Compromise (OIC) is a program that allows taxpayers
 To qualify for an [Offer](../o/offer.md) in Compromise, the IRS considers various factors, including:
 
 1. **Ability to Pay:** The IRS assesses your financial situation including all assets, monthly [income](../i/income.md), and living expenses to determine if you are able to pay the full tax [debt](../d/debt.md).
-   
+
 2. **[Income](../i/income.md):** Your current and future [income](../i/income.md) is also considered to evaluate your ability to settle the [debt](../d/debt.md).
 
 3. **Expenses:** Necessary living expenses are taken into account to ensure you can meet basic living standards.
@@ -21,9 +21,9 @@ Before proposing an OIC, the [taxpayer](../t/taxpayer.md) must have filed all ne
 The process of applying for an [Offer](../o/offer.md) in Compromise involves several steps:
 
 1. **Pre-Qualification:** The IRS provides an online tool that helps determine if you are eligible for an OIC. This tool considers factors such as [income](../i/income.md), expenses, and [asset](../a/asset.md) [equity](../e/equity.md).
-   
+
 2. **Form Submission:** The main form to submit for an OIC is Form 656, along with Form 433-A (for individuals) or Form 433-B (for businesses). Both forms require detailed financial information.
-   
+
 3. **Application [Fee](../f/fee.md) and Initial [Payment](../p/payment.md):** There is a non-refundable application [fee](../f/fee.md) ($205 as of 2023), and an initial [payment](../p/payment.md) must be made unless you qualify for a waiver due to low [income](../i/income.md).
 
 4. **Review and [Negotiation](../n/negotiation.md):** Once the forms are submitted, the IRS reviews the application. They may request additional information and negotiate the [offer](../o/offer.md) terms.
@@ -53,23 +53,23 @@ When proposing an [Offer](../o/offer.md) in Compromise, taxpayers have two [paym
 ### Benefits
 
 1. **Relief from Tax [Debt](../d/debt.md):** Provides a way to settle the tax [debt](../d/debt.md) for less than the full amount owed.
-   
+
 2. **Avoidable Financial Hardship:** Helps taxpayers who cannot afford to pay the full [debt](../d/debt.md) without causing financial instability.
-   
+
 3. **Fresh Start:** Allows taxpayers to resolve their tax issues and get a fresh start with the IRS.
 
 ### Drawbacks
 
 1. **Strict Criteria:** The IRS has stringent eligibility criteria, and not all requests are accepted.
-   
+
 2. **Long Process:** The application and review process can be lengthy, often taking several months to years.
-   
+
 3. **Non-refundable Payments:** The application [fee](../f/fee.md) and initial payments are non-refundable, even if the [offer](../o/offer.md) is rejected.
 
 ## Practical Considerations
 
 1. **Detailed Financial [Disclosure](../d/disclosure.md):** Be prepared to disclose all financial information comprehensively; incomplete or incorrect forms can lead to delays or rejection.
-   
+
 2. **Professional [Guidance](../g/guidance.md):** Given the complexity, it is recommended to consult with a tax professional or attorney to determine eligibility and assist with the application.
 
 3. **Stay Compliant:** Ensure you remain compliant with all tax filings and payments during the application process and afterward if the [offer](../o/offer.md) is accepted.
@@ -78,4 +78,4 @@ When proposing an [Offer](../o/offer.md) in Compromise, taxpayers have two [paym
 
 An [Offer](../o/offer.md) in Compromise is a viable option for taxpayers facing significant financial challenges with their tax [obligations](../o/obligation.md). By negotiating with the IRS, eligible individuals can settle their tax [debt](../d/debt.md) for less than what they owe, allowing them to alleviate financial burdens and work towards financial stability. However, given the strict criteria and detailed process, it's crucial to approach this option with professional advice and thorough preparation.
 
-For more information on the [Offer](../o/offer.md) in Compromise program, you can visit the official IRS page: [IRS Offer in Compromise](https://www.irs.gov/payments/offer-in-compromise).
+For more information on the [Offer](../o/offer.md) in Compromise program, you can

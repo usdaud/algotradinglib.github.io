@@ -30,18 +30,16 @@ Suppose you have an investment with an initial [value](../v/value.md) of $10,000
 
 ## Tools and Platforms
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) offers a comprehensive platform for designing, [backtesting](../b/backtesting.md), and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform supports [multiple](../m/multiple.md) programming languages and provides [robust](../r/robust.md) tools for analyzing [performance metrics](../p/performance_metrics.md), including the 1-year [yield](../y/yield.md).
+### StockSharp
+[StockSharp](../s/stocksharp.md) offers a comprehensive platform for designing, [backtesting](../b/backtesting.md), and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform supports C# and provides [robust](../r/robust.md) tools for analyzing [performance metrics](../p/performance_metrics.md), including the 1-year [yield](../y/yield.md).
 
-[QuantConnect](https://www.quantconnect.com/)
 
 ### Quantopian (discontinued)
-Quantopian was another popular platform for developing [algorithmic trading](../a/algorithmic_trading.md) strategies. It incorporated numerous features to assess strategies based on [performance metrics](../p/performance_metrics.md) like the 1-year [yield](../y/yield.md), but it was discontinued in November 2020.
+Quantopian (closed November 2020) was another popular platform for developing [algorithmic trading](../a/algorithmic_trading.md) strategies. It incorporated numerous features to assess strategies based on [performance metrics](../p/performance_metrics.md) like the 1-year [yield](../y/yield.md), but it was discontinued in November 2020.
 
 ### MetaTrader
 MetaTrader 4 and 5 are well-known platforms primarily used for forex trading. These platforms provide advanced charting tools and analytical features to evaluate the performance of [trading strategies](../t/trading_strategies.md), including the calculation of the 1-year [yield](../y/yield.md).
 
-[MetaTrader](https://www.metatrader4.com/)
 
 ## Factors Affecting 1-Year Yield in Algorithmic Trading
 
@@ -64,4 +62,4 @@ Past performance, as indicated by the 1-year [yield](../y/yield.md), doesn't gua
 
 ## Conclusion
 
-The 1-year [yield](../y/yield.md) is a crucial metric for algorithmic traders to assess the performance of their strategies. It provides valuable insights into the effectiveness and [risk](../r/risk.md)-adjusted returns, helping traders refine their algorithms for better future performance. By understanding the various factors that affect the 1-year [yield](../y/yield.md) and using advanced tools and platforms for analysis, traders can better navigate the complexities of the [financial markets](../f/financial_market.md).
+The 1-year [yield](../y/yield.md) is a crucial metric for algorithmic traders to assess the performance of their strategies. It provides valuable insights into the effectiveness and [risk](../r/risk.md)-adjusted returns, helping traders refine their algorithms for better future performance. By understanding the various factors that affect the 1-year [yield](../y/yield.md) and using advanced tools and platforms for analysis, traders can better navigate the complexities of the [financial markets](../f/financial_market.md).

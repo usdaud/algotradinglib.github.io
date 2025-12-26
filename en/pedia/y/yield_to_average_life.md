@@ -56,7 +56,7 @@ Individual investors and investment professionals widely use various tools and s
 
 - **Professional Financial Calculators**: HP 12C or Texas Instruments BA II Plus are equipped for YAL calculations.
 - **Spreadsheet Software**: Microsoft Excel and Google Sheets have IRR functions and custom models to [handle](../h/handle.md) complex [yield](../y/yield.md) calculations.
-- **Specialized Software**: Companies like [Bloomberg](../b/bloomberg.md) [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/fixed-income/) provide comprehensive fixed-[income](../i/income.md) analytics, including YAL features.
+- **Specialized Software**: Companies like [Bloomberg](../b/bloomberg.md) Bloomberg Terminal provide comprehensive fixed-[income](../i/income.md) analytics, including YAL features.
 - **Online Calculators**: Various financial websites [offer](../o/offer.md) online calculators to estimate [Yield](../y/yield.md) to [Average Life](../a/average_life.md).
 
 ## Challenges and Considerations

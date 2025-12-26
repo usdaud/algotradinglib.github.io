@@ -13,8 +13,8 @@ P(y=1|X) = \frac{1}{1 + e^{-(β0 + β1X1 + β2X2 + ... + βpXp)}}
 Where:
 - \(P(y=1|X)\) is the probability that the dependent variable equals 1 given the predictors.
 - \(β0\) is the intercept term.
-- \(β1, β2, ... βp\) are the coefficients.
-- \(X1, X2, ... Xp\) are the independent variables (predictors).
+- \(β1, β2,... βp\) are the coefficients.
+- \(X1, X2,... Xp\) are the independent variables (predictors).
 
 The logistic function (also known as the sigmoid function) ensures that the resulting probability is between 0 and 1.
 
@@ -113,20 +113,16 @@ Several tools and libraries can facilitate the implementation of logistic regres
 Python is a widely-used programming language in the [finance](../f/finance.md) [industry](../i/industry.md) due to its simplicity and the availability of powerful libraries. Key libraries for logistic regression in trading include:
 
 - **Scikit-learn**: A [machine learning](../m/machine_learning.md) library that provides simple and efficient tools for [data mining](../d/data_mining.md) and analysis. It includes functions for logistic regression, model evaluation, and feature selection.
-  
-  [Scikit-learn](https://scikit-learn.org/)
+
 
 - **Pandas**: A library providing data structures and data analysis tools for Python. It is particularly useful for manipulating trading data.
-  
-  [Pandas](https://pandas.pydata.org/)
+
 
 - **NumPy**: A library for numerical computing in Python. It provides support for arrays, matrices, and high-level mathematical functions.
-  
-  [NumPy](https://numpy.org/)
+
 
 - **Statsmodels**: A Python library that complements Scikit-learn by providing more detailed statistical modeling capabilities, including logistic regression.
-  
-  [Statsmodels](https://www.statsmodels.org/)
+
 
 ### R
 
@@ -135,12 +131,10 @@ R is another powerful language for statistical computing and is widely used in a
 - **glm() function** in the base stats package for fitting [generalized linear models](../g/generalized_linear_models.md), including logistic regression.
 
 - **caret**: A package containing tools for training and evaluating [machine learning](../m/machine_learning.md) models, including logistic regression.
-  
-  [Caret](https://topepo.github.io/caret/)
+
 
 - **MASS**: A package in R that provides functions and datasets for performing various statistical tasks, including logistic regression.
-  
-  [MASS](https://www.stats.ox.ac.uk/pub/MASS4/)
+
 
 ## Example Code
 

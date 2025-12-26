@@ -11,14 +11,14 @@ Gilts are [debt](../d/debt.md) securities issued by the UK Treasury to [finance]
 There are several types of gilts, each with distinct features:
 
 1. **Conventional Gilts**:
-    - **Fixed-[Interest](../i/interest.md) Gilts**: Pay fixed semi-annual [interest](../i/interest.md) payments and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md).
-    - **Convertible Gilts**: Can be converted into other types of securities under predefined conditions, although these have become rare.
+ - **Fixed-[Interest](../i/interest.md) Gilts**: Pay fixed semi-annual [interest](../i/interest.md) payments and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md).
+ - **Convertible Gilts**: Can be converted into other types of securities under predefined conditions, although these have become rare.
 
-2. **[Index](../i/index_instrument.md)-Linked Gilts**: 
-    - The [principal](../p/principal.md) and [interest](../i/interest.md) payments are adjusted in line with [inflation](../i/inflation.md), measured by the UK Retail Prices [Index](../i/index_instrument.md) (RPI). These [offer](../o/offer.md) protection against [inflation](../i/inflation.md) and are particularly appealing during periods of high [inflation](../i/inflation.md).
-  
+2. **[Index](../i/index_instrument.md)-Linked Gilts**:
+ - The [principal](../p/principal.md) and [interest](../i/interest.md) payments are adjusted in line with [inflation](../i/inflation.md), measured by the UK Retail Prices [Index](../i/index_instrument.md) (RPI). These [offer](../o/offer.md) protection against [inflation](../i/inflation.md) and are particularly appealing during periods of high [inflation](../i/inflation.md).
+
 3. **Undated Gilts**:
-    - Have no fixed [maturity date](../m/maturity_date.md). The [principal](../p/principal.md) is not guaranteed to be repaid, but they [offer](../o/offer.md) perpetual [interest](../i/interest.md) payments. These are also quite rare in modern markets.
+ - Have no fixed [maturity date](../m/maturity_date.md). The [principal](../p/principal.md) is not guaranteed to be repaid, but they [offer](../o/offer.md) perpetual [interest](../i/interest.md) payments. These are also quite rare in modern markets.
 
 ## Market Participants
 
@@ -28,7 +28,7 @@ Various entities participate in the gilt [market](../m/market.md), including ind
 
 ### Primary Market
 
-Gilts are primarily issued by the UK [Debt](../d/debt.md) Management Office (DMO) through auctions. The DMO manages the process to ensure efficient funding for the government. Details about gilt issuance, including auction dates and methods, can be found on the [Debt Management Office's website](https://www.dmo.gov.uk/).
+Gilts are primarily issued by the UK [Debt](../d/debt.md) Management Office (DMO) through auctions. The DMO manages the process to ensure efficient funding for the government. Details about gilt issuance, including auction dates and methods, can be found on the Debt Management Office's online platform.
 
 ### Secondary Market
 

@@ -71,4 +71,4 @@ Finally, regularly review and refine your trading plan. Keep a trading [journal]
 
 A well-developed trading plan is a dynamic document that should evolve with [market](../m/market.md) conditions, technological advancements, and personal experience. Implementing these steps effectively can help you navigate the complexities of [algorithmic trading](../a/algorithmic_trading.md) and enhance your chances of long-term success.
 
-For further resources and professional services, consider visiting [KJ Trading Systems](https://kjtradingsystems.com/) or [QuantConnect](https://www.quantconnect.com/).
+For further resources and professional services, consider visiting KJ Trading Systems or QuantConnect.

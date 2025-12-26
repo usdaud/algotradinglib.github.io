@@ -47,7 +47,7 @@ UCITS II was proposed but never implemented. The initiative aimed to expand the 
 
 ### UCITS III (2001)
 
-UCITS III introduced two Directives: 
+UCITS III introduced two Directives:
 
 - The Product Directive (2001/108/EC), which broadened the [range](../r/range.md) of allowable [fund](../f/fund.md) investments, including [derivatives](../d/derivatives.md), [money market](../m/money_market.md) instruments, and other financial instruments.
 - The Management Directive (2001/107/EC), which addressed the management of UCITS funds and introduced the concept of management companies passport, allowing [fund](../f/fund.md) managers to operate across borders within the EU.

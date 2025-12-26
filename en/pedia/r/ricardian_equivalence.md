@@ -7,9 +7,9 @@ Ricardian Equivalence is an economic theory named after the 19th-century British
 The core idea behind Ricardian Equivalence is grounded in consumers' forward-looking behavior. This notion is explained through the following assumptions:
 
 1. **Rational Expectations**: Consumers are assumed to have rational expectations. They are forward-looking and take into account the future consequences of current fiscal policies.
-   
+
 2. **Perfect [Capital Markets](../c/capital_markets.md)**: Consumers have full access to [capital markets](../c/capital_markets.md). They can borrow and save without restrictions, and at the same [interest](../i/interest.md) rates as the government.
-   
+
 3. **Intergenerational Altruism**: Individuals care about the [welfare](../w/welfare.md) of future generations. They foresee the future tax burden on their descendants and correspondingly adjust their savings behaviors.
 
 4. **Non-Distorting [Taxes](../t/taxes.md)**: The [taxes](../t/taxes.md) that the government levies are assumed to be non-distorting, meaning they don't affect economic decisions over labor, savings, and investment.
@@ -30,7 +30,7 @@ The Ricardian Equivalence can be presented mathematically in simple models. Supp
 
 where:
 - \( G_t \) is the government expenditure in period \( t \),
-- \( rB_{t-1} \) is the [interest](../i/interest.md) [payment](../p/payment.md) on the [debt](../d/debt.md) from the previous period, 
+- \( rB_{t-1} \) is the [interest](../i/interest.md) [payment](../p/payment.md) on the [debt](../d/debt.md) from the previous period,
 - \( T_t \) is the tax [revenue](../r/revenue.md),
 - \( \[Delta](../d/delta.md) B_t \) is the new [debt](../d/debt.md) issued.
 
@@ -72,5 +72,4 @@ However, the empirical outcomes indicated varying degrees of increase in consump
 
 Ricardian Equivalence provides an elegant theoretical framework to understand the interaction between government [fiscal policy](../f/fiscal_policy.md) and consumer behavior. While its rigorous assumptions limit its empirical applicability, it serves as an essential reference in [fiscal policy](../f/fiscal_policy.md) debates. The theory underscores the importance of considering long-term fiscal sustainability and the indirect effects on consumer saving behavior when designing [debt](../d/debt.md)-financed government spending programs. Policymakers must remain attuned to the empirical contexts and adapt their strategies to the nuances of real-world economic behavior.
 
-For further details on this economic theory, you can refer to primary academic publications from economists like Robert Barro or institutional research from organizations like the National Bureau of Economic Research (NBER): https://www.nber.org.
-
+For further details on this economic theory, you can refer to primary academic publications from economists like Robert Barro or institutional research from organizations like the National Bureau of Economic Research (NBER)

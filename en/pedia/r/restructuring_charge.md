@@ -1,6 +1,6 @@
 # Restructuring Charge
 
-A [restructuring](../r/restructuring.md) charge is a one-time cost that a company incurs to reorganize its operations in a [bid](../b/bid.md) to improve overall [efficiency](../e/efficiency.md), streamline [business](../b/business.md) processes, or implement strategic shifts. These charges are typically reported in the period when the decision is made and can have significant implications for a company’s [financial statements](../f/financial_statements.md). 
+A [restructuring](../r/restructuring.md) charge is a one-time cost that a company incurs to reorganize its operations in a [bid](../b/bid.md) to improve overall [efficiency](../e/efficiency.md), streamline [business](../b/business.md) processes, or implement strategic shifts. These charges are typically reported in the period when the decision is made and can have significant implications for a company’s [financial statements](../f/financial_statements.md).
 
 ## Definition and Nature
 
@@ -11,23 +11,23 @@ A [restructuring](../r/restructuring.md) charge encompasses costs associated wit
 The [restructuring](../r/restructuring.md) charges can be broken down into various categories depending on the nature of the [restructuring](../r/restructuring.md) activities. These categories include but are not limited to:
 
 1. **Employee Termination Costs**:
-    - Severance packages
-    - [Outplacement](../o/outplacement.md) services
-    - Legal costs associated with layoffs
+ - Severance packages
+ - [Outplacement](../o/outplacement.md) services
+ - Legal costs associated with layoffs
 
 2. **[Asset](../a/asset.md) Impairments**:
-    - [Write-down](../w/write-down.md) of plant, property, and equipment
-    - [Inventory](../i/inventory.md) write-downs
+ - [Write-down](../w/write-down.md) of plant, property, and equipment
+ - [Inventory](../i/inventory.md) write-downs
 
 3. **[Facility](../f/facility.md) Closures**:
-    - Lease termination costs
-    - Costs related to relocating operations
-    - Decommissioning and environmental clean-up expenses
+ - Lease termination costs
+ - Costs related to relocating operations
+ - Decommissioning and environmental clean-up expenses
 
 4. **Other Costs**:
-    - Contract termination fees
-    - Consultancy fees
-    - IT and system updates and reconfigurations
+ - Contract termination fees
+ - Consultancy fees
+ - IT and system updates and reconfigurations
 
 ## Accounting Treatment
 
@@ -45,28 +45,27 @@ For IFRS (International Financial Reporting Standards), IAS 37 governs the regul
 [Restructuring](../r/restructuring.md) charges significantly affect the financial position and performance of an organization. While these charges lead to an immediate reduction in net [income](../i/income.md) for the period, the long-term goal is typically to improve profitability and [operational efficiency](../o/operational_efficiency_in_trading.md). Key impacts include:
 
 1. **[Income Statement](../i/income_statement.md)**:
-    - An increase in operating expenses due to one-time charges
-    - Reduction in net [income](../i/income.md)
+ - An increase in operating expenses due to one-time charges
+ - Reduction in net [income](../i/income.md)
 
 2. **[Balance Sheet](../b/balance_sheet.md)**:
-    - Increase in accrued liabilities corresponding to future cash outflows related to the [restructuring](../r/restructuring.md) activities
-    - Potential impacts on [asset](../a/asset.md) values, especially the [impairment](../i/impairment.md) of fixed assets
+ - Increase in accrued liabilities corresponding to future cash outflows related to the [restructuring](../r/restructuring.md) activities
+ - Potential impacts on [asset](../a/asset.md) values, especially the [impairment](../i/impairment.md) of fixed assets
 
 3. **[Cash Flow Statement](../c/cash_flow_statement.md)**:
-    - Detailed [disclosure](../d/disclosure.md) of cash outflows associated with [restructuring](../r/restructuring.md) in the [operating activities](../o/operating_activities.md) section.
+ - Detailed [disclosure](../d/disclosure.md) of cash outflows associated with [restructuring](../r/restructuring.md) in the [operating activities](../o/operating_activities.md) section.
 
 ## Real-World Examples
 
 ### IBM's Restructuring Charges
 
-IBM has undergone numerous restructurings to adapt to the rapidly changing tech environment. In their 2020 [annual report](../a/annual_report.md), IBM reported a significant [restructuring](../r/restructuring.md) charge primarily related to optimizing their global workforce and cost structure in line with its hybrid cloud and AI strategy. 
+IBM has undergone numerous restructurings to adapt to the rapidly changing tech environment. In their 2020 [annual report](../a/annual_report.md), IBM reported a significant [restructuring](../r/restructuring.md) charge primarily related to optimizing their global workforce and cost structure in line with its hybrid cloud and AI strategy.
 
 ### General Electric (GE) Restructuring
 
 In 2021, GE announced their plan to split into three separate entities focused on aviation, healthcare, and energy. The [restructuring](../r/restructuring.md) efforts include rationalizing their portfolio, which generated substantial [restructuring](../r/restructuring.md) charges related to workforce reductions and the [divestiture](../d/divestiture.md) of several [business](../b/business.md) segments.
 
 ### Here’s a link to General Electric's restructuring efforts:
-[General Electric](https://www.ge.com/)
 
 ## Strategic Importance
 
@@ -91,4 +90,4 @@ While [restructuring](../r/restructuring.md) aims to bring about positive long-t
 
 [Restructuring](../r/restructuring.md) charges are a critical yet complex aspect of [corporate finance](../c/corporate_finance.md), designed to equip companies to better manage their future growth and sustainability. They necessitate careful planning and [execution](../e/execution.md) and carry significant financial and operational implications. By understanding the various facets of [restructuring](../r/restructuring.md) charges, stakeholders can better navigate the intricacies of corporate reorganizations and realignments.
 
-To access further detailed information on how [restructuring](../r/restructuring.md) charges impact companies, you can visit the dedicated page of General Electric's website under financial [restructuring](../r/restructuring.md) efforts [here](https://www.ge.com/).
+To access further detailed information on how [restructuring](../r/restructuring.md) charges impact companies,./r/restructuring.md) efforts here.

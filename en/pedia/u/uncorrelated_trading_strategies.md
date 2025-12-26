@@ -16,46 +16,46 @@ Including [uncorrelated assets](../u/uncorrelated_assets.md) in a portfolio redu
 ## Types of Uncorrelated Trading Strategies
 
 ### Statistical Arbitrage
-Statistical [arbitrage](../a/arbitrage.md) involves identifying pricing inefficiencies between related financial instruments and capitalizing on the statistical likelihood of these inefficiencies correcting themselves. These strategies are often [market](../m/market.md)-[neutral](../n/neutral.md) and rely on sophisticated [mathematical models](../m/mathematical_models_in_trading.md). 
+Statistical [arbitrage](../a/arbitrage.md) involves identifying pricing inefficiencies between related financial instruments and capitalizing on the statistical likelihood of these inefficiencies correcting themselves. These strategies are often [market](../m/market.md)-[neutral](../n/neutral.md) and rely on sophisticated [mathematical models](../m/mathematical_models_in_trading.md).
 
 #### Example Companies:
-- [Virtu Financial](https://www.virtu.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Virtu Financial
+- Two Sigma
 
 ### Market Neutral Strategies
 [Market](../m/market.md)-[neutral](../n/neutral.md) strategies aim to earn returns regardless of [market](../m/market.md) direction by maintaining a balanced exposure to long and short positions. These strategies usually pair long positions in [undervalued](../u/undervalued.md) assets with short positions in [overvalued](../o/overvalued.md) assets.
 
 #### Example Companies:
-- [WorldQuant](https://www.worldquant.com/)
-- [Bridgewater Associates](https://www.bwater.com/)
+- WorldQuant
+- Bridgewater Associates
 
 ### Arbitrage
 [Arbitrage](../a/arbitrage.md) strategies involve the simultaneous purchase and [sale](../s/sale.md) of an [asset](../a/asset.md) to [profit](../p/profit.md) from a difference in its price on different markets or in different forms. Classic examples include [currency](../c/currency.md) [arbitrage](../a/arbitrage.md), [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), and convertible [arbitrage](../a/arbitrage.md).
 
 #### Example Companies:
-- [Jane Street](https://www.janestreet.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Jane Street
+- Citadel Securities
 
 ### Statistical Machine Learning
 [Machine learning](../m/machine_learning.md) and AI-driven models use large datasets to train algorithms to detect patterns and make predictions independent of traditional [market](../m/market.md) movements.
 
 #### Example Companies:
-- [Numerai](https://numer.ai/)
-- [Kensho Technologies](https://www.kensho.com/)
+- Numerai
+- Kensho Technologies
 
 ### Global Macro
 [Global macro strategies](../g/global_macro_strategies.md) involve taking long and short positions in various [equity](../e/equity.md), [fixed income](../f/fixed_income.md), [currency](../c/currency.md), and commodities markets, primarily driven by extensive top-down research.
 
 #### Example Companies:
-- [Brevan Howard](https://www.brevanhoward.com/)
-- [Soros Fund Management](https://www.soros.com/)
+- Brevan Howard
+- Soros Fund Management
 
 ### High-Frequency Trading (HFT)
 HFT strategies use powerful computers to execute thousands of trades per second based on complex algorithms. These strategies often exploit short-term [market](../m/market.md) inefficiencies or statistical arbitrages.
 
 #### Example Companies:
-- [DRW Trading](https://drw.com/)
-- [Jump Trading](https://www.jumptrading.com/)
+- DRW Trading
+- Jump Trading
 
 ## Implementation Considerations
 

@@ -31,7 +31,7 @@ The [Value](../v/value.md)-[Momentum](../m/momentum.md) strategy combines the pr
 
 ## Historical Performance
 
-Research has shown that combining [value](../v/value.md) and [momentum](../m/momentum.md) strategies can [yield](../y/yield.md) superior [risk](../r/risk.md)-adjusted returns compared to standalone implementations. Studies like Fama and French (1996) and Asness et al. (2013) have demonstrated the robustness of these combined strategies across different markets and time periods. A notable study by "AQR [Capital](../c/capital.md) Management" titled "[Value](../v/value.md) and [Momentum](../m/momentum.md) Everywhere" provides substantial empirical evidence supporting the efficacy of [value](../v/value.md)-[momentum](../m/momentum.md) strategies across [asset](../a/asset.md) classes and geographies ([AQR Capital Management](https://www.aqr.com/Insights/Research/White-Papers/Value-and-Momentum-Everywhere)).
+Research has shown that combining [value](../v/value.md) and [momentum](../m/momentum.md) strategies can [yield](../y/yield.md) superior [risk](../r/risk.md)-adjusted returns compared to standalone implementations. Studies like Fama and French (1996) and Asness et al. (2013) have demonstrated the robustness of these combined strategies across different markets and time periods. A notable study by "AQR [Capital](../c/capital.md) Management" titled "[Value](../v/value.md) and [Momentum](../m/momentum.md) Everywhere" provides substantial empirical evidence supporting the efficacy of [value](../v/value.md)-[momentum](../m/momentum.md) strategies across [asset](../a/asset.md) classes and geographies (AQR Capital Management).
 
 ## Practical Implementation
 
@@ -50,7 +50,7 @@ A simple implementation involves ranking [stocks](../s/stock.md) based on [momen
 
 ### Example 2: Factor-Based ETFs
 
-Several ETFs employ [value](../v/value.md)-[momentum](../m/momentum.md) strategies, providing investors with a turn-key solution. For instance, the "[iShares](../i/ishares.md) Edge MSCI USA [Value Factor](../v/value_factor.md) ETF" (VLUE) combines [value](../v/value.md) and [momentum](../m/momentum.md) factors ([iShares](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf)).
+Several ETFs employ [value](../v/value.md)-[momentum](../m/momentum.md) strategies, providing investors with a turn-key solution. For instance, the "[iShares](../i/ishares.md) Edge MSCI USA [Value Factor](../v/value_factor.md) ETF" (VLUE) combines [value](../v/value.md) and [momentum](../m/momentum.md) factors (iShares).
 
 ## Challenges and Risks
 
@@ -85,5 +85,5 @@ Combining additional factors such as quality, low [volatility](../v/volatility.m
 [Value](../v/value.md)-[Momentum](../m/momentum.md) strategies [offer](../o/offer.md) a compelling approach to [investing](../i/investing.md) by integrating the principles of [value](../v/value.md) and [momentum](../m/momentum.md). Through rigorous data analysis, [risk management](../r/risk_management.md), and continuous [optimization](../o/optimization.md), these strategies can provide [robust](../r/robust.md) [risk](../r/risk.md)-adjusted returns across different [market](../m/market.md) conditions. As technology and [data analytics](../d/data_analytics.md) continue to evolve, the efficacy and implementation of [value](../v/value.md)-[momentum](../m/momentum.md) strategies are likely to become even more sophisticated.
 
 **References:**
-- "[Value](../v/value.md) and [Momentum](../m/momentum.md) Everywhere" by AQR [Capital](../c/capital.md) Management: [AQR Capital Management](https://www.aqr.com/Insights/Research/White-Papers/Value-and-Momentum-Everywhere)
-- "[iShares](../i/ishares.md) Edge MSCI USA [Value Factor](../v/value_factor.md) ETF": [iShares](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf)
+- "[Value](../v/value.md) and [Momentum](../m/momentum.md) Everywhere" by AQR [Capital](../c/capital.md) Management: AQR Capital Management
+- "[iShares](../i/ishares.md) Edge MSCI USA [Value Factor](../v/value_factor.md) ETF": iShares

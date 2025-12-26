@@ -74,7 +74,7 @@ Consider a stock in a biotechnology sector experiencing a [downtrend](../d/downt
 
 ### Algorithmic Trading Implications
 
-In [algorithmic trading](../a/accountability.md), the [Upside](../u/upside.md) and Downside Gap Three Methods patterns can be coded into [trading algorithms](../t/trading_algorithms.md). By using historical data and predefined criteria, algorithms can automatically identify these patterns and execute trades without human intervention.
+In [algorithmic trading](../a/algorithmic_trading.md), the [Upside](../u/upside.md) and Downside Gap Three Methods patterns can be coded into [trading algorithms](../t/trading_algorithms.md). By using historical data and predefined criteria, algorithms can automatically identify these patterns and execute trades without human intervention.
 
 ### Example Algorithmic Code (Python)
 
@@ -107,9 +107,9 @@ Algo traders could incorporate this function within their trading system to auto
 
 For further reading and practical resources, traders, analysts, and developers can refer to the following:
 
-- [Investopedia](https://www.investopedia.com) – For comprehensive articles on [candlestick patterns](../c/candlestick_patterns.md) and [technical analysis](../t/technical_analysis.md).
-- [TradingView](https://www.tradingview.com) – A platform [offering](../o/offering.md) advanced charting tools and community-driven insights.
-- [QuantConnect](https://www.quantconnect.com) – For [algorithmic trading](../a/accountability.md) and [backtesting](../b/backtesting.md).
+- Investopedia – For comprehensive articles on [candlestick patterns](../c/candlestick_patterns.md) and [technical analysis](../t/technical_analysis.md).
+- TradingView – A platform [offering](../o/offering.md) advanced charting tools and community-driven insights.
+- QuantConnect – For [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md).
 
 ## Conclusion
 

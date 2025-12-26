@@ -4,7 +4,7 @@ A [utility](../u/utility.md) [patent](../p/patent.md) is one of the most common 
 
 ## Definition and Importance
 
-A [utility](../u/utility.md) [patent](../p/patent.md) provides the [patent](../p/patent.md) holder with the exclusive right to make, use, sell, and [import](../i/import.md) the patented invention for a period of up to 20 years from the filing date of the [patent](../p/patent.md) application, subject to the [payment](../p/payment.md) of maintenance fees. This exclusivity provides a competitive edge by enabling the holder to prevent others from profiting from the patented technology, thereby encouraging innovation and investment in R&D. 
+A [utility](../u/utility.md) [patent](../p/patent.md) provides the [patent](../p/patent.md) holder with the exclusive right to make, use, sell, and [import](../i/import.md) the patented invention for a period of up to 20 years from the filing date of the [patent](../p/patent.md) application, subject to the [payment](../p/payment.md) of maintenance fees. This exclusivity provides a competitive edge by enabling the holder to prevent others from profiting from the patented technology, thereby encouraging innovation and investment in R&D.
 
 ## Types of Utility Patents
 [Utility](../u/utility.md) patents can be broken down into several subtypes, depending on the nature of the invention:
@@ -106,4 +106,4 @@ For global companies, securing patents in key markets worldwide is essential. Di
 
 [Utility](../u/utility.md) patents are fundamental to the landscape of modern innovation and [commerce](../c/commerce.md). They provide a structured framework for protecting inventions, promoting advancements, and incentivizing investments in new technologies. From pharmaceuticals to high-tech gadgets, [utility](../u/utility.md) patents serve as a critical pillar supporting the competitive dynamics of numerous industries.
 
-For more information on [utility](../u/utility.md) patents, you can visit the official USPTO [website](https://www.uspto.gov).
+For more information on [utility](../u/utility.md) patents,

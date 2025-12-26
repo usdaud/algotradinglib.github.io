@@ -11,18 +11,18 @@ An option is a financial [derivative](../d/derivative.md) that provides the buye
 ### 1. Understanding the Basic Mechanism
 
 When you write an option, you're essentially giving someone else the right to take a specific action, while you are obligated to fulfill their decision:
-- **Writing a [Call Option](../c/call_option.md):** When you write a [call option](../c/call_option.md), you are giving the buyer the right to purchase an [underlying asset](../u/underlying_asset.md) from you at a specified price ([strike price](../s/strike_price.md)) until the option's [expiration date](../e/expiration_date.md). 
+- **Writing a [Call Option](../c/call_option.md):** When you write a [call option](../c/call_option.md), you are giving the buyer the right to purchase an [underlying asset](../u/underlying_asset.md) from you at a specified price ([strike price](../s/strike_price.md)) until the option's [expiration date](../e/expiration_date.md).
 - **Writing a [Put Option](../p/put.md):** When you write a [put option](../p/put.md), you are giving the buyer the right to sell you an [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md) until the [expiration date](../e/expiration_date.md).
 
 ### 2. Premium Collection
 
 When you write an option, you collect a [premium](../p/premium.md) from the buyer. This [premium](../p/premium.md) is the [income](../i/income.md) you earn from taking on the obligation of the contract. It is paid upfront and is yours to keep regardless of whether the option is exercised.
 
-### 3. Obligation to Fulfill 
+### 3. Obligation to Fulfill
 
 Your responsibility as the [writer](../w/writer.md) is to fulfill the terms of the contract if the option is exercised. For a [call option](../c/call_option.md), this means you must sell the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md). For a [put option](../p/put.md), you must buy the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md).
 
-## Strategies for Writing Options 
+## Strategies for Writing Options
 
 ### 1. Covered Call
 
@@ -96,7 +96,7 @@ Imagine you own 100 [shares](../s/shares.md) of a stock currently trading at $50
 - **Current situation:** Own 100 [shares](../s/shares.md) at $50/share.
 - **Write a [call option](../c/call_option.md):** [Strike price](../s/strike_price.md) $55, [premium](../p/premium.md) $2 per share.
 - **Outcome 1 (Stock price ≤ $55 at expiration):** The option expires worthless, and you keep the [shares](../s/shares.md) and the $200 [premium](../p/premium.md).
-- **Outcome 2 (Stock price > $55 at expiration):** The option is exercised. You sell the [shares](../s/shares.md) at $55 per share and still keep the $200 [premium](../p/premium.md). 
+- **Outcome 2 (Stock price > $55 at expiration):** The option is exercised. You sell the [shares](../s/shares.md) at $55 per share and still keep the $200 [premium](../p/premium.md).
 
 In both scenarios, you benefit from the [premium](../p/premium.md). However, the [upside](../u/upside.md) is capped if the stock appreciates significantly beyond the [strike price](../s/strike_price.md).
 
@@ -106,15 +106,15 @@ Numerous platforms facilitate [options](../o/options.md) trading, providing nece
 
 ### 1. Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive platform for [options](../o/options.md) trading with advanced tools for seasoned traders. More information can be found at [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive platform for [options](../o/options.md) trading with advanced tools for seasoned traders. More information can be found at Interactive Brokers.
 
 ### 2. Thinkorswim by TD Ameritrade
 
-Thinkorswim is a highly regarded platform that provides [robust](../r/robust.md) tools and resources for both beginner and advanced option traders. More details are available at [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+Thinkorswim is a highly regarded platform that provides [robust](../r/robust.md) tools and resources for both beginner and advanced option traders. More details are available at Thinkorswim.
 
 ### 3. E*TRADE
 
-[E*TRADE](../e/e_trade.md) provides a user-friendly platform for trading [options](../o/options.md), equipped with educational resources and tools for analyzing the [market](../m/market.md). Visit [E*TRADE](https://us.etrade.com/home) for more information.
+[E*TRADE](../e/e_trade.md) provides a user-friendly platform for trading [options](../o/options.md), equipped with educational resources and tools for analyzing the [market](../m/market.md). Visit E*TRADE for more information.
 
 ## Conclusion
 

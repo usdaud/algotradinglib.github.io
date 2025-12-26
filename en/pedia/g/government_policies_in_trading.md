@@ -60,19 +60,19 @@ The BCBS develops standards and guidelines for banking regulation, with a focus 
 
 The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) has been at the forefront of regulating [algorithmic trading](../a/algorithmic_trading.md). Following the 2010 "Flash Crash," where the Dow Jones plunged nearly 1,000 points within minutes before recovering, the SEC introduced several measures to address the risks associated with high-frequency trading. These measures included enhanced [market](../m/market.md) surveillance, the implementation of circuit breakers, and stricter reporting requirements for trading firms.
 
-For more information, visit the [U.S. SEC](https://www.sec.gov/).
+For more information, visit the U.S. SEC.
 
 ### The European MiFID II
 
 The [European Union](../e/european_union_(eu).md)'s Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) represents one of the most comprehensive regulatory frameworks for [financial markets](../f/financial_market.md), including [algorithmic trading](../a/algorithmic_trading.md). [MiFID II](../m/mifid_ii.md) enhances [transparency](../t/transparency.md), introduces stringent reporting requirements, and mandates the testing and validation of [trading algorithms](../t/trading_algorithms.md). The directive has had a significant impact on [market](../m/market.md) structure and trading practices within the EU.
 
-For more information, visit the [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu/).
+For more information, visit the European Securities and Markets Authority (ESMA).
 
 ### UK's Financial Conduct Authority (FCA)
 
 The UK's Financial Conduct Authority (FCA) plays a crucial role in overseeing trading activities, including [algorithmic trading](../a/algorithmic_trading.md). The FCA's approach includes [robust](../r/robust.md) [market](../m/market.md) surveillance, mandatory testing of algorithms, and the [provision](../p/provision.md) of a regulatory sandbox for innovative financial technologies. The FCA aims to foster a fair and effective financial [market](../m/market.md) while encouraging innovation and competition.
 
-For more information, visit the [UK Financial Conduct Authority (FCA)](https://www.fca.org.uk/).
+For more information, visit the UK Financial Conduct Authority (FCA).
 
 ## Conclusion
 

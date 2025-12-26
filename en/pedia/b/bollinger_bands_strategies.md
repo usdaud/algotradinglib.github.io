@@ -78,6 +78,6 @@ Combining [Bollinger Bands](../b/bollinger_bands.md) with the [Relative Strength
 
 [Bollinger Bands](../b/bollinger_bands.md) are versatile and effective tools for traders looking to gauge [market](../m/market.md) [volatility](../v/volatility.md) and identify potential trading opportunities. By incorporating strategies such as the Bollinger Band Squeeze, Bollinger Band Bounce, Double Bottoms and Tops, [Trend Trading](../t/trend_trading.md), and combining with RSI, traders can develop a [robust](../r/robust.md) trading plan suited to various [market](../m/market.md) conditions.
 
-For more information on [Bollinger Bands](../b/bollinger_bands.md) and other [technical analysis](../t/technical_analysis.md) tools, you can visit [John Bollinger's official website](https://www.bollingerbands.com/).
+For more information on [Bollinger Bands](../b/bollinger_bands.md) and other [technical analysis](../t/technical_analysis.md) tools,
 
-These strategies are not foolproof and should always be used in conjunction with other analysis tools and proper [risk management](../r/risk_management.md) techniques. Trading involves significant risks, and it's essential to perform thorough research and practice with virtual accounts before committing real [capital](../c/capital.md).
+These strategies are not foolproof and should always be used in conjunction with other analysis tools and proper [risk management](../r/risk_management.md) techniques. Trading involves significant risks, and it's essential to perform thorough research and practice with virtual accounts before committing real [capital](../c/capital.md).

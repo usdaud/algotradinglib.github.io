@@ -1,6 +1,6 @@
 # Trading Book
 
-A trading book is a portfolio of financial instruments held by a brokerage or financial institution. These instruments are intended to be actively traded to [profit](../p/profit.md) from short-term price movements. Unlike banking books, which [hold](../h/hold.md) assets intended to be held to [maturity](../m/maturity.md) and generate [interest](../i/interest.md), trading books are composed of assets held for resale. 
+A trading book is a portfolio of financial instruments held by a brokerage or financial institution. These instruments are intended to be actively traded to [profit](../p/profit.md) from short-term price movements. Unlike banking books, which [hold](../h/hold.md) assets intended to be held to [maturity](../m/maturity.md) and generate [interest](../i/interest.md), trading books are composed of assets held for resale.
 
 ## Financial Instruments in a Trading Book
 
@@ -40,7 +40,7 @@ Several [performance metrics](../p/performance_metrics.md) are used to evaluate 
 ## Technology in Trading Books
 
 The evolution of technology has significantly impacted the management and [execution](../e/execution.md) of trading book strategies. Key technologies include:
-- **[Algorithmic Trading](../a/accountability.md)**: The use of computer algorithms to execute trades based on predefined criteria. This can increase trading [efficiency](../e/efficiency.md) and reduce human error.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: The use of computer algorithms to execute trades based on predefined criteria. This can increase trading [efficiency](../e/efficiency.md) and reduce human error.
 - **High-Frequency Trading (HFT)**: Involves executing a large number of orders at extremely high speeds. HFT firms [leverage](../l/leverage.md) sophisticated algorithms and powerful computing resources to [capitalize](../c/capitalize.md) on minimal price discrepancies.
 - **[Machine Learning](../m/machine_learning.md)**: Advanced [machine learning](../m/machine_learning.md) techniques help in [predictive analytics](../p/predictive_analytics.md), [risk](../r/risk.md) assessment, and decision-making processes.
 
@@ -51,22 +51,22 @@ The evolution of technology has significantly impacted the management and [execu
 [Investment banks](../i/investment_bank_(ib).md), such as Goldman Sachs and JPMorgan Chase, maintain extensive trading books. These institutions engage in various trading activities, including [market](../m/market.md)-making, [proprietary trading](../p/proprietary_trading.md), and hedging.
 
 For more details:
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [JPMorgan Chase](https://www.jpmorganchase.com/)
+- Goldman Sachs
+- JPMorgan Chase
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds like Renaissance Technologies employ highly sophisticated [trading strategies](../t/trading_strategies.md), leveraging [quantitative models](../q/quantitative_models.md) and [algorithmic trading](../a/accountability.md) to manage their trading books effectively.
+[Hedge](../h/hedge.md) funds like Renaissance Technologies employ highly sophisticated [trading strategies](../t/trading_strategies.md), leveraging [quantitative models](../q/quantitative_models.md) and [algorithmic trading](../a/algorithmic_trading.md) to manage their trading books effectively.
 
 For more details:
-- [Renaissance Technologies](https://www.rentec.com/)
+- Renaissance Technologies
 
 ### Proprietary Trading Firms
 
 [Proprietary trading](../p/proprietary_trading.md) firms like Jane Street specialize in trading with their own [capital](../c/capital.md), using advanced [trading models](../t/trading_models.md) and algorithms to generate profits from [market](../m/market.md) inefficiencies.
 
 For more details:
-- [Jane Street](https://www.janestreet.com/)
+- Jane Street
 
 ## Conclusion
 

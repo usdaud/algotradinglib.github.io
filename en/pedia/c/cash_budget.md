@@ -19,7 +19,7 @@ Cash inflows include all sources of cash that an organization expects to receive
 ### 2. **Cash Outflows**
 
 Cash outflows specify where cash is expected to be spent. They typically include:
-  
+
 - **Operating Expenses**: Costs like salaries, rent, utilities, and supplies.
 - **Cost of Goods Sold (COGS)**: Payments for [raw materials](../r/raw_materials.md), [inventory](../i/inventory.md) purchases, and direct labor.
 - **[Capital](../c/capital.md) Expenditures**: Costs for purchasing [long-term assets](../l/long-term_assets.md) like machinery, equipment, or buildings.
@@ -100,10 +100,10 @@ Automating the cash budgeting process can significantly enhance accuracy and [ef
 
 Some notable cash budgeting software solutions include:
 
-- **QuickBooks** (Intuit): A popular choice for small to medium-sized businesses, [offering](../o/offering.md) comprehensive budgeting features. [QuickBooks Website](https://quickbooks.intuit.com)
-- **Xero**: Known for its user-friendly interface and [robust](../r/robust.md) [forecasting](../f/forecasting.md) capabilities. [Xero Website](https://www.xero.com)
-- **Sage Intacct**: Catering to larger organizations with more complex financial needs. [Sage Intacct Website](https://www.sageintacct.com)
-- **[Float](../f/float.md)**: A dedicated [cash flow](../c/cash_flow.md) [forecasting](../f/forecasting.md) tool that integrates with various [accounting](../a/accounting.md) software. [Float Website](https://www.floatapp.com)
+- **QuickBooks** (Intuit): A popular choice for small to medium-sized businesses, [offering](../o/offering.md)
+- **Xero**: Known for its user-friendly interface and [robust](../r/robust.md) [forecasting](../f/forecasting.md)
+- **Sage Intacct**: Catering to larger
+- **[Float](../f/float.md)**: A dedicated [cash flow](../c/cash_flow.md) [forecasting](../f/forecasting.md) tool that integrates with various [accounting](../a/accounting.md)
 
 ## Case Studies
 

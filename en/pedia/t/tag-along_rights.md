@@ -8,11 +8,11 @@ Tag-along rights entitle minority shareholders to sell their [shares](../s/share
 
 ### Example
 
-Suppose a company has three shareholders: [Shareholder](../s/shareholder.md) A holds 60% of the [shares](../s/shares.md), [Shareholder](../s/shareholder.md) B holds 25%, and [Shareholder](../s/shareholder.md) C holds 15%. If [Shareholder](../s/shareholder.md) A decides to sell their [shares](../s/shares.md) to an external buyer, tag-along rights would allow Shareholders B and C to sell their [shares](../s/shares.md) at the same price per share and under the same conditions. 
+Suppose a company has three shareholders: [Shareholder](../s/shareholder.md) A holds 60% of the [shares](../s/shares.md), [Shareholder](../s/shareholder.md) B holds 25%, and [Shareholder](../s/shareholder.md) C holds 15%. If [Shareholder](../s/shareholder.md) A decides to sell their [shares](../s/shares.md) to an external buyer, tag-along rights would allow Shareholders B and C to sell their [shares](../s/shares.md) at the same price per share and under the same conditions.
 
 ## Legal Framework and Incorporation in Shareholders Agreements
 
-Tag-along rights are usually embedded in shareholders agreements, which outline the rights and [obligations](../o/obligation.md) of the shareholders. These agreements are often negotiated at the time of investment or during significant corporate [restructuring](../r/restructuring.md) events. 
+Tag-along rights are usually embedded in shareholders agreements, which outline the rights and [obligations](../o/obligation.md) of the shareholders. These agreements are often negotiated at the time of investment or during significant corporate [restructuring](../r/restructuring.md) events.
 
 ### Key Legal Elements
 
@@ -31,9 +31,9 @@ During the drafting of shareholders agreements, attention must be paid to clarit
 ## Advantages of Tag-Along Rights
 
 1. **Protection for Minority Shareholders**: These rights provide a level of financial [security](../s/security.md), preventing minority shareholders from being left behind in potentially disadvantageous positions.
-  
+
 2. **Fair [Valuation](../v/valuation.md)**: Ensures that minority shareholders receive a fair price for their [shares](../s/shares.md) in the event of a [sale](../s/sale.md).
-  
+
 3. **Increased Investment Appeal**: The inclusion of tag-along rights can make a company more attractive to potential investors by providing a clear [exit strategy](../e/exit_strategy.md).
 
 4. **Marketability of [Shares](../s/shares.md)**: Enhances the marketability of [shares](../s/shares.md) by aligning the interests of majority and minority shareholders during potential sales.
@@ -85,7 +85,7 @@ Tag-along rights have broader implications for [corporate governance](../c/corpo
 ### Strategic Considerations
 
 1. **Aligning Interests**: By ensuring that minority shareholders can participate in significant sales, corporate strategies can be aligned, fostering a cooperative rather than adversarial relationship.
-  
+
 2. **Preemptive Negotiations**: Tag-along rights necessitate preemptive negotiations and planning, thus reducing the [risk](../r/risk.md) of future disputes.
 
 3. **Monitoring and Compliance**: Effective [corporate governance](../c/corporate_governance.md) requires regular monitoring and compliance checks to ensure that tag-along provisions are upheld as stipulated in agreements.

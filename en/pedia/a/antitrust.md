@@ -79,10 +79,7 @@ Antitrust laws play a crucial role in safeguarding the fairness and [efficiency]
 ## References
 
 ### Federal Trade Commission
-- [Website](https://www.ftc.gov/)
 
 ### Securities and Exchange Commission
-- [Website](https://www.sec.gov/)
 
 ### Department of Justice - Antitrust Division
-- [Website](https://www.justice.gov/atr)

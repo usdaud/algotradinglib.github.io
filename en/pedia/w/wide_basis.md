@@ -69,8 +69,8 @@ Understanding wide [basis](../b/basis.md) is crucial for [market](../m/market.md
 
 ### Further Reading
 
-- [CME Group: Understanding Basis](https://www.cmegroup.com/education/beginners/understanding-basis.html)
-- [Investopedia: Basis](https://www.investopedia.com/terms/b/basis.asp)
-- [Federal Reserve Bank of St. Louis: Basis Definition](https://www.stlouisfed.org/glossary)
+- CME Group: Understanding Basis
+- Investopedia: Basis
+- Federal Reserve Bank of St. Louis: Basis Definition
 
 By diving deep into the concept of [basis](../b/basis.md), especially wide [basis](../b/basis.md), traders, investors, and hedgers can better navigate the complexities of the [commodity](../c/commodity.md) and [financial markets](../f/financial_market.md), making more informed and strategic decisions.

@@ -102,7 +102,7 @@ Stagnation often leads to low or declining [interest](../i/interest.md) rates, w
 
 ## Stagnation and Algotrading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, can [offer](../o/offer.md) unique opportunities and challenges during periods of stagnation.
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, can [offer](../o/offer.md) unique opportunities and challenges during periods of stagnation.
 
 ### Opportunities
 
@@ -120,6 +120,6 @@ Using advanced [data analytics](../d/data_analytics.md) and [machine learning](.
 
 ## Conclusion
 
-Economic stagnation poses significant challenges across various sectors, but understanding its causes, characteristics, and implications can help in formulating effective strategies to mitigate its adverse effects. Whether through prudent policy measures, innovative [business](../b/business.md) strategies, or advanced investment techniques like [algorithmic trading](../a/accountability.md), stakeholders can navigate the complexities of a stagnant economic environment. By closely monitoring [economic indicators](../e/economic_indicators.md) and adapting to changing conditions, it is possible to not only weather the challenges but also find opportunities for growth and stability.
+Economic stagnation poses significant challenges across various sectors, but understanding its causes, characteristics, and implications can help in formulating effective strategies to mitigate its adverse effects. Whether through prudent policy measures, innovative [business](../b/business.md) strategies, or advanced investment techniques like [algorithmic trading](../a/algorithmic_trading.md), stakeholders can navigate the complexities of a stagnant economic environment. By closely monitoring [economic indicators](../e/economic_indicators.md) and adapting to changing conditions, it is possible to not only weather the challenges but also find opportunities for growth and stability.
 
-For further reading, you might explore materials from financial institutions or notable companies in the [financial sector](../f/financial_sector.md). For example, [Goldman Sachs’ insights](https://www.goldmansachs.com/insights/) provide extensive resources on various [economic conditions](../e/economic_conditions.md) and strategies.
+For further reading, you might explore materials from financial institutions or notable companies in the [financial sector](../f/financial_sector.md). For example, Goldman Sachs’ insights provide extensive resources on various [economic conditions](../e/economic_conditions.md) and strategies.

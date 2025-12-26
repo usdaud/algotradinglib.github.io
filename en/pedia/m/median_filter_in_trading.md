@@ -6,12 +6,12 @@ The [median](../m/median.md) filter is a non-linear digital filtering technique,
 
 1. **Definition**: The [median](../m/median.md) filter is a data processing tool used to analyze a sequence of numbers by replacing each number with the [median](../m/median.md) of its neighbors. The [median](../m/median.md) is the middle [value](../v/value.md) in a sorted list of numbers.
 
-2. **Mathematical Notation**: If the filter window size is `k`, then for each element `x[i]` in the [time series](../t/time_series.md) `X`, we consider the subset `X[i - (k-1)/2, ..., i, ..., i + (k-1)/2]`. The [median](../m/median.md) filter output `y[i]` is then:
-   
-   \[
-   y[i] = \text{[median](../m/median.md)}(X[i - (k-1)/2], \ldots, X[i], \ldots, X[i + (k-1)/2])
-   \]
-   
+2. **Mathematical Notation**: If the filter window size is `k`, then for each element `x[i]` in the [time series](../t/time_series.md) `X`, we consider the subset `X[i - (k-1)/2,..., i,..., i + (k-1)/2]`. The [median](../m/median.md) filter output `y[i]` is then:
+
+ \[
+ y[i] = \text{[median](../m/median.md)}(X[i - (k-1)/2], \ldots, X[i], \ldots, X[i + (k-1)/2])
+ \]
+
 3. **Non-linearity**: Unlike linear filters, the [median](../m/median.md) filter does not weight the elements within the window in a proportional manner but selects the [median](../m/median.md) [value](../v/value.md). This property makes it particularly effective at preserving edges in time-series data, such as sharp price movements.
 
 ### Practical Applications in Trading
@@ -27,9 +27,9 @@ The [median](../m/median.md) filter is a non-linear digital filtering technique,
 1. **Choosing the Window Size**: The choice of window size `k` is crucial. A small `k` may not filter out enough [noise](../n/noise.md), while a large `k` might smooth out important data features. Traders often use a window size that balances [noise](../n/noise.md) reduction and data fidelity.
 
 2. **Edge Handling**: Handling the edges of the [time series](../t/time_series.md) (i.e., the beginning and end where a full window cannot be applied) can be challenging. Common strategies include:
-   - Extending the series using boundary values.
-   - Mirroring the series around the edges.
-   - Using smaller windows at the edges.
+ - Extending the series using boundary values.
+ - Mirroring the series around the edges.
+ - Using smaller windows at the edges.
 
 3. **[Algorithm Efficiency](../a/algorithm_efficiency.md)**: The [median](../m/median.md) computation can be expensive. Efficient algorithms and data structures (such as heaps or trees) can reduce computation time, particularly for large datasets.
 
@@ -54,14 +54,14 @@ print(smoothed_series)
 ### Advanced Considerations
 
 1. **Adaptive [Median](../m/median.md) Filters**: These filters adapt the window size based on local [statistics](../s/statistics.md), potentially improving performance in non-stationary environments.
-    
+
 2. **Hybrid Filters**: Combining [median](../m/median.md) filters with other techniques (e.g., wavelet transforms) can enhance their effectiveness.
 
 3. **Performance Monitoring**: Continuous monitoring and adjustment of the filter parameters based on [performance metrics](../p/performance_metrics.md) is crucial for maintaining efficacy.
 
 ### Real-World Case Studies
 
-1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like [Two Sigma](https://www.twosigma.com/) and [Virtu Financial](https://www.virtu.com/) utilize sophisticated filtering techniques, including [median](../m/median.md) filters, to enhance [signal processing](../s/signal_processing_in_trading.md) in their [trading strategies](../t/trading_strategies.md).
+1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like Two Sigma and Virtu Financial utilize sophisticated filtering techniques, including [median](../m/median.md) filters, to enhance [signal processing](../s/signal_processing_in_trading.md) in their [trading strategies](../t/trading_strategies.md).
 
 2. **Academic Research**: Numerous studies have examined the effectiveness of [median](../m/median.md) filters in trading. For instance, the paper "[Median](../m/median.md) Filtering as a Preprocessing Tool in [Financial Time Series](../f/financial_time_series.md) Prediction" investigates its use in [machine learning](../m/machine_learning.md) models for predictive trading.
 

@@ -7,19 +7,19 @@ Numerical differentiation is a computational technique used to estimate the [der
 Numerical differentiation seeks to approximate the [derivative](../d/derivative.md) of a function at a given point using finite differences. The basic idea involves computing the change in the function values over small intervals of the independent variable. There are several common methods for achieving this:
 
 1. **Forward Difference Method**: This method uses the difference between the function [value](../v/value.md) at the current point and the subsequent point.
-   \[
-   f'(x) \approx \frac{f(x+h) - f(x)}{h}
-   \]
+ \[
+ f'(x) \approx \frac{f(x+h) - f(x)}{h}
+ \]
 
 2. **Backward Difference Method**: This is similar to the forward difference but uses the difference between the function [value](../v/value.md) at the current point and the preceding point.
-   \[
-   f'(x) \approx \frac{f(x) - f(x-h)}{h}
-   \]
+ \[
+ f'(x) \approx \frac{f(x) - f(x-h)}{h}
+ \]
 
 3. **Central Difference Method**: This method is typically more accurate than the forward and backward methods and uses the average of the differences between the subsequent and preceding points.
-   \[
-   f'(x) \approx \frac{f(x+h) - f(x-h)}{2h}
-   \]
+ \[
+ f'(x) \approx \frac{f(x+h) - f(x-h)}{2h}
+ \]
 
 In these formulas, \(h\) represents a small step size, and \(f(x)\) is the function to be differentiated.
 
@@ -32,18 +32,18 @@ Numerical differentiation can be directly applied to time-series data of [asset]
 [Momentum indicators](../m/momentum_indicators.md) measure the rate at which prices change and are often utilized to identify potential [trading signals](../t/trading_signals.md). Numerical differentiation can provide a more precise estimate of [momentum](../m/momentum.md) by calculating the [derivative](../d/derivative.md) of the price with respect to time.
 
 For example, a [momentum](../m/momentum.md) [trader](../t/trader.md) might use the following formula to calculate the [momentum](../m/momentum.md):
-   \[
-   M_t = P_t - P_{t-n}
-   \]
+ \[
+ M_t = P_t - P_{t-n}
+ \]
 Where:
 - \(M_t\) is the [momentum](../m/momentum.md) at time \(t\),
 - \(P_t\) is the [asset](../a/asset.md) price at time \(t\),
 - \(P_{t-n}\) is the [asset](../a/asset.md) price at time \(t-n\).
 
 Using a central difference method, a more accurate [momentum](../m/momentum.md) calculation might be:
-   \[
-   M_t \approx \frac{P_{t+h} - P_{t-h}}{2h}
-   \]
+ \[
+ M_t \approx \frac{P_{t+h} - P_{t-h}}{2h}
+ \]
 
 #### Estimating Volatility
 
@@ -99,8 +99,8 @@ While numerical differentiation offers valuable insights, it comes with several 
 
 Several financial institutions and trading firms employ numerical differentiation as part of their [algorithmic trading](../a/algorithmic_trading.md) platforms. For instance:
 
-- [Jane Street](https://www.janestreet.com/): A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms for trading across various [asset](../a/asset.md) classes. Numerical differentiation is likely a component of their analytical and trading processes.
-- [DRW Trading Group](https://www.drw.com/): Another [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) known for its reliance on [quantitative analysis](../q/quantitative_analysis.md) and high-frequency [trading strategies](../t/trading_strategies.md), where numerical differentiation can provide an edge in interpreting [market](../m/market.md) data.
+- Jane Street: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms for trading across various [asset](../a/asset.md) classes. Numerical differentiation is likely a component of their analytical and trading processes.
+- DRW Trading Group: Another [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) known for its reliance on [quantitative analysis](../q/quantitative_analysis.md) and high-frequency [trading strategies](../t/trading_strategies.md), where numerical differentiation can provide an edge in interpreting [market](../m/market.md) data.
 
 ### Conclusion
 

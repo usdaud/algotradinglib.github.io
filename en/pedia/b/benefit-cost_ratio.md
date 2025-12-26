@@ -39,7 +39,7 @@ Costs can be categorized as follows:
 
 - **Initial [Capital](../c/capital.md) Costs**: The upfront expenditure needed to start the project.
 - **Operating Costs**: Recurring costs required to maintain and run the project.
-- **Maintenance Costs**: Future expenses necessary to keep the project functioning optimally. 
+- **Maintenance Costs**: Future expenses necessary to keep the project functioning optimally.
 
 In some advanced analyses, costs may also include opportunity costs, reflecting the [value](../v/value.md) of the next best alternative forgone to pursue the project.
 
@@ -48,14 +48,14 @@ In some advanced analyses, costs may also include opportunity costs, reflecting 
 Consider a proposed public transportation project that aims to reduce city traffic congestion. The benefits and costs are estimated as follows:
 
 - **Benefits**:
-  - Reduced travel time for commuters: $50 million per year
-  - Lower vehicle operating costs: $20 million per year
-  - Decreased pollution and health costs: $10 million per year
+ - Reduced travel time for commuters: $50 million per year
+ - Lower vehicle operating costs: $20 million per year
+ - Decreased pollution and health costs: $10 million per year
 
 - **Costs**:
-  - Initial construction costs: $100 million
-  - Annual operating costs: $20 million
-  - Annual maintenance costs: $5 million
+ - Initial construction costs: $100 million
+ - Annual operating costs: $20 million
+ - Annual maintenance costs: $5 million
 
 Assuming the project has a lifespan of 10 years, the total benefits and costs can be calculated.
 
@@ -125,13 +125,13 @@ While BCR is a valuable metric for assessing profitability, it does not account 
 A government is considering constructing a high-speed rail network. Preliminary estimates are as follows:
 
 - **Benefits**:
-  - Reduction in travel time: $1 billion annually
-  - Lower transportation costs: $300 million annually
-  - Environmental benefits: $200 million annually
+ - Reduction in travel time: $1 billion annually
+ - Lower transportation costs: $300 million annually
+ - Environmental benefits: $200 million annually
 
 - **Costs**:
-  - Initial construction: $10 billion
-  - Annual operating and maintenance: $1 billion
+ - Initial construction: $10 billion
+ - Annual operating and maintenance: $1 billion
 
 Assuming a 30-year lifespan:
 
@@ -154,12 +154,12 @@ A BCR slightly above 1 indicates the project is marginally beneficial, but addit
 A tech company is considering the launch of a new software product:
 
 - **Benefits**:
-  - Expected annual sales [revenue](../r/revenue.md): $50 million
-  - Cost savings from operational efficiencies: $10 million annually
+ - Expected annual sales [revenue](../r/revenue.md): $50 million
+ - Cost savings from operational efficiencies: $10 million annually
 
 - **Costs**:
-  - Development and [marketing](../m/marketing.md) expenses: $100 million
-  - Annual operational costs: $10 million
+ - Development and [marketing](../m/marketing.md) expenses: $100 million
+ - Annual operational costs: $10 million
 
 Assuming a 5-year product cycle:
 

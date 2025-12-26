@@ -12,7 +12,7 @@ Forex trading involves the simultaneous buying of one [currency](../c/currency.m
 - **Spread:** The difference between the [bid](../b/bid.md) (buy) price and the ask (sell) price. It represents the [broker](../b/broker.md)'s [profit](../p/profit.md).
 - **[Leverage](../l/leverage.md):** The ability to control a large position using a small amount of [capital](../c/capital.md). [Leverage](../l/leverage.md) magnifies both potential profits and potential losses.
 - **[Margin](../m/margin.md):** The amount of [money](../m/money.md) required to [open](../o/open.md) a leveraged position.
-  
+
 ### Major Currency Pairs
 
 Forex major [currency](../c/currency.md) pairs are the most traded currencies in the world. They include:
@@ -62,7 +62,7 @@ The rise of technology has revolutionized Forex trading, making it more accessib
 
 ### Trading Platforms
 
-Modern trading platforms like MetaTrader 4 (MT4) and MetaTrader 5 (MT5) [offer](../o/offer.md) advanced charting tools, [automated trading systems](../a/automated_trading_systems.md), and user-friendly interfaces. Brokers like [OANDA](https://www.oanda.com/), [IG](https://www.ig.com/), and [Forex.com](https://www.forex.com/) provide these platforms to their clients.
+Modern trading platforms like MetaTrader 4 (MT4) and MetaTrader 5 (MT5) [offer](../o/offer.md) advanced charting tools, [automated trading systems](../a/automated_trading_systems.md), and user-friendly interfaces. Brokers like OANDA, IG, and Forex.com provide these platforms to their clients.
 
 ### Algorithmic Trading
 
@@ -74,7 +74,7 @@ Application Programming Interfaces (APIs) enable traders to automate their [trad
 
 ### Mobile Trading
 
-Mobile apps have made it possible to [trade](../t/trade.md) Forex from anywhere, at any time. These apps [offer](../o/offer.md) full functionality, including charting tools, news feeds, and [trade](../t/trade.md) [execution](../e/execution.md). Popular mobile trading apps include those by brokers such as [eToro](https://www.etoro.com/), [Plus500](https://www.plus500.com/), and [XTB](https://www.xtb.com/).
+Mobile apps have made it possible to [trade](../t/trade.md) Forex from anywhere, at any time. These apps [offer](../o/offer.md) full functionality, including charting tools, news feeds, and [trade](../t/trade.md) [execution](../e/execution.md). Popular mobile trading apps include those by brokers such as eToro, Plus500, and XTB.
 
 ## Fundamental and Technical Analysis in Forex
 

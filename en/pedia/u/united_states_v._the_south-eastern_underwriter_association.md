@@ -55,7 +55,6 @@ The case illustrates how legal decisions can have widespread economic implicatio
 
 ## Conclusion
 
-United States v. The South-Eastern [Underwriter](../u/underwriter.md) Association remains a cornerstone case in the annals of U.S. legal history, particularly in the realms of [commerce](../c/commerce.md) and [antitrust](../a/antitrust.md) law. It serves as a reminder of the evolving nature of legal interpretations and their profound impact on [industry](../i/industry.md) practices and regulatory frameworks. The ruling not only transformed the [insurance](../i/insurance.md) sector but also reinforced the broader principle that businesses engaged in interstate [commerce](../c/commerce.md) are subject to federal regulation, thus ensuring fair competition and consumer protection. 
+United States v. The South-Eastern [Underwriter](../u/underwriter.md) Association remains a cornerstone case in the annals of U.S. legal history, particularly in the realms of [commerce](../c/commerce.md) and [antitrust](../a/antitrust.md) law. It serves as a reminder of the evolving nature of legal interpretations and their profound impact on [industry](../i/industry.md) practices and regulatory frameworks. The ruling not only transformed the [insurance](../i/insurance.md) sector but also reinforced the broader principle that businesses engaged in interstate [commerce](../c/commerce.md) are subject to federal regulation, thus ensuring fair competition and consumer protection.
 
-For further reading and official case details, you may refer to the case documentation available at [Oyez](https://www.oyez.org/cases/1940-1955/322us533).
-
+For further reading and official case details, you may refer to the case documentation available at Oyez.

@@ -34,13 +34,7 @@ Microeconomic indicators focus on individual sectors or industries within the [e
 
 Accurate and timely economic data is crucial for effective analysis. Some of the primary sources of economic data include:
 
-- **International Monetary [Fund](../f/fund.md) (IMF)**: https://www.imf.org
-- **[World Bank](../w/world_bank.md)**: https://www.worldbank.org
-- **Federal Reserve Economic Data (FRED)**: https://fred.stlouisfed.org
-- **[Bloomberg](../b/bloomberg.md)**: https://www.[bloomberg](../b/bloomberg.md).com
-- **[Reuters](../r/reuters.md)**: https://www.[reuters](../r/reuters.md).com
-- **Bureau of Economic Analysis (BEA)**: https://www.bea.gov
-
+- **International Monetary [Fund](../f/fund.md) (IMF)**- **[World Bank](../w/world_bank.md)**- **Federal Reserve Economic Data (FRED)**- **[Bloomberg](../b/bloomberg.md)**- **[Reuters](../r/reuters.md)**- **Bureau of Economic Analysis (BEA)**
 ### 4. Statistical Techniques and Models
 
 Analyzing economic data requires [robust](../r/robust.md) statistical techniques and models to parse large datasets and extract meaningful patterns. Common techniques include:
@@ -63,7 +57,7 @@ Economic data analysis faces several challenges, including:
 - **[Overfitting](../o/overfitting.md)**: Building models that are too complex might fit historical data well but [fail](../f/fail.md) to predict future outcomes.
 - **Regulatory Changes**: Policy changes can alter economic landscapes, requiring constant model updates.
 
-### 7. Use Case: GDP and Currency Trading 
+### 7. Use Case: GDP and Currency Trading
 
 An example of economic data analysis in action is the use of GDP data in [currency trading](../c/currency_trading_strategies.md). An algorithm could be designed to [trade](../t/trade.md) forex based on anticipated changes in GDP. For instance, if advanced GDP estimates suggest [robust](../r/robust.md) growth, the algorithm might predict an appreciation in the country's [currency](../c/currency.md) and take long positions.
 

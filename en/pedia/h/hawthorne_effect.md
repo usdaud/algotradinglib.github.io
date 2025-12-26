@@ -1,9 +1,9 @@
 # Hawthorne Effect
 
 ## Introduction
-The Hawthorne Effect refers to a phenomenon where individuals modify their behavior in response to being observed. Named after a series of studies conducted at the Western Electric Hawthorne Works in Illinois, this effect has far-reaching implications across various domains, from organizational behavior to experimental research. 
+The Hawthorne Effect refers to a phenomenon where individuals modify their behavior in response to being observed. Named after a series of studies conducted at the Western Electric Hawthorne Works in Illinois, this effect has far-reaching implications across various domains, from organizational behavior to experimental research.
 
-In the realm of trading, and more specifically [algorithmic trading](../a/accountability.md), understanding the Hawthorne Effect can be critical. The inherent complexities of [financial markets](../f/financial_market.md) and the reliance on human and automated interactions make it imperative to consider how awareness of observation alters [performance metrics](../p/performance_metrics.md) and trading behaviors.
+In the realm of trading, and more specifically [algorithmic trading](../a/algorithmic_trading.md), understanding the Hawthorne Effect can be critical. The inherent complexities of [financial markets](../f/financial_market.md) and the reliance on human and automated interactions make it imperative to consider how awareness of observation alters [performance metrics](../p/performance_metrics.md) and trading behaviors.
 
 ## Background of the Hawthorne Effect
 
@@ -26,7 +26,7 @@ In the context of trading, algorithmic or otherwise, there is a growing body of 
 ## Impact on Algorithm Development
 
 ### Behavioral Changes
-In financial institutions where [algorithmic trading](../a/accountability.md) plays a prominent role, the Hawthorne Effect can manifest in various forms:
+In financial institutions where [algorithmic trading](../a/algorithmic_trading.md) plays a prominent role, the Hawthorne Effect can manifest in various forms:
 - **Algorithm Tuning**: Quantitative analysts might excessively tweak algorithms to show improved backtest results when they know senior management is closely observing.
 - **Conservative vs. Aggressive Strategies**: Awareness of scrutiny can persuade developers to adopt more conservative strategies to avoid anomalies that could draw negative attention.
 
@@ -58,8 +58,8 @@ For [risk](../r/risk.md) calibration and strategy validation, it's necessary to 
 [Multiple](../m/multiple.md) trading firms and [hedge](../h/hedge.md) funds have implicitly or explicitly encountered facets of the Hawthorne Effect. However, specific documented cases are less publicized due to proprietary constraints. Nonetheless, the principles can be derived and inferred from common [industry](../i/industry.md) practices.
 
 ### Monitoring Systems
-For instance, firms like Jane Street or Renaissance Technologies could potentially consider the Hawthorne Effect within their [in-house](../i/in-house.md) monitoring frameworks, ensuring that continuous performance [appraisal](../a/appraisal.md) does not lead to detrimental behavioral shifts ([Jane Street](https://www.janestreet.com/), [Renaissance Technologies](https://www.rentec.com/)).
+For instance, firms like Jane Street or Renaissance Technologies could potentially consider the Hawthorne Effect within their [in-house](../i/in-house.md) monitoring frameworks, ensuring that continuous performance [appraisal](../a/appraisal.md) does not lead to detrimental behavioral shifts (Jane Street, Renaissance Technologies).
 
 ## Conclusion
 
-Understanding and [accounting](../a/accounting.md) for the Hawthorne Effect in trading, particularly in [algorithmic trading](../a/accountability.md), is vital for ensuring accurate performance assessments and the development of reliable [trading strategies](../t/trading_strategies.md). By acknowledging this psychological phenomenon, trading firms can create more [robust](../r/robust.md) systems and more accurately gauge the true performance of their trading operations.
+Understanding and [accounting](../a/accounting.md) for the Hawthorne Effect in trading, particularly in [algorithmic trading](../a/algorithmic_trading.md), is vital for ensuring accurate performance assessments and the development of reliable [trading strategies](../t/trading_strategies.md). By acknowledging this psychological phenomenon, trading firms can create more [robust](../r/robust.md) systems and more accurately gauge the true performance of their trading operations.

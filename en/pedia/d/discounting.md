@@ -1,6 +1,6 @@
 # Discounting
 
-In the realm of [finance](../f/finance.md) and investment, discounting refers to the process of determining the [present value](../p/present_value.md) of a [payment](../p/payment.md) or stream of payments that is to be received in the future. This concept is fundamental for evaluating future cash flows in terms of their worth today, and it plays a crucial role in fields such as [corporate finance](../c/corporate_finance.md), [investment banking](../i/investment_banking.md), [bond](../b/bond.md) pricing, and project [valuation](../v/valuation.md). 
+In the realm of [finance](../f/finance.md) and investment, discounting refers to the process of determining the [present value](../p/present_value.md) of a [payment](../p/payment.md) or stream of payments that is to be received in the future. This concept is fundamental for evaluating future cash flows in terms of their worth today, and it plays a crucial role in fields such as [corporate finance](../c/corporate_finance.md), [investment banking](../i/investment_banking.md), [bond](../b/bond.md) pricing, and project [valuation](../v/valuation.md).
 
 ## Understanding Discounting
 
@@ -120,7 +120,7 @@ There are advanced financial tools and software available to assist in discounti
 
 ### Microsoft Excel
 
-Excel provides various functions like PV, NPV, and RATE, which can be used to perform discounting calculations easily. 
+Excel provides various functions like PV, NPV, and RATE, which can be used to perform discounting calculations easily.
 
 ### Financial Calculators
 
@@ -138,19 +138,19 @@ Software packages like [Bloomberg Terminal](../b/bloomberg_terminal.md) and [Fac
 
 ### Morningstar
 
-[Morningstar](../m/morningstar.md) is a leading provider of independent investment research, [offering](../o/offering.md) tools for DCF analysis and [valuation](../v/valuation.md). More information can be found at [Morningstar](https://www.morningstar.com).
+[Morningstar](../m/morningstar.md) is a leading provider of independent investment research, [offering](../o/offering.md) tools for DCF analysis and [valuation](../v/valuation.md). More information can be found at Morningstar.
 
 ### Bloomberg LP
 
-[Bloomberg](../b/bloomberg.md) provides a wide [range](../r/range.md) of financial services, including tools for [bond](../b/bond.md) pricing and discounting via the [Bloomberg Terminal](../b/bloomberg_terminal.md). Details can be accessed at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal).
+[Bloomberg](../b/bloomberg.md) provides a wide [range](../r/range.md) of financial services, including tools for [bond](../b/bond.md) pricing and discounting via the [Bloomberg Terminal](../b/bloomberg_terminal.md). Details can be accessed at Bloomberg.
 
 ### FactSet
 
-[FactSet](../f/factset.md) offers financial data and analytic applications for investment professionals, including tools for DCF and NPV analysis. Visit [FactSet](https://www.factset.com) for more information.
+[FactSet](../f/factset.md) offers financial data and analytic applications for investment professionals, including tools for DCF and NPV analysis. Visit FactSet for more information.
 
 ### MATLAB Financial Toolbox
 
-MATLAB's Financial Toolbox provides functions for discounting, [bond](../b/bond.md) pricing, and [portfolio management](../p/par.md), which are useful for academic and professional [finance](../f/finance.md) work. Explore more at [MATLAB Financial Toolbox](https://www.mathworks.com/products/financial.html).
+MATLAB's Financial Toolbox provides functions for discounting, [bond](../b/bond.md) pricing, and [portfolio management](../p/par.md), which are useful for academic and professional [finance](../f/finance.md) work. Explore more at MATLAB Financial Toolbox.
 
 ## Conclusion
 

@@ -48,5 +48,3 @@ ThinkMarkets is regulated by several top-tier financial authorities, ensuring a 
 - Australian Securities and Investments [Commission](../c/commission.md) (ASIC)
 - [Financial Sector](../f/financial_sector.md) Conduct Authority (FSCA) in South Africa
 
-## Website
-For more information and to start trading, visit the official ThinkMarkets website: [ThinkMarkets](https://www.thinkmarkets.com)

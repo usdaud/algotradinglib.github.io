@@ -49,19 +49,19 @@ The ski rental problem exemplifies the balance between renting and buying. Given
 
 ### Online Ad Allocation
 
-Online ad allocation involves assigning ad slots to advertisers in real-time as users [load](../l/load.md) web pages. This problem is highly relevant in [digital marketing](../d/digital_marketing.md), and online algorithms are used to balance immediate [revenue](../r/revenue.md) versus long-term benefits. Companies like Google [handle](../h/handle.md) these situations using online algorithms ([Google Ads](https://ads.google.com)).
+Online ad allocation involves assigning ad slots to advertisers in real-time as users [load](../l/load.md) web pages. This problem is highly relevant in [digital marketing](../d/digital_marketing.md), and online algorithms are used to balance immediate [revenue](../r/revenue.md) versus long-term benefits. Companies like Google [handle](../h/handle.md) these situations using online algorithms (Google Ads).
 
 ### Ride-Hailing Services
 
-Ride-hailing services such as Uber must match drivers to ride requests dynamically. The goal is to minimize the waiting time for passengers and [idle time](../i/idle_time.md) for drivers. Uber employs online algorithms to optimize this matching process ([Uber](https://www.uber.com)).
+Ride-hailing services such as Uber must match drivers to ride requests dynamically. The goal is to minimize the waiting time for passengers and [idle time](../i/idle_time.md) for drivers. Uber employs online algorithms to optimize this matching process (Uber).
 
 ### Cloud Resource Management
 
-In [cloud computing](../c/cloud_computing_in_trading.md), resource management involves the dynamic allocation of computational resources. Companies like Amazon Web Services (AWS) use online algorithms to allocate instances to tasks submitted by customers ([AWS](https://aws.amazon.com)). The goal is to maximize resource utilization while minimizing cost and ensuring quality of service.
+In [cloud computing](../c/cloud_computing_in_trading.md), resource management involves the dynamic allocation of computational resources. Companies like Amazon Web Services (AWS) use online algorithms to allocate instances to tasks submitted by customers (AWS). The goal is to maximize resource utilization while minimizing cost and ensuring quality of service.
 
 ### Stock Market Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) involves making transactions in [financial markets](../f/financial_market.md) using pre-programmed codes, where decisions must be made in real time in response to [market](../m/market.md) movements. Companies such as Two Sigma and Renaissance Technologies utilize sophisticated online algorithms to manage portfolios and execute trades ([Two Sigma](https://www.twosigma.com), [Renaissance Technologies](https://www.rentec.com)).
+[Algorithmic trading](../a/algorithmic_trading.md) involves making transactions in [financial markets](../f/financial_market.md) using pre-programmed codes, where decisions must be made in real time in response to [market](../m/market.md) movements. Companies such as Two Sigma and Renaissance Technologies utilize sophisticated online algorithms to manage portfolios and execute trades (Two Sigma, Renaissance Technologies).
 
 ## Example Algorithms and Their Competitive Ratios
 

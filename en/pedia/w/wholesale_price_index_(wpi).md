@@ -57,7 +57,7 @@ While both WPI and CPI measure [inflation](../i/inflation.md), they differ signi
 Many countries maintain their own WPI metrics, tailored to their specific economic contexts. Examples include:
 
 - **United States**: The Producer Price [Index](../i/index_instrument.md) (PPI) is used, which is similar to WPI.
-- **India**: India's WPI is published by the Office of the Economic Adviser, Ministry of [Commerce](../c/commerce.md) and [Industry](../i/industry.md). The official website is [eaindustry.nic.in](https://eaindustry.nic.in/download_data_1112.asp).
+- **India**: India's WPI is published by the Office of the Economic Adviser, Ministry of [Commerce](../c/commerce.md) and [Industry](../i/industry.md). The public materials is online resource.
 - **Japan**: Japan uses the Corporate Goods Price [Index](../i/index_instrument.md) (CGPI).
 
 ## Historical Trends

@@ -81,15 +81,15 @@ To manage revolving [credit](../c/credit.md) effectively, borrowers should consi
 
 ### Bank of America
 
-[Bank](../b/bank.md) of America offers various revolving [credit](../c/credit.md) products, including [credit](../c/credit.md) cards and [home equity](../h/home_equity.md) lines of [credit](../c/credit.md) (HELOCs). More information can be found on their [official website](https://www.bankofamerica.com/).
+[Bank](../b/bank.md) of America offers various revolving [credit](../c/credit.md) products, including [credit](../c/credit.md) cards and [home equity](../h/home_equity.md) lines of [credit](../c/credit.md) (HELOCs).
 
 ### JPMorgan Chase
 
-JPMorgan Chase provides a [range](../r/range.md) of revolving [credit](../c/credit.md) [options](../o/options.md), from personal and [business](../b/business.md) [credit](../c/credit.md) cards to lines of [credit](../c/credit.md). Details can be accessed on their [corporate website](https://www.jpmorganchase.com/).
+JPMorgan Chase provides a [range](../r/range.md) of revolving [credit](../c/credit.md) [options](../o/options.md), from personal and [business](../b/business.md) [credit](../c/credit.md) cards to lines of [credit](../c/credit.md).
 
 ### Wells Fargo
 
-Wells Fargo offers revolving [credit](../c/credit.md) solutions, including [credit](../c/credit.md) cards, personal lines of [credit](../c/credit.md), and HELOCs. Additional information is available on their [homepage](https://www.wellsfargo.com/).
+Wells Fargo offers revolving [credit](../c/credit.md) solutions, including [credit](../c/credit.md) cards, personal lines of [credit](../c/credit.md), and HELOCs. Additional information is available on their homepage.
 
 ## Regulatory Considerations
 

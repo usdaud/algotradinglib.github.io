@@ -89,15 +89,15 @@ Advances in [machine learning](../m/machine_learning.md) and [data analytics](..
 
 ### Renaissance Technologies LLC
 
-**Renaissance Technologies** (https://www.rentec.com/) is one of the most successful [hedge](../h/hedge.md) funds globally, known for its use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and algo-trading. Founded by Jim Simons, a former mathematics professor, Renaissance Technologies leverages [predictive models](../p/predictive_models_in_trading.md) and high-frequency strategies to achieve significant returns.
+**Renaissance Technologies** ( is one of the most successful [hedge](../h/hedge.md) funds globally, known for its use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and algo-trading. Founded by Jim Simons, a former mathematics professor, Renaissance Technologies leverages [predictive models](../p/predictive_models_in_trading.md) and high-frequency strategies to achieve significant returns.
 
 ### Two Sigma Investments
 
-**Two Sigma** (https://www.twosigma.com/) is a leading [hedge fund](../h/hedge_fund.md) that relies on [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop its [trading models](../t/trading_models.md). The [firm](../f/firm.md) exemplifies the integration of disruptive technologies in [financial markets](../f/financial_market.md), driving innovation in [algorithmic trading](../a/accountability.md).
+**Two Sigma** ( is a leading [hedge fund](../h/hedge_fund.md) that relies on [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop its [trading models](../t/trading_models.md). The [firm](../f/firm.md) exemplifies the integration of disruptive technologies in [financial markets](../f/financial_market.md), driving innovation in [algorithmic trading](../a/accountability.md).
 
 ### Citadel LLC
 
-**Citadel** (https://www.citadel.com/) is a global financial [firm](../f/firm.md) that utilizes [quantitative analysis](../q/quantitative_analysis.md) and high-frequency trading to manage its investment strategies. With a focus on technology and data, Citadel represents the forefront of disruptive innovation in algo-trading.
+**Citadel** ( is a global financial [firm](../f/firm.md) that utilizes [quantitative analysis](../q/quantitative_analysis.md) and high-frequency trading to manage its investment strategies. With a focus on technology and data, Citadel represents the forefront of disruptive innovation in algo-trading.
 
 ## Conclusion
 

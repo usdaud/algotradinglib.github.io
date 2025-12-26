@@ -119,4 +119,3 @@ As the global [economy](../e/economy.md) becomes increasingly interconnected, th
 
 NACHA is a pivotal organization in the world of electronic payments, playing a crucial role in ensuring the [security](../s/security.md), [efficiency](../e/efficiency.md), and reliability of the ACH network. Through its rules, standards, and innovative efforts, NACHA has helped to shape the modern financial landscape, providing a foundation for the seamless transfer of funds between banks and financial institutions. As it continues to navigate the challenges and opportunities of the future, NACHA's commitment to innovation and excellence [will](../w/will.md) be key to its ongoing success and the continued growth of the ACH network.
 
-For more information, you can visit the official NACHA website at [NACHA](https://www.nacha.org/).

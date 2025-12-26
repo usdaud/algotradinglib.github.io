@@ -66,7 +66,7 @@ TradingView is a cloud-based charting and [social networking](../s/social_networ
 
 ### 9. API and Widget Support
 
-- Charting library for website integration
+- Charting library for online platform integration
 - REST API for data access
 - Widgets for displaying charts on external websites
 
@@ -79,25 +79,25 @@ TradingView is a cloud-based charting and [social networking](../s/social_networ
 ## Subscription Tiers
 
 1. **Basic (Free)**
-  - Limited features and delayed data
-  - Access to community and basic charting
+ - Limited features and delayed data
+ - Access to community and basic charting
 
 2. **Pro**
-  - Real-time data for select markets
-  - [Multiple](../m/multiple.md) charts per layout
-  - Ad-free experience
-  - [Extended trading hours](../e/extended_trading_hours.md) data
+ - Real-time data for select markets
+ - [Multiple](../m/multiple.md) charts per layout
+ - Ad-free experience
+ - [Extended trading hours](../e/extended_trading_hours.md) data
 
 3. **Pro+**
-  - Additional data and features
-  - Intraday exotic charts
-  - Second-based intervals
-  - More server-side alerts
+ - Additional data and features
+ - Intraday exotic charts
+ - Second-based intervals
+ - More server-side alerts
 
 4. **[Premium](../p/premium.md)**
-  - All features unlocked
-  - Priority support
-  - Unlimited server-side alerts
+ - All features unlocked
+ - Priority support
+ - Unlimited server-side alerts
 
 ## Target Audience
 

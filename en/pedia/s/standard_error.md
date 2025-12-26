@@ -26,7 +26,7 @@ where \( \bar{X} \) is the mean [return](../r/return.md) of the portfolio, \( R_
 
 ### 3. Hypothesis Testing
 
-Standard error plays a crucial role in [hypothesis testing](../h/hypothesis_testing.md), which is frequently used in [algorithmic trading](../a/accountability.md). When testing for the difference between means or proportions, standard error helps to determine the significance level and to make decisions regarding [trading signals](../t/trading_signals.md).
+Standard error plays a crucial role in [hypothesis testing](../h/hypothesis_testing.md), which is frequently used in [algorithmic trading](../a/algorithmic_trading.md). When testing for the difference between means or proportions, standard error helps to determine the significance level and to make decisions regarding [trading signals](../t/trading_signals.md).
 
 \[ \text{t} = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}} \]
 
@@ -36,7 +36,7 @@ In [financial modeling](../f/financial_modeling.md), generalizability is crucial
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the standard error of various measures, such as the mean returns, the betas in a [capital asset](../c/capital_asset.md) pricing model (CAPM), or the [market impact costs](../m/market_impact_costs.md), are critical for optimizing strategies. Some common applications include:
+In [algorithmic trading](../a/algorithmic_trading.md), the standard error of various measures, such as the mean returns, the betas in a [capital asset](../c/capital_asset.md) pricing model (CAPM), or the [market impact costs](../m/market_impact_costs.md), are critical for optimizing strategies. Some common applications include:
 
 ### Optimizing Trading Algorithms
 
@@ -84,11 +84,11 @@ Here you'll use the calculated standard error to adjust your algorithm's paramet
 
 ### Example 1: Risk Management at JP Morgan
 
-JP Morgan uses various statistical techniques, including standard error, to measure and manage [financial risk](../f/financial_risk.md). Through their [Risk Management](../r/risk_management.md) Practices, they use sophisticated models to calculate the standard error of [multiple](../m/multiple.md) financial metrics to make informed decisions. Read more about their practices on their [official website](https://www.jpmorgan.com).
+JP Morgan uses various statistical techniques, including standard error, to measure and manage [financial risk](../f/financial_risk.md). Through their [Risk Management](../r/risk_management.md) Practices, they use sophisticated models to calculate the standard error of [multiple](../m/multiple.md) financial metrics to make
 
 ### Example 2: Research at Renaissance Technologies
 
-Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, employs [quantitative analysis](../q/quantitative_analysis.md) to drive trading decisions. They frequently incorporate calculations of standard error to evaluate model performance and optimize [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). More about their approach can be found on their [official site](https://www.rentec.com).
+Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, employs [quantitative analysis](../q/quantitative_analysis.md) to drive trading decisions. They frequently incorporate calculations of standard error to evaluate model performance and optimize [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). More about their approach can be found on their public materials.
 
 ## Challenges and Considerations
 
@@ -112,4 +112,4 @@ In times of high [market](../m/market.md) [volatility](../v/volatility.md), stan
 
 ## Conclusion
 
-The standard error is a fundamental concept in [statistics](../s/statistics.md) with significant applications in [finance](../f/finance.md) and trading. From performance evaluation and [risk](../r/risk.md) assessment to the [optimization](../o/optimization.md) of [trading algorithms](../t/trading_algorithms.md), it provides a measure of precision and accuracy that is indispensable in making informed financial decisions. Understanding its calculation, applications, and limitations is crucial for professionals in [finance](../f/finance.md), particularly those engaged in [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/accountability.md). Through careful application and consideration of the standard error, traders and financial analysts can enhance the robustness and profitability of their [trading strategies](../t/trading_strategies.md).
+The standard error is a fundamental concept in [statistics](../s/statistics.md) with significant applications in [finance](../f/finance.md) and trading. From performance evaluation and [risk](../r/risk.md) assessment to the [optimization](../o/optimization.md) of [trading algorithms](../t/trading_algorithms.md), it provides a measure of precision and accuracy that is indispensable in making informed financial decisions. Understanding its calculation, applications, and limitations is crucial for professionals in [finance](../f/finance.md), particularly those engaged in [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Through careful application and consideration of the standard error, traders and financial analysts can enhance the robustness and profitability of their [trading strategies](../t/trading_strategies.md).

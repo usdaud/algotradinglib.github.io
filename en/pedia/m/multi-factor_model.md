@@ -120,8 +120,8 @@ For statistical models: Historical price data, often collected from stock exchan
 2. **R and Python:** For larger datasets and more complex models, programming languages like R and Python [offer](../o/offer.md) advanced libraries (such as statsmodels and scikit-learn) to perform [regression analysis](../r/regression_analysis.md), PCA, and other model estimations.
 
 3. **Specialized Software:**
-    - **EViews:** Often used for econometric time-series analysis.
-    - **STATA:** Popular in academic and professional settings for its extensive econometric analysis tools.
+ - **EViews:** Often used for econometric time-series analysis.
+ - **STATA:** Popular in academic and professional settings for its extensive econometric analysis tools.
 
 ## Challenges and Considerations
 
@@ -141,11 +141,11 @@ High-quality, up-to-date data is essential. Poor data can lead to inaccurate est
 
 ### MSCI Inc.
 
-MSCI provides a suite of [multi-factor models](../m/multi-factor_models.md) used by institutional investors for [portfolio management](../p/par.md) and [risk](../r/risk.md) assessment. Their models include factors such as size, [value](../v/value.md), quality, [momentum](../m/momentum.md), and [volatility](../v/volatility.md). More information can be found on their [official website](https://www.msci.com/).
+MSCI provides a suite of [multi-factor models](../m/multi-factor_models.md) used by institutional investors for [portfolio management](../p/par.md) and [risk](../r/risk.md) assessment. Their models include factors such as size, [value](../v/value.md), quality, [momentum](../m/momentum.md), and [volatility](../v/volatility.md).
 
 ### AQR Capital Management
 
-AQR integrates [multi-factor models](../m/multi-factor_models.md) into their investment strategies. They focus on factors like [value](../v/value.md), [momentum](../m/momentum.md), carry, and defensive. Learn more about their approach on their [official page](https://www.aqr.com/).
+AQR integrates [multi-factor models](../m/multi-factor_models.md) into their investment strategies. They focus on factors like [value](../v/value.md), [momentum](../m/momentum.md), carry, and defensive. Learn more about their approach on their public materials.
 
 ## Conclusion
 

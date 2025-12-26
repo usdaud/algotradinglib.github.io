@@ -21,7 +21,7 @@ The primary characteristic is that its returns have no [correlation](../c/correl
 
 ### Risk and Reward Dynamics
 
-In most cases, a zero-[beta](../b/beta.md) portfolio [will](../w/will.md) have a lower overall [risk](../r/risk.md) profile compared to high-[beta](../b/beta.md) portfolios. While the expectation of returns may also be lower, it can provide stability during volatile [market](../m/market.md) periods. 
+In most cases, a zero-[beta](../b/beta.md) portfolio [will](../w/will.md) have a lower overall [risk](../r/risk.md) profile compared to high-[beta](../b/beta.md) portfolios. While the expectation of returns may also be lower, it can provide stability during volatile [market](../m/market.md) periods.
 
 ### Market Neutrality
 
@@ -87,12 +87,8 @@ Zero-[beta](../b/beta.md) portfolios can be employed in [volatility](../v/volati
 ## Examples of Companies Employing Zero-Beta Portfolios
 
 **AQR [Capital](../c/capital.md) Management**: One of the pioneers in quant [investing](../i/investing.md).
-Website: [AQR Capital](https://www.aqr.com/)
-
 **Two Sigma Investments**: Known for its rigorous [algorithmic trading](../a/algorithmic_trading.md) strategies.
-Website: [Two Sigma](https://www.twosigma.com/)
 
 **Renaissance Technologies**: Uses sophisticated models for [market neutral strategies](../m/market_neutral_strategies.md).
-Website: [Renaissance Technologies](https://www.rentec.com/)
 
 In conclusion, zero-[beta](../b/beta.md) portfolios represent a vital component in the toolbox of modern investors, particularly within the context of [algorithmic trading](../a/algorithmic_trading.md). By minimizing the [market risk](../m/market_risk.md) and stabilizing returns, these portfolios [offer](../o/offer.md) [diversification](../d/diversification.md) and resilience against [market](../m/market.md) [volatility](../v/volatility.md), albeit with a [trade](../t/trade.md)-off in potential returns. Advanced quantitative techniques and dynamic algorithmic strategies are crucial for effectively constructing and managing zero-[beta](../b/beta.md) portfolios.

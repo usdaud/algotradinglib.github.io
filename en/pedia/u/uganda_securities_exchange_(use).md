@@ -3,7 +3,7 @@
 The Uganda Securities [Exchange](../e/exchange.md) (USE) is the [principal](../p/principal.md) stock [exchange](../e/exchange.md) of Uganda. It was founded in 1997 and is licensed under the [Capital Markets](../c/capital_markets.md) Authority Act, which regulates the securities [industry](../i/industry.md) in Uganda. It acts as a platform for trading [shares](../s/shares.md), bonds, and other financial instruments. The USE also provides a mechanism for companies to raise [capital](../c/capital.md) through Initial Public Offerings (IPOs).
 
 ## History and Background
-The USE was established to stimulate the [capital markets](../c/capital_markets.md) in Uganda, which were still in a nascent stage during the 1990s. It became functional on January 25, 1998. The first company to be [listed](../l/listed.md) on the [exchange](../e/exchange.md) was Uganda Clays Limited. Since then, the [exchange](../e/exchange.md) has grown, listing more companies and diversifying its product offerings. 
+The USE was established to stimulate the [capital markets](../c/capital_markets.md) in Uganda, which were still in a nascent stage during the 1990s. It became functional on January 25, 1998. The first company to be [listed](../l/listed.md) on the [exchange](../e/exchange.md) was Uganda Clays Limited. Since then, the [exchange](../e/exchange.md) has grown, listing more companies and diversifying its product offerings.
 
 ## Objectives
 The primary objectives of USE are to:
@@ -13,7 +13,7 @@ The primary objectives of USE are to:
 - Act as a barometer for the [economy](../e/economy.md).
 
 ## Market Structure
-The Uganda Securities [Exchange](../e/exchange.md) employs an electronic trading system, which replaced the manual call-over system in 2015. This system is known as the Automated Trading System (ATS). The ATS facilitates greater [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md) in the trading process. 
+The Uganda Securities [Exchange](../e/exchange.md) employs an electronic trading system, which replaced the manual call-over system in 2015. This system is known as the Automated Trading System (ATS). The ATS facilitates greater [efficiency](../e/efficiency.md) and [transparency](../t/transparency.md) in the trading process.
 
 ## Listed Companies
 Currently, the USE has [multiple](../m/multiple.md) companies [listed](../l/listed.md) across various sectors, including banking, telecommunication, and [manufacturing](../m/manufacturing.md). Some of the notable companies include:
@@ -23,7 +23,6 @@ Currently, the USE has [multiple](../m/multiple.md) companies [listed](../l/list
 - KCB Group
 - Umeme Limited
 
-For a complete list of companies and further details, you can visit the [USE website](https://www.use.or.ug).
 
 ## Trading Hours
 Trading at the Uganda Securities [Exchange](../e/exchange.md) takes place on weekdays from Monday to Friday. The official trading hours are from 9:00 AM to 12:00 PM EAT (East Africa Time). However, the settlement window extends beyond these trading hours.
@@ -48,7 +47,7 @@ The USE operates under the oversight of the [Capital Markets](../c/capital_marke
 The transition to an Automated Trading System has significantly improved the operations at the Uganda Securities [Exchange](../e/exchange.md). The system enhances [liquidity](../l/liquidity.md) and ensures more accurate [price discovery](../p/price_discovery.md). It also allows for real-time trading and minimizes operational risks. The ATS is integrated with the Securities Central [Depository](../d/depository.md) (SCD), which facilitates the electronic holding of securities and streamlines the settlement process.
 
 ## Market Performance
-The [market](../m/market.md) performance is measured using various indicators such as price trends, trading volumes, and [market capitalization](../m/market_capitalization.md). 
+The [market](../m/market.md) performance is measured using various indicators such as price trends, trading volumes, and [market capitalization](../m/market_capitalization.md).
 ### Market Capitalization
 [Market capitalization](../m/market_capitalization.md) is the aggregate [valuation](../v/valuation.md) of all [listed](../l/listed.md) companies on the USE and serves as an [indicator](../i/indicator.md) of the [market](../m/market.md)’s size.
 
@@ -83,4 +82,3 @@ Further adoption of digital and mobile technologies can also boost [market](../m
 ## Conclusion
 The Uganda Securities [Exchange](../e/exchange.md) plays a pivotal role in the financial ecosystem of Uganda. While it faces several challenges, the potential for growth and development remains significant. Through regulatory support, technological advancements, and increased public awareness, the USE aims to become a more dynamic and influential player in the East African [financial markets](../f/financial_market.md).
 
-For more information, please visit the [Uganda Securities Exchange official website](https://www.use.or.ug).

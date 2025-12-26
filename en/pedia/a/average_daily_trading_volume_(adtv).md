@@ -6,7 +6,7 @@ Average Daily Trading [Volume](../v/volume.md) (ADTV) refers to the average numb
 
 ## Calculating ADTV
 
-The calculation of ADTV is straightforward. It involves summing up the trading volumes of the stock for each day within the chosen period and then dividing by the number of days in that period. 
+The calculation of ADTV is straightforward. It involves summing up the trading volumes of the stock for each day within the chosen period and then dividing by the number of days in that period.
 
 ### Formula:
 
@@ -73,9 +73,9 @@ Many financial platforms and [brokerage services](../b/brokerage_services.md) pr
 ### APIs and Data Services
 Several APIs and data services provide ADTV data for [algorithmic trading](../a/accountability.md):
 
-- **[Alpha](../a/alpha.md) Vantage**: Offers API access to historical and real-time ADTV data ([Alpha Vantage](https://www.alphavantage.co)).
-- **[IEX Cloud](../i/iex_cloud.md)**: Provides financial data, including ADTV, via API ([IEX Cloud](https://iexcloud.io)).
-- **[Quandl](../q/quandl.md)**: A platform for accessing financial, economic, and [alternative data](../a/alternative_data.md) ([Quandl](https://www.quandl.com)).
+- **[Alpha](../a/alpha.md) Vantage**: Offers API access to historical and real-time ADTV data (Alpha Vantage).
+- **[IEX Cloud](../i/iex_cloud.md)**: Provides financial data, including ADTV, via API (IEX Cloud).
+- **[Quandl](../q/quandl.md)**: A platform for accessing financial, economic, and [alternative data](../a/alternative_data.md) (Quandl).
 
 ## Conclusion
 

@@ -70,11 +70,10 @@ Events like FDA announcements, product launches, or [geopolitical events](../g/g
 
 Several tools and platforms help traders execute and manage horizontal [spreads](../s/spreads.md). Some notable ones include:
 
-1. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers advanced [options](../o/options.md) trading capabilities and analytical tools. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-2. **[Interactive Brokers](../i/interactive_brokers.md)**: Provides [robust](../r/robust.md) [options](../o/options.md) trading features and [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com)
-3. **Tastyworks**: Known for its [options](../o/options.md) trading tools and educational resources. [Tastyworks](https://www.tastyworks.com)
+1. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers advanced [options](../o/options.md) trading capabilities and analytical tools. TD Ameritrade
+2. **[Interactive Brokers](../i/interactive_brokers.md)**: Provides [robust](../r/robust.md) [options](../o/options.md) trading features and [risk management](../r/risk_management.md) tools. Interactive Brokers
+3. **Tastyworks**: Known for its [options](../o/options.md) trading tools and educational resources. Tastyworks
 
 ## Conclusion
 
 Horizontal [spreads](../s/spreads.md) can be an effective strategy for traders looking to [profit](../p/profit.md) from [time decay](../t/time_decay.md) and [volatility](../v/volatility.md) with limited [risk](../r/risk.md). While the strategy has capped [profit](../p/profit.md) potential, its defined [risk](../r/risk.md) and ability to [leverage](../l/leverage.md) different expiration dates make it a valuable tool in [options](../o/options.md) trading. Understanding the nuances of implied [volatility](../v/volatility.md), [time decay](../t/time_decay.md), and [market](../m/market.md) conditions is crucial for successful implementation.
-

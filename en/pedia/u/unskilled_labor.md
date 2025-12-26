@@ -1,6 +1,6 @@
 # Unskilled Labor
 
-Unskilled labor refers to work that requires minimal specialized skills, training, or education. This type of labor typically involves manual or repetitive tasks that can be learned on the job without the need for advanced schooling or technical knowledge. The concept of unskilled labor is prevalent across various industries including service, [manufacturing](../m/manufacturing.md), agriculture, and construction, and plays a critical role in the functioning of many economies. 
+Unskilled labor refers to work that requires minimal specialized skills, training, or education. This type of labor typically involves manual or repetitive tasks that can be learned on the job without the need for advanced schooling or technical knowledge. The concept of unskilled labor is prevalent across various industries including service, [manufacturing](../m/manufacturing.md), agriculture, and construction, and plays a critical role in the functioning of many economies.
 
 ## Characteristics of Unskilled Labor
 
@@ -22,7 +22,7 @@ Unskilled labor positions often experience high [turnover](../t/turnover.md) rat
 ## Examples of Unskilled Labor Jobs
 
 - **Retail Workers**: Includes roles such as cashiers, stock clerks, and sales associates who [handle](../h/handle.md) basic [customer service](../c/customer_service.md) and [inventory management](../i/inventory_management.md).
-  
+
 - **Janitorial Staff**: Involves cleaning and maintenance tasks such as sweeping, mopping, and trash removal in buildings.
 
 - **Agricultural Workers**: Tasks include planting, tending to, and harvesting crops, often relying more on physical effort than specialized knowledge.

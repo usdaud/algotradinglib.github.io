@@ -6,7 +6,7 @@ Floating [interest](../i/interest.md) rates, also known as adjustable or variabl
 
 A floating [interest rate](../i/interest_rate.md) changes periodically, typically in [correlation](../c/correlation.md) with a standard [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) [index](../i/index_instrument.md). Common benchmarks include:
 
-- **LIBOR (London Interbank Offered Rate)**: An average [interest rate](../i/interest_rate.md) estimated by leading banks in London which they would charge to borrow from other banks.
+- **LIBOR (London Interbank Offered Rate)**: An average [interest rate](../i/interest_rate.md) estimated by leading banks in London which they would charge to borrow from other banks. Note: LIBOR was phased out in June 2023 and replaced by alternative reference rates like SOFR.
 - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: A broad measure of the cost of borrowing cash overnight collateralized by Treasury securities.
 - **[Federal Funds Rate](../f/federal_funds_rate.md)**: The [interest rate](../i/interest_rate.md) banks charge each other for overnight loans within the Federal Reserve system.
 
@@ -20,7 +20,7 @@ A floating [interest rate](../i/interest_rate.md) typically consists of:
 - **[Index](../i/index_instrument.md) or [Benchmark](../b/benchmark.md) Rate**: The base rate that fluctuates over time.
 - **Spread or [Margin](../m/margin.md)**: An additional fixed percentage added to the [benchmark](../b/benchmark.md) rate. This spread represents the [lender](../l/lender.md)'s [profit margin](../p/profit_margin.md) and compensates for various risks.
 
-For example, a floating rate [mortgage](../m/mortgage.md) might be expressed as LIBOR + 2%. If the current LIBOR is 1.5%, the [interest](../i/interest.md) for that period would be 3.5%.
+For example, a floating rate [mortgage](../m/mortgage.md) might be expressed as SOFR + 2%. If the current SOFR is 1.5%, the [interest](../i/interest.md) for that period would be 3.5%.
 
 ## Applications in Algorithmic Trading
 
@@ -28,7 +28,7 @@ In [algorithmic trading](../a/accountability.md), floating [interest](../i/inter
 
 ### Derivatives Pricing
 
-Many [derivative](../d/derivative.md) products, such as [interest rate swaps](../i/interest_rate_swaps.md), [options](../o/options.md), and [futures](../f/futures.md), involve floating [interest](../i/interest.md) rates. For instance, in an [interest rate swap](../i/interest_rate_swap.md), one party pays a fixed rate while receiving a floating rate, often linked to LIBOR. Modelling and predicting changes in these rates are crucial for:
+Many [derivative](../d/derivative.md) products, such as [interest rate swaps](../i/interest_rate_swaps.md), [options](../o/options.md), and [futures](../f/futures.md), involve floating [interest](../i/interest.md) rates. For instance, in an [interest rate swap](../i/interest_rate_swap.md), one party pays a fixed rate while receiving a floating rate, now typically linked to SOFR (previously LIBOR until June 2023). Modelling and predicting changes in these rates are crucial for:
 - **[Valuation](../v/valuation.md)**: Accurate pricing of swaps, [options](../o/options.md), and [futures](../f/futures.md).
 - **[Risk Management](../r/risk_management.md)**: Assessing and [hedging exposure](../h/hedging_exposure.md) to [interest rate](../i/interest_rate.md) [volatility](../v/volatility.md).
 - **[Arbitrage Opportunities](../a/arbitrage_opportunities.md)**: Identifying and exploiting price discrepancies in related instruments.
@@ -56,7 +56,7 @@ One of the significant challenges in dealing with floating [interest](../i/inter
 
 ### Duration and Convexity
 
-Understanding the concepts of [duration](../d/duration.md) and [convexity](../c/convexity.md) is critical for managing [interest rate risk](../i/interest_rate_risk.md). 
+Understanding the concepts of [duration](../d/duration.md) and [convexity](../c/convexity.md) is critical for managing [interest rate risk](../i/interest_rate_risk.md).
 - **[Duration](../d/duration.md)**: Measures a [bond](../b/bond.md)'s sensitivity to changes in [interest](../i/interest.md) rates, indicating how much the [bond](../b/bond.md)'s price [will](../w/will.md) change with a 1% change in [interest](../i/interest.md) rates.
 - **[Convexity](../c/convexity.md)**: Refines the [duration](../d/duration.md) measure to account for the curvature in the [bond](../b/bond.md)'s price-[yield](../y/yield.md) relationship, providing a better estimate of price changes for larger [interest rate](../i/interest_rate.md) movements.
 
@@ -64,11 +64,11 @@ Understanding the concepts of [duration](../d/duration.md) and [convexity](../c/
 
 ### JP Morgan Chase & Co.
 
-JP Morgan is a leading player in the financial services [industry](../i/industry.md), [offering](../o/offering.md) a wide [range](../r/range.md) of financial products affected by floating [interest](../i/interest.md) rates. Their expertise in managing [interest rate risk](../i/interest_rate_risk.md) and deploying sophisticated algotrading strategies is well-recognized. For further details, visit [JP Morgan Chase & Co.](https://www.jpmorganchase.com)
+JP Morgan is a leading player in the financial services [industry](../i/industry.md), [offering](../o/offering.md) a wide [range](../r/range.md) of financial products affected by floating [interest](../i/interest.md) rates. Their expertise in managing [interest rate risk](../i/interest_rate_risk.md) and deploying sophisticated algotrading strategies is well-recognized. For further details, visit JP Morgan Chase & Co.
 
 ### BlackRock
 
-Another significant entity in the [finance](../f/finance.md) world, BlackRock, utilizes advanced [algorithmic trading](../a/accountability.md) techniques to manage vast portfolios, including [interest rate](../i/interest_rate.md)-sensitive instruments. They provide detailed insights and strategies for handling floating [interest](../i/interest.md) rates. For more information, [check](../c/check.md) out [BlackRock](https://www.blackrock.com)
+Another significant entity in the [finance](../f/finance.md) world, BlackRock, utilizes advanced [algorithmic trading](../a/accountability.md) techniques to manage vast portfolios, including [interest rate](../i/interest_rate.md)-sensitive instruments. They provide detailed insights and strategies for handling floating [interest](../i/interest.md) rates. For more information, [check](../c/check.md) out BlackRock
 
 ## Conclusion
 

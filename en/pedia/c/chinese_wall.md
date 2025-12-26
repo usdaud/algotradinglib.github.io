@@ -50,11 +50,11 @@ Most financial institutions have dedicated teams for legal and compliance that r
 
 ### Goldman Sachs
 
-Goldman Sachs is one of the world’s leading [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) firms. They have comprehensive policies in place to maintain Chinese Walls, ensuring that their various departments adhere strictly to regulatory standards. More information about their compliance and [ethical standards](../e/ethical_standards_in_trading.md) can be found on their official website: [Goldman Sachs Compliance](https://www.goldmansachs.com).
+Goldman Sachs is one of the world’s leading [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) firms. They have comprehensive policies in place to maintain Chinese Walls, ensuring that their various departments adhere strictly to regulatory standards.
 
 ### JPMorgan Chase
 
-Another leading financial institution, JPMorgan Chase, implements Chinese Walls within its operational structure to ensure compliance and integrity. They have outlined their commitment to maintaining these barriers in their internal policies and public disclosures. For more details, visit [JPMorgan Chase Compliance](https://www.jpmorganchase.com).
+Another leading financial institution, JPMorgan Chase, implements Chinese Walls within its operational structure to ensure compliance and integrity. They have outlined their commitment to maintaining these barriers in their internal policies and public disclosures.
 
 ## Case Studies
 
@@ -88,4 +88,3 @@ The importance of Chinese Walls is only expected to grow as [financial markets](
 
 In conclusion, the concept of a Chinese Wall remains a cornerstone of ethical [business](../b/business.md) practice in the financial [industry](../i/industry.md). Its significance in algotrading cannot be overstated, as it ensures regulatory compliance, protects the integrity of operations, and maintains [investor](../i/investor.md) confidence. Financial institutions must continually adapt and [upgrade](../u/upgrade.md) their policies and technologies to meet the ever-evolving challenges in this space.
 
-For more detailed insights on compliance and ethical practices, visit [Goldman Sachs Compliance](https://www.goldmansachs.com) or [JPMorgan Chase Compliance](https://www.jpmorganchase.com).

@@ -1,6 +1,6 @@
 # Bond Pricing Models
 
-[Bond](../b/bond.md) pricing models are essential tools used in the financial [industry](../i/industry.md) to determine the [fair value](../f/fair_value.md) of bonds. Bonds are [debt](../d/debt.md) securities that governments, municipalities, or corporations [issue](../i/issue.md) to raise [capital](../c/capital.md). The [issuer](../i/issuer.md) promises to pay the [bondholder](../b/bondholder.md) a specified amount of [interest](../i/interest.md), usually semiannually, and to [return](../r/return.md) the [principal](../p/principal.md) amount on the [bond](../b/bond.md)'s [maturity date](../m/maturity_date.md). Accurate [bond](../b/bond.md) pricing ensures that investors and issuers can make informed decisions regarding their investment and [financing](../f/financing.md) strategies, respectively. 
+[Bond](../b/bond.md) pricing models are essential tools used in the financial [industry](../i/industry.md) to determine the [fair value](../f/fair_value.md) of bonds. Bonds are [debt](../d/debt.md) securities that governments, municipalities, or corporations [issue](../i/issue.md) to raise [capital](../c/capital.md). The [issuer](../i/issuer.md) promises to pay the [bondholder](../b/bondholder.md) a specified amount of [interest](../i/interest.md), usually semiannually, and to [return](../r/return.md) the [principal](../p/principal.md) amount on the [bond](../b/bond.md)'s [maturity date](../m/maturity_date.md). Accurate [bond](../b/bond.md) pricing ensures that investors and issuers can make informed decisions regarding their investment and [financing](../f/financing.md) strategies, respectively.
 
 1. **Discounted [Cash Flow](../c/cash_flow.md) (DCF) Model**
 The DCF model is one of the most fundamental approaches to [bond](../b/bond.md) pricing. This model involves calculating the [present value](../p/present_value.md) of all expected future cash flows from the [bond](../b/bond.md), which includes periodic coupon payments and the [principal](../p/principal.md) [repayment](../r/repayment.md) at [maturity](../m/maturity.md). The formula for the DCF model is:
@@ -31,7 +31,7 @@ Where:
 [Market](../m/market.md) participants, like [investment banks](../i/investment_bank_(ib).md) and financial institutions, often derive spot rates through bootstrapping.
 
 4. **Forward Rates**
-Forward rates are [interest](../i/interest.md) rates inferred from the [spot rate](../s/spot_rate.md) curve and are used to calculate future [interest](../i/interest.md) rates for different maturities. The relationship between spot rates and forward rates helps in constructing [bond](../b/bond.md) prices. Forward rates are particularly useful for pricing floating rate bonds and bonds with adjustable [interest](../i/interest.md) payments. 
+Forward rates are [interest](../i/interest.md) rates inferred from the [spot rate](../s/spot_rate.md) curve and are used to calculate future [interest](../i/interest.md) rates for different maturities. The relationship between spot rates and forward rates helps in constructing [bond](../b/bond.md) prices. Forward rates are particularly useful for pricing floating rate bonds and bonds with adjustable [interest](../i/interest.md) payments.
 
 The [forward rate](../f/forward_rate.md) for periods \( t \) and \( t+n \) can be determined using the formula:
 
@@ -54,8 +54,8 @@ Multi-[factor models](../f/factor_models.md) incorporate several factors that af
 
 ### Practical Applications
 
-Financial institutions such as Goldman Sachs [https://www.goldmansachs.com/], J.P. Morgan [https://www.jpmorgan.com/], and Barclays [https://www.investmentbank.barclays.com/] use these models to calculate bond prices, assess risk, and develop strategies to optimize portfolio returns. Additionally, central banks and regulatory bodies use bond pricing models to analyze monetary policies' impact on [financial markets](../f/financial_market.md).
+Financial institutions such as Goldman Sachs [ J.P. Morgan [ and Barclays [ use these models to calculate bond prices, assess risk, and develop strategies to optimize portfolio returns. Additionally, central banks and regulatory bodies use bond pricing models to analyze monetary policies' impact on [financial markets](../f/financial_market.md).
 
 ### Conclusion
 
-[Bond](../b/bond.md) pricing models provide the analytical framework for valuing bonds accurately, managing portfolio risks, and making strategic investment decisions. By considering various elements such as cash flows, [interest](../i/interest.md) rates, [credit risk](../c/credit_risk.md), and [market](../m/market.md) conditions, these models help [market](../m/market.md) participants navigate the complexities of [bond](../b/bond.md) markets.
+[Bond](../b/bond.md) pricing models provide the analytical framework for valuing bonds accurately, managing portfolio risks, and making strategic investment decisions. By considering various elements such as cash flows, [interest](../i/interest.md) rates, [credit risk](../c/credit_risk.md), and [market](../m/market.md) conditions, these models help [market](../m/market.md) participants navigate the complexities of [bond](../b/bond.md) markets.

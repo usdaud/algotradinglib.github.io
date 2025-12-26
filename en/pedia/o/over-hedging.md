@@ -70,6 +70,6 @@ Over-hedging is a nuanced aspect of [risk management](../r/risk_management.md) i
 
 For further detailed reading and resources:
 
-- [CME Group - Hedging Basics](https://www.cmegroup.com/education/articles-and-reports/hedging-basics.html)
-- [Nasdaq - Understanding Hedging](https://www.nasdaq.com/articles/understanding-hedging-2021-05-18)
-- [Investopedia - Financial Hedging](https://www.investopedia.com/terms/h/hedge.asp)
+- CME Group - Hedging Basics
+- Nasdaq - Understanding Hedging
+- Investopedia - Financial Hedging

@@ -128,11 +128,11 @@ Some private institutions use the CSS Profile, which may have different rules re
 
 ## Choosing a 529 Plan
 
-### 1. Evaluate State Options
+### 1. Federal Methodology (FAFSA)
 
 Consider both your [home](../h/home.md) state’s plan and plans from other states that may [offer](../o/offer.md) lower fees or better investment [options](../o/options.md).
 
-### 2. Compare Fees
+### 2. Institutional Methodology (CSS Profile)
 
 Analyze the plan’s [fee](../f/fee.md) structure, including administrative fees, program management fees, and investment [expense](../e/expense.md) ratios.
 
@@ -158,9 +158,9 @@ Several [529 plans](../1/529_plan.md) consistently rank among the best due to th
 
 For further information and the most up-to-date features of specific plans, refer to the official websites of these plans:
 
-- [my529](https://my529.org)
-- [Vanguard 529 College Savings Plan](https://investor.vanguard.com/529-plan/)
-- [Virginia529](https://www.virginia529.com)
+- my529
+- Vanguard 529 College Savings Plan
+- Virginia529
 
 ## Conclusion
 

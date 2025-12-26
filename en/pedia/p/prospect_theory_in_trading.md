@@ -76,4 +76,4 @@ Prospect Theory offers a valuable framework for understanding the irrational beh
 
 For more information about [behavioral economics](../b/behavioral_economics.md) and Prospect Theory, consider reading the works of Daniel Kahneman, such as his book "Thinking, Fast and Slow."
 
-To learn more about [automated trading systems](../a/automated_trading_systems.md) and tools that can help implement rational [trading strategies](../t/trading_strategies.md), visit [Interactive Brokers,](https://www.interactivebrokers.com/) one of the leading brokerage firms [offering](../o/offering.md) advanced trading technology.
+To learn more about [automated trading systems](../a/automated_trading_systems.md) and tools that can help implement rational [trading strategies](../t/trading_strategies.md), visit Interactive Brokers, one of the leading brokerage firms [offering](../o/offering.md) advanced trading technology.

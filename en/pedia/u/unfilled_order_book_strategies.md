@@ -90,9 +90,9 @@ Unfilled [order](../o/order.md) strategies must comply with regulations. For ins
 
 Several companies specialize in providing the tools and platforms required to implement sophisticated [order book](../o/order_book.md) strategies:
 
-- **Citadel Securities**: A leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) which uses advanced algorithms to optimize [order](../o/order.md) [execution](../e/execution.md). [Link](https://www.citadelsecurities.com)
-- **Virtu Financial**: Known for its high-frequency [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) [order book](../o/order_book.md) data. [Link](https://www.virtu.com)
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform that provides tools for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. [Link](https://www.quantconnect.com)
+- **Citadel Securities**: A leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) which uses advanced algorithms to optimize [order](../o/order.md) [execution](../e/execution.md). Link
+- **Virtu Financial**: Known for its high-frequency [trading strategies](../t/trading_strategies.md) that [leverage](../l/leverage.md) [order book](../o/order_book.md) data. Link
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform that provides tools for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. Link
 
 ## Conclusion
 

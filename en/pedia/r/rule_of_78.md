@@ -1,6 +1,6 @@
 # Rule of 78
 
-The Rule of 78, also known as the Sum of the Digits method or Sum of the Years' Digits method, is a method used in lending and leasing that determines how [interest](../i/interest.md) is allocated over the term of a [loan](../l/loan.md). This rule is primarily used for short-term loans and is most commonly found in consumer loans, such as car loans or personal loans. The name derives from the sum of the months in a year, which is 78 (calculated as 1 + 2 + 3 + ... + 12 = 78).
+The Rule of 78, also known as the Sum of the Digits method or Sum of the Years' Digits method, is a method used in lending and leasing that determines how [interest](../i/interest.md) is allocated over the term of a [loan](../l/loan.md). This rule is primarily used for short-term loans and is most commonly found in consumer loans, such as car loans or personal loans. The name derives from the sum of the months in a year, which is 78 (calculated as 1 + 2 + 3 +... + 12 = 78).
 
 ## Basic Concept
 
@@ -69,7 +69,7 @@ The actuarial method, another alternative, involves the calculation of [interest
 
 ### Algorithmic Implementation
 
-For those in the fields of financial technology (fintech) and [algorithmic trading](../a/accountability.md), implementing the Rule of 78 algorithm can be illustrative:
+For those in the fields of financial technology (fintech) and [algorithmic trading](../a/algorithmic_trading.md), implementing the Rule of 78 algorithm can be illustrative:
 
 #### Pseudocode
 ```pseudocode
@@ -123,12 +123,12 @@ print(f"[Principal](../p/principal.md) Portions: {principal_portions}")
 
 ### Implications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems can utilize such lending calculations for [backtesting](../b/backtesting.md) or simulating various trading scenarios involving loans and financed positions. Understanding different [interest](../i/interest.md) allocation methods like the Rule of 78 can be critical when modeling the [financial markets](../f/financial_market.md), especially for strategies that involve [leverage](../l/leverage.md) and financial cost calculations.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can utilize such lending calculations for [backtesting](../b/backtesting.md) or simulating various trading scenarios involving loans and financed positions. Understanding different [interest](../i/interest.md) allocation methods like the Rule of 78 can be critical when modeling the [financial markets](../f/financial_market.md), especially for strategies that involve [leverage](../l/leverage.md) and financial cost calculations.
 
 ## Conclusion
 
 The Rule of 78 is an [interest](../i/interest.md) allocation method that favors front-loading payments with higher [interest](../i/interest.md) charges. While it can benefit lenders through early [interest](../i/interest.md) collection, it may not always be advantageous for borrowers, particularly those intending to repay loans early. Understanding the intricate details and regulatory considerations of the Rule of 78 is crucial for both financial professionals and consumers. With a [firm](../f/firm.md) grasp of this method, [industry](../i/industry.md) stakeholders can make more informed decisions, ensure regulatory compliance, and develop more accurate financial models.
 
 For more information on consumer lending practices and regulations, you may visit the following links:
-- Federal Reserve: [Federal Reserve](https://www.federalreserve.gov)
-- Consumer Financial Protection Bureau: [CFPB](https://www.consumerfinance.gov)
+- Federal Reserve: Federal Reserve
+- Consumer Financial Protection Bureau: CFPB

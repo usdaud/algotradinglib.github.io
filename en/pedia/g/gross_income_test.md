@@ -79,16 +79,16 @@ A [gross margin](../g/gross_margin.md) of 62.03% indicates a healthy potential f
 Conducting a [gross income](../g/gross_income.md) test can be streamlined using various financial tools and software. Some popular tools include:
 
 1. **QuickBooks**: An [accounting](../a/accounting.md) software that helps in tracking [income](../i/income.md), expenses, and conducting [financial analysis](../f/financial_analysis.md).
-   - [QuickBooks](https://quickbooks.intuit.com/)
+ - QuickBooks
 
 2. **Microsoft Excel**: Widely used for [financial modeling](../f/financial_modeling.md) and analysis, including [gross income](../g/gross_income.md) calculations.
-   - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+ - Microsoft Excel
 
 3. **Xero**: An [accounting](../a/accounting.md) software platform tailored for small and medium-sized businesses to manage finances.
-   - [Xero](https://www.xero.com/)
+ - Xero
 
 4. **Wave [Accounting](../a/accounting.md)**: A free [accounting](../a/accounting.md) software solution for small businesses to track [income](../i/income.md) and expenses.
-   - [Wave Accounting](https://www.waveapps.com/)
+ - Wave Accounting
 
 ## Conclusion
 

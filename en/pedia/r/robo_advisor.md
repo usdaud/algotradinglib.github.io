@@ -1,6 +1,6 @@
 # Robo Advisor
 
-A Robo Advisor, also known as a Robo-Adviser or Robo-Advisor, is an automated platform that provides [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) services with minimal human intervention. These digital platforms utilize algorithms and advanced software to manage a client’s portfolio based on their financial goals, [risk tolerance](../r/risk_tolerance.md), and [investment horizon](../i/investment_horizon.md). The primary advantage of robo advisors is they [offer](../o/offer.md) accessible, low-cost, and efficient [investment management](../i/investment_management.md) services. 
+A Robo Advisor, also known as a Robo-Adviser or Robo-Advisor, is an automated platform that provides [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) services with minimal human intervention. These digital platforms utilize algorithms and advanced software to manage a client’s portfolio based on their financial goals, [risk tolerance](../r/risk_tolerance.md), and [investment horizon](../i/investment_horizon.md). The primary advantage of robo advisors is they [offer](../o/offer.md) accessible, low-cost, and efficient [investment management](../i/investment_management.md) services.
 
 ## How Robo Advisors Work
 
@@ -49,23 +49,23 @@ Robo advisors generally specialize in [investment management](../i/investment_ma
 
 ### Betterment
 
-[Betterment](https://www.betterment.com/) is one of the largest and most well-known robo advisors. It offers a wide array of services, including tax-loss harvesting, [retirement planning](../r/retirement_planning.md), and flexible portfolios. Betterment charges an annual [management fee](../m/management_fee.md) of 0.25% of AUM for its digital plan and 0.40% for its [premium](../p/premium.md) plan.
+Betterment is one of the largest and most well-known robo advisors. It offers a wide array of services, including tax-loss harvesting, [retirement planning](../r/retirement_planning.md), and flexible portfolios. Betterment charges an annual [management fee](../m/management_fee.md) of 0.25% of AUM for its digital plan and 0.40% for its [premium](../p/premium.md) plan.
 
 ### Wealthfront
 
-[Wealthfront](https://www.wealthfront.com/) is another leading robo advisor known for its [robust](../r/robust.md) tax-[optimization](../o/optimization.md) strategies and [financial planning](../f/financial_planning.md) tools. Wealthfront charges a flat 0.25% annual [management fee](../m/management_fee.md) and offers services like Path, its free [financial planning](../f/financial_planning.md) app.
+Wealthfront is another leading robo advisor known for its [robust](../r/robust.md) tax-[optimization](../o/optimization.md) strategies and [financial planning](../f/financial_planning.md) tools. Wealthfront charges a flat 0.25% annual [management fee](../m/management_fee.md) and offers services like Path, its free [financial planning](../f/financial_planning.md) app.
 
 ### Personal Capital
 
-[Personal Capital](https://www.personalcapital.com/) offers hybrid [wealth management](../w/wealth_management.md) services combining robo advisory features with access to human financial advisors. It features free financial tracking tools and charges a tiered [fee](../f/fee.md) structure ranging from 0.89% to 0.49% of AUM depending on the account size.
+Personal Capital offers hybrid [wealth management](../w/wealth_management.md) services combining robo advisory features with access to human financial advisors. It features free financial tracking tools and charges a tiered [fee](../f/fee.md) structure ranging from 0.89% to 0.49% of AUM depending on the account size.
 
 ### SigFig
 
-[SigFig](https://www.sigfig.com/) partners with existing brokerage accounts to [offer](../o/offer.md) low-cost, automated [investment management](../i/investment_management.md). With an annual [management fee](../m/management_fee.md) of 0.25% on assets beyond the first $10,000 (which are managed for free), SigFig provides continuous monitoring and [rebalancing](../r/rebalancing.md) of portfolios.
+SigFig partners with existing brokerage accounts to [offer](../o/offer.md) low-cost, automated [investment management](../i/investment_management.md). With an annual [management fee](../m/management_fee.md) of 0.25% on assets beyond the first $10,000 (which are managed for free), SigFig provides continuous monitoring and [rebalancing](../r/rebalancing.md) of portfolios.
 
 ### Acorns
 
-[Acorns](https://www.acorns.com/) is a [micro-investing platform](../m/micro-investing_platform.md) primarily aimed at beginner investors. It rounds up everyday purchases and invests the spare change in a diversified portfolio of ETFs. Acorns charges a flat monthly [fee](../f/fee.md) starting from $1 to $5, depending on the selected plan.
+Acorns is a [micro-investing platform](../m/micro-investing_platform.md) primarily aimed at beginner investors. It rounds up everyday purchases and invests the spare change in a diversified portfolio of ETFs. Acorns charges a flat monthly [fee](../f/fee.md) starting from $1 to $5, depending on the selected plan.
 
 ## Future Trends in Robo Advisory
 

@@ -23,7 +23,7 @@ The [General Partner](../g/general_partner.md) is usually the [hedge fund manage
 
 - **[Portfolio Management](../p/par.md)**: Selecting investments, managing [risk](../r/risk.md), and executing trades.
 - **Compliance**: Ensuring that the [fund](../f/fund.md) complies with relevant regulations.
-- **[Investor Relations](../i/investor_relations.md)**: Managing communications, reporting, and interactions with limited partners.
+- **[company filings](../i/investor_relations.md)**: Managing communications, reporting, and interactions with limited partners.
 
 ### Limited Partners (LPs)
 
@@ -95,15 +95,15 @@ Event-driven strategies focus on opportunities created by specific corporate eve
 
 ### Bridgewater Associates
 
-Bridgewater Associates is one of the world's largest and most influential [hedge](../h/hedge.md) funds. Founded by Ray Dalio in 1975, it employs a [global macro](../g/global_macro.md) strategy. More information about Bridgewater Associates can be found on their [official website](https://www.bridgewater.com).
+Bridgewater Associates is one of the world's largest and most influential [hedge](../h/hedge.md) funds. Founded by Ray Dalio in 1975, it employs a [global macro](../g/global_macro.md) strategy.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons in 1982, is known for its highly sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their Medallion [Fund](../f/fund.md) is one of the most successful [hedge](../h/hedge.md) funds in history. Visit [Renaissance Technologies](https://www.rentec.com) for more details.
+Renaissance Technologies, founded by Jim Simons in 1982, is known for its highly sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their Medallion [Fund](../f/fund.md) is one of the most successful [hedge](../h/hedge.md) funds in history. Visit Renaissance Technologies for more details.
 
 ### Citadel
 
-Founded by Kenneth C. Griffin in 1990, Citadel is a global financial institution that operates one of the world's largest [hedge](../h/hedge.md) funds. It employs a multi-strategy approach, including equities, [fixed income](../f/fixed_income.md), and commodities. More information can be found on the [Citadel website](https://www.citadel.com).
+Founded by Kenneth C. Griffin in 1990, Citadel is a global financial institution that operates one of the world's largest [hedge](../h/hedge.md) funds. It employs a multi-strategy approach, including equities, [fixed income](../f/fixed_income.md), and commodities.
 
 ## Future Outlook
 

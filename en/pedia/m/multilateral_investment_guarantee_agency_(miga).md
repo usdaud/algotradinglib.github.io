@@ -23,7 +23,7 @@ Despite early challenges, MIGA gradually grew both in terms of member countries 
 MIGA’s overarching goal is to support economic development and improve living standards in developing countries by facilitating [foreign investment](../f/foreign_investment.md) flows. To achieve this goal, MIGA focuses on three main objectives:
 
 1. **Reducing Investment Risks**: By providing [political risk](../p/political_risk.md) [insurance](../i/insurance.md) and [credit](../c/credit.md) enhancement, MIGA helps minimize the [risk](../r/risk.md) of investment in volatile political environments.
-   
+
 2. **Promoting Foreign [Direct Investment](../d/direct_investment.md) (FDI)**: Encouraging [foreign investment](../f/foreign_investment.md) is a core objective, seen as a crucial mechanism for economic development.
 
 3. **Supporting Sustainable Development**: Ensuring that investments contribute to sustainability and comply with environmental and social standards.
@@ -88,11 +88,11 @@ Like any financial institution, MIGA has to operate within its financial limits.
 
 MIGA plays a vital role in the global [financial system](../f/financial_system.md) by promoting foreign [direct investment](../d/direct_investment.md) into developing countries, thereby supporting [economic growth](../e/economic_growth.md) and development. Through its various [risk](../r/risk.md) mitigation products and [credit](../c/credit.md) enhancements, it helps make investments feasible that contribute to [infrastructure](../i/infrastructure.md) development, job creation, and [poverty](../p/poverty.md) reduction. Despite its challenges, MIGA's work is critical in today’s interconnected global [economy](../e/economy.md), and it continues to adapt and expand its operations to meet emerging needs.
 
-For more details, you can visit [MIGA's official website](https://www.miga.org/).
+
 
 ## References
 
-- [MIGA: About Us](https://www.miga.org/)
-- [World Bank Group: MIGA](https://www.worldbank.org/en/about/unit/miga)
+- MIGA: About Us
+- World Bank Group: MIGA
 
 This document aims to provide a holistic understanding of MIGA’s role, history, and impact, ensuring investors and policymakers can appreciate its contributions to global economic stability and development.

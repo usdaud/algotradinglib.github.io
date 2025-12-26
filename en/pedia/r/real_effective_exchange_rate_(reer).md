@@ -12,7 +12,7 @@ The [nominal](../n/nominal.md) [exchange rate](../e/exchange_rate.md) is the rat
 [Trade](../t/trade.md) weights indicate the importance of each trading partner within the basket of currencies. They are usually based on the relative share of [trade](../t/trade.md) (exports and imports) that each trading partner represents. By considering [trade](../t/trade.md) weights, REER represents an accurate picture of a [currency](../c/currency.md)'s overall competitiveness.
 
 ### 3. **Price Level Adjustments**
-REER adjusts for differences in price levels ([inflation](../i/inflation.md)) between the [home](../h/home.md) country and its trading partners. This adjustment ensures that the REER reflects the real [purchasing power](../p/purchasing_power.md) of the [currency](../c/currency.md), correcting the distortion caused by [inflation](../i/inflation.md) disparities. 
+REER adjusts for differences in price levels ([inflation](../i/inflation.md)) between the [home](../h/home.md) country and its trading partners. This adjustment ensures that the REER reflects the real [purchasing power](../p/purchasing_power.md) of the [currency](../c/currency.md), correcting the distortion caused by [inflation](../i/inflation.md) disparities.
 
 ### 4. **Basket of Currencies**
 The basket of currencies used in REER typically includes the currencies of key [trade](../t/trade.md) partners. The composition of the basket can vary depending on a country's specific [trade](../t/trade.md) relationships and economic policies.
@@ -105,4 +105,4 @@ Developing sector-specific REER measures can provide more nuanced insights into 
 ## Conclusion
 The Real Effective [Exchange Rate](../e/exchange_rate.md) (REER) is a powerful tool in international [finance](../f/finance.md), [offering](../o/offering.md) insights into [currency](../c/currency.md) [value](../v/value.md), [trade](../t/trade.md) competitiveness, and economic policy. Despite its complexities and limitations, REER remains a crucial measure for policymakers and economists, guiding decisions that shape the global economic landscape.
 
-For further details on the subject, notable resources include central [bank](../b/bank.md) publications and economic research papers. Some central banks provide detailed methodologies and data regarding REER, such as the [European Central Bank](https://www.ecb.europa.eu/stats/exchange/FXreference-rates/html/index.en.html) and the [Federal Reserve](https://www.federalreserve.gov/).
+For further details on the subject, notable resources include central [bank](../b/bank.md) publications and economic research papers. Some central banks provide detailed methodologies and data regarding REER, such as the European Central Bank and the Federal Reserve.

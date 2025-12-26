@@ -55,9 +55,9 @@ Terminating a 412(i) plan is also a complicated process. If the plan is terminat
 
 While many financial institutions provide services to set up and manage 412(i) plans, a few companies specialize in this niche. Some of these companies include:
 
-- [Northwestern Mutual](https://www.northwesternmutual.com): Provides comprehensive [financial planning](../f/financial_planning.md) services, including 412(i) retirement plan setup and management.
-- [MassMutual](https://www.massmutual.com): Offers a [range](../r/range.md) of annuity and [life insurance](../l/life_insurance.md) products that can be used to [fund](../f/fund.md) a 412(i) plan.
-- [Principal Financial Group](https://www.principal.com): Specializes in retirement plan solutions for small businesses, including 412(i) plans.
+- Northwestern Mutual: Provides comprehensive [financial planning](../f/financial_planning.md) services, including 412(i) retirement plan setup and management.
+- MassMutual: Offers a [range](../r/range.md) of annuity and [life insurance](../l/life_insurance.md) products that can be used to [fund](../f/fund.md) a 412(i) plan.
+- Principal Financial Group: Specializes in retirement plan solutions for small businesses, including 412(i) plans.
 
 ## Conclusion
 

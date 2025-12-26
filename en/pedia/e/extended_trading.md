@@ -6,9 +6,9 @@ Extended trading, also known as [after-hours trading](../a/after-hours_trading.m
 
 Trading during extended hours is facilitated by Electronic Communication Networks (ECNs) and alternative [trading systems](../t/trading_systems.md) (ATSs). ECNs automatically match buy and sell orders, which allows for quicker transactions without the need for a traditional stock [exchange](../e/exchange.md) intermediary. Popular platforms [offering](../o/offering.md) [extended trading hours](../e/extended_trading_hours.md) include:
 
-- **[NASDAQ](../n/nasdaq.md)'s ECN**: A platform allowing trades to be executed before and after standard [market](../m/market.md) hours. More information can be found on their website: [NASDAQ](https://www.nasdaq.com)
-- **[NYSE Arca](../n/nyse_arca.md)**: This platform supports extended trading and is part of the New York Stock [Exchange](../e/exchange.md). For more information, visit: [NYSE Arca](https://www.nyse.com/markets/nyse-arca)
-- **Direct Edge**: This ECN became part of BATS Global Markets and facilitates [after-hours trading](../a/after-hours_trading.md). Visit their site at: [CBOE](https://www.cboe.com)
+- **[NASDAQ](../n/nasdaq.md)'s ECN**: A platform allowing trades to be executed before and after standard [market](../m/market.md) hours. NASDAQ
+- **[NYSE Arca](../n/nyse_arca.md)**: This platform supports extended trading and is part of the New York Stock [Exchange](../e/exchange.md). For more information, visit: NYSE Arca
+- **Direct Edge**: This ECN became part of BATS Global Markets and facilitates [after-hours trading](../a/after-hours_trading.md).
 
 ## Advantages of Extended Trading
 
@@ -74,10 +74,10 @@ Technology plays a crucial role in facilitating extended trading. Advances in EC
 ## Key Players
 
 Several financial firms and technology companies are leading the way in extended trading services:
- 
-- **Virtu Financial**: A leading provider of trading services, Virtu offers [liquidity](../l/liquidity.md) and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) during extended hours. Visit their website at: [Virtu Financial](https://www.virtu.com)
-- **Citadel Securities**: Known for its [market](../m/market.md)-making capabilities, Citadel is a significant player in extended trading. More details are available at: [Citadel Securities](https://www.citadelsecurities.com)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: This brokerage [firm](../f/firm.md) provides extended hours trading to its clients with access to various ECNs. Explore more at: [Interactive Brokers](https://www.interactivebrokers.com)
+
+- **Virtu Financial**: A leading provider of trading services, Virtu offers [liquidity](../l/liquidity.md) and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) during extended hours.
+- **Citadel Securities**: Known for its [market](../m/market.md)-making capabilities, Citadel is a significant player in extended trading. More details are available at: Citadel Securities
+- **[Interactive Brokers](../i/interactive_brokers.md)**: This brokerage [firm](../f/firm.md) provides extended hours trading to its clients with access to various ECNs. Explore more at: Interactive Brokers
 
 ## Conclusion
 

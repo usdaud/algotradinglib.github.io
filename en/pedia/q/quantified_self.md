@@ -41,7 +41,7 @@ One of the most significant applications of the Quantified Self movement is in p
 - **Fitness Tracking:** Monitoring physical activity levels, caloric intake, and [exercise](../e/exercise.md) routines to improve physical health.
 - **Sleep Tracking:** Understanding sleep patterns to enhance rest and recovery.
 - **Mental Health:** Tracking mood and stress levels which can be pivotal in managing mental health issues.
-  
+
 ### 2. **Disease Management**
 
 For individuals with chronic conditions such as diabetes or cardiovascular diseases, self-tracking tools can provide critical data for managing their health more effectively. Continuous monitoring allows for early detection of anomalies, aiding in preventive health care.
@@ -87,8 +87,8 @@ The future of the Quantified Self movement [will](../w/will.md) likely involve m
 3. **Personalized Medicine:** Bio-data gathered through self-tracking could enable more personalized healthcare treatments tailored to individual needs.
 
 For more insights into the tools available for the Quantified Self, visit:
-- [MyFitnessPal](https://www.myfitnesspal.com/)
-- [Fitbit](https://www.fitbit.com/global/us/home)
-- [Sleep Cycle](https://www.sleepcycle.com/)
+- MyFitnessPal
+- Fitbit
+- Sleep Cycle
 
 Quantified Self is a toolbox for personal betterment where digital technology and [data analytics](../d/data_analytics.md) blend, providing avenues for enhancing life quality through continuous and informed self-monitoring. Its potential is vast, but caution and ethical considerations must guide its application to ensure that it serves humanity beneficially.

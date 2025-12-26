@@ -88,13 +88,13 @@ Epic Games’ Fortnite has become one of the highest-grossing games, thanks larg
 
 OpenSea is a leading marketplace for NFTs, facilitating billions of dollars in transactions. The platform allows users to buy, sell, and [trade](../t/trade.md) a [wide variety](../w/wide_variety.md) of digital assets. OpenSea’s growth highlights the potential for NFTs as a new [asset class](../a/asset_class.md).
 
-Website: [OpenSea](https://opensea.io/)
+online platform: OpenSea
 
 ### Roblox
 
 Roblox is an online gaming platform and game creation system where users can create and play games. The platform has its [virtual currency](../v/virtual_currency.md), Robux, which players can use to buy virtual items, games, and experiences. Roblox’s user-generated content model has made it a significant player in the virtual goods [market](../m/market.md).
 
-Website: [Roblox](https://www.roblox.com/)
+online platform: Roblox
 
 ## Conclusion
 

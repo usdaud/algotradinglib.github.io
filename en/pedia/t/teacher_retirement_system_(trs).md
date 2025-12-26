@@ -8,7 +8,7 @@ The TRS was established to provide a reliable pension system for educators and o
 
 ## Structure and Governance
 
-The TRS is usually managed by a [board of trustees](../b/board_of_trustees.md), including representatives from various stakeholders like educators, administrators, and government officials. These boards make decisions regarding the investment of funds, benefits administration, and policy changes. For example, the Texas Teacher Retirement System is governed by a nine-member [board of trustees](../b/board_of_trustees.md) (https://www.trs.texas.gov/Pages/[home](../h/home.md).aspx).
+The TRS is usually managed by a [board of trustees](../b/board_of_trustees.md), including representatives from various stakeholders like educators, administrators, and government officials. These boards make decisions regarding the investment of funds, benefits administration, and policy changes. For example, the Texas Teacher Retirement System is governed by a nine-member [board of trustees](../b/board_of_trustees.md) (
 
 ## Membership and Eligibility
 

@@ -45,7 +45,7 @@ One of the areas where understanding [Kondratieff Waves](../k/kondratieff_waves.
 
 ### Backtesting Strategies
 
-[Algorithmic trading](../a/accountability.md) (algotrading) systems can be designed to backtest historical data based on Kondratieff Wave phases. By examining past [economic cycles](../e/economic_cycles.md), traders can refine their strategies to anticipate [market](../m/market.md) shifts better. This could involve [machine learning](../m/machine_learning.md) models trained on a combination of [economic indicators](../e/economic_indicators.md), historical [asset](../a/asset.md) prices, and known phase transitions.
+[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) systems can be designed to backtest historical data based on Kondratieff Wave phases. By examining past [economic cycles](../e/economic_cycles.md), traders can refine their strategies to anticipate [market](../m/market.md) shifts better. This could involve [machine learning](../m/machine_learning.md) models trained on a combination of [economic indicators](../e/economic_indicators.md), historical [asset](../a/asset.md) prices, and known phase transitions.
 
 ### Risk Management
 
@@ -54,7 +54,7 @@ Understanding long-term [economic cycles](../e/economic_cycles.md) can enhance [
 ## Case Studies
 
 Several financial institutions and think tanks have explored the application of Kondratieff [Wave theory](../w/wave.md) to modern markets. For example:
-- **Longwave Group** (http://longwavegroup.com) has extensively researched and published materials related to this theory and its applications in [financial markets](../f/financial_market.md).
+- **Longwave Group** ( has extensively researched and published materials related to this theory and its applications in [financial markets](../f/financial_market.md).
 
 ## Future Research
 
@@ -72,4 +72,4 @@ Developing sophisticated [quantitative models](../q/quantitative_models.md) that
 
 ## Conclusion
 
-The Kondratieff Wave presents a compelling framework for understanding long-term [economic cycles](../e/economic_cycles.md) and their impact on [financial markets](../f/financial_market.md). While controversial and subject to criticism, the theory offers valuable insights that can be leveraged in [algorithmic trading](../a/accountability.md) and investment strategies. As technology evolves and the global [economy](../e/economy.md) changes, ongoing research and adaptation of Kondratieff's principles remain critical.
+The Kondratieff Wave presents a compelling framework for understanding long-term [economic cycles](../e/economic_cycles.md) and their impact on [financial markets](../f/financial_market.md). While controversial and subject to criticism, the theory offers valuable insights that can be leveraged in [algorithmic trading](../a/algorithmic_trading.md) and investment strategies. As technology evolves and the global [economy](../e/economy.md) changes, ongoing research and adaptation of Kondratieff's principles remain critical.

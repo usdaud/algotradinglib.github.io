@@ -54,10 +54,10 @@ A municipality issues a [20-year bond](../1/20-year_bond.md) with a 4% [coupon r
 ## Real-World Applications
 
 ### Apple Inc.
-Apple Inc. issued corporate bonds with make-whole call provisions. In case of early [repayment](../r/repayment.md), Apple would compensate the bondholders with a make-whole amount. More detailed information on their corporate bonds can be found on Apple’s [investor relations](../i/investor_relations.md) page: [Apple Investor Relations](https://investor.apple.com/).
+Apple Inc. issued corporate bonds with make-whole call provisions. In case of early [repayment](../r/repayment.md), Apple would compensate the bondholders with a make-whole amount. More detailed information on their corporate bonds can be found on Apple’s [company filings](../i/investor_relations.md) page.
 
 ### Microsoft Corporation
-Microsoft [Corporation](../c/corporation.md)'s [bond](../b/bond.md) issues often include make-whole call provisions to provide flexibility in [debt](../d/debt.md) management. For more information, visit their [investor relations](../i/investor_relations.md) page: [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor/).
+Microsoft [Corporation](../c/corporation.md)'s [bond](../b/bond.md) issues often include make-whole call provisions to provide flexibility in [debt](../d/debt.md) management../i/investor_relations.md) page.
 
 ## Key Considerations
 

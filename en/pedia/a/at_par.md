@@ -25,7 +25,7 @@ In forex trading, "at par" can refer to the situation where two currencies are o
 
 ### Interest Rates
 
-One of the most significant factors affecting whether a [bond](../b/bond.md) trades at par is the prevailing [interest rate](../i/interest_rate.md) environment. Central banks' [monetary policy](../m/monetary_policy.md) decisions can influence [interest](../i/interest.md) rates, which in turn affect [bond](../b/bond.md) prices. 
+One of the most significant factors affecting whether a [bond](../b/bond.md) trades at par is the prevailing [interest rate](../i/interest_rate.md) environment. Central banks' [monetary policy](../m/monetary_policy.md) decisions can influence [interest](../i/interest.md) rates, which in turn affect [bond](../b/bond.md) prices.
 
 - **Rising [Interest](../i/interest.md) Rates:** When [interest](../i/interest.md) rates rise, existing bonds with lower fixed coupon rates become less attractive, leading their prices to fall below par.
 - **Falling [Interest](../i/interest.md) Rates:** Conversely, when [interest](../i/interest.md) rates drop, existing bonds with relatively higher coupon rates become more attractive, driving their prices above par.
@@ -60,4 +60,4 @@ While less common, the concept of trading at par is also applied in [currency](.
 
 Understanding the concept of "at par" is essential for investors navigating [bond](../b/bond.md) markets, [currency trading](../c/currency_trading_strategies.md), and other financial instruments. It provides insights into the [relative value](../r/relative_value.md) of these instruments under various [market](../m/market.md) conditions. Being able to interpret at par trading helps investors make informed decisions about buying or selling securities based on their current [market](../m/market.md) prices, prevailing [interest](../i/interest.md) rates, and overall [economic conditions](../e/economic_conditions.md).
 
-For more detailed information on bonds and trading, you may refer to [Investopedia's Bond Basics](https://www.investopedia.com/investing/bond-basics/) or [U.S. Securities and Exchange Commission's Guide to Bonds](https://www.sec.gov/files/ib_bonds.pdf).
+For more detailed information on bonds and trading, you may refer to Investopedia's Bond Basics or U.S. Securities and Exchange Commission's Guide to Bonds.

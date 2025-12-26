@@ -37,9 +37,9 @@ South Koreans demonstrate a cultural propensity for collective action and enthus
 ### Practical Challenges
 
 While the concept is straightforward, several obstacles complicate the [execution](../e/execution.md) of such [arbitrage](../a/arbitrage.md) strategies:
-  - **KYC/AML Regulations**: Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) regulations make it arduous and time-consuming for traders to move funds across borders.
-  - **[Transaction](../t/transaction.md) Delays**: The time it takes to transfer cryptocurrencies and fiat currencies between exchanges can negate the [profit margins](../p/profit_margins_in_trading.md).
-  - **Fees and Commissions**: High [transaction fees](../t/transaction_fees.md), especially involving international transfers, can erode potential gains from [arbitrage](../a/arbitrage.md).
+ - **KYC/AML Regulations**: Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) regulations make it arduous and time-consuming for traders to move funds across borders.
+ - **[Transaction](../t/transaction.md) Delays**: The time it takes to transfer cryptocurrencies and fiat currencies between exchanges can negate the [profit margins](../p/profit_margins_in_trading.md).
+ - **Fees and Commissions**: High [transaction fees](../t/transaction_fees.md), especially involving international transfers, can erode potential gains from [arbitrage](../a/arbitrage.md).
 
 ### Examples of Arbitrage Strategies
 
@@ -51,9 +51,9 @@ While the concept is straightforward, several obstacles complicate the [executio
 ### South Korean Regulations
 
 The South Korean government exercises stringent control over the cryptocurrency [market](../m/market.md):
-  - **Real-Name Trading**: Enforces the use of real names and stringent KYC processes.
-  - **[Taxation](../t/taxation.md) Policies**: Plans and regulations for taxing cryptocurrency gains.
-  - **[Exchange](../e/exchange.md) Licensing**: Requires exchanges to obtain licenses to operate and mandates compliance with [security](../s/security.md) protocols.
+ - **Real-Name Trading**: Enforces the use of real names and stringent KYC processes.
+ - **[Taxation](../t/taxation.md) Policies**: Plans and regulations for taxing cryptocurrency gains.
+ - **[Exchange](../e/exchange.md) Licensing**: Requires exchanges to obtain licenses to operate and mandates compliance with [security](../s/security.md) protocols.
 
 ### International Influence
 

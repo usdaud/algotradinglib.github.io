@@ -84,15 +84,15 @@ Quantitative models are extensively used by [hedge](../h/hedge.md) funds, [propr
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons, is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). The [firm](../f/firm.md) is known for its Medallion [Fund](../f/fund.md), which uses complex [mathematical models](../m/mathematical_models_in_trading.md) to [trade](../t/trade.md) in various markets. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, founded by James Simons, is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). The [firm](../f/firm.md) is known for its Medallion [Fund](../f/fund.md), which uses complex [mathematical models](../m/mathematical_models_in_trading.md) to [trade](../t/trade.md) in various markets.
 
 ### Two Sigma
 
-Two Sigma is a technology-driven [hedge fund](../h/hedge_fund.md) that leverages [quantitative analysis](../q/quantitative_analysis.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs data scientists and [machine learning](../m/machine_learning.md) experts to uncover inefficiencies in the markets. More information can be found on their [website](https://www.twosigma.com/).
+Two Sigma is a technology-driven [hedge fund](../h/hedge_fund.md) that leverages [quantitative analysis](../q/quantitative_analysis.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs data scientists and [machine learning](../m/machine_learning.md) experts to uncover inefficiencies in the markets.
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) specializes in quantitative and [systematic investment strategies](../s/systematic_investment_strategies.md) across various [asset](../a/asset.md) classes. They utilize academic research to develop models that identify [market](../m/market.md) inefficiencies and generate [alpha](../a/alpha.md). More information can be found on their [website](https://www.aqr.com/).
+AQR [Capital](../c/capital.md) specializes in quantitative and [systematic investment strategies](../s/systematic_investment_strategies.md) across various [asset](../a/asset.md) classes. They utilize academic research to develop models that identify [market](../m/market.md) inefficiencies and generate [alpha](../a/alpha.md).
 
 ## Challenges and Considerations
 

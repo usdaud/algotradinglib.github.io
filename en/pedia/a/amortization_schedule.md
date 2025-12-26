@@ -23,37 +23,37 @@ Let's delve into how an amortization schedule can be calculated, usually requiri
 ### Formulae
 
 - **Monthly [Payment](../p/payment.md) Calculation:**
-  \[
-  M = P \frac{r(1+r)^n}{(1+r)^n - 1}
-  \]
-  Where:
-  - \( M \) = Total monthly [mortgage](../m/mortgage.md) [payment](../p/payment.md)
-  - \( P \) = [Principal](../p/principal.md) [loan](../l/loan.md) amount
-  - \( r \) = Monthly [interest rate](../i/interest_rate.md) (annual rate divided by 12)
-  - \( n \) = Number of payments ([loan](../l/loan.md) term in years times 12)
+ \[
+ M = P \frac{r(1+r)^n}{(1+r)^n - 1}
+ \]
+ Where:
+ - \( M \) = Total monthly [mortgage](../m/mortgage.md) [payment](../p/payment.md)
+ - \( P \) = [Principal](../p/principal.md) [loan](../l/loan.md) amount
+ - \( r \) = Monthly [interest rate](../i/interest_rate.md) (annual rate divided by 12)
+ - \( n \) = Number of payments ([loan](../l/loan.md) term in years times 12)
 
 - **[Interest](../i/interest.md) [Payment](../p/payment.md) Calculation for Each Month:**
-  \[
-  I_j = P_j \times r
-  \]
-  Where:
-  - \( I_j \) = [Interest](../i/interest.md) portion of the [payment](../p/payment.md) for month \( j \)
-  - \( P_j \) = [Principal](../p/principal.md) balance at the beginning of month \( j \)
+ \[
+ I_j = P_j \times r
+ \]
+ Where:
+ - \( I_j \) = [Interest](../i/interest.md) portion of the [payment](../p/payment.md) for month \( j \)
+ - \( P_j \) = [Principal](../p/principal.md) balance at the beginning of month \( j \)
 
 - **[Principal](../p/principal.md) [Payment](../p/payment.md) Calculation for Each Month:**
-  \[
-  C_j = M - I_j
-  \]
-  Where:
-  - \( C_j \) = [Principal](../p/principal.md) portion of the [payment](../p/payment.md) for month \( j \)
+ \[
+ C_j = M - I_j
+ \]
+ Where:
+ - \( C_j \) = [Principal](../p/principal.md) portion of the [payment](../p/payment.md) for month \( j \)
 
 - **New [Principal](../p/principal.md) Balance Calculation:**
-  \[
-  P_{j+1} = P_j - C_j
-  \]
-  Where:
-  - \( P_{j+1} \) = New [principal](../p/principal.md) balance after month \( j \)
-  - \( P_j \) = [Principal](../p/principal.md) balance at the beginning of month \( j \)
+ \[
+ P_{j+1} = P_j - C_j
+ \]
+ Where:
+ - \( P_{j+1} \) = New [principal](../p/principal.md) balance after month \( j \)
+ - \( P_j \) = [Principal](../p/principal.md) balance at the beginning of month \( j \)
 
 ### Example Calculation
 
@@ -85,9 +85,9 @@ Here’s how the first few entries in an amortization schedule for the given [lo
 
 | [Payment](../p/payment.md) Date | [Payment](../p/payment.md) Amount | [Interest](../i/interest.md) Amount | [Principal](../p/principal.md) Amount | [Principal](../p/principal.md) Balance |
 |--------------|----------------|-----------------|------------------|-------------------|
-| 1/1/2023     | $1,074.19      | $833.33         | $240.86          | $199,759.14       |
-| 2/1/2023     | $1,074.19      | $832.33         | $241.86          | $199,517.28       |
-| 3/1/2023     | $1,074.19      | $831.32         | $242.87          | $199,274.41       |
+| 1/1/2023 | $1,074.19 | $833.33 | $240.86 | $199,759.14 |
+| 2/1/2023 | $1,074.19 | $832.33 | $241.86 | $199,517.28 |
+| 3/1/2023 | $1,074.19 | $831.32 | $242.87 | $199,274.41 |
 
 ## Types of Loans and Amortization
 
@@ -133,8 +133,8 @@ Various online tools and software are available to generate amortization schedul
 
 - **Excel:** Microsoft Excel comes with built-in financial functions that allow users to create custom amortization schedules.
 - **QuickBooks:** Intuit’s QuickBooks has functionalities to [handle](../h/handle.md) loans and generate amortization schedules.
-- **Online Calculators:** Websites like [Bankrate](https://www.bankrate.com/calculators/mortgages/amortization-calculator.aspx), [MortgageCalculator](https://www.mortgagecalculator.org/), and [NerdWallet](https://www.nerdwallet.com/mortgages/mortgage-calculator/calculator) provide easy-to-use amortization calculators.
-- **[Finance](../f/finance.md) and [Accounting](../a/accounting.md) Software:** Specialized [finance](../f/finance.md) software like [Quicken](https://www.quicken.com/), [Mint](https://www.mint.com/), and others also provide capabilities to track loans and create amortization schedules.
+- **Online Calculators:** Websites like Bankrate, MortgageCalculator, and NerdWallet provide easy-to-use amortization calculators.
+- **[Finance](../f/finance.md) and [Accounting](../a/accounting.md) Software:** Specialized [finance](../f/finance.md) software like Quicken, Mint, and others also provide capabilities to track loans and create amortization schedules.
 
 ## Conclusion
 

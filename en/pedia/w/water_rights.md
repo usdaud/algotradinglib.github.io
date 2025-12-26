@@ -40,7 +40,7 @@ Water trading and markets allow for the [exchange](../e/exchange.md) of water ri
 Technological advancements significantly impact water rights management. Innovations include:
 - **Remote Sensing**: Satellite data helps monitor water usage and compliance with water rights.
 - **Water [Accounting](../a/accounting.md) Software**: Systems like AquaCrop facilitate water resource management and planning.
-- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Offers secure and transparent tracking of water rights transactions. 
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Offers secure and transparent tracking of water rights transactions.
 
 ## Challenges and Policy Considerations
 Several challenges complicate the efficient management of water rights. Addressing these issues requires careful policy design and international cooperation:

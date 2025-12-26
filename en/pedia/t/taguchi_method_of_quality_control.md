@@ -106,11 +106,8 @@ In semiconductor [manufacturing](../m/manufacturing.md), where precise control o
 Several software packages [offer](../o/offer.md) functionalities to implement the Taguchi Method, helping streamline the design and analysis process:
 
 - **Minitab**: Provides tools for designing experiments using Orthogonal Arrays and analyzing the resulting data.
-  [Minitab](https://www.minitab.com/en-us/products/minitab/)
 - **JMP**: Offers [robust](../r/robust.md) design and experiment analysis capabilities, including the Taguchi Method.
-  [JMP](https://www.jmp.com/en_us/home.html)
 - **Design-Expert**: Specializes in design of experiments, including Taguchi designs.
-  [Design-Expert](https://www.statease.com/software/design-expert/)
 
 ## Conclusion
 

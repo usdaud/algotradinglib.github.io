@@ -12,7 +12,7 @@ One of the primary attractions of hybrid annuities is the promise of guaranteed 
 
 ### Market Participation
 
-The variable portion of the hybrid annuity is tied to [market](../m/market.md) performance, often through investments in mutual funds, [stocks](../s/stock.md), or bonds. This allows investors to potentially benefit from [market](../m/market.md) upswings. However, it also exposes them to risks associated with [market](../m/market.md) downturns. 
+The variable portion of the hybrid annuity is tied to [market](../m/market.md) performance, often through investments in mutual funds, [stocks](../s/stock.md), or bonds. This allows investors to potentially benefit from [market](../m/market.md) upswings. However, it also exposes them to risks associated with [market](../m/market.md) downturns.
 
 ### Flexibility
 
@@ -66,19 +66,16 @@ Early withdrawals from hybrid annuities can incur surrender charges, which can b
 
 Prudential Financial offers a variety of hybrid annuity products aimed at providing both growth and [security](../s/security.md). They [offer](../o/offer.md) customizable [options](../o/options.md) and features that can be tailored to individual needs.
 
-[Prudential Financial Hybrid Annuities](https://www.prudential.com/annuity)
 
 ### Allianz
 
 Allianz is known for its fixed indexed annuities, which are a type of hybrid annuity. Their products emphasize growth potential linked to [market](../m/market.md) indices while providing protection against [market](../m/market.md) downturns.
 
-[Allianz Fixed Indexed Annuities](https://www.allianzlife.com/annuities/fixed-indexed-annuities)
 
 ### MetLife
 
 MetLife provides hybrid annuities that [offer](../o/offer.md) a blend of fixed and variable components. Their products are designed to provide guaranteed [income](../i/income.md) and potential [market](../m/market.md) growth, catering to a wide [range](../r/range.md) of investment needs.
 
-[MetLife Annuities](https://www.metlife.com/individual/insurance/annuities/)
 
 ## Key Considerations
 

@@ -17,7 +17,7 @@ The amount of earnest [money](../m/money.md) required can vary based on the loca
 
 ### Factors Influencing Earnest Money Amount
 Various factors can influence the size of the earnest [money](../m/money.md) [deposit](../d/deposit.md), including:
-	
+
 - **[Market](../m/market.md) Conditions:** In a seller’s [market](../m/market.md), where [demand](../d/demand.md) outstrips [supply](../s/supply.md), buyers may [offer](../o/offer.md) higher earnest [money](../m/money.md) deposits to make their offers more attractive.
 - **Property Type and [Value](../v/value.md):** More expensive properties typically require larger earnest [money](../m/money.md) deposits.
 - **Negotiations:** The terms between the buyer and seller can significantly impact the earnest [money](../m/money.md) amount; it is often a subject of [negotiation](../n/negotiation.md).

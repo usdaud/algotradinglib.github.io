@@ -17,16 +17,16 @@ Public pension plans are typically funded through [payroll](../p/payroll.md) [ta
 #### Examples
 
 1. **United States: [Social Security](../s/social_security.md) Administration (SSA)**
-   - The [Social Security](../s/social_security.md) program in the United States is a form of public [pension plan](../p/pension_plan.md). It is funded through [payroll](../p/payroll.md) [taxes](../t/taxes.md) collected under the Federal [Insurance](../i/insurance.md) Contributions Act (FICA) and provides benefits to retirees based on their [earnings](../e/earnings.md) history.
-   - [Social Security Administration](https://www.ssa.gov/)
+ - The [Social Security](../s/social_security.md) program in the United States is a form of public [pension plan](../p/pension_plan.md). It is funded through [payroll](../p/payroll.md) [taxes](../t/taxes.md) collected under the Federal [Insurance](../i/insurance.md) Contributions Act (FICA) and provides benefits to retirees based on their [earnings](../e/earnings.md) history.
+ - Social Security Administration
 
 2. **Canada: Canada [Pension Plan](../p/pension_plan.md) (CPP)**
-   - The Canada [Pension Plan](../p/pension_plan.md) is a contributory, [earnings](../e/earnings.md)-related social [insurance](../i/insurance.md) program. Canadian workers contribute to the CPP throughout their working lives, and benefits are paid out upon retirement.
-   - [Canada Pension Plan](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html)
+ - The Canada [Pension Plan](../p/pension_plan.md) is a contributory, [earnings](../e/earnings.md)-related social [insurance](../i/insurance.md) program. Canadian workers contribute to the CPP throughout their working lives, and benefits are paid out upon retirement.
+ - Canada Pension Plan
 
 3. **United Kingdom: State Pension**
-   - The State Pension is a public pension system in the UK, funded by National [Insurance](../i/insurance.md) contributions. It provides regular payments to eligible retirees.
-   - [State Pension](https://www.gov.uk/state-pension)
+ - The State Pension is a public pension system in the UK, funded by National [Insurance](../i/insurance.md) contributions. It provides regular payments to eligible retirees.
+ - State Pension
 
 ### Mandatory Retirement Savings Plans
 
@@ -35,12 +35,12 @@ Mandatory retirement savings plans require individuals to contribute a portion o
 #### Examples
 
 1. **Australia: [Superannuation](../s/superannuation.md)**
-   - Australia's [Superannuation](../s/superannuation.md) system mandates that employers contribute a percentage of their employees' wages into a [superannuation](../s/superannuation.md) [fund](../f/fund.md). Employees can also make additional contributions.
-   - [Superannuation](https://www.ato.gov.au/Individuals/Super/)
+ - Australia's [Superannuation](../s/superannuation.md) system mandates that employers contribute a percentage of their employees' wages into a [superannuation](../s/superannuation.md) [fund](../f/fund.md). Employees can also make additional contributions.
+ - Superannuation
 
 2. **Singapore: Central [Provident Fund](../p/provident_fund.md) (CPF)**
-   - The CPF is a mandatory savings scheme in Singapore designed to provide working Singaporeans with savings for retirement, healthcare, and housing. Employees and employers contribute to the CPF.
-   - [Central Provident Fund](https://www.cpf.gov.sg/)
+ - The CPF is a mandatory savings scheme in Singapore designed to provide working Singaporeans with savings for retirement, healthcare, and housing. Employees and employers contribute to the CPF.
+ - Central Provident Fund
 
 ### Voluntary Retirement Savings Plans
 
@@ -49,12 +49,12 @@ Voluntary retirement savings plans are optional programs that allow individuals 
 #### Examples
 
 1. **United States: Individual Retirement Accounts (IRAs)**
-   - IRAs are retirement accounts that provide tax advantages for retirement savings. There are different types of IRAs, including Traditional IRAs and Roth IRAs.
-   - [Internal Revenue Service - IRAs](https://www.irs.gov/retirement-plans/individual-retirement-arrangements-iras)
+ - IRAs are retirement accounts that provide tax advantages for retirement savings. There are different types of IRAs, including Traditional IRAs and Roth IRAs.
+ - Internal Revenue Service - IRAs
 
 2. **United Kingdom: Workplace Pensions**
-   - In addition to the State Pension, the UK offers workplace pensions. Employers set up these pension schemes, and both employees and employers may contribute to them.
-   - [Workplace Pensions](https://www.gov.uk/workplace-pensions)
+ - In addition to the State Pension, the UK offers workplace pensions. Employers set up these pension schemes, and both employees and employers may contribute to them.
+ - Workplace Pensions
 
 ## Key Features of GSRAs
 

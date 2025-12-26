@@ -10,11 +10,11 @@ Sector indices are subsets of the broader [market](../m/market.md) indices and a
 
 Some well-known sector indices include:
 
-- **S&P 500 Sectors**: The S&P 500 is divided into 11 sectors, including information technology, healthcare, financials, consumer discretionaries, and others. Each sector [index](../i/index_instrument.md) tracks the performance of companies within that sector. For more information, visit [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/).
+- **S&P 500 Sectors**: The S&P 500 is divided into 11 sectors, including information technology, healthcare, financials, consumer discretionaries, and others. Each sector [index](../i/index_instrument.md) tracks the performance of companies within that sector. For more information, visit S&P Dow Jones Indices.
 
-- **MSCI ACWI Sector Indices**: These indices provide a global overview, tracking the performance of sectors across developed and emerging markets. Details can be found on the [MSCI website](https://www.msci.com/).
+- **MSCI ACWI Sector Indices**: These indices provide a global overview, tracking the performance of sectors across developed and emerging markets.
 
-- **[NASDAQ](../n/nasdaq.md) Sector Indices**: Known for its technology-heavy listings, the [NASDAQ](../n/nasdaq.md) also provides indices for various sectors such as biotechnology, computer hardware, and telecommunications. Visit the [NASDAQ website](https://www.nasdaq.com/).
+- **[NASDAQ](../n/nasdaq.md) Sector Indices**: Known for its technology-heavy listings, the [NASDAQ](../n/nasdaq.md) also provides indices for various sectors such as biotechnology, computer hardware, and telecommunications.
 
 ### Importance in Algorithmic Trading
 
@@ -41,7 +41,7 @@ These classification systems ensure consistent and transparent categorization, w
 The [technology sector](../t/technology_sector.md) is one of the most followed indices due to the rapid growth and innovation within this [industry](../i/industry.md). It includes companies involved in software, hardware, IT services, and electronics.
 
 #### Example: NASDAQ-100 Technology Sector Index
-This [index](../i/index_instrument.md) tracks the performance of the technology companies within the broader [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md). 
+This [index](../i/index_instrument.md) tracks the performance of the technology companies within the broader [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md).
 
 ### Healthcare Sector
 
@@ -78,11 +78,11 @@ It measures the performance of the consumer services sector in the U.S.
 ### Steps in Sector Rotation Strategy
 
 1. **Identify Leading and Lagging Sectors**: Analyze historical performance data to determine which sectors are leading or lagging in the current [market](../m/market.md) cycle.
-   
+
 2. **Analyze [Economic Indicators](../e/economic_indicators.md)**: Use economic data such as GDP growth, [interest](../i/interest.md) rates, and consumer spending to predict [sector performance](../s/sector_performance.md).
-   
+
 3. **Apply [Technical Analysis](../t/technical_analysis.md)**: Utilize [technical indicators](../t/technical_indicators.md) to monitor sector indices and identify entry and exit points.
-   
+
 4. **Automate the Strategy**: Develop algorithms that execute trades based on predefined criteria and [market](../m/market.md) signals.
 
 ## Challenges and Risks

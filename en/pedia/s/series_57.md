@@ -23,7 +23,7 @@ Each question tests the candidate’s ability to apply the rules and practices i
 
 To be eligible to sit for the Series 57 exam, a candidate must be associated with and sponsored by a FINRA-member [firm](../f/firm.md) or another regulatory authority's [firm](../f/firm.md). This sponsorship requirement means that candidates already need to be employed in the [industry](../i/industry.md) and be preparing for or expanding their roles within their [firm](../f/firm.md).
 
-Furthermore, candidates are required to pass the Securities [Industry](../i/industry.md) Essentials (SIE) exam either before or along with the Series 57 exam. The SIE exam tests fundamental securities [industry](../i/industry.md) knowledge and serves as a stepping stone to more specialized FINRA exams like the Series 57. 
+Furthermore, candidates are required to pass the Securities [Industry](../i/industry.md) Essentials (SIE) exam either before or along with the Series 57 exam. The SIE exam tests fundamental securities [industry](../i/industry.md) knowledge and serves as a stepping stone to more specialized FINRA exams like the Series 57.
 
 ## The Significance of the Series 57 License
 
@@ -41,13 +41,13 @@ For professionals in the trading [industry](../i/industry.md), obtaining the Ser
 
 ### Financial Markets Context
 
-Trading in today's [financial markets](../f/financial_market.md) involves complex strategies, high-frequency trading, [algorithmic trading](../a/accountability.md), and a thorough understanding of [market microstructure](../m/market_microstructure.md). The Series 57 ensures that professionals are equipped to [handle](../h/handle.md) these complex aspects efficiently and ethically, thus contributing to the robustness and integrity of [financial markets](../f/financial_market.md).
+Trading in today's [financial markets](../f/financial_market.md) involves complex strategies, high-frequency trading, [algorithmic trading](../a/algorithmic_trading.md), and a thorough understanding of [market microstructure](../m/market_microstructure.md). The Series 57 ensures that professionals are equipped to [handle](../h/handle.md) these complex aspects efficiently and ethically, thus contributing to the robustness and integrity of [financial markets](../f/financial_market.md).
 
 ## The Examination Process
 
 ### Registration and Application
 
-To take the Series 57 exam, candidates must be registered with the FINRA-member [firm](../f/firm.md) which sponsors their application. The registration can be completed using the Form U4 (Uniform Application for Securities [Industry](../i/industry.md) Registration or Transfer). Once registered, candidates can schedule their examination through the Prometric website, which administers the test on behalf of FINRA.
+To take the Series 57 exam, candidates must be registered with the FINRA-member [firm](../f/firm.md) which sponsors their application. The registration can be completed using the Form U4 (Uniform Application for Securities [Industry](../i/industry.md) Registration or Transfer). Once registered, candidates can schedule their examination.
 
 ### Fees
 
@@ -79,6 +79,6 @@ The regulatory-element training is mandated by FINRA and must be completed withi
 
 ## Conclusion
 
-The Series 57 license is a critical qualification for anyone involved in securities trading in the United States. It ensures that traders have a [firm](../f/firm.md) understanding of the regulatory landscape, trading practices, and [market](../m/market.md) structures. Obtaining this license not only enhances a [trader](../t/trader.md)'s competence and compliance but also plays a significant role in career progression within the financial [industry](../i/industry.md). 
+The Series 57 license is a critical qualification for anyone involved in securities trading in the United States. It ensures that traders have a [firm](../f/firm.md) understanding of the regulatory landscape, trading practices, and [market](../m/market.md) structures. Obtaining this license not only enhances a [trader](../t/trader.md)'s competence and compliance but also plays a significant role in career progression within the financial [industry](../i/industry.md).
 
-For more detailed information on the Series 57 exam, you can visit the [FINRA website](https://www.finra.org).
+For more detailed information on the Series 57 exam,

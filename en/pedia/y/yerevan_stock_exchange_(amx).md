@@ -74,4 +74,4 @@ The Yerevan Stock [Exchange](../e/exchange.md) aims to integrate more closely wi
 
 The Yerevan Stock [Exchange](../e/exchange.md) stands as a cornerstone of Armenia's [financial system](../f/financial_system.md), providing a vital platform for [capital](../c/capital.md) formation and [economic growth](../e/economic_growth.md). As it continues to evolve, addressing challenges such as [market](../m/market.md) [liquidity](../l/liquidity.md) and [investor](../i/investor.md) education [will](../w/will.md) be essential for its future growth and integration into the global [financial system](../f/financial_system.md).
 
-For more information, you can visit the Yerevan Stock [Exchange](../e/exchange.md)'s official website [here](https://amx.am/en).
+For more information, you can visit the Yerevan Stock [Exchange](../e/exchange.md)'s public materials here.

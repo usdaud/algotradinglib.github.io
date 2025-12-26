@@ -29,11 +29,11 @@ Common categories of bonds include:
 One of the primary aspects of [fixed income](../f/fixed_income.md) analysis is the computation and interpretation of yields:
 
 1. **[Current Yield](../c/current_yield.md)**: Reflects the [interest](../i/interest.md) earned relative to the [bond](../b/bond.md)'s current price.
-    \[
-    \text{[Current Yield](../c/current_yield.md)} = \frac{\text{Annual Coupon [Payment](../p/payment.md)}}{\text{Current [Market Price](../m/market_price.md)}}
-    \]
+ \[
+ \text{[Current Yield](../c/current_yield.md)} = \frac{\text{Annual Coupon [Payment](../p/payment.md)}}{\text{Current [Market Price](../m/market_price.md)}}
+ \]
 2. **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: The [total return](../t/total_return.md) anticipated on a [bond](../b/bond.md) if held until it matures, [accounting](../a/accounting.md) for current [market price](../m/market_price.md), coupon payments, and [maturity](../m/maturity.md) [value](../v/value.md).
-    - This calculation requires iterative methods or financial calculators, as it considers the [present value](../p/present_value.md) of future cash flows.
+ - This calculation requires iterative methods or financial calculators, as it considers the [present value](../p/present_value.md) of future cash flows.
 3. **[Yield Spread](../y/yield_spread.md)**: The difference in yields between two bonds, typically of varying [credit](../c/credit.md) qualities or maturities, indicative of [risk](../r/risk.md) premiums.
 
 #### Duration and Convexity
@@ -41,8 +41,8 @@ One of the primary aspects of [fixed income](../f/fixed_income.md) analysis is t
 These metrics gauge a [bond](../b/bond.md)'s sensitivity to [interest rate](../i/interest_rate.md) changes:
 
 1. **[Duration](../d/duration.md)**: Measures the [weighted average](../w/weighted_average.md) time before a [bond](../b/bond.md)'s cash flows are received.
-   - **[Macaulay Duration](../m/macaulay_duration.md)**: [Bond](../b/bond.md)’s [weighted average](../w/weighted_average.md) time to cash flows.
-   - **[Modified Duration](../m/modified_duration.md)**: Adjusted for [yield](../y/yield.md) to provide a [price sensitivity](../p/price_sensitivity.md) estimate to [yield](../y/yield.md) changes.
+ - **[Macaulay Duration](../m/macaulay_duration.md)**: [Bond](../b/bond.md)’s [weighted average](../w/weighted_average.md) time to cash flows.
+ - **[Modified Duration](../m/modified_duration.md)**: Adjusted for [yield](../y/yield.md) to provide a [price sensitivity](../p/price_sensitivity.md) estimate to [yield](../y/yield.md) changes.
 2. **[Convexity](../c/convexity.md)**: Enhances [duration](../d/duration.md) approximation by [accounting](../a/accounting.md) for changes in [duration](../d/duration.md) as yields change, providing a more accurate measure of [bond](../b/bond.md) [price sensitivity](../p/price_sensitivity.md) to [interest](../i/interest.md) rates.
 
 #### Credit Analysis
@@ -69,7 +69,7 @@ A thorough [fixed income](../f/fixed_income.md) analysis necessitates [credit ri
 
 Modern [fixed income](../f/fixed_income.md) analysis leverages sophisticated software and algorithms for:
 
-- **Automated Trading**: Utilizing platforms like [Algomi](https://www.algomi.com/) that provide [fixed income](../f/fixed_income.md) [market](../m/market.md) intelligence and connectivity.
+- **Automated Trading**: Utilizing platforms like Algomi that provide [fixed income](../f/fixed_income.md) [market](../m/market.md) intelligence and connectivity.
 - **[Risk Management](../r/risk_management.md) Tools**: Software such as [Bloomberg](../b/bloomberg.md)'s PORT system for portfolio and [risk analysis](../r/risk_analysis.md).
 - **[Quantitative Models](../q/quantitative_models.md)**: Employed to predict price movements, assess risks, and execute trades efficiently.
 

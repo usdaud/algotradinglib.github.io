@@ -27,7 +27,7 @@ The FDIC supervises and examines over 4,000 banks and savings institutions for o
 
 ### 3. Resolution of Failed Banks
 
-When an insured [bank](../b/bank.md) fails, the FDIC steps in to protect depositors. The [corporation](../c/corporation.md) either sells the failed [bank](../b/bank.md) to another financial institution or pays depositors directly. Either way, insured deposits are protected up to the specified limits. 
+When an insured [bank](../b/bank.md) fails, the FDIC steps in to protect depositors. The [corporation](../c/corporation.md) either sells the failed [bank](../b/bank.md) to another financial institution or pays depositors directly. Either way, insured deposits are protected up to the specified limits.
 
 The resolution process involves:
 - **Purchase and Assumption (P&A):** Another [bank](../b/bank.md) purchases the assets of the failed [bank](../b/bank.md) and assumes responsibility for its liabilities, including deposits.
@@ -94,4 +94,3 @@ The FDIC plays a vital role in supporting community banks, which are crucial for
 
 The Federal [Deposit](../d/deposit.md) [Insurance](../i/insurance.md) [Corporation](../c/corporation.md) (FDIC) has been a cornerstone of the American [financial system](../f/financial_system.md) since its creation in 1933. Its mission to protect depositor funds, supervise financial institutions, manage risks, and educate consumers has been critical in maintaining public confidence and stability in the banking system. Throughout its history, the FDIC has demonstrated resilience and adaptability in the face of financial challenges, from the [Great Depression](../g/great_depression.md) to the 2008 [financial crisis](../f/financial_crisis.md). As the financial landscape continues to evolve, the FDIC's role remains as crucial as ever in ensuring a stable and trustworthy banking environment.
 
-Visit the [official FDIC website](https://www.fdic.gov) for more information.

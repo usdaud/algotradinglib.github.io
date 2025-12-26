@@ -66,4 +66,4 @@ In 2020, [Ripple](../r/ripple.md) Labs received a Wells Notice related to the [s
 
 A Wells Notice serves as a crucial checkpoint in the SEC's enforcement process, providing an opportunity for the subjects of an investigation to present their side of the story before facing formal charges. Understanding the components, implications, and strategic considerations associated with a Wells Notice is essential for anyone involved in the securities [industry](../i/industry.md). By thoughtfully responding to these notices, entities can potentially mitigate the severity of regulatory actions and navigate the complexities of securities law effectively.
 
-For more information on receiving a Wells Notice or other regulatory actions, you can visit the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)'s official website at [SEC.gov](https://www.sec.gov).
+For more information on receiving a Wells Notice or other regulatory actions, you can visit the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)'s public materials at online resource.

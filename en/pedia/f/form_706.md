@@ -105,4 +105,4 @@ Failure to timely file Form 706, or file it accurately, can result in penalties.
 
 Form 706 plays a crucial role in the administration of estates, ensuring that the federal government collects [estate](../e/estate.md) [taxes](../t/taxes.md) as required by law. Executors need to be diligent in accurately reporting all assets and liabilities, taking advantage of allowable deductions and credits, and ensuring timely filing to minimize penalties. Proper planning, often with the help of professionals, can also allow estates to maximize their benefits and ensure compliance with IRS regulations.
 
-For more detailed information and access to Form 706, visit the IRS website: [IRS Form 706](https://www.irs.gov/forms-pubs/about-form-706).
+For more detailed information and access to Form 706,

@@ -76,11 +76,11 @@ Support Vector Regression is employed in various real-world applications, such a
 SVR is implemented in various [machine learning](../m/machine_learning.md) libraries and frameworks:
 
 - **scikit-learn**: The popular Python library scikit-learn offers an easy-to-use implementation of SVR.
-  - [scikit-learn SVR Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
+ - scikit-learn SVR Documentation
 - **LIBSVM**: A library for SVM and SVR, often used in academic research.
-  - [LIBSVM Documentation](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+ - LIBSVM Documentation
 - **[TensorFlow](../t/tensorflow.md)**: Google's [TensorFlow](../t/tensorflow.md) library also provides capabilities for regression using SVM.
-  - [TensorFlow Documentation](https://www.tensorflow.org/)
+ - TensorFlow Documentation
 
 ### Conclusion
 

@@ -1,6 +1,6 @@
 # Cost of Goods Sold (COGS)
 
-The Cost of Goods Sold (COGS) is a critical financial metric utilized primarily in the domains of [accounting](../a/accounting.md) and [financial analysis](../f/financial_analysis.md). It represents the direct costs associated with the production of the goods sold by an organization. This comprehensive exploration of COGS [will](../w/will.md) delve into its various components, methods of calculation, implications for businesses, and its significance within the broader financial landscape. 
+The Cost of Goods Sold (COGS) is a critical financial metric utilized primarily in the domains of [accounting](../a/accounting.md) and [financial analysis](../f/financial_analysis.md). It represents the direct costs associated with the production of the goods sold by an organization. This comprehensive exploration of COGS [will](../w/will.md) delve into its various components, methods of calculation, implications for businesses, and its significance within the broader financial landscape.
 
 ## Components of COGS
 
@@ -129,4 +129,4 @@ Tech Solutions Inc. develops and sells software products. Its COGS comprises dev
 
 The Cost of Goods Sold is a foundational metric that transcends various aspects of a [business](../b/business.md)'s operations, financial reporting, and strategic planning. Understanding its components, methods of calculation, and implications enables businesses to make informed decisions, optimize operations, and enhance profitability. As such, COGS remains an indispensable tool in the arsenal of financial managers, accountants, strategists, and stakeholders striving for sustained success in an ever-evolving [business](../b/business.md) landscape.
 
-To [gain](../g/gain.md) further insights into how leading companies utilize COGS in their operations, consider exploring their [financial statements](../f/financial_statements.md) and reports. For instance, General Electric provides detailed breakdowns in their annual reports, which can be accessed [here](https://www.ge.com/investor-relations).
+To [gain](../g/gain.md) further insights into how leading companies utilize COGS in their operations, consider exploring their [financial statements](../f/financial_statements.md) and reports. For instance, General Electric provides detailed breakdowns in their annual reports, which can be accessed here.

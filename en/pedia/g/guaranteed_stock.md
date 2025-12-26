@@ -13,7 +13,7 @@ The primary aspect of guaranteed [stocks](../s/stock.md) is the guarantee provid
 ### Types of Guarantees
 
 1. **[Capital](../c/capital.md) Guarantee**: This ensures that the initial [capital](../c/capital.md) invested [will](../w/will.md) be returned after a set period, regardless of the stock's performance. For example, if an [investor](../i/investor.md) puts $1,000 in guaranteed stock, they are assured to get back at least $1,000 at [maturity](../m/maturity.md).
-  
+
 2. **[Interest](../i/interest.md)/[Dividend](../d/dividend.md) Guarantee**: It promises a certain [rate of return](../r/rate_of_return.md) on the [shares](../s/shares.md). Even if the [issuer](../i/issuer.md)'s annual performance weakens, the [investor](../i/investor.md) is still paid a fixed [dividend](../d/dividend.md).
 
 3. **Third-Party Guarantee**: Sometimes, the guarantee is not provided by the issuing company but rather by a third-party insurer or financial institution. This arrangement significantly lowers the [risk](../r/risk.md) associated with the investment.
@@ -33,12 +33,12 @@ The primary aspect of guaranteed [stocks](../s/stock.md) is the guarantee provid
 #### Vanguard Group
 
 The Vanguard Group offers various investment products that closely resonate with the principles of guaranteed stock. For example, their target retirement funds are meticulously managed to [offer](../o/offer.md) stable returns and minimize risks.
-Website: [Vanguard Group](https://vanguard.com)
+online platform: Vanguard Group
 
 #### BlackRock
 
 BlackRock is another leading [investment management](../i/investment_management.md) [corporation](../c/corporation.md) that offers products aimed to protect [capital](../c/capital.md) while still providing exposure to equities. Their suite of Target Allocation Funds aims to balance [risk](../r/risk.md) and [return](../r/return.md) based on the [investor](../i/investor.md)’s [risk tolerance](../r/risk_tolerance.md) and [time horizon](../t/time_horizon.md).
-Website: [BlackRock](https://blackrock.com)
+online platform: BlackRock
 
 ### Benefits of Guaranteed Stocks
 
@@ -69,19 +69,19 @@ Regular [rebalancing](../r/rebalancing.md) can ensure that the portfolio remains
 
 ### Portfolio Examples
 
-1. **Retirement Portfolio**: 
-   - 50% in Target Date Funds with [capital](../c/capital.md) protection
-   - 30% in government bonds
-   - 20% in diversified [equity](../e/equity.md) mutual funds
+1. **Retirement Portfolio**:
+ - 50% in Target Date Funds with [capital](../c/capital.md) protection
+ - 30% in government bonds
+ - 20% in diversified [equity](../e/equity.md) mutual funds
 2. **Balanced Portfolio**:
-   - 40% in [principal](../p/principal.md) protected notes
-   - 40% in diversified equities
-   - 20% in [real estate](../r/real_estate.md) investment trusts (REITs)
+ - 40% in [principal](../p/principal.md) protected notes
+ - 40% in diversified equities
+ - 20% in [real estate](../r/real_estate.md) investment trusts (REITs)
 
 ### Conclusion
 
 Guaranteed [Stocks](../s/stock.md) provide a unique investment option for those looking to balance the potential for [equity market](../e/equity_market.md) returns with the need for investment [security](../s/security.md). They are particularly suitable for [risk-averse](../r/risk-averse.md) investors, those nearing retirement, or anyone interested in preserving [capital](../c/capital.md) while still enjoying modest returns. As always, [due diligence](../d/due_diligence.md) and an understanding of the terms and conditions of these investments are crucial for making informed decisions.
 
 For more information about the specific products and strategies offered by Vanguard and BlackRock, refer to:
-Website: [Vanguard Group](https://vanguard.com)
-Website: [BlackRock](https://blackrock.com)
+online platform: Vanguard Group
+online platform: BlackRock

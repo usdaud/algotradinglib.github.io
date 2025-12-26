@@ -37,9 +37,9 @@ Although the term "Voodoo [Economics](../e/economics.md)" is less commonly used 
 Voodoo [Economics](../e/economics.md) captures the skepticism surrounding [supply](../s/supply.md)-side economic theories and their practical applications. It serves as a reminder of the contentious nature of economic policymaking, where empirical evidence, theoretical perspectives, and political ideologies often collide. As economies continue to evolve, the debates ignited by the concept of Voodoo [Economics](../e/economics.md) are likely to remain a central part of discussions on economic policy and governance.
 
 For further reading and exploration, you can visit the following organizations and resources:
-- [National Bureau of Economic Research (NBER)](https://www.nber.org)
-- [American Economic Association (AEA)](https://www.aeaweb.org)
-- [Cato Institute - Economics](https://www.cato.org/research/economics)
-- [Center on Budget and Policy Priorities (CBPP)](https://www.cbpp.org)
+- National Bureau of Economic Research (NBER)
+- American Economic Association (AEA)
+- Cato Institute - Economics
+- Center on Budget and Policy Priorities (CBPP)
 
 These resources provide a [wealth](../w/wealth.md) of information and research on economic theories, policies, and their real-world applications.

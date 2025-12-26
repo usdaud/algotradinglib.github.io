@@ -4,7 +4,7 @@ Out of The [Money](../m/money.md) (OTM) is a financial term particularly used in
 
 ## Call Options
 
-For call [options](../o/options.md), which give the holder the right to buy the [underlying asset](../u/underlying_asset.md), an option is considered OTM when the [strike price](../s/strike_price.md) is higher than the current [market price](../m/market_price.md) of the [asset](../a/asset.md). 
+For call [options](../o/options.md), which give the holder the right to buy the [underlying asset](../u/underlying_asset.md), an option is considered OTM when the [strike price](../s/strike_price.md) is higher than the current [market price](../m/market_price.md) of the [asset](../a/asset.md).
 
 For example, let's say the current price of a stock is $50. A [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $55 would be out of the [money](../m/money.md) because buying the stock at the [market price](../m/market_price.md) is cheaper than exercising the option at $55.
 
@@ -13,7 +13,7 @@ For example, let's say the current price of a stock is $50. A [call option](../c
 The [intrinsic value](../i/intrinsic_value.md) of a [call option](../c/call_option.md) can be calculated as follows:
 \[ \text{[Intrinsic Value](../i/intrinsic_value.md)} = \max(0, \text{Current [Market Price](../m/market_price.md)} - \text{[Strike Price](../s/strike_price.md)}) \]
 
-If the result is zero or negative, the [call option](../c/call_option.md) is out of the [money](../m/money.md). 
+If the result is zero or negative, the [call option](../c/call_option.md) is out of the [money](../m/money.md).
 
 ## Put Options
 
@@ -45,9 +45,9 @@ Higher [volatility](../v/volatility.md) can increase the [value](../v/value.md) 
 Traders may buy OTM [options](../o/options.md) for various strategic reasons:
 
 1. **[Speculation](../s/speculation.md)**: An OTM option can [offer](../o/offer.md) substantial [leverage](../l/leverage.md) because it is cheaper than an in-the-[money](../m/money.md) (ITM) or at-the-[money](../m/money.md) (ATM) option. If the [underlying asset](../u/underlying_asset.md)'s price moves significantly in the desired direction, the returns can be substantial.
-  
+
 2. **Hedging**: OTM [options](../o/options.md) can serve as cost-effective [insurance](../i/insurance.md) policies against significant adverse price movements in an [underlying asset](../u/underlying_asset.md) or portfolio.
-  
+
 3. **[Spreads](../s/spreads.md)**: Strategies like straddles or strangles involve buying OTM [options](../o/options.md) to benefit from large price movements regardless of the direction.
 
 ## Pricing Models
@@ -79,7 +79,7 @@ The binomial [options](../o/options.md) pricing model provides a method for valu
 
 ### Risk Management
 
-OTM [options](../o/options.md) are widely used in real-world scenarios for [risk management](../r/risk_management.md). For example, a [portfolio manager](../p/portfolio_manager.md) fearing a [market](../m/market.md) downturn might buy OTM [put options](../p/put_options.md) as a [hedge](../h/hedge.md) against adverse price movements in their portfolio. 
+OTM [options](../o/options.md) are widely used in real-world scenarios for [risk management](../r/risk_management.md). For example, a [portfolio manager](../p/portfolio_manager.md) fearing a [market](../m/market.md) downturn might buy OTM [put options](../p/put_options.md) as a [hedge](../h/hedge.md) against adverse price movements in their portfolio.
 
 ### Corporate Finance
 
@@ -87,7 +87,7 @@ Corporations may use OTM [options](../o/options.md) in various strategic financi
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems can incorporate OTM [options](../o/options.md) in their strategies to capture specific [market](../m/market.md) inefficiencies or exploit patterns that are more profitably engaged with cheaper, high-[leverage](../l/leverage.md) instruments.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can incorporate OTM [options](../o/options.md) in their strategies to capture specific [market](../m/market.md) inefficiencies or exploit patterns that are more profitably engaged with cheaper, high-[leverage](../l/leverage.md) instruments.
 
 ## Key Takeaways
 

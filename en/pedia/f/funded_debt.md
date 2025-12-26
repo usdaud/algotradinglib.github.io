@@ -1,6 +1,6 @@
 # Funded Debt
 
-Funded [debt](../d/debt.md) is a form of [long-term debt](../l/long-term_debt.md), usually appearing on a company's [balance sheet](../b/balance_sheet.md), which refers to any [debt](../d/debt.md) that is scheduled to mature in more than one year. This can include bonds, long-term loans, and other financial instruments that require regular [interest](../i/interest.md) payments and [maturity](../m/maturity.md) dates several years into the future. The term "funded" refers to the fact that the issuing company has "funded" these [debt](../d/debt.md) [obligations](../o/obligation.md) with assets or other means to ensure they are payable over a long period. 
+Funded [debt](../d/debt.md) is a form of [long-term debt](../l/long-term_debt.md), usually appearing on a company's [balance sheet](../b/balance_sheet.md), which refers to any [debt](../d/debt.md) that is scheduled to mature in more than one year. This can include bonds, long-term loans, and other financial instruments that require regular [interest](../i/interest.md) payments and [maturity](../m/maturity.md) dates several years into the future. The term "funded" refers to the fact that the issuing company has "funded" these [debt](../d/debt.md) [obligations](../o/obligation.md) with assets or other means to ensure they are payable over a long period.
 
 Funded [debt](../d/debt.md) is essential for companies as it allows them to [finance](../f/finance.md) substantial [capital](../c/capital.md) projects, [expansion](../e/expansion.md), and other long-term goals without immediately impacting their [cash flow](../c/cash_flow.md). Understanding the various types of funded [debt](../d/debt.md) and their implications in corporate [accounting](../a/accounting.md) is crucial for investors, managers, and financial analysts. This document [will](../w/will.md) explore the different types of funded [debt](../d/debt.md), their characteristics, and how they influence corporate [accounting](../a/accounting.md).
 
@@ -18,27 +18,27 @@ The key characteristics of funded [debt](../d/debt.md) include:
 ## Types of Funded Debt
 
 1. **Corporate Bonds**
-    - Corporate bonds are a common form of funded [debt](../d/debt.md) where a company issues securities to investors to raise funds.
-    - These bonds can be secured or unsecured, with varying terms and [interest](../i/interest.md) rates based on the company's [credit rating](../c/credit_rating.md) and [market](../m/market.md) conditions.
-    - Examples include senior bonds, subordinated bonds, convertible bonds, and junk bonds.
+ - Corporate bonds are a common form of funded [debt](../d/debt.md) where a company issues securities to investors to raise funds.
+ - These bonds can be secured or unsecured, with varying terms and [interest](../i/interest.md) rates based on the company's [credit rating](../c/credit_rating.md) and [market](../m/market.md) conditions.
+ - Examples include senior bonds, subordinated bonds, convertible bonds, and junk bonds.
 
 2. **Term Loans**
-    - Term loans are structured loans from financial institutions, typically with a [fixed interest rate](../f/fixed_interest_rate.md) and [repayment](../r/repayment.md) period.
-    - They are often used for [capital](../c/capital.md) expenditures and expansions.
-    - Unlike bonds, term loans usually do not have a public [market](../m/market.md) component.
+ - Term loans are structured loans from financial institutions, typically with a [fixed interest rate](../f/fixed_interest_rate.md) and [repayment](../r/repayment.md) period.
+ - They are often used for [capital](../c/capital.md) expenditures and expansions.
+ - Unlike bonds, term loans usually do not have a public [market](../m/market.md) component.
 
 3. **Debentures**
-    - Debentures are unsecured bonds that rely on the [creditworthiness](../c/creditworthiness.md) and reputation of the issuing company.
-    - They generally [offer](../o/offer.md) higher [interest](../i/interest.md) rates compared to secured bonds because they carry more [risk](../r/risk.md).
-    - Debentures can be convertible, allowing investors to convert them into [equity](../e/equity.md).
+ - Debentures are unsecured bonds that rely on the [creditworthiness](../c/creditworthiness.md) and reputation of the issuing company.
+ - They generally [offer](../o/offer.md) higher [interest](../i/interest.md) rates compared to secured bonds because they carry more [risk](../r/risk.md).
+ - Debentures can be convertible, allowing investors to convert them into [equity](../e/equity.md).
 
 4. **[Mortgage](../m/mortgage.md) Bonds**
-    - These are secured by specific [real estate](../r/real_estate.md) property and usually [offer](../o/offer.md) lower [interest](../i/interest.md) rates due to the added [security](../s/security.md).
-    - [Mortgage](../m/mortgage.md) bonds provide investors with a claim on the property used as [collateral](../c/collateral.md) in case of [default](../d/default.md).
+ - These are secured by specific [real estate](../r/real_estate.md) property and usually [offer](../o/offer.md) lower [interest](../i/interest.md) rates due to the added [security](../s/security.md).
+ - [Mortgage](../m/mortgage.md) bonds provide investors with a claim on the property used as [collateral](../c/collateral.md) in case of [default](../d/default.md).
 
 5. **[Sinking Fund](../s/sinking_fund.md) Debts**
-    - Some long-term debts require the company to set aside funds periodically to pay off the [principal](../p/principal.md).
-    - Sinking funds reduce [default risk](../d/default_risk.md) by ensuring that funds are available to meet [debt](../d/debt.md) [obligations](../o/obligation.md).
+ - Some long-term debts require the company to set aside funds periodically to pay off the [principal](../p/principal.md).
+ - Sinking funds reduce [default risk](../d/default_risk.md) by ensuring that funds are available to meet [debt](../d/debt.md) [obligations](../o/obligation.md).
 
 ## Corporate Bonds
 
@@ -51,7 +51,7 @@ Corporate bonds are one of the most common forms of funded [debt](../d/debt.md).
 - **[Credit Rating](../c/credit_rating.md)**: The [creditworthiness](../c/creditworthiness.md) of the issuing company affects the [bond](../b/bond.md)'s [interest rate](../i/interest_rate.md). Investment-grade bonds [offer](../o/offer.md) lower [interest](../i/interest.md) rates, while high-[yield](../y/yield.md) (junk) bonds [offer](../o/offer.md) higher rates but come with higher risks.
 - **Callable and Convertible Features**: Some corporate bonds allow the [issuer](../i/issuer.md) to repay the [bond](../b/bond.md) or the [investor](../i/investor.md) to convert it into company stock under specific conditions.
 
-Examples of major corporations issuing bonds include [Coca-Cola](https://investors.coca-colacompany.com/), [Apple](https://investor.apple.com/investor-relations/default.aspx), and [Ford](https://corporate.ford.com/). Their bonds are traded in public markets and rated by agencies like Moody's and S&P.
+Examples of major corporations issuing bonds include Coca-Cola, Apple, and Ford. Their bonds are traded in public markets and rated by agencies like Moody's and S&P.
 
 ## Term Loans
 

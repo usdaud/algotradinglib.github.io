@@ -57,19 +57,19 @@ When selecting an AD&D policy, individuals should consider:
 
 ### Prudential Financial Inc.
 
-Prudential offers a [range](../r/range.md) of AD&D [insurance](../i/insurance.md) [options](../o/options.md) designed to provide additional [security](../s/security.md) and financial support in case of unexpected accidents. More information can be found on their [official website](https://www.prudential.com).
+Prudential offers a [range](../r/range.md) of AD&D [insurance](../i/insurance.md) [options](../o/options.md) designed to provide additional [security](../s/security.md) and financial support in case of unexpected accidents.
 
 ### MetLife
 
-MetLife provides both group and individual AD&D [insurance](../i/insurance.md), focusing on flexible and customizable coverage [options](../o/options.md). Visit their [official website](https://www.metlife.com) for more details.
+MetLife provides both group and individual AD&D [insurance](../i/insurance.md), focusing on flexible and customizable coverage [options](../o/options.md).
 
 ### Aflac
 
-Aflac specializes in supplemental [insurance](../i/insurance.md) including AD&D, aiming to [offer](../o/offer.md) policies that help close the gap left by primary health or [life insurance](../l/life_insurance.md). Additional information is available on their [official site](https://www.aflac.com).
+Aflac specializes in supplemental [insurance](../i/insurance.md) including AD&D, aiming to [offer](../o/offer.md) policies that help close the gap left by primary health or [life insurance](../l/life_insurance.md). Additional information is available from Aflac.
 
 ### Allstate
 
-Allstate offers AD&D [insurance](../i/insurance.md) as part of its comprehensive suite of personal and family protection plans, emphasizing affordability and ease of access. Learn more about their offerings on the [Allstate website](https://www.allstate.com).
+Allstate offers AD&D [insurance](../i/insurance.md) as part of its comprehensive suite of personal and family protection plans, emphasizing affordability and ease of access.
 
 ## Conclusion
 

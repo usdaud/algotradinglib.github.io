@@ -7,8 +7,8 @@ A debenture is a type of long-term [debt instrument](../d/debt_instrument.md) is
 Debentures have several distinguishing characteristics that make them unique in the realm of investment instruments:
 
 1. **Unsecured Nature**: Unlike bonds, debentures do not have specific assets tied to them as [collateral](../c/collateral.md). This means that debenture holders are considered general creditors if the [issuer](../i/issuer.md) defaults.
-   
-2. **Fixed or Floating [Interest](../i/interest.md)**: Debentures can have either a [fixed interest rate](../f/fixed_interest_rate.md), which remains constant throughout the term, or a floating rate, which varies based on [market](../m/market.md) conditions or benchmarks like the LIBOR.
+
+2. **Fixed or Floating [Interest](../i/interest.md)**: Debentures can have either a [fixed interest rate](../f/fixed_interest_rate.md), which remains constant throughout the term, or a floating rate, which varies based on [market](../m/market.md) conditions or benchmarks like SOFR (which replaced LIBOR after its phase-out in June 2023).
 
 3. **Term and [Maturity](../m/maturity.md)**: The [maturity](../m/maturity.md) period of debentures typically ranges from 5 to 10 years, but they can vary. They are long-term instruments, and their [repayment](../r/repayment.md) occurs at the end of the term.
 
@@ -31,8 +31,8 @@ Debentures can be classified into several types based on their characteristics:
 5. **Redeemable Debentures**: These have a specific date of [maturity](../m/maturity.md) on which the [principal](../p/principal.md) amount [will](../w/will.md) be repaid to the holder.
 
 6. **Callable and Putable Debentures**:
-   - **Callable Debentures**: Allow the [issuer](../i/issuer.md) to repay the [principal](../p/principal.md) before the [maturity date](../m/maturity_date.md) if they choose to.
-   - **Putable Debentures**: Give the holder the right to [demand](../d/demand.md) early [repayment](../r/repayment.md) under specified conditions.
+ - **Callable Debentures**: Allow the [issuer](../i/issuer.md) to repay the [principal](../p/principal.md) before the [maturity date](../m/maturity_date.md) if they choose to.
+ - **Putable Debentures**: Give the holder the right to [demand](../d/demand.md) early [repayment](../r/repayment.md) under specified conditions.
 
 ## Issuers of Debentures
 
@@ -55,7 +55,7 @@ Choosing to invest in debentures involves weighing various risks and rewards:
 ### Rewards
 
 1. **Regular [Interest](../i/interest.md) Payments**: Debentures [offer](../o/offer.md) periodic [interest](../i/interest.md) payments, providing a steady [income](../i/income.md) stream for investors.
-   
+
 2. **Higher [Interest](../i/interest.md) Rates**: Because they are unsecured, debentures usually [offer](../o/offer.md) higher [interest](../i/interest.md) rates compared to secured [debt](../d/debt.md) instruments, compensating for the higher [risk](../r/risk.md).
 
 3. **Convertibility**: Convertible debentures [offer](../o/offer.md) the potential for [capital](../c/capital.md) gains if the issuing company’s stock price increases.
@@ -63,7 +63,7 @@ Choosing to invest in debentures involves weighing various risks and rewards:
 ### Risks
 
 1. **[Credit Risk](../c/credit_risk.md)**: The primary [risk](../r/risk.md) is the [credit risk](../c/credit_risk.md) associated with the [issuer](../i/issuer.md). If the company faces financial trouble, it may [default](../d/default.md) on its [debt](../d/debt.md) [obligations](../o/obligation.md).
-   
+
 2. **[Interest Rate Risk](../i/interest_rate_risk.md)**: Changes in [market](../m/market.md) [interest](../i/interest.md) rates can affect the [value](../v/value.md) of debentures. For fixed-rate debentures, their [market price](../m/market_price.md) tends to fall if [interest](../i/interest.md) rates rise.
 
 3. **[Liquidity Risk](../l/liquidity_risk.md)**: While most debentures are transferable, finding a buyer in secondary markets can be challenging, especially for those issued by lesser-known companies.

@@ -100,8 +100,8 @@ CFOs are increasingly focused on creating [value](../v/value.md) for a broader [
 The role of the Chief Financial Officer is multifaceted and ever-evolving. As strategic partners and leaders, CFOs play a crucial role in ensuring the [financial health](../f/financial_health.md), strategic growth, and sustainability of their organizations. Their ability to adapt to new challenges and [leverage](../l/leverage.md) technological advancements [will](../w/will.md) continue to shape the future of financial management.
 
 For more information on companies with notable CFOs, you can visit their respective websites:
-- [Goldman Sachs - CFO](https://www.goldmansachs.com/who-we-are/leadership/management-committee/)
-- [Apple - CFO](https://www.apple.com/leadership/luca-maestri/)
-- [Microsoft - CFO](https://news.microsoft.com/exec/amy-hood/)
+- Goldman Sachs - CFO
+- Apple - CFO
+- Microsoft - CFO
 
 As the landscape of [business](../b/business.md) and [finance](../f/finance.md) continues to change, the role of the CFO [will](../w/will.md) undoubtedly remain pivotal in driving success and resilience.

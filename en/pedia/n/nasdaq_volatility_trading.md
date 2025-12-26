@@ -43,7 +43,7 @@ Since [volatility](../v/volatility.md) is often mean-reverting, traders employ [
 
 ### Algorithmic and High-Frequency Trading (HFT)
 
-Algo trading and HFT involve the use of sophisticated algorithms to execute trades at absurdly high speeds, exploiting price inefficiencies and [liquidity](../l/liquidity.md) in [NASDAQ](../n/nasdaq.md) markets. Companies like Jane Street, Citadel Securities, and Renaissance Technologies use complex [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) on [volatility](../v/volatility.md). Jane Street: [Jane Street](https://janestreet.com/) | Citadel Securities: [Citadel Securities](https://www.citadelsecurities.com/) | Renaissance Technologies: [Renaissance Technologies](https://www.rentec.com/)
+Algo trading and HFT involve the use of sophisticated algorithms to execute trades at absurdly high speeds, exploiting price inefficiencies and [liquidity](../l/liquidity.md) in [NASDAQ](../n/nasdaq.md) markets. Companies like Jane Street, Citadel Securities, and Renaissance Technologies use complex [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) on [volatility](../v/volatility.md). Jane Street: Jane Street | Citadel Securities: Citadel Securities | Renaissance Technologies: Renaissance Technologies
 
 ## Conclusion
 

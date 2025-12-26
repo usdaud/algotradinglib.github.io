@@ -30,8 +30,8 @@ To implement the Rolling [Sharpe Ratio](../s/sharpe_ratio.md):
 1. **Determine the Window Size:** Choose a rolling window size \( n \). This window size defines the number of periods (days, weeks, months) over which the [Sharpe Ratio](../s/sharpe_ratio.md) [will](../w/will.md) be computed.
 2. **Calculate Excess Returns:** Compute the [excess return](../e/excess_return.md) over the [risk](../r/risk.md)-free rate for each period.
 3. **Rolling Mean and [Standard Deviation](../s/standard_deviation.md):** For each time \( t \):
-   - Calculate the mean [excess return](../e/excess_return.md) over the window period \( t-n \) to \( t \).
-   - Calculate the [standard deviation](../s/standard_deviation.md) of excess returns over the same window.
+ - Calculate the mean [excess return](../e/excess_return.md) over the window period \( t-n \) to \( t \).
+ - Calculate the [standard deviation](../s/standard_deviation.md) of excess returns over the same window.
 4. **Compute the Rolling [Sharpe Ratio](../s/sharpe_ratio.md):** Divide the rolling mean by the rolling [standard deviation](../s/standard_deviation.md) for each period \( t \).
 
 ### Applications

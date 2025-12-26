@@ -5,7 +5,7 @@ An [Exchange](../e/exchange.md)-Traded [Note](../n/note.md) (ETN) is a type of [
 ## Key Characteristics of ETNs
 
 ### **Unsecured Debt Instrument**
-An ETN is an unsecured [debt instrument](../d/debt_instrument.md) issued by financial institutions. Unlike traditional bonds, there is no periodic [interest](../i/interest.md) [payment](../p/payment.md). Instead, the [return](../r/return.md) on the ETN depends on the performance of the [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md) it is designed to track. 
+An ETN is an unsecured [debt instrument](../d/debt_instrument.md) issued by financial institutions. Unlike traditional bonds, there is no periodic [interest](../i/interest.md) [payment](../p/payment.md). Instead, the [return](../r/return.md) on the ETN depends on the performance of the [index](../i/index_instrument.md) or [benchmark](../b/benchmark.md) it is designed to track.
 
 ### **Maturity**
 ETNs have specified [maturity](../m/maturity.md) dates, often ranging from 10 to 30 years. At [maturity](../m/maturity.md), the [issuer](../i/issuer.md) promises to pay the holder a cash amount that reflects the performance of the [underlying](../u/underlying.md) [index](../i/index_instrument.md), minus fees. This condition introduces [issuer](../i/issuer.md) [credit risk](../c/credit_risk.md); if the issuing institution defaults, the ETN holder may suffer losses.
@@ -43,10 +43,9 @@ Regulatory changes can affect the [taxation](../t/taxation.md), trading, and iss
 
 Large financial institutions typically [issue](../i/issue.md) ETNs. Some of the prominent players in this field include:
 
-- **Barclays**: Known for its iPath ETNs. Learn more at [Barclays iPath ETNs](https://www.barclaysipathetn.com/).
-- **[Credit](../c/credit.md) Suisse**: Offers a [range](../r/range.md) of VelocityShares ETNs. Learn more at [Credit Suisse VelocityShares](https://www.velocityshares.com/).
-- **[UBS](../u/ubs.md)**: Provides various ETNs under the ETRACS brand. Learn more at [UBS ETRACS](https://www.etracs.ubs.com/).
-- **J.P. Morgan**: Issues ETNs focusing on various [asset](../a/asset.md) classes and strategies. Learn more at [J.P. Morgan ETNs](https://am.jpmorgan.com/us/en/asset-management/adv/investment-strategies/etns/).
+- **Barclays**: Known for its iPath ETNs. Learn more at Barclays iPath ETNs.
+- **[UBS](../u/ubs.md)**: Provides various ETNs under the ETRACS brand (acquired Credit Suisse\'s VelocityShares ETNs in March 2023). Learn more at UBS ETRACS.
+- **J.P. Morgan**: Issues ETNs focusing on various [asset](../a/asset.md) classes and strategies. Learn more at J.P. Morgan ETNs.
 
 ## Investing in ETNs
 
@@ -79,8 +78,8 @@ This ETN tracks the S&P 500 VIX Short-Term [Futures](../f/futures.md) [Index](..
 ### **Example 2: UBS ETRACS Monthly Pay 2x Leveraged Mortgage REIT ETN (MORL)**
 MORL aims to track double the monthly performance of the [Market](../m/market.md) Vectors Global [Mortgage](../m/mortgage.md) REITs [Index](../i/index_instrument.md). This ETN appeals to investors seeking high [yield](../y/yield.md) through leveraged exposure to [mortgage](../m/mortgage.md) REITs. While it offers high [income](../i/income.md) potential, the [leverage](../l/leverage.md) increases the [risk](../r/risk.md) significantly, making it suitable only for experienced investors.
 
-### **Example 3: Credit Suisse Gold Shares Covered Call ETN (GLDI)**
-GLDI provides the [return](../r/return.md) of a strategy that holds gold [futures](../f/futures.md) and sells call [options](../o/options.md) on those [futures](../f/futures.md). This [covered call](../c/covered_call.md) strategy is designed to generate additional [income](../i/income.md) from gold [holdings](../h/holdings.md). This ETN is attractive for investors looking for [income](../i/income.md) generation from their investment in gold, albeit at the cost of capping potential [upside](../u/upside.md) gains.
+### **Example 3: UBS Gold Shares Covered Call ETN (GLDI)**
+GLDI provides the [return](../r/return.md) of a strategy that holds gold [futures](../f/futures.md) and sells call [options](../o/options.md) on those [futures](../f/futures.md). This [covered call](../c/covered_call.md) strategy is designed to generate additional [income](../i/income.md) from gold [holdings](../h/holdings.md). This ETN is attractive for investors looking for [income](../i/income.md) generation from their investment in gold, albeit at the cost of capping potential [upside](../u/upside.md) gains. (Note: Originally issued by Credit Suisse, now managed by UBS following the March 2023 acquisition.)
 
 ## The Future of ETNs
 

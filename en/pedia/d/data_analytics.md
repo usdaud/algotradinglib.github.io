@@ -25,7 +25,7 @@ Prescriptive analytics goes beyond [forecasting](../f/forecasting.md) and provid
 [Machine learning](../m/machine_learning.md) models, including supervised (regression, classification), unsupervised (clustering, [dimensionality reduction](../d/dimensionality_reduction_in_trading.md)), and [reinforcement learning](../r/reinforcement_learning.md), are vital for [predictive analytics](../p/predictive_analytics.md). Popular algorithms include [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md).
 
 ### Statistical Analysis
-Statistical analysis involves [hypothesis testing](../h/hypothesis_testing.md), [correlation](../c/correlation.md), and [regression analysis](../r/regression_analysis.md) to understand relationships and trends within the dataset. 
+Statistical analysis involves [hypothesis testing](../h/hypothesis_testing.md), [correlation](../c/correlation.md), and [regression analysis](../r/regression_analysis.md) to understand relationships and trends within the dataset.
 
 ### Data Visualization
 Tools like matplotlib, seaborn, Tableau, and Power BI are used to create visual representations of data, making it easier to identify trends, patterns, and anomalies.
@@ -49,21 +49,21 @@ By analyzing [social media](../s/social_media.md), news articles, and [earnings]
 
 ## Companies Specializing in Data Analytics for Trading
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) provides an [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/accountability.md) platform that supports [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/accountability.md). It integrates with various data providers, making it a [robust](../r/robust.md) tool for data analytics in trading.
-[https://www.quantconnect.com](https://www.quantconnect.com)
+### StockSharp
+[StockSharp](../s/stocksharp.md) provides an [open](../o/open.md)-source, [algorithmic trading](../a/accountability.md) platform that supports [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/accountability.md). It integrates with various data providers, making it a [robust](../r/robust.md) tool for data analytics in trading.
+
 
 ### Numerai
 Numerai leverages [data science](../d/data_science_in_trading.md) for [hedge fund](../h/hedge_fund.md) management. It uses [machine learning](../m/machine_learning.md) models built by data scientists to manage its portfolio of investments.
-[https://numer.ai](https://numer.ai)
+
 
 ### Alpha Vantage
 [Alpha](../a/alpha.md) Vantage offers APIs for real-time and historical data for [stocks](../s/stock.md), forex, and cryptocurrency markets. It provides data and tools necessary for analytical processing and decision-making.
-[https://www.alphavantage.co](https://www.alphavantage.co)
+
 
 ### Quandl
 [Quandl](../q/quandl.md) provides a platform to access a wide [range](../r/range.md) of financial and economic datasets, essential for conducting meaningful data analytics in [trading strategies](../t/trading_strategies.md).
-[https://www.quandl.com](https://www.quandl.com)
+
 
 ## Data Analytics Lifecycle
 

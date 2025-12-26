@@ -82,7 +82,7 @@ Several companies are on the frontier of applying meta-learning to trading, leve
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a financial sciences company that uses [machine learning](../m/machine_learning.md), including meta-learning techniques, to inform its [trading strategies](../t/trading_strategies.md). Their approach combines vast data resources with advanced [learning algorithms](../l/learning_algorithms_in_trading.md) to make better predictions and adapt to [market](../m/market.md) changes.
+Two Sigma is a financial sciences company that uses [machine learning](../m/machine_learning.md), including meta-learning techniques, to inform its [trading strategies](../t/trading_strategies.md). Their approach combines vast data resources with advanced [learning algorithms](../l/learning_algorithms_in_trading.md) to make better predictions and adapt to [market](../m/market.md) changes.
 
 ### Renaissance Technologies
 
@@ -90,11 +90,11 @@ This esteemed [hedge fund](../h/hedge_fund.md), known for its quantitative appro
 
 ### AQR Capital Management
 
-[AQR Capital Management](https://www.aqr.com/) employs [machine learning](../m/machine_learning.md) methods, potentially including meta-learning, to enhance its [trading strategies](../t/trading_strategies.md). Their focus on empirical research and model adaptation aligns well with the principles of meta-learning.
+AQR Capital Management employs [machine learning](../m/machine_learning.md) methods, potentially including meta-learning, to enhance its [trading strategies](../t/trading_strategies.md). Their focus on empirical research and model adaptation aligns well with the principles of meta-learning.
 
 ### Numerai
 
-[Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) powered by a decentralized network of data scientists. Through their tournament, they [leverage](../l/leverage.md) diverse models from a global talent pool, effectively integrating meta-learning principles to adapt and improve their [trading algorithms](../t/trading_algorithms.md) continually.
+Numerai is a [hedge fund](../h/hedge_fund.md) powered by a decentralized network of data scientists. Through their tournament, they [leverage](../l/leverage.md) diverse models from a global talent pool, effectively integrating meta-learning principles to adapt and improve their [trading algorithms](../t/trading_algorithms.md) continually.
 
 ## Future Directions
 

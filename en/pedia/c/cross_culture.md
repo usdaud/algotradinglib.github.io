@@ -60,19 +60,19 @@ Differences in [risk tolerance](../r/risk_tolerance.md) and management approache
 
 Citadel Securities is a leading global [market maker](../m/market_maker.md) that operates in [financial markets](../f/financial_market.md) across [multiple](../m/multiple.md) regions. The [firm](../f/firm.md)'s success can be attributed to its diverse and inclusive culture that fosters cross-cultural collaboration. By leveraging the unique strengths of its global team, Citadel Securities has been able to develop sophisticated [trading algorithms](../t/trading_algorithms.md) and maintain a competitive edge in the [market](../m/market.md).
 
-For more information: [Citadel Securities](https://www.citadelsecurities.com/)
+For more information: Citadel Securities
 
 ### Two Sigma
 
 Two Sigma is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that emphasizes the importance of cultural diversity and inclusion in its workforce. The [firm](../f/firm.md) believes that diverse perspectives are crucial for developing innovative [trading strategies](../t/trading_strategies.md) and algorithms. Two Sigma's commitment to cross-cultural collaboration has enabled it to achieve successful [market](../m/market.md) outcomes across different regions.
 
-For more information: [Two Sigma](https://www.twosigma.com/)
+For more information: Two Sigma
 
 ### Renaissance Technologies
 
 Renaissance Technologies is another prominent name in the [algorithmic trading](../a/accountability.md) domain. The [firm](../f/firm.md) employs a diverse team of scientists, mathematicians, and financial experts from different cultural backgrounds. This diversity has been instrumental in Renaissance Technologies' ability to create cutting-edge [trading algorithms](../t/trading_algorithms.md) that perform well in various [market](../m/market.md) conditions.
 
-For more information: [Renaissance Technologies](https://www.rentec.com/)
+For more information: Renaissance Technologies
 
 ## Strategies for Effective Cross-Cultural Algorithmic Trading
 

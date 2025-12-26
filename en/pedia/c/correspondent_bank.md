@@ -10,7 +10,7 @@ The concept of correspondent banking is not new; it dates back to the 19th and e
 
 ### Clearing and Settlement
 
-One of the primary roles of correspondent banks is to facilitate the [clearing and settlement](../c/clearing_and_settlement.md) of international payments. 
+One of the primary roles of correspondent banks is to facilitate the [clearing and settlement](../c/clearing_and_settlement.md) of international payments.
 
 **[Clearing](../c/clearing.md)** refers to the process of reconciling purchase and sales orders between two banks or entities. It ensures that both parties in a financial [transaction](../t/transaction.md) agree on the terms and the [value](../v/value.md) of the [transaction](../t/transaction.md) before settlement.
 
@@ -74,7 +74,7 @@ The Foreign Account Tax Compliance Act (FATCA) is a U.S. regulation that require
 
 ### SWIFT Network
 
-The Society for Worldwide Interbank Financial Telecommunication (SWIFT) network is a cornerstone of correspondent banking. It provides a standardized and secure communication channel for banks to transmit [payment](../p/payment.md) instructions and financial messages globally. 
+The Society for Worldwide Interbank Financial Telecommunication (SWIFT) network is a cornerstone of correspondent banking. It provides a standardized and secure communication channel for banks to transmit [payment](../p/payment.md) instructions and financial messages globally.
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 

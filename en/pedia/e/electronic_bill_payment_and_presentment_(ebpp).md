@@ -22,7 +22,7 @@ Modern EBPP solutions often include chatbots and FAQ sections to assist with com
 ## Types of EBPP
 
 ### Biller-Direct Model
-In the biller-direct model, consumers visit the biller's website to view and pay their bills. This approach allows billers to maintain direct contact with their customers and offers opportunities for upselling and cross-selling services.
+In the biller-direct model, consumers This approach allows billers to maintain direct contact with their customers and offers opportunities for upselling and cross-selling services.
 
 ### Bank-Aggregator Model
 The [bank](../b/bank.md)-aggregator model involves financial institutions [offering](../o/offering.md) a centralized platform where consumers can manage and pay bills from [multiple](../m/multiple.md) billers. This model offers the convenience of handling various bills through a single interface, often integrated with other banking services.
@@ -95,19 +95,19 @@ The integration of EBPP with IoT devices can enable automated bill payments thro
 ## Key Players in EBPP
 
 ### Fiserv
-Fiserv is a leading provider of financial services technology, including EBPP solutions. Their platform offers end-to-end billing and [payment](../p/payment.md) capabilities, integrating seamlessly with various financial systems. [Fiserv Website](https://www.fiserv.com)
+Fiserv is a leading provider of financial services technology, including EBPP solutions. Their platform offers end-to-end billing and [payment](../p/payment.md) capabilities,
 
 ### ACI Worldwide
-ACI Worldwide provides a comprehensive suite of EBPP solutions designed to optimize billing and [payment](../p/payment.md) processes. Their platform supports [multiple](../m/multiple.md) [payment](../p/payment.md) methods and offers [robust](../r/robust.md) [security](../s/security.md) features. [ACI Worldwide Website](https://www.aciworldwide.com)
+ACI Worldwide provides a comprehensive suite of EBPP solutions designed to optimize billing and [payment](../p/payment.md) processes. Their platform supports [multiple](../m/multiple.md) [payment](../p/payment.md) methods and offers [robust](../r/robust.md) [security](../s/security.md)
 
 ### Billtrust
-Billtrust specializes in automated invoicing and [payment](../p/payment.md) solutions, [offering](../o/offering.md) a [range](../r/range.md) of EBPP services that help businesses accelerate their billing cycles and improve [cash flow](../c/cash_flow.md). [Billtrust Website](https://www.billtrust.com)
+Billtrust specializes in automated invoicing and [payment](../p/payment.md) solutions, [offering](../o/offering.md) a [range](../r/range.md) of EBPP services that help businesses accelerate their billing cycles and improve [cash flow](../c/cash_flow.md).
 
 ### PayPal
-[PayPal](../p/paypal.md) offers EBPP capabilities through its Bill Pay service, which allows users to manage and pay bills directly from their [PayPal](../p/paypal.md) accounts. This service leverages [PayPal](../p/paypal.md)'s extensive [payment](../p/payment.md) network. [PayPal Bill Pay](https://www.paypal.com/us/webapps/mpp/bill-pay)
+[PayPal](../p/paypal.md) offers EBPP capabilities through its Bill Pay service, which allows users to manage and pay bills directly from their [PayPal](../p/paypal.md) accounts. This service leverages [PayPal](../p/paypal.md)'s extensive [payment](../p/payment.md) network. PayPal Bill Pay
 
 ### Mastercard Bill Pay Exchange
-[Mastercard](../m/mastercard.md)'s Bill Pay [Exchange](../e/exchange.md) is an innovative platform that connects consumers, billers, and financial institutions to facilitate seamless bill [payment](../p/payment.md) experiences. The platform emphasizes [security](../s/security.md) and ease of use. [Mastercard Bill Pay Exchange](https://www.mastercard.us/en-us/business/overview/digital-enablement/bill-pay.html)
+[Mastercard](../m/mastercard.md)'s Bill Pay [Exchange](../e/exchange.md) is an innovative platform that connects consumers, billers, and financial institutions to facilitate seamless bill [payment](../p/payment.md) experiences. The platform emphasizes [security](../s/security.md) and ease of use. Mastercard Bill Pay Exchange
 
 ## Conclusion
 

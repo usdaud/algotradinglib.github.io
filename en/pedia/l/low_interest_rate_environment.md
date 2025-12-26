@@ -18,7 +18,7 @@ Economic crises, such as the 2008 [financial crisis](../f/financial_crisis.md) o
 ### Implications of a Low Interest Rate Environment
 
 #### Fixed Income Investments
-In a low [interest rate](../i/interest_rate.md) environment, returns on [fixed income](../f/fixed_income.md) investments, such as bonds, are generally lower. This creates a search-for-[yield behavior](../y/yield_behavior.md) among investors, pushing them towards higher-[risk](../r/risk.md) assets. 
+In a low [interest rate](../i/interest_rate.md) environment, returns on [fixed income](../f/fixed_income.md) investments, such as bonds, are generally lower. This creates a search-for-[yield behavior](../y/yield_behavior.md) among investors, pushing them towards higher-[risk](../r/risk.md) assets.
 
 #### Equity Markets
 Low rates make borrowing cheaper, resulting in higher consumer spending and [business](../b/business.md) investments. This can lead to higher corporate [earnings](../e/earnings.md) and elevated [equity market](../e/equity_market.md) valuations. However, the sustainability of such valuations could be questioned once [interest](../i/interest.md) rates start rising again.
@@ -65,4 +65,4 @@ LIRE can exacerbate the [risk](../r/risk.md) of [flash crashes](../f/flash_crash
 
 A low [interest rate](../i/interest_rate.md) environment presents both opportunities and challenges for [algorithmic trading](../a/algorithmic_trading.md). Understanding the macroeconomic backdrop, investment implications, and specific algo-[trading strategies](../t/trading_strategies.md) tailored to exploit these conditions is crucial for traders and investors. Effective [risk management](../r/risk_management.md), compliance with regulatory standards, and adaptive [trading algorithms](../t/trading_algorithms.md) [will](../w/will.md) enable [market](../m/market.md) participants to [capitalize](../c/capitalize.md) on the nuances of a LIRE successfully.
 
-For more information on the strategies and dynamics of [algorithmic trading](../a/algorithmic_trading.md), you can visit companies like [Two Sigma](https://www.twosigma.com/), which specialize in using [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md) suitable for various [market](../m/market.md) environments, including low [interest rate](../i/interest_rate.md) conditions.
+For more information on the strategies and dynamics of [algorithmic trading](../a/algorithmic_trading.md), you can visit companies like Two Sigma, which specialize in using [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md) suitable for various [market](../m/market.md) environments, including low [interest rate](../i/interest_rate.md) conditions.

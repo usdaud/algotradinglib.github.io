@@ -27,7 +27,7 @@ Reverse engineering, in the context of [algorithmic trading](../a/algorithmic_tr
 
 ### Methods for Data Collection
 
-1. **[Market](../m/market.md) Interface**: Utilize APIs provided by exchanges and brokers (e.g., [Interactive Brokers](https://www.interactivebrokers.com/en/index.php), [Alpaca](https://alpaca.markets/)) to collect [real-time market data](../r/real-time_market_data.md).
+1. **[Market](../m/market.md) Interface**: Utilize APIs provided by exchanges and brokers (e.g., Interactive Brokers, Alpaca) to collect [real-time market data](../r/real-time_market_data.md).
 2. **[Trade](../t/trade.md) Logs**: Analyze [trade](../t/trade.md) logs provided by trading platforms for clues on algorithm [execution](../e/execution.md) patterns.
 3. **Public Information**: Scrape or collect publicly available information, including regulatory filings, financial reports, and scholarly articles for auxiliary data.
 
@@ -36,7 +36,7 @@ Reverse engineering, in the context of [algorithmic trading](../a/algorithmic_tr
 1. **Statistical Analysis**: Tools like R and Python (with libraries such as NumPy, pandas, and statsmodels) for identifying trends and variances.
 2. **[Machine Learning](../m/machine_learning.md)**: Algorithms in scikit-learn, [TensorFlow](../t/tensorflow.md), or [PyTorch](../p/pytorch.md) for [predictive modeling](../p/predictive_modeling.md) and classification of trading patterns.
 3. **Visualization Tools**: Use of tools like Matplotlib, Seaborn, and Plotly for graphical representation of data to make sense of complex sets of data.
-4. **[Simulation](../s/simulation_in_trading.md) Environments**: [Backtesting](../b/backtesting.md) frameworks (e.g., [QuantConnect](https://www.quantconnect.com/), [Backtrader](https://www.backtrader.com/)) to test reconstructed models against historical data.
+4. **[Simulation](../s/simulation_in_trading.md) Environments**: [Backtesting](../b/backtesting.md) frameworks (e.g., QuantConnect, Backtrader) to test reconstructed models against historical data.
 
 ### Ethical and Legal Implications
 
@@ -49,18 +49,18 @@ Reverse engineering [trading algorithms](../t/trading_algorithms.md) can lead to
 ### Case Studies and Practical Applications
 
 1. **Statistical [Arbitrage](../a/arbitrage.md) Algorithms**:
-   - Involves exploiting statistical discrepancies between related financial instruments.
-   - Researchers reverse engineer these strategies to build or improve their own [arbitrage](../a/arbitrage.md) algorithms.
+ - Involves exploiting statistical discrepancies between related financial instruments.
+ - Researchers reverse engineer these strategies to build or improve their own [arbitrage](../a/arbitrage.md) algorithms.
 
 2. **High-Frequency Trading (HFT)**:
-   - Given its speed and complexity, reverse engineering HFT algorithms helps in understanding latency [arbitrage](../a/arbitrage.md) and [order](../o/order.md) flow dynamics.
-   - Sources like [trade](../t/trade.md) book analysis and [execution](../e/execution.md) data provide insights into [execution](../e/execution.md) strategies and timing-based anomalies.
+ - Given its speed and complexity, reverse engineering HFT algorithms helps in understanding latency [arbitrage](../a/arbitrage.md) and [order](../o/order.md) flow dynamics.
+ - Sources like [trade](../t/trade.md) book analysis and [execution](../e/execution.md) data provide insights into [execution](../e/execution.md) strategies and timing-based anomalies.
 
 3. **[Market Making Algorithms](../m/market_making_algorithms.md)**:
-   - [Market](../m/market.md) makers are crucial for [liquidity](../l/liquidity.md); reverse engineering their algorithms helps traders understand spread behaviors and [inventory management](../i/inventory_management.md) tactics from firms such as [Virtu Financial](https://www.virtu.com/).
+ - [Market](../m/market.md) makers are crucial for [liquidity](../l/liquidity.md); reverse engineering their algorithms helps traders understand spread behaviors and [inventory management](../i/inventory_management.md) tactics from firms such as Virtu Financial.
 
 4. **[Sentiment Analysis](../s/sentiment_analysis.md)-Based Trading**:
-   - Algorithms that [trade](../t/trade.md) based on news or [social media sentiment](../s/social_media_sentiment.md) can be reverse engineered to improve [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) models and understand [market](../m/market.md) reaction to sentiment.
+ - Algorithms that [trade](../t/trade.md) based on news or [social media sentiment](../s/social_media_sentiment.md) can be reverse engineered to improve [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) models and understand [market](../m/market.md) reaction to sentiment.
 
 ### Practical Considerations
 
@@ -68,6 +68,6 @@ While reverse engineering can [offer](../o/offer.md) valuable insights, it is cr
 
 ### Continuous Monitoring and Adaptation
 
-Reverse engineering is not a one-time activity but a continuous process of monitoring and adapting to new [market](../m/market.md) conditions and evolving [trading algorithms](../t/trading_algorithms.md). Using cloud-based platforms like [AWS](https://aws.amazon.com/) and [Google Cloud](https://cloud.google.com/) can provide the necessary computational resources for real-time analysis and adaptation.
+Reverse engineering is not a one-time activity but a continuous process of monitoring and adapting to new [market](../m/market.md) conditions and evolving [trading algorithms](../t/trading_algorithms.md). Using cloud-based platforms like AWS and Google Cloud can provide the necessary computational resources for real-time analysis and adaptation.
 
 By integrating these practices, traders and financial institutions can achieve a deeper understanding of algorithms, paving the way for more sophisticated, reliable, and profitable [trading strategies](../t/trading_strategies.md).

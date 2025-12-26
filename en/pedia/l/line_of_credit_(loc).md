@@ -98,7 +98,7 @@ A line of [credit](../c/credit.md) is a versatile financial product that can [of
 
 For more information on lines of [credit](../c/credit.md) offered by specific banks and fintech companies, you can visit:
 
-- [Bank of America Line of Credit](https://www.bankofamerica.com/credit-cards/products/line-of-credit/)
-- [LendingClub Line of Credit](https://www.lendingclub.com/business/line-of-credit)
+- Bank of America Line of Credit
+- LendingClub Line of Credit
 
 By understanding the full spectrum of what a line of [credit](../c/credit.md) entails, borrowers can make informed decisions that best suit their financial needs and capabilities.

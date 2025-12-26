@@ -20,7 +20,7 @@ Tontine pensions are gaining attention as a model for managing retirement funds.
 - Contributions from retirees are collected into a common [fund](../f/fund.md).
 - The [fund](../f/fund.md) is managed to produce regular payouts to participants.
 - Over time, as participants pass away, their [shares](../s/shares.md) are redistributed among the survivors.
-  
+
 Such schemes can help address the challenges of increasing [life expectancy](../l/life_expectancy.md) and the sustainability of traditional pension systems.
 
 ### Fintech Innovations
@@ -39,7 +39,7 @@ While tontines [offer](../o/offer.md) an intriguing way to manage [financial ris
 
 ### Case Study: Tontine Trust
 
-Tontine [Trust](../t/trust.md) (https://tontinetrust.com) is a fintech company that aims to [offer](../o/offer.md) modern, compliant tontine pensions using [blockchain](../b/blockchain_in_trading.md) technology. The [firm](../f/firm.md) highlights how modern technology can revitalize a centuries-old concept by ensuring [transparency](../t/transparency.md), reducing administrative costs, and providing sustainable [income](../i/income.md) streams for retirees.
+Tontine [Trust](../t/trust.md) ( is a fintech company that aims to [offer](../o/offer.md) modern, compliant tontine pensions using [blockchain](../b/blockchain_in_trading.md) technology. The [firm](../f/firm.md) highlights how modern technology can revitalize a centuries-old concept by ensuring [transparency](../t/transparency.md), reducing administrative costs, and providing sustainable [income](../i/income.md) streams for retirees.
 
 ## Economic and Social Impact
 

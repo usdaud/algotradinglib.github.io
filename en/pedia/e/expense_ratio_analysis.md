@@ -12,7 +12,7 @@ The formula to calculate the [expense ratio](../e/expense_ratio.md) is straightf
 
 \[ \text{[Expense Ratio](../e/expense_ratio.md)} = \frac{\text{Total [Fund](../f/fund.md) Costs}}{\text{Total [Fund](../f/fund.md) Assets}} \]
 
-Total [fund](../f/fund.md) costs include management fees, administrative fees, operating costs, and any other fees associated with the [fund](../f/fund.md)'s operation. 
+Total [fund](../f/fund.md) costs include management fees, administrative fees, operating costs, and any other fees associated with the [fund](../f/fund.md)'s operation.
 
 #### Components of Expense Ratio
 
@@ -46,11 +46,11 @@ Total [fund](../f/fund.md) costs include management fees, administrative fees, o
 
 #### Real-World Examples and Company Applications
 
-- **Vanguard Group ([Vanguard](https://investor.vanguard.com))** is renowned for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard's emphasis on low [expense](../e/expense.md) ratios has made it a favorite among cost-conscious investors.
+- **Vanguard Group (Vanguard)** is renowned for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard's emphasis on low [expense](../e/expense.md) ratios has made it a favorite among cost-conscious investors.
 
-- **BlackRock ([BlackRock](https://www.blackrock.com))**, through its [iShares](../i/ishares.md) [product line](../p/product_line.md), offers a wide array of ETFs, many of which have competitively low [expense](../e/expense.md) ratios, appealing to both retail and institutional investors.
+- **BlackRock (BlackRock)**, through its [iShares](../i/ishares.md) [product line](../p/product_line.md), offers a wide array of ETFs, many of which have competitively low [expense](../e/expense.md) ratios, appealing to both retail and institutional investors.
 
-- **[Charles Schwab](../c/charles_schwab.md) ([Charles Schwab](https://www.schwab.com))** provides a plethora of investment [options](../o/options.md) with varying [expense](../e/expense.md) ratios, often competitively priced to attract more investors.
+- **[Charles Schwab](../c/charles_schwab.md) (Charles Schwab)** provides a plethora of investment [options](../o/options.md) with varying [expense](../e/expense.md) ratios, often competitively priced to attract more investors.
 
 #### Conclusion
 

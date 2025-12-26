@@ -15,7 +15,7 @@ A "relief [rally](../r/rally.md)" is a term used in the [financial markets](../f
 ## Causes of a Relief Rally
 
 - **Easing of Financial Stress**: When a crisis or panic subsides (e.g., resolution of a geopolitical conflict, government intervention in a [financial crisis](../f/financial_crisis.md)), markets may experience a relief [rally](../r/rally.md) as [investor](../i/investor.md) sentiment improves.
-  
+
 - **Positive News**: Announcements such as favorable economic reports, [earnings](../e/earnings.md) better than expected, or policy changes can lead to a temporary increase in stock prices.
 
 - **Technical Corrections**: After significant downturns, markets might experience technical corrections where [oversold](../o/oversold.md) conditions get corrected through increased buying activity.
@@ -25,7 +25,7 @@ A "relief [rally](../r/rally.md)" is a term used in the [financial markets](../f
 ## Examples of a Relief Rally
 
 1. **Post-[Brexit](../b/brexit.md) Vote in 2016**: After the initial reaction to the [Brexit](../b/brexit.md) vote which saw markets plummet, a relief [rally](../r/rally.md) ensued as markets adjusted to the new reality and panic subsided.
-  
+
 2. **Post Global [Financial Crisis](../f/financial_crisis.md)**: In the aftermath of the 2008 [financial crisis](../f/financial_crisis.md), [multiple](../m/multiple.md) instances of relief rallies were observed as central banks and governments intervened in markets, leading to temporary increases in stock prices despite ongoing economic challenges.
 
 3. **COVID-19 Aftermath**: During the initial stages of the COVID-19 pandemic, markets saw massive declines followed by occasional relief rallies, especially after announcements of stimulus packages and potential vaccines.

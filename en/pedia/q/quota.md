@@ -20,7 +20,7 @@ Production quotas involve setting limits on the amount of a product that a compa
 
 ### 4. Import and Export Quotas
 
-[Import](../i/import.md) and [export](../e/export.md) quotas refer to limitations on the [volume](../v/volume.md) or [value](../v/value.md) of specific goods that can be imported into or exported from a country. These quotas can impact [trade](../t/trade.md) balances and are tools used in [trade](../t/trade.md) policy negotiations. 
+[Import](../i/import.md) and [export](../e/export.md) quotas refer to limitations on the [volume](../v/volume.md) or [value](../v/value.md) of specific goods that can be imported into or exported from a country. These quotas can impact [trade](../t/trade.md) balances and are tools used in [trade](../t/trade.md) policy negotiations.
 
 ## Impacts of Quotas
 
@@ -33,7 +33,7 @@ Quotas have significant consequences on both macro and micro economic levels. He
 
 ## Quotas in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), quotas can play a critical role in strategy design. Here are some ways quotas interact with [algorithmic trading](../a/accountability.md):
+In [algorithmic trading](../a/algorithmic_trading.md), quotas can play a critical role in strategy design. Here are some ways quotas interact with [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **[Risk Management](../r/risk_management.md):** Quotas can be used as a [risk management](../r/risk_management.md) tool to control maximum exposure limits on a specific [asset class](../a/asset_class.md) within a trading algorithm.
 2. **Regulatory Compliance:** Ensuring algorithms comply with [market](../m/market.md) regulations and quotas is critical to avoid legal and financial repercussions.
@@ -41,13 +41,13 @@ In [algorithmic trading](../a/accountability.md), quotas can play a critical rol
 
 ## Case Study: Quotas in the Oil Industry
 
-Oil production quotas set by OPEC provide a fascinating case study on the impact of quotas in the financial and trading sectors. OPEC’s production targets significantly affect global oil prices, influencing everything from stock markets to consumer prices. 
+Oil production quotas set by OPEC provide a fascinating case study on the impact of quotas in the financial and trading sectors. OPEC’s production targets significantly affect global oil prices, influencing everything from stock markets to consumer prices.
 
 ### OPEC and Production Quotas
 
 OPEC sets production quotas to regulate the [supply](../s/supply.md) of oil to the global [market](../m/market.md). These quotas help stabilize oil prices by avoiding [oversupply](../o/oversupply.md) or undersupply situations. Changes in OPEC’s quotas can lead to significant [volatility](../v/volatility.md) in global oil markets, affecting traders, investors, and economies worldwide.
 
-For more details, you can visit the official [OPEC website](https://www.opec.org/opec_web/en/).
+
 
 ## Conclusion
 

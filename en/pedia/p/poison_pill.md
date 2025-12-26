@@ -72,13 +72,13 @@ In another case, Men's Wearhouse used a poison pill to fend off an [acquisition]
 
 ### Example of a Poison Pill Implementation
 
-One classic example is how Tesla, under Elon Musk's [leadership](../l/leadership.md), implemented a poison pill in 2018. This measure was adopted as a defensive strategy against potential hostile takeovers and to maintain the company's strategic and operational independence. 
+One classic example is how Tesla, under Elon Musk's [leadership](../l/leadership.md), implemented a poison pill in 2018. This measure was adopted as a defensive strategy against potential hostile takeovers and to maintain the company's strategic and operational independence.
 
 ## Future Trends and Considerations
 
 ### Legal and Regulatory Changes
 
-As [corporate governance](../c/corporate_governance.md) standards evolve, regulatory bodies may impose new rules and limitations on the implementation of poison pills. Investors, [shareholder](../s/shareholder.md) advocacy groups, and regulatory agencies increasingly [demand](../d/demand.md) [transparency](../t/transparency.md) and accountability from companies. 
+As [corporate governance](../c/corporate_governance.md) standards evolve, regulatory bodies may impose new rules and limitations on the implementation of poison pills. Investors, [shareholder](../s/shareholder.md) advocacy groups, and regulatory agencies increasingly [demand](../d/demand.md) [transparency](../t/transparency.md) and accountability from companies.
 
 ### Shareholder Activism
 

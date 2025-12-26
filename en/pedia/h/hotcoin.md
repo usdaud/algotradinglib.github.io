@@ -43,7 +43,7 @@ For more experienced traders, Hotcoin offers a variety of advanced trading tools
 
 * **Charting Tools:** Comprehensive charting tools with a [range](../r/range.md) of [technical indicators](../t/technical_indicator.md).
 * **[Order Types](../o/order_types_in_trading.md):** Various [order types](../o/order_types_in_trading.md) such as limit, stop-loss, and [margin trading](../m/margin_trading.md).
-* **API Access:** Hotcoin provides API access for [algorithmic trading](../a/accountability.md), enabling users to integrate their trading bots and strategies seamlessly.
+* **API Access:** Hotcoin provides API access for [algorithmic trading](../a/algorithmic_trading.md), enabling users to integrate their trading bots and strategies seamlessly.
 
 ### 8. **Customer Support**
 Hotcoin offers [robust](../r/robust.md) [customer](../c/customer.md) support through [multiple](../m/multiple.md) channels, including email, live chat, and a comprehensive FAQ section. Their support team is available 24/7 to assist users with any issues or queries.
@@ -85,13 +85,13 @@ In addition to providing trading services, Hotcoin has its native token called H
 
 * **Total [Supply](../s/supply.md):** 1,000,000,000 HOT
 * **Token [Distribution](../d/distribution.md):**
-  * 40% - Public [Sale](../s/sale.md)
-  * 20% - Team and Advisors
-  * 20% - [Reserve Fund](../r/reserve_fund.md)
-  * 10% - [Marketing](../m/marketing.md) and Partnerships
-  * 10% - Community Rewards
+ * 40% - Public [Sale](../s/sale.md)
+ * 20% - Team and Advisors
+ * 20% - [Reserve Fund](../r/reserve_fund.md)
+ * 10% - [Marketing](../m/marketing.md) and Partnerships
+ * 10% - Community Rewards
 
-## Analytics and Data 
+## Analytics and Data
 
 ### Trading Volume
 
@@ -151,4 +151,3 @@ Hotcoin has received positive feedback from its user base, highlighting its reli
 
 Hotcoin has established itself as a prominent player in the cryptocurrency [exchange](../e/exchange.md) [industry](../i/industry.md). Its extensive [range](../r/range.md) of supported cryptocurrencies, advanced [security](../s/security.md) measures, and user-centric features make it a go-to platform for traders worldwide. With its ongoing commitment to innovation and regulatory compliance, Hotcoin is poised for sustained growth in the rapidly evolving digital [asset](../a/asset.md) landscape.
 
-For more information, visit [Hotcoin's Official Website](https://www.hotcoin.com/).

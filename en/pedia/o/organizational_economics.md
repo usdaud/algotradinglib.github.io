@@ -1,4 +1,4 @@
-# Organizational Economics 
+# Organizational Economics
 
 Organizational [economics](../e/economics.md) is the study of how institutions, firms, and markets organize and coordinate economic activity. It merges economic theories with organizational behavior to analyze the structure and functioning of economic systems, [business](../b/business.md) enterprises, and other organizations. This field of study helps in understanding how organizations can be managed and designed to achieve [efficiency](../e/efficiency.md), innovation, and [competitive advantage](../c/competitive_advantage.md).
 
@@ -58,7 +58,7 @@ In the fintech sector, organizational [economics](../e/economics.md) helps in un
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems benefit from organizational [economics](../e/economics.md) by optimizing [trading strategies](../t/trading_strategies.md) to minimize [transaction costs](../t/transaction_costs.md) and respond effectively to [market](../m/market.md) changes. Concepts like [agency theory](../a/agency_theory.md) are relevant when designing automated systems that execute trades on behalf of human agents.
+[Algorithmic trading](../a/algorithmic_trading.md) systems benefit from organizational [economics](../e/economics.md) by optimizing [trading strategies](../t/trading_strategies.md) to minimize [transaction costs](../t/transaction_costs.md) and respond effectively to [market](../m/market.md) changes. Concepts like [agency theory](../a/agency_theory.md) are relevant when designing automated systems that execute trades on behalf of human agents.
 
 ### Blockchain and Smart Contracts
 
@@ -69,12 +69,10 @@ In the fintech sector, organizational [economics](../e/economics.md) helps in un
 ### Amazon
 
 One notable example is Amazon’s organizational design, which leverages both hierarchical and decentralized elements to optimize decision-making and innovation. By analyzing Amazon’s use of data-driven management and its focus on minimizing [transaction costs](../t/transaction_costs.md), one can [gain](../g/gain.md) insights into their [competitive advantage](../c/competitive_advantage.md). More information can be found on their official websites:
-[Amazon](https://www.amazon.com/)
 
 ### Tesla
 
 Tesla’s [vertical integration](../v/vertical_integration.md), where it controls much of its [supply chain](../s/supply_chain.md) and [manufacturing](../m/manufacturing.md) processes, illustrates principles of [transaction](../t/transaction.md) cost [economics](../e/economics.md) and [property rights](../p/property_rights.md) theory. This approach helps Tesla reduce costs and maintain high quality, contributing to its [market](../m/market.md) success:
-[Tesla](https://www.tesla.com/)
 
 ## Conclusion
 

@@ -7,10 +7,10 @@
 1. **Definition of [Nominal](../n/nominal.md) [Return](../r/return.md)**: [Nominal](../n/nominal.md) [return](../r/return.md) refers to the gross [return](../r/return.md) on an investment over a specific period without considering any adjustments for [inflation](../i/inflation.md), [taxes](../t/taxes.md), fees, or any other expenses. It is typically expressed as a percentage. For example, if an investment grows from $1000 to $1100 over a year, the [nominal](../n/nominal.md) [return](../r/return.md) is 10%.
 
 2. **Calculation of [Nominal](../n/nominal.md) [Return](../r/return.md)**: The [nominal](../n/nominal.md) [return](../r/return.md) can be calculated using the formula:
-   \[
-   \text{[Nominal](../n/nominal.md) [Return](../r/return.md)} = \frac{(P_{\text{end}} - P_{\text{begin}}) + D}{P_{\text{begin}}}
-   \]
-   Where \(P_{\text{end}}\) is the end price, \(P_{\text{begin}}\) is the beginning price, and \(D\) is any dividends or [income](../i/income.md) received.
+ \[
+ \text{[Nominal](../n/nominal.md) [Return](../r/return.md)} = \frac{(P_{\text{end}} - P_{\text{begin}}) + D}{P_{\text{begin}}}
+ \]
+ Where \(P_{\text{end}}\) is the end price, \(P_{\text{begin}}\) is the beginning price, and \(D\) is any dividends or [income](../i/income.md) received.
 
 3. **Importance in [Algorithmic Trading](../a/algorithmic_trading.md)**: In [algorithmic trading](../a/algorithmic_trading.md), [nominal](../n/nominal.md) [return](../r/return.md) analysis is crucial for assessing the effectiveness of [trading algorithms](../t/trading_algorithms.md). Traders use historical data to backtest strategies and rely on [nominal](../n/nominal.md) returns to compare different algorithms' past performance.
 
@@ -26,17 +26,16 @@
 
 9. **[Execution](../e/execution.md) Costs**: Real-world trading involves various [execution](../e/execution.md) costs, including [bid](../b/bid.md)-ask [spreads](../s/spreads.md), [transaction fees](../t/transaction_fees.md), and [slippage](../s/slippage.md). These costs can erode [nominal](../n/nominal.md) returns, making it essential to [factor](../f/factor.md) them into algorithmic strategies.
 
-10. **Examples and Applications**: 
-    - **[Backtesting](../b/backtesting.md)**: Traders simulate a trading algorithm using historical data to analyze its performance. [Nominal](../n/nominal.md) returns during different [market](../m/market.md) conditions provide insights into the algorithm's reliability.
-    - **[Optimization](../o/optimization.md)**: By experimenting with different parameters and strategies, traders aim to maximize [nominal](../n/nominal.md) returns while keeping risks within acceptable limits.
+10. **Examples and Applications**:
+ - **[Backtesting](../b/backtesting.md)**: Traders simulate a trading algorithm using historical data to analyze its performance. [Nominal](../n/nominal.md) returns during different [market](../m/market.md) conditions provide insights into the algorithm's reliability.
+ - **[Optimization](../o/optimization.md)**: By experimenting with different parameters and strategies, traders aim to maximize [nominal](../n/nominal.md) returns while keeping risks within acceptable limits.
 
 #### Practical Application of Nominal Return Analysis
 
-One of the prominent firms in [algorithmic trading](../a/algorithmic_trading.md) is **Two Sigma** [Two Sigma](https://www.twosigma.com/). They deploy advanced technologies to analyze massive datasets and implement sophisticated [trading strategies](../t/trading_strategies.md). The primary objective is to generate consistent [nominal](../n/nominal.md) returns by leveraging [quantitative research](../q/quantitative_research.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
+One of the prominent firms in [algorithmic trading](../a/algorithmic_trading.md) is **Two Sigma** Two Sigma. They deploy advanced technologies to analyze massive datasets and implement sophisticated [trading strategies](../t/trading_strategies.md). The primary objective is to generate consistent [nominal](../n/nominal.md) returns by leveraging [quantitative research](../q/quantitative_research.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
-Another notable example is **Renaissance Technologies** [Renaissance Technologies](https://www.rentec.com/), renowned for their Medallion [Fund](../f/fund.md), which consistently delivers high [nominal](../n/nominal.md) returns through complex [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis.
+Another notable example is **Renaissance Technologies** Renaissance Technologies, renowned for their Medallion [Fund](../f/fund.md), which consistently delivers high [nominal](../n/nominal.md) returns through complex [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis.
 
 #### Summary
 
 [Nominal](../n/nominal.md) [return](../r/return.md) analysis is an indispensable tool for traders and investors engaged in [algorithmic trading](../a/algorithmic_trading.md). It provides essential insights into the performance of investments and [trading strategies](../t/trading_strategies.md) without [accounting](../a/accounting.md) for [inflation](../i/inflation.md), [taxes](../t/taxes.md), and other external factors. Ensure to consider [nominal](../n/nominal.md) returns in conjunction with other measures and [risk factors](../r/risk_factors_in_trading.md) to develop [robust](../r/robust.md) and profitable [trading algorithms](../t/trading_algorithms.md).
-

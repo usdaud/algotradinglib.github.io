@@ -6,7 +6,7 @@ Pork barrel politics is a term used in political science and public policy to de
 
 The term "pork barrel" itself originates from the practice of farmers giving salt pork to their slaves from large, wooden barrels. Through time, this practice evolved into a metaphor for any type of public expenditure used to benefit a specific group of constituents. The term was apparently first used in a political context in the early 19th century in the United States.
 
-Politicians such as "King of Pork" Senator Robert C. Byrd of West Virginia, who served from 1959 to 2010, became infamous for securing large sums of federal [money](../m/money.md) for projects in their respective states. Senator Byrd’s efforts resulted in numerous bridges, buildings, and other significant [infrastructure](../i/infrastructure.md) projects in West Virginia bearing his name. 
+Politicians such as "King of Pork" Senator Robert C. Byrd of West Virginia, who served from 1959 to 2010, became infamous for securing large sums of federal [money](../m/money.md) for projects in their respective states. Senator Byrd’s efforts resulted in numerous bridges, buildings, and other significant [infrastructure](../i/infrastructure.md) projects in West Virginia bearing his name.
 
 ## Mechanics of Pork Barrel Politics
 
@@ -16,7 +16,7 @@ Politicians such as "King of Pork" Senator Robert C. Byrd of West Virginia, who 
 
 **Riders** are additional provisions added to a bill that typically have no connection to the bill's main topic. Riders are often used to pass pork barrel spending with minimal scrutiny.
 
-### Appropriation Committees 
+### Appropriation Committees
 
 Appropriation committees in both houses of Congress in the United States are the key players in pork barrel politics. These committees oversee the federal [budget](../b/budget.md) and determine how [money](../m/money.md) is allocated across various governmental agencies and projects.
 
@@ -30,7 +30,7 @@ The Central Artery/Tunnel Project, commonly known as the Big Dig, is one of the 
 
 Another classic example is the controversial "Bridge to Nowhere." This became a symbol of pork barrel spending when Congress allocated $223 million to build a bridge to connect the Alaskan town of Ketchikan to the sparsely populated Gravina Island. The project was eventually canceled, but the funds were reallocated to other projects in Alaska.
 
-## Implications and Consequences 
+## Implications and Consequences
 
 ### Economic Inefficiency
 
@@ -40,7 +40,7 @@ Pork barrel projects often lead to economic inefficiency. Resources are diverted
 
 Pork barrel politics fosters an environment where political support is exchanged for financial benefits, thereby undermining the democratic process and opening the door to corruption. Politicians may be more inclined to support legislation not based on its merits, but on the promise of securing pork for their own district.
 
-### Lack of Accountability and Transparency 
+### Lack of Accountability and Transparency
 
 Often, pork barrel projects are approved with minimal scrutiny and oversight. This lack of [transparency](../t/transparency.md) makes it easier for wasteful spending to occur and reduces the accountability of elected officials. It can also erode public [trust](../t/trust.md) in government institutions.
 
@@ -64,7 +64,7 @@ In the Philippines, pork barrel politics is commonly associated with the Priorit
 
 ### Legislative Reforms
 
-There have been various attempts to curb pork barrel spending through legislative means. One example is the [Transparency](../t/transparency.md) Act, which aimed to provide greater [visibility](../v/visibility.md) into how and where [federal funds](../f/federal_funds.md) were being spent. Another example is the Comprehensive Spending Reform Act, which proposed the elimination of earmarks in federal budgets. 
+There have been various attempts to curb pork barrel spending through legislative means. One example is the [Transparency](../t/transparency.md) Act, which aimed to provide greater [visibility](../v/visibility.md) into how and where [federal funds](../f/federal_funds.md) were being spent. Another example is the Comprehensive Spending Reform Act, which proposed the elimination of earmarks in federal budgets.
 
 ### Budget Caps and Sequestration
 
@@ -84,7 +84,7 @@ Pork barrel politics has long been a contentious aspect of democratic governance
 
 For further reading and resources, you may visit the following links:
 
-- [Federal Budget Transparency](https://www.fiscal.treasury.gov/transparency.html)
-- [OpenGov](https://opengov.com/solutions/open-checkbook/)
+- Federal Budget Transparency
+- OpenGov
 
 By understanding the history, mechanisms, implications, and reforms associated with pork barrel politics, both policymakers and the public can better navigate the complexities of governmental spending and strive for more accountable and efficient governance.

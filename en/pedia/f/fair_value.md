@@ -17,37 +17,37 @@ Fair [value](../v/value.md) refers to the estimated price at which an [asset](..
 Several methods are employed to calculate the fair [value](../v/value.md), each tailored to different types of assets and [market](../m/market.md) conditions. Here are some primary methods:
 
 1. ### [Market Approach](../m/market_approach.md)
-   The [market approach](../m/market_approach.md) utilizes comparable [market](../m/market.md) transactions to [value](../v/value.md) an [asset](../a/asset.md). Key techniques include:
-   - **Comparable [Transaction](../t/transaction.md) Multiples**: Applying multiples derived from similar transactions (e.g., Price/[Earnings](../e/earnings.md), Price/Sales).
-   - **Quoted Prices**: Using the prevailing prices of identical or similar assets in active markets.
-   - **[Market](../m/market.md) Consensus**: Aggregating analysts' estimates and [market](../m/market.md) forecasts.
+ The [market approach](../m/market_approach.md) utilizes comparable [market](../m/market.md) transactions to [value](../v/value.md) an [asset](../a/asset.md). Key techniques include:
+ - **Comparable [Transaction](../t/transaction.md) Multiples**: Applying multiples derived from similar transactions (e.g., Price/[Earnings](../e/earnings.md), Price/Sales).
+ - **Quoted Prices**: Using the prevailing prices of identical or similar assets in active markets.
+ - **[Market](../m/market.md) Consensus**: Aggregating analysts' estimates and [market](../m/market.md) forecasts.
 
 2. ### [Income Approach](../i/income_approach.md)
-   This approach focuses on the future economic benefits associated with the [asset](../a/asset.md), [discounting](../d/discounting.md) them back to their [present value](../p/present_value.md):
-   - **Discounted [Cash Flow](../c/cash_flow.md) (DCF)**: Projecting cash flows over time and [discounting](../d/discounting.md) them to [present value](../p/present_value.md) using an appropriate [discount rate](../d/discount_rate.md).
-   - **[Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM)**: Evaluating expected dividends and [discounting](../d/discounting.md) them to their [present value](../p/present_value.md).
-   - **[Residual Income](../r/residual_income.md) Model (RIM)**: Estimating future residual incomes and [discounting](../d/discounting.md) to their [present value](../p/present_value.md).
+ This approach focuses on the future economic benefits associated with the [asset](../a/asset.md), [discounting](../d/discounting.md) them back to their [present value](../p/present_value.md):
+ - **Discounted [Cash Flow](../c/cash_flow.md) (DCF)**: Projecting cash flows over time and [discounting](../d/discounting.md) them to [present value](../p/present_value.md) using an appropriate [discount rate](../d/discount_rate.md).
+ - **[Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM)**: Evaluating expected dividends and [discounting](../d/discounting.md) them to their [present value](../p/present_value.md).
+ - **[Residual Income](../r/residual_income.md) Model (RIM)**: Estimating future residual incomes and [discounting](../d/discounting.md) to their [present value](../p/present_value.md).
 
 3. ### Cost Approach
-   The cost approach assesses the cost to replace or reproduce the [asset](../a/asset.md), considering [depreciation](../d/depreciation.md) and obsolescence:
-   - **[Replacement Cost](../r/replacement_cost.md)**: The cost to replace an [asset](../a/asset.md) with a similar one of comparable [utility](../u/utility.md).
-   - **Reproduction Cost**: The cost to reproduce the [asset](../a/asset.md)'s exact physical replica.
+ The cost approach assesses the cost to replace or reproduce the [asset](../a/asset.md), considering [depreciation](../d/depreciation.md) and obsolescence:
+ - **[Replacement Cost](../r/replacement_cost.md)**: The cost to replace an [asset](../a/asset.md) with a similar one of comparable [utility](../u/utility.md).
+ - **Reproduction Cost**: The cost to reproduce the [asset](../a/asset.md)'s exact physical replica.
 
 ## Importance of Fair Value in Financial Markets
 
 Fair [value](../v/value.md) serves as a cornerstone for various financial activities, including:
 
 ### 1. **Investment Decisions**
-   Investors rely on fair [value](../v/value.md) estimates to make informed investment choices. It aids in identifying [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) assets, guiding buy or sell decisions.
+ Investors rely on fair [value](../v/value.md) estimates to make informed investment choices. It aids in identifying [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) assets, guiding buy or sell decisions.
 
 ### 2. **Financial Reporting and Compliance**
-   In [accounting](../a/accounting.md), fair [value](../v/value.md) measurement ensures [transparency](../t/transparency.md) and consistency in [financial statements](../f/financial_statements.md). Standards such as IFRS 13 and ASC 820 mandate fair [value](../v/value.md) reporting for specific assets and liabilities.
+ In [accounting](../a/accounting.md), fair [value](../v/value.md) measurement ensures [transparency](../t/transparency.md) and consistency in [financial statements](../f/financial_statements.md). Standards such as IFRS 13 and ASC 820 mandate fair [value](../v/value.md) reporting for specific assets and liabilities.
 
 ### 3. **Risk Management**
-   Fair [value](../v/value.md) provides a realistic [basis](../b/basis.md) for assessing [market risk](../m/market_risk.md) exposures, enabling effective [risk management](../r/risk_management.md) strategies.
+ Fair [value](../v/value.md) provides a realistic [basis](../b/basis.md) for assessing [market risk](../m/market_risk.md) exposures, enabling effective [risk management](../r/risk_management.md) strategies.
 
 ### 4. **Portfolio Valuation**
-   Portfolio managers use fair [value](../v/value.md) to determine the daily net [asset](../a/asset.md) [value](../v/value.md) (NAV) of investment funds, ensuring accurate pricing for investors.
+ Portfolio managers use fair [value](../v/value.md) to determine the daily net [asset](../a/asset.md) [value](../v/value.md) (NAV) of investment funds, ensuring accurate pricing for investors.
 
 ## Fair Value in Algorithmic Trading
 
@@ -77,32 +77,32 @@ Modern algotrading systems integrate [natural language processing](../n/natural_
 ## Real-World Application and Case Studies
 
 ### Case Study 1: Renaissance Technologies
-[**Renaissance Technologies**](https://www.rentec.com/) is renowned for its use of [quantitative models](../q/quantitative_models.md) to drive trading decisions. The [firm](../f/firm.md)’s Medallion [Fund](../f/fund.md) applies advanced [mathematical models](../m/mathematical_models_in_trading.md) to determine fair values and exploit [arbitrage opportunities](../a/arbitrage_opportunities.md), leading to consistently high returns.
+**Renaissance Technologies** is renowned for its use of [quantitative models](../q/quantitative_models.md) to drive trading decisions. The [firm](../f/firm.md)’s Medallion [Fund](../f/fund.md) applies advanced [mathematical models](../m/mathematical_models_in_trading.md) to determine fair values and exploit [arbitrage opportunities](../a/arbitrage_opportunities.md), leading to consistently high returns.
 
 ### Case Study 2: Citadel
-[**Citadel**](https://www.citadel.com/) employs sophisticated fair [value](../v/value.md) models in its [market](../m/market.md)-making activities. By continuously updating these models based on real-time data, Citadel maintains tight [spreads](../s/spreads.md) and ensures [liquidity](../l/liquidity.md) in the markets.
+**Citadel** employs sophisticated fair [value](../v/value.md) models in its [market](../m/market.md)-making activities. By continuously updating these models based on real-time data, Citadel maintains tight [spreads](../s/spreads.md) and ensures [liquidity](../l/liquidity.md) in the markets.
 
 ### Case Study 3: Two Sigma
-[**Two Sigma**](https://www.twosigma.com/) leverages [machine learning](../m/machine_learning.md) and AI to enhance fair [value](../v/value.md) estimation and inform [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md)’s innovative use of [data science](../d/data_science_in_trading.md) has been pivotal in identifying and capturing [market](../m/market.md) inefficiencies.
+**Two Sigma** leverages [machine learning](../m/machine_learning.md) and AI to enhance fair [value](../v/value.md) estimation and inform [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md)’s innovative use of [data science](../d/data_science_in_trading.md) has been pivotal in identifying and capturing [market](../m/market.md) inefficiencies.
 
 ## Challenges in Fair Value Determination
 
 Despite its significance, determining fair [value](../v/value.md) is fraught with challenges:
 
 ### 1. **Market Volatility**
-   Rapid [market](../m/market.md) movements can lead to significant fluctuations in fair [value](../v/value.md) estimates, complicating trading decisions.
+ Rapid [market](../m/market.md) movements can lead to significant fluctuations in fair [value](../v/value.md) estimates, complicating trading decisions.
 
 ### 2. **Data Quality and Availability**
-   Accurate fair [value](../v/value.md) computation requires high-quality, timely data. Inaccurate or delayed data can lead to incorrect valuations and suboptimal trading outcomes.
+ Accurate fair [value](../v/value.md) computation requires high-quality, timely data. Inaccurate or delayed data can lead to incorrect valuations and suboptimal trading outcomes.
 
 ### 3. **Model Risk**
-   Relying on [mathematical models](../m/mathematical_models_in_trading.md) introduces [model risk](../m/model_risk.md) – the possibility that the model may be incorrect or mis-specified, leading to erroneous valuations.
+ Relying on [mathematical models](../m/mathematical_models_in_trading.md) introduces [model risk](../m/model_risk.md) – the possibility that the model may be incorrect or mis-specified, leading to erroneous valuations.
 
 ### 4. **Regulatory Compliance**
-   Adhering to evolving regulatory standards on fair [value](../v/value.md) measurement can be complex and costly for financial institutions.
+ Adhering to evolving regulatory standards on fair [value](../v/value.md) measurement can be complex and costly for financial institutions.
 
 ### 5. **Market Microstructure**
-   Understanding and [accounting](../a/accounting.md) for intricacies in [market microstructure](../m/market_microstructure.md), like [order](../o/order.md) flows and [transaction costs](../t/transaction_costs.md), are essential for precise fair [value](../v/value.md) estimation.
+ Understanding and [accounting](../a/accounting.md) for intricacies in [market microstructure](../m/market_microstructure.md), like [order](../o/order.md) flows and [transaction costs](../t/transaction_costs.md), are essential for precise fair [value](../v/value.md) estimation.
 
 ## Conclusion
 

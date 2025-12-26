@@ -110,7 +110,7 @@ Companies sometimes use [put options](../p/put_options.md) as part of their fina
 
 ### View from the Market
 
-There are various platforms and tools available for trading and analyzing [put options](../p/put_options.md). Firms like [E*TRADE](https://us.etrade.com/), [Charles Schwab](https://www.schwab.com/), and [TD Ameritrade](https://www.tdameritrade.com/home.page) [offer](../o/offer.md) comprehensive services for [options](../o/options.md) trading, including advanced analytics and educational resources.
+There are various platforms and tools available for trading and analyzing [put options](../p/put_options.md). Firms like E*TRADE, Charles Schwab, and TD Ameritrade [offer](../o/offer.md) comprehensive services for [options](../o/options.md) trading, including advanced analytics and educational resources.
 
 ## Conclusion
 

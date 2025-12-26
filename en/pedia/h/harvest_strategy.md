@@ -1,10 +1,10 @@
 # Harvest Strategy
 
-The term "Harvest Strategy" is often associated with the latter phases of a product lifecycle or an [investment strategy](../i/investment_strategy.md). In financial trading, particularly [algorithmic trading](../a/accountability.md), a harvest strategy relates to how traders or [trading algorithms](../t/trading_algorithms.md) manage positions in securities to extract maximum [profit](../p/profit.md) while gradually reducing exposure to certain assets. This approach is predominantly employed when a [security](../s/security.md) or [trading strategy](../t/trading_strategy.md) has reached its peak performance and the aim now is to 'harvest' the profits as efficiently as possible.
+The term "Harvest Strategy" is often associated with the latter phases of a product lifecycle or an [investment strategy](../i/investment_strategy.md). In financial trading, particularly [algorithmic trading](../a/algorithmic_trading.md), a harvest strategy relates to how traders or [trading algorithms](../t/trading_algorithms.md) manage positions in securities to extract maximum [profit](../p/profit.md) while gradually reducing exposure to certain assets. This approach is predominantly employed when a [security](../s/security.md) or [trading strategy](../t/trading_strategy.md) has reached its peak performance and the aim now is to 'harvest' the profits as efficiently as possible.
 
 ## Definition
 
-Harvest Strategy in [algorithmic trading](../a/accountability.md) refers to a strategic framework that focuses on maximizing the returns of a trading position while methodically reducing exposure to [risk](../r/risk.md). This involves selling off portions of a profitable position gradually, thereby securing gains over time while adapting to [market](../m/market.md) conditions.
+Harvest Strategy in [algorithmic trading](../a/algorithmic_trading.md) refers to a strategic framework that focuses on maximizing the returns of a trading position while methodically reducing exposure to [risk](../r/risk.md). This involves selling off portions of a profitable position gradually, thereby securing gains over time while adapting to [market](../m/market.md) conditions.
 
 ## Components of a Harvest Strategy
 
@@ -61,8 +61,7 @@ Automated [execution](../e/execution.md) eliminates human errors and biases, ens
 
 ### Company: XYZ Trading Systems
 
-[XYZ Trading Systems](http://xyztradingsystems.com) is a leading provider of [algorithmic trading](../a/accountability.md) solutions. The [firm](../f/firm.md) recently implemented a Harvest Strategy for one of its high-performing [equity](../e/equity.md) [trading algorithms](../t/trading_algorithms.md). 
-
+XYZ Trading Systems is a leading provider of [algorithmic trading](../a/algorithmic_trading.md) solutions. The [firm](../f/firm.md) recently implemented a Harvest Strategy for one of its high-performing [equity](../e/equity.md) [trading algorithms](../t/trading_algorithms.md).
 **Process:**
 
 - **Initial Assessment:** The team evaluated the algorithm's performance and the current [market](../m/market.md) conditions, determining that the [equity](../e/equity.md) position had reached its peak.
@@ -90,4 +89,4 @@ Over a period of three months, XYZ [Trading Systems](../t/trading_systems.md) su
 
 ## Conclusion
 
-A Harvest Strategy in [algorithmic trading](../a/accountability.md) is a nuanced approach aimed at maximizing returns while systematically reducing exposure to risks. Through careful assessment, setting clear objectives, efficient [position management](../p/position_management.md), and [robust](../r/robust.md) [risk management](../r/risk_management.md), traders and algorithms can effectively 'harvest' profits from their positions. Despite its complexity, the benefits of a well-implemented harvest strategy can outweigh the drawbacks, providing a strategic edge in the dynamic and competitive world of financial trading.
+A Harvest Strategy in [algorithmic trading](../a/algorithmic_trading.md) is a nuanced approach aimed at maximizing returns while systematically reducing exposure to risks. Through careful assessment, setting clear objectives, efficient [position management](../p/position_management.md), and [robust](../r/robust.md) [risk management](../r/risk_management.md), traders and algorithms can effectively 'harvest' profits from their positions. Despite its complexity, the benefits of a well-implemented harvest strategy can outweigh the drawbacks, providing a strategic edge in the dynamic and competitive world of financial trading.

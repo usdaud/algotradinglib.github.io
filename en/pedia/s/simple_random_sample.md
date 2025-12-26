@@ -1,6 +1,6 @@
 # Simple Random Sample
 
-A **Simple Random Sample (SRS)** is a fundamental concept in [statistics](../s/statistics.md) and research, especially relevant in the fields of trading, [finance](../f/finance.md), and [algorithmic trading](../a/accountability.md). It guarantees each member of the population an equal chance of being included in the sample, ensuring that the sample is representative and unbiased. This [sampling](../s/sampling.md) technique is crucial for making sound financial decisions, analyzing [market](../m/market.md) trends, [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md), and more.
+A **Simple Random Sample (SRS)** is a fundamental concept in [statistics](../s/statistics.md) and research, especially relevant in the fields of trading, [finance](../f/finance.md), and [algorithmic trading](../a/algorithmic_trading.md). It guarantees each member of the population an equal chance of being included in the sample, ensuring that the sample is representative and unbiased. This [sampling](../s/sampling.md) technique is crucial for making sound financial decisions, analyzing [market](../m/market.md) trends, [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md), and more.
 
 ## What is a Simple Random Sample?
 
@@ -20,7 +20,7 @@ In trading and [finance](../f/finance.md), the accuracy of statistical analysis 
 
 ### Backtesting Trading Algorithms
 
-[Algorithmic trading](../a/accountability.md) relies heavily on historical data to forecast future [market](../m/market.md) movements and strategy performance. By using an SRS of past data, traders can avoid biases and [overfitting](../o/overfitting.md), creating algorithms that are more likely to perform well in real-world scenarios.
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on historical data to forecast future [market](../m/market.md) movements and strategy performance. By using an SRS of past data, traders can avoid biases and [overfitting](../o/overfitting.md), creating algorithms that are more likely to perform well in real-world scenarios.
 
 ### Risk Management
 
@@ -71,7 +71,7 @@ Banks and lending institutions use SRS to develop [credit](../c/credit.md) scori
 
 ### Data Sampling for Model Training
 
-[Algorithmic trading](../a/accountability.md) models require training on historical data to learn patterns and make predictions. By using an SRS of the historical data, developers ensure that the model is trained on a representative dataset, which enhances its generalization capability and reduces the [risk](../r/risk.md) of [overfitting](../o/overfitting.md).
+[Algorithmic trading](../a/algorithmic_trading.md) models require training on historical data to learn patterns and make predictions. By using an SRS of the historical data, developers ensure that the model is trained on a representative dataset, which enhances its generalization capability and reduces the [risk](../r/risk.md) of [overfitting](../o/overfitting.md).
 
 ```python
 [import](../i/import.md) pandas as pd
@@ -104,4 +104,4 @@ Achieving true randomness is theoretically difficult in computational settings d
 
 ## Conclusion
 
-A Simple Random Sample is a powerful tool in the domains of trading, [finance](../f/finance.md), and [algorithmic trading](../a/accountability.md). It provides a method for collecting unbiased, representative data that ensures the validity and reliability of analyses, models, and predictions. While challenges exist, the benefits of using SRS far outweigh the limitations, making it an indispensable component of financial research and decision-making.
+A Simple Random Sample is a powerful tool in the domains of trading, [finance](../f/finance.md), and [algorithmic trading](../a/algorithmic_trading.md). It provides a method for collecting unbiased, representative data that ensures the validity and reliability of analyses, models, and predictions. While challenges exist, the benefits of using SRS far outweigh the limitations, making it an indispensable component of financial research and decision-making.

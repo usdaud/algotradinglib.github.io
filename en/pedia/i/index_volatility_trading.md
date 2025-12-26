@@ -12,19 +12,19 @@
 
 The most well-known [volatility](../v/volatility.md) [index](../i/index_instrument.md) is the CBOE [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) (VIX), often referred to as the "fear gauge," because it represents [market](../m/market.md) participants' expectations of future [volatility](../v/volatility.md). Specifically, it reflects the expected [volatility](../v/volatility.md) of the S&P 500 [Index](../i/index_instrument.md) over the next 30 days. The VIX is calculated using the prices of S&P 500 [index options](../i/index_options.md).
 
-Link: [CBOE VIX](https://www.cboe.com/tradable_products/vix/)
+Link: CBOE VIX
 
 ### Other Global Volatility Indices
 
 1. **VSTOXX**: The [EURO](../e/euro.md) STOXX 50 [Volatility](../v/volatility.md) [Index](../i/index_instrument.md) measures the [Eurozone](../e/eurozone.md)'s [stock market](../s/stock_market.md) [volatility](../v/volatility.md) and is comparable to the VIX for European markets.
-   
-   Link: [VSTOXX](https://www.stoxx.com/indices/index-information.html?symbol=V2TX)
+
+ Link: VSTOXX
 
 2. **VXJ**: The [Nikkei](../n/nikkei.md) [Volatility](../v/volatility.md) [Index](../i/index_instrument.md), also known as VXJ, measures the expected [volatility](../v/volatility.md) of the [Nikkei](../n/nikkei.md) 225 [index](../i/index_instrument.md) in Japan.
 
 3. **VIXY**: The iPath Series B S&P 500 VIX Short-Term [Futures](../f/futures.md) ETN provides exposure to the VIX [Index](../i/index_instrument.md) through short-term [futures contracts](../f/futures_contracts.md) on the [index](../i/index_instrument.md).
 
-   Link: [VIXY](https://www.barclaysinvestments.com/etns/product-details/?name=VIXY)
+ Link: VIXY
 
 ## Trading Strategies
 
@@ -81,11 +81,11 @@ Several trading platforms [offer](../o/offer.md) access to [volatility](../v/vol
 
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Provides access to a wide [range](../r/range.md) of [market](../m/market.md) indices, [options](../o/options.md), and [futures contracts](../f/futures_contracts.md).
 
-  Link: [Interactive Brokers](https://www.interactivebrokers.com/)
+ Link: Interactive Brokers
 
 - **TD [Ameritrade](../a/ameritrade.md)**: Offers extensive trading tools and educational resources for trading [volatility](../v/volatility.md) indices and [options](../o/options.md).
 
-  Link: [TD Ameritrade](https://www.tdameritrade.com/)
+ Link: TD Ameritrade
 
 ### Analytical Tools
 
@@ -93,11 +93,11 @@ Advanced analytical tools can help traders analyze [market](../m/market.md) cond
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data and analytics on [market](../m/market.md) indices, [options](../o/options.md), [futures](../f/futures.md), and [volatility](../v/volatility.md) measures.
 
-  Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ Link: Bloomberg Terminal
 
 - **[ThinkorSwim](../t/thinkorswim.md)**: Offers powerful charting and analysis tools, along with access to [volatility](../v/volatility.md) indices and [options](../o/options.md) trading.
 
-  Link: [ThinkorSwim](https://www.thinkorswim.com/)
+ Link: ThinkorSwim
 
 ## Conclusion
 

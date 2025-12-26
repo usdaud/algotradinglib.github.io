@@ -30,7 +30,7 @@ The floor of the NYSE, often iconic in media portrayals, involves human traders 
 
 The NYSE's electronic platform, known as [NYSE Arca](../n/nyse_arca.md) (originally Archipelago [Exchange](../e/exchange.md)), complements floor trading by enabling remote, automated trading:
 - **[Execution](../e/execution.md) Speed**: Traders can execute orders in milliseconds, enhancing [market](../m/market.md) [liquidity](../l/liquidity.md).
-- **[Algorithmic Trading](../a/accountability.md)**: Advanced algorithms can optimize [trading strategies](../t/trading_strategies.md) based on [real-time market data](../r/real-time_market_data.md), exploiting price inefficiencies.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Advanced algorithms can optimize [trading strategies](../t/trading_strategies.md) based on [real-time market data](../r/real-time_market_data.md), exploiting price inefficiencies.
 - **Access**: Securities [listed](../l/listed.md) on NYSE can also be traded electronically, allowing global participation.
 
 ## Listing Requirements
@@ -48,9 +48,9 @@ Notable listing thresholds include:
 ## Notable Companies
 
 The NYSE hosts some of the world's largest and most influential companies. Examples include:
-- **Apple Inc.**: A technology giant known for its smartphones, computers, and consumer electronics. [Apple Inc.](https://www.apple.com/)
-- **ExxonMobil**: One of the largest publicly traded oil and gas companies. [ExxonMobil](https://corporate.exxonmobil.com/)
-- **Walmart**: A global retailing giant that operates hypermarkets, [discount](../d/discount.md) department stores, and grocery stores. [Walmart](https://corporate.walmart.com/)
+- **Apple Inc.**: A technology giant known for its smartphones, computers, and consumer electronics. Apple Inc.
+- **ExxonMobil**: One of the largest publicly traded oil and gas companies. ExxonMobil
+- **Walmart**: A global retailing giant that operates hypermarkets, [discount](../d/discount.md) department stores, and grocery stores. Walmart
 
 ## Impact on Global Finance
 
@@ -64,4 +64,4 @@ In addition, the NYSE actively engages in the global financial community through
 
 ## Conclusion
 
-The New York Stock [Exchange](../e/exchange.md) is more than just a marketplace for buying and selling [stocks](../s/stock.md); it is an institution that underpins the global [economy](../e/economy.md). From its rich historical roots to its modern-day technological advancements, the NYSE continues to be a fundamental pillar in the world of [finance](../f/finance.md). As it adapts to new challenges and opportunities, the NYSE remains a testament to the dynamic nature of the [financial markets](../f/financial_market.md). More information on the NYSE can be found on their official website: [NYSE](https://www.nyse.com/).
+The New York Stock [Exchange](../e/exchange.md) is more than just a marketplace for buying and selling [stocks](../s/stock.md); it is an institution that underpins the global [economy](../e/economy.md). From its rich historical roots to its modern-day technological advancements, the NYSE continues to be a fundamental pillar in the world of [finance](../f/finance.md). As it adapts to new challenges and opportunities, the NYSE remains a testament to the dynamic nature of the [financial markets](../f/financial_market.md).

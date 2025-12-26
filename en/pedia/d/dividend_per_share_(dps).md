@@ -27,9 +27,9 @@ This means that each [shareholder](../s/shareholder.md) would receive $2 for eve
 DPS is an essential metric for several reasons:
 
 1. **[Income](../i/income.md) Generation**: For [income](../i/income.md)-focused investors, DPS is a critical [indicator](../i/indicator.md) of the [return](../r/return.md) they can expect in the form of dividends. It helps them estimate the [cash flow](../c/cash_flow.md) they [will](../w/will.md) receive from [investing](../i/investing.md) in the company's [shares](../s/shares.md).
-  
+
 2. **Company Stability**: A consistent or growing DPS is often a sign of a company's [financial health](../f/financial_health.md) and stability. It suggests that the company has sufficient [earnings](../e/earnings.md) to [return](../r/return.md) to its shareholders while still [investing](../i/investing.md) in growth and operations.
-  
+
 3. **Comparison Across Companies**: DPS allows investors to compare the [dividend](../d/dividend.md) payouts of different companies, helping them make informed investment decisions. A higher DPS might indicate a more generous [dividend policy](../d/dividend_policy.md), although it is essential to consider other factors like [dividend](../d/dividend.md) sustainability.
 
 ## Factors Influencing DPS
@@ -37,13 +37,13 @@ DPS is an essential metric for several reasons:
 Several factors can affect a company's ability to pay dividends and, consequently, its DPS:
 
 1. **[Earnings](../e/earnings.md)**: The company's profits are the primary source of dividends. A company with higher [earnings](../e/earnings.md) is more likely to distribute higher dividends.
-  
+
 2. **[Payout Ratio](../p/payout_ratio.md)**: This is the proportion of [earnings](../e/earnings.md) a company pays out as dividends. A higher [payout ratio](../p/payout_ratio.md) means a larger share of [earnings](../e/earnings.md) is distributed as dividends, potentially increasing the DPS.
-  
+
 3. **[Retained Earnings](../r/retained_earnings.md)**: Companies may retain a portion of their [earnings](../e/earnings.md) for [reinvestment](../r/reinvestment.md) in the [business](../b/business.md). High [retained earnings](../r/retained_earnings.md) may reduce the amount available for dividends.
-  
+
 4. **[Economic Conditions](../e/economic_conditions.md)**: Economic downturns can impact a company's profitability, leading to lower dividends and subsequently a lower DPS.
-  
+
 5. **Corporate Strategy**: Some companies prioritize growth and [expansion](../e/expansion.md) over [dividend](../d/dividend.md) payouts. These companies might have low or no dividends, resulting in a lower DPS.
 
 ## DPS vs. Earnings Per Share (EPS)
@@ -58,7 +58,7 @@ Historically, [dividend](../d/dividend.md) policies and, consequently, DPS have 
 
 ## Impact of Share Buybacks on DPS
 
-[Share buybacks](../s/share_buybacks.md), or repurchases, can affect the DPS because they reduce the number of [shares](../s/shares.md) outstanding. 
+[Share buybacks](../s/share_buybacks.md), or repurchases, can affect the DPS because they reduce the number of [shares](../s/shares.md) outstanding.
 
 ```
 DPS = Total Dividends Paid / [Shares](../s/shares.md) Outstanding (Post-[Buyback](../b/buyback.md))
@@ -80,7 +80,7 @@ Companies often [offer](../o/offer.md) [Dividend Reinvestment](../d/dividend_rei
 
 [Dividend](../d/dividend.md) Per Share (DPS) is a vital financial metric that provides insights into a company's [dividend policy](../d/dividend_policy.md) and [financial health](../f/financial_health.md). By understanding DPS, investors can make more informed decisions, particularly those focused on [income](../i/income.md) generation and financial stability. DPS also serves as a useful tool for comparing [dividend](../d/dividend.md) distributions across different companies and industries.
 
-For more details and real-time updates on [dividend](../d/dividend.md) policies and financial metrics, you might find the following companies' [investor relations](../i/investor_relations.md) pages helpful:
-- [Apple Inc.](https://investor.apple.com/)
-- [Microsoft Corporation](https://www.microsoft.com/en-us/investor)
-- [ExxonMobil Corporation](https://corporate.exxonmobil.com/Investors)
+For more details and real-time updates on [dividend](../d/dividend.md) policies and financial metrics, you might find the following companies' [company filings](../i/investor_relations.md) pages helpful:
+- Apple Inc.
+- Microsoft Corporation
+- ExxonMobil Corporation

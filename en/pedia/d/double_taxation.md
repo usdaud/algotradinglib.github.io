@@ -82,7 +82,7 @@ Google's [parent company](../p/parent_company.md), Alphabet Inc., has faced doub
 
 ### Oracle Corporation
 
-Oracle [Corporation](../c/corporation.md) has also dealt with double [taxation](../t/taxation.md) concerns, particularly regarding its overseas revenues. The company has structured its operations to take advantage of tax treaties and credits to mitigate double [taxation](../t/taxation.md) as effectively as possible. For more information on Oracle's approach to [taxation](../t/taxation.md), you can visit their [official site](https://www.oracle.com).
+Oracle [Corporation](../c/corporation.md) has also dealt with double [taxation](../t/taxation.md) concerns, particularly regarding its overseas revenues. The company has structured its operations to take advantage of tax treaties and credits to mitigate double [taxation](../t/taxation.md) as effectively as possible. For more information on Oracle's approach to [taxation](../t/taxation.md), you can
 
 ## Conclusion
 

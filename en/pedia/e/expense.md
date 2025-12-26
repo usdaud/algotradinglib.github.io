@@ -10,17 +10,17 @@ An **Expense** is the cost incurred by an individual or organization for goods o
 
 ## Types of Expenses
 1. **Operating Expenses**: Costs associated with the day-to-day operations of a [business](../b/business.md).
-   - **Examples**: Rent, utilities, salaries, office supplies, and [marketing](../m/marketing.md) expenses.
+ - **Examples**: Rent, utilities, salaries, office supplies, and [marketing](../m/marketing.md) expenses.
 2. **[Capital](../c/capital.md) Expenses**: Costs related to the purchase of [long-term assets](../l/long-term_assets.md) that provide benefits over several years.
-   - **Examples**: Machinery, equipment, buildings, and vehicles.
+ - **Examples**: Machinery, equipment, buildings, and vehicles.
 3. **Fixed Expenses**: Costs that do not change with the level of production or sales.
-   - **Examples**: Rent, [insurance](../i/insurance.md), and [loan](../l/loan.md) payments.
+ - **Examples**: Rent, [insurance](../i/insurance.md), and [loan](../l/loan.md) payments.
 4. **Variable Expenses**: Costs that vary directly with the level of production or sales.
-   - **Examples**: [Raw materials](../r/raw_materials.md), direct labor, and sales commissions.
+ - **Examples**: [Raw materials](../r/raw_materials.md), direct labor, and sales commissions.
 5. **Discretionary Expenses**: Non-essential costs that can be adjusted or eliminated.
-   - **Examples**: Entertainment, travel, and training programs.
+ - **Examples**: Entertainment, travel, and training programs.
 6. **Non-operating Expenses**: Costs not related to the core [business](../b/business.md) operations.
-   - **Examples**: [Interest](../i/interest.md) payments, losses from [asset](../a/asset.md) sales, and lawsuit settlements.
+ - **Examples**: [Interest](../i/interest.md) payments, losses from [asset](../a/asset.md) sales, and lawsuit settlements.
 
 ## Importance
 1. **Financial Reporting**: Expenses are essential for accurate financial reporting and determining profitability.
@@ -48,4 +48,3 @@ An **Expense** is the cost incurred by an individual or organization for goods o
 
 ## Conclusion
 Expenses are a fundamental aspect of financial management, reflecting the costs incurred in the pursuit of [revenue](../r/revenue.md) and [business](../b/business.md) objectives. Effective tracking, recording, and management of expenses are essential for accurate financial reporting, budgeting, and maintaining the [financial health](../f/financial_health.md) of an organization. Understanding the different types of expenses and their impact on [financial statements](../f/financial_statements.md) is crucial for sound [financial planning](../f/financial_planning.md) and decision-making.
-

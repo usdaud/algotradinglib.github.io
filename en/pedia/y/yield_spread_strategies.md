@@ -64,21 +64,20 @@ Several [software platforms](../s/software_platforms_for_trading.md) and tools a
 
 #### 1. **Bloomberg Terminal**
 
-The [Bloomberg](../b/bloomberg.md) Terminal (https://[bloomberg](../b/bloomberg.md).com/professional/solution/[market](../m/market.md)-data/) provides comprehensive data and analytics tools for [yield](../y/yield.md) [spread analysis](../s/spread_analysis.md) and trading.
+The [Bloomberg](../b/bloomberg.md) Terminal ( provides comprehensive data and analytics tools for [yield](../y/yield.md) [spread analysis](../s/spread_analysis.md) and trading.
 
 #### 2. **Thomson Reuters Eikon**
 
-Thomson [Reuters](../r/reuters.md) Eikon (https://refinitiv.com/en/products/eikon-trading-software) offers real-time data, news, and analytical tools for fixed-[income](../i/income.md) [trading strategies](../t/trading_strategies.md).
+Thomson [Reuters](../r/reuters.md) Eikon ( offers real-time data, news, and analytical tools for fixed-[income](../i/income.md) [trading strategies](../t/trading_strategies.md).
 
 #### 3. **MultiCharts**
 
-[MultiCharts](../m/multicharts.md) (https://www.[multicharts](../m/multicharts.md).com/) is a [trading platform](../t/trading_platform.md) known for its advanced analytical capabilities and [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md).
+[MultiCharts](../m/multicharts.md) ( is a [trading platform](../t/trading_platform.md) known for its advanced analytical capabilities and [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md).
 
 #### 4. **QuantConnect**
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) a comprehensive environment for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+[QuantConnect](../q/quantconnect.md) ( is an [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) a comprehensive environment for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 
 [Yield spread](../y/yield_spread.md) strategies are a vital component of fixed-[income](../i/income.md) trading, enabling traders to exploit [market](../m/market.md) inefficiencies and [hedge](../h/hedge.md) risks. With the advent of [algorithmic trading](../a/algorithmic_trading.md), these strategies have become more sophisticated, leveraging advanced [data analytics](../d/data_analytics.md) and [quantitative models](../q/quantitative_models.md). Proper implementation demands a deep understanding of [yield](../y/yield.md) dynamics, extensive data, and [robust](../r/robust.md) technological [infrastructure](../i/infrastructure.md). [Yield](../y/yield.md) [spread trading](../s/spread_trading.md) holds the potential for significant returns but requires meticulous planning, [execution](../e/execution.md), and [risk management](../r/risk_management.md).
-

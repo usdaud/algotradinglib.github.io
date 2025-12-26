@@ -7,7 +7,7 @@ Mean reversion is a financial theory that suggests that [asset](../a/asset.md) p
 ### Statistical Foundations
 Mean reversion relies heavily on the principles of [statistics](../s/statistics.md), particularly the notions of mean, variance, and regression. The theory assumes:
 
-1. **[Normal Distribution](../n/normal_distribution_in_trading.md)**: [Asset](../a/asset.md) returns are often modeled as being normally distributed. 
+1. **[Normal Distribution](../n/normal_distribution_in_trading.md)**: [Asset](../a/asset.md) returns are often modeled as being normally distributed.
 2. **Stationarity**: The [underlying](../u/underlying.md) process that generates the [asset](../a/asset.md) prices is assumed to be stationary, meaning its statistical properties (like mean and variance) do not change over time.
 3. **[Autocorrelation](../a/autocorrelation.md)**: There is a degree of negative [autocorrelation](../a/autocorrelation.md) over time, implying that periods of returns above the mean are followed by returns below the mean, and vice versa.
 
@@ -49,17 +49,17 @@ Some popular algorithms and techniques for mean reversion in algo trading includ
 ### Renaissance Technologies
 Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) funds that heavily employs [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on mean reversion. Their approach integrates complex [mathematical models](../m/mathematical_models_in_trading.md) and vast amounts of data to identify mean-reverting opportunities.
 
-Link: [Renaissance Technologies](https://www.rentec.com/)
+Link: Renaissance Technologies
 
 ### Two Sigma
 Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other cutting-edge technologies to implement mean-reversion strategies among others. The [firm](../f/firm.md) analyzes vast datasets to predict mean reversion across various [asset](../a/asset.md) classes.
 
-Link: [Two Sigma](https://www.twosigma.com/)
+Link: Two Sigma
 
 ### AQR Capital Management
 AQR's diversified [trading strategies](../t/trading_strategies.md) include elements of mean reversion, particularly in its [arbitrage](../a/arbitrage.md) and [market neutral strategies](../m/market_neutral_strategies.md). The [firm](../f/firm.md) employs rigorous [quantitative analysis](../q/quantitative_analysis.md) to exploit mean-reverting opportunities.
 
-Link: [AQR Capital Management](https://www.aqr.com/)
+Link: AQR Capital Management
 
 ## Statistical Tools and Techniques
 

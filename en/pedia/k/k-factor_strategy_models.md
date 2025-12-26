@@ -37,7 +37,7 @@ The initial step in K-[Factor](../f/factor.md) modeling involves the collection 
 #### Data Sources
 
 - **Financial [Market](../m/market.md) Exchanges**: Provide raw [market](../m/market.md) data, including prices and volumes.
-- **News APIs**: Collect real-time sentiment and news data (e.g., [NewsAPI](https://newsapi.org/)).
+- **News APIs**: Collect real-time sentiment and news data (e.g., NewsAPI).
 - **[Social Media](../s/social_media.md) Platforms**: Harvest sentiment-related data from platforms like Twitter and Reddit.
 
 ### Factor Analysis
@@ -130,4 +130,4 @@ As K-[Factor models](../f/factor_models.md) become more advanced, ethical and re
 
 K-[Factor](../f/factor.md) Strategy Models represent a sophisticated and multi-dimensional approach to [algorithmic trading](../a/algorithmic_trading.md). By integrating key [market](../m/market.md) factors such as [volatility](../v/volatility.md), [liquidity](../l/liquidity.md), [momentum](../m/momentum.md), and sentiment, these models provide invaluable insights for developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). As technological advancements continue to evolve, the future of K-[Factor models](../f/factor_models.md) holds immense potential for enhancing [predictive analytics](../p/predictive_analytics.md), [risk management](../r/risk_management.md), and overall trading [efficiency](../e/efficiency.md).
 
-For more information on implementing and leveraging K-[Factor models](../f/factor_models.md) in [algorithmic trading](../a/algorithmic_trading.md), consider reaching out to specialized firms like [Quantitative Brokers](https://www.quantitativebrokers.com/) or [AlphaParity](https://www.alphaparity.com/).
+For more information on implementing and leveraging K-[Factor models](../f/factor_models.md) in [algorithmic trading](../a/algorithmic_trading.md), consider reaching out to specialized firms like Quantitative Brokers or AlphaParity.

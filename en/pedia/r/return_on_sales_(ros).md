@@ -80,11 +80,11 @@ By incorporating ROS data into [backtesting](../b/backtesting.md) models, trader
 
 ### Microsoft Corporation
 
-Microsoft [Corporation](../c/corporation.md) (https://www.microsoft.com) is an excellent example of a company with a consistently high ROS. Over the years, Microsoft's strong focus on high-[margin](../m/margin.md) software and cloud services has resulted in a [robust](../r/robust.md) [operating profit](../o/operating_profit.md) relative to its sales, making it a favorite among investors looking for efficient and profitable firms.
+Microsoft [Corporation](../c/corporation.md) ( is an excellent example of a company with a consistently high ROS. Over the years, Microsoft's strong focus on high-[margin](../m/margin.md) software and cloud services has resulted in a [robust](../r/robust.md) [operating profit](../o/operating_profit.md) relative to its sales, making it a favorite among investors looking for efficient and profitable firms.
 
 ### Walmart Inc.
 
-Walmart Inc. (https://www.walmart.com) illustrates the challenges of maintaining a high ROS in the retail sector. Despite its massive [revenue](../r/revenue.md), Walmart faces thin margins due to competitive pricing and high operating costs. However, its [operational efficiency](../o/operational_efficiency_in_trading.md) and high sales [volume](../v/volume.md) help it maintain a stable but relatively lower ROS.
+Walmart Inc. ( illustrates the challenges of maintaining a high ROS in the retail sector. Despite its massive [revenue](../r/revenue.md), Walmart faces thin margins due to competitive pricing and high operating costs. However, its [operational efficiency](../o/operational_efficiency_in_trading.md) and high sales [volume](../v/volume.md) help it maintain a stable but relatively lower ROS.
 
 ## Conclusion
 

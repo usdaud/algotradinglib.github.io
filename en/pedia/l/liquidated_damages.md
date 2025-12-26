@@ -6,11 +6,11 @@ In the realm of [finance](../f/finance.md) and trading, particularly in contract
 
 ### Legal Foundation
 
-Liquidated damages are fundamentally rooted in contract law. They are used in situations where actual damages are difficult to ascertain or prove at the time of breach. The concept traces back to ancient legal systems but is prominently featured in English [common law](../c/common_law.md) and has been adopted in many jurisdictions worldwide. 
+Liquidated damages are fundamentally rooted in contract law. They are used in situations where actual damages are difficult to ascertain or prove at the time of breach. The concept traces back to ancient legal systems but is prominently featured in English [common law](../c/common_law.md) and has been adopted in many jurisdictions worldwide.
 
 ### Purpose
 
-The primary purpose of liquidated damages is to ensure that the injured party receives a fair compensation without the need for complex litigation to prove actual damages. They [offer](../o/offer.md) a measure of predictability and [risk management](../r/risk_management.md) for both parties in a contract. 
+The primary purpose of liquidated damages is to ensure that the injured party receives a fair compensation without the need for complex litigation to prove actual damages. They [offer](../o/offer.md) a measure of predictability and [risk management](../r/risk_management.md) for both parties in a contract.
 
 ### Conditions for Enforceability
 
@@ -35,7 +35,7 @@ In financial trading and investments, liquidated damages can occur in [multiple]
 
 ### Derivatives Contracts
 
-In the world of [derivatives](../d/derivatives.md), such as [futures](../f/futures.md) and [options](../o/options.md), liquidated damages may be stipulated in case one party fails to fulfill their [margin](../m/margin.md) requirements or deliver the [underlying asset](../u/underlying_asset.md). 
+In the world of [derivatives](../d/derivatives.md), such as [futures](../f/futures.md) and [options](../o/options.md), liquidated damages may be stipulated in case one party fails to fulfill their [margin](../m/margin.md) requirements or deliver the [underlying asset](../u/underlying_asset.md).
 
 ### Brokerage Agreements
 

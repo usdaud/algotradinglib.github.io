@@ -4,7 +4,7 @@
 
 #### Definition and Mechanism
 
-A Repurchase Agreement (Repo) is a form of short-term borrowing, mainly in government securities. The [dealer](../d/dealer.md) sells the government securities to investors, usually on an overnight [basis](../b/basis.md), and buys them back the next day at a slightly higher price. The difference in price effectively represents the [interest rate](../i/interest_rate.md), known as the repo rate. 
+A Repurchase Agreement (Repo) is a form of short-term borrowing, mainly in government securities. The [dealer](../d/dealer.md) sells the government securities to investors, usually on an overnight [basis](../b/basis.md), and buys them back the next day at a slightly higher price. The difference in price effectively represents the [interest rate](../i/interest_rate.md), known as the repo rate.
 
 Repos are vital for maintaining [liquidity](../l/liquidity.md) in the [financial system](../f/financial_system.md), [offering](../o/offering.md) a safe and collateralized means for institutions to borrow and lend funds. The [transaction](../t/transaction.md) involves two main parties:
 - **The Seller (Borrower):** Sells securities with an agreement to repurchase them.
@@ -61,9 +61,9 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), repo rate 
 
 #### Key Institutions Involved
 
-- **Central Banks:** Such as the Federal Reserve (www.federalreserve.gov), European Central [Bank](../b/bank.md) (www.ecb.europa.eu).
+- **Central Banks:** Such as the Federal Reserve ( European Central [Bank](../b/bank.md) (
 - **Major Banks:** JPMorgan Chase, Goldman Sachs.
-- **[Market](../m/market.md) Platforms:** Clearinghouses like the [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (www.dtcc.com).
+- **[Market](../m/market.md) Platforms:** Clearinghouses like the [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (
 
 #### Case Study Example
 

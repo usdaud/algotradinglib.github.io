@@ -50,7 +50,7 @@ The AMF, along with other European regulatory bodies, conducts regular audits an
 
 ### Listings and IPOs
 
-One of the critical functions of [Euronext](../e/euronext.md) Paris is to facilitate Initial Public Offerings (IPOs) and listings. Companies seeking to go public can list their [shares](../s/shares.md) on [Euronext](../e/euronext.md) Paris after meeting specific criteria, including [financial performance](../f/financial_performance.md), governance standards, and [transparency](../t/transparency.md) requirements. 
+One of the critical functions of [Euronext](../e/euronext.md) Paris is to facilitate Initial Public Offerings (IPOs) and listings. Companies seeking to go public can list their [shares](../s/shares.md) on [Euronext](../e/euronext.md) Paris after meeting specific criteria, including [financial performance](../f/financial_performance.md), governance standards, and [transparency](../t/transparency.md) requirements.
 
 The [exchange](../e/exchange.md) offers various listing segments to cater to different types of companies, including main [market](../m/market.md) listings, SME segments, and specialized platforms like [Euronext](../e/euronext.md) Growth and [Euronext](../e/euronext.md) Access. These segments provide flexible listing [options](../o/options.md), making it easier for companies at different stages of growth to access [capital markets](../c/capital_markets.md).
 
@@ -78,4 +78,4 @@ In recent years, [Euronext](../e/euronext.md) Paris has placed a strong emphasis
 
 As one of the leading stock exchanges in Europe, [Euronext](../e/euronext.md) Paris is integral to the broader European financial landscape. Its size, [liquidity](../l/liquidity.md), and technological advancements make it a key player in global [finance](../f/finance.md).
 
-For more detailed information, visit [Euronext Paris Official Website](https://www.euronext.com/en/markets/paris).
+For more detailed information,

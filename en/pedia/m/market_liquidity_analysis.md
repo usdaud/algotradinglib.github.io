@@ -22,7 +22,7 @@ There are several quantitative metrics used to measure [market](../m/market.md) 
 
 ## Liquidity in Different Financial Markets
 ### Equity Markets
-[Equity](../e/equity.md) markets, especially those dealing with [stocks](../s/stock.md) of large corporations, typically exhibit high [liquidity](../l/liquidity.md). The [liquidity](../l/liquidity.md) can be measured using metrics like daily trading [volume](../v/volume.md), [turnover ratio](../t/turnover_ratio.md), and [bid](../b/bid.md)-ask [spreads](../s/spreads.md). Major stock exchanges, such as the New York Stock [Exchange](../e/exchange.md) (NYSE) [(link)](https://www.nyse.com) and [Nasdaq](../n/nasdaq.md) [(link)](https://www.nasdaq.com), are known for high [liquidity](../l/liquidity.md).
+[Equity](../e/equity.md) markets, especially those dealing with [stocks](../s/stock.md) of large corporations, typically exhibit high [liquidity](../l/liquidity.md). The [liquidity](../l/liquidity.md) can be measured using metrics like daily trading [volume](../v/volume.md), [turnover ratio](../t/turnover_ratio.md), and [bid](../b/bid.md)-ask [spreads](../s/spreads.md). Major stock exchanges, such as the New York Stock [Exchange](../e/exchange.md) (NYSE) (link) and [Nasdaq](../n/nasdaq.md) (link), are known for high [liquidity](../l/liquidity.md).
 
 ### Forex Markets
 The [foreign exchange](../f/foreign_exchange.md) (forex) [market](../m/market.md) is one of the most [liquid](../l/liquid.md) markets globally, with currencies like the USD, EUR, and JPY seeing trillions of dollars in daily trading [volume](../v/volume.md). Forex [liquidity](../l/liquidity.md) is often assessed by looking at tight [spreads](../s/spreads.md) and high [market depth](../m/market_depth.md).
@@ -60,4 +60,4 @@ In early 2021, the stock of Gamestop (GME) experienced unprecedented [volatility
 ## Conclusion
 [Market](../m/market.md) [liquidity](../l/liquidity.md) plays an essential role in the functioning of [financial markets](../f/financial_market.md). For algorithmic traders, understanding and analyzing [liquidity](../l/liquidity.md) is crucial for developing and implementing effective [trading strategies](../t/trading_strategies.md). By closely monitoring [liquidity](../l/liquidity.md) conditions and utilizing sophisticated measures and techniques, traders can enhance their [trading performance](../t/trading_performance.md) and mitigate risks associated with low [liquidity](../l/liquidity.md) environments.
 
-For further information on [market](../m/market.md) [liquidity](../l/liquidity.md) and its analysis, you can visit exchanges like the NYSE at [https://www.nyse.com](https://www.nyse.com) or [Nasdaq](../n/nasdaq.md) at [https://www.nasdaq.com](https://www.nasdaq.com).
+For further information on [market](../m/market.md) [liquidity](../l/liquidity.md) and its analysis, you can visit exchanges like the NYSE at or [Nasdaq](../n/nasdaq.md) at

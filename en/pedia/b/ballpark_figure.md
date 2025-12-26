@@ -4,7 +4,7 @@ In the landscape of [financial markets](../f/financial_market.md), especially in
 
 ## Definition and Context
 
-A ballpark figure is essentially an educated guess or a rough estimate used primarily as an initial starting point. It allows stakeholders to frame discussions, set expectations, or make preliminary decisions without delving immediately into detailed analytics. The term comes from the notion of estimating a [value](../v/value.md) that falls within the general "ballpark" of reasonable expectations, often acceptable for initial planning purposes. 
+A ballpark figure is essentially an educated guess or a rough estimate used primarily as an initial starting point. It allows stakeholders to frame discussions, set expectations, or make preliminary decisions without delving immediately into detailed analytics. The term comes from the notion of estimating a [value](../v/value.md) that falls within the general "ballpark" of reasonable expectations, often acceptable for initial planning purposes.
 
 ## Importance in Financial Markets
 
@@ -30,7 +30,7 @@ When developing [trading algorithms](../t/trading_algorithms.md), one often star
 Although [backtesting](../b/backtesting.md) ultimately relies on detailed historical data, initial backtests might use ballpark figures to:
 - **Screen Strategies**: Filter out unpromising strategies early on.
 - **Set Benchmarks**: Establish rough performance benchmarks against which detailed results can be compared.
-  
+
 ### Risk Management
 
 [Risk management](../r/risk_management.md) in algotrading also benefits from ballpark figures:

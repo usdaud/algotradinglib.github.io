@@ -49,14 +49,14 @@ The COVID-19 pandemic brought unparalleled systematic [risk](../r/risk.md) to [f
 
 For further insights and resources related to systematic [risk](../r/risk.md), several organizations and resources can be invaluable:
 
-1. **Federal Reserve** - [Federal Reserve](https://www.federalreserve.gov/)
-2. **International Monetary [Fund](../f/fund.md) (IMF)** - [IMF](https://www.imf.org/)
-3. **[World Bank](../w/world_bank.md)** - [World Bank](https://www.worldbank.org/)
-4. **[Bank](../b/bank.md) for International Settlements (BIS)** - [BIS](https://www.bis.org/)
-5. **Financial Stability Board (FSB)** - [FSB](https://www.fsb.org/)
+1. **Federal Reserve** - Federal Reserve
+2. **International Monetary [Fund](../f/fund.md) (IMF)** - IMF
+3. **[World Bank](../w/world_bank.md)** - World Bank
+4. **[Bank](../b/bank.md) for International Settlements (BIS)** - BIS
+5. **Financial Stability Board (FSB)** - FSB
 
 ### Conclusion
 
-Understanding and managing systematic [risk](../r/risk.md) is essential for any serious [investor](../i/investor.md) or financial professional. By recognizing the broad and unavoidable nature of this [risk](../r/risk.md), developing appropriate strategies, and utilizing available resources, investors can better prepare for [market](../m/market.md) uncertainties and work towards achieving stable, long-term investment outcomes. 
+Understanding and managing systematic [risk](../r/risk.md) is essential for any serious [investor](../i/investor.md) or financial professional. By recognizing the broad and unavoidable nature of this [risk](../r/risk.md), developing appropriate strategies, and utilizing available resources, investors can better prepare for [market](../m/market.md) uncertainties and work towards achieving stable, long-term investment outcomes.
 
 Systematic [risk](../r/risk.md) is an intrinsic part of [market](../m/market.md) activities, stemming from the interconnectedness of economies and the complex interplay of macroeconomic factors. Navigating this landscape requires a blend of analytical insight, proactive [risk management](../r/risk_management.md), and strategic [diversification](../d/diversification.md), ensuring that portfolios remain [robust](../r/robust.md) even in the face of widespread [market](../m/market.md) disruptions.

@@ -51,8 +51,8 @@ Traders monitor [pre-market](../p/pre-market.md) news and economic releases to a
 
 ## Role in Algorithmic Trading
 
-### Data Analysis 
-In [algorithmic trading](../a/accountability.md), the opening price is used as a critical data point. Algorithms analyze historical opening prices to detect patterns and forecast future price movements. This data is also used for [backtesting](../b/backtesting.md) strategies to evaluate their performance.
+### Data Analysis
+In [algorithmic trading](../a/algorithmic_trading.md), the opening price is used as a critical data point. Algorithms analyze historical opening prices to detect patterns and forecast future price movements. This data is also used for [backtesting](../b/backtesting.md) strategies to evaluate their performance.
 
 ### Machine Learning Models
 [Machine learning](../m/machine_learning.md) models utilize opening prices as input features to predict intraday price movements. These models help in developing strategies that can adapt to [market](../m/market.md) changes and exploit the opening price's [volatility](../v/volatility.md).

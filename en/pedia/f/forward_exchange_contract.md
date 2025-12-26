@@ -18,10 +18,10 @@ Here's how a typical Forward [Exchange](../e/exchange.md) Contract works:
 
 1. **Agreement**: Two parties agree to [exchange](../e/exchange.md) a specific amount of [currency](../c/currency.md) at a predetermined rate on a future date.
 2. **Determining the [Forward Rate](../f/forward_rate.md)**: The [forward rate](../f/forward_rate.md) is derived based on the current [spot rate](../s/spot_rate.md) and incorporating [interest rate](../i/interest_rate.md) differentials between the two currencies. This calculation uses the [covered interest rate parity](../c/covered_interest_rate_parity.md) formula:
-   \[
-   F = S \left( \frac{1 + i_d}{1 + i_f} \right)
-   \]
-   where \( F \) is the [forward rate](../f/forward_rate.md), \( S \) is the [spot rate](../s/spot_rate.md), \( i_d \) is the domestic [interest rate](../i/interest_rate.md), and \( i_f \) is the foreign [interest rate](../i/interest_rate.md).
+ \[
+ F = S \left( \frac{1 + i_d}{1 + i_f} \right)
+ \]
+ where \( F \) is the [forward rate](../f/forward_rate.md), \( S \) is the [spot rate](../s/spot_rate.md), \( i_d \) is the domestic [interest rate](../i/interest_rate.md), and \( i_f \) is the foreign [interest rate](../i/interest_rate.md).
 3. **Contract [Duration](../d/duration.md)**: The [duration](../d/duration.md) of the contract can [range](../r/range.md) from days to several years, depending on the needs of the contracting parties.
 4. **Settlement**: On the [maturity date](../m/maturity_date.md), the currencies are exchanged at the agreed-upon [forward rate](../f/forward_rate.md), regardless of the [spot rate](../s/spot_rate.md) at that time.
 
@@ -62,9 +62,9 @@ Six months later, regardless of the prevailing [spot rate](../s/spot_rate.md), X
 Banks and financial institutions play a crucial role in the forward [exchange](../e/exchange.md) [market](../m/market.md). They act as the [counterparty](../c/counterparty.md) to [forward contracts](../f/forward_contracts.md), providing the necessary [liquidity](../l/liquidity.md) and facilitating the needs of companies and investors. Major global banks such as JPMorgan Chase, Citibank, and HSBC [offer](../o/offer.md) forward [exchange](../e/exchange.md) contract services to their clients.
 
 For further details on specific offerings, you can visit the following links:
-- [JPMorgan Chase](https://www.jpmorganchase.com)
-- [Citibank](https://www.citi.com)
-- [HSBC](https://www.hsbc.com)
+- JPMorgan Chase
+- Citibank
+- HSBC
 
 ## Regulations
 

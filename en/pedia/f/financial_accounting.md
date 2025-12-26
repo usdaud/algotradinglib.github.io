@@ -99,25 +99,25 @@ Numerous financial [accounting](../a/accounting.md) software solutions can help 
 
 QuickBooks is widely used by small to medium-sized enterprises (SMEs) for bookkeeping and financial [accounting](../a/accounting.md). It offers various features for invoicing, [expense](../e/expense.md) tracking, [payroll](../p/payroll.md), and financial reporting.
 
-**Website:** [QuickBooks](https://quickbooks.intuit.com/)
+**online platform:** QuickBooks
 
 ### SAP
 
 SAP offers comprehensive enterprise resource planning (ERP) solutions, which include extensive financial [accounting](../a/accounting.md) modules. It is widely used by large organizations for financial management, reporting, and compliance.
 
-**Website:** [SAP](https://www.sap.com/)
+**online platform:** SAP
 
 ### Oracle Financials
 
 Oracle Financials is part of the Oracle E-[Business](../b/business.md) Suite and offers a broad [range](../r/range.md) of financial management and [accounting](../a/accounting.md) functionalities. It is suitable for organizations of all sizes.
 
-**Website:** [Oracle](https://www.oracle.com/)
+**online platform:** Oracle
 
 ### Xero
 
 Xero is a cloud-based [accounting](../a/accounting.md) software that is popular among small businesses. It offers features for [bank reconciliation](../b/bank_reconciliation.md), invoicing, [payroll](../p/payroll.md), and financial reporting.
 
-**Website:** [Xero](https://www.xero.com/)
+**online platform:** Xero
 
 ## Challenges in Financial Accounting
 

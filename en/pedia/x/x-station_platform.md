@@ -4,7 +4,7 @@ The world of financial trading has undergone a significant transformation over t
 
 ## Overview
 
-X-Station is a [proprietary trading](../p/proprietary_trading.md) platform developed by [XTB](../x/xtb.md) (X-[Trade](../t/trade.md) Brokers), a leading global brokerage [firm](../f/firm.md). The platform is designed to [offer](../o/offer.md) traders an advanced and user-friendly interface, providing access to a variety of financial instruments, including Forex, commodities, indices, cryptocurrencies, and [stocks](../s/stock.md). X-Station is known for its speed, reliability, and [range](../r/range.md) of analytical tools, making it a preferred choice for both novice and experienced traders. 
+X-Station is a [proprietary trading](../p/proprietary_trading.md) platform developed by [XTB](../x/xtb.md) (X-[Trade](../t/trade.md) Brokers), a leading global brokerage [firm](../f/firm.md). The platform is designed to [offer](../o/offer.md) traders an advanced and user-friendly interface, providing access to a variety of financial instruments, including Forex, commodities, indices, cryptocurrencies, and [stocks](../s/stock.md). X-Station is known for its speed, reliability, and [range](../r/range.md) of analytical tools, making it a preferred choice for both novice and experienced traders.
 
 ## Key Features
 
@@ -45,7 +45,7 @@ X-Station is designed to be highly accessible, supporting [multiple](../m/multip
 
 ## User Support
 
-Another significant aspect of the X-Station platform is its user support. [XTB](../x/xtb.md) provides comprehensive [customer](../c/customer.md) support to assist traders with any issues or questions they might have. This includes 24/5 support via live chat, email, and phone. The company’s website also features a detailed FAQ section and a [range](../r/range.md) of support articles that cover common queries and provide [guidance](../g/guidance.md) on using the platform.
+Another significant aspect of the X-Station platform is its user support. [XTB](../x/xtb.md) provides comprehensive [customer](../c/customer.md) support to assist traders with any issues or questions they might have. This includes 24/5 support via live chat, email, and phone. The company’s online platform also features a detailed FAQ section and a [range](../r/range.md) of support articles that cover common queries and provide [guidance](../g/guidance.md) on using the platform.
 
 ## Integration with Algorithmic Trading
 
@@ -55,7 +55,7 @@ For traders interested in [algorithmic trading](../a/algorithmic_trading.md), X-
 
 [XTB](../x/xtb.md), the company behind X-Station, is one of the largest stock [exchange](../e/exchange.md)-[listed](../l/listed.md) FX and CFD brokers in the world. With its headquarters in Warsaw, Poland, [XTB](../x/xtb.md) has grown to serve clients in over 13 countries, including major financial centers like London and Frankfurt. The company is known for its high-quality [brokerage services](../b/brokerage_services.md), extensive [range](../r/range.md) of tradable assets, and commitment to [transparency](../t/transparency.md) and [security](../s/security.md).
 
-For more detailed information about [XTB](../x/xtb.md) and the X-Station platform, you can visit their official website: [XTB](https://www.xtb.com).
+For more detailed information about [XTB](../x/xtb.md) and the X-Station platform,
 
 ## Conclusion
 

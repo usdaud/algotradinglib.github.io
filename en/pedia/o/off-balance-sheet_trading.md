@@ -15,7 +15,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), OBS items a
 [Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), [index](../i/index_instrument.md), or [interest rate](../i/interest_rate.md). Common types include [futures](../f/futures.md), [options](../o/options.md), and swaps. Given the speculative nature and high leveraged positions, they often stay off the [balance sheet](../b/balance_sheet.md) to limit the perception of [risk](../r/risk.md).
 
 #### Example: J.P. Morgan Chase & Co.
-Visit: [J.P. Morgan](https://www.jpmorganchase.com/)
+Visit: J.P. Morgan
 
 ### 2. Special Purpose Vehicles (SPVs)
 
@@ -29,14 +29,14 @@ An SPV is a subsidiary created by a [parent company](../p/parent_company.md) to 
 Operating leases allow companies to use assets without owning them. These leases don't appear on the [balance sheet](../b/balance_sheet.md) as liabilities, which can make the company's financial position appear less leveraged than it actually is.
 
 #### Example: United Airlines Holdings, Inc.
-Visit: [United Airlines Holdings](https://ir.united.com/investor-relations/investor-home/default.aspx)
+Visit: United Airlines Holdings
 
 ### 4. Joint Ventures
 
 [Joint](../j/joint.md) ventures entail two or more parties pooling resources for a specific purpose. The shared ownership of assets often means they don’t appear on a single company’s [balance sheet](../b/balance_sheet.md), though the benefits and risks are distributed.
 
 #### Example: Shell and Exxon Mobil
-Visit: [Shell](https://www.shell.com/) and [Exxon Mobil](https://corporate.exxonmobil.com/)
+Visit: Shell and Exxon Mobil
 
 ## Regulatory Landscape
 
@@ -46,19 +46,19 @@ Regulatory frameworks around off-balance-sheet activities are intricate and ofte
 
 The IFRS provides international guidelines on how companies should [handle](../h/handle.md) off-balance-sheet items, emphasizing [transparency](../t/transparency.md) and the [fair value](../f/fair_value.md) of assets and liabilities.
 
-#### Visit: [IFRS](https://www.ifrs.org/)
+#### Visit: IFRS
 
 ### 2. U.S. Securities and Exchange Commission (SEC)
 
 The SEC enforces rules for public companies in the U.S. to disclose off-balance-sheet risks, particularly post-Enron scandal, which led to the Sarbanes-Oxley Act.
 
-#### Visit: [SEC](https://www.sec.gov/)
+#### Visit: SEC
 
 ### 3. Financial Accounting Standards Board (FASB)
 
 In the U.S., the FASB stipulates standards for financial reporting, including how off-balance-sheet items should be reported, focusing on [transparency](../t/transparency.md) and accountability.
 
-#### Visit: [FASB](https://www.fasb.org/)
+#### Visit: FASB
 
 ## Implications for Algorithmic Trading
 
@@ -104,4 +104,4 @@ Staying abreast of regulatory changes is crucial. Algorithms can be adapted to c
 
 Off-balance-sheet trading presents unique challenges and opportunities within the realm of [algorithmic trading](../a/algorithmic_trading.md). By understanding the intricacies of these financial instruments and regulations, and incorporating comprehensive data analysis, traders can better navigate the complexities and mitigate associated risks. Companies that maintain high [transparency](../t/transparency.md) in their financial reporting [will](../w/will.md) continue to build [trust](../t/trust.md) and stability in the markets, providing a more [robust](../r/robust.md) foundation for algorithmic strategies.
 
-For more detailed references and real-time updates on companies involved in off-balance-sheet activities, visit their respective [investor relations](../i/investor_relations.md) web pages and consult regulatory bodies like the SEC and IFRS.
+For more detailed references and real-time updates on companies involved in off-balance-sheet activities, visit their respective [company filings](../i/investor_relations.md) web pages and consult regulatory bodies like the SEC and IFRS.

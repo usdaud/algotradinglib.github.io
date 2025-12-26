@@ -19,12 +19,12 @@ Investors obligated to file Schedule 13G typically include:
 ## Key Filing Requirements for Schedule 13G
 
 1. **Initial Filing**:
-    - This must be made within 10 days after the [acquisition](../a/acquisition.md) of more than 5% of a class of a company's registered [equity](../e/equity.md) securities.
-    
+ - This must be made within 10 days after the [acquisition](../a/acquisition.md) of more than 5% of a class of a company's registered [equity](../e/equity.md) securities.
+
 2. **Amendments**:
-    - Amendments to Schedule 13G are required in certain situations, such as material changes in the percentage of ownership.
-    - Annual Amendments must be filed within 45 days after the end of the calendar year if the holder's position changes to more than 10% of the outstanding [shares](../s/shares.md).
-    - Prompt amendments are required for acquisitions resulting in ownership that surpasses 10%, and for further incremental increases or decreases above or below 5%.
+ - Amendments to Schedule 13G are required in certain situations, such as material changes in the percentage of ownership.
+ - Annual Amendments must be filed within 45 days after the end of the calendar year if the holder's position changes to more than 10% of the outstanding [shares](../s/shares.md).
+ - Prompt amendments are required for acquisitions resulting in ownership that surpasses 10%, and for further incremental increases or decreases above or below 5%.
 
 ## Information Disclosed on Schedule 13G
 
@@ -59,7 +59,7 @@ The completed Schedule 13G form is electronically filed using the SEC's Electron
 
 Institutional investors like BlackRock, Vanguard, and Fidelity frequently file Schedule 13G forms. One can search for these filings on the SEC’s EDGAR database by inputting the appropriate company name or [ticker symbol](../t/ticker_symbol.md).
 
-- For example, BlackRock’s passive [equity](../e/equity.md) ownership in Apple Inc. can be checked through their Schedule 13G filings [here](https://www.blackrock.com).
+- For example, BlackRock’s passive [equity](../e/equity.md) ownership in Apple Inc. can be checked through their Schedule 13G filings here.
 
 ## Importance for Investors and Market Participants
 

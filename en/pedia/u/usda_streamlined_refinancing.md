@@ -49,9 +49,9 @@ USDA Streamlined Refinancing is often compared with other refinancing [options](
 ## Servicers and Lenders
 
 Various lenders [offer](../o/offer.md) USDA Streamlined Refinancing, and it’s advisable to consult with [multiple](../m/multiple.md) lenders to compare rates and terms. You can contact servicers like:
-- **Wells Fargo**: [Wells Fargo USDA Refinancing](https://www.wellsfargo.com/mortgage/usda-loans)
-- **US [Bank](../b/bank.md)**: [US Bank USDA Loans](https://www.usbank.com/home-loans/mortgage/usda-loan.html)
-- **Quicken Loans**: [Quicken Loans USDA](https://www.quickenloans.com/learn/usda-loan)
+- **Wells Fargo**: Wells Fargo USDA Refinancing
+- **US [Bank](../b/bank.md)**: US Bank USDA Loans
+- **Quicken Loans**: Quicken Loans USDA
 
 ## Conclusion
 

@@ -41,7 +41,7 @@ Critics also point to the potential negative impacts on small businesses and far
 
 ### Jurisdictional Variations
 #### United States
-In the U.S., the federal [estate tax](../e/estate_tax.md) has an [exemption](../e/exemption.md) limit—only estates above a certain [value](../v/value.md) are taxed. As of 2021, the [exemption](../e/exemption.md) threshold was $11.7 million. Several states also impose their own [estate](../e/estate.md) or inheritance [taxes](../t/taxes.md), with varying [exemption](../e/exemption.md) limits and rates.
+In the U.S., the federal [estate tax](../e/estate_tax.md) has an [exemption](../e/exemption.md) limit—only estates above a certain [value](../v/value.md) are taxed. As of 2024, the [exemption](../e/exemption.md) threshold is $13.61 million (adjusted annually for inflation). Several states also impose their own [estate](../e/estate.md) or inheritance [taxes](../t/taxes.md), with varying [exemption](../e/exemption.md) limits and rates.
 
 #### United Kingdom
 In the UK, [inheritance tax](../i/inheritance_tax.md) is charged on estates valued above a specific threshold (currently £325,000), with a standard [tax rate](../t/tax_rate.md) at 40%.

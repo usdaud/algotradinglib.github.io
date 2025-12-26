@@ -41,7 +41,7 @@ LDI strategies must also consider regulatory requirements and [accounting](../a/
 
 ### Real-World Example
 
-One example of a company utilizing LDI is [Legal & General Investment Management (LGIM)](https://www.lgim.com). LGIM provides LDI solutions to pension funds and other institutional clients, helping them manage their [liability](../l/liability.md) profiles through tailored investment strategies.
+One example of a company utilizing LDI is Legal & General Investment Management (LGIM). LGIM provides LDI solutions to pension funds and other institutional clients, helping them manage their [liability](../l/liability.md) profiles through tailored investment strategies.
 
 ## Challenges of LDI
 
@@ -53,4 +53,3 @@ One example of a company utilizing LDI is [Legal & General Investment Management
 ## Conclusion
 
 [Liability](../l/liability.md) Driven Investment (LDI) represents a critical approach for institutional investors seeking to manage their liabilities effectively. By focusing on aligning assets with liabilities, managing [risk](../r/risk.md) through hedging, and maintaining regulatory compliance, institutions can ensure financial stability and predictability. Despite its complexities and challenges, the benefits of LDI in safeguarding an institution's future [obligations](../o/obligation.md) make it an indispensable strategy in modern [financial planning](../f/financial_planning.md).
-

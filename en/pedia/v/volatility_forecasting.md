@@ -45,7 +45,7 @@ Model-based approaches use econometric and statistical models to predict future 
 3. **[Machine Learning](../m/machine_learning.md) Models:** Advanced [machine learning](../m/machine_learning.md) techniques, including [neural networks](../n/neural_networks_in_trading.md) and ensemble methods, are applied to predict [volatility](../v/volatility.md) based on a wide [range](../r/range.md) of input variables.
 
 #### Examples:
-- ARIMA Model: `R_t = μ + ϕ1R_t-1 + ϕ2R_t-2 + ... + ε_t`
+- ARIMA Model: `R_t = μ + ϕ1R_t-1 + ϕ2R_t-2 +... + ε_t`
 - [Heston Model](../h/heston_model.md): `dS_t = μS_tdt + sqrt(v_t)S_tdW_t`
 - LSTM Neural Network: Uses sequences of past data to predict future [volatility](../v/volatility.md).
 
@@ -87,15 +87,15 @@ Several companies provide solutions and tools for [volatility](../v/volatility.m
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [volatility](../v/volatility.md) [forecasting](../f/forecasting.md) methods, including [GARCH models](../g/garch_models.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md). Learn more at [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [volatility](../v/volatility.md) [forecasting](../f/forecasting.md) methods, including [GARCH models](../g/garch_models.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md). Learn more at QuantConnect.
 
 ### Alpha Vantage
 
-[Alpha](../a/alpha.md) Vantage provides APIs for accessing historical and [real-time market data](../r/real-time_market_data.md), which can be used for [volatility](../v/volatility.md) [forecasting](../f/forecasting.md). The platform supports various [time series analysis](../t/time_series_analysis.md) and [machine learning](../m/machine_learning.md) techniques. More information can be found at [Alpha Vantage](https://www.alphavantage.co/).
+[Alpha](../a/alpha.md) Vantage provides APIs for accessing historical and [real-time market data](../r/real-time_market_data.md), which can be used for [volatility](../v/volatility.md) [forecasting](../f/forecasting.md). The platform supports various [time series analysis](../t/time_series_analysis.md) and [machine learning](../m/machine_learning.md) techniques. More information can be found at Alpha Vantage.
 
 ### Numerai
 
-Numerai is a [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md) to generate [trading signals](../t/trading_signals.md), including [volatility](../v/volatility.md) forecasts. The company's [open](../o/open.md) [data science](../d/data_science_in_trading.md) platform allows data scientists to contribute models and improve [forecasting](../f/forecasting.md) accuracy. Visit [Numerai](https://numer.ai/) for more details.
+Numerai is a [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md) to generate [trading signals](../t/trading_signals.md), including [volatility](../v/volatility.md) forecasts. The company's [open](../o/open.md) [data science](../d/data_science_in_trading.md) platform allows data scientists to contribute models and improve [forecasting](../f/forecasting.md) accuracy. Visit Numerai for more details.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Demonetization
 
-Demonetization refers to the act of stripping a [currency](../c/currency.md) unit of its status as [legal tender](../l/legal_tender.md). It can involve either the complete phasing out of specific denominations of [currency](../c/currency.md) or the entire [currency](../c/currency.md) itself, replacing them with new units. This process is often carried out by governments or central banks and is usually undertaken to combat [inflation](../i/inflation.md), [currency](../c/currency.md) counterfeiting, and to switch from paper [currency](../c/currency.md) to digital formats. 
+Demonetization refers to the act of stripping a [currency](../c/currency.md) unit of its status as [legal tender](../l/legal_tender.md). It can involve either the complete phasing out of specific denominations of [currency](../c/currency.md) or the entire [currency](../c/currency.md) itself, replacing them with new units. This process is often carried out by governments or central banks and is usually undertaken to combat [inflation](../i/inflation.md), [currency](../c/currency.md) counterfeiting, and to switch from paper [currency](../c/currency.md) to digital formats.
 
 ## Purpose and Objectives of Demonetization
 
@@ -11,7 +11,7 @@ One of the primary objectives of demonetization is to eliminate counterfeit [cur
 Another significant motivation behind demonetization is tackling the [issue](../i/issue.md) of '[black money](../b/black_money.md),' which refers to unaccounted or illegally obtained [money](../m/money.md) that is not declared for tax purposes. By demonetizing large [currency](../c/currency.md) denominations, governments compel holders of large sums of unaccounted [currency](../c/currency.md) to [deposit](../d/deposit.md) the [money](../m/money.md) into banking institutions, thereby bringing it under scrutiny.
 
 ### Digitalization and Financial Inclusion
-Governments often use demonetization as a means to promote digital transactions and [financial inclusion](../f/financial_inclusion.md). By reducing the reliance on cash, the aim is to bring more people into the formal banking sector, increase [transparency](../t/transparency.md) in financial transactions, and reduce the [scope](../s/scope.md) for corruption. 
+Governments often use demonetization as a means to promote digital transactions and [financial inclusion](../f/financial_inclusion.md). By reducing the reliance on cash, the aim is to bring more people into the formal banking sector, increase [transparency](../t/transparency.md) in financial transactions, and reduce the [scope](../s/scope.md) for corruption.
 
 ### Economic Recalibration
 Demonetization can be part of a broader strategy for economic recalibration. For instance, governments may take this step to control [inflation](../i/inflation.md) or stabilize the [currency](../c/currency.md) by mopping up excessive [liquidity](../l/liquidity.md) from the [market](../m/market.md). This recalibration can influence [interest](../i/interest.md) rates, borrowing, and spending patterns, contributing to overall economic stability.

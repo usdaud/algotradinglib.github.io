@@ -88,13 +88,13 @@ VoIP service providers must comply with varying telecommunications regulations i
 
 Many companies [offer](../o/offer.md) VoIP services for both personal and [business](../b/business.md) use. Examples include:
 
-- **Vonage**: [Vonage](https://www.vonage.com/)
-- **Skype** (now part of Microsoft): [Skype](https://www.skype.com/)
-- **RingCentral**: [RingCentral](https://www.ringcentral.com/)
-- **Zoom**: [Zoom](https://www.zoom.us/)
-- **Nextiva**: [Nextiva](https://www.nextiva.com/)
-- **Grasshopper**: [Grasshopper](https://www.grasshopper.com/)
-- **8x8**: [8x8](https://www.8x8.com/)
+- **Vonage**: Vonage
+- **Skype** (now part of Microsoft): Skype
+- **RingCentral**: RingCentral
+- **Zoom**: Zoom
+- **Nextiva**: Nextiva
+- **Grasshopper**: Grasshopper
+- **8x8**: 8x8
 
 ## Future Trends of VoIP
 

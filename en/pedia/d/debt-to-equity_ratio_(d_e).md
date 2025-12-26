@@ -17,7 +17,7 @@ The formula for calculating the [Debt](../d/debt.md)-to-[Equity](../e/equity.md)
 ### Interpretation
 
 - **Higher D/E Ratio**: Indicates higher financial [leverage](../l/leverage.md), meaning the company is using more [debt](../d/debt.md) to [finance](../f/finance.md) its operations, which could imply higher [risk](../r/risk.md) if the company faces financial difficulties.
-  
+
 - **Lower D/E Ratio**: Suggests that the company is less reliant on [debt](../d/debt.md) and has a stronger [equity](../e/equity.md) base. This could be interpreted as a sign of financial stability and lower [risk](../r/risk.md).
 
 ### Industry Variations
@@ -81,14 +81,14 @@ In pair [trading strategies](../t/trading_strategies.md), the D/E ratio can be u
 
 ## Notable Companies and Resources
 
-1. **[Morningstar](../m/morningstar.md), Inc.**: Provides detailed financial data and analysis, including D/E ratios for various companies. [Morningstar](https://www.morningstar.com/)
+1. **[Morningstar](../m/morningstar.md), Inc.**: Provides detailed financial data and analysis, including D/E ratios for various companies. Morningstar
 
-2. **[Bloomberg](../b/bloomberg.md) L.P.**: Offers comprehensive financial information, news, and [data analytics](../d/data_analytics.md) on D/E ratios and other key financial metrics. [Bloomberg](https://www.bloomberg.com/)
+2. **[Bloomberg](../b/bloomberg.md) L.P.**: Offers comprehensive financial information, news, and [data analytics](../d/data_analytics.md) on D/E ratios and other key financial metrics. Bloomberg
 
-3. **Moody's Analytics**: Supplies [credit](../c/credit.md) ratings and financial data, helping investors evaluate company [risk profiles](../r/risk_profiles.md) through metrics like the D/E ratio. [Moody's Analytics](https://www.moodysanalytics.com/)
+3. **Moody's Analytics**: Supplies [credit](../c/credit.md) ratings and financial data, helping investors evaluate company [risk profiles](../r/risk_profiles.md) through metrics like the D/E ratio. Moody's Analytics
 
-4. **S&P Global**: Provides global financial data and [credit](../c/credit.md) ratings, which include detailed analysis of companies' D/E ratios. [S&P Global](https://www.spglobal.com/)
+4. **S&P Global**: Provides global financial data and [credit](../c/credit.md) ratings, which include detailed analysis of companies' D/E ratios. S&P Global
 
-5. **[Yahoo Finance](../y/yahoo_finance.md)**: A user-friendly platform [offering](../o/offering.md) financial news and data, including up-to-date D/E ratios for public companies. [Yahoo Finance](https://finance.yahoo.com/)
+5. **[Yahoo Finance](../y/yahoo_finance.md)**: A user-friendly platform [offering](../o/offering.md) financial news and data, including up-to-date D/E ratios for public companies. Yahoo Finance
 
 In summary, the [Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio is a crucial metric for understanding a company's financial [leverage](../l/leverage.md) and stability. It plays a significant role in various domains including [risk](../r/risk.md) assessment, [corporate finance](../c/corporate_finance.md), investment decisions, and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Despite its limitations, it remains an essential tool for [financial analysis](../f/financial_analysis.md) and decision-making.

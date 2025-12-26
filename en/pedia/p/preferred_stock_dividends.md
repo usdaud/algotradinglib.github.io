@@ -59,7 +59,7 @@ Nevertheless, investors should be aware of potential risks:
 - **[Dividend](../d/dividend.md) [Risk](../r/risk.md)**: Non-cumulative preferred [stocks](../s/stock.md) carry the [risk](../r/risk.md) of missed dividends without any future recuperation.
 
 ## Case Study: Preferred Stock Dividends in Practice
-To illustrate the practical application of [preferred stock](../p/preferred_stock.md) dividends, consider a well-known [corporation](../c/corporation.md) like **[Bank](../b/bank.md) of America**. [Bank](../b/bank.md) of America offers various series of preferred [stocks](../s/stock.md), each with specific [dividend](../d/dividend.md) terms. For detailed information, visit their [investor relations](../i/investor_relations.md) page: [Bank of America – Investor Relations](https://investor.bankofamerica.com).
+To illustrate the practical application of [preferred stock](../p/preferred_stock.md) dividends, consider a well-known [corporation](../c/corporation.md) like **[Bank](../b/bank.md) of America**. [Bank](../b/bank.md) of America offers various series of preferred [stocks](../s/stock.md), each with specific [dividend](../d/dividend.md) terms. For detailed information, review their filings.
 
 ### Example Series
 - **Series B**: These [shares](../s/shares.md) [offer](../o/offer.md) a fixed-rate [dividend](../d/dividend.md), which is cumulative, ensuring shareholders receive any missed dividends before common shareholders can be paid.

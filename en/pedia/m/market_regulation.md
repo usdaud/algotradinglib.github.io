@@ -12,37 +12,37 @@
 
 The U.S. SEC plays a pivotal role in regulating [algorithmic trading](../a/algorithmic_trading.md) practices. Its mandates include enforcing federal securities laws, proposing securities rules, and regulating the securities [industry](../i/industry.md), including the nation's stock and [options](../o/options.md) exchanges.
 
-- **Link**: [SEC](https://www.sec.gov)
+- **Link**: SEC
 
 #### 2.2. Commodity Futures Trading Commission (CFTC)
 
 In the [derivatives](../d/derivatives.md) markets, the CFTC has jurisdiction. It focuses on the regulation of [futures](../f/futures.md) and [options](../o/options.md) markets in the United States, ensuring that these markets operate competitively and fairly while aiming to protect [market](../m/market.md) participants and the public from [fraud](../f/fraud.md), manipulation, abusive practices, and [systemic risk](../s/systemic_risk.md).
 
-- **Link**: [CFTC](https://www.cftc.gov)
+- **Link**: CFTC
 
 #### 2.3. Financial Industry Regulatory Authority (FINRA)
 
 [FINRA](../f/finra.md) works closely with the SEC to oversee brokerage firms and [exchange](../e/exchange.md) markets, enforcing rules that safeguard [market](../m/market.md) integrity and [investor](../i/investor.md) protection related to [algorithmic trading](../a/algorithmic_trading.md).
 
-- **Link**: [FINRA](https://www.finra.org)
+- **Link**: FINRA
 
 #### 2.4. European Securities and Markets Authority (ESMA)
 
 ESMA is an independent EU authority that contributes to safeguarding the stability of the [European Union](../e/european_union_(eu).md)'s [financial system](../f/financial_system.md). It enhances [investor](../i/investor.md) protection and promotes stable and orderly [financial markets](../f/financial_market.md). One of its key directives, [MiFID II](../m/mifid_ii.md), has substantial implications for [algorithmic trading](../a/algorithmic_trading.md).
 
-- **Link**: [ESMA](https://www.esma.europa.eu)
+- **Link**: ESMA
 
 ### 3. Regulatory Frameworks and Guidelines
 
 #### 3.1. MiFID II (Markets in Financial Instruments Directive II)
 
-[MiFID II](../m/mifid_ii.md), enforced by ESMA, is a comprehensive legislative framework that regulates firms providing [financial instrument](../f/financial_instrument.md) services and the trading venues. It mandates pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) [transparency](../t/transparency.md), the [disclosure](../d/disclosure.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies, and the preservation of trading records. 
+[MiFID II](../m/mifid_ii.md), enforced by ESMA, is a comprehensive legislative framework that regulates firms providing [financial instrument](../f/financial_instrument.md) services and the trading venues. It mandates pre-[trade](../t/trade.md) and post-[trade](../t/trade.md) [transparency](../t/transparency.md), the [disclosure](../d/disclosure.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies, and the preservation of trading records.
 
 Key aspects include:
 - Algorithmic [trader](../t/trader.md) registration.
 - Systems and controls requirements.
 - [Market](../m/market.md) making [obligations](../o/obligation.md).
-  
+
 #### 3.2. Regulation National Market System (Reg NMS)
 
 The SEC's Regulation NMS focuses on improving the fairness and [efficiency](../e/efficiency.md) of U.S. [equity](../e/equity.md) markets. It promotes competition in the [execution](../e/execution.md) of trades and seeks to ensure that investors receive the best possible price.
@@ -98,7 +98,7 @@ As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve with a
 
 Given the global nature of [financial markets](../f/financial_market.md), international coordination among regulatory bodies is essential. Organizations like IOSCO (International Organization of Securities Commissions) are pivotal in fostering cooperative regulatory policies.
 
-- **Link**: [IOSCO](https://www.iosco.org)
+- **Link**: IOSCO
 
 ### 8. Conclusion
 

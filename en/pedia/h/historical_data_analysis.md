@@ -38,7 +38,7 @@ Sentiment data encompasses news, [social media](../s/social_media.md) posts, and
 ### Data Sources
 1. **Stock Exchanges**: Primary sources of raw [market](../m/market.md) data.
 2. **Data Providers**: Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [FactSet](../f/factset.md) [offer](../o/offer.md) comprehensive historical data packages.
-3. **APIs and Data Feeds**: Services like [Alpha](../a/alpha.md) Vantage (https://www.alphavantage.co/), [IEX Cloud](../i/iex_cloud.md) (https://iexcloud.io/), and [Quandl](../q/quandl.md) provide APIs for accessing historical [market](../m/market.md) data.
+3. **APIs and Data Feeds**: Services like [Alpha](../a/alpha.md) Vantage ( [IEX Cloud](../i/iex_cloud.md) ( and [Quandl](../q/quandl.md) provide APIs for accessing historical [market](../m/market.md) data.
 
 ### Data Storage
 Traders often store historical data in databases such as SQL, NoSQL, or time-series databases depending on the [volume](../v/volume.md) and complexity of the data.

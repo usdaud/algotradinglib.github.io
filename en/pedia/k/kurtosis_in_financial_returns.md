@@ -16,25 +16,25 @@ Where:
 While there are different types of [kurtosis](../k/kurtosis.md) measurements, the most commonly used are:
 
 1. **Excess [Kurtosis](../k/kurtosis.md)**: It measures the deviation of the [kurtosis](../k/kurtosis.md) from the [kurtosis](../k/kurtosis.md) of a [normal distribution](../n/normal_distribution_in_trading.md) (which is 3). Excess [kurtosis](../k/kurtosis.md) is given by:
-   \[ \text{Excess [Kurtosis](../k/kurtosis.md)} = K - 3 \]
+ \[ \text{Excess [Kurtosis](../k/kurtosis.md)} = K - 3 \]
 
 2. **Fisher's [Kurtosis](../k/kurtosis.md)**: This is the standardized form of excess [kurtosis](../k/kurtosis.md).
 
 ### Types of Kurtosis
 
 1. **Leptokurtic**:
-   - Distributions that have a sharp peak and heavy tails compared to a [normal distribution](../n/normal_distribution_in_trading.md).
-   - Higher [kurtosis](../k/kurtosis.md) than a [normal distribution](../n/normal_distribution_in_trading.md) (K > 3).
-   - Indicates a higher probability of extreme values.
+ - Distributions that have a sharp peak and heavy tails compared to a [normal distribution](../n/normal_distribution_in_trading.md).
+ - Higher [kurtosis](../k/kurtosis.md) than a [normal distribution](../n/normal_distribution_in_trading.md) (K > 3).
+ - Indicates a higher probability of extreme values.
 
 2. **Mesokurtic**:
-   - Distributions that have the same [kurtosis](../k/kurtosis.md) as a [normal distribution](../n/normal_distribution_in_trading.md) (K = 3).
-   - [Normal distribution](../n/normal_distribution_in_trading.md) is an example of a mesokurtic [distribution](../d/distribution.md).
+ - Distributions that have the same [kurtosis](../k/kurtosis.md) as a [normal distribution](../n/normal_distribution_in_trading.md) (K = 3).
+ - [Normal distribution](../n/normal_distribution_in_trading.md) is an example of a mesokurtic [distribution](../d/distribution.md).
 
 3. **[Platykurtic](../p/platykurtic.md)**:
-   - Distributions that have a flatter peak and thinner tails than a [normal distribution](../n/normal_distribution_in_trading.md).
-   - Lower [kurtosis](../k/kurtosis.md) than a [normal distribution](../n/normal_distribution_in_trading.md) (K < 3).
-   - Indicates fewer extreme values than a [normal distribution](../n/normal_distribution_in_trading.md).
+ - Distributions that have a flatter peak and thinner tails than a [normal distribution](../n/normal_distribution_in_trading.md).
+ - Lower [kurtosis](../k/kurtosis.md) than a [normal distribution](../n/normal_distribution_in_trading.md) (K < 3).
+ - Indicates fewer extreme values than a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Importance in Financial Returns
 
@@ -78,7 +78,7 @@ print("Sample [Kurtosis](../k/kurtosis.md):", sample_kurtosis)
 During the 2008 [financial crisis](../f/financial_crisis.md), many [asset](../a/asset.md) returns exhibited high [kurtosis](../k/kurtosis.md). This leptokurtic characteristic was indicative of the extreme [market](../m/market.md) movements and heightened [volatility](../v/volatility.md) experienced during the crisis.
 
 **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**:
-Firms like **Two Sigma** (https://www.twosigma.com) and **DE Shaw** (https://www.deshaw.com) utilize statistical measures including [kurtosis](../k/kurtosis.md) to enhance their [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) strategies. Understanding the tail behavior of [market](../m/market.md) returns is crucial for these firms in developing solid [trading strategies](../t/trading_strategies.md).
+Firms like **Two Sigma** ( and **DE Shaw** ( utilize statistical measures including [kurtosis](../k/kurtosis.md) to enhance their [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) strategies. Understanding the tail behavior of [market](../m/market.md) returns is crucial for these firms in developing solid [trading strategies](../t/trading_strategies.md).
 
 **[Portfolio Hedging](../p/portfolio_hedging.md)**:
 [Hedge](../h/hedge.md) funds often analyze [kurtosis](../k/kurtosis.md) to understand the [risk](../r/risk.md) of extreme [market](../m/market.md) movements. For example, by gauging the [kurtosis of returns](../k/kurtosis_of_returns.md), [fund](../f/fund.md) managers can decide on the appropriate use of [derivatives](../d/derivatives.md) or other hedging techniques to protect against potential losses.

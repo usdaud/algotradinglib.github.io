@@ -21,7 +21,7 @@ A [trade](../t/trade.md) signal is an indication or trigger that prompts traders
 [Fundamental analysis](../f/fundamental_analysis.md) evaluates [financial statements](../f/financial_statements.md), [economic indicators](../e/economic_indicators.md), and other qualitative factors to derive [trade](../t/trade.md) signals, often looking for [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) assets.
 
 - **[Earnings](../e/earnings.md) Reports**: Positive [earnings](../e/earnings.md) reports may generate buy signals, while negative reports can be sell signals.
-  
+
 - **[Economic Indicators](../e/economic_indicators.md)**: Macroeconomic data such as GDP [growth rates](../g/growth_rates_in_trading.md), [unemployment](../u/unemployment.md) rates, and [inflation](../i/inflation.md) can signal economic health and influence [asset](../a/asset.md) prices.
 
 - **News Events**: Geopolitical events, regulatory changes, and corporate announcements often serve as signals. For example, media reports on a new partnership can drive stock prices up, generating a buy signal.
@@ -48,9 +48,9 @@ Professional financial advisors and [market](../m/market.md) analysts often prov
 ### 3. Signal Service Providers
 Numerous companies [offer](../o/offer.md) [trade](../t/trade.md) signals as a part of a subscription service. Examples include:
 
-- **Trading Central** [link](https://www.tradingcentral.com): Provides [technical analysis](../t/technical_analysis.md), [trade](../t/trade.md) ideas, and signals for various [asset](../a/asset.md) classes.
-- **[Zacks Investment Research](../z/zacks_investment_research.md)** [link](https://www.zacks.com): Offers [trade](../t/trade.md) signals based on Zacks Rank and other proprietary indicators.
-- **AlgoTrader** [link](https://www.algotrader.com): Provides [algorithmic trading](../a/accountability.md) solutions and [trade](../t/trade.md) signals for institutional clients.
+- **Trading Central** link: Provides [technical analysis](../t/technical_analysis.md), [trade](../t/trade.md) ideas, and signals for various [asset](../a/asset.md) classes.
+- **[Zacks Investment Research](../z/zacks_investment_research.md)** link: Offers [trade](../t/trade.md) signals based on Zacks Rank and other proprietary indicators.
+- **AlgoTrader** link: Provides [algorithmic trading](../a/algorithmic_trading.md) solutions and [trade](../t/trade.md) signals for institutional clients.
 
 ### 4. Forums and Social Media
 Online forums, chat rooms, and [social media](../s/social_media.md) platforms like Twitter often have communities where [trade](../t/trade.md) signals and ideas are shared. However, caution is needed as these sources can be unreliable.

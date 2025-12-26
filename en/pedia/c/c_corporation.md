@@ -67,12 +67,12 @@ A [Limited Liability](../l/limited_liability.md) Company (LLC) offers similar [l
 ### Apple Inc.
 Apple Inc. is an example of a highly successful C [Corporation](../c/corporation.md). The company has significantly benefited from the ability to raise large amounts of [capital](../c/capital.md) through public stock offerings and has leveraged this [capital](../c/capital.md) to drive innovation and growth.
 
-[Visit Apple Inc.](https://www.apple.com/)
+Visit Apple Inc.
 
 ### Alphabet Inc.
 Alphabet Inc., the [parent company](../p/parent_company.md) of Google, is another example of a C [Corporation](../c/corporation.md). Alphabet’s corporate structure has allowed it to expand into various tech sectors and invest heavily in research and development.
 
-[Visit Alphabet Inc.](https://abc.xyz/)
+Visit Alphabet Inc.
 
 ## Conclusion
 

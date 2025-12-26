@@ -1,6 +1,6 @@
 # Unusual Item
 
-In the trading and [finance](../f/finance.md) sectors, certain terms might sound foreign even to those who are somewhat familiar with the field. "Unusual item" is one of those terms, which can have substantial implications on [financial statements](../f/financial_statements.md) and [investor](../i/investor.md) perceptions. This article aims to delve deep into what an unusual item is, different types of unusual items, their impact on [financial statements](../f/financial_statements.md), and how they are handled in [algorithmic trading](../a/accountability.md) and financial technology (FinTech).
+In the trading and [finance](../f/finance.md) sectors, certain terms might sound foreign even to those who are somewhat familiar with the field. "Unusual item" is one of those terms, which can have substantial implications on [financial statements](../f/financial_statements.md) and [investor](../i/investor.md) perceptions. This article aims to delve deep into what an unusual item is, different types of unusual items, their impact on [financial statements](../f/financial_statements.md), and how they are handled in [algorithmic trading](../a/algorithmic_trading.md) and financial technology (FinTech).
 
 ## What is an Unusual Item?
 
@@ -24,8 +24,8 @@ The inclusion of unusual items in financial reports can significantly affect the
 
 ### Income Statement
 
-Unusual items appear on the [income statement](../i/income_statement.md) and can affect net [income](../i/income.md), [earnings](../e/earnings.md) before [interest](../i/interest.md) and [taxes](../t/taxes.md) (EBIT), and [earnings](../e/earnings.md) per share (EPS). 
- 
+Unusual items appear on the [income statement](../i/income_statement.md) and can affect net [income](../i/income.md), [earnings](../e/earnings.md) before [interest](../i/interest.md) and [taxes](../t/taxes.md) (EBIT), and [earnings](../e/earnings.md) per share (EPS).
+
 For example, if a company had an otherwise profitable year, a large litigation settlement [payout](../p/payout.md) might slash profits. Conversely, recognition of a substantial [insurance](../i/insurance.md) recovery from a natural disaster might inflate profits.
 
 ### Balance Sheet
@@ -38,7 +38,7 @@ Unusual items impact the statement of cash flows by artificially inflating or de
 
 ## Handling Unusual Items in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems, which rely on pre-programmed rules and statistical models to conduct trades, must appropriately account for unusual items to maintain accurate predictions and [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems, which rely on pre-programmed rules and statistical models to conduct trades, must appropriately account for unusual items to maintain accurate predictions and [trading strategies](../t/trading_strategies.md).
 
 ### Data Preprocessing
 
@@ -46,7 +46,7 @@ Incorporating unusual items into financial models involves data preprocessing te
 
 ### Feature Engineering
 
-Feature engineering involves creating new variables based on unusual items to understand their impact. For instance, a new feature might be introduced to indicate the occurrence and magnitude of an unusual item. 
+Feature engineering involves creating new variables based on unusual items to understand their impact. For instance, a new feature might be introduced to indicate the occurrence and magnitude of an unusual item.
 
 ### Model Adjustment and Training
 
@@ -78,4 +78,4 @@ FinTech solutions also assist in ensuring that companies comply with financial r
 
 ## Conclusion
 
-Unusual items, although rare, have significant impacts on [financial statements](../f/financial_statements.md) and [investor](../i/investor.md) perceptions. Properly [accounting](../a/accounting.md) for and disclosing these items is crucial for [transparency](../t/transparency.md) and for providing accurate representations of a company's [financial health](../f/financial_health.md). In the realms of [algorithmic trading](../a/accountability.md) and FinTech, advanced techniques and technologies are employed to manage and analyze the implications of unusual items, ensuring that these anomalies are handled efficiently and with minimal distortion to financial insights and strategies. Understanding unique financial occurrences and their wider implications is essential for accurate [financial analysis](../f/financial_analysis.md), trading decisions, and maintaining the integrity of [financial markets](../f/financial_market.md).
+Unusual items, although rare, have significant impacts on [financial statements](../f/financial_statements.md) and [investor](../i/investor.md) perceptions. Properly [accounting](../a/accounting.md) for and disclosing these items is crucial for [transparency](../t/transparency.md) and for providing accurate representations of a company's [financial health](../f/financial_health.md). In the realms of [algorithmic trading](../a/algorithmic_trading.md) and FinTech, advanced techniques and technologies are employed to manage and analyze the implications of unusual items, ensuring that these anomalies are handled efficiently and with minimal distortion to financial insights and strategies. Understanding unique financial occurrences and their wider implications is essential for accurate [financial analysis](../f/financial_analysis.md), trading decisions, and maintaining the integrity of [financial markets](../f/financial_market.md).

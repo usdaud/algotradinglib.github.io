@@ -73,16 +73,13 @@ The diversity of products available through [Open](../o/open.md) Architecture re
 
 [UBS](../u/ubs.md), a global leader in [wealth management](../w/wealth_management.md), uses an [Open](../o/open.md) Architecture approach to provide its clients with a broad array of investment solutions. This strategy has facilitated growth in client assets under management and established [UBS](../u/ubs.md) as a trusted advisor by emphasizing unbiased recommendations.
 
-### https://www.ubs.com/
-
+###
 ## The Role of FinTech in Open Architecture
 
 FinTech companies have played a crucial role in the development of [Open](../o/open.md) Architecture. Innovations such as robo-advisors, [blockchain](../b/blockchain_in_trading.md) technology, and API-based financial platforms have made it easier for traditional financial institutions to adopt [Open](../o/open.md) Architecture models. Companies like Betterment and Wealthfront provide automated, diversified investment portfolios that integrate various third-party products, embodying the principles of [Open](../o/open.md) Architecture.
 
-### Betterment: https://www.betterment.com/
-
-### Wealthfront: https://www.wealthfront.com/
-
+### Betterment
+### Wealthfront
 ## Future Trends
 
 ### Artificial Intelligence and Machine Learning

@@ -92,13 +92,13 @@ Real-time data processing is crucial for implementing [algorithmic trading](../a
 Several software and tools are essential for [quantitative research](../q/quantitative_research.md) in [algorithmic trading](../a/algorithmic_trading.md):
 - **Python and R**: Popular programming languages for [quantitative analysis](../q/quantitative_analysis.md).
 - **MATLAB**: Widely used for mathematical modeling.
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides various financial data and [backtesting](../b/backtesting.md) tools (https://www.[quantconnect](../q/quantconnect.md).com/).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides various financial data and [backtesting](../b/backtesting.md) tools (
 
 ## Cloud Computing and High-Performance Computing
 
 [Cloud computing](../c/cloud_computing_in_trading.md) and high-performance computing enable the processing of large datasets and the running of complex models:
-- **Amazon Web Services (AWS)**: Offers [cloud computing](../c/cloud_computing_in_trading.md) services suited for data-intensive tasks (https://aws.amazon.com/).
-- **Google Cloud Platform (GCP)**: Provides scalable [machine learning](../m/machine_learning.md) services (https://cloud.google.com/).
+- **Amazon Web Services (AWS)**: Offers [cloud computing](../c/cloud_computing_in_trading.md) services suited for data-intensive tasks (
+- **Google Cloud Platform (GCP)**: Provides scalable [machine learning](../m/machine_learning.md) services (
 
 ## Ethical Considerations
 

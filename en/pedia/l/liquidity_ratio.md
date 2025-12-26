@@ -94,11 +94,11 @@ While [liquidity ratios](../l/liquidity_ratios.md) are indispensable tools in [f
 
 ### Apple Inc.
 
-Apple Inc. is known for maintaining strong [liquidity](../l/liquidity.md) positions. Recent financial reports indicate healthy current and quick ratios, ensuring it retains the capacity to manage short-term liabilities efficiently. More details can be found on their [Investor Relations page](https://investor.apple.com/).
+Apple Inc. is known for maintaining strong [liquidity](../l/liquidity.md) positions. Recent financial reports indicate healthy current and quick ratios, ensuring it retains the capacity to manage short-term liabilities efficiently.
 
 ### Microsoft Corporation
 
-Microsoft [Corporation](../c/corporation.md) also maintains a [robust](../r/robust.md) [liquidity](../l/liquidity.md) framework, reflecting its extensive cash reserves and minimal short-term liabilities. Their [financial health](../f/financial_health.md) is detailed in the [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor/).
+Microsoft [Corporation](../c/corporation.md) also maintains a [robust](../r/robust.md) [liquidity](../l/liquidity.md) framework, reflecting its extensive cash reserves and minimal short-term liabilities. Their [financial health](../f/financial_health.md) is detailed in the Microsoft company filings.
 
 ## Conclusion
 

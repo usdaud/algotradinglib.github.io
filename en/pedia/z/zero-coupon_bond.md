@@ -16,7 +16,7 @@ In some jurisdictions, zero-coupon bonds are subject to tax on the [imputed inte
 ### Types of Zero-Coupon Bonds
 
 #### Government Zero-Coupon Bonds
-Government-issued zero-coupon bonds, such as U.S. [Treasury STRIPS](../t/treasury_strips.md), are among the most secure types. U.S. [Treasury STRIPS](../t/treasury_strips.md) (Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) Securities) allow investors to purchase individual [interest](../i/interest.md) or [principal components](../p/principal_components_in_trading.md) of eligible [Treasury notes](../t/treasury_notes.md) and bonds as separate securities. More details can be found on the [U.S. Department of the Treasury website](https://www.treasurydirect.gov/).
+Government-issued zero-coupon bonds, such as U.S. [Treasury STRIPS](../t/treasury_strips.md), are among the most secure types. U.S. [Treasury STRIPS](../t/treasury_strips.md) (Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) Securities) allow investors to purchase individual [interest](../i/interest.md) or [principal components](../p/principal_components_in_trading.md) of eligible [Treasury notes](../t/treasury_notes.md) and bonds as separate securities. More
 
 #### Corporate Zero-Coupon Bonds
 Corporations may [issue](../i/issue.md) zero-coupon bonds to raise [capital](../c/capital.md). These bonds tend to [offer](../o/offer.md) higher yields compared to government bonds, compensating investors for the higher [credit risk](../c/credit_risk.md). Given the absence of periodic [interest](../i/interest.md) payments, corporate zero-coupon bonds typically [trade](../t/trade.md) at significant discounts to their face values.

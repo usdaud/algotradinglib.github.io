@@ -10,7 +10,7 @@ Disintermediation first came into widespread recognition during the 1970s when s
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), also known as "algo trading," uses computer programs and algorithms to [trade](../t/trade.md) financial securities. These algorithms can make trading decisions at speeds and volumes that human traders cannot match. The growth of [algorithmic trading](../a/accountability.md) has led to significant disintermediation in the trading process. The algorithms execute pre-programmed instructions based on various criteria such as timing, price, [volume](../v/volume.md), or other [mathematical models](../m/mathematical_models_in_trading.md), often removing the need for traditional traders or brokers. 
+[Algorithmic trading](../a/accountability.md), also known as "algo trading," uses computer programs and algorithms to [trade](../t/trade.md) financial securities. These algorithms can make trading decisions at speeds and volumes that human traders cannot match. The growth of [algorithmic trading](../a/accountability.md) has led to significant disintermediation in the trading process. The algorithms execute pre-programmed instructions based on various criteria such as timing, price, [volume](../v/volume.md), or other [mathematical models](../m/mathematical_models_in_trading.md), often removing the need for traditional traders or brokers.
 
 ### Electronic Communication Networks (ECNs)
 
@@ -60,11 +60,11 @@ With the advent of advanced technologies such as [algorithmic trading](../a/acco
 
 ### Robinhood
 
-[Robinhood](https://robinhood.com) is a prime example of disintermediation in the retail trading sector. [Robinhood](../r/robinhood.md) offers [commission](../c/commission.md)-free trading through its app, removing the need for traditional brokers. The platform uses technology to provide direct [market](../m/market.md) access to retail investors, democratizing trading and [investing](../i/investing.md).
+Robinhood is a prime example of disintermediation in the retail trading sector. [Robinhood](../r/robinhood.md) offers [commission](../c/commission.md)-free trading through its app, removing the need for traditional brokers. The platform uses technology to provide direct [market](../m/market.md) access to retail investors, democratizing trading and [investing](../i/investing.md).
 
 ### Direct Market Access (DMA) Providers
 
-Direct [Market](../m/market.md) Access (DMA) providers such as [Interactive Brokers](https://www.interactivebrokers.com) [offer](../o/offer.md) professional traders the ability to place buy and sell orders directly on stock [exchange](../e/exchange.md) [order](../o/order.md) books. This service removes the need for brokers and intermediaries, providing lower latency and direct control over trades.
+Direct [Market](../m/market.md) Access (DMA) providers such as Interactive Brokers [offer](../o/offer.md) professional traders the ability to place buy and sell orders directly on stock [exchange](../e/exchange.md) [order](../o/order.md) books. This service removes the need for brokers and intermediaries, providing lower latency and direct control over trades.
 
 ## The Future of Disintermediation
 

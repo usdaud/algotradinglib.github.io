@@ -19,13 +19,13 @@ SIX Swiss [Exchange](../e/exchange.md) operates a highly sophisticated electroni
 The trading day on SIX is divided into several [market](../m/market.md) phases:
 
 1. **Pre-Opening Phase:** During this phase, [market](../m/market.md) participants can input and modify orders, but no transactions are executed. This phase is critical for setting the opening prices.
-   
+
 2. **Opening Auction:** This phase determines the opening prices based on the [equilibrium](../e/equilibrium.md) of [supply](../s/supply.md) and [demand](../d/demand.md). It ensures a fair and orderly start to the trading day.
-   
+
 3. **Continuous Trading:** This is the main trading phase where buy and sell orders are matched continuously throughout the day. It employs a price-time priority mechanism, ensuring that the best available prices are executed first.
-   
+
 4. **Closing Auction:** Similar to the opening auction, this phase determines the closing prices of the traded instruments.
-   
+
 5. **Post-Trading Phase:** This phase allows participants to enter orders for the next trading day and make necessary adjustments.
 
 ### Market Data and Indices
@@ -41,19 +41,19 @@ SIX Swiss [Exchange](../e/exchange.md) maintains rigorous listing criteria to en
 ### Equity Listings
 
 1. **Eligibility:** Companies seeking to list their [shares](../s/shares.md) must be incorporated under recognized jurisdictions and adhere to [corporate governance](../c/corporate_governance.md) standards.
-   
+
 2. **Financial Requirements:** Applicants must demonstrate a minimum [equity](../e/equity.md) [capital](../c/capital.md) and a track record of operating history. Specific thresholds vary depending on the [market segment](../m/market_segment.md) (e.g., Main [Market](../m/market.md), International Reporting Standard).
-   
+
 3. **[Prospectus](../p/prospectus.md):** A detailed [prospectus](../p/prospectus.md) must be filed, providing comprehensive information about the company’s [business](../b/business.md), financials, management, and [risk factors](../r/risk_factors_in_trading.md). The [prospectus](../p/prospectus.md) must comply with regulatory guidelines and be approved by the Swiss Financial [Market](../m/market.md) Supervisory Authority (FINMA).
-   
+
 4. **[Corporate Governance](../c/corporate_governance.md):** [Listed](../l/listed.md) companies must adhere to Swiss [corporate governance](../c/corporate_governance.md) standards, including board composition, [transparency](../t/transparency.md), and [shareholder](../s/shareholder.md) rights.
 
 ### Bond Listings
 
 1. **[Issuer](../i/issuer.md) Requirements:** Issuers of bonds must have a solid financial standing and a proven record of meeting financial [obligations](../o/obligation.md).
-   
+
 2. **Documentation:** A [prospectus](../p/prospectus.md) or [offering circular](../o/offering_circular.md) must be issued, detailing the terms of the [bond](../b/bond.md), [issuer](../i/issuer.md)’s financial position, and [risk](../r/risk.md) assessment. The document must be approved by the [exchange](../e/exchange.md) or the competent authority.
-   
+
 3. **Continuous [Disclosure](../d/disclosure.md):** Issuers are required to provide ongoing [disclosure](../d/disclosure.md) of material events that could impact the [bond](../b/bond.md)’s [value](../v/value.md).
 
 ## Regulatory Environment
@@ -100,4 +100,4 @@ SIX Swiss [Exchange](../e/exchange.md)’s [robust](../r/robust.md) [infrastruct
 
 SIX Swiss [Exchange](../e/exchange.md) stands as a testament to innovation, resilience, and integrity in the global [financial markets](../f/financial_market.md). Its rich history, advanced technological [infrastructure](../i/infrastructure.md), comprehensive [range](../r/range.md) of financial products, and stringent regulatory environment position it as a leading international [exchange](../e/exchange.md). As the financial landscape continues to evolve, SIX remains committed to driving innovation, fostering sustainability, and maintaining [market](../m/market.md) integrity, cementing its role as a pivotal player in the world of [finance](../f/finance.md).
 
-For more information, you can visit the official website of SIX Swiss [Exchange](../e/exchange.md): [SIX Swiss Exchange](https://www.six-group.com/en/home.html).
+./e/exchange.md): SIX Swiss Exchange.

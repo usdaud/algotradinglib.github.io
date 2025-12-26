@@ -1,6 +1,6 @@
 # Inflection Point
 
-An inflection point is a fundamental concept in mathematics, particularly in the study of calculus, where it refers to a point on a curve at which the curve changes concavity. In the context of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/accountability.md), an inflection point is a crucial moment that signals a shift in [market dynamics](../m/market_dynamics.md) which can affect [trading strategies](../t/trading_strategies.md) and outcomes significantly. Understanding and identifying inflection points can help algorithmic traders to make more informed decisions and optimize their [trading algorithms](../t/trading_algorithms.md).
+An inflection point is a fundamental concept in mathematics, particularly in the study of calculus, where it refers to a point on a curve at which the curve changes concavity. In the context of [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md), an inflection point is a crucial moment that signals a shift in [market dynamics](../m/market_dynamics.md) which can affect [trading strategies](../t/trading_strategies.md) and outcomes significantly. Understanding and identifying inflection points can help algorithmic traders to make more informed decisions and optimize their [trading algorithms](../t/trading_algorithms.md).
 
 ## Understanding Inflection Points
 
@@ -17,7 +17,7 @@ In [financial markets](../f/financial_market.md), an inflection point refers to 
 
 ### Importance in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to execute trades. Detecting inflection points can be pivotal for algorithmic traders for the following reasons:
+[Algorithmic trading](../a/algorithmic_trading.md) relies on [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to execute trades. Detecting inflection points can be pivotal for algorithmic traders for the following reasons:
 
 - **[Trend](../t/trend.md) Identification:** Knowing the inflection points helps in identifying the beginning or the end of [market](../m/market.md) trends, making it possible to enter or exit trades at optimal times.
 - **[Risk Management](../r/risk_management.md):** Inflection points can signal potential reversals, allowing traders to adjust their strategies accordingly to manage [risk](../r/risk.md).
@@ -70,13 +70,13 @@ In [supervised learning](../s/supervised_learning.md), algorithms are trained on
 
 ## Example: QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is a platform that provides [algorithmic trading](../a/accountability.md) solutions and [backtesting](../b/backtesting.md) environments. It allows traders to implement and test their strategies, including those that detect and exploit inflection points.
+QuantConnect is a platform that provides [algorithmic trading](../a/algorithmic_trading.md) solutions and [backtesting](../b/backtesting.md) environments. It allows traders to implement and test their strategies, including those that detect and exploit inflection points.
 
-[QuantConnect](../q/quantconnect.md)’s platform supports [multiple](../m/multiple.md) languages (C#, Python, F#), enabling traders to [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) libraries to build advanced models. The platform's community and extensive documentation can help traders enhance their understanding and application of inflection points in [algorithmic trading](../a/accountability.md).
+[QuantConnect](../q/quantconnect.md)’s platform supports C#, enabling traders to [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) libraries to build advanced models. The platform's community and extensive documentation can help traders enhance their understanding and application of inflection points in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Implementation of an Inflection Point Detection Algorithm
 
-Here is a simple example of a Python algorithm to detect inflection points using [QuantConnect](../q/quantconnect.md):
+Here is a simple example of a C# algorithm to detect inflection points using [QuantConnect](../q/quantconnect.md):
 
 ```python
 class InflectionPointAlgorithm(QCAlgorithm):

@@ -72,27 +72,27 @@ With less oversight compared to formal exchanges, OTC markets may carry higher r
 ## Key Regulatory Bodies
 
 ### 1. Financial Industry Regulatory Authority (FINRA)
-FINRA regulates [broker](../b/broker.md)-dealers in the United States, ensuring compliance with rules designed to protect investors in OTC markets. [FINRA](https://www.finra.org/)
+FINRA regulates [broker](../b/broker.md)-dealers in the United States, ensuring compliance with rules designed to protect investors in OTC markets. FINRA
 
 ### 2. Securities and Exchange Commission (SEC)
-The SEC oversees securities markets in the U.S., including OTC [derivatives](../d/derivatives.md) and some [equity](../e/equity.md) securities traded in [dealer](../d/dealer.md) markets. [SEC](https://www.sec.gov/)
+The SEC oversees securities markets in the U.S., including OTC [derivatives](../d/derivatives.md) and some [equity](../e/equity.md) securities traded in [dealer](../d/dealer.md) markets. SEC
 
 ### 3. Commodity Futures Trading Commission (CFTC)
-The CFTC regulates OTC [derivatives](../d/derivatives.md) markets, particularly focusing on [interest rate swaps](../i/interest_rate_swaps.md) and other complex financial instruments. [CFTC](https://www.cftc.gov/)
+The CFTC regulates OTC [derivatives](../d/derivatives.md) markets, particularly focusing on [interest rate swaps](../i/interest_rate_swaps.md) and other complex financial instruments. CFTC
 
 ## Examples of Prominent OTC Markets and Platforms
 
 ### 1. NASDAQ
-Initially an OTC [market](../m/market.md), [NASDAQ](../n/nasdaq.md) has evolved into a major stock [exchange](../e/exchange.md). It started as a [dealer](../d/dealer.md) network and continues to operate with [market](../m/market.md) makers providing [liquidity](../l/liquidity.md). [NASDAQ](https://www.nasdaq.com/)
+Initially an OTC [market](../m/market.md), [NASDAQ](../n/nasdaq.md) has evolved into a major stock [exchange](../e/exchange.md). It started as a [dealer](../d/dealer.md) network and continues to operate with [market](../m/market.md) makers providing [liquidity](../l/liquidity.md). NASDAQ
 
 ### 2. OTC Markets Group
-OTC Markets Group operates marketplaces for trading over-the-counter [stocks](../s/stock.md), including the [OTCQX](../o/otcqx.md) Best [Market](../m/market.md), OTCQB Venture [Market](../m/market.md), and Pink [Open Market](../o/open_market.md). [OTC Markets Group](https://www.otcmarkets.com/)
+OTC Markets Group operates marketplaces for trading over-the-counter [stocks](../s/stock.md), including the [OTCQX](../o/otcqx.md) Best [Market](../m/market.md), OTCQB Venture [Market](../m/market.md), and Pink [Open Market](../o/open_market.md). OTC Markets Group
 
 ### 3. Tradeweb
-Tradeweb is an electronic [trading platform](../t/trading_platform.md) for [fixed income](../f/fixed_income.md) and [derivatives](../d/derivatives.md), providing institutional investors with access to [dealer](../d/dealer.md) markets. [Tradeweb](https://www.tradeweb.com/)
+Tradeweb is an electronic [trading platform](../t/trading_platform.md) for [fixed income](../f/fixed_income.md) and [derivatives](../d/derivatives.md), providing institutional investors with access to [dealer](../d/dealer.md) markets. Tradeweb
 
 ### 4. Bloomberg
-[Bloomberg](../b/bloomberg.md) provides a suite of tools for trading and managing OTC securities, [offering](../o/offering.md) extensive data and analytics to support [market](../m/market.md) activities. [Bloomberg](https://www.bloomberg.com/)
+[Bloomberg](../b/bloomberg.md) provides a suite of tools for trading and managing OTC securities, [offering](../o/offering.md) extensive data and analytics to support [market](../m/market.md) activities. Bloomberg
 
 ## Conclusion
 

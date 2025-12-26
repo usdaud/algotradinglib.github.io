@@ -68,7 +68,7 @@ In monopolistic or imperfectly competitive markets, firms are price makers, whic
 
 ### Decision-Making Tool
 
-One of the primary implications of MRP is its [utility](../u/utility.md) in microeconomic decision-making within firms. By analyzing the MRP, firms can make informed decisions about employing additional resources or scaling back to optimize [production costs](../p/production_costs.md) and revenues. 
+One of the primary implications of MRP is its [utility](../u/utility.md) in microeconomic decision-making within firms. By analyzing the MRP, firms can make informed decisions about employing additional resources or scaling back to optimize [production costs](../p/production_costs.md) and revenues.
 
 ### Criticisms
 
@@ -78,7 +78,7 @@ One of the primary implications of MRP is its [utility](../u/utility.md) in micr
 
 ### Advanced Computational and Algorithmic Implementations
 
-In the age of [big data](../b/big_data_in_trading.md) and [algorithmic trading](../a/accountability.md), MRP can be integrated into advanced computational models to optimize resource allocation. For instance, [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can be programmed to continuously adapt and predict the marginal product and marginal [revenue](../r/revenue.md) of each input in real-time, facilitating more dynamic and precise decision-making. Here, companies such as **Numenta** (https://numenta.com/) are pioneering in creating such [adaptive algorithms](../a/adaptive_algorithms.md).
+In the age of [big data](../b/big_data_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md), MRP can be integrated into advanced computational models to optimize resource allocation. For instance, [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) can be programmed to continuously adapt and predict the marginal product and marginal [revenue](../r/revenue.md) of each input in real-time, facilitating more dynamic and precise decision-making. Here, companies such as **Numenta** ( are pioneering in creating such [adaptive algorithms](../a/adaptive_algorithms.md).
 
 ## Examples of MRP in Practice
 
@@ -96,7 +96,7 @@ In the service [industry](../i/industry.md), such as restaurants or retail, MRP 
 
 ### Tech Industry
 
-In the tech [industry](../i/industry.md), companies like **Google** (https://careers.google.com/) utilize MRP concepts to decide the allocation of server time or developer hours to various projects, ensuring that each additional unit of input generates commensurate [revenue](../r/revenue.md).
+In the tech [industry](../i/industry.md), companies like **Google** ( utilize MRP concepts to decide the allocation of server time or developer hours to various projects, ensuring that each additional unit of input generates commensurate [revenue](../r/revenue.md).
 
 ## Conclusion
 

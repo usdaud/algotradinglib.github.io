@@ -68,11 +68,9 @@ VaR measures the potential loss in [value](../v/value.md) of a portfolio over a 
 
 ### High-Frequency Trading (HFT)
 High-Frequency Trading employs sophisticated algorithms and high-speed data networks to execute large numbers of orders at extremely high speeds. Firms such as Renaissance Technologies have been at the forefront of HFT, employing intricate algorithms to achieve [Alpha](../a/alpha.md) consistently.
-[Learn more about Renaissance Technologies here](https://www.rentec.com)
 
 ### Machine Learning and AI
 [Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have revolutionized the way [Alpha](../a/alpha.md) is generated. Algorithms can now learn from vast datasets, recognize patterns, and make autonomous trading decisions. Companies like Two Sigma utilize AI for [predictive modeling](../p/predictive_modeling.md) and strategy development.
-[Learn more about Two Sigma here](https://www.twosigma.com)
 
 ### Blockchain and Smart Contracts
 [Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) [offer](../o/offer.md) new avenues for achieving [Alpha](../a/alpha.md) by enabling secure and transparent transactions without intermediaries. Decentralized [finance](../f/finance.md) (DeFi) platforms are exploring ways to [leverage](../l/leverage.md) [blockchain](../b/blockchain_in_trading.md) for more efficient trading.
@@ -81,19 +79,16 @@ High-Frequency Trading employs sophisticated algorithms and high-speed data netw
 
 ### Renaissance Technologies
 Renaissance Technologies, founded by James Simons, is a pioneer in the field of [algorithmic trading](../a/algorithmic_trading.md). Their flagship Medallion [Fund](../f/fund.md) has famously achieved extraordinary returns, significantly outperforming the [market](../m/market.md).
-[Explore Renaissance Technologies here](https://www.rentec.com)
 
 ### AQR Capital Management
 AQR [Capital](../c/capital.md) Management employs a diversified and systematic approach to generate consistent [Alpha](../a/alpha.md). They utilize [quantitative models](../q/quantitative_models.md) that are rigorously tested against historical data to find profitable trading opportunities.
-[Discover AQR Capital Management here](https://www.aqr.com)
 
 ### D.E. Shaw & Co.
 D.E. Shaw & Co. is known for its use of [proprietary algorithms](../p/proprietary_algorithms.md) and [computational finance](../c/computational_finance.md) techniques. They have a track record of leveraging complex models to achieve superior returns over extended periods.
-[Learn about D.E. Shaw & Co. here](https://www.deshaw.com)
+Learn about D.E. Shaw & Co. here
 
 ### Citadel LLC
 Founded by Kenneth Griffin, Citadel LLC is one of the largest [hedge](../h/hedge.md) funds globally, employing a [range](../r/range.md) of [quantitative strategies](../q/quantitative_strategies_in_trading.md) to generate [Alpha](../a/alpha.md). They harness technology and vast data sets to inform their trading decisions.
-[Explore Citadel LLC here](https://www.citadel.com)
 
 ## Conclusion
 

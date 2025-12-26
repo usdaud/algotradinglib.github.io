@@ -23,38 +23,38 @@ The gates are typically activated using sigmoid functions, whereas the cell stat
 The LSTM functionality can be broken down as follows for a given timestep $t$:
 
 1. **Forget Gate Activation**:
-   \[
-   f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f)
-   \]
-   > The forget gate decides what information to discard from the cell state ($C_{t-1}$). Here, $W_f$ is the weight matrix, $h_{t-1}$ is the previous hidden state, $x_t$ is the current input, and $b_f$ is the bias vector.
+ \[
+ f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f)
+ \]
+ > The forget gate decides what information to discard from the cell state ($C_{t-1}$). Here, $W_f$ is the weight matrix, $h_{t-1}$ is the previous hidden state, $x_t$ is the current input, and $b_f$ is the bias vector.
 
 2. **Input Gate Activation and Candidate Cell State**:
-   \[
-   i_t = \sigma(W_i \cdot [h_{t-1}, x_t] + b_i)
-   \]
-   > The input gate determines what new information to store in the cell state.
+ \[
+ i_t = \sigma(W_i \cdot [h_{t-1}, x_t] + b_i)
+ \]
+ > The input gate determines what new information to store in the cell state.
 
-   \[
-   \tilde{C}_t = \tanh(W_C \cdot [h_{t-1}, x_t] + b_C)
-   \]
-   > The candidate cell state $\tilde{C}_t$ is formed using the tanh function.
+ \[
+ \tilde{C}_t = \tanh(W_C \cdot [h_{t-1}, x_t] + b_C)
+ \]
+ > The candidate cell state $\tilde{C}_t$ is formed using the tanh function.
 
 3. **Cell State Update**:
-   \[
-   C_t = f_t * C_{t-1} + i_t * \tilde{C}_t
-   \]
-   > The cell state $C_t$ undergoes updates based on the forget gate and input gate activations.
+ \[
+ C_t = f_t * C_{t-1} + i_t * \tilde{C}_t
+ \]
+ > The cell state $C_t$ undergoes updates based on the forget gate and input gate activations.
 
 4. **Output Gate Activation and Hidden State Update**:
-   \[
-   o_t = \sigma(W_o \cdot [h_{t-1}, x_t] + b_o)
-   \]
-   > The output gate decides the output from the current cell state.
+ \[
+ o_t = \sigma(W_o \cdot [h_{t-1}, x_t] + b_o)
+ \]
+ > The output gate decides the output from the current cell state.
 
-   \[
-   h_t = o_t * \tanh(C_t)
-   \]
-   > The hidden state $h_t$ is updated and forms the output for the current timestep.
+ \[
+ h_t = o_t * \tanh(C_t)
+ \]
+ > The hidden state $h_t$ is updated and forms the output for the current timestep.
 
 This series of operations ensures that relevant information can be retained over long sequences, addressing the problem of vanishing gradients found in traditional RNNs.
 
@@ -76,24 +76,24 @@ Several variations and enhancements to the standard LSTM architecture have been 
 
 LSTM networks have shown remarkable performance across diverse domains:
 
-1. **[Time Series Forecasting](../t/time_series_forecasting.md)**: Useful for [stock market](../s/stock_market.md) prediction, weather [forecasting](../f/forecasting.md), and other time-dependent data analysis. Example of companies employing LSTM for [time series forecasting](../t/time_series_forecasting.md) include [Numerai](https://numer.ai/) and [QuantConnect](https://www.quantconnect.com/).
+1. **[Time Series Forecasting](../t/time_series_forecasting.md)**: Useful for [stock market](../s/stock_market.md) prediction, weather [forecasting](../f/forecasting.md), and other time-dependent data analysis. Example of companies employing LSTM for [time series forecasting](../t/time_series_forecasting.md) include Numerai and QuantConnect.
 
-2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Applications [range](../r/range.md) from language modeling, machine translation, to text summarization. Companies like [Google](https://ai.google/research/) and [OpenAI](https://www.openai.com/) utilize LSTM networks for various NLP tasks.
+2. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Applications [range](../r/range.md) from language modeling, machine translation, to text summarization. Companies like Google and OpenAI utilize LSTM networks for various NLP tasks.
 
 3. **[Speech Recognition](../s/speech_recognition.md)**: LSTM networks are foundational in transforming speech to text accurately, used by products like Google's Voice Assistant and Apple's Siri.
 
-4. **[Anomaly Detection](../a/anomaly_detection.md)**: In cybersecurity and fault detection in industrial systems, where identifying abnormal patterns in sequences is crucial. Companies like [Darktrace](https://www.darktrace.com/) apply LSTMs for these purposes.
+4. **[Anomaly Detection](../a/anomaly_detection.md)**: In cybersecurity and fault detection in industrial systems, where identifying abnormal patterns in sequences is crucial. Companies like Darktrace apply LSTMs for these purposes.
 
-5. **Healthcare**: [Predictive modeling](../p/predictive_modeling.md) in patient health records, early detection of diseases, and genomics. [IBM Watson Health](https://www.ibm.com/watson-health) is an example.
+5. **Healthcare**: [Predictive modeling](../p/predictive_modeling.md) in patient health records, early detection of diseases, and genomics. IBM Watson Health is an example.
 
 ### Conclusion
 
 Long Short-Term Memory (LSTM) [neural networks](../n/neural_networks_in_trading.md) mark a significant advancement in the field of [machine learning](../m/machine_learning.md), especially for tasks involving sequential data. Their ability to retain long-term dependencies, characterized by complex architectures with various gates and states, makes them powerful and versatile models. With continuous advancements and new variations, LSTMs continue to drive innovations across [multiple](../m/multiple.md) industries, proving to be indispensable tools in modern [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 For more information, explore:
-- [Numerai](https://numer.ai/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Google AI](https://ai.google/research/)
-- [OpenAI](https://www.openai.com/)
-- [Darktrace](https://www.darktrace.com/)
-- [IBM Watson Health](https://www.ibm.com/watson-health)
+- Numerai
+- QuantConnect
+- Google AI
+- OpenAI
+- Darktrace
+- IBM Watson Health

@@ -85,10 +85,10 @@ Mean change analysis helps in assessing the [risk](../r/risk.md) and managing it
 
 Several prominent financial institutions and [hedge](../h/hedge.md) funds apply mean change analysis in their [algorithmic trading](../a/algorithmic_trading.md) models:
 
-- **Two Sigma Investments**: A quantitative investment [firm](../f/firm.md) that utilizes mean change analysis among other techniques for [market](../m/market.md) predictions and trading decisions. [Two Sigma](https://www.twosigma.com)
-- **D.E. Shaw Group**: Known for its nuanced approach and statistical techniques, including mean change and [variance analysis](../v/variance_analysis.md). [D.E. Shaw](https://www.deshaw.com)
-- **Citadel**: This [hedge fund](../h/hedge_fund.md) employs a wide [range](../r/range.md) of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including mean change analysis, to generate [alpha](../a/alpha.md). [Citadel](https://www.citadel.com)
-- **Renaissance Technologies**: Using advanced mathematics and [statistics](../s/statistics.md), Renaissance Technologies integrates mean change analysis in their [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com)
+- **Two Sigma Investments**: A quantitative investment [firm](../f/firm.md) that utilizes mean change analysis among other techniques for [market](../m/market.md) predictions and trading decisions. Two Sigma
+- **D.E. Shaw Group**: Known for its nuanced approach and statistical techniques, including mean change and [variance analysis](../v/variance_analysis.md). D.E. Shaw
+- **Citadel**: This [hedge fund](../h/hedge_fund.md) employs a wide [range](../r/range.md) of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including mean change analysis, to generate [alpha](../a/alpha.md). Citadel
+- **Renaissance Technologies**: Using advanced mathematics and [statistics](../s/statistics.md), Renaissance Technologies integrates mean change analysis in their [trading algorithms](../t/trading_algorithms.md). Renaissance Technologies
 
 ## Conclusion
 

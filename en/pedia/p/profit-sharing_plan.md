@@ -13,7 +13,7 @@ Employers have the flexibility to decide annually whether to make a contribution
 [Profit](../p/profit.md)-Sharing Plans can be designed in several ways, depending on the objectives and [financial health](../f/financial_health.md) of the company. Generally, these plans are structured around the following elements:
 
 1. **Eligibility:** Determine who is eligible to participate in the plan. Often, eligibility is based on a minimum period of service, such as one year of employment.
-   
+
 2. **Contribution Formula:** Define how contributions [will](../w/will.md) be calculated. Common methods include the "comp-to-comp" method (contributions based on employee compensation), or a set percentage-of-profits method.
 
 3. **[Vesting](../v/vesting.md) Schedule:** Create a [vesting](../v/vesting.md) schedule that specifies how long employees must work to retain the employer’s contributions. [Vesting](../v/vesting.md) schedules can be immediate, graded (employees vest a certain percentage each year), or cliff (employees vest fully after a specified period).

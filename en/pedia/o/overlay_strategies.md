@@ -95,18 +95,13 @@ APIs facilitate the integration of various [overlay](../o/overlay.md) components
 ### Two Sigma Investments
 
 Two Sigma is a prominent [firm](../f/firm.md) known for its use of [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced technologies in its [trading strategies](../t/trading_strategies.md), including [overlay](../o/overlay.md) strategies.
-Website: [Two Sigma](https://www.twosigma.com)
-
 ### Renaissance Technologies
 
 RenTech employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithmic strategies, including extensive use of [overlay](../o/overlay.md) strategies for [risk management](../r/risk_management.md) and [alpha generation](../a/alpha_generation.md).
-Website: [Renaissance Technologies](https://www.rentec.com)
 
 ### AQR Capital Management
 
 AQR focuses on applying a systematic approach to [investment management](../i/investment_management.md), leveraging [overlay](../o/overlay.md) strategies for enhancing [portfolio performance](../p/portfolio_performance.md).
-Website: [AQR Capital Management](https://www.aqr.com)
 
 ## Conclusion
-
 [Overlay](../o/overlay.md) strategies play a critical role in the realm of [algorithmic trading](../a/algorithmic_trading.md). By adding layers of [risk management](../r/risk_management.md), [alpha generation](../a/alpha_generation.md), [volatility](../v/volatility.md) control, and [execution](../e/execution.md) [optimization](../o/optimization.md), these strategies help in achieving better [risk](../r/risk.md)-adjusted returns. The implementation of [overlay](../o/overlay.md) strategies requires advanced tools, technologies, and a deep understanding of the [market dynamics](../m/market_dynamics.md). With the continuous evolution of technology, the future of [overlay](../o/overlay.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) looks promising, [offering](../o/offering.md) more sophisticated and efficient ways to navigate the complexities of [financial markets](../f/financial_market.md).

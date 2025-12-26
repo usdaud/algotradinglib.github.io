@@ -16,7 +16,7 @@ Enacted in response to major corporate scandals like Enron and [WorldCom](../w/w
 ### Dodd-Frank Act
 The Dodd-Frank Act expands whistleblower protections further, [offering](../o/offering.md) substantial financial incentives for individuals who provide information leading to successful enforcement actions by the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). Under Dodd-Frank, whistleblowers can receive 10-30% of the monetary sanctions collected over $1 million.
 
-More information on SEC's whistleblower program can be found here: [Securities and Exchange Commission Whistleblower Program](https://www.sec.gov/whistleblower).
+More information on SEC's whistleblower program can be found here: Securities and Exchange Commission Whistleblower Program.
 
 ## Prominent Whistleblower Cases
 
@@ -41,10 +41,10 @@ Cases like Enron or the [financial crisis](../f/financial_crisis.md) of 2008 hav
 
 ## Whistleblowing in Fintech and Algorithmic Trading
 
-In the rapidly evolving sectors of fintech and [algorithmic trading](../a/accountability.md), whistleblowers are increasingly significant due to the complexities and opacities associated with these fields.
+In the rapidly evolving sectors of fintech and [algorithmic trading](../a/algorithmic_trading.md), whistleblowers are increasingly significant due to the complexities and opacities associated with these fields.
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) relies on complex software systems to execute trades at speeds incomprehensible to human traders. These systems can sometimes operate in ways that are obscure even to those who created them, making the role of whistleblowers crucial. They can highlight potential ethical issues like [market manipulation](../m/market_manipulation.md), [flash crashes](../f/flash_crashes.md), or unfair trading advantages.
+[Algorithmic trading](../a/algorithmic_trading.md) relies on complex software systems to execute trades at speeds incomprehensible to human traders. These systems can sometimes operate in ways that are obscure even to those who created them, making the role of whistleblowers crucial. They can highlight potential ethical issues like [market manipulation](../m/market_manipulation.md), [flash crashes](../f/flash_crashes.md), or unfair trading advantages.
 
 ### Fintech
 The fintech [industry](../i/industry.md), which encompasses technologies to improve and automate financial services, faces unique challenges as well. Innovations like [blockchain](../b/blockchain_in_trading.md), online lending, and robo-advisors introduce new regulatory and ethical questions. Whistleblowers can shine a light on practices that may not yet be well-understood by existing legal frameworks, helping to shape future regulations.
@@ -59,7 +59,7 @@ Despite legal protections, whistleblowers frequently face retaliation in the for
 ### Legal Challenges
 Navigating the legal landscape can be daunting, and whistleblowers may find themselves entangled in lawsuits, both from their employers and from other affected parties. Legal battles can be protracted and financially draining.
 
-### Personal and Professional Fallout 
+### Personal and Professional Fallout
 The personal toll on whistleblowers can be severe. They may suffer from stress, anxiety, and strained personal relationships. Professionally, their careers may be jeopardized, and they might struggle to find new employment due to blacklisting or negative references.
 
 ## The Role of Organizations and Regulators
@@ -88,4 +88,4 @@ Providing access to legal counsel and financial aid can help whistleblowers navi
 
 ## Conclusion
 
-Whistleblowers play an indispensable role in modern [finance](../f/finance.md) by acting as guardians of [transparency](../t/transparency.md), ethics, and accountability. As financial systems become more complex, particularly in areas like fintech and [algorithmic trading](../a/accountability.md), the importance of [robust](../r/robust.md) whistleblower protections and support systems cannot be overstated. By fostering an environment that encourages ethical behavior and protects those who report wrongdoing, organizations can not only protect themselves from legal and financial repercussions but also contribute to the overall health and integrity of the [financial markets](../f/financial_market.md).
+Whistleblowers play an indispensable role in modern [finance](../f/finance.md) by acting as guardians of [transparency](../t/transparency.md), ethics, and accountability. As financial systems become more complex, particularly in areas like fintech and [algorithmic trading](../a/algorithmic_trading.md), the importance of [robust](../r/robust.md) whistleblower protections and support systems cannot be overstated. By fostering an environment that encourages ethical behavior and protects those who report wrongdoing, organizations can not only protect themselves from legal and financial repercussions but also contribute to the overall health and integrity of the [financial markets](../f/financial_market.md).

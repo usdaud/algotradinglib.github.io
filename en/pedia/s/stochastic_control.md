@@ -103,17 +103,16 @@ Involves approximating the [value](../v/value.md) function when exact solutions 
 
 Stochastic control strategies are essential in HFT to dynamically adjust trading positions based on [real-time market data](../r/real-time_market_data.md). Firms like [Jump Trading](../j/jump_trading.md) and Virtu Financial use sophisticated stochastic algorithms for optimal decision-making.
 
-[@Jump Trading](https://www.jumptrading.com)
-[@Virtu Financial](https://www.virtu.com)
+@Jump Trading
+@Virtu Financial
 
 ### Renewable Energy Management
 
 Optimizing the integration of renewable energy sources into the power grid involves dealing with the stochastic nature of energy production (e.g., solar and wind). Companies like Tesla and Siemens Energy [leverage](../l/leverage.md) stochastic control for effective energy management.
 
-[@Tesla Energy](https://www.tesla.com/solarpanels)
-[@Siemens Energy](https://www.siemens-energy.com)
+@Tesla Energy
+@Siemens Energy
 
 ## Conclusion
 
 Stochastic control is a vital discipline across various fields due to its ability to manage systems influenced by [uncertainty](../u/uncertainty_in_trading.md) and randomness. From [financial markets](../f/financial_market.md) to engineering applications, the principles and methods of stochastic control enable the design of [robust](../r/robust.md), efficient, and optimal decision-making strategies under [uncertainty](../u/uncertainty_in_trading.md).
-

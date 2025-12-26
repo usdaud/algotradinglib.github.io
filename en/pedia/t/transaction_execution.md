@@ -39,7 +39,7 @@ Traditional stock exchanges like the New York Stock [Exchange](../e/exchange.md)
 
 ECNs like Instinet and Archipelago facilitate direct trading between participants, thus reducing the need for middlemen. ECNs often provide better [transparency](../t/transparency.md) and lower costs.
 
-Website: [Instinet](https://www.instinet.com/)
+online platform: Instinet
 
 ### Dark Pools
 
@@ -126,7 +126,7 @@ Several commercial platforms provide [robust](../r/robust.md) solutions for [tra
 - **MetaTrader**: Popular for Forex and CFDs, [offering](../o/offering.md) extensive tools for automated trading.
 - **[QuantConnect](../q/quantconnect.md)**: Supports algorithm development and [execution](../e/execution.md) across various [asset](../a/asset.md) classes.
 
-Website: [QuantConnect](https://www.quantconnect.com/)
+online platform: QuantConnect
 
 ### Proprietary Systems
 

@@ -38,7 +38,7 @@ While equities are not as directly influenced by [interest](../i/interest.md) ra
 ## Measuring Interest Rate Sensitivity
 
 ### Beta
-In equities, a stock's [beta](../b/beta.md) measures its sensitivity to the [market](../m/market.md), but in [fixed income](../f/fixed_income.md), the [beta](../b/beta.md) of a [bond](../b/bond.md) or [bond](../b/bond.md) portfolio against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) can elucidate its [interest rate](../i/interest_rate.md) sensitivity.
+In equities, a stock's beta measures its sensitivity to the [market](../m/market.md), but in [fixed income](../f/fixed_income.md), the beta of a [bond](../b/bond.md) or [bond](../b/bond.md) portfolio against a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) can elucidate its [interest rate](../i/interest_rate.md) sensitivity.
 
 ### Key Rate Duration (KRD)
 KRD measures the sensitivity of bonds to [interest rate](../i/interest_rate.md) changes at specific [maturity](../m/maturity.md) points on the [yield curve](../y/yield_curve.md), allowing for pinpointing certain segments of the curve that might impact the [bond](../b/bond.md)'s price the most.
@@ -59,14 +59,13 @@ In [algorithmic trading](../a/algorithmic_trading.md), predefined rules and mode
 ### BlackRock
 BlackRock’s [iShares](../i/ishares.md) offerings involve various [bond](../b/bond.md) ETFs, each with different durations and [convexity](../c/convexity.md) profiles. They provide insightful data on how [interest rate](../i/interest_rate.md) sensitivity affects ETF performance.
 
-Visit [BlackRock](https://www.blackrock.com) for more information.
+Visit BlackRock for more information.
 
 ### PIMCO
 PIMCO specializes in active [bond](../b/bond.md) management strategies that incorporate [duration](../d/duration.md) and [convexity](../c/convexity.md) analysis to manage [interest rate risk](../i/interest_rate_risk.md) extensively.
 
-Visit [PIMCO](https://www.pimco.com) for more information.
+Visit PIMCO for more information.
 
 ## Conclusion
 
 [Interest rate](../i/interest_rate.md) sensitivity is a pivotal concept in [fixed income](../f/fixed_income.md) markets, influencing investment strategies, [portfolio management](../p/portfolio_management.md), and [risk](../r/risk.md) assessment. By mastering tools like [duration](../d/duration.md) and [convexity](../c/convexity.md) and understanding their implications across different securities, investors can navigate the complexities of [interest rate](../i/interest_rate.md) movements to achieve more resilient portfolios.
-

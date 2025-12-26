@@ -114,5 +114,5 @@ Sweat [equity](../e/equity.md) remains a vital yet complex aspect of modern [eco
 
 ### Resources
 
-- [Buffer](https://buffer.com)
-- [Habitat for Humanity](https://www.habitat.org)
+- Buffer
+- Habitat for Humanity

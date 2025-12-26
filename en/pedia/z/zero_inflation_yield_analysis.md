@@ -13,12 +13,12 @@ Before diving into zero [inflation](../i/inflation.md) [yield analysis](../y/yie
 When discussing yields, it is crucial to distinguish between [nominal yield](../n/nominal_yield.md) and real [yield](../y/yield.md):
 
 - **[Nominal Yield](../n/nominal_yield.md):** This is the [interest rate](../i/interest_rate.md) or [return](../r/return.md) on an investment without adjusting for [inflation](../i/inflation.md). It represents the percentage [profit](../p/profit.md) one earns on their investment based purely on the [face value](../f/face_value.md) of the [return](../r/return.md).
-  
+
 - **Real [Yield](../y/yield.md):** This is the [interest rate](../i/interest_rate.md) or [return](../r/return.md) on an investment after adjusting for [inflation](../i/inflation.md). It reflects the actual [purchasing power](../p/purchasing_power.md) earned from an investment and is calculated using the formula:
-  
-  \[
-  Real [Yield](../y/yield.md) \approx [Nominal Yield](../n/nominal_yield.md) - [Inflation](../i/inflation.md) Rate
-  \]
+
+ \[
+ Real [Yield](../y/yield.md) \approx [Nominal Yield](../n/nominal_yield.md) - [Inflation](../i/inflation.md) Rate
+ \]
 
 For example, if a [bond](../b/bond.md) has a [nominal yield](../n/nominal_yield.md) of 6% and the [inflation](../i/inflation.md) rate is 2%, the real [yield](../y/yield.md) would be approximately 4%.
 
@@ -27,9 +27,9 @@ For example, if a [bond](../b/bond.md) has a [nominal yield](../n/nominal_yield.
 Zero [inflation](../i/inflation.md) [yield analysis](../y/yield_analysis.md) helps investors understand the real [return](../r/return.md) on their investments, providing a clearer picture of [financial performance](../f/financial_performance.md). This analysis is particularly significant for several reasons:
 
 1. **Protection Against [Inflation](../i/inflation.md) [Risk](../r/risk.md):** [Inflation](../i/inflation.md) can erode the [value](../v/value.md) of fixed-[income](../i/income.md) payments. By focusing on zero [inflation](../i/inflation.md) yields, investors can better gauge the true [value](../v/value.md) of their returns and make informed investment decisions.
-   
+
 2. **[Comparative Analysis](../c/comparative_analysis.md):** It allows investors to compare the real returns of different investment opportunities across different economic environments characterized by varying levels of [inflation](../i/inflation.md).
-   
+
 3. **[Retirement Planning](../r/retirement_planning.md):** For individuals planning for retirement, understanding real [yield](../y/yield.md) is critical for ensuring that their savings maintain [purchasing power](../p/purchasing_power.md) over time.
 
 4. **[Corporate Finance](../c/corporate_finance.md):** Companies issuing bonds can use zero [inflation](../i/inflation.md) [yield analysis](../y/yield_analysis.md) to design products that protect investors against [inflation](../i/inflation.md), thus making these investments more attractive.
@@ -39,7 +39,7 @@ Zero [inflation](../i/inflation.md) [yield analysis](../y/yield_analysis.md) hel
 The process of calculating zero [inflation](../i/inflation.md) [yield](../y/yield.md) involves several steps:
 
 1. **Determine [Nominal Yield](../n/nominal_yield.md):** Identify the [nominal yield](../n/nominal_yield.md) of the investment. For example, if it is a [bond](../b/bond.md), the [nominal yield](../n/nominal_yield.md) is the [coupon rate](../c/coupon_rate.md).
-   
+
 2. **Identify [Inflation](../i/inflation.md) Rate:** Determine the current [inflation](../i/inflation.md) rate, often taken from financial reports or [inflation](../i/inflation.md) indices like CPI.
 
 3. **Calculate Real [Yield](../y/yield.md):** Subtract the [inflation](../i/inflation.md) rate from the [nominal yield](../n/nominal_yield.md) to get the zero [inflation](../i/inflation.md) [yield](../y/yield.md) or real [yield](../y/yield.md). Use the formula mentioned earlier.
@@ -59,19 +59,19 @@ Thus, the real [return](../r/return.md) on the [bond](../b/bond.md), after [acco
 Several tools and techniques can facilitate zero [inflation](../i/inflation.md) [yield analysis](../y/yield_analysis.md). These include:
 
 1. **[Bond](../b/bond.md) Calculators:** Online calculators can help determine the real [yield](../y/yield.md) of bonds by inputting the [nominal yield](../n/nominal_yield.md) and current [inflation](../i/inflation.md) rate.
-   
+
 2. **Excel Spreadsheets:** Custom spreadsheets can be designed to automate the process of calculating zero [inflation](../i/inflation.md) yields across various investments.
-   
-3. **Financial Software:** Advanced [financial analysis](../f/financial_analysis.md) software such as [Bloomberg](../b/bloomberg.md) Terminal [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) or Thomson [Reuters](../r/reuters.md) Eikon [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software) can perform detailed [yield](../y/yield.md) analyses.
+
+3. **Financial Software:** Advanced [financial analysis](../f/financial_analysis.md) software such as [Bloomberg](../b/bloomberg.md) Terminal Bloomberg or Thomson [Reuters](../r/reuters.md) Eikon Thomson Reuters can perform detailed [yield](../y/yield.md) analyses.
 
 ## Inflation-Indexed Bonds
 
-One way to mitigate [inflation](../i/inflation.md) [risk](../r/risk.md) is to invest in [inflation](../i/inflation.md)-indexed bonds, such as Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) in the United States. These bonds are specifically designed to provide protection against [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts with [inflation](../i/inflation.md), ensuring that the real [return](../r/return.md) remains constant over time. 
+One way to mitigate [inflation](../i/inflation.md) [risk](../r/risk.md) is to invest in [inflation](../i/inflation.md)-indexed bonds, such as Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) in the United States. These bonds are specifically designed to provide protection against [inflation](../i/inflation.md). The [principal](../p/principal.md) [value](../v/value.md) of TIPS adjusts with [inflation](../i/inflation.md), ensuring that the real [return](../r/return.md) remains constant over time.
 
 ### Key Features of Inflation-Indexed Bonds
 
 - **[Principal](../p/principal.md) Adjustment:** The [bond](../b/bond.md)’s [principal](../p/principal.md) increases with [inflation](../i/inflation.md) and decreases with [deflation](../d/deflation.md), based on changes in the CPI.
-  
+
 - **Coupon Payments:** [Interest](../i/interest.md) payments are made semiannually and are computed based on the adjusted [principal](../p/principal.md).
 
 - **Real [Yield](../y/yield.md) [Assurance](../a/assurance.md):** Since the [principal](../p/principal.md) adjusts with [inflation](../i/inflation.md), the [effective yield](../e/effective_yield.md) ([coupon rate](../c/coupon_rate.md) relative to the adjusted [principal](../p/principal.md)) reflects a real [yield](../y/yield.md).

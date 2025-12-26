@@ -7,22 +7,22 @@ Physical [commodities trading](../c/commodities_trading.md) refers to the buying
 ### Types of Physical Commodities
 
 1. **Metals:**
-   - **Precious Metals:** Gold, silver, [platinum](../p/platinum.md), palladium.
-   - **Base Metals:** Copper, aluminum, lead, zinc, nickel.
-   - **Ferrous Metals:** Iron ore, steel.
+ - **Precious Metals:** Gold, silver, [platinum](../p/platinum.md), palladium.
+ - **Base Metals:** Copper, aluminum, lead, zinc, nickel.
+ - **Ferrous Metals:** Iron ore, steel.
 
 2. **Energy Products:**
-   - **Fossil Fuels:** [Crude oil](../c/crude_oil.md), natural gas, coal.
-   - **Renewable Energy Commodities:** Biofuels.
+ - **Fossil Fuels:** [Crude oil](../c/crude_oil.md), natural gas, coal.
+ - **Renewable Energy Commodities:** Biofuels.
 
 3. **Agricultural Products:**
-   - **Grains:** Wheat, corn, rice, barley.
-   - **Soft Commodities:** Coffee, cocoa, sugar, cotton.
-   - **Livestock and Meat:** Cattle, hogs, poultry.
+ - **Grains:** Wheat, corn, rice, barley.
+ - **Soft Commodities:** Coffee, cocoa, sugar, cotton.
+ - **Livestock and Meat:** Cattle, hogs, poultry.
 
 4. **Industrial [Raw Materials](../r/raw_materials.md):**
-   - **Chemicals:** Ethylene, propylene.
-   - **Others:** Timber, rubber.
+ - **Chemicals:** Ethylene, propylene.
+ - **Others:** Timber, rubber.
 
 ## Key Players in Physical Commodities Trading
 
@@ -34,9 +34,9 @@ Producers include companies and entities that extract, cultivate, or otherwise g
 
 Commodities traders and brokers act as intermediaries, facilitating transactions between producers and end-users. They might also engage in speculative trading, purchasing commodities to sell later at a higher price.
 
-- **Glencore**: One of the world’s largest global diversified natural resource companies. [Website](https://www.glencore.com/)
-- **Trafigura**: Major [trading house](../t/trading_house.md) engaged in the sourcing and trading of commodities. [Website](https://www.trafigura.com/)
-- **Vitol**: A leader in energy [commodities trading](../c/commodities_trading.md). [Website](https://www.vitol.com/)
+- **Glencore**: One of the world’s
+- **Trafigura**: Major [trading house](../t/trading_house.md)
+- **Vitol**: A leader in energy [commodities trading](../c/commodities_trading.md). online platform
 
 ### Consumers
 
@@ -101,6 +101,6 @@ Regulatory bodies such as the [Commodity Futures](../c/commodity_futures.md) Tra
 
 ## Conclusion
 
-Physical [commodities trading](../c/commodities_trading.md) is a critical component of the global [economy](../e/economy.md), enabling the flow of [raw materials](../r/raw_materials.md) essential for production and consumption. Understanding the intricate workings of this [market](../m/market.md), including the roles of various participants, trading processes, and global impacts, is crucial for those involved in [commodities trading](../c/commodities_trading.md). 
+Physical [commodities trading](../c/commodities_trading.md) is a critical component of the global [economy](../e/economy.md), enabling the flow of [raw materials](../r/raw_materials.md) essential for production and consumption. Understanding the intricate workings of this [market](../m/market.md), including the roles of various participants, trading processes, and global impacts, is crucial for those involved in [commodities trading](../c/commodities_trading.md).
 
 With ongoing advancements in technology and significant attention on sustainability, the landscape of physical [commodities trading](../c/commodities_trading.md) continues to evolve, presenting both challenges and opportunities for [market](../m/market.md) participants.

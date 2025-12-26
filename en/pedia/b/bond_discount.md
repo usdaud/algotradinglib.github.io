@@ -86,13 +86,13 @@ Advanced algorithms can spot inefficiencies in the [bond market](../b/bond_marke
 Several firms specialize in [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including those that focus on [bond](../b/bond.md) markets. These firms often develop [proprietary algorithms](../p/proprietary_algorithms.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies, including [bond](../b/bond.md) discounts.
 
 ### **1. Citadel LLC**
-Citadel is a leading global financial institution known for its diversified investment strategies, including fixed-[income](../i/income.md) strategies that [leverage](../l/leverage.md) [algorithmic trading](../a/accountability.md). More information can be found on their [official website](https://www.citadel.com/).
+Citadel is a leading global financial institution known for its diversified investment strategies, including fixed-[income](../i/income.md) strategies that [leverage](../l/leverage.md) [algorithmic trading](../a/accountability.md).
 
 ### **2. Two Sigma Investments**
-Two Sigma uses advanced technology and [data science](../d/data_science_in_trading.md) to make investment decisions, including in the [bond market](../b/bond_market.md). They employ a [range](../r/range.md) of algorithms to analyze [market](../m/market.md) conditions and identify trading opportunities. More information is available on their [official website](https://www.twosigma.com/).
+Two Sigma uses advanced technology and [data science](../d/data_science_in_trading.md) to make investment decisions, including in the [bond market](../b/bond_market.md). They employ a [range](../r/range.md) of algorithms to analyze [market](../m/market.md) conditions and identify trading opportunities.
 
 ### **3. D. E. Shaw & Co.**
-This [firm](../f/firm.md) employs [quantitative analysis](../q/quantitative_analysis.md) and computational methodologies to devise [trading strategies](../t/trading_strategies.md), including those focused on [bond](../b/bond.md) discounts and related opportunities. More details can be found on their [official website](https://www.deshaw.com/).
+This [firm](../f/firm.md) employs [quantitative analysis](../q/quantitative_analysis.md) and computational methodologies to devise [trading strategies](../t/trading_strategies.md), including those focused on [bond](../b/bond.md) discounts and related opportunities. More
 
 ## Conclusion
 

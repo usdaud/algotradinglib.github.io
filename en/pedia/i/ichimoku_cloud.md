@@ -5,13 +5,13 @@ The Ichimoku Cloud, also known as Ichimoku Kinko Hyo, is a comprehensive trading
 ### Key Components
 
 1. **Tenkan-sen (Conversion Line):** The average of the highest high and the lowest low over the last 9 periods. It typically serves as an [indicator](../i/indicator.md) of short-term price trends.
-   
+
 2. **Kijun-sen (Base Line):** The average of the highest high and the lowest low over the last 26 periods. It acts as an [indicator](../i/indicator.md) of medium-term trends.
-   
+
 3. **Senkou Span A (Leading Span A):** The average of the Tenkan-sen and the Kijun-sen plotted 26 periods into the future. This line, along with Senkou Span B, forms the Ichimoku Cloud.
-   
+
 4. **Senkou Span B (Leading Span B):** The average of the highest high and the lowest low over the past 52 periods, plotted 26 periods into the future.
-   
+
 5. **Chikou Span (Lagging Span):** The closing price plotted 26 periods into the past. This helps to confirm trends and potential reversals.
 
 ### The Cloud (Kumo)
@@ -22,20 +22,20 @@ The area between Senkou Span A and Senkou Span B is called the Kumo or the Cloud
 
 The Ichimoku Cloud generates several types of [trading signals](../t/trading_signals.md):
 
-1. **Tenkan-sen/Kijun-sen Crossover:** 
-   - A bullish signal occurs when the Tenkan-sen crosses above the Kijun-sen.
-   - A bearish signal occurs when the Tenkan-sen crosses below the Kijun-sen.
+1. **Tenkan-sen/Kijun-sen Crossover:**
+ - A bullish signal occurs when the Tenkan-sen crosses above the Kijun-sen.
+ - A bearish signal occurs when the Tenkan-sen crosses below the Kijun-sen.
 
 2. **Price/Cloud Relationship:**
-   - Price above the cloud suggests a bullish [trend](../t/trend.md).
-   - Price below the cloud suggests a bearish [trend](../t/trend.md).
-   
+ - Price above the cloud suggests a bullish [trend](../t/trend.md).
+ - Price below the cloud suggests a bearish [trend](../t/trend.md).
+
 3. **Chikou Span Confirmation:**
-   - If the Chikou Span is above the price, it confirms a bullish [trend](../t/trend.md).
-   - If the Chikou Span is below the price, it confirms a bearish [trend](../t/trend.md).
-   
+ - If the Chikou Span is above the price, it confirms a bullish [trend](../t/trend.md).
+ - If the Chikou Span is below the price, it confirms a bearish [trend](../t/trend.md).
+
 4. **Cloud Color:**
-   - The cloud changes color based on the position of Senkou Spans A and B. A green cloud forms when Span A is above Span B, signaling an [uptrend](../u/uptrend.md). Conversely, a red cloud forms when Span B is above Span A, signaling a [downtrend](../d/downtrend.md).
+ - The cloud changes color based on the position of Senkou Spans A and B. A green cloud forms when Span A is above Span B, signaling an [uptrend](../u/uptrend.md). Conversely, a red cloud forms when Span B is above Span A, signaling a [downtrend](../d/downtrend.md).
 
 ### Practical Applications
 

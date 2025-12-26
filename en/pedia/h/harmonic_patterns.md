@@ -107,8 +107,8 @@ Although [algorithmic trading](../a/algorithmic_trading.md) offers significant a
 
 Several [hedge](../h/hedge.md) funds and financial institutions have successfully implemented harmonic patterns within their [algorithmic trading](../a/algorithmic_trading.md) strategies. Notable examples include:
 
-- **Renaissance Technologies**: A highly successful quant-driven [hedge fund](../h/hedge_fund.md) known for its rigorous mathematical approach to trading. Although not publicly detailed, it is speculated that they employ harmonic patterns as part of their broader [trading strategies](../t/trading_strategies.md). More about them can be found on their official [website](https://www.rentec.com/).
-- **Citadel LLC**: A global multistrategy [hedge fund](../h/hedge_fund.md) and [asset](../a/asset.md) manager that uses sophisticated [algorithmic trading](../a/algorithmic_trading.md) methods, including harmonic patterns. More information is available on their [website](https://www.citadel.com/).
+- **Renaissance Technologies**: A highly successful quant-driven [hedge fund](../h/hedge_fund.md) known for its rigorous mathematical approach to trading. Although not publicly detailed, it is speculated that they employ harmonic patterns as part of their broader [trading strategies](../t/trading_strategies.md).
+- **Citadel LLC**: A global multistrategy [hedge fund](../h/hedge_fund.md) and [asset](../a/asset.md) manager that uses sophisticated [algorithmic trading](../a/algorithmic_trading.md) methods, including harmonic patterns.
 
 These real-world applications demonstrate the potential of harmonic patterns in delivering consistent [trading performance](../t/trading_performance.md) when integrated into advanced algorithmic frameworks.
 

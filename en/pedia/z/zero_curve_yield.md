@@ -100,15 +100,15 @@ Various software and tools are available for constructing and analyzing the zero
 
 ### Bloomberg Terminal
 
-[Bloomberg](../b/bloomberg.md) provides comprehensive tools for [yield curve](../y/yield_curve.md) analysis, including data on different fixed-[income](../i/income.md) instruments and advanced [curve fitting](../c/curve_fitting_in_trading.md) models. For more information, visit [Bloomberg](https://www.bloomberg.com/).
+[Bloomberg](../b/bloomberg.md) provides comprehensive tools for [yield curve](../y/yield_curve.md) analysis, including data on different fixed-[income](../i/income.md) instruments and advanced [curve fitting](../c/curve_fitting_in_trading.md) models. For more information, visit Bloomberg.
 
 ### Thomson Reuters Eikon
 
-Eikon offers a wide [range](../r/range.md) of tools for [yield curve](../y/yield_curve.md) construction, [market](../m/market.md) data analysis, and [risk management](../r/risk_management.md). For more details, visit [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software).
+Eikon offers a wide [range](../r/range.md) of tools for [yield curve](../y/yield_curve.md) construction, [market](../m/market.md) data analysis, and [risk management](../r/risk_management.md). For more details, visit Thomson Reuters Eikon.
 
 ### QuantLib
 
-[QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), including tools for [yield curve](../y/yield_curve.md) construction, [bond](../b/bond.md) pricing, and [risk management](../r/risk_management.md). For more information, visit [QuantLib](https://www.quantlib.org/).
+[QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), including tools for [yield curve](../y/yield_curve.md) construction, [bond](../b/bond.md) pricing, and [risk management](../r/risk_management.md). For more information, visit QuantLib.
 
 ## Conclusion
 

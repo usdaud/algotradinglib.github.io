@@ -16,11 +16,11 @@ In the modern context, Quid Pro Quo encapsulates a [range](../r/range.md) of pra
 
 ## Quid Pro Quo in Algo Trading
 
-[Algorithmic trading](../a/accountability.md) (algo trading) is a method of executing trades using automated systems based on predefined criteria. Quid Pro Quo takes on nuanced implications in this space, encompassing:
+[Algorithmic trading](../a/algorithmic_trading.md) (algo trading) is a method of executing trades using automated systems based on predefined criteria. Quid Pro Quo takes on nuanced implications in this space, encompassing:
 
 - **Data [Exchange](../e/exchange.md)**: Algo [trading strategies](../t/trading_strategies.md) rely heavily on continuous data feeds. Firms often engage in quid pro quo exchanges with data providers, trading financial compensation for proprietary data streams.
 - **[Execution](../e/execution.md) Services**: High-frequency trading firms might [exchange](../e/exchange.md) [transaction fees](../t/transaction_fees.md) for superior [trade](../t/trade.md) [execution](../e/execution.md) services, improving the [efficiency](../e/efficiency.md) and profitability of their algorithms.
-- **Collaborative Algorithms**: Sometimes firms develop strategic partnerships to create collaborative [algorithmic trading](../a/accountability.md) systems where both parties benefit through shared technology and [market](../m/market.md) access.
+- **Collaborative Algorithms**: Sometimes firms develop strategic partnerships to create collaborative [algorithmic trading](../a/algorithmic_trading.md) systems where both parties benefit through shared technology and [market](../m/market.md) access.
 
 ## Ethical and Legal Considerations
 
@@ -43,14 +43,12 @@ Financial technology, or FinTech, is rapidly transforming transactional ecosyste
 
 [PayPal](../p/paypal.md), a paradigm of FinTech innovation, demonstrates Quid Pro Quo through its merchant services. Merchants receive a streamlined, global [payment](../p/payment.md) processing tool, while [PayPal](../p/paypal.md) gains transactional fees.
 
-**More About [PayPal](../p/paypal.md):** [https://www.paypal.com](https://www.paypal.com)
-
+**More About [PayPal](../p/paypal.md):**
 ### Bloomberg Terminals
 
 [Bloomberg](../b/bloomberg.md) Terminals [offer](../o/offer.md) another prime example. Financial institutions pay significant subscription fees to access [Bloomberg](../b/bloomberg.md)’s comprehensive data services. The quid pro quo here involves the [exchange](../e/exchange.md) of financial data and analytic tools for monetary compensation.
 
-**More About [Bloomberg](../b/bloomberg.md):** [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-
+**More About [Bloomberg](../b/bloomberg.md):**
 ## Conclusion
 
 Quid Pro Quo is a fundamental principle ingrained in the very fabric of [trade](../t/trade.md) and [finance](../f/finance.md), underscoring virtually every [transaction](../t/transaction.md) from traditional stock trading to avant-garde FinTech platforms. While it usually denotes fair and balanced exchanges, it is crucial for participants to be mindful of the ethical and legal ramifications associated with this principle. By understanding the intricacies of Quid Pro Quo, traders, financial professionals, and FinTech entrepreneurs can better navigate the complexities of modern financial environments.

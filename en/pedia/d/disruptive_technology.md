@@ -52,17 +52,14 @@ High-Frequency Trading is a form of [algorithmic trading](../a/accountability.md
 ### Citadel Securities
 Citadel Securities is a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) that extensively uses HFT and [machine learning](../m/machine_learning.md) to optimize its [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) cutting-edge technology to provide [liquidity](../l/liquidity.md) and ensure tight [spreads](../s/spreads.md) in various [asset](../a/asset.md) classes.
 
-[Citadel Securities](https://www.citadelsecurities.com/)
 
 ### Two Sigma
 Two Sigma is a [hedge fund](../h/hedge_fund.md) that is renowned for its use of [big data](../b/big_data_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in its [trading strategies](../t/trading_strategies.md). They employ a [range](../r/range.md) of advanced technologies to analyze [market](../m/market.md) data, develop [predictive models](../p/predictive_models_in_trading.md), and execute trades.
 
-[Two Sigma](https://www.twosigma.com/)
 
 ### IBM Quantum Computing
 IBM has been at the forefront of developing [quantum computing](../q/quantum_computing_in_trading.md) technology. Although still in its early stages, [quantum computing](../q/quantum_computing_in_trading.md) holds significant potential for financial applications, including [algorithmic trading](../a/accountability.md). IBM provides [quantum computing](../q/quantum_computing_in_trading.md) resources that can be explored for developing [trading algorithms](../t/trading_algorithms.md).
 
-[IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
 
 ## Challenges and Considerations
 

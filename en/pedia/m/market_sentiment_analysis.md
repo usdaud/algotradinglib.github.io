@@ -29,15 +29,10 @@ Quantitative [sentiment analysis](../s/sentiment_analysis.md) employs algorithms
 Numerous tools and platforms facilitate [market](../m/market.md) [sentiment analysis](../s/sentiment_analysis.md):
 
 * **[Bloomberg](../b/bloomberg.md) Terminal**: A premier tool for [financial analysis](../f/financial_analysis.md) that incorporates sentiment analytics based on news, [social media](../s/social_media.md), and research reports.
-  [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 * **Thomson [Reuters](../r/reuters.md) Eikon**: Provides a suite of [sentiment analysis](../s/sentiment_analysis.md) tools including real-time news and [social media sentiment](../s/social_media_sentiment.md).
-  [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 * **AlphaSense**: Utilizes AI to provide [market sentiment](../m/market_sentiment.md) insights by analyzing vast amounts of unstructured data.
-  [AlphaSense](https://www.alpha-sense.com/)
 * **StockTwits**: A [social media](../s/social_media.md) platform specifically for investors, allowing real-time sentiment tracking.
-  [StockTwits](https://stocktwits.com/)
 * **Sentifi**: Uses AI-driven technology to provide [market sentiment](../m/market_sentiment.md) analytics by monitoring various online sources.
-  [Sentifi](https://www.sentifi.com/)
 
 ## Data Sources
 
@@ -105,4 +100,3 @@ The future of [market](../m/market.md) [sentiment analysis](../s/sentiment_analy
 ## Conclusion
 
 [Market](../m/market.md) [sentiment analysis](../s/sentiment_analysis.md) is a powerful tool that offers valuable insights into the collective mood and perceptions of [market](../m/market.md) participants. By leveraging advanced technologies and diverse data sources, traders and investors can [gain](../g/gain.md) a significant edge in navigating the complexities of [financial markets](../f/financial_market.md). As technology continues to evolve, the [scope](../s/scope.md) and accuracy of [sentiment analysis](../s/sentiment_analysis.md) [will](../w/will.md) likely expand, cementing its role as a cornerstone of modern financial strategies.
-

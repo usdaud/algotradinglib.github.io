@@ -20,17 +20,17 @@ Mathematically, for a [time series](../t/time_series.md) \(Y_t\), the lagged [va
 
 #### Examples of Lagged Variables
 
-1. **Simple Moving Average (SMA)**: 
-   \[
-   SMA_t = \frac{1}{n} \sum_{i=1}^{n}Y_{t-i}
-   \]
-   Here, \(SMA_t\) is the simple moving average at time t, calculated as the average of the last n lagged prices.
+1. **Simple Moving Average (SMA)**:
+ \[
+ SMA_t = \frac{1}{n} \sum_{i=1}^{n}Y_{t-i}
+ \]
+ Here, \(SMA_t\) is the simple moving average at time t, calculated as the average of the last n lagged prices.
 
 2. **Lagged Returns**:
-   \[
-   \text{[Return](../r/return.md)}_{t} = \frac{Y_t - Y_{t-1}}{Y_{t-1}}
-   \]
-   This represents the [percentage change](../p/percentage_change.md) in price from the previous period.
+ \[
+ \text{[Return](../r/return.md)}_{t} = \frac{Y_t - Y_{t-1}}{Y_{t-1}}
+ \]
+ This represents the [percentage change](../p/percentage_change.md) in price from the previous period.
 
 #### Practical Application in Algorithmic Trading
 
@@ -46,13 +46,13 @@ Algorithmic traders and quants often use lagged variables in their models to cap
 
 Various software and platforms provide functionalities to incorporate lagged variables in [trading strategies](../t/trading_strategies.md). Some of these are:
 
-1. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment. [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment. QuantConnect
 
-2. **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), which can be used to implement models using lagged data. [Quantlib on GitHub](https://github.com/lballabio/QuantLib)
+2. **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), which can be used to implement models using lagged data. Quantlib on GitHub
 
-3. **Python's statsmodels**: A Python module that offers classes and functions to estimate many different statistical models. It includes extensive support for [time series analysis](../t/time_series_analysis.md). [Statsmodels](https://www.statsmodels.org)
+3. **Python's statsmodels**: A Python module that offers classes and functions to estimate many different statistical models. It includes extensive support for [time series analysis](../t/time_series_analysis.md). Statsmodels
 
-4. **R’s forecast package**: An R package that offers methods and tools for displaying and analyzing [univariate time series](../u/univariate_time_series.md) forecasts including ARIMA models using lagged variables. [Forecast package on CRAN](https://cran.r-project.org/web/packages/forecast/index.html)
+4. **R’s forecast package**: An R package that offers methods and tools for displaying and analyzing [univariate time series](../u/univariate_time_series.md) forecasts including ARIMA models using lagged variables. Forecast package on CRAN
 
 #### Challenges and Considerations
 

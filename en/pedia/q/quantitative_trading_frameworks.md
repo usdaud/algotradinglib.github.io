@@ -11,7 +11,7 @@ A comprehensive [quantitative trading](../q/quantitative_trading.md) framework t
 - **[Data Cleaning](../d/data_cleaning.md) and Processing**: Raw data often requires preprocessing to remove [noise](../n/noise.md), correct errors, and format it for analysis. This process ensures the data's accuracy and consistency.
 
 ### Strategy Development
-- **Research and [Ideation](../i/ideation.md)**: The initial stage involves generating trading ideas based on [market](../m/market.md) observation, financial theories, or scientific methods. 
+- **Research and [Ideation](../i/ideation.md)**: The initial stage involves generating trading ideas based on [market](../m/market.md) observation, financial theories, or scientific methods.
 - **Model Selection**: After [ideation](../i/ideation.md), [quantitative models](../q/quantitative_models.md) are selected and applied. These models can [range](../r/range.md) from statistical methods, such as [mean reversion](../m/mean_reversion.md) and [momentum](../m/momentum.md), to more sophisticated techniques like [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ### Backtesting and Simulation
@@ -67,19 +67,19 @@ Compliance with financial regulations is crucial. [Quantitative trading](../q/qu
 ## Prominent Examples of Quantitative Trading Frameworks
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides a cloud-based environment for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides a cloud-based environment for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. For more information, visit QuantConnect.
 
 ### Quantlib
-[Quantlib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and simulating [trading strategies](../t/trading_strategies.md). The library is widely used in academia and [industry](../i/industry.md) for [financial modeling](../f/financial_modeling.md) and [quantitative analysis](../q/quantitative_analysis.md). More details can be found at [Quantlib](https://www.quantlib.org/).
+[Quantlib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and simulating [trading strategies](../t/trading_strategies.md). The library is widely used in academia and [industry](../i/industry.md) for [financial modeling](../f/financial_modeling.md) and [quantitative analysis](../q/quantitative_analysis.md). More details can be found at Quantlib.
 
 ### Algorithmic Trading Platform by Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to [real-time market data](../r/real-time_market_data.md), [backtesting](../b/backtesting.md) facilities, and a set of pre-built [trading algorithms](../t/trading_algorithms.md). Traders can also develop custom strategies using their API. For more details, visit [Interactive Brokers](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to [real-time market data](../r/real-time_market_data.md), [backtesting](../b/backtesting.md) facilities, and a set of pre-built [trading algorithms](../t/trading_algorithms.md). Traders can also develop custom strategies using their API. For more details, visit Interactive Brokers.
 
 ### MetaTrader 5
-MetaTrader 5 (MT5) is a multi-[asset](../a/asset.md) platform for trading Forex, [stocks](../s/stock.md), and [futures](../f/futures.md). It supports [algorithmic trading](../a/algorithmic_trading.md) via its MQL5 programming language, enabling traders to create, test, and implement automated [trading strategies](../t/trading_strategies.md). Learn more at [MetaTrader 5](https://www.metatrader5.com/).
+MetaTrader 5 (MT5) is a multi-[asset](../a/asset.md) platform for trading Forex, [stocks](../s/stock.md), and [futures](../f/futures.md). It supports [algorithmic trading](../a/algorithmic_trading.md) via its MQL5 programming language, enabling traders to create, test, and implement automated [trading strategies](../t/trading_strategies.md). Learn more at MetaTrader 5.
 
 ### Backtrader
-[Backtrader](../b/backtrader.md) is an [open](../o/open.md)-source Python library for trading and [backtesting](../b/backtesting.md). It supports [multiple](../m/multiple.md) data sources and brokers, making it a versatile tool for developing and testing [trading strategies](../t/trading_strategies.md). More information can be found at [Backtrader](https://www.backtrader.com/).
+[Backtrader](../b/backtrader.md) is an [open](../o/open.md)-source Python library for trading and [backtesting](../b/backtesting.md). It supports [multiple](../m/multiple.md) data sources and brokers, making it a versatile tool for developing and testing [trading strategies](../t/trading_strategies.md). More information can be found at Backtrader.
 
 ## Conclusion
 

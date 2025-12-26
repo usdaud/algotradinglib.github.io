@@ -18,17 +18,17 @@ In its standard form, the [J-Curve](../j/j-curve.md) illustrates the temporal di
 
 ### Phases of the J-Curve in Algorithmic Trading
 
-1. **Initial Dip**: 
-    - *Calibration Costs*: During the early phase of algorithm deployment, the trading system might need to be fine-tuned. This period can involve non-trivial costs, including a [learning curve](../l/learning_curve.md) for the model, where the algorithm is updated based on observed [performance metrics](../p/performance_metrics.md).
-    - *[Market](../m/market.md) Shocks and [Noise](../n/noise.md)*: Early in its [life cycle](../l/life_cycle.md), the algorithm may be more susceptible to unanticipated [market](../m/market.md) shocks or [noise](../n/noise.md), causing initial losses.
+1. **Initial Dip**:
+ - *Calibration Costs*: During the early phase of algorithm deployment, the trading system might need to be fine-tuned. This period can involve non-trivial costs, including a [learning curve](../l/learning_curve.md) for the model, where the algorithm is updated based on observed [performance metrics](../p/performance_metrics.md).
+ - *[Market](../m/market.md) Shocks and [Noise](../n/noise.md)*: Early in its [life cycle](../l/life_cycle.md), the algorithm may be more susceptible to unanticipated [market](../m/market.md) shocks or [noise](../n/noise.md), causing initial losses.
 
 2. **[Inflection Point](../i/inflection_point.md)**:
-    - *Improved Adjustments*: As adjustments are made and the algorithm is refined to better match [market](../m/market.md) conditions, performance stabilizes.
-    - *Algorithmic [Efficiency](../e/efficiency.md)*: The [efficiency](../e/efficiency.md) of the algorithm improves, capturing more profitable trading opportunities with reduced error rates.
+ - *Improved Adjustments*: As adjustments are made and the algorithm is refined to better match [market](../m/market.md) conditions, performance stabilizes.
+ - *Algorithmic [Efficiency](../e/efficiency.md)*: The [efficiency](../e/efficiency.md) of the algorithm improves, capturing more profitable trading opportunities with reduced error rates.
 
 3. **Growth and Recovery**:
-    - *Consistent Performance*: Over time, with continued refinement, the algorithm's performance can substantially improve, leading to positive returns that compensate for the initial losses.
-    - *[Market](../m/market.md) Prediction*: The algorithm gets better at predicting [market](../m/market.md) movements, thus optimizing entry and exit points for trades.
+ - *Consistent Performance*: Over time, with continued refinement, the algorithm's performance can substantially improve, leading to positive returns that compensate for the initial losses.
+ - *[Market](../m/market.md) Prediction*: The algorithm gets better at predicting [market](../m/market.md) movements, thus optimizing entry and exit points for trades.
 
 ### Strategic Implications
 
@@ -38,13 +38,13 @@ Understanding the [J-Curve](../j/j-curve.md) is crucial for algorithmic traders 
 - **Incremental Deployment**: Gradually scaling the deployment of algorithmic strategies can mitigate initial high-impact losses until the algorithm proves itself.
 - **Continuous Monitoring and Adjustment**: Continuous evaluation and adjustment are vital. Monitoring the algorithm’s performance and making data-driven adjustments can shorten the dip period and enhance the recovery phase.
 
-### Case Studies 
+### Case Studies
 
 #### Quantitative Investing Firms
-Several firms, like [Two Sigma](https://www.twosigma.com/) and [Citadel LLC](https://www.citadel.com/), have applied concepts aligned with the [J-Curve](../j/j-curve.md) theory in their algorithmic strategies. Their algorithms often go through extensive [backtesting](../b/backtesting.md) and live testing phases before achieving stable returns.
+Several firms, like Two Sigma and Citadel LLC, have applied concepts aligned with the [J-Curve](../j/j-curve.md) theory in their algorithmic strategies. Their algorithms often go through extensive [backtesting](../b/backtesting.md) and live testing phases before achieving stable returns.
 
 #### Hedge Funds
-[Hedge](../h/hedge.md) funds such as [Renaissance Technologies](https://www.rentec.com/) have successfully navigated the [J-Curve](../j/j-curve.md) by employing [robust](../r/robust.md) [data science](../d/data_science_in_trading.md) techniques that ensure their algorithms improve over time, ultimately resulting in highly profitable outcomes despite initial hurdles.
+[Hedge](../h/hedge.md) funds such as Renaissance Technologies have successfully navigated the [J-Curve](../j/j-curve.md) by employing [robust](../r/robust.md) [data science](../d/data_science_in_trading.md) techniques that ensure their algorithms improve over time, ultimately resulting in highly profitable outcomes despite initial hurdles.
 
 ### Tools and Techniques
 
@@ -57,4 +57,3 @@ To [handle](../h/handle.md) the [J-Curve](../j/j-curve.md) in [algorithmic tradi
 ### Conclusion
 
 The [J-Curve](../j/j-curve.md) theory provides a valuable framework for understanding the lifecycle of [algorithmic trading](../a/algorithmic_trading.md) strategies. Recognizing the initial phases of underperformance as a necessary step towards achieving [robust](../r/robust.md), long-term gains allows traders and investors to navigate the challenges of the early deployment period wisely. By applying continuous monitoring, incremental deployment, and strategic adjustments, algorithmic strategies can effectively transition through the [J-Curve](../j/j-curve.md), ultimately leading to sustainable profitability.
-

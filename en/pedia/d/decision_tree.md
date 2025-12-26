@@ -1,10 +1,10 @@
 # Decision Tree
 
-A Decision Tree is a decision support tool that uses a tree-like model of decisions and their possible consequences. It is a powerful and versatile [machine learning](../m/machine_learning.md) algorithm capable of performing both classification and regression tasks, and even multi-output tasks. In the context of [algorithmic trading](../a/accountability.md), [decision trees](../d/decision_trees.md) are frequently used to create [predictive models](../p/predictive_models_in_trading.md) to forecast stock prices, detect trends, and automate [trading strategies](../t/trading_strategies.md). 
+A Decision Tree is a decision support tool that uses a tree-like model of decisions and their possible consequences. It is a powerful and versatile [machine learning](../m/machine_learning.md) algorithm capable of performing both classification and regression tasks, and even multi-output tasks. In the context of [algorithmic trading](../a/accountability.md), [decision trees](../d/decision_trees.md) are frequently used to create [predictive models](../p/predictive_models_in_trading.md) to forecast stock prices, detect trends, and automate [trading strategies](../t/trading_strategies.md).
 
 ## Introduction
 
-[Decision trees](../d/decision_trees.md) operate in a hierarchical, top-down manner by splitting data into subsets which contain data with similar values (homogenous sets). At each node of the tree, the algorithm selects the attribute that best separates the classes or responses, according to a specific criterion like Gini impurity for classification tasks or [variance reduction](../v/variance_reduction.md) for regression tasks. 
+[Decision trees](../d/decision_trees.md) operate in a hierarchical, top-down manner by splitting data into subsets which contain data with similar values (homogenous sets). At each node of the tree, the algorithm selects the attribute that best separates the classes or responses, according to a specific criterion like Gini impurity for classification tasks or [variance reduction](../v/variance_reduction.md) for regression tasks.
 
 ## Components of a Decision Tree
 
@@ -118,9 +118,9 @@ print(f'Accuracy: {accuracy * 100:.2f}%')
 
 Several libraries and frameworks provide efficient implementations for [decision trees](../d/decision_trees.md) in Python:
 
-1. **Scikit-learn**: Offers a [robust](../r/robust.md) implementation for [decision trees](../d/decision_trees.md) in the `sklearn.tree` module. [Scikit-learn](https://scikit-learn.org/stable/modules/tree.html)
-2. **XGBoost**: An optimized gradient boosting library designed to be highly efficient and flexible. [XGBoost](https://xgboost.readthedocs.io/)
-3. **LightGBM**: A high-performance gradient boosting framework based on [decision trees](../d/decision_trees.md). [LightGBM](https://lightgbm.readthedocs.io/)
+1. **Scikit-learn**: Offers a [robust](../r/robust.md) implementation for [decision trees](../d/decision_trees.md) in the `sklearn.tree` module. Scikit-learn
+2. **XGBoost**: An optimized gradient boosting library designed to be highly efficient and flexible. XGBoost
+3. **LightGBM**: A high-performance gradient boosting framework based on [decision trees](../d/decision_trees.md). LightGBM
 
 ## Conclusion
 

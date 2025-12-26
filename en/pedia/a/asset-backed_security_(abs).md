@@ -58,7 +58,7 @@ The originator often continues to service the loans—collecting payments, maint
 ## Risks of ABS
 
 ### Credit Risk
-This is the [risk](../r/risk.md) that the borrowers of the [underlying](../u/underlying.md) loans [will](../w/will.md) [default](../d/default.md). Various forms of [credit](../c/credit.md) enhancement are designed to mitigate this [risk](../r/risk.md). 
+This is the [risk](../r/risk.md) that the borrowers of the [underlying](../u/underlying.md) loans [will](../w/will.md) [default](../d/default.md). Various forms of [credit](../c/credit.md) enhancement are designed to mitigate this [risk](../r/risk.md).
 
 ### Prepayment Risk
 Especially relevant in [mortgage](../m/mortgage.md)-backed securities (a subset of ABS), [prepayment](../p/prepayment.md) occurs when borrowers pay off their loans early, affecting the expected [cash flow](../c/cash_flow.md) to investors.

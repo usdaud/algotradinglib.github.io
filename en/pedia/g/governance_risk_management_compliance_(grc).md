@@ -4,7 +4,7 @@
 Governance, [Risk Management](../r/risk_management.md), and Compliance (GRC) is a structured approach to aligning information technology (IT) with [business](../b/business.md) objectives, while managing [risk](../r/risk.md) and meeting compliance requirements. GRC, as a discipline, aims to ensure that organizations can effectively and efficiently manage these three essential areas. It has become increasingly critical as businesses face complex regulatory environments, significant cyber threats, and heightened scrutiny of [corporate governance](../c/corporate_governance.md).
 
 ## Governance
-Governance entails the frameworks, processes, and structures employed to steer an organization's operations and achieve its objectives. 
+Governance entails the frameworks, processes, and structures employed to steer an organization's operations and achieve its objectives.
 
 ### Aspects of Governance
 1. **[Corporate Governance](../c/corporate_governance.md):** Refers to the system of rules, practices, and processes by which a company is directed and controlled. It involves balancing the interests of stakeholders such as shareholders, management, customers, suppliers, financiers, government, and the community.
@@ -59,10 +59,10 @@ Integrated GRC seeks to unify governance, [risk management](../r/risk_management
 3. **Compliance Management Software:** Applications that ensure regulatory and internal compliance.
 
 ## GRC Tools and Platforms
-1. **RSA Archer:** Offers capabilities for [risk management](../r/risk_management.md), compliance management, audits, and more. (https://www.archerirm.com/)
-2. **MetricStream:** Provides GRC software solutions for [risk](../r/risk.md), compliance, audits, and policy management. (https://www.metricstream.com/)
-3. **SAP GRC:** Features applications for [risk management](../r/risk_management.md), access control, and regulatory change management. (https://www.sap.com/products/governance-[risk](../r/risk.md)-compliance-grc.html)
-4. **ServiceNow GRC:** This tool helps integrate [risk management](../r/risk_management.md), compliance, and audit processes. (https://www.servicenow.com/products/governance-[risk](../r/risk.md)-compliance.html)
+1. **RSA Archer:** Offers capabilities for [risk management](../r/risk_management.md), compliance management, audits, and more. (
+2. **MetricStream:** Provides GRC software solutions for [risk](../r/risk.md), compliance, audits, and policy management. (
+3. **SAP GRC:** Features applications for [risk management](../r/risk_management.md), access control, and regulatory change management. (
+4. **ServiceNow GRC:** This tool helps integrate [risk management](../r/risk_management.md), compliance, and audit processes. (
 
 ## Challenges in GRC
 Organizations may face several challenges in implementing effective GRC strategies:

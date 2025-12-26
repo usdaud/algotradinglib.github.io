@@ -62,7 +62,7 @@ Cryptocurrencies enable access to decentralized financial services such as lendi
 
 ### Growing Adoption and Institutional Interest
 
-Increased [interest](../i/interest.md) from institutional investors and companies like [PayPal](../p/paypal.md) (https://www.[paypal](../p/paypal.md).com) and Tesla (https://www.tesla.com) accepting cryptocurrency payments have boosted the legitimacy and recognition of cryptocurrencies.
+Increased [interest](../i/interest.md) from institutional investors and companies like [PayPal](../p/paypal.md) ( and Tesla ( accepting cryptocurrency payments have boosted the legitimacy and recognition of cryptocurrencies.
 
 ## Cons of Cryptocurrency Investment
 

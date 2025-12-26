@@ -43,7 +43,7 @@ The [real estate](../r/real_estate.md) [market](../m/market.md)'s dynamics can l
 For instance, during the COVID-19 pandemic, changes in housing [demand](../d/demand.md) significantly impacted OER measurements:
 
 1. **Remote Work**: The shift to remote work led to increased [demand](../d/demand.md) for suburban and rural residences, driving up [home](../h/home.md) prices and rents in those areas, which subsequently influenced OER calculations.
-   
+
 2. **Stimulus Measures**: [Economic stimulus](../e/economic_stimulus.md) measures, including [mortgage](../m/mortgage.md) [forbearance](../f/forbearance.md) and eviction moratoriums, affected rental markets and, by extension, OER.
 
 3. **[Supply Chain](../s/supply_chain.md) Disruptions**: These led to increased costs in building materials and labor, further influencing the prices of new and existing homes.

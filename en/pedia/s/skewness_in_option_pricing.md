@@ -10,9 +10,9 @@ In the context of [finance](../f/finance.md) and specifically [options](../o/opt
 #### Importance of Skewness in Options Pricing
 
 1. **[Risk Management](../r/risk_management.md)**: [Skewness](../s/skewness.md) helps in assessing the likelihood of extreme [market](../m/market.md) moves. For example, a negatively skewed [asset](../a/asset.md) indicates a higher [risk](../r/risk.md) of significant downward movements.
-  
+
 2. **[Volatility Skew](../v/volatility_skew.md)**: Traditional models like the Black-Scholes assume constant [volatility](../v/volatility.md), but [market](../m/market.md) observations reveal a smile or skew in implied [volatility](../v/volatility.md). This means implied [volatility](../v/volatility.md) varies with strike prices and expiration dates, often linked to the [skewness](../s/skewness.md) of the [asset](../a/asset.md) [return](../r/return.md) [distribution](../d/distribution.md).
-  
+
 3. **Strategy Selection**: Traders use [skewness](../s/skewness.md) to select appropriate [options](../o/options.md) strategies. For instance, strategies may differ when trading [options](../o/options.md) on assets with [positive skewness](../p/positive_skewness.md) versus those with [negative skewness](../n/negative_skewness.md).
 
 #### Measuring Skewness
@@ -20,24 +20,24 @@ In the context of [finance](../f/finance.md) and specifically [options](../o/opt
 There are several statistical measures to calculate [skewness](../s/skewness.md):
 
 - **Sample [Skewness](../s/skewness.md)**:
-  
-  \( \text{[Skewness](../s/skewness.md)} = \frac{n}{(n-1)(n-2)} \sum \left(\frac{x_i - \bar{x}}{s}\right)^3 \)
 
-  where \( x_i \) are the sample values, \( \bar{x} \) is the mean, \( s \) is the [standard deviation](../s/standard_deviation.md), and \( n \) is the sample size.
-  
+ \( \text{[Skewness](../s/skewness.md)} = \frac{n}{(n-1)(n-2)} \sum \left(\frac{x_i - \bar{x}}{s}\right)^3 \)
+
+ where \( x_i \) are the sample values, \( \bar{x} \) is the mean, \( s \) is the [standard deviation](../s/standard_deviation.md), and \( n \) is the sample size.
+
 - **Pearson’s First and Second Coefficients**:
-  
-  - First Coefficient of [Skewness](../s/skewness.md): \( \text{[Skewness](../s/skewness.md)} = \frac{\bar{x} - \text{[mode](../m/mode.md)}}{s} \)
-  - Second Coefficient of [Skewness](../s/skewness.md): \( \text{[Skewness](../s/skewness.md)} = 3 \left(\frac{\bar{x} - \text{[median](../m/median.md)}}{s}\right) \)
+
+ - First Coefficient of [Skewness](../s/skewness.md): \( \text{[Skewness](../s/skewness.md)} = \frac{\bar{x} - \text{[mode](../m/mode.md)}}{s} \)
+ - Second Coefficient of [Skewness](../s/skewness.md): \( \text{[Skewness](../s/skewness.md)} = 3 \left(\frac{\bar{x} - \text{[median](../m/median.md)}}{s}\right) \)
 
 #### Skewness in Implied Volatility
 
 **Implied [Volatility Skew](../v/volatility_skew.md)**:
-  
+
 Implied [volatility skew](../v/volatility_skew.md) refers to the pattern that emerges when plotting implied volatilities at various strike prices for a given [expiration date](../e/expiration_date.md). This “smile” or “smirk” often reflects the [skewness](../s/skewness.md) of the [underlying asset](../u/underlying_asset.md)'s [return](../r/return.md) [distribution](../d/distribution.md). For example:
 
 - **[Equity Options](../e/equity_options.md)**: Often show a "[volatility](../v/volatility.md) smirk," where out-of-the-[money](../m/money.md) [put options](../p/put_options.md) have higher implied volatilities compared to out-of-the-[money](../m/money.md) calls, reflecting a commonly observed negative skew in [equity](../e/equity.md) returns.
-  
+
 - **[Commodity Options](../c/commodity_options.md)**: May show a different skew pattern depending on the [commodity](../c/commodity.md), reflecting the balance of [supply](../s/supply.md) and [demand](../d/demand.md), among other factors.
 
 #### Models Incorporating Skewness
@@ -45,17 +45,17 @@ Implied [volatility skew](../v/volatility_skew.md) refers to the pattern that em
 Traditional Black-Scholes models are ill-equipped to [handle](../h/handle.md) [skewness](../s/skewness.md), leading to the development of advanced models:
 
 - **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: These models, like the [Heston model](../h/heston_model.md), allow [volatility](../v/volatility.md) to change over time and can incorporate [skewness in returns](../s/skewness_in_returns.md).
-  
-  - [Heston Model](../h/heston_model.md):
-  
-    \( dS_t = \mu S_t dt + \sqrt{\nu_t} S_t dW_t^1 \)
-    \( d\nu_t = \[kappa](../k/kappa.md)(\[theta](../t/theta.md) - \nu_t)dt + \sigma \sqrt{\nu_t} dW_t^2 \)
-  
+
+ - [Heston Model](../h/heston_model.md):
+
+ \( dS_t = \mu S_t dt + \sqrt{\nu_t} S_t dW_t^1 \)
+ \( d\nu_t = \[kappa](../k/kappa.md)(\[theta](../t/theta.md) - \nu_t)dt + \sigma \sqrt{\nu_t} dW_t^2 \)
+
 - **Jump-Diffusion Models**: Introduced by Merton, these models include sudden jumps in [asset](../a/asset.md) prices, capturing [skewness and kurtosis](../s/skewness_and_kurtosis.md).
-  
-  - Merton’s Jump-Diffusion:
-  
-    \( dS_t = \mu S_t dt + \sigma S_t dW_t + (J - 1)S_t dq_t \)
+
+ - Merton’s Jump-Diffusion:
+
+ \( dS_t = \mu S_t dt + \sigma S_t dW_t + (J - 1)S_t dq_t \)
 
 #### Practical Applications
 
@@ -69,4 +69,4 @@ Traditional Black-Scholes models are ill-equipped to [handle](../h/handle.md) [s
 
 [Skewness](../s/skewness.md) is a pivotal concept in the pricing of [options](../o/options.md) and the analysis of [risk](../r/risk.md). By understanding the direction and magnitude of [skewness](../s/skewness.md) in [asset](../a/asset.md) [return](../r/return.md) distributions, traders and [risk](../r/risk.md) managers can more accurately price [options](../o/options.md), select suitable [trading strategies](../t/trading_strategies.md), and manage [risk](../r/risk.md) more effectively. As markets continue to evolve, the importance of [skewness](../s/skewness.md) and its integration into pricing models and financial strategies is likely to grow, making it an indispensable tool in modern [finance](../f/finance.md).
 
-For more information on firms that provide tools and platforms for [options](../o/options.md) trading and [risk management](../r/risk_management.md), you can visit [Interactive Brokers](https://www.interactivebrokers.com), a comprehensive brokerage and trading [firm](../f/firm.md) with [robust](../r/robust.md) [options](../o/options.md) analysis tools. 
+For more information on firms that provide tools and platforms for [options](../o/options.md) trading and [risk management](../r/risk_management.md), you can visit Interactive Brokers, a comprehensive brokerage and trading [firm](../f/firm.md) with [robust](../r/robust.md) [options](../o/options.md) analysis tools.

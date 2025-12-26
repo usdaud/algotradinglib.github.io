@@ -67,7 +67,7 @@
 [Index investing](../i/index_investing.md) aims to replicate the performance of a [market index](../m/market_index.md), like the S&P 500. This passive [investment strategy](../i/investment_strategy.md) relies on [diversification benefits](../d/diversification_benefits.md) and lower costs.
 
 - **Key Indicators**: [Index](../i/index_instrument.md) [performance metrics](../p/performance_metrics.md) like returns, [volatility](../v/volatility.md).
-- **Notable Practitioners**: [John Bogle](../j/john_bogle.md), founder of Vanguard Group (https://[investor](../i/investor.md).vanguard.com).
+- **Notable Practitioners**: [John Bogle](../j/john_bogle.md), founder of Vanguard Group (
 - **Example**: [Investing](../i/investing.md) in the entire [market](../m/market.md) through [index](../i/index_instrument.md) mutual funds or ETFs.
 
 ### Tools and Techniques
@@ -79,7 +79,7 @@
 [Sector rotation](../s/sector_rotation.md) involves shifting investment focus across different sectors of the [economy](../e/economy.md) based on macroeconomic trends. This strategy seeks to [capitalize](../c/capitalize.md) on the [business cycle](../b/business_cycle.md) phases where certain sectors [outperform](../o/outperform.md).
 
 - **Key Indicators**: [Economic Indicators](../e/economic_indicators.md) (GDP growth rate, [unemployment](../u/unemployment.md) rates), Sector-specific metrics.
-- **Notable Practitioners**: [Fidelity Investments](../f/fidelity_investments.md) (https://www.fidelity.com).
+- **Notable Practitioners**: [Fidelity Investments](../f/fidelity_investments.md) (
 - **Example**: [Investing](../i/investing.md) in [consumer staples](../c/consumer_staples.md) during economic downturns, technology during growth phases.
 
 ### Tools and Techniques
@@ -91,8 +91,7 @@
 Small-cap [investing](../i/investing.md) involves [investing](../i/investing.md) in companies with a smaller [market capitalization](../m/market_capitalization.md). These [stocks](../s/stock.md) are generally seen as higher [risk](../r/risk.md) but with the potential for higher returns.
 
 - **Key Indicators**: [Market Capitalization](../m/market_capitalization.md), Price-to-[Earnings](../e/earnings.md)-to-Growth (PEG) Ratio.
-- **Notable Practitioners**: Institutions like T. Rowe Price (https://www.troweprice.com).
-- **Example**: Focusing on emerging companies with strong growth potential or innovative products.
+- **Notable Practitioners**: Institutions like T. Rowe Price - **Example**: Focusing on emerging companies with strong growth potential or innovative products.
 
 ### Tools and Techniques
 - **[Market](../m/market.md) Cap Analysis**: Compares companies based on their [market capitalization](../m/market_capitalization.md).
@@ -103,8 +102,7 @@ Small-cap [investing](../i/investing.md) involves [investing](../i/investing.md)
 [International investing](../i/international_investing.md) seeks opportunities outside of the [investor](../i/investor.md)'s [home](../h/home.md) country, diversifying the portfolio both geographically and sectorally.
 
 - **Key Indicators**: [Exchange](../e/exchange.md) Rates, Country [Risk](../r/risk.md) Ratings, Global [Economic Indicators](../e/economic_indicators.md).
-- **Notable Practitioners**: Templeton Emerging Markets Group (https://www.franklintempleton.com).
-- **Example**: [Investing](../i/investing.md) in emerging markets with high growth potential.
+- **Notable Practitioners**: Templeton Emerging Markets Group - **Example**: [Investing](../i/investing.md) in emerging markets with high growth potential.
 
 ### Tools and Techniques
 - **[Currency](../c/currency.md) [Risk Management](../r/risk_management.md)**: Utilizes [hedging strategies](../h/hedging_strategies.md) to mitigate [foreign exchange risk](../f/foreign_exchange_risk.md).

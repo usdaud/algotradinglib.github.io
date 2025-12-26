@@ -40,19 +40,15 @@ VAN services can be easily scaled, allowing businesses to grow without the need 
 ## Key Players in the VAN Market
 ### 1. **OpenText**
 OpenText provides enterprise information management software and VAN services to help businesses securely share electronic [business](../b/business.md) documents.
-[OpenText](https://www.opentext.com/)
 
 ### 2. **IBM Sterling**
 IBM Sterling Secure Collaboration enables businesses to [exchange](../e/exchange.md) critical [business](../b/business.md) documents securely via a VAN service.
-[IBM Sterling](https://www.ibm.com/sterling)
 
 ### 3. **TrueCommerce**
 TrueCommerce offers integrated EDI and VAN solutions designed to support businesses in managing their [supply chain](../s/supply_chain.md) electronically.
-[TrueCommerce](https://www.truecommerce.com/)
 
 ### 4. **Kleinschmidt**
 Kleinschmidt provides cloud-based VAN services focusing on the [logistics](../l/logistics.md) and transportation sectors, ensuring efficient document [exchange](../e/exchange.md).
-[Kleinschmidt](https://www.kleinschmidt.com/)
 
 ## VAN Architecture
 ### **1. User Interface**

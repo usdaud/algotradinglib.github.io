@@ -64,17 +64,14 @@ In live trading environments, algorithms continuously compute [z-scores](../z/z-
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management, one of the leading quantitative investment firms, employs advanced statistical models, including [z-score](../z/z-score.md) models, in its [trading strategies](../t/trading_strategies.md). With a focus on quantifiable metrics and data-driven decisions, AQR has successfully integrated [z-score analysis](../z/z-score_analysis.md) into various aspects of its trading operations.
-[Learn more about AQR Capital Management](https://www.aqr.com)
 
 ### Renaissance Technologies
 
 Renaissance Technologies is another prominent name in [quantitative finance](../q/quantitative_finance.md). The [firm](../f/firm.md) uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including [z-score](../z/z-score.md) models, to identify and exploit [market](../m/market.md) inefficiencies. Renaissance's Medallion [Fund](../f/fund.md), known for its exceptional returns, leverages [z-score](../z/z-score.md) models as part of a broader suite of statistical tools.
-[Learn more about Renaissance Technologies](https://www.rentec.com)
 
 ### Two Sigma
 
 Two Sigma, a [hedge fund](../h/hedge_fund.md) that harnesses the power of [data science](../d/data_science_in_trading.md) and technology, utilizes [z-score](../z/z-score.md) models in its [algorithmic trading](../a/algorithmic_trading.md) strategies. By applying these models, Two Sigma aims to discover patterns and predict [market](../m/market.md) behaviors effectively.
-[Learn more about Two Sigma](https://www.twosigma.com)
 
 ## Challenges and Limitations
 

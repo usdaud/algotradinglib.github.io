@@ -2,6 +2,8 @@
 
 A zero-coupon [yield curve](../y/yield_curve.md), also known as a zero-coupon curve or spot curve, represents the yields of zero-coupon bonds across different maturities. Unlike traditional bonds, zero-coupon bonds do not pay periodic [interest](../i/interest.md); instead, they are sold at a [discount](../d/discount.md) and mature at their [face value](../f/face_value.md). This characteristic makes the zero-coupon [yield curve](../y/yield_curve.md) a fundamental tool in the analysis and [valuation](../v/valuation.md) of financial instruments and the management of [interest rate risk](../i/interest_rate_risk.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Importance in Finance
 
 Understanding the zero-coupon [yield curve](../y/yield_curve.md) is crucial for several reasons:
@@ -89,5 +91,4 @@ The [U.S. Treasury](../u/u.s._treasury.md) zero-coupon [yield curve](../y/yield_
 
 The zero-coupon [yield curve](../y/yield_curve.md) is a cornerstone of modern [financial analysis](../f/financial_analysis.md) and [risk management](../r/risk_management.md). Its accurate construction and interpretation are essential for valuing fixed-[income](../i/income.md) securities, managing [interest rate risk](../i/interest_rate_risk.md), and understanding [market](../m/market.md) expectations. Various methodologies, including bootstrapping, spline [interpolation](../i/interpolation.md), and parametric models, [offer](../o/offer.md) flexibility in building and utilizing the [yield curve](../y/yield_curve.md) to meet diverse financial needs. As [financial markets](../f/financial_market.md) evolve, the zero-coupon [yield curve](../y/yield_curve.md) [will](../w/will.md) continue to play a pivotal role in shaping investment strategies and economic insights.
 
-For more information on the zero-coupon [yield curve](../y/yield_curve.md) and its applications, visit [U.S. Treasury's official website](https://home.treasury.gov/).
-
+For more information on the zero-coupon [yield curve](../y/yield_curve.md) and its applications, visit U.S. Treasury's

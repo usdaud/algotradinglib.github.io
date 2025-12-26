@@ -94,13 +94,13 @@ Maintaining transparent communication with donors is vital for ensuring their co
 
 Harvard University manages one of the largest [endowment](../e/endowment.md) funds in the world using a unitized approach. Harvard Management Company (HMC) oversees the [endowment](../e/endowment.md), with a focus on diversifying investments across various [asset](../a/asset.md) classes, including equities, [fixed income](../f/fixed_income.md), [real estate](../r/real_estate.md), and alternative investments. The unitized structure allows for efficient management and equitable [distribution](../d/distribution.md) of returns across the numerous individual funds within the [endowment](../e/endowment.md).
 
-**Link:** [Harvard Management Company](https://www.hmc.harvard.edu/)
+**Link:** Harvard Management Company
 
 ### Yale University
 
 Yale University employs a similar model for its [endowment](../e/endowment.md), which is also among the largest globally. The Yale [Endowment](../e/endowment.md), managed by the Yale Investments Office, follows an innovative [investment strategy](../i/investment_strategy.md) pioneered by David Swensen. This strategy emphasizes [diversification](../d/diversification.md), alternative investments, and a long-term focus, all facilitated by the unitized [endowment](../e/endowment.md) pool structure.
 
-**Link:** [Yale Investments Office](https://investments.yale.edu/)
+**Link:** Yale Investments Office
 
 ## Conclusion
 

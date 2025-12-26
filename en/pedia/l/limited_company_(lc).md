@@ -86,10 +86,7 @@ Limited companies are subject to [corporate tax](../c/corporate_tax.md) on their
 
 Several well-known companies operate as limited companies, including:
 
-- **Coca-Cola Company**: [www.coca-colacompany.com](https://www.coca-colacompany.com)
-- **Apple Inc.**: [www.apple.com](https://www.apple.com)
-- **Microsoft [Corporation](../c/corporation.md)**: [www.microsoft.com](https://www.microsoft.com)
-
+- **Coca-Cola Company**- **Apple Inc.**- **Microsoft [Corporation](../c/corporation.md)**
 These companies illustrate the potential for growth and success within the limited company structure.
 
 ## Conclusion

@@ -5,12 +5,12 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md) and [investin
 ### Key Features of GTC Orders
 
 1. **[Duration](../d/duration.md)**: GTC orders remain in effect until the [order](../o/order.md) is completed or manually canceled. This can be particularly advantageous for long-term investors or traders who have a specific [price target](../p/price_target.md) in mind and are not concerned with the timing of the [trade](../t/trade.md).
-   
+
 2. **Flexibility**: By using GTC orders, traders do not need to constantly monitor their positions or re-enter orders each day. This can help in reducing the hassle and administrative burden.
-   
+
 3. **[Execution](../e/execution.md)**: GTC orders [will](../w/will.md) be executed at the provided limit price or better. This ensures that traders are not forced to accept less favorable prices.
 
-### Practical Application 
+### Practical Application
 
 #### Example Scenario
 
@@ -19,36 +19,36 @@ Imagine an [investor](../i/investor.md) who believes that a particular stock, sa
 ### Advantages of GTC Orders
 
 1. **Reduced Oversight Requirement**: Traders do not need to daily watch their orders or continually re-enter them.
-   
+
 2. **Strategic Planning**: Investors can set long-term strategy with GTC orders, targeting specific price levels based on analysis without worrying about short-term fluctuations.
-   
+
 3. **Easier Long-Term Investment**: For long term investors who are focused on purchasing securities at particular price points, this provides an efficient mechanism to achieve their goals without daily intervention.
 
 ### Disadvantages of GTC Orders
 
 1. **Potential for being Overlooked**: As the [order](../o/order.md) remains active indefinitely, it could be forgotten, leading to unexpected trades days, months, or even years after being placed.
-   
+
 2. **[Market](../m/market.md) Changes**: Over time, [market](../m/market.md) conditions can change, and the price point deemed favorable at the time of placing the GTC [order](../o/order.md) may no longer be relevant.
 
 ### Comparing with Other Order Types
 
 1. **Day Orders**: These orders expire at the end of the trading day if not filled. They need frequent reassessment and [order](../o/order.md) placement but are more suitable for daily trading tactics.
-   
+
 2. **Fill or [Kill](../k/kill.md) (FOK)**: These orders must be executed immediately in their entirety or canceled. They are suited for traders needing instant [execution](../e/execution.md) without compromise.
-   
-3. **Immediate or Cancel (IOC)**: These orders are similar to FOK but allow partial fills with the remainder being canceled. 
+
+3. **Immediate or Cancel (IOC)**: These orders are similar to FOK but allow partial fills with the remainder being canceled.
 
 ### Broker and Exchange Regulations
 
-Different brokers and exchanges may have varied rules regarding GTC orders, including maximum durations. Some institutions may limit a GTC [order](../o/order.md) to 30 to 90 days due to regulatory considerations or internal policies. 
+Different brokers and exchanges may have varied rules regarding GTC orders, including maximum durations. Some institutions may limit a GTC [order](../o/order.md) to 30 to 90 days due to regulatory considerations or internal policies.
 
 #### Notable Brokers Offering GTC Orders
 
-1. **[Interactive Brokers](../i/interactive_brokers.md)**: A leading brokerage [firm](../f/firm.md) that supports a wide [range](../r/range.md) of [order types](../o/order_types_in_trading.md), including GTC orders with detailed setups. More information can be found on their [official website](https://www.interactivebrokers.com).
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: A leading brokerage [firm](../f/firm.md) that supports a wide [range](../r/range.md) of [order types](../o/order_types_in_trading.md), including GTC orders with detailed setups.
 
-2. **TD [Ameritrade](../a/ameritrade.md)**: This brokerage provides GTC orders, allowing investors the flexibility to maintain [open](../o/open.md) orders over significant periods. Detailed information can be found on their [official page](https://www.tdameritrade.com).
+2. **TD [Ameritrade](../a/ameritrade.md)**: This brokerage provides GTC orders, allowing investors the flexibility to maintain [open](../o/open.md) orders over significant periods. Detailed information can be found on their public materials.
 
-3. **[E*TRADE](../e/e_trade.md)**: Known for a user-friendly platform, [E*TRADE](../e/e_trade.md) offers GTC [order](../o/order.md) [options](../o/options.md) catering to both novice and experienced investors. Further details can be found on their site [here](https://us.etrade.com).
+3. **[E*TRADE](../e/e_trade.md)**: Known for a user-friendly platform, [E*TRADE](../e/e_trade.md) offers GTC [order](../o/order.md) [options](../o/options.md) catering to both novice and experienced investors. Further
 
 ### Algorithmic Trading and GTC Orders
 

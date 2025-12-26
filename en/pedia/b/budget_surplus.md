@@ -11,10 +11,10 @@ In the context of government finances, a [budget](../b/budget.md) [surplus](../s
 - **[Debt](../d/debt.md) Reduction:** One of the primary uses of a [budget](../b/budget.md) [surplus](../s/surplus.md) is to reduce the national [debt](../d/debt.md). By paying down existing [debt](../d/debt.md), governments can decrease future [interest](../i/interest.md) payments, freeing up resources for other uses.
 - **Economic Stability:** A [surplus](../s/surplus.md) can contribute to economic stability by providing a buffer against economic downturns. It allows the government to support the [economy](../e/economy.md) through spending initiatives during recessionary periods.
 - **Improved [Credit Rating](../c/credit_rating.md):** A consistent [budget](../b/budget.md) [surplus](../s/surplus.md) can enhance a nation's [credit rating](../c/credit_rating.md), making it easier and cheaper to borrow in the future. Higher [credit](../c/credit.md) ratings lower the cost of borrowing for the government.
-  
+
 ### Case Example: Norway
 Norway is known for its consistent [budget](../b/budget.md) surpluses, largely due to revenues from its [petroleum](../p/petroleum.md) sector. The Norwegian government deposits [surplus](../s/surplus.md) revenues into the Government Pension [Fund](../f/fund.md) Global, commonly known as the Oil [Fund](../f/fund.md). This sovereign [wealth](../w/wealth.md) [fund](../f/fund.md) is among the largest in the world, providing long-term financial stability.
-- [Government Pension Fund Global](https://www.nbim.no/en/)
+- Government Pension Fund Global
 
 ## Corporate Budget Surplus
 
@@ -28,7 +28,7 @@ In the corporate world, a [budget](../b/budget.md) [surplus](../s/surplus.md) oc
 
 ### Case Example: Apple Inc.
 Apple Inc. regularly posts substantial [budget](../b/budget.md) surpluses, thanks to its high revenues and efficient cost management. The company uses its [surplus](../s/surplus.md) to invest in research and development, pay dividends, and execute [share buybacks](../s/share_buybacks.md).
-- [Apple Inc.](https://www.apple.com/)
+- Apple Inc.
 
 ## Individual Budget Surplus
 
@@ -42,8 +42,8 @@ On a personal level, a [budget](../b/budget.md) [surplus](../s/surplus.md) happe
 
 ### Practical Tools and Services for Managing Surplus
 [Personal finance](../p/personal_finance_in_trading.md) tools and services can help individuals manage their [budget](../b/budget.md) [surplus](../s/surplus.md) efficiently. Some popular tools include budgeting apps and investment platforms like Mint and Betterment.
-- [Mint](https://www.mint.com/)
-- [Betterment](https://www.betterment.com/)
+- Mint
+- Betterment
 
 ## Economic Perspectives on Budget Surplus
 

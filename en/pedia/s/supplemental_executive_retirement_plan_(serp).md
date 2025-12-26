@@ -45,9 +45,9 @@ Though less regulated than qualified plans, SERPs still must navigate various fe
 
 Several large corporations [offer](../o/offer.md) SERP as a part of their executive compensation packages. Here are a few examples:
 
-- **GE**: General Electric provides SERP to its senior executives as part of their overall retirement benefits package. More information can be found on [GE’s official website](https://www.ge.com/).
-- **IBM**: IBM offers a SERP to its high-ranking executives, which is designed to supplement their retirement [income](../i/income.md). Details are available on [IBM’s official website](https://www.ibm.com/).
-- **AT&T**: AT&T provides a comprehensive SERP to retain and reward its senior management team. Additional information can be accessed on [AT&T’s official website](https://www.att.com/).
+- **GE**: General Electric provides SERP to its senior executives as part of their overall retirement benefits package.
+- **IBM**: IBM offers a SERP to its high-ranking executives, which is designed to supplement their retirement [income](../i/income.md).
+- **AT&T**: AT&T provides a comprehensive SERP to retain and reward its senior management team.
 
 ## Conclusion
 

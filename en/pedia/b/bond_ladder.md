@@ -54,9 +54,9 @@ The [bond](../b/bond.md) ladder strategy helps mitigate the impact of [interest 
 
 Several financial institutions and platforms [offer](../o/offer.md) tools to help investors build and manage [bond](../b/bond.md) ladders. Notable among them are:
 
-- **Fidelity**: [Fidelity's Bond Ladder Tool](https://www.fidelity.com/fixed-income-bonds/investing-tools/bond-ladders) provides resources to create customized [bond](../b/bond.md) ladders.
-- **Vanguard**: Vanguard offers resources and account services for managing [bond](../b/bond.md) ladders through their [Vanguard Bond Ladder](https://investor.vanguard.com/investor-resources-education/article/top-5-benefits-of-bond-ladders) page.
-- **[Charles Schwab](../c/charles_schwab.md)**: Schwab provides extensive information on [bond](../b/bond.md) ladder strategies on their [bond investments page](https://www.schwab.com/fixed-income).
+- **Fidelity**: Fidelity's Bond Ladder Tool provides resources to create customized [bond](../b/bond.md) ladders.
+- **Vanguard**: Vanguard offers resources and account services for managing [bond](../b/bond.md) ladders through their Vanguard Bond Ladder page.
+- **[Charles Schwab](../c/charles_schwab.md)**: Schwab provides extensive information on [bond](../b/bond.md) ladder strategies on their bond investments page.
 
 ### Key Considerations
 

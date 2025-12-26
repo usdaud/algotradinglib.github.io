@@ -4,7 +4,7 @@ Attribution analysis is a sophisticated method used in the field of [finance](..
 
 ## Theory Behind Attribution Analysis
 
-Attribution analysis is fundamentally rooted in the theory of [portfolio management](../p/par.md) and performance measurement. The primary aim is to discern the sources of portfolio returns and to determine whether those returns are derived from skill or luck. 
+Attribution analysis is fundamentally rooted in the theory of [portfolio management](../p/par.md) and performance measurement. The primary aim is to discern the sources of portfolio returns and to determine whether those returns are derived from skill or luck.
 
 The basic model for [return attribution](../r/return_attribution.md) can be formulated as follows:
 
@@ -39,7 +39,7 @@ This type places emphasis on understanding the impact of different macroeconomic
 2. **Size and [Value](../v/value.md) Factors**: Matters like small-cap vs. large-cap and [value](../v/value.md) vs. [growth stocks](../g/growth_stocks.md).
 3. **Sector-Specific Factors**: Impact of being [overweight](../o/overweight.md) or [underweight](../u/underweight.md) in specific economic sectors.
 
-\[ R_{pt} = \alpha_p + \beta_1 F_{1t} + \beta_2 F_{2t} + ... + \epsilon_t \]
+\[ R_{pt} = \alpha_p + \beta_1 F_{1t} + \beta_2 F_{2t} +... + \epsilon_t \]
 
 Where:
 - \( R_{pt} \) is portfolio [return](../r/return.md) at time t
@@ -100,10 +100,10 @@ Attribution analysis is widely used by [fund](../f/fund.md) managers, financial 
 
 ### Leading Companies and Resources
 
-- **[Morningstar](../m/morningstar.md), Inc.**: A leading provider of independent investment research. [Morningstar](https://www.morningstar.com/company)
-- **[FactSet](../f/factset.md)**: A provider of integrated financial information and analytical applications. [FactSet](https://www.factset.com/)
-- **[Bloomberg](../b/bloomberg.md)**: A global provider of [finance](../f/finance.md) news and information, including detailed analytics tools. [Bloomberg](https://www.bloomberg.com/professional/solution/portfolio-performance-attribution/)
-- **StatPro**: Specializes in cloud-based portfolio analytics and [performance attribution](../p/performance_attribution.md). [StatPro](https://www.statpro.com/)
+- **[Morningstar](../m/morningstar.md), Inc.**: A leading provider of independent investment research. Morningstar
+- **[FactSet](../f/factset.md)**: A provider of integrated financial information and analytical applications. FactSet
+- **[Bloomberg](../b/bloomberg.md)**: A global provider of [finance](../f/finance.md) news and information, including detailed analytics tools. Bloomberg
+- **StatPro**: Specializes in cloud-based portfolio analytics and [performance attribution](../p/performance_attribution.md). StatPro
 
 ## Conclusion
 

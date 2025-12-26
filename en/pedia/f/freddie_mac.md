@@ -49,4 +49,4 @@ Freddie Mac maintains [transparency](../t/transparency.md) and ethical practices
 ## Conclusion
 Freddie Mac plays a crucial role in the U.S. housing [finance](../f/finance.md) system by ensuring a steady flow of [capital](../c/capital.md) to [mortgage](../m/mortgage.md) lenders, promoting stability in the housing [market](../m/market.md), and supporting affordable housing initiatives. Despite challenges such as the 2008 [financial crisis](../f/financial_crisis.md), Freddie Mac has adapted and continues to innovate, ensuring it meets its mission to provide [liquidity](../l/liquidity.md), stability, and affordability to the housing [market](../m/market.md).
 
-For more detailed information, you can visit Freddie Mac's official website: [Freddie Mac](http://www.freddiemac.com).
+For more detailed information,

@@ -6,7 +6,7 @@ A 10-minute chart in the context of [algorithmic trading](../a/algorithmic_tradi
 
 ### Candlestick Chart
 
-A predominant form of the 10-minute chart is the [candlestick](../c/candlestick.md) chart. Each [candlestick](../c/candlestick.md) represents a 10-minute interval and captures four essential pieces of data: [Open](../o/open.md), High, Low, and Close (OHLC). 
+A predominant form of the 10-minute chart is the [candlestick](../c/candlestick.md) chart. Each [candlestick](../c/candlestick.md) represents a 10-minute interval and captures four essential pieces of data: [Open](../o/open.md), High, Low, and Close (OHLC).
 
 - **[Open](../o/open.md)**: The price at which the [asset](../a/asset.md) started trading at the beginning of the 10-minute period.
 - **High**: The highest price traded within the 10-minute window.
@@ -69,25 +69,21 @@ Several trading platforms support the use of 10-minute charts, providing tools a
 
 [TradingView](../t/tradingview.md) is a popular charting platform that offers interactive charts, including 10-minute intervals, and supports integration with various [brokerage services](../b/brokerage_services.md) for [algorithmic trading](../a/algorithmic_trading.md).
 
-[TradingView](https://www.tradingview.com)
 
 ### MetaTrader
 
 MetaTrader is another widely used [trading platform](../t/trading_platform.md). It supports custom time intervals, including 10-minute charts, and offers numerous indicators and automated trading possibilities through its MQL programming language.
 
-[MetaTrader](https://www.metatrader4.com)
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) is geared towards active traders and provides advanced charting and analysis tools, including 10-minute charts. It also supports a [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) [options](../o/options.md) through NinjaScript.
 
-[NinjaTrader](https://www.ninjatrader.com)
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports 10-minute charts through its extensive quant framework. It allows traders to backtest and deploy strategies leveraging historical data.
+[StockSharp](../s/stocksharp.md) offers a [algorithmic trading](../a/algorithmic_trading.md) platform that supports 10-minute charts through its extensive quant framework. It allows traders to backtest and deploy strategies leveraging historical data.
 
-[QuantConnect](https://www.quantconnect.com)
 
 ## Risks and Considerations
 
@@ -108,4 +104,3 @@ For [algorithmic trading](../a/algorithmic_trading.md), latency—the delay betw
 ## Conclusion
 
 A 10-minute chart is a potent tool for both manual and algorithmic traders, [offering](../o/offering.md) a blend of short-term insight and strategic flexibility. It plays a crucial role in various [trading strategies](../t/trading_strategies.md), from [mean reversion](../m/mean_reversion.md) and [trend following](../t/trend_following.md) to [event-driven trading](../e/event-driven_trading.md). However, traders must be mindful of inherent risks such as [noise](../n/noise.md) and [overfitting](../o/overfitting.md) and implement [robust](../r/robust.md) [risk management](../r/risk_management.md) practices to harness its full potential.
-

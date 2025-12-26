@@ -68,17 +68,13 @@ The majority of [corporate bond](../c/corporate_bond.md) trading occurs in [over
 Technological advancements have led to the emergence of electronic trading platforms, such as [MarketAxess](../m/marketaxess.md) and Tradeweb, which provide greater [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in the [bond market](../b/bond_market.md). These platforms allow [market](../m/market.md) participants to execute trades electronically.
 
 #### References
-- [MarketAxess](../m/marketaxess.md): [https://www.marketaxess.com/](https://www.marketaxess.com/)
-- Tradeweb: [https://www.tradeweb.com/](https://www.tradeweb.com/)
-
+- [MarketAxess](../m/marketaxess.md)- Tradeweb
 ### 3. **Fixed Income Exchanges**
 
 Some corporate bonds are traded on centralized exchanges like the NYSE [Bond](../b/bond.md) platform and the TRACE ([Trade](../t/trade.md) Reporting and Compliance Engine) system, which enhance [market](../m/market.md) [transparency](../t/transparency.md) and regulatory oversight.
 
 #### References
-- NYSE [Bond](../b/bond.md): [https://www.nyse.com/bonds](https://www.nyse.com/bonds)
-- TRACE: [https://www.finra.org/trace](https://www.finra.org/trace)
-
+- NYSE [Bond](../b/bond.md)- TRACE
 ## Regulatory Environment
 
 [Corporate bond](../c/corporate_bond.md) trading is subject to stringent regulatory oversight to ensure [market](../m/market.md) integrity and protect investors.
@@ -88,23 +84,19 @@ Some corporate bonds are traded on centralized exchanges like the NYSE [Bond](..
 In the United States, the SEC oversees [corporate bond](../c/corporate_bond.md) markets, ensuring compliance with securities laws and regulations.
 
 #### References
-- SEC: [https://www.sec.gov/](https://www.sec.gov/)
-
+- SEC
 ### 2. **Financial Industry Regulatory Authority (FINRA)**
 
 [FINRA](../f/finra.md) regulates [broker](../b/broker.md)-dealers and oversees activities in the [corporate bond](../c/corporate_bond.md) [market](../m/market.md) to ensure fair and transparent trading practices.
 
 #### References
-- [FINRA](../f/finra.md): [https://www.finra.org/](https://www.finra.org/)
-
+- [FINRA](../f/finra.md)
 ### 3. **International Regulatory Bodies**
 
 Various international bodies, such as the European Securities and Markets Authority (ESMA) in Europe and the Financial Conduct Authority (FCA) in the UK, play pivotal roles in regulating [corporate bond](../c/corporate_bond.md) markets globally.
 
 #### References
-- ESMA: [https://www.esma.europa.eu/](https://www.esma.europa.eu/)
-- FCA: [https://www.fca.org.uk/](https://www.fca.org.uk/)
-
+- ESMA- FCA
 ## Techniques and Strategies in Corporate Bond Trading
 
 ### 1. **Fundamental Analysis**

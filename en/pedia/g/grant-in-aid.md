@@ -2,7 +2,7 @@
 
 [Grant](../g/grant.md)-in-Aid refers to funding provided by a government or other organization for a specific purpose, usually research or education. These grants are designed to promote and support the initiative or project for which they are granted, often with stipulations regarding how the funds should be used and how the progress of the project must be reported.
 
-## Types of Grant-in-Aid 
+## Types of Grant-in-Aid
 
 ### Project-Specific Grants
 Project-specific grants are reserved for particular projects. These grants usually come with predefined objectives and milestones. Recipients must use the funds exclusively for the project outlined in their application and typically need to meet specific reporting requirements to demonstrate progress and proper [fund](../f/fund.md) utilization.
@@ -61,19 +61,19 @@ Upon project completion, a comprehensive final report is usually required. This 
 ## Examples of Grant-in-Aid Organizations
 
 ### National Institutes of Health (NIH)
-The NIH is a major provider of research grants, primarily in the health and medical fields. [NIH Grants](https://grants.nih.gov/)
+The NIH is a major provider of research grants, primarily in the health and medical fields. NIH Grants
 
 ### National Science Foundation (NSF)
-The NSF offers grants for research and education in science and engineering. [NSF Grants](https://www.nsf.gov/funding/)
+The NSF offers grants for research and education in science and engineering. NSF Grants
 
 ### European Research Council (ERC)
-The ERC provides [grant](../g/grant.md) funding for pioneering research across Europe. [ERC Grants](https://erc.europa.eu/)
+The ERC provides [grant](../g/grant.md) funding for pioneering research across Europe. ERC Grants
 
 ### Bill & Melinda Gates Foundation
-This foundation funds initiatives in global health, development, and education. [Gates Foundation Grants](https://www.gatesfoundation.org/grants)
+This foundation funds initiatives in global health, development, and education. Gates Foundation Grants
 
 ### Horizon Europe
-Horizon Europe is the [European Union](../e/european_union_(eu).md)’s key funding program for research and innovation. [Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)
+Horizon Europe is the [European Union](../e/european_union_(eu).md)’s key funding program for research and innovation. Horizon Europe
 
 ## Importance of Grant-in-Aid
 

@@ -11,7 +11,7 @@ Key levels in trading are specific price points on a price chart that mark signi
 There are several types of key levels in trading, each providing unique insights into [market](../m/market.md) behavior. These include:
 
 ### 1. Psychological Levels
-[Psychological levels](../p/psychological_levels_in_trading.md) are price points that traders and investors naturally gravitate towards because they are rounded numbers, such as $50, $100, $1000, etc. 
+[Psychological levels](../p/psychological_levels_in_trading.md) are price points that traders and investors naturally gravitate towards because they are rounded numbers, such as $50, $100, $1000, etc.
 
 ### 2. Historical Price Levels
 Historical price levels refer to previous highs and lows that have acted as support or resistance in the past. These levels are significant because they are based on past [price action](../p/price_action.md) and are often watched by many traders.
@@ -23,7 +23,7 @@ Historical price levels refer to previous highs and lows that have acted as supp
 These levels are based on the Fibonacci sequence and are used to identify potential [reversal](../r/reversal.md) points by measuring the distance between two extreme points (usually a major peak and [trough](../t/trough.md)) and dividing the vertical distance by key Fibonacci ratios (23.6%, 38.2%, 50%, 61.8%, and 100%).
 
 ### 5. Moving Averages
-Moving averages, particularly longer-period averages like the 50, 100, or 200-day moving averages, can serve as dynamic support or resistance levels. 
+Moving averages, particularly longer-period averages like the 50, 100, or 200-day moving averages, can serve as dynamic support or resistance levels.
 
 ## Identification Methods
 

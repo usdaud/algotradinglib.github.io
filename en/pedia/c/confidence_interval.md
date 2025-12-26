@@ -18,14 +18,14 @@ The general form of a confidence interval for a population mean is given by:
 
 1. **Point Estimate** (\(\bar{x}\)):
 \[ \bar{x} = \frac{\sum_{i=1}^{n} x_i}{n} \]
-   where \(\bar{x}\) is the sample mean and \(n\) is the number of observations.
+ where \(\bar{x}\) is the sample mean and \(n\) is the number of observations.
 
 2. **[Standard Error](../s/standard_error.md) (SE)**:
 \[ SE = \frac{\sigma}{\sqrt{n}} \]
-   where \(\sigma\) is the [standard deviation](../s/standard_deviation.md) of the population. If \(\sigma\) is unknown, it can be estimated using the sample [standard deviation](../s/standard_deviation.md) \(s\).
+ where \(\sigma\) is the [standard deviation](../s/standard_deviation.md) of the population. If \(\sigma\) is unknown, it can be estimated using the sample [standard deviation](../s/standard_deviation.md) \(s\).
 
-3. **Critical [Value](../v/value.md) (Z or T [value](../v/value.md))**: 
-   This [value](../v/value.md) depends on the confidence level and the [underlying](../u/underlying.md) [distribution](../d/distribution.md) of the data. For example, for a 95% confidence level, the critical [value](../v/value.md) from the standard [normal distribution](../n/normal_distribution_in_trading.md) (Z) is approximately 1.96. For smaller sample sizes, the t-[distribution](../d/distribution.md) is often used.
+3. **Critical [Value](../v/value.md) (Z or T [value](../v/value.md))**:
+ This [value](../v/value.md) depends on the confidence level and the [underlying](../u/underlying.md) [distribution](../d/distribution.md) of the data. For example, for a 95% confidence level, the critical [value](../v/value.md) from the standard [normal distribution](../n/normal_distribution_in_trading.md) (Z) is approximately 1.96. For smaller sample sizes, the t-[distribution](../d/distribution.md) is often used.
 
 ### Interpretation
 

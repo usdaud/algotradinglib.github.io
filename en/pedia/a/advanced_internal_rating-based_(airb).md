@@ -54,9 +54,9 @@ The Standardized Approach, which is another method allowed under [Basel II](../b
 
 Several major banks around the world have adopted the AIRB approach, leveraging their substantial resources to develop and maintain advanced [risk management systems](../r/risk_management_systems.md). Examples include:
 
-- **HSBC:** As one of the largest banks globally, HSBC employs the AIRB approach across its operations to ensure accurate [capital](../c/capital.md) adequacy and [risk management](../r/risk_management.md). [HSBC](https://www.hsbc.com)
-- **JPMorgan Chase:** This leading US [bank](../b/bank.md) uses the AIRB approach to manage its extensive portfolio of [credit](../c/credit.md) exposures, reflecting its commitment to [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. [JPMorgan Chase](https://www.jpmorganchase.com)
-- **Deutsche [Bank](../b/bank.md):** This global banking [firm](../f/firm.md) has implemented the AIRB approach to optimize its [capital](../c/capital.md) requirements in line with its sophisticated [risk management frameworks](../r/risk_management_frameworks.md). [Deutsche Bank](https://www.db.com)
+- **HSBC:** As one of the largest banks globally, HSBC employs the AIRB approach across its operations to ensure accurate [capital](../c/capital.md) adequacy and [risk management](../r/risk_management.md). HSBC
+- **JPMorgan Chase:** This leading US [bank](../b/bank.md) uses the AIRB approach to manage its extensive portfolio of [credit](../c/credit.md) exposures, reflecting its commitment to [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. JPMorgan Chase
+- **Deutsche [Bank](../b/bank.md):** This global banking [firm](../f/firm.md) has implemented the AIRB approach to optimize its [capital](../c/capital.md) requirements in line with its sophisticated [risk management frameworks](../r/risk_management_frameworks.md). Deutsche Bank
 
 ### Regional Banks
 

@@ -22,19 +22,19 @@ Several central banks have adopted NIRP since the 2010s. The European Central [B
 
 In June 2014, the ECB lowered its [deposit](../d/deposit.md) [facility](../f/facility.md) rate to -0.10%, marking the first time a major central [bank](../b/bank.md) had set a negative rate. This move was part of a broader strategy to combat [deflation](../d/deflation.md) and revitalize the [Eurozone](../e/eurozone.md) [economy](../e/economy.md), which was still recovering from the sovereign [debt](../d/debt.md) crisis.
 
-- [ECB Website](https://www.ecb.europa.eu)
+-
 
 ### Bank of Japan (BOJ)
 
 In January 2016, the BOJ introduced NIRP by setting the [interest rate](../i/interest_rate.md) on [excess reserves](../e/excess_reserves.md) at -0.10%. The decision aimed to stimulate [economic growth](../e/economic_growth.md) and achieve the central [bank](../b/bank.md)'s 2% [inflation](../i/inflation.md) target, which had remained elusive despite various monetary easing measures.
 
-- [BOJ Website](https://www.boj.or.jp/en/)
+-
 
 ### Swiss National Bank (SNB)
 
 The SNB has employed negative [interest](../i/interest.md) rates since January 2015, with the policy rate set at -0.75% as of 2023. The primary goal of this policy is to curb upward pressure on the Swiss franc, which can harm the country's [export](../e/export.md)-reliant [economy](../e/economy.md).
 
-- [SNB Website](https://www.snb.ch/en/)
+-
 
 ## Impacts and Consequences
 

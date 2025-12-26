@@ -6,7 +6,7 @@ Countertrade is a form of international [trade](../t/trade.md) in which goods an
 
 ### Barter
 
-[Barter](../b/barter.md) is the oldest form of countertrade. It involves a direct [exchange](../e/exchange.md) of goods and/or services between parties without the use of [money](../m/money.md). This can be as simple as exchanging agricultural products, machinery, or technology. 
+[Barter](../b/barter.md) is the oldest form of countertrade. It involves a direct [exchange](../e/exchange.md) of goods and/or services between parties without the use of [money](../m/money.md). This can be as simple as exchanging agricultural products, machinery, or technology.
 
 #### Example
 
@@ -54,11 +54,11 @@ A machinery company supplies equipment for the construction of a factory in a de
 ## Advantages of Countertrade
 
 - **Facilitates [Trade](../t/trade.md):** Countertrade can overcome [liquidity](../l/liquidity.md) shortages and [foreign exchange](../f/foreign_exchange.md) constraints, facilitating [trade](../t/trade.md) that might otherwise be impossible.
-  
+
 - **[Market](../m/market.md) Entry and [Expansion](../e/expansion.md):** Allows entry into markets that have [currency](../c/currency.md) issues or [trade](../t/trade.md) restrictions.
-  
+
 - **Strengthening Bilateral Relations:** Promotes stronger economic and political ties between countries.
-  
+
 - **[Risk Management](../r/risk_management.md):** Provides a buffer against volatile [currency exchange](../c/currency_exchange.md) rates.
 
 - **Increased Sales Opportunities:** Opens up new sales channels, particularly in countries with [payment](../p/payment.md) challenges.
@@ -76,7 +76,7 @@ A machinery company supplies equipment for the construction of a factory in a de
 ## Legal and Procedural Considerations
 
 - **Contractual Clarity:** Detailed legal contracts are crucial to specify the nature, quantity, quality, and delivery schedules of goods and services to avoid disputes.
-  
+
 - **Regulatory Compliance:** Must comply with international [trade](../t/trade.md) regulations and bilateral or multilateral agreements.
 
 - **Dispute Resolution:** Mechanisms for resolving disputes should be included in contracts, such as [arbitration](../a/arbitration.md) clauses.
@@ -87,7 +87,7 @@ A machinery company supplies equipment for the construction of a factory in a de
 
 Boeing has implemented numerous [offset](../o/offset.md) agreements globally. For instance, Boeing's [sale](../s/sale.md) of aircraft often includes [obligations](../o/obligation.md) to purchase parts or services from the buying country's local aerospace industries, thereby ensuring mutual benefits.
 
-More details: [Boeing - Global Partnering and Offsets](https://www.boeing.com/company/key-orgs/boeing-international/index.page)
+More details: Boeing - Global Partnering and Offsets
 
 ### Case Study 2: Barter in the 1990s between PepsiCo and Russia
 

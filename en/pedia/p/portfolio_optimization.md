@@ -50,8 +50,7 @@ The [Capital Asset](../c/capital_asset.md) Pricing Model extends MPT by explaini
 
 # Sample data
 expected_returns = np.array([0.10, 0.12, 0.15])
-cov_matrix = np.array([[0.005, -0.010, 0.004], 
-                       [-0.010, 0.040, -0.002], 
+cov_matrix = np.array[[0.005, -0.010, 0.004],                        [-0.010, 0.040, -0.002], 
                        [0.004, -0.002, 0.023]])
 
 # Variables
@@ -132,8 +131,8 @@ Mutual funds and [Exchange](../e/exchange.md) Traded Funds (ETFs) often use port
 
 Robo-advisors, such as Betterment and Wealthfront, use automated algorithms to optimize portfolios for their clients. These platforms [leverage](../l/leverage.md) MPT and other [optimization](../o/optimization.md) techniques to [offer](../o/offer.md) personalized investment advice at a lower cost.
 
-- [Betterment](https://www.betterment.com/)
-- [Wealthfront](https://www.wealthfront.com/)
+- Betterment
+- Wealthfront
 
 ## Challenges in Portfolio Optimization
 

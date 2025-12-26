@@ -75,7 +75,7 @@ Critics argue that the persistence of the HML [premium](../p/premium.md) contrad
 
 ### Algorithmic Trading
 
-Advancements in [algorithmic trading](../a/accountability.md) and [machine learning](../m/machine_learning.md) have revolutionized the application of HML. Algorithms can process vast datasets to identify [value](../v/value.md) opportunities more efficiently, enabling real-time implementation of HML-based strategies.
+Advancements in [algorithmic trading](../a/algorithmic_trading.md) and [machine learning](../m/machine_learning.md) have revolutionized the application of HML. Algorithms can process vast datasets to identify [value](../v/value.md) opportunities more efficiently, enabling real-time implementation of HML-based strategies.
 
 ### Financial Software
 
@@ -83,7 +83,7 @@ Modern financial software, such as [Bloomberg Terminal](../b/bloomberg_terminal.
 
 ### Quantitative Research Platforms
 
-Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and [Alpha](../a/alpha.md) Vantage (https://www.alphavantage.co/) facilitate the development and [backtesting](../b/backtesting.md) of HML-based [trading strategies](../t/trading_strategies.md), empowering quantitative researchers and traders.
+Platforms like [StockSharp](../s/stocksharp.md) and [Alpha](../a/alpha.md) Vantage ( facilitate the development and [backtesting](../b/backtesting.md) of HML-based [trading strategies](../t/trading_strategies.md), empowering quantitative researchers and traders.
 
 ## Conclusion
 

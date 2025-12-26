@@ -27,10 +27,10 @@ An RTQ typically includes the following components:
 
 Real-time quotes are available from various sources, including:
 
-1. **Stock Exchanges:** Major stock exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE) ([nyse.com](https://www.nyse.com/)), [Nasdaq](../n/nasdaq.md) ([nasdaq.com](https://www.nasdaq.com/)), and others provide real-time data to traders and investors.
-2. **Financial News Services:** Companies like [Bloomberg](../b/bloomberg.md) ([bloomberg.com](https://www.bloomberg.com/)), [Reuters](../r/reuters.md) ([reuters.com](https://www.reuters.com/)), and CNBC ([cnbc.com](https://www.cnbc.com/)) [offer](../o/offer.md) real-time stock quotes and financial news.
-3. **Brokerage Firms:** Many online brokerage firms, such as [E*TRADE](../e/e_trade.md) ([etrade.com](https://www.etrade.com/)) and TD [Ameritrade](../a/ameritrade.md) ([tdameritrade.com](https://www.tdameritrade.com/)), provide real-time quotes to their clients.
-4. **Financial Websites and Apps:** Websites like [Yahoo Finance](../y/yahoo_finance.md) ([finance.yahoo.com](https://finance.yahoo.com/)) and Google [Finance](../f/finance.md) ([google.com/finance](https://www.google.com/finance)) as well as financial apps [offer](../o/offer.md) real-time quotes.
+1. **Stock Exchanges:** Major stock exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE) (nyse.com), [Nasdaq](../n/nasdaq.md) (nasdaq.com), and others provide real-time data to traders and investors.
+2. **Financial News Services:** Companies like [Bloomberg](../b/bloomberg.md) (bloomberg.com), [Reuters](../r/reuters.md) (reuters.com), and CNBC (cnbc.com) [offer](../o/offer.md) real-time stock quotes and financial news.
+3. **Brokerage Firms:** Many online brokerage firms, such as [E*TRADE](../e/e_trade.md) (etrade.com) and TD [Ameritrade](../a/ameritrade.md) (tdameritrade.com), provide real-time quotes to their clients.
+4. **Financial Websites and Apps:** Websites like [Yahoo Finance](../y/yahoo_finance.md) (finance.yahoo.com) and Google [Finance](../f/finance.md) (google.com/finance) as well as financial apps [offer](../o/offer.md) real-time quotes.
 
 ## Real-Time Data Feeds and APIs
 
@@ -38,14 +38,14 @@ Many financial technology companies provide real-time data feeds and APIs (Appli
 
 ### Popular Data Providers
 
-1. **[Alpha](../a/alpha.md) Vantage:** Provides free and [premium](../p/premium.md) APIs for real-time and historical [market](../m/market.md) data. [Alpha Vantage](https://www.alphavantage.co/)
-2. **[IEX Cloud](../i/iex_cloud.md):** Offers real-time stock prices and other financial data. [IEX Cloud](https://iexcloud.io/)
-3. **[Quandl](../q/quandl.md):** Provides a wide [range](../r/range.md) of financial data, including real-time quotes. [Quandl](https://www.quandl.com/)
-4. **Finnhub:** Delivers real-time and historical [market](../m/market.md) data via API. [Finnhub](https://finnhub.io/)
+1. **[Alpha](../a/alpha.md) Vantage:** Provides free and [premium](../p/premium.md) APIs for real-time and historical [market](../m/market.md) data. Alpha Vantage
+2. **[IEX Cloud](../i/iex_cloud.md):** Offers real-time stock prices and other financial data. IEX Cloud
+3. **[Quandl](../q/quandl.md):** Provides a wide [range](../r/range.md) of financial data, including real-time quotes. Quandl
+4. **Finnhub:** Delivers real-time and historical [market](../m/market.md) data via API. Finnhub
 
 ## Applications in Algorithmic Trading
 
-Real-time quotes are indispensable in [algorithmic trading](../a/accountability.md), where [trading strategies](../t/trading_strategies.md) are executed based on pre-programmed algorithms. These algorithms rely on real-time data to identify trading opportunities, execute trades, and manage risks.
+Real-time quotes are indispensable in [algorithmic trading](../a/algorithmic_trading.md), where [trading strategies](../t/trading_strategies.md) are executed based on pre-programmed algorithms. These algorithms rely on real-time data to identify trading opportunities, execute trades, and manage risks.
 
 ### Types of Algorithmic Trading Strategies
 

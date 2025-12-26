@@ -1,6 +1,6 @@
 # Rule of 72
 
-The Rule of 72 is a straightforward and useful formula in [finance](../f/finance.md) that estimates the number of years required to double the [value](../v/value.md) of an investment based on a fixed annual [rate of return](../r/rate_of_return.md). This rule is widely used due to its simplicity and the rough accuracy it provides for understanding the effects of [compound interest](../c/compound_interest_in_trading.md) over time. 
+The Rule of 72 is a straightforward and useful formula in [finance](../f/finance.md) that estimates the number of years required to double the [value](../v/value.md) of an investment based on a fixed annual [rate of return](../r/rate_of_return.md). This rule is widely used due to its simplicity and the rough accuracy it provides for understanding the effects of [compound interest](../c/compound_interest_in_trading.md) over time.
 
 ## Understanding the Rule of 72
 

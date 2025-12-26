@@ -74,8 +74,8 @@ Various tools are available to help [options](../o/options.md) traders evaluate 
 
 Modern trading platforms [offer](../o/offer.md) built-in [volatility analysis](../v/volatility_analysis.md) tools, providing traders with real-time data and historical trends. Platforms like TD [Ameritrade](../a/ameritrade.md)'s [thinkorswim](../t/thinkorswim.md) and [Interactive Brokers](../i/interactive_brokers.md) provide comprehensive [volatility](../v/volatility.md) analytics.
 
-- **TD [Ameritrade](../a/ameritrade.md)'s [thinkorswim](../t/thinkorswim.md):** [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
-- **[Interactive Brokers](../i/interactive_brokers.md):** [Link](https://www.interactivebrokers.com/en/index.php?f=1406)
+- **TD [Ameritrade](../a/ameritrade.md)'s [thinkorswim](../t/thinkorswim.md):** Link
+- **[Interactive Brokers](../i/interactive_brokers.md):** Link
 
 ### 4.2 Financial Models
 
@@ -85,8 +85,8 @@ Advanced financial models and software, such as MATLAB and R, allow users to cre
 
 Real-time and historical [market](../m/market.md) data from providers like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) can furnish traders with up-to-date information on [volatility](../v/volatility.md) metrics.
 
-- **[Bloomberg](../b/bloomberg.md):** [Link](https://www.bloomberg.com/professional/)
-- **[Reuters](../r/reuters.md):** [Link](https://www.reuters.com/markets/companies/)
+- **[Bloomberg](../b/bloomberg.md):** Link
+- **[Reuters](../r/reuters.md):** Link
 
 ## 5. Conclusion
 

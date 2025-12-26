@@ -8,7 +8,7 @@ Speculators can be categorized into various types based on their strategies and 
 
 ### Day Traders
 
-Day traders buy and sell financial instruments within the same trading day, aiming to [capitalize](../c/capitalize.md) on small price movements. They rely heavily on [technical analysis](../t/technical_analysis.md), [chart patterns](../c/chart_patterns.md), and short-term trends. [Day trading](../d/day_trading.md) requires quick decision-making and the ability to manage [risk](../r/risk.md) effectively. 
+Day traders buy and sell financial instruments within the same trading day, aiming to [capitalize](../c/capitalize.md) on small price movements. They rely heavily on [technical analysis](../t/technical_analysis.md), [chart patterns](../c/chart_patterns.md), and short-term trends. [Day trading](../d/day_trading.md) requires quick decision-making and the ability to manage [risk](../r/risk.md) effectively.
 
 ### Swing Traders
 
@@ -56,7 +56,7 @@ Economic reports, corporate [earnings announcements](../e/earnings_announcements
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) (or algo-trading) uses computer algorithms to execute trades based on predefined criteria. These algorithms can process vast amounts of data and execute trades at speeds beyond human capability. [Algorithmic trading](../a/accountability.md) is prevalent in high-frequency trading (HFT) and other speculative strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) (or algo-trading) uses computer algorithms to execute trades based on predefined criteria. These algorithms can process vast amounts of data and execute trades at speeds beyond human capability. [Algorithmic trading](../a/algorithmic_trading.md) is prevalent in high-frequency trading (HFT) and other speculative strategies.
 
 ### Sentiment Analysis
 
@@ -106,10 +106,10 @@ Regulators monitor speculative activities to ensure [market](../m/market.md) sta
 
 Speculators play a vital role in [financial markets](../f/financial_market.md) by providing [liquidity](../l/liquidity.md), facilitating [price discovery](../p/price_discovery.md), and enhancing [market efficiency](../m/market_efficiency.md). Their activities, driven by the pursuit of short-term profits, contribute to dynamic and responsive markets. However, [speculation](../s/speculation.md) also carries inherent risks and potential for [market manipulation](../m/market_manipulation.md), requiring careful [risk management](../r/risk_management.md) and regulatory oversight. Understanding the diverse strategies, tools, and techniques employed by speculators is essential for navigating the complexities of modern [financial markets](../f/financial_market.md).
 
-For more information about companies that are actively involved in [algorithmic trading](../a/accountability.md) and [speculation](../s/speculation.md), consider visiting their official websites:
+For more information about companies that are actively involved in [algorithmic trading](../a/algorithmic_trading.md) and [speculation](../s/speculation.md), consider visiting their official websites:
 
-- [Jane Street](https://www.janestreet.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Jane Street
+- Two Sigma
+- Citadel Securities
 
 These companies are at the forefront of leveraging technology and sophisticated strategies to operate in speculative trading markets.

@@ -1,6 +1,6 @@
 # Demand Deposit
 
-A [demand](../d/demand.md) [deposit](../d/deposit.md) is a type of [bank](../b/bank.md) account from which [money](../m/money.md) can be withdrawn at any time without any advance notice. [Demand](../d/demand.md) deposits are mainly used for everyday expenses, bill payments, and other short-term needs. The [money](../m/money.md) placed in these accounts is readily accessible, either via checks, ATM withdrawals, [wire transfers](../w/wire_transfers.md), or other forms of [payment](../p/payment.md). This accessibility and [liquidity](../l/liquidity.md) make [demand](../d/demand.md) deposits a fundamental component of the modern banking system and the overall [economy](../e/economy.md). 
+A [demand](../d/demand.md) [deposit](../d/deposit.md) is a type of [bank](../b/bank.md) account from which [money](../m/money.md) can be withdrawn at any time without any advance notice. [Demand](../d/demand.md) deposits are mainly used for everyday expenses, bill payments, and other short-term needs. The [money](../m/money.md) placed in these accounts is readily accessible, either via checks, ATM withdrawals, [wire transfers](../w/wire_transfers.md), or other forms of [payment](../p/payment.md). This accessibility and [liquidity](../l/liquidity.md) make [demand](../d/demand.md) deposits a fundamental component of the modern banking system and the overall [economy](../e/economy.md).
 
 ## Characteristics of Demand Deposits
 

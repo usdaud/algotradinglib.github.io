@@ -69,9 +69,9 @@ Advanced technologies, including AI and [machine learning](../m/machine_learning
 ## Key Players in Underwriting Markets
 
 Many global firms have established significant presences in [underwriting](../u/underwriting.md) across various domains. Some of these include:
-1. **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com)
-2. **JPMorgan Chase**: [JPMorgan Chase](https://www.jpmorganchase.com)
-3. **Lloyd’s of London**: [Lloyd’s of London](https://www.lloyds.com)
+1. **Goldman Sachs**: Goldman Sachs
+2. **JPMorgan Chase**: JPMorgan Chase
+3. **Lloyd’s of London**: Lloyd’s of London
 
 ## Conclusion
 

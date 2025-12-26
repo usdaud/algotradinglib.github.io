@@ -24,7 +24,7 @@ To sit for the Series 66 exam, candidates must also pass the [Series 7](../s/ser
 
 ### Registration and Scheduling
 
-Before taking the Series 66 exam, candidates typically need to get sponsorship from a FINRA-member [firm](../f/firm.md). Registration is done through the FINRA website.
+Before taking the Series 66 exam, candidates typically need to get sponsorship from a FINRA-member [firm](../f/firm.md).
 
 #### Key Steps:
 1. **Sponsorship**: Seek sponsorship from a FINRA-member [firm](../f/firm.md).

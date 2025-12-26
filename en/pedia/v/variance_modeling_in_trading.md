@@ -4,7 +4,7 @@ Variance modeling is a fundamental concept in [quantitative finance](../q/quanti
 
 ### Introduction to Variance
 
-Variance is a statistical measurement that describes the spread of numbers in a data set. It is calculated as the average of the squared differences from the mean. For trading, it provides insight into the [variability](../v/variability.md) of returns of an [asset](../a/asset.md). A higher variance indicates that the data points (returns) are spread out over a larger [range](../r/range.md) of values, implying higher [risk](../r/risk.md) and potential for larger swings in an [asset](../a/asset.md)'s price. 
+Variance is a statistical measurement that describes the spread of numbers in a data set. It is calculated as the average of the squared differences from the mean. For trading, it provides insight into the [variability](../v/variability.md) of returns of an [asset](../a/asset.md). A higher variance indicates that the data points (returns) are spread out over a larger [range](../r/range.md) of values, implying higher [risk](../r/risk.md) and potential for larger swings in an [asset](../a/asset.md)'s price.
 
 Mathematically, the variance \( \sigma^2 \) of a dataset is given by:
 \[ \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 \]
@@ -28,7 +28,7 @@ Several models are used for capturing and [forecasting](../f/forecasting.md) var
 This is the simplest method where one computes the variance of [historical returns](../h/historical_returns.md). Though straightforward, it assumes that past variance is a good predictor of future variance, which might not always be the case.
 
 #### 2. GARCH Model
-The Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) model is widely used for variance modeling in trading. The GARCH model describes a time-series' variance as a function of its past variances and past squared returns. 
+The Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) model is widely used for variance modeling in trading. The GARCH model describes a time-series' variance as a function of its past variances and past squared returns.
 
 The GARCH(p, q) model is defined as:
 \[ \sigma_t^2 = \alpha_0 + \sum_{i=1}^{p} \alpha_i \epsilon_{t-i}^2 + \sum_{j=1}^{q} \beta_j \sigma_{t-j}^2 \]
@@ -39,7 +39,7 @@ where:
 - \( \sigma_{t-j} \) is the past variance.
 
 #### 3. EWMA Model
-The Exponentially [Weighted](../w/weighted.md) Moving Average (EWMA) model assigns exponentially decreasing weights as the observations get older. It distinguishes between recent and older data points when calculating variance, giving more importance to recent data. 
+The Exponentially [Weighted](../w/weighted.md) Moving Average (EWMA) model assigns exponentially decreasing weights as the observations get older. It distinguishes between recent and older data points when calculating variance, giving more importance to recent data.
 
 The EWMA model for variance \( \sigma_t^2 \) is:
 \[ \sigma_t^2 = (1 - \[lambda](../l/lambda.md)) \epsilon_{t-1}^2 + \[lambda](../l/lambda.md) \sigma_{t-1}^2 \]
@@ -69,10 +69,10 @@ Variance modeling has specific applications in various areas of [algorithmic tra
 
 Several companies and platforms [offer](../o/offer.md) tools and services for variance and [volatility](../v/volatility.md) modeling. Below are a few notable ones:
 
-1. **QuantInsti**: QuantInsti provides training and resources on [algorithmic trading](../a/algorithmic_trading.md) and [financial engineering](../f/financial_engineering.md), including modules on variance and [volatility](../v/volatility.md) modeling. [QuantInsti](https://www.quantinsti.com/)
-2. **Numerix**: Numerix offers advanced analytics for pricing, managing [risk](../r/risk.md), and [valuation](../v/valuation.md) of [derivatives](../d/derivatives.md), focusing heavily on variance and [volatility models](../v/volatility_models.md). [Numerix](https://www.numerix.com/)
-3. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for implementing variance models. [QuantConnect](https://www.quantconnect.com/)
-4. **Kx Systems**: Kx Systems provides high-performance software solutions for processing real-time and historical data, useful for variance estimation and modeling. [Kx Systems](https://kx.com/)
+1. **QuantInsti**: QuantInsti provides training and resources on [algorithmic trading](../a/algorithmic_trading.md) and [financial engineering](../f/financial_engineering.md), including modules on variance and [volatility](../v/volatility.md) modeling. QuantInsti
+2. **Numerix**: Numerix offers advanced analytics for pricing, managing [risk](../r/risk.md), and [valuation](../v/valuation.md) of [derivatives](../d/derivatives.md), focusing heavily on variance and [volatility models](../v/volatility_models.md). Numerix
+3. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for implementing variance models. QuantConnect
+4. **Kx Systems**: Kx Systems provides high-performance software solutions for processing real-time and historical data, useful for variance estimation and modeling. Kx Systems
 
 ### Conclusion
 

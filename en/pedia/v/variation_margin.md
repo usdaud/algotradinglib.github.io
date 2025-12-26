@@ -30,7 +30,7 @@ Variation [Margin](../m/margin.md) is calculated by determining the daily [profi
 
 #### Example Calculation
 
-For instance, consider a [trader](../t/trader.md) who has entered into a long position on a [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md). Suppose the [Initial Margin](../i/initial_margin.md) requirement is $5,000 and the [Maintenance Margin](../m/maintenance_margin.md) is $4,000. 
+For instance, consider a [trader](../t/trader.md) who has entered into a long position on a [crude oil](../c/crude_oil.md) [futures contract](../f/futures_contract.md). Suppose the [Initial Margin](../i/initial_margin.md) requirement is $5,000 and the [Maintenance Margin](../m/maintenance_margin.md) is $4,000.
 
 1. At the end of Day 1, the contract's price increases, resulting in an unrealized [profit](../p/profit.md) of $500. Hence, no Variation [Margin](../m/margin.md) is required, and the [trader](../t/trader.md)'s [margin account](../m/margin_account.md) now shows $5,500.
 

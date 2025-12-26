@@ -59,16 +59,16 @@ Timberland investments managed by TIMOs often adhere to high standards of enviro
 Several major TIMOs operate globally, managing significant timberland portfolios. Some prominent TIMOs include:
 
 ### Hancock Timber Resource Group
-Hancock Timber Resource Group (HTRG), a division of Hancock Natural Resource Group, is one of the largest timberland [investment management](../i/investment_management.md) organizations worldwide. HTRG manages timberland across North America, South America, Australia, and New Zealand. [Hancock Natural Resource Group](https://hancocknaturalresourcegroup.com/).
+Hancock Timber Resource Group (HTRG), a division of Hancock Natural Resource Group, is one of the largest timberland [investment management](../i/investment_management.md) organizations worldwide. HTRG manages timberland across North America, South America, Australia, and New Zealand. Hancock Natural Resource Group.
 
 ### Campbell Global
-Campbell Global, a subsidiary of JPMorgan [Asset Management](../a/asset_management.md), provides investment and management services for timberland assets. The company focuses on sustainable forestry practices and has a substantial presence in North and South America. [Campbell Global](https://www.campbellglobal.com/).
+Campbell Global, a subsidiary of JPMorgan [Asset Management](../a/asset_management.md), provides investment and management services for timberland assets. The company focuses on sustainable forestry practices and has a substantial presence in North and South America. Campbell Global.
 
 ### The Forestland Group
-The Forestland Group specializes in naturally managed hardwood and softwood forests. Their investments emphasize sustainable management and ecological stewardship across various regions in the United States. [The Forestland Group](https://www.forestlandgroup.com/).
+The Forestland Group specializes in naturally managed hardwood and softwood forests. Their investments emphasize sustainable management and ecological stewardship across various regions in the United States. The Forestland Group.
 
 ### BTG Pactual Timberland Investment Group
-BTG Pactual Timberland Investment Group manages timberland investments in the Americas, with a focus on responsible investment practices and [value](../v/value.md) creation. [BTG Pactual](https://www.btgpactual.com/home).
+BTG Pactual Timberland Investment Group manages timberland investments in the Americas, with a focus on responsible investment practices and [value](../v/value.md) creation. BTG Pactual.
 
 ## Challenges Facing TIMOs
 While TIMOs [offer](../o/offer.md) significant benefits, they also face various challenges in managing timberland assets:

@@ -39,7 +39,7 @@ Committee members should possess:
 
 ## Processes and Procedures
 ### Meetings
-The committee should meet regularly, often at least quarterly, with additional meetings as needed. 
+The committee should meet regularly, often at least quarterly, with additional meetings as needed.
 - **Agenda:** Each meeting should have a well-structured agenda focusing on pressing nomination and governance matters.
 - **Documentation:** Minutes and records of decisions should be meticulously maintained.
 
@@ -66,10 +66,10 @@ Encouraging gender, racial, and professional diversity within the board can lead
 
 ## Case Studies
 ### Apple Inc.
-Apple's Nomination Committee comprises independent directors who rigorously evaluate board candidates to ensure they align with the company's innovative and forward-thinking culture. More information about Apple's governance can be found [here](https://investor.apple.com/leadership-and-governance/board-of-directors/default.aspx).
+Apple's Nomination Committee comprises independent directors who rigorously evaluate board candidates to ensure they align with the company's innovative and forward-thinking culture. More information about Apple's governance can be found here.
 
 ### JPMorgan Chase & Co.
-JPMorgan Chase's Nomination and Governance Committee focuses on maintaining a balance of diverse skills, experiences, and backgrounds among its board members. Their process is detailed on the company’s governance page [here](https://www.jpmorganchase.com/governance/committees).
+JPMorgan Chase's Nomination and Governance Committee focuses on maintaining a balance of diverse skills, experiences, and backgrounds among its board members. Their process is detailed on the company’s governance page here.
 
 ## Challenges
 ### Maintaining Independence

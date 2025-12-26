@@ -16,7 +16,7 @@ The last character `2` in the above example represents the [check](../c/check.md
 
 ## Calculation of the Check Digit
 
-The [check](../c/check.md) digit in a SEDOL code is calculated using a [weighted](../w/weighted.md) modulus-10 algorithm. Each of the first six characters is assigned a weight based on their position from right to left. The weights are as follows: 1, 3, 1, 7, 3, 9. Each character in the SEDOL code, whether it is a digit or a letter, is assigned a numeric [value](../v/value.md). Letters are converted into numbers where A=10, B=11, ..., Z=35. The calculations involve summing these [weighted](../w/weighted.md) values and then computing the modulus 10 of that sum, which determines the [check](../c/check.md) digit.
+The [check](../c/check.md) digit in a SEDOL code is calculated using a [weighted](../w/weighted.md) modulus-10 algorithm. Each of the first six characters is assigned a weight based on their position from right to left. The weights are as follows: 1, 3, 1, 7, 3, 9. Each character in the SEDOL code, whether it is a digit or a letter, is assigned a numeric [value](../v/value.md). Letters are converted into numbers where A=10, B=11,..., Z=35. The calculations involve summing these [weighted](../w/weighted.md) values and then computing the modulus 10 of that sum, which determines the [check](../c/check.md) digit.
 
 ## Importance of SEDOL
 
@@ -32,11 +32,11 @@ The SEDOL code system is maintained and governed by the London Stock [Exchange](
 
 ## Accessing SEDOL Information
 
-Access to the SEDOL database is available through subscription services provided by the London Stock [Exchange](../e/exchange.md). This service offers up-to-date information on SEDOL codes, allowing subscribers to search for and verify the codes of specific securities. You can find more information about subscriptions and access on the London Stock [Exchange](../e/exchange.md) website [here](https://www.lseg.com).
+Access to the SEDOL database is available through subscription services provided by the London Stock [Exchange](../e/exchange.md). This service offers up-to-date information on SEDOL codes, allowing subscribers to search for and verify the codes of specific securities. You can find more information about subscriptions and access on the London Stock [Exchange](../e/exchange.md) online platform here.
 
 ## SEDOL in Electronic Trading Systems
 
-In the modern financial [market](../m/market.md), electronic [trading systems](../t/trading_systems.md) are widely used for executing trades rapidly and efficiently. SEDOL codes play a vital role in such systems by providing a standardized way to reference securities across different platforms and institutions. The ability to quickly and accurately identify securities using SEDOL codes helps facilitate high-frequency trading and other forms of [algorithmic trading](../a/accountability.md), where speed and precision are paramount.
+In the modern financial [market](../m/market.md), electronic [trading systems](../t/trading_systems.md) are widely used for executing trades rapidly and efficiently. SEDOL codes play a vital role in such systems by providing a standardized way to reference securities across different platforms and institutions. The ability to quickly and accurately identify securities using SEDOL codes helps facilitate high-frequency trading and other forms of [algorithmic trading](../a/algorithmic_trading.md), where speed and precision are paramount.
 
 ## Compatibility with Other Identifier Systems
 
@@ -44,4 +44,4 @@ While SEDOL is a widely used identifier in the UK, it is often used in conjuncti
 
 ## Conclusion
 
-The Stock [Exchange](../e/exchange.md) Daily Official List (SEDOL) is an indispensable tool in the world of [finance](../f/finance.md) and trading. By providing a unique identifier for securities, it helps to eliminate confusion, ensure accuracy, and facilitate smooth trading and settlement operations. Maintained by the London Stock [Exchange](../e/exchange.md) Group, SEDOL continues to be a cornerstone in the [infrastructure](../i/infrastructure.md) of [financial markets](../f/financial_market.md), underscoring the importance of standardized identification systems in a globally interconnected [economy](../e/economy.md). For more information on SEDOL and its applications, you can visit the London Stock [Exchange](../e/exchange.md)'s official page [here](https://www.lseg.com).
+The Stock [Exchange](../e/exchange.md) Daily Official List (SEDOL) is an indispensable tool in the world of [finance](../f/finance.md) and trading. By providing a unique identifier for securities, it helps to eliminate confusion, ensure accuracy, and facilitate smooth trading and settlement operations. Maintained by the London Stock [Exchange](../e/exchange.md) Group, SEDOL continues to be a cornerstone in the [infrastructure](../i/infrastructure.md) of [financial markets](../f/financial_market.md), underscoring the importance of standardized identification systems in a globally interconnected [economy](../e/economy.md). For more information on SEDOL and its applications, you can visit the London Stock [Exchange](../e/exchange.md)'s public materials here.

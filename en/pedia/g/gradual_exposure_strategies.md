@@ -19,20 +19,20 @@ The mechanisms of gradual exposure strategies involve algorithms that split larg
 Several types of gradual exposure strategies exist, each designed to meet specific trading goals and conditions. Here are a few prominent ones:
 
 1. **Time-[Weighted Average](../w/weighted_average.md) Price (TWAP)**:
-    - **Principle**: Executes trades evenly over a specific time period to achieve an average [execution](../e/execution.md) price close to the time-[weighted average](../w/weighted_average.md) [market price](../m/market_price.md).
-    - **Use Case**: Ideal for traders looking to reduce the [market](../m/market.md) impact while having a set [execution](../e/execution.md) timeframe.
+ - **Principle**: Executes trades evenly over a specific time period to achieve an average [execution](../e/execution.md) price close to the time-[weighted average](../w/weighted_average.md) [market price](../m/market_price.md).
+ - **Use Case**: Ideal for traders looking to reduce the [market](../m/market.md) impact while having a set [execution](../e/execution.md) timeframe.
 
 2. **[Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP)**:
-    - **Principle**: Executes trades based on the [volume profile](../v/volume_profile.md) of the [asset](../a/asset.md) throughout the [trading session](../t/trading_session.md), often aligning trades with the periods of higher [market](../m/market.md) activity.
-    - **Use Case**: Suitable for minimizing the impact on the [market](../m/market.md) by aligning trades with [liquidity](../l/liquidity.md) patterns.
+ - **Principle**: Executes trades based on the [volume profile](../v/volume_profile.md) of the [asset](../a/asset.md) throughout the [trading session](../t/trading_session.md), often aligning trades with the periods of higher [market](../m/market.md) activity.
+ - **Use Case**: Suitable for minimizing the impact on the [market](../m/market.md) by aligning trades with [liquidity](../l/liquidity.md) patterns.
 
 3. **Implementation [Shortfall](../s/shortfall.md) (IS)**:
-    - **Principle**: Aims to minimize the difference between the decision price and the actual executed price by dynamically adjusting [trade](../t/trade.md) [execution](../e/execution.md) according to [market](../m/market.md) conditions.
-    - **Use Case**: Utilized by institutional traders to manage the cost of executing large orders and reducing [slippage](../s/slippage.md).
+ - **Principle**: Aims to minimize the difference between the decision price and the actual executed price by dynamically adjusting [trade](../t/trade.md) [execution](../e/execution.md) according to [market](../m/market.md) conditions.
+ - **Use Case**: Utilized by institutional traders to manage the cost of executing large orders and reducing [slippage](../s/slippage.md).
 
 4. **Smart [Order Routing](../o/order_routing.md) (SOR)**:
-    - **Principle**: Breaks orders into smaller parts and routes them to different trading venues to take advantage of the best possible prices and [liquidity](../l/liquidity.md).
-    - **Use Case**: Employed by traders who need to access [multiple](../m/multiple.md) venues to find the best [execution](../e/execution.md) prices.
+ - **Principle**: Breaks orders into smaller parts and routes them to different trading venues to take advantage of the best possible prices and [liquidity](../l/liquidity.md).
+ - **Use Case**: Employed by traders who need to access [multiple](../m/multiple.md) venues to find the best [execution](../e/execution.md) prices.
 
 ### Benefits of Gradual Exposure Strategies
 
@@ -55,11 +55,11 @@ Many financial institutions and trading firms utilize gradual exposure strategie
 
 #### JP Morgan Chase (J.P. Morgan Markets)
 
-JP Morgan Chase, one of the largest financial institutions globally, has incorporated advanced gradual exposure strategies into their electronic trading platforms. Their systems [leverage](../l/leverage.md) sophisticated TWAP and VWAP algorithms to ensure efficient [execution](../e/execution.md) for both [proprietary trading](../p/proprietary_trading.md) and client orders. More details can be found on their [official website](https://www.jpmorgan.com).
+JP Morgan Chase, one of the largest financial institutions globally, has incorporated advanced gradual exposure strategies into their electronic trading platforms. Their systems [leverage](../l/leverage.md) sophisticated TWAP and VWAP algorithms to ensure efficient [execution](../e/execution.md) for both [proprietary trading](../p/proprietary_trading.md) and client orders. More
 
 #### Goldman Sachs (Goldman Sachs Algorithmic Trading)
 
-Goldman Sachs, another major player in the [financial sector](../f/financial_sector.md), heavily relies on a suite of [algorithmic trading](../a/algorithmic_trading.md) tools that include gradual exposure strategies. Their strategic implementation of VWAP and SMART [Order Routing](../o/order_routing.md) (SOR) algorithms helps manage the extensive trading volumes efficiently. For more information, visit their [official webpage](https://www.goldmansachs.com).
+Goldman Sachs, another major player in the [financial sector](../f/financial_sector.md), heavily relies on a suite of [algorithmic trading](../a/algorithmic_trading.md) tools that include gradual exposure strategies. Their strategic implementation of VWAP and SMART [Order Routing](../o/order_routing.md) (SOR) algorithms helps manage the extensive trading volumes efficiently. For more information, visit their official webpage.
 
 ### Challenges and Considerations
 
@@ -84,4 +84,4 @@ Gradual exposure strategies are instrumental in the realm of [algorithmic tradin
 
 Businesses and traders should remain cognizant of the latest trends and technological developments to [leverage](../l/leverage.md) these strategies optimally, ensuring alignment with their trading objectives and [market](../m/market.md) conditions.
 
-For hands-on examples, tools, and further reading, refer to institutional trading platforms such as [J.P. Morgan Markets](https://www.jpmorgan.com) and [Goldman Sachs Algorithmic Trading](https://www.goldmansachs.com).
+For hands-on examples, tools, and further reading, refer to institutional trading platforms such as J.P. Morgan Markets and Goldman Sachs Algorithmic Trading.

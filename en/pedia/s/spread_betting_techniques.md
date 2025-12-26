@@ -4,7 +4,7 @@ In the realm of [financial markets](../f/financial_market.md), [spread betting](
 
 ### 1. Introduction to Spread Betting
 
-[Spread betting](../s/spread_betting.md) is a type of [speculation](../s/speculation.md) that involves betting on the price movement of a [financial instrument](../f/financial_instrument.md). It is commonly used on [stocks](../s/stock.md), commodities, indices, forex, and more. Essentially, a [trader](../t/trader.md) bets whether the price of an [asset](../a/asset.md) [will](../w/will.md) rise or fall. 
+[Spread betting](../s/spread_betting.md) is a type of [speculation](../s/speculation.md) that involves betting on the price movement of a [financial instrument](../f/financial_instrument.md). It is commonly used on [stocks](../s/stock.md), commodities, indices, forex, and more. Essentially, a [trader](../t/trader.md) bets whether the price of an [asset](../a/asset.md) [will](../w/will.md) rise or fall.
 
 The main advantage of [spread betting](../s/spread_betting.md) is that it provides an opportunity to [profit](../p/profit.md) in both rising and falling markets. Another critical aspect is that profits from [spread betting](../s/spread_betting.md) can be [tax-free](../t/tax_free.md) in some jurisdictions, although this depends on individual circumstances and [local tax](../l/local_tax.md) laws.
 
@@ -35,7 +35,7 @@ This method involves analyzing the [intrinsic value](../i/intrinsic_value.md) of
 
 #### Trend Following
 
-[Trend following](../t/trend_following.md) is one of the most straightforward and widely-used [spread betting](../s/spread_betting.md) techniques. Traders aim to identify and follow the direction of the [market](../m/market.md) [trend](../t/trend.md), whether it’s upward or downward. 
+[Trend following](../t/trend_following.md) is one of the most straightforward and widely-used [spread betting](../s/spread_betting.md) techniques. Traders aim to identify and follow the direction of the [market](../m/market.md) [trend](../t/trend.md), whether it’s upward or downward.
 
 **Steps:**
 1. Identify the [trend](../t/trend.md) using moving averages or trendlines.
@@ -122,13 +122,13 @@ The adoption of [machine learning](../m/machine_learning.md) and AI in trading i
 
 To implement these techniques effectively, traders need the right platforms and tools. Here are some popular platforms for [spread betting](../s/spread_betting.md):
 
-**[IG Group](../i/ig_group.md)** ([https://www.ig.com](https://www.ig.com))
+**[IG Group](../i/ig_group.md)** (
 A leading provider [offering](../o/offering.md) an array of tools for [spread betting](../s/spread_betting.md) including advanced charting tools and extensive educational resources.
 
-**[CMC Markets](../c/cmc_markets.md)** ([https://www.cmcmarkets.com](https://www.cmcmarkets.com))
+**[CMC Markets](../c/cmc_markets.md)** (
 Offers competitive [spreads](../s/spreads.md), an intuitive platform, and useful [risk management](../r/risk_management.md) tools.
 
-**City [Index](../i/index_instrument.md)** ([https://www.cityindex.com](https://www.cityindex.com))
+**City [Index](../i/index_instrument.md)** (
 Provides extensive research tools and a user-friendly platform suitable for both beginners and advanced traders.
 
 ### 8. Legal and Ethical Considerations

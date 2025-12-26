@@ -89,7 +89,7 @@ In the example, a [robust](../r/robust.md) regression model is trained to predic
 
 #### Case Studies and Applications
 
-Several [proprietary trading](../p/proprietary_trading.md) firms and [hedge](../h/hedge.md) funds have integrated [robust](../r/robust.md) [regression techniques](../r/regression_techniques.md) into their [trading models](../t/trading_models.md). For instance, [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) are known for their advanced [quantitative trading](../q/quantitative_trading.md) strategies that likely [leverage](../l/leverage.md) various [robust](../r/robust.md) statistical methods.
+Several [proprietary trading](../p/proprietary_trading.md) firms and [hedge](../h/hedge.md) funds have integrated [robust](../r/robust.md) [regression techniques](../r/regression_techniques.md) into their [trading models](../t/trading_models.md). For instance, Two Sigma and Citadel are known for their advanced [quantitative trading](../q/quantitative_trading.md) strategies that likely [leverage](../l/leverage.md) various [robust](../r/robust.md) statistical methods.
 
 ### Conclusion
 

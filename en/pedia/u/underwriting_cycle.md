@@ -4,15 +4,15 @@ The [underwriting](../u/underwriting.md) cycle is a critical concept in the [ins
 
 ## Phases of the Underwriting Cycle
 
-1. **Hard [Market](../m/market.md)**: 
-   - **Characteristics**: High [insurance](../i/insurance.md) premiums, strict [underwriting standards](../u/underwriting_standards.md), limited [insurance](../i/insurance.md) capacity, and high profitability for insurers.
-   - **Drivers**: Increased claims, major catastrophic events, reduced [investment income](../i/investment_income.md), and higher [reinsurance](../r/reinsurance.md) costs.
-   - **Impact on Insureds**: Higher premiums and potentially reduced coverage limits, making it more difficult and expensive to obtain [insurance](../i/insurance.md).
+1. **Hard [Market](../m/market.md)**:
+ - **Characteristics**: High [insurance](../i/insurance.md) premiums, strict [underwriting standards](../u/underwriting_standards.md), limited [insurance](../i/insurance.md) capacity, and high profitability for insurers.
+ - **Drivers**: Increased claims, major catastrophic events, reduced [investment income](../i/investment_income.md), and higher [reinsurance](../r/reinsurance.md) costs.
+ - **Impact on Insureds**: Higher premiums and potentially reduced coverage limits, making it more difficult and expensive to obtain [insurance](../i/insurance.md).
 
 2. **Soft [Market](../m/market.md)**:
-   - **Characteristics**: Low [insurance](../i/insurance.md) premiums, relaxed [underwriting standards](../u/underwriting_standards.md), increased [insurance](../i/insurance.md) capacity, and reduced profitability for insurers.
-   - **Drivers**: Low claims, favorable investment returns, fewer catastrophic events, and increased competition among insurers.
-   - **Impact on Insureds**: Lower premiums, more relaxed terms and conditions, and easier access to [insurance](../i/insurance.md) products.
+ - **Characteristics**: Low [insurance](../i/insurance.md) premiums, relaxed [underwriting standards](../u/underwriting_standards.md), increased [insurance](../i/insurance.md) capacity, and reduced profitability for insurers.
+ - **Drivers**: Low claims, favorable investment returns, fewer catastrophic events, and increased competition among insurers.
+ - **Impact on Insureds**: Lower premiums, more relaxed terms and conditions, and easier access to [insurance](../i/insurance.md) products.
 
 ## Factors Influencing the Underwriting Cycle
 
@@ -54,7 +54,7 @@ Moreover, the increasing use of [InsurTech](../i/insurtech.md) solutions—techn
 
 The [underwriting](../u/underwriting.md) cycle is an inherent part of the [insurance](../i/insurance.md) [industry](../i/industry.md)'s landscape, characterized by alternating periods of profitability and unprofitability. Understanding and managing this cycle is essential for insurers, actuaries, underwriters, and other stakeholders. By leveraging [diversification](../d/diversification.md), [reinsurance](../r/reinsurance.md), [capital](../c/capital.md) management, flexible [underwriting](../u/underwriting.md) strategies, and advanced investment [portfolio management](../p/par.md), insurers can better navigate the complexities of the [underwriting](../u/underwriting.md) cycle and maintain financial stability.
 
-For comprehensive information on [underwriting](../u/underwriting.md) practices, you can visit [AIG](https://www.aig.com) or [Munich Re](https://www.munichre.com).
+For comprehensive information on [underwriting](../u/underwriting.md) practices, you can visit AIG or Munich Re.
 
 ---
 

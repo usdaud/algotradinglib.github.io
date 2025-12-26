@@ -18,11 +18,11 @@ The focus here is on Type II errors.
 
 ## Type II Errors in Trading
 
-In trading, Type II errors can occur in various contexts such as [algorithmic trading](../a/accountability.md), investment strategies, and [risk management](../r/risk_management.md). For example:
+In trading, Type II errors can occur in various contexts such as [algorithmic trading](../a/algorithmic_trading.md), investment strategies, and [risk management](../r/risk_management.md). For example:
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to automatically execute [trade](../t/trade.md) orders based on predefined criteria. A Type II error in this context could mean failing to recognize a profitable trading signal. This might result from:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to automatically execute [trade](../t/trade.md) orders based on predefined criteria. A Type II error in this context could mean failing to recognize a profitable trading signal. This might result from:
 
 - The algorithm is too conservative and misses signals.
 - It fails to account for certain [market](../m/market.md) conditions.
@@ -82,4 +82,4 @@ Performing [sensitivity analysis](../s/sensitivity_analysis.md) involves varying
 
 ## Conclusion
 
-Type II errors represent a critical aspect of statistical analysis in [finance](../f/finance.md) and trading. Recognizing and mitigating these errors can lead to more accurate models, better decision-making, and improved [financial performance](../f/financial_performance.md). Whether in [algorithmic trading](../a/accountability.md), [investment strategy](../i/investment_strategy.md) development, or [risk management](../r/risk_management.md), understanding the implications of Type II errors is essential for success in the [financial markets](../f/financial_market.md).
+Type II errors represent a critical aspect of statistical analysis in [finance](../f/finance.md) and trading. Recognizing and mitigating these errors can lead to more accurate models, better decision-making, and improved [financial performance](../f/financial_performance.md). Whether in [algorithmic trading](../a/algorithmic_trading.md), [investment strategy](../i/investment_strategy.md) development, or [risk management](../r/risk_management.md), understanding the implications of Type II errors is essential for success in the [financial markets](../f/financial_market.md).

@@ -1,6 +1,6 @@
 # EBITA
 
-**[Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), and Amortization (EBITA)** is a financial metric that measures a company's profitability by excluding expenses related to [interest](../i/interest.md), [taxes](../t/taxes.md), and amortization. This metric is useful to investors and analysts because it provides a clearer picture of a company's operational performance by isolating the [earnings](../e/earnings.md) generated from its core [business activities](../b/business_activities.md). 
+**[Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), and Amortization (EBITA)** is a financial metric that measures a company's profitability by excluding expenses related to [interest](../i/interest.md), [taxes](../t/taxes.md), and amortization. This metric is useful to investors and analysts because it provides a clearer picture of a company's operational performance by isolating the [earnings](../e/earnings.md) generated from its core [business activities](../b/business_activities.md).
 
 ## Understanding EBITA
 
@@ -29,7 +29,7 @@ Using the first formula:
 
 Alternatively, if EBIT is available:
 
-1. **EBIT**: $650,000 
+1. **EBIT**: $650,000
 2. **Amortization [Expense](../e/expense.md)**: $50,000
 
 Using the second formula:
@@ -82,8 +82,8 @@ Any [algorithmic trading](../a/accountability.md) strategy needs rigorous [backt
 
 Several [quantitative trading](../q/quantitative_trading.md) firms employ sophisticated algorithms that could theoretically use EBITA as part of their models. Below are two examples:
 
-1. **Two Sigma Investments**: A leading quantitative [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and vast amounts of data to make trading decisions. [Two Sigma](https://www.twosigma.com)
-2. **Renaissance Technologies**: Another prominent player in the quant space known for leveraging [mathematical models](../m/mathematical_models_in_trading.md). [Renaissance Technologies](https://www.rentec.com)
+1. **Two Sigma Investments**: A leading quantitative [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md) and vast amounts of data to make trading decisions. Two Sigma
+2. **Renaissance Technologies**: Another prominent player in the quant space known for leveraging [mathematical models](../m/mathematical_models_in_trading.md). Renaissance Technologies
 
 ## EBITA in Financial Reporting and Analysis
 
@@ -99,8 +99,8 @@ Beyond [algorithmic trading](../a/accountability.md), EBITA holds substantial im
 
 Several large companies provide EBITA figures as part of their financial disclosures to aid investors:
 
-1. **Siemens AG**: Includes EBITA in their financial results to illustrate operational profitability across various segments. [Siemens AG](https://www.siemens.com)
-2. **General Electric (GE)**: Uses EBITA alongside other metrics to highlight the performance of its diverse [business](../b/business.md) divisions. [GE](https://www.ge.com)
+1. **Siemens AG**: Includes EBITA in their financial results to illustrate operational profitability across various segments. Siemens AG
+2. **General Electric (GE)**: Uses EBITA alongside other metrics to highlight the performance of its diverse [business](../b/business.md) divisions. GE
 
 ### EBITA in Investment Analysis
 

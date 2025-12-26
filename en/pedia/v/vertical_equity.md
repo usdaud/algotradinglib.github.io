@@ -14,14 +14,14 @@ The "ability to pay" principle underpins vertical [equity](../e/equity.md). It s
 
 Progressive [taxation](../t/taxation.md) is a common application of vertical [equity](../e/equity.md). In a [progressive tax](../p/progressive_tax.md) system, the [tax rate](../t/tax_rate.md) increases as [income](../i/income.md) or [wealth](../w/wealth.md) increases. This means that higher-[income](../i/income.md) earners pay a larger percentage of their [earnings](../e/earnings.md) in [taxes](../t/taxes.md) compared to lower-[income](../i/income.md) earners. The rationale is to distribute the tax burden more equitably and to reduce economic inequality by redistributing [wealth](../w/wealth.md).
 
-For example, in the United States, the [federal income](../f/federal_income.md) tax system is designed to be progressive, with [tax brackets](../t/tax_brackets.md) that escalate with [income](../i/income.md) levels. 
+For example, in the United States, the [federal income](../f/federal_income.md) tax system is designed to be progressive, with [tax brackets](../t/tax_brackets.md) that escalate with [income](../i/income.md) levels.
 
 ## Applications of Vertical Equity
 
 Vertical [equity](../e/equity.md) is not confined to [income](../i/income.md) [taxes](../t/taxes.md) alone. It can be applied in various forms of [taxation](../t/taxation.md) and public policy:
 
 1. **[Wealth](../w/wealth.md) [Taxes](../t/taxes.md):** These [taxes](../t/taxes.md) are levied on the [value](../v/value.md) of owned assets, such as property, [stocks](../s/stock.md), and bonds. [Wealth](../w/wealth.md) [taxes](../t/taxes.md) aim to target the wealthiest individuals who may have lower [income](../i/income.md) but significant [asset](../a/asset.md) [holdings](../h/holdings.md).
-  
+
 2. **[Estate](../e/estate.md) [Taxes](../t/taxes.md):** These are [taxes](../t/taxes.md) on the net [value](../v/value.md) of an [estate](../e/estate.md) of a deceased person before [distribution](../d/distribution.md) to the heirs. [Estate](../e/estate.md) [taxes](../t/taxes.md) often target large inheritances to prevent accumulation and perpetuation of [wealth](../w/wealth.md) inequality across generations.
 
 3. **Consumption [Taxes](../t/taxes.md):** Though often considered regressive, consumption [taxes](../t/taxes.md) can be tailored to fit principles of vertical [equity](../e/equity.md) through luxury [taxes](../t/taxes.md) on non-essential, high-end goods.

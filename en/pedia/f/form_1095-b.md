@@ -31,7 +31,7 @@ Form 1095-B is divided into sections containing critical information about the h
 
 ### For Issuers
 - **Filing with the IRS**: [Health insurance](../h/health_insurance.md) issuers must file Form 1095-B with the IRS, typically by February 28th if filing on paper or by March 31st if filing electronically.
-- **Providing to Individuals**: Issuers must furnish copies of Form 1095-B to insured individuals by January 31st of the following year. 
+- **Providing to Individuals**: Issuers must furnish copies of Form 1095-B to insured individuals by January 31st of the following year.
 
 ### For Individuals
 - **Retain for Records**: Taxpayers should keep Form 1095-B with their tax records. It is not required to be attached to their [tax return](../t/tax_return.md) but can serve as proof of coverage.
@@ -54,8 +54,8 @@ Due to the COVID-19 pandemic, there have been some delays and adjustments concer
 
 ## Resources for Form 1095-B
 
-- [Internal Revenue Service (IRS) - Form 1095-B](https://www.irs.gov/forms-pubs/about-form-1095-b)
-- [Centers for Medicare & Medicaid Services (CMS)](https://www.cms.gov)
+- Internal Revenue Service (IRS) - Form 1095-B
+- Centers for Medicare & Medicaid Services (CMS)
 
 ## Conclusion
 

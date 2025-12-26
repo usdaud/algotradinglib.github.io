@@ -91,7 +91,7 @@ Administrative and management fees can erode returns, resulting in lower VAMI va
 
 ### Role in Strategy Evaluation
 
-In [algorithmic trading](../a/accountability.md), VAMI can be used to backtest [trading strategies](../t/trading_strategies.md) by showing how an algorithm would have performed over historical data. By visualizing the hypothetical growth of an initial investment, traders can identify the strengths and weaknesses of their strategies.
+In [algorithmic trading](../a/algorithmic_trading.md), VAMI can be used to backtest [trading strategies](../t/trading_strategies.md) by showing how an algorithm would have performed over historical data. By visualizing the hypothetical growth of an initial investment, traders can identify the strengths and weaknesses of their strategies.
 
 ### Risk Management
 

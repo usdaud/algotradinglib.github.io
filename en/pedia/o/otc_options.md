@@ -87,15 +87,12 @@ Institutional investors like [hedge](../h/hedge.md) funds, pension funds, and mu
 
 ### ICAP
 ICAP is a leading provider of over-the-counter trading platforms, [offering](../o/offering.md) services for a variety of [derivatives](../d/derivatives.md), including [options](../o/options.md). They facilitate trades between large institutional clients.
-[ICAP](https://www.icap.com)
 
 ### Bloomberg Terminal
 The [Bloomberg Terminal](../b/bloomberg_terminal.md) is another premier platform for OTC [options](../o/options.md) trading, [offering](../o/offering.md) extensive tools for pricing, analytics, and [trade](../t/trade.md) [execution](../e/execution.md).
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Tradeweb
 Tradeweb provides an electronic [trading platform](../t/trading_platform.md) specializing in the trading of various OTC [derivatives](../d/derivatives.md), including [options](../o/options.md).
-[Tradeweb](https://www.tradeweb.com)
 
 ## Advantages and Disadvantages
 
@@ -115,6 +112,6 @@ OTC [options](../o/options.md) provide a versatile financial [derivative](../d/d
 Understanding the intricacies of OTC [options](../o/options.md) can provide valuable insights for anyone involved in [financial markets](../f/financial_market.md), from seasoned professionals to new traders. This comprehensive understanding ensures that the benefits of these powerful financial instruments can be fully realized while mitigating associated risks.
 
 For more details on companies that facilitate OTC [options](../o/options.md) trading, you can visit:
-- [ICAP](https://www.icap.com)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Tradeweb](https://www.tradeweb.com)
+- ICAP
+- Bloomberg Terminal
+- Tradeweb

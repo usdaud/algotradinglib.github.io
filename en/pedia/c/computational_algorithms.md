@@ -8,19 +8,19 @@
 
 **Implementation**:
 - **Simple Moving Average (SMA)**: In its simplest form, [mean reversion](../m/mean_reversion.md) can involve strategies based on moving averages. For example, if the current price of an [asset](../a/asset.md) deviates significantly from its moving average price over a defined period, it could signal a [trade](../t/trade.md).
-    ```python
-    [import](../i/import.md) pandas as pd
-    
-    def moving_average(data, window_size):
-        [return](../r/return.md) data.rolling(window=window_size).mean()
-    ```
+ ```python
+ [import](../i/import.md) pandas as pd
+
+ def moving_average(data, window_size):
+ [return](../r/return.md) data.rolling(window=window_size).mean()
+ ```
 - **[Z-Score](../z/z-score.md)**: Another implementation involves calculating the [Z-score](../z/z-score.md) to measure how many standard deviations an [asset](../a/asset.md)'s price is from its mean.
-    ```python
-    def z_score(data):
-        mean = data.mean()
-        std_dev = data.std()
-        [return](../r/return.md) (data - mean) / std_dev
-    ```
+ ```python
+ def z_score(data):
+ mean = data.mean()
+ std_dev = data.std()
+ [return](../r/return.md) (data - mean) / std_dev
+ ```
 
 ### 2. Momentum Algorithms
 
@@ -28,24 +28,24 @@
 
 **Implementation**:
 - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: RSI is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
-    ```python
-    def calculate_rsi(data, window):
-        [delta](../d/delta.md) = data.diff()
-        [gain](../g/gain.md), loss = [delta](../d/delta.md).clip(lower=0), -[delta](../d/delta.md).clip(upper=0)
-        avg_gain = [gain](../g/gain.md).rolling(window=window, min_periods=1).mean()
-        avg_loss = loss.rolling(window=window, min_periods=1).mean()
-        rs = avg_gain / avg_loss
-        [return](../r/return.md) 100 - (100 / (1 + rs))
-    ```
+ ```python
+ def calculate_rsi(data, window):
+ [delta](../d/delta.md) = data.diff()
+ [gain](../g/gain.md), loss = [delta](../d/delta.md).clip(lower=0), -[delta](../d/delta.md).clip(upper=0)
+ avg_gain = [gain](../g/gain.md).rolling(window=window, min_periods=1).mean()
+ avg_loss = loss.rolling(window=window, min_periods=1).mean()
+ rs = avg_gain / avg_loss
+ [return](../r/return.md) 100 - (100 / (1 + rs))
+ ```
 - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: MACD is used to spot changes in the strength, direction, [momentum](../m/momentum.md), and [duration](../d/duration.md) of a [trend](../t/trend.md) in an [asset](../a/asset.md)'s price.
-    ```python
-    def compute_macd(data, slow=26, fast=12, signal=9):
-        exp1 = data.ewm(span=fast, adjust=False).mean()
-        exp2 = data.ewm(span=slow, adjust=False).mean()
-        macd = exp1 - exp2
-        signal_line = macd.ewm(span=signal, adjust=False).mean()
-        [return](../r/return.md) macd, signal_line
-    ```
+ ```python
+ def compute_macd(data, slow=26, fast=12, signal=9):
+ exp1 = data.ewm(span=fast, adjust=False).mean()
+ exp2 = data.ewm(span=slow, adjust=False).mean()
+ macd = exp1 - exp2
+ signal_line = macd.ewm(span=signal, adjust=False).mean()
+ [return](../r/return.md) macd, signal_line
+ ```
 
 ### 3. Arbitrage Algorithms
 
@@ -53,30 +53,30 @@
 
 **Implementation**:
 - **Statistical [Arbitrage](../a/arbitrage.md)**: This involves the use of statistical models to identify pricing inefficiencies between securities. For example, [pairs trading](../p/pairs_trading.md), where two correlated [stocks](../s/stock.md) are traded to capture the convergence.
-    ```python
-    def pairs_trading(stock1, stock2):
-        zscore = z_score(stock1 - stock2)
-        if zscore > 2:
-            [return](../r/return.md) 'short', stock1, 'long', stock2
-        elif zscore < -2:
-            [return](../r/return.md) 'long', stock1, 'short', stock2
-        [return](../r/return.md) '[hold](../h/hold.md)'
-    ```
+ ```python
+ def pairs_trading(stock1, stock2):
+ zscore = z_score(stock1 - stock2)
+ if zscore > 2:
+ [return](../r/return.md) 'short', stock1, 'long', stock2
+ elif zscore < -2:
+ [return](../r/return.md) 'long', stock1, 'short', stock2
+ [return](../r/return.md) '[hold](../h/hold.md)'
+ ```
 - **Triangular [Arbitrage](../a/arbitrage.md)**: Involves trading in three currencies to exploit discrepancies in their [exchange](../e/exchange.md) rates.
-    ```python
-    def triangular_arbitrage(rates):
-        trade_seq = []
-        currency_list = list(rates.keys())
-        for i, base in enumerate(currency_list):
-            for j, cross1 in enumerate(currency_list):
-                if i != j:
-                    for k, cross2 in enumerate(currency_list):
-                        if i != k and j != k:
-                            rate = rates[base][cross1] * rates[cross1][cross2] * rates[cross2][base]
-                            if rate > 1:
-                                trade_seq.append((base, cross1, cross2, rate))
-        [return](../r/return.md) trade_seq
-    ```
+ ```python
+ def triangular_arbitrage(rates):
+ trade_seq = []
+ currency_list = list(rates.keys())
+ for i, base in enumerate(currency_list):
+ for j, cross1 in enumerate(currency_list):
+ if i!= j:
+ for k, cross2 in enumerate(currency_list):
+ if i!= k and j!= k:
+ rate = rates[base][cross1] * rates[cross1][cross2] * rates[cross2][base]
+ if rate > 1:
+ trade_seq.append((base, cross1, cross2, rate))
+ [return](../r/return.md) trade_seq
+ ```
 
 ### 4. Machine Learning Algorithms
 
@@ -84,38 +84,38 @@
 
 **Implementation**:
 - **[Linear Regression](../l/linear_regression.md)**: Used to predict the price of a stock based on its historical values.
-    ```python
-    from sklearn.linear_model [import](../i/import.md) LinearRegression
-    
-    def linear_regression_model(X_train, y_train, X_test):
-        model = LinearRegression()
-        model.fit(X_train, y_train)
-        predictions = model.predict(X_test)
-        [return](../r/return.md) predictions
-    ```
+ ```python
+ from sklearn.linear_model [import](../i/import.md) LinearRegression
+
+ def linear_regression_model(X_train, y_train, X_test):
+ model = LinearRegression()
+ model.fit(X_train, y_train)
+ predictions = model.predict(X_test)
+ [return](../r/return.md) predictions
+ ```
 - **Random Forest**: An [ensemble learning](../e/ensemble_learning.md) method used for classification and regression.
-    ```python
-    from sklearn.ensemble [import](../i/import.md) RandomForestClassifier
-    
-    def random_forest_model(X_train, y_train, X_test):
-        model = RandomForestClassifier(n_estimators=100)
-        model.fit(X_train, y_train)
-        predictions = model.predict(X_test)
-        [return](../r/return.md) predictions
-    ```
+ ```python
+ from sklearn.ensemble [import](../i/import.md) RandomForestClassifier
+
+ def random_forest_model(X_train, y_train, X_test):
+ model = RandomForestClassifier(n_estimators=100)
+ model.fit(X_train, y_train)
+ predictions = model.predict(X_test)
+ [return](../r/return.md) predictions
+ ```
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models, such as Long Short-Term Memory (LSTM) networks, are particularly adept at predicting [time series](../t/time_series.md) data.
-    ```python
-    from [keras](../k/keras.md).models [import](../i/import.md) Sequential
-    from [keras](../k/keras.md).layers [import](../i/import.md) LSTM, Dense
-    
-    def lstm_model(input_shape):
-        model = Sequential()
-        model.add(LSTM(50, return_sequences=True, input_shape=input_shape))
-        model.add(LSTM(50))
-        model.add(Dense(1))
-        model.compile(optimizer='adam', loss='mean_squared_error')
-        [return](../r/return.md) model
-    ```
+ ```python
+ from [keras](../k/keras.md).models [import](../i/import.md) Sequential
+ from [keras](../k/keras.md).layers [import](../i/import.md) LSTM, Dense
+
+ def lstm_model(input_shape):
+ model = Sequential()
+ model.add(LSTM(50, return_sequences=True, input_shape=input_shape))
+ model.add(LSTM(50))
+ model.add(Dense(1))
+ model.compile(optimizer='adam', loss='mean_squared_error')
+ [return](../r/return.md) model
+ ```
 
 ### 5. Event-Driven Algorithms
 
@@ -123,19 +123,19 @@
 
 **Implementation**:
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge the sentiment from news articles, tweets, and other textual data.
-    ```python
-    from textblob [import](../i/import.md) TextBlob
-    
-    def sentiment_analysis(text):
-        analysis = TextBlob(text)
-        [return](../r/return.md) analysis.sentiment.polarity
-    ```
+ ```python
+ from textblob [import](../i/import.md) TextBlob
+
+ def sentiment_analysis(text):
+ analysis = TextBlob(text)
+ [return](../r/return.md) analysis.sentiment.polarity
+ ```
 - **[Earnings Announcements](../e/earnings_announcements.md)**: Algorithms can be designed to analyze [earnings](../e/earnings.md) releases and predict subsequent performance based on historical reactions.
-    ```python
-    def earnings_analysis(earnings_release, historical_data):
-        reaction = historical_data[earnings_release]
-        [return](../r/return.md) reaction.mean() > historical_data.mean()
-    ```
+ ```python
+ def earnings_analysis(earnings_release, historical_data):
+ reaction = historical_data[earnings_release]
+ [return](../r/return.md) reaction.mean() > historical_data.mean()
+ ```
 
 ### 6. High-Frequency Trading Algorithms
 
@@ -143,23 +143,23 @@
 
 **Implementation**:
 - **[Market](../m/market.md) Making**: Creating [liquidity](../l/liquidity.md) by placing both buy and sell orders for the same [asset](../a/asset.md) to [profit](../p/profit.md) from the [bid-ask spread](../b/bid-ask_spread.md).
-    ```python
-    def market_making([asset](../a/asset.md), bid_price, ask_price, quantity):
-        buy_order = place_order([asset](../a/asset.md), 'buy', bid_price, quantity)
-        sell_order = place_order([asset](../a/asset.md), 'sell', ask_price, quantity)
-        [return](../r/return.md) buy_order, sell_order
-    ```
+ ```python
+ def market_making([asset](../a/asset.md), bid_price, ask_price, quantity):
+ buy_order = place_order([asset](../a/asset.md), 'buy', bid_price, quantity)
+ sell_order = place_order([asset](../a/asset.md), 'sell', ask_price, quantity)
+ [return](../r/return.md) buy_order, sell_order
+ ```
 - **Latency [Arbitrage](../a/arbitrage.md)**: Exploiting the time differences in price quoting on different exchanges.
-    ```python
-    def latency_arbitrage(exchange_a, exchange_b, [asset](../a/asset.md)):
-        price_a = get_price(exchange_a, [asset](../a/asset.md))
-        price_b = get_price(exchange_b, [asset](../a/asset.md))
-        if price_a < price_b:
-            buy_order = place_order(exchange_a, 'buy', price_a, 1)
-            sell_order = place_order(exchange_b, 'sell', price_b, 1)
-            [return](../r/return.md) buy_order, sell_order
-        [return](../r/return.md) None, None
-    ```
+ ```python
+ def latency_arbitrage(exchange_a, exchange_b, [asset](../a/asset.md)):
+ price_a = get_price(exchange_a, [asset](../a/asset.md))
+ price_b = get_price(exchange_b, [asset](../a/asset.md))
+ if price_a < price_b:
+ buy_order = place_order(exchange_a, 'buy', price_a, 1)
+ sell_order = place_order(exchange_b, 'sell', price_b, 1)
+ [return](../r/return.md) buy_order, sell_order
+ [return](../r/return.md) None, None
+ ```
 
 ### 7. Genetic Algorithms
 
@@ -167,29 +167,29 @@
 
 **Implementation**:
 - **Strategy [Optimization](../o/optimization.md)**: GAs can be used to evolve [trading strategies](../t/trading_strategies.md) by encoding different parameters and rules as 'genes' which can be combined and mutated to find optimal strategies.
-    ```python
-    [import](../i/import.md) random
-    
-    def mutate_strategy(strategy):
-        mutation = random.uniform(-0.1, 0.1)
-        [return](../r/return.md) [param + mutation for param in strategy]
+ ```python
+ [import](../i/import.md) random
 
-    def crossover_strategy(parent1, parent2):
-        cross_point = len(parent1) // 2
-        [return](../r/return.md) parent1[:cross_point] + parent2[cross_point:]
+ def mutate_strategy(strategy):
+ mutation = random.uniform(-0.1, 0.1)
+ [return](../r/return.md) [param + mutation for param in strategy]
 
-    def genetic_algorithm(strategies, fitness_func, generations=100):
-        for _ in [range](../r/range.md)(generations):
-            strategies = sorted(strategies, key=fitness_func, reverse=True)
-            new_gen = strategies[:len(strategies)//2]
-            while len(new_gen) < len(strategies):
-                parent1, parent2 = random.sample(new_gen, 2)
-                child = crossover_strategy(parent1, parent2)
-                child = mutate_strategy(child)
-                new_gen.append(child)
-            strategies = new_gen
-        [return](../r/return.md) strategies[0]
-    ```
+ def crossover_strategy(parent1, parent2):
+ cross_point = len(parent1) // 2
+ [return](../r/return.md) parent1[:cross_point] + parent2[cross_point:]
+
+ def genetic_algorithm(strategies, fitness_func, generations=100):
+ for _ in [range](../r/range.md)(generations):
+ strategies = sorted(strategies, key=fitness_func, reverse=True)
+ new_gen = strategies[:len(strategies)//2]
+ while len(new_gen) < len(strategies):
+ parent1, parent2 = random.sample(new_gen, 2)
+ child = crossover_strategy(parent1, parent2)
+ child = mutate_strategy(child)
+ new_gen.append(child)
+ strategies = new_gen
+ [return](../r/return.md) strategies[0]
+ ```
 
 ### Conclusion
 
@@ -197,6 +197,6 @@ Computational algorithms play a crucial role in [algorithmic trading](../a/algor
 
 ### Example Companies
 
-1. [Hudson River Trading](https://www.hudsonrivertrading.com)
-2. [Two Sigma](https://www.twosigma.com)
-3. [Citadel Securities](https://www.citadelsecurities.com)
+1. Hudson River Trading
+2. Two Sigma
+3. Citadel Securities

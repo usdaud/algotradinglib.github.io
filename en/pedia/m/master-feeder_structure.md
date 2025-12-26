@@ -51,6 +51,6 @@ A [hedge fund](../h/hedge_fund.md) might set up a Master [Fund](../f/fund.md) do
 
 ## Conclusion
 
-The Master-Feeder structure is a versatile and efficient [fund](../f/fund.md) management setup that allows [hedge](../h/hedge.md) funds to pool resources, reduce operational costs, and comply with varying regulatory requirements across jurisdictions. By centralizing investment activities in the Master [Fund](../f/fund.md), [hedge](../h/hedge.md) funds can achieve [economies of scale](../e/economies_of_scale.md), simplify administrative processes, and cater to a wide [range](../r/range.md) of investors. 
+The Master-Feeder structure is a versatile and efficient [fund](../f/fund.md) management setup that allows [hedge](../h/hedge.md) funds to pool resources, reduce operational costs, and comply with varying regulatory requirements across jurisdictions. By centralizing investment activities in the Master [Fund](../f/fund.md), [hedge](../h/hedge.md) funds can achieve [economies of scale](../e/economies_of_scale.md), simplify administrative processes, and cater to a wide [range](../r/range.md) of investors.
 
-For more detailed information, you can explore specific case studies and examples provided by [hedge fund](../h/hedge_fund.md) service providers, such as [Harneys](https://www.harneys.com/) and [Maples Group](https://www.maples.com/).
+For more detailed information, you can explore specific case studies and examples provided by [hedge fund](../h/hedge_fund.md) service providers, such as Harneys and Maples Group.

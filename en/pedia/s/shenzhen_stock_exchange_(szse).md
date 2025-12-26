@@ -9,46 +9,46 @@ The Shenzhen Stock [Exchange](../e/exchange.md) (SZSE) is one of the two major s
 The SZSE operates three main boards to cater to different types of companies and investors:
 
 1. **Main Board (主板):**
-   - Targets large, established companies with stable [earnings](../e/earnings.md).
-   - Hosts companies from traditional industries and several state-owned enterprises.
+ - Targets large, established companies with stable [earnings](../e/earnings.md).
+ - Hosts companies from traditional industries and several state-owned enterprises.
 
 2. **Small and Medium Enterprise Board (SME Board) (中小企业板):**
-   - Launched in 2004.
-   - Serves SMEs that may not meet the stringent requirements of the main board.
-   - Focuses on more diversified and often high-growth companies.
+ - Launched in 2004.
+ - Serves SMEs that may not meet the stringent requirements of the main board.
+ - Focuses on more diversified and often high-growth companies.
 
 3. **ChiNext [Market](../m/market.md) (创业板):**
-   - Introduced in 2009.
-   - Tailored for innovative and fast-growing enterprises, particularly in high-tech and strategic emerging industries.
-   - Often compared to the [NASDAQ](../n/nasdaq.md) in the United States.
+ - Introduced in 2009.
+ - Tailored for innovative and fast-growing enterprises, particularly in high-tech and strategic emerging industries.
+ - Often compared to the [NASDAQ](../n/nasdaq.md) in the United States.
 
 ## Listed Companies and Products
 
 The SZSE lists a wide [range](../r/range.md) of products, including:
 
 - **Equities:**
-  - Common [stocks](../s/stock.md) and preferred [stocks](../s/stock.md) of [listed](../l/listed.md) companies.
+ - Common [stocks](../s/stock.md) and preferred [stocks](../s/stock.md) of [listed](../l/listed.md) companies.
 - **[Fixed Income Securities](../f/fixed_income_securities.md):**
-  - Bonds including government bonds, corporate bonds, and convertible bonds.
+ - Bonds including government bonds, corporate bonds, and convertible bonds.
 - **Mutual Funds:**
-  - Various [mutual fund](../m/mutual_fund.md) products allowing collective investments.
+ - Various [mutual fund](../m/mutual_fund.md) products allowing collective investments.
 - **[Derivatives](../d/derivatives.md):**
-  - Includes stock [options](../o/options.md) and [futures](../f/futures.md).
+ - Includes stock [options](../o/options.md) and [futures](../f/futures.md).
 
 As of recent reports, the SZSE hosts more than 2,300 [listed](../l/listed.md) companies, with a combined [market capitalization](../m/market_capitalization.md) exceeding several trillion RMB.
 
 ## SZSE Indices
 
 The Shenzhen Stock [Exchange](../e/exchange.md) offers numerous indices to track the performance of different segments of the [market](../m/market.md):
-  
+
 - **SZSE Component [Index](../i/index_instrument.md) (深证成指):**
-  - Tracks 500 representative [stocks](../s/stock.md) chosen from the Shenzhen Main Board and SME Board.
+ - Tracks 500 representative [stocks](../s/stock.md) chosen from the Shenzhen Main Board and SME Board.
 - **ChiNext [Index](../i/index_instrument.md) (创业板指数):**
-  - Follows the top 100 companies [listed](../l/listed.md) on the ChiNext [Market](../m/market.md).
+ - Follows the top 100 companies [listed](../l/listed.md) on the ChiNext [Market](../m/market.md).
 - **SME [Index](../i/index_instrument.md) (中小板指数):**
-  - Comprises 100 [stocks](../s/stock.md) from the SME Board.
+ - Comprises 100 [stocks](../s/stock.md) from the SME Board.
 - **Sectoral Indices:**
-  - Includes indices focusing on specific sectors like [finance](../f/finance.md), healthcare, technology, etc.
+ - Includes indices focusing on specific sectors like [finance](../f/finance.md), healthcare, technology, etc.
 
 ## Trading Mechanism
 
@@ -61,9 +61,9 @@ The SZSE conducts trading from Monday to Friday, with specific sessions:
 ### Trading Rules
 
 - **Price Limits:**
-  - Most [stocks](../s/stock.md) have a daily price fluctuation limit of ±10%. ChiNext [stocks](../s/stock.md) can fluctuate by ±20% from the previous closing price.
+ - Most [stocks](../s/stock.md) have a daily price fluctuation limit of ±10%. ChiNext [stocks](../s/stock.md) can fluctuate by ±20% from the previous closing price.
 - **[Tick Size](../t/tick_size.md):**
-  - The minimum price movement ([tick size](../t/tick_size.md)) is 0.01 RMB.
+ - The minimum price movement ([tick size](../t/tick_size.md)) is 0.01 RMB.
 
 ### Order Types
 
@@ -112,7 +112,7 @@ The Shenzhen Stock [Exchange](../e/exchange.md) is pioneering the integration of
 
 ### Algorithms in SZSE
 
-[Algorithmic trading](../a/accountability.md) is growing within the SZSE, driven by high-frequency trading (HFT) firms and institutional investors. Some typical algorithms include:
+[Algorithmic trading](../a/algorithmic_trading.md) is growing within the SZSE, driven by high-frequency trading (HFT) firms and institutional investors. Some typical algorithms include:
 
 - **[Market Making Algorithms](../m/market_making_algorithms.md):** Provides [liquidity](../l/liquidity.md) by continuously quoting [bid and ask](../b/bid_and_ask.md) prices.
 - **[Arbitrage](../a/arbitrage.md) Algorithms:** Exploits price differences of an [asset](../a/asset.md) across different markets or forms (e.g., ETF vs. [underlying](../u/underlying.md) basket).
@@ -120,7 +120,7 @@ The Shenzhen Stock [Exchange](../e/exchange.md) is pioneering the integration of
 
 ### Regulations
 
-The SZSE, under CSRC oversight, ensures [algorithmic trading](../a/accountability.md) is monitored to maintain [market](../m/market.md) fairness and mitigate risks associated with high-frequency trading and other strategies.
+The SZSE, under CSRC oversight, ensures [algorithmic trading](../a/algorithmic_trading.md) is monitored to maintain [market](../m/market.md) fairness and mitigate risks associated with high-frequency trading and other strategies.
 
 ## Recent Developments and Future Outlook
 
@@ -144,4 +144,4 @@ The [exchange](../e/exchange.md) continues to explore digital transformations to
 
 The Shenzhen Stock [Exchange](../e/exchange.md) is a dynamic cornerstone of China's financial [market](../m/market.md), reflecting the country's rapid [economic growth](../e/economic_growth.md) and technological advancements. As it continues to evolve with global [market](../m/market.md) trends and domestic policy developments, the SZSE is poised to play an even more significant role in the future landscape of global [finance](../f/finance.md).
 
-For further information, visit the official Shenzhen Stock [Exchange](../e/exchange.md) website: [www.szse.cn](http://www.szse.cn).
+For further information, visit the official Shenzhen Stock [Exchange](../e/exchange.md) online platform

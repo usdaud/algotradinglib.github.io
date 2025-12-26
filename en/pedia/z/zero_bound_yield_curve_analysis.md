@@ -7,14 +7,14 @@ In the realm of [finance](../f/finance.md), the [yield curve](../y/yield_curve.m
 To understand the zero bound [yield curve](../y/yield_curve.md), we first need to comprehend the basic elements of a [yield curve](../y/yield_curve.md):
 
 1. **Types of [Yield](../y/yield.md) Curves**:
-   - **Normal [Yield Curve](../y/yield_curve.md)**: Upward sloping, indicating higher yields for longer-term bonds.
-   - **Inverted [Yield Curve](../y/yield_curve.md)**: Downward sloping, indicating higher yields for shorter-term bonds, often a predictor of economic [recession](../r/recession.md).
-   - **Flat [Yield Curve](../y/yield_curve.md)**: Indicates similar yields for bonds of different maturities.
+ - **Normal [Yield Curve](../y/yield_curve.md)**: Upward sloping, indicating higher yields for longer-term bonds.
+ - **Inverted [Yield Curve](../y/yield_curve.md)**: Downward sloping, indicating higher yields for shorter-term bonds, often a predictor of economic [recession](../r/recession.md).
+ - **Flat [Yield Curve](../y/yield_curve.md)**: Indicates similar yields for bonds of different maturities.
 
 2. **Factors Influencing [Yield](../y/yield.md) Curves**:
-   - **[Economic Indicators](../e/economic_indicators.md)**: [Inflation](../i/inflation.md), GDP growth, employment data.
-   - **[Monetary Policy](../m/monetary_policy.md)**: Central [bank](../b/bank.md) rate adjustments.
-   - **[Market](../m/market.md) Sentiments**: Investors’ expectations and [risk](../r/risk.md) appetite.
+ - **[Economic Indicators](../e/economic_indicators.md)**: [Inflation](../i/inflation.md), GDP growth, employment data.
+ - **[Monetary Policy](../m/monetary_policy.md)**: Central [bank](../b/bank.md) rate adjustments.
+ - **[Market](../m/market.md) Sentiments**: Investors’ expectations and [risk](../r/risk.md) appetite.
 
 ### Zero Lower Bound (ZLB)
 
@@ -34,13 +34,13 @@ When [interest](../i/interest.md) rates are at the ZLB, the [yield curve](../y/y
 Zero Bound [Yield Curve](../y/yield_curve.md) Analysis requires sophisticated [quantitative models](../q/quantitative_models.md) and a keen understanding of economic theories. Below are some methods:
 
 1. **Dynamic Term Structure Models (DTSM)**:
-   These models incorporate [risk factors](../r/risk_factors_in_trading.md) and [stochastic processes](../s/stochastic_processes.md) to model the [yield curve](../y/yield_curve.md)'s evolution over time. For example, the **Affine Term Structure Models (ATSM)** allow for a simple representation of [interest](../i/interest.md) rates and [risk](../r/risk.md) premiums.
+ These models incorporate [risk factors](../r/risk_factors_in_trading.md) and [stochastic processes](../s/stochastic_processes.md) to model the [yield curve](../y/yield_curve.md)'s evolution over time. For example, the **Affine Term Structure Models (ATSM)** allow for a simple representation of [interest](../i/interest.md) rates and [risk](../r/risk.md) premiums.
 
 2. **Regime-Switching Models**:
-   Capture different economic regimes (e.g., high growth vs. [recession](../r/recession.md)) and their impact on the [yield curve](../y/yield_curve.md). Models like the **Markov Chain Monte Carlo (MCMC)** methods estimate the probability of switching between regimes.
+ Capture different economic regimes (e.g., high growth vs. [recession](../r/recession.md)) and their impact on the [yield curve](../y/yield_curve.md). Models like the **Markov Chain Monte Carlo (MCMC)** methods estimate the probability of switching between regimes.
 
 3. **DSGE Models (Dynamic Stochastic General [Equilibrium](../e/equilibrium.md))**:
-   These models incorporate macroeconomic variables and [monetary policy](../m/monetary_policy.md) rules to simulate the [yield curve](../y/yield_curve.md) under various scenarios, including ZLB conditions.
+ These models incorporate macroeconomic variables and [monetary policy](../m/monetary_policy.md) rules to simulate the [yield curve](../y/yield_curve.md) under various scenarios, including ZLB conditions.
 
 ### Key Studies and Insights
 
@@ -51,9 +51,9 @@ Numerous studies and insights have emerged in recent years about the zero bound 
 ### Central Banks and Policy Implications
 
 Prominent central banks' experiences with zero bound [yield curve](../y/yield_curve.md) management provide essential insights:
-- **Federal Reserve**: [Federal Reserve Website](https://www.federalreserve.gov)
-- **European Central [Bank](../b/bank.md) (ECB)**: [European Central Bank Website](https://www.ecb.europa.eu)
-- **[Bank](../b/bank.md) of Japan (BoJ)**: [Bank of Japan Website](https://www.boj.or.jp)
+- **Federal Reserve**:
+- **European Central [Bank](../b/bank.md) (ECB)**:
+- **[Bank](../b/bank.md) of Japan (BoJ)**:
 
 These institutions have implemented various unconventional monetary policies (e.g., [negative interest rate](../n/negative_interest_rate.md) policies, QE) to navigate ZLB challenges.
 

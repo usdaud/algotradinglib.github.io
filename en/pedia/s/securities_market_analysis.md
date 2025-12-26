@@ -70,10 +70,10 @@ High-Frequency Trading involves executing orders at incredibly high speeds using
 
 Several companies and platforms are at the forefront of securities [market](../m/market.md) analysis and [algorithmic trading](../a/algorithmic_trading.md). Examples include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: A software system providing financial data, analytics, and trading tools. (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Another [market](../m/market.md) information platform that offers tools for analyzing [financial markets](../f/financial_market.md). (https://www.refinitiv.com/en/products/eikon-trading-software)
-- **[QuantConnect](../q/quantconnect.md)**: A quant [trading platform](../t/trading_platform.md) that offers a community-driven [algorithmic trading](../a/algorithmic_trading.md) environment. (https://www.[quantconnect](../q/quantconnect.md).com/)
-- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and other data-driven techniques for trading. (https://www.twosigma.com/)
-- **Kensho**: Acquired by S&P Global, Kensho uses [machine learning](../m/machine_learning.md) to analyse financial data and make predictions. (https://www.kensho.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A software system providing financial data, analytics, and trading tools. (
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Another [market](../m/market.md) information platform that offers tools for analyzing [financial markets](../f/financial_market.md). (
+- **[QuantConnect](../q/quantconnect.md)**: A quant [trading platform](../t/trading_platform.md) that offers a community-driven [algorithmic trading](../a/algorithmic_trading.md) environment. (
+- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and other data-driven techniques for trading. (
+- **Kensho**: Acquired by S&P Global, Kensho uses [machine learning](../m/machine_learning.md) to analyse financial data and make predictions. (
 
 Understanding securities [market](../m/market.md) analysis is crucial for anyone involved in [financial markets](../f/financial_market.md), whether for personal investment or professional trading. Its applications span across various financial institutions, [hedge](../h/hedge.md) funds, and trading firms, underscoring its importance in modern [finance](../f/finance.md).

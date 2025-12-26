@@ -91,17 +91,17 @@ Optimal f is a [position sizing](../p/position_sizing.md) method developed by Ra
 Many [automated trading systems](../a/automated_trading_systems.md) integrate [position sizing](../p/position_sizing.md) algorithms to enhance performance while managing [risk](../r/risk.md). These systems can be custom-built or purchased from vendors.
 
 ### Companies
-- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com) - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [position sizing](../p/position_sizing.md) techniques.
-- **Quantinsti**: [https://www.quantinsti.com](https://www.quantinsti.com) - Provides educational resources on financial technology and [trading strategies](../t/trading_strategies.md), including [position sizing](../p/position_sizing.md) algorithms.
-- **MetaTrader 5**: [https://www.metatrader5.com](https://www.metatrader5.com) - Popular [trading platform](../t/trading_platform.md) that offers script-based automation for implementing [position sizing](../p/position_sizing.md) strategies.
+- **[QuantConnect](../q/quantconnect.md)**: - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [position sizing](../p/position_sizing.md) techniques.
+- **Quantinsti**: - Provides educational resources on financial technology and [trading strategies](../t/trading_strategies.md), including [position sizing](../p/position_sizing.md) algorithms.
+- **MetaTrader 5**: - Popular [trading platform](../t/trading_platform.md) that offers script-based automation for implementing [position sizing](../p/position_sizing.md) strategies.
 
 ### Risk Management Software
-- **Riskalyze**: [https://www.riskalyze.com](https://www.riskalyze.com) - Helps traders and investors assess [risk](../r/risk.md) and [profit](../p/profit.md) potential using various algorithms.
-- **Tradervue**: [https://www.tradervue.com](https://www.tradervue.com) - Provides tools for [trade](../t/trade.md) analysis and [risk management](../r/risk_management.md), including [position sizing](../p/position_sizing.md) recommendations.
-  
+- **Riskalyze**: - Helps traders and investors assess [risk](../r/risk.md) and [profit](../p/profit.md) potential using various algorithms.
+- **Tradervue**: - Provides tools for [trade](../t/trade.md) analysis and [risk management](../r/risk_management.md), including [position sizing](../p/position_sizing.md) recommendations.
+
 ### Libraries and Frameworks
-- **Pandas**: [https://pandas.pydata.org](https://pandas.pydata.org) - A data analysis library for Python that can be used to analyze historical [trade](../t/trade.md) data for determining position sizes.
-- **PyAlgoTrade**: [https://github.com/gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade) - A Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), including features for [position sizing](../p/position_sizing.md).
+- **Pandas**: - A data analysis library for Python that can be used to analyze historical [trade](../t/trade.md) data for determining position sizes.
+- **PyAlgoTrade**: - A Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), including features for [position sizing](../p/position_sizing.md).
 
 ## Conclusion
 

@@ -5,7 +5,7 @@ A "naked put," also known as an "uncovered put," is an [options](../o/options.md
 ### Mechanics of the Naked Put Strategy
 
 1. **Selling the [Put Option](../p/put.md)**: When an [investor](../i/investor.md) sells a [put option](../p/put.md), they agree to buy the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md) if the option is exercised by the buyer before expiration.
-   
+
 2. **Collecting [Premium](../p/premium.md)**: Upon selling the [put option](../p/put.md), the seller immediately collects a [premium](../p/premium.md), which is the price paid by the buyer for the option. This [premium](../p/premium.md) is the [profit](../p/profit.md) that the seller [will](../w/will.md) keep if the option expires worthless (i.e., if the price of the [underlying asset](../u/underlying_asset.md) stays above the [strike price](../s/strike_price.md)).
 
 3. **Obligation to Buy**: If the [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md) falls below the [strike price](../s/strike_price.md) before or at the option's expiration, the seller may be obligated to purchase the [asset](../a/asset.md) at the [strike price](../s/strike_price.md), leading to potential losses.
@@ -15,12 +15,12 @@ A "naked put," also known as an "uncovered put," is an [options](../o/options.md
 Let's break down a concrete example to illustrate the concept better:
 
 1. **Current Scenario**:
-   - Stock X is currently trading at $50.
-   - A [trader](../t/trader.md) sells a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $45 for a [premium](../p/premium.md) of $2.
+ - Stock X is currently trading at $50.
+ - A [trader](../t/trader.md) sells a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $45 for a [premium](../p/premium.md) of $2.
 
 2. **Outcomes**:
-   - If Stock X stays above $45 until the option’s expiration, the [put option](../p/put.md) expires worthless. The seller keeps the [premium](../p/premium.md) of $2 as [profit](../p/profit.md).
-   - If Stock X falls to $40, the option holder [will](../w/will.md) [exercise](../e/exercise.md) the put. The seller must buy Stock X at $45, making an effective loss of $3 per share ($45 [strike price](../s/strike_price.md) - $40 [market price](../m/market_price.md) - $2 [premium](../p/premium.md) received).
+ - If Stock X stays above $45 until the option’s expiration, the [put option](../p/put.md) expires worthless. The seller keeps the [premium](../p/premium.md) of $2 as [profit](../p/profit.md).
+ - If Stock X falls to $40, the option holder [will](../w/will.md) [exercise](../e/exercise.md) the put. The seller must buy Stock X at $45, making an effective loss of $3 per share ($45 [strike price](../s/strike_price.md) - $40 [market price](../m/market_price.md) - $2 [premium](../p/premium.md) received).
 
 ### Risk and Reward
 
@@ -70,9 +70,9 @@ Imagine an [investor](../i/investor.md) believes Tesla stock, currently trading 
 - **Initial Setup**: Seller receives a $20 [premium](../p/premium.md) per option.
 - **Break-Even Point**: $630 ([strike price](../s/strike_price.md) of $650 minus the $20 [premium](../p/premium.md)).
 - **Scenarios**:
-  - **Stock Above $650 at Expiry**: The [put option](../p/put.md) expires worthless, and the seller keeps the $20 [premium](../p/premium.md).
-  - **Stock Below $650 but Above $630**: Seller incurs a loss but is cushioned by the $20 [premium](../p/premium.md).
-  - **Stock Below $630**: Seller starts making an effective loss beyond the collected [premium](../p/premium.md).
+ - **Stock Above $650 at Expiry**: The [put option](../p/put.md) expires worthless, and the seller keeps the $20 [premium](../p/premium.md).
+ - **Stock Below $650 but Above $630**: Seller incurs a loss but is cushioned by the $20 [premium](../p/premium.md).
+ - **Stock Below $630**: Seller starts making an effective loss beyond the collected [premium](../p/premium.md).
 
 ### Conclusion
 
@@ -80,6 +80,6 @@ Naked puts can be a [lucrative](../l/lucrative.md) strategy for experienced trad
 
 ### References
 
-- [Tesla Motors](https://www.tesla.com/)
-- [Investopedia on Naked Puts](https://www.investopedia.com/terms/n/nakedput.asp)
-- [Options Industry Council](https://www.optionseducation.org/)
+- Tesla Motors
+- Investopedia on Naked Puts
+- Options Industry Council

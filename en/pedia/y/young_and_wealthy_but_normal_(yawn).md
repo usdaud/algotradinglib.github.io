@@ -10,7 +10,7 @@ YAWN investors are typically individuals aged between 25 and 45 who have achieve
 
 ### Lifestyle Choices
 
-One of the defining characteristics of YAWN investors is their tendency to live modestly. They may choose to reside in urban areas with access to cultural activities, public transportation, and community engagement, rather than isolating themselves in luxurious, gated communities. They often prioritize experiences over material possessions, seek work-life balance, and [value](../v/value.md) personal relationships and community involvement. 
+One of the defining characteristics of YAWN investors is their tendency to live modestly. They may choose to reside in urban areas with access to cultural activities, public transportation, and community engagement, rather than isolating themselves in luxurious, gated communities. They often prioritize experiences over material possessions, seek work-life balance, and [value](../v/value.md) personal relationships and community involvement.
 
 ### Technological Proficiency
 

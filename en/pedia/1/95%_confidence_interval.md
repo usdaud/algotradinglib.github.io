@@ -47,16 +47,16 @@ In [algorithmic trading](../a/algorithmic_trading.md), understanding and managin
 To calculate a 95% [confidence interval](../c/confidence_interval.md) for the population mean when the population [standard deviation](../s/standard_deviation.md) is known, the following steps are generally followed:
 
 1. **Calculate the Sample Mean (\(\bar{X}\))**: Sum all the observations and divide by the number of observations.
-  
+
 2. **Determine the Population [Standard Deviation](../s/standard_deviation.md) (\(\sigma\))**: If this is not known, it [will](../w/will.md) have to be estimated from the sample.
-  
+
 3. **Find the [Z-value](../z/z-value_in_trading.md) (\(Z_{\[alpha](../a/alpha.md)/2}\))**: For a 95% [confidence interval](../c/confidence_interval.md), the [Z-value](../z/z-value_in_trading.md) is 1.96.
-  
+
 4. **Compute the [Margin](../m/margin.md) of Error (ME)**:
-   \[ ME = Z_{\[alpha](../a/alpha.md)/2} \left( \frac{\sigma}{\sqrt{n}} \right) \]
+ \[ ME = Z_{\[alpha](../a/alpha.md)/2} \left( \frac{\sigma}{\sqrt{n}} \right) \]
 
 5. **Determine the [Confidence Interval](../c/confidence_interval.md)**:
-   \[ \text{CI} = \bar{X} \pm ME \]
+ \[ \text{CI} = \bar{X} \pm ME \]
 
 ### Example Calculation
 
@@ -70,24 +70,23 @@ Suppose an algorithmic [trader](../t/trader.md) wants to estimate the average da
 
 4. **Sample Size (n)**: 50
 
-5. **[Margin](../m/margin.md) of Error (ME)**: 
-   \[ ME = 1.96 \left( \frac{0.002}{\sqrt{50}} \right) = 1.96 \left( 0.000283 \right) \approx 0.000555 \]
+5. **[Margin](../m/margin.md) of Error (ME)**:
+ \[ ME = 1.96 \left( \frac{0.002}{\sqrt{50}} \right) = 1.96 \left( 0.000283 \right) \approx 0.000555 \]
 
-6. **95% [Confidence Interval](../c/confidence_interval.md)**: 
-   \[ CI = 0.0012 \pm 0.000555 \]
-   \[ CI = (0.000645, 0.001755) \]
+6. **95% [Confidence Interval](../c/confidence_interval.md)**:
+ \[ CI = 0.0012 \pm 0.000555 \]
+ \[ CI = (0.000645, 0.001755) \]
 
 Thus, the [trader](../t/trader.md) can be 95% confident that the true average daily [return](../r/return.md) of the stock lies between 0.000645 and 0.001755.
 
 ## Real-World Example
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is a popular [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and execute [trading strategies](../t/trading_strategies.md). On this platform, traders can use historical [market](../m/market.md) data to backtest their algorithms and calculate [confidence intervals](../c/confidence_intervals.md) to evaluate strategy performance.
+[StockSharp](../s/stocksharp.md) is a popular [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and execute [trading strategies](../t/trading_strategies.md). On this platform, traders can use historical [market](../m/market.md) data to backtest their algorithms and calculate [confidence intervals](../c/confidence_intervals.md) to evaluate strategy performance.
 
-Visit [QuantConnect](../q/quantconnect.md) here:
-[QuantConnect](https://www.quantconnect.com/)
+Visit [StockSharp](../s/stocksharp.md) here:
 
 ## Conclusion
 
-In summary, the 95% [confidence interval](../c/confidence_interval.md) is a fundamental statistical tool that is extensively used in various aspects of [algorithmic trading](../a/algorithmic_trading.md). By providing a [range](../r/range.md) for parameter estimates and allowing for the assessment of [statistical significance](../s/statistical_significance.md), [confidence intervals](../c/confidence_intervals.md) help traders make more informed decisions. Whether it is estimating expected returns, [backtesting](../b/backtesting.md) strategies, or managing portfolio risks, understanding and applying [confidence intervals](../c/confidence_intervals.md) can significantly enhance the robustness and reliability of [trading algorithms](../t/trading_algorithms.md).
+In summary, the 95% [confidence interval](../c/confidence_interval.md) is a fundamental statistical tool that is extensively used in various aspects of [algorithmic trading](../a/algorithmic_trading.md). By providing a [range](../r/range.md) for parameter estimates and allowing for the assessment of [statistical significance](../s/statistical_significance.md), [confidence intervals](../c/confidence_intervals.md) help traders make more informed decisions. Whether it is estimating expected returns, [backtesting](../b/backtesting.md) strategies, or managing portfolio risks, understanding and applying [confidence intervals](../c/confidence_intervals.md) can significantly enhance the robustness and reliability of [trading algorithms](../t/trading_algorithms.md).

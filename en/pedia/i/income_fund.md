@@ -105,15 +105,15 @@ There are many [income](../i/income.md) funds available to investors, managed by
 
 ### Vanguard Group, Inc.
 
-[Vanguard High Dividend Yield Index Fund (VYM)](https://investor.vanguard.com/mutual-funds/profile/VYM): This ETF seeks to track the performance of the FTSE High [Dividend Yield](../d/dividend_yield.md) [Index](../i/index_instrument.md), focusing on large U.S. [stocks](../s/stock.md) that are forecasted to have above-average [dividend](../d/dividend.md) yields.
+Vanguard High Dividend Yield Index Fund (VYM): This ETF seeks to track the performance of the FTSE High [Dividend Yield](../d/dividend_yield.md) [Index](../i/index_instrument.md), focusing on large U.S. [stocks](../s/stock.md) that are forecasted to have above-average [dividend](../d/dividend.md) yields.
 
 ### BlackRock, Inc.
 
-[iShares iBoxx $ Investment Grade Corporate Bond ETF (LQD)](https://www.ishares.com/us/products/239726/ishares-iboxx-investment-grade-corporate-bond-etf): This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of U.S. dollar-denominated, investment-grade corporate bonds.
+iShares iBoxx $ Investment Grade Corporate Bond ETF (LQD): This ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of U.S. dollar-denominated, investment-grade corporate bonds.
 
 ### Fidelity Investments
 
-[Fidelity GNMA Fund (FGMNX)](https://fundresearch.fidelity.com/mutual-funds/summary/31617K105): The [fund](../f/fund.md) aims to provide [interest](../i/interest.md) [income](../i/income.md) by [investing](../i/investing.md) at least 80% of its assets in [mortgage](../m/mortgage.md)-backed securities.
+Fidelity GNMA Fund (FGMNX): The [fund](../f/fund.md) aims to provide [interest](../i/interest.md) [income](../i/income.md) by [investing](../i/investing.md) at least 80% of its assets in [mortgage](../m/mortgage.md)-backed securities.
 
 ## Conclusion
 

@@ -1,8 +1,8 @@
 # Moore's Law
 
-Moore's Law is a prediction made by Gordon Moore in 1965, co-founder of Intel [Corporation](../c/corporation.md), which states that the number of transistors on a microchip doubles approximately every two years, though the cost of computers is halved. This prediction has held steady for several decades and has been a significant [factor](../f/factor.md) in the [exponential growth](../e/exponential_growth.md) of computing technology. It has implications not only for hardware development but also for a [range](../r/range.md) of fields that depend on computational power, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and financial technology (fintech). 
+Moore's Law is a prediction made by Gordon Moore in 1965, co-founder of Intel [Corporation](../c/corporation.md), which states that the number of transistors on a microchip doubles approximately every two years, though the cost of computers is halved. This prediction has held steady for several decades and has been a significant [factor](../f/factor.md) in the [exponential growth](../e/exponential_growth.md) of computing technology. It has implications not only for hardware development but also for a [range](../r/range.md) of fields that depend on computational power, such as [artificial intelligence](../a/artificial_intelligence_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and financial technology (fintech).
 
-Moore's Law has influenced the development and performance of algorithms in algotrading ([algorithmic trading](../a/accountability.md)) and other financial systems due to the increased processing power available for complex calculations and data analysis.
+Moore's Law has influenced the development and performance of algorithms in algotrading ([algorithmic trading](../a/algorithmic_trading.md)) and other financial systems due to the increased processing power available for complex calculations and data analysis.
 
 ## Background
 
@@ -28,7 +28,7 @@ More advanced [manufacturing](../m/manufacturing.md) processes have enabled not 
 
 ## Impact on Algotrading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, involves using algorithms to execute trades at speeds and frequencies that are impossible for human traders. As computing power has increased following Moore's Law, algotrading has evolved in several ways:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves using algorithms to execute trades at speeds and frequencies that are impossible for human traders. As computing power has increased following Moore's Law, algotrading has evolved in several ways:
 
 ### 1. **High-Frequency Trading (HFT)**
 High-frequency trading relies on fast [execution](../e/execution.md) speeds and low-latency systems to [capitalize](../c/capitalize.md) on minute price discrepancies in [financial markets](../f/financial_market.md). The enhanced processing power predicted by Moore's Law has enabled HFT firms to execute millions of transactions per second, giving them a competitive edge.
@@ -47,7 +47,7 @@ The reduction in costs per transistor has lowered the barrier to entry for firms
 
 ## Challenges and Criticisms
 
-While Moore's Law has been a reliable [trend](../t/trend.md) for several decades, there are signs that we are approaching physical and economic limits to this [exponential growth](../e/exponential_growth.md). 
+While Moore's Law has been a reliable [trend](../t/trend.md) for several decades, there are signs that we are approaching physical and economic limits to this [exponential growth](../e/exponential_growth.md).
 
 ### 1. **Physical Limitations**
 Transistors are approaching sizes where quantum effects become significant, leading to issues such as electron [leakage](../l/leakage.md) and heat dissipation. These physical limitations make it increasingly difficult to continue shrinking transistor sizes without encountering significant performance and reliability issues.

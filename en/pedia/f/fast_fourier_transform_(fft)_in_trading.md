@@ -74,8 +74,8 @@ print("Reconstructed Signal: ", reconstructed_signal)
 ### Platforms and Services
 
 Several trading platforms incorporate FFT for [technical analysis](../t/technical_analysis.md) and strategy development. For example:
-- [QuantConnect](https://www.quantconnect.com/): Offers a [quantitative trading](../q/quantitative_trading.md) platform with integrated FFT functions.
-- [TradeStation](https://www.tradestation.com/): Supports FFT through its EasyLanguage scripting language.
+- QuantConnect: Offers a [quantitative trading](../q/quantitative_trading.md) platform with integrated FFT functions.
+- TradeStation: Supports FFT through its EasyLanguage scripting language.
 
 ## Case Study: FFT in Algorithmic Trading
 

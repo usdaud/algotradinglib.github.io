@@ -60,7 +60,7 @@ Despite these criticisms, the principles of classical [economics](../e/economics
 
 ### Institutions and Publications
 
-Many modern economic institutions, research bodies, and publications grapple with the principles first articulated by classical economists. Platforms such as the Adam Smith Institute ([link](https://www.adamsmith.org/)) and publications like The [Economist](../e/economist.md) frequently discuss and analyze economic policies through a lens that can trace its roots back to classical economic theories.
+Many modern economic institutions, research bodies, and publications grapple with the principles first articulated by classical economists. Platforms such as the Adam Smith Institute (link) and publications like The [Economist](../e/economist.md) frequently discuss and analyze economic policies through a lens that can trace its roots back to classical economic theories.
 
 ## Conclusion
 

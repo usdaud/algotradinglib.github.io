@@ -79,10 +79,10 @@ Heterodox [economics](../e/economics.md) is dynamic and continuously evolving. C
 
 Several organizations and resources support the study and dissemination of heterodox [economics](../e/economics.md):
 
-- **Association for [Social Economics](../s/social_economics.md) (ASE)**: Promotes research and scholarship in [social economics](../s/social_economics.md) (Visit: [ASE](https://socialeconomics.org/)).
-- **International Association for Feminist [Economics](../e/economics.md) (IAFFE)**: Advances feminist inquiry into economic issues (Visit: [IAFFE](https://www.iaffe.org/)).
-- **International Network for Economic Method (INEM)**: Fosters dialogue on economic method and philosophy (Visit: [INEM](https://www.inem.bwl.uni-muenchen.de/)).
-- **European Association for Evolutionary [Political Economy](../p/political_economy.md) (EAEPE)**: Supports research in evolutionary and institutional [economics](../e/economics.md) (Visit: [EAEPE](https://eaepe.org/)).
+- **Association for [Social Economics](../s/social_economics.md) (ASE)**: Promotes research and scholarship in [social economics](../s/social_economics.md) (Visit: ASE).
+- **International Association for Feminist [Economics](../e/economics.md) (IAFFE)**: Advances feminist inquiry into economic issues (Visit: IAFFE).
+- **International Network for Economic Method (INEM)**: Fosters dialogue on economic method and philosophy (Visit: INEM).
+- **European Association for Evolutionary [Political Economy](../p/political_economy.md) (EAEPE)**: Supports research in evolutionary and institutional [economics](../e/economics.md) (Visit: EAEPE).
 
 ## Conclusion
 

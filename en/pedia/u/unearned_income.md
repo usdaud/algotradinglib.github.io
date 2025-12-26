@@ -85,15 +85,15 @@ Rental [income](../i/income.md) is subject to risks like property damage, tenant
 
 Financial technology (FinTech) platforms have revolutionized the way individuals can earn unearned [income](../i/income.md). Apps like [Robinhood](../r/robinhood.md) and Betterment [offer](../o/offer.md) opportunities to invest in [stocks](../s/stock.md), bonds, and ETFs with ease.
 
-- **[Robinhood](../r/robinhood.md):** Provides [commission](../c/commission.md)-free trading for [stocks](../s/stock.md) and ETFs, enabling even small investors to create a diversified portfolio to earn [dividend](../d/dividend.md) [income](../i/income.md). [Learn more](https://robinhood.com)
-- **Betterment:** Offers automated [investing](../i/investing.md) and retirement solutions aimed at simplifying the process of earning [income](../i/income.md) through investments. [Learn more](https://www.betterment.com)
+- **[Robinhood](../r/robinhood.md):** Provides [commission](../c/commission.md)-free trading for [stocks](../s/stock.md) and ETFs, enabling even small investors to create a diversified portfolio to earn [dividend](../d/dividend.md) [income](../i/income.md). Learn more
+- **Betterment:** Offers automated [investing](../i/investing.md) and retirement solutions aimed at simplifying the process of earning [income](../i/income.md) through investments. Learn more
 
 ### Algo-Trading
 
 [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) use complex algorithms to execute trades with minimal human intervention. This technology allows investors to take advantage of [market](../m/market.md) efficiencies and automated strategies for generating unearned [income](../i/income.md).
 
-- **[QuantConnect](../q/quantconnect.md):** Provides a platform for designing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Users can create strategies that focus on [dividend](../d/dividend.md) capture, [interest rate arbitrage](../i/interest_rate_arbitrage.md), and more. [Learn more](https://www.quantconnect.com)
-- **[Alpaca](../a/alpaca.md):** Offers [commission](../c/commission.md)-free trading and supports [algorithmic trading](../a/accountability.md) via API, allowing for automated investment strategies. [Learn more](https://alpaca.markets)
+- **[QuantConnect](../q/quantconnect.md):** Provides a platform for designing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Users can create strategies that focus on [dividend](../d/dividend.md) capture, [interest rate arbitrage](../i/interest_rate_arbitrage.md), and more. Learn more
+- **[Alpaca](../a/alpaca.md):** Offers [commission](../c/commission.md)-free trading and supports [algorithmic trading](../a/algorithmic_trading.md) via API, allowing for automated investment strategies. Learn more
 
 ## Conclusion
 

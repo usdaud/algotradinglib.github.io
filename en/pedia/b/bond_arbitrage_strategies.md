@@ -18,7 +18,7 @@ For instance, if a [convertible bond](../c/convertible_bond.md) is priced lower 
 In this scenario, an [arbitrageur](../a/arbitrageur.md) can [profit](../p/profit.md) because the [bond](../b/bond.md) price is lower than its implied conversion [value](../v/value.md). The [arbitrageur](../a/arbitrageur.md) might buy the [convertible bond](../c/convertible_bond.md) at $870 and simultaneously short-sell Tesla stock worth $950, thus locking in a potential [profit](../p/profit.md).
 
 ### Further Reading
-- [Tesla's Convertible Bond Details](https://www.tesla.com/convertible-bond)
+- Tesla's Convertible Bond Details
 
 ## Merger Arbitrage
 
@@ -36,7 +36,7 @@ Arbitrageurs [will](../w/will.md) buy the target company's bonds if they believe
 An [arbitrageur](../a/arbitrageur.md) might see the $3 increase per $100 [face value](../f/face_value.md) as a [risk premium](../r/risk_premium.md) and decide whether there's room for further [gain](../g/gain.md) or potential downside based on [due diligence](../d/due_diligence.md) and [market](../m/market.md) sentiments.
 
 ### Further Reading
-- [Mergers & Acquisitions Research Papers](https://www.researchgate.net/topic/Mergers-and-Acquisitions)
+- Mergers & Acquisitions Research Papers
 
 ## Municipal Bond Arbitrage
 
@@ -53,7 +53,7 @@ For instance, a common muni [arbitrage](../a/arbitrage.md) strategy could involv
 A [hedge fund](../h/hedge_fund.md) may exploit the relative [yield](../y/yield.md) difference by leveraging the [municipal bonds](../m/municipal_bonds.md) for a tax-adjusted spread. The difference becomes more pronounced when [interest](../i/interest.md) rates experience significant changes.
 
 ### Further Reading
-- [California Municipal Bond Fund](https://www.californiamuni.com)
+- California Municipal Bond Fund
 
 ## Interest Rate Arbitrage
 
@@ -69,7 +69,7 @@ For instance, if the [interest rate](../i/interest_rate.md) in the U.S. is lower
 By borrowing in USD and converting to EUR to invest in European bonds, the [arbitrageur](../a/arbitrageur.md) can [capitalize](../c/capitalize.md) on the 1.5% [interest rate](../i/interest_rate.md) differential, adjusting for [currency](../c/currency.md) fluctuations and [transaction costs](../t/transaction_costs.md).
 
 ### Further Reading
-- [Global Interest Rate Data](https://www.investing.com/rates-bonds/)
+- Global Interest Rate Data
 
 ## Distressed Debt Arbitrage
 
@@ -84,7 +84,7 @@ By borrowing in USD and converting to EUR to invest in European bonds, the [arbi
 The [arbitrageur](../a/arbitrageur.md) buys the bonds at $20 and anticipates a recovery that could [offer](../o/offer.md) a significant [return](../r/return.md), albeit with higher [risk](../r/risk.md).
 
 ### Further Reading
-- [Distressed Debt Investing](https://www.distresseddebtinvesting.com)
+- Distressed Debt Investing
 
 ## Statistical Arbitrage in Bonds
 
@@ -99,8 +99,8 @@ The [arbitrageur](../a/arbitrageur.md) buys the bonds at $20 and anticipates a r
 The [arbitrageur](../a/arbitrageur.md) uses statistical analysis to predict that the ratio [will](../w/will.md) revert to 1.5:1, formulating trades to [capitalize](../c/capitalize.md) on this convergence.
 
 ### Further Reading
-- [Quantitative Finance Resources](https://www.quantitativefinance.org)
+- Quantitative Finance Resources
 
 ## Summary
 
-[Bond](../b/bond.md) [arbitrage](../a/arbitrage.md) strategies are diverse and complex, appealing to sophisticated investors due to the opportunities they present in exploiting [market](../m/market.md) inefficiencies. Whether through [convertible bond](../c/convertible_bond.md) [arbitrage](../a/arbitrage.md), [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), or [municipal bond](../m/municipal_bond.md) [arbitrage](../a/arbitrage.md), these strategies require detailed analysis, [risk management](../r/risk_management.md), and often substantial [capital](../c/capital.md). The use of advanced algorithms and [quantitative models](../q/quantitative_models.md) has further enhanced the capabilities in this domain, making [bond](../b/bond.md) [arbitrage](../a/arbitrage.md) an intriguing field of study and practice in modern [finance](../f/finance.md).
+[Bond](../b/bond.md) [arbitrage](../a/arbitrage.md) strategies are diverse and complex, appealing to sophisticated investors due to the opportunities they present in exploiting [market](../m/market.md) inefficiencies. Whether through [convertible bond](../c/convertible_bond.md) [arbitrage](../a/arbitrage.md), [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), or [municipal bond](../m/municipal_bond.md) [arbitrage](../a/arbitrage.md), these strategies require detailed analysis, [risk management](../r/risk_management.md), and often substantial [capital](../c/capital.md). The use of advanced algorithms and [quantitative models](../q/quantitative_models.md) has further enhanced the capabilities in this domain, making [bond](../b/bond.md) [arbitrage](../a/arbitrage.md) an intriguing field of study and practice in modern [finance](../f/finance.md).

@@ -55,13 +55,13 @@ In the mid-2000s, Goldman Sachs faced allegations of front-running related to it
 
 In 2014, Barclays was fined by the Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md)) for front-running [customer](../c/customer.md) orders in its [dark pool](../d/dark_pool.md) trading venue. The [firm](../f/firm.md) was found routing specific [customer](../c/customer.md) orders in a way that allowed them to anticipate and [capitalize](../c/capitalize.md) on [market](../m/market.md) movements before executing client orders.
 
-For more information, you can visit Barclays' website directly at [Barclays](https://home.barclays/).
+
 
 ### Citigroup
 
 Citigroup Inc. has been implicated in several front-running scandals over the years, including one notable case involving forex trading where traders used advanced knowledge of large orders to manipulate [currency](../c/currency.md) prices for [profit](../p/profit.md).
 
-For more on this, [check](../c/check.md) Citigroup's own statements and regulatory filings at [Citigroup](https://www.citigroup.com/citi/).
+For more on this, [check](../c/check.md) Citigroup's own statements and regulatory filings at Citigroup.
 
 ## Preventive Measures
 

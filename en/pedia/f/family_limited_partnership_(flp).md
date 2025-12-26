@@ -74,7 +74,7 @@ Over time, the senior Smiths transferred limited partnership interests to their 
 Establishing and managing an FLP requires a deep understanding of legal and tax complexities. Families typically seek the expertise of attorneys, accountants, and financial advisors specializing in [estate planning](../e/estate_planning.md) and partnership law.
 
 #### Legal Assistance
-Law firms specializing in [estate planning](../e/estate_planning.md) and [business](../b/business.md) law can provide invaluable [guidance](../g/guidance.md) in drafting the partnership agreement and ensuring compliance with state regulations. For example, [Baker & McKenzie](https://www.bakermckenzie.com/) offers comprehensive legal services tailored to family partnerships and [wealth management](../w/wealth_management.md).
+Law firms specializing in [estate planning](../e/estate_planning.md) and [business](../b/business.md) law can provide invaluable [guidance](../g/guidance.md) in drafting the partnership agreement and ensuring compliance with state regulations. For example, Baker & McKenzie offers comprehensive legal services tailored to family partnerships and [wealth management](../w/wealth_management.md).
 
 #### Financial Advisory
 Financial advisors help in assessing the economic feasibility of an FLP, projecting future [income](../i/income.md) distributions, and advising on [asset allocation](../a/asset_allocation.md) within the partnership.

@@ -11,7 +11,7 @@ A quasi-public [corporation](../c/corporation.md) is an entity that, while priva
 The main characteristics of quasi-public corporations include:
 
 1. **Government Involvement**: These corporations often have significant government involvement, either through ownership stakes, regulatory oversight, or preferential treatment in certain markets.
-  
+
 2. **Public Service Mandate**: They are usually created to provide essential services to the public, such as utilities, transportation, and healthcare.
 
 3. **Regulatory Oversight**: Quasi-public corporations are subject to various forms of government regulation to ensure they meet their public service mandates effectively and efficiently.
@@ -26,14 +26,14 @@ The main characteristics of quasi-public corporations include:
 
 Two of the most well-known quasi-public corporations in the United States are Fannie Mae and [Freddie Mac](../f/freddie_mac.md). These entities are government-sponsored enterprises (GSEs) created to enhance the flow of [credit](../c/credit.md) to the housing [market](../m/market.md) by purchasing and guaranteeing mortgages.
 
-- **Fannie Mae (Federal National [Mortgage](../m/mortgage.md) Association)**: [Link](https://www.fanniemae.com/)
-- **[Freddie Mac](../f/freddie_mac.md) (Federal [Home](../h/home.md) [Loan](../l/loan.md) [Mortgage](../m/mortgage.md) [Corporation](../c/corporation.md))**: [Link](https://www.freddiemac.com/)
+- **Fannie Mae (Federal National [Mortgage](../m/mortgage.md) Association)**: Link
+- **[Freddie Mac](../f/freddie_mac.md) (Federal [Home](../h/home.md) [Loan](../l/loan.md) [Mortgage](../m/mortgage.md) [Corporation](../c/corporation.md))**: Link
 
 ### Amtrak
 
 Another example is Amtrak, the National Railroad Passenger [Corporation](../c/corporation.md), which operates intercity passenger rail service in the United States. Although Amtrak is a for-[profit](../p/profit.md) company, it receives significant federal subsidies to ensure the [provision](../p/provision.md) of vital transportation services.
 
-- **Amtrak**: [Link](https://www.amtrak.com/)
+- **Amtrak**: Link
 
 ### Utility Companies
 

@@ -75,7 +75,7 @@ Traders often use moving averages in conjunction with white candlesticks. For in
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), white candlesticks can be incorporated into [quantitative models](../q/quantitative_models.md) to automate trading decisions. Statistical and [machine learning](../m/machine_learning.md) models may [factor](../f/factor.md) in the occurrence of white candlesticks along with other indicators to trigger trades.
+In [algorithmic trading](../a/algorithmic_trading.md), white candlesticks can be incorporated into [quantitative models](../q/quantitative_models.md) to automate trading decisions. Statistical and [machine learning](../m/machine_learning.md) models may [factor](../f/factor.md) in the occurrence of white candlesticks along with other indicators to trigger trades.
 
 ## Example of White Candlestick Application
 

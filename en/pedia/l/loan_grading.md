@@ -6,7 +6,7 @@
 
 ### 1. Creditworthiness Assessment
 
-[Creditworthiness](../c/creditworthiness.md) assessment involves evaluating a borrower’s ability to repay a [loan](../l/loan.md). This is typically based on factors like [credit](../c/credit.md) history, [income](../i/income.md) stability, employment status, [debt](../d/debt.md)-to-[income](../i/income.md) ratio, and financial behavior. Tools and technology like [Credit](../c/credit.md) Scoring Models from companies like FICO (https://www.fico.com) play a significant role in assessing [creditworthiness](../c/creditworthiness.md).
+[Creditworthiness](../c/creditworthiness.md) assessment involves evaluating a borrower’s ability to repay a [loan](../l/loan.md). This is typically based on factors like [credit](../c/credit.md) history, [income](../i/income.md) stability, employment status, [debt](../d/debt.md)-to-[income](../i/income.md) ratio, and financial behavior. Tools and technology like [Credit](../c/credit.md) Scoring Models from companies like FICO ( play a significant role in assessing [creditworthiness](../c/creditworthiness.md).
 
 ### 2. Risk Factors
 
@@ -22,7 +22,7 @@ Various [financial ratios](../f/financial_ratios.md) and indicators are used in 
 
 ### 4. Collateral Evaluation
 
-The [value](../v/value.md) and quality of the [collateral](../c/collateral.md) provided by the borrower are critical in the [loan](../l/loan.md) grading process. [Collateral](../c/collateral.md) serves as a second source of [repayment](../r/repayment.md) in case the borrower defaults. Evaluating the [collateral](../c/collateral.md) involves determining its [market value](../m/market_value.md), [liquidity](../l/liquidity.md), and appropriateness. 
+The [value](../v/value.md) and quality of the [collateral](../c/collateral.md) provided by the borrower are critical in the [loan](../l/loan.md) grading process. [Collateral](../c/collateral.md) serves as a second source of [repayment](../r/repayment.md) in case the borrower defaults. Evaluating the [collateral](../c/collateral.md) involves determining its [market value](../m/market_value.md), [liquidity](../l/liquidity.md), and appropriateness.
 
 ### 5. Borrower’s Credit Score
 
@@ -44,7 +44,7 @@ Automated scoring models like [credit](../c/credit.md) scoring algorithms (e.g.,
 
 ### 4. Machine Learning and AI
 
-Advanced analytics, [machine learning](../m/machine_learning.md), and AI represent the frontier of [loan](../l/loan.md) grading methodologies. These technologies can analyze vast datasets, identify complex patterns, and provide more accurate [risk](../r/risk.md) assessments. Companies like Zest AI (https://www.zest.ai) specialize in leveraging AI for [credit](../c/credit.md) [underwriting](../u/underwriting.md) and [risk](../r/risk.md) assessment.
+Advanced analytics, [machine learning](../m/machine_learning.md), and AI represent the frontier of [loan](../l/loan.md) grading methodologies. These technologies can analyze vast datasets, identify complex patterns, and provide more accurate [risk](../r/risk.md) assessments. Companies like Zest AI ( specialize in leveraging AI for [credit](../c/credit.md) [underwriting](../u/underwriting.md) and [risk](../r/risk.md) assessment.
 
 ## Importance of Loan Grading
 
@@ -72,7 +72,7 @@ By incorporating [loan](../l/loan.md) grading into their practices, lenders can 
 
 ### 1. Consumer Banking
 
-In consumer banking, [loan](../l/loan.md) grading is used to evaluate personal loans, mortgages, and [credit card](../c/credit_card.md) applications. Institutions like [Capital](../c/capital.md) One (https://www.capitalone.com) use sophisticated scoring models to assess and approve [consumer credit](../c/consumer_credit.md).
+In consumer banking, [loan](../l/loan.md) grading is used to evaluate personal loans, mortgages, and [credit card](../c/credit_card.md) applications. Institutions like [Capital](../c/capital.md) One ( use sophisticated scoring models to assess and approve [consumer credit](../c/consumer_credit.md).
 
 ### 2. Business and Commercial Lending
 
@@ -88,7 +88,7 @@ In the agricultural sector, [loan](../l/loan.md) grading helps assess the viabil
 
 ### 5. Fintech and Online Lending Platforms
 
-Fintech companies and online lending platforms utilize advanced [loan](../l/loan.md) grading techniques to quickly and accurately assess [loan](../l/loan.md) applications. Companies like LendingClub (https://www.lendingclub.com) and [Upstart](../u/upstart.md) (https://www.[upstart](../u/upstart.md).com) use AI and [machine learning](../m/machine_learning.md) models to enhance their [underwriting](../u/underwriting.md) processes.
+Fintech companies and online lending platforms utilize advanced [loan](../l/loan.md) grading techniques to quickly and accurately assess [loan](../l/loan.md) applications. Companies like LendingClub ( and [Upstart](../u/upstart.md) ( use AI and [machine learning](../m/machine_learning.md) models to enhance their [underwriting](../u/underwriting.md) processes.
 
 ## Advancements in Loan Grading
 

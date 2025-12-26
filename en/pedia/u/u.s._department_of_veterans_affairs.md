@@ -90,4 +90,4 @@ Recent policy changes have focused on expanding benefits to more veterans:
 
 The U.S. Department of Veterans Affairs remains a critical institution in supporting those who have served in the U.S. military, providing a comprehensive [range](../r/range.md) of benefits to improve the [quality of life](../q/quality_of_life.md) for veterans and their families. Despite challenges, ongoing reforms and technological enhancements aim to ensure that the needs of veterans are met effectively and efficiently.
 
-For more detailed information about the U.S. Department of Veterans Affairs, you can visit their [official website](https://www.va.gov/).
+For more detailed information about the U.S. Department of Veterans Affairs,

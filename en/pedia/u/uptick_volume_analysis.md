@@ -37,9 +37,9 @@ To effectively analyze [uptick volume](../u/uptick_volume.md), traders often use
 
 Several [software tools](../s/software_tools_for_trading.md) and platforms help traders perform [uptick](../u/uptick.md) [volume analysis](../v/volume_analysis.md). Some popular [options](../o/options.md) include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive [market](../m/market.md) data, including [uptick](../u/uptick.md) volumes (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
-- **MetaTrader**: A popular [trading platform](../t/trading_platform.md) with tools for [volume analysis](../v/volume_analysis.md) (https://www.[metatrader4](../m/metatrader4.md).com/)
-- **[Thinkorswim](../t/thinkorswim.md)**: An advanced [trading platform](../t/trading_platform.md) by TD [Ameritrade](../a/ameritrade.md) with [robust](../r/robust.md) [volume analysis](../v/volume_analysis.md) tools (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md)/desktop.html)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive [market](../m/market.md) data, including [uptick](../u/uptick.md) volumes (
+- **MetaTrader**: A popular [trading platform](../t/trading_platform.md) with tools for [volume analysis](../v/volume_analysis.md) (
+- **[Thinkorswim](../t/thinkorswim.md)**: An advanced [trading platform](../t/trading_platform.md) by TD [Ameritrade](../a/ameritrade.md) with [robust](../r/robust.md) [volume analysis](../v/volume_analysis.md) tools (
 
 ## Applications of Uptick Volume Analysis
 

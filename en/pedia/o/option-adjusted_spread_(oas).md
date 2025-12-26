@@ -6,7 +6,7 @@ The Option-Adjusted Spread (OAS) is a measure used by investors to understand th
 
 ### Fixed-Income Securities and Interest Rate Risk
 
-Fixed-[income](../i/income.md) securities, such as bonds, pay periodic coupons to the holder and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md). [Interest rate risk](../i/interest_rate_risk.md) is a significant concern for [bond](../b/bond.md) investors because [bond](../b/bond.md) prices and [interest](../i/interest.md) rates have an inverse relationship. When [interest](../i/interest.md) rates rise, [bond](../b/bond.md) prices typically fall, and vice versa. 
+Fixed-[income](../i/income.md) securities, such as bonds, pay periodic coupons to the holder and [return](../r/return.md) the [principal](../p/principal.md) at [maturity](../m/maturity.md). [Interest rate risk](../i/interest_rate_risk.md) is a significant concern for [bond](../b/bond.md) investors because [bond](../b/bond.md) prices and [interest](../i/interest.md) rates have an inverse relationship. When [interest](../i/interest.md) rates rise, [bond](../b/bond.md) prices typically fall, and vice versa.
 
 ### Embedded Options in Bonds
 
@@ -64,11 +64,8 @@ To find the OAS, the [investor](../i/investor.md) calculates the [yield spread](
 Several financial tools and software simplify the OAS calculation process:
 
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md):** Provides comprehensive fixed-[income](../i/income.md) analytics, including OAS calculations.
-  - Website: [Bloomberg](https://www.bloomberg.com/professional/)
 - **Thomson [Reuters](../r/reuters.md) Eikon:** Another [robust](../r/robust.md) platform for [financial analysis](../f/financial_analysis.md).
-  - Website: [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
 - **FINCAD:** Offers advanced modeling tools specifically for [fixed income](../f/fixed_income.md) and [derivatives](../d/derivatives.md).
-  - Website: [FINCAD](https://fincad.com/)
 
 ## Theoretical and Practical Significance
 

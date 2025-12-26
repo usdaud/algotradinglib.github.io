@@ -34,10 +34,10 @@ In equal-[weighted](../w/weighted.md) strategies, each stock in the [index](../i
 
 Several financial firms and investment companies specialize in developing and managing [Smart Beta](../s/smart_beta.md) strategies. Some notable players include:
 
-- **BlackRock**: [BlackRock Smart Beta](https://www.blackrock.com/investing/products/etf-investments/smart-beta/)
-- **Vanguard**: [Vanguard Smart Beta](https://investor.vanguard.com/etf/factors/)
-- **Invesco**: [Invesco Smart Beta](https://www.invesco.com/us/financial-products/etfs/explore-smart-beta-etfs)
-- **State Street Global Advisors**: [State Street Smart Beta](https://www.ssga.com/us/en/individual/etfs/fund-finder/smart-beta)
+- **BlackRock**: BlackRock Smart Beta
+- **Vanguard**: Vanguard Smart Beta
+- **Invesco**: Invesco Smart Beta
+- **State Street Global Advisors**: State Street Smart Beta
 
 ## Implementation and Construction
 
@@ -99,15 +99,15 @@ The sophisticated nature of [Smart Beta](../s/smart_beta.md) strategies can add 
 
 ### BlackRock's iShares Edge MSCI Min Vol USA ETF
 
-This ETF seeks to provide exposure to U.S. [stocks](../s/stock.md) with lower [volatility](../v/volatility.md) characteristics. By focusing on minimizing [volatility](../v/volatility.md), it aims to [offer](../o/offer.md) better [risk](../r/risk.md)-adjusted returns. Further details can be found at [BlackRock iShares Edge MSCI Min Vol USA ETF](https://www.blackrock.com/us/individual/products/239726/).
+This ETF seeks to provide exposure to U.S. [stocks](../s/stock.md) with lower [volatility](../v/volatility.md) characteristics. By focusing on minimizing [volatility](../v/volatility.md), it aims to [offer](../o/offer.md) better [risk](../r/risk.md)-adjusted returns. Further details can be found at BlackRock iShares Edge MSCI Min Vol USA ETF.
 
 ### Vanguard's U.S. Value ETF
 
-Vanguard's U.S. [Value](../v/value.md) ETF seeks to track the performance of the CRSP US Large Cap [Value](../v/value.md) [Index](../i/index_instrument.md), which measures the investment [return](../r/return.md) of large-[capitalization](../c/capitalization.md) [value](../v/value.md) [stocks](../s/stock.md). It employs a fundamental-based weighting strategy to focus on [stocks](../s/stock.md) expected to provide higher returns. More information is available at [Vanguard U.S. Value ETF](https://investor.vanguard.com/etf/factors/#/sector).
+Vanguard's U.S. [Value](../v/value.md) ETF seeks to track the performance of the CRSP US Large Cap [Value](../v/value.md) [Index](../i/index_instrument.md), which measures the investment [return](../r/return.md) of large-[capitalization](../c/capitalization.md) [value](../v/value.md) [stocks](../s/stock.md). It employs a fundamental-based weighting strategy to focus on [stocks](../s/stock.md) expected to provide higher returns. More information is available at Vanguard U.S. Value ETF.
 
 ### Invesco S&P 500 Equal Weight ETF
 
-Invesco's equal-[weighted](../w/weighted.md) S&P 500 ETF provides exposure to the S&P 500 but with equal weighting to each stock. This approach reduces concentration [risk](../r/risk.md) and diversifies the investment across a broader [range](../r/range.md) of companies. Details can be found at [Invesco S&P 500 Equal Weight ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?prodid=RSP).
+Invesco's equal-[weighted](../w/weighted.md) S&P 500 ETF provides exposure to the S&P 500 but with equal weighting to each stock. This approach reduces concentration [risk](../r/risk.md) and diversifies the investment across a broader [range](../r/range.md) of companies. Details can be found at Invesco S&P 500 Equal Weight ETF.
 
 ## Future Trends in Smart Beta
 

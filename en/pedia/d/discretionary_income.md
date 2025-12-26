@@ -4,7 +4,7 @@ Discretionary [income](../i/income.md) is a crucial financial term that plays a 
 
 ## Understanding Discretionary Income
 
-In simple terms, discretionary [income](../i/income.md) is the [money](../m/money.md) left over after covering the essentials required to maintain a reasonable [standard of living](../s/standard_of_living.md). It provides individuals and households with financial flexibility and the ability to spend or invest in areas that are peripherally important to their well-being and lifestyle. 
+In simple terms, discretionary [income](../i/income.md) is the [money](../m/money.md) left over after covering the essentials required to maintain a reasonable [standard of living](../s/standard_of_living.md). It provides individuals and households with financial flexibility and the ability to spend or invest in areas that are peripherally important to their well-being and lifestyle.
 
 For example, if an individual earns $5,000 a month and their basic expenses amount to $3,000, their discretionary [income](../i/income.md) would be $2,000. This amount can be saved, invested, or spent on non-essential items.
 

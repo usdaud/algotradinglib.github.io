@@ -61,6 +61,6 @@ The concept of watered stock may seem historical, but its essence is ever-releva
 
 ## Conclusion
 
-Watered stock represents a significant [risk](../r/risk.md) in the [equity](../e/equity.md) markets, stemming from overvaluation and misrepresentation of a company's genuine financial state. While historical examples provide a context, modern regulations and [investor](../i/investor.md) vigilance are critical in mitigating such risks. As financial systems evolve, the [underlying](../u/underlying.md) principles of [transparency](../t/transparency.md) and accurate [valuation](../v/valuation.md) must be upheld to maintain [market](../m/market.md) integrity and [investor](../i/investor.md) confidence. 
+Watered stock represents a significant [risk](../r/risk.md) in the [equity](../e/equity.md) markets, stemming from overvaluation and misrepresentation of a company's genuine financial state. While historical examples provide a context, modern regulations and [investor](../i/investor.md) vigilance are critical in mitigating such risks. As financial systems evolve, the [underlying](../u/underlying.md) principles of [transparency](../t/transparency.md) and accurate [valuation](../v/valuation.md) must be upheld to maintain [market](../m/market.md) integrity and [investor](../i/investor.md) confidence.
 
 This comprehensive understanding of watered stock, from its historical origins to modern implications, equips stakeholders with the knowledge needed to navigate and scrutinize potential overvaluation practices effectively.

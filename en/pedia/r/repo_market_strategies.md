@@ -67,6 +67,6 @@ The 2008 [financial crisis](../f/financial_crisis.md) highlighted the critical r
 Repo [market](../m/market.md) strategies involve a complex interplay of [collateral management](../c/collateral_management.md), [funding liquidity](../f/funding_liquidity.md), [arbitrage](../a/arbitrage.md) opportunities, and regulatory compliance. By strategically leveraging repo transactions, [market](../m/market.md) participants can optimize short-term funding, manage [balance sheet](../b/balance_sheet.md) risks, and contribute to financial [market](../m/market.md) stability. Understanding the intricacies of repo [market](../m/market.md) strategies is essential for financial institutions, regulators, and policymakers to navigate the evolving landscape of global [financial markets](../f/financial_market.md).
 
 For more detailed information, you can visit the websites of leading financial institutions and regulatory bodies:
-- [J.P. Morgan Securities](https://www.jpmorgan.com/solutions/securities/market/regulatory-strategy)
-- [Federal Reserve Bank of New York](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation)
-- [International Organization of Securities Commissions (IOSCO)](https://www.iosco.org)
+- J.P. Morgan Securities
+- Federal Reserve Bank of New York
+- International Organization of Securities Commissions (IOSCO)

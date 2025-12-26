@@ -11,11 +11,11 @@ A trustee is an individual or organization entrusted with the management of asse
 Trusts can be established for a variety of purposes, and the type of [trust](../t/trust.md) dictates the trustee's responsibilities and duties. Here are some common types of trusts:
 
 1. **[Revocable Trust](../r/revocable_trust.md)**: This type of [trust](../t/trust.md) can be altered or terminated by the [grantor](../g/grantor.md) during their lifetime. The assets within the [trust](../t/trust.md) remain under the [grantor](../g/grantor.md)’s control and can be changed as needed.
-   
+
 2. **[Irrevocable Trust](../i/irrevocable_trust.md)**: Once established, an [irrevocable trust](../i/irrevocable_trust.md) cannot be modified or terminated without the permission of the beneficiaries. The assets placed in an [irrevocable trust](../i/irrevocable_trust.md) are considered to be outside the [grantor](../g/grantor.md)’s taxable [estate](../e/estate.md).
-   
+
 3. **[Living Trust](../l/living_trust.md)**: Created during the [grantor](../g/grantor.md)'s lifetime, a [living trust](../l/living_trust.md) can be either revocable or irrevocable and is designed to manage the [grantor](../g/grantor.md)’s assets during their lifetime and distribute them after death.
-   
+
 4. **[Testamentary Trust](../t/testamentary_trust.md)**: Established through a [will](../w/will.md), a [testamentary trust](../t/testamentary_trust.md) is created upon the [grantor](../g/grantor.md)'s death. This type of [trust](../t/trust.md) is often used for [estate planning](../e/estate_planning.md) to manage assets for minor children or other beneficiaries.
 
 5. **Charitable [Trust](../t/trust.md)**: Designed specifically to benefit charitable organizations. These can take several forms, including charitable remainder trusts (CRTs) and charitable lead trusts (CLTs).
@@ -59,9 +59,9 @@ Understanding the legal framework and governance surrounding trustees is crucial
 As fiduciaries, trustees are bound by a legal duty to act in the best interests of the beneficiaries. This duty includes:
 
 1. **Duty of Loyalty**: Trustees must prioritize the beneficiaries' interests above their own. They must avoid conflicts of [interest](../i/interest.md) and cannot engage in self-dealing.
-   
+
 2. **Duty of Care**: Trustees must manage the [trust](../t/trust.md) assets with a high level of care, skill, and diligence. This includes making informed decisions and providing competent oversight.
-   
+
 3. **Duty of Impartiality**: Trustees must treat all beneficiaries fairly and impartially, distributing assets and benefits according to the terms of the [trust](../t/trust.md) without undue favoritism.
 
 #### Trust Law
@@ -69,7 +69,7 @@ As fiduciaries, trustees are bound by a legal duty to act in the best interests 
 The specific laws governing trustees vary by jurisdiction, but several common principles apply across many legal systems. [Trust](../t/trust.md) law establishes the framework within which trustees operate and defines the limits of their powers and responsibilities.
 
 - **Uniform [Trust](../t/trust.md) Code (UTC)**: In the United States, the UTC provides a comprehensive model for [trust](../t/trust.md) law, adopted in many states, which standardizes trustee responsibilities and procedures.
-  
+
 - **Trustee Act**: In the UK and other Commonwealth countries, trustee responsibilities and powers are often defined by the Trustee Act, which lays out the statutory duties and powers of trustees.
 
 ### Challenges Faced by Trustees
@@ -89,11 +89,11 @@ Despite the crucial role they play, trustees often face significant challenges i
 To effectively fulfill their responsibilities, trustees can adopt several [best practices](../b/best_practices.md):
 
 1. **Ongoing Education**: Trustees should commit to continuous learning about fiduciary duties, financial management, and legal requirements.
-   
+
 2. **Professional Advice**: Engaging financial advisors, accountants, and legal counsel can provide valuable insights and help ensure compliance and prudent management.
-   
+
 3. **Clear Communication**: Transparent and regular communication with beneficiaries can help manage expectations and build [trust](../t/trust.md).
-   
+
 4. **Regular Reviews**: Conducting periodic reviews of the [trust](../t/trust.md)’s performance, investment strategies, and compliance with legal standards can aid in effective governance.
 
 ### Conclusion

@@ -1,6 +1,8 @@
 # Ted Spread
 
-The TED spread is a fundamental [indicator](../i/indicator.md) within the [financial markets](../f/financial_market.md), representing the difference between the [interest](../i/interest.md) rates on interbank loans and short-term U.S. government [debt](../d/debt.md). Specifically, it is the spread between the three-month [U.S. Treasury](../u/u.s._treasury.md) bill (T-bill) rates and three-month LIBOR (London Interbank Offered Rate). The TED spread is a significant measure, often used to assess the perceived [credit risk](../c/credit_risk.md) in the broader [financial system](../f/financial_system.md). 
+The TED spread is a fundamental [indicator](../i/indicator.md) within the [financial markets](../f/financial_market.md), representing the difference between the [interest](../i/interest.md) rates on interbank loans and short-term U.S. government [debt](../d/debt.md). Specifically, it is the spread between the three-month [U.S. Treasury](../u/u.s._treasury.md) bill (T-bill) rates and three-month LIBOR (London Interbank Offered Rate). The TED spread is a significant measure, often used to assess the perceived [credit risk](../c/credit_risk.md) in the broader [financial system](../f/financial_system.md).
+
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
 
 In essence, the TED spread quantifies the level of fear and [liquidity](../l/liquidity.md) in the [financial markets](../f/financial_market.md). A low TED spread indicates less perceived [credit risk](../c/credit_risk.md) and high [liquidity](../l/liquidity.md), suggesting stable [economic conditions](../e/economic_conditions.md). Conversely, a high TED spread suggests greater perceived [credit risk](../c/credit_risk.md) and low [liquidity](../l/liquidity.md), reflecting potential financial instability or economic stress.
 
@@ -25,7 +27,7 @@ The origin of the term "TED" comes from the initial components used for the calc
 
 ## Interpretation of the TED Spread
 
-The TED spread acts as both a barometer of [credit risk](../c/credit_risk.md) and a measure of [market](../m/market.md) [liquidity](../l/liquidity.md). 
+The TED spread acts as both a barometer of [credit risk](../c/credit_risk.md) and a measure of [market](../m/market.md) [liquidity](../l/liquidity.md).
 
 1. **[Credit Risk](../c/credit_risk.md) [Indicator](../i/indicator.md)**: A widening TED spread signals that banks perceive greater [risk](../r/risk.md) in lending to each other. This increase in interbank lending rates typically translates to increased [credit](../c/credit.md) costs for businesses and consumers, impacting economic activity.
 2. **[Liquidity](../l/liquidity.md) Measure**: Conversely, a narrowing TED spread indicates that the interbank lending [market](../m/market.md) is perceived to be more stable, with banks confident in each other's [solvency](../s/solvency.md) and [liquid](../l/liquid.md). This often corresponds with lower borrowing costs for businesses and consumers, encouraging investment and [economic growth](../e/economic_growth.md).
@@ -42,7 +44,7 @@ The TED spread acts as both a barometer of [credit risk](../c/credit_risk.md) an
 ### Economic Indicator
 
 Economists and policymakers observe the TED spread as an [economic indicator](../e/economic_indicator.md). It provides insights into:
-- **[Monetary Policy](../m/monetary_policy.md) Impact**: A narrow TED spread can signal effective [monetary policy](../m/monetary_policy.md), reflecting confidence in the banking system and stable [credit](../c/credit.md) markets. 
+- **[Monetary Policy](../m/monetary_policy.md) Impact**: A narrow TED spread can signal effective [monetary policy](../m/monetary_policy.md), reflecting confidence in the banking system and stable [credit](../c/credit.md) markets.
 - **Economic Health**: Sudden or sustained changes in the TED spread can [offer](../o/offer.md) early warnings of economic downturns or recoveries, influencing policy decisions.
 
 ## Case Study: TED Spread During the COVID-19 Pandemic

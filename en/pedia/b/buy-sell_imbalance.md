@@ -1,6 +1,6 @@
 # Buy-Sell Imbalance
 
-Buy-Sell Imbalance (BSI) is a measure used by traders, particularly those involved in [algorithmic trading](../a/algorithmic_trading.md), to gauge the relative buying and selling activities in the [market](../m/market.md). Specifically, it quantifies the difference between the number of buy orders and sell orders for a particular [security](../s/security.md) over a given period. This concept is crucial for understanding [market sentiment](../m/market_sentiment.md), [liquidity](../l/liquidity.md), and potential price movements. 
+Buy-Sell Imbalance (BSI) is a measure used by traders, particularly those involved in [algorithmic trading](../a/algorithmic_trading.md), to gauge the relative buying and selling activities in the [market](../m/market.md). Specifically, it quantifies the difference between the number of buy orders and sell orders for a particular [security](../s/security.md) over a given period. This concept is crucial for understanding [market sentiment](../m/market_sentiment.md), [liquidity](../l/liquidity.md), and potential price movements.
 
 ## Understanding Buy-Sell Imbalance
 
@@ -31,7 +31,7 @@ Where:
 ## Applications of Buy-Sell Imbalance
 
 1. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: BSI is often used to gauge the overall sentiment of the [market](../m/market.md). A persistent positive BSI might indicate strong bullish sentiment, while a persistent negative BSI could point towards bearish [market](../m/market.md) conditions.
-  
+
 2. **[Liquidity Analysis](../l/liquidity_analysis.md)**: Understanding BSI helps in assessing the [liquidity](../l/liquidity.md) of a [security](../s/security.md). High buy-sell imbalances can indicate [liquidity](../l/liquidity.md) challenges, as the side with fewer orders might face difficulties in executing trades without significant price impacts.
 
 3. **[Trend](../t/trend.md) Predictions**: Traders use BSI as part of their [predictive analytics](../p/predictive_analytics.md). Significant imbalances can precede strong price movements, making BSI a valuable [indicator](../i/indicator.md) for anticipating [market](../m/market.md) trends.
@@ -60,17 +60,16 @@ While BSI can be a powerful tool, it is not without its challenges:
 
 Several firms specialize in providing insights based on Buy-Sell Imbalance. Here are a few notable ones:
 
-1. **[Trade](../t/trade.md) Ideas**: [Trade Ideas](https://www.trade-ideas.com/) offers advanced analytics and [trading signals](../t/trading_signals.md), including tools that analyze buy-sell imbalances to provide actionable insights.
-  
-2. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software, which incorporates various analytics including BSI to optimize [trading strategies](../t/trading_strategies.md).
+1. **[Trade](../t/trade.md) Ideas**: Trade Ideas offers advanced analytics and [trading signals](../t/trading_signals.md), including tools that analyze buy-sell imbalances to provide actionable insights.
 
-3. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), providing data and tools to utilize BSI in developing [trading algorithms](../t/trading_algorithms.md).
+2. **[AlgoTrader](../a/algotrader.md)**: AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software, which incorporates various analytics including BSI to optimize [trading strategies](../t/trading_strategies.md).
 
-4. **Kavout**: [Kavout](https://www.kavout.com/) leverages AI and [machine learning](../m/machine_learning.md) to provide [market](../m/market.md) insights, including analysis based on buy-sell imbalances.
+3. **[QuantConnect](../q/quantconnect.md)**: QuantConnect is a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), providing data and tools to utilize BSI in developing [trading algorithms](../t/trading_algorithms.md).
 
-5. **[QuantHouse](../q/quanthouse.md)**: [QuantHouse](https://www.quanthouse.com/) offers end-to-end solutions for [market](../m/market.md) data and trading [infrastructure](../i/infrastructure.md), with tools to analyze buy-sell imbalances for better trading decisions.
+4. **Kavout**: Kavout leverages AI and [machine learning](../m/machine_learning.md) to provide [market](../m/market.md) insights, including analysis based on buy-sell imbalances.
+
+5. **[QuantHouse](../q/quanthouse.md)**: QuantHouse offers end-to-end solutions for [market](../m/market.md) data and trading [infrastructure](../i/infrastructure.md), with tools to analyze buy-sell imbalances for better trading decisions.
 
 ## Conclusion
 
 Buy-Sell Imbalance is a foundational concept in [algorithmic trading](../a/algorithmic_trading.md), providing invaluable insights into [market sentiment](../m/market_sentiment.md), [liquidity](../l/liquidity.md), and potential price movements. By accurately measuring the discrepancy between buying and selling orders, traders can make more informed decisions, develop sophisticated algorithms, and ultimately enhance their [trading performance](../t/trading_performance.md). However, the challenges associated with interpreting BSI, particularly in the context of high-frequency trading and [market manipulation](../m/market_manipulation.md), underscore the necessity for a nuanced and comprehensive approach to its application.
-

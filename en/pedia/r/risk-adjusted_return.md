@@ -74,11 +74,11 @@ In [algorithmic trading](../a/algorithmic_trading.md), the [Sortino ratio](../s/
 ### Algotrading Firms
 Several [algorithmic trading](../a/algorithmic_trading.md) firms utilize [risk](../r/risk.md)-adjusted [return](../r/return.md) metrics in their day-to-day operations to ensure their strategies are both profitable and sustainable in terms of [risk](../r/risk.md):
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where users backtest and deploy strategies using various [risk metrics](../r/risk_metrics.md) including Sharpe and Sortino ratios. [QuantConnect](https://www.quantconnect.com/)
-   
-2. **Kensho Technologies**: A technology company providing [machine learning](../m/machine_learning.md) and analytics platforms for algotrading and other financial fields. Kensho leverages [risk](../r/risk.md)-adjusted [return](../r/return.md) metrics to enhance [trading algorithms](../t/trading_algorithms.md). [Kensho Technologies](https://www.kensho.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where users backtest and deploy strategies using various [risk metrics](../r/risk_metrics.md) including Sharpe and Sortino ratios. QuantConnect
 
-3. **Two Sigma**: A prominent [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Two Sigma places significant emphasis on [risk](../r/risk.md)-adjusted returns to maintain a competitive edge. [Two Sigma](https://www.twosigma.com/)
+2. **Kensho Technologies**: A technology company providing [machine learning](../m/machine_learning.md) and analytics platforms for algotrading and other financial fields. Kensho leverages [risk](../r/risk.md)-adjusted [return](../r/return.md) metrics to enhance [trading algorithms](../t/trading_algorithms.md). Kensho Technologies
+
+3. **Two Sigma**: A prominent [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Two Sigma places significant emphasis on [risk](../r/risk.md)-adjusted returns to maintain a competitive edge. Two Sigma
 
 ### Optimization Techniques
 In practice, algorithmic traders might employ various [optimization](../o/optimization.md) techniques to maximize [risk](../r/risk.md)-adjusted returns.

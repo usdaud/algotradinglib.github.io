@@ -15,13 +15,13 @@ Public goods and services possess these two characteristics:
 ### Examples of Free Riders
 
 1. **Public Broadcasting**:
-   Public broadcasting services, like PBS in the U.S. or BBC in the UK, are often funded by voluntary donations or government subsidies. The free [rider](../r/rider.md) problem arises when individuals watch these channels without contributing to their funding. The broadcasters cannot exclude non-payers from accessing the content, leading to potential underfunding of these services.
+ Public broadcasting services, like PBS in the U.S. or BBC in the UK, are often funded by voluntary donations or government subsidies. The free [rider](../r/rider.md) problem arises when individuals watch these channels without contributing to their funding. The broadcasters cannot exclude non-payers from accessing the content, leading to potential underfunding of these services.
 
 2. **National Defense**:
-   Each citizen benefits from national defense regardless of whether they contribute tax dollars. Since it is impossible to exclude anyone from being protected, individuals may be inclined to avoid [taxes](../t/taxes.md) that [fund](../f/fund.md) the military, relying on others to shoulder the burden.
+ Each citizen benefits from national defense regardless of whether they contribute tax dollars. Since it is impossible to exclude anyone from being protected, individuals may be inclined to avoid [taxes](../t/taxes.md) that [fund](../f/fund.md) the military, relying on others to shoulder the burden.
 
 3. **Public Parks**:
-   Public parks are maintained by government funds derived from [taxes](../t/taxes.md). Visitors to the park do not have to pay an entry [fee](../f/fee.md), and they can enjoy the benefits of the park without directly contributing to its upkeep. This can lead to overuse of the park and insufficient maintenance funds.
+ Public parks are maintained by government funds derived from [taxes](../t/taxes.md). Visitors to the park do not have to pay an entry [fee](../f/fee.md), and they can enjoy the benefits of the park without directly contributing to its upkeep. This can lead to overuse of the park and insufficient maintenance funds.
 
 ## Economic and Social Implications
 

@@ -24,7 +24,7 @@ The primary objective of securities lending is to facilitate the smooth function
 
 1. **Securities Identification**: Identify the securities that are available for lending.
 2. **Borrower Request**: Borrowers approach lenders or their agents with a specified request for securities.
-3. **[Collateral](../c/collateral.md) Agreement**: The borrower and [lender](../l/lender.md) agree on the type and amount of [collateral](../c/collateral.md) required. 
+3. **[Collateral](../c/collateral.md) Agreement**: The borrower and [lender](../l/lender.md) agree on the type and amount of [collateral](../c/collateral.md) required.
 
 ### Collateralization
 
@@ -82,22 +82,19 @@ Securities lending also supports [arbitrage](../a/arbitrage.md) strategies, wher
 ### Goldman Sachs
 
 Goldman Sachs is a leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) that engages heavily in securities lending. They [leverage](../l/leverage.md) their vast resources and [infrastructure](../i/infrastructure.md) to facilitate and manage securities lending activities.
-[Goldman Sachs Securities Lending](https://www.goldmansachs.com/what-we-do/securities/securities-lending/)
 
 ### J.P. Morgan
 
 J.P. Morgan provides securities lending services through J.P. Morgan Agency Lending. They [offer](../o/offer.md) a comprehensive suite of securities lending solutions tailored to meet the unique needs of institutional investors.
-[J.P. Morgan Securities Lending](https://www.jpmorgan.com/solutions/securities-services/collateral-and-securities-lending)
+J.P. Morgan Securities Lending
 
 ### BlackRock
 
 BlackRock offers securities lending programs that are designed to help institutional investors maximize their returns while managing associated risks. They emphasize [transparency](../t/transparency.md) and [risk management](../r/risk_management.md) in their securities lending practices.
-[BlackRock Securities Lending](https://www.blackrock.com/ca/institutional/en/insights/securities-lending)
 
 ### Northern Trust
 
 Northern [Trust](../t/trust.md) is a prominent player in the [asset](../a/asset.md) servicing [industry](../i/industry.md), providing securities lending services to a wide array of clients worldwide. They focus on optimizing returns and managing risks effectively.
-[Northern Trust Securities Lending](https://www.northerntrust.com/united-states/investment-management/capabilities/liquidity-solutions/securities-lending)
 
 ## Technological and Market Evolutions
 

@@ -1,6 +1,6 @@
 # Service Sector
 
-The service sector, also known as the tertiary sector, is one of the three primary economic sectors, the others being the primary sector (extractive industries) and the secondary sector ([manufacturing](../m/manufacturing.md)). The service sector encompasses a wide [range](../r/range.md) of industries that provide intangible goods and services to consumers and businesses. This includes industries such as [finance](../f/finance.md), [insurance](../i/insurance.md), [real estate](../r/real_estate.md), healthcare, education, retail, hospitality, entertainment, and information technology services, among others. 
+The service sector, also known as the tertiary sector, is one of the three primary economic sectors, the others being the primary sector (extractive industries) and the secondary sector ([manufacturing](../m/manufacturing.md)). The service sector encompasses a wide [range](../r/range.md) of industries that provide intangible goods and services to consumers and businesses. This includes industries such as [finance](../f/finance.md), [insurance](../i/insurance.md), [real estate](../r/real_estate.md), healthcare, education, retail, hospitality, entertainment, and information technology services, among others.
 
 The service sector is a significant contributor to the gross domestic product (GDP) of many countries, often surpassing the primary and secondary sectors in terms of economic impact. It is characterized by the production of services rather than goods, which are consumed at the point of [sale](../s/sale.md). The growth and development of the service sector are pivotal in modern economies, with many advanced and emerging economies showing a dominant [trend](../t/trend.md) towards service-oriented activities.
 
@@ -28,8 +28,8 @@ Financial services refer to a broad [range](../r/range.md) of businesses that ma
 - **Investment Services**: Offers [wealth management](../w/wealth_management.md), stock brokerage, and [mutual fund](../m/mutual_fund.md) services.
 
 **Example:**
-- [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
+- JPMorgan Chase & Co.
+- Goldman Sachs
 
 ### 2. **Information Technology and Consulting Services**
 
@@ -41,8 +41,8 @@ This segment involves companies that provide a [range](../r/range.md) of IT serv
 - **Consulting Services**: Strategic IT consulting and implementation.
 
 **Example:**
-- [Accenture](https://www.accenture.com/)
-- [Infosys](https://www.infosys.com/)
+- Accenture
+- Infosys
 
 ### 3. **Healthcare Services**
 
@@ -54,8 +54,8 @@ This sector includes hospitals, clinics, labs, and other health institutions tha
 - **Telehealth**: Remote healthcare services via digital platforms.
 
 **Example:**
-- [UnitedHealth Group](https://www.unitedhealthgroup.com/)
-- [Mayo Clinic](https://www.mayoclinic.org/)
+- UnitedHealth Group
+- Mayo Clinic
 
 ### 4. **Educational Services**
 
@@ -67,8 +67,8 @@ Educational services encompass a variety of institutions that provide learning e
 - **E-learning**: Online courses and virtual learning environments.
 
 **Example:**
-- [Harvard University](https://www.harvard.edu/)
-- [Coursera](https://www.coursera.org/)
+- Harvard University
+- Coursera
 
 ### 5. **Retail and Wholesale Trade**
 
@@ -80,8 +80,8 @@ This segment involves the [sale](../s/sale.md) of goods and services from busine
 - **Wholesale**: Bulk [sale](../s/sale.md) of goods, often to retailers.
 
 **Example:**
-- [Amazon](https://www.amazon.com/)
-- [Walmart](https://www.walmart.com/)
+- Amazon
+- Walmart
 
 ### 6. **Real Estate and Rental Services**
 
@@ -93,8 +93,8 @@ The [real estate](../r/real_estate.md) sector involves activities related to the
 - **[Property Management](../p/property_management.md)**: Management services for rental properties.
 
 **Example:**
-- [Zillow](https://www.zillow.com/)
-- [RE/MAX](https://www.remax.com/)
+- Zillow
+- RE/MAX
 
 ### 7. **Hospitality and Tourism**
 
@@ -106,8 +106,8 @@ This segment includes hotels, restaurants, travel agencies, and tour operators. 
 - **Travel Services**: Travel booking, tour operators.
 
 **Example:**
-- [Marriott International](https://www.marriott.com/)
-- [Expedia](https://www.expedia.com/)
+- Marriott International
+- Expedia
 
 ### 8. **Entertainment and Media**
 
@@ -119,8 +119,8 @@ This sector encompasses industries that produce and distribute content, includin
 - **Digital Media**: Online content platforms like streaming services.
 
 **Example:**
-- [Netflix](https://www.netflix.com/)
-- [Disney](https://www.disney.com/)
+- Netflix
+- Disney
 
 ## Importance of the Service Sector
 

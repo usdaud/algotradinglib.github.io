@@ -15,7 +15,7 @@
 
 **Definition**: [Inventory Turnover](../i/inventory_turnover.md) Ratio is the number of times a company’s [inventory](../i/inventory.md) is sold and replaced over a specific period.
 
-**Formula**: 
+**Formula**:
 \[
 \text{[Inventory Turnover](../i/inventory_turnover.md) Ratio} = \frac{\text{Cost of Goods Sold (COGS)}}{\text{[Average Inventory](../a/average_inventory.md)}}
 \]
@@ -32,7 +32,7 @@ This means the company sells and replaces its [inventory](../i/inventory.md) fou
 
 **Definition**: The [Receivables Turnover Ratio](../r/receivables_turnover_ratio.md) measures how effectively a company collects on its accounts [receivable](../r/receivable.md).
 
-**Formula**: 
+**Formula**:
 \[
 \text{[Receivables Turnover Ratio](../r/receivables_turnover_ratio.md)} = \frac{\text{Net [Credit](../c/credit.md) Sales}}{\text{Average Accounts [Receivable](../r/receivable.md)}}
 \]
@@ -49,7 +49,7 @@ This indicates the company collects its average receivables five times a year.
 
 **Definition**: [Asset Turnover Ratio](../a/asset_turnover_ratio.md) indicates how well a company uses its assets to generate sales.
 
-**Formula**: 
+**Formula**:
 \[
 \text{[Asset Turnover Ratio](../a/asset_turnover_ratio.md)} = \frac{\text{[Net Sales](../n/net_sales.md)}}{\text{Average Total Assets}}
 \]
@@ -66,7 +66,7 @@ This means the company generates $2 in sales for every $1 of assets.
 
 **Definition**: [Portfolio Turnover](../p/portfolio_turnover.md) Ratio measures the rate at which assets within a portfolio are bought and sold by a [portfolio manager](../p/portfolio_manager.md).
 
-**Formula**: 
+**Formula**:
 \[
 \text{[Portfolio Turnover](../p/portfolio_turnover.md) Ratio} = \frac{\text{Total amount of securities bought or sold}}{\text{Average total [asset](../a/asset.md) [value](../v/value.md)}}
 \]
@@ -92,7 +92,7 @@ This implies that 40% of the [fund](../f/fund.md)’s assets are traded during t
 
 ### Company Analysis: Inventory Turnover Ratio
 
-**Company**: Walmart ([website](https://www.walmart.com))
+**Company**: Walmart
 
 Walmart, a retail giant, focuses heavily on efficient [inventory management](../i/inventory_management.md) to support its low-cost [business](../b/business.md) model. Let’s analyze Walmart’s [inventory turnover](../i/inventory_turnover.md) ratio:
 
@@ -108,7 +108,7 @@ A ratio of 10 signifies that Walmart sells and replenishes its [inventory](../i/
 
 ### Investment Portfolio: Portfolio Turnover Ratio
 
-**[Fund](../f/fund.md)**: Vanguard Total Stock [Market Index](../m/market_index.md) [Fund](../f/fund.md) ([website](https://investor.vanguard.com/mutual-funds/profile/VTSAX))
+**[Fund](../f/fund.md)**: Vanguard Total Stock [Market Index](../m/market_index.md) [Fund](../f/fund.md)
 
 Vanguard’s [fund](../f/fund.md) is known for its low-cost, passive [investment strategy](../i/investment_strategy.md). Let’s consider its [turnover](../t/turnover.md) ratio:
 

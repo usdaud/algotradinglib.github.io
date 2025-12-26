@@ -3,6 +3,8 @@
 ## Overview
 QuantLib is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), designed to provide comprehensive tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. Developed by a global community of contributors, QuantLib offers a wide [range](../r/range.md) of functionalities for pricing [derivatives](../d/derivatives.md), managing portfolios, and performing complex financial calculations.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Features
 1. **[Derivatives](../d/derivatives.md) Pricing**: Tools for pricing a variety of [derivatives](../d/derivatives.md) including [options](../o/options.md), swaps, and [futures](../f/futures.md).
 2. **[Interest Rate Models](../i/interest_rate_models.md)**: Comprehensive support for various [interest rate models](../i/interest_rate_models.md) such as Hull-White, Cox-Ingersoll-Ross (CIR), and Black-Karasinski.

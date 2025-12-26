@@ -32,7 +32,7 @@ The Vice [Fund](../f/fund.md)'s [performance metrics](../p/performance_metrics.m
 - **Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV)**: Daily [value](../v/value.md) of a unit of the [fund](../f/fund.md) based on the closing prices of the [underlying](../u/underlying.md) [stocks](../s/stock.md).
 - **[Expense Ratio](../e/expense_ratio.md)**: Costs associated with managing the [fund](../f/fund.md). As of the last update, the Vice [Fund](../f/fund.md) had an [expense ratio](../e/expense_ratio.md) of approximately 2.0%.
 - **[Yield](../y/yield.md)**: This metric is particularly relevant to investors focusing on [income](../i/income.md) generation.
-  
+
 ### Benchmarks
 
 The [fund](../f/fund.md) uses various benchmarks to evaluate its performance, generally pitting itself against indices like the S&P 500 for broader [market](../m/market.md) comparisons.
@@ -120,4 +120,4 @@ Social stigmatization can impact these sectors' public image, potentially leadin
 
 The Vice [Fund](../f/fund.md) offers an interesting investment opportunity for those willing to overlook ethical considerations in pursuit of potentially high and stable financial returns. By focusing on sectors that provide resilient [demand](../d/demand.md) despite economic downturns, the [fund](../f/fund.md) can [offer](../o/offer.md) [diversification](../d/diversification.md) and a [hedge](../h/hedge.md) against volatile [market](../m/market.md) conditions. However, potential investors must weigh the ethical implications and regulatory risks before committing their [capital](../c/capital.md).
 
-For more information, please visit the [fund](../f/fund.md)'s official page: [Vice Fund (VICEX)](http://www.vicefund.com/).
+For more information, please visit the [fund](../f/fund.md)'s public materials: Vice Fund (VICEX).

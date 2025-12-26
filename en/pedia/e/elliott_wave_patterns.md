@@ -48,13 +48,11 @@ Many modern trading platforms and software packages incorporate [Elliott Wave Th
 
 ### Elliott Wave International
 
-Elliott Wave International provides training, resources, and [market](../m/market.md) forecasts based on Elliott [Wave analysis](../w/wave_analysis.md). Their website offers insights and educational materials:
-[Visit Elliott Wave International](https://www.elliottwave.com/)
+Elliott Wave International provides training, resources, and [market](../m/market.md) forecasts based on Elliott [Wave analysis](../w/wave_analysis.md). their online platform offers insights and educational materials:
 
 ### MetaTrader
 
 MetaTrader is a popular [trading platform](../t/trading_platform.md) that allows the use of [Elliott Wave Theory](../e/elliott_wave_theory.md) for those who manually chart or automate their [trading strategies](../t/trading_strategies.md) with Expert Advisors.
-[Visit MetaTrader](https://www.metatrader4.com/)
 
 ## Criticisms and Limitations
 

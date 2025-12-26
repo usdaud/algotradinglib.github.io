@@ -19,7 +19,7 @@ Mathematically, if the [null hypothesis](../n/null_hypothesis.md) (H0) states th
 ## Application in Finance and Trading
 
 In [finance](../f/finance.md) and trading, one-tailed tests can be instrumental in various scenarios, including:
-- **[Algorithmic Trading](../a/accountability.md)**: Evaluating if a new [trading strategy](../t/trading_strategy.md) yields significantly higher returns than a [benchmark](../b/benchmark.md) strategy.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Evaluating if a new [trading strategy](../t/trading_strategy.md) yields significantly higher returns than a [benchmark](../b/benchmark.md) strategy.
 - **[Risk Management](../r/risk_management.md)**: Assessing if the [volatility](../v/volatility.md) of a portfolio is significantly lower than a specified threshold.
 - **[Market Research](../m/market_research.md)**: Determining if the [average return](../a/average_return.md) of a stock is significantly greater than the [industry](../i/industry.md)'s average.
 
@@ -41,28 +41,28 @@ To conduct a one-tailed test, follow these steps:
 4. **Calculate the test statistic**: Depending on the type of test (e.g., [z-test](../z/z-test_in_trading.md), [t-test](../t/t-test.md)), compute the test statistic.
 5. **Determine the critical [value](../v/value.md)**: Based on the chosen significance level and the direction of the test, find the critical [value](../v/value.md).
 6. **Make a decision**: Compare the test statistic to the critical [value](../v/value.md):
-   - If the test statistic falls in the critical region, reject the [null hypothesis](../n/null_hypothesis.md).
-   - If it does not, [fail](../f/fail.md) to reject the [null hypothesis](../n/null_hypothesis.md).
+ - If the test statistic falls in the critical region, reject the [null hypothesis](../n/null_hypothesis.md).
+ - If it does not, [fail](../f/fail.md) to reject the [null hypothesis](../n/null_hypothesis.md).
 
 ### Example Calculation
 
 Consider the above example of testing a [trading strategy](../t/trading_strategy.md) with a sample mean [return](../r/return.md) of 5.5%, a population [standard deviation](../s/standard_deviation.md) of 1.5%, and a sample size of 30.
 
 1. **Hypotheses**:
-   - H0: µ = 5%
-   - H1: µ > 5%
+ - H0: µ = 5%
+ - H1: µ > 5%
 2. **Significance Level**: α = 0.05
 3. **Test Statistic ([z-test](../z/z-test_in_trading.md))**:
-   - Sample mean (\(\bar{x}\)) = 5.5%
-   - Population mean (µ0) = 5%
-   - Population [standard deviation](../s/standard_deviation.md) (σ) = 1.5%
-   - Sample size (n) = 30
-   - [Standard error](../s/standard_error.md) (SE) = σ / √n = 1.5% / √30 ≈ 0.274%
-   - z = (\(\bar{x}\) - µ0) / SE = (5.5% - 5%) / 0.274% ≈ 1.82
+ - Sample mean (\(\bar{x}\)) = 5.5%
+ - Population mean (µ0) = 5%
+ - Population [standard deviation](../s/standard_deviation.md) (σ) = 1.5%
+ - Sample size (n) = 30
+ - [Standard error](../s/standard_error.md) (SE) = σ / √n = 1.5% / √30 ≈ 0.274%
+ - z = (\(\bar{x}\) - µ0) / SE = (5.5% - 5%) / 0.274% ≈ 1.82
 4. **Critical [Value](../v/value.md)**:
-   - For α = 0.05 in a right-tailed test, the critical [z-value](../z/z-value_in_trading.md) is approximately 1.645.
+ - For α = 0.05 in a right-tailed test, the critical [z-value](../z/z-value_in_trading.md) is approximately 1.645.
 5. **Decision**:
-   - Since 1.82 > 1.645, reject the [null hypothesis](../n/null_hypothesis.md).
+ - Since 1.82 > 1.645, reject the [null hypothesis](../n/null_hypothesis.md).
 
 This implies that there is sufficient evidence at the 0.05 significance level to conclude that the new [trading strategy](../t/trading_strategy.md) yields returns greater than 5%.
 

@@ -52,13 +52,13 @@ Feature engineering is the process of using domain knowledge to create features 
 ## Example Companies
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) is a well-known [hedge fund](../h/hedge_fund.md) that uses [algorithmic trading](../a/algorithmic_trading.md) and [quantitative analysis](../q/quantitative_analysis.md). They employ various [yield](../y/yield.md) mapping techniques to optimize their [trading strategies](../t/trading_strategies.md) and improve their returns.
+Two Sigma is a well-known [hedge fund](../h/hedge_fund.md) that uses [algorithmic trading](../a/algorithmic_trading.md) and [quantitative analysis](../q/quantitative_analysis.md). They employ various [yield](../y/yield.md) mapping techniques to optimize their [trading strategies](../t/trading_strategies.md) and improve their returns.
 
 ### Renaissance Technologies
-[Renaissance Technologies](https://www.rentec.com/) is a pioneer in the field of [algorithmic trading](../a/algorithmic_trading.md), known for its significant returns through the use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [yield](../y/yield.md) mapping.
+Renaissance Technologies is a pioneer in the field of [algorithmic trading](../a/algorithmic_trading.md), known for its significant returns through the use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for [yield](../y/yield.md) mapping.
 
 ### WorldQuant
-[WorldQuant](https://www.worldquant.com/) is another quantitative investment [firm](../f/firm.md) that relies heavily on advanced [yield](../y/yield.md) mapping techniques and data-driven [trading algorithms](../t/trading_algorithms.md).
+WorldQuant is another quantitative investment [firm](../f/firm.md) that relies heavily on advanced [yield](../y/yield.md) mapping techniques and data-driven [trading algorithms](../t/trading_algorithms.md).
 
 ## Real-World Applications
 
@@ -93,4 +93,3 @@ The impact of high-frequency trading on [market](../m/market.md) stability and f
 
 ## Conclusion
 [Yield](../y/yield.md) mapping in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated discipline that combines statistical models, [machine learning](../m/machine_learning.md), and advanced [data analytics](../d/data_analytics.md) to predict [asset](../a/asset.md) yields. Companies like Two Sigma, Renaissance Technologies, and WorldQuant exemplify the effective use of these techniques. Despite challenges like data quality, [overfitting](../o/overfitting.md), and computational costs, the benefits make [yield](../y/yield.md) mapping indispensable for modern trading.
-

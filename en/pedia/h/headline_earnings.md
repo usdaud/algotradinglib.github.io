@@ -9,7 +9,7 @@ Headline [earnings](../e/earnings.md) refer to a key financial metric in the cor
 #### Transparency and Comparability
 
 - **[Transparency](../t/transparency.md):** By excluding [extraordinary items](../e/extraordinary_item.md), such as profits or losses from the [sale](../s/sale.md) of assets, headline [earnings](../e/earnings.md) [offer](../o/offer.md) a transparent view of operational performance.
-  
+
 - **Comparability:** Headline [earnings](../e/earnings.md) facilitate a more apples-to-apples comparison of performance over different periods and across companies. This is because the measure is less likely to be skewed by one-off events.
 
 ### Calculation of Headline Earnings
@@ -19,17 +19,17 @@ The calculation of headline [earnings](../e/earnings.md) usually begins with the
 #### Exclusions:
 
 - **Gains or Losses on [Asset](../a/asset.md) Sales:** These are typically non-recurring and do not impact ongoing operational performance.
-  
+
 - **Impairments:** Write-downs of assets may distort [earnings](../e/earnings.md) and are excluded for a more accurate portrayal of operational profitability.
-  
+
 - **[Fair Value](../f/fair_value.md) Adjustments:** These adjustments can introduce significant [volatility](../v/volatility.md) into [earnings](../e/earnings.md) and are often excluded.
-  
+
 - **Non-recurring Items:** Any extraordinary, non-recurring expenses or incomes that distort the true [financial performance](../f/financial_performance.md) of the company.
 
 #### Inclusions:
 
 - **Operational Gains/Losses:** Any [income](../i/income.md) or loss that arises directly from the company's standard operational activities.
-  
+
 - **Recurring Financial Items:** [Interest](../i/interest.md) expenses, [taxes](../t/taxes.md), and other recurring items are generally included to provide a full picture of operational health.
 
 An example formula might look like this:
@@ -57,7 +57,6 @@ HEPS = Headline [Earnings](../e/earnings.md) / Number of Outstanding [Shares](..
 
 Naspers, a global consumer internet group and one of the largest technology investors globally, frequently publishes its headline [earnings](../e/earnings.md) figures to provide a clearer picture of its operational performance. By excluding items like [asset](../a/asset.md) sales and impairments, Naspers aims to present a more accurate representation of its earning capability.
 
-For more information, visit the official website: [Naspers](https://www.naspers.com/)
 
 ### Conclusion
 

@@ -56,10 +56,8 @@ Companies in the financial technology space utilize P&F charts for various appli
 ### Example Companies:
 
 - **[TradingView](../t/tradingview.md)**: A popular online platform that supports P&F charting. Users can create and customize P&F charts based on their preferred parameters.
-  [TradingView](https://www.tradingview.com/)
 - **[MetaStock](../m/metastock.md)**: Software solutions like [MetaStock](../m/metastock.md) also [offer](../o/offer.md) functionalities to create P&F charts and incorporate those into broader [market](../m/market.md) analysis.
-  [MetaStock](https://www.metastock.com/)
-  
+
 ## Limitations of Point-and-Figure Charts
 
 While P&F charts provide several advantages, they also come with limitations:
@@ -70,4 +68,4 @@ While P&F charts provide several advantages, they also come with limitations:
 
 ## Conclusion
 
-Point-and-Figure charts [offer](../o/offer.md) a unique and beneficial perspective in financial charting, particularly for identifying long-term trends and support/resistance levels. Their [utility](../u/utility.md) in [algorithmic trading](../a/accountability.md) and FinTech makes them relevant for both individual traders and financial institutions. However, their limitations in certain [market](../m/market.md) conditions and the absence of time-related data should be mindful considerations when integrating P&F charts into [trading strategies](../t/trading_strategies.md).
+Point-and-Figure charts [offer](../o/offer.md) a unique and beneficial perspective in financial charting, particularly for identifying long-term trends and support/resistance levels. Their [utility](../u/utility.md) in [algorithmic trading](../a/algorithmic_trading.md) and FinTech makes them relevant for both individual traders and financial institutions. However, their limitations in certain [market](../m/market.md) conditions and the absence of time-related data should be mindful considerations when integrating P&F charts into [trading strategies](../t/trading_strategies.md).

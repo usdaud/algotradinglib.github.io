@@ -2,7 +2,7 @@
 
 ## Introduction to Upside Risk
 
-In the context of [financial markets](../f/financial_market.md), [risk](../r/risk.md) is often perceived negatively, associated with potential losses. However, there are scenarios where [risk](../r/risk.md) can be positive, signifying potential high returns. This concept is termed `[upside risk](../u/upside_risk.md)`. [Upside risk](../u/upside_risk.md) indicators quantify this positive potential, allowing traders and investors to make more informed decisions that could lead to higher gains. In [algorithmic trading](../a/algorithmic_trading.md), these indicators are crucial for optimizing strategies and enhancing [portfolio performance](../p/portfolio_performance.md). 
+In the context of [financial markets](../f/financial_market.md), [risk](../r/risk.md) is often perceived negatively, associated with potential losses. However, there are scenarios where [risk](../r/risk.md) can be positive, signifying potential high returns. This concept is termed `[upside risk](../u/upside_risk.md)`. [Upside risk](../u/upside_risk.md) indicators quantify this positive potential, allowing traders and investors to make more informed decisions that could lead to higher gains. In [algorithmic trading](../a/algorithmic_trading.md), these indicators are crucial for optimizing strategies and enhancing [portfolio performance](../p/portfolio_performance.md).
 
 ## Key Concepts of Upside Risk
 
@@ -24,13 +24,13 @@ In the context of [financial markets](../f/financial_market.md), [risk](../r/ris
 
 ## Case Studies and Examples
 
-### Case Study: QuantConnect's Algorithm Strategy 
+### Case Study: QuantConnect's Algorithm Strategy
 
-[QuantConnect](../q/quantconnect.md) provides a powerful platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to backtest and deploy strategies using a [range](../r/range.md) of data. One of their strategies incorporates [upside risk](../u/upside_risk.md) indicators to enhance [portfolio performance](../p/portfolio_performance.md). The strategy uses [upside](../u/upside.md) [beta](../b/beta.md) to select [stocks](../s/stock.md) that are likely to [outperform](../o/outperform.md) the [market](../m/market.md) in bullish conditions. By integrating these indicators, the algorithm has demonstrated significant improvement in returns during [uptrend](../u/uptrend.md) periods. [QuantConnect](https://www.quantconnect.com)
+[QuantConnect](../q/quantconnect.md) provides a powerful platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to backtest and deploy strategies using a [range](../r/range.md) of data. One of their strategies incorporates [upside risk](../u/upside_risk.md) indicators to enhance [portfolio performance](../p/portfolio_performance.md). The strategy uses [upside](../u/upside.md) [beta](../b/beta.md) to select [stocks](../s/stock.md) that are likely to [outperform](../o/outperform.md) the [market](../m/market.md) in bullish conditions. By integrating these indicators, the algorithm has demonstrated significant improvement in returns during [uptrend](../u/uptrend.md) periods. QuantConnect
 
 ### Example: BlackRock's Aladdin
 
-BlackRock's Aladdin is a sophisticated [risk management](../r/risk_management.md) and analytics platform utilized by many financial institutions. Within Aladdin, [upside risk](../u/upside_risk.md) indicators are used to analyze [asset](../a/asset.md) performance and optimize portfolio allocation, helping managers enhance returns while managing [risk](../r/risk.md) effectively. [BlackRock Aladdin](https://www.blackrock.com/aladdin/products/aladdin-risk)
+BlackRock's Aladdin is a sophisticated [risk management](../r/risk_management.md) and analytics platform utilized by many financial institutions. Within Aladdin, [upside risk](../u/upside_risk.md) indicators are used to analyze [asset](../a/asset.md) performance and optimize portfolio allocation, helping managers enhance returns while managing [risk](../r/risk.md) effectively. BlackRock Aladdin
 
 ## Mathematical Formulation of Upside Risk Indicators
 
@@ -117,7 +117,7 @@ This implementation calculates the [upside](../u/upside.md) [beta](../b/beta.md)
 
 ### Integration in Risk Management Systems
 
-In sophisticated [trading systems](../t/trading_systems.md) like BlackRock's Aladdin, these calculations are deeply integrated into the [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) modules. For example, Aladdin can automatically adjust portfolio positions based on [upside risk](../u/upside_risk.md) indicators to optimize performance. 
+In sophisticated [trading systems](../t/trading_systems.md) like BlackRock's Aladdin, these calculations are deeply integrated into the [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) modules. For example, Aladdin can automatically adjust portfolio positions based on [upside risk](../u/upside_risk.md) indicators to optimize performance.
 
 ## Future Directions
 
@@ -132,5 +132,5 @@ In sophisticated [trading systems](../t/trading_systems.md) like BlackRock's Ala
 [Upside risk](../u/upside_risk.md) indicators are powerful tools in the arsenal of traders and portfolio managers. By focusing on the positive potential of investments, these indicators help in crafting strategies that maximize returns while effectively managing risks. The integration of these metrics in [algorithmic trading](../a/algorithmic_trading.md) platforms and [risk management](../r/risk_management.md) systems underscores their importance in modern [financial markets](../f/financial_market.md). As technology continues to evolve, the application and sophistication of [upside risk](../u/upside_risk.md) indicators [will](../w/will.md) only expand, driving further innovation in the field of [finance](../f/finance.md).
 
 For more information, visit:
-- [QuantConnect](https://www.quantconnect.com)
-- [BlackRock Aladdin](https://www.blackrock.com/aladdin/products/aladdin-risk)
+- QuantConnect
+- BlackRock Aladdin

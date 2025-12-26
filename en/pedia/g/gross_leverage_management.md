@@ -38,10 +38,10 @@ Gross [Leverage](../l/leverage.md) = ($200,000 + $100,000) / $100,000 = 3x
 
 In [algorithmic trading](../a/algorithmic_trading.md), various tools and technologies can be employed to manage gross [leverage](../l/leverage.md) effectively:
 
-1. **[Risk Management](../r/risk_management.md) Software**: Platforms like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) [risk management](../r/risk_management.md) tools that help in setting and monitoring [leverage](../l/leverage.md) limits. [QuantConnect](https://www.quantconnect.com/)
-2. **[Portfolio Management](../p/portfolio_management.md) Systems**: Advanced [portfolio management](../p/portfolio_management.md) systems such as Portfolio123 allow traders to track performance and adjust [leverage](../l/leverage.md) dynamically. [Portfolio123](https://www.portfolio123.com/)
-3. **Automated Trading Platforms**: Platforms like MetaTrader 5 support automated trading and [risk management](../r/risk_management.md) scripts, facilitating better [leverage](../l/leverage.md) control. [MetaTrader 5](https://www.metatrader5.com/)
-4. **[Data Analytics](../d/data_analytics.md) and Visualization Tools**: Using analytics platforms like Tableau to visualize and analyze [leverage ratios](../l/leverage_ratios.md) can provide deeper insights into [leverage](../l/leverage.md) management. [Tableau](https://www.tableau.com/)
+1. **[Risk Management](../r/risk_management.md) Software**: Platforms like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) [risk management](../r/risk_management.md) tools that help in setting and monitoring [leverage](../l/leverage.md) limits. QuantConnect
+2. **[Portfolio Management](../p/portfolio_management.md) Systems**: Advanced [portfolio management](../p/portfolio_management.md) systems such as Portfolio123 allow traders to track performance and adjust [leverage](../l/leverage.md) dynamically. Portfolio123
+3. **Automated Trading Platforms**: Platforms like MetaTrader 5 support automated trading and [risk management](../r/risk_management.md) scripts, facilitating better [leverage](../l/leverage.md) control. MetaTrader 5
+4. **[Data Analytics](../d/data_analytics.md) and Visualization Tools**: Using analytics platforms like Tableau to visualize and analyze [leverage ratios](../l/leverage_ratios.md) can provide deeper insights into [leverage](../l/leverage.md) management. Tableau
 
 ### Benefits of Effective Gross Leverage Management
 
@@ -70,4 +70,3 @@ Bridgewater Associates, one of the largest and most successful [hedge](../h/hedg
 ### Conclusion
 
 Gross [leverage](../l/leverage.md) management is an integral part of [algorithmic trading](../a/algorithmic_trading.md), directly impacting [risk](../r/risk.md) and [return](../r/return.md) profiles. By employing effective management strategies and utilizing advanced tools, traders can enhance their [trading performance](../t/trading_performance.md) while mitigating risks. Ultimately, understanding and controlling [leverage](../l/leverage.md) is pivotal to the success and sustainability of any [algorithmic trading](../a/algorithmic_trading.md) strategy.
-

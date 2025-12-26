@@ -11,7 +11,7 @@ RS = (Average [Gain](../g/gain.md) over N periods) / (Average Loss over N period
 RSI = 100 - [100 / (1 + RS)]
 ```
 
-In these formulas, "RS" refers to the [Relative Strength](../r/relative_strength.md), "Average [Gain](../g/gain.md)" is the mean of all gains during the selected period, and "Average Loss" is the mean of all losses during the chosen period. 
+In these formulas, "RS" refers to the [Relative Strength](../r/relative_strength.md), "Average [Gain](../g/gain.md)" is the mean of all gains during the selected period, and "Average Loss" is the mean of all losses during the chosen period.
 
 ## 2-Period RSI Calculation
 
@@ -20,13 +20,13 @@ For the 2-period RSI, the calculation adjusts the lookback period to only two pe
 Here's how to compute it:
 
 1. **Calculate the Average [Gain](../g/gain.md) and Loss:**
-   For each of the last two periods, determine if the price has increased or decreased, and by how much. 
+ For each of the last two periods, determine if the price has increased or decreased, and by how much.
 
 2. **Determine RS:**
-   Divide the average [gain](../g/gain.md) by the average loss to get the [relative strength](../r/relative_strength.md) (RS).
+ Divide the average [gain](../g/gain.md) by the average loss to get the [relative strength](../r/relative_strength.md) (RS).
 
 3. **Plug RS into the RSI formula:**
-   Use the RS [value](../v/value.md) in the RSI formula: `RSI = 100 - [100 / (1 + RS)]`.
+ Use the RS [value](../v/value.md) in the RSI formula: `RSI = 100 - [100 / (1 + RS)]`.
 
 ### Example Calculation
 
@@ -39,7 +39,7 @@ If a [trader](../t/trader.md) is looking at a stock price for the last three day
 Average [Gain](../g/gain.md) = (2 + 2) / 2 = 2\
 Average Loss = 1 / 2 = 0.5\
 RS = 2 / 0.5 = 4\
-RSI = 100 - [100 / (1 + 3)] = 80
+RSI = 100 - [100 / (1 + 4)] = 100 - 20 = 80
 
 ## Trading with 2-Period RSI
 
@@ -89,7 +89,7 @@ int OnInit()
    IndicatorDigits(Digits);
    [return](../r/return.md)(INIT_SUCCEEDED);
   }
-int OnCalculate(const int rates_total,
+int OnCalculateconst int rates_total,
               const int prev_calculated,
               const datetime &time[],
               const double &[open](../o/open.md)[],
@@ -161,4 +161,4 @@ plot [Oversold](../o/oversold.md) = 10;
 
 ## Conclusion
 
-The 2-period RSI is a powerful tool for short-term traders looking to capture quick [market](../m/market.md) movements. While it offers benefits of responsiveness and simplicity, traders should be aware of its limitations and employ complementary indicators and [backtesting](../b/backtesting.md) to optimize their strategies. By effectively integrating the 2-period RSI into a broader trading plan, traders can enhance their chances of successful trades in fast-paced [market](../m/market.md) environments.
+The 2-period RSI is a powerful tool for short-term traders looking to capture quick [market](../m/market.md) movements. While it offers benefits of responsiveness and simplicity, traders should be aware of its limitations and employ complementary indicators and [backtesting](../b/backtesting.md) to optimize their strategies. By effectively integrating the 2-period RSI into a broader trading plan, traders can enhance their chances of successful trades in fast-paced [market](../m/market.md) environments.

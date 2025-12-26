@@ -1,6 +1,6 @@
 # Pivot Points
 
-Pivot Points are widely used [technical analysis](../t/technical_analysis.md) tools in the [financial markets](../f/financial_market.md), especially by day traders, to identify potential [support and resistance](../s/support_and_resistance.md) levels. These levels are derived from the previous day’s high, low, and closing prices, providing a framework for [trading strategies](../t/trading_strategies.md) in the current [trading session](../t/trading_session.md). Their significance lies in their ability to predict [market](../m/market.md) movements, making them valuable for both traditional and [algorithmic trading](../a/algorithmic_trading.md). 
+Pivot Points are widely used [technical analysis](../t/technical_analysis.md) tools in the [financial markets](../f/financial_market.md), especially by day traders, to identify potential [support and resistance](../s/support_and_resistance.md) levels. These levels are derived from the previous day’s high, low, and closing prices, providing a framework for [trading strategies](../t/trading_strategies.md) in the current [trading session](../t/trading_session.md). Their significance lies in their ability to predict [market](../m/market.md) movements, making them valuable for both traditional and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Calculating Pivot Points
 
@@ -67,6 +67,6 @@ Pivot points serve as a foundational tool in [technical analysis](../t/technical
 
 For further information on professional tools and platforms [offering](../o/offering.md) [pivot point](../p/pivot_point.md) analysis, you can visit the following links:
 
-- [MetaTrader](https://www.metatrader4.com)
-- [TradingView](https://www.tradingview.com)
-- [NinjaTrader](https://ninjatrader.com)
+- MetaTrader
+- TradingView
+- NinjaTrader

@@ -93,7 +93,7 @@ In the world of financial technology (Fintech), marginal [utility](../u/utility.
 
 ### Algorithmic Trading
 
-Algorithms in [trading systems](../t/trading_systems.md) often evaluate marginal [utility](../u/utility.md) to optimize [trading strategies](../t/trading_strategies.md). For example, [algorithmic trading](../a/accountability.md) models may incorporate [utility functions](../u/utility_functions_in_trading.md) to determine the optimal timing and quantity of trades, maximizing the marginal [utility](../u/utility.md) of expected returns while managing [risk](../r/risk.md).
+Algorithms in [trading systems](../t/trading_systems.md) often evaluate marginal [utility](../u/utility.md) to optimize [trading strategies](../t/trading_strategies.md). For example, [algorithmic trading](../a/algorithmic_trading.md) models may incorporate [utility functions](../u/utility_functions_in_trading.md) to determine the optimal timing and quantity of trades, maximizing the marginal [utility](../u/utility.md) of expected returns while managing [risk](../r/risk.md).
 
 ## Conclusion
 

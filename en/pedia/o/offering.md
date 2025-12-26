@@ -6,7 +6,7 @@ In the realm of [finance](../f/finance.md) and trading, an "offering" is a criti
 
 ### Initial Public Offering (IPO)
 
-IPO is the process by which a [private company](../p/private_company.md) offers its [shares](../s/shares.md) to the public for the first time. By doing this, the company transitions from being privately held to publicly traded. This involves substantial regulatory preparation, including filing various documents with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States, such as the Registration Statement and the S-1 form. 
+IPO is the process by which a [private company](../p/private_company.md) offers its [shares](../s/shares.md) to the public for the first time. By doing this, the company transitions from being privately held to publicly traded. This involves substantial regulatory preparation, including filing various documents with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States, such as the Registration Statement and the S-1 form.
 
 #### Steps in an IPO:
 1. **[Pre-IPO](../p/pre-ipo.md) Transformation**: Companies often restructure and prepare themselves for public scrutiny.
@@ -44,7 +44,7 @@ Existing shareholders are given the right to purchase additional [shares](../s/s
 
 ### Convertible Security Offering
 
-These are securities, usually bonds or preferred [shares](../s/shares.md), that can be converted into [common stock](../c/common_stock.md). Companies favor convertible securities as they typically [offer](../o/offer.md) lower [interest](../i/interest.md) rates than regular bonds but give investors the potential for [equity](../e/equity.md) participation in the future. 
+These are securities, usually bonds or preferred [shares](../s/shares.md), that can be converted into [common stock](../c/common_stock.md). Companies favor convertible securities as they typically [offer](../o/offer.md) lower [interest](../i/interest.md) rates than regular bonds but give investors the potential for [equity](../e/equity.md) participation in the future.
 
 ### Bond Offering
 
@@ -63,7 +63,7 @@ The SEC mandates detailed financial disclosures to prevent [fraud](../f/fraud.md
 
 ### Financial Conduct Authority (FCA) in the UK
 
-The FCA oversees offerings, ensuring they comply with regulations like the [Prospectus](../p/prospectus.md) Directive, requiring detailed documentation and ensuring proper advertising standards. 
+The FCA oversees offerings, ensuring they comply with regulations like the [Prospectus](../p/prospectus.md) Directive, requiring detailed documentation and ensuring proper advertising standards.
 
 ### European Securities and Markets Authority (ESMA)
 
@@ -81,7 +81,7 @@ Offerings facilitate [capital](../c/capital.md) accumulation for [expansion](../
 
 ### Investor Considerations
 
-Investors [gain](../g/gain.md) access to previously unavailable investment opportunities. However, they must weigh the risks of [dilution](../d/dilution.md), [market](../m/market.md) [volatility](../v/volatility.md), and the financial stability of newly public companies. 
+Investors [gain](../g/gain.md) access to previously unavailable investment opportunities. However, they must weigh the risks of [dilution](../d/dilution.md), [market](../m/market.md) [volatility](../v/volatility.md), and the financial stability of newly public companies.
 
 ### Underwriters and Advisors
 
@@ -91,11 +91,11 @@ Investors [gain](../g/gain.md) access to previously unavailable investment oppor
 
 ### Alibaba Group Holding Limited
 
-Alibaba’s IPO in 2014 on the New York Stock [Exchange](../e/exchange.md) was one of the largest in history, raising $25 billion. This involved extensive preparatory work, including [restructuring](../r/restructuring.md) to comply with international standards and exhaustive roadshows to attract global investors. More details can be found [here](https://www.alibabagroup.com/en/global/fo/).
+Alibaba’s IPO in 2014 on the New York Stock [Exchange](../e/exchange.md) was one of the largest in history, raising $25 billion. This involved extensive preparatory work, including [restructuring](../r/restructuring.md) to comply with international standards and exhaustive roadshows to attract global investors. More details can be found here.
 
 ### Stripe
 
-A notable FinTech example involves Stripe, widely known for facilitating online payments. Stripe raised significant [capital](../c/capital.md) through various private placements and secondary offerings, contributing to its [valuation](../v/valuation.md) growth and strategic [expansion](../e/expansion.md). More information can be viewed on their [official website](https://stripe.com/).
+A notable FinTech example involves Stripe, widely known for facilitating online payments. Stripe raised significant [capital](../c/capital.md) through various private placements and secondary offerings, contributing to its [valuation](../v/valuation.md) growth and strategic [expansion](../e/expansion.md).
 
 ## Conclusion
 

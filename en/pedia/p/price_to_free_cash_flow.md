@@ -24,12 +24,12 @@ This ratio is calculated by dividing the [market capitalization](../m/market_cap
 \]
 
 ### Interpretation of P/FCF Ratio
-A lower P/FCF ratio may indicate that the stock is [undervalued](../u/undervalued.md) or that the company is generating a good amount of free [cash flow](../c/cash_flow.md) relative to its stock price. Conversely, a higher P/FCF ratio might suggest that the stock is [overvalued](../o/overvalued.md) or that the company has lower free [cash flow](../c/cash_flow.md) relative to its [market price](../m/market_price.md). 
+A lower P/FCF ratio may indicate that the stock is [undervalued](../u/undervalued.md) or that the company is generating a good amount of free [cash flow](../c/cash_flow.md) relative to its stock price. Conversely, a higher P/FCF ratio might suggest that the stock is [overvalued](../o/overvalued.md) or that the company has lower free [cash flow](../c/cash_flow.md) relative to its [market price](../m/market_price.md).
 
 ## Why P/FCF is Important
 
 ### Assessing Financial Health
-Free [Cash Flow](../c/cash_flow.md) is a direct measure of a company's [financial health](../f/financial_health.md) and its ability to generate cash. Unlike net [income](../i/income.md), which can be affected by non-cash items such as [depreciation](../d/depreciation.md) and amortization, FCF provides a clear picture of the cash that the company has at its disposal. 
+Free [Cash Flow](../c/cash_flow.md) is a direct measure of a company's [financial health](../f/financial_health.md) and its ability to generate cash. Unlike net [income](../i/income.md), which can be affected by non-cash items such as [depreciation](../d/depreciation.md) and amortization, FCF provides a clear picture of the cash that the company has at its disposal.
 
 ### Financing Growth
 Companies with strong free [cash flow](../c/cash_flow.md) are better positioned to [finance](../f/finance.md) [expansion](../e/expansion.md), invest in new projects, pay dividends, and reduce [debt](../d/debt.md) without having to rely on external [financing](../f/financing.md) sources.
@@ -74,14 +74,14 @@ Analysts and investors often track the P/FCF ratio over time to monitor the [fin
 Let's consider a hypothetical analysis of companies in the tech sector. Suppose we have two companies, TechCorp and InnovateInc.
 
 - **TechCorp:**
-  - Stock Price: $150
-  - Free [Cash Flow](../c/cash_flow.md) per Share: $7
-  - P/FCF Ratio: \( \frac{150}{7} \approx 21.43 \)
+ - Stock Price: $150
+ - Free [Cash Flow](../c/cash_flow.md) per Share: $7
+ - P/FCF Ratio: \( \frac{150}{7} \approx 21.43 \)
 
 - **InnovateInc:**
-  - Stock Price: $200
-  - Free [Cash Flow](../c/cash_flow.md) per Share: $5
-  - P/FCF Ratio: \( \frac{200}{5} = 40 \)
+ - Stock Price: $200
+ - Free [Cash Flow](../c/cash_flow.md) per Share: $5
+ - P/FCF Ratio: \( \frac{200}{5} = 40 \)
 
 From this comparison, we can see that TechCorp has a lower P/FCF ratio (21.43) compared to InnovateInc (40). All else being equal, TechCorp might be considered the more attractive investment based on this metric alone, as investors are paying less for every dollar of free [cash flow](../c/cash_flow.md).
 

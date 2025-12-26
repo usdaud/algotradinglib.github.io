@@ -1,8 +1,8 @@
 # Online Banking
 
-Online banking, also known as internet banking or e-banking, is an electronic [payment](../p/payment.md) system that enables customers of a [bank](../b/bank.md) or other financial institution to conduct a [range](../r/range.md) of financial transactions through the financial institution's website. Online banking offers features such as account balances, transactions histories, [fund](../f/fund.md) transfers, bill payments, and investment opportunities, making it a crucial element of the modern financial ecosystem.
+Online banking, also known as internet banking or e-banking, is an electronic [payment](../p/payment.md) system that enables customers of a [bank](../b/bank.md) or other financial institution to conduct a [range](../r/range.md) of financial transactions. Online banking offers features such as account balances, transactions histories, [fund](../f/fund.md) transfers, bill payments, and investment opportunities, making it a crucial element of the modern financial ecosystem.
 
-## History of Online Banking 
+## History of Online Banking
 
 The concept of online banking can be traced back to the early 1980s when it was first introduced by banks in the UK and the United States. Initially, it was limited to basic functionalities such as viewing account balances and recent transactions. However, with advancements in technology, online banking has transformed into a comprehensive platform providing a full suite of financial services.
 
@@ -60,9 +60,9 @@ The regulatory landscape for online banking varies by country but generally incl
 Online banking is a dynamic and rapidly evolving field that plays a crucial role in the convenience and [efficiency](../e/efficiency.md) of modern financial services. As technology continues to advance, online banking is expected to become even more sophisticated, [offering](../o/offering.md) greater [security](../s/security.md), service, and personalization for users worldwide.
 
 For more detailed information, you can visit the official websites of various banks that [offer](../o/offer.md) online banking services. Here are a few examples:
-- [Bank of America](https://www.bankofamerica.com)
-- [Chase Bank](https://www.chase.com)
-- [HSBC](https://www.hsbc.com)
-- [Wells Fargo](https://www.wellsfargo.com)
+- Bank of America
+- Chase Bank
+- HSBC
+- Wells Fargo
 
 These links provide additional insights into the features, services, and [security](../s/security.md) measures offered by these financial institutions in their online banking platforms.

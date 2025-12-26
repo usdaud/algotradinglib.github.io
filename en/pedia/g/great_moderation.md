@@ -13,7 +13,7 @@ The term "Great Moderation" was coined by economists in the early 2000s to descr
 One of the most widely accepted explanations attributes the Great Moderation to improved [monetary policy](../m/monetary_policy.md). The Federal Reserve, led by figures such as Paul Volcker, [Alan Greenspan](../a/alan_greenspan.md), and later [Ben Bernanke](../b/ben_bernanke.md), implemented policies focusing on controlling [inflation](../i/inflation.md) and stabilizing [economic growth](../e/economic_growth.md):
 
 - **[Inflation](../i/inflation.md) Targeting:** Central banks adopted explicit or implicit [inflation](../i/inflation.md) targets, which helped anchor [inflation](../i/inflation.md) expectations and reduced [volatility](../v/volatility.md).
-- **[Interest Rate](../i/interest_rate.md) Policies:** The Federal Reserve used [interest rate](../i/interest_rate.md) policies more effectively to smooth out economic fluctuations. 
+- **[Interest Rate](../i/interest_rate.md) Policies:** The Federal Reserve used [interest rate](../i/interest_rate.md) policies more effectively to smooth out economic fluctuations.
 
 ### 2. Structural Changes in the Economy
 
@@ -31,7 +31,7 @@ Some economists argue that the Great Moderation was partly a result of good fort
 
 ### 1. Role of Central Banks
 
-The Great Moderation led to a reassessment of the role of central banks in stabilizing economic activity. It demonstrated the importance of sustainable monetary policies and central banks' ability to influence economic stability. 
+The Great Moderation led to a reassessment of the role of central banks in stabilizing economic activity. It demonstrated the importance of sustainable monetary policies and central banks' ability to influence economic stability.
 
 ### 2. Business Cycle Theory
 
@@ -57,11 +57,11 @@ Despite the overall economic stability, the benefits of the Great Moderation wer
 
 ## Conclusion
 
-The Great Moderation remains an important period in economic history, [offering](../o/offering.md) valuable lessons on the interplay between [monetary policy](../m/monetary_policy.md), structural changes, and economic stability. While it brought significant benefits in terms of reduced [volatility](../v/volatility.md) and sustained growth, it also highlighted the need for vigilant regulatory oversight and the importance of addressing [underlying](../u/underlying.md) economic vulnerabilities. 
+The Great Moderation remains an important period in economic history, [offering](../o/offering.md) valuable lessons on the interplay between [monetary policy](../m/monetary_policy.md), structural changes, and economic stability. While it brought significant benefits in terms of reduced [volatility](../v/volatility.md) and sustained growth, it also highlighted the need for vigilant regulatory oversight and the importance of addressing [underlying](../u/underlying.md) economic vulnerabilities.
 
 For more information on companies involved in economic analysis and financial services, you can visit the following websites:
-- [Federal Reserve](https://www.federalreserve.gov/)
-- [International Monetary Fund (IMF)](https://www.imf.org/)
-- [World Bank](https://www.worldbank.org/)
+- Federal Reserve
+- International Monetary Fund (IMF)
+- World Bank
 
 By understanding the dynamics and lessons from the Great Moderation, policymakers, investors, and academics can better navigate future economic challenges and opportunities.

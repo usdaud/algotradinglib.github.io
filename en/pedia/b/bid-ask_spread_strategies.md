@@ -32,11 +32,11 @@ The spread is the difference between the [bid price](../b/bid_price.md) and the 
 
 ### Market Making
 
-**Description**: [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) by placing both [bid and ask](../b/bid_and_ask.md) orders. They [profit](../p/profit.md) from the spread by simultaneously buying at the [bid price](../b/bid_price.md) and selling at the ask price. 
+**Description**: [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) by placing both [bid and ask](../b/bid_and_ask.md) orders. They [profit](../p/profit.md) from the spread by simultaneously buying at the [bid price](../b/bid_price.md) and selling at the ask price.
 
 **Strategy**: [Market](../m/market.md) makers use algorithms to adjust their quotes dynamically, ensuring they always maintain a position on both sides of the [order book](../o/order_book.md).
 
-**Example**: [Jane Street](https://www.janestreet.com/), a prominent [market maker](../m/market_maker.md), employs sophisticated algorithms to efficiently [quote](../q/quote.md) [bid and ask](../b/bid_and_ask.md) prices across various assets, ensuring [liquidity](../l/liquidity.md) in the [market](../m/market.md).
+**Example**: Jane Street, a prominent [market maker](../m/market_maker.md), employs sophisticated algorithms to efficiently [quote](../q/quote.md) [bid and ask](../b/bid_and_ask.md) prices across various assets, ensuring [liquidity](../l/liquidity.md) in the [market](../m/market.md).
 
 ### Arbitrage
 
@@ -44,7 +44,7 @@ The spread is the difference between the [bid price](../b/bid_price.md) and the 
 
 **Strategy**: Traders may execute simultaneous buy and sell orders across different platforms or [asset](../a/asset.md) classes to capture the spread difference.
 
-**Example**: [Arbitrage](../a/arbitrage.md) strategies are common among high-frequency trading firms like [Citadel Securities](https://www.citadelsecurities.com/), which [leverage](../l/leverage.md) high-speed algorithms to identify and act on [arbitrage](../a/arbitrage.md) opportunities.
+**Example**: [Arbitrage](../a/arbitrage.md) strategies are common among high-frequency trading firms like Citadel Securities, which [leverage](../l/leverage.md) high-speed algorithms to identify and act on [arbitrage](../a/arbitrage.md) opportunities.
 
 ### Statistical Arbitrage
 
@@ -52,7 +52,7 @@ The spread is the difference between the [bid price](../b/bid_price.md) and the 
 
 **Strategy**: Algorithms analyze historical price data to predict short-term price movements and execute trades that [capitalize](../c/capitalize.md) on the temporary deviations from the mean price.
 
-**Example**: [Two Sigma](https://www.twosigma.com/) employs advanced statistical models to uncover and exploit inefficiencies in the [bid-ask spread](../b/bid-ask_spread.md) using high-frequency [trading strategies](../t/trading_strategies.md).
+**Example**: Two Sigma employs advanced statistical models to uncover and exploit inefficiencies in the [bid-ask spread](../b/bid-ask_spread.md) using high-frequency [trading strategies](../t/trading_strategies.md).
 
 ### Spread Trading
 
@@ -60,7 +60,7 @@ The spread is the difference between the [bid price](../b/bid_price.md) and the 
 
 **Strategy**: Algorithms monitor the price relationships and execute trades when predefined spread conditions are met, such as [relative value](../r/relative_value.md) differences.
 
-**Example**: [Proprietary trading](../p/proprietary_trading.md) firms like [Optiver](https://www.optiver.com/) use complex algorithms to execute [spread trading](../s/spread_trading.md) strategies across various [asset](../a/asset.md) classes.
+**Example**: [Proprietary trading](../p/proprietary_trading.md) firms like Optiver use complex algorithms to execute [spread trading](../s/spread_trading.md) strategies across various [asset](../a/asset.md) classes.
 
 ### Liquidity Provision
 
@@ -68,7 +68,7 @@ The spread is the difference between the [bid price](../b/bid_price.md) and the 
 
 **Strategy**: Algorithms continuously place and adjust orders at various levels in the [order book](../o/order_book.md) to ensure a steady flow of buy and sell orders, capturing the spread.
 
-**Example**: [Market](../m/market.md) participants, including [hedge](../h/hedge.md) funds like [DE Shaw & Co.](https://www.deshaw.com/), often use sophisticated algorithms to provide continuous [liquidity](../l/liquidity.md), benefiting from the [bid-ask spread](../b/bid-ask_spread.md).
+**Example**: [Market](../m/market.md) participants, including [hedge](../h/hedge.md) funds like DE Shaw & Co., often use sophisticated algorithms to provide continuous [liquidity](../l/liquidity.md), benefiting from the [bid-ask spread](../b/bid-ask_spread.md).
 
 ### Order Book Depth Analysis
 
@@ -76,7 +76,7 @@ The spread is the difference between the [bid price](../b/bid_price.md) and the 
 
 **Strategy**: Algorithms assess the [order book depth](../o/order_book_depth.md) and adjust [trading strategies](../t/trading_strategies.md) based on the concentration of buy and sell orders, which can influence the [bid-ask spread](../b/bid-ask_spread.md).
 
-**Example**: High-frequency trading firms such as [Virtu Financial](https://www.virtu.com/) often utilize [order book depth](../o/order_book_depth.md) analysis to optimize their [bid-ask spread](../b/bid-ask_spread.md) strategies.
+**Example**: High-frequency trading firms such as Virtu Financial often utilize [order book depth](../o/order_book_depth.md) analysis to optimize their [bid-ask spread](../b/bid-ask_spread.md) strategies.
 
 ## Measuring and Optimizing the Spread
 
@@ -112,9 +112,9 @@ Regulation can affect the implementation of [bid-ask spread](../b/bid-ask_spread
 
 For more detailed information about individual companies and their strategies, you can visit the following pages:
 
-- [Jane Street](https://www.janestreet.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Optiver](https://www.optiver.com/)
-- [DE Shaw & Co.](https://www.deshaw.com/)
-- [Virtu Financial](https://www.virtu.com/)
+- Jane Street
+- Citadel Securities
+- Two Sigma
+- Optiver
+- DE Shaw & Co.
+- Virtu Financial

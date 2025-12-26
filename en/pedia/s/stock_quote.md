@@ -35,9 +35,9 @@ Historical stock quotes provide price information for a stock over various time 
 Stock quotes can be obtained from various sources including:
 
 - **Stock Exchanges**: Most major stock exchanges provide real-time and historical stock data. For example, the New York Stock [Exchange](../e/exchange.md) (NYSE) and the [Nasdaq](../n/nasdaq.md) provide detailed stock quotes on their websites.
-- **Financial News Websites**: Websites like [CNBC](https://www.cnbc.com/), [Bloomberg](https://www.bloomberg.com/), and [Reuters](https://www.reuters.com/) provide comprehensive [stock market](../s/stock_market.md) data, including real-time quotes.
-- **Mobile Apps**: Numerous apps such as [Robinhood](https://robinhood.com/), [E*TRADE](https://us.etrade.com/), and [Yahoo Finance](https://finance.yahoo.com/) [offer](../o/offer.md) real-time stock quotes for on-the-go trading.
-- **Brokerage Platforms**: Most online brokerage platforms [offer](../o/offer.md) real-time stock quotes as part of their service. Examples include [Fidelity](https://www.fidelity.com/), [Charles Schwab](https://www.schwab.com/), and [TD Ameritrade](https://www.tdameritrade.com/).
+- **Financial News Websites**: Websites like CNBC, Bloomberg, and Reuters provide comprehensive [stock market](../s/stock_market.md) data, including real-time quotes.
+- **Mobile Apps**: Numerous apps such as Robinhood, E*TRADE, and Yahoo Finance [offer](../o/offer.md) real-time stock quotes for on-the-go trading.
+- **Brokerage Platforms**: Most online brokerage platforms [offer](../o/offer.md) real-time stock quotes as part of their service. Examples include Fidelity, Charles Schwab, and TD Ameritrade.
 
 ## Importance of Stock Quotes in Trading
 

@@ -14,7 +14,7 @@ The bedrock of fundamental [indexation](../i/indexation.md) is the reliance on e
 
 - **Dividends**: Companies returning [capital](../c/capital.md) to shareholders consistently are seen as more stable.
 - **Cash Flows**: Free cash flows demonstrate a company's ability to generate cash internally, which is critical for growth, dividends, and reducing [debt](../d/debt.md).
-- **Sales**: [Revenue](../r/revenue.md) generation indicates [market](../m/market.md) [demand](../d/demand.md) and competitive standing. 
+- **Sales**: [Revenue](../r/revenue.md) generation indicates [market](../m/market.md) [demand](../d/demand.md) and competitive standing.
 - **[Book Value](../b/book_value.md)**: Reflects the net [asset](../a/asset.md) [value](../v/value.md) of a company and provides insight into its real worth.
 
 ### Avoiding Market Bubbles
@@ -77,25 +77,21 @@ The need for periodic [rebalancing](../r/rebalancing.md) to reflect updated fund
 
 One of the most prominent advocates of fundamental [indexation](../i/indexation.md) is Research Affiliates, founded by Rob Arnott. The company has been at the forefront of developing and promoting fundamentally [weighted](../w/weighted.md) indices. Research Affiliates' RAFI (Research Affiliates Fundamental [Index](../i/index_instrument.md)) series is a pioneering example of this approach, providing investors an alternative to traditional [market](../m/market.md)-cap [weighted](../w/weighted.md) indices.
 
-[Research Affiliates](https://www.researchaffiliates.com)
 
 ### WisdomTree
 
 WisdomTree is another notable name in the space, [offering](../o/offering.md) various fundamentally [weighted](../w/weighted.md) [exchange](../e/exchange.md)-traded funds (ETFs). Their approach often involves weighting securities by [earnings](../e/earnings.md) and dividends, aiming to provide superior [risk](../r/risk.md)-adjusted returns.
 
-[WisdomTree](https://www.wisdomtree.com)
 
 ### Charles Schwab
 
 [Charles Schwab](../c/charles_schwab.md) offers fundamentally [weighted index funds](../w/weighted_index_funds.md) under their Fundamental [Index](../i/index_instrument.md) Funds series. These funds use fundamental metrics to determine the [index](../i/index_instrument.md) composition and weightings, providing investors with diversified exposure based on economic fundamentals.
 
-[Charles Schwab](https://www.schwab.com)
 
 ### Dimensional Fund Advisors
 
 Dimensional [Fund](../f/fund.md) Advisors integrates aspects of fundamental [indexation](../i/indexation.md) in its investment strategies, focusing on dimensions of expected returns through a scientific approach to [investing](../i/investing.md).
 
-[Dimensional Fund Advisors](https://www.dimensional.com)
 
 ## Applications in Portfolio Management
 

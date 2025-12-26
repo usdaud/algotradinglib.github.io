@@ -6,9 +6,9 @@ High-[Volume](../v/volume.md) [Trading Strategies](../t/trading_strategies.md) a
 
 High-Frequency Trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) characterized by high speeds, high [turnover](../t/turnover.md) rates, and a high number of orders. The primary aim is to take advantage of very small price discrepancies within short time frames. HFT operates on the principles of latency [arbitrage](../a/arbitrage.md), [market](../m/market.md) making, and statistical [arbitrage](../a/arbitrage.md). Some of the prominent companies in the HFT space include:
 
-- **Jane Street**: [Jane Street](https://www.janestreet.com/)
-- **Citadel Securities**: [Citadel Securities](https://www.citadelsecurities.com/)
-- **Virtu Financial**: [Virtu Financial](https://www.virtu.com/)
+- **Jane Street**: Jane Street
+- **Citadel Securities**: Citadel Securities
+- **Virtu Financial**: Virtu Financial
 
 ### Latency Arbitrage
 
@@ -75,7 +75,7 @@ VWAP represents the average price a [security](../s/security.md) has traded at t
 
 ## Event-Driven Strategies
 
-Event-Driven Strategies [capitalize](../c/capitalize.md) on price movements caused by significant corporate or [market](../m/market.md) events. This includes mergers and acquisitions, [earnings](../e/earnings.md) reports, and other major announcements. 
+Event-Driven Strategies [capitalize](../c/capitalize.md) on price movements caused by significant corporate or [market](../m/market.md) events. This includes mergers and acquisitions, [earnings](../e/earnings.md) reports, and other major announcements.
 
 - **Mergers and Acquisitions [Arbitrage](../a/arbitrage.md)**: Profiting from stock price movements in companies involved in M&A activity.
 - **[Earnings Announcements](../e/earnings_announcements.md)**: Trading in anticipation of or reaction to [earnings announcements](../e/earnings_announcements.md).

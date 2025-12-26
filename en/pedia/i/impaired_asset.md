@@ -13,8 +13,8 @@ An impaired [asset](../a/asset.md) is a company [asset](../a/asset.md) that has 
 Several factors can lead to [asset](../a/asset.md) [impairment](../i/impairment.md). The main causes include:
 
 1. **Economic Downturns**: During economic recessions, the [market value](../m/market_value.md) of assets such as [real estate](../r/real_estate.md), machinery, and equipment can significantly decrease.
- 
-2. **Technological Obsolescence**: Advances in technology can render existing equipment or software obsolete, leading to [impairment](../i/impairment.md). 
+
+2. **Technological Obsolescence**: Advances in technology can render existing equipment or software obsolete, leading to [impairment](../i/impairment.md).
 
 3. **Physical Damage**: Assets that suffer physical damage, such as in a natural disaster, can see their [value](../v/value.md) plummet.
 
@@ -34,35 +34,35 @@ Testing for [impairment](../i/impairment.md) is a methodical process that compri
 
 ### 1. **Identify Scope for Testing**
 
-    Initially, identify the assets to be tested for [impairment](../i/impairment.md). Not all assets need to be tested every reporting period.
+ Initially, identify the assets to be tested for [impairment](../i/impairment.md). Not all assets need to be tested every reporting period.
 
 ### 2. **Review Indicators of Impairment**
 
-   Indicators could include a significant decline in [market value](../m/market_value.md), changes in the technological, [market](../m/market.md), economic, or legal environment, or internal evidence indicating an [asset](../a/asset.md)'s performance does not meet expectations.
+ Indicators could include a significant decline in [market value](../m/market_value.md), changes in the technological, [market](../m/market.md), economic, or legal environment, or internal evidence indicating an [asset](../a/asset.md)'s performance does not meet expectations.
 
 ### 3. **Estimate Recoverable Amount**
 
-   The recoverable amount is the higher of an [asset](../a/asset.md)'s [fair value](../f/fair_value.md) less costs of disposal (net selling price) and its [value](../v/value.md) in use.
+ The recoverable amount is the higher of an [asset](../a/asset.md)'s [fair value](../f/fair_value.md) less costs of disposal (net selling price) and its [value](../v/value.md) in use.
 
-   - **[Fair Value](../f/fair_value.md) Less Costs of Disposal**: This is the amount obtainable from the [sale](../s/sale.md) of an [asset](../a/asset.md) minus the costs directly attributable to the [sale](../s/sale.md).
-   
-   - **[Value](../v/value.md) in Use**: This is the [present value](../p/present_value.md) of future cash flows expected to be derived from an [asset](../a/asset.md).
+ - **[Fair Value](../f/fair_value.md) Less Costs of Disposal**: This is the amount obtainable from the [sale](../s/sale.md) of an [asset](../a/asset.md) minus the costs directly attributable to the [sale](../s/sale.md).
+
+ - **[Value](../v/value.md) in Use**: This is the [present value](../p/present_value.md) of future cash flows expected to be derived from an [asset](../a/asset.md).
 
 ### 4. **Compare Carrying Amount and Recoverable Amount**
 
-   If the carrying amount exceeds the recoverable amount, the [asset](../a/asset.md) is considered impaired.
+ If the carrying amount exceeds the recoverable amount, the [asset](../a/asset.md) is considered impaired.
 
 ### 5. **Calculate Impairment Loss**
 
-   Calculate the [impairment](../i/impairment.md) loss as the difference between the carrying amount and the recoverable amount.
+ Calculate the [impairment](../i/impairment.md) loss as the difference between the carrying amount and the recoverable amount.
 
 ### 6. **Write Down to Recoverable Amount**
 
-   The recognized [impairment](../i/impairment.md) loss should be written down against the [asset](../a/asset.md)'s carrying amount on the company's [balance sheet](../b/balance_sheet.md).
+ The recognized [impairment](../i/impairment.md) loss should be written down against the [asset](../a/asset.md)'s carrying amount on the company's [balance sheet](../b/balance_sheet.md).
 
 ### 7. **Disclose Impairments in Financial Statements**
 
-   Disclosures should include the amount of [impairment](../i/impairment.md) loss recognized, the events leading to the recognition, and an explanation of how the recoverable amount was determined.
+ Disclosures should include the amount of [impairment](../i/impairment.md) loss recognized, the events leading to the recognition, and an explanation of how the recoverable amount was determined.
 
 ---
 
@@ -74,22 +74,22 @@ Proper recording of [impairment](../i/impairment.md) loss in [financial statemen
 
 1. **Initial Recording**:
 
-    The [impairment](../i/impairment.md) loss is recorded by debiting an [impairment](../i/impairment.md) loss account and crediting the [asset](../a/asset.md) account.
+ The [impairment](../i/impairment.md) loss is recorded by debiting an [impairment](../i/impairment.md) loss account and crediting the [asset](../a/asset.md) account.
 
-    ```markdown
-    [Impairment](../i/impairment.md) Loss    XXX
-         [Accumulated Depreciation](../a/accumulated_depreciation.md)      XXX
-    ```
+ ```markdown
+ [Impairment](../i/impairment.md) Loss XXX
+ [Accumulated Depreciation](../a/accumulated_depreciation.md) XXX
+ ```
 
-    This entry reduces the carrying amount of the [asset](../a/asset.md).
+ This entry reduces the carrying amount of the [asset](../a/asset.md).
 
 2. **Presentation in [Financial Statements](../f/financial_statements.md)**:
 
-    The [impairment](../i/impairment.md) loss is presented in the [income statement](../i/income_statement.md), typically under operating expenses.
+ The [impairment](../i/impairment.md) loss is presented in the [income statement](../i/income_statement.md), typically under operating expenses.
 
 3. **[Disclosure](../d/disclosure.md) Details**:
 
-    [Financial statements](../f/financial_statements.md) should provide detailed [disclosure](../d/disclosure.md) about the impaired [asset](../a/asset.md), including the amount of loss, reasons for [impairment](../i/impairment.md), and method of determining the recoverable amount.
+ [Financial statements](../f/financial_statements.md) should provide detailed [disclosure](../d/disclosure.md) about the impaired [asset](../a/asset.md), including the amount of loss, reasons for [impairment](../i/impairment.md), and method of determining the recoverable amount.
 
 ---
 
@@ -135,7 +135,7 @@ Both International Financial Reporting Standards (IFRS) and Generally Accepted [
 - **General Electric**: Faced a massive [goodwill impairment](../g/goodwill_impairment.md) charge in 2018, leading to a considerable reduction in their stock price.
 - **Deutsche [Bank](../b/bank.md)**: Reported substantial impairments on [goodwill](../g/goodwill.md) and other intangible assets due to operational [restructuring](../r/restructuring.md).
 
-[General Electric](https://www.ge.com) has detailed on their official site how impairments have been handled historically in their [financial statements](../f/financial_statements.md). Similarly, [Deutsche Bank](https://www.db.com) provides insights into the methodology behind their [impairment](../i/impairment.md) assessments.
+General Electric has detailed on their public materials how impairments have been handled historically in their [financial statements](../f/financial_statements.md). Similarly, Deutsche Bank provides insights into the methodology behind their [impairment](../i/impairment.md) assessments.
 
 ---
 

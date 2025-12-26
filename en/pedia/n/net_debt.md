@@ -1,6 +1,6 @@
 # Net Debt
 
-Net [debt](../d/debt.md) is a critical financial metric that provides insights into a company's [liquidity](../l/liquidity.md) and overall [financial health](../f/financial_health.md) by subtracting its [total liabilities](../t/total_liabilities.md) from its cash and [cash equivalents](../c/cash_equivalents.md). It is one of the key indicators used by investors, analysts, and financial managers to assess a company's [leverage](../l/leverage.md), [risk](../r/risk.md), and [operational efficiency](../o/operational_efficiency_in_trading.md). 
+Net [debt](../d/debt.md) is a critical financial metric that provides insights into a company's [liquidity](../l/liquidity.md) and overall [financial health](../f/financial_health.md) by subtracting its [total liabilities](../t/total_liabilities.md) from its cash and [cash equivalents](../c/cash_equivalents.md). It is one of the key indicators used by investors, analysts, and financial managers to assess a company's [leverage](../l/leverage.md), [risk](../r/risk.md), and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Definition and Composition
 
@@ -116,4 +116,4 @@ This calculation reveals that XYZ Corp has a net [debt](../d/debt.md) of $400 mi
 
 Net [debt](../d/debt.md) is a pivotal financial metric that offers a clear picture of a company's [leverage](../l/leverage.md) and [liquidity](../l/liquidity.md). It aids in [credit](../c/credit.md) analysis, investment decisions, and [valuation models](../v/valuation_models.md), providing valuable insights into [financial risk](../f/financial_risk.md) and [operational efficiency](../o/operational_efficiency_in_trading.md). By understanding and managing their net [debt](../d/debt.md), companies can enhance their financial stability and growth potential, ultimately benefiting stakeholders across the board.
 
-For further detailed information, you can visit corporate financial sections or [investor relations](../i/investor_relations.md) pages of public companies such as [Apple Inc.](https://investor.apple.com/financials/default.aspx) or [General Electric](https://www.ge.com/investor-relations).
+For further detailed information, you can visit corporate financial sections or [company filings](../i/investor_relations.md) pages of public companies such as Apple Inc. or General Electric.

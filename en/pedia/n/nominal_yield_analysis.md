@@ -100,10 +100,10 @@ Algotrading platforms integrate [risk management](../r/risk_management.md) frame
 
 Several companies provide sophisticated tools and platforms that support [nominal](../n/nominal.md) [yield analysis](../y/yield_analysis.md) and algotrading strategies. These include:
 
-- **[Bloomberg](../b/bloomberg.md)**: Offers a comprehensive suite of financial tools, including [yield analysis](../y/yield_analysis.md), trading platforms, and [risk management](../r/risk_management.md) solutions. [Bloomberg](https://www.bloomberg.com/)
-- **Thomson [Reuters](../r/reuters.md)**: Provides financial data and analytics, with extensive features for [bond](../b/bond.md) [yield analysis](../y/yield_analysis.md) and trading. [Thomson Reuters](https://www.reuters.com/)
-- **[FactSet](../f/factset.md)**: A financial data and analytic company that helps investment professionals make informed decisions through [robust](../r/robust.md) [yield analysis](../y/yield_analysis.md) tools. [FactSet](https://www.factset.com/)
-- **Trading Technologies**: Specializes in [infrastructure](../i/infrastructure.md) for professional traders, including tools for high-frequency trading and [yield analysis](../y/yield_analysis.md). [Trading Technologies](https://www.tradingtechnologies.com/)
+- **[Bloomberg](../b/bloomberg.md)**: Offers a comprehensive suite of financial tools, including [yield analysis](../y/yield_analysis.md), trading platforms, and [risk management](../r/risk_management.md) solutions. Bloomberg
+- **Thomson [Reuters](../r/reuters.md)**: Provides financial data and analytics, with extensive features for [bond](../b/bond.md) [yield analysis](../y/yield_analysis.md) and trading. Thomson Reuters
+- **[FactSet](../f/factset.md)**: A financial data and analytic company that helps investment professionals make informed decisions through [robust](../r/robust.md) [yield analysis](../y/yield_analysis.md) tools. FactSet
+- **Trading Technologies**: Specializes in [infrastructure](../i/infrastructure.md) for professional traders, including tools for high-frequency trading and [yield analysis](../y/yield_analysis.md). Trading Technologies
 
 ## Conclusion
 

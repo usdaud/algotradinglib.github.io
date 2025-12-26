@@ -75,9 +75,9 @@ Given the sensitive nature of financial data, TAMPs invest heavily in cybersecur
 ### Major Players
 Several companies lead the [market](../m/market.md) for TAMP services, each [offering](../o/offering.md) unique solutions and strengths. Some of the prominent TAMP providers include:
 
-- **Envestnet**: A leading TAMP provider known for its comprehensive platform that includes [investment management](../i/investment_management.md), [financial planning](../f/financial_planning.md), and [data analytics](../d/data_analytics.md). [Envestnet](https://www.envestnet.com/)
-- **Orion Advisor Services**: Offers a [robust](../r/robust.md) technology platform with a focus on [portfolio management](../p/par.md), performance reporting, and compliance solutions. [Orion Advisor Services](https://orion.com/)
-- **SEI Investments**: Known for its customizable solutions and strong support for advisors managing high-net-worth clients. [SEI Investments](https://www.seic.com/)
+- **Envestnet**: A leading TAMP provider known for its comprehensive platform that includes [investment management](../i/investment_management.md), [financial planning](../f/financial_planning.md), and [data analytics](../d/data_analytics.md). Envestnet
+- **Orion Advisor Services**: Offers a [robust](../r/robust.md) technology platform with a focus on [portfolio management](../p/par.md), performance reporting, and compliance solutions. Orion Advisor Services
+- **SEI Investments**: Known for its customizable solutions and strong support for advisors managing high-net-worth clients. SEI Investments
 
 ### Choosing a TAMP Provider
 When selecting a TAMP provider, advisors should consider factors such as:

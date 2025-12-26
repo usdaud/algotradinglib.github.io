@@ -36,7 +36,7 @@ Several factors can lead to a [revenue](../r/revenue.md) [deficit](../d/deficit.
 
 It is crucial to differentiate between [revenue](../r/revenue.md) [deficit](../d/deficit.md) and [fiscal deficit](../f/fiscal_deficit.md), as both measure different aspects of a government's [financial health](../f/financial_health.md):
 - **[Fiscal Deficit](../f/fiscal_deficit.md)**: Represents the total borrowing requirements of the government and is calculated as the difference between total expenditure (both [revenue](../r/revenue.md) and [capital](../c/capital.md)) and total [receipts](../r/receipt.md) (excluding borrowings).
-  
+
 \[ \text{[Fiscal Deficit](../f/fiscal_deficit.md)} = \text{Total Expenditure} - \text{Total [Receipts](../r/receipt.md)} (excluding borrowings) \]
 
 - **[Revenue](../r/revenue.md) [Deficit](../d/deficit.md)**: Focuses strictly on [revenue](../r/revenue.md)-related expenditures and [receipts](../r/receipt.md).
@@ -48,18 +48,18 @@ While a [fiscal deficit](../f/fiscal_deficit.md) can be seen as a broader measur
 Governments can adopt various strategies to address and mitigate [revenue](../r/revenue.md) deficits:
 
 1. **Enhancing [Revenue](../r/revenue.md) [Receipts](../r/receipt.md)**:
-   - **Tax Reforms**: Improving tax collection [efficiency](../e/efficiency.md) and broadening the [tax base](../t/tax_base.md).
-   - **[Privatization](../p/privatization.md) and [Disinvestment](../d/disinvestment.md)**: Selling stakes in public sector enterprises to raise funds.
-   - **Higher User Fees**: Increasing fees for government services.
+ - **Tax Reforms**: Improving tax collection [efficiency](../e/efficiency.md) and broadening the [tax base](../t/tax_base.md).
+ - **[Privatization](../p/privatization.md) and [Disinvestment](../d/disinvestment.md)**: Selling stakes in public sector enterprises to raise funds.
+ - **Higher User Fees**: Increasing fees for government services.
 
 2. **Rationalizing Expenditure**:
-   - **[Subsidy](../s/subsidy.md) Reforms**: Reducing non-targeted subsidies.
-   - **Management of Public Sector Undertakings**: Reducing losses incurred by state-owned enterprises.
-   - **Better [Expense](../e/expense.md) Management**: Ensuring proper utilization of funds and curbing unnecessary expenditure.
+ - **[Subsidy](../s/subsidy.md) Reforms**: Reducing non-targeted subsidies.
+ - **Management of Public Sector Undertakings**: Reducing losses incurred by state-owned enterprises.
+ - **Better [Expense](../e/expense.md) Management**: Ensuring proper utilization of funds and curbing unnecessary expenditure.
 
 3. **Structural Reforms**:
-   - **Economic Reforms**: Encouraging growth through economic policies which, in turn, can boost [revenue](../r/revenue.md) collection.
-   - **Fiscal Responsibility Legislation**: Implementing laws to enforce fiscal discipline.
+ - **Economic Reforms**: Encouraging growth through economic policies which, in turn, can boost [revenue](../r/revenue.md) collection.
+ - **Fiscal Responsibility Legislation**: Implementing laws to enforce fiscal discipline.
 
 ## Case Studies of Revenue Deficit Management
 

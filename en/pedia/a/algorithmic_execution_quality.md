@@ -39,7 +39,7 @@ VWAP and TWAP are popular [trading strategies](../t/trading_strategies.md) used 
 
 ### Dark Pools
 
-[Dark pools](../d/dark_pools.md) are private financial forums or exchanges for trading securities. They allow for large orders to be executed without revealing the [order](../o/order.md) size or identity, thus minimizing [market](../m/market.md) impact. Examples of well-known [dark pools](../d/dark_pools.md) include Liquidnet (https://www.liquidnet.com/) and IEX (https://www.iextrading.com/).
+[Dark pools](../d/dark_pools.md) are private financial forums or exchanges for trading securities. They allow for large orders to be executed without revealing the [order](../o/order.md) size or identity, thus minimizing [market](../m/market.md) impact. Examples of well-known [dark pools](../d/dark_pools.md) include Liquidnet ( and IEX (
 
 ### Algorithmic Adjustments and Fine-Tuning
 
@@ -61,11 +61,11 @@ Institutional investors such as [hedge](../h/hedge.md) funds and mutual funds of
 
 ### Retail Trading Platforms
 
-Platforms like [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) and [E*TRADE](../e/e_trade.md) (https://us.etrade.com/[home](../h/home.md)) also incorporate algorithms to provide retail investors with improved [execution](../e/execution.md) quality. These platforms often provide [transparency](../t/transparency.md) into their [execution](../e/execution.md) quality metrics, helping retail investors make informed decisions.
+Platforms like [Robinhood](../r/robinhood.md) ( and [E*TRADE](../e/e_trade.md) ( also incorporate algorithms to provide retail investors with improved [execution](../e/execution.md) quality. These platforms often provide [transparency](../t/transparency.md) into their [execution](../e/execution.md) quality metrics, helping retail investors make informed decisions.
 
 ### High-Frequency Trading (HFT)
 
-HFT firms like Virtu Financial (https://www.virtu.com/) employ advanced algorithms that focus extensively on [execution](../e/execution.md) quality. Given the razor-thin [profit margins](../p/profit_margins_in_trading.md) in HFT, even the smallest improvements in [execution](../e/execution.md) can lead to significant profitability.
+HFT firms like Virtu Financial ( employ advanced algorithms that focus extensively on [execution](../e/execution.md) quality. Given the razor-thin [profit margins](../p/profit_margins_in_trading.md) in HFT, even the smallest improvements in [execution](../e/execution.md) can lead to significant profitability.
 
 ## Future Trends in Algorithmic Execution Quality
 

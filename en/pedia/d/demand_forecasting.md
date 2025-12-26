@@ -73,10 +73,10 @@ Traditional statistical methods used in [demand](../d/demand.md) [forecasting](.
 
 Numerous platforms [offer](../o/offer.md) advanced analytics capabilities for [demand](../d/demand.md) [forecasting](../f/forecasting.md):
 
-- **SAP Integrated [Business](../b/business.md) Planning**: Offers real-time integration and [predictive analytics](../p/predictive_analytics.md) (https://www.sap.com).
-- **Oracle [Demand](../d/demand.md) Management Cloud**: Provides tools to streamline [demand](../d/demand.md) management processes (https://www.oracle.com/[supply](../s/supply.md)-chain-management/[demand](../d/demand.md)-management/).
-- **IBM Planning Analytics**: Utilizes IBM's TM1 technology for sophisticated [forecasting](../f/forecasting.md) (https://www.ibm.com/products/planning-analytics).
-- **SAS [Demand](../d/demand.md)-Driven Planning and [Optimization](../o/optimization.md)**: Aligns [inventory](../i/inventory.md) with [customer](../c/customer.md) [demand](../d/demand.md) using advanced analytics (https://www.sas.com).
+- **SAP Integrated [Business](../b/business.md) Planning**: Offers real-time integration and [predictive analytics](../p/predictive_analytics.md) (
+- **Oracle [Demand](../d/demand.md) Management Cloud**: Provides tools to streamline [demand](../d/demand.md) management processes (
+- **IBM Planning Analytics**: Utilizes IBM's TM1 technology for sophisticated [forecasting](../f/forecasting.md) (
+- **SAS [Demand](../d/demand.md)-Driven Planning and [Optimization](../o/optimization.md)**: Aligns [inventory](../i/inventory.md) with [customer](../c/customer.md) [demand](../d/demand.md) using advanced analytics (
 
 #### 3. **Business Intelligence (BI) Tools**
 
@@ -119,7 +119,7 @@ Cloud-based [demand](../d/demand.md) [forecasting](../f/forecasting.md) solution
 
 For further exploration of [demand](../d/demand.md) [forecasting](../f/forecasting.md) tools and solutions, you can visit the following links:
 
-- [SAP Integrated Business Planning](https://www.sap.com)
-- [Oracle Demand Management Cloud](https://www.oracle.com/supply-chain-management/demand-management/)
-- [IBM Planning Analytics](https://www.ibm.com/products/planning-analytics)
-- [SAS Demand-Driven Planning and Optimization](https://www.sas.com)
+- SAP Integrated Business Planning
+- Oracle Demand Management Cloud
+- IBM Planning Analytics
+- SAS Demand-Driven Planning and Optimization

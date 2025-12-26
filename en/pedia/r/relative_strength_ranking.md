@@ -10,13 +10,13 @@ The calculation of [Relative Strength](../r/relative_strength.md) Ranking can be
 
 2. **Calculating [Relative Strength](../r/relative_strength.md):** For each stock, the [relative strength](../r/relative_strength.md) (RS) is calculated by dividing the stock's performance over the chosen time frame by the performance of a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) (like the S&P 500). Mathematically, this can be represented as:
 
-    \[
-    \text{RS} = \frac{\text{Stock's Price Change}}{\text{[Benchmark](../b/benchmark.md)'s Price Change}}
-    \]
+ \[
+ \text{RS} = \frac{\text{Stock's Price Change}}{\text{[Benchmark](../b/benchmark.md)'s Price Change}}
+ \]
 
-    The result is usually multiplied by 100 to make it a more comprehensible figure.
+ The result is usually multiplied by 100 to make it a more comprehensible figure.
 
-3. **Ranking the [Stocks](../s/stock.md):** Once the [relative strength](../r/relative_strength.md) values are calculated for all [stocks](../s/stock.md) in the universe, they are ranked in descending [order](../o/order.md), from highest to lowest RS [value](../v/value.md). 
+3. **Ranking the [Stocks](../s/stock.md):** Once the [relative strength](../r/relative_strength.md) values are calculated for all [stocks](../s/stock.md) in the universe, they are ranked in descending [order](../o/order.md), from highest to lowest RS [value](../v/value.md).
 
 4. **Assigning Ranks:** [Stocks](../s/stock.md) are then assigned a rank based on their position in the sorted list. [Stocks](../s/stock.md) with the highest RS values get the highest ranks, typically ranging from 1 to 100 if percentages are used.
 
@@ -120,11 +120,11 @@ In the above example, we [load](../l/load.md) stock prices and [benchmark](../b/
 
 Several financial institutions and investment platforms employ RSR in their [trading strategies](../t/trading_strategies.md):
 
-1. **[Investor](../i/investor.md)'s [Business](../b/business.md) Daily (IBD):** IBD has popularized the use of [Relative Strength](../r/relative_strength.md) [Rating](../r/rating.md) (RS [Rating](../r/rating.md)), which is a percentile ranking of a stock's price performance over various time frames. More information can be found on their [website](https://www.investors.com).
+1. **[Investor](../i/investor.md)'s [Business](../b/business.md) Daily (IBD):** IBD has popularized the use of [Relative Strength](../r/relative_strength.md) [Rating](../r/rating.md) (RS [Rating](../r/rating.md)), which is a percentile ranking of a stock's price performance over various time frames.
 
-2. **Portfolio123:** This investment platform allows users to create custom stock screening and ranking systems based on [relative strength](../r/relative_strength.md) indicators among other fundamental and technical metrics. Learn more on their [website](https://www.portfolio123.com).
+2. **Portfolio123:** This investment platform allows users to create custom stock screening and ranking systems based on [relative strength](../r/relative_strength.md) indicators among other fundamental and technical metrics.
 
-3. **[AlgoTrader](../a/algotrader.md):** This [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for implementing [momentum](../m/momentum.md) strategies that include [relative strength](../r/relative_strength.md) ranking. More details are available on their [website](https://www.algotrader.com).
+3. **[AlgoTrader](../a/algotrader.md):** This [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for implementing [momentum](../m/momentum.md) strategies that include [relative strength](../r/relative_strength.md) ranking. More
 
 ## Conclusion
 

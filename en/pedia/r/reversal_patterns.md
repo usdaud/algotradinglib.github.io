@@ -140,9 +140,9 @@ Effective algorithms incorporate [risk management](../r/risk_management.md) stra
 
 Several platforms [offer](../o/offer.md) tools for pattern detection and [algorithmic trading](../a/algorithmic_trading.md):
 
-- **MetaTrader 5**: Provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), including custom indicators and automated trading scripts. [MetaTrader 5](https://www.metatrader5.com)
-- **[TradingView](../t/tradingview.md)**: Offers advanced charting and [pattern recognition](../p/pattern_recognition.md), and integrates with brokerages for [algorithmic trading](../a/algorithmic_trading.md). [TradingView](https://www.tradingview.com)
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. [QuantConnect](https://www.quantconnect.com)
+- **MetaTrader 5**: Provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), including custom indicators and automated trading scripts. MetaTrader 5
+- **[TradingView](../t/tradingview.md)**: Offers advanced charting and [pattern recognition](../p/pattern_recognition.md), and integrates with brokerages for [algorithmic trading](../a/algorithmic_trading.md). TradingView
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. QuantConnect
 
 ## Conclusion
 

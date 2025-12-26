@@ -24,7 +24,7 @@ Where \( P_t \) is the price at time \( t \) and \( n \) is the number of period
 
 ## Trendlines
 
-Trendlines are straight lines drawn on a price chart, connecting a series of price points. 
+Trendlines are straight lines drawn on a price chart, connecting a series of price points.
 
 A [trendline](../t/trendline.md) that connects successively higher lows is an [uptrend](../u/uptrend.md) line, indicating that the [market](../m/market.md) is in an [uptrend](../u/uptrend.md). Accuracy in drawing and interpreting trendlines is crucial, and often software or automated scripts are used for consistency in [algorithmic trading](../a/algorithmic_trading.md).
 
@@ -57,10 +57,10 @@ Where \( DI_{14}^+ \) and \( DI_{14}^- \) are the directional indicators.
 
 OBV uses [volume](../v/volume.md) flow to predict changes in stock price. The theory is that [volume](../v/volume.md) precedes price movement:
 
-\[ \text{OBV} = \text{Previous OBV} + \text{Current [Volume](../v/volume.md)} \times \begin{cases} 
-+1 & \text{if Close} > \text{Previous Close} \\ 
-0 & \text{if Close} = \text{Previous Close} \\ 
--1 & \text{if Close} < \text{Previous Close} 
+\[ \text{OBV} = \text{Previous OBV} + \text{Current [Volume](../v/volume.md)} \times \begin{cases}
++1 & \text{if Close} > \text{Previous Close} \\
+0 & \text{if Close} = \text{Previous Close} \\
+-1 & \text{if Close} < \text{Previous Close}
 \end{cases} \]
 
 A rising OBV typically precedes an increase in stock price.
@@ -78,11 +78,11 @@ Where \( MA \) is the moving average, \( K \) is the number of standard deviatio
 
 ## Fibonacci Retracement
 
-This tool is based on the key numbers identified by mathematician Leonardo Fibonacci. In [market](../m/market.md) terms, many traders believe that price trends [will](../w/will.md) retrace to certain levels before continuing in the original direction. These [retracement](../r/retracement.md) levels are derived from the Fibonacci sequence: 23.6%, 38.2%, 50%, and 61.8%. 
+This tool is based on the key numbers identified by mathematician Leonardo Fibonacci. In [market](../m/market.md) terms, many traders believe that price trends [will](../w/will.md) retrace to certain levels before continuing in the original direction. These [retracement](../r/retracement.md) levels are derived from the Fibonacci sequence: 23.6%, 38.2%, 50%, and 61.8%.
 
 ## Ichimoku Cloud
 
-The [Ichimoku Cloud](../i/ichimoku_cloud.md) provides more data points than the standard [candlestick](../c/candlestick.md) chart. The “cloud” is made up of five lines or calculations, two of which compose the cloud itself. 
+The [Ichimoku Cloud](../i/ichimoku_cloud.md) provides more data points than the standard [candlestick](../c/candlestick.md) chart. The “cloud” is made up of five lines or calculations, two of which compose the cloud itself.
 
 Key components include:
 - **Tenkan-sen** (Conversion Line)
@@ -99,7 +99,7 @@ Each of these indicators can be programmed into [algorithmic trading](../a/algor
 
 ### Example: Automated Trading Systems
 
-Many financial technology firms and platforms incorporate these indicators into their products. For instance, [Algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](https://www.quantconnect.com/) or [Alpaca](https://alpaca.markets) enable traders to create, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies with [uptrend](../u/uptrend.md) indicators implemented.
+Many financial technology firms and platforms incorporate these indicators into their products. For instance, [Algorithmic trading](../a/algorithmic_trading.md) platforms such as QuantConnect or Alpaca enable traders to create, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies with [uptrend](../u/uptrend.md) indicators implemented.
 
 Programmers and traders write algorithms in various coding languages such as Python, employing libraries like Pandas, NumPy, and TA-Lib to calculate and analyze these indicators. The flexibility and speed of modern computing platforms allow for sophisticated real-time decision making that leverages [uptrend](../u/uptrend.md) indicators to their fullest potential.
 

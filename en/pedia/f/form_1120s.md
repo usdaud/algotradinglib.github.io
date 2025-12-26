@@ -121,4 +121,4 @@ Contributions of property to an S [corporation](../c/corporation.md) are general
 
 Form 1120S is integral for S corporations in the United States to report their financial status and ensure compliance with federal tax responsibilities. The form facilitates the pass-through of [income](../i/income.md) to shareholders, allowing for individual tax rates to apply and potentially saving on overall [tax liability](../t/tax_liability.md). Understanding the form’s structure, filing requirements, and potential pitfalls is crucial for all S corporations to accurately and effectively fulfill their tax [obligations](../o/obligation.md).
 
-For more detailed information and guidelines on Form 1120S, you can visit the official IRS page on Form 1120S [here](https://www.irs.gov/forms-pubs/about-form-1120s).
+For more detailed information and guidelines on Form 1120S, you can

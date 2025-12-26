@@ -4,7 +4,7 @@ Churning is a term that is frequently used in the financial [industry](../i/indu
 
 ## Definition and Overview
 
-Churning is characterized by high levels of trading activities that are not necessary to achieve the client's financial goals. The primary purpose behind these activities is to create [commission](../c/commission.md) [revenue](../r/revenue.md) for the [broker](../b/broker.md) or [financial advisor](../f/financial_advisor.md). It can occur in various trading environments including [stocks](../s/stock.md), bonds, mutual funds, and other financial instruments. 
+Churning is characterized by high levels of trading activities that are not necessary to achieve the client's financial goals. The primary purpose behind these activities is to create [commission](../c/commission.md) [revenue](../r/revenue.md) for the [broker](../b/broker.md) or [financial advisor](../f/financial_advisor.md). It can occur in various trading environments including [stocks](../s/stock.md), bonds, mutual funds, and other financial instruments.
 
 From a legal standpoint, churning constitutes a breach of fiduciary duty wherein the [broker](../b/broker.md) prioritizes their financial gains over the interests of their client. The practice can have detrimental effects on the client's portfolio, often leading to substantial financial losses due to high [transaction costs](../t/transaction_costs.md) and potentially unfavorable [market](../m/market.md) shifts.
 
@@ -14,7 +14,7 @@ Several signs may indicate that an account is being churned. These indicators in
 
 1. **Excessive Trading**: An unusually high [volume](../v/volume.md) of transactions over a short period. Clients might notice this through their regular account statements.
 2. **Inconsistency with Investment Objectives**: Trades that do not align with the client's stated investment goals, such as a conservative portfolio exhibiting highly speculative trading activities.
-3. **High [Turnover](../t/turnover.md) Rate**: A high [turnover](../t/turnover.md) rate in the account, which measures the rate at which securities are bought and sold. 
+3. **High [Turnover](../t/turnover.md) Rate**: A high [turnover](../t/turnover.md) rate in the account, which measures the rate at which securities are bought and sold.
 4. **Frequent In-and-Out Trading**: [Holdings](../h/holdings.md) that are frequently bought and sold within short intervals without any reasonable economic justification.
 
 ### Legal and Regulatory Framework
@@ -63,7 +63,7 @@ Investors should thoroughly research brokers and financial advisors before entru
 Regularly reviewing account statements and trading activity can help catch signs of churning early. Investors should:
 
 1. **Set Investment Goals**: Clearly define investment goals and strategies with their [broker](../b/broker.md) and ensure trades align with these objectives.
-2. **Frequent Review**: Periodically review account statements and [transaction](../t/transaction.md) reports to spot any unusual or excessive trading activity. 
+2. **Frequent Review**: Periodically review account statements and [transaction](../t/transaction.md) reports to spot any unusual or excessive trading activity.
 
 ### Communication with the Broker
 
@@ -80,8 +80,8 @@ If an [investor](../i/investor.md) suspects they are a victim of churning, they 
 
 Investors can file complaints with regulatory bodies such as:
 
-- **FINRA**: [FINRA](https://www.finra.org) provides a platform for investors to file complaints and resolve disputes with brokers.
-- **SEC**: Investors can submit a complaint through the SEC's [Office of Investor Education and Advocacy](https://www.sec.gov/oiea).
+- **FINRA**: FINRA provides a platform for investors to file complaints and resolve disputes with brokers.
+- **SEC**: Investors can submit a complaint through the SEC's Office of Investor Education and Advocacy.
 
 ### Seeking Legal Counsel
 

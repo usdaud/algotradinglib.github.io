@@ -28,8 +28,8 @@ Companies in the renewable [energy sector](../e/energy_sector.md) focus on gener
 
 #### Example
 
-**NextEra Energy**  
-[NextEra Energy](https://www.nexteraenergy.com/) is one of the largest producers of wind and solar energy in the world. They are committed to sustainability and have significant investments in renewable energy projects.
+**NextEra Energy**
+NextEra Energy is one of the largest producers of wind and solar energy in the world. They are committed to sustainability and have significant investments in renewable energy projects.
 
 ### Electric Vehicles (EVs)
 
@@ -37,8 +37,8 @@ Companies that manufacture electric vehicles or are involved in the EV [supply c
 
 #### Example
 
-**Tesla, Inc.**  
-[Tesla](https://www.tesla.com/) is a well-known electric vehicle manufacturer that also focuses on clean energy solutions, including solar panels and energy storage products.
+**Tesla, Inc.**
+Tesla is a well-known electric vehicle manufacturer that also focuses on clean energy solutions, including solar panels and energy storage products.
 
 ### Energy Efficiency
 
@@ -46,8 +46,8 @@ Companies that [offer](../o/offer.md) products or services aimed at reducing ene
 
 #### Example
 
-**Schneider Electric**  
-[Schneider Electric](https://www.se.com/) specializes in energy management and automation solutions, promoting efficient energy use across various sectors.
+**Schneider Electric**
+Schneider Electric specializes in energy management and automation solutions, promoting efficient energy use across various sectors.
 
 ### Sustainable Agriculture
 
@@ -55,8 +55,8 @@ Firms involved in sustainable farming practices, organic food production, and te
 
 #### Example
 
-**Impossible Foods**  
-[Impossible Foods](https://impossiblefoods.com/) is a food technology company that develops plant-based substitutes for meat products, aiming to reduce the environmental footprint of food production.
+**Impossible Foods**
+Impossible Foods is a food technology company that develops plant-based substitutes for meat products, aiming to reduce the environmental footprint of food production.
 
 ### Waste Reduction and Recycling
 
@@ -64,8 +64,8 @@ Companies focused on waste management, recycling, and developing products that m
 
 #### Example
 
-**Waste Management, Inc.**  
-[Waste Management](https://www.wm.com/) provides comprehensive waste management services, including recycling and landfill gas-to-energy operations, playing a significant role in reducing environmental impact.
+**Waste Management, Inc.**
+Waste Management provides comprehensive waste management services, including recycling and landfill gas-to-energy operations, playing a significant role in reducing environmental impact.
 
 ## Financial Performance
 

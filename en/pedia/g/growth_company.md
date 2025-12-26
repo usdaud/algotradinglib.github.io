@@ -24,33 +24,33 @@ A growth company is a company that is expected to grow at an above-average rate 
 
 The [technology sector](../t/technology_sector.md) is [home](../h/home.md) to many growth companies. Technological advancements drive rapid changes, creating opportunities for firms that can innovate and [offer](../o/offer.md) new solutions. Examples include:
 
-- **Apple Inc. (AAPL)**: Known for its innovative products like the iPhone, iPad, and Mac computers. Apple has seen substantial growth due to its large global footprint and the continual release of new and upgraded products. [Apple Inc.](https://www.apple.com)
+- **Apple Inc. (AAPL)**: Known for its innovative products like the iPhone, iPad, and Mac computers. Apple has seen substantial growth due to its large global footprint and the continual release of new and upgraded products. Apple Inc.
 
-- **Amazon.com Inc. (AMZN)**: Originally an online bookstore, Amazon has transformed into a massive e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) giant. Its Amazon Web Services (AWS) provides substantial [revenue](../r/revenue.md) growth. [Amazon](https://www.amazon.com)
+- **Amazon.com Inc. (AMZN)**: Originally an online bookstore, Amazon has transformed into a massive e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) giant. Its Amazon Web Services (AWS) provides substantial [revenue](../r/revenue.md) growth. Amazon
 
 ### Healthcare Sector
 
 The healthcare and biotechnology sectors also feature numerous growth companies, particularly those developing breakthrough treatments or technologies. Examples include:
 
-- **Moderna Inc. (MRNA)**: Known for its development of the mRNA-based COVID-19 vaccine, Moderna has rapidly grown due to its innovative approach to biotechnology and pharmaceuticals. [Moderna](https://www.modernatx.com)
+- **Moderna Inc. (MRNA)**: Known for its development of the mRNA-based COVID-19 vaccine, Moderna has rapidly grown due to its innovative approach to biotechnology and pharmaceuticals. Moderna
 
-- **Illumina Inc. (ILMN)**: Specializes in genetic sequencing technologies, playing a pivotal role in the advancement of personalized medicine. [Illumina](https://www.illumina.com)
+- **Illumina Inc. (ILMN)**: Specializes in genetic sequencing technologies, playing a pivotal role in the advancement of personalized medicine. Illumina
 
 ### Renewable Energy Sector
 
 With the global shift toward sustainability, the renewable [energy sector](../e/energy_sector.md) has become a fertile ground for growth companies. Examples include:
 
-- **Tesla Inc. (TSLA)**: Tesla is not just an automotive company but a leader in energy solutions, with products such as electric vehicles, solar energy products, and energy storage systems. [Tesla](https://www.tesla.com)
+- **Tesla Inc. (TSLA)**: Tesla is not just an automotive company but a leader in energy solutions, with products such as electric vehicles, solar energy products, and energy storage systems. Tesla
 
-- **NextEra Energy Inc. (NEE)**: The world's largest producer of wind and solar energy, NextEra is aggressively expanding its renewable energy portfolio to [leverage](../l/leverage.md) the increasing [demand](../d/demand.md) for clean energy. [NextEra Energy](https://www.nexteraenergy.com)
+- **NextEra Energy Inc. (NEE)**: The world's largest producer of wind and solar energy, NextEra is aggressively expanding its renewable energy portfolio to [leverage](../l/leverage.md) the increasing [demand](../d/demand.md) for clean energy. NextEra Energy
 
 ### Consumer Discretionary Sector
 
 Companies in this sector [offer](../o/offer.md) products and services that consumers purchase with their [disposable income](../d/disposable_income.md). Growth companies in this sector often exhibit substantial consumer [demand](../d/demand.md). Examples include:
 
-- **Lululemon Athletica Inc. (LULU)**: Known for its high-quality athletic apparel, Lululemon continues to grow by expanding its product lines and international presence. [Lululemon](https://www.lululemon.com)
+- **Lululemon Athletica Inc. (LULU)**: Known for its high-quality athletic apparel, Lululemon continues to grow by expanding its product lines and international presence. Lululemon
 
-- **Netflix Inc. (NFLX)**: Netflix has revolutionized the entertainment [industry](../i/industry.md) with its innovative streaming service, continually expanding its subscriber base and content offerings. [Netflix](https://www.netflix.com)
+- **Netflix Inc. (NFLX)**: Netflix has revolutionized the entertainment [industry](../i/industry.md) with its innovative streaming service, continually expanding its subscriber base and content offerings. Netflix
 
 ## Strategies for Identifying Growth Companies
 

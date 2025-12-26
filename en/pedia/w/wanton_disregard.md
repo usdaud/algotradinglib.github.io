@@ -57,7 +57,7 @@ Preventing wanton disregard requires a multi-faceted approach, involving [robust
 
 Regulatory institutions such as the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) in the United States play a crucial role in monitoring and enforcing compliance with financial laws and regulations. These bodies are tasked with investigating suspected violations and imposing sanctions on those found guilty.
 
-- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: [SEC Official Website](https://www.sec.gov)
+- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**:
 
 ### Corporate Governance
 

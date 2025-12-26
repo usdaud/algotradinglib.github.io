@@ -53,15 +53,15 @@ Central banks play a pivotal role in monitoring and controlling monetary aggrega
 
 ### Federal Reserve (USA)
 
-The Federal Reserve (Fed) produces regular reports on the levels of various monetary aggregates in the U.S. [economy](../e/economy.md). These reports are used to guide [monetary policy](../m/monetary_policy.md) decisions, such as setting the [federal funds rate](../f/federal_funds_rate.md). For more detailed information, visit the Federal Reserve’s official website: [Federal Reserve](https://www.federalreserve.gov/).
+The Federal Reserve (Fed) produces regular reports on the levels of various monetary aggregates in the U.S. [economy](../e/economy.md). These reports are used to guide [monetary policy](../m/monetary_policy.md) decisions, such as setting the [federal funds rate](../f/federal_funds_rate.md). For more detailed information,
 
 ### European Central Bank (ECB)
 
-The European Central [Bank](../b/bank.md) (ECB) also monitors monetary aggregates to guide its [monetary policy](../m/monetary_policy.md) within the [eurozone](../e/eurozone.md). The ECB regularly publishes the [money supply](../m/money_supply.md) data, influencing its decisions on [interest](../i/interest.md) rates. For further details, visit the ECB's official site: [European Central Bank](https://www.ecb.europa.eu/).
+The European Central [Bank](../b/bank.md) (ECB) also monitors monetary aggregates to guide its [monetary policy](../m/monetary_policy.md) within the [eurozone](../e/eurozone.md). The ECB regularly publishes the [money supply](../m/money_supply.md) data, influencing its decisions on [interest](../i/interest.md) rates.
 
 ### Bank of Japan (BOJ)
 
-The [Bank](../b/bank.md) of Japan (BOJ) analyzes monetary aggregates to implement [monetary policy](../m/monetary_policy.md) focused on economic stability and growth. The BOJ’s actions and reports on these aggregates are essential tools for economic analysis in Japan. More information can be found here: [Bank of Japan](https://www.boj.or.jp/en/).
+The [Bank](../b/bank.md) of Japan (BOJ) analyzes monetary aggregates to implement [monetary policy](../m/monetary_policy.md) focused on economic stability and growth. The BOJ’s actions and reports on these aggregates are essential tools for economic analysis in Japan. More information can be found here: Bank of Japan.
 
 ## Implications for Financial Markets
 

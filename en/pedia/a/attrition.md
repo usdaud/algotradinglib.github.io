@@ -30,11 +30,11 @@ To manage attrition in [algorithmic trading](../a/accountability.md), firms empl
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a pioneer in the field of quantitative and [algorithmic trading](../a/accountability.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is famous for its consistent high returns, achieved through sophisticated algorithms and extensive data analysis. Despite the challenges posed by attrition, Renaissance focuses on innovation and constant refinement to maintain its performance. [Renaissance Technologies](https://www.rentec.com/Home.action)
+Renaissance Technologies is a pioneer in the field of quantitative and [algorithmic trading](../a/accountability.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is famous for its consistent high returns, achieved through sophisticated algorithms and extensive data analysis. Despite the challenges posed by attrition, Renaissance focuses on innovation and constant refinement to maintain its performance. Renaissance Technologies
 
 ### Tower Research Capital
 
-Tower Research [Capital](../c/capital.md) is another leading [firm](../f/firm.md) in [algorithmic trading](../a/accountability.md), particularly in high-frequency trading. With a global presence, Tower employs diverse strategies to mitigate attrition. The [firm](../f/firm.md)'s emphasis on cutting-edge technology and continuous improvement has allowed it to sustain profitability in a highly competitive environment. [Tower Research Capital](https://www.tower-research.com/)
+Tower Research [Capital](../c/capital.md) is another leading [firm](../f/firm.md) in [algorithmic trading](../a/accountability.md), particularly in high-frequency trading. With a global presence, Tower employs diverse strategies to mitigate attrition. The [firm](../f/firm.md)'s emphasis on cutting-edge technology and continuous improvement has allowed it to sustain profitability in a highly competitive environment. Tower Research Capital
 
 ## Conclusion
 

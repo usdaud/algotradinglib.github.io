@@ -20,7 +20,7 @@
 
 ### Mathematical Representation
 
-In mathematical terms, the [time decay](../t/time_decay.md) of an [option premium](../o/option_premium.md) can be depicted using the [Theta](../t/theta.md) [value](../v/value.md). [Theta](../t/theta.md) represents the rate at which the [extrinsic value](../e/extrinsic_value.md) of an option decays per day. 
+In mathematical terms, the [time decay](../t/time_decay.md) of an [option premium](../o/option_premium.md) can be depicted using the [Theta](../t/theta.md) [value](../v/value.md). [Theta](../t/theta.md) represents the rate at which the [extrinsic value](../e/extrinsic_value.md) of an option decays per day.
 
 \[ \[Theta](../t/theta.md) = \frac{\partial V}{\partial t} \]
 
@@ -94,7 +94,7 @@ Sophisticated traders [leverage](../l/leverage.md) analytical tools and software
 
 [Algorithmic trading](../a/algorithmic_trading.md) firms exploit [time decay](../t/time_decay.md) through advanced models and high-frequency [trading strategies](../t/trading_strategies.md). They can rapidly assess and act on opportunities presented by [premium](../p/premium.md) decay, leveraging computing power and sophisticated algorithms.
 
-For more information on how firms [handle](../h/handle.md) these dynamics, you can visit [Jump Trading](https://www.jumptrading.com/) or [Two Sigma](https://www.twosigma.com/).
+For more information on how firms [handle](../h/handle.md) these dynamics, you can visit Jump Trading or Two Sigma.
 
 ## Conclusion
 

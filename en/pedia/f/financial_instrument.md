@@ -85,13 +85,13 @@ Effective [risk management](../r/risk_management.md) is vital in algo trading. A
 Several companies are leaders in the field of [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) platforms, tools, and services catering to professional traders and financial institutions.
 
 #### Two Sigma
-[Two Sigma](https://www.twosigma.com) leverages [data science](../d/data_science_in_trading.md) and technology to create [predictive models](../p/predictive_models_in_trading.md) and cutting-edge [trading algorithms](../t/trading_algorithms.md).
+Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to create [predictive models](../p/predictive_models_in_trading.md) and cutting-edge [trading algorithms](../t/trading_algorithms.md).
 
 #### Citadel Securities
-[Citadel Securities](https://www.citadelsecurities.com) uses advanced [quantitative models](../q/quantitative_models.md) and state-of-the-art algorithms to provide [liquidity](../l/liquidity.md) and facilitate [market](../m/market.md)-making activities.
+Citadel Securities uses advanced [quantitative models](../q/quantitative_models.md) and state-of-the-art algorithms to provide [liquidity](../l/liquidity.md) and facilitate [market](../m/market.md)-making activities.
 
 #### Renaissance Technologies
-Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. They do not have a public-facing website.
+Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which employs complex [mathematical models](../m/mathematical_models_in_trading.md)
 
 ## Conclusion
 

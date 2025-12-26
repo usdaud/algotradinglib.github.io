@@ -112,7 +112,7 @@ RRR is integral to [risk management](../r/risk_management.md), helping instituti
 
 ### 3. Algorithmic Trading Strategies
 
-In [algorithmic trading](../a/accountability.md), the RRR is used to assess the profitability of [trading strategies](../t/trading_strategies.md). Algos incorporate RRR to identify trades that meet predefined [return](../r/return.md) criteria, thereby optimizing [trade](../t/trade.md) [execution](../e/execution.md) and [risk management](../r/risk_management.md).
+In [algorithmic trading](../a/algorithmic_trading.md), the RRR is used to assess the profitability of [trading strategies](../t/trading_strategies.md). Algos incorporate RRR to identify trades that meet predefined [return](../r/return.md) criteria, thereby optimizing [trade](../t/trade.md) [execution](../e/execution.md) and [risk management](../r/risk_management.md).
 
 ## Limitations of RRR
 
@@ -146,4 +146,4 @@ For fixed-[income](../i/income.md) securities like corporate bonds, the RRR enco
 
 The Required [Rate of Return](../r/rate_of_return.md) is a pivotal concept in [finance](../f/finance.md) and investment, serving as a [benchmark](../b/benchmark.md) for evaluating the viability of various investment opportunities. By incorporating factors like [risk](../r/risk.md)-free rates, [risk](../r/risk.md) premiums, and [market](../m/market.md) conditions, the RRR provides a comprehensive measure of the expected compensation for [risk](../r/risk.md). Despite its estimation challenges and [market](../m/market.md) dependencies, the RRR remains an essential tool for investors, portfolio managers, and financial analysts in their decision-making processes.
 
-For more information, you can explore resources offered by financial institutions and firms like [Goldman Sachs](https://www.goldmansachs.com), [J.P. Morgan](https://www.jpmorgan.com/global), and academic publications on [financial modeling](../f/financial_modeling.md) and [risk](../r/risk.md) assessment.
+For more information, you can explore resources offered by financial institutions and firms like Goldman Sachs, J.P. Morgan, and academic publications on [financial modeling](../f/financial_modeling.md) and [risk](../r/risk.md) assessment.

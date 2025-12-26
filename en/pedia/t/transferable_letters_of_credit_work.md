@@ -13,7 +13,7 @@ Transferable letters of [credit](../c/credit.md) are governed by the guidelines 
 ## Participants in Transferable L/C
 
 1. **Applicant (Buyer)**: The entity that requests the issuance of the [letter of credit](../l/letter_of_credit.md) from the issuing [bank](../b/bank.md).
-   
+
 2. **Issuing [Bank](../b/bank.md)**: The [bank](../b/bank.md) that issues the L/C on the applicant's behalf, promising to pay the agreed amount upon compliance with the terms.
 
 3. **First [Beneficiary](../b/beneficiary.md) (Seller/Exporter)**: The initial recipient of the [letter of credit](../l/letter_of_credit.md) who has the option to transfer the [credit](../c/credit.md) to secondary beneficiaries.
@@ -49,7 +49,7 @@ Upon confirming document compliance, the transferring [bank](../b/bank.md) may a
 ## Benefits of Transferable L/C
 
 1. **Flexibility in [Trade](../t/trade.md) Transactions**: Transferable L/Cs enable primary beneficiaries to use L/Cs as [collateral](../c/collateral.md) for transactions involving [multiple](../m/multiple.md) secondary beneficiaries.
-   
+
 2. **[Risk](../r/risk.md) Mitigation**: The guarantee provided by the issuing [bank](../b/bank.md) reduces the [risk](../r/risk.md) of non-[payment](../p/payment.md), thereby facilitating [trade](../t/trade.md) relationships based on [creditworthiness](../c/creditworthiness.md).
 
 3. **Efficient [Supply Chain](../s/supply_chain.md) Management**: Transferable L/Cs streamline payments and documentation processes in [supply](../s/supply.md) chains involving several suppliers and subcontractors.
@@ -78,7 +78,7 @@ The advent of financial technology (fintech) is reshaping the landscape of inter
 
 ### Case Study: TradeFinex
 
-[TradeFinex](https://www.tradefinex.org/), a fintech platform leveraging [blockchain](../b/blockchain_in_trading.md) technology, facilitates collaborative [commerce](../c/commerce.md) for global [trade](../t/trade.md). By [offering](../o/offering.md) digitized [trade](../t/trade.md) instruments and automated compliance checks, TradeFinex aims to optimize the use of transferable L/Cs, making cross-border transactions faster and more secure.
+TradeFinex, a fintech platform leveraging [blockchain](../b/blockchain_in_trading.md) technology, facilitates collaborative [commerce](../c/commerce.md) for global [trade](../t/trade.md). By [offering](../o/offering.md) digitized [trade](../t/trade.md) instruments and automated compliance checks, TradeFinex aims to optimize the use of transferable L/Cs, making cross-border transactions faster and more secure.
 
 ## Conclusion
 

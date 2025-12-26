@@ -2,6 +2,8 @@
 
 The par [yield curve](../y/yard.md) is a fundamental concept in the domain of fixed-[income](../i/income.md) securities, [financial markets](../f/financial_market.md), and trading. It plays a crucial role in various financial instruments, involving government bonds, corporate bonds, and other [debt](../d/debt.md) securities. Understanding the par [yield curve](../y/yard.md) is essential for traders, investors, and financial analysts who engage in [bond](../b/bond.md) markets and fixed-[income](../i/income.md) securities. This article aims to provide a detailed explanation of the par [yield curve](../y/yard.md), its significance, its calculation, and its applications in trading and [financial markets](../f/financial_market.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Definition of the Par Yield Curve
 
 The par [yield curve](../y/yard.md) shows the yields-to-[maturity](../m/maturity.md) (YTMs) or spot [interest](../i/interest.md) rates at which bonds with different maturities would [trade](../t/trade.md) [at par](../a/at_par.md), meaning their [market price](../m/market_price.md) equals their [face value](../f/face_value.md). In other words, the par [yield curve](../y/yard.md) represents the relationship between the [yield](../y/yield.md) and the [maturity](../m/maturity.md) of bonds that are priced at [par value](../p/par_value.md).

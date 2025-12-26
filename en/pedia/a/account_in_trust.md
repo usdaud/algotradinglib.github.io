@@ -47,9 +47,9 @@ A [trust](../t/trust.md) account is a fiduciary relationship in which the [trust
 The trustor creates a [trust](../t/trust.md) account by drafting a [trust deed](../t/trust_deed.md), which outlines the terms and conditions of the [trust](../t/trust.md). This legal document delineates the following:
 
 1. **Parties Involved**:
-   - **Trustor (or [Grantor](../g/grantor.md))**: The person who creates the [trust](../t/trust.md) and transfers assets into it.
-   - **[Trustee](../t/trustee.md)**: The individual or entity responsible for managing the [trust](../t/trust.md) assets in accordance with the terms of the [trust deed](../t/trust_deed.md).
-   - **[Beneficiary](../b/beneficiary.md)**: The person or entity entitled to receive the benefits from the [trust](../t/trust.md).
+ - **Trustor (or [Grantor](../g/grantor.md))**: The person who creates the [trust](../t/trust.md) and transfers assets into it.
+ - **[Trustee](../t/trustee.md)**: The individual or entity responsible for managing the [trust](../t/trust.md) assets in accordance with the terms of the [trust deed](../t/trust_deed.md).
+ - **[Beneficiary](../b/beneficiary.md)**: The person or entity entitled to receive the benefits from the [trust](../t/trust.md).
 
 2. **Assets Held in [Trust](../t/trust.md)**: These can include cash, [real estate](../r/real_estate.md), [stocks](../s/stock.md), bonds, and other investments. The trustor must transfer the ownership of these assets to the [trust](../t/trust.md).
 

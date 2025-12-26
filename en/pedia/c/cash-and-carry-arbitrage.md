@@ -6,7 +6,7 @@ Cash-and-carry [arbitrage](../a/arbitrage.md) is a [market](../m/market.md)-[neu
 
 The basic premise of cash-and-carry [arbitrage](../a/arbitrage.md) is relatively straightforward. Here’s how it works:
 
-1. **Identify Discrepancy**: The [arbitrageur](../a/arbitrageur.md) identifies a discrepancy between the [spot price](../s/spot_price.md) of an [asset](../a/asset.md) and its corresponding [futures](../f/futures.md) price. 
+1. **Identify Discrepancy**: The [arbitrageur](../a/arbitrageur.md) identifies a discrepancy between the [spot price](../s/spot_price.md) of an [asset](../a/asset.md) and its corresponding [futures](../f/futures.md) price.
 
 2. **[Spot Market](../s/spot_market.md) Long Position**: The [trader](../t/trader.md) purchases the [asset](../a/asset.md) in the [spot market](../s/spot_market.md), holding the physical [commodity](../c/commodity.md) or [asset](../a/asset.md).
 
@@ -21,7 +21,7 @@ The [profit](../p/profit.md) from cash-and-carry [arbitrage](../a/arbitrage.md) 
 ## Key Components of Cash-and-Carry Arbitrage
 
 ### Spot Price
-The [spot price](../s/spot_price.md) is the current [market price](../m/market_price.md) at which an [asset](../a/asset.md) is bought or sold for immediate delivery. In cash-and-carry [arbitrage](../a/arbitrage.md), the [trader](../t/trader.md) buys the [asset](../a/asset.md) at the [spot price](../s/spot_price.md). 
+The [spot price](../s/spot_price.md) is the current [market price](../m/market_price.md) at which an [asset](../a/asset.md) is bought or sold for immediate delivery. In cash-and-carry [arbitrage](../a/arbitrage.md), the [trader](../t/trader.md) buys the [asset](../a/asset.md) at the [spot price](../s/spot_price.md).
 
 ### Futures Price
 The [futures](../f/futures.md) price is the agreed upon price for future delivery of the [asset](../a/asset.md) through a [futures contract](../f/futures_contract.md). The [futures](../f/futures.md) price is typically higher than the [spot price](../s/spot_price.md) due to carrying costs and the [time value](../t/time_value.md) of [money](../m/money.md).
@@ -87,9 +87,9 @@ Despite being considered a [risk](../r/risk.md)-free strategy, there are [market
 
 Several financial institutions and trading firms are known for their expertise in [arbitrage](../a/arbitrage.md) strategies, including cash-and-carry [arbitrage](../a/arbitrage.md). Some notable firms include:
 
-- **Citadel LLC**: A leading [hedge fund](../h/hedge_fund.md) and [market maker](../m/market_maker.md) known for its use of [quantitative strategies](../q/quantitative_strategies_in_trading.md) and high-frequency trading. More information can be found on their [official website](https://www.citadel.com).
-- **DE Shaw & Co.**: A prominent [investment management](../i/investment_management.md) [firm](../f/firm.md) utilizing algorithmic and quantitative methods to identify [arbitrage opportunities](../a/arbitrage_opportunities.md). Visit their [website](https://www.deshaw.com) for more information.
-- **Jane Street Group**: A global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that engages in various [arbitrage](../a/arbitrage.md) [trading strategies](../t/trading_strategies.md). Information is available on their [official website](https://www.janestreet.com).
+- **Citadel LLC**: A leading [hedge fund](../h/hedge_fund.md) and [market maker](../m/market_maker.md) known for its use of [quantitative strategies](../q/quantitative_strategies_in_trading.md) and high-frequency trading.
+- **DE Shaw & Co.**: A prominent [investment management](../i/investment_management.md) [firm](../f/firm.md) utilizing algorithmic and quantitative methods to identify [arbitrage opportunities](../a/arbitrage_opportunities.md).
+- **Jane Street Group**: A global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that engages in various [arbitrage](../a/arbitrage.md) [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

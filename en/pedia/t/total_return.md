@@ -33,7 +33,7 @@ For example, suppose you bought a stock for $100, received $5 in dividends, and 
 
 ## Importance in Portfolio Management
 
-Total [return](../r/return.md) is a crucial metric for [portfolio management](../p/par.md) because it allows investors to compare the performance of different investments on a like-for-like [basis](../b/basis.md). It provides a complete picture of how an investment has performed, which is essential for making informed decisions about buying, holding, or selling assets. 
+Total [return](../r/return.md) is a crucial metric for [portfolio management](../p/par.md) because it allows investors to compare the performance of different investments on a like-for-like [basis](../b/basis.md). It provides a complete picture of how an investment has performed, which is essential for making informed decisions about buying, holding, or selling assets.
 
 For example, if two [stocks](../s/stock.md) have the same price appreciation but one pays a [dividend](../d/dividend.md) and the other does not, the total [return](../r/return.md) [will](../w/will.md) be higher for the [dividend](../d/dividend.md)-paying stock, all else being equal. This insight can guide investors in selecting investments that align with their financial goals, [risk tolerance](../r/risk_tolerance.md), and [investment strategy](../i/investment_strategy.md).
 
@@ -55,11 +55,11 @@ Price [return](../r/return.md), also known as [capital](../c/capital.md) [return
 
 ### Financial Calculators
 
-Several financial calculators and tools are available online to help investors calculate total [return](../r/return.md). Websites like [Investopedia](https://www.investopedia.com/) [offer](../o/offer.md) tools that allow users to input their starting [value](../v/value.md), ending [value](../v/value.md), and [income](../i/income.md) to quickly calculate total [return](../r/return.md).
+Several financial calculators and tools are available online to help investors calculate total [return](../r/return.md). Websites like Investopedia [offer](../o/offer.md) tools that allow users to input their starting [value](../v/value.md), ending [value](../v/value.md), and [income](../i/income.md) to quickly calculate total [return](../r/return.md).
 
 ### Investment Platforms
 
-Many investment platforms, such as [Vanguard](https://investor.vanguard.com/) and [Fidelity](https://www.fidelity.com/), provide detailed performance reports that include total [return](../r/return.md) metrics. These platforms often [offer](../o/offer.md) advanced analytics, including comparisons between different investments based on total [return](../r/return.md).
+Many investment platforms, such as Vanguard and Fidelity, provide detailed performance reports that include total [return](../r/return.md) metrics. These platforms often [offer](../o/offer.md) advanced analytics, including comparisons between different investments based on total [return](../r/return.md).
 
 ### Spreadsheet Software
 

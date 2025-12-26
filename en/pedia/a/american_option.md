@@ -1,6 +1,6 @@
 # American Option
 
-In the realm of [financial derivatives](../f/financial_derivatives.md), an American option is a type of [options contract](../o/options_contract.md) that can be exercised at any time before its [expiration date](../e/expiration_date.md). This characteristic offers greater flexibility compared to its European counterpart, which can only be exercised at [maturity](../m/maturity.md). Due to this flexibility, American [options](../o/options.md) often command a higher [premium](../p/premium.md) in the [market](../m/market.md). 
+In the realm of [financial derivatives](../f/financial_derivatives.md), an American option is a type of [options contract](../o/options_contract.md) that can be exercised at any time before its [expiration date](../e/expiration_date.md). This characteristic offers greater flexibility compared to its European counterpart, which can only be exercised at [maturity](../m/maturity.md). Due to this flexibility, American [options](../o/options.md) often command a higher [premium](../p/premium.md) in the [market](../m/market.md).
 
 ## Characteristics of American Options
 
@@ -61,9 +61,9 @@ American [options](../o/options.md) are primarily traded on major exchanges such
 ### Brokers
 Several brokerage platforms facilitate the trading of American [options](../o/options.md). These include:
 
-* [TD Ameritrade](https://www.tdameritrade.com)
-* [E*TRADE](https://us.etrade.com)
-* [Interactive Brokers](https://www.interactivebrokers.com)
+* TD Ameritrade
+* E*TRADE
+* Interactive Brokers
 
 ### Over-the-Counter (OTC)
 Aside from exchanges, American [options](../o/options.md) can also be traded over-the-counter (OTC), where the terms of the option contract can be more customized. However, OTC trading involves higher [counterparty risk](../c/counterparty_risk.md) and less [liquidity](../l/liquidity.md).

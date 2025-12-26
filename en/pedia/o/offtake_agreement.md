@@ -107,8 +107,8 @@ One notable example is the offtake agreement between Talison Lithium, an Austral
 A significant example of an offtake agreement in the [energy sector](../e/energy_sector.md) is the one between Google and EDF Renewable Energy. Google signed a 10-year deal to buy renewable energy from EDF’s wind farm in Iowa.
 
 For more details, visit the companies' websites:
-- [Talison Lithium](http://www.talisonlithium.com)
-- [EDF Renewable Energy](https://www.edf-re.com)
+- Talison Lithium
+- EDF Renewable Energy
 
 ## Conclusion
 

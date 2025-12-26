@@ -69,9 +69,9 @@ The decomposition helps the analyst and investors understand that the majority o
 
 There are various tools and platforms available for conducting [yield spread](../y/yield_spread.md) decomposition. Some notable ones include:
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)'s fixed-[income](../i/income.md) analytics capabilities provide [robust](../r/robust.md) tools for [yield curve](../y/yield_curve.md) analysis, regression models, and other decomposition techniques. More information can be found at [Bloomberg](https://www.bloomberg.com/professional/solution/fixed-income/).
-2. **[Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon offers comprehensive analytics and data for fixed-[income](../i/income.md) markets, including [yield](../y/yield.md) [spread analysis](../s/spread_analysis.md) tools. More information is available at [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software).
-3. **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) provides data, analytics, and tools for analyzing [yield](../y/yield.md) [spreads](../s/spreads.md) and other fixed-[income](../i/income.md) instruments. You can explore their offerings at [FactSet](https://www.factset.com/).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)'s fixed-[income](../i/income.md) analytics capabilities provide [robust](../r/robust.md) tools for [yield curve](../y/yield_curve.md) analysis, regression models, and other decomposition techniques. More information can be found at Bloomberg.
+2. **[Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon offers comprehensive analytics and data for fixed-[income](../i/income.md) markets, including [yield](../y/yield.md) [spread analysis](../s/spread_analysis.md) tools. More information is available at Refinitiv.
+3. **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) provides data, analytics, and tools for analyzing [yield](../y/yield.md) [spreads](../s/spreads.md) and other fixed-[income](../i/income.md) instruments. You can explore their offerings at FactSet.
 
 #### Conclusion
 

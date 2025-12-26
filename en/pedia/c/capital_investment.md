@@ -86,7 +86,7 @@ Amazon's heavy investment in state-of-the-art fulfillment centers has been a cor
 
 ### 2. Tesla's Gigafactories
 
-Tesla’s investment in Gigafactories is a prime example of [capital](../c/capital.md) investment in scaling production capacity. These factories manufacture electric vehicles and produce the batteries essential for their operation. The strategic allocation of billions of dollars into building and optimizing these facilities has allowed Tesla to meet growing [demand](../d/demand.md) while driving down [production costs](../p/production_costs.md). For more information, visit [Tesla's Official Page](https://www.tesla.com/gigafactory).
+Tesla’s investment in Gigafactories is a prime example of [capital](../c/capital.md) investment in scaling production capacity. These factories manufacture electric vehicles and produce the batteries essential for their operation. The strategic allocation of billions of dollars into building and optimizing these facilities has allowed Tesla to meet growing [demand](../d/demand.md) while driving down [production costs](../p/production_costs.md).
 
 ## Challenges in Capital Investment
 

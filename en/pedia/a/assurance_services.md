@@ -60,16 +60,16 @@ Accurate and reliable information, validated by [assurance](../a/assurance.md) s
 The Big Four [accounting](../a/accounting.md) firms are the largest providers of [assurance](../a/assurance.md) services globally. They [offer](../o/offer.md) a comprehensive suite of [assurance](../a/assurance.md) services tailored to meet the needs of different organizations.
 
 #### 1. **Deloitte**
-[Deloitte’s Assurance Services](https://www2.deloitte.com/global/en/services/audit.html) include audit, review, [risk management](../r/risk_management.md), and IT [assurance](../a/assurance.md) among others. They help organizations enhance the reliability and credibility of their financial and non-financial information.
+Deloitte’s Assurance Services include audit, review, [risk management](../r/risk_management.md), and IT [assurance](../a/assurance.md) among others. They help organizations enhance the reliability and credibility of their financial and non-financial information.
 
 #### 2. **PwC (PricewaterhouseCoopers)**
-[PwC Assurance Services](https://www.pwc.com/gx/en/services/assurance.html) aim to build [trust](../t/trust.md) and enhance [transparency](../t/transparency.md). Their services include audit and [assurance](../a/assurance.md), [risk](../r/risk.md) [assurance](../a/assurance.md), and [internal audit](../i/internal_audit.md) services.
+PwC Assurance Services aim to build [trust](../t/trust.md) and enhance [transparency](../t/transparency.md). Their services include audit and [assurance](../a/assurance.md), [risk](../r/risk.md) [assurance](../a/assurance.md), and [internal audit](../i/internal_audit.md) services.
 
 #### 3. **EY (Ernst & Young)**
-[EY’s Assurance Services](https://www.ey.com/en_gl/assurance) focus on improving [trust](../t/trust.md) and confidence in the [business](../b/business.md) and public sector. They [offer](../o/offer.md) a wide [range](../r/range.md) of services, including financial statement audits, forensic & integrity services, and climate change and sustainability services.
+EY’s Assurance Services focus on improving [trust](../t/trust.md) and confidence in the [business](../b/business.md) and public sector. They [offer](../o/offer.md) a wide [range](../r/range.md) of services, including financial statement audits, forensic & integrity services, and climate change and sustainability services.
 
 #### 4. **KPMG**
-[KPMG’s Assurance Services](https://home.kpmg/xx/en/home/services/audit/assurance.html) cover financial statement audits, integrated audits, regulatory compliance attestation, and internal audits. They help businesses ensure accuracy, [transparency](../t/transparency.md), and compliance.
+KPMG’s Assurance Services cover financial statement audits, integrated audits, regulatory compliance attestation, and internal audits. They help businesses ensure accuracy, [transparency](../t/transparency.md), and compliance.
 
 ## Emerging Trends in Assurance Services
 

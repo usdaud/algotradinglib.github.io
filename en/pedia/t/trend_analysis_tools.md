@@ -1,6 +1,6 @@
 # Trend Analysis Tools
 
-[Trend analysis](../t/trend_analysis.md) is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), enabling traders to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) movements. This involves the use of various tools and techniques to analyze [price patterns](../p/price_patterns.md) and predict future price movements. In this detailed exploration, we [will](../w/will.md) discuss some of the most widely used [trend analysis](../t/trend_analysis.md) tools, their mechanics, and their application in [algorithmic trading](../a/algorithmic_trading.md). 
+[Trend analysis](../t/trend_analysis.md) is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), enabling traders to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) movements. This involves the use of various tools and techniques to analyze [price patterns](../p/price_patterns.md) and predict future price movements. In this detailed exploration, we [will](../w/will.md) discuss some of the most widely used [trend analysis](../t/trend_analysis.md) tools, their mechanics, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Moving Averages
 

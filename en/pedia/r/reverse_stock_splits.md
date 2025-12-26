@@ -12,7 +12,7 @@ During a [reverse stock split](../r/reverse_stock_split.md), a company decides o
 
 Several practical reasons lead companies to enact reverse stock splits:
 
-1. **Compliance with Stock [Exchange](../e/exchange.md) Rules**: Stock exchanges often have minimum [bid price](../b/bid_price.md) requirements for listing. For example, the [NASDAQ](../n/nasdaq.md) requires a minimum [bid price](../b/bid_price.md) of $1. Companies whose stock prices fall below this threshold may face [delisting](../d/delisting.md). A [reverse stock split](../r/reverse_stock_split.md) helps in maintaining compliance with these rules. More about [NASDAQ](../n/nasdaq.md) [listing requirements](../l/listing_requirements.md) can be found [here](https://listingcenter.nasdaq.com/assets/initialguide.pdf).
+1. **Compliance with Stock [Exchange](../e/exchange.md) Rules**: Stock exchanges often have minimum [bid price](../b/bid_price.md) requirements for listing. For example, the [NASDAQ](../n/nasdaq.md) requires a minimum [bid price](../b/bid_price.md) of $1. Companies whose stock prices fall below this threshold may face [delisting](../d/delisting.md). A [reverse stock split](../r/reverse_stock_split.md) helps in maintaining compliance with these rules. More about [NASDAQ](../n/nasdaq.md) [listing requirements](../l/listing_requirements.md) can be found here.
 
 2. **Attracting Institutional Investors**: Many institutional investors, including mutual funds and [hedge](../h/hedge.md) funds, have policies against buying [low-priced stocks](../l/low-priced_stocks.md). By raising the stock price through a reverse split, companies hope to attract more institutional investment.
 
@@ -42,9 +42,9 @@ Several practical reasons lead companies to enact reverse stock splits:
 
 ### Examples of Reverse Stock Splits
 
-1. **General Electric (GE)**: In 2021, GE enacted a 1-for-8 [reverse stock split](../r/reverse_stock_split.md). This move aimed to reduce the number of outstanding [shares](../s/shares.md) and increase the stock price to meet internal objectives and [market](../m/market.md) expectations. More details can be found on their [investor relations page](https://www.ge.com/investor-relations).
+1. **General Electric (GE)**: In 2021, GE enacted a 1-for-8 [reverse stock split](../r/reverse_stock_split.md). This move aimed to reduce the number of outstanding [shares](../s/shares.md) and increase the stock price to meet internal objectives and [market](../m/market.md) expectations.
 
-2. **Citigroup (C)**: In 2011, Citigroup executed a 1-for-10 [reverse stock split](../r/reverse_stock_split.md) to enhance its stock price, which had significantly fallen during the [financial crisis](../f/financial_crisis.md). For further details, see Citigroup’s [investor information](https://www.citigroup.com/citi/investor/).
+2. **Citigroup (C)**: In 2011, Citigroup executed a 1-for-10 [reverse stock split](../r/reverse_stock_split.md) to enhance its stock price, which had significantly fallen during the [financial crisis](../f/financial_crisis.md). For further details, see Citigroup’s investor information.
 
 ### Conclusion
 
@@ -57,5 +57,5 @@ Reverse stock splits serve as a strategic tool for companies to meet regulatory 
 2. **[Fundamental Analysis](../f/fundamental_analysis.md)**: Evaluate the company's fundamentals, rather than relying solely on stock price movements, to gauge its true [value](../v/value.md) and potential for future growth.
 
 3. **[Market](../m/market.md) Conditions**: Consider broader [market](../m/market.md) conditions and [industry](../i/industry.md)-specific factors that may influence the success and impact of a [reverse stock split](../r/reverse_stock_split.md).
-   
+
 By doing so, investors can mitigate risks and [capitalize](../c/capitalize.md) on potential opportunities arising from reverse stock splits.

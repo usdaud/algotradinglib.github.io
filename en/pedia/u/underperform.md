@@ -8,7 +8,7 @@ Underperformance can occur for various reasons including poor management decisio
 
 ### Metrics Used to Measure Underperformance
 
-1. **[Benchmark Comparison](../b/benchmark_comparison.md)**: One of the simplest ways to measure underperformance is by comparing the investment returns to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) such as the S&P 500, [NASDAQ](../n/nasdaq.md), or the Dow Jones Industrial Average. 
+1. **[Benchmark Comparison](../b/benchmark_comparison.md)**: One of the simplest ways to measure underperformance is by comparing the investment returns to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md) such as the S&P 500, [NASDAQ](../n/nasdaq.md), or the Dow Jones Industrial Average.
 2. **Year-to-Date (YTD) Performance**: This metric helps in comparing the current year's performance with the previous years.
 3. **[Total Return](../t/total_return.md)**: It includes [interest](../i/interest.md), [capital](../c/capital.md) gains, dividends, and distributions realized over a given period.
 4. **[Alpha](../a/alpha.md)**: This measures the performance of an investment relative to a [market index](../m/market_index.md) or [benchmark](../b/benchmark.md), indicating whether the investment has outperformed or underperformed the [market](../m/market.md).
@@ -51,7 +51,7 @@ Underperformance can have various impacts depending on the scale and the nature 
 ### On Companies
 
 1. **Stock Price Dip**: Consistent underperformance can lead to a drop in stock price, affecting [market capitalization](../m/market_capitalization.md).
-2. **[Investor Relations](../i/investor_relations.md)**: A strained relationship with existing and potential investors can occur due to continuous underperformance.
+2. **[company filings](../i/investor_relations.md)**: A strained relationship with existing and potential investors can occur due to continuous underperformance.
 3. **Operational Pressure**: Managers might face increased pressure to improve performance, resulting in drastic strategic changes.
 
 ## Mitigating Underperformance
@@ -70,7 +70,7 @@ Using [hedging strategies](../h/hedging_strategies.md) like [options](../o/optio
 
 ### Data-Driven Decision Making
 
-Utilizing advanced analytics, [algorithmic trading](../a/accountability.md), and [machine learning](../m/machine_learning.md) models can aid in predicting [market](../m/market.md) movements and making informed decisions to mitigate underperformance.
+Utilizing advanced analytics, [algorithmic trading](../a/algorithmic_trading.md), and [machine learning](../m/machine_learning.md) models can aid in predicting [market](../m/market.md) movements and making informed decisions to mitigate underperformance.
 
 ### Staying Informed
 
@@ -100,8 +100,8 @@ Underperformance is an unavoidable aspect of [investing](../i/investing.md), but
 
 ### Additional Resources
 
-1. [Investopedia - Understanding Underperformance](https://www.investopedia.com/terms/u/underperformance.asp)
-2. [Fidelity - Managing Underperforming Investments](https://www.fidelity.com/viewpoints/investing-ideas/how-to-handle-losses)
-3. [SEC - Investor Bulletin: Understanding Investment Performance](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_understandinginvestmentperformance)
+1. Investopedia - Understanding Underperformance
+2. Fidelity - Managing Underperforming Investments
+3. SEC - Investor Bulletin: Understanding Investment Performance
 
 For a deeper dive into managing underperforming assets and implementing advanced strategies, consider engaging with financial advisory services and educational resources offered by financial institutions.

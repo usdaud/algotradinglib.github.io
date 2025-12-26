@@ -12,8 +12,8 @@ Zero [Income](../i/income.md) [Yield](../y/yield.md) is intrinsically tied to ze
 
 To calculate the [yield](../y/yield.md) of a zero coupon [bond](../b/bond.md), we can use the following formula:
 
-\[ 
-Y = \left( \frac{F}{P} \right)^{\frac{1}{N}} - 1 
+\[
+Y = \left( \frac{F}{P} \right)^{\frac{1}{N}} - 1
 \]
 
 where:
@@ -62,7 +62,7 @@ Pension funds, [insurance](../i/insurance.md) companies, and mutual funds also u
 
 One of the most well-known examples of zero coupon bonds is the U.S. [Treasury STRIPS](../t/treasury_strips.md) (Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) of Securities). These are created by stripping the coupons from [U.S. Treasury](../u/u.s._treasury.md) bonds and selling the [principal](../p/principal.md) and [interest](../i/interest.md) payments as separate securities. The [principal](../p/principal.md) portion is a zero coupon [bond](../b/bond.md), [offering](../o/offering.md) a fixed [return](../r/return.md) at [maturity](../m/maturity.md) without periodic [interest](../i/interest.md) payments.
 
-For more information, investors can visit the [U.S. Department of the Treasury](https://www.treasurydirect.gov/).
+For more information, investors can visit the U.S. Department of the Treasury.
 
 ### Corporate Zero Coupon Bonds
 

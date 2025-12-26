@@ -1,6 +1,6 @@
 # Equity Derivative
 
-An [equity](../e/equity.md) [derivative](../d/derivative.md) is a [financial instrument](../f/financial_instrument.md) whose [value](../v/value.md) is based on the [equity](../e/equity.md) movements of the [underlying asset](../u/underlying_asset.md), typically a stock or a stock [index](../i/index_instrument.md). These [derivatives](../d/derivatives.md) are used for various purposes, including hedging risks, speculating on future movements, and leveraging positions. They come in many forms, including [options](../o/options.md), [futures](../f/futures.md), swaps, and structured products. 
+An [equity](../e/equity.md) [derivative](../d/derivative.md) is a [financial instrument](../f/financial_instrument.md) whose [value](../v/value.md) is based on the [equity](../e/equity.md) movements of the [underlying asset](../u/underlying_asset.md), typically a stock or a stock [index](../i/index_instrument.md). These [derivatives](../d/derivatives.md) are used for various purposes, including hedging risks, speculating on future movements, and leveraging positions. They come in many forms, including [options](../o/options.md), [futures](../f/futures.md), swaps, and structured products.
 
 ## Types of Equity Derivatives
 
@@ -45,7 +45,7 @@ Traders engage in [arbitrage](../a/arbitrage.md) by exploiting price differences
 
 ### Market Risk
 
-The [value](../v/value.md) of [equity derivatives](../e/equity_derivatives.md) is largely influenced by the price movements of the [underlying](../u/underlying.md) stock or [index](../i/index_instrument.md). [Volatility](../v/volatility.md) in the markets can lead to significant gains or losses. 
+The [value](../v/value.md) of [equity derivatives](../e/equity_derivatives.md) is largely influenced by the price movements of the [underlying](../u/underlying.md) stock or [index](../i/index_instrument.md). [Volatility](../v/volatility.md) in the markets can lead to significant gains or losses.
 
 ### Credit Risk
 
@@ -63,7 +63,7 @@ While [leverage](../l/leverage.md) can amplify gains, it can also magnify losses
 
 ### Investment Banks
 
-[Investment banks](../i/investment_bank_(ib).md), such as Goldman Sachs ([Website](https://www.goldmansachs.com/)), JPMorgan Chase ([Website](https://www.jpmorganchase.com/)), and Morgan Stanley ([Website](https://www.morganstanley.com/)), are major participants in the [equity derivatives](../e/equity_derivatives.md) markets. They facilitate trading, create structured products, and [offer](../o/offer.md) advisory services.
+[Investment banks](../i/investment_bank_(ib).md), such as Goldman Sachs, JPMorgan Chase, and Morgan Stanley, are major participants in the [equity derivatives](../e/equity_derivatives.md) markets. They facilitate trading, create structured products, and [offer](../o/offer.md) advisory services.
 
 ### Hedge Funds
 

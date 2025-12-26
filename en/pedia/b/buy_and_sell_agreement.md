@@ -75,11 +75,7 @@ In algo-trading, Buy and Sell Agreements can be coded into [trading algorithms](
 
 Several companies provide software and platforms that integrate Buy and Sell Agreements into algo-trading operations. Some of the notable entities in this space include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [www.quantconnect.com](https://www.quantconnect.com/)
-- **AlgoTrader**: [www.algotrader.com](https://www.algotrader.com/)
-- **MetaTrader**: [www.metatrader.com](https://www.metatrader4.com/en)
-- **Kavout**: [www.kavout.com](https://www.kavout.com/)
-
+- **[QuantConnect](../q/quantconnect.md)**- **AlgoTrader**- **MetaTrader**- **Kavout**
 ## Conclusion
 
 Buy and Sell Agreements are indispensable tools in both traditional and algo-trading [business](../b/business.md) environments. They help ensure smooth transitions, mitigate conflicts, and provide clear frameworks for [trade](../t/trade.md) executions. By integrating these agreements into [trading algorithms](../t/trading_algorithms.md), businesses and traders can automate compliance with pre-set terms and conditions, enhancing the [efficiency](../e/efficiency.md) and reliability of their trading activities.

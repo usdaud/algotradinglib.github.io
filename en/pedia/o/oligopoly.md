@@ -17,7 +17,7 @@ An oligopoly is a [market](../m/market.md) structure characterized by a small nu
 
 ## Models of Oligopoly
 
-### Cournot Model 
+### Cournot Model
 
 Developed by French [economist](../e/economist.md) Antoine Augustin Cournot in 1838, the Cournot model describes an [industry](../i/industry.md) in which firms compete on the quantity of output they decide to produce. Each [firm](../f/firm.md) makes its production decision based on the output level chosen by its rivals; the [firm](../f/firm.md)'s objective is to maximize its [profit](../p/profit.md) in the context of its rival's production quantity.
 
@@ -60,11 +60,11 @@ Governments and regulatory agencies worldwide carefully monitor and regulate oli
 - **Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC)**: In the United States, this body oversees corporate practices to promote consumer protection and eliminate harmful anticompetitive practices.
 - **European [Commission](../c/commission.md)**: In the [European Union](../e/european_union_(eu).md), it monitors and enforces competition laws to ensure fair competition.
 - **Competition and Markets Authority (CMA)**: In the UK, the CMA works to promote competition and curb anti-competitive activities.
-  
+
 For more information on regulatory bodies, visit their respective websites:
-- [FTC](https://www.ftc.gov)
-- [European Commission - DG Competition](https://ec.europa.eu/competition/)
-- [CMA](https://www.gov.uk/government/organisations/competition-and-markets-authority)
+- FTC
+- European Commission - DG Competition
+- CMA
 
 ## Implications for Financial Markets
 

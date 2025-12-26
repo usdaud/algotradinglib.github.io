@@ -87,11 +87,11 @@ While the pretax [profit margin](../p/profit_margin.md) is a valuable metric, it
 
 ### Amazon
 
-Amazon (https://www.amazon.com/) is an example of a company with fluctuating pretax [profit margins](../p/profit_margins_in_trading.md) due to its aggressive growth strategies, significant investments in technology, [logistics](../l/logistics.md), and [market](../m/market.md) [expansion](../e/expansion.md). Despite lower [profit margins](../p/profit_margins_in_trading.md) in its early years, Amazon's focus on [revenue](../r/revenue.md) growth and [market penetration](../m/market_penetration.md) eventually led to improved profitability.
+Amazon ( is an example of a company with fluctuating pretax [profit margins](../p/profit_margins_in_trading.md) due to its aggressive growth strategies, significant investments in technology, [logistics](../l/logistics.md), and [market](../m/market.md) [expansion](../e/expansion.md). Despite lower [profit margins](../p/profit_margins_in_trading.md) in its early years, Amazon's focus on [revenue](../r/revenue.md) growth and [market penetration](../m/market_penetration.md) eventually led to improved profitability.
 
 ### Apple
 
-Apple (https://www.apple.com/) traditionally maintains high pretax [profit margins](../p/profit_margins_in_trading.md) due to its [premium](../p/premium.md) pricing strategy, strong [brand loyalty](../b/brand_loyalty.md), and efficient [supply chain](../s/supply_chain.md) management. Apple's ability to command higher prices for its products and control its costs has contributed to its strong pretax [profit margins](../p/profit_margins_in_trading.md).
+Apple ( traditionally maintains high pretax [profit margins](../p/profit_margins_in_trading.md) due to its [premium](../p/premium.md) pricing strategy, strong [brand loyalty](../b/brand_loyalty.md), and efficient [supply chain](../s/supply_chain.md) management. Apple's ability to command higher prices for its products and control its costs has contributed to its strong pretax [profit margins](../p/profit_margins_in_trading.md).
 
 ## Conclusion
 

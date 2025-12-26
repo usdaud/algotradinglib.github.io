@@ -77,14 +77,14 @@ Algorithmic traders often engage in [spread betting](../s/spread_betting.md) by 
 
 ### Predictive Analytics in Action
 
-A notable case involves JPMorgan Chase, which utilizes [quantitative models](../q/quantitative_models.md) to forecast [yield](../y/yield.md) [spreads](../s/spreads.md). Their investment strategies are heavily reliant on advanced analytics and computational models. More information can be found on their [official site](https://www.jpmorganchase.com).
+A notable case involves JPMorgan Chase, which utilizes [quantitative models](../q/quantitative_models.md) to forecast [yield](../y/yield.md) [spreads](../s/spreads.md). Their investment strategies are heavily reliant on advanced analytics and computational models.
 
 ### Innovative Approaches by Quant Hedge Funds
 
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md) like D.E. Shaw and Renaissance Technologies apply sophisticated algorithms to predict [yield](../y/yield.md) [spreads](../s/spreads.md) and drive their [trading strategies](../t/trading_strategies.md).
 
-- [D.E. Shaw Group](https://www.deshaw.com)
-- [Renaissance Technologies LLC](https://www.rentec.com)
+- D.E. Shaw Group
+- Renaissance Technologies LLC
 
 ## Conclusion
 

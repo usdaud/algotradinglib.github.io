@@ -48,15 +48,15 @@ Understanding the expiration time is also crucial for [risk management](../r/ris
 
 ### CME Group
 
-The CME Group is a leading [derivatives](../d/derivatives.md) marketplace [offering](../o/offering.md) a wide [range](../r/range.md) of [futures](../f/futures.md) and [options](../o/options.md) products with various expiration dates. For example, CME's [equity](../e/equity.md) [index options](../i/index_options.md) have [multiple](../m/multiple.md) expiration dates, including weeklies, monthlies, and quarterlies. More information can be found on their official website: [CME Group](https://www.cmegroup.com).
+The CME Group is a leading [derivatives](../d/derivatives.md) marketplace [offering](../o/offering.md) a wide [range](../r/range.md) of [futures](../f/futures.md) and [options](../o/options.md) products with various expiration dates. For example, CME's [equity](../e/equity.md) [index options](../i/index_options.md) have [multiple](../m/multiple.md) expiration dates, including weeklies, monthlies, and quarterlies.
 
 ### CBOE Global Markets
 
-CBOE Global Markets offers a diverse set of [options](../o/options.md) products, including weekly, monthly, and quarterly expirations. The CBOE's [VIX options](../v/vix_option.md), for instance, provide different expiration cycles to cater to various [trading strategies](../t/trading_strategies.md). Detailed information is available on their website: [CBOE](https://www.cboe.com).
+CBOE Global Markets offers a diverse set of [options](../o/options.md) products, including weekly, monthly, and quarterly expirations. The CBOE's [VIX options](../v/vix_option.md), for instance, provide different expiration cycles to cater to various [trading strategies](../t/trading_strategies.md). Detailed information is available through its online channels: CBOE.
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) provides tools and resources to help traders manage contract expirations efficiently. Their [trading platform](../t/trading_platform.md) offers alerts, roll strategies, and other features to ensure that traders can [handle](../h/handle.md) expiration dates effectively. Visit their official website for more details: [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) provides tools and resources to help traders manage contract expirations efficiently. Their [trading platform](../t/trading_platform.md) offers alerts, roll strategies, and other features to ensure that traders can [handle](../h/handle.md) expiration dates effectively.
 
 ## Conclusion
 

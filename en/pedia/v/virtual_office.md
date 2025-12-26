@@ -70,11 +70,11 @@ The reliance on internet connectivity means that any disruption can affect [busi
 
 ### Zapier
 
-Zapier is a fully remote company that connects different web applications to automate workflows. With a distributed team across various time zones, Zapier exemplifies the benefits of a virtual office. The company has leveraged tools like Slack, Zoom, and Trello to maintain communication and [productivity](../p/productivity.md). For more information, visit [Zapier](https://zapier.com).
+Zapier is a fully remote company that connects different web applications to automate workflows. With a distributed team across various time zones, Zapier exemplifies the benefits of a virtual office. The company has leveraged tools like Slack, Zoom, and Trello to maintain communication and [productivity](../p/productivity.md). For more information, visit Zapier.
 
 ### Automattic
 
-Automattic, the [parent company](../p/parent_company.md) of WordPress.com, operates as a distributed workforce with employees working from over 70 countries. The company uses tools like P2 (a custom WordPress theme for team communication), Slack, and Zoom to facilitate collaboration. Automattic's success demonstrates how virtual offices can support large-scale operations. More details can be found on [Automattic's website](https://automattic.com).
+Automattic, the [parent company](../p/parent_company.md) of WordPress.com, operates as a distributed workforce with employees working from over 70 countries. The company uses tools like P2 (a custom WordPress theme for team communication), Slack, and Zoom to facilitate collaboration. Automattic's success demonstrates how virtual offices can support large-scale operations. More
 
 ## Conclusion
 

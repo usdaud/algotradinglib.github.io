@@ -117,7 +117,7 @@ Even with meticulous planning, hedges can become ineffective over time. [Market]
 
 Technological advancements have led to the development of specialized software solutions for [hedge](../h/hedge.md) [accounting](../a/accounting.md). These solutions [offer](../o/offer.md) automation of documentation, effectiveness testing, and compliance reporting, thereby reducing administrative burden and increasing accuracy.
 
-For example, companies like HedgeStar ([HedgeStar](https://hedgestar.com/)) provide comprehensive [hedge](../h/hedge.md) [accounting](../a/accounting.md) services, including software that facilitates compliance with IFRS and GAAP standards.
+For example, companies like HedgeStar (HedgeStar) provide comprehensive [hedge](../h/hedge.md) [accounting](../a/accounting.md) services, including software that facilitates compliance with IFRS and GAAP standards.
 
 ### Integration with Enterprise Resource Planning (ERP) Systems
 

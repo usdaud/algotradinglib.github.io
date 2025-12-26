@@ -1,6 +1,6 @@
 # Negative Correlation Assets
 
-In the realm of investment and [finance](../f/finance.md), understanding correlations between various assets is crucial for building a diversified and resilient portfolio. One of the important concepts in this context is [negative correlation](../n/negative_correlation.md) assets. These assets perform in opposition to each other, which can significantly mitigate [risk](../r/risk.md) and enhance returns when included in a portfolio. 
+In the realm of investment and [finance](../f/finance.md), understanding correlations between various assets is crucial for building a diversified and resilient portfolio. One of the important concepts in this context is [negative correlation](../n/negative_correlation.md) assets. These assets perform in opposition to each other, which can significantly mitigate [risk](../r/risk.md) and enhance returns when included in a portfolio.
 
 ### What is Negative Correlation?
 
@@ -42,7 +42,7 @@ Modern portfolio theory (MPT) utilizes these calculations to optimize portfolios
 
 For example, during a [stock market crash](../s/stock_market_crash.md), an algorithm might automatically increase exposure to bonds or gold to counteract falling stock prices.
 
-Individuals interested in practical applications can explore algo-trading platforms and resources offered by companies like [QuantConnect](https://www.quantconnect.com/) and [QuantInsti](https://www.quantinsti.com/).
+Individuals interested in practical applications can explore algo-trading platforms and resources offered by companies like QuantConnect and QuantInsti.
 
 ### Risks and Considerations
 

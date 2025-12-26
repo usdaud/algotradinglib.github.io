@@ -52,7 +52,7 @@ The most significant advantage of a DPO is cost [efficiency](../e/efficiency.md)
 
 In a DPO, the company retains more control over the process and terms of the [offering](../o/offering.md). This includes setting the price and quantity of securities offered and determining the types of investors they wish to attract.
 
-### 3. Strengthened Investor Relations
+### 3. Strengthened company filings
 
 A direct relationship with investors can lead to a more loyal and supportive [shareholder](../s/shareholder.md) base. Companies can communicate directly with their investors, providing updates and receiving feedback more effectively.
 
@@ -70,9 +70,9 @@ One of the main limitations of a DPO is the potential for a more limited [market
 
 Although the regulatory burden is less than that of an IPO, companies still need to navigate complex securities laws and ensure full compliance. Failure to comply can result in legal consequences and damage the company's reputation.
 
-### 3. Marketing and Investor Relations Efforts
+### 3. Marketing and company filings Efforts
 
-The responsibility for [marketing](../m/marketing.md) the [offering](../o/offering.md) and maintaining [investor relations](../i/investor_relations.md) falls entirely on the company. This can require significant time and resources, potentially diverting focus from core [business](../b/business.md) operations.
+The responsibility for [marketing](../m/marketing.md) the [offering](../o/offering.md) and maintaining [company filings](../i/investor_relations.md) falls entirely on the company. This can require significant time and resources, potentially diverting focus from core [business](../b/business.md) operations.
 
 ## Examples of Successful DPOs
 
@@ -94,8 +94,8 @@ A Direct Public [Offering](../o/offering.md) (DPO) presents a compelling alterna
 
 For more information on companies that have utilized DPOs and related resources, visit the following links:
 
-- [Ben & Jerry's](https://www.benjerry.com)
-- [Annie's Homegrown](https://www.annies.com)
-- [Real Goods Solar](https://www.realgoods.com)
+- Ben & Jerry's
+- Annie's Homegrown
+- Real Goods Solar
 
 By understanding the intricacies of a DPO, companies can make informed decisions that align with their financial goals and growth strategies.

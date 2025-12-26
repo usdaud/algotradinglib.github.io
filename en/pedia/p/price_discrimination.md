@@ -55,11 +55,11 @@ For price discrimination to effectively increase a [firm](../f/firm.md)'s [reven
 
 ### Airline Industry
 
-Airlines are renowned for their sophisticated use of price discrimination strategies. Various factors influence ticket prices, including booking time, flight [demand](../d/demand.md), [customer](../c/customer.md) loyalty status, and the class of service ([economy](../e/economy.md), [business](../b/business.md), first class). 
+Airlines are renowned for their sophisticated use of price discrimination strategies. Various factors influence ticket prices, including booking time, flight [demand](../d/demand.md), [customer](../c/customer.md) loyalty status, and the class of service ([economy](../e/economy.md), [business](../b/business.md), first class).
 
 ### Software Industry
 
-Software companies, such as Adobe (www.adobe.com), often use [versioning](../v/versioning.md) in their pricing models. They [offer](../o/offer.md) different tiers of their software suites targeted at different user needs and willingness to pay, from basic versions for individual consumers to advanced enterprise versions for [business](../b/business.md) users.
+Software companies, such as Adobe ( often use [versioning](../v/versioning.md) in their pricing models. They [offer](../o/offer.md) different tiers of their software suites targeted at different user needs and willingness to pay, from basic versions for individual consumers to advanced enterprise versions for [business](../b/business.md) users.
 
 ### Hospitality Industry
 

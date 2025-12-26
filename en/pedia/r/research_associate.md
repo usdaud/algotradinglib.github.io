@@ -34,7 +34,7 @@ In the fintech domain, the role of a Research Associate often overlaps with [dat
 
 #### Algorithmic Trading Research
 
-For firms involved in [algorithmic trading](../a/accountability.md), Research Associates develop and test [trading algorithms](../t/trading_algorithms.md).
+For firms involved in [algorithmic trading](../a/algorithmic_trading.md), Research Associates develop and test [trading algorithms](../t/trading_algorithms.md).
 
 - **[Backtesting](../b/backtesting.md)**: Testing algorithms on historical data to assess performance.
 - **High-Frequency Trading**: Developing algorithms that operate at high speeds and low latencies.
@@ -79,7 +79,7 @@ Starting as a Research Associate offers a pathway to advanced roles such as Seni
 ### Real-World Application
 
 #### Case Study: **Morningstar, Inc.**
-Website: [Morningstar](https://www.morningstar.com/)
+online platform: Morningstar
 
 [Morningstar](../m/morningstar.md), a leading provider of independent investment research, employs numerous Research Associates. These professionals play a pivotal role in analyzing investment funds, markets, and [economic indicators](../e/economic_indicators.md) to provide investors with comprehensive, unbiased information.
 

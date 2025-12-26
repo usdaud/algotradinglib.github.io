@@ -10,11 +10,11 @@
 
 ## Types of Encroachment
 1. **Structural Encroachment**: Physical structures such as buildings, fences, driveways, or sheds that extend beyond property lines.
-   - **Example**: A homeowner builds a garage that partially sits on the neighbor’s land.
+ - **Example**: A homeowner builds a garage that partially sits on the neighbor’s land.
 2. **Natural Encroachment**: Natural elements like tree roots or branches that grow beyond property boundaries.
-   - **Example**: Tree branches from one property hanging over and affecting the neighbor’s yard.
+ - **Example**: Tree branches from one property hanging over and affecting the neighbor’s yard.
 3. **Usage Encroachment**: Activities or uses of land that infringe upon a neighbor's [property rights](../p/property_rights.md).
-   - **Example**: Using a portion of a neighbor’s land as a garden or parking area without permission.
+ - **Example**: Using a portion of a neighbor’s land as a garden or parking area without permission.
 
 ## Importance
 1. **[Property Rights](../p/property_rights.md)**: Encroachment affects [property rights](../p/property_rights.md), which are fundamental to property ownership and use.
@@ -39,4 +39,3 @@
 
 ## Conclusion
 Encroachment is a significant [issue](../i/issue.md) in [real estate](../r/real_estate.md) that involves the unauthorized intrusion of a structure, object, or activity onto another person's property. It can lead to disputes, legal challenges, and affect property values. Addressing encroachment requires understanding property boundaries, documenting the [issue](../i/issue.md), and seeking resolution through [negotiation](../n/negotiation.md) or legal action if necessary.
-

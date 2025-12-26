@@ -1,6 +1,6 @@
 # Sampling
 
-Sampling is a technique used widely in various fields, including [finance](../f/finance.md) and trading, to select a subset of individuals or items from a larger population for the purpose of making inferences about the entire population. In the context of [finance](../f/finance.md) and trading, sampling is often used in [algorithmic trading](../a/accountability.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md).
+Sampling is a technique used widely in various fields, including [finance](../f/finance.md) and trading, to select a subset of individuals or items from a larger population for the purpose of making inferences about the entire population. In the context of [finance](../f/finance.md) and trading, sampling is often used in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md).
 
 ## Types of Sampling
 
@@ -25,7 +25,7 @@ Convenience sampling is a non-probability sampling technique where samples are s
 In [portfolio optimization](../p/portfolio_optimization.md), sampling techniques are used to select a representative subset of assets from a larger universe. This helps in reducing computational expenses while maintaining the general characteristics of the total [asset](../a/asset.md) pool. Methods like stratified sampling are particularly useful as they ensure different sectors or [asset](../a/asset.md) classes are adequately represented.
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) relies on historical data for [backtesting](../b/backtesting.md) and model development. Sampling techniques, particularly random and stratified sampling, are used to create training and testing datasets. This ensures that the models are [robust](../r/robust.md) and can generalize well to new, unseen data.
+[Algorithmic trading](../a/algorithmic_trading.md) relies on historical data for [backtesting](../b/backtesting.md) and model development. Sampling techniques, particularly random and stratified sampling, are used to create training and testing datasets. This ensures that the models are [robust](../r/robust.md) and can generalize well to new, unseen data.
 
 ### Risk Management
 Sampling is also crucial in [risk management](../r/risk_management.md). Techniques like [Monte Carlo simulation](../m/monte_carlo_simulation.md) rely on generating thousands or even millions of random samples to estimate the potential loss or [gain](../g/gain.md) from different investment strategies. Accurate sampling methods ensure that the simulations fairly represent the [range](../r/range.md) of possible outcomes.
@@ -33,10 +33,10 @@ Sampling is also crucial in [risk management](../r/risk_management.md). Techniqu
 ## Applications in Algo Trading
 
 ### Data Partitioning
-In [algorithmic trading](../a/accountability.md), the quality of the predictive model depends heavily on the quality of the data it's trained on. Data partitioning, a form of stratified sampling, divides the dataset into training, validation, and test sets to ensure that each data partition is representative of the overall data [distribution](../d/distribution.md). This step is crucial in preventing [overfitting](../o/overfitting.md) and improving the model's generalization capability.
+In [algorithmic trading](../a/algorithmic_trading.md), the quality of the predictive model depends heavily on the quality of the data it's trained on. Data partitioning, a form of stratified sampling, divides the dataset into training, validation, and test sets to ensure that each data partition is representative of the overall data [distribution](../d/distribution.md). This step is crucial in preventing [overfitting](../o/overfitting.md) and improving the model's generalization capability.
 
 ### Bootstrapping
-Bootstrapping is a statistical method that involves repeatedly sampling with replacement from a dataset to estimate the [distribution](../d/distribution.md) of a statistic. In [algorithmic trading](../a/accountability.md), bootstrapping is employed to create [multiple](../m/multiple.md) simulated distributions of returns, which can help in assessing the [risk](../r/risk.md) and validating the robustness of [trading strategies](../t/trading_strategies.md).
+Bootstrapping is a statistical method that involves repeatedly sampling with replacement from a dataset to estimate the [distribution](../d/distribution.md) of a statistic. In [algorithmic trading](../a/algorithmic_trading.md), bootstrapping is employed to create [multiple](../m/multiple.md) simulated distributions of returns, which can help in assessing the [risk](../r/risk.md) and validating the robustness of [trading strategies](../t/trading_strategies.md).
 
 ### Walk-Forward Optimization
 Walk-forward [optimization](../o/optimization.md) is a technique used to improve model robustness and performance. In this method, the dataset is divided into [multiple](../m/multiple.md) overlapping training and testing sets, and the model is incrementally updated and validated. This method ensures that the model remains [robust](../r/robust.md) and adaptive to changing [market](../m/market.md) conditions.
@@ -57,6 +57,6 @@ The quality of the sample is heavily dependent on the quality of the [underlying
 
 ## Conclusion
 
-Sampling is a fundamental technique in [finance](../f/finance.md) and trading, used extensively for [portfolio optimization](../p/portfolio_optimization.md), [algorithmic trading](../a/accountability.md), and [risk management](../r/risk_management.md). Understanding the various sampling methods and their applications can significantly enhance the quality of inferences made and the robustness of [trading strategies](../t/trading_strategies.md). While challenges like bias, [overfitting](../o/overfitting.md), and data quality exist, careful planning and [execution](../e/execution.md) of sampling techniques can mitigate these issues. As the field of [finance](../f/finance.md) and trading continues to evolve, the importance of effective sampling methods [will](../w/will.md) only grow, making it an essential skill for professionals in this domain.
+Sampling is a fundamental technique in [finance](../f/finance.md) and trading, used extensively for [portfolio optimization](../p/portfolio_optimization.md), [algorithmic trading](../a/algorithmic_trading.md), and [risk management](../r/risk_management.md). Understanding the various sampling methods and their applications can significantly enhance the quality of inferences made and the robustness of [trading strategies](../t/trading_strategies.md). While challenges like bias, [overfitting](../o/overfitting.md), and data quality exist, careful planning and [execution](../e/execution.md) of sampling techniques can mitigate these issues. As the field of [finance](../f/finance.md) and trading continues to evolve, the importance of effective sampling methods [will](../w/will.md) only grow, making it an essential skill for professionals in this domain.
 
-For further reading on sampling techniques and their applications in [finance](../f/finance.md), you may visit [Investopedia](https://www.investopedia.com/terms/s/sampling.asp).
+For further reading on sampling techniques and their applications in [finance](../f/finance.md), you may visit Investopedia.

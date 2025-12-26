@@ -19,43 +19,43 @@ By focusing on reducing these costs, traders can enhance their net returns.
 ### Algorithmic Strategies
 
 1. **Smart [Order Routing](../o/order_routing.md) (SOR)**
-   Smart [Order Routing](../o/order_routing.md) algorithms aim to find the best possible route for executing trades across diverse trading venues. These algorithms take into account factors like [liquidity](../l/liquidity.md), price, and the specific [trade](../t/trade.md) constraints to minimize [transaction costs](../t/transaction_costs.md).
+ Smart [Order Routing](../o/order_routing.md) algorithms aim to find the best possible route for executing trades across diverse trading venues. These algorithms take into account factors like [liquidity](../l/liquidity.md), price, and the specific [trade](../t/trade.md) constraints to minimize [transaction costs](../t/transaction_costs.md).
 
 2. **[Execution Algorithms](../e/execution_algorithms.md)**
-   These are designed to execute large orders with minimal [market](../m/market.md) impact. Examples include:
-   
-   - **TWAP (Time-[Weighted Average](../w/weighted_average.md) Price)**: Distributes a large [order](../o/order.md) evenly over a specified time period.
-   - **VWAP ([Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price)**: Seeks to execute an [order](../o/order.md) in proportion to the trading [volume](../v/volume.md) over a specified period.
-   - **Implementation [Shortfall](../s/shortfall.md)**: Balances the [trade](../t/trade.md)-off between quick [execution](../e/execution.md) and minimizing [market](../m/market.md) impact by splitting orders into smaller chunks and strategically placing them in the [market](../m/market.md).
+ These are designed to execute large orders with minimal [market](../m/market.md) impact. Examples include:
+
+ - **TWAP (Time-[Weighted Average](../w/weighted_average.md) Price)**: Distributes a large [order](../o/order.md) evenly over a specified time period.
+ - **VWAP ([Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price)**: Seeks to execute an [order](../o/order.md) in proportion to the trading [volume](../v/volume.md) over a specified period.
+ - **Implementation [Shortfall](../s/shortfall.md)**: Balances the [trade](../t/trade.md)-off between quick [execution](../e/execution.md) and minimizing [market](../m/market.md) impact by splitting orders into smaller chunks and strategically placing them in the [market](../m/market.md).
 
 ### Technological Advancements
 
 1. **Latency Reduction**
-   Lower latency in [trading systems](../t/trading_systems.md) can substantially reduce [slippage](../s/slippage.md) and improve [execution](../e/execution.md) quality. This can be achieved through:
+ Lower latency in [trading systems](../t/trading_systems.md) can substantially reduce [slippage](../s/slippage.md) and improve [execution](../e/execution.md) quality. This can be achieved through:
 
-   - **Co-location Services**: Placing trading servers close to [exchange](../e/exchange.md) servers to reduce latency.
-   - **Optimized Hardware and Software**: Utilizing high-speed networks, advanced processors, and efficient algorithms to ensure quick [trade](../t/trade.md) [execution](../e/execution.md).
+ - **Co-location Services**: Placing trading servers close to [exchange](../e/exchange.md) servers to reduce latency.
+ - **Optimized Hardware and Software**: Utilizing high-speed networks, advanced processors, and efficient algorithms to ensure quick [trade](../t/trade.md) [execution](../e/execution.md).
 
 2. **[Machine Learning](../m/machine_learning.md) and AI**
-   AI-powered algorithms can predict optimal trading times and venues, adjust strategies in real-time based on [market](../m/market.md) conditions, and dynamically manage [order](../o/order.md) placement, all of which help in cost reduction.
+ AI-powered algorithms can predict optimal trading times and venues, adjust strategies in real-time based on [market](../m/market.md) conditions, and dynamically manage [order](../o/order.md) placement, all of which help in cost reduction.
 
 ### Cost Analysis and Optimization
 
 1. **[Transaction Cost Analysis](../t/transaction_cost_analysis.md) (TCA)**
-   TCA tools analyze [trading costs](../t/trading_costs.md) in detail, providing insights into [slippage](../s/slippage.md), spread, and other factors. They help in identifying inefficiencies in [trading strategies](../t/trading_strategies.md) and processes.
+ TCA tools analyze [trading costs](../t/trading_costs.md) in detail, providing insights into [slippage](../s/slippage.md), spread, and other factors. They help in identifying inefficiencies in [trading strategies](../t/trading_strategies.md) and processes.
 
-   For instance, tools like [Bloomberg](../b/bloomberg.md)’s BTCA provide advanced metrics and visualizations to help traders understand and reduce their [transaction costs](../t/transaction_costs.md).
+ For instance, tools like [Bloomberg](../b/bloomberg.md)’s BTCA provide advanced metrics and visualizations to help traders understand and reduce their [transaction costs](../t/transaction_costs.md).
 
 2. **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**
-   Running [trading strategies](../t/trading_strategies.md) through historical data to evaluate their performance and cost implications can lead to better strategy adjustments. Simulations help in understanding potential costs and tweaking strategies before real [market](../m/market.md) implementation.
+ Running [trading strategies](../t/trading_strategies.md) through historical data to evaluate their performance and cost implications can lead to better strategy adjustments. Simulations help in understanding potential costs and tweaking strategies before real [market](../m/market.md) implementation.
 
 ### Broker and Trading Venue Selection
 
 1. **Low-Cost Brokers**
-   Choosing brokers with lower [commission](../c/commission.md) fees and better [execution](../e/execution.md) quality can significantly reduce costs.
+ Choosing brokers with lower [commission](../c/commission.md) fees and better [execution](../e/execution.md) quality can significantly reduce costs.
 
 2. **Effective Use of [Dark Pools](../d/dark_pools.md)**
-   [Dark pools](../d/dark_pools.md) are private exchanges where large trades can be made without significantly impacting [market](../m/market.md) prices. Using these venues strategically helps in minimizing [market impact costs](../m/market_impact_costs.md).
+ [Dark pools](../d/dark_pools.md) are private exchanges where large trades can be made without significantly impacting [market](../m/market.md) prices. Using these venues strategically helps in minimizing [market impact costs](../m/market_impact_costs.md).
 
 ## Real-World Implementations
 
@@ -63,13 +63,13 @@ By focusing on reducing these costs, traders can enhance their net returns.
 
 Renaissance Technologies, a leading quantitative [hedge fund](../h/hedge_fund.md), employs sophisticated algorithms and state-of-the-art technology to minimize [transaction costs](../t/transaction_costs.md). Their Medallion [Fund](../f/fund.md) is renowned for its performance, partly due to excellent cost management.
 
-Visit [Renaissance Technologies](https://www.rentec.com/).
+Visit Renaissance Technologies.
 
 ### Citadel Securities
 
 Citadel Securities is one of the leading [market](../m/market.md) makers and uses the latest technology to ensure efficient [trade](../t/trade.md) executions. Their commitment to reducing [transaction costs](../t/transaction_costs.md) through technology and research is a cornerstone of their operations.
 
-Visit [Citadel Securities](https://www.citadelsecurities.com/).
+Visit Citadel Securities.
 
 ## The Role of Regulatory Frameworks
 

@@ -20,7 +20,7 @@ In [trading algorithms](../t/trading_algorithms.md), the learning rate is critic
 
 - Ensuring that the model converges to a minimum (preferably the global minimum) of the loss function.
 - Avoiding [overshooting](../o/overshooting.md) the minimum (when the learning rate is too high) or slow convergence (when the learning rate is too low).
-  
+
 ## Balancing the Learning Rate
 
 Finding the optimal learning rate is often a challenging task. If the learning rate is too high, the model may [fail](../f/fail.md) to converge, oscillate, or even diverge. Conversely, a learning rate that is too low can lead to prolonged training times and may get stuck in local minima.
@@ -61,9 +61,9 @@ The impact of learning rate on [risk](../r/risk.md)-adjusted returns should also
 
 Several tools and libraries support the implementation and tuning of learning rates in [trading algorithms](../t/trading_algorithms.md):
 
-- **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework that supports various learning rate schedules and adaptive optimizers. [TensorFlow Website](https://www.tensorflow.org)
-- **[PyTorch](../p/pytorch.md)**: Another popular [machine learning](../m/machine_learning.md) framework with extensive support for customizing learning rates. [PyTorch Website](https://pytorch.org)
-- **[Keras](../k/keras.md)**: A high-level [neural networks](../n/neural_networks_in_trading.md) API that runs on top of [TensorFlow](../t/tensorflow.md), providing easy-to-use learning rate scheduling and [optimization](../o/optimization.md). [Keras Website](https://keras.io)
+- **[TensorFlow](../t/tensorflow.md)**: An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework that supports various
+- **[PyTorch](../p/pytorch.md)**: Another popular [machine learning](../m/machine_learning.md) framework with
+- **[Keras](../k/keras.md)**: A high-level [neural networks](../n/neural_networks_in_trading.md) API that runs on top of [TensorFlow](../t/tensorflow.md), providing easy-to-use learning rate scheduling and [optimization](../o/optimization.md).
 
 ## Conclusion
 

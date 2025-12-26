@@ -46,7 +46,7 @@ Reversals can also be identified through [pattern recognition](../p/pattern_reco
 Advanced trading platforms and software are used to implement and execute [reversal](../r/reversal.md) [trading strategies](../t/trading_strategies.md). These platforms provide real-time data, charting tools, and automation capabilities. Leading trading platforms include:
 - **MetaTrader:** A popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) a [range](../r/range.md) of indicators and automated trading capabilities.
 - **[NinjaTrader](../n/ninjatrader.md):** A [trading platform](../t/trading_platform.md) known for its advanced charting tools and [algorithmic trading](../a/algorithmic_trading.md) support.
-- **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest [trading strategies](../t/trading_strategies.md) using various data sources and programming languages.
+- **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest [trading strategies](../t/trading_strategies.md) using various data sources and C# tooling.
 
 ### 3.2 Backtesting and Optimization
 
@@ -78,7 +78,7 @@ Effective [risk management](../r/risk_management.md) is vital to ensure the long
 
 ### 5.1 Successful Reversal Trading Algorithms
 
-Several [quantitative trading](../q/quantitative_trading.md) firms and [hedge](../h/hedge.md) funds are known for their successful implementation of [reversal](../r/reversal.md) [trading strategies](../t/trading_strategies.md). A notable example is Renaissance Technologies, a quantitative [hedge fund](../h/hedge_fund.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to [capitalize](../c/capitalize.md) on [market](../m/market.md) reversals. [Link to Renaissance Technologies](https://www.rentec.com)
+Several [quantitative trading](../q/quantitative_trading.md) firms and [hedge](../h/hedge.md) funds are known for their successful implementation of [reversal](../r/reversal.md) [trading strategies](../t/trading_strategies.md). A notable example is Renaissance Technologies, a quantitative [hedge fund](../h/hedge_fund.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to [capitalize](../c/capitalize.md) on [market](../m/market.md) reversals. Link to Renaissance Technologies
 
 ### 5.2 Real-world Examples
 
@@ -87,4 +87,3 @@ Several [quantitative trading](../q/quantitative_trading.md) firms and [hedge](.
 ## Conclusion
 
 [Reversal](../r/reversal.md) [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) a [robust](../r/robust.md) approach for algorithmic traders seeking to [capitalize](../c/capitalize.md) on [market](../m/market.md) reversals. By leveraging [technical indicators](../t/technical_indicators.md), [pattern recognition](../p/pattern_recognition.md), and [sentiment analysis](../s/sentiment_analysis.md), traders can develop and implement sophisticated algorithms to identify and exploit [reversal](../r/reversal.md) opportunities. However, successful implementation requires continuous monitoring, effective [risk management](../r/risk_management.md), and a commitment to ongoing refinement and adaptation of the strategy to changing [market](../m/market.md) conditions.
-

@@ -62,28 +62,28 @@ Advanced traders use [options](../o/options.md) to enhance their returns through
 Let's consider an example of an option series for Tesla Inc. (TSLA) stock. The option series for TSLA might look something like this:
 
 1. **[Expiration Date](../e/expiration_date.md)**: 2023-01-20
-    - Strike Prices: 600, 610, 620, 630, 640, 650, 660, 670, 680, 690, 700
-    - Call and [Put options](../p/put_options.md) for each [strike price](../s/strike_price.md)
+ - Strike Prices: 600, 610, 620, 630, 640, 650, 660, 670, 680, 690, 700
+ - Call and [Put options](../p/put_options.md) for each [strike price](../s/strike_price.md)
 
 2. **[Expiration Date](../e/expiration_date.md)**: 2023-06-16
-    - Strike Prices: 600, 650, 700, 750, 800, 850, 900
-    - Call and [Put options](../p/put_options.md) for each [strike price](../s/strike_price.md)
+ - Strike Prices: 600, 650, 700, 750, 800, 850, 900
+ - Call and [Put options](../p/put_options.md) for each [strike price](../s/strike_price.md)
 
 3. **[Expiration Date](../e/expiration_date.md)**: 2024-01-19 (LEAPS)
-    - Strike Prices: 400, 450, 500, 550, 600, 650, 700
-    - Call and [Put options](../p/put_options.md) for each [strike price](../s/strike_price.md)
+ - Strike Prices: 400, 450, 500, 550, 600, 650, 700
+ - Call and [Put options](../p/put_options.md) for each [strike price](../s/strike_price.md)
 
 ## Software and Platforms for Accessing Option Series
 
 Several software and trading platforms provide access to comprehensive option series. Some of the notable platforms include:
 
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A powerful [trading platform](../t/trading_platform.md) that provides advanced charting, [options](../o/options.md) analytics, and trading capabilities. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its wide [range](../r/range.md) of [asset](../a/asset.md) classes and advanced trading tools, including a detailed [option chain](../o/option_chain.md) view. [Interactive Brokers](https://www.interactivebrokers.com)
-- **[E*TRADE](../e/e_trade.md)**: Offers a [robust](../r/robust.md) [options](../o/options.md) [trading platform](../t/trading_platform.md) with extensive research tools and real-time data. [E*TRADE](https://us.etrade.com)
-- **[TradeStation](../t/tradestation.md)**: Provides a high-performance platform with comprehensive [options](../o/options.md) analysis tools. [TradeStation](https://www.tradestation.com)
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A powerful [trading platform](../t/trading_platform.md) that provides advanced charting, [options](../o/options.md) analytics, and trading capabilities. Thinkorswim
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its wide [range](../r/range.md) of [asset](../a/asset.md) classes and advanced trading tools, including a detailed [option chain](../o/option_chain.md) view. Interactive Brokers
+- **[E*TRADE](../e/e_trade.md)**: Offers a [robust](../r/robust.md) [options](../o/options.md) [trading platform](../t/trading_platform.md) with extensive research tools and real-time data. E*TRADE
+- **[TradeStation](../t/tradestation.md)**: Provides a high-performance platform with comprehensive [options](../o/options.md) analysis tools. TradeStation
 
 ## Conclusion
 
-An option series is an essential tool for traders and investors who [leverage](../l/leverage.md) [options](../o/options.md) in their [trading strategies](../t/trading_strategies.md). The detailed listing of various option contracts, including their expiration dates, strike prices, implied [volatility](../v/volatility.md), and [Greeks](../g/greeks.md), helps [market](../m/market.md) participants make informed decisions. Whether for hedging, [speculation](../s/speculation.md), [income](../i/income.md) generation, or enhancing returns, understanding and effectively using an option series can significantly impact the success of an [options](../o/options.md) [trading strategy](../t/trading_strategy.md). 
+An option series is an essential tool for traders and investors who [leverage](../l/leverage.md) [options](../o/options.md) in their [trading strategies](../t/trading_strategies.md). The detailed listing of various option contracts, including their expiration dates, strike prices, implied [volatility](../v/volatility.md), and [Greeks](../g/greeks.md), helps [market](../m/market.md) participants make informed decisions. Whether for hedging, [speculation](../s/speculation.md), [income](../i/income.md) generation, or enhancing returns, understanding and effectively using an option series can significantly impact the success of an [options](../o/options.md) [trading strategy](../t/trading_strategy.md).
 
 The availability of sophisticated trading platforms further enhances the ability to access and analyze option series data, empowering traders to navigate the complexities of the [options](../o/options.md) [market](../m/market.md).

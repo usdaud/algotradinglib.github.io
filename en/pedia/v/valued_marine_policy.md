@@ -72,9 +72,9 @@ These regulations provide guidelines on the implementation and enforcement of ma
 ## Leading Providers of Valued Marine Policies
 Several global [insurance](../i/insurance.md) companies specialize in marine [insurance](../i/insurance.md) and [offer](../o/offer.md) Valued Marine Policies. Notable among them are:
 
-- **[Lloyd's of London](../l/lloyd's_of_london.md)**: [Lloyd's Marine Insurance](https://www.lloyds.com/class-of-business/marine)
-- **Allianz Global Corporate & Specialty (AGCS)**: [Allianz Marine Insurance](https://www.agcs.allianz.com/solutions/marine-insurance.html)
-- **Chubb Limited**: [Chubb Marine Insurance](https://www.chubb.com/us-en/businesses/clean/ocean-marine-insurance.html)
+- **[Lloyd's of London](../l/lloyd's_of_london.md)**: Lloyd's Marine Insurance
+- **Allianz Global Corporate & Specialty (AGCS)**: Allianz Marine Insurance
+- **Chubb Limited**: Chubb Marine Insurance
 
 ## Conclusion
 Valued Marine Policies represent a significant tool within the marine [insurance](../i/insurance.md) landscape, [offering](../o/offering.md) clarity, [efficiency](../e/efficiency.md), and targeted coverage for high-[value](../v/value.md) and specialized maritime assets. While they come with their own set of challenges, the benefits they provide in terms of pre-determined [valuation](../v/valuation.md) and straightforward claims processes make them indispensable for certain sectors of maritime [commerce](../c/commerce.md). As maritime [trade](../t/trade.md) continues to evolve, so too [will](../w/will.md) the frameworks and methodologies for protecting these pivotal assets, with Valued Marine Policies playing a central role.

@@ -1,6 +1,6 @@
 # William F. Sharpe
 
-William F. Sharpe is a renowned figure in the field of [financial economics](../f/financial_economics.md), best known for co-developing the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM), for which he was awarded the Nobel Memorial Prize in Economic Sciences in 1990. His contributions to the field of [finance](../f/finance.md) extend beyond CAPM and encompass significant advances in the theory of investment, [risk management](../r/risk_management.md), and [asset allocation](../a/asset_allocation.md). This document delves into Sharpe's biography, primary contributions to [finance](../f/finance.md), and the broad implications of his work for modern financial practices, particularly in the realms of [algorithmic trading](../a/accountability.md) and fintech.
+William F. Sharpe is a renowned figure in the field of [financial economics](../f/financial_economics.md), best known for co-developing the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM), for which he was awarded the Nobel Memorial Prize in Economic Sciences in 1990. His contributions to the field of [finance](../f/finance.md) extend beyond CAPM and encompass significant advances in the theory of investment, [risk management](../r/risk_management.md), and [asset allocation](../a/asset_allocation.md). This document delves into Sharpe's biography, primary contributions to [finance](../f/finance.md), and the broad implications of his work for modern financial practices, particularly in the realms of [algorithmic trading](../a/algorithmic_trading.md) and fintech.
 
 ## Early Life and Education
 
@@ -24,7 +24,7 @@ CAPM has had far-reaching implications in both theoretical and applied [finance]
 
 ### Usage in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), CAPM serves as a cornerstone for various [quantitative strategies](../q/quantitative_strategies_in_trading.md). Traders use [beta](../b/beta.md) to [hedge](../h/hedge.md) portfolios and assess the [risk](../r/risk.md). Algorithms can automatically adjust positions based on the relationships predicted by CAPM, balancing portfolios dynamically to achieve an optimal mix of assets that align with specific [risk](../r/risk.md)-[return](../r/return.md) profiles.
+In [algorithmic trading](../a/algorithmic_trading.md), CAPM serves as a cornerstone for various [quantitative strategies](../q/quantitative_strategies_in_trading.md). Traders use [beta](../b/beta.md) to [hedge](../h/hedge.md) portfolios and assess the [risk](../r/risk.md). Algorithms can automatically adjust positions based on the relationships predicted by CAPM, balancing portfolios dynamically to achieve an optimal mix of assets that align with specific [risk](../r/risk.md)-[return](../r/return.md) profiles.
 
 ## Arbitrage Pricing Theory (APT)
 
@@ -53,7 +53,7 @@ where:
 
 ### Importance of the Sharpe Ratio
 
-The [Sharpe Ratio](../s/sharpe_ratio.md) is widely used by investors and portfolio managers to compare the performance of investment funds and strategies, adjusting for [risk](../r/risk.md). A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates better [risk](../r/risk.md)-adjusted performance. In [algorithmic trading](../a/accountability.md), Sharpe Ratios help in evaluating the effectiveness of [trading algorithms](../t/trading_algorithms.md) and strategies.
+The [Sharpe Ratio](../s/sharpe_ratio.md) is widely used by investors and portfolio managers to compare the performance of investment funds and strategies, adjusting for [risk](../r/risk.md). A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates better [risk](../r/risk.md)-adjusted performance. In [algorithmic trading](../a/algorithmic_trading.md), Sharpe Ratios help in evaluating the effectiveness of [trading algorithms](../t/trading_algorithms.md) and strategies.
 
 ## Career and Professional Contributions
 
@@ -70,15 +70,14 @@ Sharpe has authored [multiple](../m/multiple.md) books and numerous [journal](..
 
 Sharpe also founded and managed Financial Engines, a company specializing in providing automated, algorithm-based investment advice, harnessing the principles he developed throughout his career. Financial Engines exemplifies how Sharpe's theoretical contributions have been applied to practical fintech solutions, [offering](../o/offering.md) personalized [financial planning](../f/financial_planning.md) and [portfolio management](../p/par.md) services.
 
-For more information about his works and contributions, you can visit his personal website: [William F. Sharpe](https://www.stanford.edu/~wfsharpe/)
 
 ## Impact on Fintech and Algorithmic Trading
 
-William Sharpe's contributions have significantly influenced the development of fintech and [algorithmic trading](../a/accountability.md). Modern trading platforms and robo-advisors heavily rely on the principles derived from CAPM, APT, and the [Sharpe Ratio](../s/sharpe_ratio.md) for constructing optimized portfolios, managing risks, and enhancing returns.
+William Sharpe's contributions have significantly influenced the development of fintech and [algorithmic trading](../a/algorithmic_trading.md). Modern trading platforms and robo-advisors heavily rely on the principles derived from CAPM, APT, and the [Sharpe Ratio](../s/sharpe_ratio.md) for constructing optimized portfolios, managing risks, and enhancing returns.
 
 ### Risk Management
 
-[Algorithmic trading](../a/accountability.md) systems use Sharpe's [risk management frameworks](../r/risk_management_frameworks.md) to develop strategies that can adapt to [market](../m/market.md) fluctuations dynamically. [Beta](../b/beta.md) values from CAPM help in understanding systematic risks, while the [multi-factor models](../m/multi-factor_models.md) from APT [offer](../o/offer.md) a more diversified analysis of [risk](../r/risk.md) sources.
+[Algorithmic trading](../a/algorithmic_trading.md) systems use Sharpe's [risk management frameworks](../r/risk_management_frameworks.md) to develop strategies that can adapt to [market](../m/market.md) fluctuations dynamically. [Beta](../b/beta.md) values from CAPM help in understanding systematic risks, while the [multi-factor models](../m/multi-factor_models.md) from APT [offer](../o/offer.md) a more diversified analysis of [risk](../r/risk.md) sources.
 
 ### Credit Risk and Default Prediction
 
@@ -94,6 +93,6 @@ Sharpe's models are fundamental in [portfolio optimization](../p/portfolio_optim
 
 ## Conclusion
 
-William F. Sharpe's groundbreaking work has become foundational in the fields of [finance](../f/finance.md), investment, and [risk management](../r/risk_management.md). His theories and models continue to be highly relevant in today's advanced trading environments and fintech solutions. Whether through CAPM, APT, or the [Sharpe Ratio](../s/sharpe_ratio.md), his contributions have enriched the understanding of [financial markets](../f/financial_market.md) and [will](../w/will.md) continue to influence future innovations in [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md).
+William F. Sharpe's groundbreaking work has become foundational in the fields of [finance](../f/finance.md), investment, and [risk management](../r/risk_management.md). His theories and models continue to be highly relevant in today's advanced trading environments and fintech solutions. Whether through CAPM, APT, or the [Sharpe Ratio](../s/sharpe_ratio.md), his contributions have enriched the understanding of [financial markets](../f/financial_market.md) and [will](../w/will.md) continue to influence future innovations in [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md).
 
-To learn more about his ongoing research and published work, you can visit his [Stanford University Profile](https://www.stanford.edu/~wfsharpe/).
+To learn more about his ongoing research and published work, you can visit his Stanford University Profile.

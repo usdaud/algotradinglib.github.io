@@ -38,11 +38,11 @@ The carry [trade](../t/trade.md) strategy has been significantly shaped by histo
 
 Some financial firms specialize in algorithmic and traditional [trading strategies](../t/trading_strategies.md), including carry [trade](../t/trade.md). These firms often use advanced models to manage the risks associated with carry trades:
 
-1. **Bridgewater Associates**: Bridgewater employs a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including [relative value](../r/relative_value.md) and macro-economic [investing](../i/investing.md), which can encompass elements of carry [trade](../t/trade.md). For more information, visit [Bridgewater Associates](https://www.bwater.com/).
+1. **Bridgewater Associates**: Bridgewater employs a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including [relative value](../r/relative_value.md) and macro-economic [investing](../i/investing.md), which can encompass elements of carry [trade](../t/trade.md). For more information, visit Bridgewater Associates.
 
-2. **AQR [Capital](../c/capital.md) Management**: AQR employs quantitative methods to explore various strategies, likely including carry trades as part of their tactical [asset allocation](../a/asset_allocation.md) and [currency](../c/currency.md) management. For more details, visit [AQR Capital Management](https://www.aqr.com/).
+2. **AQR [Capital](../c/capital.md) Management**: AQR employs quantitative methods to explore various strategies, likely including carry trades as part of their tactical [asset allocation](../a/asset_allocation.md) and [currency](../c/currency.md) management. For more details, visit AQR Capital Management.
 
-3. **Winton Group**: Winton Group uses statistical and mathematical techniques to uncover profitable [trading strategies](../t/trading_strategies.md), and they may engage in carry trades as part of their global macroeconomic strategies. Learn more at [Winton Group](https://www.winton.com/).
+3. **Winton Group**: Winton Group uses statistical and mathematical techniques to uncover profitable [trading strategies](../t/trading_strategies.md), and they may engage in carry trades as part of their global macroeconomic strategies. Learn more at Winton Group.
 
 ## Algorithmic Implementation of Carry Trade
 
@@ -58,4 +58,4 @@ Algorithmic or algo-trading can enhance the [efficiency](../e/efficiency.md) and
 
 ## Conclusion
 
-Carry [trade](../t/trade.md) remains a popular strategy due to its potential for profits from [interest rate](../i/interest_rate.md) differentials. However, it's fraught with risks, especially related to [currency](../c/currency.md) fluctuations and [interest rate](../i/interest_rate.md) changes. By leveraging [algorithmic trading](../a/algorithmic_trading.md), traders can enhance their ability to identify, execute, and manage carry trades more effectively, though the inherent risks of the strategy remain. Financial firms like Bridgewater Associates, AQR [Capital](../c/capital.md) Management, and Winton Group might employ such tactics, blending traditional insights with advanced quantitative techniques to optimize performance in global markets.
+Carry [trade](../t/trade.md) remains a popular strategy due to its potential for profits from [interest rate](../i/interest_rate.md) differentials. However, it's fraught with risks, especially related to [currency](../c/currency.md) fluctuations and [interest rate](../i/interest_rate.md) changes. By leveraging [algorithmic trading](../a/algorithmic_trading.md), traders can enhance their ability to identify, execute, and manage carry trades more effectively, though the inherent risks of the strategy remain. Financial firms like Bridgewater Associates, AQR [Capital](../c/capital.md) Management, and Winton Group might employ such tactics, blending traditional insights with advanced quantitative techniques to optimize performance in global markets.

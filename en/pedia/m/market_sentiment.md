@@ -49,7 +49,7 @@ In recent years, advancements in technology and [data analytics](../d/data_analy
 [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often incorporate [sentiment analysis](../s/sentiment_analysis.md) to make informed trading decisions. By using algorithms to analyze sentiment data, traders can quickly identify and react to changes in [market](../m/market.md) sentiment, potentially gaining a competitive edge.
 
 **Example Company: Kensho Technologies**
-[Kensho Technologies](https://www.kensho.com/), a subsidiary of S&P Global, provides advanced analytics, including [market sentiment analysis](../m/market_sentiment_analysis.md), through the use of AI and [machine learning](../m/machine_learning.md).
+Kensho Technologies, a subsidiary of S&P Global, provides advanced analytics, including [market sentiment analysis](../m/market_sentiment_analysis.md), through the use of AI and [machine learning](../m/machine_learning.md).
 
 ## Sentiment in Different Financial Markets
 
@@ -76,21 +76,21 @@ In the relatively new and highly volatile cryptocurrency markets, [sentiment ana
 Many modern trading platforms [offer](../o/offer.md) built-in tools for [sentiment analysis](../s/sentiment_analysis.md). These tools might provide sentiment scores, news feeds, and [social media sentiment](../s/social_media_sentiment.md) to help traders make informed decisions.
 
 **Example Platform: MetaTrader 5**
-[MetaTrader 5](https://www.metatrader5.com/) offers a suite of tools, including [sentiment indicators](../s/sentiment_indicators.md), to aid traders in analyzing [market](../m/market.md) mood and making data-driven decisions.
+MetaTrader 5 offers a suite of tools, including [sentiment indicators](../s/sentiment_indicators.md), to aid traders in analyzing [market](../m/market.md) mood and making data-driven decisions.
 
 ### Sentiment Analysis Software
 
 Specialized software for [sentiment analysis](../s/sentiment_analysis.md) can provide more advanced features such as real-time sentiment tracking, historical sentiment data, and integration with [trading systems](../t/trading_systems.md).
 
 **Example Software: Sentiment [Trader](../t/trader.md)**
-[Sentiment Trader](https://www.sentimenttrader.com/) offers tools to analyze [market](../m/market.md) sentiment through various indicators and [market](../m/market.md) data, helping traders to understand the [underlying](../u/underlying.md) mood of the [market](../m/market.md).
+Sentiment Trader offers tools to analyze [market](../m/market.md) sentiment through various indicators and [market](../m/market.md) data, helping traders to understand the [underlying](../u/underlying.md) mood of the [market](../m/market.md).
 
 ### APIs and Data Feeds
 
-For those inclined towards [algorithmic trading](../a/accountability.md), APIs and data feeds can [offer](../o/offer.md) the raw sentiment data needed for building sophisticated [trading algorithms](../t/trading_algorithms.md). These services provide real-time and historical sentiment data, often based on [social media](../s/social_media.md), news, and other data sources.
+For those inclined towards [algorithmic trading](../a/algorithmic_trading.md), APIs and data feeds can [offer](../o/offer.md) the raw sentiment data needed for building sophisticated [trading algorithms](../t/trading_algorithms.md). These services provide real-time and historical sentiment data, often based on [social media](../s/social_media.md), news, and other data sources.
 
 **Example API: [Alpha](../a/alpha.md) Vantage**
-[Alpha Vantage](https://www.alphavantage.co/) provides APIs that [offer](../o/offer.md) comprehensive [sentiment analysis](../s/sentiment_analysis.md) data, which can be integrated into [trading systems](../t/trading_systems.md) for more informed decision-making.
+Alpha Vantage provides APIs that [offer](../o/offer.md) comprehensive [sentiment analysis](../s/sentiment_analysis.md) data, which can be integrated into [trading systems](../t/trading_systems.md) for more informed decision-making.
 
 ## Impact of Market Sentiment
 

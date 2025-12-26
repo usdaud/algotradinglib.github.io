@@ -5,7 +5,7 @@ Growth [stocks](../s/stock.md) represent [shares](../s/shares.md) in companies t
 ### Characteristics of Growth Stocks
 
 1. **High [Revenue](../r/revenue.md) and [Earnings](../e/earnings.md) Growth**: Growth [stocks](../s/stock.md) tend to have higher-than-average [revenue](../r/revenue.md) and [earnings](../e/earnings.md) growth. This is a key differentiator from [value](../v/value.md) [stocks](../s/stock.md), which may grow more slowly but are typically more established and may [offer](../o/offer.md) dividends.
-   
+
 2. **[Reinvestment](../r/reinvestment.md) into [Business](../b/business.md)**: These companies typically reinvest profits back into the [business](../b/business.md) to fuel further growth. Investments may be directed towards research and development, [expansion](../e/expansion.md) into new markets, or acquisitions of other companies.
 
 3. **Innovative Operations**: Growth companies often operate in innovative and rapidly evolving industries, such as technology and healthcare, where they can take advantage of shifts in [market](../m/market.md) trends and consumer [demand](../d/demand.md).
@@ -36,13 +36,13 @@ Growth [stocks](../s/stock.md) represent [shares](../s/shares.md) in companies t
 
 ### Examples of Successful Growth Stocks
 
-1. **Amazon (AMZN)**: Amazon exemplifies a [growth stock](../g/growth_stock.md) with its continual investment in new [business](../b/business.md) areas, such as [cloud computing](../c/cloud_computing_in_trading.md) (Amazon Web Services) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), leading to substantial [revenue](../r/revenue.md) growth over the years. More information can be found on [Amazon's investor relations page](https://www.amazon.com/ir).
+1. **Amazon (AMZN)**: Amazon exemplifies a [growth stock](../g/growth_stock.md) with its continual investment in new [business](../b/business.md) areas, such as [cloud computing](../c/cloud_computing_in_trading.md) (Amazon Web Services) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), leading to substantial [revenue](../r/revenue.md) growth over the years.
 
-2. **Tesla (TSLA)**: Tesla's focus on electric vehicles and sustainable energy has led to explosive [revenue](../r/revenue.md) growth and innovation in the automotive [industry](../i/industry.md). Tesla continues to expand its [market](../m/market.md) reach and product offerings. Details are available on [Tesla's investor relations page](https://ir.tesla.com).
+2. **Tesla (TSLA)**: Tesla's focus on electric vehicles and sustainable energy has led to explosive [revenue](../r/revenue.md) growth and innovation in the automotive [industry](../i/industry.md). Tesla continues to expand its [market](../m/market.md) reach and product offerings. Details are available on Tesla's company filings.
 
-3. **NVIDIA (NVDA)**: NVIDIA has witnessed significant growth due to its [leadership](../l/leadership.md) in graphics processing units (GPUs) and its entrance into AI and data center markets. Their story is detailed on [NVIDIA's investor relations page](https://investor.nvidia.com).
+3. **NVIDIA (NVDA)**: NVIDIA has witnessed significant growth due to its [leadership](../l/leadership.md) in graphics processing units (GPUs) and its entrance into AI and data center markets. Their story is detailed on NVIDIA's company filings.
 
-4. **Alphabet (GOOGL)**: Alphabet, Google's [parent company](../p/parent_company.md), has shown substantial growth through its dominance in search engines and [expansion](../e/expansion.md) into various technology sectors, such as [cloud computing](../c/cloud_computing_in_trading.md) and autonomous driving. Visit [Alphabet's investor relations page](https://abc.xyz/investor).
+4. **Alphabet (GOOGL)**: Alphabet, Google's [parent company](../p/parent_company.md), has shown substantial growth through its dominance in search engines and [expansion](../e/expansion.md) into various technology sectors, such as [cloud computing](../c/cloud_computing_in_trading.md) and autonomous driving.
 
 ### Factors Influencing Growth Stock Performance
 

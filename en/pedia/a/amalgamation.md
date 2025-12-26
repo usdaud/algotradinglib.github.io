@@ -22,17 +22,17 @@ Amalgamation in the context of [algorithmic trading](../a/accountability.md) ref
 
 1.5 **[Sentiment Analysis](../s/sentiment_analysis.md)-Based Strategies**
 
-[Sentiment analysis](../s/sentiment_analysis.md)-based strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to analyze news articles, [social media](../s/social_media.md), and other textual data to gauge [market sentiment](../m/market_sentiment.md). These strategies aim to predict [market](../m/market.md) movements by interpreting the collective sentiment of [market](../m/market.md) participants. Tools like R, Python with NLP libraries, and specialized platforms such as [Thomson Reuters MarketPsych Indices](https://www.refinitiv.com/en/financial-data/market-data/marketpsych-indices) are commonly used.
+[Sentiment analysis](../s/sentiment_analysis.md)-based strategies use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to analyze news articles, [social media](../s/social_media.md), and other textual data to gauge [market sentiment](../m/market_sentiment.md). These strategies aim to predict [market](../m/market.md) movements by interpreting the collective sentiment of [market](../m/market.md) participants. Tools like R, Python with NLP libraries, and specialized platforms such as Thomson Reuters MarketPsych Indices are commonly used.
 
 ## 2. **Data Sources and Integration**
 
 2.1 **[Market](../m/market.md) Data**
 
-[Market](../m/market.md) data includes real-time and historical price, [volume](../v/volume.md), and [order book](../o/order_book.md) information. Accurate and timely [market](../m/market.md) data is crucial for developing and executing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Sources include exchanges, financial data providers like [Bloomberg](https://www.bloomberg.com/professional/product/execution-order-management/), and proprietary data feeds.
+[Market](../m/market.md) data includes real-time and historical price, [volume](../v/volume.md), and [order book](../o/order_book.md) information. Accurate and timely [market](../m/market.md) data is crucial for developing and executing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Sources include exchanges, financial data providers like Bloomberg, and proprietary data feeds.
 
 2.2 **[Alternative Data](../a/alternative_data.md)**
 
-[Alternative data](../a/alternative_data.md) refers to [non-traditional data sources](../n/non-traditional_data_sources.md) that provide unique insights into [market](../m/market.md) behavior. Examples include [social media sentiment](../s/social_media_sentiment.md), weather data, satellite imagery, and web scraping. Companies like [Quandl](https://www.quandl.com/) specialize in providing [alternative data](../a/alternative_data.md) for [financial modeling](../f/financial_modeling.md) and trading.
+[Alternative data](../a/alternative_data.md) refers to [non-traditional data sources](../n/non-traditional_data_sources.md) that provide unique insights into [market](../m/market.md) behavior. Examples include [social media sentiment](../s/social_media_sentiment.md), weather data, satellite imagery, and web scraping. Companies like Quandl specialize in providing [alternative data](../a/alternative_data.md) for [financial modeling](../f/financial_modeling.md) and trading.
 
 2.3 **Fundamental Data**
 
@@ -42,19 +42,19 @@ Fundamental data encompasses [financial statements](../f/financial_statements.md
 
 3.1 **[Execution](../e/execution.md) Management Systems (EMS)**
 
-EMS platforms facilitate [order routing](../o/order_routing.md), [execution](../e/execution.md), and management. They provide traders with access to [multiple](../m/multiple.md) [liquidity pools](../l/liquidity_pools.md), advanced [order types](../o/order_types_in_trading.md), and [execution algorithms](../e/execution_algorithms.md). Examples include [FlexTrade](https://flextrade.com/) and [Portware](https://www.factset.com/portware).
+EMS platforms facilitate [order routing](../o/order_routing.md), [execution](../e/execution.md), and management. They provide traders with access to [multiple](../m/multiple.md) [liquidity pools](../l/liquidity_pools.md), advanced [order types](../o/order_types_in_trading.md), and [execution algorithms](../e/execution_algorithms.md). Examples include FlexTrade and Portware.
 
 3.2 **[Order Management Systems](../o/order_management_systems.md) (OMS)**
 
-OMS platforms streamline the [order](../o/order.md) lifecycle from creation to [execution](../e/execution.md) and settlement. They [offer](../o/offer.md) features like [order routing](../o/order_routing.md), compliance checks, and [trade](../t/trade.md) reporting. Leading OMS providers include [Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/) and [Charles River IMS](https://www.crd.com/).
+OMS platforms streamline the [order](../o/order.md) lifecycle from creation to [execution](../e/execution.md) and settlement. They [offer](../o/offer.md) features like [order routing](../o/order_routing.md), compliance checks, and [trade](../t/trade.md) reporting. Leading OMS providers include Bloomberg AIM and Charles River IMS.
 
 3.3 **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md)**
 
-[Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) enable the development, testing, and deployment of [trading algorithms](../t/trading_algorithms.md). These platforms provide [backtesting](../b/backtesting.md) tools, [market](../m/market.md) [data integration](../d/data_integration.md), and [execution](../e/execution.md) capabilities. Popular [options](../o/options.md) include [MetaTrader](https://www.metatrader5.com/en) and [NinjaTrader](https://ninjatrader.com/).
+[Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) enable the development, testing, and deployment of [trading algorithms](../t/trading_algorithms.md). These platforms provide [backtesting](../b/backtesting.md) tools, [market](../m/market.md) [data integration](../d/data_integration.md), and [execution](../e/execution.md) capabilities. Popular [options](../o/options.md) include MetaTrader and NinjaTrader.
 
 3.4 **[Cloud Computing](../c/cloud_computing_in_trading.md) and High-Performance Computing (HPC)**
 
-[Cloud computing](../c/cloud_computing_in_trading.md) and HPC provide scalable and cost-effective solutions for computationally intensive tasks like [backtesting](../b/backtesting.md), simulations, and real-time data processing. Leading cloud providers include [Amazon Web Services (AWS)](https://aws.amazon.com/fintech/trading-and-investment/) and [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/financial-services/).
+[Cloud computing](../c/cloud_computing_in_trading.md) and HPC provide scalable and cost-effective solutions for computationally intensive tasks like [backtesting](../b/backtesting.md), simulations, and real-time data processing. Leading cloud providers include Amazon Web Services (AWS) and Microsoft Azure.
 
 ## 4. **Risk Management and Compliance**
 
@@ -102,15 +102,15 @@ Walk-forward testing is a [robust](../r/robust.md) method for evaluating [tradin
 
 7.1 **High-Frequency Trading (HFT)**
 
-High-frequency trading involves executing a large number of orders at extremely high speeds, often measured in microseconds. HFT firms employ sophisticated algorithms, low-latency networks, and co-location services to [gain](../g/gain.md) a competitive edge. Companies like [Virtu Financial](https://www.virtu.com/) and [Citadel Securities](https://www.citadelsecurities.com/) are leaders in the HFT space.
+High-frequency trading involves executing a large number of orders at extremely high speeds, often measured in microseconds. HFT firms employ sophisticated algorithms, low-latency networks, and co-location services to [gain](../g/gain.md) a competitive edge. Companies like Virtu Financial and Citadel Securities are leaders in the HFT space.
 
 7.2 **[Quantitative Hedge Funds](../q/quantitative_hedge_funds.md)**
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) use [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to generate [alpha](../a/alpha.md). These funds employ teams of quantitative analysts, data scientists, and engineers to develop and implement complex models. Notable examples include [Renaissance Technologies](https://www.rentec.com/) and [Two Sigma](https://www.twosigma.com/).
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) use [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to generate [alpha](../a/alpha.md). These funds employ teams of quantitative analysts, data scientists, and engineers to develop and implement complex models. Notable examples include Renaissance Technologies and Two Sigma.
 
 7.3 **Retail [Algorithmic Trading](../a/accountability.md)**
 
-Retail traders can also benefit from [algorithmic trading](../a/accountability.md) through platforms like [Interactive Brokers](https://www.interactivebrokers.com/) and [Thinkorswim](https://tickertape.tdameritrade.com/tools/thinkorswim). These platforms provide access to [algorithmic trading](../a/accountability.md) tools, [market](../m/market.md) data, and [execution](../e/execution.md) capabilities for individual traders.
+Retail traders can also benefit from [algorithmic trading](../a/accountability.md) through platforms like Interactive Brokers and Thinkorswim. These platforms provide access to [algorithmic trading](../a/accountability.md) tools, [market](../m/market.md) data, and [execution](../e/execution.md) capabilities for individual traders.
 
 ## 8. **Challenges and Future Directions**
 

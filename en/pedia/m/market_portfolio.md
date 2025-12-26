@@ -31,9 +31,7 @@ Where:
 In practice, while the true [market](../m/market.md) portfolio is undefinable due to the vast array of global assets and their constant evolution, proxies like broad [stock market](../s/stock_market.md) indices (e.g., S&P 500, MSCI World [Index](../i/index_instrument.md)) are often used. These indices are [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md) and serve as close approximations.
 
 For example:
-- **S&P Dow Jones Indices**: [www.spglobal.com/spdji/en/](https://www.spglobal.com/spdji/en/)
-- **MSCI**: [www.msci.com](https://www.msci.com)
-
+- **S&P Dow Jones Indices**- **MSCI**
 ## Diversification Benefits
 
 The [market](../m/market.md) portfolio exemplifies perfect [diversification](../d/diversification.md), eliminating [unsystematic risk](../u/unsystematic_risk.md) (specific to individual assets). The remaining [risk](../r/risk.md) is the [systematic risk](../s/systematic_risk.md) inherent to the [market](../m/market.md).
@@ -75,4 +73,3 @@ Despite its theoretical importance, the [market](../m/market.md) portfolio faces
 ## Conclusion
 
 The [market](../m/market.md) portfolio remains a vital theoretical construct in [finance](../f/finance.md), [offering](../o/offering.md) insights into [diversification](../d/diversification.md), [risk management](../r/risk_management.md), and [asset](../a/asset.md) pricing. While its real-world exactitude is unattainable, proxies and models derived from its principles continue to guide investors and academia in understanding [market dynamics](../m/market_dynamics.md) and investment strategies.
-

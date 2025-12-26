@@ -60,4 +60,4 @@ For investors, a U-shaped recovery may represent opportunities to invest in sect
 
 A U-shaped recovery represents a prolonged period of economic decline followed by a gradual and sustained recovery. Understanding the characteristics, contributing factors, and implications of a U-shaped recovery can help policymakers, businesses, and investors navigate through challenging economic environments. While the recovery may be slower, it often leads to more stable and sustainable [economic growth](../e/economic_growth.md) in the [long run](../l/long_run.md).
 
-For more information on how businesses adapt their strategies during different [economic recovery](../e/economic_recovery.md) shapes, you can explore resources provided by [business](../b/business.md) consultancy firms such as [McKinsey & Company](https://www.mckinsey.com).
+For more information on how businesses adapt their strategies during different [economic recovery](../e/economic_recovery.md) shapes, you can explore resources provided by [business](../b/business.md) consultancy firms such as McKinsey & Company.

@@ -42,12 +42,12 @@ While not unique to OCO orders, [commission](../c/commission.md) costs can add u
 ## Implementation in Trading Platforms
 Most advanced trading platforms support OCO orders, including:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)** – [interactivebrokers.com](https://www.interactivebrokers.com)
-- **MetaTrader 4 and 5** – [metatrader4.com](https://www.metatrader4.com)
-- **[Binance](../b/binance.md)** – [binance.com](https://www.binance.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)** – interactivebrokers.com
+- **MetaTrader 4 and 5** – metatrader4.com
+- **[Binance](../b/binance.md)** – binance.com
 
 ## Algorithmic Trading and OCO Orders
-In [algorithmic trading](../a/accountability.md), OCO orders can be part of [automated trading systems](../a/automated_trading_systems.md) designed to execute trades based on pre-defined strategies. Algorithms can be set up to submit OCO orders when specific [technical indicators](../t/technical_indicator.md) or [market](../m/market.md) conditions are met, thus ensuring that [risk management](../r/risk_management.md) parameters are adhered to programmatically.
+In [algorithmic trading](../a/algorithmic_trading.md), OCO orders can be part of [automated trading systems](../a/automated_trading_systems.md) designed to execute trades based on pre-defined strategies. Algorithms can be set up to submit OCO orders when specific [technical indicators](../t/technical_indicator.md) or [market](../m/market.md) conditions are met, thus ensuring that [risk management](../r/risk_management.md) parameters are adhered to programmatically.
 
 ### Sample Algorithm
 Below is a simplistic example of an algorithm written in Python using the `ccxt` library to place an OCO [order](../o/order.md) on a hypothetical [exchange](../e/exchange.md):

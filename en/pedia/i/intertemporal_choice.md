@@ -8,9 +8,9 @@ The concept is rooted in the notion that people [value](../v/value.md) rewards d
 
 The Discounted [Utility](../u/utility.md) Model (DU) proposed by Paul Samuelson in 1937 is one of the foundational models used to describe intertemporal choice. According to this model, the [value](../v/value.md) of future [utility](../u/utility.md) decreases in proportion to its delay. The model envisages [utility](../u/utility.md) over time as follows:
 
-\[ DU = \sum_{t=0}^{T} \frac{U_t}{(1 + \[rho](../r/rho.md))^t} \]
+\[ DU = \sum_{t=0}^{T} \frac{U_t}{(1 + \rho)^t} \]
 
-where \(U_t\) is the [utility](../u/utility.md) at time \(t\), \(T\) is the [time horizon](../t/time_horizon.md), and \(\[rho](../r/rho.md)\) is the [discount rate](../d/discount_rate.md).
+where \(U_t\) is the [utility](../u/utility.md) at time \(t\), \(T\) is the [time horizon](../t/time_horizon.md), and \(\rho\) is the [discount rate](../d/discount_rate.md).
 
 The model assumes a consistent [discount rate](../d/discount_rate.md) over time and posits that individuals rationally evaluate the [trade](../t/trade.md)-offs between present and future [utility](../u/utility.md) based on this constant rate. While the DU model provides a useful framework, empirical evidence suggests that actual human behavior often deviates from the assumptions of constant [discounting](../d/discounting.md), introducing the need for alternative models.
 
@@ -28,9 +28,9 @@ Hyperbolic [discounting](../d/discounting.md) accounts for the preference revers
 
 Quasi-hyperbolic [discounting](../d/discounting.md), introduced by Laibson (1997), integrates aspects of both exponential and hyperbolic [discounting](../d/discounting.md). It modifies the DU model to better reflect the tendency of individuals to strongly prefer immediate rewards. The model is expressed as:
 
-\[ V = V_0 + \[beta](../b/beta.md) \sum_{t=1}^{T} \frac{V_t}{(1 + \[rho](../r/rho.md))^t} \]
+\[ V = V_0 + \beta \sum_{t=1}^{T} \frac{V_t}{(1 + \rho)^t} \]
 
-where \(\[beta](../b/beta.md)\) represents the present-bias [factor](../f/factor.md) (0 < \(\[beta](../b/beta.md)\) < 1).
+where \(\beta\) represents the present-bias [factor](../f/factor.md) (0 < \(\beta\) < 1).
 
 This model incorporates a short-term [discount](../d/discount.md) [factor](../f/factor.md) that declines more steeply for immediate time periods while converging to the exponential [discounting](../d/discounting.md) model for longer time horizons, thereby capturing both the present bias and the long-term planning behavior.
 

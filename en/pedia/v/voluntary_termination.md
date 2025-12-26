@@ -94,7 +94,7 @@ Google, a subsidiary of Alphabet Inc., is renowned for its innovative approach t
 - **Compensation:** Competitive salaries and comprehensive benefits packages, including [health insurance](../h/health_insurance.md), retirement plans, and stock [options](../o/options.md).
 - **Work-Life Balance:** Google provides flexible working hours and remote work [options](../o/options.md), supporting a balanced lifestyle for its employees.
 
-By focusing on these areas, Google has been able to maintain high levels of employee satisfaction and reduce voluntary termination rates. For more details about Google’s approach, visit [Google Careers](https://careers.google.com/).
+By focusing on these areas, Google has been able to maintain high levels of employee satisfaction and reduce voluntary termination rates. For more details about Google’s approach, visit Google Careers.
 
 ## Conclusion
 

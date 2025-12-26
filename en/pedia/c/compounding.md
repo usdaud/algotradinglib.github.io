@@ -1,6 +1,6 @@
 # Compounding
 
-Compounding, also known as [compound interest](../c/compound_interest_in_trading.md) or compounding returns, is a fundamental financial concept where returns on an investment are reinvested to generate additional [earnings](../e/earnings.md) over time. Essentially, compounding refers to the process of earning [interest](../i/interest.md) on both the initial [principal](../p/principal.md) and the accumulated [interest](../i/interest.md) from previous periods. This principle can significantly enhance investment growth over time due to the exponential increase in returns. 
+Compounding, also known as [compound interest](../c/compound_interest_in_trading.md) or compounding returns, is a fundamental financial concept where returns on an investment are reinvested to generate additional [earnings](../e/earnings.md) over time. Essentially, compounding refers to the process of earning [interest](../i/interest.md) on both the initial [principal](../p/principal.md) and the accumulated [interest](../i/interest.md) from previous periods. This principle can significantly enhance investment growth over time due to the exponential increase in returns.
 
 In the context of [algorithmic trading](../a/accountability.md), compounding becomes extremely relevant for long-term strategy formulation and [execution](../e/execution.md), as it lays the foundation for generating substantial [wealth](../w/wealth.md) from [systematic trading](../s/systematic_trading.md) activities. [Algorithmic trading](../a/accountability.md), or algo-trading, involves the use of pre-programmed instructions or algorithms to undertake financial transactions at high speed and [volume](../v/volume.md) with minimal human intervention.
 
@@ -46,7 +46,7 @@ The compounded total after 5 years is approximately $16,105, compared to $15,000
 
 For an algorithmic [trader](../t/trader.md), the compounding strategy might involve reinvesting the [earnings](../e/earnings.md) of a high-frequency trading algorithm. Given that algos can execute thousands of trades per day, each yielding small but consistent profits, the compounding effect can be powerful even over short time frames.
 
-Platforms and tools used by algorithmic traders often provide [options](../o/options.md) to set [reinvestment](../r/reinvestment.md) rules automatically. Traders using platforms like [Interactive Brokers](../i/interactive_brokers.md) ([link](https://www.interactivebrokers.com/)) or MetaTrader ([link](https://www.metatrader4.com/)) may program their algorithms to reinvest profits based on predefined criteria.
+Platforms and tools used by algorithmic traders often provide [options](../o/options.md) to set [reinvestment](../r/reinvestment.md) rules automatically. Traders using platforms like [Interactive Brokers](../i/interactive_brokers.md) (link) or MetaTrader (link) may program their algorithms to reinvest profits based on predefined criteria.
 
 ## Benefits of Compounding in Algorithmic Trading
 

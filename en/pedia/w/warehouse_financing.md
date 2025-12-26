@@ -80,7 +80,7 @@ One primary concern is the accurate [valuation](../v/valuation.md) of the [inven
 
 [Liquidity](../l/liquidity.md) depends on how quickly [inventory](../i/inventory.md) can be converted into cash. Slow-moving or perishable goods present heightened risks.
 
-### Legal and Regulatory Constraints  
+### Legal and Regulatory Constraints
 
 Warehouse [financing](../f/financing.md) must navigate various legal and regulatory challenges, particularly in international [trade](../t/trade.md) contexts. Compliance with regional laws can be complex.
 
@@ -100,7 +100,7 @@ A retailer with significant seasonal [inventory](../i/inventory.md) could [lever
 
 ### Case Study: Manufacturing
 
-A [manufacturing](../m/manufacturing.md) [firm](../f/firm.md) may have a significant amount of unsold goods held as [inventory](../i/inventory.md). In a synthetic warehouse [financing](../f/financing.md) structure, the [firm](../f/firm.md) uses future production as a [collateral](../c/collateral.md) base, enabling operational [cash flow](../c/cash_flow.md) without physical [inventory](../i/inventory.md) movement. 
+A [manufacturing](../m/manufacturing.md) [firm](../f/firm.md) may have a significant amount of unsold goods held as [inventory](../i/inventory.md). In a synthetic warehouse [financing](../f/financing.md) structure, the [firm](../f/firm.md) uses future production as a [collateral](../c/collateral.md) base, enabling operational [cash flow](../c/cash_flow.md) without physical [inventory](../i/inventory.md) movement.
 
 ## Technological Innovations in Warehouse Financing
 
@@ -118,7 +118,7 @@ AI algorithms can optimize [inventory management](../i/inventory_management.md),
 
 ### Fintech Solutions
 
-Fintech platforms can bridge the gap between borrowers and lenders more efficiently, [offering](../o/offering.md) streamlined processes for [loan](../l/loan.md) applications, [inventory](../i/inventory.md) verification, and agreement enforcement. For instance, companies like [TradeIX](https://www.tradeix.com/) [offer](../o/offer.md) [blockchain](../b/blockchain_in_trading.md)-powered solutions to improve [transparency](../t/transparency.md) and traceability in [trade finance](../t/trade_finance.md).
+Fintech platforms can bridge the gap between borrowers and lenders more efficiently, [offering](../o/offering.md) streamlined processes for [loan](../l/loan.md) applications, [inventory](../i/inventory.md) verification, and agreement enforcement. For instance, companies like TradeIX [offer](../o/offer.md) [blockchain](../b/blockchain_in_trading.md)-powered solutions to improve [transparency](../t/transparency.md) and traceability in [trade finance](../t/trade_finance.md).
 
 ## Conclusion
 

@@ -55,9 +55,8 @@ Several key stakeholders are involved in the process of a Whitewash Resolution:
 ## Case Studies
 
 1. **Clarke v Dunraven:** A significant case in the UK where the court ruled on the necessity of Whitewash Resolutions in share transactions.
-2. **Alibaba Group:** In 2019, Alibaba issued a Whitewash Resolution as part of their strategic financial [restructuring](../r/restructuring.md) plan (https://www.alibabagroup.com).
+2. **Alibaba Group:** In 2019, Alibaba issued a Whitewash Resolution as part of their strategic financial [restructuring](../r/restructuring.md) plan (
 
 ## Conclusion
 
 Whitewash Resolutions are an indispensable tool in the [corporate finance](../c/corporate_finance.md) toolkit, allowing companies to execute transactions that would otherwise trigger burdensome [takeover](../t/takeover.md) provisions. While they [offer](../o/offer.md) significant advantages in terms of flexibility and cost savings, they also require careful navigation of regulatory and [shareholder](../s/shareholder.md) approval processes. Understanding the intricacies of Whitewash Resolutions is crucial for corporate leaders, [finance](../f/finance.md) professionals, and shareholders alike to ensure optimal outcomes in M&A and [capital](../c/capital.md)-raising activities.
-

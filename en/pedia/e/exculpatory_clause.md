@@ -8,7 +8,7 @@ An exculpatory clause is a type of contractual [provision](../p/provision.md) th
 ## Legal Validity
 The enforceability of exculpatory clauses can vary greatly depending on the jurisdiction and the specific context of the agreement. While they are generally allowed, courts often scrutinize them closely. Factors considered include:
 - **Clarity and Conspicuousness**: The clause must be clearly and conspicuously stated so that an average person would notice and understand it.
-- **Public Policy**: An exculpatory clause that violates public policy, such as an attempt to waive [liability](../l/liability.md) for gross negligence or intentional harm, is likely to be unenforceable. 
+- **Public Policy**: An exculpatory clause that violates public policy, such as an attempt to waive [liability](../l/liability.md) for gross negligence or intentional harm, is likely to be unenforceable.
 - **Bargaining Power**: If there is a significant imbalance in bargaining power between the parties, the clause may be deemed unconscionable and thus unenforceable.
 - **Specificity**: The clause must specify the types of [liability](../l/liability.md) and damages that are being waived.
 

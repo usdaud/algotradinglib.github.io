@@ -10,15 +10,15 @@
 
 ## Types of Disposition
 1. **Sales**: Selling the [asset](../a/asset.md) to another party in [exchange](../e/exchange.md) for [money](../m/money.md).
-   - **Example**: Selling a piece of [real estate](../r/real_estate.md) or a vehicle.
+ - **Example**: Selling a piece of [real estate](../r/real_estate.md) or a vehicle.
 2. **Donation**: Giving the [asset](../a/asset.md) away, often to a charitable organization.
-   - **Example**: Donating old office equipment to a non-[profit](../p/profit.md) organization.
+ - **Example**: Donating old office equipment to a non-[profit](../p/profit.md) organization.
 3. **Recycling**: Disposing of the [asset](../a/asset.md) in an environmentally friendly way, often by recycling its materials.
-   - **Example**: Recycling electronic waste.
+ - **Example**: Recycling electronic waste.
 4. **Discarding**: Simply getting rid of the [asset](../a/asset.md), often because it has no [value](../v/value.md) or is beyond repair.
-   - **Example**: Throwing away broken furniture.
+ - **Example**: Throwing away broken furniture.
 5. **Transfer**: Transferring ownership of the [asset](../a/asset.md) to another entity, which may be a [business](../b/business.md) transfer, inheritance, or legal transfer.
-   - **Example**: Transferring ownership of [shares](../s/shares.md) to another individual.
+ - **Example**: Transferring ownership of [shares](../s/shares.md) to another individual.
 
 ## Importance
 1. **[Asset Management](../a/asset_management.md)**: Disposition is a key aspect of managing assets, helping organizations and individuals to optimize their [asset](../a/asset.md) portfolios.
@@ -45,4 +45,3 @@
 
 ## Conclusion
 Disposition is an essential process in [asset management](../a/asset_management.md), [financial planning](../f/financial_planning.md), and legal resolution. It involves various methods such as selling, donating, recycling, or transferring assets. Understanding the different types of disposition, their importance, and [best practices](../b/best_practices.md) can help individuals and organizations effectively manage their assets and ensure legal and financial compliance.
-

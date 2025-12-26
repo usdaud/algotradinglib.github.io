@@ -85,15 +85,12 @@ Retail businesses typically face higher risks of bad debts due to a large number
 
 ### Equifax
 Equifax provides [credit](../c/credit.md) information and [risk management](../r/risk_management.md) services, helping businesses mitigate the [risk](../r/risk.md) of bad [debt](../d/debt.md) by assessing consumer [creditworthiness](../c/creditworthiness.md).
-[Equifax](https://www.equifax.com)
 
 ### Experian
 Experian offers [credit](../c/credit.md) reporting services that help companies evaluate potential bad [debt](../d/debt.md) risks associated with extending [credit](../c/credit.md) to consumers and businesses.
-[Experian](https://www.experian.com)
 
 ### Dun & Bradstreet
 Dun & Bradstreet provides commercial data, analytics, and insights that help businesses reduce bad [debt](../d/debt.md) by [offering](../o/offering.md) detailed [credit](../c/credit.md) reports and [risk](../r/risk.md) assessments.
-[Dun & Bradstreet](https://www.dnb.com)
 
 ## Conclusion
 

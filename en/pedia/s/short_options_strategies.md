@@ -114,5 +114,4 @@ Short [options](../o/options.md) strategies inherently carry significant risks, 
 
 Short [options](../o/options.md) strategies [offer](../o/offer.md) a variety of ways to generate [income](../i/income.md) and [profit](../p/profit.md) from [market](../m/market.md) conditions. However, they also come with substantial risks that require careful management and a thorough understanding of the [underlying](../u/underlying.md) mechanics. By leveraging these strategies and implementing [risk management](../r/risk_management.md) practices, traders can effectively utilize short [options](../o/options.md) to enhance their trading portfolios.
 
-For more information on short [options](../o/options.md) strategies or to explore professional trading platforms that support these strategies, consider visiting [Interactive Brokers](https://www.interactivebrokers.com).
-
+For more information on short [options](../o/options.md) strategies or to explore professional trading platforms that support these strategies, consider visiting Interactive Brokers.

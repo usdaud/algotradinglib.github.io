@@ -8,12 +8,12 @@ In [statistics](../s/statistics.md), Type I error, also known as a _false positi
 
 Before diving deep into Type I error, let's briefly comprehend the fundamental concepts of [hypothesis testing](../h/hypothesis_testing.md). In statistical [hypothesis testing](../h/hypothesis_testing.md), a [null hypothesis](../n/null_hypothesis.md) ($H_0$) represents a [default](../d/default.md) position that there is no effect or no difference. The alternative hypothesis ($H_1$ or $H_a$) is the statement being tested that indicates the presence of an effect or difference.
 
-1. **[Null Hypothesis](../n/null_hypothesis.md) ($H_0$)**: The presumption that there is no difference/effect. 
+1. **[Null Hypothesis](../n/null_hypothesis.md) ($H_0$)**: The presumption that there is no difference/effect.
 2. **Alternative Hypothesis ($H_1$ or $H_a$)**: The presumption that there is a difference/effect.
 
 ### Definition of Type I Error
 
-In this context, a Type I error is the error of rejecting the [null hypothesis](../n/null_hypothesis.md) when it is actually true. 
+In this context, a Type I error is the error of rejecting the [null hypothesis](../n/null_hypothesis.md) when it is actually true.
 
 **Type I Error (α):** Probability of rejecting $H_0$ when $H_0$ is true.
 
@@ -36,8 +36,8 @@ Let’s consider a hypothetical trading algorithm designed to predict stock pric
 1. **[Null Hypothesis](../n/null_hypothesis.md) ($H_0$):** There is no significant movement in the stock price.
 2. **Alternative Hypothesis ($H_1$):** There is a significant movement in the stock price.
 
-A Type I error would mean the algorithm indicates a significant stock movement when, in reality, none exists. This could lead to buying or selling stock unnecessarily, possibly resulting in financial losses. 
- 
+A Type I error would mean the algorithm indicates a significant stock movement when, in reality, none exists. This could lead to buying or selling stock unnecessarily, possibly resulting in financial losses.
+
 ### Mitigating Type I Error
 
 To reduce the likelihood of Type I errors:
@@ -59,9 +59,7 @@ Financial data often involves [multiple](../m/multiple.md) testing scenarios, su
 ### Real-World Case Studies
 
 1. **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md):**
-   - **[QuantConnect](../q/quantconnect.md):** https://www.[quantconnect](../q/quantconnect.md).com/
-   - **[Alpaca](../a/alpaca.md):** https://[alpaca](../a/alpaca.md).markets/
-
+ - **[QuantConnect](../q/quantconnect.md):** - **[Alpaca](../a/alpaca.md):**
 These platforms provide environments to develop and test [trading algorithms](../t/trading_algorithms.md). A Type I error could lead to false [trading signals](../t/trading_signals.md), stressing the importance of accurate [hypothesis testing](../h/hypothesis_testing.md) and error management.
 
 ### Conclusion

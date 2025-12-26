@@ -38,7 +38,7 @@ To find the NIRR, one must solve for the [discount rate](../d/discount_rate.md) 
 
 ### Project Evaluation
 
-NIRR is particularly useful in evaluating long-term projects, [real estate](../r/real_estate.md) investments, and [capital](../c/capital.md)-intensive industries where cash flows can vary significantly over time. 
+NIRR is particularly useful in evaluating long-term projects, [real estate](../r/real_estate.md) investments, and [capital](../c/capital.md)-intensive industries where cash flows can vary significantly over time.
 
 ### Portfolio Management
 
@@ -69,6 +69,6 @@ Using financial software or iterative methods, assume we find an NIRR of approxi
 
 Net Internal [Rate of Return](../r/rate_of_return.md) provides a crucial, comprehensive measure for evaluating the profitability and feasibility of investments. By considering all inflows and outflows, it offers a more realistic view of an investment's potential returns. Despite its complexity, NIRR is essential for informed financial decision-making, particularly in environments with fluctuating cash flows.
 
-For more comprehensive details on financial metrics and investment strategies, you can refer to financial management resources or visit [Investopedia](https://www.investopedia.com).
+For more comprehensive details on financial metrics and investment strategies, you can refer to financial management resources or visit Investopedia.
 
 ([Note](../n/note.md): This is a placeholder link; replace with actual relevant links if needed)

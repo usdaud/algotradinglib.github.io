@@ -11,7 +11,7 @@ A single [candlestick](../c/candlestick.md) provides crucial information about t
 2. **Close**: The final price at which the [asset](../a/asset.md) is traded within the time frame.
 3. **High**: The highest price reached within the time frame.
 4. **Low**: The lowest price reached within the time frame.
-   
+
 The body of the [candlestick](../c/candlestick.md) represents the [range](../r/range.md) between the [open](../o/open.md) and close prices. If the close price is higher than the [open](../o/open.md), the [candlestick](../c/candlestick.md) is usually colored green or white (bullish). If the close price is lower than the [open](../o/open.md), the [candlestick](../c/candlestick.md) is typically colored red or black (bearish). The lines extending from the body are called shadows or wicks, indicating the high and low prices during the trading period.
 
 ## Types of Candlestick Patterns
@@ -75,20 +75,20 @@ Modern advancements in [machine learning](../m/machine_learning.md) (ML) and [ar
 
 ### Pattern Recognition Software
 Many trading platforms [offer](../o/offer.md) built-in [pattern recognition](../p/pattern_recognition.md) tools that automatically highlight [candlestick](../c/candlestick.md) patterns on charts:
-- **[TradingView](../t/tradingview.md)**: Offers advanced charting tools and [pattern recognition](../p/pattern_recognition.md) (https://www.[tradingview](../t/tradingview.md).com)
-- **MetaTrader 4/5**: Popular among forex traders, provides custom indicators and [pattern recognition](../p/pattern_recognition.md) (https://www.[metatrader4](../m/metatrader4.md).com)
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md) (https://www.[quantconnect](../q/quantconnect.md).com)
+- **[TradingView](../t/tradingview.md)**: Offers advanced charting tools and [pattern recognition](../p/pattern_recognition.md) (
+- **MetaTrader 4/5**: Popular among forex traders, provides custom indicators and [pattern recognition](../p/pattern_recognition.md) (
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md)
 
 ## Real-World Applications
 [Fund](../f/fund.md) managers, day traders, and retail traders use [candlestick](../c/candlestick.md) patterns as a crucial part of their [trading strategy](../t/trading_strategy.md). [Hedge](../h/hedge.md) funds and [proprietary trading](../p/proprietary_trading.md) firms often integrate these patterns into their [trading models](../t/trading_models.md) to [gain](../g/gain.md) a competitive edge.
 
 ### Case Study: Renaissance Technologies
-Renaissance Technologies, a highly successful [hedge fund](../h/hedge_fund.md), is known for using a combination of [mathematical models](../m/mathematical_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md), including [candlestick](../c/candlestick.md) patterns, in their [trading strategies](../t/trading_strategies.md). (https://www.rentec.com)
+Renaissance Technologies, a highly successful [hedge fund](../h/hedge_fund.md), is known for using a combination of [mathematical models](../m/mathematical_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md), including [candlestick](../c/candlestick.md) patterns, in their [trading strategies](../t/trading_strategies.md). (
 
 ### Educational Resources
 To excel in [candlestick](../c/candlestick.md) pattern analysis, traders often seek education and continuous learning. Resources include books, courses, and mentorship programs:
 - **"Japanese [Candlestick Charting Techniques](../c/candlestick_charting_techniques.md)" by Steve Nison**: Essential reading for understanding [candlestick](../c/candlestick.md) patterns.
-- **Online Trading Academy**: Offers courses on various [trading strategies](../t/trading_strategies.md), including [candlestick](../c/candlestick.md) analysis (https://www.tradingacademy.com)
+- **Online Trading Academy**: Offers courses on various [trading strategies](../t/trading_strategies.md), including [candlestick](../c/candlestick.md) analysis (
 
 ## Conclusion
-[Candlestick](../c/candlestick.md) patterns are a powerful tool in [technical analysis](../t/technical_analysis.md), [offering](../o/offering.md) insights into [market](../m/market.md) behavior and potential price movements. While they can provide valuable signals for traders, it is critical to use them in conjunction with other analysis methods and sound [risk management](../r/risk_management.md) practices to enhance [trading performance](../t/trading_performance.md) and reduce [risk](../r/risk.md).
+[Candlestick](../c/candlestick.md) patterns are a powerful tool in [technical analysis](../t/technical_analysis.md), [offering](../o/offering.md) insights into [market](../m/market.md) behavior and potential price movements. While they can provide valuable signals for traders, it is critical to use them in conjunction with other analysis methods and sound [risk management](../r/risk_management.md) practices to enhance [trading performance](../t/trading_performance.md) and reduce [risk](../r/risk.md).

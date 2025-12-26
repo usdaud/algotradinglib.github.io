@@ -89,26 +89,26 @@ R, known for its statistical computing capabilities, offers packages like quantm
 #### 3. **Trading Platforms and APIs**
 Automated trading platforms and APIs, such as [Interactive Brokers](../i/interactive_brokers.md), MetaTrader, and [QuantConnect](../q/quantconnect.md), [offer](../o/offer.md) [robust](../r/robust.md) environments for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide access to real-time and historical [market](../m/market.md) data, [execution](../e/execution.md) services, and [performance analytics](../p/performance_analytics.md) tools.
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [MetaTrader](https://www.metatrader5.com/)
+- QuantConnect
+- Interactive Brokers
+- MetaTrader
 
 ### Real-World Examples
 
 #### 1. **Bridgewater Associates**
 Bridgewater Associates, founded by Ray Dalio, is a global leader in [hedge fund](../h/hedge_fund.md) management, known for its principle-based approach to trading and [investing](../i/investing.md). The [firm](../f/firm.md) employs sophisticated algorithms to manage large, diversified portfolios and consistently optimize performance.
 
-- [Bridgewater Associates](https://www.bridgewater.com/)
+- Bridgewater Associates
 
 #### 2. **Two Sigma Investments**
 Two Sigma Investments utilizes [machine learning](../m/machine_learning.md), distributed computing, and sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage assets. The [firm](../f/firm.md)'s emphasis on data-driven insights and [algorithmic trading](../a/algorithmic_trading.md) has enabled it to deliver strong portfolio performance.
 
-- [Two Sigma Investments](https://www.twosigma.com/)
+- Two Sigma Investments
 
 #### 3. **Renaissance Technologies**
 Renaissance Technologies, founded by Jim Simons, is renowned for its [quantitative trading](../q/quantitative_trading.md) approach. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), which uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, has achieved unparalleled success in generating high returns.
 
-- [Renaissance Technologies](https://www.rentec.com/)
+- Renaissance Technologies
 
 ### Conclusion
 

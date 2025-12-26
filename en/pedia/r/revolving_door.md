@@ -4,11 +4,11 @@ The term "Revolving Door" is a concept frequently mentioned in discussions relat
 
 ## Understanding the Mechanism
 
-The "Revolving Door" can manifest in various forms: 
+The "Revolving Door" can manifest in various forms:
 
 1. **Regulators to [Industry](../i/industry.md)**: Individuals who previously worked in regulatory agencies move to private companies within the same [industry](../i/industry.md) they once regulated. This transition may occur due to the insider knowledge and contacts these individuals possess, making them valuable to private-sector employers.
-  
-2. **[Industry](../i/industry.md) to Regulators**: Conversely, individuals from private-sector industries take up positions within regulatory agencies. Often referred to as "reverse revolving door," this transition sees [industry](../i/industry.md) experts shaping public policy and regulations. 
+
+2. **[Industry](../i/industry.md) to Regulators**: Conversely, individuals from private-sector industries take up positions within regulatory agencies. Often referred to as "reverse revolving door," this transition sees [industry](../i/industry.md) experts shaping public policy and regulations.
 
 3. **Oscillating Functions**: Sometimes, individuals oscillate between public and private sectors several times throughout their career, contributing to a continuous loop of influence and expertise [exchange](../e/exchange.md).
 
@@ -32,7 +32,7 @@ One notable sector where the Revolving Door phenomenon is prominent is [finance]
 
 **Example:**
 
-Henry Paulson, who served as the [U.S. Treasury](../u/u.s._treasury.md) Secretary from 2006 to 2009, previously worked as the CEO of Goldman Sachs. His tenure at the Treasury coincided with the 2008 [financial crisis](../f/financial_crisis.md), raising questions about potential conflicts of [interest](../i/interest.md) given his extensive background in the [finance](../f/finance.md) [industry](../i/industry.md) ([source](https://www.treasury.gov)).
+Henry Paulson, who served as the [U.S. Treasury](../u/u.s._treasury.md) Secretary from 2006 to 2009, previously worked as the CEO of Goldman Sachs. His tenure at the Treasury coincided with the 2008 [financial crisis](../f/financial_crisis.md), raising questions about potential conflicts of [interest](../i/interest.md) given his extensive background in the [finance](../f/finance.md) [industry](../i/industry.md) (source).
 
 ### Technology Companies
 
@@ -40,7 +40,7 @@ The [technology sector](../t/technology_sector.md) also sees significant revolvi
 
 **Example:**
 
-Marissa Mayer, former CEO of Yahoo, previously held [multiple](../m/multiple.md) [leadership](../l/leadership.md) roles at Google. Transitions like hers highlight the significance of revolving door practices in shaping the strategic directions of tech behemoths ([source](https://www.yahoo.com)).
+Marissa Mayer, former CEO of Yahoo, previously held [multiple](../m/multiple.md) [leadership](../l/leadership.md) roles at Google. Transitions like hers highlight the significance of revolving door practices in shaping the strategic directions of tech behemoths (source).
 
 ## Mitigating the Negative Impacts
 
@@ -56,6 +56,6 @@ Given the potential adverse effects of the Revolving Door, various measures can 
 
 ## Conclusion
 
-The Revolving Door phenomenon represents a double-edged sword. While it brings advanced [industry](../i/industry.md) knowledge into regulatory bodies and can foster effective [public-private partnerships](../p/public-private_partnerships.md), it also introduces the [risk](../r/risk.md) of [regulatory capture](../r/regulatory_capture.md), conflicts of [interest](../i/interest.md), and diminished public [trust](../t/trust.md). Balanced approaches involving cooling-off periods, [transparency](../t/transparency.md) measures, and independent oversight can help mitigate the negative effects while preserving the benefits of expertise [exchange](../e/exchange.md) between the public and private sectors. 
+The Revolving Door phenomenon represents a double-edged sword. While it brings advanced [industry](../i/industry.md) knowledge into regulatory bodies and can foster effective [public-private partnerships](../p/public-private_partnerships.md), it also introduces the [risk](../r/risk.md) of [regulatory capture](../r/regulatory_capture.md), conflicts of [interest](../i/interest.md), and diminished public [trust](../t/trust.md). Balanced approaches involving cooling-off periods, [transparency](../t/transparency.md) measures, and independent oversight can help mitigate the negative effects while preserving the benefits of expertise [exchange](../e/exchange.md) between the public and private sectors.
 
 By understanding and addressing the complexities of the Revolving Door, stakeholders can better navigate the intersection of regulation and [industry](../i/industry.md), promoting a fairer, more transparent governance landscape.

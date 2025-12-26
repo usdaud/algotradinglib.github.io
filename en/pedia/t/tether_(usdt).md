@@ -55,7 +55,7 @@ Tether has faced allegations of [market manipulation](../m/market_manipulation.m
 
 The future of Tether (USDT) holds both promise and [uncertainty](../u/uncertainty_in_trading.md). Regulatory scrutiny is likely to increase, and ongoing developments in central [bank](../b/bank.md) digital currencies (CBDCs) might affect Tether's [market](../m/market.md) position. Nonetheless, its role in facilitating transactions and serving as a stable [asset](../a/asset.md) within the volatile crypto [market](../m/market.md) remains indispensable.
 
-For more detailed information, you can visit [Tether's official website](https://tether.to/).
+For more detailed information,
 
 ## Conclusion
 

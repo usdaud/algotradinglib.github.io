@@ -21,7 +21,7 @@ Common stock is the most prevalent form of stock that companies [issue](../i/iss
 Most companies [issue](../i/issue.md) one class of common stock, but some companies may [issue](../i/issue.md) [multiple](../m/multiple.md) classes with different voting rights or other features. For instance:
 
 1. **Class A [Shares](../s/shares.md)**: These are typically the common stock [shares](../s/shares.md) that have voting rights and are publicly traded.
-  
+
 2. **Class B [Shares](../s/shares.md)**: These might have fewer voting rights (or none at all) but might come with other privileges such as higher [dividend](../d/dividend.md) payouts.
 
 Companies [issue](../i/issue.md) [multiple](../m/multiple.md) classes to retain control over certain decisions while still enabling broad ownership.
@@ -31,7 +31,7 @@ Companies [issue](../i/issue.md) [multiple](../m/multiple.md) classes to retain 
 Companies [issue](../i/issue.md) common stock as a way to raise [capital](../c/capital.md). This can occur in several ways:
 
 1. **Initial Public [Offering](../o/offering.md) (IPO)**: The first time a company offers its [shares](../s/shares.md) to the public. This can help the company raise a significant amount of [capital](../c/capital.md).
-  
+
 2. **Secondary Offerings**: Additional [shares](../s/shares.md) offered to the public after the IPO. This can occur for a variety of reasons, including raising more [capital](../c/capital.md) for [expansion](../e/expansion.md), paying down [debt](../d/debt.md), or even for existing shareholders to cash out part of their [holdings](../h/holdings.md).
 
 The funds raised from these issuances are generally used for [business](../b/business.md) growth, research and development, or other strategic initiatives.
@@ -41,9 +41,9 @@ The funds raised from these issuances are generally used for [business](../b/bus
 ### Advantages
 
 1. **[Capital](../c/capital.md) Appreciation**: Common stockholders can benefit from the appreciation in the stock price. If the company performs well, the [value](../v/value.md) of [shares](../s/shares.md) can increase, providing substantial returns.
-  
+
 2. **[Dividend](../d/dividend.md) [Income](../i/income.md)**: When the company is profitable, shareholders can receive dividends, providing a stream of [income](../i/income.md).
-  
+
 3. **Voting Rights**: Shareholders can influence [corporate governance](../c/corporate_governance.md) and major [business](../b/business.md) decisions through their voting rights.
 
 4. **[Liquidity](../l/liquidity.md)**: Common [stocks](../s/stock.md) are usually traded on public exchanges, providing [liquidity](../l/liquidity.md) to shareholders.
@@ -51,7 +51,7 @@ The funds raised from these issuances are generally used for [business](../b/bus
 ### Disadvantages
 
 1. **High [Risk](../r/risk.md)**: If the company performs poorly, the stock price can fall drastically, leading to losses.
-  
+
 2. **Residual Claim**: Common shareholders are the last to be paid in the event of dissolution. This means they may receive nothing if debts and other [obligations](../o/obligation.md) exhaust the company’s assets.
 
 3. **[Dividend](../d/dividend.md) Variation**: Unlike bonds, dividends on common stock can be irregular and are not guaranteed.
@@ -75,26 +75,26 @@ Common stock plays a significant role in diversified investment portfolios. Due 
 ## Famous Companies Known for Common Stock
 
 1. **Apple Inc. (AAPL)**: Known for its high [market capitalization](../m/market_capitalization.md) and significant [capital](../c/capital.md) appreciation over the years.
-  
+
 2. **Amazon.com, Inc. (AMZN)**: Another tech giant, famous for its aggressive growth strategy and significant stock price growth.
-  
+
 3. **The Coca-Cola Company (KO)**: Known for its consistent dividends and brand [value](../v/value.md).
 
 4. **Tesla, Inc. (TSLA)**: Known for its volatile stock price but significant growth, driven by innovation in the automotive and energy sectors.
 
 Official websites:
-- [Apple Inc.](https://www.apple.com/)
-- [Amazon.com, Inc.](https://www.amazon.com/)
-- [The Coca-Cola Company](https://www.coca-colacompany.com/)
-- [Tesla, Inc.](https://www.tesla.com/)
+- Apple Inc.
+- Amazon.com, Inc.
+- The Coca-Cola Company
+- Tesla, Inc.
 
 ## Common Stock and Algo Trading
 
 [Algorithmic trading](../a/accountability.md), or algo trading, involves using automated, pre-programmed trading instructions to execute orders. These algorithms can be designed to consider a myriad of factors, from time, price, [volume](../v/volume.md), to complex [mathematical models](../m/mathematical_models_in_trading.md) and insights derived from various data sources. When it comes to common stock, algo trading offers several benefits:
 
 1. **Speed**: Algorithms can process and execute trades much faster than human traders, making it possible to take advantage of minute [market](../m/market.md) inefficiencies.
-  
-2. **Consistency**: Algo trading eliminates human emotions such as fear and greed that can lead to inconsistent trading decisions. 
+
+2. **Consistency**: Algo trading eliminates human emotions such as fear and greed that can lead to inconsistent trading decisions.
 
 3. **[Efficiency](../e/efficiency.md)**: Algorithms can monitor [multiple](../m/multiple.md) markets and securities simultaneously, ensuring that trading opportunities are not missed.
 
@@ -103,7 +103,7 @@ Official websites:
 ### Examples of Algo Trading Strategies for Common Stock
 
 1. **[Trend Following](../t/trend_following.md)**: Uses moving averages and other indicators to identify and follow [market](../m/market.md) trends. When the stock price is trending upwards, the algorithm [will](../w/will.md) buy, and when it trends downwards, it [will](../w/will.md) sell.
-  
+
 2. **[Mean Reversion](../m/mean_reversion.md)**: Assumes that stock prices [will](../w/will.md) revert to their historical mean. The algorithm buys [stocks](../s/stock.md) that are considered [undervalued](../u/undervalued.md) and sells those that are [overvalued](../o/overvalued.md).
 
 3. **Statistical [Arbitrage](../a/arbitrage.md)**: Looks for statistical correlations between various securities to identify mispriced [stocks](../s/stock.md) and [capitalize](../c/capitalize.md) on them.
@@ -113,10 +113,10 @@ Official websites:
 5. **News-Based Trading**: Analyzes news articles, [social media](../s/social_media.md) mentions, and other sources of information to make trading decisions in real-time.
 
 [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) and tools:
-- [MetaTrader](https://www.metatrader4.com/)
-- [NinjaTrader](https://ninjatrader.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpaca](https://alpaca.markets/)
+- MetaTrader
+- NinjaTrader
+- QuantConnect
+- Alpaca
 
 By leveraging these strategies and tools, traders can enhance the [efficiency](../e/efficiency.md) and efficacy of their trading activities in common [stocks](../s/stock.md).
 

@@ -48,19 +48,19 @@ Several companies excel in leveraging their knowledge [capital](../c/capital.md)
 
 Google is renowned for its extensive investment in knowledge [capital](../c/capital.md). The company's focus on [human capital](../h/human_capital.md) is evident through initiatives like Google X, an innovation lab dedicated to ambitious projects and "moonshots." Structural [capital](../c/capital.md) is exemplified by its [robust](../r/robust.md) search algorithms and vast data centers, while relational [capital](../c/capital.md) is fostered through partnerships and user engagement across various platforms.
 
-**Website:** [Google](https://www.google.com)
+**online platform:** Google
 
 ### Microsoft
 
 Microsoft's success is deeply rooted in its knowledge [capital](../c/capital.md), particularly through [human capital](../h/human_capital.md) and structural [capital](../c/capital.md). The company's consistent investment in research and development has led to the creation of cutting-edge software and cloud solutions. Microsoft's relational [capital](../c/capital.md) is strong, particularly through its partner ecosystem and [customer](../c/customer.md) relationships in both the consumer and enterprise sectors.
 
-**Website:** [Microsoft](https://www.microsoft.com)
+**online platform:** Microsoft
 
 ### Apple
 
 Apple leverages its knowledge [capital](../c/capital.md) through innovation in product design and user experience. The company's [human capital](../h/human_capital.md) is evident in its highly skilled workforce, including top designers, engineers, and creative professionals. Apple's structural [capital](../c/capital.md) includes its numerous patents and a sophisticated [supply chain](../s/supply_chain.md), while relational [capital](../c/capital.md) is maintained through a loyal [customer](../c/customer.md) base and [robust](../r/robust.md) retail presence.
 
-**Website:** [Apple](https://www.apple.com)
+**online platform:** Apple
 
 ## Measuring Knowledge Capital
 

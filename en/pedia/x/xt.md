@@ -102,4 +102,3 @@ XT actively engages with the cryptocurrency community through various initiative
 
 XT has established itself as a prominent cryptocurrency [exchange](../e/exchange.md) platform by [offering](../o/offering.md) a comprehensive [range](../r/range.md) of services and prioritizing [security](../s/security.md), [transparency](../t/transparency.md), and user satisfaction. Its [robust](../r/robust.md) trading engine, advanced tools, and commitment to regulatory compliance make it a reliable choice for traders of all levels. As the cryptocurrency [market](../m/market.md) continues to evolve, XT's ongoing innovation and dedication to its users [will](../w/will.md) likely solidify its position as a leading player in the [industry](../i/industry.md).
 
-For more information about XT, visit their official [website](https://www.xt.com/).

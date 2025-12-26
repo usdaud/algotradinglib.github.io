@@ -21,7 +21,7 @@ An Opening Imbalance Only [Order](../o/order.md) (OIO) is a type of [order](../o
 The [execution](../e/execution.md) mechanism of an OIO is tied intrinsically to the opening auction process. Here’s a step-by-step breakdown of how it works:
 
 1. **[Order](../o/order.md) Placement**: Traders place OIOs before the [market](../m/market.md) opens, specifying the quantity and limit price for the intended [trade](../t/trade.md).
-   
+
 2. **[Order Book Analysis](../o/order_book_analysis.md)**: As the [market](../m/market.md) opening approaches, exchanges analyze the [order book](../o/order_book.md) to determine the [opening price](../o/opening_price.md) based on the [supply](../s/supply.md) (sell orders) and [demand](../d/demand.md) (buy orders).
 
 3. **Imbalance Detection**: An imbalance occurs when the quantities of buy and sell orders do not match at the [opening price](../o/opening_price.md). For example, if there are more buy orders than sell orders, the opening auction has a buy imbalance.

@@ -113,8 +113,8 @@ Numerous online platforms and tools assist individuals and businesses in determi
 
 #### Example
 
-- [Zillow](https://www.zillow.com) provides users with estimated property values based on extensive [market](../m/market.md) data and algorithms.
-- [Kelley Blue Book](https://www.kbb.com) offers car owners and buyers a reliable source for determining the FMV of vehicles.
+- Zillow provides users with estimated property values based on extensive [market](../m/market.md) data and algorithms.
+- Kelley Blue Book offers car owners and buyers a reliable source for determining the FMV of vehicles.
 
 ## Regulatory and Ethical Considerations
 

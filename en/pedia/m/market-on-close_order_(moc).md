@@ -50,11 +50,11 @@ The use of MOC orders is subject to regulation by financial [market](../m/market
 
 ## Technology and Automation
 
-Advances in financial technology and [algorithmic trading](../a/accountability.md) have facilitated the use of MOC orders, allowing traders to automate the entry and [execution](../e/execution.md) process. Brokers and trading platforms [offer](../o/offer.md) various tools and features to [handle](../h/handle.md) MOC orders, including pre-set configurations for [order](../o/order.md) submission and [execution](../e/execution.md).
+Advances in financial technology and [algorithmic trading](../a/algorithmic_trading.md) have facilitated the use of MOC orders, allowing traders to automate the entry and [execution](../e/execution.md) process. Brokers and trading platforms [offer](../o/offer.md) various tools and features to [handle](../h/handle.md) MOC orders, including pre-set configurations for [order](../o/order.md) submission and [execution](../e/execution.md).
 
 ### Integration with Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems, particularly those utilizing statistical [arbitrage](../a/arbitrage.md) or passive [indexing](../i/indexing.md) strategies, frequently incorporate MOC orders. These algorithms can:
+[Algorithmic trading](../a/algorithmic_trading.md) systems, particularly those utilizing statistical [arbitrage](../a/arbitrage.md) or passive [indexing](../i/indexing.md) strategies, frequently incorporate MOC orders. These algorithms can:
 - Manage large [order](../o/order.md) sizes without disrupting [intraday trading](../i/intraday_trading.md).
 - Optimize [execution](../e/execution.md) costs by targeting the closing auction.
 - Align the algorithm’s trading objectives with end-of-day pricing benchmarks.

@@ -7,22 +7,22 @@ An [earnings](../e/earnings.md) call is a conference call, typically held by a p
 An [earnings](../e/earnings.md) call typically follows a certain structure, which includes:
 
 1. **Introduction and Safe Harbor Statement**
-   - The call typically begins with an introduction from the [Investor Relations](../i/investor_relations.md) (IR) officer. This is often followed by a "Safe Harbor" statement, a legal disclaimer that attempts to shield the company from [liability](../l/liability.md) for forward-looking statements that may not come to fruition.
+ - The call typically begins with an introduction from the [company filings](../i/investor_relations.md) (IR) officer. This is often followed by a "Safe Harbor" statement, a legal disclaimer that attempts to shield the company from [liability](../l/liability.md) for forward-looking statements that may not come to fruition.
 
 2. **Overview of [Financial Performance](../f/financial_performance.md)**
-   - The CEO or CFO usually provides a summary of the company's [financial performance](../f/financial_performance.md) for the past quarter or year. This includes [revenue](../r/revenue.md), net [income](../i/income.md), [earnings](../e/earnings.md) per share (EPS), and other key metrics.
+ - The CEO or CFO usually provides a summary of the company's [financial performance](../f/financial_performance.md) for the past quarter or year. This includes [revenue](../r/revenue.md), net [income](../i/income.md), [earnings](../e/earnings.md) per share (EPS), and other key metrics.
 
 3. **Detailed Financial Review**
-   - Following the overview, the CFO or another financial officer delves into more detailed financial metrics, including gross margins, operating margins, [capital](../c/capital.md) expenditures, and more. This section may also involve a discussion of segment performance, where different [business](../b/business.md) divisions' results are analyzed.
+ - Following the overview, the CFO or another financial officer delves into more detailed financial metrics, including gross margins, operating margins, [capital](../c/capital.md) expenditures, and more. This section may also involve a discussion of segment performance, where different [business](../b/business.md) divisions' results are analyzed.
 
 4. **Strategic and Operational Updates**
-   - After financial details, the management team often discusses strategic initiatives, operational challenges, and future plans. This could involve new product launches, [market](../m/market.md) [expansion](../e/expansion.md), acquisitions, or other significant plans.
+ - After financial details, the management team often discusses strategic initiatives, operational challenges, and future plans. This could involve new product launches, [market](../m/market.md) [expansion](../e/expansion.md), acquisitions, or other significant plans.
 
 5. **[Guidance](../g/guidance.md)**
-   - Many companies provide forward-looking [guidance](../g/guidance.md) on expected [financial performance](../f/financial_performance.md). This includes projections for [revenue](../r/revenue.md), [earnings](../e/earnings.md), and sometimes other financial metrics.
+ - Many companies provide forward-looking [guidance](../g/guidance.md) on expected [financial performance](../f/financial_performance.md). This includes projections for [revenue](../r/revenue.md), [earnings](../e/earnings.md), and sometimes other financial metrics.
 
 6. **Q&A Session**
-   - The call usually ends with a Q&A session where [sell-side](../s/sell-side.md) analysts ask questions. This is a critical segment where management's candid responses can [offer](../o/offer.md) additional insights into the company's performance and future prospects.
+ - The call usually ends with a Q&A session where [sell-side](../s/sell-side.md) analysts ask questions. This is a critical segment where management's candid responses can [offer](../o/offer.md) additional insights into the company's performance and future prospects.
 
 ## Significance in Algorithmic Trading
 
@@ -40,14 +40,14 @@ The information revealed during an [earnings](../e/earnings.md) call can lead to
 
 ### Example Companies Utilizing Algorithmic Trading During Earnings Calls
 
-1. **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com)
-   - Goldman Sachs is renowned for its advanced [algorithmic trading](../a/accountability.md) systems, which are likely utilized during [earnings](../e/earnings.md) calls to [capitalize](../c/capitalize.md) on real-time data.
-   
-2. **Two Sigma**: [Two Sigma](https://www.twosigma.com)
-   - Two Sigma is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that extensively uses [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md), including during [earnings](../e/earnings.md) calls.
+1. **Goldman Sachs**: Goldman Sachs
+ - Goldman Sachs is renowned for its advanced [algorithmic trading](../a/accountability.md) systems, which are likely utilized during [earnings](../e/earnings.md) calls to [capitalize](../c/capitalize.md) on real-time data.
 
-3. **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com)
-   - Renaissance Technologies employs sophisticated algorithms, likely leveraging [earnings](../e/earnings.md) call data to optimize [trading strategies](../t/trading_strategies.md).
+2. **Two Sigma**: Two Sigma
+ - Two Sigma is a quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that extensively uses [machine learning](../m/machine_learning.md) and [data science](../d/data_science_in_trading.md), including during [earnings](../e/earnings.md) calls.
+
+3. **Renaissance Technologies**: Renaissance Technologies
+ - Renaissance Technologies employs sophisticated algorithms, likely leveraging [earnings](../e/earnings.md) call data to optimize [trading strategies](../t/trading_strategies.md).
 
 ## Key Metrics Discussed in Earnings Calls
 

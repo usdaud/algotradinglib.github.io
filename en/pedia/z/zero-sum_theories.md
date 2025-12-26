@@ -51,15 +51,15 @@ Several companies [offer](../o/offer.md) [algorithmic trading](../a/algorithmic_
 
 #### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, allowing users to design and backtest [trading strategies](../t/trading_strategies.md). Their platform supports [multiple](../m/multiple.md) languages and markets, facilitating the development of strategies that can thrive in zero-sum environments. More information can be found at [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, allowing users to design and backtest [trading strategies](../t/trading_strategies.md). Their platform supports [multiple](../m/multiple.md) languages and markets, facilitating the development of strategies that can thrive in zero-sum environments. More information can be found at QuantConnect.
 
 #### Alpaca
 
-[Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free API-first stock trading. Their platform enables traders to build and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies, where understanding zero-sum dynamics can enhance performance. Learn more at [Alpaca](https://alpaca.markets/).
+[Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free API-first stock trading. Their platform enables traders to build and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies, where understanding zero-sum dynamics can enhance performance. Learn more at Alpaca.
 
 #### AlgoTrader
 
-[AlgoTrader](../a/algotrader.md) is an institutional [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), strategy development, and automated trading. It supports trading across various [asset](../a/asset.md) classes, incorporating [risk management](../r/risk_management.md) and [market](../m/market.md)-making capabilities — both rooted in zero-sum logic. Details can be found at [AlgoTrader](https://www.algotrader.com/).
+[AlgoTrader](../a/algotrader.md) is an institutional [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), strategy development, and automated trading. It supports trading across various [asset](../a/asset.md) classes, incorporating [risk management](../r/risk_management.md) and [market](../m/market.md)-making capabilities — both rooted in zero-sum logic. Details can be found at AlgoTrader.
 
 ### Criticisms and Limitations
 

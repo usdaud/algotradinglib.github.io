@@ -42,7 +42,7 @@ Uphold is available both as a web-based platform and a mobile app, ensuring that
 
 ## Automated Trading and API Access
 
-For those interested in [algorithmic trading](../a/accountability.md), Uphold offers API access, allowing developers to integrate their [trading algorithms](../t/trading_algorithms.md) with the platform. This feature supports complex [trading strategies](../t/trading_strategies.md) and enables traders to automate their processes, taking advantage of [market](../m/market.md) opportunities around the clock.
+For those interested in [algorithmic trading](../a/algorithmic_trading.md), Uphold offers API access, allowing developers to integrate their [trading algorithms](../t/trading_algorithms.md) with the platform. This feature supports complex [trading strategies](../t/trading_strategies.md) and enables traders to automate their processes, taking advantage of [market](../m/market.md) opportunities around the clock.
 
 # Uphold Earn and Credit Lines
 
@@ -82,4 +82,3 @@ Uphold is committed to environmental sustainability. The platform has taken step
 
 Uphold has established itself as a versatile and comprehensive financial platform, [offering](../o/offering.md) a wide [range](../r/range.md) of assets and services that cater to diverse trading and investment needs. With its focus on [security](../s/security.md), [transparency](../t/transparency.md), and regulatory compliance, Uphold is well-positioned to continue its growth and serve as a valuable tool for both individual and institutional investors.
 
-For more information, you can visit the official [Uphold website](https://www.uphold.com).

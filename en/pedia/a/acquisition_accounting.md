@@ -67,7 +67,7 @@ IFRS also provides guidelines, particularly IFRS 3 - [Business](../b/business.md
 
 ### Recognition of Goodwill
 
-[Goodwill](../g/goodwill.md) is recognized when the purchase price exceeds the sum of the [fair value](../f/fair_value.md) of the acquired net assets. 
+[Goodwill](../g/goodwill.md) is recognized when the purchase price exceeds the sum of the [fair value](../f/fair_value.md) of the acquired net assets.
 
 - **Example**: If a company pays $10 million for a target whose [fair value](../f/fair_value.md) of net assets is $7 million, the resulting [goodwill](../g/goodwill.md) is $3 million.
 
@@ -85,18 +85,18 @@ IFRS also provides guidelines, particularly IFRS 3 - [Business](../b/business.md
 **Scenario**: ABC Inc. acquires XYZ Corp for $50 million.
 
 1. **[Asset](../a/asset.md) and [Liability](../l/liability.md) [Valuation](../v/valuation.md)**:
-    - [Tangible Assets](../t/tangible_asset.md): $30 million ([fair value](../f/fair_value.md))
-    - Intangible Assets: $15 million (includes patents, trademarks)
-    - Liabilities: $10 million (current and [long-term debt](../l/long-term_debt.md))
-    
+ - [Tangible Assets](../t/tangible_asset.md): $30 million ([fair value](../f/fair_value.md))
+ - Intangible Assets: $15 million (includes patents, trademarks)
+ - Liabilities: $10 million (current and [long-term debt](../l/long-term_debt.md))
+
 2. **[Goodwill](../g/goodwill.md) Calculation**:
-    - Purchase Price: $50 million
-    - Net Assets [Value](../v/value.md) ([Fair Value](../f/fair_value.md)): $30 million + $15 million - $10 million = $35 million
-    - [Goodwill](../g/goodwill.md): $50 million - $35 million = $15 million
+ - Purchase Price: $50 million
+ - Net Assets [Value](../v/value.md) ([Fair Value](../f/fair_value.md)): $30 million + $15 million - $10 million = $35 million
+ - [Goodwill](../g/goodwill.md): $50 million - $35 million = $15 million
 
 3. **[Consolidation](../c/consolidation.md) Steps**:
-    - Combine XYZ financials to ABC’s books.
-    - Eliminate any intercompany balances or transactions.
+ - Combine XYZ financials to ABC’s books.
+ - Eliminate any intercompany balances or transactions.
 
 ### Case Study 2: Impairment Testing of Goodwill
 
@@ -106,8 +106,8 @@ IFRS also provides guidelines, particularly IFRS 3 - [Business](../b/business.md
 2. **[Market](../m/market.md) Conditions**: Due to [market](../m/market.md) downturn, the [fair value](../f/fair_value.md) of XYZ Corp is reassessed and found to be $40 million.
 3. **Net Assets (excluding [goodwill](../g/goodwill.md))**: $35 million (remains the same)
 4. **[Impairment](../i/impairment.md)**:
-    - New [Goodwill](../g/goodwill.md): $40 million (new [fair value](../f/fair_value.md)) - $35 million (net assets) = $5 million
-    - [Impairment](../i/impairment.md) Loss: $15 million (initial [goodwill](../g/goodwill.md)) - $5 million (new [goodwill](../g/goodwill.md)) = $10 million
+ - New [Goodwill](../g/goodwill.md): $40 million (new [fair value](../f/fair_value.md)) - $35 million (net assets) = $5 million
+ - [Impairment](../i/impairment.md) Loss: $15 million (initial [goodwill](../g/goodwill.md)) - $5 million (new [goodwill](../g/goodwill.md)) = $10 million
 
 ## Challenges in Acquisition Accounting
 

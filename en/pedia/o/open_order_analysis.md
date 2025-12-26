@@ -26,9 +26,9 @@ Understanding different types of orders is fundamental to [Open Order](../o/open
 
 Several platforms and tools facilitate the monitoring of [open](../o/open.md) orders in real-time, providing valuable insights and analytics. Prominent among them are:
 
-- **MetaTrader**: A popular platform that supports automated trading and [open order](../o/open_order.md) analysis through its advanced charting tools ([MetaTrader](https://www.metatrader4.com/en)).
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics for institutional traders ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)).
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides [real-time market data](../r/real-time_market_data.md) and analysis tools to manage [open](../o/open.md) orders effectively ([Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)).
+- **MetaTrader**: A popular platform that supports automated trading and [open order](../o/open_order.md) analysis through its advanced charting tools (MetaTrader).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics for institutional traders (Bloomberg).
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides [real-time market data](../r/real-time_market_data.md) and analysis tools to manage [open](../o/open.md) orders effectively (Refinitiv).
 
 ### 3. Risk Management Techniques
 
@@ -75,22 +75,22 @@ Analyzing historical data helps in understanding the performance of past orders 
 
 Several platforms [offer](../o/offer.md) advanced tools for [open order](../o/open_order.md) analysis, including:
 
-- **[AlgoTrader](../a/algotrader.md)**: Provides a comprehensive suite for developing, testing, and deploying algo [trading strategies](../t/trading_strategies.md) ([AlgoTrader](https://www.algotrader.com/)).
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform for [backtesting](../b/backtesting.md) and live trading with powerful analytical tools ([QuantConnect](https://www.quantconnect.com/)).
+- **[AlgoTrader](../a/algotrader.md)**: Provides a comprehensive suite for developing, testing, and deploying algo [trading strategies](../t/trading_strategies.md) (AlgoTrader).
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform for [backtesting](../b/backtesting.md) and live trading with powerful analytical tools (QuantConnect).
 
 ### 2. Custom Analytics Solutions
 
 Developing custom analytics solutions using programming languages like Python and R can [offer](../o/offer.md) tailored insights into [open](../o/open.md) orders. Libraries and frameworks that support this include:
 
-- **Pandas**: A powerful data analysis library in Python for handling [time series](../t/time_series.md) data ([Pandas](https://pandas.pydata.org/)).
-- **[QuantLib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ ([QuantLib](http://quantlib.org/)).
+- **Pandas**: A powerful data analysis library in Python for handling [time series](../t/time_series.md) data (Pandas).
+- **[QuantLib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ (QuantLib).
 
 ### 3. API Integrations
 
 APIs from trading platforms and brokers allow for seamless integration of [open order](../o/open_order.md) data into custom analysis systems. Key APIs include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md) API**: Offers extensive data and trading functionalities ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=5041)).
-- **[Alpaca](../a/alpaca.md) API**: A [commission](../c/commission.md)-free trading API with [real-time market data](../r/real-time_market_data.md) ([Alpaca](https://alpaca.markets/)).
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: Offers extensive data and trading functionalities (Interactive Brokers).
+- **[Alpaca](../a/alpaca.md) API**: A [commission](../c/commission.md)-free trading API with [real-time market data](../r/real-time_market_data.md) (Alpaca).
 
 ## Practical Applications in Algorithmic Trading
 

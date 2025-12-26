@@ -164,7 +164,7 @@ StockSharp includes various [risk management](../r/risk_management.md) tools:
 ## System Requirements
 
 - Windows 7 or later
-- .NET Framework 4.6 or higher
+-.NET Framework 4.6 or higher
 - Minimum 4GB RAM (8GB or more recommended for larger datasets)
 - Processor: 2GHz or faster
 - Internet connection for real-time data and trading

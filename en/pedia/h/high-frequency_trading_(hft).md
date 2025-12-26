@@ -95,10 +95,10 @@ The role of HFT in modern [financial markets](../f/financial_market.md) is a sub
 
 Numerous firms specialize in HFT, wielding significant influence over [market dynamics](../m/market_dynamics.md). Some notable players include:
 
-- [Citadel Securities](https://www.citadelsecurities.com/): A leading [market maker](../m/market_maker.md) and HFT [firm](../f/firm.md).
-- [Virtu Financial](https://www.virtu.com/): Known for [high-frequency market making](../h/high-frequency_market_making.md) and [proprietary trading](../p/proprietary_trading.md).
-- [Jump Trading](https://www.jumptrading.com/): A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) heavily involved in HFT.
-- [DRW Trading](https://drw.com/): Engages in various strategies, including HFT.
+- Citadel Securities: A leading [market maker](../m/market_maker.md) and HFT [firm](../f/firm.md).
+- Virtu Financial: Known for [high-frequency market making](../h/high-frequency_market_making.md) and [proprietary trading](../p/proprietary_trading.md).
+- Jump Trading: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) heavily involved in HFT.
+- DRW Trading: Engages in various strategies, including HFT.
 
 ## 7. Future Trends and Directions
 
@@ -121,4 +121,3 @@ As technology becomes even more intertwined with trading, ethical considerations
 ## Conclusion
 
 High-Frequency Trading (HFT) remains a highly sophisticated and influential aspect of modern [financial markets](../f/financial_market.md). Through the use of cutting-edge technology, complex algorithms, and strategic positioning, HFT firms significantly influence [market dynamics](../m/market_dynamics.md), contributing both benefits and challenges. The ongoing evolution of technology, alongside increasing regulatory scrutiny, [will](../w/will.md) shape the future landscape of HFT, demanding continuous adaptation by [market](../m/market.md) participants and regulators alike.
-

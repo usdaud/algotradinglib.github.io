@@ -28,27 +28,27 @@ The **Current [Market Value](../m/market_value.md) of the [Index](../i/index_ins
 
 #### S&P 500
 
-The S&P 500 [index](../i/index_instrument.md) is one of the most well-known [market](../m/market.md)-cap-[weighted](../w/weighted.md) indexes globally. This [index](../i/index_instrument.md) includes 500 of the largest companies [listed](../l/listed.md) on stock exchanges in the United States. 
+The S&P 500 [index](../i/index_instrument.md) is one of the most well-known [market](../m/market.md)-cap-[weighted](../w/weighted.md) indexes globally. This [index](../i/index_instrument.md) includes 500 of the largest companies [listed](../l/listed.md) on stock exchanges in the United States.
 
-- **More information**: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-500/)
+- **More information**: S&P Dow Jones Indices
 
 #### NASDAQ-100
 
 The [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md) comprises 100 of the largest non-financial companies [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [stock market](../s/stock_market.md). It includes [industry](../i/industry.md) leaders in technology as well as non-tech sectors.
 
-- **More information**: [NASDAQ](https://www.nasdaq.com/market-activity/quotes/real-time-index/ndx)
+- **More information**: NASDAQ
 
 #### FTSE 100
 
 The FTSE 100 [Index](../i/index_instrument.md) includes the 100 companies [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) with the highest [market capitalization](../m/market_capitalization.md).
 
-- **More information**: [London Stock Exchange](https://www.londonstockexchange.com/indices/ftse-100)
+- **More information**: London Stock Exchange
 
 ### Advantages of Market-Cap Weighted Indexes
 
 #### Reflects Market Movements
 
-[Market](../m/market.md)-cap [weighted](../w/weighted.md) indexes automatically adjust to reflect changes in stock prices. As a company's stock price rises or falls, its [market](../m/market.md) cap does the same, which recalibrates its impact on the [index](../i/index_instrument.md) accordingly. 
+[Market](../m/market.md)-cap [weighted](../w/weighted.md) indexes automatically adjust to reflect changes in stock prices. As a company's stock price rises or falls, its [market](../m/market.md) cap does the same, which recalibrates its impact on the [index](../i/index_instrument.md) accordingly.
 
 #### Ease of Replication
 

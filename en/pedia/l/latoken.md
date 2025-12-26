@@ -6,7 +6,6 @@ LATOKEN is a rapidly growing crypto [exchange](../e/exchange.md) that focuses on
 
 LATOKEN was founded in 2017 by Valentin Preobrazhenskiy. Since its inception, it has grown exponentially and now services millions of users globally. The platform emphasizes high [liquidity](../l/liquidity.md), secure trading, and a wide [range](../r/range.md) of trading instruments.
 
-[Visit LATOKEN](https://latoken.com/)
 
 ## Key Features
 
@@ -61,7 +60,7 @@ LATOKEN employs a multi-layered [security](../s/security.md) approach to protect
 
 ### APIs for Algorithmic Trading
 
-LATOKEN offers comprehensive API support for [algorithmic trading](../a/accountability.md). Here’s a look at the available APIs:
+LATOKEN offers comprehensive API support for [algorithmic trading](../a/algorithmic_trading.md). Here’s a look at the available APIs:
 
 #### REST API
 

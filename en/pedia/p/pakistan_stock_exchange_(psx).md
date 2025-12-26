@@ -97,11 +97,11 @@ PSX aims to enhance [market depth](../m/market_depth.md), [liquidity](../l/liqui
 - **Enhanced technology [infrastructure](../i/infrastructure.md).**
 - **Strengthening [corporate governance](../c/corporate_governance.md).**
 
-For more detailed information, visit the official website of PSX: [Pakistan Stock Exchange](https://www.psx.com.pk).
+For more detailed information,
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) in PSX involves the use of automated systems to execute trades based on predetermined criteria. Participants utilize algorithms to:
+[Algorithmic trading](../a/algorithmic_trading.md) in PSX involves the use of automated systems to execute trades based on predetermined criteria. Participants utilize algorithms to:
 
 - **Analyze [Market](../m/market.md) Data:** Using historical and real-time data to identify patterns.
 - **Execute Trades:** Automatically place orders based on algorithmic strategies.
@@ -115,7 +115,7 @@ For more detailed information, visit the official website of PSX: [Pakistan Stoc
 
 ### Regulations and Compliance
 
-To ensure fair and orderly markets, PSX and SECP have laid down rules for [algorithmic trading](../a/accountability.md), including:
+To ensure fair and orderly markets, PSX and SECP have laid down rules for [algorithmic trading](../a/algorithmic_trading.md), including:
 
 - **Registration and Approval:** Firms must obtain approvals before deploying algorithms.
 - **[Risk](../r/risk.md) Controls:** Implementation of [risk management](../r/risk_management.md) controls, such as [order](../o/order.md) throttles.

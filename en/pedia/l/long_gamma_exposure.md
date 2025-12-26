@@ -12,7 +12,7 @@ Long [Gamma exposure](../g/gamma_exposure.md) occurs when the [Gamma](../g/gamma
 
 ### Components of Gamma
 
-- **At-the-[Money](../m/money.md) (ATM) [Options](../o/options.md)**: At-the-[money](../m/money.md) [options](../o/options.md) (where the [strike price](../s/strike_price.md) is close to the current price of the [underlying asset](../u/underlying_asset.md)) usually have the highest [Gamma](../g/gamma.md). 
+- **At-the-[Money](../m/money.md) (ATM) [Options](../o/options.md)**: At-the-[money](../m/money.md) [options](../o/options.md) (where the [strike price](../s/strike_price.md) is close to the current price of the [underlying asset](../u/underlying_asset.md)) usually have the highest [Gamma](../g/gamma.md).
 - **Time to Expiry**: [Options](../o/options.md) with less time to expiry generally have a higher [Gamma](../g/gamma.md) compared to long-term [options](../o/options.md). This is because [Delta](../d/delta.md) can change more rapidly with shorter time frames.
 - **[Volatility](../v/volatility.md)**: Higher [volatility](../v/volatility.md) tends to increase the [Gamma](../g/gamma.md) of an option, making [volatility forecasting](../v/volatility_forecasting.md) essential for managing [Gamma](../g/gamma.md) risks.
 
@@ -26,7 +26,7 @@ Long [Gamma exposure](../g/gamma_exposure.md) occurs when the [Gamma](../g/gamma
 
 Consider an [options](../o/options.md) [trader](../t/trader.md) who holds a long [call option](../c/call_option.md) on a stock currently trading at $100. The option has a [Delta](../d/delta.md) of 0.5 and a [Gamma](../g/gamma.md) of 0.1. If the stock price moves to $105, the [Delta](../d/delta.md) of the [call option](../c/call_option.md) [will](../w/will.md) change to 0.6. The new [Delta](../d/delta.md) can be calculated by the initial [Delta](../d/delta.md) plus [Gamma](../g/gamma.md) times the change in [underlying](../u/underlying.md) price:
 
-Δ_new = Δ_old + (Γ * Change in Price)  
+Δ_new = Δ_old + (Γ * Change in Price)
 Δ_new = 0.5 + (0.1 * 5) = 0.5 + 0.5 = 1.0
 
 Thus, the [trader](../t/trader.md)'s position becomes more sensitive to the price movement in a beneficial way as the stock price has increased.
@@ -44,9 +44,9 @@ In the sphere of [algorithmic trading](../a/algorithmic_trading.md), capturing a
 
 ### Tools and Platforms
 
-1. **[QuantConnect](../q/quantconnect.md)** - This is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development of strategies in Python and C#. It has a comprehensive library for [options](../o/options.md) data and analytics.
+1. **[StockSharp](../s/stocksharp.md)** - This is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development of strategies in C#. It has a comprehensive library for [options](../o/options.md) data and analytics.
 2. **[QuantLib](../q/quantlib.md)** - An [open](../o/open.md)-source library for quantitive [finance](../f/finance.md) that provides extensive tools for [options](../o/options.md) pricing, [risk management](../r/risk_management.md), and [Greeks](../g/greeks.md) calculations.
-3. **[Interactive Brokers](../i/interactive_brokers.md)** - Offers a suite of advanced tools and APIs for [options](../o/options.md) trading, including real-time data and analytics that can be integrated into an [algorithmic trading](../a/algorithmic_trading.md) system. [Interactive Brokers](https://www.interactivebrokers.com)
+3. **[Interactive Brokers](../i/interactive_brokers.md)** - Offers a suite of advanced tools and APIs for [options](../o/options.md) trading, including real-time data and analytics that can be integrated into an [algorithmic trading](../a/algorithmic_trading.md) system. Interactive Brokers
 
 ## Case Studies and Use Cases
 
@@ -84,4 +84,4 @@ Experienced traders might employ advanced strategies that exploit long [Gamma ex
 
 ## Conclusion
 
-Long [Gamma exposure](../g/gamma_exposure.md) presents numerous opportunities and challenges for [options](../o/options.md) traders. In the context of [algorithmic trading](../a/algorithmic_trading.md), such strategies require sophisticated models, real-time [data analytics](../d/data_analytics.md), and automated [execution](../e/execution.md) capabilities to manage positions dynamically and [profit](../p/profit.md) from [market](../m/market.md) [volatility](../v/volatility.md). By leveraging platforms like [QuantConnect](../q/quantconnect.md), [QuantLib](../q/quantlib.md), and [Interactive Brokers](../i/interactive_brokers.md), algorithmic traders can effectively implement and manage long [Gamma](../g/gamma.md) strategies, optimizing their [risk](../r/risk.md)-reward balance in volatile markets.
+Long [Gamma exposure](../g/gamma_exposure.md) presents numerous opportunities and challenges for [options](../o/options.md) traders. In the context of [algorithmic trading](../a/algorithmic_trading.md), such strategies require sophisticated models, real-time [data analytics](../d/data_analytics.md), and automated [execution](../e/execution.md) capabilities to manage positions dynamically and [profit](../p/profit.md) from [market](../m/market.md) [volatility](../v/volatility.md). By leveraging platforms like [StockSharp](../s/stocksharp.md), [QuantLib](../q/quantlib.md), and [Interactive Brokers](../i/interactive_brokers.md), algorithmic traders can effectively implement and manage long [Gamma](../g/gamma.md) strategies, optimizing their [risk](../r/risk.md)-reward balance in volatile markets.

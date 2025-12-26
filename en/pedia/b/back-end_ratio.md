@@ -50,9 +50,9 @@ Federal Housing Administration (FHA) loans are more flexible, typically allowing
 While the Back-End Ratio is a useful [indicator](../i/indicator.md) of [debt](../d/debt.md) relative to [income](../i/income.md), it has limitations:
 
 - **Doesn't Account for Living Expenses**: The ratio doesn’t consider non-[debt](../d/debt.md)-related living expenses, such as utilities, groceries, transportation, and medical costs, which can significantly impact an individual's [disposable income](../d/disposable_income.md).
-  
+
 - **Varying [Income](../i/income.md) Levels**: For individuals with irregular [income](../i/income.md)—like freelancers or [commission](../c/commission.md)-based workers—the Back-End Ratio may not present a consistent or accurate financial picture.
-  
+
 - **[Inflation](../i/inflation.md) and Lifestyle Changes**: Changes in [economic conditions](../e/economic_conditions.md) or personal circumstances (like starting a family) can alter one’s ability to manage [debt](../d/debt.md), factors the Back-End Ratio does not adjust for dynamically.
 
 ### Enhancements and Alternatives

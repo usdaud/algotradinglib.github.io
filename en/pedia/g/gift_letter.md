@@ -6,7 +6,7 @@ A gift letter is a formal written statement confirming that [money](../m/money.m
 
 ### 1. Mortgage Applications
 
-When applying for a [mortgage](../m/mortgage.md), borrowers might receive financial assistance from family or friends to help cover the [down payment](../d/down_payment.md) or closing costs. Lenders require a gift letter to verify that these funds are a gift and not an additional [loan](../l/loan.md). This is critical because additional [debt](../d/debt.md) may affect the borrower's capacity to repay the [mortgage](../m/mortgage.md). 
+When applying for a [mortgage](../m/mortgage.md), borrowers might receive financial assistance from family or friends to help cover the [down payment](../d/down_payment.md) or closing costs. Lenders require a gift letter to verify that these funds are a gift and not an additional [loan](../l/loan.md). This is critical because additional [debt](../d/debt.md) may affect the borrower's capacity to repay the [mortgage](../m/mortgage.md).
 
 In this context, a gift letter assures the [lender](../l/lender.md) that the funds [will](../w/will.md) not burden the borrower with unmanageable [debt](../d/debt.md).
 

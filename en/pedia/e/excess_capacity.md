@@ -1,6 +1,6 @@
 # Excess Capacity
 
-Excess capacity refers to a situation in which a [firm](../f/firm.md) is producing at a level lower than its maximum potential output. This condition arises when the actual output is less than the amount the [firm](../f/firm.md) could produce if it operated at full capacity. The concept is crucial in various industries as it directly impacts profitability, pricing strategies, and the overall [efficiency](../e/efficiency.md) of production processes. 
+Excess capacity refers to a situation in which a [firm](../f/firm.md) is producing at a level lower than its maximum potential output. This condition arises when the actual output is less than the amount the [firm](../f/firm.md) could produce if it operated at full capacity. The concept is crucial in various industries as it directly impacts profitability, pricing strategies, and the overall [efficiency](../e/efficiency.md) of production processes.
 
 ### Definitions and Key Concepts
 
@@ -8,9 +8,9 @@ Excess capacity refers to a situation in which a [firm](../f/firm.md) is produci
 - **Actual Output**: The real quantity of goods or services produced by the [firm](../f/firm.md) within a certain period.
 - **[Capacity Utilization Rate](../c/capacity_utilization_rate.md)**: A percentage measure that compares actual output to maximum capacity. It is calculated as:
 
-  \[
-  \text{[Capacity Utilization Rate](../c/capacity_utilization_rate.md)} = \left( \frac{\text{Actual Output}}{\text{Maximum Capacity}} \right) \times 100
-  \]
+ \[
+ \text{[Capacity Utilization Rate](../c/capacity_utilization_rate.md)} = \left( \frac{\text{Actual Output}}{\text{Maximum Capacity}} \right) \times 100
+ \]
 
 ### Causes of Excess Capacity
 
@@ -33,7 +33,7 @@ Excess capacity refers to a situation in which a [firm](../f/firm.md) is produci
 - **[Market](../m/market.md) [Expansion](../e/expansion.md)**: Exploring new markets can help in diverting excess capacity.
 - **Cost Management**: Improving cost [efficiency](../e/efficiency.md) and reducing operational inefficiencies.
 - **Technological Upgradation**: Upgrading technology to improve capacity utilization.
-  
+
 ### Real-World Examples
 
 - **Automobile [Industry](../i/industry.md)**: Often experiences excess capacity due to fluctuations in consumer [demand](../d/demand.md) and cyclical economic patterns.
@@ -41,7 +41,7 @@ Excess capacity refers to a situation in which a [firm](../f/firm.md) is produci
 
 ### Case Study: General Motors
 
-General Motors (GM) is an example of a company that has dealt with excess capacity. During the [financial crisis](../f/financial_crisis.md) of 2007-2008, GM experienced significantly reduced [demand](../d/demand.md) for its vehicles, leading to production cuts and plant closures. The response included [restructuring](../r/restructuring.md) operations and optimizing capacity to match [market](../m/market.md) conditions. More details can be found on [GM’s official website](https://www.gm.com).
+General Motors (GM) is an example of a company that has dealt with excess capacity. During the [financial crisis](../f/financial_crisis.md) of 2007-2008, GM experienced significantly reduced [demand](../d/demand.md) for its vehicles, leading to production cuts and plant closures. The response included [restructuring](../r/restructuring.md) operations and optimizing capacity to match [market](../m/market.md) conditions. More
 
 ### Conclusion
 

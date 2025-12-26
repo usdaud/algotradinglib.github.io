@@ -49,11 +49,11 @@ For individuals and entities with foreign account [holdings](../h/holdings.md), 
 
 ## Intersection with Trading and Fintech
 
-In the realm of trading and fintech, the W-9 form often becomes part of the onboarding process for trading platforms, [crowdfunding](../c/crowdfunding.md) websites, and other financial tech services. Companies such as [Robinhood](https://robinhood.com/), [E*TRADE](https://us.etrade.com/), and [Coinbase](https://www.coinbase.com/) require new users to submit a completed W-9 form as part of their account setup process. This is because these companies need to report any trading profits or losses to the IRS and must have a valid TIN on file to do so.
+In the realm of trading and fintech, the W-9 form often becomes part of the onboarding process for trading platforms, [crowdfunding](../c/crowdfunding.md) websites, and other financial tech services. Companies such as Robinhood, E*TRADE, and Coinbase require new users to submit a completed W-9 form as part of their account setup process. This is because these companies need to report any trading profits or losses to the IRS and must have a valid TIN on file to do so.
 
 ### Algorithmic Trading and the W-9 Form
 
-In [algorithmic trading](../a/accountability.md), where trades are executed by algorithms and computer programs, individuals and entities still need to provide their TIN for tax reporting purposes. Transactions processed through high-frequency trading (HFT) platforms trigger taxable events that must be reported to the IRS, necessitating the collection of W-9 forms from all participants.
+In [algorithmic trading](../a/algorithmic_trading.md), where trades are executed by algorithms and computer programs, individuals and entities still need to provide their TIN for tax reporting purposes. Transactions processed through high-frequency trading (HFT) platforms trigger taxable events that must be reported to the IRS, necessitating the collection of W-9 forms from all participants.
 
 ### Fintech Startups and Tax Compliance
 
@@ -66,20 +66,20 @@ While the W-9 is a U.S.-centric form, its principles extend to non-U.S. entities
 ## Frequently Asked Questions (FAQs)
 
 1. **Who needs to fill out a W-9 form?**
-   - Any U.S. individual or entity receiving [income](../i/income.md) that needs to be reported to the IRS must fill out a W-9 form.
+ - Any U.S. individual or entity receiving [income](../i/income.md) that needs to be reported to the IRS must fill out a W-9 form.
 
 2. **When do I need to submit a W-9?**
-   - A W-9 should be submitted whenever requested for tax reporting purposes, typically during the onboarding process for new jobs, contracts, or financial accounts.
+ - A W-9 should be submitted whenever requested for tax reporting purposes, typically during the onboarding process for new jobs, contracts, or financial accounts.
 
 3. **Can I decline to fill out a W-9 form?**
-   - Yes, you can, but the payer may then be required to apply [backup withholding](../b/backup_withholding.md) on future payments.
+ - Yes, you can, but the payer may then be required to apply [backup withholding](../b/backup_withholding.md) on future payments.
 
 4. **Where do I send the completed W-9 form?**
-   - Send the completed W-9 form to the requesting party (e.g., employer, client, financial institution) rather than the IRS. 
+ - Send the completed W-9 form to the requesting party (e.g., employer, client, financial institution) rather than the IRS.
 
 5. **How do I update my W-9 form?**
-   - If any information changes (name, address, TIN), you must fill out a new W-9 form and submit it to the requesting party.
+ - If any information changes (name, address, TIN), you must fill out a new W-9 form and submit it to the requesting party.
 
 ## Conclusion
 
-The W-9 form serves as a fundamental component of the United States tax system, ensuring proper identification and tax reporting for a wide [range](../r/range.md) of financial transactions. Understanding how to correctly complete and submit this form can help individuals and businesses fulfill their tax [obligations](../o/obligation.md) while avoiding penalties such as [backup withholding](../b/backup_withholding.md). Whether you're a freelancer, [business](../b/business.md) owner, or engaged in sophisticated financial activities like [algorithmic trading](../a/accountability.md), knowing the ins and outs of the W-9 form is essential for maintaining compliance and ensuring smooth operations.
+The W-9 form serves as a fundamental component of the United States tax system, ensuring proper identification and tax reporting for a wide [range](../r/range.md) of financial transactions. Understanding how to correctly complete and submit this form can help individuals and businesses fulfill their tax [obligations](../o/obligation.md) while avoiding penalties such as [backup withholding](../b/backup_withholding.md). Whether you're a freelancer, [business](../b/business.md) owner, or engaged in sophisticated financial activities like [algorithmic trading](../a/algorithmic_trading.md), knowing the ins and outs of the W-9 form is essential for maintaining compliance and ensuring smooth operations.

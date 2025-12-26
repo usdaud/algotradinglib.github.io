@@ -93,4 +93,3 @@ Bitforex adheres to regulatory standards in various jurisdictions to foster [tru
 
 Bitforex provides a comprehensive suite of services that cater to both novice and experienced cryptocurrency traders. With its wide [range](../r/range.md) of trading [options](../o/options.md), [robust](../r/robust.md) [security](../s/security.md) measures, and user-oriented features, Bitforex continues to be a significant player in the digital [asset](../a/asset.md) trading ecosystem.
 
-For more information, visit [Bitforex’s official website](https://www.bitforex.com/).

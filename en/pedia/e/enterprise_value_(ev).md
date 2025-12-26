@@ -85,9 +85,9 @@ Companies themselves calculate EV to understand their own [valuation](../v/valua
 ### Financial Platforms
 
 Several financial platforms provide tools and services to calculate EV automatically using real-time data:
-- [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/fixed-income-and-liability-management/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- [FactSet](https://www.factset.com/)
+- Bloomberg L.P.
+- Thomson Reuters Eikon
+- FactSet
 
 ### Financial Spreadsheets
 
@@ -96,9 +96,9 @@ Analysts often use financial spreadsheets to calculate and model Enterprise [Val
 ### Investment Banks
 
 [Investment banks](../i/investment_bank_(ib).md) provide comprehensive EV calculations and analyses as part of their advisory services. Prominent firms include:
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [Morgan Stanley](https://www.morganstanley.com/)
+- Goldman Sachs
+- Morgan Stanley
 
 ## Conclusion
 
-Enterprise [Value](../v/value.md) (EV) is a crucial financial metric that offers a holistic picture of a company's total [value](../v/value.md), including its [equity](../e/equity.md), [debt](../d/debt.md), and cash [holdings](../h/holdings.md). Its importance spans various applications from [investment analysis](../i/investment_analysis.md) and company comparisons to strategic planning and M&A activity. Despite its complexity and need for adjustments in some contexts, EV remains a cornerstone metric in [corporate finance](../c/corporate_finance.md) and [valuation](../v/valuation.md). 
+Enterprise [Value](../v/value.md) (EV) is a crucial financial metric that offers a holistic picture of a company's total [value](../v/value.md), including its [equity](../e/equity.md), [debt](../d/debt.md), and cash [holdings](../h/holdings.md). Its importance spans various applications from [investment analysis](../i/investment_analysis.md) and company comparisons to strategic planning and M&A activity. Despite its complexity and need for adjustments in some contexts, EV remains a cornerstone metric in [corporate finance](../c/corporate_finance.md) and [valuation](../v/valuation.md).

@@ -43,15 +43,15 @@ Real-time [money supply](../m/money_supply.md) data enables algorithms to adjust
 
 **4.1 Example - Federal Reserve Data**
 
-The Federal Reserve provides comprehensive monetary data through its website [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/). Traders can access real-time and historical data, including various measures of [money supply](../m/money_supply.md).
+The Federal Reserve provides comprehensive monetary data. Traders can access real-time and historical data, including various measures of [money supply](../m/money_supply.md).
 
 **4.2 Case Study - High-Frequency Trading (HFT) Firms**
 
-High-frequency trading firms often utilize [money supply](../m/money_supply.md) data to fine-tune their [trading algorithms](../t/trading_algorithms.md). Firms like Virtu Financial [Virtu Financial](https://www.virtu.com/) and Citadel Securities [Citadel Securities](https://www.citadelsecurities.com/) [leverage](../l/leverage.md) detailed [economic indicators](../e/economic_indicators.md), including [money supply](../m/money_supply.md) metrics, to maintain a competitive edge in their [trading strategies](../t/trading_strategies.md).
+High-frequency trading firms often utilize [money supply](../m/money_supply.md) data to fine-tune their [trading algorithms](../t/trading_algorithms.md). Firms like Virtu Financial Virtu Financial and Citadel Securities Citadel Securities [leverage](../l/leverage.md) detailed [economic indicators](../e/economic_indicators.md), including [money supply](../m/money_supply.md) metrics, to maintain a competitive edge in their [trading strategies](../t/trading_strategies.md).
 
 **4.3 [Quantitative Hedge Funds](../q/quantitative_hedge_funds.md)**
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies [Renaissance Technologies](https://www.rentec.com/), use sophisticated models integrating vast amounts of economic data, including [money supply](../m/money_supply.md), to create [algorithmic trading](../a/algorithmic_trading.md) strategies that exploit [market](../m/market.md) inefficiencies.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies Renaissance Technologies, use sophisticated models integrating vast amounts of economic data, including [money supply](../m/money_supply.md), to create [algorithmic trading](../a/algorithmic_trading.md) strategies that exploit [market](../m/market.md) inefficiencies.
 
 **5. Tools and Resources**
 
@@ -74,8 +74,4 @@ Integrating [money supply](../m/money_supply.md) analysis into [algorithmic trad
 
 **References**
 
-- Federal Reserve Economic Data (FRED), https://fred.stlouisfed.org/
-- European Central [Bank](../b/bank.md) (ECB), https://www.ecb.europa.eu/
-- Virtu Financial, https://www.virtu.com/
-- Citadel Securities, https://www.citadelsecurities.com/
-- Renaissance Technologies, https://www.rentec.com/
+- Federal Reserve Economic Data (FRED), - European Central [Bank](../b/bank.md) (ECB), - Virtu Financial, - Citadel Securities, - Renaissance Technologies,

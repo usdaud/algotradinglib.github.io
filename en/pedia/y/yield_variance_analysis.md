@@ -28,9 +28,9 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), YVA is par
 To conduct YVA, traders often break down the analysis into several key components:
 
 1. **Variance Calculation**: This involves computing the difference between the expected and actual yields. The formula for variance calculation is typically:
-   \[
-   \text{Variance} = \text{Actual [Yield](../y/yield.md)} - \text{Expected [Yield](../y/yield.md)}
-   \]
+ \[
+ \text{Variance} = \text{Actual [Yield](../y/yield.md)} - \text{Expected [Yield](../y/yield.md)}
+ \]
 
 2. **Decomposition of Variance**: Traders decompose the total variance into various contributing factors, such as [market](../m/market.md) conditions, [execution](../e/execution.md) [efficiency](../e/efficiency.md), and model accuracy. This helps in pinpointing the exact sources of variance.
 
@@ -71,16 +71,16 @@ By systematically applying YVA, the [hedge fund](../h/hedge_fund.md) can enhance
 Several tools and [software platforms](../s/software_platforms_for_trading.md) are available to assist traders in conducting [Yield](../y/yield.md) [Variance Analysis](../v/variance_analysis.md). These tools often provide functionalities for data collection, variance calculation, decomposition, and visualization. Some popular platforms include:
 
 - **MATLAB**: MATLAB is a powerful tool for [quantitative analysis](../q/quantitative_analysis.md) and algorithm development. It offers specialized toolboxes for [financial analysis](../f/financial_analysis.md) and can be used to implement custom YVA techniques.
-  - [MATLAB Official Website](https://www.mathworks.com/products/matlab.html)
+ -
 
 - **Python**: Python, with libraries such as NumPy, Pandas, and Scikit-learn, is widely used in the financial [industry](../i/industry.md) for data analysis and algorithm development. Python's versatility makes it a popular choice for YVA.
-  - [Python Official Website](https://www.python.org/)
+ -
 
 - **R**: R is another statistical programming language favored for its extensive libraries and capabilities in data analysis and statistical computing. It’s well-suited for conducting [variance analysis](../v/variance_analysis.md) and visualizing results.
-  - [R Project](https://www.r-project.org/)
+ - R Project
 
 - **Excel**: For more straightforward analyses, Excel offers [robust](../r/robust.md) functionalities for data manipulation, calculation, and visualization. Its ease of use makes it a practical tool for performing YVA.
-  - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+ - Microsoft Excel
 
 #### Conclusion
 

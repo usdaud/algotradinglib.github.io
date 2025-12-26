@@ -63,11 +63,11 @@ Employees should consult with financial advisors to align their [vesting](../v/v
 
 ## Examples of Graded Vesting in Practice
 
-### Case Study: Google 
+### Case Study: Google
 
 Google, one of the major tech companies, implements graded [vesting](../v/vesting.md) schedules for its employee stock [options](../o/options.md) and grants. For most employees, stock grants vest over a four-year period with a specific percentage [vesting](../v/vesting.md) each year.
 
-### Example Company: Facebook 
+### Example Company: Facebook
 
 Similarly, Facebook typically offers stock grants that vest over four years, with accelerated [vesting](../v/vesting.md) opportunities for employees who meet specific performance or service milestones.
 
@@ -76,5 +76,5 @@ Similarly, Facebook typically offers stock grants that vest over four years, wit
 Graded [vesting](../v/vesting.md) is a critical aspect of employee compensation that benefits both employers and employees by promoting retention and providing valuable long-term benefits. Understanding the mechanics behind graded [vesting](../v/vesting.md) helps employees make informed career decisions and assists employers in creating competitive compensation packages. From the legal framework to practical implementation, the graded [vesting](../v/vesting.md) process underscores the intricate balance between rewarding loyalty and managing corporate resources efficiently.
 
 To learn more about how specific companies implement graded [vesting](../v/vesting.md) schedules, please visit their respective career or [financial planning](../f/financial_planning.md) sections on their websites:
-- [Google Careers](https://careers.google.com/)
-- [Meta (Facebook) Careers](https://www.facebook.com/careers/)
+- Google Careers
+- Meta (Facebook) Careers

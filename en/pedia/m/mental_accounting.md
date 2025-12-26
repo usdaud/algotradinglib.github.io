@@ -49,12 +49,12 @@ Businesses also engage in mental [accounting](../a/accounting.md), both internal
 ### Consumer Behavior
 
 1. **Pricing Strategies**: Businesses can use mental [accounting](../a/accounting.md) to create pricing strategies that maximize consumer spending. For instance, bundling products may tap into different mental accounts, encouraging consumers to spend more.
-   
-   **Example**: A phone company might bundle services like internet and TV with a new phone plan, leading consumers to justify the higher [expense](../e/expense.md) as savings in different mental accounts (communication, entertainment).
+
+ **Example**: A phone company might bundle services like internet and TV with a new phone plan, leading consumers to justify the higher [expense](../e/expense.md) as savings in different mental accounts (communication, entertainment).
 
 2. **Promotions and Discounts**: Timing and framing of discounts can exploit mental [accounting](../a/accounting.md) effects. Limited-time offers can create a sense of urgency, leading consumers to dip into mental accounts they might not have otherwise considered.
 
-   **Example**: A retailer might [offer](../o/offer.md) a 24-hour flash [sale](../s/sale.md), prompting consumers to use funds allocated in their "miscellaneous shopping" account.
+ **Example**: A retailer might [offer](../o/offer.md) a 24-hour flash [sale](../s/sale.md), prompting consumers to use funds allocated in their "miscellaneous shopping" account.
 
 ### Internal Financial Management
 

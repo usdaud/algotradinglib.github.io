@@ -48,19 +48,19 @@ Unusual [volume](../v/volume.md) acts as a [proxy](../p/proxy.md) for [investor]
 ### Algorithmic Approaches
 
 - **[Volume](../v/volume.md) Signals:** Algorithms can be programmed to generate [trading signals](../t/trading_signals.md) based on [volume patterns](../v/volume_patterns.md). For example, when [volume](../v/volume.md) exceeds a predefined threshold, the system may trigger a buy or sell [order](../o/order.md).
-  
-  - **Link to Platform Examples:** 
-    - [MetaTrader 4/5: Algorithmic trading capabilities](https://www.metatrader4.com/)
-  
+
+ - **Link to Platform Examples:**
+ - MetaTrader 4/5: Algorithmic trading capabilities
+
 - **[Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP):** VWAP is used to assess whether a [security](../s/security.md) is traded at an unusual [volume](../v/volume.md). The algorithm continuously compares the current price against the VWAP to determine its position relative to the average.
 
 ### Machine Learning Algorithms
 
 - **[Pattern Recognition](../p/pattern_recognition.md):** [Machine learning](../m/machine_learning.md) models can be trained to recognize patterns associated with unusual [volume](../v/volume.md). These models can continuously evolve by learning from historical data and new [market](../m/market.md) conditions.
-  
-  - **Link to Platform Examples:** 
-    - [Kaggle: Data science and machine learning competitions](https://www.kaggle.com/)
-  
+
+ - **Link to Platform Examples:**
+ - Kaggle: Data science and machine learning competitions
+
 - **[Anomaly Detection](../a/anomaly_detection.md):** Advanced [machine learning](../m/machine_learning.md) techniques can flag anomalies in trading [volume](../v/volume.md), helping to identify unusual trading activity that could signify breaking news or significant events.
 
 ## Strategic Applications
@@ -82,13 +82,13 @@ Unusual [volume](../v/volume.md) serves as an essential component of [risk manag
 Several platforms provide tools for detecting and acting upon unusual [volume](../v/volume.md):
 
 - **[QuantConnect](../q/quantconnect.md):** This [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides access to historical data for [backtesting](../b/backtesting.md) unusual [volume](../v/volume.md) strategies.
-  - [QuantConnect](https://www.quantconnect.com/)
-  
+ - QuantConnect
+
 - **[Interactive Brokers](../i/interactive_brokers.md):** Known for its trading technology, [Interactive Brokers](../i/interactive_brokers.md) offers numerous tools for real-time [volume](../v/volume.md) monitoring and [algorithmic trading](../a/algorithmic_trading.md).
-  - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Interactive Brokers
 
 - **[TradeStation](../t/tradestation.md):** [TradeStation](../t/tradestation.md) provides [robust](../r/robust.md) tools for technical and [volume analysis](../v/volume_analysis.md), allowing traders to develop custom indicators and algorithms.
-  - [TradeStation](https://www.tradestation.com/)
+ - TradeStation
 
 ## Challenges and Considerations
 

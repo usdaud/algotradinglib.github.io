@@ -97,31 +97,31 @@ This strategy involves identifying statistical mispricings between different cur
 ### Trading Platforms
 
 Several platforms cater specifically to forex trading, [offering](../o/offering.md) real-time trading capabilities, charting tools, and algorithm integration. Popular platforms include:
-- **MetaTrader 4 (MT4)**: [MetaTrader 4](https://www.metatrader4.com/)
-- **MetaTrader 5 (MT5)**: [MetaTrader 5](https://www.metatrader5.com/)
-- **[cTrader](../c/ctrader.md)**: [cTrader](https://www.ctrader.com/)
+- **MetaTrader 4 (MT4)**: MetaTrader 4
+- **MetaTrader 5 (MT5)**: MetaTrader 5
+- **[cTrader](../c/ctrader.md)**: cTrader
 
 ### Broker Services
 
 Forex brokers facilitate retail traders' access to [liquidity](../l/liquidity.md) providers and [offer](../o/offer.md) [leverage](../l/leverage.md), trading tools, and educational resources. Some well-known brokers include:
-- **[IG Group](../i/ig_group.md)**: [IG Group](https://www.ig.com/)
-- **Forex.com**: [Forex.com](https://www.forex.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[IG Group](../i/ig_group.md)**: IG Group
+- **Forex.com**: Forex.com
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
 
 ### APIs and SDKs
 
 APIs (Application Programming Interfaces) provide the ability to automate [trading strategies](../t/trading_strategies.md) and integrate tools. Some notable forex APIs include:
-- **[OANDA](../o/oanda.md) API**: [OANDA API](https://developer.oanda.com/)
-- **ForexConnect API**: [ForexConnect API](https://fxcodebase.com/)
+- **[OANDA](../o/oanda.md) API**: OANDA API
+- **ForexConnect API**: ForexConnect API
 
 ## Regulation and Compliance
 
 The forex [market](../m/market.md) is decentralized, resulting in various regulatory entities overseeing different regions. In the United States, for instance, the [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) and the National [Futures](../f/futures.md) Association (NFA) are responsible for regulatory oversight. Other prominent regulators include:
-- **Financial Conduct Authority (FCA) – UK**: [FCA](https://www.fca.org.uk/)
-- **Australian Securities and Investments [Commission](../c/commission.md) (ASIC) – Australia**: [ASIC](https://www.asic.gov.au/)
-- **Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC) – Cyprus**: [CySEC](https://www.cysec.gov.cy/en-GB/home/)
+- **Financial Conduct Authority (FCA) – UK**: FCA
+- **Australian Securities and Investments [Commission](../c/commission.md) (ASIC) – Australia**: ASIC
+- **Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC) – Cyprus**: CySEC
 
-Compliance with regulatory requirements ensures [market](../m/market.md) integrity and protects participants from [fraud](../f/fraud.md) and malpractices. 
+Compliance with regulatory requirements ensures [market](../m/market.md) integrity and protects participants from [fraud](../f/fraud.md) and malpractices.
 
 ## Conclusion
 

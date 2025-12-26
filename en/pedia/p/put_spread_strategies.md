@@ -132,17 +132,14 @@ Utilizing modern trading platforms and analytical tools can help in crafting and
 ### Thinkorswim by TD Ameritrade
 [Thinkorswim](../t/thinkorswim.md) provides advanced charting capabilities, real-time data, and comprehensive [options](../o/options.md) analytics. It allows traders to simulate trades, analyze [risk profiles](../r/risk_profiles.md), and utilize various [volatility](../v/volatility.md) metrics.
 
-[TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) offers global [market](../m/market.md) access, advanced trading tools, and sophisticated [options](../o/options.md) analytics. It provides customizable charts, real-time data, and a variety of [order types](../o/order_types_in_trading.md) suitable for executing spread strategies.
 
-[Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=612&ns=T)
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) is another excellent platform, known for its [robust](../r/robust.md) analysis tools and [backtesting](../b/backtesting.md) capabilities. It supports various [options](../o/options.md) strategies, including [spreads](../s/spreads.md), and provides access to a wide [range](../r/range.md) of financial instruments.
 
-[TradeStation](https://www.tradestation.com/platforms-and-tools/trader-tools/)
 
 ## Conclusion
 

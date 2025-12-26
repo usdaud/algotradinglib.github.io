@@ -12,7 +12,7 @@ Later, in the 1980s, the Turtle Traders, a group of novice traders trained by Ri
 Several foundational principles underpin [trend following](../t/trend_following.md) strategies:
 
 1. **Price Behavior**: [Trend](../t/trend.md) followers believe that the only reliable source of information is the price itself. Hence, they primarily base their trading decisions on price movements rather than fundamental data.
-  
+
 2. **[Positive Expectancy](../p/positive_expectancy.md)**: [Trend following](../t/trend_following.md) systems are designed to achieve [positive expectancy](../p/positive_expectancy.md), which means that the overall profits from a series of trades should outweigh the losses. This is typically achieved through a combination of high reward-to-[risk](../r/risk.md) ratios and [robust](../r/robust.md) [risk management](../r/risk_management.md).
 
 3. **Cutting Losses**: One of the cardinal rules in [trend following](../t/trend_following.md) is to cut losses quickly. This involves setting [stop-loss orders](../s/stop-loss_orders.md) to exit positions when the [market](../m/market.md) moves against the [trader](../t/trader.md)'s position by a predefined amount.
@@ -52,7 +52,7 @@ The final step is the [execution](../e/execution.md) of trades. In [algorithmic 
 
 ## Advantages of Trend Following Strategies
 1. **Simplicity**: [Trend following](../t/trend_following.md) strategies are relatively simple to understand and implement compared to other more complex strategies.
-  
+
 2. **Robustness**: These strategies can be applied across various [asset](../a/asset.md) classes and [market](../m/market.md) conditions.
 
 3. **Profitable in Trending Markets**: [Trend following](../t/trend_following.md) strategies can be highly profitable in strongly trending markets, as they aim to capture large price movements.
@@ -72,13 +72,13 @@ The final step is the [execution](../e/execution.md) of trades. In [algorithmic 
 Several renowned trading firms and [hedge](../h/hedge.md) funds specialize in [trend following](../t/trend_following.md) strategies, leveraging sophisticated algorithms and technological [infrastructure](../i/infrastructure.md).
 
 ### Winton Group
-Winton is an [investment management](../i/investment_management.md) company founded by David Harding in 1997. Winton's approach is deeply rooted in scientific research and employs quantitative techniques to implement [trend following](../t/trend_following.md) strategies. [Winton Group](https://www.winton.com/)
+Winton is an [investment management](../i/investment_management.md) company founded by David Harding in 1997. Winton's approach is deeply rooted in scientific research and employs quantitative techniques to implement [trend following](../t/trend_following.md) strategies. Winton Group
 
 ### AQR Capital Management
-AQR is a global investment [firm](../f/firm.md) that applies quantitative methods to [trend following](../t/trend_following.md) strategies across various [asset](../a/asset.md) classes. It was founded in 1998 by Clifford S. Asness, David Kabiller, Robert Krail, and John Liew. [AQR Capital Management](https://www.aqr.com/)
+AQR is a global investment [firm](../f/firm.md) that applies quantitative methods to [trend following](../t/trend_following.md) strategies across various [asset](../a/asset.md) classes. It was founded in 1998 by Clifford S. Asness, David Kabiller, Robert Krail, and John Liew. AQR Capital Management
 
 ### MAN AHL
-MAN AHL is another prominent name in the [trend following](../t/trend_following.md) space. Part of the Man Group, it utilizes advanced computational techniques and systematic models to implement [trend following](../t/trend_following.md) strategies. [MAN AHL](https://www.man.com/ahl)
+MAN AHL is another prominent name in the [trend following](../t/trend_following.md) space. Part of the Man Group, it utilizes advanced computational techniques and systematic models to implement [trend following](../t/trend_following.md) strategies. MAN AHL
 
 ## Developing Your Own Trend Following Algorithm
 For those interested in developing their own [trend following](../t/trend_following.md) algorithms, the following steps serve as a guide:

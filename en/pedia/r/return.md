@@ -60,7 +60,7 @@ IRR is an advanced metric used to estimate the profitability of potential invest
 
 ## Role in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), return metrics enable traders to evaluate the performance of [trading algorithms](../t/trading_algorithms.md) or automated strategies. [Performance metrics](../p/performance_metrics.md) may include raw returns, annualized returns, and [risk](../r/risk.md)-adjusted returns.
+In [algorithmic trading](../a/algorithmic_trading.md), return metrics enable traders to evaluate the performance of [trading algorithms](../t/trading_algorithms.md) or automated strategies. [Performance metrics](../p/performance_metrics.md) may include raw returns, annualized returns, and [risk](../r/risk.md)-adjusted returns.
 
 ### Backtesting
 
@@ -76,11 +76,11 @@ Fintech companies [leverage](../l/leverage.md) advanced technologies to provide 
 
 ### Robo-Advisors
 
-Robo-advisors like [Betterment](https://www.betterment.com) and [Wealthfront](https://www.wealthfront.com) use algorithms to manage portfolios and optimize returns based on the client's [risk tolerance](../r/risk_tolerance.md) and [investment horizon](../i/investment_horizon.md).
+Robo-advisors like Betterment and Wealthfront use algorithms to manage portfolios and optimize returns based on the client's [risk tolerance](../r/risk_tolerance.md) and [investment horizon](../i/investment_horizon.md).
 
 ### Investment Platforms
 
-Platforms like [Robinhood](https://www.robinhood.com) and [Acorns](https://www.acorns.com) [offer](../o/offer.md) users easy access to investment opportunities while providing tools to track return metrics. They often display [historical returns](../h/historical_returns.md), expected returns, and [risk](../r/risk.md)-adjusted returns to help users make informed decisions.
+Platforms like Robinhood and Acorns [offer](../o/offer.md) users easy access to investment opportunities while providing tools to track return metrics. They often display [historical returns](../h/historical_returns.md), expected returns, and [risk](../r/risk.md)-adjusted returns to help users make informed decisions.
 
 ## Conclusion
 

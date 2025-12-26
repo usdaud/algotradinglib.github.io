@@ -5,22 +5,22 @@ A [market](../m/market.md) [index](../i/index_instrument.md) is a statistical me
 ## Types of Market Indices
 
 1. **[Stock Market](../s/stock_market.md) Indices**: These indices measure the performance of a selection of [stocks](../s/stock.md) and are used to gauge the health of the [stock market](../s/stock_market.md).
-    - **Dow Jones Industrial Average (DJIA)**: An [index](../i/index_instrument.md) consisting of 30 large publicly traded companies in the United States.
-    - **S&P 500**: Measures the performance of 500 large companies [listed](../l/listed.md) on stock exchanges in the United States.
-    - **[NASDAQ](../n/nasdaq.md) Composite**: Comprises more than 3,000 [stocks](../s/stock.md) [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [Stock Market](../s/stock_market.md).
+ - **Dow Jones Industrial Average (DJIA)**: An [index](../i/index_instrument.md) consisting of 30 large publicly traded companies in the United States.
+ - **S&P 500**: Measures the performance of 500 large companies [listed](../l/listed.md) on stock exchanges in the United States.
+ - **[NASDAQ](../n/nasdaq.md) Composite**: Comprises more than 3,000 [stocks](../s/stock.md) [listed](../l/listed.md) on the [NASDAQ](../n/nasdaq.md) [Stock Market](../s/stock_market.md).
 
 2. **[Bond Market](../b/bond_market.md) Indices**: These indices track performance in the [bond market](../b/bond_market.md).
-    - **[Bloomberg](../b/bloomberg.md) Barclays US Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md)**: [Benchmark](../b/benchmark.md) [index](../i/index_instrument.md) for US investment-grade bonds.
-    - **ICE BofA US [Bond](../b/bond.md) [Index](../i/index_instrument.md)**: Tracks the performance of the investment-grade [bond market](../b/bond_market.md).
+ - **[Bloomberg](../b/bloomberg.md) Barclays US Aggregate [Bond](../b/bond.md) [Index](../i/index_instrument.md)**: [Benchmark](../b/benchmark.md) [index](../i/index_instrument.md) for US investment-grade bonds.
+ - **ICE BofA US [Bond](../b/bond.md) [Index](../i/index_instrument.md)**: Tracks the performance of the investment-grade [bond market](../b/bond_market.md).
 
 3. **[Commodity](../c/commodity.md) Indices**: These indices track the performance of [commodity](../c/commodity.md) markets.
-    - **S&P GSCI**: A [benchmark](../b/benchmark.md) for investment in the [commodity](../c/commodity.md) markets.
-    - **[Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index_instrument.md) (BCOM)**: A diversified [commodity](../c/commodity.md) [index](../i/index_instrument.md) with exposure to energy, agriculture, and metals markets.
+ - **S&P GSCI**: A [benchmark](../b/benchmark.md) for investment in the [commodity](../c/commodity.md) markets.
+ - **[Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) [Index](../i/index_instrument.md) (BCOM)**: A diversified [commodity](../c/commodity.md) [index](../i/index_instrument.md) with exposure to energy, agriculture, and metals markets.
 
 4. **[Index](../i/index_instrument.md) Methodology**: Indices can be classified by the methodology used to compute them:
-    - **[Price-Weighted Index](../p/price-weighted_index.md)**: The [index](../i/index_instrument.md)'s [value](../v/value.md) is based on the price of its component [stocks](../s/stock.md).
-    - **[Market](../m/market.md) Cap-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md)**: The [index](../i/index_instrument.md) is [weighted](../w/weighted.md) according to the [market value](../m/market_value.md) of its component companies.
-    - **Equal-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md)**: Each stock has the same weight within the [index](../i/index_instrument.md).
+ - **[Price-Weighted Index](../p/price-weighted_index.md)**: The [index](../i/index_instrument.md)'s [value](../v/value.md) is based on the price of its component [stocks](../s/stock.md).
+ - **[Market](../m/market.md) Cap-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md)**: The [index](../i/index_instrument.md) is [weighted](../w/weighted.md) according to the [market value](../m/market_value.md) of its component companies.
+ - **Equal-[Weighted](../w/weighted.md) [Index](../i/index_instrument.md)**: Each stock has the same weight within the [index](../i/index_instrument.md).
 
 ## Importance of Market Indices
 
@@ -32,16 +32,16 @@ A [market](../m/market.md) [index](../i/index_instrument.md) is a statistical me
 ## Major Global Indices
 
 1. **US Indices**:
-    - **Dow Jones Industrial Average (DJIA)**: [DJIA](https://www.djindexes.com/)
-    - **S&P 500**: [S&P 500](https://www.spglobal.com/spdji/en/indices/equity/sp-500/)
+ - **Dow Jones Industrial Average (DJIA)**: DJIA
+ - **S&P 500**: S&P 500
 
 2. **European Indices**:
-    - **FTSE 100**: Tracks 100 largest companies [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md).
-    - **DAX**: Represents 30 major German companies trading on the Frankfurt Stock [Exchange](../e/exchange.md).
+ - **FTSE 100**: Tracks 100 largest companies [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md).
+ - **DAX**: Represents 30 major German companies trading on the Frankfurt Stock [Exchange](../e/exchange.md).
 
 3. **Asian Indices**:
-    - **[Nikkei](../n/nikkei.md) 225**: List of Japan's top 225 blue-chip companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md).
-    - **Hang Seng [Index](../i/index_instrument.md)**: Represents the biggest companies [listed](../l/listed.md) on the Hong Kong Stock [Exchange](../e/exchange.md).
+ - **[Nikkei](../n/nikkei.md) 225**: List of Japan's top 225 blue-chip companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md).
+ - **Hang Seng [Index](../i/index_instrument.md)**: Represents the biggest companies [listed](../l/listed.md) on the Hong Kong Stock [Exchange](../e/exchange.md).
 
 ## Market Index Creation
 

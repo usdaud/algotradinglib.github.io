@@ -12,9 +12,9 @@ K-Fold Cross Validation is a method used to evaluate the performance of a [machi
 
 1. **Divide the Dataset**: Split the dataset into K equally-sized subsets or folds.
 2. **Model Training and Validation**:
-    - For each of the K folds:
-        - Use K-1 folds for training the model.
-        - Use the remaining 1 fold to validate the model's performance.
+ - For each of the K folds:
+ - Use K-1 folds for training the model.
+ - Use the remaining 1 fold to validate the model's performance.
 3. **Averaging Performance**: Calculate and average the [performance metrics](../p/performance_metrics.md) across all K trials.
 
 This method ensures that every data point gets a chance to be in the validation set, providing a more generalized view of the model's performance.
@@ -113,6 +113,6 @@ K-Fold cross validation is a powerful technique in trading to evaluate model per
 
 ## References
 
-1. [KFold Documentation - Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html)
-2. [Hyperparameter Tuning with K-Fold Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/)
-3. [Rolling Cross Validation for Time Series Data](https://www.coursera.org/learn/finance-machine-learning/lecture/PkPci/rolling-cross-validation)
+1. KFold Documentation - Scikit Learn
+2. Hyperparameter Tuning with K-Fold Cross Validation
+3. Rolling Cross Validation for Time Series Data

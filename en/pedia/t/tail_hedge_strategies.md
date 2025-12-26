@@ -13,7 +13,7 @@ Tail [hedge](../h/hedge.md) strategies are sophisticated financial mechanisms de
 - **Low Probability**: Tail events are rare, with a low probability of occurrence. However, their impact can be significant.
 - **High Impact**: Despite their rarity, these events can lead to severe financial losses, potentially jeopardizing the entire investment portfolio.
 - **Fat Tails**: [Financial markets](../f/financial_market.md) often exhibit "fat tails," meaning extreme outcomes are more likely than predicted by the [normal distribution](../n/normal_distribution_in_trading.md).
-  
+
 ## Mechanisms of Tail Hedging
 
 Tail hedging involves various strategies and instruments designed to [offer](../o/offer.md) protection against tail risks. Some of the key mechanisms include:
@@ -89,19 +89,16 @@ Several firms specialize in tail [hedge](../h/hedge.md) strategies, [offering](.
 
 - **Overview**: Universa Investments is known for its focus on [tail risk](../t/tail_risk.md) hedging and [investing](../i/investing.md).
 - **Specialty**: The [firm](../f/firm.md) uses strategies designed to deliver outsized returns during significant [market](../m/market.md) downturns.
-- **Website**: [Universa Investments L.P.](http://universa.net)
 
 ### LongTail Alpha
 
 - **Overview**: LongTail [Alpha](../a/alpha.md) focuses on strategies that provide protection against extreme [market](../m/market.md) events.
 - **Specialty**: [Offering](../o/offering.md) a [range](../r/range.md) of investments designed to perform during periods of financial stress.
-- **Website**: [LongTail Alpha](https://longtailalpha.com)
 
 ### Artemis Capital Management L.P.
 
 - **Overview**: Artemis [Capital](../c/capital.md) Management specializes in [volatility](../v/volatility.md) and [tail risk](../t/tail_risk.md) [hedging strategies](../h/hedging_strategies.md).
 - **Specialty**: Employs an array of [derivative](../d/derivative.md)-based strategies to [hedge](../h/hedge.md) against systemic [market](../m/market.md) risks.
-- **Website**: [Artemis Capital Management](https://www.artemiscm.com)
 
 ## Costs and Considerations
 

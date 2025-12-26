@@ -84,4 +84,4 @@ The CLTV ratio is extensively used in the [mortgage](../m/mortgage.md) [industry
 
 The Combined [Loan](../l/loan.md)-To-[Value](../v/value.md) Ratio is an essential metric in the lending [industry](../i/industry.md), providing insights into the [financial risk](../f/financial_risk.md) associated with lending activities. Both borrowers and lenders benefit from understanding and managing this ratio to ensure favorable [loan](../l/loan.md) conditions and maintain financial stability.
 
-For further details, visit [industry](../i/industry.md) leaders like [JPMorgan Chase](https://www.jpmorganchase.com) or [Bank of America](https://www.bankofamerica.com) for their [mortgage](../m/mortgage.md) offerings and criteria.
+For further details, visit [industry](../i/industry.md) leaders like JPMorgan Chase or Bank of America for their [mortgage](../m/mortgage.md) offerings and criteria.

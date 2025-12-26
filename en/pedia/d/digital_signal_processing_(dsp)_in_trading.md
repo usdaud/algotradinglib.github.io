@@ -84,7 +84,7 @@ DSP techniques are integral to [algorithmic trading](../a/algorithmic_trading.md
 
 #### Case Study 1: High-Frequency Trading (HFT)
 
-A leading HFT [firm](../f/firm.md), Virtu Financial [Virtu Financial](https://www.virtu.com/), employs DSP techniques to [gain](../g/gain.md) a competitive edge. By using advanced filters and FFT, they can process massive amounts of [market](../m/market.md) data in real-time, identify patterns, and execute trades at lightning speeds.
+A leading HFT [firm](../f/firm.md), Virtu Financial Virtu Financial, employs DSP techniques to [gain](../g/gain.md) a competitive edge. By using advanced filters and FFT, they can process massive amounts of [market](../m/market.md) data in real-time, identify patterns, and execute trades at lightning speeds.
 
 #### Case Study 2: Quantitative Hedge Fund
 
@@ -92,4 +92,4 @@ Renaissance Technologies, a renowned quantitative [hedge fund](../h/hedge_fund.m
 
 ### Conclusion
 
-Digital [Signal Processing](../s/signal_processing_in_trading.md) is a powerful tool in the world of trading, [offering](../o/offering.md) techniques that enhance data analysis, improve signal quality, and enable sophisticated [trading strategies](../t/trading_strategies.md). While it presents certain challenges, the advantages it brings in terms of precision, [efficiency](../e/efficiency.md), and real-time processing make it an invaluable [asset](../a/asset.md) for modern traders.
+Digital [Signal Processing](../s/signal_processing_in_trading.md) is a powerful tool in the world of trading, [offering](../o/offering.md) techniques that enhance data analysis, improve signal quality, and enable sophisticated [trading strategies](../t/trading_strategies.md). While it presents certain challenges, the advantages it brings in terms of precision, [efficiency](../e/efficiency.md), and real-time processing make it an invaluable [asset](../a/asset.md) for modern traders.

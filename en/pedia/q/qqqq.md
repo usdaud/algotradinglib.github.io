@@ -76,7 +76,7 @@ While QQQ offers less sectoral [diversification](../d/diversification.md) compar
 Invesco QQQ [Trust](../t/trust.md) is structured as a unit investment [trust](../t/trust.md) (UIT), which offers several tax advantages over mutual funds. These include:
 
 - **Tax [Efficiency](../e/efficiency.md)**: Due to the in-kind creation and [redemption](../r/redemption.md) process, ETFs like QQQ can minimize taxable [capital](../c/capital.md) gains distributions, making them more tax-efficient compared to mutual funds.
-- **Dividends and [Capital](../c/capital.md) Gains**: Investors are liable to pay [taxes](../t/taxes.md) on any dividends received and any [capital](../c/capital.md) gains when they sell their [shares](../s/shares.md). 
+- **Dividends and [Capital](../c/capital.md) Gains**: Investors are liable to pay [taxes](../t/taxes.md) on any dividends received and any [capital](../c/capital.md) gains when they sell their [shares](../s/shares.md).
 
 ### Regulatory Updates
 
@@ -104,6 +104,6 @@ While leveraged and [inverse ETFs](../i/inverse_etfs.md) [offer](../o/offer.md) 
 
 The Invesco QQQ [Trust](../t/trust.md) (previously known as QQQQ) remains one of the most widely recognized and traded ETFs globally. Its focus on the [Nasdaq](../n/nasdaq.md)-100 [Index](../i/index_instrument.md) makes it particularly appealing to investors interested in gaining exposure to leading technology and growth companies. Whether used as a core portfolio holding or as a tactical [asset](../a/asset.md), QQQ provides diversified exposure to sectors that are at the forefront of innovation and growth.
 
-For more details on the Invesco QQQ ETF, please visit the official [Invesco QQQ Trust website](https://www.invesco.com/qqq-etf).
+
 
 Understanding the nuances of QQQ, its [underlying](../u/underlying.md) [index](../i/index_instrument.md), and its role in portfolio construction can help investors make more informed decisions and potentially capture the growth opportunities presented by the leading companies [listed](../l/listed.md) on the [Nasdaq](../n/nasdaq.md).

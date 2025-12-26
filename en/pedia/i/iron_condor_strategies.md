@@ -5,13 +5,13 @@ An [Iron Condor](../i/iron_condor.md) strategy is a popular [options](../o/optio
 ## Components of an Iron Condor Strategy
 
 An [Iron Condor](../i/iron_condor.md) typically involves the following components:
-1. **[Bull Put Spread](../b/bull_put_spread.md)**: 
-   - Selling an out-of-the-[money](../m/money.md) [put option](../p/put.md) (higher [strike price](../s/strike_price.md)).
-   - Buying a further out-of-the-[money](../m/money.md) [put option](../p/put.md) (lower [strike price](../s/strike_price.md)).
+1. **[Bull Put Spread](../b/bull_put_spread.md)**:
+ - Selling an out-of-the-[money](../m/money.md) [put option](../p/put.md) (higher [strike price](../s/strike_price.md)).
+ - Buying a further out-of-the-[money](../m/money.md) [put option](../p/put.md) (lower [strike price](../s/strike_price.md)).
 
 2. **[Bear Call Spread](../b/bear_call_spread.md)**:
-   - Selling an out-of-the-[money](../m/money.md) [call option](../c/call_option.md) (lower [strike price](../s/strike_price.md)).
-   - Buying a further out-of-the-[money](../m/money.md) [call option](../c/call_option.md) (higher [strike price](../s/strike_price.md)).
+ - Selling an out-of-the-[money](../m/money.md) [call option](../c/call_option.md) (lower [strike price](../s/strike_price.md)).
+ - Buying a further out-of-the-[money](../m/money.md) [call option](../c/call_option.md) (higher [strike price](../s/strike_price.md)).
 
 These four legs collectively form an [Iron Condor](../i/iron_condor.md). The sold [options](../o/options.md) create a net [credit](../c/credit.md) to the [trader](../t/trader.md), while the bought [options](../o/options.md) limit the potential loss.
 
@@ -46,16 +46,14 @@ These four legs collectively form an [Iron Condor](../i/iron_condor.md). The sol
 
 ### Data Retrieval and Analysis
 
-Fetch [market](../m/market.md) data using APIs like [Alpha Vantage](https://www.alphavantage.co/) and feed it into the algorithm for analysis. 
-
+Fetch [market](../m/market.md) data using APIs like Alpha Vantage and feed it into the algorithm for analysis.
 ### Signal Generation
 
 Signals might be based on indicators like the [Bollinger Bands](../b/bollinger_bands.md) to identify when the [market](../m/market.md) is likely to stay within a specific [range](../r/range.md).
 
 ### Execution
 
-Using a [trading platform](../t/trading_platform.md) like [Interactive Brokers](https://www.interactivebrokers.com/) to execute the trades. Provided below is an example pseudo-code snippet for setting up an [Iron Condor](../i/iron_condor.md) in Python:
-
+Using a [trading platform](../t/trading_platform.md) like Interactive Brokers to execute the trades. Provided below is an example pseudo-code snippet for setting up an [Iron Condor](../i/iron_condor.md) in Python
 ```python
 [import](../i/import.md) datetime
 from ib_insync [import](../i/import.md) *
@@ -102,16 +100,16 @@ Automated systems can be designed to adjust positions if the [underlying](../u/u
 
 Several platforms and tools are available for implementing [Iron Condor](../i/iron_condor.md) strategies in algo trading:
 
-- **Custom Algorithms**: Platforms like [QuantConnect](https://www.quantconnect.com/) allow for custom algorithms to be coded in Python or C#.
-- **[Backtesting](../b/backtesting.md)**: Services like [TradeStation](https://www.tradestation.com/) provide comprehensive [backtesting](../b/backtesting.md) tools.
-- **[Execution](../e/execution.md)**: APIs like [AlgoTrader’s](https://www.algotrader.com/) provide efficient [execution](../e/execution.md) capabilities on various exchanges.
+- **Custom Algorithms**: Platforms like QuantConnect allow for custom algorithms to be coded in Python or C#.
+- **[Backtesting](../b/backtesting.md)**: Services like TradeStation provide comprehensive [backtesting](../b/backtesting.md) tools.
+- **[Execution](../e/execution.md)**: APIs like AlgoTrader’s provide efficient [execution](../e/execution.md) capabilities on various exchanges.
 
 ## Real-world Examples
 
 Several financial firms have successfully employed [Iron Condor](../i/iron_condor.md) strategies for [portfolio management](../p/portfolio_management.md) and [alpha generation](../a/alpha_generation.md):
 
-- **Two Sigma**: Employs a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [options](../o/options.md)-based strategies like the [Iron Condor](../i/iron_condor.md). More details at [Two Sigma](https://www.twosigma.com/).
-- **Citadel**: Utilizes [algorithmic trading](../a/algorithmic_trading.md) strategies that may include complex [options](../o/options.md) trading methodologies. More details at [Citadel](https://www.citadel.com/).
+- **Two Sigma**: Employs a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [options](../o/options.md)-based strategies like the [Iron Condor](../i/iron_condor.md). More details at Two Sigma.
+- **Citadel**: Utilizes [algorithmic trading](../a/algorithmic_trading.md) strategies that may include complex [options](../o/options.md) trading methodologies. More details at Citadel.
 
 ## Risk Management in Iron Condor Strategies
 

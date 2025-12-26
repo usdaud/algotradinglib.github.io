@@ -1,6 +1,6 @@
 # Internal Growth Rate
 
-The Internal Growth Rate (IGR) is a critical financial metric that measures the maximum rate at which a company can grow its sales, [earnings](../e/earnings.md), and dividends using only its internal resources without having to resort to external [financing](../f/financing.md). This metric is crucial for both management and investors as it indicates the self-sufficiency and [efficiency](../e/efficiency.md) of a [firm](../f/firm.md)'s operations. 
+The Internal Growth Rate (IGR) is a critical financial metric that measures the maximum rate at which a company can grow its sales, [earnings](../e/earnings.md), and dividends using only its internal resources without having to resort to external [financing](../f/financing.md). This metric is crucial for both management and investors as it indicates the self-sufficiency and [efficiency](../e/efficiency.md) of a [firm](../f/firm.md)'s operations.
 
 ## Understanding Internal Growth Rate
 
@@ -37,7 +37,7 @@ A higher [retention ratio](../r/retention_ratio.md) means more [earnings](../e/e
 The Internal Growth Rate provides several insights into a company's operational health and strategic direction:
 
 1. **Self-Sufficiency**: A high IGR indicates that the company can [fund](../f/fund.md) its growth internally without the need for external funding such as loans or [equity financing](../e/equity_financing.md).
-  
+
 2. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Companies with a high IGR typically have efficient operations, strong [profit margins](../p/profit_margins_in_trading.md), and effective [asset](../a/asset.md) utilization.
 
 3. **[Investor](../i/investor.md) Confidence**: Investors often prefer companies with stable and high internal [growth rates](../g/growth_rates_in_trading.md) as they suggest [robust](../r/robust.md) [business models](../b/business_models.md) and future growth potential.
@@ -136,11 +136,10 @@ Incorporating IGR in financial models helps in:
 
 Several successful companies exhibit strong internal [growth rates](../g/growth_rates_in_trading.md), becoming benchmarks in their respective industries. One such example is **Apple Inc.**, known for its high profitability and efficient use of [retained earnings](../r/retained_earnings.md) to [fund](../f/fund.md) innovation and [expansion](../e/expansion.md).
 
-For more information, you can visit Apple's official site: [Apple Inc.](https://www.apple.com/)
 
 Another example is **Google (Alphabet Inc.)**, which efficiently reinvests its [retained earnings](../r/retained_earnings.md) into diverse businesses including [artificial intelligence](../a/artificial_intelligence_in_trading.md), [cloud computing](../c/cloud_computing_in_trading.md), and other high-growth areas.
 
-More information can be found at: [Google (Alphabet Inc.)](https://www.abc.xyz/)
+More information can be found at: Google (Alphabet Inc.)
 
 ## Conclusion
 

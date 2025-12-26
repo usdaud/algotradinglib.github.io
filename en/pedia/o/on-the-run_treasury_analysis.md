@@ -26,14 +26,14 @@ The [yield curve](../y/yield_curve.md) illustrates the yields across different m
 [Arbitrage](../a/arbitrage.md) opportunities may arise due to the pricing spread between on-the-run and [off-the-run Treasuries](../o/off-the-run_treasuries.md). Sophisticated [trading algorithms](../t/trading_algorithms.md) can exploit these inefficiencies.
 
 #### Hedging
-Because of their [benchmark](../b/benchmark.md) status and high [liquidity](../l/liquidity.md), on-the-run Treasuries are often used in [hedging strategies](../h/hedging_strategies.md) to manage [interest rate risk](../i/interest_rate_risk.md). 
+Because of their [benchmark](../b/benchmark.md) status and high [liquidity](../l/liquidity.md), on-the-run Treasuries are often used in [hedging strategies](../h/hedging_strategies.md) to manage [interest rate risk](../i/interest_rate_risk.md).
 
 ## Technological Impact on On-The-Run Treasuries
 ### Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) has a substantial impact on the [market](../m/market.md) for on-the-run Treasuries. Algorithms can quickly react to [market](../m/market.md) news, economic data releases, and other stimuli to [trade](../t/trade.md) Treasuries, providing [liquidity](../l/liquidity.md) and minimizing [bid](../b/bid.md)-ask [spreads](../s/spreads.md).
 
 ### High-Frequency Trading (HFT)
-High-frequency [trading strategies](../t/trading_strategies.md) in the context of on-the-run Treasuries involve intricate algorithms that execute trades in milliseconds to [capitalize](../c/capitalize.md) on minute price movements. Companies specializing in HFT, like Citadel Securities ([Citadel Securities](https://www.citadelsecurities.com/)), have technological frameworks that [offer](../o/offer.md) significant contributions to the [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md) of the [on-the-run Treasury](../o/on-the-run_treasury.md) [market](../m/market.md).
+High-frequency [trading strategies](../t/trading_strategies.md) in the context of on-the-run Treasuries involve intricate algorithms that execute trades in milliseconds to [capitalize](../c/capitalize.md) on minute price movements. Companies specializing in HFT, like Citadel Securities (Citadel Securities), have technological frameworks that [offer](../o/offer.md) significant contributions to the [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md) of the [on-the-run Treasury](../o/on-the-run_treasury.md) [market](../m/market.md).
 
 ## Regulatory Insights
 ### Federal Reserve Open Market Operations

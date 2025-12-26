@@ -32,9 +32,9 @@ Despite their benefits, prepaid [credit](../c/credit.md) cards also have some dr
 
 There are numerous providers [offering](../o/offering.md) prepaid [credit](../c/credit.md) cards with varying features and [fee](../f/fee.md) structures. Some of the popular ones include:
 
-- **Green Dot**: Offers a [range](../r/range.md) of prepaid cards with features like [direct deposit](../d/direct_deposit.md) and mobile [check](../c/check.md) [deposit](../d/deposit.md). [Green Dot](https://www.greendot.com/)
-- **NetSpend**: Known for its extensive network of reload locations and customizable plans. [NetSpend](https://www.netspend.com/)
-- **American Express Serve**: Offers low fees and benefits like free early [direct deposit](../d/direct_deposit.md). [American Express Serve](https://serve.com)
+- **Green Dot**: Offers a [range](../r/range.md) of prepaid cards with features like [direct deposit](../d/direct_deposit.md) and mobile [check](../c/check.md) [deposit](../d/deposit.md). Green Dot
+- **NetSpend**: Known for its extensive network of reload locations and customizable plans. NetSpend
+- **American Express Serve**: Offers low fees and benefits like free early [direct deposit](../d/direct_deposit.md). American Express Serve
 
 ## Types of Prepaid Credit Cards
 

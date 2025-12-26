@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Kickback in the context of [algorithmic trading](../a/accountability.md) refers to any form of compensation provided to brokers, intermediaries, or third parties as an incentive to route trading transactions through specific channels. This practice can take many forms, including direct financial payments, favorable [commission](../c/commission.md) splitting, or indirect benefits such as access to exclusive trading technologies or data.
+Kickback in the context of [algorithmic trading](../a/algorithmic_trading.md) refers to any form of compensation provided to brokers, intermediaries, or third parties as an incentive to route trading transactions through specific channels. This practice can take many forms, including direct financial payments, favorable [commission](../c/commission.md) splitting, or indirect benefits such as access to exclusive trading technologies or data.
 
 ## Historical Context
 
@@ -58,6 +58,6 @@ Modern technology solutions such as [machine learning algorithms](../m/machine_l
 
 ## Conclusion
 
-Kickbacks in [algorithmic trading](../a/accountability.md) represent a significant ethical and legal challenge, affecting [market](../m/market.md) integrity and [investor](../i/investor.md) [trust](../t/trust.md). While common forms of kickbacks include rebates, [commission](../c/commission.md) splitting, and indirect benefits, they can be effectively mitigated through stringent regulations, [transparency](../t/transparency.md), and advanced technological solutions. The ongoing scrutiny and regulation of these practices aim to enhance [market](../m/market.md) [transparency](../t/transparency.md) and ensure that [broker-dealer](../b/broker-dealer.md) activities align with the best interests of the [investor](../i/investor.md). 
+Kickbacks in [algorithmic trading](../a/algorithmic_trading.md) represent a significant ethical and legal challenge, affecting [market](../m/market.md) integrity and [investor](../i/investor.md) [trust](../t/trust.md). While common forms of kickbacks include rebates, [commission](../c/commission.md) splitting, and indirect benefits, they can be effectively mitigated through stringent regulations, [transparency](../t/transparency.md), and advanced technological solutions. The ongoing scrutiny and regulation of these practices aim to enhance [market](../m/market.md) [transparency](../t/transparency.md) and ensure that [broker-dealer](../b/broker-dealer.md) activities align with the best interests of the [investor](../i/investor.md).
 
-For more detailed information on regulatory perspectives, you can visit the official websites of [Securities and Exchange Commission (SEC)](https://www.sec.gov/) and the [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu/).
+For more detailed information on regulatory perspectives, you can visit the official websites of Securities and Exchange Commission (SEC) and the European Securities and Markets Authority (ESMA).

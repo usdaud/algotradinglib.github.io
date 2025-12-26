@@ -51,22 +51,22 @@ Advanced tools and software are essential for effective [market](../m/market.md)
 
 ### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal is a sophisticated and widely used tool that offers real-time data, analytics, and news for financial professionals. It provides comprehensive [market risk](../m/market_risk.md) analytics, including VaR, [stress testing](../s/stress_testing_in_trading.md), and [scenario analysis](../s/scenario_analysis.md). More information can be found at [Bloomberg Professional](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg](../b/bloomberg.md) Terminal is a sophisticated and widely used tool that offers real-time data, analytics, and news for financial professionals. It provides comprehensive [market risk](../m/market_risk.md) analytics, including VaR, [stress testing](../s/stress_testing_in_trading.md), and [scenario analysis](../s/scenario_analysis.md). More information can be found at Bloomberg Professional.
 
 ### MSCI Barra
 
-MSCI Barra offers advanced [risk](../r/risk.md) analytics and [portfolio management](../p/portfolio_management.md) tools. Their solutions include multi-[factor](../f/factor.md) [risk models](../r/risk_models_in_trading.md) that help in understanding and managing [market risk](../m/market_risk.md). More information can be found at [MSCI Barra](https://www.msci.com/portfolio-management).
+MSCI Barra offers advanced [risk](../r/risk.md) analytics and [portfolio management](../p/portfolio_management.md) tools. Their solutions include multi-[factor](../f/factor.md) [risk models](../r/risk_models_in_trading.md) that help in understanding and managing [market risk](../m/market_risk.md). More information can be found at MSCI Barra.
 
 ### RiskMetrics
 
-RiskMetrics, now part of MSCI, provides a [range](../r/range.md) of [risk management](../r/risk_management.md) tools, including VaR, ES, and [stress testing](../s/stress_testing_in_trading.md) capabilities. They are known for their [robust](../r/robust.md) analytics and comprehensive data coverage. More information can be found at [MSCI RiskMetrics](https://www.msci.com/riskmetrics).
+RiskMetrics, now part of MSCI, provides a [range](../r/range.md) of [risk management](../r/risk_management.md) tools, including VaR, ES, and [stress testing](../s/stress_testing_in_trading.md) capabilities. They are known for their [robust](../r/robust.md) analytics and comprehensive data coverage. More information can be found at MSCI RiskMetrics.
 
 ### Algorithmic Trading Platforms
 
 [Algorithmic trading](../a/algorithmic_trading.md) platforms often come with built-in [risk management](../r/risk_management.md) tools that help traders and institutions manage their [market risk](../m/market_risk.md). Some popular platforms include:
 
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) [risk management](../r/risk_management.md) frameworks. More information can be found at [QuantConnect](https://www.quantconnect.com/).
-- **[AlgoTrader](../a/algotrader.md):** Provides [algorithmic trading](../a/algorithmic_trading.md) software with integrated [risk management](../r/risk_management.md) features. More information can be found at [AlgoTrader](https://www.algotrader.com/).
+- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) [risk management](../r/risk_management.md) frameworks. More information can be found at QuantConnect.
+- **[AlgoTrader](../a/algotrader.md):** Provides [algorithmic trading](../a/algorithmic_trading.md) software with integrated [risk management](../r/risk_management.md) features. More information can be found at AlgoTrader.
 
 ## Regulatory Framework for Market Risk
 

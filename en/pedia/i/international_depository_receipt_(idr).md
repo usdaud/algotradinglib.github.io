@@ -41,28 +41,23 @@ While IDRs are meant to enhance [liquidity](../l/liquidity.md), there can be per
 ## Key Players in the IDR Market
 
 ### JPMorgan Chase
-JPMorgan Chase is a prominent global [bank](../b/bank.md) that often acts as a [depository](../d/depository.md) [bank](../b/bank.md) for IDRs. They have an established [infrastructure](../i/infrastructure.md) for managing such financial instruments, providing services from issuance to custody. 
-[More Info](https://www.jpmorganchase.com/)
+JPMorgan Chase is a prominent global [bank](../b/bank.md) that often acts as a [depository](../d/depository.md) [bank](../b/bank.md) for IDRs. They have an established [infrastructure](../i/infrastructure.md) for managing such financial instruments, providing services from issuance to custody.
 
 ### Bank of New York Mellon
 Another significant institution in the IDR space is the [Bank](../b/bank.md) of New York Mellon (BNY Mellon). They have extensive experience in providing [depository](../d/depository.md) services and facilitate the trading of various types of [depository](../d/depository.md) [receipts](../r/receipt.md).
-[More Info](https://www.bnymellon.com/)
 
 ### Citibank
 Citibank also plays a crucial role in the issuance and management of IDRs. They [offer](../o/offer.md) a variety of related services aimed at both issuing companies and investors.
-[More Info](https://www.citigroup.com/)
 
 ## Real-World Examples of IDR Usage
 
-One of the most notable examples of IDRs is Infosys, an Indian [multinational corporation](../m/multinational_corporation.md) that has utilized IDRs to [gain](../g/gain.md) a presence in [multiple](../m/multiple.md) international markets. 
+One of the most notable examples of IDRs is Infosys, an Indian [multinational corporation](../m/multinational_corporation.md) that has utilized IDRs to [gain](../g/gain.md) a presence in [multiple](../m/multiple.md) international markets.
 
 ### Infosys IDRs
 Infosys Limited, [listed](../l/listed.md) on the New York Stock [Exchange](../e/exchange.md) (NYSE) in the form of American [Depository](../d/depository.md) [Shares](../s/shares.md) (ADS), have equivalent International [Depository](../d/depository.md) [Receipts](../r/receipt.md) for investors in other countries looking to diversify into Indian [stocks](../s/stock.md) without the direct complexity of Indian [stock market](../s/stock_market.md) regulations.
-[More Info](https://www.infosys.com/)
 
 ### Case Study: SBI's IDRs
 State [Bank](../b/bank.md) of India (SBI), another major Indian banking institution, launched its IDRs on the London Stock [Exchange](../e/exchange.md), aimed at attracting UK investors looking to invest in [robust](../r/robust.md) Indian financial institutions.
-[More Info](https://www.sbi.co.in/)
 
 ## Conclusion
 International [Depository](../d/depository.md) [Receipts](../r/receipt.md) [offer](../o/offer.md) a valuable mechanism for investors seeking to diversify their portfolios with foreign equities while mitigating the hurdles associated with direct international investment. They also provide foreign companies a streamlined route to access domestic [capital markets](../c/capital_markets.md), thereby enhancing [capital](../c/capital.md) raising capabilities and [visibility](../v/visibility.md). Despite the evident advantages, potential risks such as [currency](../c/currency.md) fluctuations, regulatory changes, and [liquidity](../l/liquidity.md) constraints should be carefully considered.

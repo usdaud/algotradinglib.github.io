@@ -32,7 +32,7 @@ Once terms are agreed upon, a facultative [reinsurance](../r/reinsurance.md) agr
 ### Flexibility in Coverage
 Facultative [reinsurance](../r/reinsurance.md) provides insurers with the flexibility to acquire specific and tailor-made [reinsurance](../r/reinsurance.md) coverage. This is especially beneficial for unique or large risks that may not fit into [treaty reinsurance](../t/treaty_reinsurance.md) provisions.
 
-### Enhanced Risk Management 
+### Enhanced Risk Management
 By transferring high-[value](../v/value.md) or outlier risks to a reinsurer, the primary insurer can better manage its [risk](../r/risk.md) portfolio, stabilize [underwriting](../u/underwriting.md) results, and protect its [financial health](../f/financial_health.md). This also facilitates better [capital](../c/capital.md) [efficiency](../e/efficiency.md) and [solvency](../s/solvency.md) management.
 
 ### Access to Reinsurer Expertise
@@ -68,27 +68,23 @@ Insurers may seek facultative [reinsurance](../r/reinsurance.md) for risks assoc
 ### Munich Re
 Munich Re is one of the world's leading reinsurers [offering](../o/offering.md) a broad array of facultative [reinsurance](../r/reinsurance.md) products. The company leverages its global expertise and [robust](../r/robust.md) financial standing to provide specialized [reinsurance](../r/reinsurance.md) solutions.
 
-[Munich Re Facultative Reinsurance](https://www.munichre.com/en/solutions/reinsurance-property-casualty/facultative-reinsurance.html)
 
 ### Swiss Re
 Swiss Re is another prominent player in the [reinsurance](../r/reinsurance.md) [market](../m/market.md), providing comprehensive facultative [reinsurance](../r/reinsurance.md) services. The company is known for its innovative [risk](../r/risk.md) solutions and strong focus on client customization.
 
-[Swiss Re Facultative Reinsurance](https://www.swissre.com/reinsurance/property-and-casualty/our-facultative-solutions.html)
 
 ### Hannover Re
 Hannover Re ranks among the top reinsurers globally and offers a wide [range](../r/range.md) of facultative [reinsurance](../r/reinsurance.md) products. The company emphasizes tailored solutions to meet the specific needs of its clients.
 
-[Hannover Re Facultative Reinsurance](https://www.hannover-re.com/55319/facultative-reinsurance)
 
 ### SCOR
 SCOR is a global [reinsurance](../r/reinsurance.md) [firm](../f/firm.md) that provides facultative [reinsurance](../r/reinsurance.md) across various lines of [business](../b/business.md). It leverages advanced analytics and [underwriting](../u/underwriting.md) expertise to [offer](../o/offer.md) bespoke [reinsurance](../r/reinsurance.md) coverage.
 
-[SCOR Facultative Reinsurance](https://www.scor.com/en/facultative-reinsurance)
 
 ### Lloyd's
 Lloyd's is a marketplace for [insurance](../i/insurance.md) and [reinsurance](../r/reinsurance.md) that includes participation from various syndicates [offering](../o/offering.md) facultative [reinsurance](../r/reinsurance.md) solutions. Lloyd's facilitates specialized [risk](../r/risk.md) transfer for diverse and complex risks.
 
-[Lloyd's Facultative Reinsurance](https://www.lloyds.com/participation/reinsurance-solutions/facultative-reinsurance)
+Lloyd's Facultative Reinsurance
 
 ## Market Trends in Facultative Reinsurance
 

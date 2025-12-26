@@ -52,21 +52,21 @@ With yields on safe assets like government bonds being extremely low, algorithms
 
 ### United States Federal Reserve
 
-The Federal Reserve implemented a ZRP from December 2008 to December 2015. During this period, the fed funds rate was kept at 0-0.25%. This policy was part of a broader strategy to combat the economic fallout from the [financial crisis](../f/financial_crisis.md). 
+The Federal Reserve implemented a ZRP from December 2008 to December 2015. During this period, the fed funds rate was kept at 0-0.25%. This policy was part of a broader strategy to combat the economic fallout from the [financial crisis](../f/financial_crisis.md).
 
-#### [Federal Reserve - Zero Interest Rates](https://www.federalreserve.gov/monetarypolicy/files/monetary20150225a1.pdf)
+#### Federal Reserve - Zero Interest Rates
 
 ### Bank of Japan
 
 The [Bank](../b/bank.md) of Japan has been a pioneer in utilizing ZRP, having first adopted it in the late 1990s. Despite these efforts, Japan has struggled with [deflation](../d/deflation.md) and stagnant [economic growth](../e/economic_growth.md), raising questions about the long-term effectiveness of such a policy.
 
-#### [Bank of Japan - Zero Interest Rates](https://www.boj.or.jp/en/mopo/outline/qqe.htm/)
+#### Bank of Japan - Zero Interest Rates
 
 ### European Central Bank
 
-The European Central [Bank](../b/bank.md) (ECB) adopted a ZRP following the [Eurozone](../e/eurozone.md) crisis in the early 2010s. 
+The European Central [Bank](../b/bank.md) (ECB) adopted a ZRP following the [Eurozone](../e/eurozone.md) crisis in the early 2010s.
 
-#### [European Central Bank - Zero and Negative Interest Rates](https://www.ecb.europa.eu/mopo/implement/omo/html/index.en.html)
+#### European Central Bank - Zero and Negative Interest Rates
 
 ## Criticisms and Limitations
 
@@ -84,6 +84,6 @@ A zero-rate policy can also adversely affect savers, particularly those who rely
 
 ## Conclusion
 
-The zero-rate policy is a powerful tool deployed by central banks during periods of economic trouble. Its implications for [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md) are vast and complex. While it aims to stimulate borrowing and spending, leading to [economic recovery](../e/economic_recovery.md), it also comes with potential side effects, including [asset](../a/asset.md) [bubbles](../b/bubble.md) and reduced [income](../i/income.md) for savers. 
+The zero-rate policy is a powerful tool deployed by central banks during periods of economic trouble. Its implications for [financial markets](../f/financial_market.md) and [algorithmic trading](../a/algorithmic_trading.md) are vast and complex. While it aims to stimulate borrowing and spending, leading to [economic recovery](../e/economic_recovery.md), it also comes with potential side effects, including [asset](../a/asset.md) [bubbles](../b/bubble.md) and reduced [income](../i/income.md) for savers.
 
 Algorithmic traders must adapt to the unique environment created by ZRP to maintain profitability and manage [risk](../r/risk.md) effectively. The historical applications of ZRP [offer](../o/offer.md) valuable lessons on both its benefits and limitations, informing future [monetary policy](../m/monetary_policy.md) and investment strategies.

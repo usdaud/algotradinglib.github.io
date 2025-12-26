@@ -1,6 +1,6 @@
 # Z-Value Calculation
 
-The [Z-value](../z/z-value_in_trading.md), also known as the [Z-score](../z/z-score.md) or standard score, is a statistical measurement that describes a [value](../v/value.md)'s relationship to the mean of a group of values. In the context of [algorithmic trading](../a/algorithmic_trading.md), the [Z-value](../z/z-value_in_trading.md) is often used to quantify the deviation of [asset](../a/asset.md) price movements from their expected norm, such as to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, [model risk](../m/model_risk.md), and fine-tune [trading strategies](../t/trading_strategies.md). This metric is foundational in understanding the [normal distribution](../n/normal_distribution_in_trading.md) of returns and the likelihood of occurrences under [standard deviation](../s/standard_deviation.md) band settings. 
+The [Z-value](../z/z-value_in_trading.md), also known as the [Z-score](../z/z-score.md) or standard score, is a statistical measurement that describes a [value](../v/value.md)'s relationship to the mean of a group of values. In the context of [algorithmic trading](../a/algorithmic_trading.md), the [Z-value](../z/z-value_in_trading.md) is often used to quantify the deviation of [asset](../a/asset.md) price movements from their expected norm, such as to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, [model risk](../m/model_risk.md), and fine-tune [trading strategies](../t/trading_strategies.md). This metric is foundational in understanding the [normal distribution](../n/normal_distribution_in_trading.md) of returns and the likelihood of occurrences under [standard deviation](../s/standard_deviation.md) band settings.
 
 ## The Concept of Z-Value
 
@@ -90,15 +90,15 @@ print("Z-values:", z_values)
 
 ### High-Frequency Trading
 
-High-Frequency Trading (HFT) firms exploit minuscule price movements over short time frames. Z-values assist these firms in filtering true signals from the [noise](../n/noise.md) in price data, allowing for efficient and rapid decision-making. Firms such as Citadel Securities (\[https://www.citadelsecurities.com/](https://www.citadelsecurities.com/)) [leverage](../l/leverage.md) statistical models that utilize Z-values to optimize their [trading algorithms](../t/trading_algorithms.md).
+High-Frequency Trading (HFT) firms exploit minuscule price movements over short time frames. Z-values assist these firms in filtering true signals from the [noise](../n/noise.md) in price data, allowing for efficient and rapid decision-making. Firms such as Citadel Securities (\ [leverage](../l/leverage.md) statistical models that utilize Z-values to optimize their [trading algorithms](../t/trading_algorithms.md).
 
 ### Quantitative Funds
 
-Quantitative funds like Renaissance Technologies ([https://www.rentech.com/](https://www.rentech.com/)) frequently use Z-values in their [trading models](../t/trading_models.md). These funds rely on vast amounts of data and sophisticated algorithms to identify patterns and predict future price movements. Z-values play a crucial role in normalizing data and detecting statistically significant events across diverse datasets.
+Quantitative funds like Renaissance Technologies ( frequently use Z-values in their [trading models](../t/trading_models.md). These funds rely on vast amounts of data and sophisticated algorithms to identify patterns and predict future price movements. Z-values play a crucial role in normalizing data and detecting statistically significant events across diverse datasets.
 
 ### Risk Analytics
 
-Companies specializing in [risk](../r/risk.md) analytics, such as Axioma ([https://www.axioma.com/](https://www.axioma.com/)), use Z-values to assess portfolio [risk](../r/risk.md) and performance. These metrics help in understanding the likelihood of extreme portfolio returns and the potential impact on overall portfolio [risk](../r/risk.md).
+Companies specializing in [risk](../r/risk.md) analytics, such as Axioma ( use Z-values to assess portfolio [risk](../r/risk.md) and performance. These metrics help in understanding the likelihood of extreme portfolio returns and the potential impact on overall portfolio [risk](../r/risk.md).
 
 ## Challenges and Considerations
 

@@ -133,6 +133,6 @@ Various [software tools](../s/software_tools_for_trading.md) support Z-Test calc
 
 The Z-Test is a powerful statistical tool in the arsenal of algorithmic traders. It helps them validate strategies, compare performance, and make informed decisions based on quantitative data. By understanding and appropriately applying the Z-Test, traders can enhance their [trading systems](../t/trading_systems.md) and improve their [risk management](../r/risk_management.md) practices.
 
-For more detailed information and resources, you can refer to statistical and [financial analysis](../f/financial_analysis.md) platforms such as [QuantConnect](https://www.quantconnect.com/), or educational resources from [Khan Academy](https://www.khanacademy.org/).
+For more detailed information and resources, you can refer to statistical and [financial analysis](../f/financial_analysis.md) platforms such as QuantConnect, or educational resources from Khan Academy.
 
 By employing the Z-Test, traders are better positioned to understand [market dynamics](../m/market_dynamics.md) and enhance their [trading strategies](../t/trading_strategies.md) through rigorous data analysis and [hypothesis testing](../h/hypothesis_testing.md).

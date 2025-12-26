@@ -68,5 +68,3 @@ During the COVID-19 pandemic, many companies sought covenant relief from their l
 ## Conclusion
 
 Covenants play a critical role in the world of [finance](../f/finance.md), providing benefits to both lenders and borrowers. While they impose certain restrictions, they help in fostering a disciplined financial environment and protecting [lender](../l/lender.md) interests. As long as the borrower's interests align with maintaining a [robust](../r/robust.md) [financial health](../f/financial_health.md), covenants function effectively as a tool to ensure orderly [business](../b/business.md) operations and secure lending practices.
-
-[Learn More About Covenants](https://www.investopedia.com/terms/c/covenants.asp)

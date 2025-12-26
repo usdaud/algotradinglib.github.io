@@ -1,6 +1,6 @@
 # Job Lot
 
-The term "job lot" refers to a collection or a group of miscellaneous goods or stock items that are sold together as a single unit at a [discount](../d/discount.md). In the context of [financial markets](../f/financial_market.md), it usually denotes a bundle of [stocks](../s/stock.md), commodities, or other assets that are traded together because they form a single [transaction](../t/transaction.md) unit. This can be particularly relevant in the area of [algorithmic trading](../a/accountability.md), where buying and selling decisions are often executed in bulk based on precise criteria predefined by computer algorithms.
+The term "job lot" refers to a collection or a group of miscellaneous goods or stock items that are sold together as a single unit at a [discount](../d/discount.md). In the context of [financial markets](../f/financial_market.md), it usually denotes a bundle of [stocks](../s/stock.md), commodities, or other assets that are traded together because they form a single [transaction](../t/transaction.md) unit. This can be particularly relevant in the area of [algorithmic trading](../a/algorithmic_trading.md), where buying and selling decisions are often executed in bulk based on precise criteria predefined by computer algorithms.
 
 ## What is a Job Lot?
 
@@ -10,7 +10,7 @@ In financial trading, job lots are often associated with bulk orders that encomp
 
 ## Job Lot in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), also known as algo-trading or high-frequency trading, employs computer programs and algorithms to execute a large number of trading orders at very high speeds. These algorithms can be tailored to carry out transactions based on a variety of factors, such as timing, price, and [volume](../v/volume.md). When it comes to trading job lots, algorithms can be very useful in several ways:
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or high-frequency trading, employs computer programs and algorithms to execute a large number of trading orders at very high speeds. These algorithms can be tailored to carry out transactions based on a variety of factors, such as timing, price, and [volume](../v/volume.md). When it comes to trading job lots, algorithms can be very useful in several ways:
 
 ### Efficiency
 
@@ -88,33 +88,33 @@ Trading job lots across different markets and [asset](../a/asset.md) classes can
 
 ## Companies Specializing in Job Lot Algorithmic Trading
 
-Several companies focus on providing advanced [algorithmic trading](../a/accountability.md) solutions for job lots in various [asset](../a/asset.md) markets. Here are a few notable ones:
+Several companies focus on providing advanced [algorithmic trading](../a/algorithmic_trading.md) solutions for job lots in various [asset](../a/asset.md) markets. Here are a few notable ones:
 
 ### DRW
 
 DRW is a diversified [principal](../p/principal.md) trading [firm](../f/firm.md). It trades its own [capital](../c/capital.md) at its [risk](../r/risk.md) across a variety of [asset](../a/asset.md) classes, instruments, and strategies in markets around the world.
-URL: [DRW](https://drw.com)
+URL: DRW
 
 ### Citadel Securities
 
 Citadel Securities is a leading global [market maker](../m/market_maker.md) across a broad array of [fixed income](../f/fixed_income.md) and [equity](../e/equity.md) products. They use sophisticated algorithms to [trade](../t/trade.md) large job lots for their institutional clients.
-URL: [Citadel Securities](https://www.citadelsecurities.com)
+URL: Citadel Securities
 
 ### Two Sigma
 
 Two Sigma Investments is a major [hedge fund](../h/hedge_fund.md) and [market maker](../m/market_maker.md) that uses technology and [data science](../d/data_science_in_trading.md) to solve complex financial problems, including the [execution](../e/execution.md) of job lots.
-URL: [Two Sigma](https://www.twosigma.com)
+URL: Two Sigma
 
 ### Jump Trading
 
 [Jump Trading](../j/jump_trading.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that leverages technology and [quantitative research](../q/quantitative_research.md) to [trade](../t/trade.md) job lots efficiently.
-URL: [Jump Trading](https://www.jumptrading.com)
+URL: Jump Trading
 
 ### Renaissance Technologies
 
 Renaissance Technologies is a quantitative [investment management](../i/investment_management.md) company known for its effective use of mathematics and algorithms in trading. They often [trade](../t/trade.md) job lots in a wide [range](../r/range.md) of markets.
-URL: [Renaissance Technologies](https://www.rentec.com)
+URL: Renaissance Technologies
 
 ## Conclusion
 
-Job lots play a vital role in various [financial markets](../f/financial_market.md), [offering](../o/offering.md) traders the advantages of [diversification](../d/diversification.md), cost [efficiency](../e/efficiency.md), and simplified [portfolio management](../p/par.md). With the advent of [algorithmic trading](../a/accountability.md), the [execution](../e/execution.md) of job lots has become more efficient and scalable, but it also brings challenges like [liquidity](../l/liquidity.md) concerns and complex regulatory requirements. Companies specializing in [algorithmic trading](../a/accountability.md) are continuously innovating to manage these challenges, making job lot trading a significant aspect of modern [financial markets](../f/financial_market.md).
+Job lots play a vital role in various [financial markets](../f/financial_market.md), [offering](../o/offering.md) traders the advantages of [diversification](../d/diversification.md), cost [efficiency](../e/efficiency.md), and simplified [portfolio management](../p/par.md). With the advent of [algorithmic trading](../a/algorithmic_trading.md), the [execution](../e/execution.md) of job lots has become more efficient and scalable, but it also brings challenges like [liquidity](../l/liquidity.md) concerns and complex regulatory requirements. Companies specializing in [algorithmic trading](../a/algorithmic_trading.md) are continuously innovating to manage these challenges, making job lot trading a significant aspect of modern [financial markets](../f/financial_market.md).

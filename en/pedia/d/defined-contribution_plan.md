@@ -11,13 +11,13 @@ Unlike defined-benefit plans, where retirees receive a predetermined monthly amo
 ## Comparison with Defined-Benefit Plans
 
 - **Defined-Benefit Plans**: In a DB plan, an employer promises a specified pension [payment](../p/payment.md) on retirement based on criteria such as employee's [earnings](../e/earnings.md) history, tenure of service, and age. The employer bears the investment risks and funding responsibilities.
-  
+
 - **Defined-Contribution Plans**: In a DC plan, the contribution amount is fixed, but the benefits depend on the investment performance. Here, the individual employee bears the investment risks.
 
 ## Types of Defined-Contribution Plans
 
 ### 401(k) Plans
-Named after the section of the tax code that governs them, 401(k) plans are the most widespread type of defined-contribution plans in the United States. Usually, both employees and employers can make contributions. Employers may also [offer](../o/offer.md) matching contributions. 
+Named after the section of the tax code that governs them, 401(k) plans are the most widespread type of defined-contribution plans in the United States. Usually, both employees and employers can make contributions. Employers may also [offer](../o/offer.md) matching contributions.
 
 ### 403(b) Plans
 403(b) plans are similar to 401(k) plans but are tailored for employees of public schools, certain non-profits, and some clergy members.
@@ -37,7 +37,7 @@ For defined-contribution plans, there are often limits on how much an individual
 
 ## Investment Choices
 
-Participants in defined-contribution plans can generally direct their own investment choices among the [options](../o/options.md) provided by the plan. These [options](../o/options.md) might include various mutual funds, [stocks](../s/stock.md), bonds, [money market](../m/money_market.md) funds, and other investment products. The available investment choices typically impact the [range](../r/range.md) of potential returns and risks within the plan. 
+Participants in defined-contribution plans can generally direct their own investment choices among the [options](../o/options.md) provided by the plan. These [options](../o/options.md) might include various mutual funds, [stocks](../s/stock.md), bonds, [money market](../m/money_market.md) funds, and other investment products. The available investment choices typically impact the [range](../r/range.md) of potential returns and risks within the plan.
 
 Plan providers often [offer](../o/offer.md) resources to assist employees in making informed investment decisions, including educational materials, financial advice, and online tools that provide [wealth](../w/wealth.md) modeling and projection.
 
@@ -51,7 +51,7 @@ Defined-contribution plans are governed under the Employee Retirement [Income](.
 - **Portability**: Employees can often roll over funds into a new employer's plan or an individual retirement account (IRA) if they change jobs.
 - **Flexibility**: Employees have control over their retirement savings and can choose how much to contribute and where to invest.
 - **Employer Contributions**: Many plans include employer contributions or matching, which can significantly boost savings.
-  
+
 ### Cons
 - **Investment [Risk](../r/risk.md)**: Employees bear the [risk](../r/risk.md) of investment losses, and poor investment choices can adversely affect retirement savings.
 - **Fees**: High fees can erode the investment returns on contributions.
@@ -60,19 +60,19 @@ Defined-contribution plans are governed under the Employee Retirement [Income](.
 ## Leading Companies and Plan Providers
 
 ### Vanguard
-Vanguard is one of the largest providers of defined-contribution plans in the United States. They [offer](../o/offer.md) a [range](../r/range.md) of plans and investment [options](../o/options.md), with a strong emphasis on low-cost [index](../i/index_instrument.md) funds. [Vanguard](https://investor.vanguard.com/)
+Vanguard is one of the largest providers of defined-contribution plans in the United States. They [offer](../o/offer.md) a [range](../r/range.md) of plans and investment [options](../o/options.md), with a strong emphasis on low-cost [index](../i/index_instrument.md) funds. Vanguard
 
 ### Fidelity Investments
-Fidelity is another major player in the retirement plan [market](../m/market.md), [offering](../o/offering.md) a suite of defined-contribution plan services, including 401(k), 403(b), and 457 plans. They provide a broad array of investment [options](../o/options.md) and [robust](../r/robust.md) [financial planning](../f/financial_planning.md) and advisory services. [Fidelity Investments](https://www.fidelity.com/)
+Fidelity is another major player in the retirement plan [market](../m/market.md), [offering](../o/offering.md) a suite of defined-contribution plan services, including 401(k), 403(b), and 457 plans. They provide a broad array of investment [options](../o/options.md) and [robust](../r/robust.md) [financial planning](../f/financial_planning.md) and advisory services. Fidelity Investments
 
 ### T. Rowe Price
-T. Rowe Price focuses on providing diverse retirement plan [options](../o/options.md) with strong [customer service](../c/customer_service.md) and [investment management](../i/investment_management.md) capabilities. They manage various types of defined-contribution plans, [offering](../o/offering.md) considerable support and resources to plan sponsors and participants. [T. Rowe Price](https://www.troweprice.com/)
+T. Rowe Price focuses on providing diverse retirement plan [options](../o/options.md) with strong [customer service](../c/customer_service.md) and [investment management](../i/investment_management.md) capabilities. They manage various types of defined-contribution plans, [offering](../o/offering.md) considerable support and resources to plan sponsors and participants. T. Rowe Price
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) provides defined-contribution plan services focusing on [offering](../o/offering.md) flexibility and [robust](../r/robust.md) participant education resources. They [offer](../o/offer.md) plans that allow extensive customization and self-directed investment [options](../o/options.md). [Charles Schwab](https://www.schwab.com/)
+[Charles Schwab](../c/charles_schwab.md) provides defined-contribution plan services focusing on [offering](../o/offering.md) flexibility and [robust](../r/robust.md) participant education resources. They [offer](../o/offer.md) plans that allow extensive customization and self-directed investment [options](../o/options.md). Charles Schwab
 
 ### Empower Retirement
-Empower Retirement is known for its comprehensive retirement services and broad spectrum of plans, including 401(k), 403(b), and governmental 457 plans. They emphasize strong plan management and participant engagement. [Empower Retirement](https://www.empower-retirement.com/)
+Empower Retirement is known for its comprehensive retirement services and broad spectrum of plans, including 401(k), 403(b), and governmental 457 plans. They emphasize strong plan management and participant engagement. Empower Retirement
 
 ## Conclusion
 

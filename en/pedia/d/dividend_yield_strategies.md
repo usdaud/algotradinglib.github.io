@@ -15,7 +15,7 @@ For example, if a company pays $2 in annual dividends and its stock price is $50
 [Dividend Yield](../d/dividend_yield.md) = ($2 / $50) x 100% = 4%
 ```
 
-A higher [dividend yield](../d/dividend_yield.md) indicates that a company is returning a larger amount of [money](../m/money.md) to shareholders relative to its stock price. [Dividend](../d/dividend.md) yields can vary significantly between industries and [market](../m/market.md) conditions. 
+A higher [dividend yield](../d/dividend_yield.md) indicates that a company is returning a larger amount of [money](../m/money.md) to shareholders relative to its stock price. [Dividend](../d/dividend.md) yields can vary significantly between industries and [market](../m/market.md) conditions.
 
 ## Types of Dividend Yield Strategies
 
@@ -94,7 +94,7 @@ Many companies [offer](../o/offer.md) [Dividend Reinvestment](../d/dividend_rein
 Several [exchange](../e/exchange.md)-traded funds (ETFs) and mutual funds focus on high-[dividend](../d/dividend.md)-yielding [stocks](../s/stock.md). For example, the **Vanguard High [Dividend Yield](../d/dividend_yield.md) ETF (VYM)** and the **Schwab U.S. [Dividend](../d/dividend.md) [Equity](../e/equity.md) ETF (SCHD)** target [stocks](../s/stock.md) with strong [dividend](../d/dividend.md) yields. These funds provide [diversification](../d/diversification.md) and professional management.
 
 ### 3. Online Platforms
-Many financial platforms and brokerages [offer](../o/offer.md) tools to screen for high-[dividend](../d/dividend.md)-yielding [stocks](../s/stock.md) and construct customized portfolios. Websites like [Seeking Alpha](https://seekingalpha.com/), [Morningstar](https://www.morningstar.com/), and [Yahoo Finance](https://finance.yahoo.com/) provide a [wealth](../w/wealth.md) of information on [dividend](../d/dividend.md) [stocks](../s/stock.md) and [yield](../y/yield.md) analyses.
+Many financial platforms and brokerages [offer](../o/offer.md) tools to screen for high-[dividend](../d/dividend.md)-yielding [stocks](../s/stock.md) and construct customized portfolios. Websites like Seeking Alpha, Morningstar, and Yahoo Finance provide a [wealth](../w/wealth.md) of information on [dividend](../d/dividend.md) [stocks](../s/stock.md) and [yield](../y/yield.md) analyses.
 
 ## Conclusion
 

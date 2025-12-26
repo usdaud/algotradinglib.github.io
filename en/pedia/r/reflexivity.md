@@ -49,19 +49,19 @@ The concept of reflexivity is closely related to [behavioral finance](../b/behav
 ### Case Studies
 
 - **[George Soros](../g/george_soros.md) and the British Pound:** One of the most famous examples of reflexivity in action is [George Soros](../g/george_soros.md)' [speculation](../s/speculation.md) against the British Pound in 1992. Soros believed that the pound was [overvalued](../o/overvalued.md) within the European [Exchange Rate](../e/exchange_rate.md) Mechanism (ERM). As Soros and other traders acted on this belief by shorting the pound, their actions contributed to the [currency](../c/currency.md)'s [devaluation](../d/devaluation.md), ultimately forcing the UK to withdraw from the ERM.
-  
+
 - **Dot-com Bubble:** The late 1990s witnessed a massive overvaluation of internet-based companies, driven by a widespread belief in the revolutionary potential of the internet. As investors poured [money](../m/money.md) into these companies, their valuations soared, attracting even more investment. The bubble eventually burst in 2000, resulting in massive losses.
 
 ### Algorithmic Trading and Reflexivity
 
-In the realm of [algorithmic trading](../a/accountability.md), understanding reflexivity can [offer](../o/offer.md) an edge. Modern [trading algorithms](../t/trading_algorithms.md) can be designed to identify and exploit reflexive patterns by:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding reflexivity can [offer](../o/offer.md) an edge. Modern [trading algorithms](../t/trading_algorithms.md) can be designed to identify and exploit reflexive patterns by:
 
 - **[Sentiment Analysis](../s/sentiment_analysis.md):** Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge [market sentiment](../m/market_sentiment.md) from news articles, [social media](../s/social_media.md), and other sources to predict [market](../m/market.md) movements.
 - **[Reinforcement Learning](../r/reinforcement_learning.md):** Applying [machine learning](../m/machine_learning.md) techniques where algorithms adapt their strategies based on [market](../m/market.md) feedback, mimicking the process of human traders adjusting their views and actions.
 
 ### Fintech Solutions
 
-The rise of fintech solutions has provided new tools for understanding and leveraging reflexivity in markets. Platforms like [Kensho](https://www.kensho.com/) and [QuantConnect](https://www.quantconnect.com/) [offer](../o/offer.md) advanced analytics and [algorithmic trading](../a/accountability.md) capabilities, enabling [market](../m/market.md) participants to better navigate the reflexive nature of [financial markets](../f/financial_market.md).
+The rise of fintech solutions has provided new tools for understanding and leveraging reflexivity in markets. Platforms like Kensho and QuantConnect [offer](../o/offer.md) advanced analytics and [algorithmic trading](../a/algorithmic_trading.md) capabilities, enabling [market](../m/market.md) participants to better navigate the reflexive nature of [financial markets](../f/financial_market.md).
 
 ## Criticisms and Challenges
 

@@ -17,7 +17,7 @@ In a bail-in, specific liabilities of the failing [bank](../b/bank.md) are writt
 Several major bail-ins have taken place in recent history, some of the most notable include:
 
 - **Cyprus (2013)**: In the wake of the [financial crisis](../f/financial_crisis.md), Cyprus applied a bail-in for its Laiki [Bank](../b/bank.md) and [Bank](../b/bank.md) of Cyprus. Depositors with balances exceeding €100,000 faced significant losses.
-  
+
 ## Regulation and Legal Framework
 
 Various regulatory frameworks have been developed to govern the bail-in process, ensuring [transparency](../t/transparency.md) and orderliness in the event of [financial distress](../f/financial_distress.md). These frameworks are often embedded within broader banking regulations and financial stability measures.
@@ -26,13 +26,13 @@ Various regulatory frameworks have been developed to govern the bail-in process,
 
 The **[Bank](../b/bank.md) Recovery and Resolution Directive (BRRD)** is the [principal](../p/principal.md) legal framework that lays out the rules for bail-ins within the EU. It includes provisions for the hierarchy of liabilities, [creditor](../c/creditor.md) safeguards, and procedural steps for implementing a bail-in.
 
-For more information, visit [European Commission Banking Union](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/banking-union_en).
+For more information, visit European Commission Banking Union.
 
 ### United States
 
 The **[Dodd-Frank Wall Street Reform and Consumer Protection Act](../d/dodd-frank_wall_street_reform_and_consumer_protection_act.md)** incorporates bail-in like provisions under its "orderly [liquidation](../l/liquidation.md) authority," allowing for the [restructuring](../r/restructuring.md) of failing financial institutions.
 
-For more information, visit [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/spotlight/dodd-frank.shtml).
+For more information, visit U.S. Securities and Exchange Commission (SEC).
 
 ## Impact on Stakeholders
 
@@ -95,4 +95,4 @@ As regulatory frameworks evolve and [financial markets](../f/financial_market.md
 
 Bail-ins represent a crucial evolution in the approach to managing financial crises, shifting the burden from taxpayers to investors and creditors. While they present challenges, their systematic integration into financial regulation offers a safer and more responsible method of addressing [bank](../b/bank.md) failures. Financial institutions, investors, policymakers, and regulators must continue to collaborate to refine and improve the effectiveness of bail-ins as a key tool for financial stability.
 
-For more detailed information or company-specific applications, you can visit additional resources like [Basel Committee on Banking Supervision](https://www.bis.org/bcbs/) or [Financial Stability Board](https://www.fsb.org/).
+For more detailed information or company-specific applications, you can visit additional resources like Basel Committee on Banking Supervision or Financial Stability Board.

@@ -62,21 +62,18 @@ The [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH) sta
 
 ### Vanguard 500 Index Fund
 
-The Vanguard 500 [Index Fund](../i/index_fund.md) is one of the oldest and most well-known passive [index](../i/index_instrument.md) funds, designed to track the performance of the S&P 500. 
+The Vanguard 500 [Index Fund](../i/index_fund.md) is one of the oldest and most well-known passive [index](../i/index_instrument.md) funds, designed to track the performance of the S&P 500.
 
-- **Website:** [Vanguard](https://www.vanguard.com)
 
 ### SPDR S&P 500 ETF Trust (SPY)
 
 The SPDR S&P 500 ETF [Trust](../t/trust.md) is one of the largest and most [liquid](../l/liquid.md) ETFs in the world. It aims to provide investment results that correspond to the performance of the S&P 500 [Index](../i/index_instrument.md).
 
-- **Website:** [SPDR](https://www.ssga.com)
 
 ### Fidelity ZERO Total Market Index Fund (FZROX)
 
 The Fidelity ZERO Total [Market Index](../m/market_index.md) [Fund](../f/fund.md) seeks to provide investment results that correspond to the [total return](../t/total_return.md) of a broad [range](../r/range.md) of U.S. [stocks](../s/stock.md). Notably, it charges no [expense ratio](../e/expense_ratio.md), making it an attractive option for cost-conscious investors.
 
-- **Website:** [Fidelity](https://www.fidelity.com)
 
 ## Historical Performance
 

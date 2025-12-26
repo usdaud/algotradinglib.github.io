@@ -107,6 +107,6 @@ The future of net neutrality [will](../w/will.md) depend on ongoing regulatory, 
 
 Net neutrality is a complex and evolving [issue](../i/issue.md) at the intersection of technology, law, [economics](../e/economics.md), and society. It has profound implications for consumers, content providers, ISPs, and policymakers. Understanding the historical background, key arguments, legal landscape, and future trends is essential for engaging in informed discussions about the future of the internet.
 
-For further information on specific legal texts and updates on net neutrality regulations, you may visit the Federal Communications [Commission](../c/commission.md) (FCC) [website](https://www.fcc.gov/), the [European Union](../e/european_union_(eu).md)'s [Digital Single Market](https://ec.europa.eu/digital-strategy/) pages, or the Telecom Regulatory Authority of India's [website](https://www.trai.gov.in/).
+For further information on specific legal texts and updates on net neutrality regulations, you may visit the Federal Communications [Commission](../c/commission.md) (FCC) online platform, the [European Union](../e/european_union_(eu).md)'s Digital Single Market pages, or the Telecom Regulatory Authority of India's online platform.
 
 ([Note](../n/note.md): Keep in mind that the links are for official sources and provide direct access to the relevant regulatory bodies, rather than secondary summaries or opinions.)

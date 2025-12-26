@@ -51,13 +51,13 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predic
 ## Leading Companies in Yield-Curve Management
 
 ### BlackRock
-BlackRock, one of the largest [asset management](../a/asset_management.md) companies globally, utilizes advanced tools and analytics as part of their [yield](../y/yield.md)-curve management strategies to optimize fixed-[income](../i/income.md) portfolios. Their solutions [leverage](../l/leverage.md) a combination of human expertise and [algorithmic trading](../a/algorithmic_trading.md). [Link](https://www.blackrock.com)
+BlackRock, one of the largest [asset management](../a/asset_management.md) companies globally, utilizes advanced tools and analytics as part of their [yield](../y/yield.md)-curve management strategies to optimize fixed-[income](../i/income.md) portfolios. Their solutions [leverage](../l/leverage.md) a combination of human expertise and [algorithmic trading](../a/algorithmic_trading.md). Link
 
 ### PIMCO
-Pacific [Investment Management](../i/investment_management.md) Company (PIMCO) specializes in active fixed-[income](../i/income.md) management, employing various [yield-curve strategies](../y/yield-curve_strategies.md) to achieve superior performance. They utilize sophisticated [risk management](../r/risk_management.md) systems and economic [forecasting models](../f/forecasting_models.md). [Link](https://www.pimco.com)
+Pacific [Investment Management](../i/investment_management.md) Company (PIMCO) specializes in active fixed-[income](../i/income.md) management, employing various [yield-curve strategies](../y/yield-curve_strategies.md) to achieve superior performance. They utilize sophisticated [risk management](../r/risk_management.md) systems and economic [forecasting models](../f/forecasting_models.md). Link
 
 ### Vanguard
-Vanguard offers both active and passive fixed-[income](../i/income.md) management solutions, integrating [yield-curve strategies](../y/yield-curve_strategies.md) to enhance returns and manage risks for [bond](../b/bond.md) investors. Their approach combines long-term investment perspectives with [yield](../y/yield.md)-curve analysis. [Link](https://www.vanguard.com)
+Vanguard offers both active and passive fixed-[income](../i/income.md) management solutions, integrating [yield-curve strategies](../y/yield-curve_strategies.md) to enhance returns and manage risks for [bond](../b/bond.md) investors. Their approach combines long-term investment perspectives with [yield](../y/yield.md)-curve analysis. Link
 
 ## Challenges in Yield-Curve Management
 

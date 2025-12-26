@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Global [asset allocation](../a/asset_allocation.md) involves the practice of distributing investments across various [asset](../a/asset.md) classes and geographic regions to optimize returns while minimizing [risk](../r/risk.md). 
+Global [asset allocation](../a/asset_allocation.md) involves the practice of distributing investments across various [asset](../a/asset.md) classes and geographic regions to optimize returns while minimizing [risk](../r/risk.md).
 
 ### Core Concepts and Definitions
 
@@ -92,11 +92,11 @@ Dynamic [asset allocation](../a/asset_allocation.md) involves continually adjust
 
 #### Software Solutions
 
-Various software solutions [offer](../o/offer.md) tools for [asset allocation](../a/asset_allocation.md), [portfolio management](../p/portfolio_management.md), and [risk](../r/risk.md) assessment. Key players in this domain include BlackRock’s Aladdin (www.blackrock.com/aladdin), [Morningstar](../m/morningstar.md) Direct (www.[morningstar](../m/morningstar.md).com/products/direct), and [FactSet](../f/factset.md) (www.[factset](../f/factset.md).com).
+Various software solutions [offer](../o/offer.md) tools for [asset allocation](../a/asset_allocation.md), [portfolio management](../p/portfolio_management.md), and [risk](../r/risk.md) assessment. Key players in this domain include BlackRock’s Aladdin ( [Morningstar](../m/morningstar.md) Direct ( and [FactSet](../f/factset.md) (
 
 #### Algorithms and Automation
 
-[Algorithmic trading](../a/algorithmic_trading.md) and automation can assist in real-time [portfolio management](../p/portfolio_management.md) and [rebalancing](../r/rebalancing.md). Firms like Two Sigma (www.twosigma.com) and Renaissance Technologies are leaders in applying quantitative methods to [asset allocation](../a/asset_allocation.md).
+[Algorithmic trading](../a/algorithmic_trading.md) and automation can assist in real-time [portfolio management](../p/portfolio_management.md) and [rebalancing](../r/rebalancing.md). Firms like Two Sigma ( and Renaissance Technologies are leaders in applying quantitative methods to [asset allocation](../a/asset_allocation.md).
 
 ### Case Studies
 
@@ -111,4 +111,3 @@ The CPPIB adopts a total portfolio approach, considering all [asset](../a/asset.
 ### Conclusion
 
 Global [asset allocation](../a/asset_allocation.md) is a dynamic process that involves understanding, selecting, and managing a variety of [asset](../a/asset.md) classes across different geographic regions. By utilizing modern theories, models, and tools, investors can construct well-diversified portfolios that optimize returns for a given level of [risk](../r/risk.md).
-

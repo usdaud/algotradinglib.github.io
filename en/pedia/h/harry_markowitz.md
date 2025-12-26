@@ -13,16 +13,16 @@ Modern Portfolio Theory revolutionized the field of investment and [finance](../
 ### Key Concepts of MPT
 
 1. **[Mean-Variance Optimization](../m/mean-variance_optimization.md)**:
-   Markowitz introduced the concept of [mean-variance optimization](../m/mean-variance_optimization.md), which involves constructing a portfolio that minimizes [risk](../r/risk.md) (variance) for a given level of [expected return](../e/expected_return.md) (mean). Conversely, it can also involve maximizing [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md). 
+ Markowitz introduced the concept of [mean-variance optimization](../m/mean-variance_optimization.md), which involves constructing a portfolio that minimizes [risk](../r/risk.md) (variance) for a given level of [expected return](../e/expected_return.md) (mean). Conversely, it can also involve maximizing [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md).
 
 2. **[Efficient Frontier](../e/efficient_frontier.md)**:
-   The [efficient frontier](../e/efficient_frontier.md) is a graphical representation of the best possible portfolios that [offer](../o/offer.md) the highest [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md). Portfolios that lie on the [efficient frontier](../e/efficient_frontier.md) are considered optimal, as they provide the best [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md).
+ The [efficient frontier](../e/efficient_frontier.md) is a graphical representation of the best possible portfolios that [offer](../o/offer.md) the highest [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md). Portfolios that lie on the [efficient frontier](../e/efficient_frontier.md) are considered optimal, as they provide the best [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md).
 
 3. **[Risk](../r/risk.md) and [Return](../r/return.md)**:
-   Markowitz’s model relies on the assumption that investors are rational and [risk-averse](../r/risk-averse.md). Investors seek to maximize [return](../r/return.md) for a given level of [risk](../r/risk.md), and they prefer portfolios that [offer](../o/offer.md) the best potential for [return](../r/return.md) with the least amount of [risk](../r/risk.md).
+ Markowitz’s model relies on the assumption that investors are rational and [risk-averse](../r/risk-averse.md). Investors seek to maximize [return](../r/return.md) for a given level of [risk](../r/risk.md), and they prefer portfolios that [offer](../o/offer.md) the best potential for [return](../r/return.md) with the least amount of [risk](../r/risk.md).
 
 4. **[Diversification](../d/diversification.md)**:
-   One of the cornerstone principles of MPT is [diversification](../d/diversification.md), which involves spreading investments across different assets to reduce [risk](../r/risk.md). By holding a diversified portfolio, the [unsystematic risk](../u/unsystematic_risk.md) (specific to individual investments) can be minimized, leaving the [investor](../i/investor.md) with [systematic risk](../s/systematic_risk.md) ([market risk](../m/market_risk.md)) which cannot be diversified away.
+ One of the cornerstone principles of MPT is [diversification](../d/diversification.md), which involves spreading investments across different assets to reduce [risk](../r/risk.md). By holding a diversified portfolio, the [unsystematic risk](../u/unsystematic_risk.md) (specific to individual investments) can be minimized, leaving the [investor](../i/investor.md) with [systematic risk](../s/systematic_risk.md) ([market risk](../m/market_risk.md)) which cannot be diversified away.
 
 ### Mathematical Formulation
 
@@ -34,7 +34,7 @@ At the heart of MPT lies the [mean-variance analysis](../m/mean-variance_analysi
 
 where \( w_i \) is the weight of the ith [asset](../a/asset.md) in the portfolio, \( E(R_i) \) is the [expected return](../e/expected_return.md) of the ith [asset](../a/asset.md), and \( \sigma_{ij} \) is the [covariance](../c/covariance.md) between the returns of assets \( i \) and \( j \).
 
-The goal is to find a set of weights \( \{ w_1, w_2, ..., w_n \} \) that minimize the [portfolio variance](../p/portfolio_variance.md) for a given [expected return](../e/expected_return.md) or maximize the [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md).
+The goal is to find a set of weights \( \{ w_1, w_2,..., w_n \} \) that minimize the [portfolio variance](../p/portfolio_variance.md) for a given [expected return](../e/expected_return.md) or maximize the [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md).
 
 ## Impact on Financial Theory and Practice
 
@@ -90,7 +90,7 @@ Researchers and practitioners continue to build on Markowitz’s work, exploring
 
 Harry Markowitz’s pioneering work in modern portfolio theory has left an indelible mark on the field of [finance](../f/finance.md). His insights into [diversification](../d/diversification.md), [risk](../r/risk.md), and [return](../r/return.md) have transformed the way investors approach [portfolio management](../p/par.md) and [risk](../r/risk.md) assessment. As the financial landscape continues to evolve, the foundational principles established by Markowitz remain as relevant and influential as ever, guiding both theoretical research and practical applications in [investment management](../i/investment_management.md).
 
-For more information on Harry Markowitz and his contributions to [finance](../f/finance.md), you can visit the Nobel Prize website or explore his academic publications and books.
+For more information on Harry Markowitz and his contributions to [finance](../f/finance.md),
 
-- [Harry Markowitz - Nobel Prize](https://www.nobelprize.org/prizes/economic-sciences/1990/markowitz/biographical/)
-- [Harry Markowitz - University of California, San Diego](https://rady.ucsd.edu/people/faculty/markowitz.html)
+- Harry Markowitz - Nobel Prize
+- Harry Markowitz - University of California, San Diego

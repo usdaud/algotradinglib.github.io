@@ -1,6 +1,6 @@
 # Roadshow
 
-A roadshow is a series of meetings and presentations organized by a company to promote its securities to potential investors. The purpose of these events is to attract investment by providing detailed information about the company's [financial health](../f/financial_health.md), [business](../b/business.md) strategy, and future prospects. Roadshows are particularly common during initial public offerings (IPOs), but they can also occur in connection with other types of fundraising and [investor relations](../i/investor_relations.md) activities.
+A roadshow is a series of meetings and presentations organized by a company to promote its securities to potential investors. The purpose of these events is to attract investment by providing detailed information about the company's [financial health](../f/financial_health.md), [business](../b/business.md) strategy, and future prospects. Roadshows are particularly common during initial public offerings (IPOs), but they can also occur in connection with other types of fundraising and [company filings](../i/investor_relations.md) activities.
 
 ## Types of Roadshows
 
@@ -42,7 +42,7 @@ Roadshows help gauge [market sentiment](../m/market_sentiment.md) and [investor]
 
 ### Networking
 
-Roadshows [offer](../o/offer.md) a unique platform for [networking](../n/networking.md). They allow companies to connect with a wide array of institutional investors, analysts, and other stakeholders. These relationships can prove invaluable for future fundraising efforts and [investor relations](../i/investor_relations.md) activities.
+Roadshows [offer](../o/offer.md) a unique platform for [networking](../n/networking.md). They allow companies to connect with a wide array of institutional investors, analysts, and other stakeholders. These relationships can prove invaluable for future fundraising efforts and [company filings](../i/investor_relations.md) activities.
 
 ## Challenges
 
@@ -62,14 +62,14 @@ Roadshows, especially those related to IPOs, must comply with regulatory require
 
 ### Uber's IPO Roadshow
 
-One of the most notable recent examples is Uber Technologies Inc.'s IPO roadshow in 2019. Uber's management team, including CEO Dara Khosrowshahi, embarked on a multi-city tour, making stops in New York, San Francisco, London, and other financial hubs. The purpose was to convince investors of Uber’s growth potential despite ongoing concerns about its profitability. The roadshow included a presentation of Uber's [business](../b/business.md) segments, financial projections, and strategic initiatives ([Uber's Investor Relations](https://investor.uber.com/)).
+One of the most notable recent examples is Uber Technologies Inc.'s IPO roadshow in 2019. Uber's management team, including CEO Dara Khosrowshahi, embarked on a multi-city tour, making stops in New York, San Francisco, London, and other financial hubs. The purpose was to convince investors of Uber’s growth potential despite ongoing concerns about its profitability. The roadshow included a presentation of Uber's [business](../b/business.md) segments, financial projections, and strategic initiatives.
 
 ### Apple's Debt Roadshow
 
-Another example is Apple Inc.'s [debt](../d/debt.md) roadshow in 2013. Apple conducted a roadshow to promote a series of [bond](../b/bond.md) offerings aimed at generating funds for its [capital](../c/capital.md) [return](../r/return.md) program. The roadshow was critical in helping Apple secure attractive terms for its bonds, thanks to its strong [credit rating](../c/credit_rating.md) and immense [market](../m/market.md) [interest](../i/interest.md) ([Apple Investor Relations](https://investor.apple.com/)).
+Another example is Apple Inc.'s [debt](../d/debt.md) roadshow in 2013. Apple conducted a roadshow to promote a series of [bond](../b/bond.md) offerings aimed at generating funds for its [capital](../c/capital.md) [return](../r/return.md) program. The roadshow was critical in helping Apple secure attractive terms for its bonds, thanks to its strong [credit rating](../c/credit_rating.md) and immense [market](../m/market.md) [interest](../i/interest.md).
 
 ## Conclusion
 
-Roadshows are an essential component of the [capital](../c/capital.md)-raising process and [investor relations](../i/investor_relations.md) strategy for any company. They provide a platform to present a company’s [value proposition](../v/value_proposition.md) directly to institutional investors, helping to build [trust](../t/trust.md) and secure the necessary funding. While challenging, effective roadshows can significantly enhance a company's [market](../m/market.md) standing and investment potential.
+Roadshows are an essential component of the [capital](../c/capital.md)-raising process and [company filings](../i/investor_relations.md) strategy for any company. They provide a platform to present a company’s [value proposition](../v/value_proposition.md) directly to institutional investors, helping to build [trust](../t/trust.md) and secure the necessary funding. While challenging, effective roadshows can significantly enhance a company's [market](../m/market.md) standing and investment potential.
 
 Given their complexity and importance, companies often invest considerable resources into ensuring that their roadshows are successful. From meticulous planning to strategic messaging and regulatory compliance, every element must be carefully orchestrated to achieve the desired outcome.

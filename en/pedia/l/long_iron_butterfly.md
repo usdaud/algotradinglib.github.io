@@ -88,10 +88,10 @@ Effective [risk management](../r/risk_management.md) is critical in [options](..
 ## Example Companies Using the Strategy
 
 ### Goldman Sachs
-Goldman Sachs, a leading global [investment banking](../i/investment_banking.md) [firm](../f/firm.md), utilizes various [options](../o/options.md) strategies, including the Long [Iron Butterfly](../i/iron_butterfly.md), for [portfolio management](../p/portfolio_management.md) and hedging purposes. More about their [trading strategies](../t/trading_strategies.md) can be found on their [official website](https://www.goldmansachs.com).
+Goldman Sachs, a leading global [investment banking](../i/investment_banking.md) [firm](../f/firm.md), utilizes various [options](../o/options.md) strategies, including the Long [Iron Butterfly](../i/iron_butterfly.md), for [portfolio management](../p/portfolio_management.md) and hedging purposes. More about their [trading strategies](../t/trading_strategies.md)
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) provides comprehensive tools and platforms for traders to execute complex [options](../o/options.md) strategies like the Long [Iron Butterfly](../i/iron_butterfly.md). Their trading insights and resources cater to both retail and institutional investors. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) provides comprehensive tools and platforms for traders to execute complex [options](../o/options.md) strategies like the Long [Iron Butterfly](../i/iron_butterfly.md). Their trading insights and resources cater to both retail and institutional investors. For more information, visit Interactive Brokers.
 
 ## Conclusion
 

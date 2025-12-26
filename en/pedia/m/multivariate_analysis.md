@@ -53,12 +53,10 @@ Several tools and software packages facilitate multivariate analysis in [algorit
 #### Renaissance Technologies
 Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, utilizes a variety of multivariate techniques to analyze and [trade](../t/trade.md) on financial data. By employing PCA, they are able to identify and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Their Medallion [Fund](../f/fund.md), known for its high returns, leverages complex [quantitative models](../q/quantitative_models.md) that incorporate multivariate analysis to execute trades efficiently.
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 #### Two Sigma
 Two Sigma Investments is a global [investment management](../i/investment_management.md) [firm](../f/firm.md) that harnesses various quantitative techniques, including multivariate analysis, to drive its [trading strategies](../t/trading_strategies.md). Using cluster analysis, Two Sigma identifies patterns in [market](../m/market.md) behavior and tailors its [trading algorithms](../t/trading_algorithms.md) accordingly. Their approach exemplifies the power of multivariate analysis in generating consistent returns.
 
-[Visit Two Sigma](https://www.twosigma.com/)
 
 ### Challenges and Considerations
 

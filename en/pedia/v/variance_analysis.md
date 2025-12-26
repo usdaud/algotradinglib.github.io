@@ -75,7 +75,7 @@ Traders use variance analysis to compare their strategies against benchmarks or 
 ### Example: Quantitative Hedge Fund
 Consider a quantitative [hedge fund](../h/hedge_fund.md) employing [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md). Through variance analysis, the [fund](../f/fund.md) noticed significant performance variance in one of its algo-strategies. By breaking down the variance into [execution](../e/execution.md), model, and [market](../m/market.md) factors, they were able to identify that the primary source of discrepancy was [slippage](../s/slippage.md) due to high-frequency trading in illiquid markets. The [fund](../f/fund.md) adjusted its algorithm to incorporate improved [order](../o/order.md) [execution](../e/execution.md) tactics, which subsequently reduced the [slippage](../s/slippage.md) and enhanced overall returns.
 
-Source: [Two Sigma](https://www.twosigma.com)
+Source: Two Sigma
 
 ## Tools for Variance Analysis
 
@@ -102,4 +102,3 @@ Simpler models may not capture all sources of variance, while highly complex mod
 ## Conclusion
 
 Variance analysis is a cornerstone of effective [algorithmic trading](../a/algorithmic_trading.md). By systematically breaking down [performance metrics](../p/performance_metrics.md) into their constituent parts, traders can [gain](../g/gain.md) valuable insights into the factors driving their strategies' success or failure. With continuous advancements in [data analytics](../d/data_analytics.md) and computational power, variance analysis is becoming increasingly sophisticated, [offering](../o/offering.md) traders powerful tools to optimize their algorithms and achieve better trading outcomes.
-

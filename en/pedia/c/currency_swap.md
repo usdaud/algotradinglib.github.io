@@ -55,9 +55,9 @@ Several entities actively participate in the [currency](../c/currency.md) [swap]
 
 Several prominent financial institutions facilitate [currency](../c/currency.md) swaps, each [offering](../o/offering.md) tailored services and solutions to their clients:
 
-- **JP Morgan Chase**: Provides comprehensive [currency](../c/currency.md) [swap](../s/swap.md) services aimed at mitigating [currency](../c/currency.md) [risk](../r/risk.md) and optimizing [capital structure](../c/capital_structure.md). For more details, see [JP Morgan Chase Currency Swaps](https://www.jpmorgan.com/solutions/global-research/foreign-exchange/analysis-and-strategy).
-- **Goldman Sachs**: Specializes in structured [currency](../c/currency.md) swaps to support sophisticated corporate and institutional strategies. More information available at [Goldman Sachs Financial Markets](https://www.goldmansachs.com/services/global-markets/).
-- **Citibank**: Delivers a suite of [derivatives](../d/derivatives.md), including [currency](../c/currency.md) swaps, to manage exposure and optimize [financial performance](../f/financial_performance.md). Explore further on their [Corporate Solutions](https://www.citigroup.com/citi/about/countries-and-jurisdictions/united-states.html).
+- **JP Morgan Chase**: Provides comprehensive [currency](../c/currency.md) [swap](../s/swap.md) services aimed at mitigating [currency](../c/currency.md) [risk](../r/risk.md) and optimizing [capital structure](../c/capital_structure.md). For more details, see JP Morgan Chase Currency Swaps.
+- **Goldman Sachs**: Specializes in structured [currency](../c/currency.md) swaps to support sophisticated corporate and institutional strategies. More information available at Goldman Sachs Financial Markets.
+- **Citibank**: Delivers a suite of [derivatives](../d/derivatives.md), including [currency](../c/currency.md) swaps, to manage exposure and optimize [financial performance](../f/financial_performance.md). Explore further on their Corporate Solutions.
 
 ## Risks Involved in Currency Swaps
 

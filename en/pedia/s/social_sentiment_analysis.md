@@ -43,10 +43,10 @@ Sentiment scoring aims to quantify the sentiment expressed. Two popular methods 
 
 ### Case Studies and Practical Implementations
 Several firms and platforms have successfully integrated social [sentiment analysis](../s/sentiment_analysis.md) into their [trading systems](../t/trading_systems.md). Examples include:
-1. **[RavenPack](../r/ravenpack.md)**: Specializes in analyzing unstructured data, including news and [social media](../s/social_media.md), and transforming it into structured sentiment data. [RavenPack](https://www.ravenpack.com/)
-2. **StockTwits**: A financial communications platform that tracks stock [market sentiment](../m/market_sentiment.md). [StockTwits](https://www.stocktwits.com/)
-3. **MarketPsych Data**: Provides sentiment data derived from news and [social media](../s/social_media.md) for financial [market](../m/market.md) analysis. [MarketPsych](https://www.marketpsych.com/)
-4. **[Bloomberg](../b/bloomberg.md) Terminal**: Incorporates [sentiment analysis](../s/sentiment_analysis.md) tools to [offer](../o/offer.md) traders insights from news and [social media](../s/social_media.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **[RavenPack](../r/ravenpack.md)**: Specializes in analyzing unstructured data, including news and [social media](../s/social_media.md), and transforming it into structured sentiment data. RavenPack
+2. **StockTwits**: A financial communications platform that tracks stock [market sentiment](../m/market_sentiment.md). StockTwits
+3. **MarketPsych Data**: Provides sentiment data derived from news and [social media](../s/social_media.md) for financial [market](../m/market.md) analysis. MarketPsych
+4. **[Bloomberg](../b/bloomberg.md) Terminal**: Incorporates [sentiment analysis](../s/sentiment_analysis.md) tools to [offer](../o/offer.md) traders insights from news and [social media](../s/social_media.md). Bloomberg
 
 ### Challenges and Limitations
 1. **Data Quality**: The quality of sentiment data can be affected by [noise](../n/noise.md), spam, and irrelevant information.

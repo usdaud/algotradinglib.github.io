@@ -81,7 +81,7 @@ This model expands the Fama-French model by adding a [momentum factor](../m/mome
 
 ### Investment Firms
 
-Many investment firms use CAPM to guide their [asset management](../a/asset_management.md) strategies. For example, [Vanguard](https://www.vanguard.com/), a leading [investment management](../i/investment_management.md) company, employs CAPM to understand the [risk](../r/risk.md)-[return](../r/return.md) [trade](../t/trade.md)-off of various investment opportunities and to construct diversified portfolios aimed at achieving optimal returns.
+Many investment firms use CAPM to guide their [asset management](../a/asset_management.md) strategies. For example, Vanguard, a leading [investment management](../i/investment_management.md) company, employs CAPM to understand the [risk](../r/risk.md)-[return](../r/return.md) [trade](../t/trade.md)-off of various investment opportunities and to construct diversified portfolios aimed at achieving optimal returns.
 
 ### Financial Institutions
 
@@ -89,11 +89,11 @@ Banks and other financial institutions use CAPM for various purposes, including 
 
 ### Corporate Sector
 
-Companies use CAPM in their [capital budgeting](../c/capital_budgeting.md) processes to evaluate investment projects. For instance, a [firm](../f/firm.md) like [General Electric](https://www.ge.com/) might use CAPM to estimate the required [return](../r/return.md) on a new project and compare it with its [cost of capital](../c/cost_of_capital.md), helping decide whether to proceed with the investment.
+Companies use CAPM in their [capital budgeting](../c/capital_budgeting.md) processes to evaluate investment projects. For instance, a [firm](../f/firm.md) like General Electric might use CAPM to estimate the required [return](../r/return.md) on a new project and compare it with its [cost of capital](../c/cost_of_capital.md), helping decide whether to proceed with the investment.
 
 ### Government Agencies
 
-Regulatory bodies and government agencies may use CAPM to set benchmarks for acceptable returns on investments and regulatory assessments. For example, the [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/) may refer to CAPM in evaluating the fairness of proposed returns in investment products.
+Regulatory bodies and government agencies may use CAPM to set benchmarks for acceptable returns on investments and regulatory assessments. For example, the U.S. Securities and Exchange Commission (SEC) may refer to CAPM in evaluating the fairness of proposed returns in investment products.
 
 ## Conclusion
 

@@ -13,7 +13,7 @@ A Central [Counterparty](../c/counterparty.md) [Clearing House](../c/clearing_ho
 The primary function of a CCP is [risk management](../r/risk_management.md). CCPs employ various mechanisms to mitigate and manage [risk](../r/risk.md), including:
 
 1. **[Initial Margin](../i/initial_margin.md)**: Participants are required to [deposit](../d/deposit.md) an [initial margin](../i/initial_margin.md), which acts as a performance [bond](../b/bond.md). This [margin](../m/margin.md) is intended to cover potential losses that might occur if the participant defaults.
-   
+
 2. **[Variation Margin](../v/variation_margin.md)**: This is a daily or intraday settlement of gains and losses based on the [market value](../m/market_value.md) of the positions held.
 
 3. **[Default](../d/default.md) [Fund](../f/fund.md)**: Also known as a [clearing](../c/clearing.md) [fund](../f/fund.md), this is a pool of [capital](../c/capital.md) contributed by all [clearing](../c/clearing.md) members and is used to cover losses in the event of a [default](../d/default.md) that is not covered by the defaulter's [margin](../m/margin.md).
@@ -27,7 +27,7 @@ The primary function of a CCP is [risk management](../r/risk_management.md). CCP
 CCPs facilitate the settlement and [clearing](../c/clearing.md) of trades, ensuring that the [exchange](../e/exchange.md) of cash and securities occurs smoothly and efficiently. They achieve this via:
 
 1. **[Netting](../n/netting.md)**: CCPs often net out [obligations](../o/obligation.md) between parties, reducing the number of transactions and the [volume](../v/volume.md) of cash and securities that need to be exchanged.
-   
+
 2. **Guarantee of Performance**: By acting as the [counterparty](../c/counterparty.md) to both sides of a [trade](../t/trade.md), the CCP guarantees performance, which instills confidence in the [market](../m/market.md).
 
 3. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: CCPs provide a centralized platform for [trade](../t/trade.md) processing, reducing the operational burden on [market](../m/market.md) participants.
@@ -94,15 +94,15 @@ Advanced technology underpins the operations of a CCP. This includes state-of-th
 
 Several CCPs operate globally, playing crucial roles in their respective markets. Some prominent examples include:
 
-1. **LCH.Clearnet**: Operates one of the largest [multi-asset class](../m/multi-asset_class.md) CCPs in the world. Learn more at [LCH.Clearnet](https://www.lch.com).
+1. **LCH.Clearnet**: Operates one of the largest [multi-asset class](../m/multi-asset_class.md) CCPs in the world. Learn more at LCH.Clearnet.
 
-2. **CME [Clearing](../c/clearing.md)**: A division of the Chicago Mercantile [Exchange](../e/exchange.md) (CME) Group, providing [clearing and settlement](../c/clearing_and_settlement.md) services for a wide [range](../r/range.md) of [asset](../a/asset.md) classes. Visit [CME Clearing](https://www.cmegroup.com/clearing.html).
+2. **CME [Clearing](../c/clearing.md)**: A division of the Chicago Mercantile [Exchange](../e/exchange.md) (CME) Group, providing [clearing and settlement](../c/clearing_and_settlement.md) services for a wide [range](../r/range.md) of [asset](../a/asset.md) classes. Visit CME Clearing.
 
-3. **Eurex [Clearing](../c/clearing.md)**: A leading European CCP providing [clearing](../c/clearing.md) services for [derivatives](../d/derivatives.md), equities, bonds, and repo transactions. Explore more at [Eurex Clearing](https://www.eurex.com/ec-en/).
+3. **Eurex [Clearing](../c/clearing.md)**: A leading European CCP providing [clearing](../c/clearing.md) services for [derivatives](../d/derivatives.md), equities, bonds, and repo transactions. Explore more at Eurex Clearing.
 
-4. **ICE Clear**: Operates several [clearing](../c/clearing.md) houses globally under the Intercontinental [Exchange](../e/exchange.md) (ICE) banner. More information at [ICE Clear](https://www.theice.com/clear).
+4. **ICE Clear**: Operates several [clearing](../c/clearing.md) houses globally under the Intercontinental [Exchange](../e/exchange.md) (ICE) banner. More information at ICE Clear.
 
-5. **Japan Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (JSCC)**: The primary [clearing house](../c/clearing_house.md) in Japan, providing [clearing and settlement](../c/clearing_and_settlement.md) for various financial instruments. Discover more at [JSCC](http://www.jscc.co.jp/en/).
+5. **Japan Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (JSCC)**: The primary [clearing house](../c/clearing_house.md) in Japan, providing [clearing and settlement](../c/clearing_and_settlement.md) for various financial instruments. Discover more at JSCC.
 
 ## Conclusion
 

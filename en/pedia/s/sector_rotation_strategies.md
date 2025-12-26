@@ -56,19 +56,14 @@ There are different models and approaches to [sector rotation](../s/sector_rotat
 Various investment platforms and tools assist in implementing [sector rotation](../s/sector_rotation.md) strategies:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive economic data, sector [performance metrics](../p/performance_metrics.md), and [financial analysis](../f/financial_analysis.md) tools.
-  [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 - **[FactSet](../f/factset.md)**: Offers in-depth research data, analytics, and modeling capabilities.
-  [FactSet](https://www.factset.com/)
 
 - **[Morningstar](../m/morningstar.md) Direct**: Provides extensive investment research and performance data.
-  [Morningstar](https://www.morningstar.com/products/direct)
 
 - **Portfolio123**: A web-based platform [offering](../o/offering.md) systematic investment tools including [sector rotation](../s/sector_rotation.md) models.
-  [Portfolio123](https://www.portfolio123.com/)
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to backtest and deploy [sector rotation](../s/sector_rotation.md) strategies.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to backtest and deploy [sector rotation](../s/sector_rotation.md) strategies.
 
 ## Advantages and Risks
 ### Advantages
@@ -83,13 +78,11 @@ Various investment platforms and tools assist in implementing [sector rotation](
 
 ## Real-World Examples
 - **T. Rowe Price**: T. Rowe Price Diversified Sector Strategy focuses on tactical sector allocation, aiming to [outperform](../o/outperform.md) the S&P 500 [Index](../i/index_instrument.md) by actively managing sector exposures.
-  [T. Rowe Price](https://www.troweprice.com)
+ T. Rowe Price
 
 - **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers [sector rotation](../s/sector_rotation.md) mutual funds and ETFs that use [top-down analysis](../t/top-down_analysis.md) and fundamental research to rotate between sectors.
-  [Fidelity Investments](https://www.fidelity.com)
 
 - **Invesco**: Invesco provides [sector rotation](../s/sector_rotation.md) ETFs, such as the Invesco DWA Tactical [Sector Rotation](../s/sector_rotation.md) ETF (DWTR), which uses a proprietary model to identify and rotate into leading sectors.
-  [Invesco](https://www.invesco.com)
 
 ## Conclusion
 [Sector rotation](../s/sector_rotation.md) strategies [offer](../o/offer.md) investors and traders a dynamic approach to [capitalize](../c/capitalize.md) on the ever-changing economic landscape. By understanding the relationship between [business](../b/business.md) cycles and [sector performance](../s/sector_performance.md), and utilizing various analytical tools and models, investors can make informed decisions to optimize their portfolios. However, it is essential to be aware of the risks and challenges associated with [market timing](../m/market_timing.md) and economic predictions. With careful planning and [execution](../e/execution.md), [sector rotation](../s/sector_rotation.md) can be an effective strategy to achieve superior investment performance.

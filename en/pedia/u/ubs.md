@@ -39,7 +39,7 @@ UBS has embraced the FinTech revolution, reflected in initiatives like UBS Next.
 
 ### Algotrading
 
-UBS leverages [algorithmic trading](../a/accountability.md) (algotrading) as a cornerstone of its [trading strategy](../t/trading_strategy.md). Algotrading involves the use of complex [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute trades at optimal times and prices. UBS's algotrading platforms integrate advanced algorithms to manage [market](../m/market.md) risks, optimize [trading performance](../t/trading_performance.md), and reduce manual intervention. The deployment of [machine learning](../m/machine_learning.md) and AI in algotrading allows UBS to adapt to [market](../m/market.md) conditions in real-time, ensuring [competitive advantage](../c/competitive_advantage.md) in high-frequency trading environments.
+UBS leverages [algorithmic trading](../a/algorithmic_trading.md) (algotrading) as a cornerstone of its [trading strategy](../t/trading_strategy.md). Algotrading involves the use of complex [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute trades at optimal times and prices. UBS's algotrading platforms integrate advanced algorithms to manage [market](../m/market.md) risks, optimize [trading performance](../t/trading_performance.md), and reduce manual intervention. The deployment of [machine learning](../m/machine_learning.md) and AI in algotrading allows UBS to adapt to [market](../m/market.md) conditions in real-time, ensuring [competitive advantage](../c/competitive_advantage.md) in high-frequency trading environments.
 
 ### Innovation Lab
 
@@ -73,4 +73,4 @@ Operational risks are managed through rigorous [internal controls](../i/internal
 
 UBS exemplifies a comprehensive financial services model characterized by strong global presence, innovative technological integration, and a [firm](../f/firm.md) commitment to sustainability and [risk management](../r/risk_management.md). As a leader in [wealth management](../w/wealth_management.md) and [investment banking](../i/investment_banking.md), UBS continues to shape the financial landscape by adopting forward-thinking strategies and maintaining a focus on client-centric solutions. The strategic initiatives in FinTech and algotrading, coupled with a [robust](../r/robust.md) [risk management](../r/risk_management.md) framework, ensure that UBS remains at the forefront of the financial services [industry](../i/industry.md).
 
-For more detailed information, visit the official website of UBS Group AG: [UBS](https://www.ubs.com).
+For more detailed information,

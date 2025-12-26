@@ -6,7 +6,7 @@ Quintiles was a global behemoth in the biopharmaceutical services [industry](../
 
 Quintiles was founded in 1982 by Dennis Gillings, a biostatistics professor from the University of North Carolina. Through mergers and acquisitions, the company expanded its footprint and became a pivotal player in the global healthcare landscape. The company's primary services included contract research, healthcare analytics, and [commercialization](../c/commercialization.md) solutions tailor-made for pharmaceutical and biotechnology companies.
 
-In 2016, Quintiles merged with IMS Health to form IQVIA, which continues to be a leading name in the contract research and health information management sectors. For more details, you can visit IQVIA's [official website](https://www.iqvia.com/).
+In 2016, Quintiles merged with IMS Health to form IQVIA, which continues to be a leading name in the contract research and health information management sectors.
 
 ## Core Services
 
@@ -65,4 +65,3 @@ Quintiles operated in more than 100 countries and had an extensive global networ
 
 Quintiles was a transformative force in the biopharmaceutical services [industry](../i/industry.md), [offering](../o/offering.md) a wide array of services that covered the entire lifecycle of drug development and [commercialization](../c/commercialization.md). The company's commitment to technological innovation, regulatory compliance, and global reach made it an indispensable partner for pharmaceutical and biotechnology companies. Through its [merger](../m/merger.md) with IMS Health to form IQVIA, the legacy of Quintiles continues to drive advancements in the [healthcare sector](../h/healthcare_sector.md).
 
-For more information, refer to IQVIA's [official website](https://www.iqvia.com/).

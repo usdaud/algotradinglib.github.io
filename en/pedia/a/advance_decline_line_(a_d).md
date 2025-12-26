@@ -21,15 +21,15 @@ The result is plotted on a chart to visually represent the cumulative breadth of
 The A/D Line is an essential [indicator](../i/indicator.md) for evaluating overall [market sentiment](../m/market_sentiment.md). There are several key interpretations:
 
 1. **Confirming Trends:**
-   - **Bullish [Market](../m/market.md):** If the stock [index](../i/index_instrument.md) is rising and the A/D Line is also rising, this indicates broad participation in the [rally](../r/rally.md), confirming a bullish [market sentiment](../m/market_sentiment.md).
-   - **Bearish [Market](../m/market.md):** If the stock [index](../i/index_instrument.md) is falling and the A/D Line is also falling, this suggests widespread participation in the sell-off, confirming a bearish [market sentiment](../m/market_sentiment.md).
+ - **Bullish [Market](../m/market.md):** If the stock [index](../i/index_instrument.md) is rising and the A/D Line is also rising, this indicates broad participation in the [rally](../r/rally.md), confirming a bullish [market sentiment](../m/market_sentiment.md).
+ - **Bearish [Market](../m/market.md):** If the stock [index](../i/index_instrument.md) is falling and the A/D Line is also falling, this suggests widespread participation in the sell-off, confirming a bearish [market sentiment](../m/market_sentiment.md).
 
 2. **[Divergence](../d/divergence.md):**
-   - **Positive [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index_instrument.md) is falling, but the A/D Line is rising, indicating that fewer [stocks](../s/stock.md) are declining, which may precede a [market](../m/market.md) [reversal](../r/reversal.md) to the [upside](../u/upside.md).
-   - **Negative [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index_instrument.md) is rising, but the A/D Line is falling, suggesting that fewer [stocks](../s/stock.md) are participating in the [rally](../r/rally.md), which could signal a potential [market](../m/market.md) [correction](../c/correction.md).
+ - **Positive [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index_instrument.md) is falling, but the A/D Line is rising, indicating that fewer [stocks](../s/stock.md) are declining, which may precede a [market](../m/market.md) [reversal](../r/reversal.md) to the [upside](../u/upside.md).
+ - **Negative [Divergence](../d/divergence.md):** Occurs when the stock [index](../i/index_instrument.md) is rising, but the A/D Line is falling, suggesting that fewer [stocks](../s/stock.md) are participating in the [rally](../r/rally.md), which could signal a potential [market](../m/market.md) [correction](../c/correction.md).
 
 3. **Breadth Thrust:**
-   - This is a strong and rapid increase in the A/D Line, indicating a sudden increase in the number of advancing [stocks](../s/stock.md), which can be a sign of a [robust](../r/robust.md) bullish [market](../m/market.md).
+ - This is a strong and rapid increase in the A/D Line, indicating a sudden increase in the number of advancing [stocks](../s/stock.md), which can be a sign of a [robust](../r/robust.md) bullish [market](../m/market.md).
 
 ## Application in Algorithmic Trading
 
@@ -63,9 +63,9 @@ Consider a scenario where an algorithm is programmed to [trade](../t/trade.md) t
 
 Several platforms and tools [offer](../o/offer.md) capabilities to calculate and analyze the A/D Line, including:
 
-- **[MetaStock](../m/metastock.md)**: A comprehensive platform for technical and [fundamental analysis](../f/fundamental_analysis.md), which includes tools for calculating and visualizing the A/D Line. [MetaStock](https://www.metastock.com/)
-- **[TradeStation](../t/tradestation.md)**: An advanced [trading platform](../t/trading_platform.md) that provides custom indicators and strategies, including the A/D Line. [TradeStation](https://www.tradestation.com/)
-- **ThinkOrSwim by TD [Ameritrade](../a/ameritrade.md)**: A [robust](../r/robust.md) [trading platform](../t/trading_platform.md) with customizable [technical analysis tools](../t/technical_analysis_tools.md), including the A/D Line [indicator](../i/indicator.md). [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[MetaStock](../m/metastock.md)**: A comprehensive platform for technical and [fundamental analysis](../f/fundamental_analysis.md), which includes tools for calculating and visualizing the A/D Line. MetaStock
+- **[TradeStation](../t/tradestation.md)**: An advanced [trading platform](../t/trading_platform.md) that provides custom indicators and strategies, including the A/D Line. TradeStation
+- **ThinkOrSwim by [Charles Schwab](../c/charles_schwab.md)**: A [robust](../r/robust.md) [trading platform](../t/trading_platform.md) with customizable [technical analysis tools](../t/technical_analysis_tools.md), including the A/D Line [indicator](../i/indicator.md). ThinkOrSwim (acquired from TD Ameritrade in September 2023)
 
 ## Case Studies
 

@@ -35,25 +35,25 @@ Technological factors pertain to innovations in technology that may affect the o
 ## Applications of PEST Analysis
 
 1. **Strategic Planning:**
-   Companies use PEST Analysis during strategic planning to identify external factors that could impact their [business](../b/business.md) objectives. It helps them to dig through layers of external influences and refine strategies accordingly.
+ Companies use PEST Analysis during strategic planning to identify external factors that could impact their [business](../b/business.md) objectives. It helps them to dig through layers of external influences and refine strategies accordingly.
 
 2. **[Market Research](../m/market_research.md):**
-   A PEST Analysis can support [market research](../m/market_research.md) activities by forming a macro-level understanding of the environment in which a new product or service [will](../w/will.md) operate. This allows for a comprehensive evaluation of all factors that could affect [market](../m/market.md) success.
+ A PEST Analysis can support [market research](../m/market_research.md) activities by forming a macro-level understanding of the environment in which a new product or service [will](../w/will.md) operate. This allows for a comprehensive evaluation of all factors that could affect [market](../m/market.md) success.
 
 3. **[Risk Management](../r/risk_management.md):**
-   By understanding external factors, businesses can identify potential risks and develop mitigation strategies. Recognizing political instability or economic downturns early can enable proactive decision-making.
+ By understanding external factors, businesses can identify potential risks and develop mitigation strategies. Recognizing political instability or economic downturns early can enable proactive decision-making.
 
 4. **[Business](../b/business.md) Development:**
-   PEST Analysis can direct businesses to unexplored opportunities. For example, a technology start-up might innovate by tapping into upcoming technological digital trends identified in their analysis.
+ PEST Analysis can direct businesses to unexplored opportunities. For example, a technology start-up might innovate by tapping into upcoming technological digital trends identified in their analysis.
 
 5. **Mergers and Acquisitions (M&A):**
-   Businesses considering mergers and acquisitions can use PEST Analysis to evaluate the macro-environmental factors that might affect the success of M&A activities. This ensures informed decisions based on comprehensive external analysis.
+ Businesses considering mergers and acquisitions can use PEST Analysis to evaluate the macro-environmental factors that might affect the success of M&A activities. This ensures informed decisions based on comprehensive external analysis.
 
 6. **Competitive Analysis:**
-   Understanding political, economic, social, and technological factors can also aid in assessing competitors who are equally exposed to these external influences.
+ Understanding political, economic, social, and technological factors can also aid in assessing competitors who are equally exposed to these external influences.
 
 7. **Investment [Appraisal](../a/appraisal.md):**
-   Investors use PEST Analysis to determine economic and [industry](../i/industry.md) attractiveness. Reviewing external factors influencing a sector can guide investment choices, potentially prompting investments in high-growth potential industries and avoiding vulnerable sectors.
+ Investors use PEST Analysis to determine economic and [industry](../i/industry.md) attractiveness. Reviewing external factors influencing a sector can guide investment choices, potentially prompting investments in high-growth potential industries and avoiding vulnerable sectors.
 
 ## Practical Examples of PEST Analysis in Use
 
@@ -76,16 +76,16 @@ Operating in the global coffee [industry](../i/industry.md), Starbucks leverages
 ## Limitations of PEST Analysis
 
 1. **Over-Simplification:**
-   PEST Analysis may oversimplify complex external factors without delivering deep insights. For detailed analysis, further extensions like PESTLE (including Legal and Environmental) can be used.
+ PEST Analysis may oversimplify complex external factors without delivering deep insights. For detailed analysis, further extensions like PESTLE (including Legal and Environmental) can be used.
 
 2. **Dynamic Environment:**
-   The rapidly changing macro-environment requires frequent updating of PEST Analysis, making it somewhat labor-intensive.
+ The rapidly changing macro-environment requires frequent updating of PEST Analysis, making it somewhat labor-intensive.
 
 3. **Exclusion of Internal Factors:**
-   PEST focuses exclusively on external factors and fails to address internal dynamics which are equally crucial for strategic planning.
+ PEST focuses exclusively on external factors and fails to address internal dynamics which are equally crucial for strategic planning.
 
 4. **Subjectivity:**
-   The interpretation of PEST variables can be subjective, leading to inconsistent conclusions. Collaboration and consulting with various stakeholders are essential to balance views.
+ The interpretation of PEST variables can be subjective, leading to inconsistent conclusions. Collaboration and consulting with various stakeholders are essential to balance views.
 
 ## Conclusion
 

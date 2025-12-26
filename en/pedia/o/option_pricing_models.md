@@ -42,13 +42,13 @@ The [Binomial Option Pricing Model](../b/binomial_option_pricing_model.md), deve
 
 **Binomial Model Steps:**
 1. **Construct a binomial tree:**
-   - Define the up (\(u\)) and down (\(d\)) factors such that \(u > 1\) and \(d < 1\).
-   - Calculate up and down movements using \( u = e^{\sigma \sqrt{\[Delta](../d/delta.md) t}} \) and \( d = e^{-\sigma \sqrt{\[Delta](../d/delta.md) t}} \).
+ - Define the up (\(u\)) and down (\(d\)) factors such that \(u > 1\) and \(d < 1\).
+ - Calculate up and down movements using \( u = e^{\sigma \sqrt{\[Delta](../d/delta.md) t}} \) and \( d = e^{-\sigma \sqrt{\[Delta](../d/delta.md) t}} \).
 2. **Calculate option values at each final node:**
-   - For a [call option](../c/call_option.md): \( \max(S_T - X, 0) \)
-   - For a [put option](../p/put.md): \( \max(X - S_T, 0) \)
+ - For a [call option](../c/call_option.md): \( \max(S_T - X, 0) \)
+ - For a [put option](../p/put.md): \( \max(X - S_T, 0) \)
 3. **Backward induction:**
-   - Calculate the option price at each preceding node by [discounting](../d/discounting.md) the [expected value](../e/expected_value.md) of the option prices at the next time step.
+ - Calculate the option price at each preceding node by [discounting](../d/discounting.md) the [expected value](../e/expected_value.md) of the option prices at the next time step.
 
 ### 3. Monte Carlo Simulation
 
@@ -60,12 +60,12 @@ The [Binomial Option Pricing Model](../b/binomial_option_pricing_model.md), deve
 
 **Monte Carlo Steps:**
 1. **Simulate [multiple](../m/multiple.md) paths for the [underlying asset](../u/underlying_asset.md) price:**
-   - Generate random price paths based on the assumed stochastic process.
+ - Generate random price paths based on the assumed stochastic process.
 2. **Calculate the payoff for each path:**
-   - For a European [call option](../c/call_option.md): \( \max(S_T - X, 0) \)
-   - For a European [put option](../p/put.md): \( \max(X - S_T, 0) \)
+ - For a European [call option](../c/call_option.md): \( \max(S_T - X, 0) \)
+ - For a European [put option](../p/put.md): \( \max(X - S_T, 0) \)
 3. **[Discount](../d/discount.md) the payoffs to [present value](../p/present_value.md):**
-   - Average the discounted payoffs to estimate the option price.
+ - Average the discounted payoffs to estimate the option price.
 
 ### 4. Heston Model
 
@@ -149,19 +149,19 @@ where:
 Several financial institutions and technology companies specialize in providing advanced option pricing solutions and platforms. Some of the notable companies in this space include:
 
 1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global financial services company providing financial [software tools](../s/software_tools_for_trading.md), including advanced option pricing models and analytics.
-   Website: [Bloomberg](https://www.bloomberg.com)
+ online platform: Bloomberg
 
 2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: Operates global exchanges and provides data services that include option pricing and [risk management](../r/risk_management.md) analytics.
-   Website: [ICE](https://www.theice.com)
+ online platform: ICE
 
 3. **[Options](../o/options.md) [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (OCC)**: The world's largest [equity](../e/equity.md) [derivatives](../d/derivatives.md) [clearing](../c/clearing.md) organization providing [clearing and settlement](../c/clearing_and_settlement.md) services for [options](../o/options.md) and other [derivatives](../d/derivatives.md).
-   Website: [OCC](https://www.theocc.com)
+ online platform: OCC
 
 4. **Numerix**: A leading provider of [risk management](../r/risk_management.md) and pricing analytics for financial [derivatives](../d/derivatives.md).
-   Website: [Numerix](https://www.numerix.com)
+ online platform: Numerix
 
 5. **Orc Group**: Specializes in providing electronic trading technology and services, including option pricing and [risk management](../r/risk_management.md) tools.
-   Website: [Orc Group](https://www.orc-group.com)
+ online platform: Orc Group
 
 These companies [offer](../o/offer.md) various platforms and tools that incorporate advanced [quantitative models](../q/quantitative_models.md) for pricing and [risk management](../r/risk_management.md) of [options](../o/options.md) and other [derivatives](../d/derivatives.md). Leveraging these models, traders and investors can make informed decisions, optimize their [trading strategies](../t/trading_strategies.md), and manage financial risks more effectively.
 

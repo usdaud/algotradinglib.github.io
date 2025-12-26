@@ -57,6 +57,6 @@ During the 2007-2008 [financial crisis](../f/financial_crisis.md), tranches came
 
 ## Conclusion
 
-Tranches play a crucial role in the architecture of various structured financial products, providing a mechanism to align [risk](../r/risk.md) and reward with [investor](../i/investor.md) preferences. Although they [offer](../o/offer.md) significant benefits in terms of [risk](../r/risk.md) [distribution](../d/distribution.md), [market efficiency](../m/market_efficiency.md), and [liquidity](../l/liquidity.md), their complexity demands careful consideration and thorough understanding. 
+Tranches play a crucial role in the architecture of various structured financial products, providing a mechanism to align [risk](../r/risk.md) and reward with [investor](../i/investor.md) preferences. Although they [offer](../o/offer.md) significant benefits in terms of [risk](../r/risk.md) [distribution](../d/distribution.md), [market efficiency](../m/market_efficiency.md), and [liquidity](../l/liquidity.md), their complexity demands careful consideration and thorough understanding.
 
 Moreover, the lessons from the [financial crisis](../f/financial_crisis.md) emphasize the importance of [robust](../r/robust.md) [risk](../r/risk.md) assessment, [transparency](../t/transparency.md), and regulatory oversight in the use of tranches within any [financial structure](../f/financial_structure.md).

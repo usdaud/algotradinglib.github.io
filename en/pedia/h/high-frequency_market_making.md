@@ -50,11 +50,11 @@ HFMM firms must comply with a [range](../r/range.md) of regulatory requirements 
 
 ### Key Players in HFMM
 
-1. **Jane Street**: [Jane Street](https://www.janestreet.com) is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that engages in high-frequency [market](../m/market.md) making, using advanced [quantitative research](../q/quantitative_research.md) and technology.
+1. **Jane Street**: Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that engages in high-frequency [market](../m/market.md) making, using advanced [quantitative research](../q/quantitative_research.md) and technology.
 
-2. **Virtu Financial**: [Virtu Financial](https://www.virtu.com) is another significant player known for its [market](../m/market.md)-making across [multiple](../m/multiple.md) [asset](../a/asset.md) classes through high-speed trading.
+2. **Virtu Financial**: Virtu Financial is another significant player known for its [market](../m/market.md)-making across [multiple](../m/multiple.md) [asset](../a/asset.md) classes through high-speed trading.
 
-3. **IMC [Financial Markets](../f/financial_market.md)**: [IMC Trading](https://www.imc.com) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) specializing in HFMM with a strong emphasis on technology-driven [trading strategies](../t/trading_strategies.md).
+3. **IMC [Financial Markets](../f/financial_market.md)**: IMC Trading is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) specializing in HFMM with a strong emphasis on technology-driven [trading strategies](../t/trading_strategies.md).
 
 ### Challenges in High-Frequency Market Making
 

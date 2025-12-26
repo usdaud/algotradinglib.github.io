@@ -1,6 +1,6 @@
 # Performance Budget
 
-A performance [budget](../b/budget.md) is a quantifiable set of goals or limits that define the acceptable performance characteristics of a web application or website. In essence, it serves as a [benchmark](../b/benchmark.md) for web developers and designers to adhere to when building and deploying digital properties, ensuring that these properties deliver a smooth, efficient, and consistent user experience.
+A performance [budget](../b/budget.md) is a quantifiable set of goals or limits that define the acceptable performance characteristics of a web application or online platform. In essence, it serves as a [benchmark](../b/benchmark.md) for web developers and designers to adhere to when building and deploying digital properties, ensuring that these properties deliver a smooth, efficient, and consistent user experience.
 
 ## Why Performance Budgets Matter
 
@@ -17,42 +17,42 @@ Performance budgets are crucial in today's digital landscape for numerous reason
 When setting a performance [budget](../b/budget.md), it is essential to focus on specific, measurable metrics. Below are some of the primary metrics used in performance budgeting:
 
 #### 1. **Page Load Time**
-   - **Definition**: The time it takes for a web page to fully [load](../l/load.md) and become interactive.
-   - **Tools**: Google PageSpeed Insights, Lighthouse, WebPageTest.
+ - **Definition**: The time it takes for a web page to fully [load](../l/load.md) and become interactive.
+ - **Tools**: Google PageSpeed Insights, Lighthouse, WebPageTest.
 
 #### 2. **Time to First Byte (TTFB)**
-   - **Definition**: The time between a browser making an HTTP request and receiving the first byte of data from the server.
-   - **Tools**: WebPageTest, Lighthouse.
+ - **Definition**: The time between a browser making an HTTP request and receiving the first byte of data from the server.
+ - **Tools**: WebPageTest, Lighthouse.
 
 #### 3. **Time to Interactive (TTI)**
-   - **Definition**: The time it takes for the page to become fully interactive, meaning users can effectively interact with the page.
-   - **Tools**: Lighthouse, Chrome DevTools.
+ - **Definition**: The time it takes for the page to become fully interactive, meaning users can effectively interact with the page.
+ - **Tools**: Lighthouse, Chrome DevTools.
 
 #### 4. **First Contentful Paint (FCP)**
-   - **Definition**: The time it takes for the browser to render the first piece of DOM content after a user navigates to your page.
-   - **Tools**: Lighthouse, Chrome DevTools.
+ - **Definition**: The time it takes for the browser to render the first piece of DOM content after a user navigates to your page.
+ - **Tools**: Lighthouse, Chrome DevTools.
 
 #### 5. **Speed Index**
-   - **Definition**: Measures how quickly the content of a page is visually displayed during page [load](../l/load.md).
-   - **Tools**: WebPageTest, Lighthouse.
+ - **Definition**: Measures how quickly the content of a page is visually displayed during page [load](../l/load.md).
+ - **Tools**: WebPageTest, Lighthouse.
 
 #### 6. **Total Page Size**
-   - **Definition**: The combined size of all assets loaded by the page, including HTML, CSS, JavaScript, images, and other resources.
-   - **Tools**: Chrome DevTools, WebPageTest.
+ - **Definition**: The combined size of all assets loaded by the page, including HTML, CSS, JavaScript, images, and other resources.
+ - **Tools**: Chrome DevTools, WebPageTest.
 
 #### 7. **Number of Requests**
-   - **Definition**: The total number of HTTP requests made when loading the page.
-   - **Tools**: Chrome DevTools, WebPageTest.
+ - **Definition**: The total number of HTTP requests made when loading the page.
+ - **Tools**: Chrome DevTools, WebPageTest.
 
 ## Implementing a Performance Budget
 
 ### Step 1: Identify Key Metrics
 
-Determine which [performance metrics](../p/performance_metrics.md) are most crucial for your website or application. This should be based on your specific needs, target audience, and [business](../b/business.md) goals. Common metrics include [Load](../l/load.md) Time, TTFB, TTI, FCP, Speed [Index](../i/index_instrument.md), and Total Page Size.
+Determine which [performance metrics](../p/performance_metrics.md) are most crucial for your online form or application. This should be based on your specific needs, target audience, and [business](../b/business.md) goals. Common metrics include [Load](../l/load.md) Time, TTFB, TTI, FCP, Speed [Index](../i/index_instrument.md), and Total Page Size.
 
 ### Step 2: Gather Baseline Data
 
-Use performance monitoring tools like Google Lighthouse, WebPageTest, or Chrome DevTools to analyze your current website's performance. Gather data for each of the key metrics identified in the previous step.
+Use performance monitoring tools like Google Lighthouse, WebPageTest, or Chrome DevTools to analyze your current online platform's performance. Gather data for each of the key metrics identified in the previous step.
 
 ### Step 3: Set Performance Targets
 
@@ -68,7 +68,7 @@ Integrate the performance [budget](../b/budget.md) into your development process
 
 ### Step 5: Iterate and Optimize
 
-Performance [optimization](../o/optimization.md) is an ongoing process. Regularly review performance data, refine your budgets as needed, and continue to optimize your website or application to maintain and improve performance.
+Performance [optimization](../o/optimization.md) is an ongoing process. Regularly review performance data, refine your budgets as needed, and continue to optimize your online form or application to maintain and improve performance.
 
 ## Tools for Implementing Performance Budgets
 
@@ -76,7 +76,7 @@ Numerous tools can assist in setting, monitoring, and enforcing performance budg
 
 - **Google Lighthouse**: An [open](../o/open.md)-source tool that audits web pages for performance, accessibility, and SEO. It provides actionable insights and can be integrated with CI/CD pipelines.
 - **WebPageTest**: A tool that provides comprehensive performance data, including page [load](../l/load.md) times, TTI, FCP, and more.
-- **Chrome DevTools**: A set of web developer tools built directly into the Google Chrome browser. It allows developers to inspect and improve their website’s performance.
+- **Chrome DevTools**: A set of web developer tools built directly into the Google Chrome browser. It allows developers to inspect and improve their online platform’s performance.
 - **Lighthouse CI**: A continuous integration tool that uses Lighthouse to audit changes in web performance automatically.
 
 ## Performance Budget Case Study: Netflix
@@ -101,8 +101,8 @@ Netflix faced significant performance challenges, particularly with the initial 
 - **Enhanced User Experience**: Users experienced more responsive and consistent interactions, leading to increased engagement and satisfaction.
 - **Higher Conversion Rates**: Improved performance contributed to higher user retention rates and increased subscriptions.
 
-For more about Netflix's approach to performance budgets, you can visit their [tech blog](https://netflixtechblog.com/).
+For more about Netflix's approach to performance budgets, you can visit their tech blog.
 
 ## Conclusion
 
-A performance [budget](../b/budget.md) is an invaluable tool for ensuring that your website or web application delivers an optimal user experience. By setting and adhering to performance targets, you can significantly improve [load](../l/load.md) times, interaction speeds, and overall [efficiency](../e/efficiency.md). The process of implementing a performance [budget](../b/budget.md) involves identifying key metrics, gathering [baseline](../b/baseline.md) data, setting realistic targets, integrating budgets into the development workflow, and continuously monitoring and optimizing performance. Using tools like Google Lighthouse, WebPageTest, and Chrome DevTools can facilitate this process, making it easier to achieve and maintain high-performance standards.
+A performance [budget](../b/budget.md) is an invaluable tool for ensuring that your online platform or web application delivers an optimal user experience. By setting and adhering to performance targets, you can significantly improve [load](../l/load.md) times, interaction speeds, and overall [efficiency](../e/efficiency.md). The process of implementing a performance [budget](../b/budget.md) involves identifying key metrics, gathering [baseline](../b/baseline.md) data, setting realistic targets, integrating budgets into the development workflow, and continuously monitoring and optimizing performance. Using tools like Google Lighthouse, WebPageTest, and Chrome DevTools can facilitate this process, making it easier to achieve and maintain high-performance standards.

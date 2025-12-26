@@ -44,7 +44,7 @@ In software engineering, the principle often manifests as "80% of the errors and
 
 ### Signal Generation
 
-In [algorithmic trading](../a/accountability.md), traders can apply the Pareto Principle to enhance their [trading signals](../t/trading_signals.md). For instance, 80% of [market](../m/market.md) movement can be attributed to 20% of the [trading signals](../t/trading_signals.md). By focusing on the most effective signals, traders can optimize their algorithms for better performance and profitability.
+In [algorithmic trading](../a/algorithmic_trading.md), traders can apply the Pareto Principle to enhance their [trading signals](../t/trading_signals.md). For instance, 80% of [market](../m/market.md) movement can be attributed to 20% of the [trading signals](../t/trading_signals.md). By focusing on the most effective signals, traders can optimize their algorithms for better performance and profitability.
 
 ### Risk Management
 
@@ -56,7 +56,7 @@ In financial technology, companies can use the Pareto Principle for resource all
 
 ### Backtesting Strategies
 
-[Backtesting](../b/backtesting.md) is a crucial aspect of [algorithmic trading](../a/accountability.md) where historical data is used to test the viability of a [trading strategy](../t/trading_strategy.md). Applying the Pareto Principle can help in selecting the most influential data sets for [backtesting](../b/backtesting.md). Concentrating on the key data that yields the most insight can save computational resources and time.
+[Backtesting](../b/backtesting.md) is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) where historical data is used to test the viability of a [trading strategy](../t/trading_strategy.md). Applying the Pareto Principle can help in selecting the most influential data sets for [backtesting](../b/backtesting.md). Concentrating on the key data that yields the most insight can save computational resources and time.
 
 ### Customer Segmentation
 
@@ -72,4 +72,4 @@ Additionally, focusing too heavily on the top 20% can lead organizations to negl
 
 The Pareto Principle is a versatile and widely applicable concept that helps in identifying the most impactful factors in various fields, including [business](../b/business.md), [finance](../f/finance.md), and technology. While it is not without limitations, when used judiciously, it can significantly improve [efficiency](../e/efficiency.md) and outcomes.
 
-For further information on the Pareto Principle and its applications in various domains, you can refer to resources from [business](../b/business.md) analysis publications, economic studies, and specialized financial resources. One such resource is the official website of the [business](../b/business.md) consulting [firm](../f/firm.md) [Pareto](https://www.pareto.co.uk/), which offers insights and services related to the application of this principle and other management strategies.
+For further information on the Pareto Principle and its applications in various domains, you can refer to resources from [business](../b/business.md) analysis publications, economic studies, and specialized financial resources. One such resource is the public materials of the [business](../b/business.md) consulting [firm](../f/firm.md) Pareto, which offers insights and services related to the application of this principle and other management strategies.

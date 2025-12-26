@@ -7,7 +7,7 @@ Unregistered [shares](../s/shares.md), also known as restricted securities, refe
 Unregistered [shares](../s/shares.md) possess certain distinctive characteristics that differentiate them from publicly traded [shares](../s/shares.md):
 
 1. **Transfer Restrictions**: Unregistered [shares](../s/shares.md) often come with legends that specify restrictions on transfer. These legends are a reminder that the [shares](../s/shares.md) cannot be sold until they are registered or exempt from registration.
-   
+
 2. **Lock-Up Periods**: There are frequently mandatory lock-up periods imposed on unregistered [shares](../s/shares.md). During this period, the holders are prohibited from selling the [shares](../s/shares.md). Lock-up periods are generally implemented to stabilize the stock price by preventing large volumes of [shares](../s/shares.md) from entering the [market](../m/market.md) simultaneously.
 
 3. **[Exemption](../e/exemption.md) Criteria**: Issuers of unregistered [shares](../s/shares.md) typically rely on specific exemptions from registration requirements under federal securities laws, such as [Rule 144](../r/rule_144.md) under the [Securities Act of 1933](../s/securities_act_of_1933.md), Regulation S, or Regulation D.
@@ -21,13 +21,13 @@ Unregistered [shares](../s/shares.md) possess certain distinctive characteristic
 [Rule 144](../r/rule_144.md) under the [Securities Act of 1933](../s/securities_act_of_1933.md) is a key regulation that impacts the [sale](../s/sale.md) and resale of unregistered [shares](../s/shares.md). This rule provides a safe harbor for the resale of restricted and control securities, allowing holders to sell these securities without registering them with the SEC, provided certain conditions are met.
 
 - **[Holding Period](../h/holding_period.md)**: For restricted securities of reporting companies, [Rule 144](../r/rule_144.md) requires a [holding period](../h/holding_period.md) of at least six months. For non-reporting companies, the [holding period](../h/holding_period.md) extends to one year.
-  
+
 - **Current Public Information**: Adequate current public information about the [issuer](../i/issuer.md) must be available. For reporting companies, this means that they are up-to-date with their required filings with the SEC.
-  
+
 - **Trading [Volume](../v/volume.md) Formula**: The [volume](../v/volume.md) of restricted securities sold by an affiliate in any three-month period cannot exceed the greater of 1% of the outstanding [shares](../s/shares.md) or the average weekly trading [volume](../v/volume.md) during the preceding four-week period.
-  
+
 - **Ordinary Brokerage Transactions**: Sales must be handled in a routine manner through ordinary brokerage transactions, and neither the seller nor the [broker](../b/broker.md) can solicit orders for the [sale](../s/sale.md) of the securities.
-  
+
 - **Filing Requirement**: Affiliates must file a [Form 144](../f/form_144.md) with the SEC at the time the sell [order](../o/order.md) is placed with the [broker](../b/broker.md) if the [sale](../s/sale.md) involves more than 5,000 [shares](../s/shares.md) or if the [value](../v/value.md) of the securities exceeds $50,000 in any three-month period.
 
 ### Regulation D
@@ -43,9 +43,9 @@ Regulation D comprises a series of rules providing exemptions from the registrat
 Regulation S provides for an exclusion from the registration requirements for offers and sales of securities outside the United States. Its [principal components](../p/principal_components_in_trading.md) include:
 
 - **Category 1**: Applies to offerings by foreign issuers with minimal U.S. [market](../m/market.md) [interest](../i/interest.md). There are no requirements other than that the [transaction](../t/transaction.md) must be [offshore](../o/offshore.md).
-  
+
 - **Category 2**: Applicable for the issuance of [debt](../d/debt.md) and [equity](../e/equity.md) securities by U.S. and foreign issuers, requiring that offerings be conducted [offshore](../o/offshore.md) and include [distribution](../d/distribution.md) compliance measures to ensure the securities are not resold into the U.S. quickly.
-  
+
 - **Category 3**: Involves additional restrictions and compliance measures for domestic and foreign issuers of securities, especially if there's high U.S. [market](../m/market.md) [interest](../i/interest.md). A 40-day [distribution](../d/distribution.md) compliance period applies for [equity](../e/equity.md) securities.
 
 ## Implications for Investors and Companies
@@ -104,8 +104,8 @@ Unregistered [shares](../s/shares.md) play a crucial role in modern [finance](..
 
 For further company-specific cases and detailed rules, visit the following links:
 
-- [Tesla, Inc.](https://www.tesla.com)
-- [Amazon.com, Inc.](https://www.amazon.com)
-- [SpaceX](https://www.spacex.com)
+- Tesla, Inc.
+- Amazon.com, Inc.
+- SpaceX
 
 Understanding the nuances of unregistered [shares](../s/shares.md) and the associated regulatory framework can provide significant strategic advantages for businesses and investors alike.

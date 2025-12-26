@@ -54,10 +54,10 @@ Access to high-quality data is crucial. Sources include historical price data, [
 ### Trading Platforms
 There are numerous platforms available for [algorithmic trading](../a/algorithmic_trading.md), including:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [AlgoTrader](https://www.algotrader.com/)
-- [Kuants](https://www.kuants.in/)
-- [Numerai](https://numer.ai/)
+- QuantConnect
+- AlgoTrader
+- Kuants
+- Numerai
 
 These platforms [offer](../o/offer.md) a [range](../r/range.md) of features, from [backtesting](../b/backtesting.md) environments to live [execution](../e/execution.md) capabilities.
 

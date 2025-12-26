@@ -91,10 +91,10 @@ Mutual [fund](../f/fund.md) performance can be evaluated using various [risk met
 
 ## Example of Major Mutual Fund Companies
 
-1. **Vanguard Group:** Known for its [index](../i/index_instrument.md) funds and low-cost investment [options](../o/options.md). (https://www.vanguard.com)
-2. **[Fidelity Investments](../f/fidelity_investments.md):** Offers a wide [range](../r/range.md) of funds and investment services. (https://www.fidelity.com)
-3. **T. Rowe Price:** Provides [active management](../a/active_management.md) solutions tailored to specific investment objectives. (https://www.troweprice.com)
-4. **BlackRock:** A leading global [asset management](../a/asset_management.md) [firm](../f/firm.md). (https://www.blackrock.com)
+1. **Vanguard Group:** Known for its [index](../i/index_instrument.md) funds and low-cost investment [options](../o/options.md). (
+2. **[Fidelity Investments](../f/fidelity_investments.md):** Offers a wide [range](../r/range.md) of funds and investment services. (
+3. **T. Rowe Price:** Provides [active management](../a/active_management.md) solutions tailored to specific investment objectives. (
+4. **BlackRock:** A leading global [asset management](../a/asset_management.md) [firm](../f/firm.md). (
 
 ## Mutual Funds vs. ETFs
 

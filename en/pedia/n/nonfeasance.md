@@ -22,15 +22,15 @@ Another example is the collapse of MF Global, a global commodities brokerage [fi
 
 ## Nonfeasance in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves using computer algorithms to execute trades at high speeds and volumes. While this technology offers numerous advantages, it also introduces risks that could arise from nonfeasance.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer algorithms to execute trades at high speeds and volumes. While this technology offers numerous advantages, it also introduces risks that could arise from nonfeasance.
 
 ### Algorithm Development and Testing
 
-One area where nonfeasance can occur is during the development and testing of [trading algorithms](../t/trading_algorithms.md). Failure to thoroughly test algorithms under various [market](../m/market.md) conditions can lead to unforeseen issues, such as the infamous "Flash Crash" of 2010, where the [market](../m/market.md) plunged nearly 1,000 points within minutes due to [algorithmic trading](../a/accountability.md) errors.
+One area where nonfeasance can occur is during the development and testing of [trading algorithms](../t/trading_algorithms.md). Failure to thoroughly test algorithms under various [market](../m/market.md) conditions can lead to unforeseen issues, such as the infamous "Flash Crash" of 2010, where the [market](../m/market.md) plunged nearly 1,000 points within minutes due to [algorithmic trading](../a/algorithmic_trading.md) errors.
 
 ### Monitoring and Compliance
 
-Continuous monitoring of [algorithmic trading](../a/accountability.md) systems is essential to ensure they operate within regulatory guidelines. Nonfeasance in this context might involve failing to update algorithms to comply with new regulations or neglecting to monitor their performance, leading to potential [market manipulation](../m/market_manipulation.md) or other illicit activities.
+Continuous monitoring of [algorithmic trading](../a/algorithmic_trading.md) systems is essential to ensure they operate within regulatory guidelines. Nonfeasance in this context might involve failing to update algorithms to comply with new regulations or neglecting to monitor their performance, leading to potential [market manipulation](../m/market_manipulation.md) or other illicit activities.
 
 ## Preventing Nonfeasance
 

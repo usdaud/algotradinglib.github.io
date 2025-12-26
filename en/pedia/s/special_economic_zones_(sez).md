@@ -40,15 +40,12 @@ Focused on attracting financial services and banks, these zones [offer](../o/off
 
 #### 1. **Shenzhen Special Economic Zone, China**
 The Shenzhen SEZ is one of the earliest and most successful SEZs, established in 1980. It has transformed from a small town to a thriving metropolis and considered a global hub for technology and innovation. The success of Shenzhen is attributed to favorable [business](../b/business.md) policies, significant [infrastructure](../i/infrastructure.md) investments, and its location adjacent to Hong Kong.
-[Visit Shenzhen SEZ](http://www.sz.gov.cn/en/)
 
 #### 2. **Dubai Multi Commodities Centre (DMCC), UAE**
 The DMCC, established in 2002, has grown into a leading global trading center for commodities. Its success is propelled by a strategic location, state-of-the-art [infrastructure](../i/infrastructure.md), and focus on technological innovation. DMCC is also renowned for its initiative to create a seamless [business](../b/business.md) environment through attractive tax incentives and [industry](../i/industry.md)-specific solutions.
-[Visit Dubai Multi Commodities Centre](https://www.dmcc.ae/)
 
 #### 3. **Indian IT SEZs**
 India has several IT SEZs dedicated to the development of software, IT services, and ITES. These SEZs help in fostering a conducive environment for tech companies through fiscal incentives, world-class [infrastructure](../i/infrastructure.md), and simplified regulatory norms.
-[Visit SEZ India](https://www.sezindia.nic.in/)
 
 ### Economic Benefits of SEZs
 

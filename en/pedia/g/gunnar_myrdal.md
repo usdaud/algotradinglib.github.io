@@ -18,7 +18,7 @@ One of Myrdal's most famous works is "An American Dilemma: The Negro Problem and
 
 ### Development Economics
 
-Myrdal's work in [development economics](../d/development_economics.md) was equally influential. He was a vocal critic of neoclassical economic theory's assumptions about the self-regulating nature of markets. Myrdal believed that markets often failed to allocate resources efficiently, particularly in developing countries. He argued that economic development required active government intervention to address structural inequalities and promote social [welfare](../w/welfare.md). His seminal book "Asian Drama: An Inquiry into the [Poverty](../p/poverty.md) of Nations," published in 1968, explored the economic challenges faced by South Asian countries. Myrdal's analysis emphasized the importance of cultural, social, and political factors in shaping economic development. 
+Myrdal's work in [development economics](../d/development_economics.md) was equally influential. He was a vocal critic of neoclassical economic theory's assumptions about the self-regulating nature of markets. Myrdal believed that markets often failed to allocate resources efficiently, particularly in developing countries. He argued that economic development required active government intervention to address structural inequalities and promote social [welfare](../w/welfare.md). His seminal book "Asian Drama: An Inquiry into the [Poverty](../p/poverty.md) of Nations," published in 1968, explored the economic challenges faced by South Asian countries. Myrdal's analysis emphasized the importance of cultural, social, and political factors in shaping economic development.
 
 ### Institutional Economics
 
@@ -26,7 +26,7 @@ Myrdal contributed significantly to the field of institutional [economics](../e/
 
 ## Policy and Political Career
 
-In addition to his academic contributions, Myrdal was deeply engaged in politics and public policy. He served as a member of the Swedish parliament for several years and held various governmental positions. Myrdal was a strong advocate for social democracy and the [welfare state](../w/welfare_state.md), and his policy work focused on creating more equitable and just societies. He played a key role in shaping Sweden's [welfare](../w/welfare.md) policies, which became models for many other countries. 
+In addition to his academic contributions, Myrdal was deeply engaged in politics and public policy. He served as a member of the Swedish parliament for several years and held various governmental positions. Myrdal was a strong advocate for social democracy and the [welfare state](../w/welfare_state.md), and his policy work focused on creating more equitable and just societies. He played a key role in shaping Sweden's [welfare](../w/welfare.md) policies, which became models for many other countries.
 
 ## Legacy and Honors
 
@@ -34,4 +34,4 @@ Gunnar Myrdal's contributions to [economics](../e/economics.md), sociology, and 
 
 Myrdal's interdisciplinary approach and commitment to addressing social inequalities have left a lasting legacy. His work remains relevant in understanding the complex interplay between [economics](../e/economics.md) and society, and his ideas continue to inspire scholars and policymakers around the world.
 
-For more information on Gunnar Myrdal and his work, you can visit [here](https://www.nobelprize.org/prizes/economic-sciences/1974/myrdal/biographical/).
+For more information on Gunnar Myrdal and his work, you can visit here.

@@ -27,9 +27,9 @@ For example:
 For bonds, the [nominal](../n/nominal.md) [value](../v/value.md) is essential in various calculations, including:
 
 - **Coupon Payments**: These fixed [interest](../i/interest.md) payments are typically a percentage of the [bond](../b/bond.md)'s [nominal](../n/nominal.md) [value](../v/value.md).
-  \[
-  \text{Annual Coupon [Payment](../p/payment.md)} = \text{[Coupon Rate](../c/coupon_rate.md)} \times \text{[Nominal](../n/nominal.md) [Value](../v/value.md)}
-  \]
+ \[
+ \text{Annual Coupon [Payment](../p/payment.md)} = \text{[Coupon Rate](../c/coupon_rate.md)} \times \text{[Nominal](../n/nominal.md) [Value](../v/value.md)}
+ \]
 
 - **[Bond](../b/bond.md) Pricing**: The [market price](../m/market_price.md) of a [bond](../b/bond.md) can fluctuate based on [interest](../i/interest.md) rates, but the [nominal](../n/nominal.md) [value](../v/value.md) remains [unchanged](../u/unchanged.md). The [bond](../b/bond.md)'s pricing equations often include the [nominal](../n/nominal.md) [value](../v/value.md) to determine the [present value](../p/present_value.md) of future cash flows.
 
@@ -57,19 +57,19 @@ For example, a [bond](../b/bond.md) with a [nominal](../n/nominal.md) [value](..
 ## Examples and Applications
 
 1. **Corporate Bonds**: A [corporation](../c/corporation.md) issues a [bond](../b/bond.md) with a [nominal](../n/nominal.md) [value](../v/value.md) of $5,000 and a 6% [coupon rate](../c/coupon_rate.md). The [bondholder](../b/bondholder.md) receives $300 annually, calculated as:
-   \[
-   0.06 \times \$5,000 = \$300
-   \]
+ \[
+ 0.06 \times \$5,000 = \$300
+ \]
 
 2. **Government Bonds**: A [government bond](../g/government_bond.md) with a [nominal](../n/nominal.md) [value](../v/value.md) of $10,000 and a 4% [coupon rate](../c/coupon_rate.md) pays $400 annually to bondholders:
-   \[
-   0.04 \times \$10,000 = \$400
-   \]
+ \[
+ 0.04 \times \$10,000 = \$400
+ \]
 
 3. **[Stocks](../s/stock.md)**: A company issues 500,000 [shares](../s/shares.md) with a [nominal](../n/nominal.md) [value](../v/value.md) of $2 each. The [common stock](../c/common_stock.md) [value](../v/value.md) on the [balance sheet](../b/balance_sheet.md) [will](../w/will.md) be:
-   \[
-   500,000 \times \$2 = \$1,000,000
-   \]
+ \[
+ 500,000 \times \$2 = \$1,000,000
+ \]
 
 ## Significance for Investors and Analysts
 

@@ -74,13 +74,13 @@ Proponents of MMT argue that sovereign nations that [issue](../i/issue.md) their
 
 The U.S. has historically experienced significant [budget](../b/budget.md) deficits. Recent deficits have been influenced by substantial spending on defense, [social security](../s/social_security.md), and healthcare, coupled with periods of tax cuts. The COVID-19 pandemic saw unprecedented fiscal stimulus measures, further increasing the [budget](../b/budget.md) [deficit](../d/deficit.md).
 
-For insights into U.S. [budget](../b/budget.md) deficits, visit the Congressional [Budget](../b/budget.md) Office: [CBO - Budget and Economic Data](https://www.cbo.gov/topics/budget)
+For insights into U.S. [budget](../b/budget.md) deficits, visit the Congressional [Budget](../b/budget.md) Office: CBO - Budget and Economic Data
 
 ### European Union
 
 Several EU countries, such as Greece and Italy, have faced [budget](../b/budget.md) deficits leading to severe [debt](../d/debt.md) crises. These deficits have been fueled by various factors, including high public spending, [tax evasion](../t/tax_evasion.md), and economic [stagnation](../s/stagnation.md).
 
-For more information on EU [budget](../b/budget.md) and economic policy, visit the European [Commission](../c/commission.md): [European Commission - Economic and Financial Affairs](https://ec.europa.eu/info/departments/economic-and-financial-affairs_en)
+For more information on EU [budget](../b/budget.md) and economic policy, visit the European [Commission](../c/commission.md): European Commission - Economic and Financial Affairs
 
 ## Managing Budget Deficits
 

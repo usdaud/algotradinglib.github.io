@@ -17,7 +17,7 @@ The BSE utilizes advanced trading platforms and technologies to facilitate the e
 - **[Order](../o/order.md) Matching**: An automated process that matches buy and sell orders based on price and time priority.
 - **[Risk Management](../r/risk_management.md)**: Integrated modules for real-time monitoring and assessment of trading risks.
 - **[Clearing and Settlement](../c/clearing_and_settlement.md)**: [Robust](../r/robust.md) mechanisms for the [clearing and settlement](../c/clearing_and_settlement.md) of trades to ensure prompt and secure transfer of securities and funds.
-  
+
 ## Market Segments
 
 The BSE comprises several [market](../m/market.md) segments to cater to diverse trading needs. These segments include:
@@ -25,7 +25,7 @@ The BSE comprises several [market](../m/market.md) segments to cater to diverse 
 - **Equities**: Trading of [shares](../s/shares.md) and [stocks](../s/stock.md) of [listed](../l/listed.md) companies.
 - **[Debt](../d/debt.md) [Market](../m/market.md)**: Includes government bonds, corporate bonds, and other [debt](../d/debt.md) instruments.
 - **[Derivatives](../d/derivatives.md)**: Introduction of [futures](../f/futures.md) and other [derivative](../d/derivative.md) financial products to [offer](../o/offer.md) hedging opportunities.
-  
+
 ## Key Indices
 
 To gauge the [market](../m/market.md) performance, the BSE uses several indices that reflect the general [trend](../t/trend.md) of the [market](../m/market.md). The most notable [index](../i/index_instrument.md) is the Baku Interbank Stock [Exchange](../e/exchange.md) (BISX) [index](../i/index_instrument.md), which tracks the performance of the most [liquid](../l/liquid.md) and prominent [stocks](../s/stock.md) [listed](../l/listed.md) on the [exchange](../e/exchange.md).
@@ -37,7 +37,7 @@ Companies looking to list their securities on the BSE must adhere to stringent [
 - **Minimum [Capital](../c/capital.md)**: Companies must have a minimum amount of [capital](../c/capital.md) before listing.
 - **[Financial Statements](../f/financial_statements.md)**: Submission of audited [financial statements](../f/financial_statements.md) for the past three years.
 - **[Corporate Governance](../c/corporate_governance.md)**: Adoption of [best practices](../b/best_practices.md) in [corporate governance](../c/corporate_governance.md) and [transparency](../t/transparency.md).
-  
+
 ## Role in Economic Development
 
 The BSE plays a pivotal role in Azerbaijan's economic development by providing a platform for businesses to raise [capital](../c/capital.md), thereby facilitating [business](../b/business.md) [expansion](../e/expansion.md) and job creation. By enabling companies to access a broader [investor](../i/investor.md) base, the BSE contributes to the [diversification](../d/diversification.md) and stabilization of the [economy](../e/economy.md).
@@ -72,4 +72,4 @@ The BSE places a strong emphasis on [investor](../i/investor.md) protection. Mea
 
 The Baku Stock [Exchange](../e/exchange.md) is the cornerstone of Azerbaijan's [capital markets](../c/capital_markets.md), providing a vital platform for securities trading. Through stringent regulatory oversight, technological innovation, and a commitment to [transparency](../t/transparency.md), the BSE aims to foster a dynamic and secure environment for investors and issuers alike. As it continues to evolve, the BSE is well-positioned to support the economic and financial growth of Azerbaijan.
 
-For more detailed information, visit the official [Baku Stock Exchange website](https://www.bfb.az/).
+For more detailed information,

@@ -5,12 +5,12 @@ A Long Calendar Spread is an [options](../o/options.md) [trading strategy](../t/
 ## Components of a Long Calendar Spread
 
 1. **[Options](../o/options.md) Purchasing:**
-    - **Long Option (Far-term):** Buy a longer-term option contract.
-    - **Short Option (Near-term):** Sell a shorter-term option contract with the same [strike price](../s/strike_price.md).
+ - **Long Option (Far-term):** Buy a longer-term option contract.
+ - **Short Option (Near-term):** Sell a shorter-term option contract with the same [strike price](../s/strike_price.md).
 2. **[Strike Price](../s/strike_price.md):**
-    - Both [options](../o/options.md) share the same [strike price](../s/strike_price.md).
+ - Both [options](../o/options.md) share the same [strike price](../s/strike_price.md).
 3. **Expiration Dates:**
-    - The two [options](../o/options.md) have different expiration dates, with the short-term option expiring before the long-term option.
+ - The two [options](../o/options.md) have different expiration dates, with the short-term option expiring before the long-term option.
 
 ## Objectives of a Long Calendar Spread
 
@@ -28,8 +28,8 @@ A Long Calendar Spread is an [options](../o/options.md) [trading strategy](../t/
 - **[Underlying Asset](../u/underlying_asset.md):** Consider a stock currently trading at $100.
 - **[Strike Price](../s/strike_price.md):** Both [options](../o/options.md) selected have a [strike price](../s/strike_price.md) of $100.
 - **Expiration Dates:**
-  - **Buy:** Long-term [call option](../c/call_option.md) with a six-month expiration.
-  - **Sell:** Short-term [call option](../c/call_option.md) with a one-month expiration.
+ - **Buy:** Long-term [call option](../c/call_option.md) with a six-month expiration.
+ - **Sell:** Short-term [call option](../c/call_option.md) with a one-month expiration.
 
 In this scenario, you benefit if the stock price remains around the $100 mark, knowing that the short-term option [will](../w/will.md) decay faster than the long-term option.
 
@@ -64,7 +64,7 @@ In this scenario, you benefit if the stock price remains around the $100 mark, k
 
 ## Real-World Applications
 
-Many professional traders and institutions use Long Calendar [Spreads](../s/spreads.md) as a part of a diversified [options](../o/options.md) [trading strategy](../t/trading_strategy.md). Firms such as [TastyWorks](https://tastyworks.com), [E*TRADE](https://www.etrade.com) provide platforms and tools to execute these strategies efficiently.
+Many professional traders and institutions use Long Calendar [Spreads](../s/spreads.md) as a part of a diversified [options](../o/options.md) [trading strategy](../t/trading_strategy.md). Firms such as TastyWorks, E*TRADE provide platforms and tools to execute these strategies efficiently.
 
 ## Conclusion
 

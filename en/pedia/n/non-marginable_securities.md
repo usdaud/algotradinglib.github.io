@@ -21,11 +21,11 @@ These types of securities generally feature higher [risk profiles](../r/risk_pro
 Several common traits distinguish non-marginable securities from their marginable counterparts. These characteristics contribute to why these instruments are deemed too risky for [margin trading](../m/margin_trading.md).
 
 1. **Low [Market Capitalization](../m/market_capitalization.md)**: Many non-marginable securities belong to small-cap or micro-cap companies that possess lower [market](../m/market.md) capitalizations. As a result, they often have less [liquidity](../l/liquidity.md) and broader [bid](../b/bid.md)-ask [spreads](../s/spreads.md).
-  
+
 2. **Price [Volatility](../v/volatility.md)**: Securities with high [volatility](../v/volatility.md) can experience significant price swings within short time frames. This [volatility](../v/volatility.md) increases the potential for substantial losses, making them unsuitable for [margin trading](../m/margin_trading.md).
-  
+
 3. **Lack of [Liquidity](../l/liquidity.md)**: Non-marginable securities often exhibit lower trading volumes and less [liquidity](../l/liquidity.md), making it difficult to buy or sell large quantities without affecting the [market price](../m/market_price.md).
-  
+
 4. **Regulatory Constraints**: The absence of comprehensive financial disclosures or lack of compliance with regulatory standards can also render a [security](../s/security.md) non-marginable. Companies [listed](../l/listed.md) on [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) often fall into this category.
 
 ## Regulatory Requirements
@@ -58,9 +58,9 @@ Investors should remain mindful of changes in regulatory standards or brokerage 
 
 Non-marginable securities represent an important category in the trading and financial landscape. Recognizing their characteristics, regulatory requirements, and implications for [trading strategies](../t/trading_strategies.md) is vital for investors. While these securities cannot be purchased on [margin](../m/margin.md), understanding their nuances allows for better-[risk](../r/risk.md) managed investments and strategic planning in one's financial endeavors.
 
-For further resources and brokerage policies regarding non-marginable securities, visit your specific brokerage [firm](../f/firm.md)’s website or consult with a [financial advisor](../f/financial_advisor.md). For example:
-- [Charles Schwab](https://www.schwab.com)
-- [Fidelity](https://www.fidelity.com)
-- [E*TRADE](https://www.etrade.com)
+For further resources and brokerage policies regarding non-marginable securities, visit your specific brokerage [firm](../f/firm.md)’s online platform or consult with a [financial advisor](../f/financial_advisor.md). For example:
+- Charles Schwab
+- Fidelity
+- E*TRADE
 
 These resources provide detailed guidelines and regulations on [margin](../m/margin.md) requirements and specific lists of non-marginable securities, helping investors navigate the complexities of [margin trading](../m/margin_trading.md) effectively.

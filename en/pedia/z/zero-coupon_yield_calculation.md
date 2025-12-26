@@ -19,8 +19,8 @@ The [yield](../y/yield.md) of a [zero-coupon bond](../z/zero-coupon_bond.md), al
 #### Zero-Coupon Yield Formula
 
 The zero-coupon [yield](../y/yield.md) can be calculated using the following formula:
-\[ 
-YTM = \left( \frac{FV}{PV} \right)^{\frac{1}{n}} - 1 
+\[
+YTM = \left( \frac{FV}{PV} \right)^{\frac{1}{n}} - 1
 \]
 Where:
 - \( YTM \) = [Yield to Maturity](../y/yield_to_maturity.md)
@@ -32,17 +32,17 @@ Where:
 
 Assume an [investor](../i/investor.md) purchases a [zero-coupon bond](../z/zero-coupon_bond.md) with a [face value](../f/face_value.md) of $1,000, maturing in 5 years, at a price of $800.
 
-\[ 
-YTM = \left( \frac{1000}{800} \right)^{\frac{1}{5}} - 1 
+\[
+YTM = \left( \frac{1000}{800} \right)^{\frac{1}{5}} - 1
 \]
 
-\[ 
+\[
 YTM = \left( 1.25 \right)^{0.20} - 1 \]
 
-\[ 
+\[
 YTM = 1.045639 - 1 \]
 
-\[ 
+\[
 YTM = 0.045639 \text{ or } 4.56\%
 \]
 
@@ -72,6 +72,6 @@ If the [issuer](../i/issuer.md) of the [zero-coupon bond](../z/zero-coupon_bond.
 
 Zero-coupon bonds [offer](../o/offer.md) a unique set of advantages and risks, providing investors with a predictable, future lump-sum [payout](../p/payout.md) without the need to manage [reinvestment](../r/reinvestment.md) of coupons. [Yield](../y/yield.md) calculation for zero-coupon bonds is straightforward and can help assess the profitability of the investment. However, investors must account for associated risks like [interest rate risk](../i/interest_rate_risk.md) and tax implications.
 
-For more detailed information on zero-coupon bonds, investors can visit reputable financial institutions such as the U.S. Department of the Treasury's website [here](https://www.treasurydirect.gov/).
+For more detailed information on zero-coupon bonds, investors can visit reputable financial institutions such as the U.S. Department of the Treasury's online platform here.
 
 Zero-coupon bonds remain a vital component of fixed-[income](../i/income.md) portfolios, [offering](../o/offering.md) [diversification](../d/diversification.md) and [inflation](../i/inflation.md) protection when appropriately used in conjunction with other investment strategies.

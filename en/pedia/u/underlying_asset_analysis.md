@@ -8,52 +8,52 @@ In [finance](../f/finance.md), an [underlying asset](../u/underlying_asset.md) r
 
 ### 1. Equities
 
-Equities, or [stocks](../s/stock.md), represent ownership in a company. Each share of stock denotes a fraction of ownership in the [corporation](../c/corporation.md). [Equity](../e/equity.md) [derivatives](../d/derivatives.md) like [options](../o/options.md) and [futures](../f/futures.md) are traded based on [underlying](../u/underlying.md) [stocks](../s/stock.md) or stock indexes. For instance, [options](../o/options.md) on Apple Inc. (AAPL) allow traders to speculate on or [hedge](../h/hedge.md) against future movements in Apple’s stock price. 
+Equities, or [stocks](../s/stock.md), represent ownership in a company. Each share of stock denotes a fraction of ownership in the [corporation](../c/corporation.md). [Equity](../e/equity.md) [derivatives](../d/derivatives.md) like [options](../o/options.md) and [futures](../f/futures.md) are traded based on [underlying](../u/underlying.md) [stocks](../s/stock.md) or stock indexes. For instance, [options](../o/options.md) on Apple Inc. (AAPL) allow traders to speculate on or [hedge](../h/hedge.md) against future movements in Apple’s stock price.
 
 **Example Companies:**
-  - [Apple Inc.](https://www.apple.com/)
-  - [Amazon.com, Inc.](https://www.amazon.com/)
-  - [Microsoft Corporation](https://www.microsoft.com/)
+ - Apple Inc.
+ - Amazon.com, Inc.
+ - Microsoft Corporation
 
 ### 2. Fixed Income Securities
 
 These include government and corporate bonds. [Fixed income securities](../f/fixed_income_securities.md) are known for providing regular [interest](../i/interest.md) payments. [Derivatives](../d/derivatives.md) based on these securities often focus on hedging [interest rate](../i/interest_rate.md) risks or speculating on [interest rate](../i/interest_rate.md) movements.
 
 **Example Institutions:**
-  - [U.S. Department of the Treasury](https://home.treasury.gov/)
-  - [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
+ - U.S. Department of the Treasury
+ - European Central Bank
 
 ### 3. Commodities
 
 Commodities are physical goods such as oil, gold, agricultural products, and natural gas. [Futures](../f/futures.md) and [options](../o/options.md) based on these commodities allow [market](../m/market.md) participants to [hedge](../h/hedge.md) against price [volatility](../v/volatility.md) or to speculate on price changes.
 
 **Example Organizations:**
-  - [New York Mercantile Exchange (NYMEX)](https://www.cmegroup.com/markets/energy.html)
-  - [London Metal Exchange (LME)](https://www.lme.com/)
+ - New York Mercantile Exchange (NYMEX)
+ - London Metal Exchange (LME)
 
 ### 4. Currencies
 
 Forex ([foreign exchange](../f/foreign_exchange.md)) [derivatives](../d/derivatives.md) derive their [value](../v/value.md) from [currency](../c/currency.md) pairs like EUR/USD or GBP/JPY. These [market](../m/market.md) instruments are crucial for businesses and investors involved in international [trade](../t/trade.md), as they help to manage [currency](../c/currency.md) [risk](../r/risk.md).
 
 **Example Marketplaces:**
-  - [Forex.com](https://www.forex.com/)
-  - [OANDA](https://www.oanda.com/)
+ - Forex.com
+ - OANDA
 
 ### 5. Interest Rates
 
 [Interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md) like swaps and [futures](../f/futures.md) are crucial for institutions looking to manage exposure to fluctuating [interest](../i/interest.md) rates. These [derivatives](../d/derivatives.md) can be used to lock in [interest](../i/interest.md) rates or to speculate on future changes.
 
 **Example Financial Entities:**
-  - [Chicago Board of Trade (CBOT)](https://www.cmegroup.com/markets/interest-rates.html)
-  - [Intercontinental Exchange (ICE)](https://www.theice.com/interest-rates)
+ - Chicago Board of Trade (CBOT)
+ - Intercontinental Exchange (ICE)
 
 ### 6. Market Indexes
 
 [Market](../m/market.md) indexes like the S&P 500 or the [Nikkei](../n/nikkei.md) 225 aggregate the performance of a specific collection of [stocks](../s/stock.md). [Derivatives](../d/derivatives.md) based on these indexes allow traders and investors to [gain](../g/gain.md) broad exposure to a [market](../m/market.md) sector without buying individual [stocks](../s/stock.md).
 
 **Example [Index](../i/index_instrument.md) Providers:**
-  - [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/)
-  - [Nikkei Inc.](https://www.nikkei.co.jp/nikkeiinfo/en/)
+ - S&P Dow Jones Indices
+ - Nikkei Inc.
 
 ## Factors Influencing Underlying Assets
 
@@ -146,4 +146,3 @@ Traders often analyze [underlying](../u/underlying.md) assets to identify short-
 ## Conclusion
 
 Analyzing [underlying](../u/underlying.md) assets is a multifaceted discipline that involves understanding the various factors influencing [asset](../a/asset.md) prices and employing different analytical techniques. Whether for hedging, speculative trading, or [portfolio management](../p/portfolio_management.md), effective [underlying asset](../u/underlying_asset.md) analysis is crucial for making informed financial decisions.
-

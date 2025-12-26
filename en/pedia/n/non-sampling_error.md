@@ -24,7 +24,7 @@ Processing errors arise during the processing and manipulation of data. These ca
 **Sources of Processing Errors:**
 - **Data Entry Mistakes:** Human error in data entry can lead to inaccuracies in financial records, resulting in flawed analyses and [trade](../t/trade.md) decisions.
 - **Algorithmic Errors:** Bugs or flaws in [trading algorithms](../t/trading_algorithms.md) can cause incorrect data outputs. For example, errors in the implementation of a financial model might result in erroneous [risk](../r/risk.md) estimations.
-- **Data Transformation Errors:** Mistakes during [data cleaning](../d/data_cleaning.md), normalization, or transformation can distort analytical results. In [algorithmic trading](../a/accountability.md), improper data handling can corrupt input data fed into [trading models](../t/trading_models.md), leading to suboptimal trading decisions.
+- **Data Transformation Errors:** Mistakes during [data cleaning](../d/data_cleaning.md), normalization, or transformation can distort analytical results. In [algorithmic trading](../a/algorithmic_trading.md), improper data handling can corrupt input data fed into [trading models](../t/trading_models.md), leading to suboptimal trading decisions.
 
 Advanced trading platforms and [financial analysis](../f/financial_analysis.md) tools must therefore employ [robust](../r/robust.md) data validation and error-proofing procedures to minimize processing errors. Regular debugging and code reviews are essential practices in this context.
 
@@ -78,7 +78,7 @@ Non-[sampling errors](../s/sampling_errors.md) can severely degrade the quality 
 
 ### Algorithmic Trading
 
-For [algorithmic trading](../a/accountability.md), data integrity is paramount. Non-[sampling errors](../s/sampling_errors.md) can result in the implementation of flawed [trading strategies](../t/trading_strategies.md), which may lead to significant financial losses. Algorithmic traders must ensure data accuracy through rigorous validation and real-time monitoring of data feeds.
+For [algorithmic trading](../a/algorithmic_trading.md), data integrity is paramount. Non-[sampling errors](../s/sampling_errors.md) can result in the implementation of flawed [trading strategies](../t/trading_strategies.md), which may lead to significant financial losses. Algorithmic traders must ensure data accuracy through rigorous validation and real-time monitoring of data feeds.
 
 ### Risk Management
 

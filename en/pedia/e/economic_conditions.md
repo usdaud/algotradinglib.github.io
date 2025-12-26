@@ -76,15 +76,15 @@ High-frequency trading firms use algorithms to exploit short-term [market](../m/
 
 Several companies provide economic data and analytics services essential for [algorithmic trading](../a/accountability.md):
 
-- **[Bloomberg](../b/bloomberg.md)**: Offers extensive economic data and analytics through its [Bloomberg Terminal](../b/bloomberg_terminal.md). More information can be found on their [website](https://www.bloomberg.com/).
+- **[Bloomberg](../b/bloomberg.md)**: Offers extensive economic data and analytics through its [Bloomberg Terminal](../b/bloomberg_terminal.md).
 
-- **Thomson [Reuters](../r/reuters.md)**: Provides economic data services through Eikon, a financial information platform. Visit their [website](https://www.refinitiv.com/en) for more information.
+- **Thomson [Reuters](../r/reuters.md)**: Provides economic data services through Eikon, a financial information platform.
 
-- **[Morningstar](../m/morningstar.md)**: Known for its investment data and research services, [Morningstar](../m/morningstar.md) also provides economic data and tools. More information is available on their [website](https://www.morningstar.com/).
+- **[Morningstar](../m/morningstar.md)**: Known for its investment data and research services, [Morningstar](../m/morningstar.md) also provides economic data and tools.
 
-- **Moody's Analytics**: Offers economic research and data services to support investment decisions. Detailed information can be found on their [website](https://www.moodysanalytics.com/).
+- **Moody's Analytics**: Offers economic research and data services to support investment
 
-- **[FactSet](../f/factset.md)**: Provides integrated data and research solutions, including economic data services. More about their services can be found on their [website](https://www.factset.com/).
+- **[FactSet](../f/factset.md)**: Provides integrated data and research solutions, including economic data
 
 ## Conclusion
 

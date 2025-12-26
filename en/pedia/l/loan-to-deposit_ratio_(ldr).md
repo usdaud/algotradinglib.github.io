@@ -60,22 +60,21 @@ Several factors influence a [bank](../b/bank.md)'s [Loan](../l/loan.md)-to-[Depo
 
 ## Banks and LDR Policies
 
-Banks often have explicit policies regarding their [Loan](../l/loan.md)-to-[Deposit](../d/deposit.md) Ratios to align with their operational and strategic goals. These policies are usually set considering various [risk management frameworks](../r/risk_management_frameworks.md) and regulatory guidelines. 
+Banks often have explicit policies regarding their [Loan](../l/loan.md)-to-[Deposit](../d/deposit.md) Ratios to align with their operational and strategic goals. These policies are usually set considering various [risk management frameworks](../r/risk_management_frameworks.md) and regulatory guidelines.
 
 ### Case Study: HSBC
 
 HSBC (Hongkong and Shanghai Banking [Corporation](../c/corporation.md)), one of the largest banking and financial services organizations in the world, regularly publishes its [financial performance](../f/financial_performance.md) including the LDR. In their annual and quarterly reports, HSBC provides detailed insights into their LDR, backing the importance of this metric for investors and stakeholders.
 
-More information can be found on their [official site](https://www.hsbc.com).
 
 ### Case Study: JP Morgan Chase
 
 JP Morgan Chase, another leading global financial institution, also emphasizes their LDR in their financial disclosures. The [bank](../b/bank.md)’s comprehensive approach towards balancing [loan](../l/loan.md) issuance and [deposit](../d/deposit.md) accumulation reflects their [strategic financial management](../s/strategic_financial_management.md).
 
-For their latest reports, visit their [official site](https://www.jpmorganchase.com).
+For their latest reports,
 
 ## Conclusion
 
-The [Loan](../l/loan.md)-to-[Deposit](../d/deposit.md) Ratio (LDR) is a vital [benchmark](../b/benchmark.md) in the banking [industry](../i/industry.md), [offering](../o/offering.md) insights into a [bank](../b/bank.md)’s [liquidity](../l/liquidity.md) management and profitability. By understanding and optimizing this ratio, banks can ensure a balanced approach towards issuing loans and maintaining sufficient [liquidity](../l/liquidity.md) to meet depositor needs. The LDR serves as a lens through which a [bank](../b/bank.md)'s [financial health](../f/financial_health.md) and strategic [execution](../e/execution.md) can be evaluated, providing valuable information for regulators, investors, and the institutions themselves. 
+The [Loan](../l/loan.md)-to-[Deposit](../d/deposit.md) Ratio (LDR) is a vital [benchmark](../b/benchmark.md) in the banking [industry](../i/industry.md), [offering](../o/offering.md) insights into a [bank](../b/bank.md)’s [liquidity](../l/liquidity.md) management and profitability. By understanding and optimizing this ratio, banks can ensure a balanced approach towards issuing loans and maintaining sufficient [liquidity](../l/liquidity.md) to meet depositor needs. The LDR serves as a lens through which a [bank](../b/bank.md)'s [financial health](../f/financial_health.md) and strategic [execution](../e/execution.md) can be evaluated, providing valuable information for regulators, investors, and the institutions themselves.
 
 For financial analysts, investors, and stakeholders, monitoring a [bank](../b/bank.md)’s LDR offers a comprehensive understanding of its [operational efficiency](../o/operational_efficiency_in_trading.md) and [risk management](../r/risk_management.md) practices, contributing to more informed decision-making in financial contexts.

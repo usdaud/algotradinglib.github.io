@@ -14,7 +14,7 @@ Unsecured personal loans are borrowed sums that individuals can use for various 
 
 ### Unsecured Corporate Bonds
 
-Corporates [issue](../i/issue.md) bonds to raise [capital](../c/capital.md) for growth, operations, or refinancing. Unsecured corporate bonds, also known as debentures, do not have physical assets as backing. Investors rely on the issuing company's [credit rating](../c/credit_rating.md) and financial stability to gauge [risk](../r/risk.md). 
+Corporates [issue](../i/issue.md) bonds to raise [capital](../c/capital.md) for growth, operations, or refinancing. Unsecured corporate bonds, also known as debentures, do not have physical assets as backing. Investors rely on the issuing company's [credit rating](../c/credit_rating.md) and financial stability to gauge [risk](../r/risk.md).
 
 ### Credit Cards
 
@@ -94,19 +94,19 @@ Investors often [benchmark](../b/benchmark.md) against similar unsecured instrum
 
 ### Lending Club
 
-Lending Club (www.lendingclub.com) is a prominent player in the P2P lending space. It offers personal loans, [business](../b/business.md) loans, and refinances, primarily focusing on unsecured [credit](../c/credit.md). The platform utilizes advanced algorithms to assess borrower [creditworthiness](../c/creditworthiness.md).
+Lending Club ( is a prominent player in the P2P lending space. It offers personal loans, [business](../b/business.md) loans, and refinances, primarily focusing on unsecured [credit](../c/credit.md). The platform utilizes advanced algorithms to assess borrower [creditworthiness](../c/creditworthiness.md).
 
 ### Prosper
 
-Prosper (www.prosper.com) is another leading P2P lending platform that provides unsecured personal loans. It connects borrowers with individual investors, [offering](../o/offering.md) a transparent and streamlined process.
+Prosper ( is another leading P2P lending platform that provides unsecured personal loans. It connects borrowers with individual investors, [offering](../o/offering.md) a transparent and streamlined process.
 
 ### Avant
 
-Avant (www.avant.com) specializes in unsecured personal loans for consumers with average [credit](../c/credit.md). The company employs [robust](../r/robust.md) [risk](../r/risk.md) assessment tools to deliver quick lending decisions.
+Avant ( specializes in unsecured personal loans for consumers with average [credit](../c/credit.md). The company employs [robust](../r/robust.md) [risk](../r/risk.md) assessment tools to deliver quick lending decisions.
 
 ### SoFi
 
-SoFi (www.sofi.com) offers a broad [range](../r/range.md) of unsecured financial products, including personal loans, student [loan](../l/loan.md) refinancing, and [credit](../c/credit.md) cards. SoFi leverages its strong brand presence and tech-forward approach to attract a diverse clientele.
+SoFi ( offers a broad [range](../r/range.md) of unsecured financial products, including personal loans, student [loan](../l/loan.md) refinancing, and [credit](../c/credit.md) cards. SoFi leverages its strong brand presence and tech-forward approach to attract a diverse clientele.
 
 ## Risk Mitigation Strategies
 

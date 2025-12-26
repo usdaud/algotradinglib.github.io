@@ -40,7 +40,7 @@ In [portfolio management](../p/portfolio_management.md), the [Kelly criterion](.
 
 ### Algorithmic and High-Frequency Trading
 
-[Hedge](../h/hedge.md) funds like Renaissance Technologies and other [proprietary trading](../p/proprietary_trading.md) firms rely on [mathematical models](../m/mathematical_models_in_trading.md) to make high-frequency trading decisions. The [Kelly criterion](../k/kelly_criterion.md) aids in determining the optimal [trade](../t/trade.md) sizes, ensuring the trades are scaled correctly to maximize returns while minimizing the [risk](../r/risk.md) of significant drawdowns. For more information about Renaissance Technologies, visit their [official site](https://www.rentech.com/).
+[Hedge](../h/hedge.md) funds like Renaissance Technologies and other [proprietary trading](../p/proprietary_trading.md) firms rely on [mathematical models](../m/mathematical_models_in_trading.md) to make high-frequency trading decisions. The [Kelly criterion](../k/kelly_criterion.md) aids in determining the optimal [trade](../t/trade.md) sizes, ensuring the trades are scaled correctly to maximize returns while minimizing the [risk](../r/risk.md) of significant drawdowns.
 
 ### Risk Management
 

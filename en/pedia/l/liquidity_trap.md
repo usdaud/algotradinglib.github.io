@@ -1,6 +1,6 @@
 # Liquidity Trap
 
-A [liquidity](../l/liquidity.md) trap is a situation in which [interest](../i/interest.md) rates are low and savings rates are high, rendering [monetary policy](../m/monetary_policy.md) ineffective. During a [liquidity](../l/liquidity.md) trap, people hoard cash because they expect adverse events such as [deflation](../d/deflation.md), insufficient [aggregate demand](../a/aggregate_demand.md), or financial instability. This concept is important in the field of [macroeconomics](../m/macroeconomics.md) and is especially relevant in discussions about the effectiveness of [monetary policy](../m/monetary_policy.md). 
+A [liquidity](../l/liquidity.md) trap is a situation in which [interest](../i/interest.md) rates are low and savings rates are high, rendering [monetary policy](../m/monetary_policy.md) ineffective. During a [liquidity](../l/liquidity.md) trap, people hoard cash because they expect adverse events such as [deflation](../d/deflation.md), insufficient [aggregate demand](../a/aggregate_demand.md), or financial instability. This concept is important in the field of [macroeconomics](../m/macroeconomics.md) and is especially relevant in discussions about the effectiveness of [monetary policy](../m/monetary_policy.md).
 
 ### Historical Context
 
@@ -52,10 +52,10 @@ Economists have proposed various ways to escape a [liquidity](../l/liquidity.md)
 
 ### Organizations and Think Tanks
 
-1. **Federal Reserve:** The U.S. central [bank](../b/bank.md) has conducted extensive research and policy experiments on addressing [liquidity](../l/liquidity.md) traps. More information can be found on their [official website](https://www.federalreserve.gov).
+1. **Federal Reserve:** The U.S. central [bank](../b/bank.md) has conducted extensive research and policy experiments on addressing [liquidity](../l/liquidity.md) traps.
 
-2. **[Bank](../b/bank.md) of Japan:** As a country that has faced a [liquidity](../l/liquidity.md) trap for an extended period, the [Bank](../b/bank.md) of Japan's policies and experiences are crucial case studies. More information can be found on their [official website](https://www.boj.or.jp/en/).
+2. **[Bank](../b/bank.md) of Japan:** As a country that has faced a [liquidity](../l/liquidity.md) trap for an extended period, the [Bank](../b/bank.md) of Japan's policies and experiences are crucial case studies.
 
-3. **International Monetary [Fund](../f/fund.md) (IMF):** The IMF has numerous resources and publications on [liquidity](../l/liquidity.md) traps and policy responses. More information can be found on their [official website](https://www.imf.org).
+3. **International Monetary [Fund](../f/fund.md) (IMF):** The IMF has numerous resources and publications on [liquidity](../l/liquidity.md) traps and policy responses.
 
 Using these insights, policymakers, economists, and financial analysts can better understand and potentially mitigate the risks associated with [liquidity](../l/liquidity.md) traps, ensuring more [robust](../r/robust.md) economic stability and growth.

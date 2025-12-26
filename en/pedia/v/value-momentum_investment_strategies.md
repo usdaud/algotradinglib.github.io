@@ -61,7 +61,6 @@ Numerous studies have confirmed the persistence of [momentum](../m/momentum.md) 
 
 Several quantitative investment firms and [hedge](../h/hedge.md) funds employ combined [value-momentum strategies](../v/value-momentum_strategies.md). For instance, AQR [Capital](../c/capital.md) Management, founded by Cliff Asness, integrates [value](../v/value.md) and [momentum](../m/momentum.md) signals into its investment models.
 
-[AQR Capital Management](https://www.aqr.com/)
 
 ### Strategy Backtesting
 

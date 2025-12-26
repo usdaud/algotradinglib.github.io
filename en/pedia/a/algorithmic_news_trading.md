@@ -38,7 +38,7 @@ Algorithmic news traders utilize a wide array of data sources to fuel their mode
 - **[Social Media](../s/social_media.md):** Platforms like Twitter [offer](../o/offer.md) rapid dissemination of news and public sentiment.
 - **[Alternative Data](../a/alternative_data.md):** [Non-traditional data sources](../n/non-traditional_data_sources.md) like satellite imagery, shipping data, and web scraping.
 
-Providers such as [Bloomberg](https://www.bloomberg.com/professional/product/enterprise-solutions/) and [Thomson Reuters](https://www.refinitiv.com/en) [offer](../o/offer.md) data feeds specifically designed for [algorithmic trading](../a/algorithmic_trading.md).
+Providers such as Bloomberg and Thomson Reuters [offer](../o/offer.md) data feeds specifically designed for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Strategies in Algorithmic News Trading
 
@@ -94,13 +94,13 @@ The use of [alternative data](../a/alternative_data.md) sources, such as [social
 
 Several firms specialize in providing technology and data solutions for algorithmic news trading. Notable examples include:
 
-- **[Bloomberg](../b/bloomberg.md):** Provides a comprehensive suite of data and analytics tools designed for financial professionals. Their news feed and analytics services are widely used in [algorithmic trading](../a/algorithmic_trading.md). [Bloomberg Enterprise Solutions](https://www.bloomberg.com/professional/product/enterprise-solutions/)
+- **[Bloomberg](../b/bloomberg.md):** Provides a comprehensive suite of data and analytics tools designed for financial professionals. Their news feed and analytics services are widely used in [algorithmic trading](../a/algorithmic_trading.md). Bloomberg Enterprise Solutions
 
-- **Thomson [Reuters](../r/reuters.md) (Refinitiv):** Offers data feeds, analytics, and trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) strategies. [Refinitiv](https://www.refinitiv.com/en)
+- **Thomson [Reuters](../r/reuters.md) (Refinitiv):** Offers data feeds, analytics, and trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) strategies. Refinitiv
 
-- **Newsquawk:** Provides real-time news and analysis specifically tailored for traders. Their audio news feed helps traders stay updated on [market](../m/market.md)-moving news. [Newsquawk](https://www.newsquawk.com/)
+- **Newsquawk:** Provides real-time news and analysis specifically tailored for traders. Their audio news feed helps traders stay updated on [market](../m/market.md)-moving news. Newsquawk
 
-- **AlphaSense:** Utilizes AI and NLP to analyze and extract actionable insights from a wide [range](../r/range.md) of financial documents and news articles. [AlphaSense](https://www.alpha-sense.com/)
+- **AlphaSense:** Utilizes AI and NLP to analyze and extract actionable insights from a wide [range](../r/range.md) of financial documents and news articles. AlphaSense
 
 ### Conclusion
 

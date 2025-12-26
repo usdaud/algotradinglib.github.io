@@ -65,17 +65,17 @@ Companies that underwrite [insurance](../i/insurance.md) policies and transfer [
 
 ### Reinsurers
 Entities that assume [risk](../r/risk.md) from primary insurers. Some leading global reinsurers include:
-- [Munich Re](https://www.munichre.com)
-- [Swiss Re](https://www.swissre.com)
-- [Hannover Re](https://www.hannover-re.com)
+- Munich Re
+- Swiss Re
+- Hannover Re
 
 ### Reinsurance Brokers
 Intermediaries who facilitate transactions between primary insurers and reinsurers by providing expertise, negotiating terms, and optimizing reinsurance programs.
 
 ### Rating Agencies
 Organizations that assess the financial strength and stability of reinsurers. Examples include:
-- [AM Best](https://www.ambest.com)
-- [Standard & Poor’s](https://www.standardandpoors.com)
+- AM Best
+- Standard & Poor’s
 
 ## Reinsurance and Regulatory Framework
 
@@ -84,7 +84,7 @@ Reinsurance operates within a [robust](../r/robust.md) regulatory framework that
 ### Solvency Requirements
 Regulators mandate that both primary insurers and reinsurers maintain adequate [capital](../c/capital.md) to meet their [obligations](../o/obligation.md).
 
-### Risk-Based Capital (RBC) 
+### Risk-Based Capital (RBC)
 A measure used to determine the minimum amount of [capital](../c/capital.md) an insurer or reinsurer must [hold](../h/hold.md), based on the [risk](../r/risk.md) profile of its portfolio.
 
 ### Credit Ratings

@@ -73,4 +73,3 @@ Bitkub maintains an active presence on various [social media](../s/social_media.
 
 With its comprehensive features, strong [security](../s/security.md) protocols, and regulatory compliance, Bitkub aims to be a [one-stop shop](../o/one-stop_shop.md) for all cryptocurrency trading needs in Thailand. By continuously evolving and expanding its offerings, Bitkub is setting new standards in the Thai digital [asset](../a/asset.md) [industry](../i/industry.md).
 
-For more information, visit the official Bitkub website: [Bitkub Official Website](https://www.bitkub.com).

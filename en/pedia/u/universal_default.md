@@ -43,7 +43,7 @@ Universal [default](../d/default.md) operates on the principle of [risk](../r/ri
 Upon detecting a potential increase in [risk](../r/risk.md) (e.g., a drop in [credit score](../c/credit_score.md), a new derogatory mark, a missed [payment](../p/payment.md) elsewhere), the [lender](../l/lender.md) may trigger the universal [default](../d/default.md) clause. This typically leads to:
 
 - **Increased [Interest](../i/interest.md) Rates**: The most common outcome is a significant hike in the [interest rate](../i/interest_rate.md) applied to the borrower’s balance. This punitive rate can be double or even triple the original rate, [compounding](../c/compounding.md) the borrower’s financial strain.
-  
+
 - **Changes in [Credit](../c/credit.md) Terms**: Lenders might also revise other terms of the [credit](../c/credit.md) agreement, such as reducing the [credit limit](../c/credit_limit.md), increasing fees, or altering [payment](../p/payment.md) schedules.
 
 ### Communication and Transparency

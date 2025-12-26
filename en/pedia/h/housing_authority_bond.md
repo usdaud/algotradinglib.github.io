@@ -114,13 +114,13 @@ Economic downturns or changes in [government policies](../g/government_policies_
 
 The California Housing [Finance](../f/finance.md) Agency (CalHFA) is an example of a state-level [issuer](../i/issuer.md) of housing authority bonds. CalHFA has issued various bonds to support affordable housing development across California. One notable initiative was the issuance of tax-exempt multifamily housing [revenue](../r/revenue.md) bonds, which funded the construction and rehabilitation of thousands of affordable housing units.
 
-For more details, visit the official CalHFA website: [California Housing Finance Agency](https://www.calhfa.ca.gov/).
+
 
 ### Case Study 2: New York City Housing Development Corporation (NYCHDC)
 
 The New York City Housing Development [Corporation](../c/corporation.md) (NYCHDC) issues bonds to support affordable housing projects within New York City. NYCHDC has utilized both tax-exempt and taxable bonds to [finance](../f/finance.md) diverse housing initiatives, including multifamily rental properties and supportive housing.
 
-For more details, visit the official NYCHDC website: [New York City Housing Development Corporation](http://www.nychdc.com/).
+
 
 ## How to Invest in Housing Authority Bonds
 

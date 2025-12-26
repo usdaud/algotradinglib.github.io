@@ -54,15 +54,14 @@ While EVT offers powerful tools for understanding and managing extreme risks, th
 
 Many financial institutions and [proprietary trading](../p/proprietary_trading.md) firms [leverage](../l/leverage.md) EVT in their [risk management](../r/risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies. Some notable examples include:
 
-1. **Morgan Stanley**: Known for its sophisticated [risk management](../r/risk_management.md) systems, Morgan Stanley uses advanced statistical techniques, including EVT, to manage and mitigate [tail risk](../t/tail_risk.md). More information can be found on their [official website](https://www.morganstanley.com/).
+1. **Morgan Stanley**: Known for its sophisticated [risk management](../r/risk_management.md) systems, Morgan Stanley uses advanced statistical techniques, including EVT, to manage and mitigate [tail risk](../t/tail_risk.md).
 
-2. **J.P. Morgan**: J.P. Morgan's [Risk Management](../r/risk_management.md) division employs a variety of advanced methods, including EVT, to assess and control [risk](../r/risk.md) in their trading operations. Details can be accessed [here](https://www.jpmorgan.com/).
+2. **J.P. Morgan**: J.P. Morgan's [Risk Management](../r/risk_management.md) division employs a variety of advanced methods, including EVT, to assess and control [risk](../r/risk.md) in their trading operations. Details can be accessed here.
 
-3. **Goldman Sachs**: Another major player in the financial [industry](../i/industry.md), Goldman Sachs integrates advanced [risk](../r/risk.md) modeling techniques, including EVT, in its [trading algorithms](../t/trading_algorithms.md). Visit their [website](https://www.goldmansachs.com/) for more insights.
+3. **Goldman Sachs**: Another major player in the financial [industry](../i/industry.md), Goldman Sachs integrates advanced [risk](../r/risk.md) modeling techniques, including EVT, in its [trading algorithms](../t/trading_algorithms.md).
 
-4. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform where traders and researchers can implement and backtest EVT-based strategies. For more details, visit [QuantConnect](https://www.quantconnect.com/).
+4. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform where traders and researchers can implement and backtest EVT-based strategies. For more details, visit QuantConnect.
 
 #### Conclusion
 
 Extreme [Value](../v/value.md) Theory provides essential tools for understanding and managing the [risk](../r/risk.md) of extreme [market](../m/market.md) movements. When incorporated into [algorithmic trading](../a/algorithmic_trading.md) strategies, EVT can enhance [risk management](../r/risk_management.md) and improve the robustness of [trading algorithms](../t/trading_algorithms.md). Despite its computational and data challenges, EVT remains a critical component for traders and financial institutions aiming to navigate the uncertainties of [financial markets](../f/financial_market.md) effectively.
-

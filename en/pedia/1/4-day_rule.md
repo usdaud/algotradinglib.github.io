@@ -42,11 +42,11 @@ Algorithmic strategies must consider the restrictions imposed by the [Pattern Da
 
 Various brokerages provide tools and platforms to assist traders in complying with the 4-Day Rule. Examples include:
 
-1. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php): Offers real-time monitoring tools and alerts for PDT status.
-2. [E*TRADE](https://us.etrade.com/home): Provides educational resources and trading platforms that monitor day trades.
-3. [TD Ameritrade](https://www.tdameritrade.com/home.page): Features comprehensive [trader](../t/trader.md) dashboards to ensure compliance with [FINRA](../f/finra.md) rules.
-4. [Robinhood](https://robinhood.com/us/en/): Incorporates PDT tracking in their mobile and web trading apps.
+1. Interactive Brokers: Offers real-time monitoring tools and alerts for PDT status.
+2. E*TRADE: Provides educational resources and trading platforms that monitor day trades.
+3. Charles Schwab (formerly TD Ameritrade, acquired September 2023): Features comprehensive [trader](../t/trader.md) dashboards to ensure compliance with [FINRA](../f/finra.md) rules.
+4. Robinhood: Incorporates PDT tracking in their mobile and web trading apps.
 
 ## Conclusion
 
-The 4-Day Rule, or [Pattern Day Trader](../p/pattern_day_trader.md) Rule, symbolizes a critical regulatory framework in the U.S. [financial markets](../f/financial_market.md). It underscores the importance of adequate [capitalization](../c/capitalization.md) and [risk management](../r/risk_management.md) for individuals engaged in frequent trading activities. For algorithmic traders, navigating these regulations requires thoughtful adjustments to [trading strategies](../t/trading_strategies.md) and close monitoring of trading activities. The rule aims to fortify [market](../m/market.md) integrity while protecting retail investors from excessive [risk](../r/risk.md), thereby ensuring a balanced and fair [trading environment](../t/trading_environment.md).
+The 4-Day Rule, or [Pattern Day Trader](../p/pattern_day_trader.md) Rule, symbolizes a critical regulatory framework in the U.S. [financial markets](../f/financial_market.md). It underscores the importance of adequate [capitalization](../c/capitalization.md) and [risk management](../r/risk_management.md) for individuals engaged in frequent trading activities. For algorithmic traders, navigating these regulations requires thoughtful adjustments to [trading strategies](../t/trading_strategies.md) and close monitoring of trading activities. The rule aims to fortify [market](../m/market.md) integrity while protecting retail investors from excessive [risk](../r/risk.md), thereby ensuring a balanced and fair [trading environment](../t/trading_environment.md).

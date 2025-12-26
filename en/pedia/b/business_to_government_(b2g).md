@@ -105,10 +105,10 @@ B2G transactions can be significantly affected by political decisions and [econo
 
 Several companies specialize in providing services and products for government entities. Examples include:
 
-- **Lockheed Martin**: A leading aerospace, defense, and [security](../s/security.md) company providing services and products to governments worldwide. [Lockheed Martin](https://www.lockheedmartin.com)
-- **IBM**: Offers a [range](../r/range.md) of services tailored for government needs, including IT [infrastructure](../i/infrastructure.md) and cybersecurity solutions. [IBM for Government](https://www.ibm.com/government)
-- **Cisco**: Provides network [infrastructure](../i/infrastructure.md) technology and solutions for government entities. [Cisco Public Sector](https://www.cisco.com/c/en/us/solutions/industries/government.html)
-  
+- **Lockheed Martin**: A leading aerospace, defense, and [security](../s/security.md) company providing services and products to governments worldwide. Lockheed Martin
+- **IBM**: Offers a [range](../r/range.md) of services tailored for government needs, including IT [infrastructure](../i/infrastructure.md) and cybersecurity solutions. IBM for Government
+- **Cisco**: Provides network [infrastructure](../i/infrastructure.md) technology and solutions for government entities. Cisco Public Sector
+
 ## Conclusion
 
 [Business](../b/business.md) to Government (B2G) interactions encompass a broad spectrum of activities and sectors, providing critical support and innovation to public services. While the process involves navigating complex [procurement](../p/procurement.md) processes and stringent regulatory requirements, the benefits of large-scale contracts, long-term stability, and enhanced credibility make it an attractive avenue for businesses. By understanding the key components, benefits, and challenges of B2G transactions, businesses can better position themselves to [capitalize](../c/capitalize.md) on opportunities within this sector.

@@ -93,17 +93,14 @@ Companies and financial institutions play a crucial role in the issuance, [distr
 ### JP Morgan Chase
 
 JP Morgan Chase provides an array of services relating to ABCP, from issuance to [rating](../r/rating.md) and structuring of the paper.
-[JP Morgan Chase](https://www.jpmorgan.com)
 
 ### Goldman Sachs
 
 Goldman Sachs participates actively in the ABCP [market](../m/market.md), particularly through its role as a [dealer](../d/dealer.md) and advisor.
-[Goldman Sachs](https://www.goldmansachs.com)
 
 ### Citigroup
 
 Citigroup operates in the ABCP space through various SPVs and offers [credit](../c/credit.md) enhancement mechanisms to investors.
-[Citigroup](https://www.citigroup.com)
 
 ## Conclusion
 

@@ -48,7 +48,7 @@ A feasibility study is an analysis that takes into account all of a project's re
 
 ### Step 1: Define the Project Scope
 
-Clearly define the project, including its objectives, requirements, and constraints. 
+Clearly define the project, including its objectives, requirements, and constraints.
 
 ### Step 2: Conduct a Preliminary Analysis
 

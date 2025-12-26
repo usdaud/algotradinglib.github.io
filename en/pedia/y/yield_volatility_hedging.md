@@ -21,13 +21,13 @@ Hedging against [yield volatility](../y/yield_volatility.md) is crucial for seve
 There are several financial instruments and strategies employed in [yield volatility](../y/yield_volatility.md) hedging, some of which include:
 
 1. **[Derivatives](../d/derivatives.md)**: Instruments such as [options](../o/options.md), [futures](../f/futures.md), and swaps are commonly used in [yield volatility](../y/yield_volatility.md) hedging.
-   - **[Interest Rate Swaps](../i/interest_rate_swaps.md)**: Contracts in which two parties [exchange](../e/exchange.md) future [interest rate](../i/interest_rate.md) payments, designed to manage exposure to changes in [interest](../i/interest.md) rates.
-   - **[Options](../o/options.md)**: Contracts that give the holder the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a specified price within a predetermined time frame. These can be used to [hedge](../h/hedge.md) against adverse [yield](../y/yield.md) movements.
-   - **[Futures](../f/futures.md)**: Standardized contracts to buy or sell a particular [asset](../a/asset.md) at a specified future date and price, useful in locking in yields.
+ - **[Interest Rate Swaps](../i/interest_rate_swaps.md)**: Contracts in which two parties [exchange](../e/exchange.md) future [interest rate](../i/interest_rate.md) payments, designed to manage exposure to changes in [interest](../i/interest.md) rates.
+ - **[Options](../o/options.md)**: Contracts that give the holder the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a specified price within a predetermined time frame. These can be used to [hedge](../h/hedge.md) against adverse [yield](../y/yield.md) movements.
+ - **[Futures](../f/futures.md)**: Standardized contracts to buy or sell a particular [asset](../a/asset.md) at a specified future date and price, useful in locking in yields.
 2. **[Fixed Income Securities](../f/fixed_income_securities.md)**: [Investing](../i/investing.md) in bonds with varying maturities and coupons can also be a hedging strategy. By [laddering](../l/laddering.md) [bond](../b/bond.md) investments, the [investor](../i/investor.md) can mitigate [interest rate risk](../i/interest_rate_risk.md) and [yield volatility](../y/yield_volatility.md).
-   - **[Diversification](../d/diversification.md)**: Establishing a diversified portfolio that includes a mix of various [asset](../a/asset.md) classes (equities, bonds, [real estate](../r/real_estate.md)) to spread [risk](../r/risk.md).
-   - **[Duration](../d/duration.md) Matching**: Matching the [duration](../d/duration.md) of assets and liabilities to minimize the impact of [yield volatility](../y/yield_volatility.md) on the overall portfolio.
-   
+ - **[Diversification](../d/diversification.md)**: Establishing a diversified portfolio that includes a mix of various [asset](../a/asset.md) classes (equities, bonds, [real estate](../r/real_estate.md)) to spread [risk](../r/risk.md).
+ - **[Duration](../d/duration.md) Matching**: Matching the [duration](../d/duration.md) of assets and liabilities to minimize the impact of [yield volatility](../y/yield_volatility.md) on the overall portfolio.
+
 ### Examples of Hedging Strategies
 
 #### 1. Immunization
@@ -67,10 +67,10 @@ While [yield volatility](../y/yield_volatility.md) hedging can be highly effecti
 
 Several firms specialize in providing solutions for [yield volatility](../y/yield_volatility.md) hedging, leveraging advanced technologies and expertise in [financial markets](../f/financial_market.md).
 
-1. **BlackRock**: One of the largest [asset management](../a/asset_management.md) firms globally, BlackRock offers a [range](../r/range.md) of [risk management](../r/risk_management.md) and hedging solutions through its Aladdin platform. More information can be found at [BlackRock's official website](https://www.blackrock.com).
-2. **Goldman Sachs**: A leading global investment [bank](../b/bank.md), Goldman Sachs provides sophisticated [hedging strategies](../h/hedging_strategies.md) and financial instruments tailored to manage [yield volatility](../y/yield_volatility.md). More details can be found at [Goldman Sachs' official website](https://www.goldmansachs.com).
-3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) offers a comprehensive suite of financial tools and analytics, including solutions for [yield volatility](../y/yield_volatility.md) hedging, through its [Bloomberg](../b/bloomberg.md) Terminal. Visit [Bloomberg's official website](https://www.bloomberg.com) for more information.
-4. **J.P. Morgan**: J.P. Morgan provides a [range](../r/range.md) of [risk management](../r/risk_management.md) and hedging services, combining [market](../m/market.md) expertise with advanced technology to help clients manage [yield volatility](../y/yield_volatility.md). Further information is available on [J.P. Morgan's official website](https://www.jpmorgan.com).
+1. **BlackRock**: One of the largest [asset management](../a/asset_management.md) firms globally, BlackRock offers a [range](../r/range.md) of [risk management](../r/risk_management.md) and hedging solutions through its Aladdin platform.
+2. **Goldman Sachs**: A leading global investment [bank](../b/bank.md), Goldman Sachs provides sophisticated [hedging strategies](../h/hedging_strategies.md) and financial instruments tailored to manage [yield volatility](../y/yield_volatility.md). More
+3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) offers a comprehensive suite of financial tools and analytics, including solutions for [yield volatility](../y/yield_volatility.md) hedging, through its [Bloomberg](../b/bloomberg.md) Terminal.
+4. **J.P. Morgan**: J.P. Morgan provides a [range](../r/range.md) of [risk management](../r/risk_management.md) and hedging services, combining [market](../m/market.md) expertise with advanced technology to help clients manage [yield volatility](../y/yield_volatility.md). Further information is available on J.P. Morgan's
 
 ### Conclusion
 

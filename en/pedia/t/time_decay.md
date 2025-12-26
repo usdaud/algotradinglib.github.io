@@ -53,11 +53,11 @@ Let's consider a practical example to illustrate time decay:
 Suppose an [investor](../i/investor.md) purchases a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $50, an [expiration date](../e/expiration_date.md) in 30 days, and a current price of $2.50. The [theta](../t/theta.md) of the option is -0.05.
 
 - **Day 0 (Purchase Date)**: The [investor](../i/investor.md) pays $2.50 for the option.
-  
+
 - **Day 5**: Assuming the [underlying](../u/underlying.md) stock price remains [unchanged](../u/unchanged.md), the option's [value](../v/value.md) decreases by approximately $0.25 (5 days x -0.05 [theta](../t/theta.md)). The new price is around $2.25.
-  
+
 - **Day 10**: Again, assuming no change in the stock price, the option's [value](../v/value.md) decreases by another $0.25. The price is approximately $2.00.
-  
+
 - **[Expiration Date](../e/expiration_date.md)**: If the stock price does not move significantly, the option could expire worthless, resulting in a total loss of the [premium](../p/premium.md) paid.
 
 ### Example 2: Short Put Option
@@ -65,11 +65,11 @@ Suppose an [investor](../i/investor.md) purchases a [call option](../c/call_opti
 An [investor](../i/investor.md) sells a [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $50, an expiration in 30 days, and collects a [premium](../p/premium.md) of $2.00. The [theta](../t/theta.md) of the option is -0.04.
 
 - **Day 0 (Sell Date)**: The [investor](../i/investor.md) collects $2.00.
-  
+
 - **Day 5**: Assuming no significant movement in the stock price, the [put option](../p/put.md)'s [value](../v/value.md) decreases by approximately $0.20 (5 days x -0.04 [theta](../t/theta.md)). The new price is around $1.80.
-  
+
 - **Day 10**: Assuming no significant price movement, the option's [value](../v/value.md) drops by another $0.20, making it worth approximately $1.60.
-  
+
 - **[Expiration Date](../e/expiration_date.md)**: If the stock price remains above the [strike price](../s/strike_price.md), the [put option](../p/put.md) expires worthless, and the seller keeps the entire [premium](../p/premium.md).
 
 ## Risks Associated with Time Decay

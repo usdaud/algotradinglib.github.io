@@ -1,6 +1,6 @@
 # Income Statement
 
-An [income](../i/income.md) statement, also known as a [profit](../p/profit.md) and loss statement (P&L), is one of the primary [financial statements](../f/financial_statements.md) used by companies to assess their [financial performance](../f/financial_performance.md) over a specific [accounting](../a/accounting.md) period. This document provides comprehensive details about a company's revenues, expenses, profits, and losses. Below, we [will](../w/will.md) dive deep into the various components, formats, and significance of [income](../i/income.md) statements, particularly in the context of [algorithmic trading](../a/accountability.md) (algotrading).
+An [income](../i/income.md) statement, also known as a [profit](../p/profit.md) and loss statement (P&L), is one of the primary [financial statements](../f/financial_statements.md) used by companies to assess their [financial performance](../f/financial_performance.md) over a specific [accounting](../a/accounting.md) period. This document provides comprehensive details about a company's revenues, expenses, profits, and losses. Below, we [will](../w/will.md) dive deep into the various components, formats, and significance of [income](../i/income.md) statements, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 
 ## Components of an Income Statement
 
@@ -54,7 +54,7 @@ The multi-step [income](../i/income.md) statement provides a more detailed analy
 ## Importance in Algorithmic Trading
 
 ### Performance Evaluation
-For companies engaged in [algorithmic trading](../a/accountability.md), the [income](../i/income.md) statement is crucial for evaluating their [financial performance](../f/financial_performance.md). It helps in assessing how well [trading strategies](../t/trading_strategies.md) are performing in terms of [revenue](../r/revenue.md) generation and cost management.
+For companies engaged in [algorithmic trading](../a/algorithmic_trading.md), the [income](../i/income.md) statement is crucial for evaluating their [financial performance](../f/financial_performance.md). It helps in assessing how well [trading strategies](../t/trading_strategies.md) are performing in terms of [revenue](../r/revenue.md) generation and cost management.
 
 ### Cost Management
 Understanding the breakdown of operating expenses and COGS can help algotrading firms in managing their costs more effectively. This might include expenses related to technology [infrastructure](../i/infrastructure.md), data [acquisition](../a/acquisition.md), and personnel.
@@ -65,9 +65,8 @@ The [income](../i/income.md) statement provides a clear picture of profitability
 ### Risk Management
 By examining the [income](../i/income.md) statement, firms can identify areas where they might be exposed to financial risks, such as high operating expenses or low [operating income](../o/operating_income.md). This enables them to implement [risk](../r/risk.md) mitigation strategies proactively.
 
-### Investor Relations
 For publicly traded companies, a well-prepared [income](../i/income.md) statement is essential for maintaining [transparency](../t/transparency.md) with investors. It provides shareholders and potential investors with key information about the company's [financial health](../f/financial_health.md) and profitability.
 
 ## Conclusion
 
-The [income](../i/income.md) statement is a fundamental financial document that provides vital insights into a company's [financial performance](../f/financial_performance.md) over a specific period. For [algorithmic trading](../a/accountability.md) firms, it serves as a crucial tool for performance evaluation, cost management, profitability analysis, [risk management](../r/risk_management.md), and maintaining [investor relations](../i/investor_relations.md). By understanding and effectively utilizing the components and formats of the [income](../i/income.md) statement, algotrading firms can make more informed decisions and drive sustainable growth.
+The [income](../i/income.md) statement is a fundamental financial document that provides vital insights into a company's [financial performance](../f/financial_performance.md) over a specific period. For [algorithmic trading](../a/algorithmic_trading.md) firms, it serves as a crucial tool for performance evaluation, cost management, profitability analysis, [risk management](../r/risk_management.md), and maintaining [company filings](../i/investor_relations.md). By understanding and effectively utilizing the components and formats of the [income](../i/income.md) statement, algotrading firms can make more informed decisions and drive sustainable growth.

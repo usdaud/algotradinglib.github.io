@@ -11,12 +11,12 @@ Gross [yield](../y/yield.md) represents the annual [income](../i/income.md) gene
 ### Components
 
 1. **Annual [Income](../i/income.md) from Investment**:
-   - For [real estate](../r/real_estate.md), this typically includes rental [income](../i/income.md).
-   - For bonds, the annual [interest](../i/interest.md) payments.
-   - For [dividend](../d/dividend.md) [stocks](../s/stock.md), the annual [dividend](../d/dividend.md) [income](../i/income.md).
+ - For [real estate](../r/real_estate.md), this typically includes rental [income](../i/income.md).
+ - For bonds, the annual [interest](../i/interest.md) payments.
+ - For [dividend](../d/dividend.md) [stocks](../s/stock.md), the annual [dividend](../d/dividend.md) [income](../i/income.md).
 
 2. **Purchase Price or [Market Value](../m/market_value.md)**:
-   - The initial cost of acquiring the investment or its current [market value](../m/market_value.md).
+ - The initial cost of acquiring the investment or its current [market value](../m/market_value.md).
 
 ## Application in Different Sectors
 
@@ -26,7 +26,7 @@ In [real estate](../r/real_estate.md), gross [yield](../y/yield.md) is used exte
 
 - **Example**: If a property is purchased for $200,000 and the annual rental [income](../i/income.md) is $20,000, the gross [yield](../y/yield.md) would be:
 
-  \[ \text{Gross [Yield](../y/yield.md)} = \left( \frac{20,000}{200,000} \right) \times 100 = 10\% \]
+ \[ \text{Gross [Yield](../y/yield.md)} = \left( \frac{20,000}{200,000} \right) \times 100 = 10\% \]
 
 ### Bonds
 
@@ -34,7 +34,7 @@ For bonds, gross [yield](../y/yield.md) helps investors understand the [annual r
 
 - **Example**: A [bond](../b/bond.md) with a [face value](../f/face_value.md) of $1,000 purchased at $950 and an annual coupon [payment](../p/payment.md) of $50 has a gross [yield](../y/yield.md) of:
 
-  \[ \text{Gross [Yield](../y/yield.md)} = \left( \frac{50}{950} \right) \times 100 \approx 5.26\% \]
+ \[ \text{Gross [Yield](../y/yield.md)} = \left( \frac{50}{950} \right) \times 100 \approx 5.26\% \]
 
 ### Dividend Stocks
 
@@ -42,7 +42,7 @@ Investors in [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) use gro
 
 - **Example**: If a stock is priced at $100 per share and pays an annual [dividend](../d/dividend.md) of $5, the gross [yield](../y/yield.md) would be:
 
-  \[ \text{Gross [Yield](../y/yield.md)} = \left( \frac{5}{100} \right) \times 100 = 5\% \]
+ \[ \text{Gross [Yield](../y/yield.md)} = \left( \frac{5}{100} \right) \times 100 = 5\% \]
 
 ## Importance of Gross Yield
 
@@ -84,15 +84,15 @@ To address the limitations of gross [yield](../y/yield.md), investors often comb
 
 ### Property Investment: Southern Real Estate Group
 
-The Southern [Real Estate](../r/real_estate.md) Group (http://southernrealestategroup.com) provides an insightful example of how gross [yield](../y/yield.md) is utilized in property investments. By analyzing numerous properties in their portfolio based on gross [yield](../y/yield.md), they identify high-potential rental apartments and commercial spaces, ensuring attractive returns for their investors.
+The Southern [Real Estate](../r/real_estate.md) Group ( provides an insightful example of how gross [yield](../y/yield.md) is utilized in property investments. By analyzing numerous properties in their portfolio based on gross [yield](../y/yield.md), they identify high-potential rental apartments and commercial spaces, ensuring attractive returns for their investors.
 
 ### Bond Investment: Blue Bond Capital
 
-Blue [Bond](../b/bond.md) [Capital](../c/capital.md) (http://bluebondcapital.com) specializes in fixed-[income](../i/income.md) securities. They use gross [yield](../y/yield.md) as a primary metric to evaluate [bond](../b/bond.md) investments, ensuring they acquire bonds with favorable [interest](../i/interest.md) payments relative to their purchase prices.
+Blue [Bond](../b/bond.md) [Capital](../c/capital.md) ( specializes in fixed-[income](../i/income.md) securities. They use gross [yield](../y/yield.md) as a primary metric to evaluate [bond](../b/bond.md) investments, ensuring they acquire bonds with favorable [interest](../i/interest.md) payments relative to their purchase prices.
 
 ### Dividend Stocks: Growth Dividend Fund
 
-Growth [Dividend](../d/dividend.md) [Fund](../f/fund.md) (http://growthdividendfund.com) focuses on [stocks](../s/stock.md) with strong, consistent dividends. By calculating the gross [yield](../y/yield.md) of potential stock acquisitions, the [fund](../f/fund.md) ensures a steady [income](../i/income.md) stream for its investors.
+Growth [Dividend](../d/dividend.md) [Fund](../f/fund.md) ( focuses on [stocks](../s/stock.md) with strong, consistent dividends. By calculating the gross [yield](../y/yield.md) of potential stock acquisitions, the [fund](../f/fund.md) ensures a steady [income](../i/income.md) stream for its investors.
 
 ## Conclusion
 

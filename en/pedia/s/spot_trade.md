@@ -90,19 +90,19 @@ Spot trading is prevalent in metals and energy markets. Gold, silver, and other 
 
 ### Forex.com
 
-Forex.com is a leading Forex [trading platform](../t/trading_platform.md) [offering](../o/offering.md) spot trading services for a wide [range](../r/range.md) of [currency](../c/currency.md) pairs. Their advanced trading tools and competitive [spreads](../s/spreads.md) make it a popular choice for Forex traders. More information can be found on their [official website](https://www.forex.com/).
+Forex.com is a leading Forex [trading platform](../t/trading_platform.md) [offering](../o/offering.md) spot trading services for a wide [range](../r/range.md) of [currency](../c/currency.md) pairs. Their advanced trading tools and competitive [spreads](../s/spreads.md) make it a popular choice for Forex traders.
 
 ### London Metal Exchange (LME)
 
-The LME is a major global marketplace for trading base and other metals. It provides a platform for spot trading of metals, [offering](../o/offering.md) real-time [price discovery](../p/price_discovery.md) and [market](../m/market.md) [transparency](../t/transparency.md). Visit the [LME website](https://www.lme.com/) for more details.
+The LME is a major global marketplace for trading base and other metals. It provides a platform for spot trading of metals, [offering](../o/offering.md) real-time [price discovery](../p/price_discovery.md) and [market](../m/market.md) [transparency](../t/transparency.md).
 
 ### Coinbase
 
-[Coinbase](../c/coinbase.md) is a widely-used cryptocurrency [exchange](../e/exchange.md) that supports spot trading of various digital assets. It ensures secure and efficient trading mechanisms for cryptocurrencies. To learn more, visit the [Coinbase website](https://www.coinbase.com/).
+[Coinbase](../c/coinbase.md) is a widely-used cryptocurrency [exchange](../e/exchange.md) that supports spot trading of various digital assets. It ensures secure and efficient trading mechanisms for cryptocurrencies. To
 
 ### New York Mercantile Exchange (NYMEX)
 
-NYMEX facilitates spot trading in energy commodities, including [crude oil](../c/crude_oil.md), natural gas, and other refined products. It plays a crucial role in the global energy markets by ensuring fair price determination. Detailed information is available on the [CME Group website](https://www.cmegroup.com/).
+NYMEX facilitates spot trading in energy commodities, including [crude oil](../c/crude_oil.md), natural gas, and other refined products. It plays a crucial role in the global energy markets by ensuring fair price determination.
 
 ## Conclusion
 

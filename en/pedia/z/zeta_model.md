@@ -72,7 +72,7 @@ The model relies heavily on historical financial data, which can be a limitation
 
 ### Static Nature
 
-The Zeta Model provides a static snapshot of a company's [financial health](../f/financial_health.md) based on historical data. It doesn’t account for ongoing operational changes, emerging risks, or management strategies that could impact future [financial performance](../f/financial_performance.md). 
+The Zeta Model provides a static snapshot of a company's [financial health](../f/financial_health.md) based on historical data. It doesn’t account for ongoing operational changes, emerging risks, or management strategies that could impact future [financial performance](../f/financial_performance.md).
 
 ## Recent Developments
 
@@ -80,6 +80,6 @@ In recent years, there have been efforts to enhance the Zeta Model by incorporat
 
 ## Conclusion
 
-The Zeta Model remains a cornerstone in the realm of [financial risk](../f/financial_risk.md) assessment and [predictive modeling](../p/predictive_modeling.md). Despite its limitations, it continues to provide valuable insights and a quantitative framework for evaluating the [financial distress](../f/financial_distress.md) of companies. As fintech innovation progresses, the integration of advanced analytical techniques with the Zeta Model promises to enhance its effectiveness, ensuring its continued relevance in the ever-evolving financial landscape. 
+The Zeta Model remains a cornerstone in the realm of [financial risk](../f/financial_risk.md) assessment and [predictive modeling](../p/predictive_modeling.md). Despite its limitations, it continues to provide valuable insights and a quantitative framework for evaluating the [financial distress](../f/financial_distress.md) of companies. As fintech innovation progresses, the integration of advanced analytical techniques with the Zeta Model promises to enhance its effectiveness, ensuring its continued relevance in the ever-evolving financial landscape.
 
-For further reading and application of the Zeta Model, visit [NYU Stern's Edward Altman's page](https://www.stern.nyu.edu/faculty/bio/edward-altman).
+For further reading and application of the Zeta Model,

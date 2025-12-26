@@ -72,31 +72,26 @@ Execute the [investment strategy](../i/investment_strategy.md) and continuously 
 
 The [Bloomberg Terminal](../b/bloomberg_terminal.md) provides professionals with real-time data, news, and analytics. It's an essential tool for in-depth [market](../m/market.md) analysis.
 
-[Learn More](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Morningstar
 
 [Morningstar](../m/morningstar.md) provides data on [stocks](../s/stock.md), mutual funds, ETFs, and [market](../m/market.md) analysis. It's widely used for [fundamental analysis](../f/fundamental_analysis.md) and [portfolio management](../p/par.md).
 
-[Learn More](https://www.morningstar.com/)
 
 ### TradingView
 
 [TradingView](../t/tradingview.md) offers advanced charting tools and a social network for traders. It's useful for [technical analysis](../t/technical_analysis.md) and community-driven insights.
 
-[Learn More](https://www.tradingview.com/)
 
 ### Eikon
 
 Eikon, by Refinitiv, offers [financial analysis](../f/financial_analysis.md) tools, [real-time market data](../r/real-time_market_data.md), and news. It's a comprehensive platform for both fundamental and [technical analysis](../t/technical_analysis.md).
 
-[Learn More](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### MetaTrader
 
 MetaTrader is a popular platform for forex and [futures](../f/futures.md) trading, providing advanced charting, [technical analysis](../t/technical_analysis.md), and automated trading functionalities.
 
-[Learn More](https://www.metaquotes.net/en/metatrader5)
 
 ## Case Studies in Investment Analysis
 
@@ -104,19 +99,16 @@ MetaTrader is a popular platform for forex and [futures](../f/futures.md) tradin
 
 [Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is known for its rigorous [fundamental analysis](../f/fundamental_analysis.md). Buffett's [investment strategy](../i/investment_strategy.md) focuses on [undervalued](../u/undervalued.md) companies with strong growth potential.
 
-[Learn More](https://www.berkshirehathaway.com)
 
 ### Renaissance Technologies
 
 Renaissance Technologies, founded by James Simons, is renowned for its [quantitative analysis](../q/quantitative_analysis.md) and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is one of the most successful [hedge](../h/hedge.md) funds in history.
 
-[Learn More](https://www.rentec.com/)
 
 ### Bridgewater Associates
 
-Founded by Ray Dalio, Bridgewater Associates uses macroeconomic analysis and proprietary investment strategies to navigate global markets. 
+Founded by Ray Dalio, Bridgewater Associates uses macroeconomic analysis and proprietary investment strategies to navigate global markets.
 
-[Learn More](https://www.bridgewater.com/)
 
 ## Conclusion
 

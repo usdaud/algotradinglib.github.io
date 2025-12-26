@@ -76,6 +76,6 @@ India's 1966 devaluation was aimed at correcting imbalances following the Indo-P
 
 ## Recent Trends and Future Outlook
 
-In the current global economic climate, devaluation remains a tool used by various countries to navigate economic challenges. The COVID-19 pandemic and geopolitical tensions have led to increased [currency](../c/currency.md) [volatility](../v/volatility.md) and strategic devaluations. 
+In the current global economic climate, devaluation remains a tool used by various countries to navigate economic challenges. The COVID-19 pandemic and geopolitical tensions have led to increased [currency](../c/currency.md) [volatility](../v/volatility.md) and strategic devaluations.
 
 As global economies recover and adapt, the role of devaluation may evolve, influenced by factors such as technological advancements, changing [trade](../t/trade.md) dynamics, and shifting monetary policies. Understanding the intricate mechanisms and diverse impacts of devaluation is crucial for policymakers, economists, and investors alike, as they chart the course through an interconnected and ever-changing economic landscape.

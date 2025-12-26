@@ -1,6 +1,6 @@
 # Digital Currency Trading
 
-Digital [currency trading](../c/currency_trading_strategies.md) refers to the buying and selling of digital currencies, also known as cryptocurrencies, using various trading techniques. This [market](../m/market.md) has grown exponentially over the past decade, transforming from a niche hobby to a global financial [industry](../i/industry.md) worth trillions of dollars. 
+Digital [currency trading](../c/currency_trading_strategies.md) refers to the buying and selling of digital currencies, also known as cryptocurrencies, using various trading techniques. This [market](../m/market.md) has grown exponentially over the past decade, transforming from a niche hobby to a global financial [industry](../i/industry.md) worth trillions of dollars.
 
 ### Types of Digital Currencies
 
@@ -15,10 +15,10 @@ There are numerous digital currencies, each with its own features and uses. Some
 
 Digital [currency trading](../c/currency_trading_strategies.md) platforms act as intermediaries that facilitate the buying and selling of cryptocurrencies. Some of the most prominent trading platforms include:
 
-- **[Coinbase](../c/coinbase.md)** ([coinbase.com](https://www.coinbase.com)): A popular platform for beginners due to its user-friendly interface.
-- **[Binance](../b/binance.md)** ([binance.com](https://www.binance.com)): Known for its extensive list of supported coins and lower [transaction fees](../t/transaction_fees.md).
-- **[Kraken](../k/kraken.md)** ([kraken.com](https://www.kraken.com)): Offers a comprehensive [range](../r/range.md) of features, including [margin trading](../m/margin_trading.md) and staking.
-- **[Bitfinex](../b/bitfinex.md)** ([bitfinex.com](https://www.bitfinex.com)): Known for its advanced trading features and [liquidity](../l/liquidity.md).
+- **[Coinbase](../c/coinbase.md)** (coinbase.com): A popular platform for beginners due to its user-friendly interface.
+- **[Binance](../b/binance.md)** (binance.com): Known for its extensive list of supported coins and lower [transaction fees](../t/transaction_fees.md).
+- **[Kraken](../k/kraken.md)** (kraken.com): Offers a comprehensive [range](../r/range.md) of features, including [margin trading](../m/margin_trading.md) and staking.
+- **[Bitfinex](../b/bitfinex.md)** (bitfinex.com): Known for its advanced trading features and [liquidity](../l/liquidity.md).
 
 ### Trading Strategies
 

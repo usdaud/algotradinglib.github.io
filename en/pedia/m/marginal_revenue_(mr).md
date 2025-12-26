@@ -58,12 +58,12 @@ To better understand how to calculate MR, consider a practical example of a comp
 
 | Quantity Sold (Q) | Total [Revenue](../r/revenue.md) (TR) |
 |------------------|---------------------|
-| 0                | $0                  |
-| 1                | $100                |
-| 2                | $180                |
-| 3                | $240                |
-| 4                | $280                |
-| 5                | $300                |
+| 0 | $0 |
+| 1 | $100 |
+| 2 | $180 |
+| 3 | $240 |
+| 4 | $280 |
+| 5 | $300 |
 
 From this data, we can calculate MR for each additional unit sold:
 
@@ -112,7 +112,7 @@ Tech giants like Apple and Google carefully analyze MR to determine pricing stra
 
 E-[commerce](../c/commerce.md) companies like Amazon utilize MR calculations for their dynamic pricing algorithms. By continuously adjusting prices based on real-time data, these platforms aim to maximize [revenue](../r/revenue.md) from each [sale](../s/sale.md) while staying competitive.
 
-**Source**: [Amazon](https://www.aboutamazon.com/)
+**Source**: Amazon
 
 ## Conclusion
 

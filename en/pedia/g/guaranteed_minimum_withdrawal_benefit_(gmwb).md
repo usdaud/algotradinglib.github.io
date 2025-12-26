@@ -46,15 +46,12 @@ While GMWBs [offer](../o/offer.md) guarantees, their [value proposition](../v/va
 
 ### Prudential Financial
 Prudential Financial offers notable annuity products with GMWB riders. Their "Prudential Defined [Income](../i/income.md) [Variable Annuity](../v/variable_annuity.md)" features [options](../o/options.md) that provide lifetime [income](../i/income.md) with guaranteed [withdrawal benefits](../w/withdrawal_benefits.md).
-[Prudential Financial](https://www.prudential.com/)
 
 ### Jackson National
 Jackson National is another significant player in the annuities [market](../m/market.md), providing GMWB [options](../o/options.md) through their [variable annuity](../v/variable_annuity.md) products. Their "Jackson Retirement [Income](../i/income.md) Solutions" suite includes flexible GMWB riders.
-[Jackson National](https://www.jackson.com/)
 
 ### Allianz Life
 Allianz Life is renowned for its comprehensive annuity offerings, including GMWB riders. Their "Allianz Preferred [Income Annuity](../i/income_annuity.md)" provides guaranteed lifetime withdrawals, adapting to various retirement [income](../i/income.md) needs.
-[Allianz Life](https://www.allianzlife.com/)
 
 ## Comparing GMWB to Other Lifetime Income Strategies
 

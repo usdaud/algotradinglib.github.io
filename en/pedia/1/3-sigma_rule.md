@@ -26,24 +26,24 @@ Proper [position sizing](../p/position_sizing.md) is crucial to managing [risk](
 ### Calculation and Interpretation
 
 1. **Mean (µ)**: The mean is the average [value](../v/value.md) of a set of numbers and is calculated as:
-   
-   \[
-   \mu = \frac{1}{N} \sum_{i=1}^{N} x_i
-   \]
 
-   where \(N\) is the number of data points and \(x_i\) is the [value](../v/value.md) of the \(i\)-th data point.
+ \[
+ \mu = \frac{1}{N} \sum_{i=1}^{N} x_i
+ \]
+
+ where \(N\) is the number of data points and \(x_i\) is the [value](../v/value.md) of the \(i\)-th data point.
 
 2. **[Standard Deviation](../s/standard_deviation.md) (σ)**: The [standard deviation](../s/standard_deviation.md) measures how spread out the numbers in a data set are and is calculated as:
 
-   \[
-   \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \mu)^2}
-   \]
+ \[
+ \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \mu)^2}
+ \]
 
 3. **3-Sigma [Range](../r/range.md)**: The [range](../r/range.md) of values within three standard deviations from the mean is given by:
 
-   \[
-   [\mu - 3\sigma, \mu + 3\sigma]
-   \]
+ \[
+ [\mu - 3\sigma, \mu + 3\sigma]
+ \]
 
 ### Example in Python
 
@@ -73,7 +73,7 @@ print("3-Sigma [Range](../r/range.md):", (lower_bound, upper_bound))
 ### Criticisms and Limitations
 
 #### Assumption of Normality
-The primary limitation of the 3-Sigma Rule is its reliance on the assumption that the [underlying](../u/underlying.md) data follows a [normal distribution](../n/normal_distribution_in_trading.md). In [financial markets](../f/financial_market.md), [asset](../a/asset.md) returns often exhibit fat tails and [skewness](../s/skewness.md), meaning the [normal distribution](../n/normal_distribution_in_trading.md) is not always an accurate model. 
+The primary limitation of the 3-Sigma Rule is its reliance on the assumption that the [underlying](../u/underlying.md) data follows a [normal distribution](../n/normal_distribution_in_trading.md). In [financial markets](../f/financial_market.md), [asset](../a/asset.md) returns often exhibit fat tails and [skewness](../s/skewness.md), meaning the [normal distribution](../n/normal_distribution_in_trading.md) is not always an accurate model.
 
 #### Extreme Events
 Extreme [market](../m/market.md) movements, often termed as "[black swan](../b/black_swan.md)" events, fall outside the 3-Sigma [range](../r/range.md). These events are rare but can have profound impacts, and the 3-Sigma Rule does not account for them. Traders relying solely on this rule may find themselves unprepared for such anomalies.
@@ -81,4 +81,4 @@ Extreme [market](../m/market.md) movements, often termed as "[black swan](../b/b
 ### Conclusion
 Despite its limitations, the 3-Sigma Rule is a valuable statistical tool in the arsenal of algorithmic traders. It offers a quantitative framework for understanding [market](../m/market.md) behavior, managing [risk](../r/risk.md), and developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). By incorporating the 3-Sigma Rule into their methodologies, traders can make more informed decisions and enhance the probability of long-term success.
 
-For more on [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md) solutions, you can visit [Algorithmic Trading Group](https://algorithmictradinggroup.com/).
+For more on [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md) solutions, you can visit Algorithmic Trading Group.

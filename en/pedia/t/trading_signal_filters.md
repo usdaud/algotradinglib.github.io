@@ -58,7 +58,7 @@ def z_score(prices, window):
 
 ### Machine Learning Filters
 
-[Machine Learning](../m/machine_learning.md) (ML) filters are increasingly being adopted to enhance [trading signals](../t/trading_signals.md). They can [handle](../h/handle.md) large datasets and identify complex patterns. 
+[Machine Learning](../m/machine_learning.md) (ML) filters are increasingly being adopted to enhance [trading signals](../t/trading_signals.md). They can [handle](../h/handle.md) large datasets and identify complex patterns.
 
 #### Decision Trees and Random Forests
 
@@ -174,5 +174,4 @@ def time_filter(df, start_time, end_time):
 
 Trading Signal Filters are indispensable in the field of [algorithmic trading](../a/algorithmic_trading.md). They serve to refine raw [trading signals](../t/trading_signals.md), reduce [noise](../n/noise.md), and ultimately improve the accuracy and performance of [trading strategies](../t/trading_strategies.md). By leveraging statistical methods, [machine learning](../m/machine_learning.md) models, [technical indicators](../t/technical_indicators.md), [volume](../v/volume.md), and time filters, traders can enhance their ability to profitably navigate the [financial markets](../f/financial_market.md).
 
-For further reading and to explore trading solutions, you can visit [QuantConnect](https://www.quantconnect.com/), a platform that provides [algorithmic trading](../a/algorithmic_trading.md) tools and resources.
-
+For further reading and to explore trading solutions, you can visit QuantConnect, a platform that provides [algorithmic trading](../a/algorithmic_trading.md) tools and resources.

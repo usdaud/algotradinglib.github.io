@@ -21,13 +21,13 @@ Where:
 ### Importance in Algorithmic Trading
 
 1. **[Baseline](../b/baseline.md) for Other Calculations:**
-   The 1-period SMA serves as a foundational element in constructing more complex moving averages and is crucial in algorithms that require current price data as a comparison [benchmark](../b/benchmark.md).
+ The 1-period SMA serves as a foundational element in constructing more complex moving averages and is crucial in algorithms that require current price data as a comparison [benchmark](../b/benchmark.md).
 
 2. **Combination with Other Indicators:**
-   The 1-period SMA can be combined with other [technical indicators](../t/technical_indicators.md) (like MACD, [Bollinger Bands](../b/bollinger_bands.md), etc.) to enhance [trading strategies](../t/trading_strategies.md). For example, its crossover with longer-period SMAs can indicate buying or selling signals.
+ The 1-period SMA can be combined with other [technical indicators](../t/technical_indicators.md) (like MACD, [Bollinger Bands](../b/bollinger_bands.md), etc.) to enhance [trading strategies](../t/trading_strategies.md). For example, its crossover with longer-period SMAs can indicate buying or selling signals.
 
 3. **Algorithm Simplicity:**
-   Due to its simplicity, the 1-period SMA minimizes computational [load](../l/load.md), which is particularly advantageous in high-frequency trading environments.
+ Due to its simplicity, the 1-period SMA minimizes computational [load](../l/load.md), which is particularly advantageous in high-frequency trading environments.
 
 ### Use Cases
 
@@ -86,14 +86,14 @@ In HFT, algorithms need to process data within milliseconds. The simplicity of t
 ### Considerations
 
 1. **[Market](../m/market.md) [Noise](../n/noise.md):**
-   Given its design, the 1-period SMA is equivalent to the raw price, making it susceptible to [market](../m/market.md) [noise](../n/noise.md). Therefore, it is often paired with other indicators for context.
+ Given its design, the 1-period SMA is equivalent to the raw price, making it susceptible to [market](../m/market.md) [noise](../n/noise.md). Therefore, it is often paired with other indicators for context.
 
 2. **Lack of Historical Data:**
-   As it represents only a single period, it doesn't [offer](../o/offer.md) historical smoothness compared to other SMAs and is typically used in conjunction with longer SMAs for comprehensive analysis.
+ As it represents only a single period, it doesn't [offer](../o/offer.md) historical smoothness compared to other SMAs and is typically used in conjunction with longer SMAs for comprehensive analysis.
 
 3. **Algorithmic Complexity:**
-   Effective application often requires integration with more complex [trading algorithms](../t/trading_algorithms.md) and additional indicators to mitigate the risks associated with [market](../m/market.md) [volatility](../v/volatility.md).
+ Effective application often requires integration with more complex [trading algorithms](../t/trading_algorithms.md) and additional indicators to mitigate the risks associated with [market](../m/market.md) [volatility](../v/volatility.md).
 
 ### Conclusion
 
-The 1-period Simple Moving Average is a fundamental yet potent tool in the toolkit of an algorithmic [trader](../t/trader.md). Its simplistic nature makes it a building block for more sophisticated strategies, and its ability to provide immediate price references ensures it remains a crucial element in real-time [trading algorithms](../t/trading_algorithms.md).
+The 1-period Simple Moving Average is a fundamental yet potent tool in the toolkit of an algorithmic [trader](../t/trader.md). Its simplistic nature makes it a building block for more sophisticated strategies, and its ability to provide immediate price references ensures it remains a crucial element in real-time [trading algorithms](../t/trading_algorithms.md).

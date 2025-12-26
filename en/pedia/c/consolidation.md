@@ -75,8 +75,8 @@ Despite the potential benefits, trading during consolidation phases presents cer
 1. **Identify Consolidation Phase**: Utilize [technical analysis tools](../t/technical_analysis_tools.md) like [Bollinger Bands](../b/bollinger_band.md) and moving averages to identify consolidation phases in the selected [asset](../a/asset.md).
 2. **Set [Range](../r/range.md) Boundaries**: Define the [support and resistance](../s/support_and_resistance.md) levels that characterize the consolidation phase.
 3. **Develop [Trading Rules](../t/trading_rules.md)**: Create rules for entry and exit points based on the defined [range](../r/range.md). For instance:
-   - **Entry Rule**: Place a buy [order](../o/order.md) near the support level and a sell [order](../o/order.md) near the resistance level.
-   - **Exit Rule**: Set [stop-loss orders](../s/stop-loss_orders.md) just outside the consolidation [range](../r/range.md) to manage [risk](../r/risk.md).
+ - **Entry Rule**: Place a buy [order](../o/order.md) near the support level and a sell [order](../o/order.md) near the resistance level.
+ - **Exit Rule**: Set [stop-loss orders](../s/stop-loss_orders.md) just outside the consolidation [range](../r/range.md) to manage [risk](../r/risk.md).
 4. **Detect Breakouts**: Implement logic to identify potential breakouts. For example, if the price moves beyond the resistance level with increased [volume](../v/volume.md), execute a buy [order](../o/order.md).
 5. **Backtest Strategy**: Backtest the strategy on historical data to gauge its performance. Adjust parameters to reduce false breakouts and increase profitability.
 6. **[Risk Management](../r/risk_management.md)**: Incorporate [risk management techniques](../r/risk_management_techniques.md) such as [position sizing](../p/position_sizing.md) and dynamic [stop-loss orders](../s/stop-loss_orders.md) to protect against significant losses.
@@ -89,8 +89,8 @@ Consider an algorithm designed to [trade](../t/trade.md) an [asset](../a/asset.m
 2. **Indicators**: Apply [Bollinger Bands](../b/bollinger_band.md) with a [20-day moving average](../1/20-day_moving_average.md) and 2 standard deviations. Use a 14-day [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI) to confirm [overbought](../o/overbought.md)/[oversold](../o/oversold.md) conditions.
 3. **Consolidation Detection**: Identify periods where [Bollinger Bands](../b/bollinger_band.md) contract and the price trades within 1 [standard deviation](../s/standard_deviation.md) of the moving average.
 4. **[Trade](../t/trade.md) [Execution](../e/execution.md)**:
-   - **[Range Trading](../r/range_trading.md)**: Buy when the price is near the lower Bollinger Band and RSI < 30. Sell when the price is near the upper Bollinger Band and RSI > 70.
-   - **[Breakout Trading](../b/breakout_trading.md)**: Enter a long position if the price closes above the upper Bollinger Band with increased [volume](../v/volume.md), signaling a [breakout](../b/breakout.md).
+ - **[Range Trading](../r/range_trading.md)**: Buy when the price is near the lower Bollinger Band and RSI < 30. Sell when the price is near the upper Bollinger Band and RSI > 70.
+ - **[Breakout Trading](../b/breakout_trading.md)**: Enter a long position if the price closes above the upper Bollinger Band with increased [volume](../v/volume.md), signaling a [breakout](../b/breakout.md).
 5. **[Backtesting](../b/backtesting.md) Results**: Assess the backtest results, refine parameters to balance between capturing true breakouts and avoiding [false signals](../f/false_signals_in_trading.md).
 6. **Deployment**: Implement the refined strategy onto a [trading platform](../t/trading_platform.md) with real-time data feeds and automated [order](../o/order.md) [execution](../e/execution.md) capabilities.
 
@@ -99,18 +99,18 @@ Consider an algorithm designed to [trade](../t/trade.md) an [asset](../a/asset.m
 [Algorithmic trading](../a/accountability.md) involving consolidation utilizes several platforms and programming languages. Popular tools include:
 
 1. **Trading Platforms**:
-   - **MetaTrader**: Offers [robust](../r/robust.md) [technical analysis tools](../t/technical_analysis_tools.md) and supports algorithm development using MQL language.
-   - **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based environment for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) using C# or Python.
-   - [TradeStation](https://www.tradestation.com/): Known for its advanced charting and [technical analysis](../t/technical_analysis.md) capabilities, it also supports EasyLanguage for developing [trading algorithms](../t/trading_algorithms.md).
+ - **MetaTrader**: Offers [robust](../r/robust.md) [technical analysis tools](../t/technical_analysis_tools.md) and supports algorithm development using MQL language.
+ - **[StockSharp](../s/stocksharp.md)**: Provides an environment for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) using C#.
+ - TradeStation: Known for its advanced charting and [technical analysis](../t/technical_analysis.md) capabilities, it also supports EasyLanguage for developing [trading algorithms](../t/trading_algorithms.md).
 
 2. **Programming Languages**:
-   - **Python**: Widely used for [quantitative analysis](../q/quantitative_analysis.md) and developing [trading algorithms](../t/trading_algorithms.md) due to its simplicity and extensive libraries such as Pandas, NumPy, and TA-Lib.
-   - **C++**: Preferred for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) due to its performance [efficiency](../e/efficiency.md).
-   - **R**: Used for statistical analysis and developing complex [trading models](../t/trading_models.md) with packages like quantmod and TTR.
+ - **Python**: Widely used for [quantitative analysis](../q/quantitative_analysis.md) and developing [trading algorithms](../t/trading_algorithms.md) due to its simplicity and extensive libraries such as Pandas, NumPy, and TA-Lib.
+ - **C++**: Preferred for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) due to its performance [efficiency](../e/efficiency.md).
+ - **R**: Used for statistical analysis and developing complex [trading models](../t/trading_models.md) with packages like quantmod and TTR.
 
 3. **Data Providers**:
-   - **[Quandl](../q/quandl.md)**: Offers access to vast financial data that can be integrated into [trading algorithms](../t/trading_algorithms.md).
-   - **[Alpha](../a/alpha.md) Vantage**: Provides real-time and historical [market](../m/market.md) data through a [robust](../r/robust.md) API.
+ - **[Quandl](../q/quandl.md)**: Offers access to vast financial data that can be integrated into [trading algorithms](../t/trading_algorithms.md).
+ - **[Alpha](../a/alpha.md) Vantage**: Provides real-time and historical [market](../m/market.md) data through a [robust](../r/robust.md) API.
 
 ## Conclusion
 

@@ -65,7 +65,7 @@ These [options](../o/options.md) diversify a portfolio by providing exposure to 
 Knock-In Barrier [Options](../o/options.md) are invaluable tools in modern [financial markets](../f/financial_market.md), providing traders and [risk](../r/risk.md) managers with flexible and cost-effective means of managing and capitalizing on price movements. Their complexity and conditional nature necessitate sophisticated pricing models and strategic application, broadening the array of [options](../o/options.md) available to meet diverse financial objectives. Companies and traders aiming to [leverage](../l/leverage.md) these instruments must proficiently navigate their intricacies to harness their full potential.
 
 For more focused information, specific companies [offering](../o/offering.md) these financial instruments include:
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
-- [Barclays Investment Bank](https://www.investmentbank.barclays.com/)
-- [UBS](https://www.ubs.com/global/en/investment-bank.html)
+- Goldman Sachs
+- J.P. Morgan
+- Barclays Investment Bank
+- UBS

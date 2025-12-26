@@ -20,7 +20,7 @@ Runaway [gaps](../g/gap.md), often referred to as continuation [gaps](../g/gap.m
 
 ### Identifying and Trading Runaway Gaps
 
-For algorithmic traders, identifying a runaway gap involves a combination of [technical indicators](../t/technical_indicators.md) and price [pattern recognition](../p/pattern_recognition.md). Algorithms can be designed to scan for price movements that exhibit the characteristics of a runaway gap and execute trades based on predefined rules. 
+For algorithmic traders, identifying a runaway gap involves a combination of [technical indicators](../t/technical_indicators.md) and price [pattern recognition](../p/pattern_recognition.md). Algorithms can be designed to scan for price movements that exhibit the characteristics of a runaway gap and execute trades based on predefined rules.
 
 #### Technical Indicators
 
@@ -48,8 +48,8 @@ While specific examples can vary greatly, notable instances of runaway [gaps](..
 
 For algorithmic traders, platforms like **[TradeStation](../t/tradestation.md)** and **[Interactive Brokers](../i/interactive_brokers.md)** [offer](../o/offer.md) [robust](../r/robust.md) tools for identifying and trading [gaps](../g/gap.md). Traders developing their algorithms may reference these platforms for data feeds, API access, and [backtesting](../b/backtesting.md) environments.
 
-- [TradeStation](https://www.tradestation.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- TradeStation
+- Interactive Brokers
 
 ### Conclusion
 

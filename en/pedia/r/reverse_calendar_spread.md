@@ -8,8 +8,8 @@ Here’s a step-by-step breakdown of how one can set up a reverse calendar sprea
 
 1. **Selection of Strike Prices and [Options](../o/options.md)**: Identify the [asset](../a/asset.md) you want to [trade](../t/trade.md). Choose an appropriate [strike price](../s/strike_price.md). For the [options](../o/options.md), choose one with a nearer [expiration date](../e/expiration_date.md) and another with a longer-term [expiration date](../e/expiration_date.md).
 2. **[Execution](../e/execution.md)**:
-   - **Sell** a longer-term option (either call or put).
-   - **Buy** a shorter-term option with the same [strike price](../s/strike_price.md) as the longer-term option.
+ - **Sell** a longer-term option (either call or put).
+ - **Buy** a shorter-term option with the same [strike price](../s/strike_price.md) as the longer-term option.
 3. **Objective**: This strategy aims to [profit](../p/profit.md) from the differential decay of [time value](../t/time_value.md) ([theta](../t/theta.md)) between the short-term and long-term [options](../o/options.md). Additionally, it can [profit](../p/profit.md) if the [volatility](../v/volatility.md) decreases by more for the longer-term option than the shorter-term one.
 
 ### Key Components
@@ -69,9 +69,9 @@ Here's the initial outlook:
 
 Many [proprietary trading](../p/proprietary_trading.md) firms and [hedge](../h/hedge.md) funds might utilize this strategy as part of their [portfolio management](../p/portfolio_management.md) and speculative trading practices:
 
-- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that leverages various sophisticated [trading strategies](../t/trading_strategies.md), including [options](../o/options.md). They often apply strategies like reverse calendar [spreads](../s/spreads.md) in their [market](../m/market.md)-making activities. [Jane Street](https://www.janestreet.com/)
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that leverages various sophisticated [trading strategies](../t/trading_strategies.md), including [options](../o/options.md). They often apply strategies like reverse calendar [spreads](../s/spreads.md) in their [market](../m/market.md)-making activities. Jane Street
 
-- **Citadel Securities**: Known for their high-frequency trading and [options](../o/options.md) [market](../m/market.md)-making, Citadel's extensive use of both traditional and complex [options](../o/options.md) strategies could very well encompass the use of reverse calendar [spreads](../s/spreads.md). [Citadel Securities](https://www.citadelsecurities.com/)
+- **Citadel Securities**: Known for their high-frequency trading and [options](../o/options.md) [market](../m/market.md)-making, Citadel's extensive use of both traditional and complex [options](../o/options.md) strategies could very well encompass the use of reverse calendar [spreads](../s/spreads.md). Citadel Securities
 
 ### Conclusion
 

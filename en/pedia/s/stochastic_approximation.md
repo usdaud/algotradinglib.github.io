@@ -110,17 +110,17 @@ The calibration of financial [derivatives](../d/derivatives.md) models, such as 
 
 Several leading companies and tools [leverage](../l/leverage.md) stochastic approximation methods in [algorithmic trading](../a/algorithmic_trading.md) and [financial modeling](../f/financial_modeling.md):
 
-### 1. QuantConnect 
+### 1. QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) offers a [Quantitative Finance](../q/quantitative_finance.md) platform that supports [algorithmic trading](../a/algorithmic_trading.md). It provides tools for [backtesting](../b/backtesting.md) and live trading, incorporating [stochastic optimization](../s/stochastic_optimization.md) methods to enhance strategy performance.
+QuantConnect offers a [Quantitative Finance](../q/quantitative_finance.md) platform that supports [algorithmic trading](../a/algorithmic_trading.md). It provides tools for [backtesting](../b/backtesting.md) and live trading, incorporating [stochastic optimization](../s/stochastic_optimization.md) methods to enhance strategy performance.
 
 ### 2. Numerai
 
-[Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that crowdsources [machine learning](../m/machine_learning.md) models for [stock market](../s/stock_market.md) predictions. It uses stochastic approximation techniques in model [optimization](../o/optimization.md) to generate [alpha](../a/alpha.md) from diverse data sources.
+Numerai is a [hedge fund](../h/hedge_fund.md) that crowdsources [machine learning](../m/machine_learning.md) models for [stock market](../s/stock_market.md) predictions. It uses stochastic approximation techniques in model [optimization](../o/optimization.md) to generate [alpha](../a/alpha.md) from diverse data sources.
 
 ### 3. Alpaca
 
-[Alpaca](https://alpaca.markets/) is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers an API for [algorithmic trading](../a/algorithmic_trading.md). It supports the implementation of [machine learning](../m/machine_learning.md) and [stochastic optimization](../s/stochastic_optimization.md) methods for developing and deploying [trading strategies](../t/trading_strategies.md).
+Alpaca is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers an API for [algorithmic trading](../a/algorithmic_trading.md). It supports the implementation of [machine learning](../m/machine_learning.md) and [stochastic optimization](../s/stochastic_optimization.md) methods for developing and deploying [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

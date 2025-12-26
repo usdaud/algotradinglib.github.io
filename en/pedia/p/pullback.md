@@ -66,6 +66,6 @@ Pullbacks behave differently in various [market](../m/market.md) conditions. In 
 Pullbacks present opportunities in trading that can be leveraged to enhance profitability. Understanding the nature of pullbacks, distinguishing them from reversals, and applying appropriate strategies and tools are crucial for traders. Whether in stock markets, forex, or cryptocurrencies, recognizing and effectively trading pullbacks can be a valuable skill for any [trader](../t/trader.md)'s toolkit.
 
 For further reading and resources, traders are encouraged to explore educational material from reputable financial institutions and trading platforms, such as:
-- [Investopedia](https://www.investopedia.com/)
-- [TradingView](https://www.tradingview.com/)
-- [CME Group](https://www.cmegroup.com/)
+- Investopedia
+- TradingView
+- CME Group

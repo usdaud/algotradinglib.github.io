@@ -100,15 +100,11 @@ Application in [Algorithmic Trading](../a/algorithmic_trading.md)
 Several [software tools](../s/software_tools_for_trading.md) and platforms can be used to implement and deploy algorithms for [triangle](../t/triangle.md) [chart patterns](../c/chart_patterns.md):
 
 - **MetaTrader**: A widely-used platform that offers automated trading capabilities and supports various [technical analysis](../t/technical_analysis.md) tools required for [pattern recognition](../p/pattern_recognition.md).
-  [MetaTrader](https://www.metatrader4.com)
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including Python and C#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with brokerages for live trading.
-  [QuantConnect](https://www.quantconnect.com)
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports C#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with brokerages for live trading.
 
 - **[TradingView](../t/tradingview.md)**: Known for its [robust](../r/robust.md) charting tools, [TradingView](../t/tradingview.md) also offers features for creating and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). It is a great tool for visualizing [triangle](../t/triangle.md) [chart patterns](../c/chart_patterns.md) and other [technical indicators](../t/technical_indicators.md).
-  [TradingView](https://www.tradingview.com)
 
-Case Studies
 ------------
 
 ### Case Study 1: Forex Market
@@ -123,7 +119,6 @@ In the [stock market](../s/stock_market.md), ascending triangles are common duri
 
 The highly volatile cryptocurrency [market](../m/market.md) often exhibits [triangle patterns](../t/triangle_patterns_in_trading.md). For example, a [descending triangle](../d/descending_triangle.md) might form during a bearish [trend](../t/trend.md). An algorithm could identify this pattern and place a sell [order](../o/order.md) once the price breaks below the horizontal support line, capitalizing on the anticipated downward movement.
 
-Conclusion
 ----------
 
 [Triangle](../t/triangle.md) [chart patterns](../c/chart_patterns.md) are powerful tools in the arsenal of technical analysts and algorithmic traders. Understanding the nuances of symmetrical, ascending, and descending triangles can provide valuable insights into [market](../m/market.md) behavior. When implemented in algo trading, these patterns can [offer](../o/offer.md) automated, data-driven strategies that help traders achieve consistent results. Advanced [software platforms](../s/software_platforms_for_trading.md) and case studies across various markets demonstrate the practical application and effectiveness of [triangle](../t/triangle.md) [chart patterns](../c/chart_patterns.md) in real-world trading scenarios.

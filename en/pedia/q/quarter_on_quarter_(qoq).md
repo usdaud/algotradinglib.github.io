@@ -10,7 +10,7 @@ Many businesses face seasonal fluctuations in [demand](../d/demand.md), which im
 
 ### Monitoring Business Performance
 
-QoQ analysis allows businesses and investors to monitor [operational efficiency](../o/operational_efficiency_in_trading.md) and [financial health](../f/financial_health.md) more closely. Doing so helps in identifying immediate issues that need addressing, such as operational inefficiencies or sudden drops in [revenue](../r/revenue.md). 
+QoQ analysis allows businesses and investors to monitor [operational efficiency](../o/operational_efficiency_in_trading.md) and [financial health](../f/financial_health.md) more closely. Doing so helps in identifying immediate issues that need addressing, such as operational inefficiencies or sudden drops in [revenue](../r/revenue.md).
 
 ### Decision Making
 

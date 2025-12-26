@@ -4,7 +4,7 @@ A leveraged [loan](../l/loan.md) is a type of [loan](../l/loan.md) extended to c
 
 ## Characteristics of Leveraged Loans
 
-1. **Higher [Interest](../i/interest.md) Rates**: Due to the higher [risk](../r/risk.md) associated with leveraged loans, lenders charge higher [interest](../i/interest.md) rates compared to standard loans. The [interest](../i/interest.md) is often floating, pegged to a [benchmark](../b/benchmark.md) rate such as the London Interbank Offered Rate (LIBOR) or the Secured Overnight [Financing](../f/financing.md) Rate (SOFR).
+1. **Higher [Interest](../i/interest.md) Rates**: Due to the higher [risk](../r/risk.md) associated with leveraged loans, lenders charge higher [interest](../i/interest.md) rates compared to standard loans. The [interest](../i/interest.md) is often floating, pegged to a [benchmark](../b/benchmark.md) rate such as SOFR or legacy LIBOR (discontinued after 2023).
 
 2. **Covenants**: Leveraged loans come with covenants, which are stipulations and requirements that the borrower must adhere to. These can be financial covenants, which require the borrower to maintain certain financial metrics, or operational covenants, which impose restrictions on actions like additional borrowing or [asset](../a/asset.md) sales.
 
@@ -27,7 +27,7 @@ A leveraged [loan](../l/loan.md) is a type of [loan](../l/loan.md) extended to c
 ### Risks
 
 1. **[Default Risk](../d/default_risk.md)**: The primary [risk](../r/risk.md) for lenders is the potential for borrower [default](../d/default.md), given the high [debt](../d/debt.md) levels and poor [credit](../c/credit.md) history of borrowers.
-  
+
 2. **[Collateral](../c/collateral.md) [Risk](../r/risk.md)**: Even though these loans are secured, the [collateral](../c/collateral.md) may not cover the entire [loan](../l/loan.md) amount if the borrower defaults, especially in volatile [market](../m/market.md) conditions.
 
 3. **[Market Risk](../m/market_risk.md)**: Leveraged loans can be subject to [market risk](../m/market_risk.md), as their [value](../v/value.md) may fluctuate based on broader financial [market](../m/market.md) conditions.
@@ -54,11 +54,11 @@ A leveraged [loan](../l/loan.md) is a type of [loan](../l/loan.md) extended to c
 
 ## Leveraged Loan Market
 
-The leveraged [loan](../l/loan.md) [market](../m/market.md) is a crucial part of [debt](../d/debt.md) markets, providing [financing](../f/financing.md) for various corporate activities. The [market](../m/market.md) is global, with significant activity in North America, Europe, and Asia. 
+The leveraged [loan](../l/loan.md) [market](../m/market.md) is a crucial part of [debt](../d/debt.md) markets, providing [financing](../f/financing.md) for various corporate activities. The [market](../m/market.md) is global, with significant activity in North America, Europe, and Asia.
 
 ### Key Metrics
 
-1. **[Loan](../l/loan.md) Pricing**: Typically characterized by [spreads](../s/spreads.md) over benchmarks like LIBOR or SOFR.
+1. **[Loan](../l/loan.md) Pricing**: Typically characterized by [spreads](../s/spreads.md) over benchmarks like SOFR or legacy LIBOR.
 
 2. **[Default](../d/default.md) Rates**: An essential metric for assessing the overall health of the leveraged [loan](../l/loan.md) [market](../m/market.md).
 
@@ -71,10 +71,10 @@ The leveraged [loan](../l/loan.md) [market](../m/market.md) is a crucial part of
 Several indices track the performance of the leveraged [loan](../l/loan.md) [market](../m/market.md), providing benchmarks for investors:
 
 1. **S&P/LSTA U.S. Leveraged [Loan](../l/loan.md) 100 [Index](../i/index_instrument.md)**: Tracks the largest and most [liquid](../l/liquid.md) leveraged loans in the U.S. [market](../m/market.md).
-   - More information: [S&P Leveraged Loan Index](https://www.spglobal.com/spdji/en/indices/fixed-income/sp-lsta-us-leveraged-loan-100-index/)
+ - More information: S&P Leveraged Loan Index
 
 2. **[Credit](../c/credit.md) Suisse Leveraged [Loan](../l/loan.md) [Index](../i/index_instrument.md)**: A broad measure of the performance of the leveraged [loan](../l/loan.md) [market](../m/market.md).
-   - More information: [Credit Suisse Leveraged Loan Index](https://www.credit-suisse.com)
+ - More information: Credit Suisse Leveraged Loan Index
 
 ## Regulatory Environment
 
@@ -95,12 +95,12 @@ The performance and [demand](../d/demand.md) for leveraged loans can be signific
 Technological advancements are also influencing the leveraged [loan](../l/loan.md) [market](../m/market.md):
 
 1. **Fintech Platforms**: These platforms are facilitating easier access to leveraged lending for smaller borrowers and enabling faster, more efficient syndication processes.
-   - Example: Kabbage, which offers various [loan](../l/loan.md) products streamlined through technology.
-   - More information: [Kabbage](https://www.kabbage.com)
+ - Example: Kabbage, which offers various [loan](../l/loan.md) products streamlined through technology.
+ - More information: Kabbage
 
 2. **[Blockchain](../b/blockchain_in_trading.md) and [Smart Contracts](../s/smart_contracts_in_trading.md)**: These technologies have the potential to improve [transparency](../t/transparency.md), reduce [counterparty risk](../c/counterparty_risk.md), and streamline the settlement processes in the leveraged [loan](../l/loan.md) [market](../m/market.md).
-   - Company Example: Finastra, which explores [blockchain](../b/blockchain_in_trading.md) applications in syndicated lending.
-   - More information: [Finastra](https://www.finastra.com)
+ - Company Example: Finastra, which explores [blockchain](../b/blockchain_in_trading.md) applications in syndicated lending.
+ - More information: Finastra
 
 ## Conclusion
 

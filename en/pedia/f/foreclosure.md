@@ -98,13 +98,13 @@ Technology has transformed how lenders manage the foreclosure process. Innovatio
 
 Several companies specialize in foreclosure services, [offering](../o/offering.md) expertise in managing and mitigating foreclosure processes. Examples include:
 
-1. **CoreLogic**: Provides [real estate](../r/real_estate.md) data, analytics, and [mortgage](../m/mortgage.md) services. [CoreLogic](https://www.corelogic.com)
+1. **CoreLogic**: Provides [real estate](../r/real_estate.md) data, analytics, and [mortgage](../m/mortgage.md) services. CoreLogic
 
-2. **Auction.com**: An online [real estate](../r/real_estate.md) marketplace specializing in auction sales, including foreclosure properties. [Auction.com](https://www.auction.com)
+2. **Auction.com**: An online [real estate](../r/real_estate.md) marketplace specializing in auction sales, including foreclosure properties. Auction.com
 
-3. **[Mortgage](../m/mortgage.md) Contracting Services (MCS)**: Offers property preservation, inspections, and REO services to [mortgage](../m/mortgage.md) lenders and servicers. [MCS](https://www.mcs360.com)
+3. **[Mortgage](../m/mortgage.md) Contracting Services (MCS)**: Offers property preservation, inspections, and REO services to [mortgage](../m/mortgage.md) lenders and servicers. MCS
 
-4. **Ocwen Financial [Corporation](../c/corporation.md)**: A financial services company specializing in [mortgage](../m/mortgage.md) servicing and [asset management](../a/asset_management.md). [Ocwen](https://www.ocwen.com)
+4. **Ocwen Financial [Corporation](../c/corporation.md)**: A financial services company specializing in [mortgage](../m/mortgage.md) servicing and [asset management](../a/asset_management.md). Ocwen
 
 ### Conclusion
 

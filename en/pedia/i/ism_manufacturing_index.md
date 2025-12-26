@@ -120,11 +120,11 @@ The COVID-19 pandemic had a profound impact on the ISM [Manufacturing](../m/manu
 
 ## Key Resources
 
-1. **Institute for [Supply](../s/supply.md) Management (ISM)**: The official website of ISM provides detailed reports, historical data, and methodology for the ISM [Manufacturing](../m/manufacturing.md) [Index](../i/index_instrument.md). [ISM Website](https://www.ismworld.org/)
+1. **Institute for [Supply](../s/supply.md) Management (ISM)**../m/manufacturing.md) [Index](../i/index_instrument.md).
 
-2. **Federal Reserve Economic Data (FRED)**: FRED offers comprehensive historical data and charts for the ISM [Manufacturing](../m/manufacturing.md) [Index](../i/index_instrument.md), enabling users to conduct in-depth analysis. [FRED ISM Data](https://fred.stlouisfed.org/series/NAPM)
+2. **Federal Reserve Economic Data (FRED)**: FRED offers comprehensive historical data and charts for the ISM [Manufacturing](../m/manufacturing.md) [Index](../i/index_instrument.md), enabling users to conduct in-depth analysis. FRED ISM Data
 
-3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) provides real-time updates, analysis, and insights on the ISM [Manufacturing](../m/manufacturing.md) [Index](../i/index_instrument.md), along with its impact on [financial markets](../f/financial_market.md). [Bloomberg](https://www.bloomberg.com/)
+3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) provides real-time updates, analysis, and insights on the ISM [Manufacturing](../m/manufacturing.md) [Index](../i/index_instrument.md), along with its impact on [financial markets](../f/financial_market.md). Bloomberg
 
 ## Conclusion
 

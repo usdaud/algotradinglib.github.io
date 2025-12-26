@@ -37,21 +37,21 @@ The GARCH model indicates that today's [volatility](../v/volatility.md) (\( \sig
 
 The GARCH-M model incorporates the conditional variance directly into the mean equation. The model is expressed as:
 
-\[ r_t = \mu + \[lambda](../l/lambda.md) \sigma_t^2 + \epsilon_t \]
+\[ r_t = \mu + \ambda \sigma_t^2 + \epsilon_t \]
 
-where \( \[lambda](../l/lambda.md) \) measures the [risk premium](../r/risk_premium.md). This model is used when there is an indication that the conditional variance has a direct impact on the returns.
+where \( \ambda \) measures the [risk premium](../r/risk_premium.md). This model is used when there is an indication that the conditional variance has a direct impact on the returns.
 
 ### EGARCH (Exponential GARCH)
 
 The EGARCH model, proposed by Nelson (1991), differs as it models log variance to ensure positive conditional variances without enforcing non-negativity restrictions:
 
-\[ \log(\sigma_t^2) = \alpha_0 + \[alpha](../a/alpha.md) | \frac{\epsilon_{t-1}}{\sigma_{t-1}} | + \[gamma](../g/gamma.md) \frac{\epsilon_{t-1}}{\sigma_{t-1}} + \[beta](../b/beta.md) \log(\sigma_{t-1}^2) \]
+\[ \log(\sigma_t^2) = \alpha_0 + \lpha | \frac{\epsilon_{t-1}}{\sigma_{t-1}} | + \gamma \frac{\epsilon_{t-1}}{\sigma_{t-1}} + \beta \log(\sigma_{t-1}^2) \]
 
 ### TGARCH (Threshold GARCH)
 
 The Threshold GARCH model introduces [leverage](../l/leverage.md) effects that allow the model to respond asymmetrically to positive and negative shocks. It is expressed as:
 
-\[ \sigma_t^2 = \alpha_0 + \alpha_1 \epsilon_{t-1}^2 + \[gamma](../g/gamma.md) \epsilon_{t-1}^2 I_{t-1} + \[beta](../b/beta.md) \sigma_{t-1}^2 \]
+\[ \sigma_t^2 = \alpha_0 + \alpha_1 \epsilon_{t-1}^2 + \gamma \epsilon_{t-1}^2 I_{t-1} + \beta \sigma_{t-1}^2 \]
 
 where \( I_{t-1} \) is an [indicator](../i/indicator.md) function that takes the [value](../v/value.md) of 1 if \( \epsilon_{t-1} \) is negative.
 
@@ -87,8 +87,8 @@ Several software packages and libraries facilitate the estimation and fitting of
 The GARCH process is a fundamental tool in the domain of financial [econometrics](../e/econometrics_in_trading.md), providing sophisticated means to model and predict [volatility](../v/volatility.md) in [financial markets](../f/financial_market.md). By understanding and applying [GARCH models](../g/garch_models.md), analysts and researchers can [gain](../g/gain.md) deeper insights into [market](../m/market.md) behaviors, manage risks more effectively, and make well-informed financial decisions.
 
 For further reading and software implementations, consider visiting:
-- [Rugarch for R](https://cran.r-project.org/web/packages/rugarch/index.html)
-- [Python's Arch package](https://arch.readthedocs.io/en/latest/)
-- [Matlab Econometrics Toolbox](https://www.mathworks.com/products/econometrics.html)
+- Rugarch for R
+- Python's Arch package
+- Matlab Econometrics Toolbox
 
 [Note](../n/note.md) that while powerful, the choice and implementation of a GARCH model should be carefully tailored to the specific characteristics and requirements of the data in question.

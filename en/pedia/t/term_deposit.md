@@ -95,16 +95,16 @@ Keep track of the term [deposit](../d/deposit.md)'s progress, including [interes
 ## Notable Banks and Financial Institutions Offering Term Deposits
 
 ### Commonwealth Bank of Australia
-The Commonwealth [Bank](../b/bank.md) of Australia offers a [range](../r/range.md) of term [deposit](../d/deposit.md) [options](../o/options.md) with competitive [interest](../i/interest.md) rates and flexible term lengths. They provide online tools and resources to help customers manage their deposits efficiently. [Commonwealth Bank of Australia](https://www.commbank.com.au)
+The Commonwealth [Bank](../b/bank.md) of Australia offers a [range](../r/range.md) of term [deposit](../d/deposit.md) [options](../o/options.md) with competitive [interest](../i/interest.md) rates and flexible term lengths. They provide online tools and resources to help customers manage their deposits efficiently. Commonwealth Bank of Australia
 
 ### HSBC
-HSBC provides term deposits with various term lengths and [interest](../i/interest.md) [payment](../p/payment.md) [options](../o/options.md). They [offer](../o/offer.md) both traditional and tax-saving term deposits, catering to a wide [range](../r/range.md) of [investor](../i/investor.md) needs. [HSBC](https://www.hsbc.com)
+HSBC provides term deposits with various term lengths and [interest](../i/interest.md) [payment](../p/payment.md) [options](../o/options.md). They [offer](../o/offer.md) both traditional and tax-saving term deposits, catering to a wide [range](../r/range.md) of [investor](../i/investor.md) needs. HSBC
 
 ### ICICI Bank
-ICICI [Bank](../b/bank.md) in India offers a variety of term [deposit](../d/deposit.md) schemes, including tax-saving deposits and flexible fixed deposits with [options](../o/options.md) for premature withdrawals. They provide attractive [interest](../i/interest.md) rates and online account management. [ICICI Bank](https://www.icicibank.com)
+ICICI [Bank](../b/bank.md) in India offers a variety of term [deposit](../d/deposit.md) schemes, including tax-saving deposits and flexible fixed deposits with [options](../o/options.md) for premature withdrawals. They provide attractive [interest](../i/interest.md) rates and online account management. ICICI Bank
 
 ### CitiBank
-CitiBank offers competitive term deposits with various term lengths and [interest](../i/interest.md) [payment](../p/payment.md) frequencies. They provide personalized service and a [range](../r/range.md) of online tools to help customers manage their investments. [CitiBank](https://www.citibank.com)
+CitiBank offers competitive term deposits with various term lengths and [interest](../i/interest.md) [payment](../p/payment.md) frequencies. They provide personalized service and a [range](../r/range.md) of online tools to help customers manage their investments. CitiBank
 
 ## Conclusion
 

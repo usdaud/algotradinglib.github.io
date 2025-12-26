@@ -92,5 +92,5 @@ Based on the RAROC values, Portfolio A is more attractive despite having a lower
 [Risk-Adjusted Return](../r/risk-adjusted_return.md) on [Capital](../c/capital.md) (RAROC) is a vital financial metric that provides insights into the profitability and [risk](../r/risk.md) exposure of investments and [business](../b/business.md) units. By incorporating [risk](../r/risk.md) into the [return](../r/return.md) calculation, RAROC enables financial institutions to make better-informed decisions regarding [capital allocation](../c/capital_allocation.md), performance measurement, and [risk management](../r/risk_management.md). Despite its complexity and reliance on [robust](../r/robust.md) data and models, RAROC remains an indispensable tool for achieving sustainable profitability and financial stability.
 
 For more details or practical application of RAROC in a real-world context, you may visit the following resources:
-- [J.P. Morgan Risk Management](https://www.jpmorgan.com/global/risk)
-- [McKinsey & Company - Risk Practice](https://www.mckinsey.com/business-functions/risk-and-resilience/our-insights)
+- J.P. Morgan Risk Management
+- McKinsey & Company - Risk Practice

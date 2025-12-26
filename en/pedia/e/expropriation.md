@@ -26,7 +26,7 @@ While expropriation traditionally pertains to physical assets, the concept has i
 
 In the realm of [algorithmic trading](../a/accountability.md), data is a critical [asset](../a/asset.md). Governments or regulatory bodies might enact laws or use expropriation-like powers to access [proprietary trading](../p/proprietary_trading.md) algorithms and data under certain conditions, such as investigations into [market manipulation](../m/market_manipulation.md) or financial [fraud](../f/fraud.md). This could involve:
 
-- **[Market](../m/market.md) Surveillance:** Regulatory bodies like the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) have the authority to obtain trading data to maintain [market](../m/market.md) integrity (https://www.sec.gov).
+- **[Market](../m/market.md) Surveillance:** Regulatory bodies like the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) have the authority to obtain trading data to maintain [market](../m/market.md) integrity (
 - **National [Security](../s/security.md):** Governments might invoke national [security](../s/security.md) concerns to access algorithms used in [trading systems](../t/trading_systems.md) to prevent potential threats.
 - **Public [Transparency](../t/transparency.md):** There could be scenarios where public [interest](../i/interest.md) necessitates the [disclosure](../d/disclosure.md) of [trading algorithms](../t/trading_algorithms.md), especially those responsible for significant [market](../m/market.md) activities.
 

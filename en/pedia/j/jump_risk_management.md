@@ -62,7 +62,7 @@ Technological advancements have enabled algorithmic traders to deploy sophistica
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading firms, such as [Jump Trading](https://www.jumptrading.com/), [leverage](../l/leverage.md) advanced technologies to react to [market](../m/market.md) movements in milliseconds, potentially mitigating the impact of price jumps. By using complex algorithms and vast amounts of data, HFT firms can execute trades rapidly and reduce the [risk](../r/risk.md) associated with sudden price changes.
+High-frequency trading firms, such as Jump Trading, [leverage](../l/leverage.md) advanced technologies to react to [market](../m/market.md) movements in milliseconds, potentially mitigating the impact of price jumps. By using complex algorithms and vast amounts of data, HFT firms can execute trades rapidly and reduce the [risk](../r/risk.md) associated with sudden price changes.
 
 ### Real-Time Data Analysis
 

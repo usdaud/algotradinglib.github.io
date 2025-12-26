@@ -1,6 +1,6 @@
 # Extraordinary General Meetings (EGM)
 
-Extraordinary General Meetings (EGMs) are meetings of a company's shareholders that are convened outside of the company's usual annual general meeting (AGM) schedule. These meetings are called to address urgent matters that cannot wait until the next AGM. EGMs serve as an essential mechanism for [corporate governance](../c/corporate_governance.md), enabling shareholders and company management to discuss and decide on critical issues that arise unexpectedly. 
+Extraordinary General Meetings (EGMs) are meetings of a company's shareholders that are convened outside of the company's usual annual general meeting (AGM) schedule. These meetings are called to address urgent matters that cannot wait until the next AGM. EGMs serve as an essential mechanism for [corporate governance](../c/corporate_governance.md), enabling shareholders and company management to discuss and decide on critical issues that arise unexpectedly.
 
 ## Purpose of EGMs
 
@@ -47,15 +47,15 @@ EGMs are crucial for several reasons:
 
 ### Deutsche Bank EGM (2014)
 
-In 2014, Deutsche [Bank](../b/bank.md) held an extraordinary general meeting to get [shareholder](../s/shareholder.md) approval for a [capital](../c/capital.md) increase aimed at strengthening the [bank](../b/bank.md)'s [balance sheet](../b/balance_sheet.md). The [bank](../b/bank.md) raised approximately €8 billion through this initiative [Deutsche Bank](https://www.db.com/company/en/extraordinary-general-meeting.htm).
+In 2014, Deutsche [Bank](../b/bank.md) held an extraordinary general meeting to get [shareholder](../s/shareholder.md) approval for a [capital](../c/capital.md) increase aimed at strengthening the [bank](../b/bank.md)'s [balance sheet](../b/balance_sheet.md). The [bank](../b/bank.md) raised approximately €8 billion through this initiative Deutsche Bank.
 
 ### Tesla Motors EGM (2020)
 
-Tesla held an EGM to secure [shareholder](../s/shareholder.md) approval for a [stock split](../s/stock_split.md) to make its stock more affordable to investors. This move played a significant part in boosting the company's [market capitalization](../m/market_capitalization.md) dramatically [Tesla](https://ir.tesla.com/event/extraordinary-general-meeting-2020).
+Tesla held an EGM to secure [shareholder](../s/shareholder.md) approval for a [stock split](../s/stock_split.md) to make its stock more affordable to investors. This move played a significant part in boosting the company's [market capitalization](../m/market_capitalization.md) dramatically Tesla.
 
 ### Unilever EGM (2020)
 
-Unilever's EGM was convened to approve the unification of its dual-headed legal structure into a single [parent company](../p/parent_company.md) incorporated in the UK. This [restructuring](../r/restructuring.md) aimed to create a simpler corporate structure, enhance strategic flexibility, and improve governance [Unilever](https://www.unilever.com/news/news-search/2020/unilever-to-hold-extraordinary-general-meeting.html).
+Unilever's EGM was convened to approve the unification of its dual-headed legal structure into a single [parent company](../p/parent_company.md) incorporated in the UK. This [restructuring](../r/restructuring.md) aimed to create a simpler corporate structure, enhance strategic flexibility, and improve governance Unilever.
 
 ## Conclusion
 

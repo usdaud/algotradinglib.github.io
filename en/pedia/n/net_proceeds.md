@@ -8,9 +8,9 @@ To understand net proceeds thoroughly, one must consider the different component
 
 1. **[Gross Sales](../g/gross_sales.md) Price**: This is the total amount received from a [sale](../s/sale.md) before deductions.
 2. **Deductions**: Various costs and expenses need to be subtracted from the [gross sales](../g/gross_sales.md) price to arrive at the net proceeds. These deductions can include:
-   - **Commissions and Fees**: [Broker](../b/broker.md) fees, advisor fees, [underwriting](../u/underwriting.md) fees, etc.
-   - **[Transaction Costs](../t/transaction_costs.md)**: Legal fees, transfer [taxes](../t/taxes.md), registration fees, etc.
-   - **Adjustments or Credits**: Any specific adjustments made to the final sales price for repairs, contingencies, or credits to the buyer.
+ - **Commissions and Fees**: [Broker](../b/broker.md) fees, advisor fees, [underwriting](../u/underwriting.md) fees, etc.
+ - **[Transaction Costs](../t/transaction_costs.md)**: Legal fees, transfer [taxes](../t/taxes.md), registration fees, etc.
+ - **Adjustments or Credits**: Any specific adjustments made to the final sales price for repairs, contingencies, or credits to the buyer.
 
 The formula for net proceeds is:
 
@@ -40,14 +40,14 @@ In M&A activities, the net proceeds can influence the [perceived value](../p/per
 
 ## Considerations for Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), which uses automated systems to execute trades based on predefined criteria, also incorporates the concept of net proceeds. Algorithms need to account for [transaction costs](../t/transaction_costs.md) to ensure that the intended profitability is achieved. [Transaction costs](../t/transaction_costs.md) can have a significant impact on high-frequency [trading strategies](../t/trading_strategies.md) where even small discrepancies can lead to significant financial consequences over many trades.
+[Algorithmic trading](../a/algorithmic_trading.md), which uses automated systems to execute trades based on predefined criteria, also incorporates the concept of net proceeds. Algorithms need to account for [transaction costs](../t/transaction_costs.md) to ensure that the intended profitability is achieved. [Transaction costs](../t/transaction_costs.md) can have a significant impact on high-frequency [trading strategies](../t/trading_strategies.md) where even small discrepancies can lead to significant financial consequences over many trades.
 
 Automated systems are designed to:
 - Calculate real-time net proceeds from trades.
 - Adjust algorithms based on changing [fee](../f/fee.md) structures.
 - [Factor](../f/factor.md) in [slippage](../s/slippage.md), which is the difference between expected [transaction costs](../t/transaction_costs.md) and actual [execution](../e/execution.md) costs.
 
-For instance, platforms like [Interactive Brokers](https://www.interactivebrokers.com) and [TD Ameritrade](https://www.tdameritrade.com) often provide APIs that allow algorithmic traders to retrieve detailed [transaction costs](../t/transaction_costs.md), which can then be used to refine their net proceed calculations dynamically.
+For instance, platforms like Interactive Brokers and TD Ameritrade often provide APIs that allow algorithmic traders to retrieve detailed [transaction costs](../t/transaction_costs.md), which can then be used to refine their net proceed calculations dynamically.
 
 ## Net Proceeds in Financial Statements
 

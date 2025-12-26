@@ -95,26 +95,20 @@ Leveraging advanced trading technology and tools can enhance the [efficiency](..
 
 [TradeStation](../t/tradestation.md) is a leading [trading platform](../t/trading_platform.md) that offers comprehensive tools and features for [breakout](../b/breakout.md) trading. It provides advanced charting capabilities, [technical analysis](../t/technical_analysis.md) tools, and [automated trading systems](../a/automated_trading_systems.md) to help traders implement and execute [breakout](../b/breakout.md) strategies.
 
-Website: [TradeStation](https://www.tradestation.com/)
-
 ### MetaTrader
 
 MetaTrader is a popular [trading platform](../t/trading_platform.md) widely used by traders for [breakout](../b/breakout.md) trading. It offers a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), charting tools, and automated trading capabilities, making it a versatile platform for executing [breakout](../b/breakout.md) strategies.
 
-Website: [MetaQuotes - MetaTrader](https://www.metaquotes.net/)
-
 ### Thinkorswim
 
-[Thinkorswim](../t/thinkorswim.md), offered by TD [Ameritrade](../a/ameritrade.md), is a sophisticated [trading platform](../t/trading_platform.md) with powerful charting and [technical analysis](../t/technical_analysis.md) tools. It is highly regarded by traders for its extensive features and user-friendly interface, making it ideal for [breakout](../b/breakout.md) trading.
+**Note:** TD Ameritrade was acquired by Charles Schwab in September 2023. Thinkorswim is now offered by Charles Schwab.
 
-Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+[Thinkorswim](../t/thinkorswim.md) is a sophisticated [trading platform](../t/trading_platform.md) with powerful charting and [technical analysis](../t/technical_analysis.md) tools. It is highly regarded by traders for its extensive features and user-friendly interface, making it ideal for [breakout](../b/breakout.md) trading.
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) is a comprehensive [trading platform](../t/trading_platform.md) that provides advanced charting, analysis, and automation capabilities for [breakout](../b/breakout.md) trading. It is popular among professional traders for its customizable features and extensive support for various [asset](../a/asset.md) classes.
 
-Website: [NinjaTrader](https://ninjatrader.com/)
-
 ## Conclusion
 
-[Breakout](../b/breakout.md) trading is a dynamic and potentially [lucrative](../l/lucrative.md) [trading strategy](../t/trading_strategy.md) that capitalizes on [market](../m/market.md) [momentum](../m/momentum.md) and price movements. By understanding the principles, key components, popular strategies, and [best practices](../b/best_practices.md) of [breakout](../b/breakout.md) trading, traders can enhance their chances of success and effectively manage risks. Leveraging advanced trading technology and continuously educating oneself can further improve the [efficiency](../e/efficiency.md) and effectiveness of [breakout](../b/breakout.md) [trading strategies](../t/trading_strategies.md). Whether you are a novice or experienced [trader](../t/trader.md), [breakout](../b/breakout.md) trading offers valuable opportunities to [profit](../p/profit.md) from significant [market](../m/market.md) movements.
+[Breakout](../b/breakout.md) trading is a dynamic and potentially [lucrative](../l/lucrative.md) [trading strategy](../t/trading_strategy.md) that capitalizes on [market](../m/market.md) [momentum](../m/momentum.md) and price movements. By understanding the principles, key components, popular strategies, and [best practices](../b/best_practices.md) of [breakout](../b/breakout.md) trading, traders can enhance their chances of success and effectively manage risks. Leveraging advanced trading technology and continuously educating oneself can further improve the [efficiency](../e/efficiency.md) and effectiveness of [breakout](../b/breakout.md) [trading strategies](../t/trading_strategies.md). Whether you are a novice or experienced [trader](../t/trader.md), [breakout](../b/breakout.md) trading offers valuable opportunities to [profit](../p/profit.md) from significant [market](../m/market.md) movements.

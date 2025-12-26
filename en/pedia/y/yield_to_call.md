@@ -50,7 +50,7 @@ Investors use YTC to compare the [return](../r/return.md) of callable bonds to [
 
 ### Callable Bonds in the Market
 
-Investors can find callable bonds issued by various corporations and government entities. Companies like [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/) often [issue](../i/issue.md) callable bonds to manage their [debt](../d/debt.md) and [interest](../i/interest.md) expenses. It’s vital for investors to read the [bond](../b/bond.md)’s [prospectus](../p/prospectus.md) and understand the terms and conditions related to the callable feature before [investing](../i/investing.md).
+Investors can find callable bonds issued by various corporations and government entities. Companies like Goldman Sachs and Morgan Stanley often [issue](../i/issue.md) callable bonds to manage their [debt](../d/debt.md) and [interest](../i/interest.md) expenses. It’s vital for investors to read the [bond](../b/bond.md)’s [prospectus](../p/prospectus.md) and understand the terms and conditions related to the callable feature before [investing](../i/investing.md).
 
 ### Factors Influencing the Yield to Call
 

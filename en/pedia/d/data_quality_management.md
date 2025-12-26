@@ -65,16 +65,16 @@ Managing data quality in [algorithmic trading](../a/algorithmic_trading.md) come
 
 ### Case Study 1: QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that emphasizes data quality. By providing access to high-quality historical and live [market](../m/market.md) data, [QuantConnect](../q/quantconnect.md) ensures that algorithmic traders can backtest and deploy their strategies with confidence. Their [data normalization](../d/data_normalization.md) processes involve rigorous cleaning, validation, and structuring to maintain data integrity across millions of data points.
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that emphasizes data quality. By providing access to high-quality historical and live [market](../m/market.md) data, [QuantConnect](../q/quantconnect.md) ensures that algorithmic traders can backtest and deploy their strategies with confidence. Their [data normalization](../d/data_normalization.md) processes involve rigorous cleaning, validation, and structuring to maintain data integrity across millions of data points.
 
 ### Case Study 2: Numerai
 
-[Numerai](https://numer.ai/) is a [hedge fund](../h/hedge_fund.md) that utilizes crowdsourced [machine learning](../m/machine_learning.md) models. Data quality is paramount for Numerai as they rely on diverse data sources to train their models. Their data pipeline involves extensive preprocessing, validation, and transformation techniques to ensure high-quality datasets for model training and evaluation.
+Numerai is a [hedge fund](../h/hedge_fund.md) that utilizes crowdsourced [machine learning](../m/machine_learning.md) models. Data quality is paramount for Numerai as they rely on diverse data sources to train their models. Their data pipeline involves extensive preprocessing, validation, and transformation techniques to ensure high-quality datasets for model training and evaluation.
 
 ### Case Study 3: Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a quantitative investment [firm](../f/firm.md) that places significant emphasis on data quality. They employ advanced data governance frameworks and [machine learning](../m/machine_learning.md) techniques to manage and maintain the quality of data used in their [trading algorithms](../t/trading_algorithms.md). They focus on continuous improvement of their data processes to adapt to the evolving [market](../m/market.md) landscape.
+Two Sigma is a quantitative investment [firm](../f/firm.md) that places significant emphasis on data quality. They employ advanced data governance frameworks and [machine learning](../m/machine_learning.md) techniques to manage and maintain the quality of data used in their [trading algorithms](../t/trading_algorithms.md). They focus on continuous improvement of their data processes to adapt to the evolving [market](../m/market.md) landscape.
 
 ## Conclusion
 
-Data [Quality Management](../q/quality_management.md) is a cornerstone of successful [algorithmic trading](../a/algorithmic_trading.md). Ensuring high-quality data involves meticulous processes of data sourcing, validation, cleaning, governance, and leveraging the right tools and technologies. As the trading landscape becomes increasingly data-driven, [robust](../r/robust.md) DQM practices [will](../w/will.md) remain critical in sustaining [competitive advantage](../c/competitive_advantage.md) and achieving optimal [trading performance](../t/trading_performance.md).
+Data [Quality Management](../q/quality_management.md) is a cornerstone of successful [algorithmic trading](../a/algorithmic_trading.md). Ensuring high-quality data involves meticulous processes of data sourcing, validation, cleaning, governance, and leveraging the right tools and technologies. As the trading landscape becomes increasingly data-driven, [robust](../r/robust.md) DQM practices [will](../w/will.md) remain critical in sustaining [competitive advantage](../c/competitive_advantage.md) and achieving optimal [trading performance](../t/trading_performance.md).

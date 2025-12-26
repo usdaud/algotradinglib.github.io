@@ -24,23 +24,22 @@ When the annual dividends per share are zero, the [dividend yield](../d/dividend
 
 ### Growth Companies
 
-Growth companies are firms that are expected to grow at an above-average rate compared to other companies in the [market](../m/market.md). They often operate in burgeoning industries like technology and biotechnology, where the potential for substantial growth is significant. Instead of paying dividends, these companies reinvest profits to fuel continued [expansion](../e/expansion.md). 
+Growth companies are firms that are expected to grow at an above-average rate compared to other companies in the [market](../m/market.md). They often operate in burgeoning industries like technology and biotechnology, where the potential for substantial growth is significant. Instead of paying dividends, these companies reinvest profits to fuel continued [expansion](../e/expansion.md).
 
 #### Example: Amazon (NASDAQ: AMZN)
 
-Amazon is a quintessential [growth company](../g/growth_company.md) that has historically operated with a zero [dividend yield](../d/dividend_yield.md). The company reinvests its profits into various initiatives, such as enhancing its online retail platform, expanding its [cloud computing](../c/cloud_computing_in_trading.md) services (Amazon Web Services), and developing new technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md). 
+Amazon is a quintessential [growth company](../g/growth_company.md) that has historically operated with a zero [dividend yield](../d/dividend_yield.md). The company reinvests its profits into various initiatives, such as enhancing its online retail platform, expanding its [cloud computing](../c/cloud_computing_in_trading.md) services (Amazon Web Services), and developing new technologies like [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
-For more information on Amazon, please visit their [official page](https://www.amazon.com/).
 
 ### Technology Firms
 
-Many technology firms do not pay dividends. The [technology sector](../t/technology_sector.md) is known for high [growth rates](../g/growth_rates_in_trading.md) and continuous disruption, which requires significant and consistent [reinvestment](../r/reinvestment.md) in research and development. 
+Many technology firms do not pay dividends. The [technology sector](../t/technology_sector.md) is known for high [growth rates](../g/growth_rates_in_trading.md) and continuous disruption, which requires significant and consistent [reinvestment](../r/reinvestment.md) in research and development.
 
 #### Example: Alphabet Inc. (NASDAQ: GOOGL)
 
-Alphabet Inc., the [parent company](../p/parent_company.md) of Google, has a zero [dividend yield](../d/dividend_yield.md). Alphabet invests heavily in its core businesses (like Google Search and YouTube) as well as in emerging technologies and innovative solutions such as Waymo (self-driving cars), Verily (life sciences), and various [artificial intelligence](../a/artificial_intelligence_in_trading.md) projects. 
+Alphabet Inc., the [parent company](../p/parent_company.md) of Google, has a zero [dividend yield](../d/dividend_yield.md). Alphabet invests heavily in its core businesses (like Google Search and YouTube) as well as in emerging technologies and innovative solutions such as Waymo (self-driving cars), Verily (life sciences), and various [artificial intelligence](../a/artificial_intelligence_in_trading.md) projects.
 
-For more information on Alphabet Inc., please visit their [official page](https://abc.xyz/).
+For more information on Alphabet Inc., please
 
 ### Startups and Early-Stage Businesses
 
@@ -48,9 +47,8 @@ Startups and early-stage businesses usually do not pay dividends. These companie
 
 #### Example: SpaceX
 
-SpaceX, a private aerospace manufacturer and space transportation company founded by Elon Musk, does not pay dividends. The company reinvests [earnings](../e/earnings.md) to accomplish its goals, like developing advanced rockets and making human life multi-planetary. 
+SpaceX, a private aerospace manufacturer and space transportation company founded by Elon Musk, does not pay dividends. The company reinvests [earnings](../e/earnings.md) to accomplish its goals, like developing advanced rockets and making human life multi-planetary.
 
-For more information on SpaceX, please visit their [official page](https://www.spacex.com/).
 
 ## Investor Considerations
 

@@ -1,6 +1,6 @@
 # Introduction to International Finance
 
-International [finance](../f/finance.md) is a field of [economics](../e/economics.md) that deals with monetary interactions between two or more countries. This includes the study of various financial instruments, international monetary systems, [exchange](../e/exchange.md) rates, international investment, and how these elements interact in the global [economy](../e/economy.md). 
+International [finance](../f/finance.md) is a field of [economics](../e/economics.md) that deals with monetary interactions between two or more countries. This includes the study of various financial instruments, international monetary systems, [exchange](../e/exchange.md) rates, international investment, and how these elements interact in the global [economy](../e/economy.md).
 
 ## The Basics of International Finance
 
@@ -78,19 +78,19 @@ Several international financial institutions provide the framework and support f
 
 The IMF aims to promote global monetary cooperation, secure financial stability, facilitate international [trade](../t/trade.md), promote high employment and sustainable [economic growth](../e/economic_growth.md), and reduce [poverty](../p/poverty.md). It provides financial support and policy advice to member countries facing balance-of-payments problems.
 
-For more information, visit the [International Monetary Fund](https://www.imf.org/).
+For more information, visit the International Monetary Fund.
 
 ### World Bank
 
 The [World Bank](../w/world_bank.md) provides financial and technical assistance to developing countries for development projects (e.g., roads, education, health). The goal is to reduce [poverty](../p/poverty.md) by providing loans at lower [interest](../i/interest.md) rates and [offering](../o/offering.md) grants to [finance](../f/finance.md) investments in education, health, public administration, [infrastructure](../i/infrastructure.md), and more.
 
-For more information, visit the [World Bank](https://www.worldbank.org/).
+For more information, visit the World Bank.
 
 ### Bank for International Settlements (BIS)
 
 The BIS serves as a [bank](../b/bank.md) for central banks, promoting monetary and financial stability through international cooperation. It acts as a forum for discussion and policy analysis among central banks and provides banking services to them.
 
-For more information, visit the [Bank for International Settlements](https://www.bis.org/).
+For more information, visit the Bank for International Settlements.
 
 ## Case Studies in International Finance
 

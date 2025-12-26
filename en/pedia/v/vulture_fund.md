@@ -4,7 +4,7 @@ A **Vulture [Fund](../f/fund.md)** is a type of [hedge fund](../h/hedge_fund.md)
 
 ## History and Origins
 
-The concept of vulture funds isn't new; it has roots in the distressed [asset](../a/asset.md) [market](../m/market.md), which gained prominence in the late 20th century. Initially, these funds were few and operated in niche markets, but over time, they have grown significantly in number and [scope](../s/scope.md). 
+The concept of vulture funds isn't new; it has roots in the distressed [asset](../a/asset.md) [market](../m/market.md), which gained prominence in the late 20th century. Initially, these funds were few and operated in niche markets, but over time, they have grown significantly in number and [scope](../s/scope.md).
 
 ## How Vulture Funds Operate
 
@@ -20,14 +20,14 @@ Vulture funds typically target assets that are [undervalued](../u/undervalued.md
 
 Some of the most well-known vulture funds include Elliott Management [Corporation](../c/corporation.md) and Aurelius [Capital](../c/capital.md) Management. These funds have been involved in high-profile cases, often involving sovereign [debt](../d/debt.md) crises.
 
-- **Elliott Management [Corporation](../c/corporation.md):** Founded by Paul Singer, this [fund](../f/fund.md) has been instrumental in several high-stakes financial disputes, including Argentina's sovereign [debt](../d/debt.md) [default](../d/default.md) and the [acquisition](../a/acquisition.md) restructures of various companies. 
+- **Elliott Management [Corporation](../c/corporation.md):** Founded by Paul Singer, this [fund](../f/fund.md) has been instrumental in several high-stakes financial disputes, including Argentina's sovereign [debt](../d/debt.md) [default](../d/default.md) and the [acquisition](../a/acquisition.md) restructures of various companies.
 
 - **Aurelius [Capital](../c/capital.md) Management:** Known for its aggressive litigation tactics, Aurelius has been involved in numerous cases concerning distressed corporate bonds and sovereign [debt](../d/debt.md).
 
 ## Legal and Ethical Controversies
 
 Vulture funds often operate in legal grey areas due to the aggressive nature of their strategies:
-  
+
 - **Litigation:** These funds are notorious for using litigation as a tool to extract payments, often at the [expense](../e/expense.md) of other creditors or stakeholders.
 
 - **[Moral Hazard](../m/moral_hazard.md):** Critics argue that vulture funds exploit vulnerable companies or countries, leading to detrimental economic consequences and undermining the [restructuring](../r/restructuring.md) process.
@@ -73,5 +73,4 @@ Vulture funds are a critical yet controversial part of the financial ecosystem. 
 
 For more information on specific vulture funds and their activities, you can visit their respective websites:
 
-- Elliott Management [Corporation](../c/corporation.md): [http://www.elliottmgmt.com](http://www.elliottmgmt.com)
-- Aurelius [Capital](../c/capital.md) Management: [http://www.aurelius-capital.com](http://www.aurelius-capital.com)
+- Elliott Management [Corporation](../c/corporation.md)- Aurelius [Capital](../c/capital.md) Management

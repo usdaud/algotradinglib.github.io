@@ -64,7 +64,7 @@ In line with global trends and the growing emphasis on environmental management,
 
 ## Relations with Other Organizations
 
-While OAPEC primarily serves the Arab world, it maintains relationships with other international organizations, such as the Organization of [Petroleum](../p/petroleum.md) Exporting Countries (OPEC), the International Energy Forum (IEF), and the International Oil Pollution Compensation Funds (IOPC Funds). 
+While OAPEC primarily serves the Arab world, it maintains relationships with other international organizations, such as the Organization of [Petroleum](../p/petroleum.md) Exporting Countries (OPEC), the International Energy Forum (IEF), and the International Oil Pollution Compensation Funds (IOPC Funds).
 
 ### OPEC
 
@@ -107,6 +107,4 @@ Economic [diversification](../d/diversification.md) [will](../w/will.md) remain 
 ## Conclusion
 
 For over 50 years, the Organization of Arab [Petroleum](../p/petroleum.md) Exporting Countries (OAPEC) has played a crucial role in the development and coordination of [petroleum](../p/petroleum.md) policies among Arab countries. Despite facing various challenges, including political tensions and environmental concerns, OAPEC remains a pivotal player in the global energy [market](../m/market.md). As the world moves towards sustainable energy solutions, the organization [will](../w/will.md) need to adapt its strategies to ensure the continued economic prosperity of its member states.
-
-For more information about OAPEC, visit their official website: [OAPEC Official Website](https://www.oapecorg.org).
 

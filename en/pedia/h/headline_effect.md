@@ -1,6 +1,6 @@
 # Headline Effect
 
-The headline effect is a concept often referenced in the field of [finance](../f/finance.md), particularly in relation to markets and trading. This effect describes the phenomenon whereby significant news headlines impact [market](../m/market.md) prices and [investor](../i/investor.md) behavior. In [algorithmic trading](../a/accountability.md), which relies extensively on automated systems and pre-set rules to execute trades, understanding the headline effect is critical for developing strategies that can predict or react to [market](../m/market.md) movements influenced by news events.
+The headline effect is a concept often referenced in the field of [finance](../f/finance.md), particularly in relation to markets and trading. This effect describes the phenomenon whereby significant news headlines impact [market](../m/market.md) prices and [investor](../i/investor.md) behavior. In [algorithmic trading](../a/algorithmic_trading.md), which relies extensively on automated systems and pre-set rules to execute trades, understanding the headline effect is critical for developing strategies that can predict or react to [market](../m/market.md) movements influenced by news events.
 
 ## What It Is
 
@@ -16,7 +16,7 @@ News is disseminated through various channels, including traditional media (news
 
 ### 2. Market Reaction
 
-When a significant news headline breaks, [market](../m/market.md) participants react swiftly. Human traders might make decisions based on their interpretation of the news, while [algorithmic trading](../a/accountability.md) systems can be programmed to respond automatically to specific keywords or phrases in the news. This is often facilitated by real-time news feeds integrated into [trading algorithms](../t/trading_algorithms.md) which can trigger pre-set [trading strategies](../t/trading_strategies.md).
+When a significant news headline breaks, [market](../m/market.md) participants react swiftly. Human traders might make decisions based on their interpretation of the news, while [algorithmic trading](../a/algorithmic_trading.md) systems can be programmed to respond automatically to specific keywords or phrases in the news. This is often facilitated by real-time news feeds integrated into [trading algorithms](../t/trading_algorithms.md) which can trigger pre-set [trading strategies](../t/trading_strategies.md).
 
 ### 3. Volatility Spike
 
@@ -39,7 +39,7 @@ The [Brexit](../b/brexit.md) referendum in 2016 is a notable example of the head
 #### Market Reaction
 
 1. **Immediate Panic**: The initial headlines announcing the "Leave" vote caused widespread panic among investors. The British pound fell to a 31-year low against the US dollar within hours. [Equity](../e/equity.md) markets, particularly in Europe, saw significant declines.
-2. **[Algorithmic Trading](../a/accountability.md)**: Many [algorithmic trading](../a/accountability.md) systems are designed to respond to headlines. During the [Brexit](../b/brexit.md) announcement, algorithms likely contributed to the rapid sell-off by executing trades based on pre-set criteria tied to key phrases in the news.
+2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Many [algorithmic trading](../a/algorithmic_trading.md) systems are designed to respond to headlines. During the [Brexit](../b/brexit.md) announcement, algorithms likely contributed to the rapid sell-off by executing trades based on pre-set criteria tied to key phrases in the news.
 3. **Spike in [Volatility](../v/volatility.md)**: [Financial markets](../f/financial_market.md) experienced an unprecedented spike in [volatility](../v/volatility.md), with major indices like the FTSE 100 and S&P 500 experiencing rapid swings.
 
 #### Market Absorption
@@ -54,9 +54,9 @@ Over the following days and weeks, as the full implications of [Brexit](../b/bre
 
 The headline effect plays a crucial role in [financial markets](../f/financial_market.md) by driving short-term [volatility](../v/volatility.md) in response to news. For algorithmic traders, understanding and leveraging this phenomenon can be a critical component of their strategies. By designing systems that can either [capitalize](../c/capitalize.md) on the initial [market](../m/market.md) reaction or remain resilient against it, traders can better navigate the complexities of modern [financial markets](../f/financial_market.md).
 
-For more information on financial news and its impact on markets, visit [Bloomberg](https://www.bloomberg.com) or [Reuters](https://www.reuters.com).
+For more information on financial news and its impact on markets, visit Bloomberg or Reuters.
 
 ## References
 
-1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global financial services [firm](../f/firm.md) providing news, data, and analytics. Website: [Bloomberg](https://www.bloomberg.com)
-2. **[Reuters](../r/reuters.md)**: An international news organization providing real-time financial news and [market](../m/market.md) data. Website: [Reuters](https://www.reuters.com)
+1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global financial services [firm](../f/firm.md) providing news, data, and analytics. online platform: Bloomberg
+2. **[Reuters](../r/reuters.md)**: An international news organization providing real-time financial news and [market](../m/market.md) data. online platform: Reuters

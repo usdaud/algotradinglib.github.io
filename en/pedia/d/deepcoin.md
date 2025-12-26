@@ -85,4 +85,4 @@ An enhanced version of the Deepcoin mobile app is in development, aimed at provi
 ## Conclusion
 Deepcoin stands out in the crowded cryptocurrency [exchange](../e/exchange.md) [market](../m/market.md) due to its powerful trading engine, extensive [security](../s/security.md) measures, and dedication to providing an excellent user experience. With continuous advancements in technology and an ever-expanding [range](../r/range.md) of trading [options](../o/options.md), Deepcoin is poised to remain a significant player in the [digital currency](../d/digital_currency.md) landscape. Whether you are a novice [trader](../t/trader.md) or an experienced [investor](../i/investor.md), Deepcoin offers the tools and resources needed to succeed in the dynamic world of cryptocurrency trading.
 
-For more information, visit [Deepcoin](https://deepcoin.com).
+For more information, visit Deepcoin.

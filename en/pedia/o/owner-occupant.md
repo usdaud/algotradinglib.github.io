@@ -1,6 +1,6 @@
 # Owner-Occupant
 
-In the realm of [real estate](../r/real_estate.md), the term "owner-occupant" refers to an individual who both owns and resides in a particular property. This category of property owner is distinct from landlords or investors who own properties solely to rent them out or sell them at a [profit](../p/profit.md). Understanding the nuances of owner-occupancy can lend significant insights into [market](../m/market.md) trends, lending practices, and property [valuation](../v/valuation.md). This [write-up](../w/write-up.md) delves into its multifaceted implications, especially within the contexts of [financial markets](../f/financial_market.md), [government policies](../g/government_policies_in_trading.md), and [real estate](../r/real_estate.md) [investing](../i/investing.md). 
+In the realm of [real estate](../r/real_estate.md), the term "owner-occupant" refers to an individual who both owns and resides in a particular property. This category of property owner is distinct from landlords or investors who own properties solely to rent them out or sell them at a [profit](../p/profit.md). Understanding the nuances of owner-occupancy can lend significant insights into [market](../m/market.md) trends, lending practices, and property [valuation](../v/valuation.md). This [write-up](../w/write-up.md) delves into its multifaceted implications, especially within the contexts of [financial markets](../f/financial_market.md), [government policies](../g/government_policies_in_trading.md), and [real estate](../r/real_estate.md) [investing](../i/investing.md).
 
 ## Characteristics of Owner-Occupants
 
@@ -81,7 +81,7 @@ Apps like Zillow and Redfin enable owner-occupants to view [market](../m/market.
 
 ### Online Mortgage Platforms
 
-Companies like Rocket [Mortgage](../m/mortgage.md) (https://www.rocketmortgage.com/) [offer](../o/offer.md) online platforms to simplify the [mortgage](../m/mortgage.md) application process for owner-occupants.
+Companies like Rocket [Mortgage](../m/mortgage.md) ( [offer](../o/offer.md) online platforms to simplify the [mortgage](../m/mortgage.md) application process for owner-occupants.
 
 ### Home Maintenance Apps
 

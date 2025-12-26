@@ -1,6 +1,6 @@
 # Zone of Support
 
-In [financial markets](../f/financial_market.md), the "Zone of Support" is a critical concept for traders and investors alike. It refers to a specific price [range](../r/range.md) in which an [asset](../a/asset.md) tends to find buying [interest](../i/interest.md), thus preventing the price from falling further. This area is not a precise price point but rather a [range](../r/range.md) where [demand](../d/demand.md) is strong enough to absorb the selling pressure. Understanding the zone of support is essential for making informed trading decisions, particularly in strategy development for [algorithmic trading](../a/accountability.md) (algo-trading) and other financial technologies (fintech).
+In [financial markets](../f/financial_market.md), the "Zone of Support" is a critical concept for traders and investors alike. It refers to a specific price [range](../r/range.md) in which an [asset](../a/asset.md) tends to find buying [interest](../i/interest.md), thus preventing the price from falling further. This area is not a precise price point but rather a [range](../r/range.md) where [demand](../d/demand.md) is strong enough to absorb the selling pressure. Understanding the zone of support is essential for making informed trading decisions, particularly in strategy development for [algorithmic trading](../a/algorithmic_trading.md) (algo-trading) and other financial technologies (fintech).
 
 ## Key Concepts
 
@@ -19,15 +19,15 @@ Understanding the zone of support is vital for several reasons:
 1. **[Risk Management](../r/risk_management.md)**: It helps traders set [stop-loss orders](../s/stop-loss_orders.md) just below the support zone, minimizing potential losses.
 2. **Entry Points**: Identifying support zones aids in pinpointing optimal entry points for buying an [asset](../a/asset.md).
 3. **[Market Sentiment](../m/market_sentiment.md)**: It provides insights into [market sentiment](../m/market_sentiment.md), showcasing areas where buying [interest](../i/interest.md) is strong.
-4. **[Algorithmic Trading](../a/accountability.md)**: For algo-trading, support zones help in coding algorithms that can automate buy signals and manage portfolio risks effectively.
+4. **[Algorithmic Trading](../a/algorithmic_trading.md)**: For algo-trading, support zones help in coding algorithms that can automate buy signals and manage portfolio risks effectively.
 
 ## Practical Application
 
 ### Manual Trading
-For manual traders, the zone of support is a critical aspect of [technical analysis](../t/technical_analysis.md). Traders often look for confirmations through [candlestick patterns](../c/candlestick_patterns.md) or [volume](../v/volume.md) spikes at the support zone before executing trades. 
+For manual traders, the zone of support is a critical aspect of [technical analysis](../t/technical_analysis.md). Traders often look for confirmations through [candlestick patterns](../c/candlestick_patterns.md) or [volume](../v/volume.md) spikes at the support zone before executing trades.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), integrating support zones can enhance the profitability and robustness of [trading strategies](../t/trading_strategies.md). For example:
+In [algorithmic trading](../a/algorithmic_trading.md), integrating support zones can enhance the profitability and robustness of [trading strategies](../t/trading_strategies.md). For example:
 - **Rule-Based Systems**: Algorithms can be programmed to execute buy orders when prices enter the support zone, and [stop-loss orders](../s/stop-loss_orders.md) just below it.
 - **[Machine Learning](../m/machine_learning.md) Models**: Advanced models can be trained to identify support zones based on historical data and [market](../m/market.md) conditions, improving predictive capabilities.
 
@@ -40,15 +40,12 @@ Several tools and resources can aid in identifying and leveraging support zones:
 
 ### TradingView
 An online stock and forex charting platform that allows traders to perform detailed [technical analysis](../t/technical_analysis.md).
-[TradingView](https://www.tradingview.com/)
 
 ### NinjaTrader
-A [trading platform](../t/trading_platform.md) that offers charting, [market](../m/market.md) analysis, and [algorithmic trading](../a/accountability.md) capabilities.
-[NinjaTrader](https://ninjatrader.com/)
+A [trading platform](../t/trading_platform.md) that offers charting, [market](../m/market.md) analysis, and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 
 ### Thinkorswim
 A comprehensive [trading platform](../t/trading_platform.md) offered by TD [Ameritrade](../a/ameritrade.md), featuring advanced charting tools and [technical analysis](../t/technical_analysis.md).
-[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ## Conclusion
 

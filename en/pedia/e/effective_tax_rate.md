@@ -3,7 +3,7 @@
 In [finance](../f/finance.md) and [economics](../e/economics.md), understanding the effective [tax rate](../t/tax_rate.md) (ETR) is fundamental for investors, corporations, and policy-makers. This metric provides insights into the actual tax burden on an entity relative to its [income](../i/income.md). It is distinct from statutory tax rates, which are the legislated rates set by law. The ETR offers a clearer picture of what individuals or corporations truly pay in [taxes](../t/taxes.md), factoring in the multitude of deductions, exemptions, and tax incentives that can apply.
 
 ## Definition and Importance
-The effective [tax rate](../t/tax_rate.md) refers to the average rate at which an individual or [corporation](../c/corporation.md) is taxed on [earned income](../e/earned_income.md). Unlike the statutory rate, which is the theoretical percentage set forth by tax laws, the ETR represents the real percentage of [income](../i/income.md) paid in [taxes](../t/taxes.md) after all available adjustments. 
+The effective [tax rate](../t/tax_rate.md) refers to the average rate at which an individual or [corporation](../c/corporation.md) is taxed on [earned income](../e/earned_income.md). Unlike the statutory rate, which is the theoretical percentage set forth by tax laws, the ETR represents the real percentage of [income](../i/income.md) paid in [taxes](../t/taxes.md) after all available adjustments.
 
 ### Why It Matters
 1. **Clarity in [Financial Health](../f/financial_health.md)**: For investors assessing a company's [financial health](../f/financial_health.md), the ETR provides a clearer view of the company’s net profitability after tax [obligations](../o/obligation.md).

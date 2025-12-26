@@ -7,7 +7,7 @@ The 2-Day Rule, also known in various iterations and contexts, is a tactical gui
 The 2-Day Rule draws from the broader principles of mean-reversion and [momentum trading](../m/momentum_trading.md). Here's a breakdown of the two core principles:
 
 1. **Mean-Reversion**: This principle assumes that [asset](../a/asset.md) prices tend to revert to their historical averages or trends. Therefore, extreme moves in one direction over two days might be corrected by a [reversal](../r/reversal.md).
-   
+
 2. **[Momentum](../m/momentum.md)**: Conversely, [momentum](../m/momentum.md) theory suggests that assets that have shown substantial movement in one direction over two days [will](../w/will.md) continue in the same direction as traders [capitalize](../c/capitalize.md) on this [trend](../t/trend.md).
 
 ## Historical Context and Origins
@@ -20,8 +20,8 @@ The 2-Day Rule is often attributed to the works of [market](../m/market.md) tech
 
 1. **Data Collection**: The algorithm collects historical price data for the [asset](../a/asset.md).
 2. **Signal Generation**:
-   - **[Reversal](../r/reversal.md) Signal**: If the [asset](../a/asset.md) price rises (or falls) significantly over two consecutive days, the algorithm might generate a sell (or buy) signal anticipating a [pullback](../p/pullback.md).
-   - **Continuation Signal**: In contrast, some versions of the rule may suggest a buy (or sell) signal if the [trend](../t/trend.md) is expected to continue.
+ - **[Reversal](../r/reversal.md) Signal**: If the [asset](../a/asset.md) price rises (or falls) significantly over two consecutive days, the algorithm might generate a sell (or buy) signal anticipating a [pullback](../p/pullback.md).
+ - **Continuation Signal**: In contrast, some versions of the rule may suggest a buy (or sell) signal if the [trend](../t/trend.md) is expected to continue.
 3. **[Execution](../e/execution.md)**: Once a signal is generated, the algorithm executes the [trade](../t/trade.md) according to the predefined parameters, such as stop-loss and take-[profit](../p/profit.md) levels.
 4. **Evaluation**: [Post-trade analysis](../p/post-trade_analysis.md) evaluates the performance and refines the algorithm over time.
 
@@ -82,9 +82,9 @@ for i in [range](../r/range.md)(lookback_period, len(historical_prices)):
 
 Several [hedge](../h/hedge.md) funds and trading firms have deployed variations of the 2-Day Rule within their broader [trading strategies](../t/trading_strategies.md). Notable among these are:
 
-- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance employs a plethora of [short-term trading](../s/short-term_trading.md) models. While specifics are proprietary, elements of the 2-Day Rule are often integrated into sophisticated quantitative frameworks. [Renaissance Technologies](https://www.rentech.com/)
-- **Two Sigma Investments**: Another leader in the algo-trading space, Two Sigma utilizes data-driven approaches that may incorporate short-term [price patterns](../p/price_patterns.md) similar to the 2-Day Rule. [Two Sigma](https://www.twosigma.com/)
+- **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), Renaissance employs a plethora of [short-term trading](../s/short-term_trading.md) models. While specifics are proprietary, elements of the 2-Day Rule are often integrated into sophisticated quantitative frameworks. Renaissance Technologies
+- **Two Sigma Investments**: Another leader in the algo-trading space, Two Sigma utilizes data-driven approaches that may incorporate short-term [price patterns](../p/price_patterns.md) similar to the 2-Day Rule. Two Sigma
 
 ## Conclusion
 
-The 2-Day Rule exemplifies how simple, heuristic approaches can be harnessed within sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. While not infallible, its principles of mean-reversion and [momentum](../m/momentum.md) capture fundamental [market](../m/market.md) behaviors that can be exploited for [profit](../p/profit.md). However, its success hinges on rigorous [backtesting](../b/backtesting.md), [risk management](../r/risk_management.md), and continuous refinement to adapt to evolving [market](../m/market.md) conditions.
+The 2-Day Rule exemplifies how simple, heuristic approaches can be harnessed within sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. While not infallible, its principles of mean-reversion and [momentum](../m/momentum.md) capture fundamental [market](../m/market.md) behaviors that can be exploited for [profit](../p/profit.md). However, its success hinges on rigorous [backtesting](../b/backtesting.md), [risk management](../r/risk_management.md), and continuous refinement to adapt to evolving [market](../m/market.md) conditions.

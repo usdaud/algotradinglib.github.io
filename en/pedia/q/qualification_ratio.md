@@ -18,7 +18,7 @@ In a regulatory context, the Qualification Ratio can help determine whether fina
 
 ### Trading Algorithms
 
-In [algorithmic trading](../a/accountability.md), the Qualification Ratio may be utilized to gauge the efficacy of [trading algorithms](../t/trading_algorithms.md) by comparing their real-world performance to back-tested results. This assists in understanding the reliability and robustness of [trading algorithms](../t/trading_algorithms.md) in different [market](../m/market.md) conditions.
+In [algorithmic trading](../a/algorithmic_trading.md), the Qualification Ratio may be utilized to gauge the efficacy of [trading algorithms](../t/trading_algorithms.md) by comparing their real-world performance to back-tested results. This assists in understanding the reliability and robustness of [trading algorithms](../t/trading_algorithms.md) in different [market](../m/market.md) conditions.
 
 ## Calculation of Qualification Ratio
 
@@ -40,7 +40,7 @@ Depending on the intricacies of the financial environment, more nuanced and soph
 
 ## Example: Calculating a Qualification Ratio for an Investment Strategy
 
-Suppose a [hedge fund](../h/hedge_fund.md) aims to achieve an [annual return](../a/annual_return.md) of 15% with a maximum allowable VaR of 5%. 
+Suppose a [hedge fund](../h/hedge_fund.md) aims to achieve an [annual return](../a/annual_return.md) of 15% with a maximum allowable VaR of 5%.
 
 - Achieved Performance: 13% [annual return](../a/annual_return.md)
 - Target Performance: 15% [annual return](../a/annual_return.md)
@@ -74,7 +74,7 @@ Qualification Ratio = 0.8333 * 1.2000
 Qualification Ratio ≈ 1.0000
 ```
 
-A Qualification Ratio of 1.0 indicates that the [algorithmic trading](../a/accountability.md) strategy has mirrored its back-tested performance adequately while managing to stay within acceptable [risk](../r/risk.md) limits.
+A Qualification Ratio of 1.0 indicates that the [algorithmic trading](../a/algorithmic_trading.md) strategy has mirrored its back-tested performance adequately while managing to stay within acceptable [risk](../r/risk.md) limits.
 
 ## Key Benefits and Drawbacks
 
@@ -88,7 +88,7 @@ A Qualification Ratio of 1.0 indicates that the [algorithmic trading](../a/accou
 
 1. **Complexity**: [Multiple](../m/multiple.md) variables and weights in the equation can make it cumbersome to calculate and interpret.
 2. **Dependence on Quality of Inputs**: The accuracy of the Qualification Ratio is only as good as the data and metrics used.
-3. **Potential [Overfitting](../o/overfitting.md)**: Particularly in [algorithmic trading](../a/accountability.md), there’s a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) the ratio to specific historical data, which might not generalize well in future [market](../m/market.md) conditions.
+3. **Potential [Overfitting](../o/overfitting.md)**: Particularly in [algorithmic trading](../a/algorithmic_trading.md), there’s a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) the ratio to specific historical data, which might not generalize well in future [market](../m/market.md) conditions.
 
 ## Best Practices
 
@@ -120,8 +120,8 @@ Regulatory bodies like the SEC (Securities and [Exchange](../e/exchange.md) [Com
 
 ### Trading Platforms
 
-[Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) like [QuantConnect](../q/quantconnect.md) ([quantconnect.com](https://www.quantconnect.com)) and Trading Technologies ([tradingtechnologies.com](https://www.tradingtechnologies.com)) may use the Qualification Ratio to [offer](../o/offer.md) [performance analytics](../p/performance_analytics.md) and compliance checks for their users.
+[Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) like [QuantConnect](../q/quantconnect.md) (quantconnect.com) and Trading Technologies (tradingtechnologies.com) may use the Qualification Ratio to [offer](../o/offer.md) [performance analytics](../p/performance_analytics.md) and compliance checks for their users.
 
 ## Conclusion
 
-The Qualification Ratio is an invaluable tool for anyone involved in [portfolio management](../p/par.md), [risk analysis](../r/risk_analysis.md), compliance, or [algorithmic trading](../a/accountability.md). By [offering](../o/offering.md) a comprehensive assessment of performance against benchmarks and [risk](../r/risk.md) guidelines, it helps in making informed decisions and maintaining adherence to strategic financial objectives. While it comes with its own set of complexities and dependencies, when employed effectively, it serves as a [robust](../r/robust.md) measure for ensuring financial strategies are both effective and compliant.
+The Qualification Ratio is an invaluable tool for anyone involved in [portfolio management](../p/par.md), [risk analysis](../r/risk_analysis.md), compliance, or [algorithmic trading](../a/algorithmic_trading.md). By [offering](../o/offering.md) a comprehensive assessment of performance against benchmarks and [risk](../r/risk.md) guidelines, it helps in making informed decisions and maintaining adherence to strategic financial objectives. While it comes with its own set of complexities and dependencies, when employed effectively, it serves as a [robust](../r/robust.md) measure for ensuring financial strategies are both effective and compliant.

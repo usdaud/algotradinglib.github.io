@@ -1,6 +1,6 @@
 # Dividends Received Deduction (DRD)
 
-The Dividends Received [Deduction](../d/deduction.md) (DRD) is a tax [provision](../p/provision.md) in the United States designed to reduce the tax burden on domestic corporate shareholders receiving dividends from other domestic corporations. This [deduction](../d/deduction.md) is intended to alleviate the problem of triple [taxation](../t/taxation.md): once at the corporate level when the [income](../i/income.md) is earned, again at the receiving [corporation](../c/corporation.md) level when dividends are paid, and a third time at the individual [shareholder](../s/shareholder.md) level when those dividends are distributed. 
+The Dividends Received [Deduction](../d/deduction.md) (DRD) is a tax [provision](../p/provision.md) in the United States designed to reduce the tax burden on domestic corporate shareholders receiving dividends from other domestic corporations. This [deduction](../d/deduction.md) is intended to alleviate the problem of triple [taxation](../t/taxation.md): once at the corporate level when the [income](../i/income.md) is earned, again at the receiving [corporation](../c/corporation.md) level when dividends are paid, and a third time at the individual [shareholder](../s/shareholder.md) level when those dividends are distributed.
 
 Here we delve into the intricate details of the Dividends Received [Deduction](../d/deduction.md), exploring its mechanics, eligibility criteria, tax rates, implications for corporations, and examples of its application.
 
@@ -98,7 +98,7 @@ Tax laws and regulations can evolve, potentially impacting the DRD percentages o
 
 ### Case Study: Large Conglomerates
 
-Consider a large [conglomerate](../c/conglomerate.md) such as [Berkshire Hathaway](../b/berkshire_hathaway.md) Inc., which owns significant stakes in numerous other corporations. The DRD allows [Berkshire Hathaway](../b/berkshire_hathaway.md) to minimize the tax burden on [dividend](../d/dividend.md) [income](../i/income.md) received from these investments, thereby increasing their after-tax returns. 
+Consider a large [conglomerate](../c/conglomerate.md) such as [Berkshire Hathaway](../b/berkshire_hathaway.md) Inc., which owns significant stakes in numerous other corporations. The DRD allows [Berkshire Hathaway](../b/berkshire_hathaway.md) to minimize the tax burden on [dividend](../d/dividend.md) [income](../i/income.md) received from these investments, thereby increasing their after-tax returns.
 
 ### Case Study: Banking Sector
 
@@ -108,4 +108,3 @@ In the banking sector, institutions like JPMorgan Chase & Co. may receive substa
 
 The Dividends Received [Deduction](../d/deduction.md) (DRD) is a powerful tax [provision](../p/provision.md) enabling corporations to reduce the [effective tax rate](../e/effective_tax_rate.md) on inter-corporate [dividend](../d/dividend.md) [income](../i/income.md). By understanding and strategically leveraging the DRD, corporations can enhance after-tax [earnings](../e/earnings.md), optimize investment structures, and align their [dividend](../d/dividend.md) policies for tax [efficiency](../e/efficiency.md). Whether through large-scale investments or strategic structuring of subsidiaries, the DRD plays a crucial role in [corporate tax](../c/corporate_tax.md) planning and financial strategy.
 
-Further details on the DRD and its application can be found on the IRS official website [here](https://www.irs.gov/pub/irs-pdf/p542.pdf).

@@ -4,7 +4,7 @@ Unisex legislation refers to laws or policies designed to eliminate gender-based
 
 ## Historical Context
 
-The history of gender discrimination in [finance](../f/finance.md) shows a long-term [trend](../t/trend.md) of biases favoring men, whether in terms of [credit](../c/credit.md) access, [loan](../l/loan.md) approvals, or [asset management](../a/asset_management.md). Prior to the implementation of unisex legislation, women faced systemic disadvantages such as higher [interest](../i/interest.md) rates, lower [credit](../c/credit.md) limits, and limited investment opportunities. 
+The history of gender discrimination in [finance](../f/finance.md) shows a long-term [trend](../t/trend.md) of biases favoring men, whether in terms of [credit](../c/credit.md) access, [loan](../l/loan.md) approvals, or [asset management](../a/asset_management.md). Prior to the implementation of unisex legislation, women faced systemic disadvantages such as higher [interest](../i/interest.md) rates, lower [credit](../c/credit.md) limits, and limited investment opportunities.
 
 ### Early Financial Discrimination
 
@@ -56,11 +56,11 @@ Studies have shown that women are less likely to invest in the [stock market](..
 
 ## Future Trends and Challenges
 
-While much progress has been made, challenges still exist. Enforcement of unisex legislation varies by jurisdiction, and certain sectors are slower to adapt. Technological advancements and [data analytics](../d/data_analytics.md) may both provide new opportunities and pose risks for gender equality in [finance](../f/finance.md). 
+While much progress has been made, challenges still exist. Enforcement of unisex legislation varies by jurisdiction, and certain sectors are slower to adapt. Technological advancements and [data analytics](../d/data_analytics.md) may both provide new opportunities and pose risks for gender equality in [finance](../f/finance.md).
 
 ### Fintech and Digital Financial Services
 
-Fintech companies like [Acorns](https://www.acorns.com/) and [Ellevest](https://www.ellevest.com/) are using technology to address gender [gaps](../g/gap.md) in [finance](../f/finance.md). Ellevest, in particular, is a digital investment platform tailored specifically for women, challenging traditional financial paradigms and encouraging women to take control of their financial [futures](../f/futures.md).
+Fintech companies like Acorns and Ellevest are using technology to address gender [gaps](../g/gap.md) in [finance](../f/finance.md). Ellevest, in particular, is a digital investment platform tailored specifically for women, challenging traditional financial paradigms and encouraging women to take control of their financial [futures](../f/futures.md).
 
 ### Algorithmic Bias
 

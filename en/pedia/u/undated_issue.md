@@ -51,10 +51,10 @@ Several corporations [issue](../i/issue.md) [perpetual bonds](../p/perpetual_bon
 Undated issues continue to have relevance in today's [financial markets](../f/financial_market.md), both for issuers and investors. Governments and corporations utilize these instruments to manage [debt](../d/debt.md) and [capital](../c/capital.md) structures effectively. For investors, undated issues remain an appealing option for generating long-term [income](../i/income.md).
 
 ### Technological Advancements
-Financial technology (FinTech) has made trading and managing undated issues easier. Platforms like [Bloomberg](https://www.bloomberg.com) and [Reuters](https://www.reuters.com) [offer](../o/offer.md) comprehensive tools for analyzing and trading [perpetual bonds](../p/perpetual_bonds.md).
+Financial technology (FinTech) has made trading and managing undated issues easier. Platforms like Bloomberg and Reuters [offer](../o/offer.md) comprehensive tools for analyzing and trading [perpetual bonds](../p/perpetual_bonds.md).
 
 ### Algorithmic Trading
-The advancement of [algorithmic trading](../a/accountability.md) also impacts the [market](../m/market.md) for undated issues. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can identify and exploit [arbitrage opportunities](../a/arbitrage_opportunities.md), enhancing [liquidity](../l/liquidity.md) and [market efficiency](../m/market_efficiency.md).
+The advancement of [algorithmic trading](../a/algorithmic_trading.md) also impacts the [market](../m/market.md) for undated issues. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can identify and exploit [arbitrage opportunities](../a/arbitrage_opportunities.md), enhancing [liquidity](../l/liquidity.md) and [market efficiency](../m/market_efficiency.md).
 
 ## Legal and Regulatory Considerations
 

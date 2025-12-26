@@ -4,7 +4,7 @@ Form 1099-DIV, Dividends and Distributions, is an IRS tax form used by banks and
 
 ## Overview
 
-Form 1099-DIV is crucial for taxpayers who have [investment income](../i/investment_income.md) from [stocks](../s/stock.md), mutual funds, or other entities that pay dividends. The form summarizes various types of distributions that shareholders receive from their investments during a tax year. 
+Form 1099-DIV is crucial for taxpayers who have [investment income](../i/investment_income.md) from [stocks](../s/stock.md), mutual funds, or other entities that pay dividends. The form summarizes various types of distributions that shareholders receive from their investments during a tax year.
 
 ### Key Sections of Form 1099-DIV
 
@@ -51,4 +51,4 @@ Recipients of Form 1099-DIV should retain the forms for at least three years as 
 
 ### Further Resources
 
-For more detailed instructions and examples, you can visit the IRS official [Form 1099-DIV page](https://www.irs.gov/forms-pubs/about-form-1099-div).
+For more detailed instructions and examples, you can

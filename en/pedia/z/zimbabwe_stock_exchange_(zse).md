@@ -127,7 +127,7 @@ The FIX (Financial Information [Exchange](../e/exchange.md)) protocol is employe
 
 ### Risk Management
 
-[Algorithmic trading](../a/accountability.md) on the ZSE is subject to stringent [risk management](../r/risk_management.md) protocols. These include real-time monitoring, circuit breakers, and pre-[trade](../t/trade.md) [risk](../r/risk.md) checks to prevent [market](../m/market.md) abuse and ensure stability.
+[Algorithmic trading](../a/algorithmic_trading.md) on the ZSE is subject to stringent [risk management](../r/risk_management.md) protocols. These include real-time monitoring, circuit breakers, and pre-[trade](../t/trade.md) [risk](../r/risk.md) checks to prevent [market](../m/market.md) abuse and ensure stability.
 
 ## Challenges and Opportunities
 
@@ -153,7 +153,6 @@ Increasing public awareness about [stock market](../s/stock_market.md) investmen
 
 ## Conclusion
 
-The Zimbabwe Stock [Exchange](../e/exchange.md) remains a cornerstone of Zimbabwe's financial ecosystem. Despite facing challenges like [liquidity](../l/liquidity.md) constraints and regulatory complexities, it has made significant strides in technological adoption and [market](../m/market.md) development. With ongoing efforts to diversify [market](../m/market.md) offerings and enhance regulatory standards, the ZSE is poised to play an even more significant role in Zimbabwe's [economic growth](../e/economic_growth.md) and [financial inclusion](../f/financial_inclusion.md) initiatives. 
+The Zimbabwe Stock [Exchange](../e/exchange.md) remains a cornerstone of Zimbabwe's financial ecosystem. Despite facing challenges like [liquidity](../l/liquidity.md) constraints and regulatory complexities, it has made significant strides in technological adoption and [market](../m/market.md) development. With ongoing efforts to diversify [market](../m/market.md) offerings and enhance regulatory standards, the ZSE is poised to play an even more significant role in Zimbabwe's [economic growth](../e/economic_growth.md) and [financial inclusion](../f/financial_inclusion.md) initiatives.
 
-For the latest updates and more detailed information, visit the [Zimbabwe Stock Exchange official website](http://www.zse.co.zw/).
-
+For the latest updates and more detailed information,

@@ -44,7 +44,7 @@ HOLDRs enjoyed a period of popularity, particularly during the late 1990s and ea
 
 ### Technological Advancements
 
-The rise of [algorithmic trading](../a/accountability.md) and other technological advancements in the [financial markets](../f/financial_market.md) further contributed to the decline of HOLDRs. ETFs benefited from these advancements due to their greater appeal in terms of [liquidity](../l/liquidity.md) and flexibility.
+The rise of [algorithmic trading](../a/algorithmic_trading.md) and other technological advancements in the [financial markets](../f/financial_market.md) further contributed to the decline of HOLDRs. ETFs benefited from these advancements due to their greater appeal in terms of [liquidity](../l/liquidity.md) and flexibility.
 
 ### Regulatory Changes
 

@@ -34,12 +34,10 @@ The Orphan Drug [Credit](../c/credit.md) may interact with other tax provisions,
 
 ## Legislative Changes and Future Outlook
 
-The Orphan Drug [Credit](../c/credit.md) has faced various legislative changes since its inception. The reduction from 50% to 25% qualified expenses under the Tax Cuts and Jobs Act of 2017 was significant and has been a subject of debate. Advocates argue that further reductions could stifle innovation in an area that desperately needs it. 
+The Orphan Drug [Credit](../c/credit.md) has faced various legislative changes since its inception. The reduction from 50% to 25% qualified expenses under the Tax Cuts and Jobs Act of 2017 was significant and has been a subject of debate. Advocates argue that further reductions could stifle innovation in an area that desperately needs it.
 
 There is ongoing legislative [interest](../i/interest.md) in either restoring the [credit](../c/credit.md) to its previous level or further reducing it, depending on the political and economic climate. Pharmaceutical companies and lobbyists continue to play a crucial role in shaping these policies.
 
 ## Conclusion
 
 The Orphan Drug [Credit](../c/credit.md) remains a vital tool in the U.S. healthcare landscape, encouraging the development of treatments for rare diseases. Despite legislative changes, it continues to [offer](../o/offer.md) significant financial incentives to pharmaceutical companies willing to invest in these critical but often financially nonviable areas of drug research and development.
-
-For more information, you can visit the [FDA's Orphan Drug Designation page](https://www.fda.gov/industry/designating-orphan-product-drugs-and-biological-products).

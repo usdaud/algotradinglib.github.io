@@ -57,9 +57,9 @@ Many financial institutions and firms provide tools and platforms for [rate of r
 - **[FactSet](../f/factset.md)**: Provides detailed [performance attribution](../p/performance_attribution.md) and [risk analysis](../r/risk_analysis.md) capabilities.
 
 For more details, [check](../c/check.md) the following company pages:
-- [Bloomberg Terminal: Bloomberg Professional Services](https://www.bloomberg.com/professional/)
-- [Morningstar Direct](https://www.morningstar.com/products/direct)
-- [FactSet](https://www.factset.com/)
+- Bloomberg Terminal: Bloomberg Professional Services
+- Morningstar Direct
+- FactSet
 
 ### Conclusion
 

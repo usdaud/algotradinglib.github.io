@@ -48,7 +48,7 @@ Competitors include:
 
 - **[Binance](../b/binance.md):** Known for its extensive list of supported cryptocurrencies and low trading fees.
 - **[Coinbase](../c/coinbase.md) Pro:** Offers high [security](../s/security.md) and a user-friendly experience, primarily for users in the United States.
-- **Huobi:** Provides a vast [range](../r/range.md) of cryptocurrencies and advanced trading tools.
+- **HTX (formerly Huobi):** Provides a vast [range](../r/range.md) of cryptocurrencies and advanced trading tools.
 - **[Bitfinex](../b/bitfinex.md):** Known for its [liquidity](../l/liquidity.md) and [range](../r/range.md) of advanced trading [options](../o/options.md).
 
 Despite the fierce competition, VinDAX has carved out its niche by targeting emerging markets, [offering](../o/offering.md) competitive fees, and providing a highly secure [trading environment](../t/trading_environment.md).
@@ -70,7 +70,7 @@ VinDAX continues to develop its platform, introducing new features and improveme
 
 ## Technical Information for Algorithmic Trading
 
-VinDAX provides an API (Application Programming Interface) that enables [algorithmic trading](../a/accountability.md). This is suitable for traders who prefer to automate their [trading strategies](../t/trading_strategies.md).
+VinDAX provides an API (Application Programming Interface) that enables [algorithmic trading](../a/algorithmic_trading.md). This is suitable for traders who prefer to automate their [trading strategies](../t/trading_strategies.md).
 
 ### API Features
 
@@ -81,10 +81,10 @@ VinDAX provides an API (Application Programming Interface) that enables [algorit
 
 ### API Documentation
 
-VinDAX offers comprehensive API documentation to help developers and traders integrate their algorithms with the platform. More details on API usage can be found [here](https://apidoc.vindax.com/).
+VinDAX offers comprehensive API documentation to help developers and traders integrate their algorithms with the platform. More details on API usage can be found here.
 
 ## Conclusion
 
 VinDAX is a promising cryptocurrency [exchange](../e/exchange.md) [offering](../o/offering.md) a [robust](../r/robust.md) platform for trading digital assets. With its focus on [security](../s/security.md), extensive list of trading pairs, competitive fees, and user-friendly interface, it presents a compelling option for cryptocurrency traders and investors. As it continues to grow and innovate, VinDAX aims to remain at the forefront of the cryptocurrency [exchange](../e/exchange.md) [industry](../i/industry.md).
 
-For more detailed information, you can visit the VinDAX official website at [vindax.com](https://vindax.com/).
+For more detailed information,com.

@@ -99,13 +99,13 @@ Through the use of [forward contracts](../f/forward_contracts.md), entities lock
 Several major financial institutions and platforms [offer](../o/offer.md) tools and services to manage and exploit IRD in [trading strategies](../t/trading_strategies.md).
 
 ### Saxo Bank
-[Saxo Bank](../s/saxo_bank.md) (https://www.[home](../h/home.md).saxo/) provides various trading tools and platforms that allow investors to take advantage of IRD through diverse financial products, including forex, bonds, and [derivatives](../d/derivatives.md).
+[Saxo Bank](../s/saxo_bank.md) ( provides various trading tools and platforms that allow investors to take advantage of IRD through diverse financial products, including forex, bonds, and [derivatives](../d/derivatives.md).
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) offers a wide [range](../r/range.md) of financial instruments and sophisticated tools to calculate, analyze, and act upon [interest rate](../i/interest_rate.md) differentials, making it easier for traders to implement strategies like carry trades.
+[Interactive Brokers](../i/interactive_brokers.md) ( offers a wide [range](../r/range.md) of financial instruments and sophisticated tools to calculate, analyze, and act upon [interest rate](../i/interest_rate.md) differentials, making it easier for traders to implement strategies like carry trades.
 
 ### Bloomberg Terminal
-The [Bloomberg Terminal](../b/bloomberg_terminal.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/) offers comprehensive data and analytics on [interest](../i/interest.md) rates worldwide, facilitating detailed analyses of IRDs and their potential impacts on global [financial markets](../f/financial_market.md).
+The [Bloomberg Terminal](../b/bloomberg_terminal.md) ( offers comprehensive data and analytics on [interest](../i/interest.md) rates worldwide, facilitating detailed analyses of IRDs and their potential impacts on global [financial markets](../f/financial_market.md).
 
 ## Conclusion
 

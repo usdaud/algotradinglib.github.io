@@ -42,7 +42,7 @@ Sector [investing](../i/investing.md) focuses on particular sectors expected to 
 ## Advantages of Long-Only Strategies
 
 ### 1. Simplicity
-Long-only strategies are straightforward, involving only the purchase of assets. This simplicity makes it accessible for retail investors and reduces the need for complex analysis and trading mechanisms. 
+Long-only strategies are straightforward, involving only the purchase of assets. This simplicity makes it accessible for retail investors and reduces the need for complex analysis and trading mechanisms.
 
 ### 2. Lower Risk
 Without the complexities of short-selling, long-only strategies typically carry less [risk](../r/risk.md). Short positions expose investors to unlimited losses due to the theoretically infinite potential for [asset](../a/asset.md) prices to rise.
@@ -73,7 +73,7 @@ Long investors might over-concentrate in certain high-performing industries or s
 ## Practical Implementations of Long-Only Strategies
 
 ### 1. Mutual Funds
-Mutual funds are pooled investment vehicles managed by professional [money](../m/money.md) managers. They allocate [capital](../c/capital.md) toward various assets, following long-only strategies. Examples include [value](../v/value.md) funds, growth funds, and sector-specific funds. 
+Mutual funds are pooled investment vehicles managed by professional [money](../m/money.md) managers. They allocate [capital](../c/capital.md) toward various assets, following long-only strategies. Examples include [value](../v/value.md) funds, growth funds, and sector-specific funds.
 
 ### 2. Exchange-Traded Funds (ETFs)
 ETFs [offer](../o/offer.md) a practical way to implement long-only strategies with the added advantage of [liquidity](../l/liquidity.md) and lower management fees. Examples include SPDR S&P 500 ETF (SPY) for broad [market exposure](../m/market_exposure.md) and [iShares](../i/ishares.md) MSCI EAFE ETF (EFA) for international markets.
@@ -87,16 +87,16 @@ Investors can [leverage](../l/leverage.md) long-only strategies through managed 
 ## Companies Offering Long-Only Investment Services
 
 ### 1. Vanguard Group
-Vanguard Group is renowned for its mutual funds and ETFs, [offering](../o/offering.md) a broad [range](../r/range.md) of long-only investment [options](../o/options.md) emphasizing low fees and long-term growth. [Vanguard](https://www.vanguard.com)
+Vanguard Group is renowned for its mutual funds and ETFs, [offering](../o/offering.md) a broad [range](../r/range.md) of long-only investment [options](../o/options.md) emphasizing low fees and long-term growth. Vanguard
 
 ### 2. BlackRock
-BlackRock, the world’s largest [asset](../a/asset.md) manager, offers numerous ETFs and investment funds adhering to long-only strategies. BlackRock’s [iShares](../i/ishares.md) family of ETFs is particularly popular. [BlackRock](https://www.blackrock.com)
+BlackRock, the world’s largest [asset](../a/asset.md) manager, offers numerous ETFs and investment funds adhering to long-only strategies. BlackRock’s [iShares](../i/ishares.md) family of ETFs is particularly popular. BlackRock
 
 ### 3. Fidelity Investments
-Fidelity provides a wide array of mutual funds and [brokerage services](../b/brokerage_services.md) tailored to long-only strategies, backed by extensive research and [active management](../a/active_management.md). [Fidelity](https://www.fidelity.com)
+Fidelity provides a wide array of mutual funds and [brokerage services](../b/brokerage_services.md) tailored to long-only strategies, backed by extensive research and [active management](../a/active_management.md). Fidelity
 
 ### 4. Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) offers various investment products, including ETFs, mutual funds, and advisory services focused on long-only strategies to suit different [investor](../i/investor.md) profiles. [Charles Schwab](https://www.schwab.com)
+[Charles Schwab](../c/charles_schwab.md) offers various investment products, including ETFs, mutual funds, and advisory services focused on long-only strategies to suit different [investor](../i/investor.md) profiles. Charles Schwab
 
 ## Conclusion
 

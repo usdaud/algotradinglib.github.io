@@ -50,13 +50,13 @@ Well-structured hierarchies facilitate efficient decision-making and resource al
 
 GE exemplifies a traditional corporate hierarchy. At the top stands the board of directors, followed by a strong executive team featuring roles such as CEO, CFO, and COO. GE’s hierarchical structure is designed to support its vast array of operations across numerous industries, from aviation to healthcare.
 
-For more detailed information, you can visit [GE's official site](https://www.ge.com/).
+For more detailed information, you can
 
 ### IBM
 
 IBM’s corporate hierarchy is another excellent example. The company employs a tiered structure comprising a board of directors, senior executives, and various levels of management, all aimed at fostering innovation and maintaining [operational efficiency](../o/operational_efficiency_in_trading.md) across its global operations.
 
-For more detailed information, you can visit [IBM's official site](https://www.ibm.com/).
+For more detailed information, you can
 
 ## Challenges of Corporate Hierarchy
 
@@ -83,7 +83,7 @@ Decentralizing decision-making processes is another emerging [trend](../t/trend.
 ## Future of Corporate Hierarchies
 
 ### 1. Technological Integration
-The integration of AI and [machine learning](../m/machine_learning.md) into corporate hierarchies can streamline decision-making processes and improve [operational efficiency](../o/operational_efficiency_in_trading.md). 
+The integration of AI and [machine learning](../m/machine_learning.md) into corporate hierarchies can streamline decision-making processes and improve [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### 2. Agile Management
 The future may see a rise in agile management practices, which accommodate rapid changes in the [business](../b/business.md) environment by emphasizing flexibility, collaboration, and [customer](../c/customer.md) focus.

@@ -6,7 +6,7 @@ The Series 24, also known as the General Securities [Principal](../p/principal.m
 
 The Series 24 exam consists of 150 [multiple](../m/multiple.md)-choice questions that cover a comprehensive [range](../r/range.md) of topics necessary for managing a [broker-dealer](../b/broker-dealer.md). Candidates are given three hours and 45 minutes to complete the exam, and a passing score is 70%. The key areas evaluated in the Series 24 exam include:
 
-1. **Supervision of [Investment Banking](../i/investment_banking.md), [Underwriting](../u/underwriting.md) Activities, and Research** 
+1. **Supervision of [Investment Banking](../i/investment_banking.md), [Underwriting](../u/underwriting.md) Activities, and Research**
 2. **Supervision of Trading and [Market](../m/market.md) Making Activities**
 3. **Supervision of Brokerage Office Operations**
 4. **Sales Supervision, General Supervision of Employees, Regulatory Framework of BD**
@@ -64,9 +64,9 @@ To qualify for the Series 24 exam, candidates must first pass the [Series 7](../
 
 Given the breadth of the material covered in the Series 24 exam, thorough preparation is essential. FINRA provides a content outline to guide candidates through the key areas needed for the test. Several third-party providers also [offer](../o/offer.md) preparatory courses, practice exams, and study guides designed specifically for the Series 24 exam. Popular providers include:
 
-- **Kaplan Financial Education**: Offers comprehensive study packages, practice exams, and live or on-[demand](../d/demand.md) courses. [Kaplan Financial Education](https://www.kaplanfinancial.com/finra)
-- **STC (Securities Training [Corporation](../c/corporation.md))**: Provides in-depth guides, practice tests, and classroom instruction [options](../o/options.md). [Securities Training Corporation](https://www.stcusa.com)
-- **ExamFX**: Features online courses, interactive learning tools, and simulated exams. [ExamFX](https://www.examfx.com)
+- **Kaplan Financial Education**: Offers comprehensive study packages, practice exams, and live or on-[demand](../d/demand.md) courses. Kaplan Financial Education
+- **STC (Securities Training [Corporation](../c/corporation.md))**: Provides in-depth guides, practice tests, and classroom instruction [options](../o/options.md). Securities Training Corporation
+- **ExamFX**: Features online courses, interactive learning tools, and simulated exams. ExamFX
 
 ## Importance of the Series 24 License
 
@@ -105,4 +105,4 @@ Candidates receive an initial pass or [fail](../f/fail.md) status immediately up
 
 The Series 24 exam plays an essential role in preparing financial professionals for supervisory roles within the securities [industry](../i/industry.md). Its comprehensive coverage of [investment banking](../i/investment_banking.md), trading, brokerage operations, sales supervision, and financial responsibility ensures that candidates are well-equipped to maintain the integrity and compliance of their firms. As the landscape of the financial [industry](../i/industry.md) continues to evolve, the Series 24 license remains a cornerstone for those striving to manage and lead within this dynamic sector.
 
-To summarize, obtaining the Series 24 license is not just about passing an exam; it's about committing to a higher standard of professional conduct and regulatory compliance, thereby fostering a safer and more transparent investment environment for all participants. For more detailed information and resources, candidates can refer to the FINRA website: [FINRA](https://www.finra.org).
+To summarize, obtaining the Series 24 license is not just about passing an exam; it's about committing to a higher standard of professional conduct and regulatory compliance, thereby fostering a safer and more transparent investment environment for all participants. For more detailed information and resources, candidates can refer to the FINRA online platform: FINRA.

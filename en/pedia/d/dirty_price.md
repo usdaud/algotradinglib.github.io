@@ -4,7 +4,7 @@ Dirty price is a term used in [bond](../b/bond.md) [investing](../i/investing.md
 
 ## Understanding Bond Pricing
 
-Bonds are a type of fixed-[income](../i/income.md) investment in which an [investor](../i/investor.md) loans [money](../m/money.md) to an entity (typically corporate or governmental) for a defined period at a variable or [fixed interest rate](../f/fixed_interest_rate.md). When a [bond](../b/bond.md) is sold, its price can be quoted in two ways: clean price and dirty price. 
+Bonds are a type of fixed-[income](../i/income.md) investment in which an [investor](../i/investor.md) loans [money](../m/money.md) to an entity (typically corporate or governmental) for a defined period at a variable or [fixed interest rate](../f/fixed_interest_rate.md). When a [bond](../b/bond.md) is sold, its price can be quoted in two ways: clean price and dirty price.
 
 The **clean price** of a [bond](../b/bond.md) is the [market price](../m/market_price.md) excluding any [accrued interest](../a/accrued_interest.md). This is the price typically quoted in [bond](../b/bond.md) markets. However, the [investor](../i/investor.md) purchasing the [bond](../b/bond.md) [will](../w/will.md) also have to pay the [accrued interest](../a/accrued_interest.md), resulting in what is known as the dirty price.
 
@@ -64,7 +64,7 @@ The dirty price is an essential concept in the world of [bond](../b/bond.md) [in
 
 ## References
 
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
-- [FINRA](https://www.finra.org)
-- [SEC](https://www.sec.gov)
+- Interactive Brokers
+- Bloomberg Terminal
+- FINRA
+- SEC

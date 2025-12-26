@@ -47,7 +47,7 @@ If an objection is raised, the court may [hold](../h/hold.md) a hearing to decid
 
 ## Technological Implications in Financial Systems
 
-With the advent of technology in the [financial sector](../f/financial_sector.md), particularly in fintech and [algorithmic trading](../a/accountability.md), the implementation of Writs of [Execution](../e/execution.md) has seen some advancements. Platforms that [handle](../h/handle.md) the [execution](../e/execution.md) of financial judgments now often integrate with banking systems and digital [asset](../a/asset.md) exchanges to automate the process of [asset](../a/asset.md) seizure. For example, fintech solutions can automate wage garnishments and [bank](../b/bank.md) levies by interfacing directly with employer [payroll](../p/payroll.md) systems and banking networks using APIs.
+With the advent of technology in the [financial sector](../f/financial_sector.md), particularly in fintech and [algorithmic trading](../a/algorithmic_trading.md), the implementation of Writs of [Execution](../e/execution.md) has seen some advancements. Platforms that [handle](../h/handle.md) the [execution](../e/execution.md) of financial judgments now often integrate with banking systems and digital [asset](../a/asset.md) exchanges to automate the process of [asset](../a/asset.md) seizure. For example, fintech solutions can automate wage garnishments and [bank](../b/bank.md) levies by interfacing directly with employer [payroll](../p/payroll.md) systems and banking networks using APIs.
 
 ## Relevance to Financial Institutions
 
@@ -72,7 +72,7 @@ Consider the case of ABC Corp, a company that won a lawsuit against XYZ Ltd for 
 In an age where financial services are driven by automation and digital transformation, companies are increasingly adopting compliance software. These systems streamline the process of handling Writs of [Execution](../e/execution.md), ensuring timely responses and adherence to legal requirements. For example, a fintech app may automatically route the [writ](../w/writ.md) to the appropriate department and generate notifications about impending actions required to comply.
 
 ## Resource Links (Non-Wikipedia)
-- [Nolo: Judgment Collections](https://www.nolo.com/legal-encyclopedia/judgment-collections-writ-execution.html)
-- [Sheriff's Office - Civil Processes](https://www.sfsheriff.com/your-sheriff/civil-processes)
+- Nolo: Judgment Collections
+- Sheriff's Office - Civil Processes
 
 Understanding Writs of [Execution](../e/execution.md) and their place in the legal enforcement of court judgments is crucial for both creditors seeking [debt](../d/debt.md) [repayment](../r/repayment.md) and debtors defending against potential [asset](../a/asset.md) seizure. The evolving landscape of fintech and digital financial services continues to impact the [efficiency](../e/efficiency.md) and [execution](../e/execution.md) of these legal instruments, underscoring the importance of staying updated with technological and regulatory changes.

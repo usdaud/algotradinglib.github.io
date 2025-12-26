@@ -6,7 +6,7 @@
 
 ## The Asian Development Bank: Overview
 
-The Asian Development [Bank](../b/bank.md) (ADB) is a regional development [bank](../b/bank.md) established in 1966 with the primary goal of fostering [economic growth](../e/economic_growth.md) and cooperation in the Asia-Pacific region. Headquartered in Mandaluyong, Metro Manila, Philippines, ADB's operations span across [infrastructure](../i/infrastructure.md), health, education, and financial stability among its member countries. For more information, you can visit their [official website](https://www.adb.org).
+The Asian Development [Bank](../b/bank.md) (ADB) is a regional development [bank](../b/bank.md) established in 1966 with the primary goal of fostering [economic growth](../e/economic_growth.md) and cooperation in the Asia-Pacific region. Headquartered in Mandaluyong, Metro Manila, Philippines, ADB's operations span across [infrastructure](../i/infrastructure.md), health, education, and financial stability among its member countries.
 
 ## ADB's Role in Financial Market Infrastructure
 
@@ -36,7 +36,7 @@ ADB's projects that aim at developing digital financial [infrastructure](../i/in
 
 ADB also places a strong emphasis on technological education and appropriately skilled workforces. For example, the “Skills for Employment Investment Program” in Bangladesh, aims at narrowing the skills gap in ICT. As more professionals get educated in technology and [data science](../d/data_science_in_trading.md), the talent pool for developing and maintaining [algorithmic trading](../a/accountability.md) systems deepens.
 
-### Improving Cybersecurity 
+### Improving Cybersecurity
 
 ADB’s initiatives in enhancing cybersecurity measures are crucial for the safe functioning of [algorithmic trading](../a/accountability.md) systems. For example, their projects in Vietnam and Indonesia focus on building cybersecurity capacity within financial institutions, ensuring that the technological backbone of algo-trading remains secure from cyber threats.
 
@@ -56,7 +56,7 @@ The "Vietnam [Financial Sector](../f/financial_sector.md) Modernization and Info
 
 ## Challenges and Opportunities
 
-### Challenges 
+### Challenges
 
 - **Regulatory Risks**: Emerging markets are often met with nascent or evolving regulatory frameworks. The dynamic nature of [algorithmic trading](../a/accountability.md) requires continuously updated oversight to mitigate systemic risks and [market](../m/market.md) abuse.
 
@@ -72,4 +72,3 @@ The "Vietnam [Financial Sector](../f/financial_sector.md) Modernization and Info
 
 [Algorithmic trading](../a/accountability.md) thrives on the pillars of advanced financial and technological infrastructures. While the Asian Development [Bank](../b/bank.md) does not directly engage in trading activities, its extensive work in improving [financial markets](../f/financial_market.md), regulatory frameworks, and technological [infrastructure](../i/infrastructure.md) substantially influences the environment in which algo-trading operates. As ADB continues to advance its developmental projects across the Asia-Pacific, the indirect benefits to the [algorithmic trading](../a/accountability.md) ecosystem become increasingly apparent, paving the way for more [robust](../r/robust.md) and efficient [financial markets](../f/financial_market.md) in the region.
 
-For more details, please refer to [ADB’s official website](https://www.adb.org).

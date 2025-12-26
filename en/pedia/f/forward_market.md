@@ -6,12 +6,12 @@ The forward [market](../m/market.md) is a financial [market](../m/market.md) whe
 
 ### Forward Contracts
 
-A [forward contract](../f/forward_contract.md) is a customized agreement between two parties to buy or sell an [asset](../a/asset.md) at a specified future date for a price that is agreed upon today. Unlike [futures contracts](../f/futures_contracts.md), [forward contracts](../f/forward_contracts.md) are not standardized or traded on centralized exchanges, making them more flexible but also subjecting them to higher [counterparty risk](../c/counterparty_risk.md). 
+A [forward contract](../f/forward_contract.md) is a customized agreement between two parties to buy or sell an [asset](../a/asset.md) at a specified future date for a price that is agreed upon today. Unlike [futures contracts](../f/futures_contracts.md), [forward contracts](../f/forward_contracts.md) are not standardized or traded on centralized exchanges, making them more flexible but also subjecting them to higher [counterparty risk](../c/counterparty_risk.md).
 
 ### Participants
 
 The primary participants in the forward [market](../m/market.md) include:
-- **Corporations:** Companies use [forward contracts](../f/forward_contracts.md) to [hedge](../h/hedge.md) against future price fluctuations in currencies and [raw materials](../r/raw_materials.md). 
+- **Corporations:** Companies use [forward contracts](../f/forward_contracts.md) to [hedge](../h/hedge.md) against future price fluctuations in currencies and [raw materials](../r/raw_materials.md).
 - **Financial Institutions:** Banks and other financial institutions often engage in [forward contracts](../f/forward_contracts.md) to manage their exposure to [market](../m/market.md) risks.
 - **Investors:** Individual and institutional investors use [forward contracts](../f/forward_contracts.md) for speculative purposes to [profit](../p/profit.md) from anticipated [market](../m/market.md) movements.
 
@@ -74,7 +74,7 @@ The OTC nature of forward markets means they are less regulated compared to [exc
 The forward [market](../m/market.md) represents a critical component of the global [financial system](../f/financial_system.md), providing a mechanism for [risk management](../r/risk_management.md) and speculative opportunities. Customization, lack of daily settlement requirements, and absence of a centralized trading venue define its unique characteristics. Despite the advantages, forward markets come with their own set of risks, including [counterparty risk](../c/counterparty_risk.md), [liquidity](../l/liquidity.md) challenges, and regulatory concerns, which must be carefully managed by participants.
 
 For more information on how forward markets and [forward contracts](../f/forward_contracts.md) are utilized, especially in the context of [currency trading](../c/currency_trading_strategies.md), you can visit:
-- [General information on forward contracts by HSBC](https://www.business.hsbc.uk/en-gb/financing-and-credit/forward)
-- [Detailed explanation on forward market hedging strategies by JP Morgan](https://www.jpmorgan.com/global/treasury/corporate-forward-markets)
+- General information on forward contracts by HSBC
+- Detailed explanation on forward market hedging strategies by JP Morgan
 
 Understanding these concepts can equip traders, investors, and companies with the necessary tools to navigate the complexities of forward markets, ensuring they can effectively [hedge](../h/hedge.md) risks and [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities.

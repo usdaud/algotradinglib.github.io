@@ -6,7 +6,7 @@ A Schedule 13D is a form that must be filed with the Securities and [Exchange](.
 
 ### Definition
 
-Schedule 13D is a regulatory filing mandated by the US Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). The form is required under Section 13(d) of the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md). When a person or group surpasses the 5% ownership threshold in a publicly traded company, they must submit this form within ten days of the [transaction](../t/transaction.md). 
+Schedule 13D is a regulatory filing mandated by the US Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). The form is required under Section 13(d) of the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md). When a person or group surpasses the 5% ownership threshold in a publicly traded company, they must submit this form within ten days of the [transaction](../t/transaction.md).
 
 ### Purpose
 
@@ -69,63 +69,63 @@ Below is an illustrative example of what parts of Growth [Capital](../c/capital.
 
 1. **Cover Page**
 
-   ```
-   Name of Reporting Person: Growth [Capital](../c/capital.md) Partners, LP
-   Address of [Principal](../p/principal.md) [Business](../b/business.md) Office: 123 [Finance](../f/finance.md) Avenue, New York, NY 10001
-   Telephone Number: (212) 555-1234
-   Date of Event: March 1, 2023
-   [CUSIP Number](../c/cusip_number.md): [Unique Identifier for Tech Innovators Inc.]
-   ```
+ ```
+ Name of Reporting Person: Growth [Capital](../c/capital.md) Partners, LP
+ Address of [Principal](../p/principal.md) [Business](../b/business.md) Office: 123 [Finance](../f/finance.md) Avenue, New York, NY 10001
+ Telephone Number: (212) 555-1234
+ Date of Event: March 1, 2023
+ [CUSIP Number](../c/cusip_number.md): [Unique Identifier for Tech Innovators Inc.]
+ ```
 
 2. **Item 1. [Security](../s/security.md) and [Issuer](../i/issuer.md)**
-   ```
-   Title of [Security](../s/security.md): [Common Stock](../c/common_stock.md)
-   Name of [Issuer](../i/issuer.md): Tech Innovators Inc.
-   Address of [Issuer](../i/issuer.md)'s [Principal](../p/principal.md) Executive Offices: 456 Technology Road, San Francisco, CA 94105
-   ```
+ ```
+ Title of [Security](../s/security.md): [Common Stock](../c/common_stock.md)
+ Name of [Issuer](../i/issuer.md): Tech Innovators Inc.
+ Address of [Issuer](../i/issuer.md)'s [Principal](../p/principal.md) Executive Offices: 456 Technology Road, San Francisco, CA 94105
+ ```
 
 3. **Item 2. Identity and Background**
-   ```
-   a) Name: Growth [Capital](../c/capital.md) Partners, LP
-   b) State of Formation: Delaware
-   c) [Principal](../p/principal.md) Office: 123 [Finance](../f/finance.md) Avenue, New York, NY 10001
-   d) Occupation: [Private Investment Fund](../p/private_investment_fund.md)
-   e) [Principal](../p/principal.md) [Business](../b/business.md): [Investment Management](../i/investment_management.md)
-   f) No criminal convictions
-   g) Manager of the [Fund](../f/fund.md): John Doe, CEO
-   ```
+ ```
+ a) Name: Growth [Capital](../c/capital.md) Partners, LP
+ b) State of Formation: Delaware
+ c) [Principal](../p/principal.md) Office: 123 [Finance](../f/finance.md) Avenue, New York, NY 10001
+ d) Occupation: [Private Investment Fund](../p/private_investment_fund.md)
+ e) [Principal](../p/principal.md) [Business](../b/business.md): [Investment Management](../i/investment_management.md)
+ f) No criminal convictions
+ g) Manager of the [Fund](../f/fund.md): John Doe, CEO
+ ```
 
 4. **Item 3. Source and Amount of Funds or Other Consideration**
-   ```
-   The $50 million used to purchase the [shares](../s/shares.md) of Tech Innovators Inc. was derived from Growth [Capital](../c/capital.md) Partners, LP’s general cash reserves.
-   ```
+ ```
+ The $50 million used to purchase the [shares](../s/shares.md) of Tech Innovators Inc. was derived from Growth [Capital](../c/capital.md) Partners, LP’s general cash reserves.
+ ```
 
 5. **Item 4. Purpose of [Transaction](../t/transaction.md)**
-   ```
-   The purpose of the [acquisition](../a/acquisition.md) is investment. Growth [Capital](../c/capital.md) Partners, LP has no current plans or proposals that would result in any material change to the [business](../b/business.md) or corporate structure of Tech Innovators Inc.
-   ```
+ ```
+ The purpose of the [acquisition](../a/acquisition.md) is investment. Growth [Capital](../c/capital.md) Partners, LP has no current plans or proposals that would result in any material change to the [business](../b/business.md) or corporate structure of Tech Innovators Inc.
+ ```
 
 6. **Item 5. [Interest](../i/interest.md) in Securities of the [Issuer](../i/issuer.md)**
-   ```
-   a) [Shares](../s/shares.md) purchased: 1,000,000 [shares](../s/shares.md)
-   b) Percentage of class: 6%
-   c) Number of [shares](../s/shares.md) beneficially owned: 1,000,000
-   d) Sole power to dispose: 1,000,000 [shares](../s/shares.md)
-   ```
+ ```
+ a) [Shares](../s/shares.md) purchased: 1,000,000 [shares](../s/shares.md)
+ b) Percentage of class: 6%
+ c) Number of [shares](../s/shares.md) beneficially owned: 1,000,000
+ d) Sole power to dispose: 1,000,000 [shares](../s/shares.md)
+ ```
 
-7. **Item 6. Contracts, Arrangements, Understandings, or Relationships with Respect to Securities of the [Issuer](../i/issuer.md)** 
-   ```
-   None.
-   ```
+7. **Item 6. Contracts, Arrangements, Understandings, or Relationships with Respect to Securities of the [Issuer](../i/issuer.md)**
+ ```
+ None.
+ ```
 
-8. **Item 7. Material to Be Filed as Exhibits** 
-   ```
-   Exhibit A: Purchase agreement dated March 1, 2023.
-   ```
+8. **Item 7. Material to Be Filed as Exhibits**
+ ```
+ Exhibit A: Purchase agreement dated March 1, 2023.
+ ```
 
 ### Real-World Example
 
-A real-world example of a Schedule 13D filing can be found through the SEC’s EDGAR database. For instance, when billionaire [investor](../i/investor.md) Carl Icahn acquired a significant stake in Apple Inc. in 2013, he filed a Schedule 13D detailing his purchase and intentions. You can view such filings on [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html).
+A real-world example of a Schedule 13D filing can be found through the SEC’s EDGAR database. For instance, when billionaire [investor](../i/investor.md) Carl Icahn acquired a significant stake in Apple Inc. in 2013, he filed a Schedule 13D detailing his purchase and intentions. You can view such filings on SEC EDGAR.
 
 ## Conclusion
 

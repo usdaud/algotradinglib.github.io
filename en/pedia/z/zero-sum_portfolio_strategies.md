@@ -28,28 +28,28 @@ In a [zero-sum game](../z/zero-sum_game.md), the total [wealth](../w/wealth.md) 
 
 Several reputable financial institutions and [proprietary trading](../p/proprietary_trading.md) firms employ zero-sum strategies to maintain edge and manage [risk](../r/risk.md) effectively. Below are a few examples:
 
-1. **Two Sigma Investments**: [Two Sigma](https://www.twosigma.com/) is well-known for employing data-driven strategies, including zero-sum mechanisms to optimize [portfolio performance](../p/portfolio_performance.md).
+1. **Two Sigma Investments**: Two Sigma is well-known for employing data-driven strategies, including zero-sum mechanisms to optimize [portfolio performance](../p/portfolio_performance.md).
 
-2. **Citadel Securities**: [Citadel Securities](https://www.citadelsecurities.com/) uses sophisticated algorithmic models that incorporate zero-sum components to balance profitability and [risk](../r/risk.md).
+2. **Citadel Securities**: Citadel Securities uses sophisticated algorithmic models that incorporate zero-sum components to balance profitability and [risk](../r/risk.md).
 
-3. **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com/), an acclaimed [hedge fund](../h/hedge_fund.md), utilizes [quantitative models](../q/quantitative_models.md) including zero-sum strategies to generate consistent [market](../m/market.md) returns.
+3. **Renaissance Technologies**: Renaissance Technologies, an acclaimed [hedge fund](../h/hedge_fund.md), utilizes [quantitative models](../q/quantitative_models.md) including zero-sum strategies to generate consistent [market](../m/market.md) returns.
 
 ## Risk and Reward Analysis
 
 ### Advantages:
 
 1. **[Risk](../r/risk.md) Mitigation:** By balancing exposure, these strategies inherently mitigate risks, thus providing a buffer during [market](../m/market.md) volatilities.
-  
+
 2. **Stable Returns:** With the potential offsetting gains and losses, the strategies aim to achieve more stable [return](../r/return.md) profiles, essential for [long-term investments](../l/long-term_investments.md).
-  
+
 3. **[Market Efficiency](../m/market_efficiency.md):** Zero-sum strategies, such as [arbitrage](../a/arbitrage.md), contribute to [market efficiency](../m/market_efficiency.md) by correcting mispriced assets and balancing [demand](../d/demand.md) and [supply](../s/supply.md).
 
 ### Disadvantages:
 
 1. **Complexity:** These strategies require sophisticated knowledge of [financial markets](../f/financial_market.md), rigorous statistical analysis, and technology for implementation, resulting in higher operational costs.
-  
+
 2. **[Capital](../c/capital.md) Requirement:** The need for significant [capital](../c/capital.md) to employ such strategies effectively, especially in [market neutral](../m/market_neutral.md) or [arbitrage](../a/arbitrage.md) strategies.
-  
+
 3. **Regulatory Concerns:** Increasing regulations potentially impact the feasibility of some strategies, such as [short selling](../s/short_selling.md), impacting their overall effectiveness.
 
 ## Case Studies

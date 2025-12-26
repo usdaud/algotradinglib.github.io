@@ -45,9 +45,9 @@ A common criticism of FTAs is the potential for [trade](../t/trade.md) diversion
 Critics argue that FTAs can lead to a loss of economic sovereignty for member countries. [Trade](../t/trade.md) agreements often require harmonization of certain regulations and policies, which can limit the ability of individual nations to enact policies that protect their own industries or address their particular economic concerns.
 
 ### 3. Inequalities Among Member Nations
-FTAs can sometimes exacerbate inequalities among member nations. Wealthier and more developed countries within an FTA tend to reap greater benefits due to their stronger economic positions and the ability to [capitalize](../c/capitalize.md) on new [market](../m/market.md) opportunities more effectively. 
+FTAs can sometimes exacerbate inequalities among member nations. Wealthier and more developed countries within an FTA tend to reap greater benefits due to their stronger economic positions and the ability to [capitalize](../c/capitalize.md) on new [market](../m/market.md) opportunities more effectively.
 
-### 4. Negative Impacts on Local Industries 
+### 4. Negative Impacts on Local Industries
 Exposure to increased competition from other member countries can harm local industries that are not fully competitive. Over time, this can lead to the erosion of certain domestic industries and job losses as companies unable to compete may be forced to downsize or shut down.
 
 ### 5. Environmental and Labor Concerns

@@ -6,7 +6,7 @@
 
 ### Gross Profit Margin
 
-[Gross profit margin](../g/gross_profit_margin.md) measures the percentage of [revenue](../r/revenue.md) that exceeds the cost of goods sold (COGS). It is calculated by subtracting COGS from total [revenue](../r/revenue.md) and dividing the result by total [revenue](../r/revenue.md), then multiplying by 100 to convert it to a percentage. 
+[Gross profit margin](../g/gross_profit_margin.md) measures the percentage of [revenue](../r/revenue.md) that exceeds the cost of goods sold (COGS). It is calculated by subtracting COGS from total [revenue](../r/revenue.md) and dividing the result by total [revenue](../r/revenue.md), then multiplying by 100 to convert it to a percentage.
 
 Formula:
 \[ \text{[Gross Profit Margin](../g/gross_profit_margin.md)} = \left( \frac{\text{[Revenue](../r/revenue.md)} - \text{COGS}}{\text{[Revenue](../r/revenue.md)}} \right) \times 100 \]
@@ -51,7 +51,7 @@ Companies can use [profit](../p/profit.md) [margin](../m/margin.md) metrics to m
 To calculate any type of [profit](../p/profit.md) [margin](../m/margin.md), you first need accurate data on [revenue](../r/revenue.md) and expenses. [Revenue](../r/revenue.md) comprises all incomes from sales and other [business activities](../b/business_activities.md). Expenses can vary widely depending on the specific [margin](../m/margin.md) being calculated and can include direct costs like COGS and indirect costs like SG&A, [interest](../i/interest.md), and [taxes](../t/taxes.md).
 
 ### Analyzing Financial Statements
-[Profit margins](../p/profit_margins_in_trading.md) are usually derived from [financial statements](../f/financial_statements.md) such as the [income statement](../i/income_statement.md). An [income statement](../i/income_statement.md) provides a detailed account of the company's [financial performance](../f/financial_performance.md), including [revenue](../r/revenue.md), COGS, operating expenses, and net [income](../i/income.md). 
+[Profit margins](../p/profit_margins_in_trading.md) are usually derived from [financial statements](../f/financial_statements.md) such as the [income statement](../i/income_statement.md). An [income statement](../i/income_statement.md) provides a detailed account of the company's [financial performance](../f/financial_performance.md), including [revenue](../r/revenue.md), COGS, operating expenses, and net [income](../i/income.md).
 
 ### Example Calculation
 Suppose a company has total [revenue](../r/revenue.md) of $1,000,000, COGS of $600,000, operating expenses of $200,000, and [taxes](../t/taxes.md) and [interest](../i/interest.md) amounting to $50,000.
@@ -91,7 +91,7 @@ Companies that have strong [brand equity](../b/brand_equity.md) and unique selli
 ## Applications in Algo Trading and Fintech
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), [profit margins](../p/profit_margins_in_trading.md) can be an essential [factor](../f/factor.md) when developing [trading strategies](../t/trading_strategies.md). Algorithms can be programmed to focus on companies with higher [profit margins](../p/profit_margins_in_trading.md), as these might be indicative of stronger [financial health](../f/financial_health.md) and potential for stock price appreciation.
+In [algorithmic trading](../a/algorithmic_trading.md), [profit margins](../p/profit_margins_in_trading.md) can be an essential [factor](../f/factor.md) when developing [trading strategies](../t/trading_strategies.md). Algorithms can be programmed to focus on companies with higher [profit margins](../p/profit_margins_in_trading.md), as these might be indicative of stronger [financial health](../f/financial_health.md) and potential for stock price appreciation.
 
 ### Financial Modeling
 [Profit margin analysis](../p/profit_margin_analysis.md) is a [baseline](../b/baseline.md) requirement in [financial modeling](../f/financial_modeling.md), especially for [valuation models](../v/valuation_models.md). Discounted [cash flow](../c/cash_flow.md) (DCF) models, for example, often use [profit margins](../p/profit_margins_in_trading.md) to project future [earnings](../e/earnings.md) and cash flows.
@@ -104,14 +104,11 @@ Automated investment services or robo-advisors consider a [firm](../f/firm.md)'s
 
 ## Real-World Examples
 
-### Amazon (https://www.amazon.com)
-Amazon started with thin [profit margins](../p/profit_margins_in_trading.md) but has managed to scale its operations to achieve higher margins through increased [efficiency](../e/efficiency.md), [diversification](../d/diversification.md) into higher-[margin](../m/margin.md) services like AWS, and [market](../m/market.md) dominance.
+### Amazon Amazon started with thin [profit margins](../p/profit_margins_in_trading.md) but has managed to scale its operations to achieve higher margins through increased [efficiency](../e/efficiency.md), [diversification](../d/diversification.md) into higher-[margin](../m/margin.md) services like AWS, and [market](../m/market.md) dominance.
 
-### Apple (https://www.apple.com)
-Apple consistently maintains high-[profit margins](../p/profit_margins_in_trading.md) due to its strong brand and [premium](../p/premium.md) pricing strategy. Its gross [profit margins](../p/profit_margins_in_trading.md) are amongst the highest in the [technology sector](../t/technology_sector.md), demonstrating the company's pricing power and cost management prowess.
+### Apple Apple consistently maintains high-[profit margins](../p/profit_margins_in_trading.md) due to its strong brand and [premium](../p/premium.md) pricing strategy. Its gross [profit margins](../p/profit_margins_in_trading.md) are amongst the highest in the [technology sector](../t/technology_sector.md), demonstrating the company's pricing power and cost management prowess.
 
-### Walmart (https://www.walmart.com)
-Walmart operates with thinner [profit margins](../p/profit_margins_in_trading.md) compared to specialty retailers but compensates with high sales [volume](../v/volume.md). Its focus on cost [leadership](../l/leadership.md) and [operational efficiency](../o/operational_efficiency_in_trading.md) allows it to be profitable even with lower margins.
+### Walmart Walmart operates with thinner [profit margins](../p/profit_margins_in_trading.md) compared to specialty retailers but compensates with high sales [volume](../v/volume.md). Its focus on cost [leadership](../l/leadership.md) and [operational efficiency](../o/operational_efficiency_in_trading.md) allows it to be profitable even with lower margins.
 
 ## Conclusion
 

@@ -24,7 +24,7 @@ Large spikes in [volume](../v/volume.md) often precede significant price movemen
 The [Volume](../v/volume.md) Price [Trend](../t/trend.md) (VPT) is a technical [indicator](../i/indicator.md) that combines [price action](../p/price_action.md) and [volume](../v/volume.md). It is calculated by multiplying the relative change in a [security](../s/security.md)'s price by the current [volume](../v/volume.md) and adding the previous session's VPT [value](../v/value.md).
 
 ### 2.3 On-Balance Volume (OBV)
-On-Balance [Volume](../v/volume.md) (OBV) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that relates [volume](../v/volume.md) to price change. It accumulates positive and negative [volume](../v/volume.md) changes, providing a running total that reflects the buying or selling pressure. 
+On-Balance [Volume](../v/volume.md) (OBV) is a [momentum](../m/momentum.md) [indicator](../i/indicator.md) that relates [volume](../v/volume.md) to price change. It accumulates positive and negative [volume](../v/volume.md) changes, providing a running total that reflects the buying or selling pressure.
 
 ### 2.4 Chaikin Money Flow (CMF)
 The Chaikin [Money Flow](../m/money_flow.md) [indicator](../i/indicator.md) is used to track the flow of [money](../m/money.md) in and out of the [market](../m/market.md) over a given period. It uses both [volume](../v/volume.md) and price to determine the buying and selling pressure.
@@ -57,27 +57,27 @@ TWAP is another [benchmark](../b/benchmark.md) that [spreads](../s/spreads.md) o
 ### 4.1 Bloomberg Terminal
 The [Bloomberg](../b/bloomberg.md) Terminal provides extensive tools and resources for analyzing trading [volume](../v/volume.md). It offers real-time and historical data, including [volume](../v/volume.md) trends and analytics tools.
 
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- Bloomberg Terminal
 
 ### 4.2 TradingView
 [TradingView](../t/tradingview.md) offers an extensive array of [volume](../v/volume.md) charting tools and indicators used by traders to perform [volume analysis](../v/volume_analysis.md). It includes custom scripts and community-shared indicators.
 
-- [TradingView](https://www.tradingview.com/)
+- TradingView
 
 ### 4.3 MetaTrader
 MetaTrader includes built-in indicators for [volume analysis](../v/volume_analysis.md) and supports custom indicators, allowing traders to deploy advanced [volume analysis](../v/volume_analysis.md) techniques.
 
-- [MetaTrader](https://www.metatrader5.com/en)
+- MetaTrader
 
 ### 4.4 QuantConnect
 [QuantConnect](../q/quantconnect.md) is a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. It includes various tools for analyzing trading volumes within the context of [backtesting](../b/backtesting.md) and live [trading algorithms](../t/trading_algorithms.md).
 
-- [QuantConnect](https://www.quantconnect.com/)
+- QuantConnect
 
 ### 4.5 NinjaTrader
 [NinjaTrader](../n/ninjatrader.md) offers a [robust](../r/robust.md) suite of tools for [volume analysis](../v/volume_analysis.md), including [volume](../v/volume.md)-based indicators and a workspace for custom algorithm development.
 
-- [NinjaTrader](https://ninjatrader.com/)
+- NinjaTrader
 
 ## 5. Practical Examples and Case Studies
 

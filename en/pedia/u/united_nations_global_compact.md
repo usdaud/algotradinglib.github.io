@@ -71,6 +71,6 @@ The UNGC continues to evolve with the global sustainability agenda. Key directio
 
 ## Resources and Further Reading
 
-- [United Nations Global Compact Official Website](https://www.unglobalcompact.org)
+-
 
 The UNGC stands as a crucial framework for guiding corporate responsibility and sustainability in the global [business](../b/business.md) landscape, embodying the idea that businesses should not only pursue [profit](../p/profit.md) but also contribute to the broader good of society.

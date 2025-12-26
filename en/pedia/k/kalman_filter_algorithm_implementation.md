@@ -13,23 +13,23 @@ In [algorithmic trading](../a/algorithmic_trading.md), the goal is to develop va
 The [Kalman filter](../k/kalman_filter_in_trading.md) algorithm works in a two-phase process: the **predict** and **update** phases. The two key equations in these phases are:
 
 1. **Predict:**
-    \[
-    \hat{x}_{k|k-1} = F_k \hat{x}_{k-1|k-1} + B_k u_k
-    \]
-    \[
-    P_{k|k-1} = F_k P_{k-1|k-1} F_k^T + Q_k
-    \]
+ \[
+ \hat{x}_{k|k-1} = F_k \hat{x}_{k-1|k-1} + B_k u_k
+ \]
+ \[
+ P_{k|k-1} = F_k P_{k-1|k-1} F_k^T + Q_k
+ \]
 
 2. **Update:**
-    \[
-    K_k = P_{k|k-1} H_k^T (H_k P_{k|k-1} H_k^T + R_k)^{-1}
-    \]
-    \[
-    \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k (z_k - H_k \hat{x}_{k|k-1})
-    \]
-    \[
-    P_{k|k} = (I - K_k H_k) P_{k|k-1}
-    \]
+ \[
+ K_k = P_{k|k-1} H_k^T (H_k P_{k|k-1} H_k^T + R_k)^{-1}
+ \]
+ \[
+ \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k (z_k - H_k \hat{x}_{k|k-1})
+ \]
+ \[
+ P_{k|k} = (I - K_k H_k) P_{k|k-1}
+ \]
 
 Where:
 - \( \hat{x}_{k|k-1} \) is the predicted state estimate at time step \( k \) based on the state at time step \( k-1 \).
@@ -73,15 +73,15 @@ The next step is to define the state transition matrix (\( F_k \)), control matr
 
 ```python
 # Define the state transition matrix for a simple Brownian motion with drift
-F_k = np.array([[1, dt],
+F_k = np.array[[1, dt],
                 [0, 1]])  # Adjust dt ([delta](../d/delta.md) time) for your granularity
 
 # Control-input model is often omitted if there's no control applied
-B_k = np.array([[0],
+B_k = np.array[[0],
                 [0]])
 
 # Process covariance matrix
-Q_k = np.array([[1e-5, 0],
+Q_k = np.array[[1e-5, 0],
                 [0, 1e-5]])
 ```
 
@@ -170,4 +170,4 @@ These metrics [will](../w/will.md) provide a quantitative measure of how well th
 
 The [Kalman filter](../k/kalman_filter_in_trading.md)'s application to [algorithmic trading](../a/algorithmic_trading.md) illustrates its versatility and power in improving prediction accuracy by filtering out the [noise](../n/noise.md) and capturing the [underlying](../u/underlying.md) [stochastic processes](../s/stochastic_processes.md). Understanding its mathematical foundation and implementing it in code gains you a powerful tool for time-series prediction in [finance](../f/finance.md).
 
-For more details on specific implementations, you may visit companies that focus on financial technology and [market](../m/market.md) prediction, such as [Numerai](https://numer.ai/) and [QuantConnect](https://www.quantconnect.com/).
+For more details on specific implementations, you may visit companies that focus on financial technology and [market](../m/market.md) prediction, such as Numerai and QuantConnect.

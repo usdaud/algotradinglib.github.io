@@ -14,11 +14,11 @@ Leveraged loans are loans extended to companies or individuals that already have
 
 The LCDX was first launched in May 2007 by Markit, in response to the growing need for a standardized benchmarking tool in the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). The development of the LCDX provided a new avenue for managing the [credit risk](../c/credit_risk.md) of a basket of leveraged loans. The [index](../i/index_instrument.md) is composed of a selection of the largest and most [liquid](../l/liquid.md) syndicated loans in the [market](../m/market.md).
 
-For more details about Markit and other financial indices: [IHS Markit](https://ihsmarkit.com)
+For more details about Markit and other financial indices: IHS Markit
 
 ## Structure and Composition of LCDX
 
-The LCDX usually includes 100 of the most [liquid](../l/liquid.md) North American leveraged loans. These loans are indexed based on specific criteria, such as the [credit rating](../c/credit_rating.md) of the borrowing company, [liquidity](../l/liquidity.md), and the size of the [loan](../l/loan.md). The [index](../i/index_instrument.md) is updated periodically to reflect the changing dynamics of the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md). 
+The LCDX usually includes 100 of the most [liquid](../l/liquid.md) North American leveraged loans. These loans are indexed based on specific criteria, such as the [credit rating](../c/credit_rating.md) of the borrowing company, [liquidity](../l/liquidity.md), and the size of the [loan](../l/loan.md). The [index](../i/index_instrument.md) is updated periodically to reflect the changing dynamics of the [leveraged loan](../l/leveraged_loan.md) [market](../m/market.md).
 
 Each entity within the LCDX has an equal weighting at inception, but this can change as [market](../m/market.md) values fluctuate. The constituents of the [index](../i/index_instrument.md) are reviewed regularly, and adjustments are made to include new loans and remove those that no longer meet the inclusion criteria.
 

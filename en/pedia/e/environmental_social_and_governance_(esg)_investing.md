@@ -45,23 +45,23 @@ There is a growing regulatory push towards better ESG [disclosure](../d/disclosu
 There are several agencies and indices dedicated to evaluating and ranking companies based on their ESG performance.
 
 ##### 3.1 MSCI ESG Ratings
-[MSCI](https://www.msci.com/esg-ratings) provides in-depth research, ratings, and analysis of the environmental, social, and governance-related [business](../b/business.md) practices of thousands of companies worldwide. MSCI ESG Ratings aim to measure a company’s resilience to long-term, financially relevant ESG risks.
+MSCI provides in-depth research, ratings, and analysis of the environmental, social, and governance-related [business](../b/business.md) practices of thousands of companies worldwide. MSCI ESG Ratings aim to measure a company’s resilience to long-term, financially relevant ESG risks.
 
 ##### 3.2 Sustainalytics
-[Sustainalytics](https://www.sustainalytics.com/esg-ratings) specializes in ESG and [corporate governance](../c/corporate_governance.md) research, ratings, and analytics. The [firm](../f/firm.md)'s ESG [Risk](../r/risk.md) Ratings assess the degree to which a company's enterprise [value](../v/value.md) is at [risk](../r/risk.md) driven by ESG factors and how well a company is managing those risks.
+Sustainalytics specializes in ESG and [corporate governance](../c/corporate_governance.md) research, ratings, and analytics. The [firm](../f/firm.md)'s ESG [Risk](../r/risk.md) Ratings assess the degree to which a company's enterprise [value](../v/value.md) is at [risk](../r/risk.md) driven by ESG factors and how well a company is managing those risks.
 
 ##### 3.3 FTSE4Good Index Series
-[FTSE4Good](https://www.ftserussell.com/products/indices/ftse4good) [Index](../i/index_instrument.md) Series is designed to measure the performance of companies demonstrating strong ESG practices. These indices can be used by a [range](../r/range.md) of [market](../m/market.md) participants when creating or assessing responsible investment products.
+FTSE4Good [Index](../i/index_instrument.md) Series is designed to measure the performance of companies demonstrating strong ESG practices. These indices can be used by a [range](../r/range.md) of [market](../m/market.md) participants when creating or assessing responsible investment products.
 
 ##### 3.4 Bloomberg ESG Data Services
-[Bloomberg](https://www.bloomberg.com/professional/solution/esg-data/) offers extensive ESG data sets, including proprietary ESG scores and ratings. This data supports ESG analysis and helps integrate ESG into the investment process.
+Bloomberg offers extensive ESG data sets, including proprietary ESG scores and ratings. This data supports ESG analysis and helps integrate ESG into the investment process.
 
 ##### 3.5 S&P Dow Jones Indices
-[S&P Dow Jones Indices](https://www.spglobal.com/esg/solutions/data-intelligence-esg-scores) provide a comprehensive suite of ESG indices that use transparent and objective criteria. The indices are designed to cater to sustainable investors seeking to allocate their funds according to specific ESG criteria.
+S&P Dow Jones Indices provide a comprehensive suite of ESG indices that use transparent and objective criteria. The indices are designed to cater to sustainable investors seeking to allocate their funds according to specific ESG criteria.
 
 #### 4. ESG Investment Strategies
 
-Investors can incorporate ESG factors in various ways: 
+Investors can incorporate ESG factors in various ways:
 
 ##### 4.1 Negative/Exclusionary Screening
 This strategy involves excluding companies or sectors that do not meet certain ESG criteria. Typical exclusions may include tobacco, fossil fuels, and firearms industries.
@@ -84,16 +84,16 @@ This involves using [shareholder](../s/shareholder.md) power to influence corpor
 #### 5. Case Studies of ESG Investing
 
 ##### 5.1 BlackRock
-[BlackRock](https://www.blackrock.com/us/individual/products/239726/) has been at the forefront of [ESG investing](../e/esg_investing.md). The company integrates ESG considerations into its investment processes and product offerings by leveraging proprietary tools and data. Larry Fink, CEO of BlackRock, has repeatedly emphasized the importance of sustainable [investing](../i/investing.md) in his annual letters to CEOs.
+BlackRock has been at the forefront of [ESG investing](../e/esg_investing.md). The company integrates ESG considerations into its investment processes and product offerings by leveraging proprietary tools and data. Larry Fink, CEO of BlackRock, has repeatedly emphasized the importance of sustainable [investing](../i/investing.md) in his annual letters to CEOs.
 
 ##### 5.2 Norges Bank Investment Management (NBIM)
 NBIM, which manages the Norwegian Government Pension [Fund](../f/fund.md) Global, incorporates ESG criteria across its investment activities. It uses active ownership and [risk](../r/risk.md)-based divestments to address ESG risks and support sustainable [market](../m/market.md) practices. NBIM regularly publishes its responsible investment reports and engages in public consultations.
 
 ##### 5.3 Calvert Research and Management
-[Calvert](https://www.calvert.com/) is one of the oldest ESG-focused investment firms. The company offers a wide array of ESG mutual funds that incorporate comprehensive ESG analysis. Calvert places a strong emphasis on [shareholder](../s/shareholder.md) advocacy and has a longstanding history of engaging with companies on sustainability matters.
+Calvert is one of the oldest ESG-focused investment firms. The company offers a wide array of ESG mutual funds that incorporate comprehensive ESG analysis. Calvert places a strong emphasis on [shareholder](../s/shareholder.md) advocacy and has a longstanding history of engaging with companies on sustainability matters.
 
 ##### 5.4 Robeco
-[Robeco](https://www.robeco.com/en/key-strengths/sustainable-investing/) integrates ESG considerations into its investment strategies and actively engages in dialogue with investee companies. Robeco publishes an annual sustainability report detailing its ESG research, integration efforts, and engagement outcomes.
+Robeco integrates ESG considerations into its investment strategies and actively engages in dialogue with investee companies. Robeco publishes an annual sustainability report detailing its ESG research, integration efforts, and engagement outcomes.
 
 #### 6. Challenges and Criticisms
 

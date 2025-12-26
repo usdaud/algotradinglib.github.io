@@ -1,6 +1,6 @@
 # Negative Interest Rate Environment
 
-[Negative interest rate](../n/negative_interest_rate.md) environment (NIRE) refers to an economic situation where the [nominal interest rate](../n/nominal_interest_rate.md) set by a central [bank](../b/bank.md) is below zero. This unconventional [monetary policy](../m/monetary_policy.md) tool is employed to counteract severe economic downturns or deflationary pressures. In such an environment, instead of receiving [interest](../i/interest.md) for depositing [money](../m/money.md) into a [savings account](../s/savings_account.md), depositors may have to pay [interest](../i/interest.md) for holding their savings in the [bank](../b/bank.md). 
+[Negative interest rate](../n/negative_interest_rate.md) environment (NIRE) refers to an economic situation where the [nominal interest rate](../n/nominal_interest_rate.md) set by a central [bank](../b/bank.md) is below zero. This unconventional [monetary policy](../m/monetary_policy.md) tool is employed to counteract severe economic downturns or deflationary pressures. In such an environment, instead of receiving [interest](../i/interest.md) for depositing [money](../m/money.md) into a [savings account](../s/savings_account.md), depositors may have to pay [interest](../i/interest.md) for holding their savings in the [bank](../b/bank.md).
 
 Negative [interest](../i/interest.md) rates are implemented with goals such as stimulating borrowing, encouraging spending and investment, and weakening a nation's [currency](../c/currency.md) to boost exports. This topic covers a variety of concepts, implications, and examples that provide an in-depth understanding of a NIRE.
 
@@ -123,8 +123,8 @@ The long-term economic impact of negative [interest](../i/interest.md) rates rem
 ---
 
 For more information on central banks and their policies, refer to the following resources:
-- [European Central Bank (ECB)](https://www.ecb.europa.eu)
-- [Bank of Japan (BOJ)](https://www.boj.or.jp/en)
-- [Swiss National Bank (SNB)](https://www.snb.ch/en)
+- European Central Bank (ECB)
+- Bank of Japan (BOJ)
+- Swiss National Bank (SNB)
 
 [Note](../n/note.md): This document serves as an educational overview and should not be interpreted as financial or investment advice.

@@ -52,7 +52,7 @@ The FASB is a private organization responsible for establishing [accounting](../
 
 The IASB develops and promotes International Financial Reporting Standards (IFRS) to harmonize [accounting](../a/accounting.md) practices across countries, facilitating international [trade](../t/trade.md) and investment.
 
-[https://www.ifrs.org/](https://www.ifrs.org/)
+
 
 # The Conceptual Framework of Financial Reporting
 

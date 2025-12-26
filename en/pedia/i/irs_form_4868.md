@@ -15,7 +15,7 @@ To be eligible for an extension using Form 4868, taxpayers must meet certain req
 ## Completing Form 4868
 Form 4868 is relatively straightforward to complete, requiring the following information:
 1. **Personal Identification Information:** Including name, address, and [Social Security](../s/social_security.md) Number (SSN).
-2. **Estimated [Tax Liability](../t/tax_liability.md):** Taxpayers must estimate their total [tax liability](../t/tax_liability.md) for the year. 
+2. **Estimated [Tax Liability](../t/tax_liability.md):** Taxpayers must estimate their total [tax liability](../t/tax_liability.md) for the year.
 3. **Total Payments:** This includes all payments already made towards the [tax liability](../t/tax_liability.md) through [withholding](../w/withholding.md), estimated tax payments, and refundable credits.
 4. **Balance Due:** Based on the estimated [tax liability](../t/tax_liability.md) and total payments, calculate the balance due. Any amount owed should be paid when submitting Form 4868 to avoid [interest](../i/interest.md) and penalties.
 
@@ -36,7 +36,7 @@ Taxpayers can choose from several methods to pay any tax due when filing Form 48
 ## Filing Methods
 Taxpayers have various [options](../o/options.md) for filing Form 4868:
 1. **Electronic Filing (E-File):** The form can be filed electronically using tax software or through an authorized e-file provider. E-filing is the quickest and most efficient method.
-2. **Paper Filing:** The form can be downloaded from the IRS website and mailed to the appropriate IRS address [listed](../l/listed.md) on the form's instructions, based on the [taxpayer](../t/taxpayer.md)'s location.
+2. **Paper Filing../l/listed.md) on the form's instructions, based on the [taxpayer](../t/taxpayer.md)'s location.
 
 ## Overseas Taxpayers
 U.S. citizens and resident aliens living abroad are allowed an automatic two-month extension to file their returns and pay any [taxes](../t/taxes.md) due without the need to file Form 4868. However, [interest](../i/interest.md) on any tax due [will](../w/will.md) still [accrue](../a/accrue.md) from the original April 15 deadline. Taxpayers can still file Form 4868 if additional time is needed beyond this automatic extension.

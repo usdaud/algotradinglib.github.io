@@ -69,9 +69,9 @@ Tariffs play a complex and multifaceted role in the global [economy](../e/econom
 
 For more information on how tariffs are applied and their economic impact, you can visit:
 
-- [U.S. International Trade Commission (USITC)](https://www.usitc.gov/)
-- [World Trade Organization (WTO)](https://www.wto.org/)
-- [European Commission - Trade](https://ec.europa.eu/trade/)
-- [Ministry of Commerce & Industry, Government of India](https://commerce.gov.in/)
+- U.S. International Trade Commission (USITC)
+- World Trade Organization (WTO)
+- European Commission - Trade
+- Ministry of Commerce & Industry, Government of India
 
 These resources provide detailed insights and data on tariff regulations, [trade](../t/trade.md) policies, and their implications on global [commerce](../c/commerce.md).

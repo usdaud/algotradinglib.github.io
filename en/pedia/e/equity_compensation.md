@@ -39,13 +39,13 @@ Stock Appreciation Rights (SARs) give employees the right to receive compensatio
 ### Taxation of Stock Options
 
 - **ISOs**: With ISOs, the employee does not owe tax at the time of [exercise](../e/exercise.md), provided they meet certain conditions, notably holding the stock for at least one year after [exercise](../e/exercise.md) and two years from the [grant](../g/grant.md) date. The [gain](../g/gain.md) [will](../w/will.md) then be subject to [capital gains tax](../c/capital_gains_tax.md) rates.
-  
+
 - **NSOs**: When NSOs are exercised, the "spread" is treated as [ordinary income](../o/ordinary_income.md) and is subject to [income](../i/income.md) and [payroll](../p/payroll.md) [taxes](../t/taxes.md). Any subsequent [gain](../g/gain.md) or loss upon selling the stock is treated as a [capital gain](../c/capital_gain.md) or loss.
 
 ### Taxation of RSUs and RSAs
 
 - **RSUs**: Typically, RSUs are taxed at the time they vest. The [value](../v/value.md) of the [shares](../s/shares.md) at the time of [vesting](../v/vesting.md) is treated as [ordinary income](../o/ordinary_income.md) and is subject to [income tax](../i/income_tax.md).
-  
+
 - **RSAs**: Employees who receive RSAs generally have the option to file an [83(b) election](../1/83(b)_election.md) within 30 days of receiving the award. This allows them to pay [taxes](../t/taxes.md) on the [value](../v/value.md) of the stock at the time of award, rather than at [vesting](../v/vesting.md). This can potentially result in lower [tax liability](../t/tax_liability.md), assuming the stock [value](../v/value.md) increases over time.
 
 ### Taxation of ESPPs
@@ -85,15 +85,15 @@ Many companies now [offer](../o/offer.md) hybrid [equity](../e/equity.md) compen
 ### Designing an Equity Compensation Plan
 
 - **Understanding Objectives**: Companies need to clearly define their objectives, such as retention, motivation, or competitive positioning, before designing an [equity](../e/equity.md) compensation plan.
-  
+
 - **Allocating [Shares](../s/shares.md)**: Companies need to decide how many [shares](../s/shares.md) to allocate to the [equity](../e/equity.md) compensation pool. This involves balancing the need to provide meaningful incentives with the potential [dilution](../d/dilution.md) of existing shareholders' [equity](../e/equity.md).
-  
+
 - **Eligibility**: Defining the criteria for eligibility is crucial. Not all employees may qualify for [equity](../e/equity.md) compensation, and companies may want to restrict it to certain levels or departments.
 
 ### Legal and Compliance Considerations
 
 - **Securities Laws**: [Equity](../e/equity.md) compensation involves issuing securities, so companies must comply with relevant securities laws and regulations.
-  
+
 - **Tax Regulations**: The tax implications of different forms of [equity](../e/equity.md) compensation can be complex, requiring careful planning and expert advice to navigate.
 
 ### Communication and Transparency
@@ -104,4 +104,4 @@ It’s vital for companies to communicate their [equity](../e/equity.md) compens
 
 [Equity](../e/equity.md) compensation plays a pivotal role in modern compensation packages, especially in industries where future growth is anticipated, and upfront cash may be limited. By aligning employee rewards with company performance, [equity](../e/equity.md) compensation can effectively attract, retain, and motivate employees, contributing to overall corporate success.
 
-For further insights and specific applications, companies specializing in [equity](../e/equity.md) compensation strategies include [Carta](https://carta.com/), [Shareworks by Morgan Stanley](https://www.shareworks.com/), and [EquityZen](https://equityzen.com/). These platforms [offer](../o/offer.md) a [range](../r/range.md) of services to help businesses and employees manage their [equity](../e/equity.md) compensation plans effectively.
+For further insights and specific applications, companies specializing in [equity](../e/equity.md) compensation strategies include Carta, Shareworks by Morgan Stanley, and EquityZen. These platforms [offer](../o/offer.md) a [range](../r/range.md) of services to help businesses and employees manage their [equity](../e/equity.md) compensation plans effectively.

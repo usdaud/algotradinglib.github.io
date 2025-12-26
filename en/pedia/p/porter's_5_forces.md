@@ -55,8 +55,7 @@ Using Porter's Five Forces can provide valuable insights into the competitive la
 
 ### Example Analysis
 
-Consider a company like Tesla, Inc. (https://www.tesla.com/), which operates in the Electric Vehicle (EV) [industry](../i/industry.md). By analyzing the five forces for the EV [industry](../i/industry.md), one can identify the various competitive pressures Tesla faces:
-
+Consider a company like Tesla, Inc. ( which operates in the Electric Vehicle (EV) [industry](../i/industry.md). By analyzing the five forces for the EV [industry](../i/industry.md), one can identify the various competitive pressures Tesla faces
 - **Threat of New Entrants**: High due to the growing [interest](../i/interest.md) in EVs, although mitigated by Tesla's strong brand and technological advantage.
 - **Bargaining Power of Suppliers**: Moderate, with Tesla having some supplier control due to its size but still reliant on key components like batteries.
 - **Bargaining Power of Buyers**: Increasing as more competitors [offer](../o/offer.md) EVs, giving consumers more choices.

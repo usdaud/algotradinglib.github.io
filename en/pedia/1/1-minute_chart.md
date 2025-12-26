@@ -80,31 +80,21 @@ While larger firms dominate, individual traders can also exploit the advantages 
 
 MetaTrader 4 is a popular [trading platform](../t/trading_platform.md) that allows for the application of Expert Advisors (EAs) to automate [trading strategies](../t/trading_strategies.md). MT4 supports 1-minute charts, enabling traders to optimize algotrading setups.
 
-**Website**: [MetaTrader 4](https://www.metatrader4.com/)
-
 ### TradeStation
 
 [TradeStation](../t/tradestation.md) offers a [robust](../r/robust.md) platform for creating and deploying algotrading strategies. It supports 1-minute charting and provides a suite of development tools for custom strategies.
-
-**Website**: [TradeStation](https://www.tradestation.com/)
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) is another powerful platform that supports 1-minute charting. It provides advanced charting tools, [backtesting](../b/backtesting.md) capabilities, and a programming environment for developing algotrading strategies.
 
-**Website**: [NinjaTrader](https://ninjatrader.com/)
+### StockSharp
 
-### QuantConnect
-
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and time frames, including 1-minute charts. It offers extensive libraries and data sets for [backtesting](../b/backtesting.md) and live trading.
-
-**Website**: [QuantConnect](https://www.quantconnect.com/)
+[StockSharp](../s/stocksharp.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and time frames, including 1-minute charts. It offers extensive libraries and data sets for [backtesting](../b/backtesting.md) and live trading.
 
 ### AlgoTrader
 
 [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports 1-minute chart data for high-frequency [trading strategies](../t/trading_strategies.md). It provides a comprehensive framework for the development, testing, and deployment of [trading algorithms](../t/trading_algorithms.md).
-
-**Website**: [AlgoTrader](https://www.algotrader.com/)
 
 ## Developing Strategies for 1-Minute Charts
 
@@ -130,4 +120,4 @@ Using 1-minute charts, algorithms can react swiftly to [market](../m/market.md)-
 
 ## Conclusion
 
-The 1-minute chart is a powerful tool in the domain of algotrading, [offering](../o/offering.md) the granularity and precision needed to execute high-frequency and [short-term trading](../s/short-term_trading.md) strategies. While the use of 1-minute charts comes with its unique challenges, the ability to analyze and react to [market](../m/market.md) data on such a minute scale provides significant advantages for traders and institutions. With advanced technological resources and sophisticated algorithms, traders can harness the potential of 1-minute charts to optimize their [trading performance](../t/trading_performance.md) and achieve consistent profitability.
+The 1-minute chart is a powerful tool in the domain of algotrading, [offering](../o/offering.md) the granularity and precision needed to execute high-frequency and [short-term trading](../s/short-term_trading.md) strategies. While the use of 1-minute charts comes with its unique challenges, the ability to analyze and react to [market](../m/market.md) data on such a minute scale provides significant advantages for traders and institutions. With advanced technological resources and sophisticated algorithms, traders can harness the potential of 1-minute charts to optimize their [trading performance](../t/trading_performance.md) and achieve consistent profitability.

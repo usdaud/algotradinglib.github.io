@@ -55,27 +55,23 @@ This strategy focuses on identifying exhaustion [gaps](../g/gap.md). Traders wat
 
 ### 1. Trading Platforms
 Modern trading platforms [offer](../o/offer.md) various tools to help traders identify and [trade](../t/trade.md) [gaps](../g/gap.md). Features such as [pre-market](../p/pre-market.md) and [after-hours trading](../a/after-hours_trading.md) data, real-time news feeds, and [technical analysis tools](../t/technical_analysis_tools.md) are crucial for gap trading. Some popular trading platforms include:
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)** (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **MetaTrader 4 and 5** (https://www.metatrader4.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)** (https://www.interactivebrokers.com/en/[index](../i/index_instrument.md).php?f=12763)
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)** (
+- **MetaTrader 4 and 5** - **[Interactive Brokers](../i/interactive_brokers.md)** (
 
 ### 2. Charting Software
 Advanced charting software can help traders identify [gaps](../g/gap.md) and analyze their characteristics. Features such as customized indicators, historical data, and [pattern recognition](../p/pattern_recognition.md) are valuable tools for gap traders. Some widely used charting software includes:
-- **[TradingView](../t/tradingview.md)** (https://www.[tradingview](../t/tradingview.md).com/)
-- **StockCharts** (https://stockcharts.com/)
-- **[NinjaTrader](../n/ninjatrader.md)** (https://[ninjatrader](../n/ninjatrader.md).com/)
+- **[TradingView](../t/tradingview.md)** (
+- **StockCharts** - **[NinjaTrader](../n/ninjatrader.md)** (
 
 ### 3. News Services
 Timely news is essential for identifying catalysts that can cause [gaps](../g/gap.md). Financial news services that provide real-time updates, alerts, and analysis can help traders stay informed and react quickly. Some reputable news services include:
-- **[Bloomberg](../b/bloomberg.md)** (https://www.[bloomberg](../b/bloomberg.md).com/)
-- **[Reuters](../r/reuters.md)** (https://www.[reuters](../r/reuters.md).com/)
-- **MarketWatch** (https://www.marketwatch.com/)
-
+- **[Bloomberg](../b/bloomberg.md)** (
+- **[Reuters](../r/reuters.md)** (
+- **MarketWatch**
 ### 4. Economic Calendars
 Economic calendars provide information on upcoming economic events that can lead to [gaps](../g/gap.md). These calendars list the dates and times of key economic releases, such as employment reports and central [bank](../b/bank.md) meetings, allowing traders to prepare for potential [market](../m/market.md)-moving events. Some useful economic calendars include:
-- **[Investing](../i/investing.md).com [Economic Calendar](../e/economic_calendar.md)** (https://www.[investing](../i/investing.md).com/economic-calendar/)
-- **Forex Factory Calendar** (https://www.forexfactory.com/calendar)
-- **[Trading Economics](../t/trading_economics.md) Calendar** (https://tradingeconomics.com/calendar)
+- **[Investing](../i/investing.md).com [Economic Calendar](../e/economic_calendar.md)** (
+- **Forex Factory Calendar** - **[Trading Economics](../t/trading_economics.md) Calendar** (
 
 ## Risk Management in Gap Trading
 Trading [gaps](../g/gap.md) can be profitable but also carries significant risks. Effective [risk management](../r/risk_management.md) is crucial for protecting [capital](../c/capital.md) and achieving long-term success. Below are some key [risk management](../r/risk_management.md) practices for gap trading:

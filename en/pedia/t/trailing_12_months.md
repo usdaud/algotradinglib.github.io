@@ -9,7 +9,7 @@ The TTM calculation sums up the financial data from the last four quarters, rath
 ### Why TTM is Important
 
 1. **Current Data:** It eliminates the time lag inherent in annual reporting. For instance, if today's date is September 15, 2023, the TTM would include financial data from September 2022 to August 2023.
-   
+
 2. **Seasonal Adjustment:** By including data from all four quarters, TTM helps adjust for seasonal variations and provides a normalized view of the company's operations.
 
 3. **Benchmarking:** Investors often use TTM to compare different companies in the same [industry](../i/industry.md), align their performances, and identify trends.
@@ -47,7 +47,7 @@ TTM is not just restricted to [revenue](../r/revenue.md); it can be used with va
 
 ### TTM in Ratios
 
-One of the most common uses of TTM is in calculating [financial ratios](../f/financial_ratios.md). 
+One of the most common uses of TTM is in calculating [financial ratios](../f/financial_ratios.md).
 
 1. **TTM PE Ratio:** This ratio is used to determine the [market value](../m/market_value.md) of a stock compared to the company's [earnings](../e/earnings.md) over the trailing 12 months.
 
@@ -61,7 +61,7 @@ One of the most common uses of TTM is in calculating [financial ratios](../f/fin
 
 ### Income Statement
 
-The TTM figure can provide a comprehensive look at a company’s profitability over the last year, inclusive of any seasonal effects. 
+The TTM figure can provide a comprehensive look at a company’s profitability over the last year, inclusive of any seasonal effects.
 
 - **TTM [Revenue](../r/revenue.md):** Summation of [revenue](../r/revenue.md) over the last four quarters.
 - **TTM Net [Income](../i/income.md):** Summation of the net [income](../i/income.md) over the last four quarters.

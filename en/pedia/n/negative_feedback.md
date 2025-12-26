@@ -52,15 +52,15 @@ Advancements in technology have further enhanced the effectiveness of negative f
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), also known as algo trading, involves using computer algorithms to execute trades based on predefined criteria. Algorithms can be designed to automatically trigger trades that counteract [market](../m/market.md) trends, providing instantaneous negative feedback to stabilize prices. For more information on [algorithmic trading](../a/accountability.md), visit [Hudson River Trading](https://www.hudsonrivertrading.com).
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves using computer algorithms to execute trades based on predefined criteria. Algorithms can be designed to automatically trigger trades that counteract [market](../m/market.md) trends, providing instantaneous negative feedback to stabilize prices. For more information on [algorithmic trading](../a/algorithmic_trading.md), visit Hudson River Trading.
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading involves executing a large number of orders at extremely high speeds. HFT firms can quickly identify and exploit price discrepancies, implementing [arbitrage](../a/arbitrage.md) strategies that act as negative feedback mechanisms to correct [market](../m/market.md) imbalances. One of the prominent firms in this domain is [Jump Trading](https://www.jumptrading.com).
+High-frequency trading involves executing a large number of orders at extremely high speeds. HFT firms can quickly identify and exploit price discrepancies, implementing [arbitrage](../a/arbitrage.md) strategies that act as negative feedback mechanisms to correct [market](../m/market.md) imbalances. One of the prominent firms in this domain is Jump Trading.
 
 ### Big Data and Machine Learning
 
-[Big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) models enhance the ability to identify and predict [market](../m/market.md) trends. By analyzing vast amounts of data, these technologies can detect anomalies and implement corrective measures, acting as modern negative feedback mechanisms. To explore how [machine learning](../m/machine_learning.md) is applied in [finance](../f/finance.md), visit [Kensho Technologies](https://www.kensho.com).
+[Big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) models enhance the ability to identify and predict [market](../m/market.md) trends. By analyzing vast amounts of data, these technologies can detect anomalies and implement corrective measures, acting as modern negative feedback mechanisms. To explore how [machine learning](../m/machine_learning.md) is applied in [finance](../f/finance.md), visit Kensho Technologies.
 
 ## Challenges and Limitations
 
@@ -88,4 +88,4 @@ Negative feedback mechanisms are fundamental to maintaining stability and [equil
 
 The continuous evolution of [financial markets](../f/financial_market.md) necessitates ongoing research and adaptation of negative feedback mechanisms to ensure resilient and stable financial systems. As financial technologies and [market](../m/market.md) structures evolve, so too must the approaches to implementing and optimizing negative feedback in trading and [finance](../f/finance.md).
 
-For further insights into the application of technology and negative feedback mechanisms in [finance](../f/finance.md), consider exploring the resources provided by leading firms in [algorithmic trading](../a/accountability.md), high-frequency trading, and financial analytics.
+For further insights into the application of technology and negative feedback mechanisms in [finance](../f/finance.md), consider exploring the resources provided by leading firms in [algorithmic trading](../a/algorithmic_trading.md), high-frequency trading, and financial analytics.

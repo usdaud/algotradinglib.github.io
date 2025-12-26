@@ -1,6 +1,6 @@
 # Money Market Yield
 
-[Money Market](../m/money_market.md) [Yield](../y/yield.md) (MMY), also known as the Annualized [Yield](../y/yield.md), is a measure used to determine the annualized [return](../r/return.md) of various [money market](../m/money_market.md) instruments, such as Treasury bills, commercial papers, or certificates of [deposit](../d/deposit.md). Unlike other [yield](../y/yield.md) measures, MMY takes into account the actual days to [maturity](../m/maturity.md) of the investment and annualizes the [yield](../y/yield.md) based on a 360-day year. This concept is widely used in traditional financial sectors and is becoming ever more important in the digital age, particularly in [algorithmic trading](../a/accountability.md) and fintech applications.
+[Money Market](../m/money_market.md) [Yield](../y/yield.md) (MMY), also known as the Annualized [Yield](../y/yield.md), is a measure used to determine the annualized [return](../r/return.md) of various [money market](../m/money_market.md) instruments, such as Treasury bills, commercial papers, or certificates of [deposit](../d/deposit.md). Unlike other [yield](../y/yield.md) measures, MMY takes into account the actual days to [maturity](../m/maturity.md) of the investment and annualizes the [yield](../y/yield.md) based on a 360-day year. This concept is widely used in traditional financial sectors and is becoming ever more important in the digital age, particularly in [algorithmic trading](../a/algorithmic_trading.md) and fintech applications.
 
 ## Importance of Money Market Yield
 
@@ -22,7 +22,7 @@ where:
 - **[Discount](../d/discount.md)**: The difference between the [face value](../f/face_value.md) and the purchase price of the instrument.
 - **[Face Value](../f/face_value.md)**: The amount paid to the holder at [maturity](../m/maturity.md).
 - **Days to [Maturity](../m/maturity.md)**: Number of days remaining until the investment matures.
-  
+
 For example, if you purchase a Treasury bill with a [face value](../f/face_value.md) of $1000 for $980 that matures in 90 days, the MMY is calculated as:
 
 \[
@@ -34,21 +34,21 @@ For example, if you purchase a Treasury bill with a [face value](../f/face_value
 ### Treasury Bills (T-bills)
 Treasury Bills are [short-term debt](../s/short-term_debt.md) securities issued by the government with [maturity](../m/maturity.md) periods typically ranging from a few days to one year. They are considered one of the safest investments due to government backing.
 
-Link: [U.S. Department of the Treasury](https://www.treasurydirect.gov/indiv/products/prod_tbills.htm)
+Link: U.S. Department of the Treasury
 
 ### Commercial Papers
 Commercial papers are unsecured promissory notes issued by corporations to [finance](../f/finance.md) short-term liabilities. They usually have maturities of less than 270 days.
 
-Link: [Fidelity - Commercial Paper](https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/commercial-paper)
+Link: Fidelity - Commercial Paper
 
 ### Certificates of Deposit (CDs)
 Certificates of [Deposit](../d/deposit.md) are time deposits offered by banks and financial institutions, with maturities ranging from a few months to several years. They [offer](../o/offer.md) a [fixed interest rate](../f/fixed_interest_rate.md) and are FDIC insured up to the statutory limit.
 
-Link: [Bank of America - CDs](https://www.bankofamerica.com/deposits/certificates-of-deposit/)
+Link: Bank of America - CDs
 
 ## Role of MMY in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to automate trading decisions based on pre-defined criteria. The [Money Market](../m/money_market.md) [Yield](../y/yield.md) becomes crucial in this context through:
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to automate trading decisions based on pre-defined criteria. The [Money Market](../m/money_market.md) [Yield](../y/yield.md) becomes crucial in this context through:
 
 - **[Yield](../y/yield.md) Comparison Algorithms**: AI models can optimize portfolios by selecting instruments with the highest MMY.
 - **[Risk](../r/risk.md) Mitigation**: Algorithms can shift investments to [money market](../m/money_market.md) instruments with favorable MMY during high [market](../m/market.md) [volatility](../v/volatility.md).
@@ -61,22 +61,22 @@ Financial technology (Fintech) has revolutionized how MMY is perceived and utili
 ### Robo-Advisors
 These automated platforms use algorithms to provide financial advice based on individual [risk tolerance](../r/risk_tolerance.md) and investment goals. They can incorporate MMY to ensure that short-term investment opportunities are optimized.
 
-Link: [Betterment](https://www.betterment.com)
+Link: Betterment
 
 ### Digital Banks
 Digital-only banks provide access to various savings products, including high-[yield](../y/yield.md) savings accounts that can be evaluated using MMY. These institutions often [leverage](../l/leverage.md) technology to provide competitive yields.
 
-Link: [Chime](https://www.chime.com)
+Link: Chime
 
 ### Investment Platforms
 Platforms like Wealthfront and [Robinhood](../r/robinhood.md) [offer](../o/offer.md) seamless access to [money market](../m/money_market.md) instruments, with real-time MMY calculations helping investors make quick decisions.
 
-Link: [Wealthfront](https://www.wealthfront.com)
+Link: Wealthfront
 
 ### Blockchain and Decentralized Finance (DeFi)
 Decentralized [finance](../f/finance.md) platforms are now [offering](../o/offering.md) tokenized versions of [money market](../m/money_market.md) instruments that incorporate MMY. [Smart contracts](../s/smart_contracts_in_trading.md) automatically calculate and pay out yields, enhancing [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md).
 
-Link: [Aave](https://aave.com)
+Link: Aave
 
 ## Challenges and Considerations
 
@@ -94,6 +94,6 @@ Changes in regulations can impact the availability and attractiveness of [money 
 
 ## Conclusion
 
-[Money Market](../m/money_market.md) [Yield](../y/yield.md) represents a critical metric for assessing the [efficiency](../e/efficiency.md) and profitability of [money market](../m/money_market.md) investments. It plays a pivotal role in traditional [investing](../i/investing.md), [algorithmic trading](../a/accountability.md), and latest fintech applications, providing a standardized way to compare yields across various short-term, low-[risk](../r/risk.md) instruments. While [offering](../o/offering.md) [multiple](../m/multiple.md) benefits, MMY also requires careful consideration of [interest rate](../i/interest_rate.md) movements, [liquidity](../l/liquidity.md) issues, [credit risk](../c/credit_risk.md), and regulatory impacts.
+[Money Market](../m/money_market.md) [Yield](../y/yield.md) represents a critical metric for assessing the [efficiency](../e/efficiency.md) and profitability of [money market](../m/money_market.md) investments. It plays a pivotal role in traditional [investing](../i/investing.md), [algorithmic trading](../a/algorithmic_trading.md), and latest fintech applications, providing a standardized way to compare yields across various short-term, low-[risk](../r/risk.md) instruments. While [offering](../o/offering.md) [multiple](../m/multiple.md) benefits, MMY also requires careful consideration of [interest rate](../i/interest_rate.md) movements, [liquidity](../l/liquidity.md) issues, [credit risk](../c/credit_risk.md), and regulatory impacts.
 
 By leveraging MMY, investors, traders, and fintech platforms can optimize their portfolios, manage risks more effectively, and uncover [lucrative](../l/lucrative.md) opportunities in the [money market](../m/money_market.md) space.

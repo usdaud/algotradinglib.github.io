@@ -50,11 +50,9 @@ Contrary to the [mean reversion](../m/mean_reversion.md) strategy, a [momentum](
 
 #### Renaissance Technologies
 Renowned for its Medallion [Fund](../f/fund.md), Renaissance Technologies has achieved unparalleled success by utilizing complex algorithms and [robust](../r/robust.md) statistical methods to exploit [market](../m/market.md) inefficiencies.
-[Link to Renaissance Technologies](https://www.rentec.com/)
 
 #### Two Sigma
 Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and vast datasets to understand the workings of global [financial markets](../f/financial_market.md) and develop profitable [trading strategies](../t/trading_strategies.md).
-[Link to Two Sigma](https://www.twosigma.com/)
 
 ### Market-Making Firms
 
@@ -62,7 +60,6 @@ Two Sigma uses [machine learning](../m/machine_learning.md), distributed computi
 
 #### Citadel Securities
 Citadel Securities applies [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [offer](../o/offer.md) consistent [liquidity](../l/liquidity.md) in various [asset](../a/asset.md) classes, benefiting from transient [market](../m/market.md) inefficiencies.
-[Link to Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Academic Research and Further Reading
 

@@ -105,9 +105,6 @@ In the infamous "London Whale" case, J.P. Morgan Chase suffered over $6 billion 
 ### Link and Resources
 For further information on preventing and understanding white-[collar](../c/collar.md) crimes, you can visit relevant resources offered by regulatory bodies:
 
-- SEC: https://www.sec.gov
-- FBI: https://www.fbi.gov
-- FCA: https://www.fca.org.uk
-
+- SEC- FBI- FCA
 ## Conclusion
 White-[collar](../c/collar.md) crime remains a pervasive [issue](../i/issue.md) with far-reaching consequences. While it lacks the immediate, visible damage of violent crimes, its impact on financial systems, businesses, and social [trust](../t/trust.md) can be profound and long-lasting. Efforts to understand, detect, and prevent these crimes continue to evolve, driven by advances in technology, regulatory changes, and an increasing focus on ethical [business](../b/business.md) practices.

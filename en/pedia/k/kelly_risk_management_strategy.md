@@ -35,7 +35,7 @@ where \( O \) stands for odds of the [trade](../t/trade.md), \( P \) stands for 
 2. **Determine the Fraction to Invest ( \[ f \] )**: This is the Kelly fraction, essentially:
 \[ f = \frac{E}{O} \]
 
-3. **Adjust for Practical Application**: Since pure Kelly can lead to high [volatility](../v/volatility.md), traders often use a fractional Kelly strategy. For example, using half the Kelly fraction: 
+3. **Adjust for Practical Application**: Since pure Kelly can lead to high [volatility](../v/volatility.md), traders often use a fractional Kelly strategy. For example, using half the Kelly fraction:
 \[ f = 0.5 * \frac{E}{O} \]
 
 ### Benefits
@@ -78,13 +78,13 @@ The [Kelly Criterion](../k/kelly_criterion.md) can be adapted to Forex trading b
 
 Several financial tools and software incorporate the [Kelly Criterion](../k/kelly_criterion.md) for [risk management](../r/risk_management.md):
 
-- **Trading Blox**: A [trading platform](../t/trading_platform.md) that supports the application of the [Kelly Criterion](../k/kelly_criterion.md) in various [trading strategies](../t/trading_strategies.md). [Trading Blox](https://www.tradingblox.com/)
+- **Trading Blox**: A [trading platform](../t/trading_platform.md) that supports the application of the [Kelly Criterion](../k/kelly_criterion.md) in various [trading strategies](../t/trading_strategies.md). Trading Blox
 
-- **[Wealth](../w/wealth.md) Lab**: Offers the ability to apply the [Kelly Criterion](../k/kelly_criterion.md) in [backtesting](../b/backtesting.md) and live trading scenarios. [Wealth Lab](https://www.wealth-lab.com/)
+- **[Wealth](../w/wealth.md) Lab**: Offers the ability to apply the [Kelly Criterion](../k/kelly_criterion.md) in [backtesting](../b/backtesting.md) and live trading scenarios. Wealth Lab
 
-- **Portfolio123**: Implements [Kelly Criterion](../k/kelly_criterion.md) in [portfolio management](../p/portfolio_management.md) to optimize [asset allocation](../a/asset_allocation.md). [Portfolio123](https://www.portfolio123.com/)
+- **Portfolio123**: Implements [Kelly Criterion](../k/kelly_criterion.md) in [portfolio management](../p/portfolio_management.md) to optimize [asset allocation](../a/asset_allocation.md). Portfolio123
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) where [Kelly Criterion](../k/kelly_criterion.md) can be scripted and integrated. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) where [Kelly Criterion](../k/kelly_criterion.md) can be scripted and integrated. QuantConnect
 
 ## Conclusion
 

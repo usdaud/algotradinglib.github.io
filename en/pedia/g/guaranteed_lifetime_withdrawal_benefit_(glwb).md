@@ -68,25 +68,25 @@ Withdrawing amounts exceeding the guaranteed [withdrawal](../w/withdrawal.md) li
 
 Prudential Financial is a significant player in the annuity [market](../m/market.md), [offering](../o/offering.md) the "Prudential Premier Retirement [Variable Annuity](../v/variable_annuity.md)" with a GLWB option. Their product promises [income](../i/income.md) growth opportunities linked to [equity](../e/equity.md) and [fixed income](../f/fixed_income.md) investment performance, combined with lifetime [income](../i/income.md) protection.
 
-Website: [Prudential Financial](https://www.prudential.com/)
+online platform: Prudential Financial
 
 ### Allianz Life
 
 Allianz Life provides a [range](../r/range.md) of fixed indexed annuities with GLWB features under the "Allianz [Index](../i/index_instrument.md) Advantage" suite. These products are known for their balance of growth potential and [income](../i/income.md) [security](../s/security.md).
 
-Website: [Allianz Life](https://www.allianzlife.com/)
+online platform: Allianz Life
 
 ### Jackson National
 
 Jackson National offers variable annuities with innovative GLWB [options](../o/options.md) like "LifeGuard Freedom Flex," which allows customization of growth and [withdrawal](../w/withdrawal.md) strategies catering to individual retirement needs.
 
-Website: [Jackson National](https://www.jackson.com/)
+online platform: Jackson National
 
 ### Nationwide
 
 Nationwide’s suite of annuities includes customizable GLWB riders, [offering](../o/offering.md) both standard and enhanced versions to meet varying [customer](../c/customer.md) needs and [market](../m/market.md) conditions.
 
-Website: [Nationwide](https://www.nationwide.com/)
+online platform: Nationwide
 
 ## Conclusion
 

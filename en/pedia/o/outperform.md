@@ -54,11 +54,11 @@ The *[Information Ratio](../i/information_ratio.md)* measures the returns of an 
 
 ### Apple Inc. (AAPL)
 
-Over the years, many analysts have rated Apple Inc. (https://www.apple.com/) as an "Outperform" stock. This [rating](../r/rating.md) has often been based on Apple's consistent innovation, strong [financial performance](../f/financial_performance.md), and [market](../m/market.md) [leadership](../l/leadership.md) in segments like smartphones and [wearable technology](../w/wearable_technology.md).
+Over the years, many analysts have rated Apple Inc. ( as an "Outperform" stock. This [rating](../r/rating.md) has often been based on Apple's consistent innovation, strong [financial performance](../f/financial_performance.md), and [market](../m/market.md) [leadership](../l/leadership.md) in segments like smartphones and [wearable technology](../w/wearable_technology.md).
 
 ### Tesla Inc. (TSLA)
 
-Tesla Inc. (https://www.tesla.com/) has received various "Outperform" ratings from analysts, especially during periods of significant advancements in electric vehicle (EV) technology and increasing [market share](../m/market_share.md). Tesla's long-term growth prospects and strategic initiatives have been key factors in these ratings.
+Tesla Inc. ( has received various "Outperform" ratings from analysts, especially during periods of significant advancements in electric vehicle (EV) technology and increasing [market share](../m/market_share.md). Tesla's long-term growth prospects and strategic initiatives have been key factors in these ratings.
 
 ### Emerging Markets
 

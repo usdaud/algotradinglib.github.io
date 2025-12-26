@@ -1,6 +1,6 @@
 # Available Balance
 
-The concept of "available balance" in financial terminology generally refers to the amount of [money](../m/money.md) that is readily accessible in a [bank](../b/bank.md) account for [withdrawal](../w/withdrawal.md) or use. This is a vital term for both individual account holders and businesses, including those involved in [algorithmic trading](../a/accountability.md) (algo trading). Within the broader [scope](../s/scope.md) of trading and investments, available balance determines how much [capital](../c/capital.md) can be deployed for trading activities without triggering [overdraft](../o/overdraft.md) fees or [margin](../m/margin.md) calls. 
+The concept of "available balance" in financial terminology generally refers to the amount of [money](../m/money.md) that is readily accessible in a [bank](../b/bank.md) account for [withdrawal](../w/withdrawal.md) or use. This is a vital term for both individual account holders and businesses, including those involved in [algorithmic trading](../a/accountability.md) (algo trading). Within the broader [scope](../s/scope.md) of trading and investments, available balance determines how much [capital](../c/capital.md) can be deployed for trading activities without triggering [overdraft](../o/overdraft.md) fees or [margin](../m/margin.md) calls.
 
 ## Components and Calculation
 
@@ -38,9 +38,9 @@ To maintain a clear picture of the available balance, several techniques and too
 
 1. **Real-time Monitoring Software**: Various financial platforms [offer](../o/offer.md) real-time tracking of transactions and available balances. Tools like [Bloomberg Terminal](../b/bloomberg_terminal.md), MetaTrader, and others [offer](../o/offer.md) this functionality.
 
-2. **API Integrations**: Algo traders can integrate their [trading algorithms](../t/trading_algorithms.md) with banking and brokerage APIs (Application Programming Interfaces) to dynamically pull available balance data. For example, the [Interactive Brokers](../i/interactive_brokers.md) API allows for real-time balance checks and trading through automated systems (https://www.interactivebrokers.com/en/trading/api.php).
+2. **API Integrations**: Algo traders can integrate their [trading algorithms](../t/trading_algorithms.md) with banking and brokerage APIs (Application Programming Interfaces) to dynamically pull available balance data. For example, the [Interactive Brokers](../i/interactive_brokers.md) API allows for real-time balance checks and trading through automated systems (
 
-3. **Alerts and Notifications**: Setting up alerts for low balances or unusual transactions can help detect issues promptly. Services provided by platforms such as TD [Ameritrade](../a/ameritrade.md) allow for setting up custom notifications (https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page).
+3. **Alerts and Notifications**: Setting up alerts for low balances or unusual transactions can help detect issues promptly. Services provided by platforms such as TD [Ameritrade](../a/ameritrade.md) allow for setting up custom notifications (
 
 ## Factors Influencing Available Balance
 
@@ -59,7 +59,7 @@ Several factors can influence the available balance in a trading context:
 Consider an algorithmic [trader](../t/trader.md) using a [brokerage account](../b/brokerage_account.md) linked to their automated trading system. Here's a practical scenario of how available balance might play a role:
 
 1. **Initial Setup**: The [trader](../t/trader.md) deposits $100,000 into the [brokerage account](../b/brokerage_account.md).
-   
+
 2. **Real-time API Integration**: Their algorithm integrates with the brokerage API and periodically queries the available balance.
 
 3. **[Trade](../t/trade.md) [Execution](../e/execution.md)**: The algorithm identifies a trading opportunity requiring $50,000. It checks the available balance to ensure adequate funds.

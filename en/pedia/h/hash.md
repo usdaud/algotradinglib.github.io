@@ -38,4 +38,3 @@ A **hash** is a function that converts an input (or 'message') into a fixed-size
 
 ## Conclusion
 Hash functions play a critical role in various fields of computer science and cybersecurity. They ensure data integrity, secure password storage, and enable the functionality of technologies like [blockchain](../b/blockchain_in_trading.md). Understanding the characteristics and applications of hash functions is essential for developing secure systems and protecting data.
-

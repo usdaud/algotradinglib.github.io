@@ -76,8 +76,7 @@ The FSB sets international standards for global financial systems. It advocates 
 
 ## Example: Implementation in a Clearinghouse
 
-Consider a clearinghouse like CME Group (https://www.cmegroup.com/), which acts as an intermediary between buyers and sellers in [futures](../f/futures.md) and [options](../o/options.md) markets. The clearinghouse employs multilateral netting to manage the settlement of thousands of transactions. Here's how:
-
+Consider a clearinghouse like CME Group ( which acts as an intermediary between buyers and sellers in [futures](../f/futures.md) and [options](../o/options.md) markets. The clearinghouse employs multilateral netting to manage the settlement of thousands of transactions. Here's how
 1. **[Transaction](../t/transaction.md) [Aggregation](../a/aggregation.md):** The clearinghouse collects transactions from all participants and identifies the [obligations](../o/obligation.md) between parties.
 2. **Netting Calculation:** Transactions are netted out so that each participant’s buy and sell positions are consolidated, resulting in a single net position.
 3. **Settlement Instructions:** The clearinghouse issues settlement instructions based on the net positions, significantly reducing the number of securities and funds that need to be transferred.

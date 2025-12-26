@@ -1,6 +1,6 @@
 # Egalitarianism
 
-Egalitarianism is a political and social philosophy that advocates for equal rights, opportunities, and treatment of all individuals. The term is derived from the French word "égal," which means "equal," and it encompasses a wide [range](../r/range.md) of doctrines that share the common goal of promoting equality and reducing inequalities among people. 
+Egalitarianism is a political and social philosophy that advocates for equal rights, opportunities, and treatment of all individuals. The term is derived from the French word "égal," which means "equal," and it encompasses a wide [range](../r/range.md) of doctrines that share the common goal of promoting equality and reducing inequalities among people.
 
 ### Definition
 

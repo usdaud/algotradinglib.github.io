@@ -34,15 +34,15 @@ Quantum computing has the potential to address several complex problems in tradi
 
 Numerous companies and research institutions are at the forefront of quantum computing advancements in trading. Notable players include:
 
-1. **IBM Quantum**: IBM has been a pioneer in quantum computing, [offering](../o/offering.md) its IBM Quantum Experience platform for researchers and developers to experiment with [quantum algorithms](../q/quantum_algorithms_in_trading.md). [IBM Quantum](https://www.ibm.com/quantum-computing/)
+1. **IBM Quantum**: IBM has been a pioneer in quantum computing, [offering](../o/offering.md) its IBM Quantum Experience platform for researchers and developers to experiment with [quantum algorithms](../q/quantum_algorithms_in_trading.md). IBM Quantum
 
-2. **D-Wave Systems**: Known for its quantum annealing technology, D-Wave provides quantum solutions tailored for [optimization](../o/optimization.md) problems, which are highly relevant in trading. [D-Wave Systems](https://www.dwavesys.com/)
+2. **D-Wave Systems**: Known for its quantum annealing technology, D-Wave provides quantum solutions tailored for [optimization](../o/optimization.md) problems, which are highly relevant in trading. D-Wave Systems
 
-3. **Rigetti Computing**: Rigetti is developing full-stack quantum computing systems and software specifically geared towards solving complex computational problems in [finance](../f/finance.md). [Rigetti Computing](https://www.rigetti.com/)
+3. **Rigetti Computing**: Rigetti is developing full-stack quantum computing systems and software specifically geared towards solving complex computational problems in [finance](../f/finance.md). Rigetti Computing
 
-4. **Google Quantum AI**: Google is making significant strides with its Sycamore processor and continuous efforts in [quantum machine learning](../q/quantum_machine_learning.md), with potential applications in trading. [Google Quantum AI](https://quantumai.google/)
+4. **Google Quantum AI**: Google is making significant strides with its Sycamore processor and continuous efforts in [quantum machine learning](../q/quantum_machine_learning.md), with potential applications in trading. Google Quantum AI
 
-5. **Microsoft Quantum**: Through its Azure Quantum platform, Microsoft is providing tools and services to integrate quantum computing into various industries, including [finance](../f/finance.md). [Microsoft Quantum](https://azure.microsoft.com/en-us/services/quantum/)
+5. **Microsoft Quantum**: Through its Azure Quantum platform, Microsoft is providing tools and services to integrate quantum computing into various industries, including [finance](../f/finance.md). Microsoft Quantum
 
 **Challenges in Implementation**
 

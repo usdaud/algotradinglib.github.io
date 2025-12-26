@@ -60,8 +60,8 @@ The application of TSM extends beyond the pure calculation of EPS. It is also us
 ### Companies Utilizing TSM
 
 Several major corporations and financial firms use the Treasury Stock Method in their financial reports. For example:
-- [Apple Inc.](https://www.apple.com) incorporates TSM in their quarterly and annual reports to reflect the potential [dilution](../d/dilution.md) from employee stock [options](../o/options.md).
-- [Goldman Sachs](https://www.goldmansachs.com) uses TSM for accurate financial disclosures and [investor](../i/investor.md) communications.
+- Apple Inc. incorporates TSM in their quarterly and annual reports to reflect the potential [dilution](../d/dilution.md) from employee stock [options](../o/options.md).
+- Goldman Sachs uses TSM for accurate financial disclosures and [investor](../i/investor.md) communications.
 
 ## Advanced Considerations
 

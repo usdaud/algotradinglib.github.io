@@ -99,5 +99,4 @@ Since the confidence intervals overlap, the difference in the mean returns of th
 
 Confidence intervals play a fundamental role in [algorithmic trading](../a/algorithmic_trading.md) by providing a statistically [robust](../r/robust.md) way to estimate and compare future returns, manage risks, and evaluate algorithm performance. Despite their advantages, traders must understand their limitations and ensure the [underlying](../u/underlying.md) assumptions are met to make the best use of this powerful statistical tool.
 
-For further reading, you can refer to the resources provided by financial and trading institutions such as [QuantInsti](https://www.quantinsti.com/) and [Khan Academy](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-z).
-
+For further reading, you can refer to the resources provided by financial and trading institutions such as QuantInsti and Khan Academy.

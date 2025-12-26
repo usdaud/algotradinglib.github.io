@@ -57,13 +57,12 @@ ZB.COM actively engages with its community through [social media](../s/social_me
 
 ZB.COM has established itself as a reliable and comprehensive cryptocurrency [exchange](../e/exchange.md) platform. With a wide [range](../r/range.md) of services, [robust](../r/robust.md) [security](../s/security.md) measures, and a strong focus on regulatory compliance, it provides a safe and efficient [trading environment](../t/trading_environment.md) for users worldwide. Whether you are a novice [trader](../t/trader.md) looking to buy your first [Bitcoin](../b/bitcoin.md) or a seasoned [investor](../i/investor.md) seeking advanced trading [options](../o/options.md), ZB.COM caters to all your cryptocurrency needs.
 
-For more information, you can visit their official website: [ZB.COM](https://zb.com)
 
 ### Additional Information
 
 #### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) on ZB.COM is facilitated through its API services, which allow users to integrate their trading bots and automated systems with the platform. The API supports RESTful and WebSocket protocols, providing real-time access to [market](../m/market.md) data, account information, and [order](../o/order.md) [execution](../e/execution.md).
+[Algorithmic trading](../a/algorithmic_trading.md) on ZB.COM is facilitated through its API services, which allow users to integrate their trading bots and automated systems with the platform. The API supports RESTful and WebSocket protocols, providing real-time access to [market](../m/market.md) data, account information, and [order](../o/order.md) [execution](../e/execution.md).
 
 ##### Key Features of ZB.COM API:
 
@@ -72,7 +71,7 @@ For more information, you can visit their official website: [ZB.COM](https://zb.
 - **Account Management:** Retrieve account balances, [transaction](../t/transaction.md) history, and [open](../o/open.md) positions.
 - **WebSocket Support:** Real-time [order book](../o/order_book.md) updates and [trade](../t/trade.md) notifications.
 
-For detailed API documentation, you can visit [ZB.COM API Documentation](https://www.zb.com/api).
+For detailed API documentation, you can visit ZB.COM API Documentation.
 
 ### Statistical Overview
 

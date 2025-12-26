@@ -53,19 +53,19 @@ While frictional [unemployment](../u/unemployment.md) cannot be entirely elimina
 
 ### Improved Job Matching Services
 
-Public employment services and private recruitment agencies can enhance the job matching process by providing better information and resources to both employers and job seekers. Platforms like LinkedIn (www.linkedin.com) and Indeed (www.indeed.com) exemplify how technology can aid job matching.
+Public employment services and private recruitment agencies can enhance the job matching process by providing better information and resources to both employers and job seekers. Platforms like LinkedIn and Indeed exemplify how technology can aid job matching.
 
 ### Career Counseling and Training
 
-Providing career counseling and training programs can help job seekers better understand the [job market](../j/job_market.md) and equip them with the skills needed for in-[demand](../d/demand.md) roles. Organizations like Coursera (www.coursera.org) and Udacity (www.udacity.com) [offer](../o/offer.md) courses that can help individuals upskill and redefine their career paths.
+Providing career counseling and training programs can help job seekers better understand the [job market](../j/job_market.md) and equip them with the skills needed for in-[demand](../d/demand.md) roles. Organizations like Coursera ( and Udacity ( [offer](../o/offer.md) courses that can help individuals upskill and redefine their career paths.
 
 ### Enhanced Labor Market Information
 
-Governments and institutions can improve the dissemination of [labor market](../l/labor_market.md) information to reduce information [gaps](../g/gap.md). Initiatives such as the Bureau of Labor [Statistics](../s/statistics.md) (www.bls.gov) in the United States provide valuable data and insights into job trends and [industry](../i/industry.md) needs.
+Governments and institutions can improve the dissemination of [labor market](../l/labor_market.md) information to reduce information [gaps](../g/gap.md). Initiatives such as the Bureau of Labor [Statistics](../s/statistics.md) ( in the United States provide valuable data and insights into job trends and [industry](../i/industry.md) needs.
 
 ### Mobility Support
 
-Supporting geographical mobility by providing relocation assistance or housing support can help workers move to areas with better job opportunities. 
+Supporting geographical mobility by providing relocation assistance or housing support can help workers move to areas with better job opportunities.
 
 ## Conclusion
 
@@ -73,8 +73,4 @@ Frictional [unemployment](../u/unemployment.md) is an inevitable aspect of a fun
 
 ## References and Resources
 
-- LinkedIn: [www.linkedin.com](https://www.linkedin.com)
-- Indeed: [www.indeed.com](https://www.indeed.com)
-- Coursera: [www.coursera.org](https://www.coursera.org)
-- Udacity: [www.udacity.com](https://www.udacity.com)
-- U.S. Bureau of Labor [Statistics](../s/statistics.md): [www.bls.gov](https://www.bls.gov)
+- LinkedIn- Indeed- Coursera- Udacity- U.S. Bureau of Labor [Statistics](../s/statistics.md)

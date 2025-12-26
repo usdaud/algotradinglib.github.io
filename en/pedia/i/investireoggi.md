@@ -53,6 +53,3 @@ Investireoggi employs standard online [security](../s/security.md) measures to p
 - **Data Protection**: Measures to protect user data and ensure privacy.
 - **Secure Access**: Implementing secure login processes and user authentication to prevent unauthorized access.
 - **Moderation**: Active moderation to maintain the quality of discussions and prevent spam or abusive behavior.
-
-## Website
-For more information and to join the community, visit the official Investireoggi website: [Investireoggi](https://www.investireoggi.it/)

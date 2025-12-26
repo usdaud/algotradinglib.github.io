@@ -44,4 +44,4 @@ Azbit differentiates itself from other platforms through its integrated suite of
 ## Conclusion
 Azbit is more than just a cryptocurrency [exchange](../e/exchange.md); it is an integrated financial ecosystem designed to cater to a wide [range](../r/range.md) of financial needs while ensuring regulatory compliance and [robust](../r/robust.md) [security](../s/security.md). Through its comprehensive suite of services, Azbit aims to bridge the gap between traditional financial systems and the new world of [blockchain](../b/blockchain_in_trading.md) technology.
 
-For more detailed information, you can visit [Azbit's official website](https://azbit.com/).
+For more detailed information,

@@ -11,13 +11,13 @@ The importance of unit [volume](../v/volume.md) lies in its ability to indicate 
 Unit [volume](../v/volume.md) is commonly reported in the following ways:
 - **Absolute Number**: The straightforward count of units traded. For example, "1 million [shares](../s/shares.md) traded" refers to the absolute number.
 - **Relative [Volume](../v/volume.md)**: [Volume](../v/volume.md) relative to an average, such as the average daily [volume](../v/volume.md) over the past 30 days. For instance, if the average daily [volume](../v/volume.md) of a stock is 500,000 [shares](../s/shares.md), a relative [volume](../v/volume.md) of 2 means that 1 million [shares](../s/shares.md) were traded, which is twice the average.
- 
+
 ### Data Sources and Tools
 To measure unit [volume](../v/volume.md), traders use various platforms and services like:
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive trading information including unit volumes for a wide [range](../r/range.md) of assets.
 - **[Yahoo Finance](../y/yahoo_finance.md)**: Provides free access to historical and current trading volumes.
 - **Google [Finance](../f/finance.md)**: Another source for obtaining data on unit volumes easily accessible online.
-  
+
 ### Role of Unit Volume in Algo Trading
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on unit [volume](../v/volume.md) data to make informed decisions. Here’s a detailed breakdown of its applications:
 - **[Liquidity](../l/liquidity.md) Assessment**: Algorithms use unit [volume](../v/volume.md) to determine the [liquidity](../l/liquidity.md) of an [asset](../a/asset.md) before initiating a [trade](../t/trade.md). Higher [volume](../v/volume.md) indicates higher [liquidity](../l/liquidity.md), reducing the [risk](../r/risk.md) of price [slippage](../s/slippage.md).
@@ -27,8 +27,8 @@ To measure unit [volume](../v/volume.md), traders use various platforms and serv
 
 ### Examples of Algo Trading Companies
 Several companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) solutions, leveraging unit [volume](../v/volume.md) and other metrics:
-- **Virtu Financial**: One of the largest high-frequency trading firms. More details can be found on their [official website](https://www.virtu.com/).
-- **Two Sigma**: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) to trading. More information is available on their [website](https://www.twosigma.com/).
+- **Virtu Financial**: One of the largest high-frequency trading firms. More
+- **Two Sigma**: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) to trading.
 
 ### Advanced Volume Analytics
 Algorithmic traders often employ advanced analytics to dive deeper into unit [volume](../v/volume.md) metrics:

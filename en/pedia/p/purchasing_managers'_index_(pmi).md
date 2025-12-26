@@ -23,9 +23,9 @@ Each of these components has a specific weight in the PMI calculation, and they 
 There are different types of PMIs based on the sector they examine:
 
 1. **[Manufacturing](../m/manufacturing.md) PMI**: Focuses on the [manufacturing](../m/manufacturing.md) sector. It provides insights into factory production, employment trends, supplier deliveries, and [inventory](../i/inventory.md) levels.
-   
+
 2. **Services PMI**: Focuses on the [service sector](../s/service_sector.md), assessing new [business](../b/business.md) [volume](../v/volume.md), [business](../b/business.md) activity, employment trends, and pricing information.
-   
+
 3. **Composite PMI**: Combines data from both the [manufacturing](../m/manufacturing.md) and services PMIs to [offer](../o/offer.md) a broader view of the [economy](../e/economy.md).
 
 ### Methodology
@@ -66,22 +66,22 @@ While PMI is a valuable tool, it has limitations:
 #### United States
 
 - **ISM PMI**: Published by the Institute for [Supply](../s/supply.md) Management. The ISM [Manufacturing](../m/manufacturing.md) and Non-[Manufacturing](../m/manufacturing.md) Indices are closely watched indicators.
-  - [ISM PMI](https://www.ismworld.org)
+ - ISM PMI
 
 #### Europe
 
 - **[Eurozone](../e/eurozone.md) PMI**: Published by IHS Markit, it offers an aggregate view of the [economic conditions](../e/economic_conditions.md) in the [Eurozone](../e/eurozone.md).
-  - [IHS Markit Eurozone PMI](https://ihsmarkit.com)
+ - IHS Markit Eurozone PMI
 
 #### China
 
 - **Caixin PMI**: Published by Caixin Media and IHS Markit, focuses on [private sector](../p/private_sector.md) manufacturers and service providers.
-  - [Caixin PMI](https://www.caixinglobal.com)
+ - Caixin PMI
 
 #### Japan
 
 - **Jibun [Bank](../b/bank.md) PMI**: Provides insights into both the [manufacturing](../m/manufacturing.md) and service sectors in Japan.
-  - [Jibun Bank PMI](https://www.jibunbank.co.jp/en)
+ - Jibun Bank PMI
 
 ### Conclusion
 

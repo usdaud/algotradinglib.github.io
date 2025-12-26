@@ -13,7 +13,7 @@ Total [debt](../d/debt.md) includes all of a company’s short-term and long-ter
 
 - **[Short-term Debt](../s/short-term_debt.md):** [Obligations](../o/obligation.md) due within one year, such as short-term loans, [commercial paper](../c/commercial_paper.md), and current portions of [long-term debt](../l/long-term_debt.md).
 - **[Long-term Debt](../l/long-term_debt.md):** [Obligations](../o/obligation.md) due in more than one year, like bonds, long-term loans, and [mortgage](../m/mortgage.md) [debt](../d/debt.md).
-  
+
 Total [debt](../d/debt.md) can be found on the company’s [balance sheet](../b/balance_sheet.md).
 
 ### Total Assets

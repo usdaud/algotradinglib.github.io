@@ -1,10 +1,10 @@
 # Automated Teller Machine (ATM)
 
-An Automated Teller Machine, commonly referred to as an ATM, is an electronic banking outlet that allows customers to complete basic financial transactions without the need of a branch representative or teller. ATMs are known for their convenience and are strategically placed in locations within easy reach of customers, such as in banks, shopping centers, airports, and other public areas. They [offer](../o/offer.md) a wide array of services and have significantly evolved since their inception to become an integral part of the global financial [infrastructure](../i/infrastructure.md). 
+An Automated Teller Machine, commonly referred to as an ATM, is an electronic banking outlet that allows customers to complete basic financial transactions without the need of a branch representative or teller. ATMs are known for their convenience and are strategically placed in locations within easy reach of customers, such as in banks, shopping centers, airports, and other public areas. They [offer](../o/offer.md) a wide array of services and have significantly evolved since their inception to become an integral part of the global financial [infrastructure](../i/infrastructure.md).
 
 ## History and Evolution
 
-The first mechanical cash dispenser was developed and used by Luther George Simjian in 1960s, but it was the invention by John Shepherd-Barron that is considered the prototype of modern ATMs. Baron's device, installed by Barclays [Bank](../b/bank.md) in London in 1967, allowed customers to withdraw a fixed amount of cash using a special paper [voucher](../v/voucher.md). 
+The first mechanical cash dispenser was developed and used by Luther George Simjian in 1960s, but it was the invention by John Shepherd-Barron that is considered the prototype of modern ATMs. Baron's device, installed by Barclays [Bank](../b/bank.md) in London in 1967, allowed customers to withdraw a fixed amount of cash using a special paper [voucher](../v/voucher.md).
 
 As technology advanced, the design and functionality of ATMs saw significant improvements:
 1. **Magnetic Stripe Cards**: In the 1970s, the adoption of magnetic stripe cards replaced the paper vouchers, enabling secure storage of [customer](../c/customer.md) account information.
@@ -91,12 +91,11 @@ Looking to the future, ATMs [will](../w/will.md) likely continue to evolve with 
 
 Several companies are at the forefront of the ATM [manufacturing](../m/manufacturing.md) and service [industry](../i/industry.md):
 
-1. **Diebold Nixdorf**: A leading global provider of connected [commerce](../c/commerce.md) solutions for the banking and retail sectors. [Diebold Nixdorf](https://www.dieboldnixdorf.com)
-2. **NCR [Corporation](../c/corporation.md)**: An American company that provides technology and services that help businesses connect, interact, and transact with their customers. [NCR Corporation](https://www.ncr.com/)
-3. **Fujitsu**: Known for producing advanced ATM systems that [offer](../o/offer.md) high levels of [security](../s/security.md) and reliability. [Fujitsu](https://www.fujitsu.com)
-4. **Triton Systems**: Specializes in [manufacturing](../m/manufacturing.md) and providing a wide [range](../r/range.md) of high-quality ATMs for financial institutions and retail establishments. [Triton Systems](https://www.triton.com)
+1. **Diebold Nixdorf**: A leading global provider of connected [commerce](../c/commerce.md) solutions for the banking and retail sectors. Diebold Nixdorf
+2. **NCR [Corporation](../c/corporation.md)**: An American company that provides technology and services that help businesses connect, interact, and transact with their customers. NCR Corporation
+3. **Fujitsu**: Known for producing advanced ATM systems that [offer](../o/offer.md) high levels of [security](../s/security.md) and reliability. Fujitsu
+4. **Triton Systems**: Specializes in [manufacturing](../m/manufacturing.md) and providing a wide [range](../r/range.md) of high-quality ATMs for financial institutions and retail establishments. Triton Systems
 
 ## Conclusion
 
 The Automated Teller Machine (ATM) has proven to be a cornerstone of modern banking, enabling greater accessibility, convenience, and [efficiency](../e/efficiency.md) in financial transactions. As technology continues to advance, ATMs are expected to integrate new features and capabilities, further enhancing their role in the banking ecosystem. Whether through biometric authentication, contactless technology, or increased integration with mobile devices, the future of ATMs holds promising innovations that [will](../w/will.md) continue to shape the way we interact with our finances.
-

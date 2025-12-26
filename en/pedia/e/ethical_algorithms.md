@@ -37,15 +37,15 @@ Several frameworks and guidelines help in developing ethical algorithms. These i
 
 Principles-based approaches provide high-level guidelines that need to be interpreted and implemented in the context of specific trading activities.
 
-- **The CFA Institute’s [Code of Ethics](../c/code_of_ethics.md)**: Provides ethical guidelines for professionals in the [finance](../f/finance.md) [industry](../i/industry.md), emphasizing integrity and [transparency](../t/transparency.md). [CFA Institute](https://www.cfainstitute.org/en/ethics-standards/codes)
-- **The ACM [Code of Ethics](../c/code_of_ethics.md)**: Offers a comprehensive set of [ethical standards](../e/ethical_standards_in_trading.md) for computing professionals which can be adapted for [algorithmic trading](../a/algorithmic_trading.md). [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
+- **The CFA Institute’s [Code of Ethics](../c/code_of_ethics.md)**: Provides ethical guidelines for professionals in the [finance](../f/finance.md) [industry](../i/industry.md), emphasizing integrity and [transparency](../t/transparency.md). CFA Institute
+- **The ACM [Code of Ethics](../c/code_of_ethics.md)**: Offers a comprehensive set of [ethical standards](../e/ethical_standards_in_trading.md) for computing professionals which can be adapted for [algorithmic trading](../a/algorithmic_trading.md). ACM Code of Ethics
 
 ### Prescriptive Standards
 
 Prescriptive standards provide specific rules and methodologies for ethical [algorithm design](../a/algorithm_design.md) and implementation.
 
 - **ISO 37001**: An international standard for anti-bribery management systems, relevant for trading firms to ensure ethical practices.
-- **EU’s General Data Protection Regulation (GDPR)**: Ensures data privacy and protection which is crucial for the data-driven domain of [algorithmic trading](../a/algorithmic_trading.md). [EU GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/eu-data-protection-rules_en)
+- **EU’s General Data Protection Regulation (GDPR)**: Ensures data privacy and protection which is crucial for the data-driven domain of [algorithmic trading](../a/algorithmic_trading.md). EU GDPR
 
 ## Practical Implementation of Ethical Algorithms
 
@@ -110,4 +110,4 @@ In August 2012, the Knight [Capital](../c/capital.md) Group experienced a techno
 
 Ethical algorithms in [algorithmic trading](../a/algorithmic_trading.md) are crucial for maintaining [market](../m/market.md) integrity, ensuring fairness, and promoting [transparency](../t/transparency.md). By integrating ethical principles into the design, development, and deployment processes, trading firms can mitigate risks and build [trust](../t/trust.md) in [financial markets](../f/financial_market.md). As technology advances, ongoing efforts in ethical algorithm development, [industry](../i/industry.md) cooperation, and regulatory adaptation are essential for sustainable and responsible trading practices.
 
-For more information on companies involved in developing [ethical standards](../e/ethical_standards_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md), visit their official websites: [CFA Institute](https://www.cfainstitute.org/en/ethics-standards/codes), [ACM](https://www.acm.org/code-of-ethics), and [EU GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/eu-data-protection-rules_en).
+For more information on companies involved in developing [ethical standards](../e/ethical_standards_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md), visit their official websites: CFA Institute, ACM, and EU GDPR.

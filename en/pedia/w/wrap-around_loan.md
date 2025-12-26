@@ -5,7 +5,7 @@ A wrap-around [loan](../l/loan.md), also known as a wrap-around [mortgage](../m/
 ## Structure of a Wrap-Around Loan
 
 ### How It Works
-A wrap-around [loan](../l/loan.md) involves a secondary form of seller-[financing](../f/financing.md) where the seller retains the original [mortgage](../m/mortgage.md) on the property and offers a secondary [loan](../l/loan.md) that includes the remaining balance on the existing [mortgage](../m/mortgage.md) plus an additional amount to cover the new purchase price. 
+A wrap-around [loan](../l/loan.md) involves a secondary form of seller-[financing](../f/financing.md) where the seller retains the original [mortgage](../m/mortgage.md) on the property and offers a secondary [loan](../l/loan.md) that includes the remaining balance on the existing [mortgage](../m/mortgage.md) plus an additional amount to cover the new purchase price.
 
 ### Interest Rates and Payments
 Typically, the buyer makes payments to the seller who, in turn, continues to make payments on the existing [mortgage](../m/mortgage.md). The [interest rate](../i/interest_rate.md) on the wrap-around [loan](../l/loan.md) is usually higher than the [interest rate](../i/interest_rate.md) on the existing [mortgage](../m/mortgage.md), which can benefit the seller with additional [interest](../i/interest.md) [income](../i/income.md). [Payment](../p/payment.md) terms are often [negotiable](../n/negotiable.md) but generally align with standard [mortgage](../m/mortgage.md) schedules.
@@ -55,7 +55,7 @@ Investors might use wrap-around loans as a strategy to acquire [multiple](../m/m
 When the [real estate](../r/real_estate.md) [market](../m/market.md) favors buyers, sellers might [offer](../o/offer.md) wrap-around loans to make their properties more attractive and facilitate quicker sales. This method can be particularly effective when conventional [financing](../f/financing.md) [options](../o/options.md) are limited or unattractive.
 
 ### Case Study: ABC Realty Inc.
-Consider ABC Realty Inc., a [real estate](../r/real_estate.md) company specializing in [investor](../i/investor.md) properties. By [offering](../o/offering.md) wrap-around loans, they enable investors to acquire properties without the need for traditional [bank](../b/bank.md) [financing](../f/financing.md). This approach not only speeds up transactions but also provides ABC Realty with a steady stream of [interest](../i/interest.md) [income](../i/income.md). More information about their unique [financing](../f/financing.md) [options](../o/options.md) can be found on their [official website](https://abcrealtyinc.com).
+Consider ABC Realty Inc., a [real estate](../r/real_estate.md) company specializing in [investor](../i/investor.md) properties. By [offering](../o/offering.md) wrap-around loans, they enable investors to acquire properties without the need for traditional [bank](../b/bank.md) [financing](../f/financing.md). This approach not only speeds up transactions but also provides ABC Realty with a steady stream of [interest](../i/interest.md) [income](../i/income.md). More information about their unique [financing](../f/financing.md) [options](../o/options.md)
 
 ## Conclusion
 

@@ -59,5 +59,4 @@ Optimus [Futures](../f/futures.md) employs [robust](../r/robust.md) [security](.
 - **Secure Data Centers**: Physical and cyber [security](../s/security.md) measures to ensure the integrity of trading [infrastructure](../i/infrastructure.md).
 - **Regular Audits**: Compliance with regulatory requirements through regular internal and external audits.
 
-## Website
-For more information about Optimus [Futures](../f/futures.md) and their services, visit the official website: [Optimus Futures](https://www.optimusfutures.com/)
+For more information about Optimus [Futures](../f/futures.md) and their services,

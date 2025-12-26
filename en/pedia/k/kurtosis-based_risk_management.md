@@ -53,19 +53,19 @@ Several trading platforms and software incorporate [kurtosis](../k/kurtosis.md)-
 
 [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to develop and backtest [trading strategies](../t/trading_strategies.md). The platform supports higher moments, including [kurtosis](../k/kurtosis.md), in its [risk management](../r/risk_management.md) modules.
 
-- [QuantConnect](https://www.quantconnect.com/)
+- QuantConnect
 
 #### 2. Numer.ai
 
 Numerai is a [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) and AI for trading. Their focus on statistical modeling includes leveraging advanced [risk metrics](../r/risk_metrics.md) like [kurtosis](../k/kurtosis.md) to refine [trading algorithms](../t/trading_algorithms.md).
 
-- [Numer.ai](https://numer.ai/)
+- Numer.ai
 
 #### 3. Quantlib
 
 [Quantlib](../q/quantlib.md) is an [open](../o/open.md)-source library aimed at providing tools for [financial instrument](../f/financial_instrument.md) [valuation](../v/valuation.md) and analysis. It includes various [risk management](../r/risk_management.md) techniques, enabling the integration of [kurtosis](../k/kurtosis.md) into custom [risk models](../r/risk_models_in_trading.md).
 
-- [Quantlib](http://quantlib.org/)
+- Quantlib
 
 ### Case Study: Portfolio Management with Kurtosis
 

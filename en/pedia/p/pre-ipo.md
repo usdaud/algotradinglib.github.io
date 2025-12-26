@@ -43,7 +43,7 @@ Compliance with legal and regulatory requirements is paramount. This often invol
 Many companies engage in Pre-IPO funding rounds to raise [capital](../c/capital.md). This process entails:
 
 - **[Valuation](../v/valuation.md):** Determining the company's [valuation](../v/valuation.md) and pricing the [shares](../s/shares.md) accordingly.
-- **[Investor Relations](../i/investor_relations.md):** Building relationships with potential investors and communicating the company's vision, mission, and future plans.
+- **[company filings](../i/investor_relations.md):** Building relationships with potential investors and communicating the company's vision, mission, and future plans.
 
 ### 5. Marketing
 
@@ -86,11 +86,11 @@ Final steps in the Pre-IPO process involve:
 
 ### Uber Technologies Inc.
 
-Uber, a globally recognized ride-hailing company, underwent extensive preparations before its IPO in May 2019. The company had [multiple](../m/multiple.md) funding rounds that raised billions and achieved a [valuation](../v/valuation.md) of approximately $82 billion at the time of its IPO. The details of their IPO process can be explored further on their [Investor Relations page](https://investor.uber.com).
+Uber, a globally recognized ride-hailing company, underwent extensive preparations before its IPO in May 2019. The company had [multiple](../m/multiple.md) funding rounds that raised billions and achieved a [valuation](../v/valuation.md) of approximately $82 billion at the time of its IPO. The details of their IPO process can be explored further on their company filings.
 
 ### Airbnb
 
-Another notable example is Airbnb, an online marketplace for lodging and tourism activities. Before [going public](../g/going_public.md) in December 2020, Airbnb undertook meticulous planning, ranging from financial audits to strategic [market](../m/market.md) positioning. Detailed information is available on their [Investor Relations page](https://investors.airbnb.com).
+Another notable example is Airbnb, an online marketplace for lodging and tourism activities. Before [going public](../g/going_public.md) in December 2020, Airbnb undertook meticulous planning, ranging from financial audits to strategic [market](../m/market.md) positioning. Detailed information is available on their company filings.
 
 ## Conclusion
 

@@ -38,11 +38,11 @@ Several financial institutions have started integrating knowledge graphs into th
 
 ### Fintech Companies
 
-Fintech companies like [Kensho Technologies](https://www.kensho.com/) [leverage](../l/leverage.md) knowledge graphs to support their [data analytics](../d/data_analytics.md) and decision-making platforms. Kensho's systems use knowledge graphs to connect various data points and provide valuable insights, helping traders make informed decisions.
+Fintech companies like Kensho Technologies [leverage](../l/leverage.md) knowledge graphs to support their [data analytics](../d/data_analytics.md) and decision-making platforms. Kensho's systems use knowledge graphs to connect various data points and provide valuable insights, helping traders make informed decisions.
 
 ### Market Data Providers
 
-[Market](../m/market.md) data providers such as [Refinitiv](https://www.refinitiv.com/) integrate knowledge graphs to deliver enriched data sets that help traders and analysts uncover hidden relationships and trends in the [market](../m/market.md).
+[Market](../m/market.md) data providers such as Refinitiv integrate knowledge graphs to deliver enriched data sets that help traders and analysts uncover hidden relationships and trends in the [market](../m/market.md).
 
 ## Implementation of Knowledge Graphs
 

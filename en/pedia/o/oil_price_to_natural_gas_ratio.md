@@ -71,10 +71,10 @@ Analysts often represent this ratio graphically over time to identify trends, an
 
 ### Case Studies
 
-**Case Study 1: Winter of 2013-2014**  
+**Case Study 1: Winter of 2013-2014**
 The Polar Vortex significantly increased the [demand](../d/demand.md) for heating, causing natural gas prices to spike. Consequently, the oil-to-natural-gas ratio declined dramatically, impacting heating oil and electricity markets.
 
-**Case Study 2: The Shale Revolution**  
+**Case Study 2: The Shale Revolution**
 The advent of fracking technology in the early 2000s massively increased the [supply](../s/supply.md) of natural gas in the United States. This led to a sustained decrease in natural gas prices and, hence, an elevated oil-to-natural-gas ratio for several years.
 
 ## Implications for Algoritrading
@@ -83,19 +83,19 @@ The advent of fracking technology in the early 2000s massively increased the [su
 
 Reliable data sources are crucial for consistently tracking and trading based on the oil-to-natural-gas ratio. Some of these include:
 
-- **EIA (Energy Information Administration)**: [EIA](https://www.eia.gov/)
-- **NYMEX (New York Mercantile [Exchange](../e/exchange.md))**: [CME Group](https://www.cmegroup.com/markets/energy.html)
-- **ICE (Intercontinental [Exchange](../e/exchange.md))**: [ICE](https://www.theice.com/marketdata/reports/158)
+- **EIA (Energy Information Administration)**: EIA
+- **NYMEX (New York Mercantile [Exchange](../e/exchange.md))**: CME Group
+- **ICE (Intercontinental [Exchange](../e/exchange.md))**: ICE
 
 ### Algorithmic Strategies
 
-**[Mean Reversion](../m/mean_reversion.md) Strategy**  
+**[Mean Reversion](../m/mean_reversion.md) Strategy**
 This strategy involves identifying the historical mean of the ratio and taking positions based on deviations from this mean. For instance, when the ratio is significantly above the historical average, an algorithm might short oil and long natural gas.
 
-**Pair Trading**  
+**Pair Trading**
 Here, the algorithm would simultaneously take long and short positions on oil and natural gas based on the ratio. The aim is to [profit](../p/profit.md) from the relative movement between the two, irrespective of the individual price movements.
 
-**[Machine Learning](../m/machine_learning.md) Applications**  
+**[Machine Learning](../m/machine_learning.md) Applications**
 Advanced [machine learning](../m/machine_learning.md) models like [Random Forests](../r/random_forests_in_trading.md), Gradient Boosting Machines, and [Neural Networks](../n/neural_networks_in_trading.md) can be trained to predict the ratio based on historical price data, [economic indicators](../e/economic_indicators.md), and other covariates.
 
 ### Risk Management
@@ -123,5 +123,5 @@ The oil price to natural gas ratio is a vital metric for understanding the [rela
 To stay ahead, it is crucial to [leverage](../l/leverage.md) reliable data sources, advanced analytical tools, and [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). Whether you are a seasoned [trader](../t/trader.md) or a newcomer, understanding and using the oil-to-natural-gas ratio can significantly enhance your approach to the energy markets.
 
 **Further Reading and Resources**:
-- [NYMEX Crude Oil Futures](https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude.html)
-- [NYMEX Natural Gas Futures](https://www.cmegroup.com/trading/energy/natural-gas/natural-gas.html)
+- NYMEX Crude Oil Futures
+- NYMEX Natural Gas Futures

@@ -20,14 +20,14 @@ The calculation for the 10-Period RSI involves the following steps:
 To better illustrate, let's calculate the 10-Period RSI:
 1. Consider a hypothetical sequence of closing prices over 10 periods: [54, 56, 58, 57, 60, 62, 61, 63, 65, 67]
 2. Calculate the average gains and losses:
-    - Gains: (56-54), (58-56), (60-57), (62-60), (63-61), (65-63), (67-65) = [2, 2, 3, 2, 2, 2, 2]
-    - Losses: (57-58), (61-62) = [ -1, -1]
+ - Gains: (56-54), (58-56), (60-57), (62-60), (63-61), (65-63), (67-65) = [2, 2, 3, 2, 2, 2, 2]
+ - Losses: |57-58|, |61-62| = [1, 1] (Note: per J. Welles Wilder methodology, losses are expressed as positive absolute values)
 3. Average [Gain](../g/gain.md) = (2+2+3+2+2+2+2) / 10 = 1.5
-4. Average Loss = (-1 + -1) / 10 = -0.2
-5. RS = Average [Gain](../g/gain.md) / Average Loss = 1.5 / (-0.2) = -7.5
-6. RSI = 100 - (100 / (1 + RS)) = 100 - [100 / (1 - 7.5)] = 100 - (100 / -6.5) = 100 - (-15.4) = 115.4
+4. Average Loss = (1 + 1) / 10 = 0.2
+5. RS = Average [Gain](../g/gain.md) / Average Loss = 1.5 / 0.2 = 7.5
+6. RSI = 100 - (100 / (1 + RS)) = 100 - (100 / 8.5) = 100 - 11.76 = 88.24
 
-Clearly, RSIs involving very small denominators [will](../w/will.md) have amplified results, hence real trading data is required for practical usage.
+This RSI value of 88.24 indicates an [overbought](../o/overbought.md) condition, which aligns with the predominantly upward price movement in our example data.
 
 ## Applications in Algorithmic Trading
 
@@ -43,7 +43,7 @@ The use of a 10-period RSI in [algorithmic trading](../a/algorithmic_trading.md)
 [Algorithmic trading](../a/algorithmic_trading.md) utilizes various programming languages and tools to automate [trading strategies](../t/trading_strategies.md) based on RSI indicators. Common platforms and languages include:
 - **Python**: Libraries such as TA-Lib and pandas provide tools to calculate RSI and backtest strategies.
 - **C++ and JAVA**: These [offer](../o/offer.md) low latency solutions ideal for high-frequency trading environments.
-- **Trading Platforms**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [TradeStation](../t/tradestation.md) allow implementing custom RSI algorithms in their scripting environments.
+- **Trading Platforms**: Platforms like MetaTrader, [StockSharp](../s/stocksharp.md), and [TradeStation](../t/tradestation.md) allow implementing custom RSI algorithms in their scripting environments.
 
 #### Python Implementation Example
 
@@ -79,13 +79,13 @@ print(df)
 ### High-Frequency Trading Firms
 
 Firms like Virtu Financial and Citadel Securities likely incorporate RSI in their broad suite of [technical indicators](../t/technical_indicators.md) for rapid decision-making:
-- Virtu Financial: [Virtu Financial](https://www.virtu.com/)
-- Citadel Securities: [Citadel Securities](https://www.citadelsecurities.com/)
+- Virtu Financial: Virtu Financial
+- Citadel Securities: Citadel Securities
 
 ### Academic Research
 
-Several academic papers and articles have explored the [optimization](../o/optimization.md) of RSI and the impact of different period settings on trading outcomes. 
+Several academic papers and articles have explored the [optimization](../o/optimization.md) of RSI and the impact of different period settings on trading outcomes.
 
 ## Conclusion
 
-The 10-period RSI is a powerful tool for traders seeking to [capitalize](../c/capitalize.md) on short-term price movements. Its higher sensitivity compared to longer-period RSIs makes it particularly suitable for active traders and [algorithmic trading](../a/algorithmic_trading.md) applications. Coupled with modern programming and [machine learning](../m/machine_learning.md) technologies, it offers a [robust](../r/robust.md) framework for developing sophisticated [trading strategies](../t/trading_strategies.md).
+The 10-period RSI is a powerful tool for traders seeking to [capitalize](../c/capitalize.md) on short-term price movements. Its higher sensitivity compared to longer-period RSIs makes it particularly suitable for active traders and [algorithmic trading](../a/algorithmic_trading.md) applications. Coupled with modern programming and [machine learning](../m/machine_learning.md) technologies, it offers a [robust](../r/robust.md) framework for developing sophisticated [trading strategies](../t/trading_strategies.md).

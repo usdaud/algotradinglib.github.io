@@ -4,7 +4,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), unfilled ord
 
 ## What are Unfilled Orders?
 
-Unfilled orders, also known as "[open](../o/open.md) orders" or "pending orders," are orders that have been submitted to the [market](../m/market.md) but have not yet been executed. An [order](../o/order.md) may remain unfilled for various reasons, including [market](../m/market.md) conditions, [order](../o/order.md) specifications, and [trading strategy](../t/trading_strategy.md) constraints. 
+Unfilled orders, also known as "[open](../o/open.md) orders" or "pending orders," are orders that have been submitted to the [market](../m/market.md) but have not yet been executed. An [order](../o/order.md) may remain unfilled for various reasons, including [market](../m/market.md) conditions, [order](../o/order.md) specifications, and [trading strategy](../t/trading_strategy.md) constraints.
 
 ## Causes of Unfilled Orders
 
@@ -39,9 +39,9 @@ Effective management of unfilled orders is essential for improving [trading stra
 
 Several tools and technologies assist in managing unfilled orders in [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **[Order Management Systems](../o/order_management_systems.md) (OMS):** OMS platforms such as [Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/) help traders manage and monitor unfilled orders efficiently.
-2. **[Execution](../e/execution.md) Management Systems (EMS):** EMS platforms like [FlexTrade](https://flextrade.com/) provide sophisticated tools to [handle](../h/handle.md) [order](../o/order.md) [execution](../e/execution.md) and minimize unfilled orders.
-3. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms:** Platforms such as [AlgoTrader](https://www.algotrader.com/) and [QuantConnect](https://www.quantconnect.com/) allow traders to create complex algorithms to manage and execute orders effectively.
+1. **[Order Management Systems](../o/order_management_systems.md) (OMS):** OMS platforms such as Bloomberg AIM help traders manage and monitor unfilled orders efficiently.
+2. **[Execution](../e/execution.md) Management Systems (EMS):** EMS platforms like FlexTrade provide sophisticated tools to [handle](../h/handle.md) [order](../o/order.md) [execution](../e/execution.md) and minimize unfilled orders.
+3. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms:** Platforms such as AlgoTrader and QuantConnect allow traders to create complex algorithms to manage and execute orders effectively.
 
 ## Conclusion
 

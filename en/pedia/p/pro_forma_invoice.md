@@ -87,7 +87,7 @@ For smaller businesses or less frequent transactions, a [pro forma](../p/pro_for
 
 ### Online Platforms
 
-Several online platforms, such as [Invoice Home](https://www.invoicehome.com/) and [Zoho Invoice](https://www.zoho.com/invoice/), provide easy-to-use interfaces for creating and sending [pro forma](../p/pro_forma.md) invoices. These services often include additional features like tracking and [payment](../p/payment.md) processing.
+Several online platforms, such as Invoice Home and Zoho Invoice, provide easy-to-use interfaces for creating and sending [pro forma](../p/pro_forma.md) invoices. These services often include additional features like tracking and [payment](../p/payment.md) processing.
 
 ## Benefits and Drawbacks
 

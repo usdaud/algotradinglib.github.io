@@ -12,7 +12,7 @@ The 130-30 strategy belongs to the family of long-short [equity](../e/equity.md)
 
 2. **Short Positions**: Concurrently, the strategy includes shorting securities expected to decline in [value](../v/value.md). The 30% short exposure serves to [hedge](../h/hedge.md) against [market](../m/market.md) risks and to marginally increase the [fund](../f/fund.md)'s [leverage](../l/leverage.md) by [financing](../f/financing.md) additional long positions with the proceeds from [short selling](../s/short_selling.md).
 
-3. **[Net Exposure](../n/net_exposure.md)**: The [net exposure](../n/net_exposure.md) of the portfolio remains at 100%, meaning it has the same level of [market risk](../m/market_risk.md) as a traditional portfolio without additional [market](../m/market.md) [volatility](../v/volatility.md). 
+3. **[Net Exposure](../n/net_exposure.md)**: The [net exposure](../n/net_exposure.md) of the portfolio remains at 100%, meaning it has the same level of [market risk](../m/market_risk.md) as a traditional portfolio without additional [market](../m/market.md) [volatility](../v/volatility.md).
 
 4. **[Leverage](../l/leverage.md)**: The gross [leverage](../l/leverage.md) of 160% (130% long + 30% short) allows the strategy to potentially generate higher returns by [investing](../i/investing.md) an extra 30% in high-potential long positions funded through [short selling](../s/short_selling.md).
 
@@ -33,9 +33,9 @@ Implementing a 130-30 strategy requires advanced trading practices and [robust](
 #### Benefits
 
 1. **Enhanced Returns**: By using [leverage](../l/leverage.md), the strategy aims to [yield](../y/yield.md) higher returns than traditional [long-only strategies](../l/long-only_strategies.md).
-   
+
 2. **Efficient [Capital](../c/capital.md) Utilization**: Allows investors to [capitalize](../c/capitalize.md) fully on their high-conviction ideas without being constrained by a 100% long-only mandate.
-   
+
 3. **[Risk Management](../r/risk_management.md)**: The inclusion of short positions can [hedge](../h/hedge.md) against broader [market](../m/market.md) risks and reduce the impact of [market](../m/market.md) downturns.
 
 4. **[Alpha Generation](../a/alpha_generation.md)**: The strategy offers opportunities for generating [alpha](../a/alpha.md) by identifying and exploiting [market](../m/market.md) inefficiencies, both on the long and short sides.
@@ -43,7 +43,7 @@ Implementing a 130-30 strategy requires advanced trading practices and [robust](
 #### Risks
 
 1. **[Leverage](../l/leverage.md) [Risk](../r/risk.md)**: Higher [leverage](../l/leverage.md) amplifies both gains and losses. Significant losses can occur if the [market](../m/market.md) moves against the portfolio’s positions.
-   
+
 2. **[Short Selling](../s/short_selling.md) [Risk](../r/risk.md)**: [Short selling](../s/short_selling.md) involves borrowing securities, which introduces risks such as borrowing costs, recall [risk](../r/risk.md), and infinite loss potential if a shorted [security](../s/security.md)’s price rises indefinitely.
 
 3. **Complexity**: The strategy requires sophisticated trading [infrastructure](../i/infrastructure.md), continuous monitoring, and adept [risk management](../r/risk_management.md) practices. [Execution](../e/execution.md) costs can erode potential gains.
@@ -66,9 +66,9 @@ Implementing a 130-30 strategy requires advanced trading practices and [robust](
 
 Several [asset management](../a/asset_management.md) firms and financial institutions [offer](../o/offer.md) funds and investment vehicles employing the 130-30 strategy. They utilize sophisticated [quantitative models](../q/quantitative_models.md) and deep [market](../m/market.md) analysis to navigate the complexities of this strategy.
 
-For example, [AllianceBernstein](https://www.alliancebernstein.com) offers a variety of investment solutions that may include 130-30 strategies, leveraging their extensive research capabilities and global investment platform.
+For example, AllianceBernstein offers a variety of investment solutions that may include 130-30 strategies, leveraging their extensive research capabilities and global investment platform.
 
-Another notable example is [BlackRock](https://www.blackrock.com), which provides funds and bespoke investment strategies incorporating 130-30 principles, utilizing their advanced [risk management systems](../r/risk_management_systems.md) and [robust](../r/robust.md) investment frameworks.
+Another notable example is BlackRock, which provides funds and bespoke investment strategies incorporating 130-30 principles, utilizing their advanced [risk management systems](../r/risk_management_systems.md) and [robust](../r/robust.md) investment frameworks.
 
 ### Conclusion
 

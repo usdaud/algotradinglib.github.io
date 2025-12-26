@@ -1,6 +1,6 @@
 # Bottleneck
 
-In the field of [algorithmic trading](../a/accountability.md) (often abbreviated as algotrading), the term "bottleneck" refers to any point in a trading system where the performance or [efficiency](../e/efficiency.md) is significantly reduced. This could be due to limited processing power, insufficient bandwidth, or delays in data [acquisition](../a/acquisition.md). [Algorithmic trading](../a/accountability.md) relies heavily on speed and precision, meaning that bottlenecks can severely impact the profitability and effectiveness of [trading strategies](../t/trading_strategies.md). 
+In the field of [algorithmic trading](../a/accountability.md) (often abbreviated as algotrading), the term "bottleneck" refers to any point in a trading system where the performance or [efficiency](../e/efficiency.md) is significantly reduced. This could be due to limited processing power, insufficient bandwidth, or delays in data [acquisition](../a/acquisition.md). [Algorithmic trading](../a/accountability.md) relies heavily on speed and precision, meaning that bottlenecks can severely impact the profitability and effectiveness of [trading strategies](../t/trading_strategies.md).
 
 ## Understanding Bottlenecks in Algotrading
 
@@ -87,13 +87,11 @@ HFT firms routinely analyze and optimize their [infrastructure](../i/infrastruct
 
 Virtu Financial is a global leader in [market](../m/market.md) making and [execution](../e/execution.md) services, known for its high-frequency trading capabilities. Their success hinges on maintaining low-latency and high-[throughput](../t/throughput.md) systems to execute [trading strategies](../t/trading_strategies.md) effectively.
 
-[Virtu Financial](https://www.virtu.com/)
 
 ### Citadel Securities
 
 Citadel Securities is another prominent player in the HFT space. They utilize sophisticated algorithms and state-of-the-art technology [infrastructure](../i/infrastructure.md) to minimize bottlenecks and maximize trading [efficiency](../e/efficiency.md).
 
-[Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Conclusion
 

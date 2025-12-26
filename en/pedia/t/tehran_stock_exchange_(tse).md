@@ -95,4 +95,4 @@ The future of the TSE looks promising, with various initiatives aimed at enhanci
 
 The Tehran Stock [Exchange](../e/exchange.md) is a cornerstone of Iran's [capital](../c/capital.md) [market](../m/market.md), playing a vital role in the country's economic development. Despite facing several challenges, the TSE continues to grow and evolve, [offering](../o/offering.md) numerous opportunities for investors and companies alike. With ongoing efforts to enhance [market](../m/market.md) [infrastructure](../i/infrastructure.md) and regulatory frameworks, the future prospects for the TSE remain bright.
 
-For more information, visit the official website of the Tehran Stock [Exchange](../e/exchange.md): [TSE Official Website](http://www.tse.ir)
+./e/exchange.md):

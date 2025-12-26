@@ -16,7 +16,7 @@ There are several tools that governments and central banks can use to implement 
 
 ### 1. **Raising Interest Rates**
 
-When central banks raise [interest](../i/interest.md) rates, borrowing becomes more expensive, which reduces spending and investment. Higher [interest](../i/interest.md) rates can help reduce the [money supply](../m/money_supply.md) and [demand](../d/demand.md), leading to lower [inflation](../i/inflation.md). A notable example is the Federal Reserve in the United States, which uses the [federal funds rate](../f/federal_funds_rate.md) as a primary lever to influence economic activity. 
+When central banks raise [interest](../i/interest.md) rates, borrowing becomes more expensive, which reduces spending and investment. Higher [interest](../i/interest.md) rates can help reduce the [money supply](../m/money_supply.md) and [demand](../d/demand.md), leading to lower [inflation](../i/inflation.md). A notable example is the Federal Reserve in the United States, which uses the [federal funds rate](../f/federal_funds_rate.md) as a primary lever to influence economic activity.
 
 ### 2. **Selling Government Bonds**
 
@@ -55,14 +55,12 @@ The effectiveness of contractionary policy largely depends on the current [econo
 
 In the late 1970s and early 1980s, the United States faced high [inflation](../i/inflation.md) levels. In response, Federal Reserve Chairman Paul Volcker implemented a series of contractionary policies, including raising [interest](../i/interest.md) rates to unprecedented levels. These measures were successful in reducing [inflation](../i/inflation.md) but also led to a deep [recession](../r/recession.md).
 
-- Federal Reserve: [www.federalreserve.gov](https://www.federalreserve.gov)
-
+- Federal Reserve
 #### European Union - Austerity Measures
 
 During the [European sovereign debt crisis](../e/european_sovereign_debt_crisis.md) in the early 2010s, several countries in the [European Union](../e/european_union_(eu).md), such as Greece, Spain, and Portugal, implemented austerity measures. These measures were aimed at reducing [budget](../b/budget.md) deficits and stabilizing economies but also led to significant social and economic hardships.
 
-- European Central [Bank](../b/bank.md): [www.ecb.europa.eu](https://www.ecb.europa.eu)
-
+- European Central [Bank](../b/bank.md)
 ## Conclusion
 
 Contractionary policy is a crucial tool for managing economic activity and controlling [inflation](../i/inflation.md). While it can help stabilize an [economy](../e/economy.md), it must be implemented carefully and thoughtfully to avoid negative side effects like [recession](../r/recession.md) and political backlash. Understanding the tools, objectives, and potential impacts of contractionary policy is essential for policymakers, economists, and the general public.

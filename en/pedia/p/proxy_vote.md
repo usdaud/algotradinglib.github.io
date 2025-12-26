@@ -64,8 +64,8 @@ Institutional investors have a fiduciary duty to vote their proxies in the best 
 
 To aid institutional investors, [proxy](../p/proxy.md) advisory firms provide research, analysis, and voting recommendations. Prominent firms in this space include Institutional [Shareholder](../s/shareholder.md) Services (ISS) and Glass Lewis.
 
-- [Institutional Shareholder Services](https://www.issgovernance.com/)
-- [Glass Lewis](https://www.glasslewis.com/)
+- Institutional Shareholder Services
+- Glass Lewis
 
 ## Proxy Voting and Activism
 
@@ -87,7 +87,7 @@ The rise of online platforms and [blockchain](../b/blockchain_in_trading.md) tec
 
 [Blockchain](../b/blockchain_in_trading.md) technology offers a decentralized, tamper-resistant way to record votes, which can significantly enhance the accuracy and integrity of [proxy](../p/proxy.md) voting.
 
-**Example**: Broadridge Financial Solutions has been pioneering [blockchain](../b/blockchain_in_trading.md)-based [proxy](../p/proxy.md) voting solutions. For more information, visit [Broadridge](https://www.broadridge.com/).
+**Example**: Broadridge Financial Solutions has been pioneering [blockchain](../b/blockchain_in_trading.md)-based [proxy](../p/proxy.md) voting solutions. For more information, visit Broadridge.
 
 ## Conclusion
 

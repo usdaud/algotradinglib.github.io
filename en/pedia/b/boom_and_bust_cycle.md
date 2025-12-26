@@ -55,10 +55,10 @@ Another significant example is the 2008 [financial crisis](../f/financial_crisis
 
 Several companies specialize in [algorithmic trading](../a/accountability.md) and have significant influence on [financial markets](../f/financial_market.md):
 
-1. **Citadel**: Citadel is one of the world's leading [hedge](../h/hedge.md) funds and [market](../m/market.md) makers, known for its extensive use of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). [Citadel](https://www.citadel.com/)
-2. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md) and advanced algorithms for trading. [Two Sigma](https://www.twosigma.com/)
-3. **Renaissance Technologies**: Renowned for its Medallion [Fund](../f/fund.md), which uses sophisticated algorithms to achieve high returns. [Renaissance Technologies](https://www.rentec.com/)
-4. **Virtu Financial**: A leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider that employs [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md). [Virtu Financial](https://www.virtu.com/)
+1. **Citadel**: Citadel is one of the world's leading [hedge](../h/hedge.md) funds and [market](../m/market.md) makers, known for its extensive use of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Citadel
+2. **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that leverages [big data](../b/big_data_in_trading.md) and advanced algorithms for trading. Two Sigma
+3. **Renaissance Technologies**: Renowned for its Medallion [Fund](../f/fund.md), which uses sophisticated algorithms to achieve high returns. Renaissance Technologies
+4. **Virtu Financial**: A leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider that employs [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md). Virtu Financial
 
 ## Mitigating the Effects of Boom and Bust Cycles
 

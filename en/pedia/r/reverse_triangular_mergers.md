@@ -35,7 +35,7 @@ The process can be more palatable to the target company’s shareholders since t
 ### Delaware General Corporation Law (DGCL)
 Many RTMs are structured under Delaware law due to its [business](../b/business.md)-friendly statutes. A critical [provision](../p/provision.md) is Section 251 of the DGCL, which sets out the requirements for mergers and requires the approval of a majority of the target company’s shareholders.
 
-### Securities Laws 
+### Securities Laws
 Compliance with federal securities laws is essential. The [Securities Act of 1933](../s/securities_act_of_1933.md) and the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md) regulate the issuance of [shares](../s/shares.md) and require proper [disclosure](../d/disclosure.md) to protect investors and ensure [transparency](../t/transparency.md).
 
 ### Contractual Obligations
@@ -55,7 +55,7 @@ Proper [valuation](../v/valuation.md) of the target company is essential to dete
 ### Financing the Merger
 [Financing](../f/financing.md) might be required to facilitate the [transaction](../t/transaction.md). Companies may utilize existing cash reserves, [issue](../i/issue.md) new stock, or seek [debt financing](../d/debt_financing.md). The chosen method impacts the acquirer’s [capital structure](../c/capital_structure.md) and needs careful consideration.
 
-### Post-Merger Integration 
+### Post-Merger Integration
 While the target company continues to exist, integration plans should be prepared to combine operational, administrative, and cultural aspects to ensure smooth functioning post-[merger](../m/merger.md). This might include aligning human resources strategies, IT systems, and [corporate governance](../c/corporate_governance.md) practices.
 
 ## Case Studies
@@ -70,4 +70,4 @@ Another example is Cisco’s strategic [acquisition](../a/acquisition.md) of Web
 
 A reverse triangular [merger](../m/merger.md) provides an efficient and strategic method for acquiring a company while maintaining continuity and leveraging the target’s existing contracts and operational structure. Proper planning, thorough [due diligence](../d/due_diligence.md), and strategic integration are crucial for leveraging the benefits of such mergers. The intricate balance of legal, financial, and operational considerations makes RTMs a complex yet rewarding strategy for corporate growth and [expansion](../e/expansion.md).
 
-For more details on companies that have employed RTMs and other [merger](../m/merger.md) strategies, visit [VMware's Official Page](https://www.vmware.com/), [Cisco's Official Page](https://www.cisco.com/).
+For more details on companies that have employed RTMs and other [merger](../m/merger.md) strategies,

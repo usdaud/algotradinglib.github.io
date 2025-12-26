@@ -48,5 +48,4 @@ A prominent example is the oil and gas [industry](../i/industry.md), where compa
 
 LIFO [liquidation](../l/liquidation.md) is a critical concept in [inventory accounting](../i/inventory_accounting.md) with substantial financial ramifications. Companies adopting the LIFO method should be vigilant about their [inventory](../i/inventory.md) levels and engage in proactive management to avoid unintended financial consequences. By understanding the causes, impacts, and mitigation strategies related to LIFO [liquidation](../l/liquidation.md), businesses can navigate this complex area effectively, ensuring financial stability and compliance with [accounting](../a/accounting.md) standards.
 
-For further information on [finance](../f/finance.md) and trading topics, please visit [finance example company](https://www.financeexample.com).
-
+For further information on [finance](../f/finance.md) and trading topics, please visit finance example company.

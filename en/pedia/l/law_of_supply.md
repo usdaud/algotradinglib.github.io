@@ -16,39 +16,35 @@ Several factors affect the [supply](../s/supply.md) of a good or service, includ
 ## Application in Algorithmic Trading
 
 ### Importance in Financial Markets
-In [financial markets](../f/financial_market.md), the Law of [Supply](../s/supply.md) plays a crucial role in determining the prices of financial securities such as [stocks](../s/stock.md), bonds, and commodities. [Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute trades at speeds and frequencies that would be impossible for human traders.
+In [financial markets](../f/financial_market.md), the Law of [Supply](../s/supply.md) plays a crucial role in determining the prices of financial securities such as [stocks](../s/stock.md), bonds, and commodities. [Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute trades at speeds and frequencies that would be impossible for human traders.
 
 ### Data Analysis
 Algo traders analyze large datasets to understand the [supply](../s/supply.md) and [demand](../d/demand.md) conditions in the [market](../m/market.md). They use statistical models and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to predict how changes in [supply](../s/supply.md) (for instance, more [shares](../s/shares.md) being issued) [will](../w/will.md) affect prices.
 
 ### High-frequency Trading
-High-frequency trading (HFT) is a subset of [algorithmic trading](../a/accountability.md) that involves executing a large number of orders at extremely high speeds. HFT firms often create algorithms that react to [supply](../s/supply.md) signals much faster than traditional traders can, thereby gaining a competitive edge.
+High-frequency trading (HFT) is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing a large number of orders at extremely high speeds. HFT firms often create algorithms that react to [supply](../s/supply.md) signals much faster than traditional traders can, thereby gaining a competitive edge.
 
 ### Risk Management
 Understanding the Law of [Supply](../s/supply.md) helps in effective [risk management](../r/risk_management.md). Algorithmic traders use various strategies to [hedge](../h/hedge.md) against [supply](../s/supply.md) risks, such as using [derivative](../d/derivative.md) instruments like [options](../o/options.md) and [futures](../f/futures.md).
 
 ## Companies and Technologies
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) is a leading [algorithmic trading](../a/accountability.md) platform that provides tools and data for traders to develop algorithms. The platform offers access to historical [market](../m/market.md) data, strategy [backtesting](../b/backtesting.md), and live trading capabilities.
-[QuantConnect](https://www.quantconnect.com/)
+### StockSharp
+[StockSharp](../s/stocksharp.md) is a leading [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools and data for traders to develop algorithms. The platform offers access to historical [market](../m/market.md) data, strategy [backtesting](../b/backtesting.md), and live trading capabilities.
 
 ### Alpaca
 [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading APIs for developers to create their [trading algorithms](../t/trading_algorithms.md). The platform allows users to [trade](../t/trade.md) [stocks](../s/stock.md) and cryptocurrencies and provides [real-time market data](../r/real-time_market_data.md).
-[Alpaca](https://alpaca.markets/)
 
 ### TradeStation
-[TradeStation](../t/tradestation.md) is another prominent platform that offers advanced trading tools, including [algorithmic trading](../a/accountability.md) capabilities. It allows for the creation and testing of [trading strategies](../t/trading_strategies.md) with its [robust](../r/robust.md) set of features.
-[TradeStation](https://www.tradestation.com/)
+[TradeStation](../t/tradestation.md) is another prominent platform that offers advanced trading tools, including [algorithmic trading](../a/algorithmic_trading.md) capabilities. It allows for the creation and testing of [trading strategies](../t/trading_strategies.md) with its [robust](../r/robust.md) set of features.
 
 ### Bloomberg Terminal
 A [Bloomberg Terminal](../b/bloomberg_terminal.md) is an essential tool for professional traders. It offers [real-time market data](../r/real-time_market_data.md), news, and analytics, which are crucial for crafting algorithms that exploit [supply](../s/supply.md) and [demand](../d/demand.md) imbalances in the [market](../m/market.md).
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Case Studies
 
 ### Flash Crashes
-One of the most famous incidents highlighting the impact of [supply](../s/supply.md) and [demand](../d/demand.md) dynamics in [algorithmic trading](../a/accountability.md) is the "Flash Crash" of May 6, 2010. A large sell [order](../o/order.md) led to a cascade of [algorithmic trading](../a/accountability.md), causing a significant drop in stock prices within minutes. This event underscored the importance of understanding [supply](../s/supply.md) conditions in high-frequency trading.
+One of the most famous incidents highlighting the impact of [supply](../s/supply.md) and [demand](../d/demand.md) dynamics in [algorithmic trading](../a/algorithmic_trading.md) is the "Flash Crash" of May 6, 2010. A large sell [order](../o/order.md) led to a cascade of [algorithmic trading](../a/algorithmic_trading.md), causing a significant drop in stock prices within minutes. This event underscored the importance of understanding [supply](../s/supply.md) conditions in high-frequency trading.
 
 ### Arbitrage Strategies
 [Arbitrage](../a/arbitrage.md) strategies involve exploiting price differences in different markets. For example, if a stock is trading at different prices on two exchanges, an algorithm might buy the stock on the cheaper [exchange](../e/exchange.md) and sell it on the more expensive one, profiting from the price discrepancy. [Supply](../s/supply.md) and [demand](../d/demand.md) conditions often create these opportunities for [arbitrage](../a/arbitrage.md).
@@ -59,7 +55,7 @@ Some [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) ai
 ## Future Trends
 
 ### Machine Learning
-The integration of [machine learning](../m/machine_learning.md) techniques is becoming increasingly common in [algorithmic trading](../a/accountability.md). These algorithms can analyze complex [supply](../s/supply.md) and [demand](../d/demand.md) patterns and adapt their [trading strategies](../t/trading_strategies.md) in real-time.
+The integration of [machine learning](../m/machine_learning.md) techniques is becoming increasingly common in [algorithmic trading](../a/algorithmic_trading.md). These algorithms can analyze complex [supply](../s/supply.md) and [demand](../d/demand.md) patterns and adapt their [trading strategies](../t/trading_strategies.md) in real-time.
 
 ### Blockchain and Cryptocurrencies
 The rise of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies has introduced new dynamics into the [supply](../s/supply.md) and [demand](../d/demand.md) equation. Algorithmic traders are now developing strategies specifically tailored to the unique characteristics of these digital assets.
@@ -69,4 +65,4 @@ Regulations play a crucial role in the functioning of [financial markets](../f/f
 
 ## Conclusion
 
-The Law of [Supply](../s/supply.md) is a cornerstone of economic theory that has practical applications in various fields, including [algorithmic trading](../a/accountability.md). By understanding the relationship between price and [quantity supplied](../q/quantity_supplied.md), algorithmic traders can develop more effective strategies, manage risks better, and stay ahead in competitive [financial markets](../f/financial_market.md). Advances in technology and data analysis continue to enhance the ability of traders to exploit [supply](../s/supply.md) and [demand](../d/demand.md) dynamics, promising an exciting future for this domain.
+The Law of [Supply](../s/supply.md) is a cornerstone of economic theory that has practical applications in various fields, including [algorithmic trading](../a/algorithmic_trading.md). By understanding the relationship between price and [quantity supplied](../q/quantity_supplied.md), algorithmic traders can develop more effective strategies, manage risks better, and stay ahead in competitive [financial markets](../f/financial_market.md). Advances in technology and data analysis continue to enhance the ability of traders to exploit [supply](../s/supply.md) and [demand](../d/demand.md) dynamics, promising an exciting future for this domain.

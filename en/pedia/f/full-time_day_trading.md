@@ -9,7 +9,7 @@
 ### 1. Scalping
 
 **[Scalping](../s/scalping.md)** involves making numerous trades to [capitalize](../c/capitalize.md) on small price movements. Traders aim to make a substantial number of small profits, which, together, can result in significant gains by the end of the day. [Scalping](../s/scalping.md) often requires [automated trading systems](../a/automated_trading_systems.md) and algorithms for [execution](../e/execution.md) due to the fast-paced nature of price movements.
-  
+
 **Key Techniques in [Scalping](../s/scalping.md):**
 - **Spread [Scalping](../s/scalping.md):** Buying at the [bid price](../b/bid_price.md) and selling at the ask price to capture the spread.
 - **[Range](../r/range.md) [Scalping](../s/scalping.md):** Trading within predefined [support and resistance](../s/support_and_resistance.md) levels to exploit recurring [price patterns](../p/price_patterns.md).
@@ -19,7 +19,7 @@
 **[Momentum trading](../m/momentum_trading.md)** focuses on harnessing price movements:
 - Identifying assets that are trending significantly in one direction with higher than average trading volumes.
 - Utilizing [technical indicators](../t/technical_indicators.md) like the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) and moving averages to confirm the [momentum](../m/momentum.md) direction.
-  
+
 **Common [Momentum](../m/momentum.md) Strategies:**
 - **News-Based Trading:** Entering positions based on the impacts of breaking news or economic reports.
 - **[Trend Following](../t/trend_following.md):** Combining [technical indicators](../t/technical_indicators.md) to follow established trends until signs of [reversal](../r/reversal.md).
@@ -48,20 +48,20 @@ The choice of a [robust](../r/robust.md) [trading platform](../t/trading_platfor
 
 **Popular Platforms:**
 - **MetaTrader 4/5:** Advanced charting and tools for [algorithmic trading](../a/algorithmic_trading.md).
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** Comprehensive analytical capabilities for diverse [asset](../a/asset.md) classes.
+- **[Thinkorswim](../t/thinkorswim.md) by [Charles Schwab](../c/charles_schwab.md):** Comprehensive analytical capabilities for diverse [asset](../a/asset.md) classes.
 - **[NinjaTrader](../n/ninjatrader.md):** Focuses on [futures](../f/futures.md) & forex trading with extensive [backtesting](../b/backtesting.md) and automation [options](../o/options.md).
 
 ### Automated Trading Systems
 
-Automation in trading helps reduce the emotional bias and ensures consistent [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md). 
+Automation in trading helps reduce the emotional bias and ensures consistent [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
 
 **Types of Automated Systems:**
 - **[Algorithmic Trading](../a/algorithmic_trading.md):** Using pre-defined rules and algorithms for trading decisions.
 - **Robotic Process Automation (RPA):** Handling repetitive trading processes.
-  
+
 **Notable Companies:**
-- **[TradeStation](../t/tradestation.md) [tradestation.com](https://www.tradestation.com/):** Offers [robust](../r/robust.md) platform features suitable for developing and executing automated [trading strategies](../t/trading_strategies.md).
-- **[Interactive Brokers](../i/interactive_brokers.md) [interactivebrokers.com](https://www.interactivebrokers.com/):** Provides extensive [algorithmic trading](../a/algorithmic_trading.md) services and smart routing capabilities.
+- **[TradeStation](../t/tradestation.md) tradestation.com:** Offers [robust](../r/robust.md) platform features suitable for developing and executing automated [trading strategies](../t/trading_strategies.md).
+- **[Interactive Brokers](../i/interactive_brokers.md) interactivebrokers.com:** Provides extensive [algorithmic trading](../a/algorithmic_trading.md) services and smart routing capabilities.
 
 ### High-Frequency Trading (HFT)
 
@@ -126,8 +126,8 @@ Be aware of short-term [capital gains tax](../c/capital_gains_tax.md) implicatio
 Choosing a reliable [broker](../b/broker.md) that ensures regulatory compliance, effective [customer service](../c/customer_service.md), and the best [execution](../e/execution.md) policies can impact trading success.
 
 **Prominent Brokers:**
-- **[Charles Schwab](../c/charles_schwab.md) [schwab.com](https://www.schwab.com/):** Known for its strong [customer](../c/customer.md) support and extensive educational resources.
-- **[E*TRADE](../e/e_trade.md) [etrade.com](https://www.etrade.com/):** Offers a [range](../r/range.md) of investment tools and a user-friendly [trading platform](../t/trading_platform.md).
+- **[Charles Schwab](../c/charles_schwab.md) schwab.com:** Known for its strong [customer](../c/customer.md) support and extensive educational resources.
+- **[E*TRADE](../e/e_trade.md) etrade.com:** Offers a [range](../r/range.md) of investment tools and a user-friendly [trading platform](../t/trading_platform.md).
 
 ## Community and Network
 

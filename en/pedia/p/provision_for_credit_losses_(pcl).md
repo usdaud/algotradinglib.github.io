@@ -40,20 +40,19 @@ To understand how PCL works in practice, consider [Bank](../b/bank.md) XYZ, whic
 1. **Calculation**: [Bank](../b/bank.md) XYZ estimates that $10 million might not be recoverable from its $500 million [loan](../l/loan.md) portfolio.
 2. **Recording the [Provision](../p/provision.md)**: The $10 million is recorded as an [expense](../e/expense.md) under PCL in the [income statement](../i/income_statement.md).
 3. **Impact on Financials**:
-   - The net [income](../i/income.md) for the quarter is reduced by $10 million due to this [expense](../e/expense.md).
-   - The allowance for [loan](../l/loan.md) and lease losses account on the [balance sheet](../b/balance_sheet.md) is increased by $10 million, effectively reducing the net [loan](../l/loan.md) [value](../v/value.md) by the same amount.
+ - The net [income](../i/income.md) for the quarter is reduced by $10 million due to this [expense](../e/expense.md).
+ - The allowance for [loan](../l/loan.md) and lease losses account on the [balance sheet](../b/balance_sheet.md) is increased by $10 million, effectively reducing the net [loan](../l/loan.md) [value](../v/value.md) by the same amount.
 
 ### Practical Scenario
 
-During an economic downturn, the [provision](../p/provision.md) for [credit](../c/credit.md) losses is expected to rise given increased [default](../d/default.md) risks. Conversely, in a [robust](../r/robust.md) economic climate, lower provisions may suffice. 
+During an economic downturn, the [provision](../p/provision.md) for [credit](../c/credit.md) losses is expected to rise given increased [default](../d/default.md) risks. Conversely, in a [robust](../r/robust.md) economic climate, lower provisions may suffice.
 
 Suppose a substantial part of the [loan](../l/loan.md) portfolio consists of loans to oil and gas companies. Due to a sudden, steep decline in oil prices, [Bank](../b/bank.md) XYZ anticipates higher [default](../d/default.md) rates among these borrowers. The [bank](../b/bank.md) adjusts its PCL to reflect the increased [risk](../r/risk.md), perhaps raising it to $20 million for the upcoming quarter.
 
 ## Conclusion
 
-[Provision](../p/provision.md) for [Credit](../c/credit.md) Losses (PCL) is a vital financial metric for banks and financial institutions, acting as a safeguard against potential [loan](../l/loan.md) defaults. It ensures that [financial statements](../f/financial_statements.md) provide a realistic view of a [bank](../b/bank.md)'s [financial health](../f/financial_health.md) and fosters [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. Banks must regularly review and adjust PCL based on [loan](../l/loan.md) [portfolio performance](../p/portfolio_performance.md), [economic conditions](../e/economic_conditions.md), and regulatory requirements to maintain financial stability and integrity. 
+[Provision](../p/provision.md) for [Credit](../c/credit.md) Losses (PCL) is a vital financial metric for banks and financial institutions, acting as a safeguard against potential [loan](../l/loan.md) defaults. It ensures that [financial statements](../f/financial_statements.md) provide a realistic view of a [bank](../b/bank.md)'s [financial health](../f/financial_health.md) and fosters [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. Banks must regularly review and adjust PCL based on [loan](../l/loan.md) [portfolio performance](../p/portfolio_performance.md), [economic conditions](../e/economic_conditions.md), and regulatory requirements to maintain financial stability and integrity.
 
 For further detailed information and examples of [Provision](../p/provision.md) for [Credit](../c/credit.md) Losses, you can visit:
 
-- [Wells Fargo Risk Management](https://www.wellsfargo.com/risk-management/)
-- [JPMorgan Chase Investor Relations](https://www.jpmorganchase.com/ir)
+- Wells Fargo Risk Management

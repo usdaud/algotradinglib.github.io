@@ -39,12 +39,12 @@ The frequency at which quotes change can provide insights into [market](../m/mar
 ### Liquidity Provision Algorithms
 Algorithms designed to provide [liquidity](../l/liquidity.md), such as [market](../m/market.md)-making strategies, rely heavily on [quote](../q/quote.md) flow analysis. These algos continuously post quotes on both sides of the [order book](../o/order_book.md) to capture the spread while managing [inventory](../i/inventory.md) risks.
 
-- **Example**: [Citadel Securities](https://www.citadelsecurities.com/) uses advanced [market](../m/market.md)-making algorithms to facilitate [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes.
+- **Example**: Citadel Securities uses advanced [market](../m/market.md)-making algorithms to facilitate [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes.
 
 ### Arbitrage Strategies
 [Arbitrage](../a/arbitrage.md) strategies, which exploit price inefficiencies between correlated assets or markets, use [quote](../q/quote.md) flow analysis to identify and act on these opportunities. By monitoring quotes across [multiple](../m/multiple.md) venues, [arbitrage](../a/arbitrage.md) algos can execute synchronized trades to [lock in profits](../l/lock_in_profits.md).
 
-- **Example**: [Jane Street](https://www.janestreet.com/) employs sophisticated [arbitrage](../a/arbitrage.md) strategies in equities, [fixed income](../f/fixed_income.md), and commodities markets.
+- **Example**: Jane Street employs sophisticated [arbitrage](../a/arbitrage.md) strategies in equities, [fixed income](../f/fixed_income.md), and commodities markets.
 
 ### Trend Following Algos
 [Trend following](../t/trend_following.md) algorithms analyze [quote](../q/quote.md) flows to detect and [capitalize](../c/capitalize.md) on emerging price trends. By identifying sustained movements in quotes, these algos position themselves to [profit](../p/profit.md) from directional [market](../m/market.md) moves.
@@ -56,7 +56,7 @@ Algorithms designed to provide [liquidity](../l/liquidity.md), such as [market](
 ### Latency
 Latency can significantly impact the effectiveness of [quote](../q/quote.md) flow analysis and associated [trading strategies](../t/trading_strategies.md). Any delay in capturing or processing [quote](../q/quote.md) information may lead to suboptimal decision-making.
 
-- **Example**: High-frequency trading firms invest heavily in technology to minimize latency. [Virtu Financial](https://www.virtu.com/) is known for its low-latency trading [infrastructure](../i/infrastructure.md).
+- **Example**: High-frequency trading firms invest heavily in technology to minimize latency. Virtu Financial is known for its low-latency trading [infrastructure](../i/infrastructure.md).
 
 ### Data Quality and Availability
 Accurate and real-time data is crucial for effective [quote](../q/quote.md) flow analysis. Poor data quality or delays can hinder the ability to make timely trading decisions.

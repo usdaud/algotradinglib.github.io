@@ -66,7 +66,7 @@ Underestimating or overestimating your [income](../i/income.md) can lead to sign
 
 ## Key Differences Between Form 1095-A, 1095-B, and 1095-C
 
-While Form 1095-A is related to Marketplace [insurance](../i/insurance.md), Forms 1095-B and 1095-C are related to other types of coverage. 
+While Form 1095-A is related to Marketplace [insurance](../i/insurance.md), Forms 1095-B and 1095-C are related to other types of coverage.
 
 - **[Form 1095-B](../f/form_1095-b.md)** reports health coverage provided by insurers and government-sponsored programs.
 - **[Form 1095-C](../f/form_1095-c.md)** is used by large employers to report the coverage offered to employees.
@@ -75,6 +75,6 @@ Understanding these differences helps in ensuring accurate reporting and complia
 
 ## Contact Information
 
-For more detailed information or specific queries regarding Form 1095-A, users can refer to the [Health Insurance Marketplace](../h/health_insurance_marketplace.md) from which they obtained their coverage, or visit the official IRS page on Form 1095-A [here](https://www.irs.gov/forms-pubs/about-form-1095-a).
+For more detailed information or specific queries regarding Form 1095-A, users can refer to the [Health Insurance Marketplace](../h/health_insurance_marketplace.md) from which they obtained their coverage, or
 
 Form 1095-A is a critical document for anyone who has received [health insurance](../h/health_insurance.md) through the [Health Insurance Marketplace](../h/health_insurance_marketplace.md), as it dictates how much [premium](../p/premium.md) [tax credit](../t/tax_credit.md) an individual can claim and ensures proper tax filing compliance. Understanding its purpose, structure, and how to use it correctly is essential for accurate and timely tax filings.

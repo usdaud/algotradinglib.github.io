@@ -61,8 +61,8 @@ The effectiveness of the 5-3-5 wave pattern is also rooted in the principles of 
 
 For traders and analysts keen on leveraging the 5-3-5 wave pattern, numerous resources and tools are available. Online platforms [offer](../o/offer.md) Elliott Wave-specific courses, while [software tools](../s/software_tools_for_trading.md) provide [pattern recognition](../p/pattern_recognition.md) and wave counting features. Some valuable resources include:
 
-- [Elliott Wave International](https://www.elliottwave.com) – Offers comprehensive resources on [Elliott Wave Theory](../e/elliott_wave_theory.md), including educational materials and [market](../m/market.md) analysis.
-- [TradingView](https://www.tradingview.com) – Provides advanced charting tools with built-in Elliott Wave tools for identifying [wave patterns](../w/wave_patterns_in_trading.md).
-- [MetaTrader](https://www.metatrader4.com) – Popular [trading platform](../t/trading_platform.md) with extensive [technical analysis](../t/technical_analysis.md) tools.
+- Elliott Wave International – Offers comprehensive resources on [Elliott Wave Theory](../e/elliott_wave_theory.md), including educational materials and [market](../m/market.md) analysis.
+- TradingView – Provides advanced charting tools with built-in Elliott Wave tools for identifying [wave patterns](../w/wave_patterns_in_trading.md).
+- MetaTrader – Popular [trading platform](../t/trading_platform.md) with extensive [technical analysis](../t/technical_analysis.md) tools.
 
-By continuously studying [price patterns](../p/price_patterns.md), leveraging technological tools, and understanding [market](../m/market.md) psychology, traders can enhance their ability to effectively apply the 5-3-5 wave pattern in their [trading strategies](../t/trading_strategies.md).
+By continuously studying [price patterns](../p/price_patterns.md), leveraging technological tools, and understanding [market](../m/market.md) psychology, traders can enhance their ability to effectively apply the 5-3-5 wave pattern in their [trading strategies](../t/trading_strategies.md).

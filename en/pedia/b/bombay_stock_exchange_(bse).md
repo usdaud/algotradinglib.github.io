@@ -1,14 +1,15 @@
 # Bombay Stock Exchange (BSE)
 
-The Bombay Stock [Exchange](../e/exchange.md) (BSE) is one of the world's oldest stock exchanges and is located in Mumbai, India. Established in 1875, the BSE has grown to become a pivotal financial institution in India, serving as a key platform where companies can raise [capital](../c/capital.md) and investors can [trade](../t/trade.md) securities. 
+The Bombay Stock [Exchange](../e/exchange.md) (BSE) is one of the world's oldest stock exchanges and is located in Mumbai, India. Established in 1875, the BSE has grown to become a pivotal financial institution in India, serving as a key platform where companies can raise [capital](../c/capital.md) and investors can [trade](../t/trade.md) securities.
 
 ## History and Evolution
 
 The BSE was founded by Premchand Roychand, a prominent [stockbroker](../s/stockbroker.md) of the time, who gathered with other traders under a banyan tree on Dalal Street in Mumbai. This informal meeting gradually evolved into what we now know as the Bombay Stock [Exchange](../e/exchange.md). It was initially known as "The Native Share & Stock Brokers' Association."
 
 ### Milestones in BSE History
+- **1986:** The BSE introduced the BSE [SENSEX](../s/sensex.md) [index](../i/index_instrument.md), which tracks the performance of the top 30 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 - **1995:** The BSE switched from an [open](../o/open.md) floor trading system to an electronic trading system, drastically improving [transaction](../t/transaction.md) speed and [efficiency](../e/efficiency.md).
-- **2005:** BSE introduced a free [float](../f/float.md) [index](../i/index_instrument.md) known as the BSE [SENSEX](../s/sensex.md), which tracks the performance of the top 30 companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+- **2003:** BSE converted the [SENSEX](../s/sensex.md) to a free-[float](../f/float.md) methodology.
 - **2010:** The BSE became the world's fastest stock [exchange](../e/exchange.md) with a trading speed of 200 microseconds.
 
 ## Structure and Functioning
@@ -80,6 +81,6 @@ Upcoming regulatory changes are expected to further align the BSE with global st
 The BSE continues to focus on [investor](../i/investor.md) education and awareness programs, ensuring that [market](../m/market.md) participants are well-informed and capable of making sound financial decisions.
 
 ## Useful Links
-- [Bombay Stock Exchange Official Website](https://www.bseindia.com/)
+-
 
 In conclusion, the Bombay Stock [Exchange](../e/exchange.md) stands as a cornerstone of the Indian [financial system](../f/financial_system.md), embodying a rich history, [robust](../r/robust.md) structural framework, and a forward-looking approach. With its extensive [market](../m/market.md) segments, technological advancements, and social initiatives, the BSE is well-positioned to continue leading the Indian [market](../m/market.md) into a promising future.

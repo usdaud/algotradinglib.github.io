@@ -5,7 +5,7 @@ A 1-Year Treasury Bill (T-Bill) represents a [short-term debt](../s/short-term_d
 ## Characteristics of 1-Year Treasury Bills
 
 ### Issuance and Availability
-1-Year Treasury Bills are issued by the U.S. Department of the Treasury. They are typically sold via auction, which occurs regularly—usually weekly. These auctions ensure a steady [supply](../s/supply.md) of T-Bills to meet the demands of investors. 
+1-Year Treasury Bills are issued by the U.S. Department of the Treasury. They are typically sold via auction, which occurs regularly—usually weekly. These auctions ensure a steady [supply](../s/supply.md) of T-Bills to meet the demands of investors.
 
 ### Denominations
 1-Year T-Bills are available in various denominations, typically starting as low as $1,000 and going up in multiples of $1,000. This makes them accessible to a broad [range](../r/range.md) of investors.
@@ -50,7 +50,7 @@ The [yield curve](../y/yield_curve.md), which plots the yields of Treasury secur
 ## Market Participants
 
 ### Individual Investors
-Individual investors often turn to 1-Year T-Bills for their relative safety and predictability. These investors can participate in auctions via the TreasuryDirect website.
+Individual investors often turn to 1-Year T-Bills for their relative safety and predictability. These
 
 ### Institutional Investors
 Large financial institutions, mutual funds, and [insurance](../i/insurance.md) companies also invest heavily in 1-Year T-Bills due to their [liquidity](../l/liquidity.md) and low-[risk](../r/risk.md) profile. Institutions usually prefer competitive bidding to manage large portfolios effectively.
@@ -83,7 +83,7 @@ Although T-Bills are highly [liquid](../l/liquid.md), selling them before [matur
 ## Advantages
 
 ### Safety of Principal
-One of the most compelling features of 1-Year T-Bills is the virtually negligible [credit risk](../c/credit_risk.md), given they are backed by the full faith and [credit](../c/credit.md) of the U.S. government. 
+One of the most compelling features of 1-Year T-Bills is the virtually negligible [credit risk](../c/credit_risk.md), given they are backed by the full faith and [credit](../c/credit.md) of the U.S. government.
 
 ### Tax Advantages
 [Interest](../i/interest.md) earned on 1-Year T-Bills is subject to [federal income](../f/federal_income.md) tax but exempt from state and local [taxes](../t/taxes.md). This can be an important consideration for investors in high-tax states.
@@ -95,7 +95,6 @@ The highly [liquid](../l/liquid.md) nature of T-Bills makes them attractive for 
 
 ### TreasuryDirect
 TreasuryDirect is the [U.S. Treasury](../u/u.s._treasury.md)'s online platform for the purchase and management of Treasury securities, including 1-Year T-Bills. Individual investors can easily create an account and participate in both competitive and non-competitive bidding.
-[Visit TreasuryDirect](https://www.treasurydirect.gov/)
 
 ### Secondary Market Platforms
 Online brokers and financial institutions often provide platforms where investors can [trade](../t/trade.md) T-Bills after issuance. These platforms include well-known brokerages such as [Charles Schwab](../c/charles_schwab.md), Fidelity, and [E*TRADE](../e/e_trade.md).
@@ -104,4 +103,4 @@ Online brokers and financial institutions often provide platforms where investor
 
 1-Year Treasury Bills serve an essential role in both personal and institutional investment portfolios due to their safety, predictable returns, and [liquidity](../l/liquidity.md). Their issuance and auction mechanisms are designed to ensure broad access and competitive pricing. While they carry some risks, their advantages often outweigh potential downsides, making them a staple in the world of fixed-[income](../i/income.md) investments.
 
-By understanding these fundamentals, investors can make more informed decisions about integrating 1-Year Treasury Bills into their broader financial strategies.
+By understanding these fundamentals, investors can make more informed decisions about integrating 1-Year Treasury Bills into their broader financial strategies.

@@ -96,26 +96,26 @@ Hedging involves entering into a [trade](../t/trade.md) that offsets the [risk](
 
 ### Educational Websites
 
-- [Investopedia](https://www.investopedia.com): Provides extensive educational resources on forex trading, including articles, tutorials, and videos.
+- Investopedia: Provides extensive educational resources on forex trading, including articles, tutorials, and videos.
 
-- [BabyPips](https://www.babypips.com): Offers free online courses and forums for beginner and advanced forex traders.
+- BabyPips: Offers free online courses and forums for beginner and advanced forex traders.
 
 ### Trading Platforms
 
-- [MetaTrader 4 (MT4)](https://www.metatrader4.com): A popular [trading platform](../t/trading_platform.md) that offers advanced charting tools, [technical analysis](../t/technical_analysis.md), and automated trading capabilities.
+- MetaTrader 4 (MT4): A popular [trading platform](../t/trading_platform.md) that offers advanced charting tools, [technical analysis](../t/technical_analysis.md), and automated trading capabilities.
 
-- [cTrader](https://ctrader.com): Known for its user-friendly interface, advanced charting tools, and fast [execution](../e/execution.md) speeds.
+- cTrader: Known for its user-friendly interface, advanced charting tools, and fast [execution](../e/execution.md) speeds.
 
-- [NinjaTrader](https://ninjatrader.com): Offers advanced trading tools, custom indicators, and automated [trading strategies](../t/trading_strategies.md).
+- NinjaTrader: Offers advanced trading tools, custom indicators, and automated [trading strategies](../t/trading_strategies.md).
 
 ### Forex Brokers
 
-- [IG Group](https://www.ig.com): Provides access to a wide [range](../r/range.md) of [currency](../c/currency.md) pairs with competitive [spreads](../s/spreads.md) and advanced trading tools.
+- IG Group: Provides access to a wide [range](../r/range.md) of [currency](../c/currency.md) pairs with competitive [spreads](../s/spreads.md) and advanced trading tools.
 
-- [OANDA](https://www.oanda.com): Known for its transparent pricing, educational resources, and advanced [trading platform](../t/trading_platform.md).
+- OANDA: Known for its transparent pricing, educational resources, and advanced [trading platform](../t/trading_platform.md).
 
-- [Forex.com](https://www.forex.com): Offers a wide [range](../r/range.md) of [currency](../c/currency.md) pairs, advanced charting tools, and educational resources for traders.
+- Forex.com: Offers a wide [range](../r/range.md) of [currency](../c/currency.md) pairs, advanced charting tools, and educational resources for traders.
 
 ## Summary
 
-[Currency](../c/currency.md) [trading strategies](../t/trading_strategies.md) encompass a wide [range](../r/range.md) of approaches, from fundamental and [technical analysis](../t/technical_analysis.md) to sentiment and [algorithmic trading](../a/algorithmic_trading.md). Each strategy has its strengths and weaknesses, and traders often combine [multiple](../m/multiple.md) strategies to develop a comprehensive trading plan. Effective [risk management](../r/risk_management.md) and continuous education are essential for long-term success in forex trading. By staying informed about [economic indicators](../e/economic_indicators.md), [market](../m/market.md) trends, and [trader](../t/trader.md) sentiment, forex traders can make informed decisions and navigate the complexities of the [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md).
+[Currency](../c/currency.md) [trading strategies](../t/trading_strategies.md) encompass a wide [range](../r/range.md) of approaches, from fundamental and [technical analysis](../t/technical_analysis.md) to sentiment and [algorithmic trading](../a/algorithmic_trading.md). Each strategy has its strengths and weaknesses, and traders often combine [multiple](../m/multiple.md) strategies to develop a comprehensive trading plan. Effective [risk management](../r/risk_management.md) and continuous education are essential for long-term success in forex trading. By staying informed about [economic indicators](../e/economic_indicators.md), [market](../m/market.md) trends, and [trader](../t/trader.md) sentiment, forex traders can make informed decisions and navigate the complexities of the [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md).

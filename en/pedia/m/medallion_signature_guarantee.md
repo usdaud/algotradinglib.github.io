@@ -44,7 +44,7 @@ While Medallion Signature Guarantees are valuable, they also pose certain challe
 ## Conclusion
 A Medallion Signature Guarantee is a [robust](../r/robust.md) [security](../s/security.md) measure that plays a pivotal role in safeguarding securities transactions. By ensuring the authenticity of the signer and the legitimacy of the [transaction](../t/transaction.md), it protects both investors and financial institutions. Understanding the Medallion Signature Guarantee process and its critical importance is essential for anyone involved in the securities [market](../m/market.md).
 
-For more information about Medallion Signature Guarantees and their applications, you can visit [Medallion Stamp](https://www.medallionstamp.com/).
+For more information about Medallion Signature Guarantees and their applications, you can visit Medallion Stamp.
 
 ---
 

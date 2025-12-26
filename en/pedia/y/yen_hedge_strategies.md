@@ -72,17 +72,14 @@ print(f"[Forward Rate](../f/forward_rate.md): {forward}")
 
 Several companies and platforms specialize in [algorithmic trading](../a/algorithmic_trading.md) strategies, providing tools and marketplaces for implementing sophisticated yen [hedging strategies](../h/hedging_strategies.md).
 
-#### 1. QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform enabling [quantitative strategies](../q/quantitative_strategies_in_trading.md) development. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including forex, allowing traders to backtest and deploy yen hedging algorithms.
-[QuantConnect](https://www.quantconnect.com)
+#### 1. StockSharp
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform enabling [quantitative strategies](../q/quantitative_strategies_in_trading.md) development. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including forex, allowing traders to backtest and deploy yen hedging algorithms.
 
 #### 2. MetaTrader 5
 MetaTrader 5 (MT5) is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) through its MQL5 programming language. It enables traders to develop, test, and apply yen [hedging strategies](../h/hedging_strategies.md) in real-time.
-[MetaTrader 5](https://www.metatrader5.com/en)
 
 #### 3. Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive platform with advanced [algorithmic trading](../a/algorithmic_trading.md) tools. Their API allows integration with custom-built models and [hedging strategies](../h/hedging_strategies.md).
-[Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Best Practices for Yen Hedging in Algorithmic Trading
 

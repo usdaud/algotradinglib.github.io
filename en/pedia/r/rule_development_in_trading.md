@@ -33,8 +33,8 @@ The very first step in rule development is to define what you are trying to achi
 Before developing any rules, you need historical and real-time data to back-test your rules. Sources for such data include:
 
 - **Stock Exchanges:** Many provide historical trading data.
-- **Financial Data Providers:** Firms like [Bloomberg](https://www.bloomberg.com/) and [Reuters](https://www.reuters.com/) [offer](../o/offer.md) comprehensive data services.
-- **Data APIs:** Numerous APIs like [Alpha Vantage](https://www.alphavantage.co/) provide access to [market](../m/market.md) data.
+- **Financial Data Providers:** Firms like Bloomberg and Reuters [offer](../o/offer.md) comprehensive data services.
+- **Data APIs:** Numerous APIs like Alpha Vantage provide access to [market](../m/market.md) data.
 
 ### 3. Develop Entry and Exit Rules
 
@@ -43,7 +43,7 @@ Entry rules decide when to buy or sell an [asset](../a/asset.md), while exit rul
 - **[Technical Indicators](../t/technical_indicators.md):** Implement common trading indicators like Moving Averages, RSI, and MACD.
 - **Patterns:** Recognize [price patterns](../p/price_patterns.md) like Head and Shoulders, flags, and channels.
 - **Statistical Methods:** Utilize statistical techniques such as [mean reversion](../m/mean_reversion.md) or [momentum](../m/momentum.md) strategies.
-  
+
 ### 4. Risk Management and Position Sizing
 
 [Risk management](../r/risk_management.md) involves setting rules to control the maximum loss you are willing to take on any given [trade](../t/trade.md). Methods include:
@@ -58,7 +58,7 @@ Entry rules decide when to buy or sell an [asset](../a/asset.md), while exit rul
 
 ### 5. Backtesting
 
-Once you have developed your rules, the next step is to back-test them using historical data. The aim is to assess the effectiveness of your rules in various [market](../m/market.md) conditions. Softwares like [MetaTrader](https://www.metatrader5.com/en) and custom Python scripts often serve this purpose well.
+Once you have developed your rules, the next step is to back-test them using historical data. The aim is to assess the effectiveness of your rules in various [market](../m/market.md) conditions. Softwares like MetaTrader and custom Python scripts often serve this purpose well.
 
 ### 6. Optimization
 
@@ -66,7 +66,7 @@ Once you have developed your rules, the next step is to back-test them using his
 
 ### 7. Paper Trading
 
-Before going live, it’s advisable to implement the rules in a paper [trading environment](../t/trading_environment.md) to simulate real trading without [financial risk](../f/financial_risk.md). Platforms like [Interactive Brokers](https://www.interactivebrokers.com/en/home.php) [offer](../o/offer.md) paper trading accounts.
+Before going live, it’s advisable to implement the rules in a paper [trading environment](../t/trading_environment.md) to simulate real trading without [financial risk](../f/financial_risk.md). Platforms like Interactive Brokers [offer](../o/offer.md) paper trading accounts.
 
 ### 8. Deployment
 
@@ -80,14 +80,14 @@ Once the rules have been thoroughly tested and optimized, they can be deployed i
 
 - **[Supervised Learning](../s/supervised_learning.md):** Algorithms like Random Forest, [Support Vector Machines](../s/support_vector_machines_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained using labeled historical data.
 - **[Unsupervised Learning](../u/unsupervised_learning.md):** Models like [k-means clustering](../k/k-means_clustering_in_trading.md) can identify inherent [market](../m/market.md) patterns without preset labels.
-  
-Integration of platforms like [TensorFlow](https://www.tensorflow.org/) for Python allows for sophisticated ML model building and usage in algo trading.
+
+Integration of platforms like TensorFlow for Python allows for sophisticated ML model building and usage in algo trading.
 
 ### Algorithmic Frameworks and APIs
 
 Numerous frameworks help simplify rule development and algo trading:
 
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source platform that supports [multiple](../m/multiple.md) languages and connects to live markets for automated trading.
+- **[StockSharp](../s/stocksharp.md):** An [open](../o/open.md)-source platform that supports C# and connects to live markets for automated trading.
 - **[Quantlib](../q/quantlib.md):** A free/[open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md).
 - **ib_insync:** A Pythonic wrapper for the [Interactive Brokers](../i/interactive_brokers.md) API that simplifies rule implementation.
 
@@ -103,4 +103,4 @@ Numerous frameworks help simplify rule development and algo trading:
 
 Rule development in trading is a multifaceted process that encompasses defining objectives, collecting and analyzing data, developing and back-testing rules, and [optimization](../o/optimization.md). The ever-evolving field of algo trading continues to integrate advanced technologies like [machine learning](../m/machine_learning.md) to stay ahead of the curve. Mastery in rule development therefore requires not just technical acumen but also strategic planning and continuous adaptability.
 
-For further reading and deep dives, please consult platforms like [QuantConnect](https://www.quantconnect.com) and specific financial data providers to start your rule development journey.
+For further reading and deep dives, please consult platforms like QuantConnect and specific financial data providers to start your rule development journey.
