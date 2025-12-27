@@ -42,3 +42,16 @@ itBit has established itself as a reputable player in the digital [asset](../a/a
 
 itBit stands out in the cryptocurrency landscape due to its emphasis on regulatory compliance, [security](../s/security.md), and institutional-grade services. With a [range](../r/range.md) of offerings including spot trading, custody, and OTC trading, it caters to both retail and institutional clients. As the cryptocurrency [market](../m/market.md) continues to evolve, itBit remains a reliable and trusted platform for digital [asset](../a/asset.md) trading and management.
 
+## Practical checklist
+- Define the time horizon for itBit and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating itBit as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

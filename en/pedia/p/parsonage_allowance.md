@@ -52,3 +52,10 @@ Outside the United States, the tax treatment of clergy housing varies. In some c
 The parsonage allowance remains an important yet contentious component of tax policy concerning religious institutions. It reflects broader societal values and the historical importance of religious entities, while also raising concerns about fairness and the intersection of tax law and religion.
 
 Understanding the nuances of the parsonage allowance is crucial for religious leaders, tax professionals, and policymakers. It exemplifies the complexities inherent in balancing legal, financial, and ethical considerations in tax policy.
+
+## Practical checklist
+- Define the time horizon for Parsonage Allowance and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

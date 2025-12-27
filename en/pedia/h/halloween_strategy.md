@@ -46,3 +46,10 @@ Some financial institutions and [hedge](../h/hedge.md) funds reportedly use the 
 ## Conclusion
 
 The Halloween Strategy remains a popular topic of discussion among investors interested in seasonal trends. Although it has historical backing, it is essential to consider it within the context of a diversified [investment strategy](../i/investment_strategy.md). Given the risks and potential opportunity costs, relying solely on this approach may not be advisable. Instead, combining it with other investment strategies and thorough [market](../m/market.md) analysis can help optimize returns while managing risks.
+
+## Practical checklist
+- Define the time horizon for Halloween Strategy and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

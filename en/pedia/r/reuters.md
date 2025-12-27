@@ -41,3 +41,10 @@ Reuters offers extensive support through detailed documentation, user guides, tu
 - **Developers**: Supports developers in building financial applications and tools using Reuters APIs and data feeds.
 
 Reuters’ [robust](../r/robust.md) features, extensive coverage, and reliable data make it an ideal choice for financial professionals, businesses, media organizations, and individual investors seeking comprehensive news and [market](../m/market.md) data solutions.
+
+## Practical checklist
+- Define the time horizon for Reuters and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

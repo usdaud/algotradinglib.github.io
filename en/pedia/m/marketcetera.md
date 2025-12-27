@@ -41,3 +41,10 @@ Marketcetera offers extensive support through detailed documentation, user guide
 - **Developers**: Offers developers a flexible framework to create custom trading solutions and integrations.
 
 Marketcetera’s [open](../o/open.md)-source nature and [robust](../r/robust.md) feature set make it a preferred choice for traders and institutions seeking a customizable and scalable [trading platform](../t/trading_platform.md).
+
+## Practical checklist
+- Define the time horizon for Marketcetera and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

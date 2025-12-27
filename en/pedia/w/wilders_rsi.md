@@ -40,3 +40,10 @@ While RSI is a powerful tool, it is not without limitations. [False signals](../
 Wilder’s RSI remains a vital component of [technical analysis](../t/technical_analysis.md), [offering](../o/offering.md) insights into [market](../m/market.md) [momentum](../m/momentum.md) and potential turning points. Its simplicity, ease of interpretation, and adaptability across different markets make it a valuable tool for traders and analysts.
 
 For more information on J. Welles Wilder and his contributions to [technical analysis](../t/technical_analysis.md), visit Market Technicians Association.
+
+## Practical checklist
+- Define the time horizon for Wilder's RSI and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

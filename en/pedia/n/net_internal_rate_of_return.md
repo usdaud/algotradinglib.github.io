@@ -72,3 +72,17 @@ Net Internal [Rate of Return](../r/rate_of_return.md) provides a crucial, compre
 For more comprehensive details on financial metrics and investment strategies, you can refer to financial management resources or visit Investopedia.
 
 ([Note](../n/note.md): This is a placeholder link; replace with actual relevant links if needed)
+
+## Practical checklist
+- Define the time horizon for Net Internal Rate of Return and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Net Internal Rate of Return as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

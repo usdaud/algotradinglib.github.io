@@ -47,3 +47,10 @@
 
 ## Conclusion
 Interactive media represents a dynamic and engaging way to create and consume digital content. By allowing users to actively participate and influence their experiences, interactive media enhances engagement, personalization, and effectiveness across various fields, including education, [marketing](../m/marketing.md), and entertainment. Understanding its key components, types, and [best practices](../b/best_practices.md) is essential for developing successful interactive media solutions.
+
+## Practical checklist
+- Define the time horizon for Interactive Media and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

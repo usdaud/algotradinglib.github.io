@@ -44,3 +44,9 @@ HDFC Securities is regulated by several top-tier financial authorities in India,
 - Bombay Stock [Exchange](../e/exchange.md) (BSE)
 - National Stock [Exchange](../e/exchange.md) (NSE)
 
+## Practical checklist
+- Define the time horizon for HDFC Securities and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

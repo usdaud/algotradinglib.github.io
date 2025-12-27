@@ -46,3 +46,16 @@ Zerodha is regulated by several top-tier financial authorities in India, ensurin
 - Bombay Stock [Exchange](../e/exchange.md) (BSE)
 - Multi [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) (MCX)
 
+## Practical checklist
+- Define the time horizon for Zerodha and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Zerodha as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

@@ -38,3 +38,20 @@
 
 ## Conclusion
 The upper class represents the highest socioeconomic group in society, characterized by significant [wealth](../w/wealth.md), high social status, and substantial influence. Understanding the key components, importance, and challenges associated with the upper class can provide insights into social dynamics and economic structures. Engaging in ethical practices and [philanthropy](../p/philanthropy.md) can help address some of the challenges related to [wealth](../w/wealth.md) inequality and social mobility.
+
+## Practical checklist
+- Define the time horizon for Upper Class and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Upper Class as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Upper Class, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

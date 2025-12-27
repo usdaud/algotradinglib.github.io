@@ -97,3 +97,10 @@ For comprehensive [investing](../i/investing.md) guides including Krugerrands, I
 ## Conclusion
 
 Krugerrands remain one of the most viable and accessible [options](../o/options.md) for gold investment. Their historical significance, ease of trading, and role in diversifying investment portfolios make them a preferred choice among investors worldwide. Whether for seasoned investors or beginners, Krugerrands provide a tangible, [robust](../r/robust.md) means of safeguarding [wealth](../w/wealth.md) and diversifying financial [holdings](../h/holdings.md).
+
+## Practical checklist
+- Define the time horizon for Krugerrands and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

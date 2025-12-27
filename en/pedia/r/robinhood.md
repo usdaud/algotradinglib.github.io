@@ -44,3 +44,9 @@ Robinhood is regulated by several top-tier financial authorities, ensuring a sec
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md))
 - Securities [Investor](../i/investor.md) Protection [Corporation](../c/corporation.md) (SIPC)
 
+## Practical checklist
+- Define the time horizon for Robinhood and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

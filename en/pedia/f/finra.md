@@ -37,3 +37,17 @@ FINRA provides extensive support to investors, brokerage firms, and registered r
 - **[Market](../m/market.md) Regulators**: Collaborate with FINRA to monitor [market](../m/market.md) activities, enforce regulations, and promote [market](../m/market.md) integrity.
 
 FINRA’s comprehensive regulatory framework, [investor](../i/investor.md) protection initiatives, and educational resources make it a crucial entity in maintaining the integrity and [transparency](../t/transparency.md) of the U.S. [financial markets](../f/financial_market.md).
+
+## Practical checklist
+- Define the time horizon for Financial Industry Regulatory Authority (FINRA) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Financial Industry Regulatory Authority (FINRA) as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

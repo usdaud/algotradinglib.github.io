@@ -46,3 +46,10 @@
 
 ## Conclusion
 Industry is a fundamental component of the [economy](../e/economy.md), encompassing the production of goods, services, and [raw materials](../r/raw_materials.md). It plays a critical role in [economic growth](../e/economic_growth.md), job creation, and innovation. Understanding the different types of industries and their importance helps in appreciating their contribution to society and addressing the challenges they face. Through sustainable practices, innovation, and [efficiency](../e/efficiency.md), industries can continue to thrive and support economic development.
+
+## Practical checklist
+- Define the time horizon for Industry and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

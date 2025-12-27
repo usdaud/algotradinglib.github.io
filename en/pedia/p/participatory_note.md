@@ -45,3 +45,17 @@ The use of P-Notes can have considerable implications for the [market](../m/mark
 Participatory Notes provide a unique investment conduit for foreign investors wishing to invest in Indian markets without having to undergo the rigorous registration process with SEBI. Despite their advantages in terms of ease of access and [liquidity](../l/liquidity.md), the opacity and potential for misuse have led to increased regulatory scrutiny. Future regulatory changes [will](../w/will.md) likely continue to evolve to balance the need for [market](../m/market.md) integrity with the attractiveness of P-Notes to foreign investors.
 
 For more detailed information,
+
+## Practical checklist
+- Define the time horizon for Participatory Note and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Participatory Note as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

@@ -60,3 +60,10 @@ The COVID-19 pandemic presents a modern example of "Vis Major," where global loc
 ## Conclusion
 
 Understanding "Vis Major" is crucial for navigating the complexities of contracts and financial instruments, especially in unpredictable and volatile environments. While it primarily provides legal relief, the broader implications on [risk management](../r/risk_management.md) emphasize the need for detailed [contingency](../c/contingency.md) planning in contracts and financial strategies.
+
+## Practical checklist
+- Define the time horizon for Vis Major and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

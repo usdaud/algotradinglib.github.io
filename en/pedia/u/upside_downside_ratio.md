@@ -86,3 +86,10 @@ The [Upside](../u/upside.md)/Downside Ratio assumes a [normal distribution](../n
 ## Conclusion
 
 The [Upside](../u/upside.md)/Downside Ratio is a useful metric for evaluating the [risk](../r/risk.md)/reward profile of an investment. While it provides valuable insights, it should not be the sole [factor](../f/factor.md) in investment decision-making. Combining the [Upside](../u/upside.md)/Downside Ratio with other financial metrics and qualitative factors [will](../w/will.md) lead to more informed investment choices.
+
+## Practical checklist
+- Define the time horizon for Upside/Downside Ratio and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

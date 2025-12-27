@@ -112,3 +112,17 @@
 3. Confidentiality agreements
 4. [Risk management](../r/risk_management.md)
 5. [Corporate governance](../c/corporate_governance.md)
+
+## Practical checklist
+- Define the time horizon for With Discretion and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating With Discretion as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

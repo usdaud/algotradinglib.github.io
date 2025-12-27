@@ -43,3 +43,10 @@ MT4 boasts a large and active community of traders and developers. MetaQuotes pr
 - **Brokers**: Utilized by brokers to [offer](../o/offer.md) trading services to their clients with a reliable and widely recognized platform.
 
 MetaTrader 4’s powerful features, combined with its ease of use and extensive support, make it an ideal choice for traders and brokers seeking a reliable and versatile [trading platform](../t/trading_platform.md).
+
+## Practical checklist
+- Define the time horizon for MetaTrader 4 (MT4) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

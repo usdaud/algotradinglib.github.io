@@ -64,3 +64,10 @@ To [gain](../g/gain.md) a better understanding or utilize Venn diagrams in a com
 - Vizzlo
 
 These platforms provide user-friendly interfaces for creating and manipulating Venn diagrams to aid in various forms of analysis.
+
+## Practical checklist
+- Define the time horizon for Venn Diagram and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

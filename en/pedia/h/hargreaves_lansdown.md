@@ -42,3 +42,16 @@ Hargreaves Lansdown integrates with a variety of financial platforms and tools t
 ## Regulation
 Hargreaves Lansdown is regulated by the Financial Conduct Authority (FCA) in the UK, ensuring a secure and compliant [trading environment](../t/trading_environment.md).
 
+## Practical checklist
+- Define the time horizon for Hargreaves Lansdown and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Hargreaves Lansdown as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

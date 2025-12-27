@@ -36,3 +36,17 @@
 
 ## Conclusion
 The generation gap is a natural phenomenon resulting from the unique experiences and influences of each generation. While it can lead to differences and challenges in communication, work, and social interactions, understanding and bridging these [gaps](../g/gap.md) can foster greater harmony and cooperation. By recognizing and valuing the diverse perspectives and contributions of each generation, society can benefit from a richer, more inclusive environment.
+
+## Practical checklist
+- Define the time horizon for Generation Gap and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Generation Gap as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

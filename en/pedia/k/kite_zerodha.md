@@ -42,3 +42,10 @@ Kite by [Zerodha](../z/zerodha.md) integrates seamlessly with various tools and 
 - **[Market](../m/market.md) Analysts**: Used by [market](../m/market.md) analysts for [technical analysis](../t/technical_analysis.md) and monitoring [market](../m/market.md) trends.
 
 Kite by [Zerodha](../z/zerodha.md)’s comprehensive features and user-friendly design make it an ideal choice for traders and investors looking for a reliable and efficient [trading platform](../t/trading_platform.md).
+
+## Practical checklist
+- Define the time horizon for Kite by Zerodha and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

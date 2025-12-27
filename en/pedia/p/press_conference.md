@@ -40,3 +40,20 @@ A **Press Conference** is a media event organized by an individual, organization
 
 ## Conclusion
 A press conference is a vital tool for communicating important information to the public through the media. It plays a critical role in public relations, [transparency](../t/transparency.md), and crisis management. By understanding the key components, importance, and [best practices](../b/best_practices.md) of conducting a press conference, organizations and individuals can effectively manage media interactions and convey their messages to the public.
+
+## Practical checklist
+- Define the time horizon for Press Conference and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Press Conference as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Press Conference, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

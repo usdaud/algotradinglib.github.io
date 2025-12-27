@@ -43,3 +43,16 @@ Tinkoff integrates with a variety of financial platforms and tools to enhance it
 Tinkoff is regulated by several top-tier financial authorities in Russia, ensuring a secure and compliant [trading environment](../t/trading_environment.md):
 - Central [Bank](../b/bank.md) of Russia
 
+## Practical checklist
+- Define the time horizon for Tinkoff and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Tinkoff as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

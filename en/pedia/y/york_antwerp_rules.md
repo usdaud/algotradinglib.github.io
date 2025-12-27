@@ -48,3 +48,9 @@ While the York Antwerp Rules provide a comprehensive framework, they are not wit
 
 The York Antwerp Rules form a cornerstone of modern [maritime law](../m/maritime_law.md), providing a [robust](../r/robust.md) and standardized framework for sharing losses due to extraordinary sacrifices made for the common good during maritime adventures. While they have evolved over more than a century and continue to be widely adopted, ongoing assessments and revisions are necessary to keep the rules relevant to the changing landscape of global shipping.
 
+## Practical checklist
+- Define the time horizon for York Antwerp Rules and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

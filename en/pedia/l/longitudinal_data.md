@@ -63,3 +63,10 @@ Handling covariates that change over time requires advanced modeling approaches.
 Longitudinal data provides a rich framework for analyzing changes over time at the individual level. In the realm of [finance](../f/finance.md) and trading, its applications are vast and pivotal for developing [robust](../r/robust.md) [predictive models](../p/predictive_models_in_trading.md), optimizing portfolios, and enhancing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 For more information, you may refer to financial data platform providers like [Morningstar](../m/morningstar.md) ( and quant research firms like [StockSharp](../s/stocksharp.md).
+
+## Practical checklist
+- Define the time horizon for Longitudinal Data and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

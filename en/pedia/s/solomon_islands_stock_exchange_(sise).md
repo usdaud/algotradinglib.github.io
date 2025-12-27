@@ -56,3 +56,10 @@ SISE aims to expand its operations by:
 The Solomon Islands Stock [Exchange](../e/exchange.md), though a nascent financial institution, represents a vital component of the country's economic [infrastructure](../i/infrastructure.md). Continued development and regulatory support [will](../w/will.md) be critical to its success in fostering [economic growth](../e/economic_growth.md) and investment.
 
 For more information, you can visit SISE's official webpage.
+
+## Practical checklist
+- Define the time horizon for Solomon Islands Stock Exchange (SISE) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

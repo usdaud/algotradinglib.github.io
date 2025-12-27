@@ -44,3 +44,10 @@
 
 ## Conclusion
 Flipping is a strategy aimed at buying assets at a lower price and selling them at a higher price within a short time frame to realize a [profit](../p/profit.md). While it offers substantial [profit](../p/profit.md) potential and quick returns, it also carries significant risks and challenges, including [market](../m/market.md) [volatility](../v/volatility.md) and unexpected costs. Successful flipping requires careful planning, [market](../m/market.md) knowledge, and efficient [execution](../e/execution.md) to maximize profits and mitigate risks.
+
+## Practical checklist
+- Define the time horizon for Flip and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

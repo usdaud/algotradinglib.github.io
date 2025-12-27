@@ -39,3 +39,17 @@ A [multinational corporation](../m/multinational_corporation.md) sets up its reg
 
 ## Conclusion
 Hong Kong SAR is a dynamic and influential region known for its economic freedom, legal autonomy, and strategic global position. While it faces challenges related to political tensions and social issues, it remains a vital hub for international [trade](../t/trade.md), [finance](../f/finance.md), and [business](../b/business.md). Understanding the unique status and features of Hong Kong SAR helps appreciate its role in the global [economy](../e/economy.md) and its complex relationship with mainland China.
+
+## Practical checklist
+- Define the time horizon for Hong Kong Special Administrative Region (SAR) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Hong Kong Special Administrative Region (SAR) as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
