@@ -43,3 +43,17 @@ The term "Yuppie" has often been used disparagingly to criticize what some see a
 As of now, the legacy of the Yuppie demographic lives on, influencing current societal trends and economic behaviors. While the specific term may have lost some relevance, the ideas it represents continue to shape the urban landscapes and economic strategies of modern-day young professionals.
 
 For more insights and trends related to the demographic, you can refer to Deloitte for detailed reports and surveys on young urban professionals, their economic impact, and future trends.
+
+## Practical checklist
+- Define the time horizon for Yuppie and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Yuppie as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

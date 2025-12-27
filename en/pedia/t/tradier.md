@@ -43,3 +43,16 @@ Tradier is regulated by several top-tier financial authorities, ensuring a secur
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md))
 - Securities [Investor](../i/investor.md) Protection [Corporation](../c/corporation.md) (SIPC)
 
+## Practical checklist
+- Define the time horizon for Tradier and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Tradier as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

@@ -43,3 +43,10 @@ Futu integrates with a variety of financial platforms and tools to enhance its s
 Futu is regulated by several top-tier financial authorities, ensuring a secure and compliant [trading environment](../t/trading_environment.md):
 - Securities and [Futures](../f/futures.md) [Commission](../c/commission.md) (SFC) in Hong Kong
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md)) in the USA
+
+## Practical checklist
+- Define the time horizon for Futu and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

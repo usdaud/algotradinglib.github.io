@@ -101,3 +101,20 @@ In [financial markets](../f/financial_market.md), "unchanged" refers to a situat
 3. [Bid-ask spread](../b/bid-ask_spread.md)
 4. Trading [volume](../v/volume.md)
 5. [Market depth](../m/market_depth.md)
+
+## Practical checklist
+- Define the time horizon for Unchanged and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Unchanged as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Unchanged, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

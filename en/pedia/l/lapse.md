@@ -36,3 +36,17 @@ In the financial context, **Lapse** refers to the termination or expiration of a
 
 ## Conclusion
 A lapse in the financial context refers to the termination or expiration of a policy, option, or contract due to failure to meet specified conditions or take necessary actions. Understanding the conditions that lead to lapses and implementing [best practices](../b/best_practices.md) can help individuals and businesses manage risks, maintain continuous benefits, and avoid financial penalties. Regular monitoring, timely actions, and professional advice are key to preventing lapses and ensuring financial stability.
+
+## Practical checklist
+- Define the time horizon for Lapse and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Lapse as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

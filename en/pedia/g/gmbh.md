@@ -36,3 +36,10 @@
 
 ## Conclusion
 A GmbH is a popular and widely used corporate structure in German-speaking countries, [offering](../o/offering.md) [limited liability](../l/limited_liability.md) and a flexible management framework. While it provides significant advantages in terms of credibility and legal protection, the formation and regulatory requirements can be complex. Understanding the key characteristics, advantages, and disadvantages of a GmbH is essential for entrepreneurs and businesses considering this corporate form.
+
+## Practical checklist
+- Define the time horizon for GmbH (Gesellschaft mit beschränkter Haftung) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

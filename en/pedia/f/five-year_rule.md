@@ -39,3 +39,10 @@ The Five-Year Rule also applies to [529 plans](../1/529_plan.md) in a different 
 
 ## Conclusion
 The Five-Year Rule is a critical consideration in managing Roth IRAs and 529 college savings plans, ensuring that individuals can optimize their tax benefits and adhere to regulatory requirements. Understanding and applying this rule effectively can lead to significant tax savings and help achieve long-term financial goals.
+
+## Practical checklist
+- Define the time horizon for Five-Year Rule and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

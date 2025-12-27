@@ -38,3 +38,10 @@ IBridgePy offers extensive support through detailed documentation, tutorials, an
 - **Educational Purposes**: Useful for educational purposes in teaching [algorithmic trading](../a/algorithmic_trading.md) and Python programming.
 
 IBridgePy’s powerful and flexible platform makes it a preferred choice for traders looking to [leverage](../l/leverage.md) Python for automating their [trading strategies](../t/trading_strategies.md) with [Interactive Brokers](../i/interactive_brokers.md).
+
+## Practical checklist
+- Define the time horizon for IBridgePy and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

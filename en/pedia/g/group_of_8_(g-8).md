@@ -52,3 +52,23 @@ With the rise of other international forums like the G-20, which includes a broa
 # Conclusion
 
 The G-8 has played a significant role in shaping global economic policies and addressing international issues. While it has faced criticism and challenges, it remains an influential forum for dialogue among some of the world's leading economies. The future role of the G-8 may evolve as global dynamics change and new international forums [gain](../g/gain.md) prominence.
+
+## Practical checklist
+- Define the time horizon for G-8 and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating G-8 as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For G-8, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+
+## Risk management notes
+Risk control is essential when applying G-8. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.

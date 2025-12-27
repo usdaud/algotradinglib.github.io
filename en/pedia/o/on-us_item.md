@@ -47,3 +47,10 @@ With the rise of digital banking, the concept of on-us items has extended into e
 On-us items represent a key component in the [efficiency](../e/efficiency.md) of banking operations, highlighting the importance of internal transactions. As financial institutions continue to innovate, the [scope](../s/scope.md) and application of on-us item processing are likely to expand, further enhancing the speed and convenience of banking services.
 
 In summary, the concept of the on-us item simplifies many banking processes, minimizes [transaction costs](../t/transaction_costs.md), and improves the overall [efficiency](../e/efficiency.md) of financial transactions. For institutions and clients seeking rapid and secure processing, understanding and leveraging on-us items can contribute significantly to achieving these goals.
+
+## Practical checklist
+- Define the time horizon for On-Us Item and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

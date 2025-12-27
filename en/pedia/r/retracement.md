@@ -49,3 +49,17 @@ In [algorithmic trading](../a/algorithmic_trading.md), retracement levels can fo
 ## Conclusion
 
 Understanding retracement is invaluable for traders from novice to expert levels. By incorporating various [technical indicators](../t/technical_indicator.md) and tools, one can better navigate the complex world of trading and make more informed decisions. Whether you're involved in manual trading or developing [algorithmic trading](../a/algorithmic_trading.md) bots, recognizing retracement patterns can significantly boost your trading success.
+
+## Practical checklist
+- Define the time horizon for Retracement and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Retracement as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

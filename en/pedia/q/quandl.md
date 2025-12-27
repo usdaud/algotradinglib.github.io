@@ -43,3 +43,17 @@ Quandl provides extensive support through detailed documentation, user guides, t
 - **Academic Researchers**: Assists academic researchers in conducting in-depth studies and analysis of financial and economic trends.
 
 Quandl’s extensive data library, user-friendly API, and [robust](../r/robust.md) integration capabilities make it an ideal choice for analysts, researchers, and developers seeking high-quality financial and alternative datasets.
+
+## Practical checklist
+- Define the time horizon for Quandl and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Quandl as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

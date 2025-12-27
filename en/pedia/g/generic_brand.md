@@ -35,3 +35,20 @@ A **Generic Brand** refers to a type of consumer product that lacks a widely rec
 
 ## Conclusion
 Generic brands play a significant role in the consumer [market](../m/market.md) by [offering](../o/offering.md) cost-effective alternatives to branded products. While they may face challenges related to quality perception and [brand loyalty](../b/brand_loyalty.md), their affordability and comparable quality make them a viable option for many consumers. Understanding the benefits and limitations of generic brands helps consumers make informed purchasing decisions and contributes to a more competitive and diverse marketplace.
+
+## Practical checklist
+- Define the time horizon for Generic Brand and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Generic Brand as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Generic Brand, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

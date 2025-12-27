@@ -33,3 +33,20 @@ A **Junior Company** is a small to medium-sized enterprise, often in the early s
 
 ## Conclusion
 Junior companies are vital players in the natural resource sector, driving exploration and the discovery of new resources. While they present significant risks, they also [offer](../o/offer.md) substantial rewards for successful discoveries. Understanding the dynamics, challenges, and [best practices](../b/best_practices.md) of junior companies can help investors and stakeholders make informed decisions and support the growth and development of these enterprises.
+
+## Practical checklist
+- Define the time horizon for Junior Company and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Junior Company as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Junior Company, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

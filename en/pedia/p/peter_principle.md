@@ -47,3 +47,17 @@ Testing employees' capabilities in situ, or within a simulated environment refle
 ## Conclusion
 
 The Peter Principle remains a relevant and widely observed phenomenon in organizational structures globally. By understanding and recognizing this principle, organizations can strategize to mitigate its effects, ensuring that promotions and role advancements align with individual capabilities and organizational needs.
+
+## Practical checklist
+- Define the time horizon for Peter Principle and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Peter Principle as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

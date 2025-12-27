@@ -43,3 +43,9 @@ Scotia iTRADE is regulated by several top-tier financial authorities in Canada, 
 - Investment [Industry](../i/industry.md) Regulatory Organization of Canada (IIROC)
 - Canadian [Investor](../i/investor.md) Protection [Fund](../f/fund.md) (CIPF)
 
+## Practical checklist
+- Define the time horizon for Scotia iTRADE and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

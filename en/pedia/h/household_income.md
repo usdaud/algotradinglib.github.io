@@ -36,3 +36,10 @@ Household [income](../i/income.md) is calculated by summing the total [income](.
 
 ## Conclusion
 Household [income](../i/income.md) is a comprehensive measure of the total [income](../i/income.md) earned by all members of a household from various sources. It is an essential [indicator](../i/indicator.md) of economic well-being and is used for policy-making, determining eligibility for assistance programs, and [market research](../m/market_research.md). Understanding and managing household [income](../i/income.md) is crucial for effective [financial planning](../f/financial_planning.md) and achieving economic stability.
+
+## Practical checklist
+- Define the time horizon for Household Income and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

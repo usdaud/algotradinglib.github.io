@@ -43,3 +43,20 @@ The G-11 group originally included the following countries:
 
 ## Conclusion
 The G-11 group represents an important coalition of developing countries working together to address common economic challenges and promote sustainable development. Through cooperation, shared learning, and collective advocacy, the G-11 aims to enhance the economic well-being of its member countries and ensure their voices are heard in the global economic arena. Understanding the objectives, activities, and importance of the G-11 helps highlight the role of such groups in fostering international cooperation and development.
+
+## Practical checklist
+- Define the time horizon for G-11 (Group of Eleven) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating G-11 (Group of Eleven) as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For G-11 (Group of Eleven), confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

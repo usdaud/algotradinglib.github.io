@@ -28,3 +28,17 @@
 
 ## Conclusion
 Ultima is a higher-[order](../o/order.md) Greek used in [options](../o/options.md) trading to measure the sensitivity of [vega](../v/vega.md) to changes in [volatility](../v/volatility.md). It provides advanced insights into the behavior of [options](../o/options.md) and is essential for managing complex portfolios and mitigating risks associated with [volatility](../v/volatility.md). Understanding and effectively utilizing ultima requires advanced knowledge of [options](../o/options.md) pricing and continuous monitoring of [market](../m/market.md) conditions to optimize [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) practices.
+
+## Practical checklist
+- Define the time horizon for Ultima and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Ultima as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

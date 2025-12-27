@@ -36,3 +36,10 @@ In the financial context, a **Load** refers to a [fee](../f/fee.md) or [commissi
 
 ## Conclusion
 Loads are fees charged by mutual funds for buying or selling [shares](../s/shares.md), compensating brokers and financial advisors for their services. Understanding the different types of loads, their impact on investment returns, and [best practices](../b/best_practices.md) for managing these costs can help investors make informed decisions and maximize their investment outcomes. Comparing load and no-load funds, understanding [fee](../f/fee.md) structures, and seeking professional advice are essential steps in managing the cost of [investing](../i/investing.md) in mutual funds.
+
+## Practical checklist
+- Define the time horizon for Load and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

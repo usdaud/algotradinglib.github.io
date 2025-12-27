@@ -45,3 +45,10 @@ For more detailed information about William H. Gross and his current activities,
 - Janus Henderson
 
 His extensive body of work provides valuable lessons and insights into the world of [bond](../b/bond.md) investment and [risk management](../r/risk_management.md) strategies.
+
+## Practical checklist
+- Define the time horizon for William H. Gross and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

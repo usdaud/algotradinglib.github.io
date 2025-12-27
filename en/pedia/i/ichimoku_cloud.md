@@ -55,3 +55,10 @@ The Ichimoku Cloud is widely used in [multiple](../m/multiple.md) [financial mar
 ### Conclusion
 
 The Ichimoku Cloud is a powerful and versatile trading tool that offers a wide [range](../r/range.md) of information about [market](../m/market.md) conditions. Its comprehensive nature allows traders to identify trends, [support and resistance](../s/support_and_resistance.md) levels, and [momentum](../m/momentum.md) in a single glance, making it a valuable addition to any [trading strategy](../t/trading_strategy.md). However, like all indicators, it is not infallible and should ideally be used in conjunction with other analysis tools to confirm signals and improve trading decisions.
+
+## Practical checklist
+- Define the time horizon for Ichimoku Cloud and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

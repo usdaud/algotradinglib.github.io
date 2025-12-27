@@ -32,3 +32,17 @@
 
 ## Conclusion
 Unsubscribed portions of a securities [offering](../o/offering.md) indicate that the [demand](../d/demand.md) from investors did not meet the [supply](../s/supply.md) of the offered securities. This can impact the issuing company's ability to raise [capital](../c/capital.md) and affect [market](../m/market.md) perception. Understanding the key components, importance, and challenges of unsubscribed securities can help companies and underwriters effectively manage offerings and mitigate risks associated with weak [investor](../i/investor.md) [demand](../d/demand.md).
+
+## Practical checklist
+- Define the time horizon for Unsubscribed and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Unsubscribed as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

@@ -39,3 +39,17 @@ Livevol provides [robust](../r/robust.md) support through detailed documentation
 - **Educational Purposes**: Provides educational resources for learning about [options](../o/options.md) trading and [market](../m/market.md) analysis.
 
 Livevol’s comprehensive features and advanced analytics make it an ideal platform for traders and analysts looking to [gain](../g/gain.md) deeper insights into the [options](../o/options.md) markets and improve their [trading performance](../t/trading_performance.md).
+
+## Practical checklist
+- Define the time horizon for Livevol and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Livevol as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

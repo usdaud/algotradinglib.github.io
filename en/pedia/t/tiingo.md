@@ -43,3 +43,10 @@ Tiingo offers extensive support through detailed documentation, user guides, tut
 - **[Market](../m/market.md) Researchers**: Assists [market](../m/market.md) researchers in conducting in-depth studies and analysis of [financial markets](../f/financial_market.md).
 
 Tiingo’s [robust](../r/robust.md) features, high-quality data, and developer-friendly APIs make it an ideal choice for investors, traders, and developers seeking reliable and affordable financial data solutions.
+
+## Practical checklist
+- Define the time horizon for Tiingo and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

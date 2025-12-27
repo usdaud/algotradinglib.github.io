@@ -57,3 +57,10 @@ With advancements in [mobile banking](../m/mobile_banking.md) apps and digital f
 Night depositories continue to provide a critical service, especially for cash-intensive businesses. The safety, convenience, and [cash flow](../c/cash_flow.md) benefits make them a valuable tool in financial management. However, the rise of digital banking and 24/7 ATMs offers businesses additional flexibility and [options](../o/options.md) for managing deposits and transactions effectively.
 
 For more in-depth information on services provided by different financial institutions, you can visit the websites of major banks such as Bank of America or Wells Fargo.
+
+## Practical checklist
+- Define the time horizon for Night Depository and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

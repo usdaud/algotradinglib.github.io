@@ -36,3 +36,17 @@
 
 ## Conclusion
 The British Pound Sterling (GBP) is a significant global [currency](../c/currency.md) with a rich history and substantial influence in the [financial markets](../f/financial_market.md). Its [value](../v/value.md) is shaped by a combination of economic data, [monetary policy](../m/monetary_policy.md), political events, and global [market](../m/market.md) trends. Understanding the factors that affect GBP can help investors, traders, and businesses make informed decisions in the context of the UK and global [economy](../e/economy.md).
+
+## Practical checklist
+- Define the time horizon for GBP (Great Britain Pound) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating GBP (Great Britain Pound) as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

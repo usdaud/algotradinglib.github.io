@@ -51,3 +51,10 @@ Failure to [issue](../i/issue.md) W-2 forms on time, or providing incorrect info
 ## Summary
 
 The W-2 form is indispensable for accurate and compliant tax reporting by both employers and employees. Its precise completion ensures proper tax [withholding](../w/withholding.md) and subsequently, correct filing of individual tax returns. Proper care and attention to the W-2 process help avoid penalties and ensure smooth financial and tax operations for both parties involved.
+
+## Practical checklist
+- Define the time horizon for W-2 Form and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

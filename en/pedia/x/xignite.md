@@ -43,3 +43,10 @@ Xignite offers extensive support through detailed documentation, user guides, tu
 - **Quantitative Analysts**: Enables quants to develop and backtest [trading models](../t/trading_models.md) using comprehensive historical data.
 
 Xignite’s [robust](../r/robust.md) features, high-quality data, and developer-friendly APIs make it an ideal choice for fintech companies, developers, and financial institutions seeking reliable and scalable financial data solutions.
+
+## Practical checklist
+- Define the time horizon for Xignite and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

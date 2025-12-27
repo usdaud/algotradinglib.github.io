@@ -38,3 +38,17 @@
 
 ## Conclusion
 The term "Fourth World" highlights the plight of the most marginalized and underdeveloped populations, often indigenous or nomadic groups, who face extreme [poverty](../p/poverty.md) and lack political representation. Addressing the challenges faced by these groups requires concerted efforts in advocacy, economic development, cultural preservation, and securing land rights. Understanding and recognizing the unique needs and contributions of Fourth World populations is crucial for global [equity](../e/equity.md) and justice.
+
+## Practical checklist
+- Define the time horizon for Fourth World and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Fourth World as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

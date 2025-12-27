@@ -59,3 +59,10 @@ For more detailed information on how FFO is reported by Realty [Income](../i/inc
 ## Conclusion
 
 Funds From Operations (FFO) is an essential metric for evaluating the [financial health](../f/financial_health.md) of REITs, [offering](../o/offering.md) insights that are not available through traditional net [income](../i/income.md). It provides a clearer picture of the recurring [cash flow](../c/cash_flow.md) by adjusting for non-cash and non-recurring items. Despite its limitations, FFO, and its more refined cousin AFFO, remain indispensable tools for investors looking to assess the sustainability and performance of [real estate](../r/real_estate.md) investments.
+
+## Practical checklist
+- Define the time horizon for Funds From Operations (FFO) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

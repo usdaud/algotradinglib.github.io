@@ -38,3 +38,10 @@ Jigsaw Trading offers extensive support through detailed documentation, user gui
 - **Trading Simulator Users**: Allows traders to practice [order](../o/order.md) flow trading in a simulated environment to hone their skills.
 
 Jigsaw Trading’s specialized tools and educational resources make it an ideal choice for traders looking to [gain](../g/gain.md) a deeper understanding of [market dynamics](../m/market_dynamics.md) through [order flow analysis](../o/order_flow_analysis.md).
+
+## Practical checklist
+- Define the time horizon for Jigsaw Trading and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
