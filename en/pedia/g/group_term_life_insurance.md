@@ -38,3 +38,17 @@ An employer provides group [term life insurance](../t/term_life_insurance.md) co
 
 ## Conclusion
 Group [Term Life Insurance](../t/term_life_insurance.md) is a valuable benefit that provides financial protection to employees and their families. It offers simplified enrollment, cost-effective premiums, and peace of mind. Employers benefit from enhanced employee satisfaction and loyalty by including [life insurance](../l/life_insurance.md) in their benefits packages. However, employees should evaluate their coverage needs and consider supplemental [insurance](../i/insurance.md) if necessary to ensure adequate protection.
+
+## Practical checklist
+- Define the time horizon for Group Term Life Insurance and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Group Term Life Insurance as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

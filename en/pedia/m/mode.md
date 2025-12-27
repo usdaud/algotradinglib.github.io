@@ -46,3 +46,23 @@ The mode is 100, as it occurs most frequently.
 
 ## Conclusion
 The mode is a useful statistical measure in [finance](../f/finance.md) for identifying the most frequently occurring [value](../v/value.md) in a data set. It provides insights into common trends and behaviors, aiding in [market](../m/market.md) analysis and decision making. While valuable on its own, the mode is most effective when used alongside other measures of central tendency to provide a comprehensive understanding of financial data.
+
+## Practical checklist
+- Define the time horizon for Mode and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Mode as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Mode, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+
+## Risk management notes
+Risk control is essential when applying Mode. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.

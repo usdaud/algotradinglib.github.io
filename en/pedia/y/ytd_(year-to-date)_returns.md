@@ -59,3 +59,10 @@ Various companies and financial institutions utilize YTD returns in their perfor
 ## Conclusion
 
 YTD returns serve as a critical metric for investors, financial analysts, and corporate decision-makers to evaluate and compare the performance of investments within the current calendar year. While it offers valuable insights, it is essential to consider its limitations and [complement](../c/complement.md) it with other [performance metrics](../p/performance_metrics.md) for thorough [financial analysis](../f/financial_analysis.md).
+
+## Practical checklist
+- Define the time horizon for YTD (Year-to-Date) Returns and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

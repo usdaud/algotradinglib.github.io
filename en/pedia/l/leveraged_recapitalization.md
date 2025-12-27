@@ -43,3 +43,10 @@ Leveraged [recapitalization](../r/recapitalization.md) is a financial strategy t
 ### Conclusion
 
 Leveraged [recapitalization](../r/recapitalization.md) is a complex financial strategy that can provide substantial benefits but comes with significant risks. Companies considering this approach must weigh these factors carefully and evaluate the potential long-term impacts on their [financial health](../f/financial_health.md) and operational capabilities.
+
+## Practical checklist
+- Define the time horizon for Leveraged Recapitalization and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

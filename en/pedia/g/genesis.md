@@ -40,3 +40,17 @@ Genesis provides extensive support through detailed documentation, training prog
 - **Regulatory Compliance**: Assists in developing applications that ensure compliance with financial regulations.
 
 Genesis's powerful low-code platform enables financial institutions to quickly develop and deploy customized solutions, enhancing their agility and competitive edge in the [market](../m/market.md).
+
+## Practical checklist
+- Define the time horizon for Genesis and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Genesis as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

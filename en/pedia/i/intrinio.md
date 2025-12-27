@@ -43,3 +43,10 @@ Intrinio offers extensive support through detailed documentation, user guides, t
 - **Financial Advisors**: Assists financial advisors in developing data-driven investment strategies and providing informed advice to clients.
 
 Intrinio’s [robust](../r/robust.md) features, high-quality data, and developer-friendly APIs make it an ideal choice for businesses and individuals seeking comprehensive financial data solutions.
+
+## Practical checklist
+- Define the time horizon for Intrinio and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

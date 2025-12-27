@@ -42,3 +42,17 @@ There are several effective strategies for managing reverse culture shock:
 ## Conclusion
 
 Reverse culture shock is a multifaceted experience that can be equally as challenging as the initial culture shock encountered when moving to a new country. Understanding the stages of reverse culture shock, the factors that influence it, and the strategies to cope with it can help individuals manage the emotional and psychological complexities of returning to their [home](../h/home.md) culture. By acknowledging and addressing these challenges, one can successfully integrate their international experiences into their lives, enriching both their sense of self and their [home](../h/home.md) culture.
+
+## Practical checklist
+- Define the time horizon for Reverse Culture Shock and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Reverse Culture Shock as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

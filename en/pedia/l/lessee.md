@@ -38,3 +38,10 @@ A **Lessee** is an individual or entity that acquires the right to use and occup
 
 ## Conclusion
 A lessee is an individual or entity that leases property or equipment from a lessor, gaining the right to use and occupy the [asset](../a/asset.md) for a specified period in [exchange](../e/exchange.md) for regular payments. Leasing provides access to assets without the need for large [capital](../c/capital.md) expenditures, [offering](../o/offering.md) flexibility and [financial planning](../f/financial_planning.md) benefits. Understanding the key components, types, challenges, and [best practices](../b/best_practices.md) associated with being a lessee can help individuals and businesses manage their lease agreements effectively and maximize the benefits of leasing.
+
+## Practical checklist
+- Define the time horizon for Lessee and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

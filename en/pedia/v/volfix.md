@@ -79,3 +79,20 @@ Volfix is a specialized trading software focused on [options](../o/options.md) t
 - [Expansion](../e/expansion.md) of [asset](../a/asset.md) classes to include VIX [futures](../f/futures.md) and [options](../o/options.md)
 
 Volfix stands out in the [options](../o/options.md) trading software [market](../m/market.md) due to its deep focus on [volatility analysis](../v/volatility_analysis.md) and advanced [options](../o/options.md) strategies. It's particularly valued by traders who require sophisticated tools for [options](../o/options.md) pricing, [risk management](../r/risk_management.md), and strategy development in volatile [market](../m/market.md) conditions.
+
+## Practical checklist
+- Define the time horizon for Volfix and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Volfix as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Volfix, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

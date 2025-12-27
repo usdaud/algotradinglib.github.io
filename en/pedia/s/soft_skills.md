@@ -43,3 +43,17 @@ Soft skills are personal attributes that enhance an individual's interactions, j
 6. **Mentoring:** Learn from mentors who exhibit strong soft skills.
 
 Understanding and improving your soft skills can greatly enhance your career and personal life. Employers prioritize these skills because they lead to a more harmonious, efficient, and resilient workforce. By focusing on developing soft skills, you can ensure that you're not only proficient in your technical ability but also excel in interpersonal and professional settings.
+
+## Practical checklist
+- Define the time horizon for Soft Skills and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Soft Skills as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

@@ -66,3 +66,17 @@ These tools provide real-time conversions and [market](../m/market.md) prices, e
 ## Conclusion
 
 The troy ounce remains an indispensable unit within the realm of precious metals, bridging history with modern financial practices. Whether involved in [mining](../m/mining.md), trading, or simply [investing](../i/investing.md) in gold or silver bullion, understanding the specific weights, conversions, and applications of the troy ounce is essential for accurate transactions and valuations. The continued usage of this ancient measure underscores its importance in maintaining standardized and fair trading practices globally.
+
+## Practical checklist
+- Define the time horizon for Troy Ounce and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Troy Ounce as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

@@ -39,3 +39,10 @@ In the financial context, **Negotiable** refers to the attribute of certain inst
 
 ## Conclusion
 [Negotiable instruments](../n/negotiable_instrument.md) are valuable financial tools that provide [liquidity](../l/liquidity.md), flexibility, and [risk management](../r/risk_management.md) benefits. Understanding their key components, importance, and [best practices](../b/best_practices.md) for handling them can help individuals and businesses effectively use these instruments in financial transactions. Ensuring secure endorsements, proper documentation, and verification can mitigate the challenges associated with [negotiable instruments](../n/negotiable_instrument.md) and enhance their [utility](../u/utility.md) in the [financial system](../f/financial_system.md).
+
+## Practical checklist
+- Define the time horizon for Negotiable and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

@@ -33,3 +33,10 @@ Lambda is typically calculated using [options](../o/options.md) pricing models t
 
 ## Conclusion
 Lambda is a critical measure in [options](../o/options.md) trading that helps assess the sensitivity of an option's price to changes in [interest](../i/interest.md) rates. It is essential for managing [interest rate risk](../i/interest_rate_risk.md), ensuring accurate pricing, and developing strategic trading plans. Despite the complexity of its calculation and application, understanding and effectively using Lambda can provide significant advantages in managing [options](../o/options.md) portfolios and navigating [interest rate](../i/interest_rate.md) changes.
+
+## Practical checklist
+- Define the time horizon for Lambda and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

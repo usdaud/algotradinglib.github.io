@@ -41,3 +41,10 @@ Given that certain perils are uninsurable, businesses and individuals often seek
 ## Conclusion
 
 Uninsurable perils present a significant challenge in [risk management](../r/risk_management.md) and [financial planning](../f/financial_planning.md). Understanding the nature of these perils allows businesses and individuals to develop more comprehensive and effective strategies for managing exposures that fall outside the [scope](../s/scope.md) of traditional [insurance](../i/insurance.md) coverage. While alternative [risk management](../r/risk_management.md) methods can mitigate some of the impacts, ongoing evaluation and adaptation are essential to navigate the complexities of uninsurable risks.
+
+## Practical checklist
+- Define the time horizon for Uninsurable Peril and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

@@ -46,3 +46,9 @@ XTB is regulated by several top-tier financial authorities, ensuring a secure an
 - International Financial Services [Commission](../c/commission.md) (IFSC) in Belize
 - Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC)
 
+## Practical checklist
+- Define the time horizon for XTB and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

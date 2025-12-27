@@ -75,3 +75,10 @@ Unilever, a global [consumer goods](../c/consumer_goods.md) company, utilizes no
 ## Conclusion
 
 Non-Executive Directors play a crucial role in the governance and strategic direction of a company. By bringing an independent viewpoint and a [wealth](../w/wealth.md) of experience, NEDs enhance oversight, contribute to strategic planning, mitigate risks, and [hold](../h/hold.md) executive teams accountable. Despite the challenges, the benefits they bring make them indispensable to any well-governed organization.
+
+## Practical checklist
+- Define the time horizon for Non-Executive Director and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

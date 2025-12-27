@@ -33,3 +33,20 @@ An **Interim Statement** is a financial report covering a period shorter than a 
 
 ## Conclusion
 Interim statements are essential tools for providing timely and relevant financial information about a company's performance and financial position between annual reports. By [offering](../o/offering.md) insights into the company's operations on a more frequent [basis](../b/basis.md), interim statements help investors, analysts, and management make informed decisions and adjust strategies as needed. Understanding their components, importance, and [best practices](../b/best_practices.md) can enhance the effectiveness and reliability of these financial reports.
+
+## Practical checklist
+- Define the time horizon for Interim Statement and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Interim Statement as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Interim Statement, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

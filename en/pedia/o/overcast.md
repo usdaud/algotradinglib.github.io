@@ -36,3 +36,10 @@ In the financial context, **Overcast** refers to a [market](../m/market.md) cond
 
 ## Conclusion
 Overcast conditions in the [financial markets](../f/financial_market.md) signify a period of [uncertainty](../u/uncertainty_in_trading.md) and subdued activity, often leading to cautious [investor](../i/investor.md) behavior and low trading volumes. Understanding these conditions can help investors make informed decisions, manage [risk](../r/risk.md) effectively, and maintain a balanced approach to trading and [investing](../i/investing.md). By recognizing the signs of an overcast [market](../m/market.md), investors can better navigate uncertain times and position themselves for potential [market](../m/market.md) shifts.
+
+## Practical checklist
+- Define the time horizon for Overcast and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

@@ -35,3 +35,20 @@ In the financial context, **Kill** refers to the action of canceling or terminat
 
 ## Conclusion
 The term "Kill" in the financial context refers to the action of canceling a financial [order](../o/order.md) or [transaction](../t/transaction.md) before it is executed. This practice is essential for managing [risk](../r/risk.md), providing flexibility, and preventing potential losses in volatile [market](../m/market.md) conditions. Understanding the types, challenges, and [best practices](../b/best_practices.md) associated with kill orders can help traders and investors effectively manage their trading activities.
+
+## Practical checklist
+- Define the time horizon for Kill and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Kill as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Kill, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

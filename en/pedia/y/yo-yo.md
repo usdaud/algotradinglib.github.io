@@ -37,3 +37,17 @@ In the financial context, **Yo-Yo** refers to the volatile and unpredictable flu
 
 ## Conclusion
 Yo-yo price movements in the [financial markets](../f/financial_market.md) represent significant [volatility](../v/volatility.md) and unpredictability, making it challenging for investors to navigate. Understanding the causes and implications of these erratic price swings is essential for effective [risk management](../r/risk_management.md) and developing [robust](../r/robust.md) investment strategies. By employing [best practices](../b/best_practices.md) such as [diversification](../d/diversification.md), [stop-loss orders](../s/stop-loss_orders.md), and maintaining a long-term focus, investors can better manage the risks associated with yo-yo markets and achieve more stable financial outcomes.
+
+## Practical checklist
+- Define the time horizon for Yo-Yo and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Yo-Yo as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

@@ -39,3 +39,10 @@ QuantRocket provides extensive support through detailed documentation, user guid
 ## Use Cases
 - **Quantitative Researchers**: Utilized by quantitative researchers for data analysis, strategy development, and [backtesting](../b/backtesting.md).
 - **Algorithmic Traders**: Supports algorithmic traders in developing, testing, and deploying automated [trading strategies](../t/trading_strategies.md).
+
+## Practical checklist
+- Define the time horizon for QuantRocket and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

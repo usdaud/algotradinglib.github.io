@@ -49,3 +49,10 @@ Government regulations and oversight bodies can ensure that entities do not enga
 Moral hazard is a critical concept in understanding decision-making behavior in contexts where [risk](../r/risk.md) is borne by different parties than those who make the [risk](../r/risk.md)-related decisions. Addressing these issues requires a mixture of strategic organizational changes, regulatory frameworks, and financial incentives to ensure aligned interests and responsible behavior.
 
 Understanding and mitigating moral hazard is essential for ensuring [economic efficiency](../e/economic_efficiency.md) and fairness—be it in the realms of [insurance](../i/insurance.md), banking, [corporate governance](../c/corporate_governance.md), or other fields where [risk](../r/risk.md) is a fundamental concern.
+
+## Practical checklist
+- Define the time horizon for Moral Hazard and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.

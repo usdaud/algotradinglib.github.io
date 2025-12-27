@@ -39,3 +39,17 @@ The **Government Accountability Office (GAO)** is an independent, non-partisan a
 
 ## Conclusion
 The Government Accountability Office plays a crucial role in ensuring the accountability, [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md) of the federal government. By conducting audits, evaluations, and investigations, the GAO helps to improve government operations and safeguard public resources. Its work supports informed decision-making by Congress and enhances public [trust](../t/trust.md) in government.
+
+## Practical checklist
+- Define the time horizon for Government Accountability Office (GAO) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Government Accountability Office (GAO) as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

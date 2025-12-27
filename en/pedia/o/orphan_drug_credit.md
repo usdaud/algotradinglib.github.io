@@ -41,3 +41,17 @@ There is ongoing legislative [interest](../i/interest.md) in either restoring th
 ## Conclusion
 
 The Orphan Drug [Credit](../c/credit.md) remains a vital tool in the U.S. healthcare landscape, encouraging the development of treatments for rare diseases. Despite legislative changes, it continues to [offer](../o/offer.md) significant financial incentives to pharmaceutical companies willing to invest in these critical but often financially nonviable areas of drug research and development.
+
+## Practical checklist
+- Define the time horizon for Orphan Drug Credit and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Orphan Drug Credit as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.

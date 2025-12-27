@@ -83,3 +83,20 @@ For more detailed information on [technical indicators](../t/technical_indicator
 - Investopedia
 - TradingView
 - StockCharts
+
+## Practical checklist
+- Define the time horizon for Wilder's Directional Movement Index (DMI) and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Wilder's Directional Movement Index (DMI) as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Wilder's Directional Movement Index (DMI), confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.

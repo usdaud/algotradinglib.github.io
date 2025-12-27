@@ -36,3 +36,23 @@
 
 ## Conclusion
 Intermediate goods are essential components in the production of final goods and services, playing a crucial role in the [supply chain](../s/supply_chain.md) and economic processes. Understanding their importance, managing challenges, and implementing [best practices](../b/best_practices.md) can enhance [production efficiency](../p/production_efficiency.md) and contribute to [economic growth](../e/economic_growth.md).
+
+## Practical checklist
+- Define the time horizon for Intermediate Good and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
+
+## Common pitfalls
+- Treating Intermediate Good as a standalone signal instead of context.
+- Ignoring liquidity, spreads, and execution friction.
+- Using a rule on a different timeframe than it was designed for.
+- Overfitting a small sample of past examples.
+- Assuming the same behavior in abnormal volatility.
+
+## Data and measurement
+Good analysis starts with consistent data. For Intermediate Good, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+
+## Risk management notes
+Risk control is essential when applying Intermediate Good. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.

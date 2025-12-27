@@ -36,3 +36,10 @@
 
 ## Conclusion
 Non-[negotiable instruments](../n/negotiable_instrument.md) are designed to provide [security](../s/security.md) and stability in financial transactions by ensuring that only the specified parties can claim payments or benefits. While they [offer](../o/offer.md) significant advantages in terms of [fraud](../f/fraud.md) prevention and clarity, they also come with challenges such as reduced flexibility and marketability. Understanding the key components, importance, and [best practices](../b/best_practices.md) for managing non-[negotiable instruments](../n/negotiable_instrument.md) can help individuals and businesses effectively utilize these tools in their financial operations.
+
+## Practical checklist
+- Define the time horizon for Non-Negotiable and the market context.
+- Identify the data inputs you trust, such as price, volume, or schedule dates.
+- Write a clear entry and exit rule before committing capital.
+- Size the position so a single error does not damage the account.
+- Document the result to improve repeatability.
