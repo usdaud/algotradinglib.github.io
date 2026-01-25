@@ -1,0 +1,12 @@
+AGENTS.md
+EXTRA_FILES_REPORT.md
+l/test.md
+p/p-тест.md
+r/registration.md
+r/regression_models.md
+r/regression_testing.md
+r/regressive_tax.md
+r/regular_way_trade.md
+r/revenue'agent'report'rar.md
+t/total_utility_new.md
+t/trading_signal_generation_new.md
