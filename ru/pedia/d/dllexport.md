@@ -1,51 +1,51 @@
 # DllExport
 
-**DllExport** is a system utility designed to export functions from.NET assemblies as native DLL exports. By providing a bridge between managed (.NET) code and native applications, DllExport enables seamless integration of modern trading platforms (such as QuantConnect, Tiger.Trade or Lean) with legacy systems like MetaTrader 4 (MT4) and MetaTrader 5 (MT5).
+**DllExport** — это системная утилита, предназначенная для экспорта функций из сборок .NET в виде нативных экспортов DLL. Предоставляя мост между управляемым (.NET) кодом и нативными приложениями, DllExport обеспечивает бесшовную интеграцию современных торговых платформ (таких как QuantConnect, Tiger.Trade или Lean) с устаревшими системами, такими как MetaTrader 4 (MT4) и MetaTrader 5 (MT5).
 
-### Key Components
+### Ключевые компоненты
 
-1. **Managed-to-Native Exporting:**
- DllExport allows developers to mark methods in a.NET assembly so that they are exported as native functions. This means that these functions can be called from non-.NET applications that require native DLL interfaces.
+1. **Экспорт из управляемого в нативный код:**
+   DllExport позволяет разработчикам помечать методы в сборке .NET таким образом, чтобы они экспортировались как нативные функции. Это означает, что эти функции могут вызываться из приложений, не использующих .NET, которым требуются нативные интерфейсы DLL.
 
-2. **Compiler Integration:**
- The tool integrates with the build process to automatically generate the necessary export symbols. It ensures that the.NET methods are properly exposed as native exports during compilation.
+2. **Интеграция с компилятором:**
+   Инструмент интегрируется с процессом сборки для автоматической генерации необходимых символов экспорта. Он гарантирует, что методы .NET правильно экспонируются как нативные экспорты во время компиляции.
 
-3. **Interoperability Layer:**
- By providing a standard mechanism for exporting functions, DllExport acts as an interoperability layer, allowing modern.NET-based trading libraries to communicate with and extend legacy trading software.
+3. **Уровень взаимодействия:**
+   Предоставляя стандартный механизм экспорта функций, DllExport выступает в качестве уровня взаимодействия, позволяя современным торговым библиотекам на основе .NET взаимодействовать с устаревшим торговым программным обеспечением и расширять его.
 
-### Applications
+### Применение
 
-- **Integration with Legacy Trading Platforms:**
- Financial institutions and independent developers can integrate modern, feature-rich trading applications like QuantConnect or Lean with well-established legacy platforms such as MT4 and MT5. This integration allows traders to leverage modern analytical tools while maintaining compatibility with widely used legacy systems.
+- **Интеграция с устаревшими торговыми платформами:**
+  Финансовые учреждения и независимые разработчики могут интегрировать современные, многофункциональные торговые приложения, такие как QuantConnect или Lean, с хорошо зарекомендовавшими себя устаревшими платформами, такими как MT4 и MT5. Эта интеграция позволяет трейдерам использовать современные аналитические инструменты, сохраняя при этом совместимость с широко используемыми устаревшими системами.
 
-- **Enhancing Functionality of Legacy Systems:**
- Using DllExport, legacy systems can be extended with advanced functionality developed in modern languages. This is particularly useful for incorporating new algorithms, data feeds, and risk management features into older platforms.
+- **Расширение функциональности устаревших систем:**
+  Используя DllExport, устаревшие системы могут быть расширены передовыми функциями, разработанными на современных языках. Это особенно полезно для включения новых алгоритмов, потоков данных и функций управления рисками в более старые платформы.
 
-- **Seamless Interoperability:**
- Developers can create hybrid solutions where modern managed code handles complex logic or data processing, and native legacy applications maintain their familiar user interfaces and connectivity with traditional trading networks.
+- **Бесшовная совместимость:**
+  Разработчики могут создавать гибридные решения, где современный управляемый код обрабатывает сложную логику или обработку данных, а нативные устаревшие приложения сохраняют свои привычные пользовательские интерфейсы и подключение к традиционным торговым сетям.
 
-### Advantages
+### Преимущества
 
-- **Cost-Effective Modernization:**
- DllExport offers a cost-effective way to modernize legacy trading systems by enabling them to use state-of-the-art.NET libraries without the need to completely replace existing platforms.
+- **Экономически эффективная модернизация:**
+  DllExport предлагает экономически эффективный способ модернизации устаревших торговых систем, позволяя им использовать современные библиотеки .NET без необходимости полной замены существующих платформ.
 
-- **Increased Flexibility:**
- By bridging managed and native code, it provides developers with the flexibility to choose the best tools and frameworks for each part of their system, integrating advanced features with time-tested legacy infrastructure.
+- **Повышенная гибкость:**
+  Объединяя управляемый и нативный код, он предоставляет разработчикам гибкость в выборе лучших инструментов и фреймворков для каждой части их системы, интегрируя передовые функции с проверенной временем устаревшей инфраструктурой.
 
-- **Enhanced Performance:**
- With native DLL exports, integration is efficient and avoids the overhead associated with inter-process communication, ensuring responsive performance in real-time trading environments.
+- **Улучшенная производительность:**
+  С нативными экспортами DLL интеграция является эффективной и избегает накладных расходов, связанных с межпроцессным взаимодействием, обеспечивая отзывчивую производительность в торговых средах реального времени.
 
-### Challenges
+### Проблемы
 
-- **Complex Build Integration:**
- Setting up DllExport requires careful configuration of the build process. Developers must ensure that export declarations and build scripts are correctly configured to generate native exports.
+- **Сложная интеграция сборки:**
+  Настройка DllExport требует тщательной конфигурации процесса сборки. Разработчики должны убедиться, что объявления экспорта и скрипты сборки правильно настроены для генерации нативных экспортов.
 
-- **Compatibility Issues:**
- Ensuring compatibility between.NET-managed code and legacy native systems can be challenging, particularly when dealing with differences in data types and calling conventions.
+- **Проблемы совместимости:**
+  Обеспечение совместимости между управляемым кодом .NET и устаревшими нативными системами может быть сложным, особенно при работе с различиями в типах данных и соглашениях о вызовах.
 
-- **Maintenance Overhead:**
- As both modern and legacy systems evolve, maintaining a seamless integration layer can require ongoing updates and troubleshooting to ensure that interfaces remain stable and secure.
+- **Накладные расходы на обслуживание:**
+  По мере развития как современных, так и устаревших систем, поддержание бесшовного уровня интеграции может требовать постоянных обновлений и устранения неполадок для обеспечения стабильности и безопасности интерфейсов.
 
-### Future Outlook
+### Перспективы на будущее
 
-As the financial technology landscape continues to evolve, tools like DllExport will play a crucial role in bridging the gap between new and legacy systems. Future developments may focus on further simplifying the integration process, improving compatibility across various platforms, and enhancing security. These advancements will help ensure that legacy trading platforms can continue to benefit from modern innovations, providing traders with cutting-edge tools without sacrificing the reliability of established systems.
+По мере того как ландшафт финансовых технологий продолжает развиваться, такие инструменты, как DllExport, будут играть решающую роль в преодолении разрыва между новыми и устаревшими системами. Будущие разработки могут сосредоточиться на дальнейшем упрощении процесса интеграции, улучшении совместимости на различных платформах и повышении безопасности. Эти достижения помогут обеспечить, чтобы устаревшие торговые платформы могли продолжать извлекать выгоду из современных инноваций, предоставляя трейдерам передовые инструменты без ущерба для надежности проверенных систем.
