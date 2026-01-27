@@ -1,4 +1,4 @@
-﻿# Тесты ADP/ACP (Actual Deferral & Actual Contribution Percentage)
+# Тесты ADP/ACP (Actual Deferral & Actual Contribution Percentage)
 
 ## Введение
 
