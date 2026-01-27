@@ -179,7 +179,8 @@ module Jekyll
     end
 
     def extract_title_from_content(content)
-      match = content.match(/^#\s*(.+)$/)
+      clean = content.sub(/\A\xEF\xBB\xBF/, '')
+      match = clean.match(/^#\s*(.+)$/)
       match ? match[1].strip : nil
     end
 
