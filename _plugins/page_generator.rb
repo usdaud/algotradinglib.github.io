@@ -1,3 +1,5 @@
+require 'json'
+
 module Jekyll
   class AlgoTradingPageGenerator < Generator
     safe true
@@ -124,6 +126,7 @@ module Jekyll
 
     def process_pedia_section(site, lang, section, section_path, locale, base_url)
       letters = {}
+      all_articles = []
       Dir.glob(File.join(section_path, '*')).each do |letter_path|
         if File.directory?(letter_path)
           letter = File.basename(letter_path).downcase
@@ -139,11 +142,20 @@ module Jekyll
       letters.each do |letter, count|
         Jekyll.logger.info "PageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
         site.pages << LetterPage.new(site, site.source, lang, section, letter, locale, base_url)
-    
+
         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
+          next if File.basename(file) == 'index.md'
+          content = File.read(file, encoding: 'utf-8')
+          title = extract_title_from_content(content)
+          if title
+            url = "/#{lang}/#{section}/#{letter}/#{File.basename(file, '.md')}.html"
+            all_articles << { 'title' => title, 'url' => url }
+          end
           process_markdown_file(site, file, lang, locale, base_url)
         end
       end
+
+      site.pages << SearchJsonPage.new(site, site.source, lang, section, all_articles)
       site.pages << PediaIndexPage.new(site, site.source, lang, section, letters, locale, base_url)
     end
 
@@ -239,6 +251,24 @@ module Jekyll
       self.data['permalink'] = "/#{lang}/#{section}/"
       self.data['canonical_url'] = "#{base_url}#{self.data['permalink']}"
       self.data['hreflang_urls'] = AlgoTradingPageGenerator.new.generate_hreflang_urls(base_url, self.data['permalink'], lang)
+    end
+  end
+
+  class SearchJsonPage < Page
+    def initialize(site, base, lang, section, all_articles)
+      @site = site
+      @base = base
+      @dir  = File.join(lang, section)
+      @name = "search.json"
+
+      self.process(@name)
+      self.data = {}
+      self.data['layout'] = nil
+      self.data['permalink'] = "/#{lang}/#{section}/search.json"
+
+      sorted = all_articles.sort_by { |a| a['title'].downcase }
+      self.content = JSON.generate(sorted)
+      self.output = self.content
     end
   end
 
