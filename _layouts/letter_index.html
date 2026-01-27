@@ -6,7 +6,7 @@ layout: base
 
 {% include pedia_search.html %}
 
-<ul>
+<ul id="pedia-list">
   {% assign dir_prefix = page.lang | append: "/" | append: page.section | append: "/" | append: page.letter | append: "/" %}
   {% assign letter_posts = site.pages | where_exp: "item", "item.path contains dir_prefix" %}
   {% assign sorted_posts = letter_posts | sort_natural: "title" %}
@@ -16,3 +16,31 @@ layout: base
     {% endif %}
   {% endfor %}
 </ul>
+
+<p id="pedia-no-results" style="display:none;color:var(--text-muted);">{{ locale.search }} — 0</p>
+
+<script>
+(function() {
+  var input = document.getElementById('pedia-filter');
+  if (!input) return;
+  var list = document.getElementById('pedia-list');
+  var items = list.getElementsByTagName('li');
+  var noResults = document.getElementById('pedia-no-results');
+  var timeout;
+
+  input.addEventListener('input', function() {
+    clearTimeout(timeout);
+    timeout = setTimeout(function() {
+      var q = input.value.toLowerCase().trim();
+      var visible = 0;
+      for (var i = 0; i < items.length; i++) {
+        var text = items[i].textContent.toLowerCase();
+        var show = !q || text.indexOf(q) !== -1;
+        items[i].style.display = show ? '' : 'none';
+        if (show) visible++;
+      }
+      noResults.style.display = (q && visible === 0) ? '' : 'none';
+    }, 150);
+  });
+})();
+</script>

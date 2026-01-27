@@ -6,7 +6,12 @@ layout: base
 
 {% include pedia_search.html %}
 
-<div class="letter-grid">
+<div id="pedia-search-results" style="display:none;">
+  <ul id="pedia-search-list"></ul>
+  <p id="pedia-search-no-results" style="display:none;color:var(--text-muted);">{{ locale.search }} — 0</p>
+</div>
+
+<div id="pedia-letter-grid" class="letter-grid">
   {% for letter_data in page.letters %}
     {% assign letter = letter_data[0] %}
     {% assign count = letter_data[1] %}
@@ -18,3 +23,81 @@ layout: base
     </div>
   {% endfor %}
 </div>
+
+<script>
+(function() {
+  var input = document.getElementById('pedia-filter');
+  if (!input) return;
+
+  var letterGrid = document.getElementById('pedia-letter-grid');
+  var searchResults = document.getElementById('pedia-search-results');
+  var searchList = document.getElementById('pedia-search-list');
+  var noResults = document.getElementById('pedia-search-no-results');
+  var articles = null;
+  var loading = false;
+  var timeout;
+  var MAX_RESULTS = 50;
+
+  function loadArticles(callback) {
+    if (articles) return callback();
+    if (loading) return;
+    loading = true;
+    fetch('search.json')
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        articles = data;
+        loading = false;
+        callback();
+      })
+      .catch(function() { loading = false; });
+  }
+
+  function doFilter() {
+    var q = input.value.toLowerCase().trim();
+    if (!q) {
+      letterGrid.style.display = '';
+      searchResults.style.display = 'none';
+      searchList.innerHTML = '';
+      noResults.style.display = 'none';
+      return;
+    }
+
+    if (!articles) {
+      loadArticles(doFilter);
+      return;
+    }
+
+    letterGrid.style.display = 'none';
+    searchResults.style.display = '';
+
+    var matches = [];
+    for (var i = 0; i < articles.length; i++) {
+      if (articles[i].title.toLowerCase().indexOf(q) !== -1) {
+        matches.push(articles[i]);
+        if (matches.length >= MAX_RESULTS) break;
+      }
+    }
+
+    if (matches.length === 0) {
+      searchList.innerHTML = '';
+      noResults.style.display = '';
+    } else {
+      noResults.style.display = 'none';
+      var html = '';
+      for (var j = 0; j < matches.length; j++) {
+        html += '<li><a href="' + matches[j].url + '">' + matches[j].title + '</a></li>';
+      }
+      searchList.innerHTML = html;
+    }
+  }
+
+  input.addEventListener('input', function() {
+    clearTimeout(timeout);
+    timeout = setTimeout(doFilter, 200);
+  });
+
+  input.addEventListener('focus', function() {
+    loadArticles(function() {});
+  });
+})();
+</script>
