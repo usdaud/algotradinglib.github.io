@@ -1,4 +1,4 @@
-﻿# AscendEX
+# AscendEX
 
 ## Обзор
 
