@@ -1,4 +1,4 @@
-﻿# AvaTrade
+# AvaTrade
 
 ## Обзор
 
