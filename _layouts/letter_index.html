@@ -7,12 +7,11 @@ layout: base
 {% include pedia_search.html %}
 
 <ul>
-  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains page.lang" | where_exp: "item", "item.path contains page.section" | where_exp: "item", "item.path contains page.letter" %}
+  {% assign dir_prefix = page.lang | append: "/" | append: page.section | append: "/" | append: page.letter | append: "/" %}
+  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains dir_prefix" %}
   {% assign sorted_posts = letter_posts | sort_natural: "title" %}
   {% for post in sorted_posts %}
-    {% assign filename = post.path | split: '/' | last %}
-    {% assign starts_with_letter = filename | slice: 0 | downcase %}
-    {% if starts_with_letter == page.letter and post.title and post.title != page.title and post.name != 'index.md' %}
+    {% if post.title and post.title != page.title and post.name != 'index.md' %}
       <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
