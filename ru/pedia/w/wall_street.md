@@ -22,7 +22,7 @@
 
 ### Инвестиционные банки
 
-Уолл-стрит является home для многочисленных престижных [investment banks](../i/investment_bank_(ib).md), таких как Goldman Sachs, JPMorgan Chase, Morgan Stanley и Citigroup. Эти финансовые учреждения занимаются range деятельности, включая торговлю ценными бумагами, investment banking, asset management и консультационные финансовые услуги.
+Уолл-стрит является home для многочисленных престижных investment banks, таких как Goldman Sachs, JPMorgan Chase, Morgan Stanley и Citigroup. Эти финансовые учреждения занимаются range деятельности, включая торговлю ценными бумагами, investment banking, asset management и консультационные финансовые услуги.
 
 - **Goldman Sachs**
 - **JPMorgan Chase**
