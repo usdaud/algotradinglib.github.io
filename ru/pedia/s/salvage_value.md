@@ -1,99 +1,97 @@
 # Ликвидационная стоимость
 
-In the realm of [finance](../f/finance.md) and [accounting](../a/accounting.md), "salvage [value](../v/value.md)" refers to the estimated residual worth of an [asset](../a/asset.md) when it has reached the end of its [useful life](../u/useful_life.md). It is an important metric for businesses as they calculate [depreciation](../d/depreciation.md), manage [asset](../a/asset.md) replacement schedules, and make decisions regarding [capital](../c/capital.md) investments. Salvage [value](../v/value.md) also plays a critical role in a company's [financial statements](../f/financial_statements.md), specifically in determining net [income](../i/income.md) and the [asset](../a/asset.md)'s [book value](../b/book_value.md).
+В сфере финансов и бухгалтерского учёта «ликвидационная стоимость» относится к расчётной остаточной стоимости актива по истечении срока его полезного использования. Это важный показатель для компаний при расчёте амортизации, управлении графиками замены активов и принятии решений относительно капитальных инвестиций. Ликвидационная стоимость также играет ключевую роль в финансовой отчётности компании, в частности при определении чистой прибыли и балансовой стоимости актива.
 
-## Definition and Importance
+## Определение и значение
 
-Salvage [value](../v/value.md) is also known as "scrap [value](../v/value.md)" or "[residual value](../r/residual_value.md)." It is the amount a company expects to earn by selling an [asset](../a/asset.md) after it has been fully depreciated. When companies purchase assets like machinery, buildings, or vehicles, they don't expect these assets to last indefinitely. Over time, wear and tear reduce the [asset](../a/asset.md)'s [efficiency](../e/efficiency.md), leading eventually to its disposal or [sale](../s/sale.md). Salvage [value](../v/value.md) helps companies estimate how much they can recoup from these worn-out assets.
+Ликвидационная стоимость также известна как «стоимость лома» или «остаточная стоимость». Это сумма, которую компания ожидает получить от продажи актива после его полной амортизации. Когда компании приобретают активы, такие как оборудование, здания или транспортные средства, они не ожидают, что эти активы будут служить бесконечно. Со временем износ снижает эффективность актива, что в конечном итоге приводит к его утилизации или продаже. Ликвидационная стоимость помогает компаниям оценить, сколько они могут вернуть от этих изношенных активов.
 
-The significance of salvage [value](../v/value.md) extends into various points of [financial planning](../f/financial_planning.md) and [accounting](../a/accounting.md) records, as it:
+Значение ликвидационной стоимости распространяется на различные аспекты финансового планирования и бухгалтерского учёта:
 
-1. **Calculates [Depreciation](../d/depreciation.md):** [Depreciation](../d/depreciation.md) is the reduction in the [value](../v/value.md) of an [asset](../a/asset.md) over time. Salvage [value](../v/value.md) is deducted from the initial cost of an [asset](../a/asset.md) to calculate annual [depreciation](../d/depreciation.md) expenses. The formula for straight-line [depreciation](../d/depreciation.md) is:
-
- ```
- Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = (Cost of [Asset](../a/asset.md) - Salvage [Value](../v/value.md)) / [Useful Life](../u/useful_life.md) of [Asset](../a/asset.md)
- ```
-
-2. **[Asset](../a/asset.md) Replacement Strategy:** Knowing the salvage [value](../v/value.md) helps a company plan when to replace assets, ensuring operations are not impeded by outdated or non-functional equipment.
-
-3. **Financial Reporting:** Salvage [value](../v/value.md) affects the [balance sheet](../b/balance_sheet.md) and the net [income](../i/income.md) on the [income statement](../i/income_statement.md). The lower the salvage [value](../v/value.md), the higher the [depreciation](../d/depreciation.md) [expense](../e/expense.md), which in turn reduces the [taxable income](../t/taxable_income.md).
-
-4. **Tax Implications:** Different jurisdictions have various tax treatments for [depreciation](../d/depreciation.md) and salvage [value](../v/value.md). Estimating salvage [value](../v/value.md) accurately can help businesses comply with tax regulations and maximize tax benefits.
-
-## Methods to Estimate Salvage Value
-
-Estimating salvage [value](../v/value.md) can be challenging due to several factors, including the future [market](../m/market.md) conditions, technological advancements, and the [asset](../a/asset.md)'s condition at the end of its [useful life](../u/useful_life.md). Various methods can be employed to estimate the salvage [value](../v/value.md):
-
-1. **Historical Data:** Looking at how similar assets have depreciated in the past can provide a [basis](../b/basis.md) for estimating salvage [value](../v/value.md). Historical data [offer](../o/offer.md) a real-world reference that can enhance accuracy.
-
-2. **[Market](../m/market.md) Analysis:** Analyzing current [market](../m/market.md) conditions for second-hand or scrap sales can [offer](../o/offer.md) insights into potential future salvage values for assets.
-
-3. **Expert [Appraisal](../a/appraisal.md):** Independent appraisers or expert assessments can provide a more nuanced [value](../v/value.md), especially for specialized or unique assets.
-
-4. **Regulatory Guidelines:** Certain industries have regulatory bodies that provide standard salvage values, which firms can use for their assets.
-
-5. **[Depreciation](../d/depreciation.md) Schedules:** For tax purposes, governments often provide [depreciation](../d/depreciation.md) schedules that include salvage values or methods to derive them.
-
-## Impact on Financial Statements
-
-Salvage [value](../v/value.md) has a significant impact on a company's [financial statements](../f/financial_statements.md). Here’s how it affects different financial reports:
-
-1. **[Balance Sheet](../b/balance_sheet.md):** Salvage [value](../v/value.md) influences the [book value](../b/book_value.md) of an [asset](../a/asset.md). As [depreciation](../d/depreciation.md) is charged against the [asset](../a/asset.md)'s cost, the net [book value](../b/book_value.md) decreases over time, reaching the salvage [value](../v/value.md) at the end of the [asset](../a/asset.md)'s [useful life](../u/useful_life.md).
-
-2. **[Income Statement](../i/income_statement.md):** [Depreciation](../d/depreciation.md) [expense](../e/expense.md), which is calculated using salvage [value](../v/value.md), is recorded on the [income statement](../i/income_statement.md). Higher salvage [value](../v/value.md) leads to lower [depreciation](../d/depreciation.md) [expense](../e/expense.md), resulting in higher net [income](../i/income.md) and vice versa.
-
-3. **[Cash Flow Statement](../c/cash_flow_statement.md):** While [depreciation](../d/depreciation.md) is a non-cash [expense](../e/expense.md), the proceeds from selling an [asset](../a/asset.md) at its salvage [value](../v/value.md) appear under [investing](../i/investing.md) activities. Overestimating salvage [value](../v/value.md) can thus influence investment planning and actual cash flows.
-
-## Real-World Applications and Examples
-
-### Corporate Example: Delta Airlines
-
-[Delta](../d/delta.md) Airlines, like many companies in the aviation [industry](../i/industry.md), invests heavily in aircraft, which are high-[value](../v/value.md) assets with substantial maintenance costs. Estimating the salvage [value](../v/value.md) of these aircraft is crucial for [Delta](../d/delta.md):
-
-- **[Depreciation](../d/depreciation.md):** [Delta](../d/delta.md) uses the straight-line method to depreciate its aircraft over an estimated [useful life](../u/useful_life.md), which generally ranges between 25 to 30 years for new aircraft. According to their most recent financial disclosures, [Delta](../d/delta.md) estimates the salvage [value](../v/value.md) of its aircraft to be approximately 5-10% of the [original cost](../o/original_cost.md) at the end of its [useful life](../u/useful_life.md).
-
-- **Impact on [Financial Statements](../f/financial_statements.md):** This estimation allows [Delta](../d/delta.md) to allocate the cost of its aircraft over several years, impacting the company’s net [income](../i/income.md) and tax [obligations](../o/obligation.md). By planning for salvage [value](../v/value.md), [Delta](../d/delta.md) ensures appropriate budgeting for future [capital](../c/capital.md) expenditures on new aircraft.
-
-
-
-### Industry Example: Manufacturing Sector
-
-In the [manufacturing](../m/manufacturing.md) sector, companies regularly purchase high-cost machinery that depreciates over time. Consider a [manufacturing](../m/manufacturing.md) [firm](../f/firm.md) that acquires a machine for $120,000 with an expected [useful life](../u/useful_life.md) of 10 years and an estimated salvage [value](../v/value.md) of $20,000.
-
-- **Calculating [Depreciation](../d/depreciation.md):**
+1. **Расчёт амортизации:** Амортизация — это уменьшение стоимости актива с течением времени. Ликвидационная стоимость вычитается из первоначальной стоимости актива для расчёта ежегодных амортизационных расходов. Формула для линейной амортизации:
 
  ```
- Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = ($120,000 - $20,000) / 10 = $10,000
+ Ежегодные амортизационные расходы = (Стоимость актива - Ликвидационная стоимость) / Срок полезного использования актива
  ```
 
-- **[Accounting](../a/accounting.md) Impact:** The [firm](../f/firm.md) records $10,000 annually as a [depreciation](../d/depreciation.md) [expense](../e/expense.md), which reduces the net [income](../i/income.md) each year but also accumulates as a [depreciation](../d/depreciation.md) reserve that reflects the declining [value](../v/value.md) of the [asset](../a/asset.md).
+2. **Стратегия замены активов:** Знание ликвидационной стоимости помогает компании планировать, когда заменять активы, обеспечивая бесперебойность операций без использования устаревшего или нефункционального оборудования.
 
-### Technology Example: Software Industry
+3. **Финансовая отчётность:** Ликвидационная стоимость влияет на баланс и чистую прибыль в отчёте о прибылях и убытках. Чем ниже ликвидационная стоимость, тем выше амортизационные расходы, что, в свою очередь, снижает налогооблагаемый доход.
 
-Software companies frequently deal with technological obsolescence. For a software application developed internally at a cost of $500,000 with an anticipated [useful life](../u/useful_life.md) of 5 years and a salvage [value](../v/value.md) of $50,000:
+4. **Налоговые последствия:** В разных юрисдикциях существуют различные налоговые режимы для амортизации и ликвидационной стоимости. Точная оценка ликвидационной стоимости может помочь компаниям соблюдать налоговое законодательство и максимизировать налоговые льготы.
 
-- **Straight-Line [Depreciation](../d/depreciation.md):**
+## Методы оценки ликвидационной стоимости
+
+Оценка ликвидационной стоимости может быть сложной из-за нескольких факторов, включая будущие рыночные условия, технологический прогресс и состояние актива в конце срока его полезного использования. Для оценки ликвидационной стоимости могут применяться различные методы:
+
+1. **Исторические данные:** Изучение того, как аналогичные активы обесценивались в прошлом, может послужить основой для оценки ликвидационной стоимости. Исторические данные предоставляют реальную справочную информацию, которая может повысить точность.
+
+2. **Рыночный анализ:** Анализ текущих рыночных условий для продажи подержанного оборудования или лома может дать представление о потенциальной будущей ликвидационной стоимости активов.
+
+3. **Экспертная оценка:** Независимые оценщики или экспертные заключения могут предоставить более детальную оценку, особенно для специализированных или уникальных активов.
+
+4. **Нормативные рекомендации:** Некоторые отрасли имеют регулирующие органы, которые предоставляют стандартные ликвидационные стоимости, которые компании могут использовать для своих активов.
+
+5. **Графики амортизации:** Для целей налогообложения правительства часто предоставляют графики амортизации, которые включают ликвидационные стоимости или методы их определения.
+
+## Влияние на финансовую отчётность
+
+Ликвидационная стоимость оказывает существенное влияние на финансовую отчётность компании. Вот как она влияет на различные финансовые отчёты:
+
+1. **Баланс:** Ликвидационная стоимость влияет на балансовую стоимость актива. По мере начисления амортизации на стоимость актива чистая балансовая стоимость уменьшается со временем, достигая ликвидационной стоимости в конце срока полезного использования актива.
+
+2. **Отчёт о прибылях и убытках:** Амортизационные расходы, которые рассчитываются с использованием ликвидационной стоимости, отражаются в отчёте о прибылях и убытках. Более высокая ликвидационная стоимость приводит к более низким амортизационным расходам, что приводит к более высокой чистой прибыли, и наоборот.
+
+3. **Отчёт о движении денежных средств:** Хотя амортизация является неденежным расходом, выручка от продажи актива по его ликвидационной стоимости отражается в разделе инвестиционной деятельности. Переоценка ликвидационной стоимости может, таким образом, повлиять на инвестиционное планирование и фактические денежные потоки.
+
+## Практические применения и примеры
+
+### Корпоративный пример: Delta Airlines
+
+Delta Airlines, как и многие компании в авиационной отрасли, вкладывает значительные средства в воздушные суда, которые являются дорогостоящими активами со значительными затратами на техническое обслуживание. Оценка ликвидационной стоимости этих воздушных судов имеет решающее значение для Delta:
+
+- **Амортизация:** Delta использует линейный метод для амортизации своих воздушных судов в течение расчётного срока полезного использования, который обычно составляет от 25 до 30 лет для новых воздушных судов. Согласно последним финансовым раскрытиям, Delta оценивает ликвидационную стоимость своих воздушных судов примерно в 5-10% от первоначальной стоимости в конце срока полезного использования.
+
+- **Влияние на финансовую отчётность:** Эта оценка позволяет Delta распределять стоимость своих воздушных судов на несколько лет, влияя на чистую прибыль компании и налоговые обязательства. Планируя ликвидационную стоимость, Delta обеспечивает надлежащее бюджетирование будущих капитальных затрат на новые воздушные суда.
+
+### Отраслевой пример: производственный сектор
+
+В производственном секторе компании регулярно приобретают дорогостоящее оборудование, которое со временем обесценивается. Рассмотрим производственную фирму, которая приобретает станок за $120 000 с ожидаемым сроком полезного использования 10 лет и расчётной ликвидационной стоимостью $20 000.
+
+- **Расчёт амортизации:**
 
  ```
- Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = ($500,000 - $50,000) / 5 = $90,000
+ Ежегодные амортизационные расходы = ($120 000 - $20 000) / 10 = $10 000
  ```
 
-- **Impact on Financial Reporting:** By depreciating the software [asset](../a/asset.md), the company reflects the diminishing [utility](../u/utility.md) of the software, offsets [income](../i/income.md) appropriately, and plans for replacements or upgrades.
+- **Влияние на бухгалтерский учёт:** Фирма ежегодно учитывает $10 000 как амортизационные расходы, что уменьшает чистую прибыль каждый год, но также накапливается как амортизационный резерв, отражающий снижение стоимости актива.
 
-## Challenges and Considerations
+### Технологический пример: индустрия программного обеспечения
 
-Several challenges arise when estimating salvage [value](../v/value.md), and these need careful consideration:
+Компании-разработчики программного обеспечения часто сталкиваются с проблемой технологического устаревания. Для программного приложения, разработанного внутри компании стоимостью $500 000 с ожидаемым сроком полезного использования 5 лет и ликвидационной стоимостью $50 000:
 
-1. **Technological Changes:** Rapid advancements can render assets obsolete much sooner than expected, thereby reducing salvage [value](../v/value.md) drastically.
+- **Линейная амортизация:**
 
-2. **[Market](../m/market.md) Conditions:** Fluctuations in [supply](../s/supply.md) and [demand](../d/demand.md) can affect the salvage [value](../v/value.md), especially for assets like vehicles or machinery subject to volatile second-hand markets.
+ ```
+ Ежегодные амортизационные расходы = ($500 000 - $50 000) / 5 = $90 000
+ ```
 
-3. **Regulatory Environment:** Changes in regulations, such as environmental laws, can impact the feasibility of reusing or reselling certain assets.
+- **Влияние на финансовую отчётность:** Амортизируя программный актив, компания отражает снижающуюся полезность программного обеспечения, надлежащим образом компенсирует доход и планирует замену или обновление.
 
-4. **Condition of the [Asset](../a/asset.md):** Predicting the condition of an [asset](../a/asset.md) at the end of its [useful life](../u/useful_life.md) involves [uncertainty](../u/uncertainty_in_trading.md), which can lead to inaccurate salvage [value](../v/value.md) estimates.
+## Проблемы и аспекты для рассмотрения
 
-5. **[Economic Conditions](../e/economic_conditions.md):** Broad economic factors like [inflation](../i/inflation.md), [interest](../i/interest.md) rates, and [economic cycles](../e/economic_cycles.md) can also influence the salvage [value](../v/value.md).
+При оценке ликвидационной стоимости возникает ряд проблем, которые требуют тщательного рассмотрения:
 
-## Conclusion
+1. **Технологические изменения:** Быстрый прогресс может сделать активы устаревшими гораздо раньше, чем ожидалось, тем самым резко снижая ликвидационную стоимость.
 
-Salvage [value](../v/value.md) is an indispensable concept in [finance](../f/finance.md) and [accounting](../a/accounting.md), essential for accurate financial reporting, effective tax management, and strategic [asset management](../a/asset_management.md). By understanding and applying salvage [value](../v/value.md) appropriately, companies can make better-informed decisions that enhance [operational efficiency](../o/operational_efficiency_in_trading.md) and [financial health](../f/financial_health.md). Accurate estimation methods, coupled with awareness of [market](../m/market.md) and regulatory impacts, ensure that businesses navigate the complexities of [asset management](../a/asset_management.md) and maintain [robust](../r/robust.md) financial records.
+2. **Рыночные условия:** Колебания спроса и предложения могут влиять на ликвидационную стоимость, особенно для активов, таких как транспортные средства или оборудование, подверженных волатильным вторичным рынкам.
+
+3. **Регуляторная среда:** Изменения в нормативных актах, таких как экологические законы, могут повлиять на возможность повторного использования или перепродажи определённых активов.
+
+4. **Состояние актива:** Прогнозирование состояния актива в конце срока его полезного использования сопряжено с неопределённостью, что может привести к неточным оценкам ликвидационной стоимости.
+
+5. **Экономические условия:** Широкие экономические факторы, такие как инфляция, процентные ставки и экономические циклы, также могут влиять на ликвидационную стоимость.
+
+## Заключение
+
+Ликвидационная стоимость является незаменимым понятием в финансах и бухгалтерском учёте, необходимым для точной финансовой отчётности, эффективного налогового управления и стратегического управления активами. Понимая и правильно применяя ликвидационную стоимость, компании могут принимать более обоснованные решения, которые повышают операционную эффективность и финансовое здоровье. Точные методы оценки в сочетании с осведомлённостью о рыночных и регуляторных воздействиях обеспечивают успешное управление сложностями активов и ведение надёжной финансовой отчётности.

@@ -1,74 +1,74 @@
-# Write-Off
+# Списание
 
-A write-off is a formal declaration that a company or individual will not collect on a debt or asset. This accounting practice allows businesses to remove the deemed uncollectible amount from their balance sheets, reflecting a more accurate financial position. Write-offs are essential in maintaining accurate records and are critical during financial reporting. They affect financial statements, tax calculations, and overall asset management.
+Списание — это формальное объявление о том, что компания или физическое лицо не будет взыскивать задолженность или актив. Эта бухгалтерская практика позволяет предприятиям удалять сумму, считающуюся невозвратной, из своих балансовых отчётов, отражая более точное финансовое положение. Списания необходимы для ведения точного учёта и имеют критическое значение при составлении финансовой отчётности. Они влияют на финансовую отчётность, налоговые расчёты и общее управление активами.
 
-## Types of Write-Offs
+## Виды списаний
 
-### 1. Bad Debt Write-Off
-Bad debts are receivables that cannot be collected from a customer or debtor. Companies often sell goods or services on credit, and if customers fail to pay, businesses may decide to write off the amount as uncollectible. This typically involves:
+### 1. Списание безнадёжных долгов
+Безнадёжные долги — это дебиторская задолженность, которую невозможно взыскать с клиента или должника. Компании часто продают товары или услуги в кредит, и если клиенты не платят, предприятия могут решить списать сумму как невозвратную. Это обычно включает:
 
-- **Accounts Receivable Write-Off:** When a business determines that an invoice or receivable it has issued will not be paid by the customer, it records the amount as a bad debt expense.
-- **Allowance Method:** This involves estimating the total amount of uncollectible accounts at the end of each accounting period. The company sets up an "Allowance for Doubtful Accounts," adjusting it as receivables turn bad.
-- **Direct Write-Off Method:** This method records the bad debt when it's actually deemed uncollectible. Though less commonly used due to its non-conformity with the matching principle in GAAP, it's simpler for companies with infrequent bad debts.
+- **Списание дебиторской задолженности:** Когда предприятие определяет, что выставленный счёт или дебиторская задолженность не будет оплачена клиентом, оно регистрирует эту сумму как расход по безнадёжным долгам.
+- **Метод резервирования:** Это включает оценку общей суммы невозвратных счетов в конце каждого отчётного периода. Компания создаёт «Резерв на сомнительные долги», корректируя его по мере того, как дебиторская задолженность становится безнадёжной.
+- **Метод прямого списания:** Этот метод регистрирует безнадёжный долг, когда он фактически считается невозвратным. Хотя он используется реже из-за несоответствия принципу соответствия в GAAP, он проще для компаний с редкими безнадёжными долгами.
 
-### 2. Inventory Write-Off
-Inventory write-offs occur when a company needs to acknowledge that part of its inventory no longer holds any value. Inventory write-offs can result from:
+### 2. Списание товарно-материальных запасов
+Списание товарно-материальных запасов происходит, когда компании необходимо признать, что часть её запасов больше не имеет никакой стоимости. Списание запасов может быть результатом:
 
-- **Obsolescence:** Products that are no longer in demand.
-- **Damage:** Goods that are damaged beyond repair.
-- **Theft:** Inventory stolen and unrecoverable.
+- **Устаревания:** Продукты, на которые больше нет спроса.
+- **Повреждения:** Товары, повреждённые без возможности восстановления.
+- **Кражи:** Запасы, украденные и невосстановимые.
 
-### 3. Asset Write-Off
-When an asset, such as equipment, becomes worthless or impaired, companies must recognize the loss. Asset write-offs are performed in the following cases:
+### 3. Списание активов
+Когда актив, такой как оборудование, становится бесполезным или обесцененным, компании должны признать убыток. Списание активов выполняется в следующих случаях:
 
-- **Depreciation:** A systematic write-off of the cost of a tangible asset over its useful life.
-- **Impairment:** Assets that lose value permanently, beyond normal depreciation, necessitate an immediate write-off.
+- **Амортизация:** Систематическое списание стоимости материального актива в течение срока его полезного использования.
+- **Обесценение:** Активы, которые постоянно теряют стоимость сверх нормальной амортизации, требуют немедленного списания.
 
-### 4. Tax Write-Off
-Tax write-offs allow individuals or businesses to reduce taxable income by the amount of certain expenses. Common tax write-offs include:
+### 4. Налоговое списание
+Налоговые списания позволяют физическим лицам или предприятиям уменьшить налогооблагаемый доход на сумму определённых расходов. Общие налоговые списания включают:
 
-- **Business Expenses:** Costs directly associated with operating a business, such as supplies, salaries, and utilities.
-- **Mortgage Interest:** Interest paid on loans for property can often be written off.
-- **Charitable Contributions:** Donations to qualifying non-profit organizations may be deducted.
+- **Коммерческие расходы:** Затраты, непосредственно связанные с ведением бизнеса, такие как материалы, зарплаты и коммунальные услуги.
+- **Проценты по ипотеке:** Проценты, выплаченные по кредитам на недвижимость, часто могут быть списаны.
+- **Благотворительные взносы:** Пожертвования квалифицированным некоммерческим организациям могут быть вычтены.
 
-## Financial Implications of Write-Offs
+## Финансовые последствия списаний
 
-### Impact on Financial Statements
-Write-offs directly affect a company's financial statements:
+### Влияние на финансовую отчётность
+Списания напрямую влияют на финансовую отчётность компании:
 
-- **Income Statement:** Write-offs reduce net income because the expenses or losses are recorded here. For instance, a bad debt write-off appears as an expense on the income statement.
-- **Balance Sheet:** Write-offs decrease the assets listed on the balance sheet. For instance, an inventory write-off reduces current assets.
-- **Cash Flow Statement:** Despite not being a cash outflow, write-offs appear in the cash flow from operating activities section as adjustments to reconcile net income.
+- **Отчёт о прибылях и убытках:** Списания снижают чистую прибыль, поскольку расходы или убытки регистрируются здесь. Например, списание безнадёжного долга отображается как расход в отчёте о прибылях и убытках.
+- **Балансовый отчёт:** Списания уменьшают активы, указанные в балансовом отчёте. Например, списание товарно-материальных запасов уменьшает оборотные активы.
+- **Отчёт о движении денежных средств:** Несмотря на то, что это не денежный отток, списания появляются в разделе движения денежных средств от операционной деятельности как корректировки для согласования чистой прибыли.
 
-### Impact on Taxes
-Write-offs can lead to tax deductions. Specific rules by tax authorities ensure that only genuine and necessary write-offs receive tax benefits. For instance:
+### Влияние на налоги
+Списания могут привести к налоговым вычетам. Конкретные правила налоговых органов обеспечивают, чтобы только подлинные и необходимые списания получали налоговые льготы. Например:
 
-- The IRS allows business tax deductions for certain bad debts, but detailed records must be maintained to substantiate the write-off.
+- IRS позволяет налоговые вычеты по определённым безнадёжным долгам, но должны вестись подробные записи для обоснования списания.
 
-### Impact on Business Valuation
-Frequent or significant write-offs may signal inefficiency or financial instability in a company, impacting its creditworthiness and attractiveness to investors.
+### Влияние на оценку бизнеса
+Частые или значительные списания могут сигнализировать о неэффективности или финансовой нестабильности компании, влияя на её кредитоспособность и привлекательность для инвесторов.
 
-### Practical Considerations
-Companies must regularly review and update their write-off policies to align with financial regulations and internal controls:
+### Практические соображения
+Компании должны регулярно пересматривать и обновлять свою политику списаний, чтобы соответствовать финансовым регуляциям и внутреннему контролю:
 
-- Implement strict credit policies.
-- Regularly audit inventory and assets.
-- Keep detailed records for tax purposes.
+- Применять строгую кредитную политику.
+- Регулярно проводить аудит товарно-материальных запасов и активов.
+- Вести подробную документацию для налоговых целей.
 
-## Industry Examples
+## Отраслевые примеры
 
-### Financial Institutions
-Banks and financial institutions often manage significant amounts of loans and receivables. They commonly face bad debts due to borrowers defaulting. For example:
-- **JPMorgan Chase** Regularly publishes its write-off rates in financial disclosures when discussing non-performing loans.
+### Финансовые учреждения
+Банки и финансовые учреждения часто управляют значительными объёмами кредитов и дебиторской задолженности. Они обычно сталкиваются с безнадёжными долгами из-за дефолта заёмщиков. Например:
+- **JPMorgan Chase** регулярно публикует свои коэффициенты списаний в финансовых отчётах при обсуждении неработающих кредитов.
 
-### Retail
-Retailers must deal with inventory write-offs due to obsolescence or damage. Effective inventory management minimizes these write-offs. For instance:
-- **Walmart** ( Reports inventory write-offs and outlines their impact on financial performance in their annual reports.
+### Розничная торговля
+Розничные торговцы должны иметь дело со списаниями товарно-материальных запасов из-за устаревания или повреждения. Эффективное управление запасами минимизирует эти списания. Например:
+- **Walmart** отчитывается о списаниях товарно-материальных запасов и описывает их влияние на финансовые результаты в своих годовых отчётах.
 
-### Technology Companies
-Tech firms often need to write off R&D expenses if projects do not materialize into viable products. Additionally, the fast-paced nature of tech can lead to frequent asset and inventory write-offs due to obsolescence. For example:
-- **Amazon** May write off obsolete technology or warehouse equipment regularly.
+### Технологические компании
+Технологические компании часто вынуждены списывать расходы на НИОКР, если проекты не материализуются в жизнеспособные продукты. Кроме того, быстрый темп развития технологий может привести к частым списаниям активов и запасов из-за устаревания. Например:
+- **Amazon** может регулярно списывать устаревшие технологии или складское оборудование.
 
-## Conclusion
+## Заключение
 
-Understanding and managing write-offs is crucial for businesses to maintain financial health and accurately report their financial status. By implementing sound accounting practices and regularly reviewing write-off procedures, businesses can ensure they reflect genuine losses, maintain investor confidence, and benefit from applicable tax deductions. Proper write-off management not only clarifies a company’s financial position but also provides valuable insights for strategic decision-making.
+Понимание списаний и управление ими имеет решающее значение для предприятий для поддержания финансового здоровья и точной отчётности о своём финансовом статусе. Внедряя разумную бухгалтерскую практику и регулярно пересматривая процедуры списания, предприятия могут обеспечить отражение реальных убытков, поддерживать уверенность инвесторов и получать выгоду от применимых налоговых вычетов. Правильное управление списаниями не только проясняет финансовое положение компании, но и предоставляет ценную информацию для принятия стратегических решений.

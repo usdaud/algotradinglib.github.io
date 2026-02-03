@@ -1,57 +1,57 @@
-# Wildcat Banking
+# Wildcat Banking (Дикий банкинг)
 
-Wildcat banking is a term that refers to the practices of certain banks in the United States during a period of unregulated banking from approximately 1837 to 1864. This era, often referred to as the Free Banking Era, was characterized by a lack of federal control and oversight over banking practices, which allowed for a significant degree of freedom, and consequently, abuse, by banking institutions. This article explores the origins, operations, consequences, and eventual decline of wildcat banking.
+Wildcat banking (дикий банкинг) — это термин, обозначающий практики некоторых банков в Соединенных Штатах в период нерегулируемой банковской деятельности примерно с 1837 по 1864 год. Эта эпоха, часто называемая Эрой свободного банкинга, характеризовалась отсутствием федерального контроля и надзора за банковской деятельностью, что позволяло банковским учреждениям иметь значительную степень свободы и, как следствие, злоупотреблений. Данная статья исследует происхождение, операции, последствия и окончательный закат дикого банкинга.
 
-## Origins and Definition
+## Происхождение и определение
 
-The term "wildcat banking" is believed to have originated from the practices of banking institutions that were established in remote areas or regions considered to be on the frontier at the time. The name suggests that these areas were inhabited only by "wildcats," indicating the banks' inaccessibility and the difficulty customers had in redeeming paper currency issued by these banks.
+Считается, что термин "wildcat banking" произошел от практик банковских учреждений, которые создавались в отдаленных районах или регионах, считавшихся в то время границей освоения. Название предполагает, что эти области были населены только "дикими кошками" (wildcats), что указывает на недоступность банков и трудности, с которыми клиенты сталкивались при попытке обменять бумажную валюту, выпущенную этими банками.
 
-During the Free Banking Era, state governments were responsible for chartering banks. While some states had stringent regulations, others had rather lax standards, leading to a proliferation of questionable banking practices. "Free banks" were allowed to issue their own currency, known as banknotes, which were supposed to be backed by the bank's reserves, typically in the form of state bonds.
+В эпоху свободного банкинга правительства штатов были ответственны за выдачу банковских лицензий. В то время как некоторые штаты имели строгие правила, другие имели довольно мягкие стандарты, что привело к распространению сомнительных банковских практик. "Свободным банкам" разрешалось выпускать собственную валюту, известную как банкноты, которые должны были обеспечиваться резервами банка, обычно в форме государственных облигаций.
 
-## How Wildcat Banking Worked
+## Как работал дикий банкинг
 
-### Bank Establishment
+### Создание банка
 
-To establish a bank, individuals had to obtain a charter from their state government. Requirements varied significantly by state; while some states mandated substantial reserve requirements and carried out rigorous inspections, others did not. This inconsistency allowed many banks to operate with insufficient capital and little oversight.
+Для создания банка частные лица должны были получить лицензию от правительства своего штата. Требования значительно различались по штатам; в то время как некоторые штаты требовали существенных резервных требований и проводили строгие проверки, другие этого не делали. Эта непоследовательность позволяла многим банкам работать с недостаточным капиталом и минимальным надзором.
 
-### Issuance of Banknotes
+### Выпуск банкнот
 
-Once chartered, banks could issue banknotes that were theoretically backed by their reserves. However, in practice, the value and security of these banknotes were highly questionable. Banks often issued more notes than they could reasonably redeem with their reserves, leading to a currency that was substantially devalued or, in some cases, entirely worthless.
+После получения лицензии банки могли выпускать банкноты, которые теоретически обеспечивались их резервами. Однако на практике стоимость и безопасность этих банкнот были весьма сомнительными. Банки часто выпускали больше банкнот, чем они могли разумно погасить своими резервами, что приводило к валюте, которая была существенно обесценена или, в некоторых случаях, полностью бесполезна.
 
-### Speculative Practices
+### Спекулятивные практики
 
-The lack of regulation allowed banks to engage in highly speculative activities. Many banks took advantage of this to invest heavily in land or other ventures with the hope of striking it rich quickly. This speculative behavior often led to the overextension of the banks' resources and eventual failure.
+Отсутствие регулирования позволяло банкам заниматься высоко спекулятивной деятельностью. Многие банки воспользовались этим, чтобы активно инвестировать в землю или другие предприятия в надежде быстро разбогатеть. Такое спекулятивное поведение часто приводило к перенапряжению ресурсов банков и окончательному краху.
 
-### Redemption Difficulties
+### Трудности с погашением
 
-One of the defining characteristics of wildcat banking was the difficulty consumers had in redeeming their banknotes. Banks were often located in remote areas, making it impractical for note holders to travel and exchange their notes for specie (gold or silver). This inaccessibility allowed banks to operate with little fear of immediate redemption, leading to greater issuance of unsecured currency.
+Одной из определяющих характеристик дикого банкинга была сложность, с которой потребители сталкивались при погашении своих банкнот. Банки часто располагались в отдаленных районах, что делало практически невозможным для держателей банкнот добраться и обменять свои банкноты на звонкую монету (золото или серебро). Эта недоступность позволяла банкам работать без особого страха перед немедленным погашением, что приводило к более широкому выпуску необеспеченной валюты.
 
-## Consequences of Wildcat Banking
+## Последствия дикого банкинга
 
-### Economic Instability
+### Экономическая нестабильность
 
-The era of wildcat banking was marked by frequent economic instability and panic. The absence of federal regulation and the proliferation of dubious banknotes created an environment ripe for bank runs and financial crises. The Panic of 1837, for example, saw numerous banks fail and a collapse in the value of banknotes.
+Эра дикого банкинга была отмечена частой экономической нестабильностью и паникой. Отсутствие федерального регулирования и распространение сомнительных банкнот создали среду, благоприятную для набегов на банки и финансовых кризисов. Паника 1837 года, например, стала свидетелем краха многочисленных банков и обвала стоимости банкнот.
 
-### Public Distrust
+### Общественное недоверие
 
-The practices of wildcat banks led to a significant degree of public distrust in the banking system. People often found themselves holding worthless banknotes, leading to a lack of confidence in the currency and banks in general. This distrust had lasting impacts on the banking practices and the eventual push for a more regulated banking system.
+Практики диких банков привели к значительной степени общественного недоверия к банковской системе. Люди часто оказывались с бесполезными банкнотами на руках, что приводило к отсутствию доверия к валюте и банкам в целом. Это недоверие оказало долгосрочное влияние на банковские практики и в конечном итоге подтолкнуло к созданию более регулируемой банковской системы.
 
-### Legislative Response
+### Законодательная реакция
 
-The widespread issues caused by wildcat banking eventually led to calls for greater regulation. The National Banking Acts of 1863 and 1864 were significant pieces of legislation that aimed to bring order and stability to the banking system. These acts established a system of nationally chartered banks and a uniform national currency, effectively curtailing the chaotic practices of the wildcat banks.
+Широкомасштабные проблемы, вызванные диким банкингом, в конечном итоге привели к призывам к усилению регулирования. Законы о национальном банкинге 1863 и 1864 годов были значительными законодательными актами, направленными на восстановление порядка и стабильности в банковской системе. Эти законы установили систему национально лицензированных банков и единую национальную валюту, эффективно остановив хаотичные практики диких банков.
 
-## The End of the Free Banking Era
+## Конец эры свободного банкинга
 
-The National Banking Acts marked the end of the Free Banking Era and wildcat banking practices. These acts created a more centralized and regulated banking system with better oversight of banking practices, reducing the likelihood of bank failures and economic instability.
+Законы о национальном банкинге ознаменовали конец эры свободного банкинга и практик дикого банкинга. Эти законы создали более централизованную и регулируемую банковскую систему с лучшим надзором за банковской деятельностью, снижая вероятность банковских крахов и экономической нестабильности.
 
-### National Banking System
+### Национальная банковская система
 
-The National Banking Acts allowed for the creation of nationally chartered banks, which were subject to more stringent regulations and oversight by the federal government. These banks were required to hold a certain amount of U.S. government bonds and were permitted to issue national banknotes, thus creating a more uniform and reliable currency.
+Законы о национальном банкинге позволили создание национально лицензированных банков, которые подчинялись более строгим правилам и надзору со стороны федерального правительства. Эти банки были обязаны держать определенное количество государственных облигаций США и могли выпускать национальные банкноты, тем самым создавая более единообразную и надежную валюту.
 
-### Long-Term Impact
+### Долгосрочное воздействие
 
-The legislation also laid the groundwork for future banking reforms, including the creation of the Federal Reserve System in 1913. The Federal Reserve further centralized banking oversight and introduced additional measures to ensure the stability of the financial system.
+Законодательство также заложило основу для будущих банковских реформ, включая создание Федеральной резервной системы в 1913 году. Федеральная резервная система еще больше централизовала банковский надзор и ввела дополнительные меры для обеспечения стабильности финансовой системы.
 
-## Conclusion
+## Заключение
 
-Wildcat banking was a significant but controversial chapter in American financial history. While it did provide essential banking services in a rapidly expanding country, it also introduced significant risks and instability due to the lack of regulation. The lessons learned from this period were instrumental in shaping modern banking practices and regulatory frameworks, ensuring a more stable and trustworthy financial system for future generations.
+Дикий банкинг был значительной, но противоречивой главой в американской финансовой истории. Хотя он действительно предоставлял важные банковские услуги в быстро расширяющейся стране, он также вносил значительные риски и нестабильность из-за отсутствия регулирования. Уроки, извлеченные из этого периода, сыграли важную роль в формировании современных банковских практик и регуляторных рамок, обеспечивая более стабильную и заслуживающую доверия финансовую систему для будущих поколений.

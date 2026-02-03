@@ -1,92 +1,92 @@
-# Voluntary Bankruptcy
+# Добровольное банкротство
 
-Voluntary bankruptcy is a legal process initiated by a debtor who seeks relief from financial distress by filing a petition with a bankruptcy court. This act of filing, known as petitioning for bankruptcy, signifies that the debtor acknowledges their inability to pay outstanding debts and wishes to reorganize or liquidate their assets under the protection of the bankruptcy laws. Bankruptcy laws vary by country, but the overall process generally follows similar principles.
+Добровольное банкротство - это юридический процесс, инициируемый должником, который ищет освобождения от финансовых трудностей путем подачи заявления в суд по делам о банкротстве. Этот акт подачи, известный как петиция о банкротстве, означает, что должник признает свою неспособность выплатить непогашенные долги и желает реорганизовать или ликвидировать свои активы под защитой законов о банкротстве. Законы о банкротстве варьируются в зависимости от страны, но общий процесс, как правило, следует аналогичным принципам.
 
-## The Voluntary Bankruptcy Process
+## Процесс добровольного банкротства
 
-### Filing for Bankruptcy
+### Подача заявления о банкротстве
 
-The voluntary bankruptcy process typically begins with the debtor, an individual, or a corporation, filing a petition in bankruptcy court. The documentation required for filing includes:
+Процесс добровольного банкротства обычно начинается с того, что должник, физическое лицо или корпорация, подает петицию в суд по делам о банкротстве. Документация, необходимая для подачи, включает:
 
-- A detailed list of all assets and liabilities.
-- A schedule of current income and expenditures.
-- Statements of financial affairs.
-- Copies of recent tax returns.
+- Подробный список всех активов и обязательств.
+- График текущих доходов и расходов.
+- Заявления о финансовых делах.
+- Копии последних налоговых деклараций.
 
-### Types of Bankruptcy
+### Типы банкротства
 
-There are several types of bankruptcy that debtors can file for, with the most common types being:
+Существует несколько типов банкротства, по которым должники могут подавать заявления, причем наиболее распространенными типами являются:
 
-- **Chapter 7 Bankruptcy** (Liquidation): This type involves the liquidation of the debtor’s non-exempt assets by a trustee, with the proceeds distributed to creditors. It is typically suited for individuals or businesses that cannot feasibly continue operations.
+- **Банкротство по главе 7** (Ликвидация): Этот тип включает ликвидацию неосвобожденных активов должника доверенным лицом, при этом выручка распределяется кредиторам. Обычно он подходит для физических лиц или предприятий, которые не могут реально продолжить операции.
 
-- **Chapter 11 Bankruptcy** (Reorganization): More complex and commonly used by businesses, Chapter 11 allows the debtor to restructure their debts and operations. The business can continue to operate while devising a plan to return to profitability.
+- **Банкротство по главе 11** (Реорганизация): Более сложное и обычно используемое предприятиями, глава 11 позволяет должнику реструктурировать свои долги и операции. Бизнес может продолжать работать, разрабатывая план возврата к прибыльности.
 
-- **Chapter 13 Bankruptcy** (Wage Earner’s Plan): This type is available to individuals with regular income and involves creating a repayment plan that lasts three to five years to pay off or settle debts.
+- **Банкротство по главе 13** (План получателя зарплаты): Этот тип доступен физическим лицам с регулярным доходом и включает создание плана погашения, который длится от трех до пяти лет для выплаты или урегулирования долгов.
 
-### Role of Bankruptcy Trustee
+### Роль попечителя по банкротству
 
-Upon filing for bankruptcy, a trustee is appointed to oversee the case. The trustee’s responsibilities include:
+После подачи заявления о банкротстве назначается попечитель для надзора за делом. Обязанности попечителя включают:
 
-- Reviewing the petition and schedules.
-- Ensuring that the debtor complies with all requirements.
-- Liquidating non-exempt assets (in Chapter 7 cases).
-- Overseeing the reorganization plan (in Chapter 11 cases).
-- Distributing the proceeds to creditors.
+- Рассмотрение петиции и графиков.
+- Обеспечение соблюдения должником всех требований.
+- Ликвидация неосвобожденных активов (в делах по главе 7).
+- Надзор за планом реорганизации (в делах по главе 11).
+- Распределение выручки кредиторам.
 
-### Automatic Stay
+### Автоматическая приостановка
 
-One of the significant protections offered by filing for bankruptcy is the "automatic stay," which immediately goes into effect upon filing the petition. This stay halts most civil lawsuits against the debtor and stops all collection actions, including:
+Одна из значительных защит, предлагаемых подачей заявления о банкротстве, - это "автоматическая приостановка", которая немедленно вступает в силу после подачи петиции. Эта приостановка останавливает большинство гражданских исков против должника и прекращает все действия по взысканию, включая:
 
-- Foreclosures.
-- Repossessions.
-- Evictions.
-- Wage garnishments.
-- Utility disconnections.
+- Лишения права выкупа.
+- Изъятия имущества.
+- Выселения.
+- Удержания из зарплаты.
+- Отключения коммунальных услуг.
 
-### Credit Counseling and Debtor Education
+### Кредитное консультирование и обучение должников
 
-Before filing for bankruptcy, debtors are generally required to complete credit counseling with an approved agency. Additionally, after filing, they must complete a debtor education course before receiving a discharge of their debts.
+Перед подачей заявления о банкротстве должники обычно должны пройти кредитное консультирование в утвержденном агентстве. Кроме того, после подачи они должны пройти курс обучения должников перед получением освобождения от своих долгов.
 
-### Discharge of Debts
+### Освобождение от долгов
 
-A discharge releases the debtor from personal liability for certain specified types of debts. This means that the debtor is no longer legally required to pay any debts that are discharged. However, not all types of debts can be discharged, including:
+Освобождение освобождает должника от личной ответственности за определенные указанные типы долгов. Это означает, что должник больше не обязан по закону выплачивать любые долги, которые освобождены. Однако не все типы долгов могут быть освобождены, включая:
 
-- Certain taxes.
-- Child support and alimony.
-- Student loans (under most circumstances).
-- Debts for personal injury or death caused by the debtor's intoxicated driving.
+- Определенные налоги.
+- Алименты на детей и алименты.
+- Студенческие кредиты (при большинстве обстоятельств).
+- Долги за телесные повреждения или смерть, причиненные вождением должника в нетрезвом состоянии.
 
-## Voluntary Bankruptcy in Different Countries
+## Добровольное банкротство в различных странах
 
-### United States
+### Соединенные Штаты
 
-In the United States, the process and laws governing voluntary bankruptcy are codified under the U.S. Bankruptcy Code. The most common chapters under which debtors file are Chapter 7, Chapter 11, and Chapter 13, as previously mentioned.
+В Соединенных Штатах процесс и законы, регулирующие добровольное банкротство, кодифицированы в Кодексе о банкротстве США. Наиболее распространенные главы, по которым должники подают заявления, - это глава 7, глава 11 и глава 13, как упоминалось ранее.
 
-### United Kingdom
+### Соединенное Королевство
 
-In the UK, voluntary bankruptcy is called "bankruptcy" when initiated by an individual and "administration" or "liquidation" when initiated by a company. Individuals can petition the court for bankruptcy or apply directly to an official receiver.
+В Великобритании добровольное банкротство называется "банкротством", когда оно инициируется физическим лицом, и "администрированием" или "ликвидацией", когда оно инициируется компанией. Физические лица могут подавать петицию в суд о банкротстве или обращаться напрямую к официальному получателю.
 
-### Canada
+### Канада
 
-In Canada, the process is governed by the Bankruptcy and Insolvency Act (BIA). Debtors can file a proposal or a bankruptcy. A proposal involves negotiating new terms with creditors, while bankruptcy involves the liquidation of assets to repay creditors.
+В Канаде процесс регулируется Законом о банкротстве и несостоятельности (BIA). Должники могут подать предложение или банкротство. Предложение включает переговоры о новых условиях с кредиторами, в то время как банкротство включает ликвидацию активов для погашения кредиторов.
 
-## Pros and Cons of Voluntary Bankruptcy
+## Плюсы и минусы добровольного банкротства
 
-### Advantages
+### Преимущества
 
-- **Debt Relief**: Bankruptcy can discharge a significant portion of debts, providing a fresh start.
-- **Automatic Stay**: Halts aggressive collections and provides breathing space to reorganize finances.
-- **Legal Protection**: Offers protection from creditors under the supervision of the court.
+- **Облегчение долгового бремени**: Банкротство может освободить от значительной части долгов, предоставляя новый старт.
+- **Автоматическая приостановка**: Останавливает агрессивные действия по взысканию и предоставляет передышку для реорганизации финансов.
+- **Правовая защита**: Предлагает защиту от кредиторов под надзором суда.
 
-### Disadvantages
+### Недостатки
 
-- **Credit Impact**: Bankruptcy severely impacts the debtor’s credit score, making it difficult to obtain future financing.
-- **Public Record**: Bankruptcy filings are public, potentially affecting the debtor's reputation.
-- **Potential Loss of Assets**: Non-exempt assets may be sold to pay off creditors.
-- **Cost**: Filing for bankruptcy involves court fees and, often, attorney fees, adding to the financial burden.
+- **Влияние на кредит**: Банкротство серьезно влияет на кредитный рейтинг должника, затрудняя получение будущего финансирования.
+- **Публичная запись**: Подачи заявлений о банкротстве являются публичными, потенциально влияя на репутацию должника.
+- **Потенциальная потеря активов**: Неосвобожденные активы могут быть проданы для выплаты кредиторам.
+- **Стоимость**: Подача заявления о банкротстве включает судебные сборы и, часто, гонорары адвокатов, добавляя к финансовому бремени.
 
-## Conclusion
+## Заключение
 
-Voluntary bankruptcy is a legal remedy for individuals and businesses overwhelmed by debt. While it offers significant relief and a potential fresh start, it also comes with substantial consequences, particularly regarding creditworthiness and asset loss. It is essential for debtors to consider all options, seek professional advice, and fully understand the bankruptcy process before proceeding. For more detailed information about specific insolvency services and bankruptcies for organizations, visit Insolvency Service of United Kingdom.
+Добровольное банкротство - это правовое средство для физических лиц и предприятий, перегруженных долгами. Хотя оно предлагает значительное облегчение и потенциальный новый старт, оно также сопровождается существенными последствиями, особенно в отношении кредитоспособности и потери активов. Для должников важно рассмотреть все варианты, обратиться за профессиональной консультацией и полностью понять процесс банкротства, прежде чем приступать. Для получения более подробной информации о конкретных услугах по несостоятельности и банкротстве для организаций посетите Службу по несостоятельности Соединенного Королевства.
 
-This complex yet invaluable tool ensures that debtors can manage their financial struggles within a structured and legally protected environment, ultimately contributing to financial stability and economic cycles.
+Этот сложный, но бесценный инструмент гарантирует, что должники могут управлять своими финансовыми трудностями в рамках структурированной и юридически защищенной среды, в конечном итоге способствуя финансовой стабильности и экономическим циклам.

@@ -1,81 +1,79 @@
-# Williams Percent Range
+# Процентный диапазон Вильямса
 
-[Перевод с английского языка]
+Процентный диапазон Вильямса, также известный как Williams %R, является техническим индикатором на основе моментума, который измеряет уровни перекупленности и перепроданности. Разработанный Ларри Вильямсом в 1970-х годах, индикатор используется в основном в торговле акциями и на рынке форекс, чтобы помочь трейдерам идентифицировать потенциальные точки разворота рыночных цен. Williams %R разработан для рыночных диапазонов, где цены колеблются между максимумами и минимумами, и он особенно полезен в определении точек входа и выхода с рынка.
 
-Williams Percent Range, also known as Williams %R, is a momentum-based technical indicator that measures overbought and oversold levels. Developed by Larry Williams in the 1970s, the indicator is used primarily in the realm of stock and forex trading to help traders identify potential reversal points in market prices. Williams %R is designed for range-bound markets where prices oscillate between highs and lows, and it’s particularly useful in determining market entry and exit points.
-
-### Calculation of Williams %R
-Williams %R is calculated over a specific lookback period, typically 14 days, although this can be adjusted depending on the trading strategy. The formula for Williams %R is:
+### Расчет Williams %R
+Williams %R рассчитывается за определенный период обратного просмотра, обычно 14 дней, хотя это можно корректировать в зависимости от торговой стратегии. Формула для Williams %R имеет вид:
 
 ```
 %R = (Highest High - Close) / (Highest High - Lowest Low) * -100
 ```
 
-Where:
-- `Highest High` is the highest price over the lookback period.
-- `Lowest Low` is the lowest price over the lookback period.
-- `Close` is the closing price of the current period.
+Где:
+- `Highest High` — это самая высокая цена за период обратного просмотра.
+- `Lowest Low` — это самая низкая цена за период обратного просмотра.
+- `Close` — это цена закрытия текущего периода.
 
-This formula yields a value ranging from -100 to 0. A value of -100 indicates that the closing price is equal to the lowest low over the lookback period, while a value of 0 indicates that the closing price is equal to the highest high over the lookback period.
+Эта формула дает значение в диапазоне от -100 до 0. Значение -100 указывает, что цена закрытия равна самому низкому минимуму за период обратного просмотра, в то время как значение 0 указывает, что цена закрытия равна самому высокому максимуму за период обратного просмотра.
 
-### Interpretation of Williams %R
-The Williams %R indicator helps traders identify overbought and oversold conditions:
-- **Overbought Condition**: When Williams %R is above -20.
-- **Oversold Condition**: When Williams %R is below -80.
+### Интерпретация Williams %R
+Индикатор Williams %R помогает трейдерам идентифицировать условия перекупленности и перепроданности:
+- **Условие перекупленности**: Когда Williams %R находится выше -20.
+- **Условие перепроданности**: Когда Williams %R находится ниже -80.
 
-Overbought conditions suggest that prices are getting unsustainably high and may be due for a pullback. Conversely, oversold conditions suggest that prices are getting unsustainably low and may be due for a rebound.
+Условия перекупленности предполагают, что цены становятся неустойчиво высокими и могут быть готовы к откату. И наоборот, условия перепроданности предполагают, что цены становятся неустойчиво низкими и могут быть готовы к отскоку.
 
-### Trading Strategies Using Williams %R
-There are several trading strategies that incorporate Williams %R:
+### Торговые стратегии с использованием Williams %R
+Существует несколько торговых стратегий, которые включают Williams %R:
 
-#### 1. Overbought/Oversold Strategy
-This simple strategy involves selling when the Williams %R indicator suggests overbought conditions (values above -20) and buying when it suggests oversold conditions (values below -80).
+#### 1. Стратегия перекупленности/перепроданности
+Эта простая стратегия включает продажу, когда индикатор Williams %R предполагает условия перекупленности (значения выше -20), и покупку, когда он предполагает условия перепроданности (значения ниже -80).
 
-#### 2. Trend Reversal
-Traders can also use Williams %R to identify potential trend reversals. For instance, a move from overbought territory to below -20 can signal the beginning of a downtrend. Similarly, a move from oversold territory to above -80 can signal the beginning of an uptrend.
+#### 2. Разворот тренда
+Трейдеры также могут использовать Williams %R для идентификации потенциальных разворотов тренда. Например, движение из зоны перекупленности ниже -20 может сигнализировать о начале нисходящего тренда. Аналогично, движение из зоны перепроданности выше -80 может сигнализировать о начале восходящего тренда.
 
-#### 3. Confirming Signals
-Williams %R is often used in conjunction with other indicators to confirm signals. For example, traders may look for alignment between Williams %R and other technical indicators like Moving Averages, RSI (Relative Strength Index), or MACD (Moving Average Convergence Divergence) to confirm trade signals.
+#### 3. Подтверждение сигналов
+Williams %R часто используется в сочетании с другими индикаторами для подтверждения сигналов. Например, трейдеры могут искать совпадение между Williams %R и другими техническими индикаторами, такими как скользящие средние, RSI (индекс относительной силы) или MACD (схождение-расхождение скользящих средних), для подтверждения торговых сигналов.
 
-### Advantages of Williams %R
-- **Speed**: Williams %R is responsive and captures short-term price movements effectively.
-- **Simplicity**: The indicator is straightforward to calculate and easy to interpret.
-- **Versatility**: It can be used across different markets and time frames.
+### Преимущества Williams %R
+- **Скорость**: Williams %R отзывчив и эффективно фиксирует краткосрочные ценовые движения.
+- **Простота**: Индикатор прост в расчете и легок для интерпретации.
+- **Универсальность**: Он может использоваться на различных рынках и временных рамках.
 
-### Limitations of Williams %R
-- **False Signals**: Like most technical indicators, Williams %R can produce false signals, particularly in trending markets where it may remain in overbought or oversold conditions for extended periods.
-- **Lag**: It is a lagging indicator, meaning it reflects past price movements, which may not always reliably predict future price movements.
+### Ограничения Williams %R
+- **Ложные сигналы**: Как и большинство технических индикаторов, Williams %R может производить ложные сигналы, особенно на трендовых рынках, где он может оставаться в условиях перекупленности или перепроданности в течение продолжительных периодов.
+- **Запаздывание**: Это запаздывающий индикатор, то есть он отражает прошлые ценовые движения, которые могут не всегда надежно предсказывать будущие ценовые движения.
 
-### Practical Examples of Williams %R
-Let’s look at some practical examples to deepen our understanding.
+### Практические примеры Williams %R
+Давайте рассмотрим некоторые практические примеры для углубления нашего понимания.
 
-#### Example 1: Stock Trading
-Suppose a trader is examining the stock of a tech company, and the Williams %R indicator for the stock has moved above -20, indicating overbought conditions. The trader might decide to sell the stock or hold off on buying more, anticipating a potential price drop.
+#### Пример 1: Торговля акциями
+Предположим, трейдер изучает акции технологической компании, и индикатор Williams %R для акции переместился выше -20, указывая на условия перекупленности. Трейдер может решить продать акции или воздержаться от покупки дополнительных акций, ожидая потенциального падения цены.
 
-#### Example 2: Forex Market
-In the forex market, if the EUR/USD currency pair shows a Williams %R value below -80, this suggests that the pair is in oversold territory. A trader observing this may consider entering a long position, expecting a price rebound.
+#### Пример 2: Рынок форекс
+На рынке форекс, если валютная пара EUR/USD показывает значение Williams %R ниже -80, это предполагает, что пара находится в зоне перепроданности. Трейдер, наблюдающий это, может рассмотреть возможность открытия длинной позиции, ожидая отскока цены.
 
-### Implementing Williams %R in Algorithmic Trading
-Algorithmic trading involves the use of automated systems to execute trades based on predefined criteria. Williams %R can be a valuable tool in an algorithmic trading system for identifying trade opportunities and making data-driven decisions.
+### Реализация Williams %R в алгоритмическом трейдинге
+Алгоритмический трейдинг включает использование автоматизированных систем для выполнения сделок на основе заранее определенных критериев. Williams %R может быть ценным инструментом в системе алгоритмического трейдинга для идентификации торговых возможностей и принятия решений на основе данных.
 
-#### Example Algorithm Strategy
-Consider an algorithm that:
-1. Buys a security when Williams %R moves below -80.
-2. Sells the security when Williams %R moves above -20.
+#### Пример алгоритмической стратегии
+Рассмотрим алгоритм, который:
+1. Покупает ценную бумагу, когда Williams %R опускается ниже -80.
+2. Продает ценную бумагу, когда Williams %R поднимается выше -20.
 
-### Advanced Techniques
-#### 1. Combining with Moving Averages
-Traders can enhance the effectiveness of Williams %R by combining it with moving averages. For example, a trader might use a 50-period moving average to determine the overall trend and then use Williams %R to identify entry points within that trend.
+### Продвинутые техники
+#### 1. Комбинирование со скользящими средними
+Трейдеры могут повысить эффективность Williams %R, комбинируя его со скользящими средними. Например, трейдер может использовать 50-периодную скользящую среднюю для определения общего тренда, а затем использовать Williams %R для идентификации точек входа в рамках этого тренда.
 
-#### 2. Integrating with Relative Strength Index (RSI)
-Williams %R can be used alongside RSI to confirm signals. For instance, when both indicators show oversold conditions, it could be a stronger signal to buy.
+#### 2. Интеграция с индексом относительной силы (RSI)
+Williams %R может использоваться вместе с RSI для подтверждения сигналов. Например, когда оба индикатора показывают условия перепроданности, это может быть более сильным сигналом к покупке.
 
-#### 3. Adaptive Williams %R
-Some advanced traders may use an adaptive Williams %R, where the lookback period adjusts based on market volatility. This approach aims to make the indicator more responsive during volatile periods and less responsive during stable periods.
+#### 3. Адаптивный Williams %R
+Некоторые продвинутые трейдеры могут использовать адаптивный Williams %R, где период обратного просмотра корректируется на основе рыночной волатильности. Этот подход направлен на то, чтобы сделать индикатор более отзывчивым в периоды волатильности и менее отзывчивым в стабильные периоды.
 
-### Implementing Williams %R in Software
-#### Python Example
-Below is a basic example of how to implement Williams %R in Python using the pandas library:
+### Реализация Williams %R в программном обеспечении
+#### Пример на Python
+Ниже приведен базовый пример реализации Williams %R на Python с использованием библиотеки pandas:
 
 ```python
 import pandas as pd
@@ -86,7 +84,7 @@ def williams_r(data, lookback_period=14):
     williams_r = (highest_high - data['Close']) / (highest_high - lowest_low) * -100
     return williams_r
 
-# Sample data
+# Пример данных
 data = {
     'High': [10, 12, 13, 15, 14, 17, 18],
     'Low': [5, 6, 7, 7, 9, 10, 11],
@@ -94,10 +92,10 @@ data = {
 }
 df = pd.DataFrame(data)
 
-# Calculate Williams %R
-df'[Williams %R'] = williams_r(df)
+# Расчет Williams %R
+df['Williams %R'] = williams_r(df)
 print(df)
 ```
 
-### Conclusion
-Williams Percent Range is a robust technical indicator that helps traders identify potential overbought and oversold conditions, providing valuable insights for making informed trading decisions. Whether used in isolation or combined with other indicators, Williams %R is a versatile tool that can enhance both discretionary and algorithmic trading strategies. Given its responsiveness and simplicity, it remains a popular choice among traders across various markets.
+### Заключение
+Процентный диапазон Вильямса является надежным техническим индикатором, который помогает трейдерам идентифицировать потенциальные условия перекупленности и перепроданности, предоставляя ценную информацию для принятия обоснованных торговых решений. Независимо от того, используется ли он изолированно или в сочетании с другими индикаторами, Williams %R является универсальным инструментом, который может улучшить как дискреционные, так и алгоритмические торговые стратегии. Учитывая его отзывчивость и простоту, он остается популярным выбором среди трейдеров на различных рынках.

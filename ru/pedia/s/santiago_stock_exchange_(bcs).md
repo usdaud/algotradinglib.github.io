@@ -1,75 +1,75 @@
 # Фондовая биржа Сантьяго (BCS)
 
-The Santiago Stock [Exchange](../e/exchange.md), also known as Bolsa de Comercio de Santiago (BCS), is the primary stock [exchange](../e/exchange.md) of Chile, playing a crucial role in the financial landscape of the country and the wider Latin American region. Established in 1893, BCS is headquartered in Santiago, Chile, and has developed into a modern and dynamic financial hub, facilitating diverse financial instruments and services, including equities, [fixed income securities](../f/fixed_income_securities.md), and [derivatives](../d/derivatives.md).
+Фондовая биржа Сантьяго, также известная как Bolsa de Comercio de Santiago (BCS), является основной фондовой биржей Чили, играющей ключевую роль в финансовом ландшафте страны и более широкого латиноамериканского региона. Основанная в 1893 году, BCS расположена в Сантьяго, Чили, и превратилась в современный и динамичный финансовый центр, обеспечивающий торговлю разнообразными финансовыми инструментами и услугами, включая акции, ценные бумаги с фиксированным доходом и деривативы.
 
-## Overview
+## Обзор
 
-The Santiago Stock [Exchange](../e/exchange.md) is considered the largest stock [exchange](../e/exchange.md) in Chile and one of the most important in Latin America. It is a traditional trading floor, where [listed](../l/listed.md) securities are traded in a way that is highly regulated to ensure [transparency](../t/transparency.md) and fairness in the [market](../m/market.md). Through modern technological advancements, BCS has implemented electronic [trading systems](../t/trading_systems.md), significantly improving [efficiency](../e/efficiency.md) and accessibility for investors.
+Фондовая биржа Сантьяго считается крупнейшей фондовой биржей в Чили и одной из наиболее важных в Латинской Америке. Это традиционная торговая площадка, где листинговые ценные бумаги торгуются в строго регулируемом режиме для обеспечения прозрачности и справедливости на рынке. Благодаря современным технологическим достижениям BCS внедрила электронные торговые системы, значительно повысив эффективность и доступность для инвесторов.
 
-## Trading Instruments
+## Торговые инструменты
 
-### Equities
+### Акции
 
-Equities are a major component of the BCS's offerings. This includes common [stocks](../s/stock.md), preferred [stocks](../s/stock.md), and other [equity](../e/equity.md)-like securities. The trading of equities on the BCS provides companies with critical [capital](../c/capital.md) while allowing investors to share in the profits and growth potential of these companies.
+Акции являются основным компонентом предложений BCS. Сюда входят обыкновенные акции, привилегированные акции и другие долевые ценные бумаги. Торговля акциями на BCS обеспечивает компаниям критически важный капитал, позволяя инвесторам участвовать в прибылях и потенциале роста этих компаний.
 
-### Fixed Income Securities
+### Ценные бумаги с фиксированным доходом
 
-[Fixed income securities](../f/fixed_income_securities.md), such as corporate and government bonds, are actively traded on the BCS. These instruments [offer](../o/offer.md) a more stable investment compared to equities, providing periodic [interest](../i/interest.md) payments and returning the [principal](../p/principal.md) at [maturity](../m/maturity.md).
+Ценные бумаги с фиксированным доходом, такие как корпоративные и государственные облигации, активно торгуются на BCS. Эти инструменты предлагают более стабильные инвестиции по сравнению с акциями, обеспечивая периодические процентные выплаты и возврат основной суммы при погашении.
 
-### Derivatives
+### Деривативы
 
-BCS also supports the trading of [derivatives](../d/derivatives.md), including [futures](../f/futures.md) and [options](../o/options.md). These financial instruments derive their [value](../v/value.md) from [underlying](../u/underlying.md) assets such as [stocks](../s/stock.md), bonds, or indexes. [Derivatives](../d/derivatives.md) can be used for hedging risks or for speculative purposes to [leverage](../l/leverage.md) financial positions.
+BCS также поддерживает торговлю деривативами, включая фьючерсы и опционы. Эти финансовые инструменты получают свою стоимость от базовых активов, таких как акции, облигации или индексы. Деривативы могут использоваться для хеджирования рисков или в спекулятивных целях для увеличения финансовых позиций.
 
-## Major Indices
+## Основные индексы
 
-The main indices of the Santiago Stock [Exchange](../e/exchange.md) include the IPSA (Índice de Precios Selectivo de Acciones), which monitors the performance of the 40 most traded [stocks](../s/stock.md) in Chile. Other significant indices are the IGPA (Índice General de Precios de Acciones) and the INTER-10, which tracks the performance of the ten most traded [stocks](../s/stock.md) in the international [market](../m/market.md).
+Основные индексы Фондовой биржи Сантьяго включают IPSA (Индекс избранных цен акций), который отслеживает динамику 40 наиболее торгуемых акций в Чили. Другими значимыми индексами являются IGPA (Общий индекс цен акций) и INTER-10, отслеживающий динамику десяти наиболее торгуемых акций на международном рынке.
 
-## Trading Mechanisms
+## Механизмы торговли
 
-### Traditional Open Outcry
+### Традиционный открытый аукцион
 
-Initially, the BCS operated through the traditional [open outcry](../o/open_outcry.md) method, where brokers would shout orders on the trading floor. This method, while effective in its time, has largely been replaced by electronic [trading systems](../t/trading_systems.md) to meet the demands of modern [financial markets](../f/financial_market.md).
+Изначально BCS работала методом традиционного открытого аукциона, при котором брокеры выкрикивали заявки на торговой площадке. Этот метод, хотя и был эффективен в своё время, в значительной степени заменён электронными торговыми системами для удовлетворения потребностей современных финансовых рынков.
 
-### Electronic Trading
+### Электронная торговля
 
-The introduction of the Telepregón system marked a significant shift towards electronic trading in the 1980s. This system enabled faster and more efficient [trade](../t/trade.md) [execution](../e/execution.md), contributing to greater [market](../m/market.md) [liquidity](../l/liquidity.md).
+Внедрение системы Telepregon ознаменовало значительный переход к электронной торговле в 1980-х годах. Эта система обеспечила более быстрое и эффективное исполнение сделок, способствуя повышению ликвидности рынка.
 
-### Automated Trading Systems
+### Автоматизированные торговые системы
 
-BCS has adopted advanced [automated trading systems](../a/automated_trading_systems.md), which employ algorithms to process and execute trades at lightning speed. These systems analyze [market](../m/market.md) data and execute [trade](../t/trade.md) orders without human intervention, thus optimizing [trading strategies](../t/trading_strategies.md) and minimizing latency.
+BCS внедрила передовые автоматизированные торговые системы, которые используют алгоритмы для обработки и исполнения сделок с молниеносной скоростью. Эти системы анализируют рыночные данные и исполняют торговые заявки без участия человека, тем самым оптимизируя торговые стратегии и минимизируя задержки.
 
-## Regulation and Oversight
+## Регулирование и надзор
 
-The Chilean Superintendency of Securities and [Insurance](../i/insurance.md) (SVS), known today as the Financial [Market](../m/market.md) [Commission](../c/commission.md) (CMF), is the primary regulatory body overseeing the operations of the BCS. It ensures that trading activities are performed in compliance with national laws and international standards to maintain [market](../m/market.md) integrity and protect investors.
+Чилийское управление по ценным бумагам и страхованию (SVS), известное сегодня как Комиссия по финансовым рынкам (CMF), является основным регулирующим органом, осуществляющим надзор за деятельностью BCS. Оно обеспечивает соответствие торговой деятельности национальным законам и международным стандартам для поддержания целостности рынка и защиты инвесторов.
 
-## Technological Infrastructure
+## Технологическая инфраструктура
 
-BCS continually invests in cutting-edge technology to support [market](../m/market.md) operations. This includes high-frequency trading (HFT) systems, real-time [data analytics](../d/data_analytics.md), and [robust](../r/robust.md) cybersecurity measures to safeguard sensitive financial information.
+BCS постоянно инвестирует в передовые технологии для поддержки рыночных операций. Это включает системы высокочастотной торговли (HFT), аналитику данных в реальном времени и надёжные меры кибербезопасности для защиты конфиденциальной финансовой информации.
 
-## International Collaboration
+## Международное сотрудничество
 
-As part of its growth and modernization efforts, BCS has developed partnerships with other international exchanges. This includes cross-listing agreements and collaborative initiatives to enhance [market](../m/market.md) accessibility for foreign investors.
+В рамках своего роста и модернизации BCS развивает партнёрства с другими международными биржами. Это включает соглашения о кросс-листинге и совместные инициативы по повышению доступности рынка для иностранных инвесторов.
 
-## Economic Impact
+## Экономическое влияние
 
-The Santiago Stock [Exchange](../e/exchange.md) plays a vital role in funding economic development in Chile. By providing a platform for companies to raise [capital](../c/capital.md), BCS supports [business](../b/business.md) [expansion](../e/expansion.md), job creation, and [economic growth](../e/economic_growth.md). Additionally, the [exchange](../e/exchange.md) contributes to [financial literacy](../f/financial_literacy.md) and investment opportunities for individual and institutional investors.
+Фондовая биржа Сантьяго играет жизненно важную роль в финансировании экономического развития Чили. Предоставляя платформу для привлечения капитала компаниями, BCS поддерживает расширение бизнеса, создание рабочих мест и экономический рост. Кроме того, биржа способствует повышению финансовой грамотности и инвестиционных возможностей для индивидуальных и институциональных инвесторов.
 
-## Challenges and Future Directions
+## Вызовы и перспективы развития
 
-### Market Volatility
+### Рыночная волатильность
 
-Like all [financial markets](../f/financial_market.md), BCS is subject to [volatility](../v/volatility.md) driven by global [economic conditions](../e/economic_conditions.md), political developments, and shifts in [investor](../i/investor.md) sentiment. The [exchange](../e/exchange.md) continually seeks to mitigate these risks through regulatory enhancements and technological advancements.
+Как и все финансовые рынки, BCS подвержена волатильности, обусловленной глобальными экономическими условиями, политическими событиями и изменениями настроений инвесторов. Биржа постоянно стремится снизить эти риски посредством регуляторных улучшений и технологических достижений.
 
-### Environmental, Social, and Governance (ESG)
+### Экологические, социальные и управленческие факторы (ESG)
 
-BCS has placed a growing emphasis on ESG principles, encouraging [listed](../l/listed.md) companies to adopt sustainable practices. This not only aligns with global trends but also caters to the rising [demand](../d/demand.md) for responsible [investing](../i/investing.md).
+BCS уделяет всё большее внимание принципам ESG, поощряя листинговые компании внедрять устойчивые практики. Это не только соответствует глобальным тенденциям, но и отвечает растущему спросу на ответственное инвестирование.
 
-### Financial Technology (Fintech)
+### Финансовые технологии (Fintech)
 
-The rise of fintech presents both opportunities and challenges for the Santiago Stock [Exchange](../e/exchange.md). By embracing innovation, such as [blockchain](../b/blockchain_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), BCS can enhance its service offerings and improve [market efficiency](../m/market_efficiency.md).
+Развитие финтеха представляет как возможности, так и вызовы для Фондовой биржи Сантьяго. Принимая инновации, такие как блокчейн и искусственный интеллект (ИИ), BCS может расширить свои предложения услуг и повысить эффективность рынка.
 
-## Conclusion
+## Заключение
 
-The Santiago Stock [Exchange](../e/exchange.md) remains a pivotal institution in Chile's [financial sector](../f/financial_sector.md), providing essential services that facilitate [capital](../c/capital.md) formation and [economic growth](../e/economic_growth.md). Through continuous innovation, [robust](../r/robust.md) regulation, and international collaboration, BCS is well-positioned to navigate the evolving landscape of global [finance](../f/finance.md).
+Фондовая биржа Сантьяго остаётся ключевым институтом в финансовом секторе Чили, предоставляя важнейшие услуги, способствующие формированию капитала и экономическому росту. Благодаря постоянным инновациям, надёжному регулированию и международному сотрудничеству BCS хорошо позиционирована для навигации в меняющемся ландшафте глобальных финансов.
 
-For more detailed information, you can visit the official Santiago Stock [Exchange](../e/exchange.md) online platform at BCS.
+Для получения более подробной информации вы можете посетить официальную онлайн-платформу Фондовой биржи Сантьяго — BCS.

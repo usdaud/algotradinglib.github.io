@@ -1,134 +1,134 @@
-# Volume Analysis Techniques
+# Техники анализа объема
 
-Volume analysis is a critical component of financial market analysis and trading. It involves examining the volume of traded assets to make informed decisions about potential market movements. Volume represents the number of shares or contracts traded in an asset or market during a specific period, and it provides valuable insights into the strength or weakness of price trends. Here, we delve into various volume analysis techniques that are commonly employed by traders and analysts.
+Анализ объема является критическим компонентом анализа финансовых рынков и торговли. Он включает изучение объема проданных активов для принятия обоснованных решений о потенциальных рыночных движениях. Объем представляет количество акций или контрактов, проданных в активе или на рынке в течение определенного периода, и он предоставляет ценные инсайты о силе или слабости ценовых трендов. Здесь мы углубимся в различные техники анализа объема, которые обычно используются трейдерами и аналитиками.
 
-## 1. Volume Price Trend (VPT)
+## 1. Объемный ценовой тренд (VPT)
 
-The Volume Price Trend (VPT) is an indicator that combines price and volume data to identify the strength of a price trend. The VPT is calculated by adding today's volume to the previous day's VPT value if the closing price is higher than the previous day's closing price, and subtracting it if the closing price is lower.
+Объемный ценовой тренд (VPT) — это индикатор, который объединяет данные о цене и объеме для определения силы ценового тренда. VPT рассчитывается путем добавления сегодняшнего объема к значению VPT предыдущего дня, если цена закрытия выше цены закрытия предыдущего дня, и вычитания его, если цена закрытия ниже.
 
-Formula:
-
-```
-VPT = VPT[prev] + volume * [(closing price - previous closing price) / previous closing price]
-```
-
-The VPT helps traders spot divergences between volume and price, which can signal potential reversals.
-
-## 2. On-Balance Volume (OBV)
-
-On-Balance Volume (OBV) is an indicator that uses volume flow to predict changes in stock price. It adds volume on up days and subtracts on down days. The cumulative total provides a running total that helps traders predict price movements based on volume trends.
-
-Formula:
+Формула:
 
 ```
-OBV = OBV[prev] + (Volume, if closing price > previous closing price)
-      OBV[prev] - (Volume, if closing price < previous closing price)
+VPT = VPT[prev] + объем * [(цена закрытия - предыдущая цена закрытия) / предыдущая цена закрытия]
 ```
 
-OBV is often used to confirm price trends, where a rising OBV indicates buying pressure and a falling OBV indicates selling pressure.
+VPT помогает трейдерам обнаруживать расхождения между объемом и ценой, которые могут сигнализировать о потенциальных разворотах.
 
-## 3. Accumulation/Distribution Line (A/D Line)
+## 2. Балансовый объем (OBV)
 
-The A/D Line is another volume-based indicator that measures the cumulative flow of money into and out of a security. It is calculated using the closing price relative to the high-low range of the period and the volume.
+Балансовый объем (OBV) — это индикатор, который использует поток объема для прогнозирования изменений цены акций. Он добавляет объем в дни роста и вычитает в дни падения. Кумулятивный итог обеспечивает бегущий итог, который помогает трейдерам прогнозировать движения цен на основе трендов объема.
 
-Formula:
-
-```
-Money Flow Multiplier = [(close - low) - (high - close)] / (high - low)
-Money Flow Volume = Money Flow Multiplier * volume
-A/D Line = A/D Line[prev] + Money Flow Volume
-```
-
-A rising A/D Line indicates accumulation (buying interest), while a falling A/D Line suggests distribution (selling interest).
-
-## 4. Chaikin Money Flow (CMF)
-
-The Chaikin Money Flow (CMF) measures the money flow volume over a specific period. It uses the average of the high, low, and closing prices, weighted by volume, to determine the buying or selling pressure.
-
-Formula:
+Формула:
 
 ```
-CMF = Sum of Money Flow Volume over N periods / Sum of Volume over N periods
-Money Flow Multiplier = [(close - low) - (high - close)] / (high - low)
-Money Flow Volume = Money Flow Multiplier * volume
+OBV = OBV[prev] + (Объем, если цена закрытия > предыдущей цены закрытия)
+      OBV[prev] - (Объем, если цена закрытия < предыдущей цены закрытия)
 ```
 
-The CMF value oscillates between -1 and 1, with positive values indicating buying pressure and negative values indicating selling pressure.
+OBV часто используется для подтверждения ценовых трендов, где растущий OBV указывает на покупательское давление, а падающий OBV указывает на продавательское давление.
 
-## 5. Volume Oscillator
+## 3. Линия накопления/распределения (A/D Line)
 
-A Volume Oscillator measures the difference between two moving averages of volume. Traders typically use a short-term and long-term moving average to gauge the trend and momentum of volume changes.
+Линия A/D — это еще один индикатор на основе объема, который измеряет кумулятивный поток денег в ценную бумагу и из нее. Он рассчитывается с использованием цены закрытия относительно диапазона максимума-минимума периода и объема.
 
-Formula:
-
-```
-Volume Oscillator = (Short-term moving average of volume - Long-term moving average of volume) / Long-term moving average of volume
-```
-
-This oscillator helps identify changes in volume trends and potential reversals.
-
-## 6. Market Facilitation Index (MFI)
-
-The Market Facilitation Index (MFI) is an indicator developed by Bill Williams that assesses the efficiency of price movements using volume. It measures the change in price relative to volume and helps determine the strength of market moves.
-
-Formula:
+Формула:
 
 ```
-MFI = (high - low) / volume
+Мультипликатор денежного потока = [(закрытие - минимум) - (максимум - закрытие)] / (максимум - минимум)
+Объем денежного потока = Мультипликатор денежного потока * объем
+Линия A/D = Линия A/D[prev] + Объем денежного потока
 ```
 
-A high MFI value indicates that price movements are occurring with minimal volume, suggesting strong market facilitation.
+Растущая линия A/D указывает на накопление (интерес к покупке), в то время как падающая линия A/D предполагает распределение (интерес к продаже).
 
-## 7. Volume Weighted Average Price (VWAP)
+## 4. Денежный поток Чайкина (CMF)
 
-The Volume Weighted Average Price (VWAP) is a benchmark used by traders to assess the average price a security has traded at throughout the day, based on both volume and price. It is useful for comparing current prices to the day's average trading price.
+Денежный поток Чайкина (CMF) измеряет объем денежного потока за определенный период. Он использует среднее значение максимальных, минимальных и цен закрытия, взвешенное по объему, для определения покупательского или продавательского давления.
 
-Formula:
-
-```
-VWAP = Sum of (Price * Volume) during the day / Sum of Volume during the day
-```
-
-VWAP is commonly used by institutional traders to determine whether to buy or sell.
-
-## 8. Relative Volume (RVOL)
-
-Relative Volume (RVOL) measures the ratio of the current volume to the average volume over a specified period. It helps traders understand how today's trading volume compares to historical volume levels.
-
-Formula:
+Формула:
 
 ```
-RVOL = Current volume / Average volume
+CMF = Сумма объема денежного потока за N периодов / Сумма объема за N периодов
+Мультипликатор денежного потока = [(закрытие - минимум) - (максимум - закрытие)] / (максимум - минимум)
+Объем денежного потока = Мультипликатор денежного потока * объем
 ```
 
-A high RVOL suggests increased interest in the security, while a low RVOL indicates reduced interest.
+Значение CMF колеблется между -1 и 1, при этом положительные значения указывают на покупательское давление, а отрицательные значения — на продавательское давление.
 
-## 9. Volume Rate of Change (VROC)
+## 5. Осциллятор объема
 
-Volume Rate of Change (VROC) calculates the percentage change in volume over a given period. It helps identify surges in trading activity that might precede significant price movements.
+Осциллятор объема измеряет разницу между двумя скользящими средними объема. Трейдеры обычно используют краткосрочную и долгосрочную скользящие средние для оценки тренда и импульса изменений объема.
 
-Formula:
+Формула:
 
 ```
-VROC = [(Current Volume - Volume N periods ago) / Volume N periods ago] * 100
+Осциллятор объема = (Краткосрочная скользящая средняя объема - Долгосрочная скользящая средняя объема) / Долгосрочная скользящая средняя объема
 ```
 
-VROC is effective in spotting sudden changes in market activity and potential trend reversals.
+Этот осциллятор помогает выявлять изменения в трендах объема и потенциальные развороты.
 
-## 10. Volume Profile
+## 6. Индекс рыночной фасилитации (MFI)
 
-Volume Profile is an advanced charting tool that displays the volume traded at specific price levels over a given time period. It helps traders identify areas of high trading activity, known as high-volume nodes, and areas of low activity, known as low-volume nodes.
+Индекс рыночной фасилитации (MFI) — это индикатор, разработанный Биллом Уильямсом, который оценивает эффективность ценовых движений с использованием объема. Он измеряет изменение цены относительно объема и помогает определить силу рыночных движений.
 
-### High-Volume Nodes (HVN)
+Формула:
 
-These zones are areas of significant trading activity, suggesting strong support or resistance levels.
+```
+MFI = (максимум - минимум) / объем
+```
 
-### Low-Volume Nodes (LVN)
+Высокое значение MFI указывает на то, что ценовые движения происходят с минимальным объемом, предполагая сильную рыночную фасилитацию.
 
-These zones indicate areas with minimal trading activity, often acting as transition zones between HVNs.
+## 7. Средневзвешенная цена по объему (VWAP)
 
-Volume Profile provides a comprehensive view of how volume is distributed across different price levels, offering insights into market sentiment and potential future price movements.
+Средневзвешенная цена по объему (VWAP) — это ориентир, используемый трейдерами для оценки средней цены, по которой ценная бумага торговалась в течение дня, на основе как объема, так и цены. Это полезно для сравнения текущих цен со средней торговой ценой дня.
 
-## Conclusion
+Формула:
 
-Volume analysis techniques are essential tools for traders and analysts to gain a deeper understanding of market dynamics and predict future price movements. By incorporating volume data into their analysis, traders can make more informed decisions and improve their trading strategies. The key techniques discussed—VPT, OBV, A/D Line, CMF, Volume Oscillator, MFI, VWAP, RVOL, VROC, and Volume Profile—each offer unique insights into the relationship between volume and price. Utilizing these techniques can enhance a trader's ability to navigate the complexities of financial markets and achieve better trading outcomes.
+```
+VWAP = Сумма (Цена * Объем) в течение дня / Сумма объема в течение дня
+```
+
+VWAP обычно используется институциональными трейдерами для определения того, покупать или продавать.
+
+## 8. Относительный объем (RVOL)
+
+Относительный объем (RVOL) измеряет соотношение текущего объема к среднему объему за указанный период. Он помогает трейдерам понять, как сегодняшний торговый объем сравнивается с историческими уровнями объема.
+
+Формула:
+
+```
+RVOL = Текущий объем / Средний объем
+```
+
+Высокий RVOL предполагает повышенный интерес к ценной бумаге, в то время как низкий RVOL указывает на сниженный интерес.
+
+## 9. Скорость изменения объема (VROC)
+
+Скорость изменения объема (VROC) рассчитывает процентное изменение объема за данный период. Он помогает выявлять всплески торговой активности, которые могут предшествовать значительным движениям цен.
+
+Формула:
+
+```
+VROC = [(Текущий объем - Объем N периодов назад) / Объем N периодов назад] * 100
+```
+
+VROC эффективен в обнаружении внезапных изменений рыночной активности и потенциальных разворотов трендов.
+
+## 10. Профиль объема
+
+Профиль объема — это продвинутый инструмент построения графиков, который отображает объем, проданный на определенных ценовых уровнях за данный период времени. Он помогает трейдерам выявлять области высокой торговой активности, известные как узлы с высоким объемом, и области низкой активности, известные как узлы с низким объемом.
+
+### Узлы с высоким объемом (HVN)
+
+Эти зоны являются областями значительной торговой активности, предполагая сильные уровни поддержки или сопротивления.
+
+### Узлы с низким объемом (LVN)
+
+Эти зоны указывают на области с минимальной торговой активностью, часто действующие как переходные зоны между HVN.
+
+Профиль объема предоставляет всестороннее представление о том, как объем распределяется по различным ценовым уровням, предлагая инсайты в рыночные настроения и потенциальные будущие движения цен.
+
+## Заключение
+
+Техники анализа объема являются основными инструментами для трейдеров и аналитиков для получения более глубокого понимания рыночной динамики и прогнозирования будущих движений цен. Включая данные об объеме в свой анализ, трейдеры могут принимать более обоснованные решения и улучшать свои торговые стратегии. Обсуждаемые ключевые техники — VPT, OBV, линия A/D, CMF, осциллятор объема, MFI, VWAP, RVOL, VROC и профиль объема — каждая предлагает уникальные инсайты в соотношение между объемом и ценой. Использование этих техник может улучшить способность трейдера ориентироваться в сложностях финансовых рынков и достигать лучших торговых результатов.

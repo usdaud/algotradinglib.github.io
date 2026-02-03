@@ -1,49 +1,49 @@
-# Wilder's RSI
+# RSI Уайлдера
 
-Wilder's Relative Strength Index, commonly referred to as RSI, is a momentum oscillator developed by J. Welles Wilder. It measures the speed and change of price movements and is primarily used in technical analysis of financial markets. Initially introduced in Wilder's 1978 book, "New Concepts in Technical Trading Systems," the RSI has since become a fundamental tool for traders and analysts across various asset markets, including stocks, commodities, and forex.
+Индекс относительной силы Уайлдера, обычно называемый RSI, представляет собой моментум-осциллятор, разработанный Дж. Уэллсом Уайлдером. Он измеряет скорость и изменение ценовых движений и в основном используется в техническом анализе финансовых рынков. Впервые представленный в книге Уайлдера 1978 года "Новые концепции в технических торговых системах", RSI с тех пор стал фундаментальным инструментом для трейдеров и аналитиков на различных рынках активов, включая акции, товары и форекс.
 
-### Key Concepts of RSI
+### Ключевые концепции RSI
 
-#### Calculation of RSI
+#### Расчет RSI
 
-RSI is calculated using the following formula:
+RSI рассчитывается по следующей формуле:
 \[ RSI = 100 - \frac{100}{1 + RS} \]
-where RS (Relative Strength) is the average gain of n days divided by the average loss of n days. Typically, n is 14 days by default, as suggested by Wilder. The Average Gain and Average Loss are calculated over a specified period and smoothed using a simple moving average.
+где RS (относительная сила) — это средняя прибыль за n дней, деленная на среднюю потерю за n дней. Обычно n составляет 14 дней по умолчанию, как предложил Уайлдер. Средняя прибыль и средняя потеря вычисляются за указанный период и сглаживаются с использованием простого скользящего среднего.
 
-\ RS = \frac{\text{Average [Gain}}{\text{Average Loss}} \]
+\[ RS = \frac{\text{Средняя прибыль}}{\text{Средняя потеря}} \]
 
-#### Interpreting RSI Values
+#### Интерпретация значений RSI
 
-- **Overbought and Oversold Conditions**: RSI values range from 0 to 100. Traditionally, an RSI above 70 indicates an overbought condition, suggesting that the asset may be overvalued and potentially due for a price correction or pullback. Conversely, an RSI below 30 indicates an oversold condition, suggesting that the asset may be undervalued and due for a price rebound.
+- **Условия перекупленности и перепроданности**: Значения RSI варьируются от 0 до 100. Традиционно RSI выше 70 указывает на состояние перекупленности, предполагая, что актив может быть переоценен и потенциально должен откорректироваться или откатиться. И наоборот, RSI ниже 30 указывает на состояние перепроданности, предполагая, что актив может быть недооценен и должен восстановиться в цене.
 
-- **Centerline Crossover**: An RSI level of 50 is considered the midpoint, and crossovers of this level can indicate potential changes in market direction. When RSI moves above 50, it is often seen as a bullish signal, while a move below 50 can be viewed as bearish.
+- **Пересечение центральной линии**: Уровень RSI 50 считается средней точкой, и пересечения этого уровня могут указывать на потенциальные изменения направления рынка. Когда RSI поднимается выше 50, это часто рассматривается как бычий сигнал, в то время как движение ниже 50 может рассматриваться как медвежье.
 
-- **Divergences**: Divergences between the RSI and price action can signal potential reversal points. A bullish divergence occurs when the price makes a new low, but the RSI forms a higher low, indicating weakening bearish momentum. Conversely, a bearish divergence happens when the price makes a new high while the RSI forms a lower high, suggesting weakening bullish momentum.
+- **Дивергенции**: Дивергенции между RSI и ценовым действием могут сигнализировать о потенциальных точках разворота. Бычья дивергенция происходит, когда цена достигает нового минимума, но RSI формирует более высокий минимум, указывая на ослабление медвежьего импульса. И наоборот, медвежья дивергенция происходит, когда цена достигает нового максимума, в то время как RSI формирует более низкий максимум, предполагая ослабление бычьего импульса.
 
-### Practical Applications
+### Практическое применение
 
-#### Trend Identification
-RSI is frequently used to identify trend strength and potential reversal points. In strongly trending markets, RSI can remain in overbought or oversold territory for extended periods, indicating a sustained trend. In range-bound markets, RSI helps traders identify potential entry and exit points based on overbought and oversold conditions.
+#### Идентификация тренда
+RSI часто используется для определения силы тренда и потенциальных точек разворота. На сильно трендовых рынках RSI может оставаться в зоне перекупленности или перепроданности в течение продолжительных периодов, указывая на устойчивый тренд. На рынках в диапазоне RSI помогает трейдерам определять потенциальные точки входа и выхода на основе условий перекупленности и перепроданности.
 
-#### Combining with Other Indicators
-RSI is often used in conjunction with other technical indicators to enhance reliability. For example, combining RSI with moving averages, Bollinger Bands, or Fibonacci retracement levels can provide more comprehensive market analysis and better signal confirmation.
+#### Сочетание с другими индикаторами
+RSI часто используется в сочетании с другими техническими индикаторами для повышения надежности. Например, сочетание RSI со скользящими средними, полосами Боллинджера или уровнями коррекции Фибоначчи может обеспечить более комплексный анализ рынка и лучшее подтверждение сигналов.
 
-#### Example Trade Setup
-Consider a stock that has been in a strong uptrend but shows signs of weakening momentum with an RSI reading above 70. A trader might wait for the RSI to cross back below 70 as a signal to sell or reduce their position, anticipating a potential price correction.
+#### Пример торговой установки
+Рассмотрим акцию, которая находилась в сильном восходящем тренде, но показывает признаки ослабления импульса с показателем RSI выше 70. Трейдер может подождать, пока RSI пересечет уровень обратно ниже 70, в качестве сигнала для продажи или сокращения своей позиции, ожидая потенциальной коррекции цены.
 
-### Limitations and Considerations
+### Ограничения и соображения
 
-While RSI is a powerful tool, it is not without limitations. False signals can occur, especially in highly volatile markets. Additionally, relying solely on RSI can be risky; it is crucial to consider broader market context, fundamental factors, and other technical indicators.
+Хотя RSI является мощным инструментом, он не лишен ограничений. Ложные сигналы могут возникать, особенно на высоковолатильных рынках. Кроме того, полагаться исключительно на RSI может быть рискованным; крайне важно учитывать более широкий рыночный контекст, фундаментальные факторы и другие технические индикаторы.
 
-### Conclusion
+### Заключение
 
-Wilder’s RSI remains a vital component of technical analysis, offering insights into market momentum and potential turning points. Its simplicity, ease of interpretation, and adaptability across different markets make it a valuable tool for traders and analysts.
+RSI Уайлдера остается жизненно важным компонентом технического анализа, предлагая понимание рыночного импульса и потенциальных точек разворота. Его простота, легкость интерпретации и адаптивность к различным рынкам делают его ценным инструментом для трейдеров и аналитиков.
 
-For more information on J. Welles Wilder and his contributions to technical analysis, visit Market Technicians Association.
+Для получения дополнительной информации о Дж. Уэллсе Уайлдере и его вкладе в технический анализ посетите Market Technicians Association.
 
-## Practical checklist
-- Define the time horizon for Wilder's RSI and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для RSI Уайлдера и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расписания.
+- Напишите четкое правило входа и выхода перед вложением капитала.
+- Установите размер позиции так, чтобы одна ошибка не повредила счету.
+- Документируйте результат для улучшения повторяемости.

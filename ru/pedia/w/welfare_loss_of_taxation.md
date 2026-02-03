@@ -1,92 +1,88 @@
-# Welfare Loss of Taxation
+# Потери благосостояния от налогообложения
 
-The welfare loss of taxation, also known as the deadweight loss of taxation, refers to the loss of economic efficiency that occurs when the equilibrium for a good or a service is not achieved or is not achievable. In the context of public finance, it is an important concept that quantifies the cost imposed on society by the market distortions created through taxation.
+Потери благосостояния от налогообложения, также известные как безвозвратные потери от налогообложения (deadweight loss of taxation), относятся к потере экономической эффективности, которая возникает, когда равновесие для товара или услуги не достигается или недостижимо. В контексте государственных финансов это важная концепция, количественно определяющая издержки, возлагаемые на общество рыночными искажениями, создаваемыми налогообложением.
 
-Economic theory suggests that any tax imposed causes a deviation from the free-market equilibrium. In a perfectly competitive market without taxes, the price and quantity of goods or services produced and consumed would be at their social optimal levels. Taxes, however, drive a wedge between what consumers pay and what producers receive, creating inefficiencies where the market cannot clear, leading to a loss in overall economic welfare.
+Экономическая теория предполагает, что любой введённый налог вызывает отклонение от свободно-рыночного равновесия. На совершенно конкурентном рынке без налогов цена и количество производимых и потребляемых товаров или услуг находились бы на социально оптимальном уровне. Однако налоги вбивают клин между тем, что платят потребители, и тем, что получают производители, создавая неэффективность, при которой рынок не может очиститься, что приводит к потере общего экономического благосостояния.
 
-## Basic Concepts
+## Основные понятия
 
-### Market Equilibrium
+### Рыночное равновесие
 
-In a simplified economy, market equilibrium is reached when the quantity supplied of a good matches the quantity demanded, resulting in an equilibrium price. At this point, the sum of consumer and producer surplus is maximized.
+В упрощённой экономике рыночное равновесие достигается, когда объём предложения товара соответствует объёму спроса, что приводит к установлению равновесной цены. В этой точке сумма потребительского и производительского излишка максимизирована.
 
-Consumer surplus is the difference between what consumers are willing to pay for a good and what they actually pay, while producer surplus is the difference between the price at which producers are willing to sell a good and the price they actually receive. The sum of these surpluses is considered the total welfare in the market.
+Потребительский излишек — это разница между тем, сколько потребители готовы заплатить за товар, и тем, сколько они фактически платят, тогда как производительский излишек — это разница между ценой, по которой производители готовы продать товар, и ценой, которую они фактически получают. Сумма этих излишков считается совокупным благосостоянием на рынке.
 
-### Taxation Impact
+### Влияние налогообложения
 
-When a tax is applied, it either shifts the supply curve up (for specific taxes) or the demand curve down (for ad valorem taxes), depending on whether it is imposed on producers or consumers, respectively. This causes a new, non-optimal equilibrium with three key outcomes:
+Когда вводится налог, он либо сдвигает кривую предложения вверх (для специфических налогов), либо кривую спроса вниз (для адвалорных налогов), в зависимости от того, налагается ли он на производителей или потребителей соответственно. Это вызывает новое, неоптимальное равновесие с тремя ключевыми последствиями:
 
-1. **Higher Prices for Consumers**: Consumers pay a price higher than the original equilibrium price.
-2. **Lower Prices for Producers**: Producers receive a price lower than the original equilibrium price.
-3. **Reduced Quantity Sold**: The quantity of the good or service exchanged in the market decreases, as the higher price discourages consumers, while the lower received price discourages producers.
+1. **Более высокие цены для потребителей**: потребители платят цену выше первоначальной равновесной цены.
+2. **Более низкие цены для производителей**: производители получают цену ниже первоначальной равновесной цены.
+3. **Сокращение объёма продаж**: количество товара или услуги, обмениваемых на рынке, уменьшается, поскольку более высокая цена отпугивает потребителей, а более низкая получаемая цена отпугивает производителей.
 
-### Deadweight Loss
+### Безвозвратные потери
 
-Deadweight loss represents the reduction in total surplus resulting from the tax. It is the net loss of utility to society and can be visually represented as the area between the supply and demand curves, from the post-tax quantity to the pre-tax quantity. This area highlights the transactions that would have occurred in a no-tax scenario but do not occur because of the tax.
+Безвозвратные потери представляют собой сокращение совокупного излишка в результате введения налога. Это чистая потеря полезности для общества, которую можно визуально представить как площадь между кривыми спроса и предложения от количества после введения налога до количества до введения налога. Эта площадь отражает сделки, которые состоялись бы в сценарии без налога, но не происходят из-за налога.
 
-## Calculating Deadweight Loss
+## Расчёт безвозвратных потерь
 
-Deadweight loss can be calculated using the following formula:
+Безвозвратные потери можно рассчитать по следующей формуле:
 
-\[ \text{Deadweight Loss} = \frac{1}{2} \times |Q_{T} - Q_{E}| \times |P_{T} - P_{E}| \]
+\[ \text{Безвозвратные потери} = \frac{1}{2} \times |Q_{T} - Q_{E}| \times |P_{T} - P_{E}| \]
 
-Where:
-- \( Q_{T} \) is the quantity after tax
-- \( Q_{E} \) is the quantity at equilibrium without tax
-- \( P_{T} \) is the price after tax
-- \( P_{E} \) is the equilibrium price without tax
+Где:
+- \( Q_{T} \) — количество после введения налога
+- \( Q_{E} \) — равновесное количество без налога
+- \( P_{T} \) — цена после введения налога
+- \( P_{E} \) — равновесная цена без налога
 
-The deadweight loss grows with the elasticity of supply and demand, meaning that markets with more elastic supply and demand curves will experience a larger welfare loss for the same amount of tax than markets with inelastic supply and demand.
+Безвозвратные потери возрастают с эластичностью спроса и предложения, что означает, что рынки с более эластичными кривыми спроса и предложения будут испытывать большие потери благосостояния при одинаковой сумме налога, чем рынки с неэластичным спросом и предложением.
 
-## Implications and Policy Considerations
+## Последствия и политические соображения
 
-### Efficiency vs. Equity
+### Эффективность против справедливости
 
-Governments weigh the trade-off between efficiency and equity when designing tax systems. While taxes are essential for funding public goods and services, investment in infrastructure, and redistributing income to reduce inequality, they also create inefficiencies. Policymakers must balance these objectives to design a tax system that minimally distorts the market while achieving social objectives.
+Правительства взвешивают компромисс между эффективностью и справедливостью при разработке налоговых систем. Хотя налоги необходимы для финансирования общественных благ и услуг, инвестиций в инфраструктуру и перераспределения доходов для снижения неравенства, они также создают неэффективность. Политики должны балансировать эти цели, чтобы разработать налоговую систему, которая минимально искажает рынок при достижении социальных целей.
 
-### Optimal Taxation Theory
+### Теория оптимального налогообложения
 
-Economists have developed several principles for optimal taxation to minimize the welfare loss. These include:
+Экономисты разработали несколько принципов оптимального налогообложения для минимизации потерь благосостояния. К ним относятся:
 
-1. **Broad Base, Low Rate**: A tax system should have a broad base and low rates to minimize distortions. Spreading the tax burden across many taxpayers with lower rates reduces the overall deadweight loss.
-2. **Elasticity Consideration**: Taxes should be imposed on goods or services with inelastic supply and demand, as these incur smaller increases in deadweight loss.
-3. **Different Tax Instruments**: Using a mix of tax instruments, such as income taxes, consumption taxes, and wealth taxes, can help spread the burden and reduce large distortions in any single market.
+1. **Широкая база, низкая ставка**: налоговая система должна иметь широкую базу и низкие ставки для минимизации искажений. Распределение налогового бремени среди множества налогоплательщиков с более низкими ставками снижает общие безвозвратные потери.
+2. **Учёт эластичности**: налоги должны налагаться на товары или услуги с неэластичным спросом и предложением, поскольку они влекут меньшее увеличение безвозвратных потерь.
+3. **Различные налоговые инструменты**: использование сочетания налоговых инструментов, таких как налоги на доходы, налоги на потребление и налоги на богатство, может помочь распределить бремя и уменьшить крупные искажения на любом отдельном рынке.
 
-### Real-World Examples
+### Примеры из реальной практики
 
-#### The United Kingdom
+#### Великобритания
 
-The UK tax system comprises various types of taxes that illustrate several general principles:
-- **Value-Added Tax (VAT)**: A consumption tax imposed at each production stage, VAT is broad-based, affecting a wide array of goods and services, but set at a moderate rate to minimize distortions.
-- **Income Tax**: Progressive income tax brackets aim to achieve equity in income distribution while considering the minimal impact on labor supply decisions.
+Налоговая система Великобритании включает различные виды налогов, иллюстрирующих несколько общих принципов:
+- **Налог на добавленную стоимость (НДС)**: налог на потребление, взимаемый на каждом этапе производства; НДС имеет широкую базу, охватывая широкий спектр товаров и услуг, но установлен по умеренной ставке для минимизации искажений.
+- **Подоходный налог**: прогрессивные шкалы подоходного налога направлены на достижение справедливости в распределении доходов при учёте минимального влияния на решения о предложении труда.
 
-./t/taxation.md): UK Government Taxation
+#### Соединённые Штаты
 
-#### The United States
+Налоговая система США также стремится сбалансировать эффективность и справедливость посредством:
+- **Федерального подоходного налога**: прогрессивное налогообложение доходов с различными вычетами и кредитами, предназначенными для перераспределения доходов.
+- **Налогов с продаж штатов**: налоги с продаж, хотя и потенциально регрессивные, проще в администрировании и могут быть разработаны с исключением предметов первой необходимости для снижения воздействия на домохозяйства с низким доходом.
 
-The U.S. tax system also attempts to balance efficiency and equity through:
-- **Federal Income Tax**: Progressive income taxation with various deductions and credits designed to redistribute income.
-- **State Sales Taxes**: Sales taxes, though potentially regressive, are simpler to administer and can be designed to exclude necessities to reduce the impact on low-income households.
+## Критика и альтернативы
 
-Additional information about U.S. tax policy can be found here
+### Альтернативные налоговые системы
 
-## Criticisms and Alternatives
+Было предложено несколько альтернативных систем для минимизации потерь благосостояния от налогообложения:
+- **Плоский налог**: единая налоговая ставка, применяемая ко всем уровням доходов, может упростить налоговую систему и снизить административные расходы, хотя может не обладать прогрессивностью.
+- **Налог на потребление**: перенос налоговой базы на потребление, а не на доход, потенциально может уменьшить уклонение от уплаты налогов и стимулировать сбережения.
 
-### Alternative Tax Systems
+### Выводы поведенческой экономики
 
-Several alternative systems have been proposed to minimize the welfare loss of taxation:
-- **Flat Tax**: A single tax rate applied to all income levels can simplify the tax system and reduce administration costs, though it may lack progressivity.
-- **Consumption Tax**: Shifting the tax base to consumption rather than income could potentially reduce tax avoidance and encourage saving.
+Недавние достижения в поведенческой экономике критикуют традиционные взгляды на налогообложение в отношении потерь благосостояния. Понимание человеческого поведения предполагает, что реакции людей на налоги могут быть более сложными, чем простая эластичность спроса и предложения, включая такие факторы, как ментальный учёт и воспринимаемая справедливость в анализе благосостояния.
 
-### Behavioral Economics Insights
+Поведенческие подталкивания и тщательно разработанные налоговые правила иногда могут смягчить потери эффективности, приводя налоговую политику в большее соответствие с реальными моделями поведения.
 
-Recent advancements in behavioral economics have criticized traditional views of taxation concerning welfare loss. Insights into human behavior suggest that people's responses to taxes can be more complex than simple supply and demand elasticity, incorporating factors like mental accounting and perceived fairness into the welfare analysis.
+## Заключение
 
-Behavioral nudges and carefully designed tax rules can sometimes mitigate efficiency losses by aligning tax policies more closely with real-world behavioral patterns.
-
-## Conclusion
-
-Understanding the welfare loss of taxation is paramount for both policymakers and economists in designing effective tax systems. While necessary for funding essential services, taxation inevitably creates market distortions and inefficiencies, but these can be minimized through carefully planned policies that consider the elasticity of supply and demand, broader tax bases, and behavioral responses. Balancing these concerns with objectives for equity can create a more resilient and fair economy.
+Понимание потерь благосостояния от налогообложения имеет первостепенное значение как для политиков, так и для экономистов при разработке эффективных налоговых систем. Хотя налогообложение необходимо для финансирования основных услуг, оно неизбежно создаёт рыночные искажения и неэффективность, но их можно минимизировать с помощью тщательно спланированной политики, учитывающей эластичность спроса и предложения, более широкие налоговые базы и поведенческие реакции. Балансирование этих соображений с целями справедливости может создать более устойчивую и справедливую экономику.
 
 ---
-This detailed exposition covers critical aspects and implications of the welfare loss of taxation, providing a comprehensive framework for understanding this vital economic concept. The practical examples and policy considerations help contextualize the theory within real-world applications, making it a useful guide for academics, policymakers, and practitioners alike.
+Это детальное изложение охватывает критические аспекты и последствия потерь благосостояния от налогообложения, предоставляя комплексную основу для понимания этой жизненно важной экономической концепции. Практические примеры и политические соображения помогают контекстуализировать теорию в рамках реальных приложений, делая её полезным руководством для учёных, политиков и практиков.

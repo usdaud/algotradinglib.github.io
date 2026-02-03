@@ -1,90 +1,90 @@
-# Wash-Sale Rule
+# Правило фиктивной продажи
 
-The wash-sale rule is a regulation established by the Internal Revenue Service (IRS) that prohibits taxpayers from claiming a tax deduction for a security sold in a wash sale. A wash sale occurs when an investor sells a security at a loss and then repurchases the same or substantially identical security within 30 days before or after the sale.
+Правило фиктивной продажи - это регуляция, установленная Службой внутренних доходов (IRS), которая запрещает налогоплательщикам требовать налоговый вычет за ценную бумагу, проданную в фиктивной продаже. Фиктивная продажа происходит, когда инвестор продаёт ценную бумагу с убытком, а затем выкупает ту же самую или по существу идентичную ценную бумагу в течение 30 дней до или после продажи.
 
-## Overview
+## Обзор
 
-The primary purpose of the wash-sale rule is to prevent investors from taking advantage of tax benefits by selling securities at a loss to offset capital gains, only to repurchase the same or substantially similar securities shortly thereafter. By enforcing this rule, the IRS aims to ensure that taxpayers cannot artificially create tax-deductible losses while maintaining their investment positions.
+Основная цель правила фиктивной продажи - предотвратить использование налоговых льгот инвесторами путём продажи ценных бумаг с убытком для компенсации прироста капитала, только чтобы выкупить те же самые или по существу аналогичные ценные бумаги вскоре после этого. Применяя это правило, IRS стремится обеспечить, чтобы налогоплательщики не могли искусственно создавать налогооблагаемые убытки, сохраняя при этом свои инвестиционные позиции.
 
-### Key Elements of the Wash-Sale Rule:
+### Ключевые элементы правила фиктивной продажи:
 
-1. **30-Day Window**: The rule applies to transactions within 30 days before or after the sales date.
-2. **Substantially Identical Securities**: The rule applies to the repurchase of the same or substantially identical securities.
-3. **Disallowed Loss**: If a wash sale occurs, the disallowed loss is added to the cost basis of the repurchased security.
-4. **Tax Reporting**: Investors must report wash sales on Schedule D and Form 8949 of their tax returns.
+1. **30-дневное окно**: Правило применяется к транзакциям в течение 30 дней до или после даты продажи.
+2. **По существу идентичные ценные бумаги**: Правило применяется к выкупу тех же самых или по существу идентичных ценных бумаг.
+3. **Недопустимый убыток**: Если происходит фиктивная продажа, недопустимый убыток добавляется к базовой стоимости выкупленной ценной бумаги.
+4. **Налоговая отчётность**: Инвесторы должны сообщать о фиктивных продажах в Schedule D и Form 8949 своих налоговых деклараций.
 
-## Detailed Explanation
+## Подробное объяснение
 
-### Transaction Timing: The 30-Day Window
+### Время транзакции: 30-дневное окно
 
-The 30-day window, sometimes referred to as the wash-sale period, is one of the critical components of the wash-sale rule. This window encompasses a total of 61 days, spanning the 30 days before and the 30 days after the sale of a security. Any purchase of the same or substantially identical security within this period will trigger the wash-sale rule, disallowing the loss from the initial sale for tax deduction purposes.
+30-дневное окно, иногда называемое периодом фиктивной продажи, является одним из критических компонентов правила фиктивной продажи. Это окно охватывает в общей сложности 61 день, включая 30 дней до и 30 дней после продажи ценной бумаги. Любая покупка той же самой или по существу идентичной ценной бумаги в течение этого периода запустит правило фиктивной продажи, не позволяя вычитать убыток от первоначальной продажи для целей налогового вычета.
 
-To illustrate, let's consider an example:
+Чтобы проиллюстрировать, рассмотрим пример:
 
-- **Day 0**: An investor sells 100 shares of XYZ Corporation at a loss.
-- **Day 20**: The same investor buys 100 shares of XYZ Corporation.
+- **День 0**: Инвестор продаёт 100 акций Корпорации XYZ с убытком.
+- **День 20**: Тот же инвестор покупает 100 акций Корпорации XYZ.
 
-In this example, the loss realized from the sale on Day 0 cannot be claimed as a tax deduction because the investor repurchased the same security within the wash-sale period.
+В этом примере убыток, реализованный от продажи в День 0, не может быть заявлен как налоговый вычет, потому что инвестор выкупил ту же ценную бумагу в течение периода фиктивной продажи.
 
-### Substantially Identical Securities
+### По существу идентичные ценные бумаги
 
-The concept of substantially identical securities can be somewhat subjective and nuanced, leading to various interpretations. Generally, the term includes the following scenarios:
+Концепция по существу идентичных ценных бумаг может быть несколько субъективной и нюансированной, приводя к различным интерпретациям. Обычно термин включает следующие сценарии:
 
-1. **Identical Stocks**: Buying the same stock or options on the same stock.
-2. **Mutual Funds and ETFs**: Purchasing shares of a mutual fund or an exchange-traded fund (ETF) that tracks the same or a very similar index as the security sold.
-3. **Convertible Securities**: Swapping common stock for preferred stock or bonds convertible into common stock.
+1. **Идентичные акции**: Покупка тех же акций или опционов на те же акции.
+2. **Взаимные фонды и ETF**: Покупка акций взаимного фонда или биржевого фонда (ETF), который отслеживает тот же или очень похожий индекс, что и проданная ценная бумага.
+3. **Конвертируемые ценные бумаги**: Обмен обыкновенных акций на привилегированные акции или облигации, конвертируемые в обыкновенные акции.
 
-For example, if an investor sells shares of an ETF tracking the S&P 500 Index at a loss and buys shares of another ETF that also tracks the S&P 500 within the wash-sale period, the securities would likely be considered substantially identical, triggering the wash-sale rule.
+Например, если инвестор продаёт акции ETF, отслеживающего индекс S&P 500 с убытком, и покупает акции другого ETF, который также отслеживает S&P 500 в течение периода фиктивной продажи, ценные бумаги, вероятно, будут считаться по существу идентичными, запуская правило фиктивной продажи.
 
-### Disallowed Loss and Adjusted Cost Basis
+### Недопустимый убыток и скорректированная базовая стоимость
 
-When a wash sale is identified, the loss from the initial sale is not lost altogether but rather postponed. This disallowed loss is added to the cost basis of the repurchased security. This adjustment effectively defers the tax benefit until the new security is sold, aligning the tax treatment with the economic reality of the investment strategy.
+Когда выявляется фиктивная продажа, убыток от первоначальной продажи не теряется полностью, а скорее откладывается. Этот недопустимый убыток добавляется к базовой стоимости выкупленной ценной бумаги. Эта корректировка эффективно откладывает налоговую выгоду до тех пор, пока новая ценная бумага не будет продана, согласовывая налоговое обращение с экономической реальностью инвестиционной стратегии.
 
-Continuing with the previous example:
+Продолжая предыдущий пример:
 
-- **Day 0**: An investor sells 100 shares of XYZ Corporation at a loss of $500. The cost basis was $10,000.
-- **Day 20**: The investor repurchases 100 shares of XYZ Corporation for $9,500.
+- **День 0**: Инвестор продаёт 100 акций Корпорации XYZ с убытком в $500. Базовая стоимость была $10,000.
+- **День 20**: Инвестор выкупает 100 акций Корпорации XYZ за $9,500.
 
-In this case, the disallowed loss of $500 is added to the new purchase price:
+В этом случае недопустимый убыток в $500 добавляется к новой цене покупки:
 
-- New Cost Basis = Repurchase Price + Disallowed Loss
-- New Cost Basis = $9,500 + $500 = $10,000
+- Новая базовая стоимость = Цена выкупа + Недопустимый убыток
+- Новая базовая стоимость = $9,500 + $500 = $10,000
 
-The adjusted cost basis is essential for accurately tracking the investment's performance and ensuring proper tax treatment when the security is ultimately sold.
+Скорректированная базовая стоимость имеет существенное значение для точного отслеживания производительности инвестиций и обеспечения правильного налогового обращения при окончательной продаже ценной бумаги.
 
-### Reporting Wash Sales
+### Отчётность о фиктивных продажах
 
-Taxpayers must report wash sales on Schedule D (Capital Gains and Losses) and Form 8949 (Sales and Other Dispositions of Capital Assets) of their tax returns. Accurate accounting and reporting are crucial to comply with IRS regulations and avoid potential penalties.
+Налогоплательщики должны сообщать о фиктивных продажах в Schedule D (Прирост и убытки капитала) и Form 8949 (Продажи и другие распоряжения капитальными активами) своих налоговых деклараций. Точный учёт и отчётность имеют решающее значение для соблюдения регуляций IRS и избежания потенциальных штрафов.
 
-On Form 8949, taxpayers will include:
+В Form 8949 налогоплательщики будут включать:
 
-- Description of the property (e.g., "100 shares of XYZ Corporation")
-- Date the property was acquired
-- Date the property was sold
-- Sales price
-- Cost basis
-- Adjustments to gains or losses, including wash-sale adjustments
+- Описание имущества (например, "100 акций Корпорации XYZ")
+- Дата приобретения имущества
+- Дата продажи имущества
+- Цена продажи
+- Базовая стоимость
+- Корректировки прибылей или убытков, включая корректировки фиктивной продажи
 
-### Practical Implications for Investors
+### Практические последствия для инвесторов
 
-The wash-sale rule has several practical implications for individual investors, especially those engaging in frequent trading or tax-loss harvesting strategies. Below are a few key considerations:
+Правило фиктивной продажи имеет несколько практических последствий для индивидуальных инвесторов, особенно тех, кто занимается частой торговлей или стратегиями сбора налоговых убытков. Ниже приведены несколько ключевых соображений:
 
-1. **Record-Keeping**: Maintaining accurate records of purchase and sale dates, prices, and cost bases is vital for compliance.
-2. **Strategic Planning**: Investors may need to plan sales and repurchases strategically to avoid triggering the wash-sale rule.
-3. **Alternative Investments**: Investors might consider different but not substantially identical securities to maintain their investment positions while realizing tax losses.
-4. **Software and Professional Help**: Utilizing tax software or consulting with a financial advisor or tax professional can help navigate the complexities of wash-sale rules.
+1. **Ведение записей**: Поддержание точных записей дат покупки и продажи, цен и базовых стоимостей имеет жизненно важное значение для соответствия требованиям.
+2. **Стратегическое планирование**: Инвесторам может потребоваться стратегически планировать продажи и выкупы, чтобы избежать запуска правила фиктивной продажи.
+3. **Альтернативные инвестиции**: Инвесторы могут рассмотреть различные, но не по существу идентичные ценные бумаги для поддержания своих инвестиционных позиций при реализации налоговых убытков.
+4. **Программное обеспечение и профессиональная помощь**: Использование налогового программного обеспечения или консультации с финансовым консультантом или налоговым специалистом может помочь навигировать сложности правил фиктивной продажи.
 
-### Impact on Algorithmic Trading and Fintech
+### Влияние на алгоритмическую торговлю и финтех
 
-The wash-sale rule also has implications for algorithmic trading and financial technology (fintech) platforms, particularly those offering automated investment services or tax optimization features. Here are a few impacts:
+Правило фиктивной продажи также имеет последствия для алгоритмической торговли и платформ финансовых технологий (финтех), особенно тех, которые предлагают автоматизированные инвестиционные услуги или функции налоговой оптимизации. Вот несколько воздействий:
 
-1. **Algorithm Adjustments**: Trading algorithms must incorporate logic to identify and avoid wash sales, ensuring compliance with IRS regulations.
-2. **User Notifications**: Fintech platforms should provide users with real-time alerts if a proposed trade might trigger a wash sale, helping them make informed decisions.
-3. **Tax-Loss Harvesting**: Automated tax-loss harvesting features must account for the wash-sale rule to ensure that realized losses are eligible for tax deductions.
-4. **Reporting and Transparency**: Platforms need to offer detailed reporting and transparency on trades and adjustments related to wash sales, aiding users in accurate tax reporting.
+1. **Корректировки алгоритмов**: Торговые алгоритмы должны включать логику для идентификации и избежания фиктивных продаж, обеспечивая соответствие регуляциям IRS.
+2. **Уведомления пользователей**: Платформы финтех должны предоставлять пользователям уведомления в реальном времени, если предлагаемая сделка может запустить фиктивную продажу, помогая им принимать обоснованные решения.
+3. **Сбор налоговых убытков**: Автоматизированные функции сбора налоговых убытков должны учитывать правило фиктивной продажи, чтобы обеспечить возможность вычета реализованных убытков для налоговых целей.
+4. **Отчётность и прозрачность**: Платформы должны предлагать подробную отчётность и прозрачность по сделкам и корректировкам, связанным с фиктивными продажами, помогая пользователям в точной налоговой отчётности.
 
-For example, robo-advisors like Betterment ( and Wealthfront ( offer tax-loss harvesting services that are designed to comply with wash-sale rules, providing users with optimized tax benefits while maintaining adherence to IRS regulations.
+Например, робо-консультанты, такие как Betterment и Wealthfront, предлагают услуги по сбору налоговых убытков, которые разработаны для соблюдения правил фиктивной продажи, предоставляя пользователям оптимизированные налоговые выгоды при сохранении соответствия регуляциям IRS.
 
-## Conclusion
+## Заключение
 
-The wash-sale rule is a critical aspect of the U.S. tax code that aims to prevent the abuse of tax-deductible losses through short-term repurchase strategies. By understanding and adhering to this rule, investors can make informed decisions that align with tax regulations while effectively managing their investment portfolios. Accurate record-keeping, strategic planning, and leveraging technology are essential for navigating the complexities of wash sales and optimizing tax outcomes.
+Правило фиктивной продажи является критическим аспектом налогового кодекса США, который направлен на предотвращение злоупотребления налогооблагаемыми убытками через краткосрочные стратегии выкупа. Понимая и соблюдая это правило, инвесторы могут принимать обоснованные решения, которые соответствуют налоговым регуляциям, эффективно управляя своими инвестиционными портфелями. Точное ведение записей, стратегическое планирование и использование технологий имеют существенное значение для навигации сложностей фиктивных продаж и оптимизации налоговых результатов.

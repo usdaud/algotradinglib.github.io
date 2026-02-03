@@ -1,102 +1,102 @@
-# Wilder's Directional Movement Index (DMI)
+# Индекс направленного движения Уайлдера (DMI)
 
-The Directional Movement Index (DMI), developed by J. Welles Wilder, is a technical indicator that estimates the strength and direction of a trend. It aids in identifying whether a security is trending and how strong that trend is. Traders often use DMI to make trading decisions and to develop trading strategies.
+Индекс направленного движения (DMI), разработанный Дж. Уэллсом Уайлдером, представляет собой технический индикатор, который оценивает силу и направление тренда. Он помогает в определении того, находится ли ценная бумага в тренде и насколько этот тренд силен. Трейдеры часто используют DMI для принятия торговых решений и разработки торговых стратегий.
 
-## Components of DMI
+## Компоненты DMI
 
-The DMI consists of three lines:
-1. **+DI (Positive Directional Indicator)**: Measures the strength of the upward movement.
-2. **-DI (Negative Directional Indicator)**: Measures the strength of the downward movement.
-3. **ADX (Average Directional Index.md))**: Calculates the absolute strength of the trend, regardless of direction.
+DMI состоит из трех линий:
+1. **+DI (положительный индикатор направления)**: Измеряет силу восходящего движения.
+2. **-DI (отрицательный индикатор направления)**: Измеряет силу нисходящего движения.
+3. **ADX (средний индекс направленности)**: Вычисляет абсолютную силу тренда независимо от направления.
 
-### +DI and -DI Calculation
+### Расчет +DI и -DI
 
-To calculate +DI and -DI, you must first determine the Directional Movement (DM) for each period:
+Для расчета +DI и -DI необходимо сначала определить направленное движение (DM) для каждого периода:
 
-1. **Calculate UpMove and DownMove**:
- - **UpMove** = Current High - Previous High
- - **DownMove** = Previous Low - Current Low
+1. **Вычисление UpMove и DownMove**:
+   - **UpMove** = Текущий максимум - Предыдущий максимум
+   - **DownMove** = Предыдущий минимум - Текущий минимум
 
-2. **Determine Positive and Negative Directional Movement**:
- - If UpMove > DownMove and UpMove > 0: +DM = UpMove
- - If DownMove > UpMove and DownMove > 0: -DM = DownMove
- - If neither condition is met, +DM = 0 and -DM = 0
+2. **Определение положительного и отрицательного направленного движения**:
+   - Если UpMove > DownMove и UpMove > 0: +DM = UpMove
+   - Если DownMove > UpMove и DownMove > 0: -DM = DownMove
+   - Если ни одно условие не выполнено, +DM = 0 и -DM = 0
 
-3. **Calculate the True Range (TR)**:
- - TR is the greatest of the following:
- - Current High - Current Low
- - Absolute Value of Current High - Previous Close
- - Absolute Value of Current Low - Previous Close
+3. **Вычисление истинного диапазона (TR)**:
+   - TR — это наибольшее из следующих значений:
+   - Текущий максимум - Текущий минимум
+   - Абсолютное значение текущего максимума - Предыдущее закрытие
+   - Абсолютное значение текущего минимума - Предыдущее закрытие
 
-4. **Smoothed +DM, -DM, and TR**:
- - Use a smoothing technique (commonly a 14-period average).
+4. **Сглаженные +DM, -DM и TR**:
+   - Используется метод сглаживания (обычно 14-периодное среднее).
 
-5. **+DI and -DI**:
- - +DI = (Smoothed +DM / Smoothed TR) * 100
- - -DI = (Smoothed -DM / Smoothed TR) * 100
+5. **+DI и -DI**:
+   - +DI = (Сглаженный +DM / Сглаженный TR) * 100
+   - -DI = (Сглаженный -DM / Сглаженный TR) * 100
 
-### ADX Calculation
+### Расчет ADX
 
-1. **Calculate the Directional Movement Index (DX)**:
- - DX = (| +DI - -DI | / (+DI + -DI)) * 100
+1. **Вычисление индекса направленного движения (DX)**:
+   - DX = (| +DI - -DI | / (+DI + -DI)) * 100
 
-2. **Calculate ADX**:
- - The ADX is the smoothed average of DX values over a specified period (commonly 14 periods).
+2. **Вычисление ADX**:
+   - ADX — это сглаженное среднее значений DX за указанный период (обычно 14 периодов).
 
-## Interpreting DMI
+## Интерпретация DMI
 
-### Crossovers
+### Пересечения
 
-The +DI and -DI lines can be used in crossover strategies:
-- **Bullish Signal**: When +DI crosses above -DI, it indicates a potentially bullish trend.
-- **Bearish Signal**: When -DI crosses above +DI, it indicates a potentially bearish trend.
+Линии +DI и -DI могут использоваться в стратегиях пересечения:
+- **Бычий сигнал**: Когда +DI пересекает -DI сверху вниз, это указывает на потенциально бычий тренд.
+- **Медвежий сигнал**: Когда -DI пересекает +DI сверху вниз, это указывает на потенциально медвежий тренд.
 
-### ADX Trend Strength
+### Сила тренда ADX
 
-- **ADX below 20**: Weak or non-existent trend.
-- **ADX above 20**: Indicates the presence of a trend.
-- **ADX above 40**: Indicates a strong trend.
+- **ADX ниже 20**: Слабый или отсутствующий тренд.
+- **ADX выше 20**: Указывает на наличие тренда.
+- **ADX выше 40**: Указывает на сильный тренд.
 
-## Applications in Trading Strategies
+## Применение в торговых стратегиях
 
-### Trend Following
+### Следование за трендом
 
-When ADX is above 20, traders often use the DMI for trend-following strategies:
-- Enter long positions when +DI crosses above -DI if ADX is rising.
-- Enter short positions when -DI crosses above +DI if ADX is rising.
+Когда ADX выше 20, трейдеры часто используют DMI для стратегий следования за трендом:
+- Открывайте длинные позиции, когда +DI пересекает -DI сверху вниз, если ADX растет.
+- Открывайте короткие позиции, когда -DI пересекает +DI сверху вниз, если ADX растет.
 
-### Range Bound Strategies
+### Стратегии в диапазоне
 
-When ADX is below 20, it may be an indication of a range-bound market. Strategies such as oscillators or mean-reversion techniques are more suitable.
+Когда ADX ниже 20, это может указывать на рынок в диапазоне. Стратегии, такие как осцилляторы или методы возврата к среднему, более подходящие.
 
-## Limitations of DMI
+## Ограничения DMI
 
-1. **Lagging Indicator**: The DMI relies on historical data, so it may not respond quickly to sudden price changes.
-2. **False Signals**: In highly volatile markets, DMI can produce false signals.
-3. **Complexity**: The calculation of DMI involves multiple steps, making it somewhat complex for beginners.
+1. **Запаздывающий индикатор**: DMI полагается на исторические данные, поэтому может не реагировать быстро на внезапные изменения цен.
+2. **Ложные сигналы**: На очень волатильных рынках DMI может давать ложные сигналы.
+3. **Сложность**: Расчет DMI включает несколько шагов, что делает его несколько сложным для начинающих.
 
-## Conclusion
+## Заключение
 
-The Directional Movement Index is a powerful and versatile tool for assessing trend strength and direction. While it has its limitations, when combined with other indicators and sound trading principles, it can significantly enhance trading decisions.
+Индекс направленного движения — это мощный и универсальный инструмент для оценки силы и направления тренда. Хотя у него есть свои ограничения, при сочетании с другими индикаторами и здравыми торговыми принципами он может значительно улучшить торговые решения.
 
-For more detailed information on technical indicators and trading strategies, you can explore resources from financial institutions and trading platforms such as:
+Для более подробной информации о технических индикаторах и торговых стратегиях вы можете изучить ресурсы от финансовых учреждений и торговых платформ, таких как:
 - Investopedia
 - TradingView
 - StockCharts
 
-## Practical checklist
-- Define the time horizon for Wilder's Directional Movement Index (DMI) and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для индекса направленного движения Уайлдера (DMI) и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расписания.
+- Напишите четкое правило входа и выхода перед вложением капитала.
+- Установите размер позиции так, чтобы одна ошибка не повредила счету.
+- Документируйте результат для улучшения повторяемости.
 
-## Common pitfalls
-- Treating Wilder's Directional Movement Index (DMI) as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ошибки
+- Рассматривать индекс направленного движения Уайлдера (DMI) как самостоятельный сигнал вместо контекста.
+- Игнорирование ликвидности, спредов и торговых издержек.
+- Использование правила на другом таймфрейме, чем тот, для которого оно было разработано.
+- Переобучение на небольшой выборке прошлых примеров.
+- Предположение одинакового поведения при аномальной волатильности.
 
-## Data and measurement
-Good analysis starts with consistent data. For Wilder's Directional Movement Index (DMI), confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Данные и измерения
+Хороший анализ начинается с последовательных данных. Для индекса направленного движения Уайлдера (DMI) подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от дат расчетов или расписания, выровняйте календарь с правилами биржи. Если она зависит от движения цены, рассмотрите использование скорректированных данных для учета корпоративных действий.

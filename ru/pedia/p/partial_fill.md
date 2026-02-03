@@ -1,78 +1,38 @@
-# частичный исполнение
+# Частичное исполнение
 
-A частичный исполнение occurs when only part of an order is executed. The remaining quantity stays open unless canceled or replaced.
+Частичное исполнение происходит, когда исполняется только часть ордера. Оставшееся количество остается открытым, если не отменено или не заменено.
 
-## Common Causes
-частичный fills happen when available liquidity at the order цена is limited or when order size exceeds visible depth. They are common in fast markets and in less liquid instruments. Hidden liquidity and order priority rules can also affect исполнение outcomes.
+## Частые причины
+Частичные исполнения происходят, когда доступная ликвидность по цене ордера ограничена или когда размер ордера превышает видимую глубину. Они распространены на быстрых рынках и в менее ликвидных инструментах. Скрытая ликвидность и правила приоритета ордеров также могут влиять на результаты исполнения.
 
-## Handling частичный Fills
-Trading systems must track filled and remaining quantities accurately. Strategies may need to adjust exposure, update hedge ratios, or place follow up orders. Some systems automatically replace the remaining portion to improve исполнение probability.
+## Обработка частичных исполнений
+Торговые системы должны точно отслеживать исполненные и оставшиеся количества. Стратегии могут нуждаться в корректировке экспозиции, обновлении коэффициентов хеджирования или размещении последующих ордеров. Некоторые системы автоматически заменяют оставшуюся часть для улучшения вероятности исполнения.
 
-## Risks
-частичный fills can create unintended exposure, especially in multi leg trades. They can also increase execution costs if the remainder fills at worse prices. Proper monitoring and contingency logic are essential.
+## Риски
+Частичные исполнения могут создать непреднамеренную экспозицию, особенно в многоногих сделках. Они также могут увеличить затраты на исполнение, если остаток исполняется по худшим ценам. Необходим надлежащий мониторинг и логика непредвиденных обстоятельств.
 
-## Conclusion
-частичный fills are a normal part of trading. Systems should handle them explicitly to avoid execution errors and risk drift.
+## Заключение
+Частичные исполнения — это нормальная часть торговли. Системы должны обрабатывать их явно, чтобы избежать ошибок исполнения и дрейфа риска.
 
-## Practical checklist
-- Define the time horizon for частичный исполнение and the market context.
-- Identify the data inputs you trust, such as цена, объем, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для частичного исполнения и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расписания.
+- Напишите четкое правило входа и выхода перед вложением капитала.
+- Размер позиции должен быть таким, чтобы одна ошибка не повредила счет.
+- Документируйте результат для улучшения повторяемости.
 
-## Common pitfalls
-- Treating частичный исполнение as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ловушки
+- Трактовка частичного исполнения как самостоятельного сигнала вместо контекста.
+- Игнорирование ликвидности, спредов и трения исполнения.
+- Использование правила на таймфрейме, отличном от того, для которого оно было разработано.
+- Переобучение на малой выборке прошлых примеров.
+- Предположение о том же поведении при аномальной волатильности.
 
-## Data and measurement
-Good анализ starts with consistent data. For частичный исполнение, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on цена action, consider using adjusted data to handle corporate actions.
+## Данные и измерения
+Хороший анализ начинается с согласованных данных. Для частичного исполнения подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от дат расчетов или расписания, согласуйте календарь с правилами биржи. Если она зависит от ценового действия, рассмотрите использование скорректированных данных для обработки корпоративных действий.
 
-## Risk management notes
-Risk control is essential when applying частичный исполнение. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets движение sharply.
+## Примечания по управлению рисками
+Контроль рисков необходим при применении частичного исполнения. Определите максимальную потерю на сделку, общую экспозицию по связанным позициям и условия, которые делают идею недействительной. План быстрых выходов полезен, когда рынки движутся резко.
 
-## Variations and related terms
-Many traders use частичный исполнение alongside broader concepts such as trend анализ, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for частичный исполнение and the market context.
-- Identify the data inputs you trust, such as цена, объем, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating частичный исполнение as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good анализ starts with consistent data. For частичный исполнение, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on цена action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying частичный исполнение. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets движение sharply.
-
-## Variations and related terms
-Many traders use частичный исполнение alongside broader concepts such as trend анализ, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for частичный исполнение and the market context.
-- Identify the data inputs you trust, such as цена, объем, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating частичный исполнение as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good анализ starts with consistent data. For частичный исполнение, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on цена action, consider using adjusted data to handle corporate actions.
+## Вариации и связанные термины
+Многие трейдеры используют частичное исполнение наряду с более широкими концепциями, такими как анализ тренда, режимы волатильности и условия ликвидности. Подобные инструменты могут существовать с разными названиями или немного отличающимися определениями, поэтому четкая документация предотвращает путаницу.

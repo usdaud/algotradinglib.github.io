@@ -1,135 +1,135 @@
-# Volume Indicators
+# Индикаторы объема
 
-Volume indicators play a critical role in trading, offering insights into the strength and sustainability of a trend, the intensity of buying and selling pressure, and potential reversals. These indicators are built upon the volume of trading transactions over a certain period and provide additional context to price movements. Traders and investors use volume indicators to validate trends, predict reversals, and make informed decisions. This comprehensive guide explores the most widely used volume indicators, their interpretation, and their application in trading.
+Индикаторы объема играют критическую роль в торговле, предлагая понимание силы и устойчивости тренда, интенсивности давления покупки и продажи, а также потенциальных разворотов. Эти индикаторы построены на объеме торговых транзакций за определенный период и предоставляют дополнительный контекст для движения цен. Трейдеры и инвесторы используют индикаторы объема для проверки трендов, прогнозирования разворотов и принятия обоснованных решений. Это всеобъемлющее руководство исследует наиболее широко используемые индикаторы объема, их интерпретацию и их применение в торговле.
 
-## 1. On-Balance Volume (OBV)
+## 1. On-Balance Volume (OBV) (Балансовый объем)
 
-On-Balance Volume (OBV) is a straightforward yet powerful indicator that measures cumulative volume by adding the day's volume when the price closes up and subtracting it when the price closes down. OBV helps traders gauge whether volume is increasing or decreasing relative to price movements.
+On-Balance Volume (OBV) - это простой, но мощный индикатор, который измеряет кумулятивный объем, добавляя объем дня, когда цена закрывается выше, и вычитая его, когда цена закрывается ниже. OBV помогает трейдерам оценить, увеличивается или уменьшается объем относительно движения цены.
 
-### Calculation:
-\[ OBV = OBV_{\text{previous}} + \begin{cases}
- \text{Volume,} & \text{if } \text{Close}_{\text{today}} > \text{Close}_{\text{yesterday}} \\
- -\text{Volume,} & \text{if } \text{Close}_{\text{today}} < \text{Close}_{\text{yesterday}} \\
- 0, & \text{if } \text{Close}_{\text{today}} = \text{Close}_{\text{yesterday}}
+### Расчет:
+\[ OBV = OBV_{\text{предыдущий}} + \begin{cases}
+ \text{Объем,} & \text{если } \text{Закрытие}_{\text{сегодня}} > \text{Закрытие}_{\text{вчера}} \\
+ -\text{Объем,} & \text{если } \text{Закрытие}_{\text{сегодня}} < \text{Закрытие}_{\text{вчера}} \\
+ 0, & \text{если } \text{Закрытие}_{\text{сегодня}} = \text{Закрытие}_{\text{вчера}}
  \end{cases}
 \]
 
-### Interpretation:
-- **Bullish Signal:** OBV rises when the price rises, indicating that volume is confirming the uptrend.
-- **Bearish Signal:** OBV falls when the price falls, indicating that volume is confirming the downtrend.
-- **Divergence:** If OBV moves in the opposite direction of the price, it may indicate that the current trend is weakening and a reversal could occur.
+### Интерпретация:
+- **Бычий сигнал:** OBV растет, когда цена растет, указывая на то, что объем подтверждает восходящий тренд.
+- **Медвежий сигнал:** OBV падает, когда цена падает, указывая на то, что объем подтверждает нисходящий тренд.
+- **Расхождение:** Если OBV движется в противоположном направлении от цены, это может указывать на то, что текущий тренд ослабевает и может произойти разворот.
 
-## 2. Volume Price Trend (VPT)
+## 2. Volume Price Trend (VPT) (Тренд цены и объема)
 
-The Volume Price Trend (VPT) indicator combines price and volume to determine the strength of a price trend. It calculates the percentage change in price and multiplies it by the current volume, adding this value to a running total.
+Индикатор Volume Price Trend (VPT) объединяет цену и объем для определения силы ценового тренда. Он рассчитывает процентное изменение цены и умножает его на текущий объем, добавляя это значение к промежуточной сумме.
 
-### Calculation:
-\[ VPT = VPT_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{yesterday}}}{\text{Close}_{\text{yesterday}}} \right) \times \text{Volume} \]
+### Расчет:
+\[ VPT = VPT_{\text{предыдущий}} + \left( \frac{\text{Закрытие}_{\text{сегодня}} - \text{Закрытие}_{\text{вчера}}}{\text{Закрытие}_{\text{вчера}}} \right) \times \text{Объем} \]
 
-### Interpretation:
-- **Uptrend Confirmation:** VPT rises with increasing price and volume.
-- **Downtrend Confirmation:** VPT falls with decreasing price and volume.
-- **Divergence:** Similar to OBV, divergence between VPT and price can signal potential reversals.
+### Интерпретация:
+- **Подтверждение восходящего тренда:** VPT растет с увеличением цены и объема.
+- **Подтверждение нисходящего тренда:** VPT падает с уменьшением цены и объема.
+- **Расхождение:** Аналогично OBV, расхождение между VPT и ценой может сигнализировать о потенциальных разворотах.
 
-## 3. Accumulation/Distribution Line (A/D Line)
+## 3. Accumulation/Distribution Line (A/D Line) (Линия накопления/распределения)
 
-The Accumulation/Distribution Line (A/D Line) is built upon the relationship between price and volume. It emphasizes where the closing price is within the range for the day and adjusts based on volume, offering insight into the buying or selling pressure.
+Линия накопления/распределения (A/D Line) построена на основе связи между ценой и объемом. Она акцентирует внимание на том, где находится цена закрытия в диапазоне дня, и корректируется на основе объема, предлагая понимание давления покупки или продажи.
 
-### Calculation:
-\[ \text{A/D} = ((\text{Close} - \text{Low}) - (\text{High} - \text{Close})) / (\text{High} - \text{Low}) \times \text{Volume} \]
-\[ \text{A/D Line} = \text{A/D Line}_{\text{previous}} + \text{A/D} \]
+### Расчет:
+\[ \text{A/D} = ((\text{Закрытие} - \text{Минимум}) - (\text{Максимум} - \text{Закрытие})) / (\text{Максимум} - \text{Минимум}) \times \text{Объем} \]
+\[ \text{Линия A/D} = \text{Линия A/D}_{\text{предыдущая}} + \text{A/D} \]
 
-### Interpretation:
-- **Buying Pressure:** When the A/D line is rising, it suggests more accumulation (buying) than distribution (selling).
-- **Selling Pressure:** When the A/D line is falling, it indicates more distribution (selling) than accumulation (buying).
-- **Divergence:** As with other indicators, divergence between the A/D line and price can indicate potential trend reversals.
+### Интерпретация:
+- **Давление покупки:** Когда линия A/D растет, это предполагает больше накопления (покупки), чем распределения (продажи).
+- **Давление продажи:** Когда линия A/D падает, это указывает на больше распределения (продажи), чем накопления (покупки).
+- **Расхождение:** Как и в случае с другими индикаторами, расхождение между линией A/D и ценой может указывать на потенциальные развороты тренда.
 
-## 4. Chaikin Money Flow (CMF)
+## 4. Chaikin Money Flow (CMF) (Денежный поток Чайкина)
 
-Developed by Marc Chaikin, the Chaikin Money Flow (CMF) measures the money flow volume over a specific period, usually 21 days. It is a momentum indicator that assesses the buying and selling pressure.
+Разработанный Марком Чайкиным, Chaikin Money Flow (CMF) измеряет объем денежного потока за определенный период, обычно 21 день. Это индикатор импульса, который оценивает давление покупки и продажи.
 
-### Calculation:
-\[ \text{CMF} = \frac{\text{Sum of } \left[ \left( \left( \text{Close} - \text{Low} \right) - (\text{High} - \text{Close}) \right) / (\text{High} - \text{Low}) \times \text{Volume} \right]}{\text{Sum of Volume over period}} \]
+### Расчет:
+\[ \text{CMF} = \frac{\text{Сумма } \left[ \left( \left( \text{Закрытие} - \text{Минимум} \right) - (\text{Максимум} - \text{Закрытие}) \right) / (\text{Максимум} - \text{Минимум}) \times \text{Объем} \right]}{\text{Сумма объема за период}} \]
 
-### Interpretation:
-- **Positive CMF:** Indicates strong buying pressure.
-- **Negative CMF:** Indicates strong selling pressure.
-- **Crossing the Zero Line:** When CMF passes above 0, it suggests a bullish trend, and below 0 indicates a bearish trend.
+### Интерпретация:
+- **Положительный CMF:** Указывает на сильное давление покупки.
+- **Отрицательный CMF:** Указывает на сильное давление продажи.
+- **Пересечение нулевой линии:** Когда CMF проходит выше 0, это предполагает бычий тренд, а ниже 0 указывает на медвежий тренд.
 
-## 5. Money Flow Index (MFI)
+## 5. Money Flow Index (MFI) (Индекс денежного потока)
 
-The Money Flow Index (MFI) is a volume-weighted version of the Relative Strength Index (RSI), combining price and volume data. It ranges from 0 to 100 and is termed as a momentum indicator.
+Money Flow Index (MFI) - это взвешенная по объему версия индекса относительной силы (RSI), объединяющая данные о цене и объеме. Он варьируется от 0 до 100 и называется индикатором импульса.
 
-### Calculation:
-\[ \text{Typical Price (TP)} = \frac{(\text{High} + \text{Low} + \text{Close})}{3} \]
-\[ \text{Raw Money Flow} = \text{TP} \times \text{Volume} \]
-\[ \text{Money Flow Ratio} = \frac{\text{Positive Money Flow (14-period)}}{\text{Negative Money Flow (14-period)}} \]
-\[ \text{MFI} = 100 - \left( \frac{100}{1 + \text{Money Flow Ratio}} \right) \]
+### Расчет:
+\[ \text{Типичная цена (TP)} = \frac{(\text{Максимум} + \text{Минимум} + \text{Закрытие})}{3} \]
+\[ \text{Сырой денежный поток} = \text{TP} \times \text{Объем} \]
+\[ \text{Отношение денежного потока} = \frac{\text{Положительный денежный поток (14 периодов)}}{\text{Отрицательный денежный поток (14 периодов)}} \]
+\[ \text{MFI} = 100 - \left( \frac{100}{1 + \text{Отношение денежного потока}} \right) \]
 
-### Interpretation:
-- **Overbought (>80):** Indicates a potentially overbought market, possible sell signal.
-- **Oversold (<20):** Indicates a potentially oversold market, possible buy signal.
-- **Divergence:** Divergence between MFI and price can signal trend reversals.
+### Интерпретация:
+- **Перекупленность (>80):** Указывает на потенциально перекупленный рынок, возможный сигнал продажи.
+- **Перепроданность (<20):** Указывает на потенциально перепроданный рынок, возможный сигнал покупки.
+- **Расхождение:** Расхождение между MFI и ценой может сигнализировать о разворотах тренда.
 
-## 6. Negative Volume Index (NVI)
+## 6. Negative Volume Index (NVI) (Индекс отрицательного объема)
 
-The Negative Volume Index (NVI) focuses on days when volume decreases from the previous day to indicate what smart money is doing. It's based on the idea that smart money is active on low-volume days.
+Negative Volume Index (NVI) фокусируется на днях, когда объем уменьшается по сравнению с предыдущим днем, чтобы показать, что делают умные деньги. Он основан на идее, что умные деньги активны в дни с низким объемом.
 
-### Calculation:
-The NVI is calculated with adjustments only on days when the volume drops from the previous day:
-\[ \text{NVI}_{\text{today}} = \begin{cases}
- \text{NVI}_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{previous}}}{\text{Close}_{\text{previous}}} \times \text{NVI}_{\text{previous}} \right) & \text{if volume decreases} \\
- \text{NVI}_{\text{previous}} & \text{if volume does not decrease}
+### Расчет:
+NVI рассчитывается с корректировками только в дни, когда объем падает по сравнению с предыдущим днем:
+\[ \text{NVI}_{\text{сегодня}} = \begin{cases}
+ \text{NVI}_{\text{предыдущий}} + \left( \frac{\text{Закрытие}_{\text{сегодня}} - \text{Закрытие}_{\text{предыдущий}}}{\text{Закрытие}_{\text{предыдущий}}} \times \text{NVI}_{\text{предыдущий}} \right) & \text{если объем уменьшается} \\
+ \text{NVI}_{\text{предыдущий}} & \text{если объем не уменьшается}
  \end{cases}
 \]
 
-### Interpretation:
-- **Rising NVI:** Indicates that price increases are being driven on low-volume days, suggesting the involvement of smart money.
-- **Divergence:** As with the other indicators, divergence can be a signal of a potential change in trend.
+### Интерпретация:
+- **Растущий NVI:** Указывает на то, что увеличение цены происходит в дни с низким объемом, предполагая участие умных денег.
+- **Расхождение:** Как и в случае с другими индикаторами, расхождение может быть сигналом потенциального изменения тренда.
 
-## 7. Positive Volume Index (PVI)
+## 7. Positive Volume Index (PVI) (Индекс положительного объема)
 
-The Positive Volume Index (PVI) is the counterpart to the Negative Volume Index, focusing on days with increased volume. It represents the behavior of retail investors who are thought to be more active on high-volume days.
+Positive Volume Index (PVI) - это аналог Negative Volume Index, фокусирующийся на днях с увеличенным объемом. Он представляет поведение розничных инвесторов, которые, как считается, более активны в дни с высоким объемом.
 
-### Calculation:
-The PVI adjust only on days when the volume increases:
-\[ \text{PVI}_{\text{today}} = \begin{cases}
- \text{PVI}_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{previous}}}{\text{Close}_{\text{previous}}} \times \text{PVI}_{\text{previous}} \right) & \text{if volume increases} \\
- \text{PVI}_{\text{previous}} & \text{if volume does not increase}
+### Расчет:
+PVI корректируется только в дни, когда объем увеличивается:
+\[ \text{PVI}_{\text{сегодня}} = \begin{cases}
+ \text{PVI}_{\text{предыдущий}} + \left( \frac{\text{Закрытие}_{\text{сегодня}} - \text{Закрытие}_{\text{предыдущий}}}{\text{Закрытие}_{\text{предыдущий}}} \times \text{PVI}_{\text{предыдущий}} \right) & \text{если объем увеличивается} \\
+ \text{PVI}_{\text{предыдущий}} & \text{если объем не увеличивается}
  \end{cases}
 \]
 
-### Interpretation:
-- **Rising PVI:** Suggests that price movements are strong and supported by high volumes.
-- **Divergence:** Similar to NVI, divergence can signal potential shifts in trend.
+### Интерпретация:
+- **Растущий PVI:** Предполагает, что движение цен сильное и поддерживается высокими объемами.
+- **Расхождение:** Аналогично NVI, расхождение может сигнализировать о потенциальных сдвигах в тренде.
 
-## 8. Volume Oscillator
+## 8. Volume Oscillator (Осциллятор объема)
 
-The Volume Oscillator employs the relationship between two moving averages to determine the level of volume and discern trend strength.
+Осциллятор объема использует связь между двумя скользящими средними для определения уровня объема и различения силы тренда.
 
-### Calculation:
-\[ \text{Volume Oscillator} = \text{Short-term Volume MA} - \text{Long-term Volume MA} \]
+### Расчет:
+\[ \text{Осциллятор объема} = \text{Краткосрочная MA объема} - \text{Долгосрочная MA объема} \]
 
-### Interpretation:
-- **Positive Oscillator:** Indicates an increase in volume, suggesting stronger trends.
-- **Negative Oscillator:** Indicates a decrease in volume, suggesting weakening trends.
-- **Crossovers:** When the short-term MA crosses above the long-term MA, it indicates increasing volume and vice versa.
+### Интерпретация:
+- **Положительный осциллятор:** Указывает на увеличение объема, предполагая более сильные тренды.
+- **Отрицательный осциллятор:** Указывает на уменьшение объема, предполагая ослабление трендов.
+- **Пересечения:** Когда краткосрочная MA пересекает долгосрочную MA выше, это указывает на увеличение объема, и наоборот.
 
-## 9. Klinger Oscillator
+## 9. Klinger Oscillator (Осциллятор Клингера)
 
-Developed by Stephen Klinger, the Klinger Oscillator aims to show long-term money flow trends while remaining sensitive enough to detect short-term fluctuations.
+Разработанный Стивеном Клингером, осциллятор Клингера направлен на отображение долгосрочных трендов денежного потока, оставаясь при этом достаточно чувствительным для обнаружения краткосрочных колебаний.
 
-### Calculation:
-\[ KO = EMA_{34}(\text{Volume} \times \text{T}) - EMA_{55}(\text{Volume} \times \text{T}) \]
+### Расчет:
+\[ KO = EMA_{34}(\text{Объем} \times \text{T}) - EMA_{55}(\text{Объем} \times \text{T}) \]
 
-Where:
-\[ \text{T} = \left( 2 \times (\text{Close} - \text{Low} - \text{High})) / (\text{High} - \text{Low}) \right) \]
+Где:
+\[ \text{T} = \left( 2 \times (\text{Закрытие} - \text{Минимум} - \text{Максимум})) / (\text{Максимум} - \text{Минимум}) \right) \]
 
-### Interpretation:
-- **Bullish Klinger:** When the Klinger Oscillator is positive and rising, it indicates money flow is entering the market.
-- **Bearish Klinger:** When the Klinger Oscillator is negative and falling, it indicates money flow is leaving the market.
-- **Divergence:** As usual, divergence between the Klinger Oscillator and price movements can indicate potential reversals.
+### Интерпретация:
+- **Бычий Клингер:** Когда осциллятор Клингера положительный и растет, это указывает на то, что денежный поток входит на рынок.
+- **Медвежий Клингер:** Когда осциллятор Клингера отрицательный и падает, это указывает на то, что денежный поток покидает рынок.
+- **Расхождение:** Как обычно, расхождение между осциллятором Клингера и движениями цены может указывать на потенциальные развороты.
 
-## Conclusion
+## Заключение
 
-Volume indicators are essential tools in trading, providing insights that price movements alone cannot. By incorporating volume analysis into their trading strategies, traders can gain a deeper understanding of market dynamics, confirm trends, and anticipate potential reversals. Each volume indicator has its unique strengths and usages, and traders often use a combination of multiple indicators to increase the robustness of their analysis.
+Индикаторы объема являются важными инструментами в торговле, предоставляя понимание, которое одни движения цены не могут дать. Включая анализ объема в свои торговые стратегии, трейдеры могут получить более глубокое понимание рыночной динамики, подтвердить тренды и предвидеть потенциальные развороты. Каждый индикатор объема имеет свои уникальные сильные стороны и применения, и трейдеры часто используют комбинацию нескольких индикаторов для повышения надежности своего анализа.

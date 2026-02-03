@@ -1,128 +1,128 @@
-# Volume Momentum Indicators
+# Индикаторы объема и импульса
 
-Volume momentum indicators are tools used in technical analysis to gauge the strength or weakness of price movements based on volume. These indicators combine price momentum with volume to provide insights into the current state and potential future movements of an asset. They help traders and investors identify trends, determine the strength of price movements, and spot trading opportunities. Various volume momentum indicators are employed in trading strategies, each offering unique advantages and interpretations.
+Индикаторы объема и импульса - это инструменты, используемые в техническом анализе для оценки силы или слабости движения цен на основе объема. Эти индикаторы объединяют ценовой импульс с объемом, чтобы предоставить понимание текущего состояния и потенциальных будущих движений актива. Они помогают трейдерам и инвесторам определять тренды, определять силу движения цен и находить торговые возможности. Различные индикаторы объема и импульса используются в торговых стратегиях, каждый из которых предлагает уникальные преимущества и интерпретации.
 
-## Types of Volume Momentum Indicators
+## Типы индикаторов объема и импульса
 
-### 1. On-Balance Volume (OBV)
+### 1. On-Balance Volume (OBV) (Балансовый объем)
 
-On-Balance Volume (OBV) is a simple cumulative volume-based indicator that adds volume on up days and subtracts volume on down days. OBV provides insights into whether volume is following or leading price movements.
+On-Balance Volume (OBV) - это простой кумулятивный индикатор на основе объема, который добавляет объем в дни роста и вычитает объем в дни падения. OBV предоставляет понимание того, следует ли объем за движением цены или опережает его.
 
-##### Calculation:
-- If the closing price is higher than the previous close, today's volume is added to the previous OBV.
-- If the closing price is lower than the previous close, today's volume is subtracted from the previous OBV.
+##### Расчет:
+- Если цена закрытия выше предыдущего закрытия, объем сегодняшнего дня добавляется к предыдущему OBV.
+- Если цена закрытия ниже предыдущего закрытия, объем сегодняшнего дня вычитается из предыдущего OBV.
 
-OBV can indicate the strength of a price move. A rising OBV suggests that buying volume is stronger, often preceding price increases, while a falling OBV indicates stronger selling volume, often preceding price declines.
+OBV может указывать на силу движения цены. Растущий OBV предполагает, что объем покупки сильнее, часто предшествуя увеличению цены, в то время как падающий OBV указывает на более сильный объем продаж, часто предшествуя снижению цены.
 
-### 2. Volume Price Trend (VPT)
+### 2. Volume Price Trend (VPT) (Тренд цены и объема)
 
-The Volume Price Trend (VPT) indicator combines price and volume to provide insights into the strength of a price trend. It accumulates a percentage change in price and volume over time.
+Индикатор Volume Price Trend (VPT) объединяет цену и объем для предоставления понимания силы ценового тренда. Он накапливает процентное изменение цены и объема во времени.
 
-##### Calculation:
-\[ \text{VPT}(i) = \text{VPT}(i-1) + \left( \frac{\text{Close}(i) - \text{Close}(i-1)}{\text{Close}(i-1)} \right) \times \text{Volume}(i) \]
+##### Расчет:
+\[ \text{VPT}(i) = \text{VPT}(i-1) + \left( \frac{\text{Закрытие}(i) - \text{Закрытие}(i-1)}{\text{Закрытие}(i-1)} \right) \times \text{Объем}(i) \]
 
-VPT helps determine the balance between demand and supply and can indicate whether a trend is likely to continue or reverse.
+VPT помогает определить баланс между спросом и предложением и может указать, вероятно ли продолжение тренда или разворот.
 
-### 3. Chaikin Money Flow (CMF)
+### 3. Chaikin Money Flow (CMF) (Денежный поток Чайкина)
 
-The Chaikin Money Flow (CMF) indicator uses both price and volume to measure the buying and selling pressure over a specific period. It ranges from -1 to +1.
+Индикатор Chaikin Money Flow (CMF) использует как цену, так и объем для измерения давления покупки и продажи за определенный период. Он варьируется от -1 до +1.
 
-##### Calculation:
-\[ \text{CMF} = \frac{ \sum_{i=n}^{m} \text{ADL}_{i} \times \text{Volume}_{i} }{ \sum_{i=n}^{m} \text{Volume}_{i} } \]
+##### Расчет:
+\[ \text{CMF} = \frac{ \sum_{i=n}^{m} \text{ADL}_{i} \times \text{Объем}_{i} }{ \sum_{i=n}^{m} \text{Объем}_{i} } \]
 
-where ADL (Accumulation/Distribution Line) is calculated as:
-\[ \text{ADL} = \frac{ (\text{Close} - \text{Low}) - (\text{High} - \text{Close}) }{ \text{High} - \text{Low} } \]
+где ADL (Accumulation/Distribution Line) рассчитывается как:
+\[ \text{ADL} = \frac{ (\text{Закрытие} - \text{Минимум}) - (\text{Максимум} - \text{Закрытие}) }{ \text{Максимум} - \text{Минимум} } \]
 
-A positive CMF value indicates buying pressure, while a negative CMF value indicates selling pressure.
+Положительное значение CMF указывает на давление покупки, в то время как отрицательное значение CMF указывает на давление продажи.
 
-### 4. Money Flow Index (MFI)
+### 4. Money Flow Index (MFI) (Индекс денежного потока)
 
-The Money Flow Index (MFI) is a volume-weighted version of the Relative Strength Index (RSI). It ranges from 0 to 100 and is used to identify overbought or oversold conditions in the market.
+Money Flow Index (MFI) - это взвешенная по объему версия индекса относительной силы (RSI). Он варьируется от 0 до 100 и используется для определения условий перекупленности или перепроданности на рынке.
 
-##### Calculation:
-\[ \text{MFI} = 100 - \left( \frac{100}{1 + \text{Money Flow Ratio}} \right) \]
+##### Расчет:
+\[ \text{MFI} = 100 - \left( \frac{100}{1 + \text{Отношение денежного потока}} \right) \]
 
-The Money Flow Ratio is the ratio of positive money flow to negative money flow over a specified period. Positive money flow is calculated when the typical price is higher than the previous typical price, and negative money flow is calculated when the typical price is lower.
+Отношение денежного потока - это отношение положительного денежного потока к отрицательному денежному потоку за указанный период. Положительный денежный поток рассчитывается, когда типичная цена выше предыдущей типичной цены, а отрицательный денежный поток рассчитывается, когда типичная цена ниже.
 
-### 5. Volume Oscillator
+### 5. Volume Oscillator (Осциллятор объема)
 
-The Volume Oscillator measures the difference between two moving averages of volume, providing insights into changes in volume trends.
+Осциллятор объема измеряет разницу между двумя скользящими средними объема, предоставляя понимание изменений в трендах объема.
 
-##### Calculation:
-\[ \text{Volume Oscillator} = \frac{ \text{Short-term MA of Volume} - \text{Long-term MA of Volume} }{ \text{Long-term MA of Volume} } \times 100 \]
+##### Расчет:
+\[ \text{Осциллятор объема} = \frac{ \text{Краткосрочная MA объема} - \text{Долгосрочная MA объема} }{ \text{Долгосрочная MA объема} } \times 100 \]
 
-A positive value indicates increasing volume, while a negative value suggests decreasing volume.
+Положительное значение указывает на увеличение объема, в то время как отрицательное значение предполагает снижение объема.
 
-### 6. Force Index (FI)
+### 6. Force Index (FI) (Индекс силы)
 
-The Force Index (FI) is an indicator that uses price and volume to assess the power behind a price movement.
+Force Index (FI) - это индикатор, который использует цену и объем для оценки силы движения цены.
 
-##### Calculation:
-\[ \text{Force Index} = \text{Volume} \times (\text{Close} - \text{Previous Close}) \]
+##### Расчет:
+\[ \text{Force Index} = \text{Объем} \times (\text{Закрытие} - \text{Предыдущее закрытие}) \]
 
-A positive Force Index suggests buying pressure, while a negative Force Index indicates selling pressure.
+Положительный Force Index предполагает давление покупки, в то время как отрицательный Force Index указывает на давление продажи.
 
-### 7. Negative Volume Index (NVI) and Positive Volume Index (PVI)
+### 7. Negative Volume Index (NVI) and Positive Volume Index (PVI) (Индекс отрицательного объема и индекс положительного объема)
 
-The Negative Volume Index (NVI) and Positive Volume Index (PVI) are indicators that focus on volume changes. NVI increases when volume decreases, while PVI increases when volume increases.
+Negative Volume Index (NVI) и Positive Volume Index (PVI) - это индикаторы, которые фокусируются на изменениях объема. NVI увеличивается, когда объем уменьшается, в то время как PVI увеличивается, когда объем увеличивается.
 
-#### NVI Calculation:
-- If today's volume is less than the previous day's volume:
-\[ \text{NVI}(i) = \text{NVI}(i-1) + \left( \frac{\text{Close}(i) - \text{Close}(i-1)}{\text{Close}(i-1)} \right) \times \text{NVI}(i-1) \]
+#### Расчет NVI:
+- Если объем сегодняшнего дня меньше объема предыдущего дня:
+\[ \text{NVI}(i) = \text{NVI}(i-1) + \left( \frac{\text{Закрытие}(i) - \text{Закрытие}(i-1)}{\text{Закрытие}(i-1)} \right) \times \text{NVI}(i-1) \]
 
-#### PVI Calculation:
-- If today's volume is greater than the previous day's volume:
-\[ \text{PVI}(i) = \text{PVI}(i-1) + \left( \frac{\text{Close}(i) - \text{Close}(i-1)}{\text{Close}(i-1)} \right) \times \text{PVI}(i-1) \]
+#### Расчет PVI:
+- Если объем сегодняшнего дня больше объема предыдущего дня:
+\[ \text{PVI}(i) = \text{PVI}(i-1) + \left( \frac{\text{Закрытие}(i) - \text{Закрытие}(i-1)}{\text{Закрытие}(i-1)} \right) \times \text{PVI}(i-1) \]
 
-These indicators help identify trends and reversals based on volume activity.
+Эти индикаторы помогают определять тренды и развороты на основе активности объема.
 
-### 8. Ease of Movement (EMV)
+### 8. Ease of Movement (EMV) (Легкость движения)
 
-The Ease of Movement (EMV) indicator combines volume with price range to quantify the ease of price movement. It ranges from negative to positive values.
+Индикатор Ease of Movement (EMV) объединяет объем с диапазоном цен для количественной оценки легкости движения цены. Он варьируется от отрицательных до положительных значений.
 
-##### Calculation:
-\[ \text{EMV} = \frac{ \frac{(\text{High} + \text{Low})}{2} - \frac{(\text{Previous High} + \text{Previous Low})}{2} }{\text{Volume}} \]
+##### Расчет:
+\[ \text{EMV} = \frac{ \frac{(\text{Максимум} + \text{Минимум})}{2} - \frac{(\text{Предыдущий максимум} + \text{Предыдущий минимум})}{2} }{\text{Объем}} \]
 
-Higher EMV values indicate that the price is moving easily with relatively low volume, while lower EMV values indicate that it is harder for the price to move.
+Более высокие значения EMV указывают на то, что цена движется легко с относительно низким объемом, в то время как более низкие значения EMV указывают на то, что цене труднее двигаться.
 
-### 9. Volume Weighted Average Price (VWAP)
+### 9. Volume Weighted Average Price (VWAP) (Средневзвешенная по объему цена)
 
-The Volume Weighted Average Price (VWAP) is a trading benchmark that calculates the average price a security has traded at throughout the day, based on both volume and price.
+Volume Weighted Average Price (VWAP) - это торговый эталон, который рассчитывает среднюю цену, по которой ценная бумага торговалась в течение дня, на основе как объема, так и цены.
 
-##### Calculation:
-\[ \text{VWAP} = \frac{\sum{ \text{Typical Price} \times \text{Volume} }}{\sum{ \text{Volume} }} \]
+##### Расчет:
+\[ \text{VWAP} = \frac{\sum{ \text{Типичная цена} \times \text{Объем} }}{\sum{ \text{Объем} }} \]
 
-where Typical Price is:
-\[ \text{Typical Price} = \frac{\text{High} + \text{Low} + \text{Close}}{3} \]
+где типичная цена:
+\[ \text{Типичная цена} = \frac{\text{Максимум} + \text{Минимум} + \text{Закрытие}}{3} \]
 
-VWAP helps traders discern the direction of the market trend and decide entry and exit points.
+VWAP помогает трейдерам различать направление рыночного тренда и принимать решения о точках входа и выхода.
 
-### 10. Coppock Curve Volume Indicator
+### 10. Coppock Curve Volume Indicator (Индикатор объема кривой Коппока)
 
-The Coppock Curve is a momentum indicator originally created for stock markets but can be adapted for volume analysis. It is used to identify long-term buying opportunities.
+Кривая Коппока - это индикатор импульса, первоначально созданный для фондовых рынков, но может быть адаптирован для анализа объема. Он используется для определения долгосрочных возможностей покупки.
 
-##### Calculation:
-- Apply a 10-month weighted moving average (WMA) to the volume series.
-- Compute a 14-period Rate of Change (ROC) on this WMA.
-- Compute an 11-period Rate of Change on the result from the previous step.
+##### Расчет:
+- Примените 10-месячную взвешенную скользящую среднюю (WMA) к ряду объема.
+- Рассчитайте 14-периодную скорость изменения (ROC) на этой WMA.
+- Рассчитайте 11-периодную скорость изменения на результате предыдущего шага.
 
-### Applications and Strategies
+### Применение и стратегии
 
-Volume momentum indicators are versatile tools that can be used in various trading strategies:
+Индикаторы объема и импульса - это универсальные инструменты, которые могут использоваться в различных торговых стратегиях:
 
-- **Trend Following**: By confirming the strength of a trend with volume indicators, traders can identify the best entry and exit points.
-- **Reversal Trading**: Volume momentum indicators can signal potential reversals when there are divergences between price and the indicator.
-- **Breakout Trading**: High volume typically accompanies breakouts, and volume momentum indicators can help confirm the validity of the breakout.
-- **Volume Clusters**: Identifying areas of high volume can help understand significant support and resistance levels.
+- **Следование за трендом**: Подтверждая силу тренда с помощью индикаторов объема, трейдеры могут определить лучшие точки входа и выхода.
+- **Торговля на разворотах**: Индикаторы объема и импульса могут сигнализировать о потенциальных разворотах, когда есть расхождения между ценой и индикатором.
+- **Торговля на прорывах**: Высокий объем обычно сопровождает прорывы, и индикаторы объема и импульса могут помочь подтвердить действительность прорыва.
+- **Кластеры объема**: Определение областей высокого объема может помочь понять значительные уровни поддержки и сопротивления.
 
-### Limitations
+### Ограничения
 
-While volume momentum indicators provide valuable insights, traders should be aware of certain limitations:
+Хотя индикаторы объема и импульса предоставляют ценную информацию, трейдеры должны знать о некоторых ограничениях:
 
-- **Lagging Nature**: Some indicators may lag price, potentially causing delays in trading decisions.
-- **False Signals**: During low volume periods, indicators may generate false signals.
-- **Complexity**: Combining various indicators can be complex and requires an understanding of each one's mechanics.
+- **Запаздывающая природа**: Некоторые индикаторы могут отставать от цены, потенциально вызывая задержки в торговых решениях.
+- **Ложные сигналы**: В периоды низкого объема индикаторы могут генерировать ложные сигналы.
+- **Сложность**: Объединение различных индикаторов может быть сложным и требует понимания механики каждого из них.
 
-### Conclusion
+### Заключение
 
-Volume momentum indicators are essential tools in the arsenal of technical analysts and traders. They provide a deeper understanding of market dynamics by combining price momentum with volume, helping to confirm trends, identify potential reversals, and make informed trading decisions. As with any trading tool, it is crucial to integrate these indicators with other analysis methods and remain mindful of their limitations to achieve optimal results.
+Индикаторы объема и импульса являются важными инструментами в арсенале технических аналитиков и трейдеров. Они обеспечивают более глубокое понимание рыночной динамики, объединяя ценовой импульс с объемом, помогая подтверждать тренды, определять потенциальные развороты и принимать обоснованные торговые решения. Как и в случае с любым торговым инструментом, крайне важно интегрировать эти индикаторы с другими методами анализа и помнить об их ограничениях для достижения оптимальных результатов.

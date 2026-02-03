@@ -1,78 +1,32 @@
-# Volume Breakout
+# Прорыв Объема
 
-A volume breakout occurs when trading volume surges above normal levels, often coinciding with a price breakout. It suggests strong participation and can validate a move.
+Прорыв объема происходит, когда торговый объем резко возрастает выше нормальных уровней, часто совпадая с ценовым прорывом. Это предполагает сильное участие и может подтвердить движение.
 
-## Example
-A stock breaks above resistance and volume is 3 times the average. Traders interpret this as a higher quality breakout.
+## Пример
+Акция пробивает уровень сопротивления, и объем в 3 раза превышает средний. Трейдеры интерпретируют это как прорыв более высокого качества.
 
-## Risks
-Volume spikes can occur on news events and reverse quickly. Confirmation with price action is important.
+## Риски
+Всплески объема могут происходить на новостных событиях и быстро разворачиваться. Подтверждение ценовым действием важно.
 
-## Practical checklist
-- Define the time horizon for Volume Breakout and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический чек-лист
+- Определите временной горизонт для Прорыва Объема и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расчетов.
+- Напишите четкое правило входа и выхода перед вложением капитала.
+- Определите размер позиции так, чтобы одна ошибка не повредила счет.
+- Задокументируйте результат для улучшения воспроизводимости.
 
-## Common pitfalls
-- Treating Volume Breakout as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ловушки
+- Рассмотрение Прорыва Объема как самостоятельного сигнала вместо контекста.
+- Игнорирование ликвидности, спредов и трения исполнения.
+- Использование правила на другом таймфрейме, чем тот, для которого оно было разработано.
+- Переподгонка небольшой выборки прошлых примеров.
+- Предположение о том же поведении при аномальной волатильности.
 
-## Data and measurement
-Good analysis starts with consistent data. For Volume Breakout, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Данные и измерение
+Хороший анализ начинается с последовательных данных. Для Прорыва Объема подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от дат расчета или графика, согласуйте календарь с правилами биржи. Если она зависит от ценового действия, рассмотрите возможность использования скорректированных данных для учета корпоративных действий.
 
-## Risk management notes
-Risk control is essential when applying Volume Breakout. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Примечания по управлению рисками
+Контроль рисков необходим при применении Прорыва Объема. Определите максимальную потерю на сделку, общую экспозицию по связанным позициям и условия, которые делают идею недействительной. План быстрого выхода полезен, когда рынки движутся резко.
 
-## Variations and related terms
-Many traders use Volume Breakout alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volume Breakout and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volume Breakout as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volume Breakout, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volume Breakout. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
-
-## Variations and related terms
-Many traders use Volume Breakout alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volume Breakout and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volume Breakout as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volume Breakout, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volume Breakout. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
-
-## Variations and related terms
-Many traders use Volume Breakout alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
+## Вариации и связанные термины
+Многие трейдеры используют Прорыв Объема наряду с более широкими концепциями, такими как анализ тренда, режимы волатильности и условия ликвидности. Подобные инструменты могут существовать под разными названиями или с немного разными определениями, поэтому четкая документация предотвращает путаницу.

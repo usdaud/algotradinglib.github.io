@@ -1,85 +1,85 @@
-# Wash Sale
+# Вош-продажа
 
-A "wash sale" is an investment term referring to the practice of selling a security at a loss and then repurchasing the same or a substantially identical security within a short time frame. The goal of a wash sale is typically to take advantage of a tax deduction for the capital loss while still maintaining a position in the security. However, U.S. tax laws have specific rules that disallow the deduction of the loss if the same or substantially identical security is repurchased within 30 days before or after the sale.
+"Вош-продажа" (wash sale) — это инвестиционный термин, относящийся к практике продажи ценной бумаги в убыток с последующей обратной покупкой той же или практически идентичной ценной бумаги в течение короткого периода времени. Цель вош-продажи обычно состоит в том, чтобы воспользоваться налоговым вычетом за капитальный убыток, сохраняя при этом позицию в ценной бумаге. Однако налоговое законодательство США имеет специфические правила, которые не разрешают вычет убытка, если та же или практически идентичная ценная бумага выкупается в течение 30 дней до или после продажи.
 
-## Legal Framework
+## Правовая база
 
-### U.S. IRS Rule on Wash Sales
+### Правило IRS США о вош-продажах
 
-The wash sale rule is outlined in Section 1091 of the U.S. Internal Revenue Code. According to the rule, if an investment is sold at a loss and the same or substantially identical security is bought within 30 days before or after the sale, the loss is considered a "wash" and cannot be claimed for tax purposes.
+Правило вош-продажи изложено в разделе 1091 Налогового кодекса США. Согласно правилу, если инвестиция продается в убыток, а та же или практически идентичная ценная бумага покупается в течение 30 дней до или после продажи, убыток считается "вош" и не может быть заявлен для налоговых целей.
 
-### Scope and Implications
+### Область применения и последствия
 
-The rule is designed to prevent taxpayers from creating deductible losses from what are effectively superficial trades. It ensures that the capital loss reflects a genuine change in the investor’s position.
+Правило предназначено для предотвращения создания налогоплательщиками вычитаемых убытков от эффективно поверхностных сделок. Оно гарантирует, что капитальный убыток отражает подлинное изменение позиции инвестора.
 
-However, if the wash sale rule disallows the loss, it gets added to the cost basis of the newly purchased security. This means that the disallowed loss can be recovered later when the new security is eventually sold. Also, wash-sale rules apply not only to stocks but also to mutual funds and options.
+Однако если правило вош-продажи не разрешает убыток, он добавляется к базе стоимости вновь приобретенной ценной бумаги. Это означает, что запрещенный убыток может быть возмещен позже, когда новая ценная бумага будет в конечном итоге продана. Также правила вош-продажи применяются не только к акциям, но и к взаимным фондам и опционам.
 
-### Condition of Substantially Identical Securities
+### Условие практически идентичных ценных бумаг
 
-The term "substantially identical" is not precisely defined in the Internal Revenue Code, leaving some gray areas in its interpretation. Generally speaking, however, this term means that the securities have essentially the same terms and entitlements.
+Термин "практически идентичный" не определен точно в Налоговом кодексе, оставляя некоторые серые зоны в его интерпретации. Однако, вообще говоря, этот термин означает, что ценные бумаги имеют по существу те же условия и права.
 
-## Practical Examples
+## Практические примеры
 
-### Scenario 1: Regular Investor
+### Сценарий 1: Обычный инвестор
 
-Imagine that on January 1st, Investor A sells shares of Company X at a loss of $1,000. On January 15th, the same investor buys shares of Company X again. According to the wash sale rule, Investor A cannot claim the $1,000 loss on his taxes for that fiscal year. Instead, the loss will be added to the cost basis of the newly acquired shares of Company X.
+Представьте, что 1 января инвестор А продает акции Компании X с убытком в 1 000 долларов. 15 января тот же инвестор снова покупает акции Компании X. Согласно правилу вош-продажи, инвестор А не может заявить убыток в 1 000 долларов в своих налогах за этот финансовый год. Вместо этого убыток будет добавлен к базе стоимости вновь приобретенных акций Компании X.
 
-### Scenario 2: Options Trader
+### Сценарий 2: Трейдер опционами
 
-Options traders can also encounter wash sales. Suppose Trader B sells call options for a particular stock and sustains a loss. If Trader B buys new call options for the same stock with a different strike price or expiry date within the 30-day timeframe, the wash sale rule would still apply, invalidating the loss for immediate tax deduction.
+Трейдеры опционами также могут столкнуться с вош-продажами. Предположим, трейдер Б продает опционы колл на определенную акцию и несет убыток. Если трейдер Б покупает новые опционы колл на ту же акцию с другой ценой исполнения или датой истечения в течение 30-дневного периода, правило вош-продажи все равно будет применяться, делая недействительным убыток для немедленного налогового вычета.
 
-## Software and Tools for Managing Wash Sales
+## Программное обеспечение и инструменты для управления вош-продажами
 
-Various financial software applications help investors and traders manage and track potential wash sales. These tools include features like real-time monitoring, automated alerts, and detailed reporting to help manage compliance with wash sale rules.
+Различные приложения финансового программного обеспечения помогают инвесторам и трейдерам управлять и отслеживать потенциальные вош-продажи. Эти инструменты включают функции, такие как мониторинг в реальном времени, автоматические оповещения и детальную отчетность для помощи в управлении соблюдением правил вош-продаж.
 
-### Portfolio Management Software
+### Программное обеспечение для управления портфелем
 
-Software like TurboTax and Quicken provide tracking and reporting features specifically for wash sales. These systems integrate transactional data from brokerage accounts to flag any trades that might violate wash sale guidelines.
+Программное обеспечение, такое как TurboTax и Quicken, предоставляет функции отслеживания и отчетности специально для вош-продаж. Эти системы интегрируют транзакционные данные из брокерских счетов для пометки любых сделок, которые могут нарушать рекомендации по вош-продажам.
 
-### Brokerage Platforms
+### Брокерские платформы
 
-Several online brokerage platforms like Charles Schwab and TD Ameritrade offer tools within their trading tools. These platforms often include wash sale trackers that alert the user before executing a potentially non-compliant trade.
+Несколько онлайн-брокерских платформ, таких как Charles Schwab и TD Ameritrade, предлагают инструменты в рамках своих торговых инструментов. Эти платформы часто включают трекеры вош-продаж, которые предупреждают пользователя перед выполнением потенциально несоответствующей сделки.
 
-## Impact on Traders and Investors
+## Влияние на трейдеров и инвесторов
 
-### Taxation Complexity
+### Сложность налогообложения
 
-Wash sales add a layer of complexity to the taxation process of traders and investors. Keeping track of which trades qualify as wash sales and adjusting the cost basis of securities accordingly requires meticulous record-keeping. Many investors rely on tax advisors or sophisticated financial software to handle these intricacies.
+Вош-продажи добавляют уровень сложности в процесс налогообложения трейдеров и инвесторов. Отслеживание того, какие сделки квалифицируются как вош-продажи, и соответствующая корректировка базы стоимости ценных бумаг требует тщательного ведения записей. Многие инвесторы полагаются на налоговых консультантов или сложное финансовое программное обеспечение для обработки этих сложностей.
 
-### Impact on Trading Strategies
+### Влияние на торговые стратегии
 
-The wash sale rule affects short-term trading strategies, particularly those who engage in frequent buying and selling of identical or substantially identical securities. Traders may need to plan their buy-sell intervals carefully to avoid unintentionally triggering a wash sale, which could impact their tax benefits.
+Правило вош-продажи влияет на краткосрочные торговые стратегии, особенно для тех, кто занимается частой покупкой и продажей идентичных или практически идентичных ценных бумаг. Трейдерам, возможно, придется тщательно планировать свои интервалы покупки-продажи, чтобы избежать непреднамеренного запуска вош-продажи, что может повлиять на их налоговые выгоды.
 
-### Potential Workarounds
+### Потенциальные обходные пути
 
-Some investors seek potential workarounds to avoid wash sales. A common strategy involves selling a specific security and then buying a different but related security that is not considered substantially identical. For example, if Investor C sells shares in an ETF tracking the S&P 500, they might buy an ETF tracking the NASDAQ 100 within the 30-day period to preserve market exposure while avoiding the wash sale rule.
+Некоторые инвесторы ищут потенциальные обходные пути для предотвращения вош-продаж. Общая стратегия включает продажу конкретной ценной бумаги и последующую покупку другой, но связанной ценной бумаги, которая не считается практически идентичной. Например, если инвестор С продает акции в ETF, отслеживающем S&P 500, он может купить ETF, отслеживающий NASDAQ 100, в течение 30-дневного периода, чтобы сохранить рыночную экспозицию, избегая правила вош-продажи.
 
-## Algo-Trading and Fintech Solutions
+## Алготрейдинг и решения финтеха
 
-In the domain of algorithmic trading and fintech, wash sale rules present unique challenges and opportunities for innovation. Automated trading systems can be programmed to account for wash sale rules, ensuring compliance without sacrificing trading efficiency.
+В области алгоритмической торговли и финтеха правила вош-продаж представляют уникальные вызовы и возможности для инноваций. Автоматизированные торговые системы могут быть запрограммированы на учет правил вош-продаж, обеспечивая соблюдение без ущерба для эффективности торговли.
 
-### Algorithmic Trading Systems
+### Системы алгоритмической торговли
 
-High-frequency trading platforms can incorporate algorithms that detect potential wash sales. These algorithms can automatically adjust trading strategies to ensure that no disallowed losses are recorded. These smart algorithms contribute to both compliance and optimal trade execution.
+Высокочастотные торговые платформы могут включать алгоритмы, которые обнаруживают потенциальные вош-продажи. Эти алгоритмы могут автоматически корректировать торговые стратегии, чтобы гарантировать, что не записываются запрещенные убытки. Эти умные алгоритмы способствуют как соблюдению, так и оптимальному выполнению сделок.
 
-### Fintech Platforms
+### Платформы финтеха
 
-Fintech platforms, like Robinhood and Wealthfront, have begun integrating advanced tax optimization tools. These tools include wash sale detection mechanisms that automatically adjust trading actions and provide visual dashboards showing tax impacts. Other software, such as Betterment, uses technology-driven tax loss harvesting strategies to help investors limit their taxable gains effectively.
+Платформы финтеха, такие как Robinhood и Wealthfront, начали интегрировать передовые инструменты налоговой оптимизации. Эти инструменты включают механизмы обнаружения вош-продаж, которые автоматически корректируют торговые действия и предоставляют визуальные панели, показывающие налоговые воздействия. Другое программное обеспечение, такое как Betterment, использует технологически управляемые стратегии сбора налоговых убытков, чтобы помочь инвесторам эффективно ограничить их налогооблагаемые прибыли.
 
-## Technological Innovations
+## Технологические инновации
 
-### Machine Learning
+### Машинное обучение
 
-Machine learning algorithms are particularly useful for managing the complexities of wash sales. By analyzing trading patterns, these algorithms can predict which trades may trigger wash sale rules. Over time, machine learning models become more accurate, saving investors from potential tax complications.
+Алгоритмы машинного обучения особенно полезны для управления сложностями вош-продаж. Анализируя торговые паттерны, эти алгоритмы могут предсказать, какие сделки могут запустить правила вош-продаж. Со временем модели машинного обучения становятся более точными, избавляя инвесторов от потенциальных налоговых осложнений.
 
-### Blockchain and Transaction Tracking
+### Блокчейн и отслеживание транзакций
 
-Blockchain technology offers a transparent and immutable ledger system that could revolutionize the tracking of transactions and help in maintaining wash sale compliance. With every transaction recorded on a blockchain, regulators and investors can have an indisputable record of all trading activities, making compliance verifiable and straightforward.
+Технология блокчейн предлагает прозрачную и неизменяемую систему реестра, которая могла бы революционизировать отслеживание транзакций и помощь в поддержании соблюдения вош-продаж. При записи каждой транзакции в блокчейн регуляторы и инвесторы могут иметь неоспоримую запись всех торговых действий, делая соблюдение проверяемым и прямолинейным.
 
-### Smart Contracts
+### Умные контракты
 
-Smart contracts, powered by blockchain, can also be programmed to enforce wash sale rules automatically. When implemented, they can ensure that any transactions violating wash sale rules are disallowed or flagged in real-time, enabling traders to take corrective action proactively.
+Умные контракты, работающие на блокчейне, также могут быть запрограммированы на автоматическое применение правил вош-продаж. При реализации они могут гарантировать, что любые транзакции, нарушающие правила вош-продаж, запрещаются или помечаются в реальном времени, позволяя трейдерам принимать корректирующие меры проактивно.
 
-## Conclusion
+## Заключение
 
-The wash sale rule is a critical regulation that investors and traders must understand to manage their portfolios and tax obligations effectively. Though it complicates trading and tax reporting, various tools and technological innovations are available to navigate these challenges. As fintech and algorithmic trading continue to evolve, we can anticipate more advanced solutions for managing wash sales, making it easier for investors and traders to comply while optimizing their trading strategies.
+Правило вош-продажи — это критическое регулирование, которое инвесторы и трейдеры должны понимать для эффективного управления своими портфелями и налоговыми обязательствами. Хотя оно усложняет торговлю и налоговую отчетность, доступны различные инструменты и технологические инновации для навигации по этим вызовам. По мере того как финтех и алгоритмическая торговля продолжают развиваться, мы можем ожидать более продвинутых решений для управления вош-продажами, облегчая инвесторам и трейдерам соблюдение при оптимизации их торговых стратегий.

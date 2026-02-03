@@ -1,60 +1,60 @@
-# W-2 Form
+# Форма W-2
 
-The W-2 form, officially known as the "Wage and Tax Statement," is a crucial document in the United States for both employees and employers. It is issued by an employer to their employees and the Internal Revenue Service (IRS) at the end of each year. The form details the employee's earnings and the taxes withheld from their paycheck over the course of the year.
+Форма W-2, официально известная как "Справка о заработной плате и налогах", является важнейшим документом в Соединенных Штатах как для работников, так и для работодателей. Она выдается работодателем своим работникам и Налоговой службе (IRS) в конце каждого года. Форма детализирует доходы работника и налоги, удержанные из их зарплаты в течение года.
 
-## Purpose of the W-2 Form
+## Назначение формы W-2
 
-The primary purpose of the W-2 form is to provide information to the IRS regarding an employee's earned income and the various types of withholding taxes paid such as federal, state, social security, and Medicare taxes. This information is critical for the accurate preparation of an individual's annual tax return. A W-2 form is essential for tracking an employee's yearly taxable wage income and ensuring that proper tax obligations are met.
+Основная цель формы W-2 — предоставить информацию IRS относительно заработанного дохода работника и различных видов удерживаемых налогов, таких как федеральные, штатные, социального страхования и налоги Medicare. Эта информация критически важна для точной подготовки годовой налоговой декларации человека. Форма W-2 необходима для отслеживания годового налогооблагаемого дохода от заработной платы работника и обеспечения выполнения надлежащих налоговых обязательств.
 
-## Details Included in a W-2 Form
+## Сведения, включенные в форму W-2
 
-The W-2 form is divided into several boxes, each designated for different pieces of information. Some of the most important details included are:
+Форма W-2 разделена на несколько блоков, каждый из которых предназначен для различной информации. Некоторые из наиболее важных сведений включают:
 
-- **Personal Information for the Employee:** This includes the employee's name, address, and Social Security Number (SSN).
+- **Личная информация работника:** Это включает имя работника, адрес и номер социального страхования (SSN).
 
-- **Employer's Information:** Containing the employer's name, address, and Employer Identification Number (EIN).
+- **Информация о работодателе:** Содержит название работодателя, адрес и идентификационный номер работодателя (EIN).
 
-- **Wages and Tips:** Gross wages, tips, and other forms of compensation received by the employee.
+- **Заработная плата и чаевые:** Валовая заработная плата, чаевые и другие формы компенсации, полученные работником.
 
-- **Federal Income Tax Withholding:** The amount of federal income tax withheld from the employee's paycheck.
+- **Удержание федерального подоходного налога:** Сумма федерального подоходного налога, удержанного из зарплаты работника.
 
-- **Social Security Wages and Withholding:** This shows the portion of the wages subject to the Social Security tax and the amount of Social Security tax withheld.
+- **Заработная плата и удержание социального страхования:** Это показывает часть заработной платы, подлежащую налогообложению социального страхования, и сумму удержанного налога социального страхования.
 
-- **Medicare Wages and Withholding:** The portion of wages subject to Medicare tax and the tax withheld.
+- **Заработная плата и удержание Medicare:** Часть заработной платы, подлежащая налогообложению Medicare, и удержанный налог.
 
-- **State and Local Taxes:** Information pertaining to state and local income taxes, if applicable.
+- **Государственные и местные налоги:** Информация, относящаяся к государственным и местным подоходным налогам, если применимо.
 
-- **Other Benefits and Deductions:** This may include contributions to retirement plans, dependent care benefits, and other types of withholdings or benefits.
+- **Прочие льготы и удержания:** Это может включать взносы в пенсионные планы, льготы по уходу за иждивенцами и другие виды удержаний или льгот.
 
-## Importance of Accurate Information
+## Важность точной информации
 
-Ensuring that the information on the W-2 form is accurate is vital for several reasons. Incorrect reporting can lead to discrepancies in tax filings, triggering audits or penalties. Employers must double-check the data before issuing the forms to employees and submitting them to the IRS. Employees should also review their W-2 forms for any inaccuracies that could affect their tax returns.
+Обеспечение точности информации в форме W-2 имеет важное значение по нескольким причинам. Неправильная отчетность может привести к расхождениям в налоговых декларациях, вызывая аудиты или штрафы. Работодатели должны дважды проверить данные перед выдачей форм работникам и отправкой их в IRS. Работники также должны проверить свои формы W-2 на любые неточности, которые могут повлиять на их налоговые декларации.
 
-## Timing and Deadlines
+## Сроки и даты
 
-Employers are required to issue W-2 forms to employees and file them with the IRS by January 31st of the following year. Meeting this deadline is critical for both the employee’s tax preparation and the employer’s compliance with IRS requirements.
+Работодатели обязаны выдать формы W-2 работникам и подать их в IRS к 31 января следующего года. Соблюдение этого срока критически важно как для подготовки налоговой декларации работника, так и для соблюдения работодателем требований IRS.
 
-## Electronic Filing and Delivery
+## Электронная подача и доставка
 
-In addition to paper filing, the W-2 form can be filed electronically using the Social Security Administration’s (SSA) Business Services Online (BSO) portal. Electronic filing can be more efficient and provide quicker confirmation of receipt. Employers may also deliver W-2 forms electronically to employees, provided they adhere to consent requirements outlined by the IRS.
+Помимо подачи на бумаге, форма W-2 может быть подана в электронном виде с использованием портала Business Services Online (BSO) Администрации социального обеспечения (SSA). Электронная подача может быть более эффективной и обеспечивать более быстрое подтверждение получения. Работодатели также могут доставлять формы W-2 работникам в электронном виде при условии соблюдения требований согласия, изложенных IRS.
 
-For further details or assistance with electronic filing, visit the Social Security Administration's Business Services Online portal.
+Для получения более подробной информации или помощи с электронной подачей посетите портал Business Services Online Администрации социального обеспечения.
 
-## Amendments and Corrections
+## Исправления и корректировки
 
-If mistakes are found after W-2 forms have been distributed, employers must issue Form W-2c, Corrected Wage and Tax Statement. This process involves correcting the erroneous data and resubmitting the form to both the employee and the IRS.
+Если после распространения форм W-2 обнаружены ошибки, работодатели должны выдать форму W-2c, Исправленную справку о заработной плате и налогах. Этот процесс включает исправление ошибочных данных и повторную подачу формы как работнику, так и в IRS.
 
-## Penalties for Non-Compliance
+## Штрафы за несоблюдение
 
-Failure to issue W-2 forms on time, or providing incorrect information, can result in penalties varying based on the duration of the delay. Penalties range from $50 to $540 per form, depending on how late the correction is made and whether the failure was due to intentional disregard of the filing requirements.
+Непредоставление форм W-2 вовремя или предоставление неправильной информации может привести к штрафам, варьирующимся в зависимости от продолжительности задержки. Штрафы варьируются от $50 до $540 за форму, в зависимости от того, насколько поздно было сделано исправление и было ли непредоставление результатом преднамеренного игнорирования требований подачи.
 
-## Summary
+## Резюме
 
-The W-2 form is indispensable for accurate and compliant tax reporting by both employers and employees. Its precise completion ensures proper tax withholding and subsequently, correct filing of individual tax returns. Proper care and attention to the W-2 process help avoid penalties and ensure smooth financial and tax operations for both parties involved.
+Форма W-2 незаменима для точной и соответствующей налоговой отчетности как работодателями, так и работниками. Ее точное заполнение обеспечивает правильное удержание налогов и, впоследствии, правильную подачу индивидуальных налоговых деклараций. Надлежащая забота и внимание к процессу W-2 помогают избежать штрафов и обеспечить гладкие финансовые и налоговые операции для обеих сторон.
 
-## Practical checklist
-- Define the time horizon for W-2 Form and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для формы W-2 и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты графика.
+- Напишите четкие правила входа и выхода перед вложением капитала.
+- Рассчитайте размер позиции так, чтобы одна ошибка не повредила счету.
+- Задокументируйте результат для улучшения воспроизводимости.

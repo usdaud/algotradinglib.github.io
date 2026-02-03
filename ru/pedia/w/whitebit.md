@@ -1,123 +1,123 @@
 # WhiteBIT
 
-WhiteBIT is a cryptocurrency exchange platform that allows users to buy, sell, and trade a variety of digital assets. Launching in 2018, WhiteBIT has grown significantly and now holds a substantial presence in the cryptocurrency market. The platform is known for its user-friendly interface, high liquidity, low trading fees, and state-of-the-art security measures. Available for users from all around the globe, WhiteBIT aims to provide a secure, efficient, and seamless trading experience for both novice and experienced traders.
+WhiteBIT — это криптовалютная биржевая платформа, которая позволяет пользователям покупать, продавать и торговать различными цифровыми активами. Запущенная в 2018 году, WhiteBIT значительно выросла и теперь занимает существенное положение на криптовалютном рынке. Платформа известна своим удобным интерфейсом, высокой ликвидностью, низкими торговыми комиссиями и современными мерами безопасности. Доступная пользователям со всего мира, WhiteBIT стремится обеспечить безопасный, эффективный и бесперебойный торговый опыт как для начинающих, так и для опытных трейдеров.
 
-## Overview
+## Обзор
 
-WhiteBIT offers a variety of services aimed at facilitating cryptocurrency trading. These include spot trading, futures trading, margin trading, and various earning programs. With over 300 trading pairs and a robust API, WhiteBIT ensures a wide range of options for traders. The platform supports both fiat and cryptocurrency deposits, making it versatile and accessible.
+WhiteBIT предлагает разнообразные услуги, направленные на содействие криптовалютной торговле. К ним относятся спотовая торговля, торговля фьючерсами, маржинальная торговля и различные программы заработка. С более чем 300 торговыми парами и надёжным API, WhiteBIT обеспечивает широкий спектр возможностей для трейдеров. Платформа поддерживает депозиты как в фиатных валютах, так и в криптовалюте, что делает её универсальной и доступной.
 
-## Features
+## Функции
 
-### User Interface
+### Пользовательский интерфейс
 
-The UI of WhiteBIT is designed to be intuitive, ensuring that users can navigate the platform effortlessly. Features like customizable trading charts, real-time market data, and quick-trade options make it easy to handle your digital assets.
+Интерфейс WhiteBIT разработан интуитивно понятным, обеспечивая пользователям лёгкую навигацию по платформе. Такие функции, как настраиваемые торговые графики, рыночные данные в реальном времени и опции быстрой торговли, упрощают управление цифровыми активами.
 
-### Security
+### Безопасность
 
-Security is one of WhiteBIT's strongest attributes. The exchange employs a combination of hot and cold wallets, two-factor authentication (2FA), and advanced encryption techniques. Furthermore, they claim to keep 96% of all assets in cold storage, minimizing the risk of hacks.
+Безопасность — одна из сильнейших сторон WhiteBIT. Биржа использует комбинацию горячих и холодных кошельков, двухфакторную аутентификацию (2FA) и передовые методы шифрования. Кроме того, заявляется, что 96% всех активов хранятся в холодных хранилищах, что минимизирует риск взлома.
 
-### Trading Pairs and Liquidity
+### Торговые пары и ликвидность
 
-WhiteBIT offers a wide array of trading pairs, enabling users to trade diverse cryptocurrencies against each other. The exchange is also known for high liquidity, which ensures that trades are executed swiftly and at competitive prices.
+WhiteBIT предлагает широкий спектр торговых пар, позволяя пользователям торговать различными криптовалютами друг против друга. Биржа также известна высокой ликвидностью, что обеспечивает быстрое исполнение сделок по конкурентным ценам.
 
-### Low Fees
+### Низкие комиссии
 
-One of the notable features of WhiteBIT is its low trading fees. With a flat trading fee of 0.1% for both makers and takers, the platform is highly competitive in the market. Additionally, there are options to further reduce fees via various promotional programs and holding the platform’s native utility token.
+Одной из примечательных особенностей WhiteBIT являются низкие торговые комиссии. С фиксированной торговой комиссией 0,1% как для мейкеров, так и для тейкеров, платформа высококонкурентна на рынке. Кроме того, существуют возможности дополнительного снижения комиссий через различные промо-программы и владение нативным служебным токеном платформы.
 
 ### API
 
-For advanced users and developers, WhiteBIT offers a robust API that supports both REST and WebSocket functionalities. The API allows for automated trading, real-time data streaming, and efficient portfolio management.
+Для продвинутых пользователей и разработчиков WhiteBIT предлагает надёжный API, поддерживающий как REST, так и WebSocket функциональность. API позволяет осуществлять автоматизированную торговлю, потоковую передачу данных в реальном времени и эффективное управление портфелем.
 
-### Customer Support
+### Служба поддержки
 
-WhiteBIT offers extensive customer support through various channels, including email, live chat, and a comprehensive FAQ section. Their support team is reportedly quick to resolve issues, providing a seamless user experience.
+WhiteBIT предоставляет обширную поддержку клиентов через различные каналы, включая электронную почту, онлайн-чат и обширный раздел FAQ. Служба поддержки, по отзывам, быстро решает проблемы, обеспечивая бесперебойный пользовательский опыт.
 
-## Earning Programs
+## Программы заработка
 
-WhiteBIT offers multiple earning programs for its users. These include staking, lending, and various promotional campaigns. Users can earn rewards by staking their assets on the platform or by participating in lending programs where they can loan their cryptocurrency for interest.
+WhiteBIT предлагает множество программ заработка для своих пользователей. К ним относятся стейкинг, лендинг и различные промо-кампании. Пользователи могут получать вознаграждения, размещая свои активы на платформе в стейкинге или участвуя в программах лендинга, где они могут давать свою криптовалюту в долг под проценты.
 
-### Staking
+### Стейкинг
 
-Staking involves locking up your assets for a certain period in return for rewards. WhiteBIT offers a variety of staking options, ranging from flexible to fixed terms, providing users with multiple ways to earn passively.
+Стейкинг предполагает блокировку ваших активов на определённый период в обмен на вознаграждения. WhiteBIT предлагает различные варианты стейкинга, от гибких до фиксированных сроков, предоставляя пользователям множество способов пассивного заработка.
 
-### Lending
+### Лендинг
 
-Lending programs allow users to earn interest on their crypto assets by lending them out to other traders. The interest rates are competitive, providing an additional stream of income for users.
+Программы лендинга позволяют пользователям получать проценты на свои криптоактивы, давая их в долг другим трейдерам. Процентные ставки конкурентоспособны, обеспечивая дополнительный источник дохода для пользователей.
 
-## Security Measures
+## Меры безопасности
 
-WhiteBIT employs a multi-layered approach to security. While 96% of assets are stored in cold wallets, the platform also uses encrypted SSL certificates, anti-phishing measures, and continuous monitoring to detect unusual activities. The two-factor authentication (2FA) adds an extra layer of security to user accounts.
+WhiteBIT использует многоуровневый подход к безопасности. При хранении 96% активов в холодных кошельках платформа также использует зашифрованные SSL-сертификаты, меры против фишинга и постоянный мониторинг для обнаружения необычной активности. Двухфакторная аутентификация (2FA) добавляет дополнительный уровень защиты учётных записей пользователей.
 
-### Cold and Hot Wallets
+### Холодные и горячие кошельки
 
-Cold wallets are offline storage that significantly reduces the risk of hacks. Typically, only 4% of assets are kept in hot wallets, which are connected to the internet and used for day-to-day trading activities.
+Холодные кошельки — это офлайн-хранилище, которое значительно снижает риск взлома. Обычно только 4% активов хранятся в горячих кошельках, которые подключены к интернету и используются для повседневной торговой деятельности.
 
-### Two-Factor Authentication (2FA)
+### Двухфакторная аутентификация (2FA)
 
-The use of 2FA adds an extra layer of security by requiring users to provide two forms of identification before accessing their accounts.
+Использование 2FA добавляет дополнительный уровень безопасности, требуя от пользователей предоставления двух форм идентификации перед доступом к своим учётным записям.
 
-## API and Algorithmic Trading
+## API и алгоритмическая торговля
 
-WhiteBIT's API is designed to cater to traders who prefer algorithmic trading. The API supports RESTful methods, as well as WebSocket for real-time data and trade executions. This makes it suitable for high-frequency trading (HFT) as well as more complex trading strategies.
+API WhiteBIT разработан для трейдеров, предпочитающих алгоритмическую торговлю. API поддерживает RESTful-методы, а также WebSocket для получения данных в реальном времени и исполнения сделок. Это делает его подходящим как для высокочастотной торговли (HFT), так и для более сложных торговых стратегий.
 
 ### REST API
 
-The REST API allows users to perform various actions such as retrieving account information, executing trades, and accessing market data. The API endpoint supports a variety of HTTP methods, including GET, POST, and DELETE.
+REST API позволяет пользователям выполнять различные действия, такие как получение информации о счёте, исполнение сделок и доступ к рыночным данным. Конечная точка API поддерживает различные HTTP-методы, включая GET, POST и DELETE.
 
 ### WebSocket API
 
-The WebSocket API offers real-time data streaming, which is essential for algorithmic traders. It provides real-time updates on market data, order book changes, and trade completions.
+WebSocket API предлагает потоковую передачу данных в реальном времени, что необходимо для алгоритмических трейдеров. Он обеспечивает обновления в реальном времени по рыночным данным, изменениям книги ордеров и завершённым сделкам.
 
-## Platform Token
+## Токен платформы
 
-WhiteBIT has its own native utility token, known as WBT. The token is used to pay for trading fees, participate in staking programs, and avail various other benefits on the platform.
+WhiteBIT имеет собственный нативный служебный токен, известный как WBT. Токен используется для оплаты торговых комиссий, участия в программах стейкинга и получения различных других преимуществ на платформе.
 
-### WBT Token Utility
+### Полезность токена WBT
 
-* **Fee Reduction**: Holding WBT tokens can reduce trading fees.
-* **Staking Rewards**: Earn additional rewards by staking WBT tokens.
-* **Airdrops and Promotions**: WBT holders are often eligible for exclusive airdrops and promotional campaigns.
+* **Снижение комиссий**: Владение токенами WBT может снизить торговые комиссии.
+* **Вознаграждения за стейкинг**: Получайте дополнительные вознаграждения, размещая токены WBT в стейкинге.
+* **Эирдропы и промо-акции**: Владельцы WBT часто имеют право на эксклюзивные эирдропы и промо-кампании.
 
-## Protocols and Standards
+## Протоколы и стандарты
 
-WhiteBIT adheres to various industry standards and protocols to ensure compliance and enhance security. Some of the commonly followed protocols include:
+WhiteBIT придерживается различных отраслевых стандартов и протоколов для обеспечения соответствия требованиям и повышения безопасности. Некоторые из часто применяемых протоколов включают:
 
-* **ISO/IEC 27001**: This is a specification for an information security management system (ISMS).
-* **AML/KYC Compliance**: Adhering to Anti-Money Laundering (AML) and Know Your Customer (KYC) regulations to ensure the legitimacy of users.
+* **ISO/IEC 27001**: Это спецификация системы управления информационной безопасностью (ISMS).
+* **Соответствие AML/KYC**: Соблюдение правил противодействия отмыванию денег (AML) и знай своего клиента (KYC) для обеспечения легитимности пользователей.
 
-## Future Plans
+## Планы на будущее
 
-WhiteBIT has plans to expand its services by introducing new financial products and increasing its global reach. Upcoming features may include more advanced trading options, additional earning programs, and integration with more fiat currencies.
+WhiteBIT планирует расширить свои услуги, внедряя новые финансовые продукты и увеличивая глобальный охват. Предстоящие функции могут включать более продвинутые торговые опции, дополнительные программы заработка и интеграцию с большим количеством фиатных валют.
 
-### Expanding Trading Pair Listings
+### Расширение списка торговых пар
 
-WhiteBIT is continually adding more trading pairs to enhance the trading experience for its users. They aim to incorporate more exotic and less popular cryptocurrencies as well.
+WhiteBIT постоянно добавляет новые торговые пары для улучшения торгового опыта своих пользователей. Они стремятся включить более экзотические и менее популярные криптовалюты.
 
-### New Financial Products
+### Новые финансовые продукты
 
-Additional features such as derivatives trading and decentralized finance (DeFi) products are under consideration for future implementation.
+Дополнительные функции, такие как торговля деривативами и продукты децентрализованных финансов (DeFi), рассматриваются для будущего внедрения.
 
-### Geographical Expansion
+### Географическое расширение
 
-WhiteBIT aims to increase its global footprint by obtaining licenses in more countries, making it easier for users around the world to engage with the platform.
+WhiteBIT стремится увеличить своё глобальное присутствие, получая лицензии в большем количестве стран, что упростит взаимодействие с платформой для пользователей по всему миру.
 
-## Community and Social Media
+## Сообщество и социальные сети
 
-WhiteBIT maintains an active presence on various social media platforms and includes a community of engaged users and followers. They frequently update their social media channels with the latest news, promotions, and feature updates.
+WhiteBIT поддерживает активное присутствие на различных платформах социальных сетей и включает сообщество вовлечённых пользователей и подписчиков. Они регулярно обновляют свои каналы в социальных сетях последними новостями, акциями и обновлениями функций.
 
-### Social Media Channels
+### Каналы социальных сетей
 
 * Twitter
 * Facebook
 * Instagram
 * Telegram
 
-### Community Engagement
+### Взаимодействие с сообществом
 
-WhiteBIT has numerous community programs and initiatives to engage with its users. These include trading competitions, airdrops, and educational webinars.
+WhiteBIT имеет множество программ и инициатив для взаимодействия со своими пользователями. К ним относятся торговые соревнования, эирдропы и образовательные вебинары.
 
-## Conclusion
+## Заключение
 
-WhiteBIT stands out as a comprehensive cryptocurrency exchange offering a plethora of features and services designed to meet the needs of various types of traders. From low trading fees to high liquidity, advanced security measures, and a user-friendly interface, WhiteBIT aims to provide a seamless trading experience. As the platform continues to grow and evolve, it is well-positioned to become a leading player in the cryptocurrency exchange market.
+WhiteBIT выделяется как комплексная криптовалютная биржа, предлагающая множество функций и услуг, разработанных для удовлетворения потребностей различных типов трейдеров. От низких торговых комиссий до высокой ликвидности, передовых мер безопасности и удобного интерфейса — WhiteBIT стремится обеспечить бесперебойный торговый опыт. По мере продолжения роста и развития платформа хорошо позиционирована для того, чтобы стать ведущим игроком на рынке криптовалютных бирж.
 
-For more detailed information,
+Для получения более подробной информации посетите официальный сайт WhiteBIT.
