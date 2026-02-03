@@ -1,102 +1,102 @@
-# Whole Loan
+# Целый кредит
 
-In the realms of finance and trading, particularly within mortgage and real estate markets, the term "Whole Loan" refers to a type of financial product that is sold in its entirety by the originator, usually a lender like a bank or a financial institution, to an investor or another lender. Unlike securities, whole loans are not pooled together and sliced into various tranches; rather, they remain as individual, distinct loans.
+В сферах финансов и трейдинга, особенно на ипотечных рынках и рынках недвижимости, термин "целый кредит" (Whole Loan) относится к типу финансового продукта, который продается в полном объеме инициатором, обычно кредитором, таким как банк или финансовое учреждение, инвестору или другому кредитору. В отличие от ценных бумаг, целые кредиты не объединяются в пулы и не делятся на различные транши; скорее, они остаются отдельными, обособленными кредитами.
 
-## Key Characteristics
+## Ключевые характеристики
 
-### 1. **Individual Loan Unit**
-A whole loan is a single loan, distinct from mortgage-backed securities (MBS), which are aggregations of many individual loans. Each whole loan retains its unique characteristics, such as its duration, interest rate, and borrower-related specifics.
+### 1. **Индивидуальная кредитная единица**
+Целый кредит представляет собой единичный кредит, отличающийся от ипотечных ценных бумаг (MBS), которые являются агрегацией множества индивидуальных кредитов. Каждый целый кредит сохраняет свои уникальные характеристики, такие как его срок, процентная ставка и специфика заемщика.
 
-### 2. **Transaction Participants**
-The transaction typically involves a seller (often a bank or direct lender) and a buyer (typically institutional investors like insurance companies, investment funds, or other financial institutions). The originator of the loan may decide to sell it off their books to free up capital or minimize risk exposure.
+### 2. **Участники сделки**
+Сделка обычно включает продавца (часто банк или прямой кредитор) и покупателя (обычно институциональные инвесторы, такие как страховые компании, инвестиционные фонды или другие финансовые учреждения). Инициатор кредита может решить продать его для высвобождения капитала или минимизации рисковых позиций.
 
-### 3. **Risk Management**
-Investors purchasing whole loans assume all associated risks, including borrower default risk, interest rate risk, and prepayment risk. This can be high-risk but often provides higher yields compared to other fixed-income investments.
+### 3. **Управление рисками**
+Инвесторы, приобретающие целые кредиты, принимают на себя все связанные с ними риски, включая риск дефолта заемщика, процентный риск и риск досрочного погашения. Это может быть высокорискованным, но часто обеспечивает более высокую доходность по сравнению с другими инвестициями с фиксированным доходом.
 
-### 4. **Customization**
-Whole loans can be tailored to the specific risk/reward profiles that buyers are seeking. This level of customization is often not available in packaged securities that homogenize the risk factors through pooling.
+### 4. **Индивидуализация**
+Целые кредиты могут быть адаптированы к конкретным профилям риска/доходности, которые ищут покупатели. Этот уровень индивидуализации часто недоступен в упакованных ценных бумагах, которые гомогенизируют факторы риска через объединение.
 
-### 5. **Due Diligence & Pricing**
-When purchasing a whole loan, extensive due diligence is required. The pricing of whole loans factors in the credit quality of the borrower, the loan-to-value ratio (LTV), the interest rate environment, and other elements that assess the risk and potential yield of the individual loan.
+### 5. **Комплексная проверка и ценообразование**
+При приобретении целого кредита требуется обширная комплексная проверка. Ценообразование целых кредитов учитывает кредитное качество заемщика, коэффициент кредита к стоимости (LTV), процентную среду и другие элементы, которые оценивают риск и потенциальную доходность индивидуального кредита.
 
-## Use Cases in Finance
+## Варианты использования в финансах
 
-### Whole Loan Trading
-Whole loan trading refers to the buying and selling of these individual loans between financial institutions and investors. This trade allows lenders to manage their balance sheets more fluidly, offloading risk to parties willing to take it on.
+### Торговля целыми кредитами
+Торговля целыми кредитами относится к покупке и продаже этих индивидуальных кредитов между финансовыми учреждениями и инвесторами. Эта торговля позволяет кредиторам более гибко управлять своими балансами, передавая риск сторонам, готовым его принять.
 
-### Whole Loans vs. Securitized Loans
-Whole loans provide a more direct investment compared to securitized loans, which are often part of larger structured products. Instead of taking a fractional interest in a pool, an investor in a whole loan own the entire note, thus gaining more control but also more exposure to risk.
+### Целые кредиты против секьюритизированных кредитов
+Целые кредиты обеспечивают более прямые инвестиции по сравнению с секьюритизированными кредитами, которые часто являются частью более крупных структурированных продуктов. Вместо того чтобы получать долю в пуле, инвестор в целый кредит владеет всей нотой, таким образом получая больший контроль, но также больше подвергаясь риску.
 
-## Market Participants
+## Участники рынка
 
-### 1. **Banks & Financial Institutions**
-Banks originating the loans often sell these assets to manage capital more efficiently and to comply with regulatory requirements.
+### 1. **Банки и финансовые учреждения**
+Банки, инициирующие кредиты, часто продают эти активы для более эффективного управления капиталом и соблюдения регуляторных требований.
 
-### 2. **Investment Firms & Hedge Funds**
-These entities purchase whole loans to diversify their portfolios and seek higher returns. They conduct in-depth risk assessments to determine the viability of these investments.
+### 2. **Инвестиционные компании и хедж-фонды**
+Эти организации приобретают целые кредиты для диверсификации своих портфелей и получения более высокой доходности. Они проводят углубленную оценку рисков для определения жизнеспособности этих инвестиций.
 
-### 3. **Insurance Companies**
-Due to the long-term nature of their liabilities, insurance companies are exemplary purchasers of whole loans, especially for the fixed and predictable income streams these loans generate.
+### 3. **Страховые компании**
+Из-за долгосрочного характера своих обязательств страховые компании являются образцовыми покупателями целых кредитов, особенно для фиксированных и предсказуемых потоков дохода, которые генерируют эти кредиты.
 
-### 4. **Secondary Market Participants**
-Entities specializing in secondary market trading of whole loans often act as intermediaries, facilitating the buying and selling process between the original lender and the end-investor.
+### 4. **Участники вторичного рынка**
+Организации, специализирующиеся на торговле целыми кредитами на вторичном рынке, часто выступают в качестве посредников, облегчая процесс покупки и продажи между первоначальным кредитором и конечным инвестором.
 
-## Benefits of Whole Loans
+## Преимущества целых кредитов
 
-### 1. **Higher Yields**
-Investors in whole loans often achieve higher yields compared to other fixed-income products due to the specific risks they undertake.
+### 1. **Более высокая доходность**
+Инвесторы в целые кредиты часто достигают более высокой доходности по сравнению с другими продуктами с фиксированным доходом из-за конкретных рисков, которые они принимают.
 
-### 2. **Diversification**
-Whole loans provide a way to diversify investment portfolios through exposure to various geographic locations, borrower profiles, and loan types.
+### 2. **Диверсификация**
+Целые кредиты обеспечивают способ диверсификации инвестиционных портфелей через экспозицию к различным географическим местоположениям, профилям заемщиков и типам кредитов.
 
-### 3. **Customization**
-Loans can be tailored to meet the specific needs of investors, aligning investment strategies with risk tolerance and return expectations.
+### 3. **Индивидуализация**
+Кредиты могут быть адаптированы для удовлетворения конкретных потребностей инвесторов, согласовывая инвестиционные стратегии с терпимостью к риску и ожиданиями доходности.
 
-### 4. **Control Over Terms**
-Investors maintain more control over the terms, management, and servicing of the loan, rather than sharing decision-making with other pool investors.
+### 4. **Контроль над условиями**
+Инвесторы сохраняют больший контроль над условиями, управлением и обслуживанием кредита, а не делят принятие решений с другими инвесторами пула.
 
-## Risks of Whole Loans
+## Риски целых кредитов
 
-### 1. **Credit Risk**
-There is always the risk that the borrower may default on the loan, risking the loss of invested capital.
+### 1. **Кредитный риск**
+Всегда существует риск того, что заемщик может объявить дефолт по кредиту, рискуя потерей инвестированного капитала.
 
-### 2. **Interest Rate Risk**
-Fluctuations in interest rates can affect the value of fixed-income assets, including whole loans.
+### 2. **Процентный риск**
+Колебания процентных ставок могут повлиять на стоимость активов с фиксированным доходом, включая целые кредиты.
 
-### 3. **Prepayment Risk**
-Borrowers may choose to pay off their loans early, reducing the expected return on the investment as the owner of the whole loan may have to reinvest funds in a potentially lower interest rate environment.
+### 3. **Риск досрочного погашения**
+Заемщики могут выбрать досрочное погашение своих кредитов, уменьшая ожидаемую доходность инвестиций, поскольку владельцу целого кредита, возможно, придется реинвестировать средства в потенциально менее благоприятной процентной среде.
 
-### 4. **Liquidity Risk**
-Whole loans are generally less liquid than other securities, making it harder to sell them quickly without possibly taking a discount on the sale price.
+### 4. **Риск ликвидности**
+Целые кредиты, как правило, менее ликвидны, чем другие ценные бумаги, что усложняет их быструю продажу без возможного дисконта от продажной цены.
 
-## Platforms & Providers
+## Платформы и провайдеры
 
-Several platforms and companies specialize in the trade of whole loans, offering a marketplace for buyers and sellers to connect. Some of these platforms include:
+Несколько платформ и компаний специализируются на торговле целыми кредитами, предлагая рынок для соединения покупателей и продавцов. Некоторые из этих платформ включают:
 
 ### PeerStreet
-PeerStreet specializes in the trading of real estate backed loans, providing a marketplace for both accredited investors and lenders.
+PeerStreet специализируется на торговле кредитами, обеспеченными недвижимостью, предоставляя рынок как для аккредитованных инвесторов, так и для кредиторов.
 
 ### LoanStreet
-LoanStreet offers solutions for financial institutions to manage, share, and trade whole loans, facilitating easier access to these financial instruments.
+LoanStreet предлагает решения для финансовых учреждений для управления, совместного использования и торговли целыми кредитами, облегчая более легкий доступ к этим финансовым инструментам.
 
 ### Angel Oak Capital
-Angel Oak Capital is an investment management firm specializing in mortgage-backed and structured credit markets, often dealing in whole loans as part of its investment strategies.
+Angel Oak Capital — это инвестиционная управляющая компания, специализирующаяся на ипотечных и структурированных кредитных рынках, часто занимающаяся целыми кредитами как частью своих инвестиционных стратегий.
 
-## Technological Aspects in Whole Loan Trading
+## Технологические аспекты торговли целыми кредитами
 
-### Data Analytics
-Sophisticated data analytics tools are employed to assess the risk and return parameters of whole loans. Companies leverage big data to gain insights into borrower behavior, regional market conditions, and economic indicators.
+### Аналитика данных
+Сложные инструменты аналитики данных используются для оценки параметров риска и доходности целых кредитов. Компании используют большие данные для получения информации о поведении заемщиков, региональных рыночных условиях и экономических показателях.
 
-### Blockchain
-Some modern platforms are exploring blockchain technology for whole loan trading, aiming for transparent, secure, and immutable transaction records that could simplify the trading process and enhance trust among parties.
+### Блокчейн
+Некоторые современные платформы изучают технологию блокчейн для торговли целыми кредитами, стремясь к прозрачным, безопасным и неизменяемым записям транзакций, которые могут упростить процесс торговли и повысить доверие между сторонами.
 
-### Automation
-Automated systems streamline the due diligence, underwriting, and compliance processes, drastically reducing the time and effort required to evaluate prospective whole loan investments.
+### Автоматизация
+Автоматизированные системы оптимизируют процессы комплексной проверки, андеррайтинга и соблюдения нормативных требований, значительно сокращая время и усилия, необходимые для оценки потенциальных инвестиций в целые кредиты.
 
-## Conclusion
+## Заключение
 
-Whole loans are an intricate part of the financial and real estate ecosystems, offering specific benefits and challenges to investors. They demand a thorough understanding of the underlying risks and rewards, meticulous due diligence, and often entail sophisticated financial strategies. For those willing to navigate their complexities, whole loans can be a valuable component of a diversified investment portfolio.
+Целые кредиты являются сложной частью финансовых и риэлторских экосистем, предлагая конкретные преимущества и вызовы для инвесторов. Они требуют тщательного понимания базовых рисков и вознаграждений, тщательной комплексной проверки и часто влекут за собой сложные финансовые стратегии. Для тех, кто готов ориентироваться в их сложностях, целые кредиты могут быть ценным компонентом диверсифицированного инвестиционного портфеля.
 
 ---
 
-This extensive overview provides detailed insights into the concept, mechanisms, benefits, and risks associated with whole loans in the financial and trading world. Additionally, it highlights the technological advancements aiding in the trade of whole loans and provides key platforms and market participants engaging in this sector.
+Этот обширный обзор предоставляет подробную информацию о концепции, механизмах, преимуществах и рисках, связанных с целыми кредитами в финансовом и торговом мире. Кроме того, он подчеркивает технологические достижения, способствующие торговле целыми кредитами, и предоставляет ключевые платформы и участников рынка, занимающихся в этом секторе.

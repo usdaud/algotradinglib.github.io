@@ -1,102 +1,102 @@
-# Weighted Returns Calculation
+# Расчёт взвешенной доходности
 
-In the realm of investment and portfolio management, understanding the precise return on investments is paramount. Calculating returns can be straightforward; however, when dealing with a portfolio composed of multiple assets, each with different investment sizes, it becomes necessary to use the concept of weighted returns. Weighted returns take into account the varying sizes of investments within a portfolio, providing a more accurate measure of overall performance. This article explores the concept of weighted returns, their significance in financial analysis, and the methodologies for calculating them.
+В сфере инвестиций и управления портфелем понимание точной доходности инвестиций имеет первостепенное значение. Расчёт доходности может быть простым; однако при работе с портфелем, состоящим из множества активов с различными размерами инвестиций, становится необходимым использовать концепцию взвешенной доходности. Взвешенная доходность учитывает различные размеры инвестиций в портфеле, обеспечивая более точную меру общей эффективности. Данная статья исследует концепцию взвешенной доходности, её значение в финансовом анализе и методологии её расчёта.
 
-### 1. Introduction to Weighted Returns
+### 1. Введение во взвешенную доходность
 
-Weighted returns are used to represent the actual performance of a portfolio, taking into account the proportion of each asset in the portfolio relative to the total investment. Unlike a simple average return, which treats each asset equally, a weighted return assigns different weights to each asset based on their respective sizes in the portfolio. This approach reflects the true impact of each asset's performance on the overall portfolio.
+Взвешенная доходность используется для представления фактической эффективности портфеля с учётом доли каждого актива в портфеле относительно общей суммы инвестиций. В отличие от простой средней доходности, которая рассматривает каждый актив одинаково, взвешенная доходность присваивает разные веса каждому активу на основе их соответствующих размеров в портфеле. Этот подход отражает истинное влияние эффективности каждого актива на весь портфель.
 
-### 2. Importance of Weighted Returns
+### 2. Важность взвешенной доходности
 
-Weighted returns are crucial for several reasons:
+Взвешенная доходность важна по нескольким причинам:
 
-- **Accuracy**: They provide a true representation of the portfolio's performance, accounting for the capital allocation to each investment.
-- **Comparison**: Facilitates comparison between portfolios of different sizes and compositions.
-- **Risk Management**: Helps in understanding the contribution of each asset to the portfolio's risk and return.
+- **Точность**: Она обеспечивает истинное представление эффективности портфеля, учитывая распределение капитала по каждой инвестиции.
+- **Сравнение**: Облегчает сравнение портфелей разных размеров и составов.
+- **Управление рисками**: Помогает понять вклад каждого актива в риск и доходность портфеля.
 
-### 3. Calculation Methodology
+### 3. Методология расчёта
 
-To calculate weighted returns, follow these steps:
+Для расчёта взвешенной доходности выполните следующие шаги:
 
-#### Step 1: Determine Individual Asset Returns
-Calculate the return for each asset in the portfolio. The return can be expressed as:
+#### Шаг 1: Определение доходности отдельных активов
+Рассчитайте доходность для каждого актива в портфеле. Доходность может быть выражена как:
 
 \[ R_i = \frac{(P_{f, i} - P_{i, i}) + D_i}{P_{i, i}} \]
 
-Where:
-- \( R_i \) = Return of asset \( i \)
-- \( P_{i, i} \) = Initial price of asset \( i \)
-- \( P_{f, i} \) = Final price of asset \( i \)
-- \( D_i \) = Dividends or interest received from asset \( i \)
+Где:
+- \( R_i \) = Доходность актива \( i \)
+- \( P_{i, i} \) = Начальная цена актива \( i \)
+- \( P_{f, i} \) = Конечная цена актива \( i \)
+- \( D_i \) = Дивиденды или проценты, полученные от актива \( i \)
 
-#### Step 2: Determine Portfolio Weights
-Calculate the weight of each asset within the portfolio. The weight is given by:
+#### Шаг 2: Определение весов портфеля
+Рассчитайте вес каждого актива в портфеле. Вес определяется как:
 
 \[ W_i = \frac{V_{i}}{V_{total}} \]
 
-Where:
-- \( W_i \) = Weight of asset \( i \)
-- \( V_{i} \) = Value of asset \( i \) in the portfolio
-- \( V_{total} \) = Total value of the portfolio
+Где:
+- \( W_i \) = Вес актива \( i \)
+- \( V_{i} \) = Стоимость актива \( i \) в портфеле
+- \( V_{total} \) = Общая стоимость портфеля
 
-#### Step 3: Calculate Weighted Returns
-Multiply the return of each asset by its corresponding weight:
+#### Шаг 3: Расчёт взвешенной доходности
+Умножьте доходность каждого актива на его соответствующий вес:
 
 \[ WR_i = W_i \times R_i \]
 
-#### Step 4: Sum the Weighted Returns
-Sum the weighted returns of all assets to obtain the total weighted return of the portfolio:
+#### Шаг 4: Суммирование взвешенных доходностей
+Просуммируйте взвешенные доходности всех активов для получения общей взвешенной доходности портфеля:
 
 \[ R_{portfolio} = \sum_{i=1}^{n} (W_i \times R_i) \]
 
-Where \( n \) is the total number of assets in the portfolio.
+Где \( n \) — общее количество активов в портфеле.
 
-### 4. Real-World Application
+### 4. Практическое применение
 
-**Example**:
-Consider a portfolio consisting of three assets: Stock A, Stock B, and Stock C. The details are as follows:
+**Пример**:
+Рассмотрим портфель, состоящий из трёх активов: Акция A, Акция B и Акция C. Детали следующие:
 
-- Stock A: Initial value = $5,000, Final value = $5,500, Dividends = $100
-- Stock B: Initial value = $8,000, Final value = $8,300, Dividends = $200
-- Stock C: Initial value = $2,000, Final value = $2,500, Dividends = $50
+- Акция A: Начальная стоимость = $5,000, Конечная стоимость = $5,500, Дивиденды = $100
+- Акция B: Начальная стоимость = $8,000, Конечная стоимость = $8,300, Дивиденды = $200
+- Акция C: Начальная стоимость = $2,000, Конечная стоимость = $2,500, Дивиденды = $50
 
-Calculate the returns:
-- \( R_A = \frac{(5500 - 5000) + 100}{5000} = 0.12 \) or 12%
-- \( R_B = \frac{(8300 - 8000) + 200}{8000} = 0.0625 \) or 6.25%
-- \( R_C = \frac{(2500 - 2000) + 50}{2000} = 0.275 \) or 27.5%
+Рассчитаем доходности:
+- \( R_A = \frac{(5500 - 5000) + 100}{5000} = 0.12 \) или 12%
+- \( R_B = \frac{(8300 - 8000) + 200}{8000} = 0.0625 \) или 6.25%
+- \( R_C = \frac{(2500 - 2000) + 50}{2000} = 0.275 \) или 27.5%
 
-Calculate the portfolio weights:
-- Total value of the portfolio = $5,000 + $8,000 + $2,000 = $15,000
+Рассчитаем веса портфеля:
+- Общая стоимость портфеля = $5,000 + $8,000 + $2,000 = $15,000
 - \( W_A = \frac{5000}{15000} = 0.3333 \)
 - \( W_B = \frac{8000}{15000} = 0.5333 \)
 - \( W_C = \frac{2000}{15000} = 0.1333 \)
 
-Calculate the weighted returns:
+Рассчитаем взвешенные доходности:
 - \( WR_A = 0.3333 \times 0.12 = 0.04 \)
 - \( WR_B = 0.5333 \times 0.0625 = 0.0333 \)
 - \( WR_C = 0.1333 \times 0.275 = 0.0367 \)
 
-Total weighted return:
-\[ R_{portfolio} = 0.04 + 0.0333 + 0.0367 = 0.11 \] or 11%
+Общая взвешенная доходность:
+\[ R_{portfolio} = 0.04 + 0.0333 + 0.0367 = 0.11 \] или 11%
 
-### 5. Advanced Considerations
+### 5. Продвинутые аспекты
 
-#### 5.1 Non-Linear Returns
-In practice, returns can be non-linear due to factors such as compounding, fees, and taxes. These factors must be adjusted in the return calculations to represent a more realistic outcome.
+#### 5.1 Нелинейная доходность
+На практике доходность может быть нелинейной из-за таких факторов, как сложные проценты, комиссии и налоги. Эти факторы должны быть скорректированы в расчётах доходности для представления более реалистичного результата.
 
-#### 5.2 Periodic Rebalancing
-Portfolios often undergo periodic rebalancing to maintain desired weights. Rebalancing impacts the weights and thus should be incorporated into the weighted return calculations for different periods.
+#### 5.2 Периодическая ребалансировка
+Портфели часто подвергаются периодической ребалансировке для поддержания желаемых весов. Ребалансировка влияет на веса и поэтому должна быть учтена в расчётах взвешенной доходности для разных периодов.
 
-### 6. Tools and Software
+### 6. Инструменты и программное обеспечение
 
-Many financial tools and software solutions facilitate weighted return calculations. Some notable platforms include:
+Многие финансовые инструменты и программные решения облегчают расчёты взвешенной доходности. Среди известных платформ:
 
-- **Bloomberg Terminal**: A powerful tool for financial analysis and data management.
-- **Morningstar Direct**: Provides comprehensive portfolio analysis, including weighted return calculations.
-- **Yahoo Finance**: Offers basic portfolio management features and weighted return calculations.
+- **Bloomberg Terminal**: Мощный инструмент для финансового анализа и управления данными.
+- **Morningstar Direct**: Предоставляет комплексный анализ портфеля, включая расчёты взвешенной доходности.
+- **Yahoo Finance**: Предлагает базовые функции управления портфелем и расчёты взвешенной доходности.
 
-### 7. Conclusion
+### 7. Заключение
 
-Weighted return calculations provide a nuanced view of a portfolio’s performance by considering the proportionate impact of each asset. Understanding and accurately implementing these calculations are essential for effective portfolio management, risk assessment, and strategic decision-making. As financial markets become more complex, the ability to dissect returns accurately will remain a critical skill for investors and financial professionals.
+Расчёты взвешенной доходности обеспечивают детальное представление об эффективности портфеля, учитывая пропорциональное влияние каждого актива. Понимание и точная реализация этих расчётов необходимы для эффективного управления портфелем, оценки рисков и стратегического принятия решений. По мере того как финансовые рынки становятся всё более сложными, способность точно анализировать доходность останется критически важным навыком для инвесторов и финансовых специалистов.
 
-By ensuring that each investment's size and performance are appropriately accounted for, weighted returns offer a clear and precise view of a portfolio's health, paving the way for more informed and strategic investment choices.
+Обеспечивая надлежащий учёт размера и эффективности каждой инвестиции, взвешенная доходность предлагает чёткое и точное представление о состоянии портфеля, прокладывая путь к более информированным и стратегическим инвестиционным решениям.

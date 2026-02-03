@@ -1,116 +1,116 @@
-# Writedowns and Impairments
+# Списания и обесценения
 
-## Introduction
-Writedowns and impairments are crucial concepts in financial accounting and corporate finance. They pertain to the reduction in the book value of an asset when it becomes worth less than its carrying amount on the company's balance sheet. This markdown can result from several factors, such as changes in market conditions, technology, obsolescence, or economic downturns. Understanding these concepts is essential for investors, analysts, accountants, and financial managers, as they have a significant impact on a company's financial statements and ratios.
+## Введение
+Списания и обесценения являются важными концепциями в финансовом учете и корпоративных финансах. Они относятся к уменьшению балансовой стоимости актива, когда его стоимость становится меньше балансовой стоимости в балансе компании. Это снижение может быть результатом нескольких факторов, таких как изменения рыночных условий, технологии, устаревание или экономические спады. Понимание этих концепций необходимо для инвесторов, аналитиков, бухгалтеров и финансовых менеджеров, поскольку они оказывают значительное влияние на финансовую отчетность и коэффициенты компании.
 
-## Defining Writedowns and Impairments
+## Определение списаний и обесценений
 
-### Writedowns
-A writedown occurs when the carrying value of an asset is reduced due to a decline in its market value, technological obsolescence, or other factors. This reduction is typically reflected in the income statement as an expense, thereby reducing net income for the period. Writedowns are often a result of:
+### Списания
+Списание происходит, когда балансовая стоимость актива уменьшается из-за снижения его рыночной стоимости, технологического устаревания или других факторов. Это уменьшение обычно отражается в отчете о прибылях и убытках как расход, тем самым уменьшая чистую прибыль за период. Списания часто являются результатом:
 
-- **Deterioration in Market Conditions:** A drop in market value of an asset that is unlikely to recover in the near term.
-- **Obsolescence:** Technological advancements or changes in industry standards can render assets obsolete.
-- **Damage or Loss:** Physical damage to an asset that reduces its economic value.
+- **Ухудшение рыночных условий:** Падение рыночной стоимости актива, которое вряд ли восстановится в ближайшем будущем.
+- **Устаревание:** Технологические достижения или изменения в отраслевых стандартах могут сделать активы устаревшими.
+- **Повреждение или утрата:** Физическое повреждение актива, уменьшающее его экономическую стоимость.
 
-### Impairments
-Impairment occurs when an asset's carrying amount exceeds the recoverable amount, which is the higher of its fair value less costs to sell and its value in use (the present value of future cash flows expected from the asset). Impairments usually occur due to factors such as:
+### Обесценения
+Обесценение происходит, когда балансовая стоимость актива превышает возмещаемую сумму, которая является большей из его справедливой стоимости за вычетом затрат на продажу и его стоимости в использовании (текущая стоимость будущих денежных потоков, ожидаемых от актива). Обесценения обычно происходят из-за таких факторов, как:
 
-- **Economic Downturns:** Adverse economic conditions that impact the future cash flows an asset can generate.
-- **Regulatory Changes:** New regulations can reduce the value of certain assets.
-- **Strategic Shifts:** Changes in a company's strategy may lead to restructuring or disposal of certain assets, which can trigger impairment.
+- **Экономические спады:** Неблагоприятные экономические условия, которые влияют на будущие денежные потоки, которые может генерировать актив.
+- **Регуляторные изменения:** Новые нормативы могут уменьшить стоимость определенных активов.
+- **Стратегические сдвиги:** Изменения в стратегии компании могут привести к реструктуризации или продаже определенных активов, что может вызвать обесценение.
 
-## Accounting for Writedowns and Impairments
+## Учет списаний и обесценений
 
-### Recognition in Financial Statements
-When a writedown or impairment occurs, companies must recognize this loss in their financial statements. The specific accounting treatment can vary based on the type of asset and the accounting standards followed (such as IFRS, GAAP, etc.).
+### Признание в финансовой отчетности
+Когда происходит списание или обесценение, компании должны признать эту потерю в своей финансовой отчетности. Конкретная обработка учета может варьироваться в зависимости от типа актива и применяемых стандартов бухгалтерского учета (таких как IFRS, GAAP и т.д.).
 
-1. **Income Statement:** The loss from a writedown or impairment is usually recorded as an expense, which directly reduces net income.
-2. **Balance Sheet:** The carrying amount of the asset is reduced to its recoverable value.
-3. **Cash Flow Statement:** Non-cash writedowns and impairments are added back to net income in the operating activities section because they do not impact cash flow directly.
+1. **Отчет о прибылях и убытках:** Потеря от списания или обесценения обычно фиксируется как расход, который напрямую уменьшает чистую прибыль.
+2. **Баланс:** Балансовая стоимость актива уменьшается до его возмещаемой стоимости.
+3. **Отчет о движении денежных средств:** Неденежные списания и обесценения добавляются обратно к чистой прибыли в разделе операционной деятельности, потому что они не влияют на денежный поток напрямую.
 
-### Reversal of Impairment
-Under certain accounting standards like IFRS, if the circumstances that led to an impairment change and the recoverable amount of the asset increases, the previously recognized impairment loss can be reversed, except for goodwill. However, the amount of the reversal is limited to the original carrying value had the impairment not been recognized.
+### Восстановление обесценения
+По некоторым стандартам бухгалтерского учета, таким как IFRS, если обстоятельства, приведшие к обесценению, изменяются, и возмещаемая сумма актива увеличивается, ранее признанный убыток от обесценения может быть восстановлен, за исключением гудвилла. Однако сумма восстановления ограничена первоначальной балансовой стоимостью, если бы обесценение не было признано.
 
-## Factors Leading to Writedowns and Impairments
+## Факторы, приводящие к списаниям и обесценениям
 
-### Market Conditions
-Economic factors such as recessions, market volatility, or industry-specific downturns can lead to significant declines in asset values. Companies operating in cyclical industries like real estate, commodities, and manufacturing are particularly susceptible to market condition-induced impairments and writedowns.
+### Рыночные условия
+Экономические факторы, такие как рецессии, рыночная волатильность или отраслевые спады, могут привести к значительному снижению стоимости активов. Компании, работающие в циклических отраслях, таких как недвижимость, сырье и производство, особенно подвержены обесценениям и списаниям, вызванным рыночными условиями.
 
-### Technological Advancements
-Rapid technological changes can render existing assets obsolete. For example, advances in semiconductor technology can make older manufacturing equipment less valuable, necessitating a writedown. Similarly, companies involved in software development may need to write down software that has become outdated.
+### Технологические достижения
+Быстрые технологические изменения могут сделать существующие активы устаревшими. Например, достижения в полупроводниковой технологии могут сделать старое производственное оборудование менее ценным, требуя списания. Аналогично, компании, занимающиеся разработкой программного обеспечения, могут нуждаться в списании программного обеспечения, которое стало устаревшим.
 
-### Regulatory Changes
-Changes in laws and regulations can impact asset values. For instance, stricter environmental regulations may devalue older machinery that fails to meet current standards, leading to impairments.
+### Регуляторные изменения
+Изменения в законах и нормативах могут влиять на стоимость активов. Например, более строгие экологические нормативы могут обесценить старое оборудование, которое не соответствует текущим стандартам, приводя к обесценениям.
 
-### Internal Factors
-- **Operational Factors:** Poor performance of a business unit or operational inefficiencies can lead to reassessment of the value of associated assets.
-- **Strategic Shifts:** Companies may decide to exit certain business lines or geographic regions, which can result in impairments of associated assets.
+### Внутренние факторы
+- **Операционные факторы:** Плохая эффективность бизнес-подразделения или операционная неэффективность могут привести к переоценке стоимости связанных активов.
+- **Стратегические сдвиги:** Компании могут решить выйти из определенных бизнес-направлений или географических регионов, что может привести к обесценению связанных активов.
 
-## Impairment Testing
+## Тестирование на обесценение
 
-### Frequency of Testing
-Different accounting standards prescribe varying frequencies for impairment testing. For instance, under IFRS, assets are tested for impairment whenever there is an indication that the asset may be impaired. Goodwill and intangible assets with indefinite useful lives are tested at least annually.
+### Частота тестирования
+Различные стандарты бухгалтерского учета предписывают различную частоту тестирования на обесценение. Например, по IFRS активы тестируются на обесценение всякий раз, когда есть признак того, что актив может быть обесценен. Гудвилл и нематериальные активы с неопределенным сроком полезной жизни тестируются как минимум ежегодно.
 
-### Testing Procedures
-1. **Identifying Indicators of Impairment:** Factors such as market value declines, adverse changes in the economy, or internal reports indicating poor performance may signal the need for an impairment test.
-2. **Measuring Recoverable Amount:** The recoverable amount is the higher of fair value less costs to sell and value in use.
- - **Fair Value Less Costs to Sell:** The price obtainable from the sale of an asset in an arm’s length transaction, minus any costs involved in selling it.
- - **Value in Use:** The present value of the future cash flows expected to be derived from the asset.
-3. **Comparing Carrying and Recoverable Amounts:** If the carrying amount exceeds the recoverable amount, an impairment loss is recognized.
+### Процедуры тестирования
+1. **Выявление индикаторов обесценения:** Факторы, такие как снижение рыночной стоимости, неблагоприятные изменения в экономике или внутренние отчеты, указывающие на плохую эффективность, могут сигнализировать о необходимости теста на обесценение.
+2. **Измерение возмещаемой суммы:** Возмещаемая сумма — это большая из справедливой стоимости за вычетом затрат на продажу и стоимости в использовании.
+ - **Справедливая стоимость за вычетом затрат на продажу:** Цена, получаемая от продажи актива в сделке на расстоянии вытянутой руки, за вычетом любых затрат, связанных с его продажей.
+ - **Стоимость в использовании:** Текущая стоимость будущих денежных потоков, ожидаемых от актива.
+3. **Сравнение балансовой и возмещаемой суммы:** Если балансовая стоимость превышает возмещаемую сумму, признается убыток от обесценения.
 
-## Impact on Financial Metrics
+## Влияние на финансовые метрики
 
-Writedowns and impairments can significantly impact a company's financial metrics and ratios, affecting investor perceptions and valuation.
+Списания и обесценения могут значительно повлиять на финансовые метрики и коэффициенты компании, влияя на восприятие инвесторов и оценку.
 
-### Profitability Ratios
-- **Net Income:** Impairments and writedowns reduce net income, impacting earnings per share (EPS) and return on assets (ROA).
-- **Operating Income:** As these are often recorded as operating expenses, they reduce operating income and operating margins.
+### Коэффициенты рентабельности
+- **Чистая прибыль:** Обесценения и списания уменьшают чистую прибыль, влияя на прибыль на акцию (EPS) и рентабельность активов (ROA).
+- **Операционная прибыль:** Поскольку они часто фиксируются как операционные расходы, они уменьшают операционную прибыль и операционную маржу.
 
-### Asset Turnover Ratios
-- **Total Asset Turnover:** A reduction in total assets can lead to a temporarily higher asset turnover ratio, assuming revenues remain constant.
+### Коэффициенты оборачиваемости активов
+- **Общая оборачиваемость активов:** Уменьшение общих активов может привести к временно более высокому коэффициенту оборачиваемости активов, если доходы остаются постоянными.
 
-### Valuation Metrics
-- **Price-to-Earnings (P/E) Ratio:** Lower net income reduces EPS, potentially raising the P/E ratio if the stock price doesn’t adjust downwards.
-- **Book Value:** Reduced asset values lower the company's book value, impacting book value per share.
+### Метрики оценки
+- **Коэффициент цена/прибыль (P/E):** Более низкая чистая прибыль уменьшает EPS, потенциально повышая коэффициент P/E, если цена акций не корректируется вниз.
+- **Балансовая стоимость:** Уменьшенная стоимость активов снижает балансовую стоимость компании, влияя на балансовую стоимость на акцию.
 
-### Debt Covenants
-Writedowns and impairments can also affect a company's compliance with debt covenants. These covenants often include requirements to maintain certain financial ratios, and unexpected impairments may lead to breaches, triggering adverse consequences such as loan renegotiations or increased borrowing costs.
+### Долговые ковенанты
+Списания и обесценения также могут повлиять на соответствие компании долговым ковенантам. Эти ковенанты часто включают требования к поддержанию определенных финансовых коэффициентов, и неожиданные обесценения могут привести к нарушениям, вызывая неблагоприятные последствия, такие как переговоры по кредитам или увеличенные затраты на заимствование.
 
-## Real-world Examples
+## Реальные примеры
 
-### Case Study 1: General Electric
-General Electric (GE) has had multiple instances where writedowns and impairments significantly impacted their financials. For example, in 2018, GE faced a substantial impairment charge related to its power division, due to a decline in the market for fossil fuel-based power generation equipment.
+### Кейс-стади 1: General Electric
+General Electric (GE) имела множество случаев, когда списания и обесценения значительно повлияли на их финансы. Например, в 2018 году GE столкнулась с существенным убытком от обесценения, связанным с её энергетическим подразделением, из-за снижения спроса на оборудование для генерации энергии на основе ископаемого топлива.
 
-### Case Study 2: Oil & Gas Industry
-The oil and gas industry is particularly prone to impairments due to volatile commodity prices. For instance, during the oil price crash in 2014, many companies including ExxonMobil and Chevron, wrote down the value of their reserves, impacting their balance sheets and leading to significant impairment charges.
+### Кейс-стади 2: Нефтегазовая отрасль
+Нефтегазовая отрасль особенно подвержена обесценениям из-за волатильных цен на сырье. Например, во время обвала цен на нефть в 2014 году многие компании, включая ExxonMobil и Chevron, списали стоимость своих запасов, влияя на их балансы и приводя к значительным убыткам от обесценения.
 
-### Case Study 3: Technology Sector
-In the technology sector, companies like Intel and IBM have periodically written down the value of older technologies as they pivot to new innovations. This is common as rapid technological advancements can quickly reduce the economic viability of existing assets.
+### Кейс-стади 3: Технологический сектор
+В технологическом секторе компании, такие как Intel и IBM, периодически списывали стоимость старых технологий, переходя к новым инновациям. Это обычно, поскольку быстрые технологические достижения могут быстро снизить экономическую жизнеспособность существующих активов.
 
-## Regulatory and Reporting Standards
+## Нормативные и отчетные стандарты
 
-### International Financial Reporting Standards (IFRS)
-Under IFRS, IAS 36 Impairment of Assets provides the guidelines for performing impairment tests and recording impairment losses. Key standards include:
-- **IAS 36:** Outlines the approach to determine the recoverable amount, recognize impairment losses, and the reversal of impairments.
+### Международные стандарты финансовой отчетности (IFRS)
+По IFRS IAS 36 Обесценение активов предоставляет руководства для проведения тестов на обесценение и регистрации убытков от обесценения. Ключевые стандарты включают:
+- **IAS 36:** Описывает подход к определению возмещаемой суммы, признанию убытков от обесценения и восстановлению обесценений.
 
-### Generally Accepted Accounting Principles (GAAP)
-Under U.S. GAAP, the following standards are primarily relevant:
-- **ASC 360:** Property, Plant, and Equipment provides guidance on impairments of long-lived assets.
-- **ASC 350:** Intangibles - Goodwill and Other covers the impairment of goodwill and other intangible assets.
+### Общепринятые принципы бухгалтерского учета (GAAP)
+По U.S. GAAP следующие стандарты являются в первую очередь релевантными:
+- **ASC 360:** Собственность, оборудование и машины предоставляет руководство по обесценениям долгосрочных активов.
+- **ASC 350:** Нематериальные активы - гудвилл и другие охватывает обесценение гудвилла и других нематериальных активов.
 
-## Best Practices for Managing Impairments and Writedowns
+## Лучшие практики для управления обесценениями и списаниями
 
-### Regular Monitoring
-- **Asset Review:** Periodic review of asset values helps in early identification of potential impairments.
-- **Market Trends:** Keep abreast of market conditions and technological advancements that may impact asset values.
+### Регулярный мониторинг
+- **Проверка активов:** Периодическая проверка стоимости активов помогает в раннем выявлении потенциальных обесценений.
+- **Рыночные тенденции:** Следите за рыночными условиями и технологическими достижениями, которые могут повлиять на стоимость активов.
 
-### Risk Management
-- **Diversification:** Diversifying investments and business lines can reduce the risk associated with asset impairments due to industry-specific downturns.
-- **Insurance:** Insuring physical assets against damage can mitigate the financial impact of writedowns due to unforeseen events.
+### Управление рисками
+- **Диверсификация:** Диверсификация инвестиций и бизнес-направлений может снизить риск, связанный с обесценением активов из-за отраслевых спадов.
+- **Страхование:** Страхование физических активов от повреждений может смягчить финансовое воздействие списаний из-за непредвиденных событий.
 
-### Transparency and Disclosure
-- **Clear Reporting:** Provide clear and detailed disclosures related to impairments and writedowns in financial reports.
-- **Stakeholder Communication:** Regularly update investors and stakeholders about potential risks and the rationale behind significant impairments or writedowns.
+### Прозрачность и раскрытие
+- **Четкая отчетность:** Предоставляйте четкие и детальные раскрытия, связанные с обесценениями и списаниями в финансовых отчетах.
+- **Коммуникация с заинтересованными сторонами:** Регулярно обновляйте инвесторов и заинтересованные стороны о потенциальных рисках и обосновании значительных обесценений или списаний.
 
-## Conclusion
-Writedowns and impairments are inherent aspects of asset management in financial accounting. They warrant careful consideration and proactive management to mitigate their impacts on financial health and investor perceptions. Understanding and adhering to the appropriate accounting standards, conducting regular asset reviews, and maintaining transparent reporting are essential practices for effectively managing writedowns and impairments.
+## Заключение
+Списания и обесценения являются неотъемлемыми аспектами управления активами в финансовом учете. Они требуют тщательного рассмотрения и проактивного управления для смягчения их влияния на финансовое здоровье и восприятие инвесторов. Понимание и соблюдение соответствующих стандартов бухгалтерского учета, проведение регулярных проверок активов и поддержание прозрачной отчетности являются необходимыми практиками для эффективного управления списаниями и обесценениями.

@@ -1,143 +1,143 @@
-# Warsaw Stock Exchange (WSE)
+# Варшавская фондовая биржа (WSE)
 
-The Warsaw Stock Exchange (WSE), known in Polish as Giełda Papierów Wartościowych w Warszawie (GPW), is a key financial institution in Poland and one of the most prominent stock exchanges in Central and Eastern Europe. Established on April 16, 1991, following the fall of communism, the WSE has played a critical role in the country's transition to a market economy. This article delves into the history, structure, and functioning of the WSE, its market segments, trading mechanisms, key indices, and its role in the regional and global financial landscape.
+Варшавская фондовая биржа (WSE), известная на польском языке как Giełda Papierów Wartościowych w Warszawie (GPW), является ключевым финансовым институтом в Польше и одной из самых заметных фондовых бирж в Центральной и Восточной Европе. Созданная 16 апреля 1991 года, после падения коммунизма, WSE сыграла критическую роль в переходе страны к рыночной экономике. Эта статья подробно рассматривает историю, структуру и функционирование WSE, её рыночные сегменты, торговые механизмы, ключевые индексы и её роль в региональном и глобальном финансовом пространстве.
 
-## History and Evolution
+## История и эволюция
 
-### Establishment and Early Years
+### Создание и ранние годы
 
-The Warsaw Stock Exchange was officially established on April 16, 1991, marking the rebirth of a capital market in Poland after the end of the communist regime. The first trading session took place with seven companies listed, a modest beginning for what would become a pivotal institution in Poland's economic transformation.
+Варшавская фондовая биржа была официально основана 16 апреля 1991 года, ознаменовав возрождение рынка капитала в Польше после окончания коммунистического режима. Первая торговая сессия состоялась с участием семи компаний, что стало скромным началом для учреждения, которое должно было стать ключевым институтом в экономической трансформации Польши.
 
-Prior to 1989, Poland's financial market infrastructure was virtually non-existent due to the centralized planning of the communist era. The re-establishment of the WSE was part of broader economic reforms aimed at transitioning to a market-oriented economy, which included the privatization of state-owned enterprises and the development of a legal and regulatory framework for capital markets.
+До 1989 года финансовая рыночная инфраструктура Польши практически не существовала из-за централизованного планирования коммунистической эпохи. Восстановление WSE было частью более широких экономических реформ, направленных на переход к рыночно-ориентированной экономике, которые включали приватизацию государственных предприятий и развитие правовой и регуляторной базы для рынков капитала.
 
-### Growth and Development
+### Рост и развитие
 
-Throughout the 1990s and early 2000s, the WSE experienced rapid growth. The number of listed companies increased significantly, and the exchange introduced new financial instruments and trading systems to cater to the growing demand. Key milestones during this period include:
+На протяжении 1990-х и начала 2000-х годов WSE испытывала быстрый рост. Количество зарегистрированных компаний значительно увеличилось, и биржа внедрила новые финансовые инструменты и торговые системы для удовлетворения растущего спроса. Ключевые вехи этого периода включают:
 
-- **1994**: Introduction of the electronic trading system WARSET.
-- **1998**: Launch of the first derivatives market.
-- **2000**: Introduction of the WSE Index (WIG), the main market index.
+- **1994**: Внедрение электронной торговой системы WARSET.
+- **1998**: Запуск первого рынка деривативов.
+- **2000**: Представление индекса WSE (WIG), основного рыночного индекса.
 
-The expansion was also supported by Poland's accession to the European Union in 2004, which brought about increased investor confidence and integration with European financial markets.
+Расширение также поддерживалось вступлением Польши в Европейский Союз в 2004 году, что привело к усилению доверия инвесторов и интеграции с европейскими финансовыми рынками.
 
-### Modern Era
+### Современная эра
 
-In recent years, the WSE has continued to evolve, embracing technological advancements and expanding its product offerings. Key developments include:
+В последние годы WSE продолжает развиваться, внедряя технологические достижения и расширяя свой продуктовый ассортимент. Ключевые события включают:
 
-- **2010**: Introduction of the Universal Trading Platform (UTP), developed in cooperation with NYSE Euronext, which significantly enhanced trading speed and capacity.
-- **2013**: Launch of the NewConnect market for small and medium-sized enterprises.
-- **2015**: Introduction of a new segment for high-growth companies, highlighting the exchange's commitment to supporting innovation.
+- **2010**: Внедрение Универсальной торговой платформы (UTP), разработанной в сотрудничестве с NYSE Euronext, которая значительно повысила скорость и ёмкость торговли.
+- **2013**: Запуск рынка NewConnect для малых и средних предприятий.
+- **2015**: Введение нового сегмента для быстрорастущих компаний, подчёркивающего приверженность биржи поддержке инноваций.
 
-The WSE remains a key player in the region, attracting both domestic and international investors and serving as a major platform for raising capital in Central and Eastern Europe.
+WSE остаётся ключевым игроком в регионе, привлекая как отечественных, так и международных инвесторов и служа основной платформой для привлечения капитала в Центральной и Восточной Европе.
 
-## Market Segments
+## Рыночные сегменты
 
-The WSE operates multiple market segments to accommodate a diverse range of issuers and investors. Each segment targets different types of companies and offers distinct listing requirements and trading mechanisms.
+WSE управляет множественными рыночными сегментами для размещения разнообразного круга эмитентов и инвесторов. Каждый сегмент ориентирован на различные типы компаний и предлагает отличающиеся требования к листингу и торговые механизмы.
 
-### Main Market
+### Основной рынок
 
-The Main Market is the primary segment of the WSE, where the shares of large and medium-sized companies are traded. This market is subject to the highest regulatory standards and is designed to attract institutional investors and large-cap companies. Key characteristics of the Main Market include:
+Основной рынок является главным сегментом WSE, где торгуются акции крупных и средних компаний. Этот рынок подчиняется самым высоким регуляторным стандартам и предназначен для привлечения институциональных инвесторов и компаний с большой капитализацией. Ключевые характеристики Основного рынка включают:
 
-- **High Transparency**: Companies listed on the Main Market must adhere to stringent disclosure requirements and corporate governance standards.
-- **Liquidity**: The Main Market offers high liquidity, making it attractive to both issuers and investors.
-- **Indices**: The Main Market includes several key indices, such as the WIG20, mWIG40, and sWIG80, which track the performance of large-cap, mid-cap, and small-cap companies, respectively.
+- **Высокая прозрачность**: Компании, зарегистрированные на Основном рынке, должны соблюдать строгие требования к раскрытию информации и стандарты корпоративного управления.
+- **Ликвидность**: Основной рынок предлагает высокую ликвидность, что делает его привлекательным как для эмитентов, так и для инвесторов.
+- **Индексы**: Основной рынок включает несколько ключевых индексов, таких как WIG20, mWIG40 и sWIG80, которые отслеживают производительность компаний с большой, средней и малой капитализацией соответственно.
 
 ### NewConnect
 
-NewConnect is a market created to cater to small and medium-sized enterprises (SMEs) and high-growth companies, particularly in the technology sector. Launched in 2007, NewConnect aims to provide a platform for innovative companies seeking access to capital without the stringent requirements of the Main Market. Key features of NewConnect include:
+NewConnect - это рынок, созданный для обслуживания малых и средних предприятий (МСП) и быстрорастущих компаний, особенно в технологическом секторе. Запущенный в 2007 году, NewConnect стремится предоставить платформу для инновационных компаний, ищущих доступ к капиталу без строгих требований Основного рынка. Ключевые особенности NewConnect включают:
 
-- **Lower Entry Barriers**: Listing requirements on NewConnect are less stringent compared to the Main Market, making it easier for SMEs to go public.
-- **Growth Potential**: NewConnect is designed to attract high-growth companies, offering investors the opportunity to invest in emerging businesses.
-- **Alternative Trading**: NewConnect operates with a focus on tailor-made information policy and more flexible corporate governance rules.
+- **Более низкие барьеры для входа**: Требования к листингу на NewConnect менее строгие по сравнению с Основным рынком, что облегчает выход МСП на публичный рынок.
+- **Потенциал роста**: NewConnect предназначен для привлечения быстрорастущих компаний, предлагая инвесторам возможность инвестировать в развивающийся бизнес.
+- **Альтернативная торговля**: NewConnect работает с акцентом на индивидуальную информационную политику и более гибкие правила корпоративного управления.
 
 ### Catalyst
 
-Catalyst is the WSE's segment dedicated to debt instruments, including corporate and municipal bonds. Launched in 2009, Catalyst provides a platform for issuers to raise debt capital and for investors to trade fixed-income securities. Key aspects of Catalyst include:
+Catalyst - это сегмент WSE, посвящённый долговым инструментам, включая корпоративные и муниципальные облигации. Запущенный в 2009 году, Catalyst предоставляет платформу для эмитентов для привлечения долгового капитала и для инвесторов для торговли ценными бумагами с фиксированным доходом. Ключевые аспекты Catalyst включают:
 
-- **Diversified Instruments**: Catalyst offers a wide range of debt instruments, catering to various issuers and investors.
-- **Transparency**: The platform emphasizes transparency and investor protection, with robust reporting and disclosure requirements.
-- **Professional Market**: Catalyst is a professional market, designed to attract institutional investors seeking fixed-income investments.
+- **Диверсифицированные инструменты**: Catalyst предлагает широкий спектр долговых инструментов, обслуживая различных эмитентов и инвесторов.
+- **Прозрачность**: Платформа делает акцент на прозрачности и защите инвесторов с надёжными требованиями к отчётности и раскрытию информации.
+- **Профессиональный рынок**: Catalyst - это профессиональный рынок, предназначенный для привлечения институциональных инвесторов, ищущих инвестиции с фиксированным доходом.
 
-## Trading Mechanisms
+## Торговые механизмы
 
-The WSE employs advanced trading mechanisms to ensure efficient and transparent market operations. The exchange utilizes state-of-the-art technology to facilitate electronic trading and offers various types of orders and trading phases to cater to the needs of different market participants.
+WSE использует передовые торговые механизмы для обеспечения эффективных и прозрачных рыночных операций. Биржа использует самые современные технологии для облегчения электронной торговли и предлагает различные типы ордеров и торговые фазы для удовлетворения потребностей различных участников рынка.
 
-### Trading Sessions
+### Торговые сессии
 
-The trading day on the WSE is divided into several phases, each serving a specific purpose:
+Торговый день на WSE разделён на несколько фаз, каждая из которых служит определённой цели:
 
-- **Pre-Opening Phase**: During this phase, orders can be entered, modified, or canceled, but no trades are executed. The pre-opening phase helps to determine the opening prices based on the order book.
-- **Main Trading Phase**: This is the primary trading session, during which continuous trading occurs. Orders are matched and executed based on price-time priority.
-- **Closing Phase**: The closing phase includes a closing auction, where the closing prices are determined based on the supply and demand in the order book.
-- **Post-Closing Phase**: After the closing auction, there is a post-closing session where investors can place orders for the next trading day.
+- **Фаза пре-открытия**: В течение этой фазы ордера могут быть введены, изменены или отменены, но сделки не исполняются. Фаза пре-открытия помогает определить цены открытия на основе книги ордеров.
+- **Основная торговая фаза**: Это основная торговая сессия, в течение которой происходит непрерывная торговля. Ордера сопоставляются и исполняются на основе приоритета цены и времени.
+- **Фаза закрытия**: Фаза закрытия включает аукцион закрытия, где цены закрытия определяются на основе предложения и спроса в книге ордеров.
+- **Фаза после закрытия**: После аукциона закрытия следует сессия после закрытия, где инвесторы могут размещать ордера на следующий торговый день.
 
-### Order Types
+### Типы ордеров
 
-The WSE offers a variety of order types to accommodate different trading strategies and investor needs. These include:
+WSE предлагает разнообразие типов ордеров для размещения различных торговых стратегий и потребностей инвесторов. К ним относятся:
 
-- **Market Orders**: Orders to buy or sell at the best available price.
-- **Limit Orders**: Orders to buy or sell at a specified price or better.
-- **Stop Orders**: Orders that become market orders once a specified price is reached.
-- **Iceberg Orders**: Large orders that are divided into smaller visible portions to minimize market impact.
+- **Рыночные ордера**: Ордера на покупку или продажу по лучшей доступной цене.
+- **Лимитные ордера**: Ордера на покупку или продажу по указанной цене или лучше.
+- **Стоп-ордера**: Ордера, которые становятся рыночными ордерами после достижения указанной цены.
+- **Ордера-айсберги**: Крупные ордера, которые разделены на меньшие видимые части для минимизации рыночного воздействия.
 
-### Trading Platforms
+### Торговые платформы
 
-The WSE utilizes the Universal Trading Platform (UTP), developed in collaboration with NYSE Euronext, to facilitate electronic trading. UTP offers high-speed, high-capacity trading capabilities and supports a wide range of financial instruments. Features of the UTP include:
+WSE использует Универсальную торговую платформу (UTP), разработанную в сотрудничестве с NYSE Euronext, для облегчения электронной торговли. UTP предлагает высокоскоростные возможности торговли с высокой пропускной способностью и поддерживает широкий спектр финансовых инструментов. Особенности UTP включают:
 
-- **Latency**: Low latency ensures fast order execution and minimal delay.
-- **Scalability**: The platform can accommodate high trading volumes and a large number of participants.
-- **Flexibility**: UTP supports a variety of trading strategies and order types.
+- **Задержка**: Низкая задержка обеспечивает быстрое исполнение ордеров и минимальную задержку.
+- **Масштабируемость**: Платформа может обрабатывать высокие объёмы торговли и большое количество участников.
+- **Гибкость**: UTP поддерживает разнообразие торговых стратегий и типов ордеров.
 
-## Key Indices
+## Ключевые индексы
 
-Stock indices play a crucial role in the WSE, providing benchmarks for market performance and serving as tools for investors to evaluate market trends. Some of the key indices on the WSE include:
+Фондовые индексы играют критическую роль на WSE, предоставляя ориентиры для рыночной производительности и служа инструментами для инвесторов при оценке рыночных трендов. Некоторые из ключевых индексов на WSE включают:
 
 ### WIG20
 
-The WIG20 is the flagship index of the WSE, comprising the 20 largest and most liquid companies listed on the Main Market. It serves as a benchmark for the overall performance of the Warsaw Stock Exchange and is widely used by institutional investors and fund managers. Key characteristics of the WIG20 include:
+WIG20 - это флагманский индекс WSE, включающий 20 крупнейших и самых ликвидных компаний, зарегистрированных на Основном рынке. Он служит ориентиром для общей производительности Варшавской фондовой биржи и широко используется институциональными инвесторами и управляющими фондами. Ключевые характеристики WIG20 включают:
 
-- **Blue-Chip Stocks**: The index includes the most prominent companies in Poland, representing various sectors of the economy.
-- **Market Capitalization**: The WIG20 is a capitalization-weighted index, meaning that larger companies have a greater influence on its performance.
-- **Liquidity**: The inclusion of highly liquid stocks ensures that the index accurately reflects market movements.
+- **Голубые фишки**: Индекс включает самые заметные компании в Польше, представляющие различные секторы экономики.
+- **Рыночная капитализация**: WIG20 - это индекс, взвешенный по капитализации, что означает, что более крупные компании имеют большее влияние на его производительность.
+- **Ликвидность**: Включение высоколиквидных акций обеспечивает точное отражение индексом рыночных движений.
 
 ### mWIG40
 
-The mWIG40 index represents mid-cap companies listed on the WSE. It includes 40 companies that are larger than those in the sWIG80 index but smaller than those in the WIG20. Key features of the mWIG40 include:
+Индекс mWIG40 представляет компании средней капитализации, зарегистрированные на WSE. Он включает 40 компаний, которые крупнее тех, что в индексе sWIG80, но меньше тех, что в WIG20. Ключевые особенности mWIG40 включают:
 
-- **Diversification**: The index offers a diversified exposure to mid-sized companies across various sectors.
-- **Growth Potential**: Mid-cap companies often exhibit higher growth potential compared to large-cap counterparts.
-- **Benchmark**: The mWIG40 serves as a benchmark for mid-cap performance and is used by investors seeking to invest in medium-sized enterprises.
+- **Диверсификация**: Индекс предлагает диверсифицированную экспозицию к компаниям среднего размера в различных секторах.
+- **Потенциал роста**: Компании средней капитализации часто демонстрируют более высокий потенциал роста по сравнению с крупнокапитализированными аналогами.
+- **Ориентир**: mWIG40 служит ориентиром для производительности средних компаний и используется инвесторами, стремящимися инвестировать в средние предприятия.
 
 ### sWIG80
 
-The sWIG80 index comprises small-cap companies listed on the WSE. It includes 80 companies that are smaller in market capitalization compared to those in the WIG20 and mWIG40. Key characteristics of the sWIG80 include:
+Индекс sWIG80 включает компании малой капитализации, зарегистрированные на WSE. Он включает 80 компаний, которые меньше по рыночной капитализации по сравнению с теми, что в WIG20 и mWIG40. Ключевые характеристики sWIG80 включают:
 
-- **Small-Cap Focus**: The index provides exposure to smaller companies, which can offer unique investment opportunities and higher growth potential.
-- **Sector Representation**: The sWIG80 includes companies from a wide range of sectors, ensuring diversified exposure.
-- **Investment Opportunities**: The index is used by investors looking to invest in smaller, potentially high-growth companies.
+- **Фокус на малой капитализации**: Индекс обеспечивает экспозицию к более мелким компаниям, которые могут предложить уникальные инвестиционные возможности и более высокий потенциал роста.
+- **Представительность секторов**: sWIG80 включает компании из широкого спектра секторов, обеспечивая диверсифицированную экспозицию.
+- **Инвестиционные возможности**: Индекс используется инвесторами, стремящимися инвестировать в меньшие, потенциально быстрорастущие компании.
 
-## Role in Regional and Global Financial Landscape
+## Роль в региональном и глобальном финансовом пространстве
 
-The Warsaw Stock Exchange plays a significant role in both the regional and global financial landscape. Its strategic location in Central and Eastern Europe and its robust market infrastructure make it a key player in the region.
+Варшавская фондовая биржа играет значительную роль как в региональном, так и в глобальном финансовом пространстве. Её стратегическое расположение в Центральной и Восточной Европе и её надёжная рыночная инфраструктура делают её ключевым игроком в регионе.
 
-### Regional Integration
+### Региональная интеграция
 
-The WSE is an integral part of the financial markets in Central and Eastern Europe. It serves as a primary platform for raising capital in the region and attracts a diverse range of issuers from various countries. Key aspects of the WSE's regional role include:
+WSE является неотъемлемой частью финансовых рынков в Центральной и Восточной Европе. Она служит основной платформой для привлечения капитала в регионе и привлекает разнообразный круг эмитентов из различных стран. Ключевые аспекты региональной роли WSE включают:
 
-- **Capital Raising**: The WSE provides a vital channel for companies in the region to access capital, supporting economic growth and development.
-- **Cross-Border Listings**: The exchange attracts cross-border listings, with companies from neighboring countries choosing the WSE for their IPOs and secondary offerings.
-- **Regional Benchmark**: The WSE's indices serve as benchmarks for regional market performance, offering insights into the economic health of Central and Eastern Europe.
+- **Привлечение капитала**: WSE предоставляет жизненно важный канал для компаний в регионе для доступа к капиталу, поддерживая экономический рост и развитие.
+- **Трансграничные листинги**: Биржа привлекает трансграничные листинги, при этом компании из соседних стран выбирают WSE для своих IPO и вторичных размещений.
+- **Региональный ориентир**: Индексы WSE служат ориентирами для региональной рыночной производительности, предлагая понимание экономического здоровья Центральной и Восточной Европы.
 
-### Global Presence
+### Глобальное присутствие
 
-In addition to its regional significance, the Warsaw Stock Exchange also maintains a global presence. It attracts international investors and participates in global financial initiatives. Key aspects of the WSE's global role include:
+В дополнение к своей региональной значимости Варшавская фондовая биржа также поддерживает глобальное присутствие. Она привлекает международных инвесторов и участвует в глобальных финансовых инициативах. Ключевые аспекты глобальной роли WSE включают:
 
-- **Foreign Investment**: The WSE's robust market infrastructure and regulatory framework attract foreign investors seeking exposure to the Central and Eastern European markets.
-- **Global Partnerships**: The WSE collaborates with other international exchanges and financial institutions, enhancing its global reach and influence.
-- **Sustainable Finance**: The exchange is committed to promoting sustainable finance and ESG (Environmental, Social, and Governance) investing, aligning with global trends and investor preferences.
+- **Иностранные инвестиции**: Надёжная рыночная инфраструктура и регуляторная база WSE привлекают иностранных инвесторов, ищущих экспозицию к рынкам Центральной и Восточной Европы.
+- **Глобальные партнёрства**: WSE сотрудничает с другими международными биржами и финансовыми институтами, расширяя свой глобальный охват и влияние.
+- **Устойчивые финансы**: Биржа привержена продвижению устойчивого финансирования и ESG (экологическое, социальное и управленческое) инвестирования, соответствуя глобальным трендам и предпочтениям инвесторов.
 
-## Conclusion
+## Заключение
 
-The Warsaw Stock Exchange has evolved from a modest beginning in 1991 to become a key financial institution in Poland and a prominent stock exchange in Central and Eastern Europe. Its diverse market segments, advanced trading mechanisms, and robust market infrastructure make it an attractive platform for issuers and investors alike. As the WSE continues to grow and innovate, it remains a vital component of the regional and global financial landscape, supporting economic growth and development in Poland and beyond.
+Варшавская фондовая биржа прошла путь от скромного начала в 1991 году до того, чтобы стать ключевым финансовым институтом в Польше и заметной фондовой биржей в Центральной и Восточной Европе. Её разнообразные рыночные сегменты, передовые торговые механизмы и надёжная рыночная инфраструктура делают её привлекательной платформой как для эмитентов, так и для инвесторов. Поскольку WSE продолжает расти и развиваться, она остаётся жизненно важным компонентом регионального и глобального финансового пространства, поддерживая экономический рост и развитие в Польше и за её пределами.
 
-For more information on the Warsaw Stock Exchange, its market segments, trading mechanisms, and key indices,
+Для получения дополнительной информации о Варшавской фондовой бирже, её рыночных сегментах, торговых механизмах и ключевых индексах,

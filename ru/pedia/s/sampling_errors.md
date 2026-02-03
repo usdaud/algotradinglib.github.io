@@ -1,88 +1,88 @@
 # Ошибки выборки
 
-In the field of [statistics](../s/statistics.md), yielding accurate results typically involves deriving insights from collected sample data. However, extracting accurate insights from these samples can be prone to a variety of errors, known as [sampling](../s/sampling.md) errors. [Sampling](../s/sampling.md) error is the discrepancy between the sample statistic and the actual population parameter which it is trying to estimate. Recognizing and adjusting for these errors is critical in fields such as trading and [finance](../f/finance.md), where data-driven decision-making is crucial.
+В области статистики получение точных результатов обычно предполагает извлечение выводов из собранных выборочных данных. Однако получение точных выводов из этих выборок может быть подвержено различным ошибкам, известным как ошибки выборки. Ошибка выборки — это расхождение между выборочной статистикой и фактическим параметром генеральной совокупности, который она пытается оценить. Распознавание и корректировка этих ошибок имеет критическое значение в таких областях, как трейдинг и финансы, где принятие решений на основе данных является ключевым.
 
-## Types of Sampling Errors
+## Типы ошибок выборки
 
-1. **Random [Sampling](../s/sampling.md) Error**:
- This error arises due to the nature of the sample itself, due to pure chance. Even though the sample is randomly selected, the sample might not perfectly represent the population due to randomness. This is quantified by the [margin](../m/margin.md) of error in a study or survey.
+1. **Случайная ошибка выборки**:
+   Эта ошибка возникает из-за природы самой выборки, в силу чистой случайности. Даже при случайном отборе выборка может не полностью представлять генеральную совокупность из-за случайных факторов. Это количественно выражается погрешностью в исследовании или опросе.
 
-2. **[Systematic Sampling](../s/systematic_sampling.md) Error**:
- Unlike random [sampling](../s/sampling.md) error, systematic errors arise from a flaw in the sample selection process. For example, if a sample is meant to represent the incomes of a whole population but excludes certain sections, such as high earners or particular [demographics](../d/demographics.md), it leads to systematic bias.
+2. **Систематическая ошибка выборки**:
+   В отличие от случайной ошибки выборки, систематические ошибки возникают из-за недостатка в процессе отбора выборки. Например, если выборка должна представлять доходы всей генеральной совокупности, но исключает определённые сегменты, такие как высокооплачиваемые работники или определённые демографические группы, это приводит к систематическому смещению.
 
-3. **Coverage Error**:
- Coverage errors occur when some members of the population are not included in the sample frame. This can dramatically skew results if the uncovered group has distinct characteristics essential to the study or decision-making process.
+3. **Ошибка охвата**:
+   Ошибки охвата возникают, когда некоторые члены генеральной совокупности не включены в выборочную рамку. Это может существенно исказить результаты, если неохваченная группа имеет отличительные характеристики, важные для исследования или процесса принятия решений.
 
-4. **Non-response Error**:
- Non-response error manifests when subjects chosen for [sampling](../s/sampling.md) do not respond. The non-responders may have different characteristics compared to those who respond, which could lead to bias in the results.
+4. **Ошибка неответа**:
+   Ошибка неответа проявляется, когда субъекты, выбранные для выборки, не отвечают. Не ответившие могут иметь характеристики, отличающиеся от тех, кто ответил, что может привести к смещению результатов.
 
-5. **Measurement Error**:
- This error arises when there’s a discrepancy between the obtained responses and the actual values. It could occur due to faults in data collection instruments, inaccurate responses by the subjects, or data recording errors.
+5. **Ошибка измерения**:
+   Эта ошибка возникает, когда существует расхождение между полученными ответами и фактическими значениями. Она может происходить из-за недостатков инструментов сбора данных, неточных ответов субъектов или ошибок записи данных.
 
-## Causes of Sampling Errors
+## Причины ошибок выборки
 
-### Poor Sampling Techniques
+### Некачественные методы выборки
 
-1. **Non-random [Sampling](../s/sampling.md)**:
- Opting for convenience [sampling](../s/sampling.md), [judgment](../j/judgment.md) [sampling](../s/sampling.md), or other non-random techniques can lead to a sample that does not correctly represent the population.
+1. **Неслучайная выборка**:
+   Выбор удобной выборки, выборки по суждению или других неслучайных методов может привести к выборке, которая неправильно представляет генеральную совокупность.
 
-2. **Small Sample Size**:
- Choosing a sample that's too small can lead to inaccurate estimates of the population parameters.
+2. **Малый размер выборки**:
+   Выбор слишком маленькой выборки может привести к неточным оценкам параметров генеральной совокупности.
 
-3. **Faulty Sample Design**:
- If the [sampling](../s/sampling.md) design fails to capture the diversity within the population, it skews results. For example, using an online survey for a population that includes a large segment without internet access.
+3. **Дефектный дизайн выборки**:
+   Если дизайн выборки не охватывает разнообразие внутри генеральной совокупности, это искажает результаты. Например, использование онлайн-опроса для генеральной совокупности, включающей большой сегмент без доступа к интернету.
 
-4. **Use of Nonequivalent Groups**:
- Failing to ensure that the sample groups have similar characteristics can lead to biased results, especially in comparative studies.
+4. **Использование неэквивалентных групп**:
+   Неспособность обеспечить сходные характеристики выборочных групп может привести к смещённым результатам, особенно в сравнительных исследованиях.
 
-### Challenges in Finance and Trading
+### Проблемы в финансах и трейдинге
 
-1. **[Market](../m/market.md) Data Incompleteness**:
- [Trader](../t/trader.md) decisions based on historical [market](../m/market.md) data can be affected by [sampling](../s/sampling.md) errors if the data isn’t comprehensive or includes segments that aren’t representative of the current [market](../m/market.md) scenario.
+1. **Неполнота рыночных данных**:
+   Решения трейдеров, основанные на исторических рыночных данных, могут быть подвержены ошибкам выборки, если данные не являются всеобъемлющими или включают сегменты, не представляющие текущую рыночную ситуацию.
 
-2. **Algorithm Bias**:
- Algorithms used in trading should be trained on comprehensive data sets representing different [market](../m/market.md) conditions. Training systems on incomplete or biased data can lead to suboptimal recommendations and trading outcomes.
+2. **Смещение алгоритма**:
+   Алгоритмы, используемые в трейдинге, должны обучаться на комплексных наборах данных, представляющих различные рыночные условия. Обучение систем на неполных или смещённых данных может привести к неоптимальным рекомендациям и торговым результатам.
 
-3. **Event-Driven Errors**:
- In [finance](../f/finance.md), events such as economic shifts or geopolitical disruptions can cause abrupt changes. If the sample isn’t recent or reflective of the current [market](../m/market.md)'s conditions, conclusions drawn are prone to errors.
+3. **Ошибки, обусловленные событиями**:
+   В финансах такие события, как экономические сдвиги или геополитические потрясения, могут вызвать резкие изменения. Если выборка не является актуальной или не отражает текущие рыночные условия, сделанные выводы подвержены ошибкам.
 
-## Mitigating Sampling Errors
+## Снижение ошибок выборки
 
-1. **Increasing Sample Size**:
- A larger sample size improves the representation of the population, thereby reducing random [sampling](../s/sampling.md) error. It's important to strike a balance between size and manageability.
+1. **Увеличение размера выборки**:
+   Больший размер выборки улучшает репрезентативность генеральной совокупности, тем самым снижая случайную ошибку выборки. Важно найти баланс между размером и управляемостью.
 
-2. **Stratified [Sampling](../s/sampling.md)**:
- Dividing the population into strata or segments based on shared characteristics and then [sampling](../s/sampling.md) from each stratum can correct for overrepresentation or underrepresentation of certain groups.
+2. **Стратифицированная выборка**:
+   Разделение генеральной совокупности на страты или сегменты на основе общих характеристик с последующим отбором из каждой страты может скорректировать избыточное или недостаточное представительство определённых групп.
 
-3. **[Systematic Sampling](../s/systematic_sampling.md)**:
- While random [sampling](../s/sampling.md) ensures each member has an equal chance of being selected, [systematic sampling](../s/systematic_sampling.md) involves selecting elements at regular intervals. This can be effective if the chosen interval does not introduce bias.
+3. **Систематическая выборка**:
+   В то время как случайная выборка гарантирует, что каждый член имеет равные шансы быть выбранным, систематическая выборка предполагает отбор элементов через регулярные интервалы. Это может быть эффективно, если выбранный интервал не вносит смещения.
 
-4. **Continuous Monitoring and Adjustment**:
- Regularly updating samples to reflect changing conditions and [demographics](../d/demographics.md) helps mitigate long-term [sampling](../s/sampling.md) errors, especially in dynamic fields like [finance](../f/finance.md) and trading.
+4. **Постоянный мониторинг и корректировка**:
+   Регулярное обновление выборок для отражения меняющихся условий и демографии помогает снизить долгосрочные ошибки выборки, особенно в динамичных областях, таких как финансы и трейдинг.
 
-5. **Improving Survey Instrument Accuracy**:
- Ensuring that the tools for data collection are [robust](../r/robust.md), tested, and appropriate for the target group is essential in reducing non-response and measurement errors.
+5. **Повышение точности инструментов опроса**:
+   Обеспечение того, чтобы инструменты сбора данных были надёжными, проверенными и подходящими для целевой группы, важно для снижения ошибок неответа и измерения.
 
-6. **Dealing with Non-responses**:
- Applying techniques such as follow-ups, [offering](../o/offering.md) incentives for participants, or weighting the collected responses to reflect the broader population can help address non-response errors.
+6. **Работа с неответами**:
+   Применение таких методов, как повторные запросы, предложение стимулов для участников или взвешивание собранных ответов для отражения более широкой генеральной совокупности, может помочь устранить ошибки неответа.
 
-7. **Leveraging Advanced Analytical Techniques**:
- Utilizing methodologies such as bootstrapping and cross-validation helps detect and correct [sampling](../s/sampling.md) biases in model training phases. This is particularly useful in [algorithmic trading](../a/algorithmic_trading.md) and [financial forecasting](../f/financial_forecasting.md).
+7. **Использование продвинутых аналитических методов**:
+   Использование таких методологий, как бутстрэп и кросс-валидация, помогает обнаруживать и исправлять смещения выборки на этапах обучения моделей. Это особенно полезно в алгоритмической торговле и финансовом прогнозировании.
 
-## Practical Applications in Finance and Trading
+## Практическое применение в финансах и трейдинге
 
-1. **[Risk Management](../r/risk_management.md)**:
- Accurate [risk models](../r/risk_models_in_trading.md) depend on representative data. Ensuring the sample data captures all aspects of [market](../m/market.md) behavior is critical for prudent [risk management](../r/risk_management.md).
+1. **Управление рисками**:
+   Точные модели риска зависят от репрезентативных данных. Обеспечение того, чтобы выборочные данные охватывали все аспекты рыночного поведения, критически важно для разумного управления рисками.
 
-2. **[Algorithmic Trading](../a/algorithmic_trading.md) Systems**:
- Algos require training on datasets that are as free from [sampling](../s/sampling.md) errors as possible. This ensures that recommendations or trading patterns reflect true [market](../m/market.md) behavior.
+2. **Системы алгоритмической торговли**:
+   Алгоритмы требуют обучения на наборах данных, максимально свободных от ошибок выборки. Это гарантирует, что рекомендации или торговые паттерны отражают истинное рыночное поведение.
 
-3. **Investment Decision-Making**:
- Investment strategies should be based on analysis derived from data free of [sampling](../s/sampling.md) biases. This requires [finance](../f/finance.md) professionals to be diligent in their data collection and analysis processes.
+3. **Принятие инвестиционных решений**:
+   Инвестиционные стратегии должны основываться на анализе, полученном из данных, свободных от смещений выборки. Это требует от финансовых профессионалов тщательности в процессах сбора и анализа данных.
 
-4. **[Market Research](../m/market_research.md)**:
- Financial firms often rely on [market research](../m/market_research.md) before launching new products or entering new markets. Accurate [market research](../m/market_research.md) ensures sound [business](../b/business.md) decisions.
+4. **Маркетинговые исследования**:
+   Финансовые фирмы часто полагаются на маркетинговые исследования перед запуском новых продуктов или выходом на новые рынки. Точные маркетинговые исследования обеспечивают обоснованные бизнес-решения.
 
-## Conclusion
+## Заключение
 
-[Sampling](../s/sampling.md) errors are an inherent part of statistical analysis and can significantly impact decision-making in trading and [finance](../f/finance.md). By understanding the types and causes of [sampling](../s/sampling.md) errors, [finance](../f/finance.md) professionals can put measures in place to minimize their impact. This leads to more accurate data-driven decisions and better [market](../m/market.md) outcomes. Continuous learning, adopting advanced techniques, and maintaining vigilance can help keep [sampling](../s/sampling.md) errors at bay, making the resulting insights reliable and actionable.
+Ошибки выборки являются неотъемлемой частью статистического анализа и могут существенно влиять на принятие решений в трейдинге и финансах. Понимая типы и причины ошибок выборки, финансовые профессионалы могут принимать меры для минимизации их влияния. Это ведёт к более точным решениям, основанным на данных, и лучшим рыночным результатам. Постоянное обучение, применение продвинутых методов и поддержание бдительности могут помочь держать ошибки выборки под контролем, делая полученные выводы надёжными и практически применимыми.

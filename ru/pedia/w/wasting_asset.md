@@ -1,95 +1,95 @@
-# Wasting Asset
+# Изнашивающийся актив
 
-A wasting asset refers to a tangible or intangible resource that has a finite lifespan and depreciates in value over time. These assets lose value due to factors such as usage, wear and tear, or obsolescence. Wasting assets can be found across various industries and fields, including finance, real estate, natural resources, and equipment.
+Изнашивающийся актив относится к материальному или нематериальному ресурсу, который имеет конечный срок службы и обесценивается со временем. Эти активы теряют стоимость из-за таких факторов, как использование, износ или устаревание. Изнашивающиеся активы можно найти в различных отраслях и областях, включая финансы, недвижимость, природные ресурсы и оборудование.
 
-## Characteristics of Wasting Assets
+## Характеристики изнашивающихся активов
 
-### Limited Lifespan
-Wasting assets are characterized by their limited useful life. Unlike assets that can potentially produce value indefinitely, wasting assets are temporal and will eventually be exhausted or rendered worthless.
+### Ограниченный срок службы
+Изнашивающиеся активы характеризуются своим ограниченным сроком полезного использования. В отличие от активов, которые потенциально могут производить стоимость бесконечно, изнашивающиеся активы являются временными и в конечном итоге будут исчерпаны или станут бесполезными.
 
-### Depreciation
-One of the central features of wasting assets is depreciation, which refers to the gradual reduction in the value of the asset over time. Depreciation can result from physical wear and tear, technological obsolescence, or depletion of natural resources.
+### Амортизация
+Одной из центральных характеристик изнашивающихся активов является амортизация, которая относится к постепенному снижению стоимости актива с течением времени. Амортизация может быть результатом физического износа, технологического устаревания или истощения природных ресурсов.
 
-### Tangibility
-Wasting assets can be either tangible (physical) or intangible (non-physical). Tangible examples include machinery, equipment, and natural resources, whereas intangible examples may include patents and leases.
+### Материальность
+Изнашивающиеся активы могут быть как материальными (физическими), так и нематериальными (нефизическими). Материальные примеры включают машины, оборудование и природные ресурсы, тогда как нематериальные примеры могут включать патенты и договоры аренды.
 
-## Types of Wasting Assets
+## Типы изнашивающихся активов
 
-### Natural Resources
-Natural resources like oil, gas, and minerals are typical examples of wasting assets. As these resources are extracted and consumed, their availability diminishes, thus reducing their overall value.
+### Природные ресурсы
+Природные ресурсы, такие как нефть, газ и минералы, являются типичными примерами изнашивающихся активов. По мере добычи и потребления этих ресурсов их доступность уменьшается, тем самым снижая их общую стоимость.
 
-### Equipment and Machinery
-Machinery and industrial equipment are also considered wasting assets due to wear and tear, eventual breakdowns, and the advancements in technology that can make them obsolete.
+### Оборудование и машины
+Машины и промышленное оборудование также считаются изнашивающимися активами из-за износа, возможных поломок и достижений в технологии, которые могут сделать их устаревшими.
 
-### Intangible Assets
-Certain intangible assets, such as patents, copyrights, and leases, also have a limited useful life. For example, a patent might have a lifespan of 20 years, after which it becomes public domain and loses its proprietary value.
+### Нематериальные активы
+Определенные нематериальные активы, такие как патенты, авторские права и договоры аренды, также имеют ограниченный срок полезного использования. Например, патент может иметь срок службы 20 лет, после чего он становится общественным достоянием и теряет свою собственную стоимость.
 
-### Real Estate
-In the realm of real estate, buildings and other structures may be considered wasting assets due to physical degradation over time, even though the land itself may appreciate in value.
+### Недвижимость
+В сфере недвижимости здания и другие сооружения могут считаться изнашивающимися активами из-за физической деградации с течением времени, даже если сама земля может увеличиваться в стоимости.
 
-## Depreciation Methods
+## Методы амортизации
 
-Several methods can be used to calculate depreciation for wasting assets:
+Для расчета амортизации изнашивающихся активов можно использовать несколько методов:
 
-### Straight-Line Depreciation
-This method spreads the cost evenly over the asset's useful life. It's straightforward and commonly used for tax and accounting purposes.
+### Линейная амортизация
+Этот метод равномерно распределяет стоимость в течение срока полезного использования актива. Он прост и обычно используется для налоговых и бухгалтерских целей.
 
-### Declining Balance
-The declining balance method applies a constant rate of depreciation to the remaining book value of the asset each year.
+### Убывающий остаток
+Метод убывающего остатка применяет постоянную ставку амортизации к оставшейся балансовой стоимости актива каждый год.
 
-### Units of Production
-This method correlates the depreciation of the asset to its usage, often used for machinery and equipment.
+### Единицы производства
+Этот метод соотносит амортизацию актива с его использованием, часто используется для машин и оборудования.
 
-### Sum-of-the-Years'-Digits (SYD)
-This accelerated depreciation method takes the sum of the years of the asset's useful life and applies a fraction to determine the depreciation expense.
+### Сумма чисел лет (SYD)
+Этот метод ускоренной амортизации берет сумму лет срока полезного использования актива и применяет дробь для определения расходов на амортизацию.
 
-## Financial Implications
+## Финансовые последствия
 
-### Accounting
-Wasting assets are recorded on the balance sheet as fixed assets and depreciated over their useful lives. The depreciation expense is recognized in the income statement, which reduces the asset's book value over time.
+### Бухгалтерский учет
+Изнашивающиеся активы записываются в балансе как основные средства и амортизируются в течение их срока полезного использования. Расходы на амортизацию признаются в отчете о прибылях и убытках, что со временем снижает балансовую стоимость актива.
 
-### Taxation
-Depreciation of wasting assets can be used as a tax-deductible expense. This provides a tax shield, reducing the taxable income of businesses.
+### Налогообложение
+Амортизация изнашивающихся активов может использоваться как налоговый вычитаемый расход. Это обеспечивает налоговый щит, снижая налогооблагаемый доход предприятий.
 
-### Asset Management
-Effective management of wasting assets involves timely maintenance and upgrades to minimize the impact of depreciation and extend the asset's useful life.
+### Управление активами
+Эффективное управление изнашивающимися активами включает своевременное обслуживание и модернизацию для минимизации воздействия амортизации и продления срока полезного использования актива.
 
-## Risk Management
+## Управление рисками
 
-### Insurance
-Protecting wasting assets through insurance is essential to mitigate financial risks associated with damage, loss, or theft.
+### Страхование
+Защита изнашивающихся активов посредством страхования необходима для смягчения финансовых рисков, связанных с повреждением, потерей или кражей.
 
-### Maintenance
-Regular maintenance is crucial in slowing the depreciation process and extending the lifespan of wasting assets.
+### Обслуживание
+Регулярное обслуживание имеет решающее значение для замедления процесса амортизации и продления срока службы изнашивающихся активов.
 
-### Upgrades and Replacements
-Periodically upgrading or replacing wasting assets ensures that businesses remain competitive and efficient.
+### Модернизация и замена
+Периодическая модернизация или замена изнашивающихся активов гарантирует, что предприятия остаются конкурентоспособными и эффективными.
 
-## Industry Examples
+## Примеры из отрасли
 
-### Oil and Gas
-In the oil and gas industry, wasting assets include reserves of oil and gas. Companies like ExxonMobil ( manage these assets through exploration, extraction, and refining processes.
+### Нефть и газ
+В нефтегазовой отрасли изнашивающиеся активы включают запасы нефти и газа. Компании, такие как ExxonMobil, управляют этими активами через процессы разведки, добычи и переработки.
 
-### Manufacturing
-Manufacturing industries heavily rely on machinery and equipment, which are wasting assets due to continuous usage and technological advancements. Caterpillar Inc. ( is an example of a company that deals with such assets.
+### Производство
+Производственные отрасли в значительной степени полагаются на машины и оборудование, которые являются изнашивающимися активами из-за постоянного использования и технологических достижений. Caterpillar Inc. является примером компании, которая работает с такими активами.
 
-### Technology
-Technology companies manage intangible wasting assets like software patents and licenses. A company such as Microsoft ( frequently deals with the depreciation of its intellectual property.
+### Технологии
+Технологические компании управляют нематериальными изнашивающимися активами, такими как патенты на программное обеспечение и лицензии. Такая компания, как Microsoft, часто имеет дело с амортизацией своей интеллектуальной собственности.
 
-### Mining
-Mining companies like Rio Tinto ( manage mining equipment and mineral reserves as wasting assets, dealing with their gradual depletion.
+### Горнодобывающая промышленность
+Горнодобывающие компании, такие как Rio Tinto, управляют горнодобывающим оборудованием и минеральными запасами как изнашивающимися активами, имея дело с их постепенным истощением.
 
-## Innovations and Advances
+## Инновации и достижения
 
-### Predictive Maintenance
-Emerging technologies like IoT (Internet of Things) and AI (Artificial Intelligence) are revolutionizing asset management by enabling predictive maintenance. This technology uses sensors and data analytics to predict asset failures before they occur, thus optimizing maintenance schedules and extending the lifespan of wasting assets.
+### Прогнозное обслуживание
+Новые технологии, такие как IoT (Интернет вещей) и ИИ (искусственный интеллект), революционизируют управление активами, обеспечивая прогнозное обслуживание. Эта технология использует датчики и аналитику данных для прогнозирования отказов активов до их возникновения, тем самым оптимизируя графики обслуживания и продлевая срок службы изнашивающихся активов.
 
-### Sustainable Practices
-Sustainable and eco-friendly practices are increasingly being adopted to manage and prolong the lifecycle of wasting assets, particularly in industries like manufacturing and natural resources. This includes using renewable resources, recycling materials, and minimizing waste.
+### Устойчивые практики
+Устойчивые и экологически чистые практики все больше применяются для управления и продления жизненного цикла изнашивающихся активов, особенно в таких отраслях, как производство и природные ресурсы. Это включает использование возобновляемых ресурсов, переработку материалов и минимизацию отходов.
 
-### Automated Depreciation Software
-Modern accounting software now includes automated depreciation calculations for wasting assets, simplifying financial reporting and compliance for businesses. Solutions such as SAP and Oracle Financials provide integrated tools for asset management.
+### Автоматизированное программное обеспечение для амортизации
+Современное бухгалтерское программное обеспечение теперь включает автоматизированные расчеты амортизации для изнашивающихся активов, упрощая финансовую отчетность и соблюдение требований для предприятий. Решения, такие как SAP и Oracle Financials, предоставляют интегрированные инструменты для управления активами.
 
-## Conclusion
+## Заключение
 
-In summary, wasting assets are an integral part of various industries, from natural resources and manufacturing to technology and real estate. Effective management and accurate accounting of these assets are essential for maintaining financial health and operational efficiency. Advances in technology, maintenance practices, and automated software are continually enhancing the ways in which businesses handle the depreciation and lifespan of their wasting assets.
+В заключение, изнашивающиеся активы являются неотъемлемой частью различных отраслей, от природных ресурсов и производства до технологий и недвижимости. Эффективное управление и точный учет этих активов необходимы для поддержания финансового здоровья и операционной эффективности. Достижения в технологии, практиках обслуживания и автоматизированном программном обеспечении постоянно совершенствуют способы, которыми предприятия управляют амортизацией и сроком службы своих изнашивающихся активов.

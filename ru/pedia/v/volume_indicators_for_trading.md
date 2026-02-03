@@ -1,196 +1,196 @@
-# Volume Indicators for Trading
+# Индикаторы объема для торговли
 
-Volume indicators are essential tools for traders and investors in analyzing the market. They provide insights into the strength of price movements and the overall market sentiment by analyzing the volume data. Volume, in this context, refers to the number of shares or contracts traded in a security or an entire market during a given period.
+Индикаторы объема являются важными инструментами для трейдеров и инвесторов при анализе рынка. Они предоставляют информацию о силе движения цен и общем рыночном настроении, анализируя данные об объеме. Объем в этом контексте относится к количеству акций или контрактов, торгуемых в ценной бумаге или на всем рынке в течение заданного периода.
 
-Volume indicators help traders confirm the strength of a trend, identify potential reversals, and gauge the market’s interest in a particular asset. In this comprehensive guide, we will explore several popular volume indicators, how they work, and their applications in trading.
+Индикаторы объема помогают трейдерам подтвердить силу тренда, определить потенциальные развороты и оценить интерес рынка к конкретному активу. В этом всеобъемлющем руководстве мы рассмотрим несколько популярных индикаторов объема, как они работают и их применение в торговле.
 
-## 1. On-Balance Volume (OBV)
+## 1. On-Balance Volume (OBV) (Балансовый объем)
 
-**On-Balance Volume (OBV)** is one of the most straightforward volume indicators developed by Joseph Granville in the 1960s. It measures buying and selling pressure based on volume changes. The basic premise of OBV is that changes in volume can precede price movements.
+**On-Balance Volume (OBV)** - это один из самых простых индикаторов объема, разработанный Джозефом Гранвиллом в 1960-х годах. Он измеряет давление покупки и продажи на основе изменений объема. Основная предпосылка OBV заключается в том, что изменения объема могут предшествовать движениям цены.
 
-### Calculation of OBV
+### Расчет OBV
 
-The OBV is calculated by adding the volume on up days (when the price closes higher than the previous close) and subtracting the volume on down days (when the price closes lower than the previous close).
+OBV рассчитывается путем добавления объема в дни роста (когда цена закрытия выше предыдущего закрытия) и вычитания объема в дни падения (когда цена закрытия ниже предыдущего закрытия).
 
-\[ OBV_{today} = OBV_{yesterday} \pm Volume_{today} \]
+\[ OBV_{сегодня} = OBV_{вчера} \pm Объем_{сегодня} \]
 
-- If the closing price is higher than the previous close, add the day’s volume to the previous OBV.
-- If the closing price is lower than the previous close, subtract the day’s volume from the previous OBV.
+- Если цена закрытия выше предыдущего закрытия, добавьте объем дня к предыдущему OBV.
+- Если цена закрытия ниже предыдущего закрытия, вычтите объем дня из предыдущего OBV.
 
-### Application
+### Применение
 
-OBV is used to confirm price trends. If both the price and OBV are making higher tops and higher bottoms, the upward trend is likely to continue. Conversely, if both the price and OBV are making lower tops and lower bottoms, the downtrend is likely to persist.
+OBV используется для подтверждения ценовых трендов. Если и цена, и OBV формируют более высокие вершины и более высокие основания, восходящий тренд, вероятно, продолжится. И наоборот, если и цена, и OBV формируют более низкие вершины и более низкие основания, нисходящий тренд, вероятно, сохранится.
 
-### Example
+### Пример
 
-Imagine a stock XYZ:
+Представьте акцию XYZ:
 
-- Day 1: Close = $50, Volume = 1000 shares
-- Day 2: Close = $52, Volume = 1500 shares
-- Day 3: Close = $51, Volume = 1200 shares
+- День 1: Закрытие = $50, Объем = 1000 акций
+- День 2: Закрытие = $52, Объем = 1500 акций
+- День 3: Закрытие = $51, Объем = 1200 акций
 
-The OBV calculation would be:
+Расчет OBV будет таким:
 
-- OBV on Day 1: 0 (initial value)
-- OBV on Day 2: 0 + 1500 = 1500
-- OBV on Day 3: 1500 - 1200 = 300
+- OBV в день 1: 0 (начальное значение)
+- OBV в день 2: 0 + 1500 = 1500
+- OBV в день 3: 1500 - 1200 = 300
 
-## 2. Volume Price Trend Indicator (VPT)
+## 2. Volume Price Trend Indicator (VPT) (Индикатор тренда цены и объема)
 
-**Volume Price Trend (VPT)** is another volume-based indicator designed to identify the direction and strength of a market trend by combining volume with price changes. It is similar to OBV but takes into account the percentage change in price rather than a binary increase or decrease.
+**Volume Price Trend (VPT)** - это еще один индикатор на основе объема, предназначенный для определения направления и силы рыночного тренда путем объединения объема с изменениями цены. Он похож на OBV, но учитывает процентное изменение цены, а не бинарное увеличение или уменьшение.
 
-### Calculation of VPT
+### Расчет VPT
 
-The VPT is calculated by adding the volume for the day, adjusted by the percentage change in the closing price from the previous day to the current day.
+VPT рассчитывается путем добавления объема за день, скорректированного на процентное изменение цены закрытия от предыдущего дня к текущему дню.
 
-\[ VPT = VPT_{previous} + Volume \times \frac{(Close_{today} - Close_{yesterday})}{Close_{yesterday}} \]
+\[ VPT = VPT_{предыдущий} + Объем \times \frac{(Закрытие_{сегодня} - Закрытие_{вчера})}{Закрытие_{вчера}} \]
 
-### Application
+### Применение
 
-VPT is used to confirm the strength of a trend. A rising VPT along with a rising price can indicate a strong uptrend, while a declining VPT along with a decreasing price can signal a strong downtrend.
+VPT используется для подтверждения силы тренда. Рост VPT вместе с ростом цены может указывать на сильный восходящий тренд, в то время как снижение VPT вместе со снижением цены может сигнализировать о сильном нисходящем тренде.
 
-### Example
+### Пример
 
-For the same stock XYZ:
+Для той же акции XYZ:
 
-- Day 1: Close = $50, Volume = 1000 shares
-- Day 2: Close = $52, Volume = 1500 shares
-- Day 3: Close = $51, Volume = 1200 shares
+- День 1: Закрытие = $50, Объем = 1000 акций
+- День 2: Закрытие = $52, Объем = 1500 акций
+- День 3: Закрытие = $51, Объем = 1200 акций
 
-The VPT calculation would be:
+Расчет VPT будет таким:
 
-- VPT on Day 1: 0 (initial value)
-- VPT on Day 2: 0 + 1500 × ((52 - 50) / 50) = 60
-- VPT on Day 3: 60 + 1200 × ((51 - 52) / 52) = 60 - 23.08 ≈ 36.92
+- VPT в день 1: 0 (начальное значение)
+- VPT в день 2: 0 + 1500 × ((52 - 50) / 50) = 60
+- VPT в день 3: 60 + 1200 × ((51 - 52) / 52) = 60 - 23.08 ≈ 36.92
 
-## 3. Accumulation/Distribution Line (A/D Line)
+## 3. Accumulation/Distribution Line (A/D Line) (Линия накопления/распределения)
 
-**Accumulation/Distribution Line (A/D Line)** is a volume indicator that aims to measure the cumulative flow of money into and out of a security. It was developed by Marc Chaikin and helps traders identify divergences between the price and volume.
+**Accumulation/Distribution Line (A/D Line)** - это индикатор объема, который направлен на измерение кумулятивного потока денег в ценную бумагу и из нее. Он был разработан Марком Чайкиным и помогает трейдерам определить расхождения между ценой и объемом.
 
-### Calculation of A/D Line
+### Расчет линии A/D
 
-The A/D Line is calculated using the Money Flow Multiplier and the Money Flow Volume:
+Линия A/D рассчитывается с использованием множителя денежного потока и объема денежного потока:
 
-\[ Money \ Flow \ Multiplier = \frac{(Close - Low) - (High - Close)}{High - Low} \]
+\[ Множитель \ денежного \ потока = \frac{(Закрытие - Минимум) - (Максимум - Закрытие)}{Максимум - Минимум} \]
 
-\[ Money \ Flow \ Volume = Money \ Flow \ Multiplier \times Volume \]
+\[ Объем \ денежного \ потока = Множитель \ денежного \ потока \times Объем \]
 
-\[ A/D \ Line = A/D \ Line_{previous} + Money \ Flow \ Volume \]
+\[ Линия \ A/D = Линия \ A/D_{предыдущая} + Объем \ денежного \ потока \]
 
-### Application
+### Применение
 
-The A/D Line is used to confirm the strength or weakness of a trend. If the A/D Line is rising and the price is also rising, it suggests that the trend is supported by volume. Conversely, if the price is rising but the A/D Line is falling, it may indicate a potential reversal.
+Линия A/D используется для подтверждения силы или слабости тренда. Если линия A/D растет и цена также растет, это предполагает, что тренд поддерживается объемом. И наоборот, если цена растет, но линия A/D падает, это может указывать на потенциальный разворот.
 
-### Example
+### Пример
 
-For the same stock XYZ:
+Для той же акции XYZ:
 
-- Day 1: High = $53, Low = $49, Close = $50, Volume = 1000 shares
-- Day 2: High = $55, Low = $51, Close = $52, Volume = 1500 shares
-- Day 3: High = $54, Low = $50, Close = $51, Volume = 1200 shares
+- День 1: Максимум = $53, Минимум = $49, Закрытие = $50, Объем = 1000 акций
+- День 2: Максимум = $55, Минимум = $51, Закрытие = $52, Объем = 1500 акций
+- День 3: Максимум = $54, Минимум = $50, Закрытие = $51, Объем = 1200 акций
 
-Calculations:
+Расчеты:
 
-- Day 1 Money Flow Multiplier: ((50 - 49) - (53 - 50)) / (53 - 49) = 0.25
-- Day 1 Money Flow Volume: 0.25 × 1000 = 250
-- A/D Line on Day 1: 0 + 250 = 250
+- День 1 Множитель денежного потока: ((50 - 49) - (53 - 50)) / (53 - 49) = 0.25
+- День 1 Объем денежного потока: 0.25 × 1000 = 250
+- Линия A/D в день 1: 0 + 250 = 250
 
-- Day 2 Money Flow Multiplier: ((52 - 51) - (55 - 52)) / (55 - 51) = 0
-- Day 2 Money Flow Volume: 0 × 1500 = 0
-- A/D Line on Day 2: 250 + 0 = 250
+- День 2 Множитель денежного потока: ((52 - 51) - (55 - 52)) / (55 - 51) = 0
+- День 2 Объем денежного потока: 0 × 1500 = 0
+- Линия A/D в день 2: 250 + 0 = 250
 
-- Day 3 Money Flow Multiplier: ((51 - 50) - (54 - 51)) / (54 - 50) = -0.5
-- Day 3 Money Flow Volume: -0.5 × 1200 = -600
-- A/D Line on Day 3: 250 - 600 = -350
+- День 3 Множитель денежного потока: ((51 - 50) - (54 - 51)) / (54 - 50) = -0.5
+- День 3 Объем денежного потока: -0.5 × 1200 = -600
+- Линия A/D в день 3: 250 - 600 = -350
 
-## 4. Chaikin Money Flow (CMF)
+## 4. Chaikin Money Flow (CMF) (Денежный поток Чайкина)
 
-**Chaikin Money Flow (CMF)** is another volume indicator developed by Marc Chaikin. It measures the volume-weighted average of accumulation and distribution over a specified period. CMF helps traders identify buying or selling pressure in the market.
+**Chaikin Money Flow (CMF)** - это еще один индикатор объема, разработанный Марком Чайкином. Он измеряет средневзвешенный по объему объем накопления и распределения за определенный период. CMF помогает трейдерам определить давление покупки или продажи на рынке.
 
-### Calculation of CMF
+### Расчет CMF
 
-CMF is calculated using the Money Flow Multiplier and the sum of the Money Flow Volume over a given period (typically 21 days).
+CMF рассчитывается с использованием множителя денежного потока и суммы объема денежного потока за заданный период (обычно 21 день).
 
-\[ CMF = \frac{\sum (Money \ Flow \ Multiplier \times Volume)}{\sum Volume} \]
+\[ CMF = \frac{\sum (Множитель \ денежного \ потока \times Объем)}{\sum Объем} \]
 
-### Application
+### Применение
 
-CMF values range between -1 and +1. A positive CMF indicates accumulation (buying pressure), while a negative CMF indicates distribution (selling pressure). Traders often use CMF to confirm price trends or identify potential reversals.
+Значения CMF варьируются от -1 до +1. Положительный CMF указывает на накопление (давление покупки), в то время как отрицательный CMF указывает на распределение (давление продажи). Трейдеры часто используют CMF для подтверждения ценовых трендов или определения потенциальных разворотов.
 
-### Example
+### Пример
 
-For the same stock XYZ over a 3-day period:
+Для той же акции XYZ за 3-дневный период:
 
-- Day 1: High = $53, Low = $49, Close = $50, Volume = 1000 shares
-- Day 2: High = $55, Low = $51, Close = $52, Volume = 1500 shares
-- Day 3: High = $54, Low = $50, Close = $51, Volume = 1200 shares
+- День 1: Максимум = $53, Минимум = $49, Закрытие = $50, Объем = 1000 акций
+- День 2: Максимум = $55, Минимум = $51, Закрытие = $52, Объем = 1500 акций
+- День 3: Максимум = $54, Минимум = $50, Закрытие = $51, Объем = 1200 акций
 
-Calculations:
+Расчеты:
 
-- Day 1 Money Flow Multiplier: ((50 - 49) - (53 - 50)) / (53 - 49) = 0.25
-- Day 1 Money Flow Volume: 0.25 × 1000 = 250
-- Day 2 Money Flow Multiplier: ((52 - 51) - (55 - 52)) / (55 - 51) = 0
-- Day 2 Money Flow Volume: 0 × 1500 = 0
-- Day 3 Money Flow Multiplier: ((51 - 50) - (54 - 51)) / (54 - 50) = -0.5
-- Day 3 Money Flow Volume: -0.5 × 1200 = -600
+- День 1 Множитель денежного потока: ((50 - 49) - (53 - 50)) / (53 - 49) = 0.25
+- День 1 Объем денежного потока: 0.25 × 1000 = 250
+- День 2 Множитель денежного потока: ((52 - 51) - (55 - 52)) / (55 - 51) = 0
+- День 2 Объем денежного потока: 0 × 1500 = 0
+- День 3 Множитель денежного потока: ((51 - 50) - (54 - 51)) / (54 - 50) = -0.5
+- День 3 Объем денежного потока: -0.5 × 1200 = -600
 
-For a 3-day CMF:
+Для 3-дневного CMF:
 
 \[ CMF = \frac{(250 + 0 - 600)}{(1000 + 1500 + 1200)} = \frac{-350}{3700} ≈ -0.095 \]
 
-## 5. Volume Weighted Average Price (VWAP)
+## 5. Volume Weighted Average Price (VWAP) (Средневзвешенная по объему цена)
 
-**Volume Weighted Average Price (VWAP)** is a popular volume indicator used by day traders to determine the average price a security has traded at throughout the day, based on both volume and price.
+**Volume Weighted Average Price (VWAP)** - это популярный индикатор объема, используемый внутридневными трейдерами для определения средней цены, по которой ценная бумага торговалась в течение дня, на основе как объема, так и цены.
 
-### Calculation of VWAP
+### Расчет VWAP
 
-VWAP is calculated by taking the cumulative total of price-volume (PV) divided by the cumulative volume over the same period.
+VWAP рассчитывается путем взятия кумулятивной суммы ценового объема (PV), деленной на кумулятивный объем за тот же период.
 
-\[ VWAP = \frac{\sum (Price \times Volume)}{\sum Volume} \]
+\[ VWAP = \frac{\sum (Цена \times Объем)}{\sum Объем} \]
 
-### Application
+### Применение
 
-VWAP is used as a trading benchmark to evaluate the quality of executions. Traders often compare the current price to the VWAP to determine the market’s direction. If the price is above the VWAP, it may indicate a bullish sentiment, while a price below the VWAP may indicate a bearish sentiment.
+VWAP используется в качестве торгового эталона для оценки качества исполнения. Трейдеры часто сравнивают текущую цену с VWAP для определения направления рынка. Если цена выше VWAP, это может указывать на бычьи настроения, в то время как цена ниже VWAP может указывать на медвежьи настроения.
 
-### Example
+### Пример
 
-For the same stock XYZ over three time intervals:
+Для той же акции XYZ за три временных интервала:
 
-- Interval 1: Price = $50, Volume = 1000 shares
-- Interval 2: Price = $52, Volume = 1500 shares
-- Interval 3: Price = $51, Volume = 1200 shares
+- Интервал 1: Цена = $50, Объем = 1000 акций
+- Интервал 2: Цена = $52, Объем = 1500 акций
+- Интервал 3: Цена = $51, Объем = 1200 акций
 
-Calculations:
+Расчеты:
 
-- PV for Interval 1: $50 × 1000 = $50,000
-- PV for Interval 2: $52 × 1500 = $78,000
-- PV for Interval 3: $51 × 1200 = $61,200
+- PV для интервала 1: $50 × 1000 = $50,000
+- PV для интервала 2: $52 × 1500 = $78,000
+- PV для интервала 3: $51 × 1200 = $61,200
 
-- Cumulative PV: $50,000 + $78,000 + $61,200 = $189,200
-- Cumulative Volume: 1000 + 1500 + 1200 = 3700
+- Кумулятивный PV: $50,000 + $78,000 + $61,200 = $189,200
+- Кумулятивный объем: 1000 + 1500 + 1200 = 3700
 
 \[ VWAP = \frac{189,200}{3700} = 51.135 \]
 
-## 6. Klinger Oscillator
+## 6. Klinger Oscillator (Осциллятор Клингера)
 
-The **Klinger Oscillator** is a volume-based indicator developed by Stephen Klinger. It aims to predict price reversals by comparing the volume flowing through a security over a specific period.
+**Klinger Oscillator** - это индикатор на основе объема, разработанный Стивеном Клингером. Он направлен на прогнозирование ценовых разворотов путем сравнения объема, проходящего через ценную бумагу за определенный период.
 
-### Calculation of Klinger Oscillator
+### Расчет осциллятора Клингера
 
-The Klinger Oscillator uses a combination of the high-low price range, volume, and a series of exponential moving averages (EMA) to identify the short-term and long-term trends.
+Осциллятор Клингера использует комбинацию диапазона максимум-минимум цены, объема и серию экспоненциальных скользящих средних (EMA) для определения краткосрочных и долгосрочных трендов.
 
-\[ KO = (EMA_{34} \ of \ V) - (EMA_{55} \ of \ V) \]
+\[ KO = (EMA_{34} \ от \ V) - (EMA_{55} \ от \ V) \]
 
-Where V is the volume force:
+Где V - это сила объема:
 
-\[ Volume \ Force \ (V) = (2 \times \ (Close - Low - (High - Close))) \times Volume \]
+\[ Сила \ объема \ (V) = (2 \times \ (Закрытие - Минимум - (Максимум - Закрытие))) \times Объем \]
 
-### Application
+### Применение
 
-The Klinger Oscillator is used to identify potential divergences and to confirm price trends. A positive KO suggests a bullish trend, while a negative KO indicates a bearish trend. Traders look for divergences between the KO and price to anticipate possible reversals.
+Осциллятор Клингера используется для выявления потенциальных расхождений и подтверждения ценовых трендов. Положительный KO предполагает бычий тренд, в то время как отрицательный KO указывает на медвежий тренд. Трейдеры ищут расхождения между KO и ценой для предвосхищения возможных разворотов.
 
-## Conclusion
+## Заключение
 
-Volume indicators provide valuable insights into the strength of market trends, potential reversals, and the overall market sentiment. Each volume indicator has its unique strengths and applications, making them suitable for various trading strategies.
+Индикаторы объема предоставляют ценную информацию о силе рыночных трендов, потенциальных разворотах и общем рыночном настроении. Каждый индикатор объема имеет свои уникальные сильные стороны и применение, что делает их подходящими для различных торговых стратегий.
 
-Whether you are a day trader, swing trader, or long-term investor, understanding and incorporating volume indicators into your analysis can enhance your trading decisions and improve your overall performance.
+Независимо от того, являетесь ли вы внутридневным трейдером, свинг-трейдером или долгосрочным инвестором, понимание и включение индикаторов объема в ваш анализ может улучшить ваши торговые решения и повысить вашу общую эффективность.

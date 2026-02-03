@@ -1,66 +1,66 @@
-# Watered Stock
+# Разводненные акции
 
-Watered stock is a term from the financial world that refers to shares of a company that are issued at a value much greater than their underlying net asset value. Essentially, it represents an overvaluation of a company's actual worth. This term originated in the United States in the 19th century, mainly from the inflated practices of selling livestock. However, its implications in the financial markets are much more profound and sometimes detrimental.
+Разводненные акции — это термин из финансового мира, который относится к акциям компании, выпущенным по стоимости, значительно превышающей их базовую стоимость чистых активов. По сути, это представляет собой переоценку фактической стоимости компании. Этот термин возник в Соединенных Штатах в XIX веке, в основном из-за завышенных практик продажи скота. Однако его последствия на финансовых рынках гораздо более существенны и иногда пагубны.
 
-## Historical Context
+## Исторический контекст
 
-The origin of the term "watered stock" is attributed to livestock trading. Farmers would feed their cattle large amounts of water before selling them, making the animals appear heavier and thus more valuable than they actually were. When applied to the stock market, it refers to shares issued by a corporation that misrepresent the company's actual value, similar to how water-enhanced cattle presented a façade of increased value.
+Происхождение термина "разводненные акции" приписывается торговле скотом. Фермеры кормили свой скот большим количеством воды перед продажей, чтобы животные казались тяжелее и, следовательно, более ценными, чем они были на самом деле. Применительно к фондовому рынку это относится к акциям, выпущенным корпорацией, которые искажают фактическую стоимость компании, подобно тому, как скот, напоенный водой, создавал видимость повышенной стоимости.
 
-## Characteristics of Watered Stock
+## Характеристики разводненных акций
 
-The defining character of watered stock is the discrepancy between the issued price of the stock and the value of the underlying assets or earnings. Companies may resort to issuing watered stock for various reasons such as:
+Определяющей характеристикой разводненных акций является расхождение между ценой эмиссии акций и стоимостью базовых активов или прибыли. Компании могут прибегать к выпуску разводненных акций по различным причинам, таким как:
 
-1. **Overestimating Future Income**: Companies might project overly optimistic future earnings to justify a high stock price.
-2. **Asset Overvaluation**: Overstating the value of assets on the balance sheet allows a company to issue stock at a price that does not reflect the true value of the firm's net assets.
-3. **Market Manipulation**: In some cases, there can be outright fraud or manipulation where the management intentionally misrepresents financial statements to inflate stock prices.
+1. **Переоценка будущих доходов**: Компании могут прогнозировать чрезмерно оптимистичные будущие доходы, чтобы оправдать высокую цену акций.
+2. **Переоценка активов**: Завышение стоимости активов в балансе позволяет компании выпускать акции по цене, не отражающей истинную стоимость чистых активов фирмы.
+3. **Манипулирование рынком**: В некоторых случаях может иметь место прямое мошенничество или манипулирование, когда руководство намеренно искажает финансовые отчеты для завышения цен на акции.
 
-## Legal and Regulatory Background
+## Правовая и регулятивная база
 
-Watered stock practices have been significantly curbed by financial regulation and refining the mechanisms of corporate governance. Laws established to combat such practices include:
+Практика разводненных акций была значительно сокращена финансовым регулированием и совершенствованием механизмов корпоративного управления. Законы, установленные для борьбы с такими практиками, включают:
 
-- **Securities Act of 1933**: Enacted in response to fraudulent practices, this act requires companies to provide accurate financial information through disclosures.
-- **Securities Exchange Act of 1934**: This law creates the Securities and Exchange Commission (SEC) and enforces regulations against market manipulation and insider trading.
+- **Закон о ценных бумагах 1933 года**: Принятый в ответ на мошеннические практики, этот закон требует от компаний предоставлять точную финансовую информацию через раскрытия.
+- **Закон о биржах ценных бумаг 1934 года**: Этот закон создает Комиссию по ценным бумагам и биржам (SEC) и применяет правила против манипулирования рынком и инсайдерской торговли.
 
-These regulations aim to provide transparency and protect investors by ensuring that stocks are issued based on accurate and fair valuations.
+Эти правила направлены на обеспечение прозрачности и защиту инвесторов, гарантируя, что акции выпускаются на основе точных и справедливых оценок.
 
-## Accounting and Financial Implications
+## Бухгалтерские и финансовые последствия
 
-### Impact on Financial Statements
+### Влияние на финансовые отчеты
 
-Issuing watered stock can severely distort financial health indicators such as:
+Выпуск разводненных акций может серьезно исказить показатели финансового здоровья, такие как:
 
-1. **Earnings Per Share (EPS)**: With more shares outstanding than justified by net earnings and assets, the EPS figure is diluted, misinforming investors about the profitability.
-2. **Book Value**: Artificial inflation of stock value affects the book value per share, misleading investors regarding the company's worth.
-3. **Debt-Equity Ratio**: Watered stock issuance can alter the debt-equity ratio by appearing to strengthen equity unjustifiably, misrepresenting the company's financial leverage.
+1. **Прибыль на акцию (EPS)**: При большем количестве размещенных акций, чем обосновано чистой прибылью и активами, показатель EPS размывается, дезинформируя инвесторов о прибыльности.
+2. **Балансовая стоимость**: Искусственное завышение стоимости акций влияет на балансовую стоимость акции, вводя инвесторов в заблуждение относительно стоимости компании.
+3. **Коэффициент долг/собственный капитал**: Выпуск разводненных акций может изменить коэффициент долг/собственный капитал, создавая видимость неоправданного укрепления капитала, искажая финансовый леверидж компании.
 
-### Investor Impact
+### Влияние на инвесторов
 
-Investors can suffer significantly due to watered stock. When the true value of the company surface, stock prices can plummet, resulting in substantial financial losses for shareholders who bought at inflated prices. Watered stock can erode investor trust and lead to legal repercussions for corporate officers involved in issuing such stocks.
+Инвесторы могут значительно пострадать из-за разводненных акций. Когда истинная стоимость компании становится очевидной, цены на акции могут резко упасть, приводя к существенным финансовым потерям для акционеров, купивших по завышенным ценам. Разводненные акции могут подорвать доверие инвесторов и привести к правовым последствиям для корпоративных должностных лиц, участвовавших в выпуске таких акций.
 
-## Case Studies
+## Примеры из практики
 
 ### Enron
 
-One of the most infamous examples of overstated value leading to vast financial discrepancies is the Enron scandal. Enron's management resorted to various accounting practices to inflate asset values and hide debt, drastically overselling the company's financial health. When the real situation emerged, the company faced bankruptcy, and investors lost billions.
+Одним из наиболее печально известных примеров завышенной стоимости, приведшей к значительным финансовым расхождениям, является скандал Enron. Руководство Enron прибегало к различным бухгалтерским практикам для завышения стоимости активов и сокрытия долгов, резко завышая финансовое здоровье компании. Когда реальная ситуация стала известна, компания столкнулась с банкротством, и инвесторы потеряли миллиарды.
 
 ### Worldcom
 
-Another significant instance is the Worldcom scandal, where fraudulent accounting practices inflated the company's assets by around $11 billion. The company issued stock based on these manipulated valuations, leading to investor losses when the fraud was uncovered.
+Другим значительным случаем является скандал Worldcom, где мошеннические бухгалтерские практики завысили активы компании примерно на 11 миллиардов долларов. Компания выпускала акции на основе этих манипулированных оценок, что привело к потерям инвесторов, когда мошенничество было раскрыто.
 
-## Identifying Watered Stock
+## Выявление разводненных акций
 
-Investors can take several steps to identify potential watered stock issues:
+Инвесторы могут предпринять несколько шагов для выявления потенциальных проблем с разводненными акциями:
 
-1. **Financial Statement Analysis**: Look for inflated asset values, unusual growth rates in earnings, and discrepancies in cash flows versus reported profits.
-2. **Market Comparison**: Compare the company's stock valuation multiples (P/E ratio, P/B ratio) with industry peers.
-3. **Regulatory Filings**: Regularly review SEC filings and disclosures for any red flags.
+1. **Анализ финансовых отчетов**: Ищите завышенные стоимости активов, необычные темпы роста прибыли и расхождения в денежных потоках по сравнению с отчетными прибылями.
+2. **Сравнение с рынком**: Сравните оценочные мультипликаторы компании (коэффициент P/E, P/B) с отраслевыми аналогами.
+3. **Регулятивные подачи**: Регулярно проверяйте подачи и раскрытия SEC на предмет любых тревожных сигналов.
 
-## Modern Relevance
+## Современная актуальность
 
-The concept of watered stock may seem historical, but its essence is ever-relevant. The complex financial instruments and accounting practices today can still present opportunities for inflating values. Modern-day financial scams, albeit more sophisticated, often boil down to the basic principle of misrepresenting a company's genuine value proposition. Therefore, understanding and detecting watered stock practices remains crucial for investors, regulators, and financial analysts alike.
+Концепция разводненных акций может показаться исторической, но ее суть остается актуальной. Сложные финансовые инструменты и бухгалтерские практики сегодня все еще могут предоставлять возможности для завышения стоимости. Современные финансовые аферы, хотя и более изощренные, часто сводятся к основному принципу искажения подлинного ценностного предложения компании. Поэтому понимание и обнаружение практик разводненных акций остается критически важным для инвесторов, регуляторов и финансовых аналитиков.
 
-## Conclusion
+## Заключение
 
-Watered stock represents a significant risk in the equity markets, stemming from overvaluation and misrepresentation of a company's genuine financial state. While historical examples provide a context, modern regulations and investor vigilance are critical in mitigating such risks. As financial systems evolve, the underlying principles of transparency and accurate valuation must be upheld to maintain market integrity and investor confidence.
+Разводненные акции представляют собой значительный риск на рынках акций, проистекающий из переоценки и искажения подлинного финансового состояния компании. Хотя исторические примеры дают контекст, современные правила и бдительность инвесторов критически важны для снижения таких рисков. По мере эволюции финансовых систем базовые принципы прозрачности и точной оценки должны соблюдаться для поддержания целостности рынка и доверия инвесторов.
 
-This comprehensive understanding of watered stock, from its historical origins to modern implications, equips stakeholders with the knowledge needed to navigate and scrutinize potential overvaluation practices effectively.
+Это всестороннее понимание разводненных акций, от их исторических корней до современных последствий, снабжает заинтересованные стороны знаниями, необходимыми для эффективной навигации и анализа потенциальных практик переоценки.

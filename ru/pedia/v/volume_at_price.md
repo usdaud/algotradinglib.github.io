@@ -1,79 +1,36 @@
-# Volume At Price
+# Объем на Ценовом Уровне
 
-Volume at price shows how much volume traded at each price level over a period. It is used to identify areas of high activity and potential support or resistance.
+Объем на ценовом уровне показывает, сколько объема было проторговано на каждом ценовом уровне за период. Он используется для определения областей высокой активности и потенциальной поддержки или сопротивления.
 
-## Interpretation
-- High volume nodes indicate price acceptance.
-- Low volume nodes indicate rejection or faster movement through that area.
+## Интерпретация
+- Узлы высокого объема указывают на принятие цены.
+- Узлы низкого объема указывают на отклонение или более быстрое движение через эту область.
 
-## Example
-A volume profile shows heavy volume around 250 and light volume between 255 and 260. Traders may view 250 as a support zone and 255-260 as a potential fast move area.
+## Пример
+Профиль объема показывает большой объем около 250 и легкий объем между 255 и 260. Трейдеры могут рассматривать 250 как зону поддержки, а 255-260 как область потенциально быстрого движения.
 
-## Practical notes
-Volume at price is usually visualized with volume profile charts. It is most powerful when combined with session context and market structure.
+## Практические примечания
+Объем на ценовом уровне обычно визуализируется с помощью графиков профиля объема. Он наиболее эффективен в сочетании с контекстом сессии и рыночной структурой.
 
-## Practical checklist
-- Define the time horizon for Volume At Price and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический чек-лист
+- Определите временной горизонт для Объема на Ценовом Уровне и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расчетов.
+- Напишите четкое правило входа и выхода перед вложением капитала.
+- Определите размер позиции так, чтобы одна ошибка не повредила счет.
+- Задокументируйте результат для улучшения воспроизводимости.
 
-## Common pitfalls
-- Treating Volume At Price as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ловушки
+- Рассмотрение Объема на Ценовом Уровне как самостоятельного сигнала вместо контекста.
+- Игнорирование ликвидности, спредов и трения исполнения.
+- Использование правила на другом таймфрейме, чем тот, для которого оно было разработано.
+- Переподгонка небольшой выборки прошлых примеров.
+- Предположение о том же поведении при аномальной волатильности.
 
-## Data and measurement
-Good analysis starts with consistent data. For Volume At Price, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Данные и измерение
+Хороший анализ начинается с последовательных данных. Для Объема на Ценовом Уровне подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от дат расчета или графика, согласуйте календарь с правилами биржи. Если она зависит от ценового действия, рассмотрите возможность использования скорректированных данных для учета корпоративных действий.
 
-## Risk management notes
-Risk control is essential when applying Volume At Price. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Примечания по управлению рисками
+Контроль рисков необходим при применении Объема на Ценовом Уровне. Определите максимальную потерю на сделку, общую экспозицию по связанным позициям и условия, которые делают идею недействительной. План быстрого выхода полезен, когда рынки движутся резко.
 
-## Variations and related terms
-Many traders use Volume At Price alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volume At Price and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volume At Price as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volume At Price, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volume At Price. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
-
-## Variations and related terms
-Many traders use Volume At Price alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volume At Price and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volume At Price as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volume At Price, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volume At Price. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Вариации и связанные термины
+Многие трейдеры используют Объем на Ценовом Уровне наряду с более широкими концепциями, такими как анализ тренда, режимы волатильности и условия ликвидности. Подобные инструменты могут существовать под разными названиями или с немного разными определениями, поэтому четкая документация предотвращает путаницу.

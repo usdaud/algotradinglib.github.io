@@ -1,80 +1,40 @@
-# Volatility Targeting
+# Таргетирование волатильности
 
-Volatility targeting is a portfolio approach that adjusts position size to maintain a target level of volatility. When volatility rises, exposure is reduced. When volatility falls, exposure is increased.
+Таргетирование волатильности - это портфельный подход, который корректирует размер позиции для поддержания целевого уровня волатильности. Когда волатильность растет, экспозиция снижается. Когда волатильность падает, экспозиция увеличивается.
 
-## How it works
-- Estimate current or expected volatility.
-- Choose a target volatility level.
-- Scale position size so expected volatility matches the target.
+## Как это работает
+- Оцените текущую или ожидаемую волатильность.
+- Выберите целевой уровень волатильности.
+- Масштабируйте размер позиции так, чтобы ожидаемая волатильность соответствовала цели.
 
-## Example
-A strategy targets 10 percent annualized volatility. If realized volatility rises to 20 percent, exposure is cut in half. If volatility drops to 5 percent, exposure is doubled.
+## Пример
+Стратегия нацелена на 10 процентов аннуализированной волатильности. Если реализованная волатильность возрастает до 20 процентов, экспозиция сокращается вдвое. Если волатильность падает до 5 процентов, экспозиция удваивается.
 
-## Benefits and risks
-Volatility targeting can smooth risk but can also force selling into declining markets and buying into rising markets. It can amplify trend moves if volatility remains low.
+## Преимущества и риски
+Таргетирование волатильности может сгладить риск, но также может заставить продавать на падающих рынках и покупать на растущих рынках. Это может усилить трендовые движения, если волатильность остается низкой.
 
-## Practical notes
-The choice of volatility measure and lookback window has a large impact on behavior.
+## Практические заметки
+Выбор меры волатильности и окна ретроспективы оказывает большое влияние на поведение.
 
-## Practical checklist
-- Define the time horizon for Volatility Targeting and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для таргетирования волатильности и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расписания.
+- Напишите четкое правило входа и выхода перед вложением капитала.
+- Рассчитайте размер позиции так, чтобы одна ошибка не повредила счет.
+- Документируйте результат для улучшения воспроизводимости.
 
-## Common pitfalls
-- Treating Volatility Targeting as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ошибки
+- Рассмотрение таргетирования волатильности как самостоятельного сигнала вместо контекста.
+- Игнорирование ликвидности, спредов и трения исполнения.
+- Использование правила на другом таймфрейме, чем тот, для которого оно было разработано.
+- Переподгонка небольшой выборки прошлых примеров.
+- Предположение того же поведения при аномальной волатильности.
 
-## Data and measurement
-Good analysis starts with consistent data. For Volatility Targeting, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Данные и измерение
+Хороший анализ начинается с согласованных данных. Для таргетирования волатильности подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от расчетных или запланированных дат, согласуйте календарь с правилами биржи. Если она зависит от ценового действия, рассмотрите возможность использования скорректированных данных для обработки корпоративных действий.
 
-## Risk management notes
-Risk control is essential when applying Volatility Targeting. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Заметки по управлению рисками
+Контроль рисков необходим при применении таргетирования волатильности. Определите максимальную потерю на сделку, общую экспозицию по связанным позициям и условия, которые делают идею недействительной. План быстрых выходов полезен, когда рынки двигаются резко.
 
-## Variations and related terms
-Many traders use Volatility Targeting alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volatility Targeting and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volatility Targeting as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volatility Targeting, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volatility Targeting. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
-
-## Variations and related terms
-Many traders use Volatility Targeting alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volatility Targeting and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volatility Targeting as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volatility Targeting, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Варианты и связанные термины
+Многие трейдеры используют таргетирование волатильности наряду с более широкими концепциями, такими как анализ трендов, режимы волатильности и условия ликвидности. Аналогичные инструменты могут существовать с разными названиями или немного отличающимися определениями, поэтому четкая документация предотвращает путаницу.

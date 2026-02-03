@@ -1,148 +1,143 @@
-# Внутренняя норма роста
+# Внутренний темп роста
 
-[Перевод с английского языка]
+Внутренний темп роста (IGR) — это критически важный финансовый показатель, измеряющий максимальную скорость, с которой компания может наращивать продажи, прибыль и дивиденды, используя только внутренние ресурсы, без необходимости прибегать к внешнему финансированию. Этот показатель имеет решающее значение как для менеджмента, так и для инвесторов, поскольку указывает на самодостаточность и эффективность операций фирмы.
 
-The Internal Growth Rate (IGR) is a critical financial metric that measures the maximum rate at which a company can grow its sales, earnings, and dividends using only its internal resources without having to resort to external financing. This metric is crucial for both management and investors as it indicates the self-sufficiency and efficiency of a firm's operations.
+## Понимание внутреннего темпа роста
 
-## Understanding Internal Growth Rate
+IGR фундаментально связан с тем, насколько хорошо компания способна генерировать достаточный денежный поток от текущей деятельности для поддержания траектории своего роста. Это предполагает детальный анализ генерирования выручки, маржи прибыли, операционной эффективности и стратегий реинвестирования.
 
-The IGR is fundamentally concerned with how well a company can generate sufficient cash flow from its current operations to sustain its growth trajectory. This involves a detailed analysis of revenue generation, profit margins, operational efficiencies, and reinvestment strategies.
+Математически внутренний темп роста выражается следующим образом:
 
-Mathematically, the Internal Growth Rate is expressed as follows:
+\[ IGR = \frac{ROA \times Коэффициент\, удержания}{1 - ROA \times Коэффициент\, удержания} \]
 
-\[ IGR = \frac{ROA \times Retention\, Ratio}{1 - ROA \times Retention\, Ratio} \]
+Где:
+- **ROA** (рентабельность активов) измеряет эффективность компании в генерировании прибыли от своих активов.
+- **Коэффициент удержания**, также известный как коэффициент реинвестирования, представляет долю прибыли, удерживаемой в компании, а не выплачиваемой в виде дивидендов.
 
-Where:
-- **ROA** ([Return on Assets](../r/return_on_assets_(roa).md)) measures a company's efficiency in generating earnings from its assets.
-- **Retention Ratio**, also known as the Plowback Ratio, represents the proportion of earnings retained in the company rather than paid out as dividends.
+## Компоненты IGR
 
-## Components of IGR
+### Рентабельность активов (ROA)
 
-### Return on Assets (ROA)
+Рентабельность активов — это коэффициент прибыльности, показывающий, насколько эффективно компания использует свои активы для генерирования прибыли. ROA рассчитывается как:
 
-[Return on Assets](../r/return_on_assets_(roa).md) is a profitability ratio that indicates how effectively a company is using its assets to generate profit. ROA is calculated as:
+\[ ROA = \frac{Чистая\, прибыль}{Совокупные\, активы} \]
 
-\ ROA = \frac{Net\, [Income}{Total\, Assets} \]
+Более высокий ROA свидетельствует о том, что компания высокоэффективна в использовании своих активов для генерирования прибыли.
 
-A higher ROA suggests that the company is highly efficient in using its assets to generate earnings.
+### Коэффициент удержания
 
-### Retention Ratio
+Коэффициент удержания, или коэффициент реинвестирования, показывает процент чистой прибыли, который удерживается в бизнесе, а не распределяется акционерам в виде дивидендов. Он рассчитывается как:
 
-The Retention Ratio, or Plowback Ratio, indicates the percentage of net income that is retained in the business rather than distributed to shareholders as dividends. It is calculated as:
+\[ Коэффициент\, удержания = 1 - \frac{Дивиденды\, на\, акцию}{Прибыль\, на\, акцию} \]
 
-\ Retention\, Ratio = 1 - \frac{Dividends\, per\, Share}{[Earnings\, per\, Share} \]
+Более высокий коэффициент удержания означает, что больше прибыли реинвестируется в бизнес для роста.
 
-A higher retention ratio means more earnings are being reinvested in the business for growth.
+## Значимость IGR
 
-## Significance of IGR
+Внутренний темп роста предоставляет несколько важных данных об операционном здоровье и стратегическом направлении компании:
 
-The Internal Growth Rate provides several insights into a company's operational health and strategic direction:
+1. **Самодостаточность**: Высокий IGR указывает на то, что компания может финансировать свой рост внутренними средствами без необходимости внешнего финансирования, такого как кредиты или привлечение акционерного капитала.
 
-1. **Self-Sufficiency**: A high IGR indicates that the company can fund its growth internally without the need for external funding such as loans or equity financing.
+2. **Операционная эффективность**: Компании с высоким IGR обычно имеют эффективные операции, сильную маржу прибыли и эффективное использование активов.
 
-2. **Operational Efficiency**: Companies with a high IGR typically have efficient operations, strong profit margins, and effective asset utilization.
+3. **Уверенность инвесторов**: Инвесторы часто предпочитают компании со стабильными и высокими внутренними темпами роста, поскольку они свидетельствуют о надёжных бизнес-моделях и потенциале будущего роста.
 
-3. **Investor Confidence**: Investors often prefer companies with stable and high internal growth rates as they suggest robust business models and future growth potential.
+4. **Принятие стратегических решений**: Менеджмент использует IGR для принятия обоснованных решений о расширении, инвестициях в новые проекты или улучшении текущих операций.
 
-4. **Strategic Decision-Making**: Management uses IGR to make informed decisions about expansion, investment in new projects, or improving current operations.
+## Расчёт IGR: реальный пример
 
-## Calculating IGR: Real-World Example
+Рассмотрим гипотетическую компанию ABC Corp. со следующими финансовыми данными за финансовый год:
 
-Let's consider a hypothetical company ABC Corp. with the following financial details for the fiscal year:
+- Чистая прибыль: $50 000
+- Совокупные активы: $400 000
+- Выплаченные дивиденды: $10 000
+- Прибыль на акцию (EPS): $5
+- Дивиденды на акцию (DPS): $1
 
-- Net Income: $50,000
-- Total Assets: $400,000
-- Dividends Paid: $10,000
-- Earnings per Share (EPS): $5
-- Dividends per Share (DPS): $1
+Сначала рассчитаем ROA:
 
-First, we calculate the ROA:
+\[ ROA = \frac{Чистая\, прибыль}{Совокупные\, активы} = \frac{50 000}{400 000} = 0,125 \, или \, 12,5\% \]
 
-\ ROA = \frac{Net\, [Income}{Total\, Assets} = \frac{50,000}{400,000} = 0.125 \, or \, 12.5\% \]
+Далее определим коэффициент удержания:
 
-Next, we determine the Retention Ratio:
+\[ Коэффициент\, удержания = 1 - \frac{Дивиденды\, на\, акцию}{Прибыль\, на\, акцию} = 1 - \frac{1}{5} = 0,8 \, или \, 80\% \]
 
-\ Retention\, Ratio = 1 - \frac{Dividends\, per\, Share}{[Earnings\, per\, Share} = 1 - \frac{1}{5} = 0.8 \, or \, 80\% \]
+Теперь мы можем рассчитать внутренний темп роста:
 
-Now, we can calculate the Internal Growth Rate:
+\[ IGR = \frac{ROA \times Коэффициент\, удержания}{1 - ROA \times Коэффициент\, удержания} = \frac{0,125 \times 0,8}{1 - 0,125 \times 0,8} = \frac{0,1}{0,9} = 0,1111 \, или \, 11,11\% \]
 
-\[ IGR = \frac{ROA \times Retention\, Ratio}{1 - ROA \times Retention\, Ratio} = \frac{0.125 \times 0.8}{1 - 0.125 \times 0.8} = \frac{0.1}{0.9} = 0.1111 \, or \, 11.11\% \]
+Таким образом, ABC Corp. может расти внутренними темпами 11,11% в год без привлечения внешнего финансирования.
 
-Hence, ABC Corp. can grow internally at a rate of 11.11% per year without relying on external funding.
+## Ограничения IGR
 
-## Limitations of IGR
+Хотя внутренний темп роста является ценным показателем, он имеет определённые ограничения:
 
-While the Internal Growth Rate is a valuable metric, there are certain limitations:
+1. **Статический анализ**: IGR представляет собой моментальный снимок потенциала роста компании на основе исторических данных и не учитывает будущие изменения рыночных условий, конкуренции или операционной динамики.
 
-1. **Static Analysis**: IGR is a snapshot of a company’s potential growth based on historical data and does not account for future changes in market conditions, competition, or operational dynamics.
+2. **Ограничения роста**: IGR не учитывает возможные внешние возможности роста, которые могут потребовать внешнего финансирования.
 
-2. **Growth Constraints**: IGR does not consider possible external growth opportunities that may necessitate external financing.
+3. **Качество реинвестирования удержанной прибыли**: Высокий коэффициент удержания не обязательно гарантирует продуктивное реинвестирование. Эффективность использования нераспределённой прибыли имеет решающее значение для устойчивого роста.
 
-3. **Retention Reinvestment Quality**: A high retention ratio does not necessarily guarantee productive reinvestment. The effectiveness of utilizing retained earnings is crucial for sustainable growth.
+4. **Отраслевые различия**: IGR может существенно варьироваться в разных отраслях из-за различий в операционной динамике, капиталоёмкости и марже прибыли. Сравнение IGR между отраслями может не давать значимых результатов.
 
-4. **Industry Differences**: IGR may vary widely across different industries due to differing operational dynamics, capital intensiveness, and profit margins. Comparing IGR across industries might not provide meaningful insights.
+## Повышение внутреннего темпа роста
 
-## Enhancing Internal Growth Rate
+Компании, стремящиеся улучшить свой внутренний темп роста, могут рассмотреть несколько стратегий:
 
-Companies looking to improve their internal growth rate can consider several strategies:
+### Увеличение маржи прибыли
 
-### Increasing Profit Margins
+Улучшение маржи прибыли может быть достигнуто путём:
 
-Improving profit margins can be achieved by:
+- **Сокращения затрат**: Оптимизация операций для снижения издержек.
+- **Ценовой стратегии**: Оптимизация ценообразования для баланса между рыночной конкурентоспособностью и прибыльностью.
+- **Улучшения продукта/услуги**: Повышение ценностного предложения для установления более высоких цен.
 
-- **Cost Reduction**: Streamlining operations to reduce costs.
-- **Pricing Strategy**: Optimizing pricing to balance between market competitiveness and profitability.
-- **Product/Service Improvement**: Enhancing the value proposition to command higher prices.
+### Эффективное использование активов
 
-### Efficient Asset Utilization
+Максимизация эффективности использования активов включает:
 
-Maximizing the efficiency of asset usage includes:
+- **Управление активами**: Обеспечение оптимального использования текущих активов для генерирования более высокой отдачи.
+- **Инвестиции в технологии**: Использование технологий для повышения операционной эффективности и производительности.
 
-- **Asset Management**: Ensuring optimal utilization of current assets to generate higher returns.
-- **Investment in Technology**: Leveraging technology to improve operational efficiencies and output.
+### Эффективное реинвестирование
 
-### Effective Reinvestment
+Эффективное реинвестирование нераспределённой прибыли включает:
 
-Reinvesting retained earnings effectively involves:
+- **Инвестиции в НИОКР**: Вложение средств в исследования и разработки для инноваций и опережения конкурентов.
+- **Проекты расширения**: Реализация стратегических проектов расширения, обещающих будущий рост выручки.
+- **Снижение долговой нагрузки**: Использование нераспределённой прибыли для погашения высокопроцентного долга, улучшая финансовое здоровье.
 
-- **R&D Investments**: Investing in research and development to innovate and stay ahead of competitors.
-- **Expansion Projects**: Undertaking strategic expansion projects that promise future revenue growth.
-- **Debt Reduction**: Using retained earnings to pay down high-interest debt, improving financial health.
+## Практическое применение IGR
 
-## Practical Applications of IGR
+### Для инвесторов
 
-### For Investors
+Инвесторы используют IGR для:
 
-Investors use the IGR to:
+- **Оценки потенциала роста**: Оценка долгосрочных перспектив роста компании.
+- **Инвестиционных решений**: Определение жизнеспособности инвестиций на основе способности компании расти внутренними средствами.
+- **Сравнительного анализа**: Сравнение IGR компаний в одной отрасли для выявления лучших инвестиционных возможностей.
 
-- **Evaluate Growth Potential**: Assess the long-term growth prospects of a company.
-- **Investment Decisions**: Determine the viability of an investment based on a company's ability to grow internally.
-- **Comparative Analysis**: Compare IGRs of companies within the same industry to identify the best investment opportunities.
+### Для менеджмента
 
-### For Management
+Менеджмент использует IGR для:
 
-Management uses the IGR to:
+- **Стратегического планирования**: Разработка долгосрочных стратегических планов на основе возможностей внутреннего роста.
+- **Распределения ресурсов**: Эффективное распределение ресурсов в высокодоходные проекты.
+- **Оценки результативности**: Бенчмаркинг результатов и внесение корректировок для повышения операционной эффективности.
 
-- **Strategic Planning**: Develop long-term strategic plans based on internal growth capabilities.
-- **Resource Allocation**: Allocate resources efficiently to high-return projects.
-- **Performance Evaluation**: Benchmark performance and make adjustments to improve operational efficiencies.
+### В финансовом моделировании
 
-### In Financial Modeling
+Включение IGR в финансовые модели помогает в:
 
-Incorporating IGR in financial models helps in:
+- **Прогнозировании роста**: Разработка реалистичных прогнозов роста для финансового планирования и анализа.
+- **Моделях оценки**: Повышение точности корпоративных оценок за счёт учёта потенциала роста, обусловленного внутренними ресурсами.
 
-- **Forecasting Growth**: Developing realistic growth forecasts for financial planning and analysis.
-- **Valuation Models**: Enhancing the accuracy of corporate valuations by incorporating internally driven growth potentials.
+## Реальные компании и IGR
 
-## Real-World Companies and IGR
+Несколько успешных компаний демонстрируют высокие внутренние темпы роста, становясь эталонами в своих отраслях. Одним из таких примеров является **Apple Inc.**, известная своей высокой прибыльностью и эффективным использованием нераспределённой прибыли для финансирования инноваций и расширения.
 
-Several successful companies exhibit strong internal growth rates, becoming benchmarks in their respective industries. One such example is **Apple Inc.**, known for its high profitability and efficient use of retained earnings to fund innovation and expansion.
+Другой пример — **Google (Alphabet Inc.)**, которая эффективно реинвестирует свою нераспределённую прибыль в разнообразные направления бизнеса, включая искусственный интеллект, облачные вычисления и другие высокорастущие области.
 
+## Заключение
 
-Another example is **Google (Alphabet Inc.)**, which efficiently reinvests its retained earnings into diverse businesses including artificial intelligence, cloud computing, and other high-growth areas.
-
-More information can be found at: Google (Alphabet Inc.)
-
-## Conclusion
-
-The Internal Growth Rate is an indispensable tool for understanding a company's growth potential using its internal resources. By focusing on the efficiency of operations and effective reinvestment strategies, businesses can achieve sustainable growth and maintain financial stability. Investors and management alike rely on this metric to make informed decisions, ensuring aligned interests towards achieving long-term objectives.
+Внутренний темп роста является незаменимым инструментом для понимания потенциала роста компании с использованием её внутренних ресурсов. Сосредоточившись на эффективности операций и эффективных стратегиях реинвестирования, бизнес может достичь устойчивого роста и поддерживать финансовую стабильность. Как инвесторы, так и менеджмент полагаются на этот показатель для принятия обоснованных решений, обеспечивая согласованность интересов в достижении долгосрочных целей.

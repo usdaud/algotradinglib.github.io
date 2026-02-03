@@ -1,113 +1,114 @@
-# Wire Fraud
+# Электронное мошенничество
 
-Wire fraud is a specific and serious crime involving the intentional and deceitful manipulation of electronic communications to defraud individuals, organizations, or government entities. This crime is prosecuted under federal law in the United States and can encompass a wide variety of schemes, encompassing everything from phishing emails and fraudulent investment opportunities to elaborate online auction scams and business email compromise (BEC) attacks. Understanding the intricacies of wire fraud is crucial for individuals and businesses alike to protect themselves from potential losses and legal ramifications.
+Электронное мошенничество — это специфическое и серьезное преступление, связанное с умышленным и обманным манипулированием электронными коммуникациями для мошенничества в отношении физических лиц, организаций или государственных учреждений. Это преступление преследуется по федеральному законодательству в Соединенных Штатах и может охватывать широкий спектр схем, включающих все: от фишинговых писем и мошеннических инвестиционных возможностей до сложных схем мошенничества на онлайн-аукционах и атак компрометации деловой электронной почты (BEC). Понимание тонкостей электронного мошенничества имеет решающее значение для физических лиц и предприятий, чтобы защитить себя от потенциальных убытков и юридических последствий.
 
-## Definition and Legal Framework
+## Определение и правовая база
 
-Wire fraud is defined under Title 18 of the United States Code, Section 1343. According to the statute, it is illegal to devise or intend to devise any scheme or artifice to defraud, or obtain money or property by means of false or fraudulent pretenses, representations, or promises, transmitted by means of wire, radio, or television communication in interstate or foreign commerce.
+Электронное мошенничество определяется в разделе 18 Кодекса США, статья 1343. Согласно статуту, незаконно разрабатывать или намереваться разработать любую схему или уловку для мошенничества или получения денег или имущества путем ложных или мошеннических предпосылок, заявлений или обещаний, передаваемых посредством проводной, радио- или телевизионной связи в межштатной или внешней торговле.
 
-### Key Elements of Wire Fraud
+### Ключевые элементы электронного мошенничества
 
-To convict an individual of wire fraud, prosecutors must prove four essential elements:
+Для осуждения лица за электронное мошенничество прокуроры должны доказать четыре основных элемента:
 
-1. **Scheme to Defraud**: There must be a deliberate scheme or plan to defraud someone of money or property. The scheme must involve some misrepresentation, deceit, or concealment of material facts.
+1. **Схема мошенничества**: Должна существовать преднамеренная схема или план обмана кого-либо с целью получения денег или имущества. Схема должна включать искажение фактов, обман или сокрытие существенных фактов.
 
-2. **Intent**: The defendant must have the intent to defraud. This means there must be a deliberate and conscious effort to deceive.
+2. **Умысел**: Ответчик должен иметь намерение совершить мошенничество. Это означает, что должны быть преднамеренные и сознательные усилия обмануть.
 
-3. **Use of Interstate Wires**: The fraud must involve the use of interstate wire communications. This can include telephone calls, emails, faxes, or any other form of electronic communication that crosses state lines.
+3. **Использование межштатных проводных средств связи**: Мошенничество должно включать использование межштатной проводной связи. Это могут быть телефонные звонки, электронные письма, факсы или любые другие формы электронной связи, пересекающие границы штатов.
 
-4. **Resulting in Loss**: The victim(s) must suffer a loss of money or property as a result of the deceitful scheme.
+4. **Причинение ущерба**: Жертва (жертвы) должны понести убытки в виде денег или имущества в результате обманной схемы.
 
-## Common Types of Wire Fraud
+## Распространенные типы электронного мошенничества
 
-Wire fraud can take many forms, but some of the most common types include:
+Электронное мошенничество может принимать множество форм, но некоторые из наиболее распространенных типов включают:
 
-### Business Email Compromise (BEC)
+### Компрометация деловой электронной почты (BEC)
 
-Business Email Compromise, also known as email account compromise, is a sophisticated scam targeting both businesses and individuals performing wire transfer payments. Fraudsters compromise email accounts through phishing or social engineering and use the information to deceive the victim into making unauthorized transfers to bank accounts controlled by the fraudsters.
+Компрометация деловой электронной почты, также известная как компрометация учетной записи электронной почты, представляет собой изощренное мошенничество, нацеленное как на предприятия, так и на физических лиц, осуществляющих платежи банковскими переводами. Мошенники компрометируют учетные записи электронной почты посредством фишинга или социальной инженерии и используют информацию, чтобы обманом заставить жертву совершить несанкционированные переводы на банковские счета, контролируемые мошенниками.
 
-### Phishing
+### Фишинг
 
-Phishing involves sending emails that appear to be from reputable sources to induce individuals to reveal personal information, such as passwords, credit card numbers, and other sensitive data. These emails often contain links to fake websites designed to look identical to legitimate ones.
+Фишинг включает отправку электронных писем, которые выглядят как сообщения от авторитетных источников, чтобы побудить людей раскрыть личную информацию, такую как пароли, номера кредитных карт и другие конфиденциальные данные. Эти письма часто содержат ссылки на поддельные веб-сайты, разработанные так, чтобы выглядеть идентично легитимным.
 
-### Investment Scams
+### Инвестиционные мошенничества
 
-Investment scams lured investors into bogus opportunities with promises of high returns. These schemes often require victims to wire money as an investment, which fraudsters then pocket. Ponzi schemes and pyramid schemes are common examples of investment-related wire fraud.
+Инвестиционные мошенничества заманивают инвесторов в фиктивные возможности с обещаниями высокой доходности. Эти схемы часто требуют от жертв перевода денег в качестве инвестиции, которые затем присваивают мошенники. Схемы Понци и пирамиды являются распространенными примерами связанного с инвестициями электронного мошенничества.
 
-### Online Auction Fraud
+### Мошенничество на онлайн-аукционах
 
-Online auction fraud occurs when a fraudster lists a non-existent item for sale on an auction online platform, luring in buyers with attractive prices. Once payment is wired, the fraudster disappears, and the item is never delivered.
+Мошенничество на онлайн-аукционах происходит, когда мошенник размещает несуществующий товар для продажи на онлайн-платформе аукциона, заманивая покупателей привлекательными ценами. После перевода оплаты мошенник исчезает, и товар никогда не доставляется.
 
-### Lottery Scams
+### Лотерейные мошенничества
 
-In a lottery scam, victims receive notifications via email or phone that they've won a lottery or sweepstakes. To claim their winnings, they are instructed to wire a processing fee or taxes, which ultimately go to the fraudsters.
+При лотерейном мошенничестве жертвы получают уведомления по электронной почте или телефону о том, что они выиграли в лотерею или розыгрыш. Чтобы получить свой выигрыш, их просят перевести комиссию за обработку или налоги, которые в конечном итоге достаются мошенникам.
 
-## Legal Penalties and Consequences
+## Юридические наказания и последствия
 
-Wire fraud carries severe penalties, reflecting the serious nature of the crime. Under federal law, individuals convicted of wire fraud can face:
+Электронное мошенничество влечет за собой суровые наказания, отражающие серьезный характер преступления. Согласно федеральному законодательству, лица, осужденные за электронное мошенничество, могут столкнуться с:
 
-- **Imprisonment**: Up to 20 years for each count of wire fraud. If the fraud affects a financial institution, the sentence can increase to up to 30 years.
-- **Fines**: Significant monetary fines can be imposed, often amounting to hundreds of thousands or even millions of dollars.
-- **Restitution**: Offenders may be required to pay restitution to victims, covering their financial losses resulting from the fraud.
-- **Forfeiture**: Convicted individuals might have to forfeit assets obtained through the fraudulent activities.
+- **Лишением свободы**: До 20 лет по каждому пункту обвинения в электронном мошенничестве. Если мошенничество затрагивает финансовое учреждение, срок может увеличиться до 30 лет.
+- **Штрафами**: Могут быть наложены значительные денежные штрафы, часто исчисляющиеся сотнями тысяч или даже миллионами долларов.
+- **Реституцией**: От правонарушителей может потребоваться выплата реституции жертвам, покрывающей их финансовые потери в результате мошенничества.
+- **Конфискацией**: Осужденные лица могут быть вынуждены конфисковать активы, полученные в результате мошеннической деятельности.
 
-## Preventing Wire Fraud
+## Предотвращение электронного мошенничества
 
-Preventing wire fraud requires a combination of awareness, education, and robust security measures. Here are some best practices for individuals and businesses:
+Предотвращение электронного мошенничества требует сочетания осведомленности, обучения и надежных мер безопасности. Вот некоторые лучшие практики для физических лиц и предприятий:
 
-### Awareness and Training
+### Осведомленность и обучение
 
-- **Employee Training**: Regularly train employees on recognizing and responding to phishing attempts, suspicious emails, and social engineering tactics.
-- **Public Awareness**: Stay informed about the latest wire fraud schemes and disseminate this information to your network to prevent others from becoming victims.
+- **Обучение сотрудников**: Регулярно обучайте сотрудников распознаванию и реагированию на попытки фишинга, подозрительные электронные письма и тактики социальной инженерии.
+- **Общественная осведомленность**: Будьте в курсе последних схем электронного мошенничества и распространяйте эту информацию в своей сети, чтобы предотвратить становление других жертвами.
 
-### Cybersecurity Measures
+### Меры кибербезопасности
 
-- **Secure Communication Channels**: Use encrypted communication channels to share sensitive information.
-- **Multi-Factor Authentication**: Implement multi-factor authentication (MFA) for email accounts and financial systems to add another layer of security.
-- **Email Filters**: Use advanced email filtering technologies to detect and block phishing emails and other malicious content.
+- **Безопасные каналы связи**: Используйте зашифрованные каналы связи для обмена конфиденциальной информацией.
+- **Многофакторная аутентификация**: Внедрите многофакторную аутентификацию (MFA) для учетных записей электронной почты и финансовых систем, чтобы добавить еще один уровень безопасности.
+- **Фильтры электронной почты**: Используйте передовые технологии фильтрации электронной почты для обнаружения и блокирования фишинговых писем и другого вредоносного контента.
 
-### Verification Protocols
+### Протоколы проверки
 
-- **Confirm Requests**: Establish procedures for verifying requests for wire transfers, especially those that involve changes in payment instructions.
-- **Verification Through Secondary Channels**: Confirm changes via a secondary, trusted communication channel (e.g., phone call) rather than relying on email alone.
+- **Подтверждение запросов**: Установите процедуры проверки запросов на банковские переводы, особенно те, которые связаны с изменениями в платежных инструкциях.
+- **Проверка через вторичные каналы**: Подтверждайте изменения через вторичный, доверенный канал связи (например, телефонный звонок), а не полагайтесь только на электронную почту.
 
-## Reporting Wire Fraud
+## Сообщение об электронном мошенничестве
 
-In the United States, wire fraud victims should report incidents to the following authorities:
+В Соединенных Штатах жертвы электронного мошенничества должны сообщать об инцидентах в следующие органы:
 
-- **Federal Bureau of Investigation (FBI)**: The FBI investigates wire fraud as part of its mission to combat cybercrime and financial crimes. Victims can file complaints via the Internet Crime Complaint Center (IC3) [
-- **Federal Trade Commission (FTC)**: The FTC handles complaints about deceptive or fraudulent practices. Complaints can be filed online at [
-- **Local Law Enforcement**: Victims can also report wire fraud to local police or sheriff’s offices, which may coordinate with federal agencies.
+- **Федеральное бюро расследований (ФБР)**: ФБР расследует электронное мошенничество как часть своей миссии по борьбе с киберпреступностью и финансовыми преступлениями. Жертвы могут подавать жалобы через Центр жалоб на интернет-преступления (IC3).
+- **Федеральная торговая комиссия (FTC)**: FTC рассматривает жалобы на обманные или мошеннические практики. Жалобы можно подать онлайн.
+- **Местные правоохранительные органы**: Жертвы также могут сообщать об электронном мошенничестве в местную полицию или офисы шерифа, которые могут координировать действия с федеральными агентствами.
 
-## High-Profile Wire Fraud Cases
+## Громкие дела об электронном мошенничестве
 
-Examining high-profile wire fraud cases helps illustrate the sophisticated nature of these schemes and the severe consequences for perpetrators:
+Изучение громких дел об электронном мошенничестве помогает проиллюстрировать сложную природу этих схем и суровые последствия для правонарушителей:
 
-### United States v. Madoff
+### Соединенные Штаты против Мэдоффа
 
-Bernard Madoff orchestrated one of the largest Ponzi schemes in history, defrauding thousands of investors out of billions of dollars. Madoff used wire communications extensively to solicit investments and manage accounts, ultimately leading to his conviction for multiple counts of wire fraud, among other charges.
+Бернард Мэдофф организовал одну из крупнейших схем Понци в истории, обманув тысячи инвесторов на миллиарды долларов. Мэдофф широко использовал проводную связь для привлечения инвестиций и управления счетами, что в конечном итоге привело к его осуждению по множественным пунктам обвинения в электронном мошенничестве, среди прочих обвинений.
 
-### United States v. Schwartz
+### Соединенные Штаты против Шварца
 
-In 2019, Edward Robert Schwartz was sentenced for his role in a business email compromise scheme that defrauded companies out of millions of dollars. Schwartz's scheme involved hacking into email systems and manipulating communications to facilitate unauthorized wire transfers.
+В 2019 году Эдвард Роберт Шварц был приговорен за его роль в схеме компрометации деловой электронной почты, которая обманула компании на миллионы долларов. Схема Шварца включала взлом почтовых систем и манипулирование коммуникациями для облегчения несанкционированных банковских переводов.
 
-### United States v. Bogacheva
+### Соединенные Штаты против Богачевой
 
-In 2020, Aleksandra Yuryevna Krylova and Anna Vladislavovna Bogacheva, associated with the Russian Internet Research Agency, were indicted for their roles in a sophisticated online influence campaign that included wire fraud among other charges. The campaign involved creating fake social media accounts and using wire communications to deceive and manipulate U.S. voters during the 2016 presidential election.
+В 2020 году Александра Юрьевна Крылова и Анна Владиславовна Богачева, связанные с российским Агентством интернет-исследований, были обвинены в участии в изощренной онлайн-кампании влияния, которая включала электронное мошенничество среди прочих обвинений. Кампания включала создание поддельных учетных записей в социальных сетях и использование проводной связи для обмана и манипулирования американскими избирателями во время президентских выборов 2016 года.
 
-## Ethical and Social Implications
+## Этические и социальные последствия
 
-Wire fraud not only has legal and financial repercussions but also raises significant ethical and social concerns. The anonymity and reach of modern communication technologies can erode trust in digital transactions and online communications, making it crucial to foster a culture of ethical behavior and digital literacy.
+Электронное мошенничество имеет не только юридические и финансовые последствия, но также поднимает значительные этические и социальные вопросы. Анонимность и охват современных коммуникационных технологий могут подорвать доверие к цифровым транзакциям и онлайн-коммуникациям, что делает критически важным развитие культуры этического поведения и цифровой грамотности.
 
-### Trust and Digital Integrity
+### Доверие и цифровая целостность
 
-Trust is foundational to online commerce and communication. Wire fraud undermines this trust by exploiting vulnerabilities in digital systems, leading to a cascade of broader economic and social repercussions. Ensuring digital integrity involves establishing robust regulatory frameworks, promoting ethical behavior, and implementing technological safeguards.
+Доверие является основой онлайн-коммерции и коммуникации. Электронное мошенничество подрывает это доверие, эксплуатируя уязвимости в цифровых системах, что приводит к каскаду более широких экономических и социальных последствий. Обеспечение цифровой целостности включает установление надежных нормативных рамок, продвижение этического поведения и внедрение технологических мер защиты.
 
-### The Role of Technology Companies
+### Роль технологических компаний
 
-Technology companies play a critical role in preventing wire fraud. They bear the responsibility of designing secure systems, adhering to best practices, and collaborating with law enforcement agencies to track and mitigate fraudulent activities. Companies like Google, Microsoft, and Apple have implemented comprehensive security measures to protect users against phishing and other forms of wire fraud [
-### Consumer Education
+Технологические компании играют критическую роль в предотвращении электронного мошенничества. Они несут ответственность за разработку безопасных систем, соблюдение лучших практик и сотрудничество с правоохранительными органами для отслеживания и смягчения мошеннических действий. Компании, такие как Google, Microsoft и Apple, внедрили комплексные меры безопасности для защиты пользователей от фишинга и других форм электронного мошенничества.
 
-Empowering consumers with knowledge and tools to protect themselves against wire fraud is essential. Awareness campaigns, educational resources, and easy-to-use security measures can significantly reduce the risk of individuals falling victim to these schemes.
+### Просвещение потребителей
 
-By understanding the complexities of wire fraud and implementing robust preventive measures, individuals and businesses can better safeguard against this pervasive threat, thereby preserving the integrity of digital transactions and communications.
+Наделение потребителей знаниями и инструментами для защиты себя от электронного мошенничества имеет важное значение. Информационные кампании, образовательные ресурсы и простые в использовании меры безопасности могут значительно снизить риск того, что люди станут жертвами этих схем.
+
+Понимая сложности электронного мошенничества и внедряя надежные превентивные меры, физические лица и предприятия могут лучше защититься от этой повсеместной угрозы, тем самым сохраняя целостность цифровых транзакций и коммуникаций.

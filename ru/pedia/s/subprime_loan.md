@@ -1,91 +1,85 @@
 # Субстандартный кредит
 
-[Перевод с английского языка]
+В сфере финансов и кредитования термин «субстандартный кредит» несёт значительный вес из-за его исторического влияния и последствий, связанных с практикой заимствования и кредитования. Субстандартный кредит — это по сути тип кредита, предлагаемый лицам, которые не соответствуют стандартным кредитным критериям для традиционных займов. Эти заёмщики обычно считаются имеющими более высокие кредитные риски из-за таких факторов, как плохая кредитная история, низкий кредитный рейтинг или нестабильное финансовое положение. Чтобы лучше понять тонкости субстандартных кредитов, их влияние и связанные с ними споры, необходимо рассмотреть множество аспектов — от их характеристик до их роли в более широком экономическом контексте.
 
-In the realm of finance and lending, the term **subprime loan** is one that carries significant weight due to its historical impact and the implications associated with borrowing and lending practices. A subprime loan is essentially a type of loan offered to individuals who do not meet the standard credit criteria for traditional loans. These borrowers are typically deemed to have higher credit risks due to factors such as poor credit history, low credit scores, or unstable financial situations. To better understand the intricacies of subprime loans, their impacts, and the controversies surrounding them, one must delve into a multitude of aspects ranging from their characteristics to their role in broader economic contexts.
+## Характеристики субстандартных кредитов
 
-## Characteristics of Subprime Loans
+### Высокие процентные ставки
 
-### High-Interest Rates
+Одной из основных характеристик субстандартных кредитов являются более высокие процентные ставки. Кредиторы взимают более высокие процентные ставки для компенсации повышенного риска дефолта. Поскольку субстандартные заёмщики считаются более рискованными, вероятность невыполнения ими обязательств по кредиту значительно выше, чем у первоклассных заёмщиков.
 
-One of the primary characteristics of subprime loans is the higher interest rates attached to them. Lenders charge higher interest rates to compensate for the increased risk of default. Because subprime borrowers are considered higher risk, the possibility of them defaulting on their loans is significantly greater than that of prime borrowers.
+### Более низкие требования к кредитному рейтингу
 
-### Lower Credit Score Requirements
+В отличие от традиционных кредитов, которые обычно требуют хороший или отличный кредитный рейтинг (как правило, выше 660), субстандартные кредиты доступны лицам с кредитным рейтингом ниже этого порога. Отсутствие строгих кредитных требований делает эти кредиты привлекательными для тех, кто иначе не мог бы получить кредит.
 
-Unlike traditional loans, which usually require a good to excellent credit score (typically above 660), subprime loans are accessible to individuals with credit scores that fall below this threshold. The lack of stringent credit requirements makes these loans appealing to those who might not otherwise qualify for credit.
+### Ипотека с плавающей ставкой (ARM)
 
-### Adjustable Rate Mortgages (ARMs)
+Субстандартные кредиты часто выдаются в форме ипотеки с плавающей ставкой (ARM), где процентная ставка фиксируется на начальный период, а затем периодически корректируется. Эти корректировки могут привести к значительно более высоким платежам со временем, способствуя более высоким уровням дефолта среди субстандартных заёмщиков.
 
-Subprime loans often come in the form of adjustable-rate mortgages (ARMs), where the interest rate is locked for an initial period and then adjusts periodically. These adjustments can lead to significantly higher payments over time, contributing to higher default rates among subprime borrowers.
+### Более высокие комиссии и штрафы
 
-### Higher Fees and Penalties
+Субстандартные кредиты часто связаны с более высокими комиссиями и штрафами, что делает их более дорогими по сравнению с первоклассными кредитами. Они могут включать штрафы за досрочное погашение — комиссии за раннее погашение кредита, а также более высокие комиссии за оформление кредита.
 
-Subprime loans are often associated with higher fees and penalties, making them more expensive in comparison to prime loans. These can include prepayment penalties, which are fees charged for paying off a loan early, and higher origination fees for processing the loan.
+### Более короткие сроки кредита
 
-### Shorter Loan Terms
+Многие субстандартные кредиты имеют более короткие сроки погашения, что означает более высокие ежемесячные платежи. Это ещё одна мера для компенсации более высокого риска кредитования лиц с неидеальной кредитной историей.
 
-Many subprime loans come with shorter repayment periods, which translate to higher monthly payments. This is another measure to offset the higher risk of lending to individuals with less-than-stellar credit histories.
+## Взлёт и падение рынка субстандартной ипотеки
 
-## The Rise and Fall of the Subprime Mortgage Market
+### До финансового кризиса 2008 года
 
-### Pre-2008 Financial Crisis
+Рынок субстандартной ипотеки пережил значительный рост в начале 2000-х годов, обусловленный увеличением спроса на домовладение и готовностью финансовых учреждений кредитовать более рискованных заёмщиков. Ипотечные кредиты упаковывались в ипотечные ценные бумаги (MBS) и продавались инвесторам, что обеспечивало непрерывный поток капитала для кредиторов для выдачи новых займов.
 
-The subprime mortgage market saw significant growth in the early 2000s, driven by increased demand for homeownership and financial institutions' willingness to lend to riskier borrowers. Mortgages were being packaged into mortgage-backed securities (MBS) and sold to investors, which provided a continuous flow of capital for lenders to issue more loans.
+### Пузырь на рынке недвижимости
 
-### The Housing Bubble
+Широкая доступность кредитов привела к увеличению покупок жилья и последующему росту цен на недвижимость, создав пузырь на рынке жилья. Многие субстандартные заёмщики первоначально могли позволить себе ипотечные платежи благодаря вводным низким процентным ставкам и возможности платить только проценты.
 
-The extensive availability of credit led to an increase in home purchases and a subsequent rise in housing prices, creating a housing bubble. Many subprime borrowers were initially able to afford their mortgage payments due to introductory low-interest rates and interest-only payment options.
+### Развёртывание кризиса
 
-### The Crisis Unfolds
+По мере истечения вводных периодов ипотеки с плавающей ставкой многие субстандартные заёмщики оказались не в состоянии позволить себе более высокие платежи. В результате уровень дефолтов вырос, что привело к волне изъятий. Влияние этих дефолтов было усилено широким распространением ценных бумаг, обеспеченных субстандартной ипотекой, что вызвало значительные убытки для инвесторов и финансовых учреждений по всему миру.
 
-As the introductory periods of adjustable-rate mortgages expired, many subprime borrowers found themselves unable to afford the higher payments. Consequently, default rates increased, leading to a cascade of foreclosures. The impact of these defaults was exacerbated by the widespread distribution of subprime mortgage-backed securities, which caused significant losses for investors and financial institutions globally.
+### Последствия
 
-### The Aftermath
+Крах рынка субстандартной ипотеки стал значительным фактором финансового кризиса 2008 года. Он привёл к краху крупных финансовых институтов, серьёзной рецессии и ужесточению регуляторного надзора, такого как Закон Додда-Франка о реформе Уолл-стрит и защите потребителей, направленного на предотвращение повторения подобного кризиса.
 
-The collapse of the subprime mortgage market was a significant factor in the financial crisis of 2008. It led to the downfall of major financial institutions, a severe recession, and stricter regulatory oversight, such as the Dodd-Frank Wall Street Reform and Consumer Protection Act, aimed at preventing such a crisis from reoccurring.
+## Роль субстандартных кредитов сегодня
 
-## The Role of Subprime Loans Today
+### Регулирование и надзор
 
-### Regulation and Oversight
+После финансового кризиса регулирующие органы внедрили более строгие правила для защиты от рисков, связанных с субстандартным кредитованием. Бюро финансовой защиты потребителей (CFPB) играет ключевую роль в мониторинге и регулировании практик кредитования для обеспечения справедливого обращения с заёмщиками и устойчивого кредитования.
 
-In the wake of the financial crisis, regulatory bodies have implemented stricter guidelines to safeguard against the risks associated with subprime lending. The Consumer Financial Protection Bureau (CFPB) plays a key role in monitoring and regulating lending practices to ensure fair treatment of borrowers and sustainable lending.
+### Альтернативные кредитные рынки
 
-### Alternative Lending Markets
+Хотя традиционные учреждения ужесточили критерии кредитования, альтернативные кредитные рынки, включая одноранговое кредитование и онлайн-кредиторов, появились как источники субстандартных кредитов. Эти платформы используют технологии для оценки кредитоспособности заёмщиков нетрадиционными способами, такими как анализ активности в социальных сетях и других цифровых следов.
 
-While traditional institutions have tightened their lending criteria, alternative lending markets, including peer-to-peer lending and online lenders, have emerged as sources of subprime loans. These platforms leverage technology to assess borrower creditworthiness in non-traditional ways, such as evaluating social media activity and other digital footprints.
+### Сохраняющиеся риски и споры
 
-### Continuing Risks and Controversies
+Несмотря на усиление регулирования, субстандартные кредиты остаются спорными из-за их высокой стоимости и финансовой нагрузки, которую они могут создавать для заёмщиков. Критики утверждают, что эти кредиты эксплуатируют уязвимых потребителей, потенциально загоняя их в долговые ловушки. Сторонники, однако, утверждают, что субстандартное кредитование необходимо для предоставления лицам с плохой кредитной историей доступа к необходимым средствам и возможности восстановить свой кредит.
 
-Despite increased regulation, subprime loans remain controversial due to their high costs and the financial strain they can place on borrowers. Critics argue that these loans exploit vulnerable consumers, potentially trapping them in cycles of debt. Proponents, however, argue that subprime lending is essential for allowing individuals with poor credit histories to access necessary funds and rebuild their credit.
+## Практические примеры и реальные случаи
 
-## Case Studies and Real-World Examples
+### Роль Fannie Mae и Freddie Mac
 
-### The Role of Fannie Mae and Freddie Mac
+Fannie Mae и Freddie Mac, государственные ипотечные агентства (GSE), сыграли ключевую роль в расширении и последующем крахе рынка субстандартной ипотеки. Они приобретали значительные объёмы субстандартных ипотечных кредитов, обеспечивая ликвидность кредиторам и способствуя распространению субстандартных займов.
 
-Fannie Mae and Freddie Mac, government-sponsored enterprises (GSEs), played crucial roles in the expansion and subsequent collapse of the subprime mortgage market. They purchased substantial amounts of subprime mortgages, providing liquidity to lenders and enabling the proliferation of subprime loans. For more information, one can visit their official websites:
-- Fannie Mae
-- Freddie Mac
+### Wells Fargo и субстандартные автокредиты
 
-### Wells Fargo and Subprime Auto Loans
+В последние годы субстандартное кредитование распространилось также на рынок автокредитов, где такие учреждения, как Wells Fargo, предоставляют субстандартные автокредиты. Банк столкнулся с проверками и судебными исками за агрессивную практику кредитования и продаж, что подчёркивает сохраняющиеся проблемы в секторе субстандартного кредитования.
 
-In recent years, subprime lending has also extended to the auto loan market, with institutions like Wells Fargo providing subprime auto loans. The bank has faced scrutiny and legal action for aggressive lending and sales practices, highlighting ongoing challenges within the subprime lending sector.
+## Последствия для финансовых рынков и экономики
 
-- Wells Fargo
+### Влияние на заёмщиков
 
-## Implications for Financial Markets and the Economy
+Для заёмщиков субстандартные кредиты обеспечивают критически важный доступ к кредиту, который иначе мог бы быть недоступен. Однако высокие процентные ставки, комиссии и потенциал дефолта создают значительные финансовые риски.
 
-### Impact on Borrowers
+### Влияние на кредиторов и инвесторов
 
-For borrowers, subprime loans provide critical access to credit that might otherwise be unavailable. However, the high-interest rates, fees, and potential for default pose significant financial risks.
+Для кредиторов и инвесторов субстандартные кредиты представляют собой предложение с высоким риском и высокой доходностью. Хотя эти кредиты могут приносить значительную прибыль через процентные платежи и комиссии, они также несут опасность массовых дефолтов, как это было продемонстрировано во время финансового кризиса 2008 года.
 
-### Impact on Lenders and Investors
+### Более широкие экономические последствия
 
-For lenders and investors, subprime loans represent a high-risk, high-reward proposition. While these loans can offer substantial returns through interest payments and fees, they also carry the danger of widespread defaults, as witnessed during the 2008 financial crisis.
-
-### Broader Economic Implications
-
-The presence of subprime loans within the financial system can have extensive implications for economic stability. While they can drive consumption and economic growth by enabling more individuals to access credit, the risks associated with high default rates can also lead to financial instability and crises.
+Присутствие субстандартных кредитов в финансовой системе может иметь обширные последствия для экономической стабильности. Хотя они могут стимулировать потребление и экономический рост, предоставляя большему числу людей доступ к кредиту, риски, связанные с высоким уровнем дефолтов, также могут привести к финансовой нестабильности и кризисам.
 
 ---
 
-In summary, subprime loans are a multifaceted component of the financial landscape, offering both opportunities and risks. Their role in the lead-up to the 2008 financial crisis underscores the necessity for careful consideration and regulation of lending practices. Continuing innovations in the lending market may provide new ways to manage risks and expand access to credit, but the fundamental challenges of subprime lending remain.
+Подводя итог, субстандартные кредиты являются многогранным компонентом финансового ландшафта, предлагающим как возможности, так и риски. Их роль в преддверии финансового кризиса 2008 года подчёркивает необходимость тщательного рассмотрения и регулирования практик кредитования. Продолжающиеся инновации на кредитном рынке могут предоставить новые способы управления рисками и расширения доступа к кредиту, но фундаментальные проблемы субстандартного кредитования остаются.

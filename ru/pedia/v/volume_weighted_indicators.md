@@ -1,86 +1,86 @@
-# Volume Weighted Indicators
+# Взвешенные по объему индикаторы
 
-## Introduction
+## Введение
 
-Volume Weighted Indicators (VWIs) are an essential class of technical analysis tools used by traders, particularly in algorithmic trading (or algo-trading). These indicators measure market trends and momentum by taking volume into account, along with price data. Unlike traditional price-based indicators, VWIs offer a more comprehensive view of market dynamics, as they incorporate the trading volume as a critical factor that can provide insights into the strength and sustainability of price movements.
+Взвешенные по объему индикаторы (VWI) представляют собой важный класс инструментов технического анализа, используемых трейдерами, особенно в алгоритмической торговле (или алго-трейдинге). Эти индикаторы измеряют рыночные тренды и импульс, принимая во внимание объем наряду с ценовыми данными. В отличие от традиционных ценовых индикаторов, VWI предлагают более комплексное представление о рыночной динамике, поскольку они включают торговый объем в качестве критического фактора, который может дать представление о силе и устойчивости ценовых движений.
 
-## Core Concepts
+## Основные концепции
 
-### Volume
+### Объем
 
-Volume refers to the number of shares or contracts traded in a security or market during a given period. It serves as a measure of market activity and liquidity. High volume can indicate strong interest and increased momentum, while low volume often signifies consolidation or uncertainty.
+Объем относится к количеству акций или контрактов, торгуемых ценной бумагой или рынком в течение заданного периода. Он служит мерой рыночной активности и ликвидности. Высокий объем может указывать на сильный интерес и повышенный импульс, в то время как низкий объем часто означает консолидацию или неопределенность.
 
-### Volume Weighted Average Price (VWAP)
+### Средневзвешенная по объему цена (VWAP)
 
-VWAP stands for Volume Weighted Average Price. It is perhaps the most commonly used volume-based indicator. VWAP calculates the average price a security has traded at throughout the day, based on both volume and price. It helps traders determine the true average buying or selling price for a particular time frame.
+VWAP означает средневзвешенную по объему цену. Это, пожалуй, наиболее часто используемый индикатор на основе объема. VWAP рассчитывает среднюю цену, по которой ценная бумага торговалась в течение дня, на основе как объема, так и цены. Это помогает трейдерам определить истинную среднюю цену покупки или продажи для определенного временного интервала.
 
-### Calculation
+### Расчет
 
-The calculation of VWAP involves summing the products of volume and price for every transaction and then dividing by the total volume:
+Расчет VWAP включает суммирование произведений объема и цены для каждой транзакции, а затем деление на общий объем:
 
-\[ \text{VWAP} = \frac{\sum (Price \times Volume)}{\sum Volume} \]
+\[ \text{VWAP} = \frac{\sum (Цена \times Объем)}{\sum Объем} \]
 
-## Types of Volume Weighted Indicators
+## Типы взвешенных по объему индикаторов
 
-### 1. Volume Weighted Moving Average (VWMA)
+### 1. Средневзвешенная по объему скользящая средняя (VWMA)
 
-The VWMA accounts for volume by weighting the moving average calculation. Here, periods with higher volumes have a more significant impact on the moving average, thus smoothing out the effect of low-volume periods.
+VWMA учитывает объем, взвешивая расчет скользящей средней. Здесь периоды с более высокими объемами оказывают более значительное влияние на скользящую среднюю, тем самым сглаживая эффект периодов с низким объемом.
 
-#### Calculation
+#### Расчет
 
-The VWMA is calculated similarly to a Simple Moving Average (SMA) but uses the volume to weight each period’s price:
+VWMA рассчитывается аналогично простой скользящей средней (SMA), но использует объем для взвешивания цены каждого периода:
 
-\[ \text{VWMA} = \frac{\sum (Price \times Volume)}{\sum Volume} \]
+\[ \text{VWMA} = \frac{\sum (Цена \times Объем)}{\sum Объем} \]
 
-### 2. Volume Weighted RSI (VW-RSI)
+### 2. Взвешенный по объему RSI (VW-RSI)
 
-The Volume Weighted Relative Strength Index modifies the traditional RSI by incorporating volume. It provides a more accurate measurement of momentum that takes market activity into account.
+Взвешенный по объему индекс относительной силы модифицирует традиционный RSI, включая объем. Он обеспечивает более точное измерение импульса, которое учитывает рыночную активность.
 
-#### Calculation
+#### Расчет
 
-VW-RSI includes volume as part of the RSI calculation, which can differ in implementation based on the specific algorithm used by traders.
+VW-RSI включает объем как часть расчета RSI, который может различаться в реализации в зависимости от конкретного алгоритма, используемого трейдерами.
 
-### 3. Accumulation/Distribution Line (A/D Line)
+### 3. Линия накопления/распределения (A/D Line)
 
-The A/D line uses both price and volume to measure the accumulation (buying) and distribution (selling) of a stock over a period.
+Линия A/D использует как цену, так и объем для измерения накопления (покупки) и распределения (продажи) акции за период.
 
-#### Calculation
+#### Расчет
 
-\[ \text{A/D Line} = \text{Previous A/D Line} + \left( \frac{(Close - Low) - (High - Close)}{High - Low} \times Volume \right) \]
+\[ \text{Линия A/D} = \text{Предыдущая линия A/D} + \left( \frac{(Закрытие - Минимум) - (Максимум - Закрытие)}{Максимум - Минимум} \times Объем \right) \]
 
-### 4. Chaikin Money Flow (CMF)
+### 4. Денежный поток Чайкина (CMF)
 
-CMF is another volume-based indicator that measures the flow of money in and out of an asset over a specified period.
+CMF - это еще один индикатор на основе объема, который измеряет поток денег в актив и из него за определенный период.
 
-#### Calculation
+#### Расчет
 
-CMF is calculated over a given period as follows:
+CMF рассчитывается за данный период следующим образом:
 
-\[ \text{CMF} = \frac{\sum (Money Flow Volume)}{\sum Volume} \]
-\[ \text{where Money Flow Volume} = \left( \frac{(Close - Low) - (High - Close)}{High - Low} \right) \times Volume \]
+\[ \text{CMF} = \frac{\sum (Объем денежного потока)}{\sum Объем} \]
+\[ \text{где Объем денежного потока} = \left( \frac{(Закрытие - Минимум) - (Максимум - Закрытие)}{Максимум - Минимум} \right) \times Объем \]
 
-## Application in Algo-Trading
+## Применение в алго-трейдинге
 
-### Algorithmic Strategy Incorporation
+### Включение алгоритмической стратегии
 
-Volume Weighted Indicators can be built into algorithmic trading strategies in multiple ways. Common uses include:
+Взвешенные по объему индикаторы могут быть встроены в стратегии алгоритмической торговли несколькими способами. Обычные применения включают:
 
-- **Filtering Trades**: VWIs help filter out trades across low volume periods where market movement may not be substantial.
-- **Confirming Trends**: They confirm trends initiated by other price-based signals, adding a layer of validation.
-- **Identifying Entry and Exit Points**: VWAP and other VWIs often guide entry and exit points, especially for intraday trades.
+- **Фильтрация сделок**: VWI помогают отфильтровать сделки в периоды низкого объема, когда движение рынка может быть несущественным.
+- **Подтверждение трендов**: Они подтверждают тренды, инициированные другими ценовыми сигналами, добавляя уровень валидации.
+- **Определение точек входа и выхода**: VWAP и другие VWI часто направляют точки входа и выхода, особенно для внутридневных сделок.
 
-### Code Integration
+### Интеграция кода
 
-For algo-traders, incorporating VWIs can be achieved through various algorithmic trading platforms and programming languages like Python, R, and C++.
+Для алго-трейдеров включение VWI может быть достигнуто через различные платформы алгоритмической торговли и языки программирования, такие как Python, R и C++.
 
-#### Example in Python (pandas)
+#### Пример на Python (pandas)
 
-Here’s a basic example of how one might calculate VWAP using pandas in Python:
+Вот базовый пример того, как можно рассчитать VWAP с использованием pandas в Python:
 
 ```python
 import pandas as pd
 
-# Assuming a DataFrame `df` with 'Close', 'Volume' columns
+# Предполагая DataFrame `df` со столбцами 'Close', 'Volume'
 df['TP'] = (df['High'] + df['Low'] + df['Close']) / 3
 df['VTP'] = df['TP'] * df['Volume']
 
@@ -88,32 +88,32 @@ VWAP = df['VTP'].cumsum() / df['Volume'].cumsum()
 df['VWAP'] = VWAP
 ```
 
-### Platforms
+### Платформы
 
-Several platforms support the use of VWIs in automated trading strategies:
+Несколько платформ поддерживают использование VWI в автоматизированных торговых стратегиях:
 
-- **QuantConnect**: Offers a cloud-based algorithmic trading platform, supports volume-weighted indicators. Visit QuantConnect
-- **Algorithmia**: Facilitates integration of multiple technical indicators into trading algorithms. Visit Algorithmia
-- **MetaTrader 5**: Widely used trading platform providing customizable volume-weighted indicators. Visit MetaTrader
+- **QuantConnect**: Предлагает облачную платформу алгоритмической торговли, поддерживает взвешенные по объему индикаторы. Посетите QuantConnect
+- **Algorithmia**: Облегчает интеграцию множества технических индикаторов в торговые алгоритмы. Посетите Algorithmia
+- **MetaTrader 5**: Широко используемая торговая платформа, предоставляющая настраиваемые взвешенные по объему индикаторы. Посетите MetaTrader
 
-## Advantages and Disadvantages
+## Преимущества и недостатки
 
-### Advantages
+### Преимущества
 
-1. **Volume Incorporation**: Provides a more comprehensive analysis as it integrates both price and volume.
-2. **Trend Confirmation**: Enhances the reliability of detected trends.
-3. **Market Sentiment**: Helps gauge the market sentiment more accurately.
+1. **Включение объема**: Обеспечивает более комплексный анализ, так как интегрирует как цену, так и объем.
+2. **Подтверждение тренда**: Повышает надежность обнаруженных трендов.
+3. **Настроение рынка**: Помогает более точно оценить настроение рынка.
 
-### Disadvantages
+### Недостатки
 
-1. **Complexity**: More complex to calculate and interpret compared to traditional indicators.
-2. **Delay**: Can introduce lag due to the volume weighting, especially noticeable in rapidly changing markets.
+1. **Сложность**: Более сложны в расчете и интерпретации по сравнению с традиционными индикаторами.
+2. **Задержка**: Может вносить запаздывание из-за взвешивания по объему, особенно заметное на быстро меняющихся рынках.
 
-## Conclusion
+## Заключение
 
-Volume Weighted Indicators are invaluable tools for sophisticated traders looking to enhance their market analysis by incorporating volume. These indicators provide a more nuanced view of market dynamics and help traders make more informed decisions. In algorithmic trading, the ability to integrate such indicators can significantly improve the performance and reliability of trading strategies.
+Взвешенные по объему индикаторы являются бесценными инструментами для опытных трейдеров, стремящихся улучшить свой рыночный анализ путем включения объема. Эти индикаторы предоставляют более нюансированное представление о рыночной динамике и помогают трейдерам принимать более обоснованные решения. В алгоритмической торговле способность интегрировать такие индикаторы может значительно улучшить производительность и надежность торговых стратегий.
 
-## References
+## Ссылки
 
 - QuantConnect
 - Algorithmia

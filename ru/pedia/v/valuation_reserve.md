@@ -1,125 +1,125 @@
-# Valuation Reserve
+# Резерв оценки
 
-A valuation reserve, often referred to as a valuation allowance, is a balance sheet account that companies use to address the potential decline in the value of their assets, ensuring that these assets are not overstated. This concept is crucial in financial reporting and helps maintain the integrity and accuracy of a company's financial statements.
+Резерв оценки, часто называемый резервом на уценку, представляет собой счет баланса, который компании используют для учета потенциального снижения стоимости своих активов, гарантируя, что эти активы не завышены. Эта концепция имеет решающее значение в финансовой отчетности и помогает поддерживать целостность и точность финансовых отчетов компании.
 
-## Nature and Purpose
+## Природа и цель
 
-The primary purpose of a valuation reserve is to adjust the carrying amount of the assets to reflect their true market value, thereby providing a more accurate representation of the company’s financial position. It acts as a buffer against potential losses due to asset devaluation, impaired collectability, or other valuation uncertainties.
+Основная цель резерва оценки заключается в корректировке балансовой стоимости активов, чтобы отразить их истинную рыночную стоимость, тем самым обеспечивая более точное представление финансового положения компании. Он действует как буфер против потенциальных убытков из-за обесценивания активов, нарушенной собираемости или других неопределенностей оценки.
 
-A valuation reserve is a non-cash accounting entry that contrasts with the usual concept of reserves that typically involve cash or capital. Rather than setting aside actual cash, companies make an accounting entry to indicate the potential reduction in value. This helps align the reported asset values with their fair market value and ensures compliance with accounting principles.
+Резерв оценки — это неденежная бухгалтерская запись, которая контрастирует с обычной концепцией резервов, которые обычно включают денежные средства или капитал. Вместо того чтобы откладывать фактические денежные средства, компании делают бухгалтерскую запись для указания потенциального снижения стоимости. Это помогает согласовать отраженные стоимости активов с их справедливой рыночной стоимостью и обеспечивает соответствие принципам бухгалтерского учета.
 
-## Common Types of Valuation Reserves
+## Распространенные типы резервов оценки
 
-### Allowance for Doubtful Accounts
+### Резерв по сомнительным долгам
 
-The Allowance for Doubtful Accounts is one of the most common valuation reserves used to mitigate the risk of uncollectible receivables. When a company makes credit sales, not all customers are likely to pay their debts due to various reasons like financial instability or bankruptcy.
+Резерв по сомнительным долгам является одним из наиболее распространенных резервов оценки, используемых для снижения риска невозвратной дебиторской задолженности. Когда компания осуществляет продажи в кредит, не все клиенты, вероятно, оплатят свои долги по различным причинам, таким как финансовая нестабильность или банкротство.
 
-Companies estimate the possible bad debts and create an allowance for doubtful accounts, which adjusts the value of accounts receivable on the balance sheet. The entry typically involves a debit to bad debt expense and a credit to the allowance for doubtful accounts.
+Компании оценивают возможные безнадежные долги и создают резерв по сомнительным долгам, который корректирует стоимость дебиторской задолженности в балансе. Запись обычно включает дебет расходов по безнадежным долгам и кредит резерва по сомнительным долгам.
 
-Example:
+Пример:
 ```plaintext
-Bad Debt Expense           XXX
-    Allowance for Doubtful Accounts          XXX
+Расходы по безнадежным долгам           XXX
+    Резерв по сомнительным долгам          XXX
 ```
 
-### Inventory Valuation Reserve
+### Резерв на уценку запасов
 
-An inventory valuation reserve is used to account for potential reductions in the value of inventory due to obsolescence, damage, or price declines. This reserve helps ensure that the inventory is not overstated on the balance sheet.
+Резерв на уценку запасов используется для учета потенциального снижения стоимости запасов из-за устаревания, повреждения или снижения цен. Этот резерв помогает гарантировать, что запасы не завышены в балансе.
 
-Example:
+Пример:
 ```plaintext
-Inventory Write-down Expense           XXX
-    Inventory Valuation Reserve         XXX
+Расходы на списание запасов           XXX
+    Резерв на уценку запасов         XXX
 ```
 
-### Asset Impairment Reserve
+### Резерв на обесценение активов
 
-Asset impairment reserves are used when the carrying amount of a long-term asset exceeds its fair value, indicating that it is impaired. Companies assess impairment by comparing the carrying value of the asset to its recoverable amount (the higher of the asset's fair value less costs to sell and its value in use).
+Резервы на обесценение активов используются, когда балансовая стоимость долгосрочного актива превышает его справедливую стоимость, указывая на то, что он обесценен. Компании оценивают обесценение, сравнивая балансовую стоимость актива с его возмещаемой суммой (большей из справедливой стоимости актива за вычетом затрат на продажу и его стоимости в использовании).
 
-When impairment is identified, a valuation reserve is created to reflect the reduced value of the asset on the balance sheet.
+Когда обесценение выявлено, создается резерв оценки для отражения сниженной стоимости актива в балансе.
 
-Example:
+Пример:
 ```plaintext
-Asset Impairment Loss           XXX
-    Asset Impairment Reserve          XXX
+Убыток от обесценения активов           XXX
+    Резерв на обесценение активов          XXX
 ```
 
-## Accounting Standards and Regulations
+## Стандарты и правила бухгалтерского учета
 
-### GAAP (Generally Accepted Accounting Principles)
+### GAAP (Общепринятые принципы бухгалтерского учета)
 
-Under GAAP, valuation reserves must be created based on reasonable and supportable assumptions. The creation and adjustment of these reserves are typically governed by several accounting standards, including:
+Согласно GAAP, резервы оценки должны создаваться на основе разумных и обоснованных предположений. Создание и корректировка этих резервов обычно регулируются несколькими стандартами бухгалтерского учета, включая:
 
-1. **ASC 310-10**: Governs the accounting for receivables and allowances for doubtful accounts.
-2. **ASC 330-10**: Deals with inventory valuation and write-downs.
-3. **ASC 360-10**: Covers the impairment of long-lived assets.
+1. **ASC 310-10**: Регулирует учет дебиторской задолженности и резервов по сомнительным долгам.
+2. **ASC 330-10**: Касается оценки запасов и списаний.
+3. **ASC 360-10**: Охватывает обесценение долгосрочных активов.
 
-### IFRS (International Financial Reporting Standards)
+### IFRS (Международные стандарты финансовой отчетности)
 
-Under IFRS, valuation reserves are similarly governed by specific standards, ensuring that assets are carried at no more than their recoverable amount. Key standards include:
+Согласно IFRS, резервы оценки аналогично регулируются конкретными стандартами, гарантирующими, что активы отражаются не более чем по их возмещаемой сумме. Ключевые стандарты включают:
 
-1. **IFRS 9**: Addresses the impairment of financial assets, including allowances for doubtful accounts.
-2. **IAS 2**: Concerns the valuation of inventories.
-3. **IAS 36**: Relates to the impairment of assets.
+1. **IFRS 9**: Рассматривает обесценение финансовых активов, включая резервы по сомнительным долгам.
+2. **IAS 2**: Касается оценки запасов.
+3. **IAS 36**: Относится к обесценению активов.
 
-### Regulatory Requirements
+### Регуляторные требования
 
-Beyond accounting standards, various regulatory bodies may have specific requirements for companies within their jurisdictions, which could influence the creation and management of valuation reserves.
+Помимо стандартов бухгалтерского учета, различные регулирующие органы могут иметь специфические требования для компаний в их юрисдикциях, которые могут влиять на создание и управление резервами оценки.
 
-## Economic Impact
+## Экономическое влияние
 
-Valuation reserves can significantly impact a company's financial health and its perceived value by investors, creditors, and other stakeholders.
+Резервы оценки могут значительно влиять на финансовое здоровье компании и ее воспринимаемую стоимость инвесторами, кредиторами и другими заинтересованными сторонами.
 
-### Impact on Financial Statements
+### Влияние на финансовую отчетность
 
-### Balance Sheet
+### Баланс
 
-Valuation reserves reduce the carrying value of the associated assets on the balance sheet, providing a more conservative and realistic view of the company’s assets.
+Резервы оценки снижают балансовую стоимость связанных активов в балансе, обеспечивая более консервативный и реалистичный взгляд на активы компании.
 
-### Income Statement
+### Отчет о прибылях и убытках
 
-Creating or adjusting valuation reserves impacts the income statement through increased expenses, thereby reducing net income. This is crucial for accurately representing a company's earnings through potential losses due to asset devaluation.
+Создание или корректировка резервов оценки влияет на отчет о прибылях и убытках через увеличение расходов, тем самым снижая чистую прибыль. Это имеет решающее значение для точного представления прибыли компании через потенциальные убытки из-за обесценивания активов.
 
-### Cash Flow Statement
+### Отчет о движении денежных средств
 
-As valuation reserves are non-cash entries, they do not directly affect the cash flow statement. However, they can indirectly impact it by influencing net income and, consequently, operating cash flows.
+Поскольку резервы оценки являются неденежными записями, они не влияют напрямую на отчет о движении денежных средств. Однако они могут косвенно влиять на него, воздействуя на чистую прибыль и, следовательно, на операционные денежные потоки.
 
-## Strategic Implications
+## Стратегические последствия
 
-### Risk Management
+### Управление рисками
 
-Valuation reserves are essential for risk management, helping companies mitigate the financial impact of uncertain asset values and potential losses. They ensure that the financial statements reflect a company's realistic financial condition, aiding in better decision-making.
+Резервы оценки необходимы для управления рисками, помогая компаниям смягчить финансовое влияние неопределенных стоимостей активов и потенциальных убытков. Они гарантируют, что финансовая отчетность отражает реалистичное финансовое состояние компании, способствуя лучшему принятию решений.
 
-### Creditworthiness
+### Кредитоспособность
 
-By providing an accurate reflection of asset values, valuation reserves can influence a company’s creditworthiness. Creditors and investors look at these reserves as indicators of prudent and conservative management practices.
+Предоставляя точное отражение стоимости активов, резервы оценки могут влиять на кредитоспособность компании. Кредиторы и инвесторы рассматривают эти резервы как индикаторы разумных и консервативных практик управления.
 
-## Best Practices
+## Лучшие практики
 
-### Regular Review
+### Регулярный пересмотр
 
-Companies should regularly review and adjust their valuation reserves to reflect the current market conditions, ensuring their financial statements remain accurate and compliant with the relevant accounting standards.
+Компании должны регулярно пересматривать и корректировать свои резервы оценки, чтобы отразить текущие рыночные условия, гарантируя, что их финансовая отчетность остается точной и соответствует соответствующим стандартам бухгалтерского учета.
 
-### Documentation
+### Документирование
 
-Maintaining thorough documentation of the assumptions and methodologies used in creating and adjusting valuation reserves is crucial. This helps in audits and regulatory reviews, demonstrating that the reserves are based on sound judgment and factual data.
+Ведение тщательной документации предположений и методологий, используемых при создании и корректировке резервов оценки, имеет решающее значение. Это помогает при аудитах и регуляторных проверках, демонстрируя, что резервы основаны на здравом суждении и фактических данных.
 
-### Transparency
+### Прозрачность
 
-Transparent reporting and disclosure of valuation reserves in financial statements build trust with investors and stakeholders. It ensures that everyone has a clear understanding of the potential risks and the measures taken to address them.
+Прозрачная отчетность и раскрытие информации о резервах оценки в финансовой отчетности укрепляют доверие инвесторов и заинтересованных сторон. Это гарантирует, что у всех есть четкое понимание потенциальных рисков и мер, предпринятых для их устранения.
 
-## Case Studies
+## Кейс-стади
 
 ### AIG
 
-American International Group (AIG) is a well-known example where valuation reserves played a significant role in its financial reporting. Following the 2008 financial crisis, AIG had to significantly adjust its asset valuations, impacting its balance sheet and income statement. The valuation reserves created helped provide a more accurate picture of its financial health during the crisis.
+American International Group (AIG) является хорошо известным примером, где резервы оценки сыграли значительную роль в его финансовой отчетности. После финансового кризиса 2008 года AIG пришлось значительно скорректировать свои оценки активов, влияя на его баланс и отчет о прибылях и убытках. Созданные резервы оценки помогли предоставить более точную картину его финансового здоровья во время кризиса.
 
 
-### Inventory Valuation at Tech Companies
+### Оценка запасов в технологических компаниях
 
-Tech companies, due to rapid innovation, often face significant risk of inventory obsolescence. Firms like Apple and Microsoft create substantial inventory valuation reserves to account for potential obsolescence, ensuring their financial statements reflect the true value of their inventories.
+Технологические компании из-за быстрых инноваций часто сталкиваются со значительным риском устаревания запасов. Такие фирмы, как Apple и Microsoft, создают существенные резервы на уценку запасов для учета потенциального устаревания, гарантируя, что их финансовая отчетность отражает истинную стоимость их запасов.
 
 
-## Conclusion
+## Заключение
 
-Valuation reserves are a fundamental aspect of financial reporting, crucial for maintaining the accuracy and reliability of a company’s financial statements. They serve as protective measures, ensuring that assets are not overstated and potential losses are accounted for. By understanding and effectively managing valuation reserves, companies can enhance their financial integrity, make informed decisions, and build trust with their stakeholders.
+Резервы оценки являются фундаментальным аспектом финансовой отчетности, имеющим решающее значение для поддержания точности и надежности финансовой отчетности компании. Они служат защитными мерами, гарантируя, что активы не завышены и потенциальные убытки учтены. Понимая и эффективно управляя резервами оценки, компании могут укрепить свою финансовую целостность, принимать обоснованные решения и строить доверие со своими заинтересованными сторонами.

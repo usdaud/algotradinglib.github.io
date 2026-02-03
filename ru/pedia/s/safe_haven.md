@@ -1,127 +1,127 @@
-# Защитный актив
+# Защитные активы (Safe Haven)
 
-In the complex world of [finance](../f/finance.md), the term "Safe Haven" refers to an investment that is expected to retain or even increase in [value](../v/value.md) during times of [market](../m/market.md) turbulence. Safe havens are crucial for investors seeking to mitigate [risk](../r/risk.md) and preserve [capital](../c/capital.md) during periods of economic [uncertainty](../u/uncertainty_in_trading.md) or geopolitical instability. This guide discusses what qualifies as a safe haven, various types of safe haven assets, their characteristics, and their role in diversified investment portfolios. Additionally, the guide delves into the role of [algorithmic trading](../a/algorithmic_trading.md) and fintech in identifying and maximizing the benefits of safe haven assets.
+В сложном мире финансов термин «защитные активы» (safe haven) относится к инвестициям, которые, как ожидается, сохранят или даже увеличат свою стоимость во время рыночных потрясений. Защитные активы имеют решающее значение для инвесторов, стремящихся снизить риски и сохранить капитал в периоды экономической неопределённости или геополитической нестабильности. В данном руководстве рассматривается, что квалифицируется как защитный актив, различные типы защитных активов, их характеристики и роль в диверсифицированных инвестиционных портфелях. Кроме того, рассматривается роль алгоритмической торговли и финтеха в выявлении и максимизации преимуществ защитных активов.
 
-## Characteristics of Safe Haven Assets
+## Характеристики защитных активов
 
-Safe haven assets are distinguished by several key characteristics that collectively contribute to their perceived [security](../s/security.md) during periods of [market](../m/market.md) [volatility](../v/volatility.md). These characteristics include:
+Защитные активы отличаются несколькими ключевыми характеристиками, которые в совокупности способствуют их восприятию как надёжных инструментов в периоды рыночной волатильности. Эти характеристики включают:
 
-1. **Stability**: Safe haven assets generally exhibit low [volatility](../v/volatility.md) and tend to remain stable in [value](../v/value.md), even when stock markets and other investment categories are experiencing significant declines.
+1. **Стабильность**: Защитные активы обычно демонстрируют низкую волатильность и, как правило, остаются стабильными в цене, даже когда фондовые рынки и другие инвестиционные категории переживают значительные спады.
 
-2. **[Liquidity](../l/liquidity.md)**: High [liquidity](../l/liquidity.md) is crucial for a safe haven [asset](../a/asset.md) as it ensures that investors can quickly sell the [asset](../a/asset.md) without causing a significant drop in its price.
+2. **Ликвидность**: Высокая ликвидность имеет решающее значение для защитного актива, поскольку она гарантирует, что инвесторы могут быстро продать актив без существенного снижения его цены.
 
-3. **[Intrinsic Value](../i/intrinsic_value.md)**: Many safe haven assets, like precious metals, possess [intrinsic value](../i/intrinsic_value.md) to some extent, meaning that they [hold](../h/hold.md) worth independent of external [market](../m/market.md) conditions.
+3. **Внутренняя стоимость**: Многие защитные активы, такие как драгоценные металлы, в определённой степени обладают внутренней стоимостью, то есть они сохраняют ценность независимо от внешних рыночных условий.
 
-4. **Non-[Correlation](../c/correlation.md) with [Risk](../r/risk.md) Assets**: Safe haven assets should not be closely correlated with more volatile assets such as [stocks](../s/stock.md) and bonds, ensuring they perform differently in divergent [market](../m/market.md) environments.
+4. **Отсутствие корреляции с рисковыми активами**: Защитные активы не должны иметь тесной корреляции с более волатильными активами, такими как акции и облигации, что обеспечивает их различное поведение в различных рыночных условиях.
 
-5. **Durability**: The long-term sustainability and preservation of [value](../v/value.md)—often through physical longevity or through long-standing institutional [trust](../t/trust.md)—are key aspects of safe haven assets.
+5. **Долговечность**: Долгосрочная устойчивость и сохранение стоимости — часто благодаря физической долговечности или благодаря давнему институциональному доверию — являются ключевыми аспектами защитных активов.
 
-## Types of Safe Haven Assets
+## Типы защитных активов
 
-Here are the primary categories of safe haven assets that investors commonly turn to during uncertain times:
+Вот основные категории защитных активов, к которым инвесторы обычно обращаются в неопределённые времена:
 
-### 1. **Precious Metals**
+### 1. **Драгоценные металлы**
 
-Precious metals like gold, silver, and [platinum](../p/platinum.md) have been considered safe haven assets for centuries. Gold, in particular, is the go-to [asset](../a/asset.md) for investors seeking safety due to its historical [store of value](../s/store_of_value.md) and resistance to [inflation](../i/inflation.md).
+Драгоценные металлы, такие как золото, серебро и платина, считаются защитными активами на протяжении веков. Золото, в частности, является первым выбором для инвесторов, ищущих безопасность, благодаря своей исторической функции средства сбережения и устойчивости к инфляции.
 
-### 2. **Government Bonds**
+### 2. **Государственные облигации**
 
-Government bonds, especially those issued by stable and creditworthy governments like the [U.S. Treasury](../u/u.s._treasury.md) bonds, are also considered safe havens. They provide fixed [interest](../i/interest.md) payments and are backed by the government's ability to raise [taxes](../t/taxes.md) and print [money](../m/money.md), which reduces [default risk](../d/default_risk.md).
+Государственные облигации, особенно выпущенные стабильными и кредитоспособными правительствами, такие как казначейские облигации США, также считаются защитными активами. Они обеспечивают фиксированные процентные выплаты и обеспечены способностью правительства повышать налоги и печатать деньги, что снижает риск дефолта.
 
-### 3. **Currencies**
+### 3. **Валюты**
 
-Certain currencies, notably the U.S. Dollar (USD), Swiss Franc (CHF), and Japanese Yen (JPY), are viewed as safe havens. These currencies tend to appreciate during periods of global stress due to their [underlying](../u/underlying.md) economic stability and [liquidity](../l/liquidity.md).
+Некоторые валюты, в частности доллар США (USD), швейцарский франк (CHF) и японская иена (JPY), рассматриваются как защитные активы. Эти валюты имеют тенденцию укрепляться в периоды глобального стресса благодаря их базовой экономической стабильности и ликвидности.
 
-### 4. **Defensive Stocks**
+### 4. **Защитные акции**
 
-Defensive [stocks](../s/stock.md) pertain to companies that provide essential services or products (e.g., utilities, pharmaceuticals, and [consumer staples](../c/consumer_staples.md)). These [stocks](../s/stock.md) are generally resilient in economic downturns as their [business models](../b/business_models.md) remain in [demand](../d/demand.md) regardless of [economic conditions](../e/economic_conditions.md).
+Защитные акции относятся к компаниям, предоставляющим основные услуги или продукты (например, коммунальные услуги, фармацевтика и товары первой необходимости). Эти акции обычно устойчивы в периоды экономических спадов, поскольку их бизнес-модели остаются востребованными независимо от экономических условий.
 
-### 5. **Cash**
+### 5. **Наличные денежные средства**
 
-Holding cash, particularly in strong and stable currencies, is another way that investors seek to preserve [capital](../c/capital.md) during volatile times. Cash offers [liquidity](../l/liquidity.md) and can quickly be redeployed when [market](../m/market.md) conditions stabilize.
+Хранение наличных, особенно в сильных и стабильных валютах, — это ещё один способ, которым инвесторы стремятся сохранить капитал в волатильные времена. Наличные обеспечивают ликвидность и могут быть быстро реинвестированы при стабилизации рыночных условий.
 
-### 6. **Collectibles and Real Estate**
+### 6. **Предметы коллекционирования и недвижимость**
 
-Though not as [liquid](../l/liquid.md) as other safe havens, certain high-[value](../v/value.md) collectibles (like fine art) and [real estate](../r/real_estate.md) can also act as safe haven assets, particularly when they have a history of stable [value](../v/value.md) appreciation.
+Хотя они не так ликвидны, как другие защитные активы, определённые ценные предметы коллекционирования (например, изобразительное искусство) и недвижимость также могут выступать в качестве защитных активов, особенно когда они имеют историю стабильного роста стоимости.
 
-## Role of Safe Haven Assets in Portfolio Diversification
+## Роль защитных активов в диверсификации портфеля
 
-In the context of [portfolio management](../p/par.md), including safe haven assets can strongly contribute to [diversification strategies](../d/diversification_strategies.md). Proper [diversification](../d/diversification.md) seeks to blend various [asset](../a/asset.md) classes such that the failure of one does not significantly affect the overall portfolio’s performance. Here’s how safe haven assets fit into this framework:
+В контексте управления портфелем включение защитных активов может существенно способствовать стратегиям диверсификации. Правильная диверсификация стремится объединить различные классы активов таким образом, чтобы неудача одного из них не оказывала существенного влияния на общую эффективность портфеля. Вот как защитные активы вписываются в эту структуру:
 
-1. **[Risk](../r/risk.md) Reduction**: Safe haven assets help to spread [risk](../r/risk.md) across different areas, reducing the impact of any single [asset](../a/asset.md)’s poor performance.
+1. **Снижение риска**: Защитные активы помогают распределить риск по различным областям, уменьшая влияние плохой эффективности какого-либо отдельного актива.
 
-2. **Hedging**: These assets often serve as effective hedges against [market](../m/market.md) [volatility](../v/volatility.md) and economic downturns.
+2. **Хеджирование**: Эти активы часто служат эффективным хеджем против рыночной волатильности и экономических спадов.
 
-3. **Stability**: The presence of safe haven assets can provide a stabilizing effect, ensuring that portfolio fluctuations remain within acceptable bands.
+3. **Стабильность**: Наличие защитных активов может обеспечить стабилизирующий эффект, гарантируя, что колебания портфеля остаются в приемлемых пределах.
 
-4. **[Liquidity](../l/liquidity.md) Management**: Safe haven assets [offer](../o/offer.md) [liquidity](../l/liquidity.md) during crisis periods, enabling investors to meet any immediate [cash flow](../c/cash_flow.md) needs without selling off other assets at depressed values.
+4. **Управление ликвидностью**: Защитные активы предлагают ликвидность в кризисные периоды, позволяя инвесторам удовлетворить любые немедленные потребности в денежных потоках без продажи других активов по заниженным ценам.
 
-## Algorithmic Trading and Safe Haven Assets
+## Алгоритмическая торговля и защитные активы
 
-With the rise of [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading), identifying and [investing](../i/investing.md) in safe haven assets has become increasingly sophisticated. Algorithms can process vast volumes of [market](../m/market.md) data to determine the most advantageous times to enter or exit safe haven positions. Here's how [algorithmic trading](../a/algorithmic_trading.md) enhances the handling of safe haven assets:
+С развитием алгоритмической торговли (алготрейдинга) выявление и инвестирование в защитные активы стало всё более сложным. Алгоритмы могут обрабатывать огромные объёмы рыночных данных для определения наиболее выгодных моментов для входа или выхода из позиций в защитных активах. Вот как алгоритмическая торговля улучшает работу с защитными активами:
 
-### **Detection**
+### **Обнаружение**
 
-Algorithms can identify early signs of [market](../m/market.md) distress by analyzing [multiple](../m/multiple.md) financial indicators and news sources. This instant recognition allows for a timely pivot into safe haven assets before broader [market](../m/market.md) participants react.
+Алгоритмы могут выявлять ранние признаки рыночного стресса, анализируя множество финансовых индикаторов и новостных источников. Это мгновенное распознавание позволяет своевременно переключиться на защитные активы до того, как отреагируют более широкие участники рынка.
 
-### **Risk Management**
+### **Управление рисками**
 
-Algo-[trading systems](../t/trading_systems.md) can be programmed with [risk management](../r/risk_management.md) protocols that automatically adjust portfolios to allocate more heavily into safe haven assets during periods of high [volatility](../v/volatility.md).
+Алготорговые системы могут быть запрограммированы с протоколами управления рисками, которые автоматически корректируют портфели для более значительного распределения в защитные активы в периоды высокой волатильности.
 
-### **Backtesting**
+### **Бэктестинг**
 
-Algorithmic models can utilize historical data to backtest strategies related to safe haven investments, ensuring that current strategies are informed by past [market](../m/market.md) behaviors and trends.
+Алгоритмические модели могут использовать исторические данные для бэктестинга стратегий, связанных с инвестициями в защитные активы, обеспечивая информированность текущих стратегий на основе прошлого рыночного поведения и тенденций.
 
-### **Execution**
+### **Исполнение**
 
-[Automated trading systems](../a/automated_trading_systems.md) can execute large orders within milliseconds, ensuring optimal entry and exit points. This rapid [execution](../e/execution.md) minimizes the [risk](../r/risk.md) of [slippage](../s/slippage.md), where the executed price differs from the intended one due to [market](../m/market.md) movements.
+Автоматизированные торговые системы могут исполнять крупные ордера в течение миллисекунд, обеспечивая оптимальные точки входа и выхода. Это быстрое исполнение минимизирует риск проскальзывания, когда исполненная цена отличается от намеченной из-за движений рынка.
 
-### **Fintech Platforms and Safe Haven Assets**
+### **Финтех-платформы и защитные активы**
 
-Fintech platforms are making advanced trading tools more accessible to retail investors, who were traditionally limited to basic buy-and-[hold](../h/hold.md) strategies. These platforms [offer](../o/offer.md):
+Финтех-платформы делают продвинутые торговые инструменты более доступными для розничных инвесторов, которые традиционно были ограничены базовыми стратегиями «купи и держи». Эти платформы предлагают:
 
-1. **Advanced Analytics**: [Robust](../r/robust.md) analytics and AI tools that aid in the identification of safe haven assets.
+1. **Продвинутую аналитику**: Надёжные аналитические и ИИ-инструменты, помогающие в выявлении защитных активов.
 
-2. **Access to [Market](../m/market.md) Data**: Real-time data and insights on global [economic conditions](../e/economic_conditions.md), helping investors make informed decisions.
+2. **Доступ к рыночным данным**: Данные в реальном времени и аналитика глобальных экономических условий, помогающие инвесторам принимать обоснованные решения.
 
-3. **Customized Strategies**: Solutions allowing individual investors to create custom [trading algorithms](../t/trading_algorithms.md) tailored to their [risk tolerance](../r/risk_tolerance.md) and investment goals.
+3. **Индивидуальные стратегии**: Решения, позволяющие индивидуальным инвесторам создавать пользовательские торговые алгоритмы, адаптированные к их толерантности к риску и инвестиционным целям.
 
-4. **Educational Resources**: Providing educational resources and simulations to help investors understand the dynamics and functions of safe haven assets.
+4. **Образовательные ресурсы**: Предоставление образовательных ресурсов и симуляций, помогающих инвесторам понять динамику и функции защитных активов.
 
-## Case Studies: Safe Haven Assets in Action
+## Практические примеры: защитные активы в действии
 
-### Gold During Financial Crises
+### Золото во время финансовых кризисов
 
-During the 2008 [financial crisis](../f/financial_crisis.md), the stock markets worldwide plummeted, but gold prices soared as investors sought a safe harbor. The price of gold rose from approximately $700 per ounce in October 2008 to around $1,900 per ounce by September 2011.
+Во время финансового кризиса 2008 года фондовые рынки по всему миру обрушились, но цены на золото резко выросли, поскольку инвесторы искали безопасную гавань. Цена золота выросла примерно с 700 долларов за унцию в октябре 2008 года до около 1900 долларов за унцию к сентябрю 2011 года.
 
-### U.S. Treasuries During Economic Downturns
+### Казначейские облигации США во время экономических спадов
 
-U.S. Treasuries are considered virtually [risk](../r/risk.md)-free. During the early 2020 panic induced by the COVID-19 pandemic, [demand](../d/demand.md) for these bonds surged, resulting in unprecedented lows in yields. Investors flocked to U.S. Treasuries, seeking [security](../s/security.md) amidst widespread [market](../m/market.md) instability.
+Казначейские облигации США считаются практически безрисковыми. Во время паники начала 2020 года, вызванной пандемией COVID-19, спрос на эти облигации резко вырос, что привело к беспрецедентно низким доходностям. Инвесторы устремились к казначейским облигациям США в поисках безопасности на фоне широкомасштабной рыночной нестабильности.
 
-### Swiss Franc During Political Instability
+### Швейцарский франк во время политической нестабильности
 
-The Swiss Franc has historically been a stable [currency](../c/currency.md) due to Switzerland’s political neutrality and [robust](../r/robust.md) [economy](../e/economy.md). During the [Eurozone](../e/eurozone.md) crisis (2010-2014), the Swiss Franc saw significant inflows as investors sought safety from the ongoing [uncertainty](../u/uncertainty_in_trading.md) in European markets.
+Швейцарский франк исторически был стабильной валютой благодаря политическому нейтралитету Швейцарии и устойчивой экономике. Во время кризиса еврозоны (2010-2014) швейцарский франк испытал значительный приток средств, поскольку инвесторы искали безопасность от продолжающейся неопределённости на европейских рынках.
 
-## Защитный актив Assets and Regulatory Considerations
+## Защитные активы и регуляторные аспекты
 
-While safe haven assets can provide investment [security](../s/security.md), they also come under various regulatory regimes that can influence [investor](../i/investor.md) behavior and [asset](../a/asset.md) performance. Here are some regulatory considerations:
+Хотя защитные активы могут обеспечить инвестиционную безопасность, они также подпадают под различные регуляторные режимы, которые могут влиять на поведение инвесторов и эффективность активов. Вот некоторые регуляторные аспекты:
 
-### **Precious Metals**
+### **Драгоценные металлы**
 
-Investors in precious metals need to be aware of [import](../i/import.md) [taxes](../t/taxes.md), storage costs, and potential limits on [holdings](../h/holdings.md), which can vary significantly by country.
+Инвесторам в драгоценные металлы необходимо знать об импортных пошлинах, расходах на хранение и потенциальных ограничениях на владение, которые могут значительно различаться в зависимости от страны.
 
-### **Government Bonds**
+### **Государственные облигации**
 
-Regulations around government bonds include mandatory disclosures, [secondary market](../s/secondary_market.md) trading restrictions, and tax implications.
+Регулирование государственных облигаций включает обязательное раскрытие информации, ограничения на торговлю на вторичном рынке и налоговые последствия.
 
-### **Currencies**
+### **Валюты**
 
-[Currency](../c/currency.md) controls and regulations can affect the [liquidity](../l/liquidity.md) and convertibility of safe haven currencies, impacting their safety and attractiveness.
+Валютный контроль и регулирование могут влиять на ликвидность и конвертируемость защитных валют, воздействуя на их безопасность и привлекательность.
 
-### **Real Estate**
+### **Недвижимость**
 
-[Investing](../i/investing.md) in [real estate](../r/real_estate.md) presents challenges such as property [taxes](../t/taxes.md), maintenance regulations, [zoning](../z/zoning.md) laws, and environmental restrictions, all of which can affect the [asset](../a/asset.md)’s stability and [value](../v/value.md) retention.
+Инвестирование в недвижимость сопряжено с такими проблемами, как налоги на имущество, правила обслуживания, законы о зонировании и экологические ограничения, которые могут влиять на стабильность актива и сохранение его стоимости.
 
-## Conclusion
+## Заключение
 
-Safe haven assets play an indispensable role in providing [security](../s/security.md) and stability during periods of [market](../m/market.md) turmoil. Their distinct characteristics and varied types enable investors to manage [risk](../r/risk.md) effectively within diversified portfolios. The advances in [algorithmic trading](../a/algorithmic_trading.md) and fintech have revolutionized the ways investors can identify, acquire, and [leverage](../l/leverage.md) safe haven assets. Through diligent assessment, strategic allocation, and an understanding of regulatory environments, safe haven assets can serve as a [robust](../r/robust.md) defense mechanism against the unpredictable nature of [financial markets](../f/financial_market.md).
+Защитные активы играют незаменимую роль в обеспечении безопасности и стабильности в периоды рыночных потрясений. Их отличительные характеристики и разнообразные типы позволяют инвесторам эффективно управлять рисками в рамках диверсифицированных портфелей. Достижения в области алгоритмической торговли и финтеха революционизировали способы выявления, приобретения и использования защитных активов инвесторами. Благодаря тщательной оценке, стратегическому распределению и пониманию регуляторной среды защитные активы могут служить надёжным защитным механизмом от непредсказуемой природы финансовых рынков.

@@ -1,121 +1,121 @@
-# Wilder’s Smoothing Techniques
+# Методы сглаживания Уайлдера
 
-Wilder’s smoothing techniques refer to the methods of smoothing and filtering financial data developed by J. Welles Wilder, an influential figure in technical analysis. These techniques are used by algorithmic traders and technical analysts to smooth out price data, reduce the impact of short-term fluctuations, and reveal underlying trends in financial markets.
+Методы сглаживания Уайлдера относятся к способам сглаживания и фильтрации финансовых данных, разработанным Дж. Уэллсом Уайлдером, влиятельной фигурой в техническом анализе. Эти методы используются алгоритмическими трейдерами и техническими аналитиками для сглаживания ценовых данных, снижения влияния краткосрочных колебаний и выявления основных трендов на финансовых рынках.
 
-J. Welles Wilder Jr. introduced several key indicators and methods in his seminal work, "New Concepts in Technical Trading Systems" (1978). Among his contributions are popular indicators such as the Relative Strength Index (RSI), Average True Range.md) (ATR), Parabolic SAR (Stop and Reverse), and the Directional Movement Index (DMI). Let’s dive into the specifics of some of these smoothing techniques and their applications in algorithmic trading.
+Дж. Уэллс Уайлдер-младший представил несколько ключевых индикаторов и методов в своей основополагающей работе "Новые концепции в технических торговых системах" (1978). Среди его вкладов — популярные индикаторы, такие как индекс относительной силы (RSI), средний истинный диапазон (ATR), параболический SAR (стоп и разворот) и индекс направленного движения (DMI). Давайте углубимся в специфику некоторых из этих методов сглаживания и их применения в алгоритмической торговле.
 
-### Relative Strength Index (RSI)
+### Индекс относительной силы (RSI)
 
-The RSI is a momentum oscillator that measures the speed and change of price movements. It oscillates between 0 and 100 and is commonly used to identify overbought or oversold conditions in a market.
+RSI — это моментум-осциллятор, который измеряет скорость и изменение ценовых движений. Он колеблется между 0 и 100 и обычно используется для определения условий перекупленности или перепроданности на рынке.
 
-#### Calculation
-The RSI is calculated using the following formula:
+#### Расчет
+RSI рассчитывается по следующей формуле:
 
 \[ RSI = 100 - \frac{100}{1 + RS} \]
 
 
-\ RS = \frac{\text{Average [Gain}}{\text{Average Loss}} \]
+\[ RS = \frac{\text{Средняя прибыль}}{\text{Средняя потеря}} \]
 
-The average gain and average loss are typically computed using a 14-period timeframe.
+Средняя прибыль и средняя потеря обычно вычисляются с использованием 14-периодного временного интервала.
 
-Wilder devised a smoothing technique to calculate these averages using the following steps:
+Уайлдер разработал метод сглаживания для расчета этих средних значений, используя следующие шаги:
 
-1. **Compute the first average gain and average loss** using simple arithmetic means for the initial 14 periods.
-2. **Use the subsequent periods' data** to smooth these values using an exponential moving average approach:
+1. **Вычислите первую среднюю прибыль и среднюю потерю** с использованием простых арифметических средних для начальных 14 периодов.
+2. **Используйте данные последующих периодов** для сглаживания этих значений с использованием подхода экспоненциального скользящего среднего:
 
-\ \text{Average [Gain}_{\text{New}} = \frac{(\text{Previous Average Gain} \times 13) + \text{Current Gain}}{14} \]
+\[ \text{Средняя прибыль}_{\text{Новая}} = \frac{(\text{Предыдущая средняя прибыль} \times 13) + \text{Текущая прибыль}}{14} \]
 
-\[ \text{Average Loss}_{\text{New}} = \frac{(\text{Previous Average Loss} \times 13) + \text{Current Loss}}{14} \]
+\[ \text{Средняя потеря}_{\text{Новая}} = \frac{(\text{Предыдущая средняя потеря} \times 13) + \text{Текущая потеря}}{14} \]
 
-This smoothing method significantly reduces the noise in the price data, making RSI a reliable indicator for identifying trends and potential reversal points.
+Этот метод сглаживания значительно снижает шум в ценовых данных, делая RSI надежным индикатором для определения трендов и потенциальных точек разворота.
 
-### Average True Range (ATR)
+### Средний истинный диапазон (ATR)
 
-ATR is a volatility indicator that measures the degree of price variability. It was originally developed for commodities but can be applied to stocks and other financial instruments as well.
+ATR — это индикатор волатильности, который измеряет степень ценовой изменчивости. Он был первоначально разработан для товаров, но может применяться к акциям и другим финансовым инструментам.
 
-#### Calculation
-The ATR is calculated as follows:
+#### Расчет
+ATR рассчитывается следующим образом:
 
-1. **True Range (TR)** is the greatest of the following:
+1. **Истинный диапазон (TR)** — это наибольшее из следующих значений:
 
- - Current High minus Current Low
- - Absolute value of Current High minus Previous Close
- - Absolute value of Current Low minus Previous Close
+   - Текущий максимум минус текущий минимум
+   - Абсолютное значение текущего максимума минус предыдущее закрытие
+   - Абсолютное значение текущего минимума минус предыдущее закрытие
 
-\ \text{True [Range} = \max(\text{Current High} - \text{Current Low}, |\text{Current High} - \text{Previous Close}|, |\text{Current Low} - \text{Previous Close}|) \]
+\[ \text{Истинный диапазон} = \max(\text{Текущий максимум} - \text{Текущий минимум}, |\text{Текущий максимум} - \text{Предыдущее закрытие}|, |\text{Текущий минимум} - \text{Предыдущее закрытие}|) \]
 
-2. **Average True Range.md) (ATR)** is then computed using a 14-period smoothing technique:
+2. **Средний истинный диапазон (ATR)** затем вычисляется с использованием 14-периодного метода сглаживания:
 
-\[ \text{ATR}_{\text{New}} = \frac{(\text{Previous ATR} \times 13) + \text{Current TR}}{14} \]
+\[ \text{ATR}_{\text{Новый}} = \frac{(\text{Предыдущий ATR} \times 13) + \text{Текущий TR}}{14} \]
 
-The ATR gives traders an idea of the historical price volatility, which can help in setting stop-loss levels, position sizing, and identifying potential breakout points.
+ATR дает трейдерам представление об исторической ценовой волатильности, что может помочь в установке уровней стоп-лосс, определении размера позиции и выявлении потенциальных точек прорыва.
 
-### Parabolic SAR (Stop and Reverse)
+### Параболический SAR (стоп и разворот)
 
-The Parabolic SAR is a trend-following indicator that indicates potential reversal points in the market. It plots points on the chart that define the price trend direction.
+Параболический SAR — это трендовый индикатор, который указывает на потенциальные точки разворота на рынке. Он отображает точки на графике, которые определяют направление ценового тренда.
 
-#### Calculation
-The Parabolic SAR is computed as:
+#### Расчет
+Параболический SAR вычисляется следующим образом:
 
-1. For an uptrend:
+1. Для восходящего тренда:
 
-\ \text{SAR} = \text{Previous SAR} + \[alpha (\text{EP} - \text{Previous SAR}) \]
+\[ \text{SAR} = \text{Предыдущий SAR} + \alpha (\text{EP} - \text{Предыдущий SAR}) \]
 
-2. For a downtrend:
+2. Для нисходящего тренда:
 
-\ \text{SAR} = \text{Previous SAR} - \[alpha (\text{Previous SAR} - \text{EP}) \]
+\[ \text{SAR} = \text{Предыдущий SAR} - \alpha (\text{Предыдущий SAR} - \text{EP}) \]
 
-where EP (Extreme Point) is the highest high or lowest low of the current trend, and \(\alpha\) (acceleration factor) starts at 0.02 and increases by 0.02 up to a maximum of 0.20 every time a new EP is reached.
+где EP (экстремальная точка) — это самый высокий максимум или самый низкий минимум текущего тренда, а \(\alpha\) (коэффициент ускорения) начинается с 0,02 и увеличивается на 0,02 до максимума 0,20 каждый раз, когда достигается новая EP.
 
-The resulting SAR values create a parabola that moves closer to the price under trending conditions, offering a dynamic system for setting trailing stops.
+Результирующие значения SAR создают параболу, которая движется ближе к цене в трендовых условиях, предлагая динамическую систему для установки скользящих стопов.
 
-### Directional Movement Index (DMI) and Average Directional Index (ADX)
+### Индекс направленного движения (DMI) и средний индекс направленности (ADX)
 
-The DMI is used to identify the presence and strength of a trend. It consists of three components:
+DMI используется для определения наличия и силы тренда. Он состоит из трех компонентов:
 
-1. **+DI (Positive Directional Indicator)** - measures the strength of upward movement
-2. **-DI (Negative Directional Indicator)** - measures the strength of downward movement
-3. **ADX (Average Directional Index.md))** - measures the overall strength of the trend without regard to direction
+1. **+DI (положительный индикатор направления)** — измеряет силу восходящего движения
+2. **-DI (отрицательный индикатор направления)** — измеряет силу нисходящего движения
+3. **ADX (средний индекс направленности)** — измеряет общую силу тренда независимо от направления
 
-#### Calculation
-1. **Calculate Directional Movement (+DM and -DM)**:
+#### Расчет
+1. **Вычислите направленное движение (+DM и -DM)**:
 
- - +DM = Current High - Previous High (if positive and greater than -DM, else 0)
- - -DM = Previous Low - Current Low (if positive and greater than +DM, else 0)
+   - +DM = Текущий максимум - Предыдущий максимум (если положительно и больше -DM, иначе 0)
+   - -DM = Предыдущий минимум - Текущий минимум (если положительно и больше +DM, иначе 0)
 
-2. **Calculate Smoothed +DM and -DM** using a 14-period smoothing:
+2. **Вычислите сглаженные +DM и -DM** с использованием 14-периодного сглаживания:
 
-\[ +DM_{\text{S}} = (+DM_{\text{Prior}} - \frac{+DM_{\text{Prior}}}{14}) + +DM_{\text{Current}} \]
+\[ +DM_{\text{S}} = (+DM_{\text{Предыдущий}} - \frac{+DM_{\text{Предыдущий}}}{14}) + +DM_{\text{Текущий}} \]
 
-\[ -DM_{\text{S}} = (-DM_{\text{Prior}} - \frac{-DM_{\text{Prior}}}{14}) + -DM_{\text{Current}} \]
+\[ -DM_{\text{S}} = (-DM_{\text{Предыдущий}} - \frac{-DM_{\text{Предыдущий}}}{14}) + -DM_{\text{Текущий}} \]
 
-3. **Calculate the Directional Indicator values**:
+3. **Вычислите значения индикатора направления**:
 
 \[ +DI = 100 \times \frac{+DM_{\text{S}}}{ATR} \]
 
 \[ -DI = 100 \times \frac{-DM_{\text{S}}}{ATR} \]
 
-4. **Calculate the ADX** to measure the trend strength:
+4. **Вычислите ADX** для измерения силы тренда:
 
 \[ DX = 100 \times \frac{| +DI - -DI |}{ +DI + -DI } \]
 
-\[ ADX = \left( \text{Prior ADX} \times 13 + \text{Current DX} \right) / 14 \]
+\[ ADX = \left( \text{Предыдущий ADX} \times 13 + \text{Текущий DX} \right) / 14 \]
 
-The ADX line helps distinguish trending from non-trending conditions, while the +DI and -DI lines indicate the trend's direction and strength.
+Линия ADX помогает различать трендовые и нетрендовые условия, в то время как линии +DI и -DI указывают направление и силу тренда.
 
-### Applications in Algorithmic Trading
+### Применение в алгоритмической торговле
 
-Algorithmic traders utilize Wilder's smoothing techniques in various strategies, including:
+Алгоритмические трейдеры используют методы сглаживания Уайлдера в различных стратегиях, включая:
 
-1. **Mean Reversion Strategies**: Using RSI to identify overbought or oversold conditions for triggering buy or sell signals.
-2. **Trend Following Strategies**: Implementing Parabolic SAR and ADX to determine entry and exit points in line with prevailing trends.
-3. **Volatility-Based Strategies**: Leveraging ATR to dynamically set stop-loss levels and adjust position sizing according to market volatility.
+1. **Стратегии возврата к среднему**: Использование RSI для определения условий перекупленности или перепроданности для генерации сигналов покупки или продажи.
+2. **Стратегии следования за трендом**: Внедрение параболического SAR и ADX для определения точек входа и выхода в соответствии с преобладающими трендами.
+3. **Стратегии на основе волатильности**: Использование ATR для динамической установки уровней стоп-лосс и корректировки размера позиции в соответствии с рыночной волатильностью.
 
-These techniques provide a robust framework for systematic trading due to their ability to filter out noise and focus on significant price movements and trends.
+Эти методы предоставляют надежную основу для систематической торговли благодаря своей способности отфильтровывать шум и фокусироваться на значительных ценовых движениях и трендах.
 
-For more information about their applications in modern trading systems, consider reviewing resources provided by financial market education services or professional trading firms that specialize in algorithmic trading.
+Для получения дополнительной информации об их применении в современных торговых системах рассмотрите возможность изучения ресурсов, предоставляемых службами финансового образования на рынке или профессиональными торговыми фирмами, специализирующимися на алгоритмической торговле.
 
-- Investopedia: Relative Strength Index (RSI)
-- Investopedia: Average True Range (ATR)
-- Investopedia: Parabolic SAR
-- Investopedia: Directional Movement Index (DMI)
+- Investopedia: Индекс относительной силы (RSI)
+- Investopedia: Средний истинный диапазон (ATR)
+- Investopedia: Параболический SAR
+- Investopedia: Индекс направленного движения (DMI)

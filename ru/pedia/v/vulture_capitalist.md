@@ -1,87 +1,87 @@
-# Vulture Capitalist
+# Венчурный капиталист-стервятник
 
-Vulture capitalist is a term used to describe a particular class of investment firm or individual investors who specialize in buying companies that are in financial distress, typically with the intention of turning them around for a profit or dismembering them and selling off the pieces. The term "vulture" is derived from the bird species that feeds on carcasses, signifying the opportunistic and sometimes predatory nature of these investors.
+Венчурный капиталист-стервятник — это термин, используемый для описания определенного класса инвестиционных фирм или индивидуальных инвесторов, которые специализируются на покупке компаний, находящихся в финансовом бедствии, обычно с намерением развернуть их для получения прибыли или разобрать и продать по частям. Термин "стервятник" происходит от вида птиц, питающихся падалью, обозначая оппортунистическую и иногда хищническую природу этих инвесторов.
 
-## Overview
+## Обзор
 
-Vulture capitalists often swoop in when a company is on the verge of bankruptcy, providing capital and management expertise aimed at restructuring the business. Unlike traditional venture capitalists who invest primarily in startups with high growth potential, vulture capitalists focus on distressed assets that can potentially yield substantial returns either through operational turnaround or through asset liquidation.
+Венчурные капиталисты-стервятники часто налетают, когда компания находится на грани банкротства, предоставляя капитал и управленческий опыт, направленные на реструктуризацию бизнеса. В отличие от традиционных венчурных капиталистов, которые инвестируют в основном в стартапы с высоким потенциалом роста, венчурные капиталисты-стервятники сосредоточены на проблемных активах, которые потенциально могут принести существенную прибыль либо через операционный разворот, либо через ликвидацию активов.
 
-## Historical Context
+## Исторический контекст
 
-The practice of vulture capitalism can be traced back several decades, but it gained significant prominence during the leveraged buyout (LBO) boom of the 1980s. Investment firms like Kohlberg Kravis Roberts & Co. (KKR) and others engaged in high-profile acquisitions of troubled companies, often restructuring their operations to extract value.
+Практика венчурного капитализма-стервятника может быть прослежена на несколько десятилетий назад, но она приобрела значительную известность во время бума выкупов с использованием заемных средств (LBO) 1980-х годов. Инвестиционные фирмы, такие как Kohlberg Kravis Roberts & Co. (KKR) и другие, участвовали в высокопрофильных приобретениях проблемных компаний, часто реструктурируя их операции для извлечения стоимости.
 
 **KKR**:
 
-## Typical Vulture Capitalist Strategy
+## Типичная стратегия венчурного капиталиста-стервятника
 
-1. **Investment Identification**
- - Vulture capitalists are constantly on the lookout for companies that exhibit signs of financial distress, such as declining revenues, shrinking profit margins, poor cash flow, or excessive debt levels. These businesses are often undervalued by the market, making them attractive targets.
+1. **Идентификация инвестиций**
+ - Венчурные капиталисты-стервятники постоянно ищут компании, которые проявляют признаки финансового бедствия, такие как снижающиеся доходы, сокращающиеся нормы прибыли, плохой денежный поток или чрезмерные уровни долга. Эти бизнесы часто недооценены рынком, что делает их привлекательными целями.
 
-2. **Due Diligence**
- - Once a potential target is identified, extensive due diligence is performed. This includes evaluating the company's financial statements, market position, operational inefficiencies, and potential value of underlying assets.
+2. **Комплексная проверка**
+ - После определения потенциальной цели проводится обширная комплексная проверка. Это включает оценку финансовых отчетов компании, рыночной позиции, операционных неэффективностей и потенциальной стоимости базовых активов.
 
-3. **Acquisition and Restructuring**
- - Capital is injected into the distressed company in exchange for equity or debt. The firm’s management may be replaced, and restructuring plans are implemented to improve operational efficiency, reduce expenses, renegotiate debt terms, or sell off non-core assets.
+3. **Приобретение и реструктуризация**
+ - Капитал вкачивается в проблемную компанию в обмен на акции или долг. Управление фирмой может быть заменено, и реализуются планы реструктуризации для улучшения операционной эффективности, снижения расходов, перезаключения долговых условий или продажи непрофильных активов.
 
-4. **Exit Strategy**
- - The ultimate goal is to exit the investment with a substantial profit. This can involve selling the revitalized company in part or whole to other investors, taking it public, or liquidating its assets.
+4. **Стратегия выхода**
+ - Конечная цель — выйти из инвестиции с существенной прибылью. Это может включать продажу возрожденной компании целиком или частично другим инвесторам, вывод ее на биржу или ликвидацию ее активов.
 
-## Distressed Asset Investment Types
+## Типы инвестиций в проблемные активы
 
-### Corporate Debt
+### Корпоративный долг
 
-Vulture capitalists often acquire corporate debt from distressed companies at a significant discount. This can be through secondary markets where debt securities are traded. They may then work on converting this debt into equity or use it as leverage for gaining control over the company's operations.
+Венчурные капиталисты-стервятники часто приобретают корпоративный долг проблемных компаний со значительной скидкой. Это может быть через вторичные рынки, где торгуются долговые ценные бумаги. Затем они могут работать над конвертацией этого долга в акции или использовать его как рычаг для получения контроля над операциями компании.
 
-### Real Estate
+### Недвижимость
 
-Another common investment type is distressed real estate. Properties facing foreclosure or those undervalued due to broader economic conditions are bought with the intention of refurbishment and resale, or repurposing them to generate rental income.
+Другой распространенный тип инвестиций — проблемная недвижимость. Недвижимость, сталкивающаяся с потерей права выкупа, или недооцененная из-за более широких экономических условий, покупается с намерением ремонта и перепродажи или перепрофилирования для получения арендного дохода.
 
-### Assets in Bankruptcy
+### Активы в процессе банкротства
 
-When a company files for Chapter 11 or Chapter 7 bankruptcy, its assets may be sold to pay off creditors. Vulture capitalists participate in these auctions, buying assets which they believe can be sold for profit or integrated into other businesses for strategic advantage.
+Когда компания подает заявление о банкротстве по главе 11 или главе 7, ее активы могут быть проданы для погашения кредиторов. Венчурные капиталисты-стервятники участвуют в этих аукционах, покупая активы, которые, по их мнению, могут быть проданы с прибылью или интегрированы в другие бизнесы для стратегического преимущества.
 
-## Criticisms
+## Критика
 
-Despite the potential for generating high returns, the practices of vulture capitalists are often criticized for several reasons:
+Несмотря на потенциал для получения высоких доходов, практики венчурных капиталистов-стервятников часто критикуются по нескольким причинам:
 
-* **Predatory Nature**: Critics argue that vulture capitalists take advantage of companies when they are at their weakest, often stripping them of valuable assets without necessarily ensuring their long-term viability.
-* **Job Loss**: The aggressive cost-cutting measures and restructuring efforts can lead to significant layoffs, adversely affecting employees and local economies.
-* **Short-Term Focus**: There is concern that the focus on quick returns may undermine the long-term health and sustainability of the businesses they invest in.
+* **Хищническая природа**: Критики утверждают, что венчурные капиталисты-стервятники пользуются преимуществом компаний, когда они наиболее слабы, часто лишая их ценных активов без обязательного обеспечения их долгосрочной жизнеспособности.
+* **Потеря рабочих мест**: Агрессивные меры по сокращению затрат и усилия по реструктуризации могут привести к значительным увольнениям, негативно влияя на работников и местные экономики.
+* **Краткосрочный фокус**: Существует озабоченность, что фокус на быстрой прибыли может подорвать долгосрочное здоровье и устойчивость бизнеса, в который они инвестируют.
 
-## Case Studies
+## Тематические исследования
 
 ### Toys 'R' Us
 
-In 2005, Toys 'R' Us was acquired by a consortium that included KKR, Bain Capital, and Vornado Realty Trust. The acquisition was highly leveraged, and the toy retailer struggled with significant debt levels. Despite attempts to turn it around, Toys 'R' Us eventually filed for bankruptcy in 2017, resulting in the closure of its stores and widespread job losses.
+В 2005 году Toys 'R' Us была приобретена консорциумом, который включал KKR, Bain Capital и Vornado Realty Trust. Приобретение было высоколеверированным, и розничный торговец игрушками боролся со значительными уровнями долга. Несмотря на попытки развернуть компанию, Toys 'R' Us в конечном итоге подала заявление о банкротстве в 2017 году, что привело к закрытию ее магазинов и широкомасштабной потере рабочих мест.
 
 ### American Airlines
 
-In contrast, American Airlines provides an example of a successful distressed investment. The airline filed for bankruptcy in 2011, and vulture capitalists, including several hedge funds, invested in its debt and equity. They played a role in restructuring the airline’s operations, leading to a successful merger with US Airways and eventual financial recovery.
+В отличие от этого, American Airlines предоставляет пример успешной инвестиции в проблемные активы. Авиакомпания подала заявление о банкротстве в 2011 году, и венчурные капиталисты-стервятники, включая несколько хедж-фондов, инвестировали в ее долг и акции. Они сыграли роль в реструктуризации операций авиакомпании, что привело к успешному слиянию с US Airways и в конечном итоге к финансовому восстановлению.
 
-## Prominent Vulture Capitalists and Firms
+## Известные венчурные капиталисты-стервятники и фирмы
 
-* **Carl Icahn**: Activist investor known for his aggressive approach in acquiring and restructuring companies.
-* **Paul Singer**: Founder of Elliott Management Corporation, a hedge fund that frequently engages in distressed asset investments.
-* **Oaktree Capital Management**: Specializes in alternative investments, including distressed debt.
+* **Карл Айкан**: Активистский инвестор, известный своим агрессивным подходом в приобретении и реструктуризации компаний.
+* **Пол Сингер**: Основатель Elliott Management Corporation, хедж-фонда, который часто участвует в инвестициях в проблемные активы.
+* **Oaktree Capital Management**: Специализируется на альтернативных инвестициях, включая проблемный долг.
 
-## Regulatory and Ethical Considerations
+## Регуляторные и этические соображения
 
-Given the impact of vulture capitalism on various stakeholders, there are regulatory and ethical considerations that come into play:
+Учитывая влияние венчурного капитализма-стервятника на различных заинтересованных сторон, существуют регуляторные и этические соображения, которые вступают в игру:
 
-* **Fiduciary Responsibility**: Vulture capitalists have a fiduciary duty to their investors, which requires them to act in the best financial interest of their clients.
-* **Corporate Governance**: The role of vulture capitalists in corporate governance is scrutinized, especially in terms of transparency, accountability, and ethical business practices.
-* **Legislative Frameworks**: Different countries have varying levels of regulation governing mergers, acquisitions, and bankruptcy proceedings, which can affect vulture capitalist activities.
+* **Фидуциарная ответственность**: Венчурные капиталисты-стервятники имеют фидуциарную обязанность перед своими инвесторами, что требует от них действовать в наилучших финансовых интересах своих клиентов.
+* **Корпоративное управление**: Роль венчурных капиталистов-стервятников в корпоративном управлении подвергается тщательному изучению, особенно в отношении прозрачности, подотчетности и этических бизнес-практик.
+* **Законодательные рамки**: Разные страны имеют различные уровни регулирования, управляющие слияниями, приобретениями и процедурами банкротства, что может влиять на деятельность венчурных капиталистов-стервятников.
 
-## Technological and Market Trends
+## Технологические и рыночные тренды
 
-### Algorithmic Trading in Distressed Assets
+### Алгоритмическая торговля в проблемных активах
 
-Advances in technology, particularly in algorithmic trading, have significantly impacted the landscape of vulture capitalism. Algorithms can be programmed to identify distressed assets based on predefined criteria, streamlining the investment identification process and improving the accuracy of due diligence.
+Достижения в технологиях, особенно в алгоритмической торговле, значительно повлияли на ландшафт венчурного капитализма-стервятника. Алгоритмы могут быть запрограммированы для идентификации проблемных активов на основе предопределенных критериев, оптимизируя процесс идентификации инвестиций и улучшая точность комплексной проверки.
 
-### Big Data and AI
+### Большие данные и ИИ
 
-The use of big data and artificial intelligence (AI) in analyzing market trends, financial statements, and other data points allows vulture capitalists to make more informed decisions, enhancing their ability to predict turnaround potential and investment risks.
+Использование больших данных и искусственного интеллекта (ИИ) в анализе рыночных трендов, финансовых отчетов и других точек данных позволяет венчурным капиталистам-стервятникам принимать более обоснованные решения, улучшая их способность предсказывать потенциал разворота и инвестиционные риски.
 
-## Conclusion
+## Заключение
 
-Vulture capitalism is a controversial yet influential force in the financial markets. While it offers the potential for high returns and plays a role in the restructuring of failing businesses, it also raises significant ethical and social concerns. The strategies employed by vulture capitalists continue to evolve with technological advancements, making this a dynamic and important area of financial investment.
+Венчурный капитализм-стервятник является спорной, но влиятельной силой на финансовых рынках. Хотя он предлагает потенциал для высоких доходов и играет роль в реструктуризации терпящих неудачу бизнесов, он также поднимает значительные этические и социальные проблемы. Стратегии, используемые венчурными капиталистами-стервятниками, продолжают развиваться с технологическими достижениями, делая это динамичной и важной областью финансовых инвестиций.
