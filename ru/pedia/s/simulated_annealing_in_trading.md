@@ -1,102 +1,102 @@
-# Имитация отжига в торговле
+# Имитация отжига
 
-Имитация отжига (SA) — это вероятностная техника для приближенного поиска глобального оптимума заданной функции. Она была впервые представлена в начале 1980-х годов в контексте задач оптимизации в физике, но с тех пор нашла широкий спектр применений в различных областях, включая торговлю и финансы. В торговле имитация отжига используется для оптимизации торговых стратегий, тем самым максимизируя прибыль или минимизируя риск.
+Имитация отжига (SA) - это вероятностная техника для аппроксимации глобального оптимума заданной функции. Она была впервые представлена в начале 1980-х годов в контексте задач оптимизации в физике, но с тех пор нашла широкий спектр применений в различных областях, включая торговлю и финансы. В торговле имитация отжига используется для оптимизации торговых стратегий, тем самым максимизируя доходность или минимизируя риск.
 
 ### Введение в имитацию отжига
 
-Имитация отжига вдохновлена процессом отжига в металлургии, где материал нагревается до высокой температуры, а затем постепенно охлаждается для удаления дефектов, что приводит к более стабильной структуре. Аналогично, имитация отжига применяет этот принцип к задачам оптимизации, исследуя области пространства решений при более высоких "температурах" (уровнях вероятности), а затем стабилизируясь при более низких температурах для поиска оптимального решения.
+Имитация отжига вдохновлена процессом отжига в металлургии, где материал нагревается до высокой температуры, а затем постепенно охлаждается для удаления дефектов, что приводит к более стабильной структуре. По аналогии, имитация отжига применяет этот принцип к задачам оптимизации, исследуя области пространства решений при более высоких "температурах" (уровнях вероятности), а затем стабилизируясь при более низких температурах для выхода на оптимальное решение.
 
 ### Алгоритм
 
 Алгоритм SA включает следующие шаги:
 
-1. **Инициализация**: Start with an initial solution and an initial temperature.
+1. **Инициализация**: Начните с начального решения и начальной температуры.
 2. **Итерация**:
- 1. Generate a neighbor solution.
- 2. Calculate the energy difference (ΔE) between the current solution and the neighbor.
- 3. If the neighbor solution is better (ΔE < 0), accept it.
- 4. If the neighbor solution is worse (ΔE > 0), accept it with a certain probability P, which decreases as the algorithm progresses.
-3. **График охлаждения**: Gradually decrease the temperature according to a cooling schedule.
-4. **Завершение**: Stop the algorithm after a predefined number of iterations or when the temperature reaches a certain threshold.
+ 1. Генерируйте соседнее решение.
+ 2. Вычислите разницу энергий (ΔE) между текущим решением и соседним.
+ 3. Если соседнее решение лучше (ΔE < 0), примите его.
+ 4. Если соседнее решение хуже (ΔE > 0), примите его с определенной вероятностью P, которая уменьшается по мере продвижения алгоритма.
+3. **График охлаждения**: Постепенно снижайте температуру согласно графику охлаждения.
+4. **Завершение**: Остановите алгоритм после заранее определенного количества итераций или когда температура достигнет определенного порога.
 
-### Функция энергии и функция стоимости
+### Функция энергии и функция затрат
 
-In trading, the energy function is often analogous to the cost function, which could be defined in numerous ways depending on the goal. Common cost functions include:
+В торговле функция энергии часто аналогична функции затрат, которая может быть определена множеством способов в зависимости от цели. Распространенные функции затрат включают:
 
-- **Maximizing Profit**: The goal is to find the combination of trading parameters that yield the highest possible returns.
-- **Minimizing Risk**: Optimize to achieve the least possible risk exposure.
-- **Sharpe Ratio**: Combine both risk and return into a single cost function by maximizing the Sharpe ratio.
+- **Максимизация прибыли**: Цель состоит в том, чтобы найти комбинацию торговых параметров, которые дают наивысшую возможную доходность.
+- **Минимизация риска**: Оптимизация для достижения наименьшего возможного риска.
+- **Коэффициент Шарпа**: Объединение риска и доходности в единую функцию затрат путем максимизации коэффициента Шарпа.
 
 ### Применения в торговле
 
 #### Оптимизация портфеля
 
-One of the principal applications of simulated annealing in trading is portfolio optimization. Traditional methods like the Markowitz Efficient Frontier assume normal distributions and linear relationships between assets. SA, however, does not require these assumptions and can efficiently handle non-convex, non-linear optimization problems.
+Одним из основных применений имитации отжига в торговле является оптимизация портфеля. Традиционные методы, такие как эффективная граница Марковица, предполагают нормальные распределения и линейные отношения между активами. SA, однако, не требует этих предположений и может эффективно обрабатывать невыпуклые, нелинейные задачи оптимизации.
 
-#### Стратегии алгоритмической торговли
+#### Алгоритмические торговые стратегии
 
-Simulated annealing can be used to optimize parameters in algorithmic trading strategies. For example, in a momentum-based strategy, you might want to optimize the look-back period and the thresholds for entering and exiting trades. Simulated annealing allows exploring these parameter spaces more effectively than grid search or random search.
+Имитация отжига может использоваться для оптимизации параметров в алгоритмических торговых стратегиях. Например, в стратегии, основанной на импульсе, вы можете захотеть оптимизировать период ретроспективного анализа и пороги для входа и выхода из сделок. Имитация отжига позволяет исследовать эти пространства параметров более эффективно, чем поиск по сетке или случайный поиск.
 
 #### Калибровка модели
 
-In quantitative finance, models are often calibrated using historical data to make forward predictions. Simulated annealing can aid in calibrating complex models by minimizing the error rate between predicted and historical values.
+В количественных финансах модели часто калибруются с использованием исторических данных для прогнозирования будущего. Имитация отжига может помочь в калибровке сложных моделей, минимизируя уровень ошибки между прогнозируемыми и историческими значениями.
 
-### Пионерские компании и сервисы
+### Пионерские компании и услуги
 
 #### OptiFolio
 
-OptiFolio is a company that offers advanced portfolio optimization services using simulated annealing. Their platform allows institutional investors to build and optimize portfolios through sophisticated techniques that go beyond traditional methods.
+OptiFolio - это компания, которая предлагает передовые услуги оптимизации портфеля с использованием имитации отжига. Их платформа позволяет институциональным инвесторам создавать и оптимизировать портфели с помощью сложных техник, которые выходят за рамки традиционных методов.
 
 #### QuantGlobal
 
-QuantGlobal offers various algorithmic trading solutions, including ones that leverage simulated annealing for parameter optimization. Their tools are geared towards hedge funds and active traders seeking advanced optimization techniques.
+QuantGlobal предлагает различные алгоритмические торговые решения, включая те, которые используют имитацию отжига для оптимизации параметров. Их инструменты ориентированы на хедж-фонды и активных трейдеров, ищущих передовые техники оптимизации.
 
 #### DataRobot
 
-While primarily known for automated machine learning, DataRobot provides services that include optimizing trading algorithms. Simulated annealing is among the many optimization techniques they incorporate into their platform.
+Хотя DataRobot в первую очередь известен автоматизированным машинным обучением, он предоставляет услуги, которые включают оптимизацию торговых алгоритмов. Имитация отжига является одной из многих техник оптимизации, которые они включают в свою платформу.
 
 ### Преимущества имитации отжига
 
-1. **Global Optimality**: Unlike local search methods that can get stuck in local optima, simulated annealing has a higher chance of finding the global optimum.
-2. **Flexibility**: It can handle complex, non-linear, and non-convex optimization problems.
-3. **No Gradient Required**: Useful for functions that are not differentiable or when calculating the gradient is computationally expensive.
-4. **Easy to Implement**: While conceptually simple, the algorithm can be adapted for a wide variety of optimization problems.
+1. **Глобальная оптимальность**: В отличие от методов локального поиска, которые могут застрять в локальных оптимумах, имитация отжига имеет более высокий шанс найти глобальный оптимум.
+2. **Гибкость**: Она может обрабатывать сложные, нелинейные и невыпуклые задачи оптимизации.
+3. **Не требуется градиент**: Полезна для функций, которые не дифференцируемы или когда вычисление градиента является вычислительно дорогим.
+4. **Легко реализовать**: Хотя концептуально простой, алгоритм может быть адаптирован для широкого спектра задач оптимизации.
 
 ### Ограничения и вызовы
 
-1. **Parameter Sensitivity**: The performance of simulated annealing heavily depends on the choice of parameters, such as the initial temperature, cooling schedule, and acceptance probability.
-2. **Computational Intensity**: It can be computationally expensive, especially for high-dimensional spaces.
-3. **No Guaranteed Optimum**: While it increases the chances of finding the global optimum, it does not guarantee it.
-4. **Slow Convergence**: The algorithm may require a large number of iterations to converge, making it slower in comparison to other methods like Genetic Algorithms or Particle Swarm Optimization.
+1. **Чувствительность к параметрам**: Производительность имитации отжига в значительной степени зависит от выбора параметров, таких как начальная температура, график охлаждения и вероятность принятия.
+2. **Вычислительная интенсивность**: Она может быть вычислительно затратной, особенно для высокоразмерных пространств.
+3. **Нет гарантии оптимума**: Хотя она увеличивает шансы найти глобальный оптимум, она его не гарантирует.
+4. **Медленная сходимость**: Алгоритму может потребоваться большое количество итераций для сходимости, что делает его медленнее по сравнению с другими методами, такими как генетические алгоритмы или оптимизация роя частиц.
 
-### Пример: имитация отжига в торговле на форексе
+### Пример: Имитация отжига в торговле на Forex
 
-Forex trading involves buying and selling currency pairs and is characterized by high leverage and volatility. Optimizing a trading strategy in Forex can be challenging due to the sheer number of variables involved, such as technical indicators, entry and exit points, and risk management rules.
+Торговля на Forex включает покупку и продажу валютных пар и характеризуется высоким кредитным плечом и волатильностью. Оптимизация торговой стратегии на Forex может быть сложной из-за огромного количества переменных, таких как технические индикаторы, точки входа и выхода и правила управления рисками.
 
 #### Настройка
 
-1. **Objective**: Maximize the returns of a Forex trading strategy.
-2. **Parameters**: Technical indicators (e.g., moving averages, RSI), trade entry and exit levels, stop-loss, and take-profit levels.
-3. **Cost Function**: Negative cumulative returns, aiming to minimize this value.
+1. **Цель**: Максимизировать доходность торговой стратегии на Forex.
+2. **Параметры**: Технические индикаторы (например, скользящие средние, RSI), уровни входа и выхода из сделки, стоп-лосс и уровни тейк-профит.
+3. **Функция затрат**: Отрицательная кумулятивная доходность, нацеленная на минимизацию этого значения.
 
 #### Процесс
 
-1. **Инициализация**: Start with a random set of parameters and an initial temperature.
+1. **Инициализация**: Начните со случайного набора параметров и начальной температуры.
 2. **Итерация**:
- - Generate a neighboring set of parameters by tweaking one or more variables.
- - Backtest the new parameters on historical data.
- - Calculate the energy (negative returns).
- - Accept or reject the new set based on the energy difference and the current temperature.
+ - Генерируйте соседний набор параметров, изменяя одну или несколько переменных.
+ - Протестируйте новые параметры на исторических данных.
+ - Вычислите энергию (отрицательную доходность).
+ - Примите или отклоните новый набор на основе разницы энергий и текущей температуры.
 3. **График охлаждения**:
- - Gradual decrease of temperature, allowing the system to stabilize on optimal or near-optimal parameters.
-4. **Завершение**: Stop after a thousand iterations or when the temperature reaches a predefined threshold.
+ - Постепенное снижение температуры, позволяющее системе стабилизироваться на оптимальных или близких к оптимальным параметрах.
+4. **Завершение**: Остановка после тысячи итераций или когда температура достигнет заранее определенного порога.
 
 #### Результаты
 
-The simulated annealing approach resulted in a set of parameters that outperformed the initial configuration by a significant margin. While not guaranteeing the optimal outcome, the method provided a robust and effective means of optimizing the trading strategy.
+Подход имитации отжига привел к набору параметров, которые превзошли начальную конфигурацию на значительную величину. Хотя метод не гарантирует оптимальный результат, он предоставил надежное и эффективное средство оптимизации торговой стратегии.
 
 ### Заключение
 
-Simulated annealing presents a powerful tool for optimization in trading. It offers flexibility, global optimality, and ease of implementation, making it suitable for a wide range of applications from portfolio optimization to algorithmic trading. Despite certain limitations, the advantages and the potential for significant improvements in trading strategies make it a valuable technique for traders and financial institutions alike.
+Имитация отжига представляет собой мощный инструмент для оптимизации в торговле. Она предлагает гибкость, глобальную оптимальность и легкость реализации, что делает ее подходящей для широкого спектра применений от оптимизации портфеля до алгоритмической торговли. Несмотря на определенные ограничения, преимущества и потенциал для значительных улучшений торговых стратегий делают ее ценной техникой для трейдеров и финансовых учреждений.
 
-For those looking to delve deeper into utilizing simulated annealing for trading, services provided by companies like OptiFolio, QuantGlobal, and DataRobot can offer advanced tools and platforms to harness the full potential of this optimization method.
+Для тех, кто хочет глубже изучить использование имитации отжига для торговли, услуги, предоставляемые такими компаниями, как OptiFolio, QuantGlobal и DataRobot, могут предложить передовые инструменты и платформы для использования полного потенциала этого метода оптимизации.

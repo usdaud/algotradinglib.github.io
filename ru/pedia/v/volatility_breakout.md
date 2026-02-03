@@ -1,80 +1,37 @@
-# Volatility Breakout
+# Прорыв волатильности
 
-A volatility breakout strategy enters trades when price moves beyond a range defined by recent volatility. It assumes that a large move beyond expected volatility can start a trend.
+Стратегия прорыва волатильности открывает сделки, когда цена выходит за пределы диапазона, определенного недавней волатильностью. Она предполагает, что большое движение за пределы ожидаемой волатильности может начать тренд.
 
-## Common approach
-- Define a recent range using ATR or standard deviation.
-- Place entry triggers above and below that range.
-- Enter when price breaks outside the range.
+## Общий подход
+- Определите недавний диапазон, используя ATR или стандартное отклонение.
+- Разместите триггеры входа выше и ниже этого диапазона.
+- Входите, когда цена пробивает за пределы диапазона.
 
-## Example
-A trader uses a 20 day ATR and sets breakout levels one ATR above and below the prior close. A break above triggers a long trade with a stop near the entry.
+## Пример
+Трейдер использует 20-дневный ATR и устанавливает уровни прорыва на один ATR выше и ниже предыдущего закрытия. Прорыв вверх запускает длинную сделку со стоп-лоссом около входа.
 
-## Risks
-Breakouts can fail in choppy markets. Volatility spikes can create false signals, so filtering by regime can help.
+## Риски
+Прорывы могут не удаваться на изменчивых рынках. Всплески волатильности могут создавать ложные сигналы, поэтому фильтрация по режиму может помочь.
 
-## Practical checklist
-- Define the time horizon for Volatility Breakout and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для прорыва волатильности и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расчетов.
+- Напишите четкое правило входа и выхода перед вложением капитала.
+- Определите размер позиции так, чтобы одна ошибка не повредила счету.
+- Документируйте результат для улучшения повторяемости.
 
-## Common pitfalls
-- Treating Volatility Breakout as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ошибки
+- Рассмотрение прорыва волатильности как самостоятельного сигнала вместо контекста.
+- Игнорирование ликвидности, спредов и трения при исполнении.
+- Использование правила на другом таймфрейме, чем тот, для которого оно было разработано.
+- Переподгонка на небольшой выборке прошлых примеров.
+- Предположение о том же поведении при аномальной волатильности.
 
-## Data and measurement
-Good analysis starts with consistent data. For Volatility Breakout, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Данные и измерение
+Хороший анализ начинается с согласованных данных. Для прорыва волатильности подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от дат расчетов или графика, согласуйте календарь с правилами биржи. Если она зависит от ценового действия, рассмотрите использование скорректированных данных для обработки корпоративных действий.
 
-## Risk management notes
-Risk control is essential when applying Volatility Breakout. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Примечания по управлению рисками
+Контроль рисков необходим при применении прорыва волатильности. Определите максимальный убыток на сделку, общую экспозицию по связанным позициям и условия, которые делают идею недействительной. План быстрого выхода полезен, когда рынки движутся резко.
 
-## Variations and related terms
-Many traders use Volatility Breakout alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volatility Breakout and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volatility Breakout as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volatility Breakout, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volatility Breakout. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
-
-## Variations and related terms
-Many traders use Volatility Breakout alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volatility Breakout and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volatility Breakout as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volatility Breakout, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volatility Breakout. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Вариации и смежные термины
+Многие трейдеры используют прорыв волатильности наряду с более широкими концепциями, такими как анализ тренда, режимы волатильности и условия ликвидности. Аналогичные инструменты могут существовать с разными названиями или немного отличающимися определениями, поэтому четкая документация предотвращает путаницу.

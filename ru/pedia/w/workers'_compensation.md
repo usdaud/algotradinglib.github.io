@@ -1,101 +1,101 @@
-# Workers' Compensation
+# Компенсация работникам
 
-Workers' compensation, also known as worker's comp, is a form of insurance providing wage replacement and medical benefits to employees injured in the course of employment. In exchange for these benefits, the employee relinquishes their right to sue their employer for the tort of negligence. This trade-off is also known as "the compensation bargain."
+Компенсация работникам, также известная как worker's comp, представляет собой форму страхования, обеспечивающую замену заработной платы и медицинские льготы сотрудникам, получившим травмы в ходе работы. В обмен на эти льготы сотрудник отказывается от своего права подавать в суд на своего работодателя за деликт небрежности. Этот компромисс также известен как "компенсационная сделка".
 
-## History and Evolution
+## История и эволюция
 
-The concept of workers' compensation originated in Germany in the late 19th century under Otto von Bismarck's social welfare state. The first law was enacted in 1884 and provided accident insurance in the workplace. This system quickly spread to other parts of the world, including the United States. In the U.S., the first state to implement a workers' compensation law was Wisconsin in 1911. By 1948, all states had some form of workers' compensation law.
+Концепция компенсации работникам возникла в Германии в конце 19 века при государстве всеобщего благосостояния Отто фон Бисмарка. Первый закон был принят в 1884 году и предусматривал страхование от несчастных случаев на рабочем месте. Эта система быстро распространилась на другие части мира, включая Соединенные Штаты. В США первым штатом, внедрившим закон о компенсации работникам, был Висконсин в 1911 году. К 1948 году все штаты имели ту или иную форму закона о компенсации работникам.
 
-## Principles of Workers' Compensation
+## Принципы компенсации работникам
 
-### No Fault System
+### Система без виновности
 
-One of the core principles of workers' compensation is that it operates as a "no-fault" system. This means that an employee can receive benefits regardless of who was at fault for the injury. The "no-fault" principle helps to streamline the process and minimize conflict between employers and employees.
+Одним из основных принципов компенсации работникам является то, что она функционирует как система "без виновности". Это означает, что сотрудник может получать льготы независимо от того, кто был виноват в травме. Принцип "без виновности" помогает упростить процесс и минимизировать конфликты между работодателями и сотрудниками.
 
-### Exclusive Remedy
+### Исключительное средство
 
-In most jurisdictions, workers' compensation is the "exclusive remedy" for workplace injuries. This means that if an employee is injured on the job, they are typically limited to the benefits provided under workers' compensation and cannot sue their employer. However, there are exceptions where employees can sue for intentional harm or gross negligence.
+В большинстве юрисдикций компенсация работникам является "исключительным средством" для травм на рабочем месте. Это означает, что если сотрудник получил травму на работе, он обычно ограничен льготами, предоставляемыми в рамках компенсации работникам, и не может подавать в суд на своего работодателя. Однако есть исключения, когда сотрудники могут подавать в суд за преднамеренный вред или грубую небрежность.
 
-### Statutory Nature
+### Установленный законом характер
 
-Workers' compensation is a statutory system, meaning that it is governed by laws passed by the legislature. These laws dictate various aspects of the system, including benefit levels, eligibility requirements, and administrative procedures.
+Компенсация работникам — это установленная законом система, что означает, что она регулируется законами, принятыми законодательным органом. Эти законы диктуют различные аспекты системы, включая уровни льгот, требования к правомочности и административные процедуры.
 
-## Types of Benefits
+## Типы льгот
 
-Workers' compensation benefits can be broadly categorized into several types:
+Льготы по компенсации работникам можно широко разделить на несколько типов:
 
-### Medical Benefits
+### Медицинские льготы
 
-Medical benefits cover the cost of medical treatment related to the work injury, including doctors' visits, hospital stays, medications, and rehabilitation.
+Медицинские льготы покрывают стоимость медицинского лечения, связанного с травмой на работе, включая визиты к врачу, пребывание в больнице, медикаменты и реабилитацию.
 
-### Wage Replacement
+### Замена заработной платы
 
-Temporary Total Disability (TTD) and Temporary Partial Disability (TPD) benefits provide wage replacement while the employee is unable to work or is working with reduced capacity. Permanent Total Disability (PTD) and Permanent Partial Disability (PPD) benefits provide compensation for long-term or permanent impairment.
+Льготы по временной полной нетрудоспособности (TTD) и временной частичной нетрудоспособности (TPD) обеспечивают замену заработной платы, пока сотрудник не может работать или работает со сниженной способностью. Льготы по постоянной полной нетрудоспособности (PTD) и постоянной частичной нетрудоспособности (PPD) обеспечивают компенсацию за долгосрочное или постоянное нарушение.
 
-### Vocational Rehabilitation
+### Профессиональная реабилитация
 
-These services aim to help injured employees return to gainful employment. This can include job retraining, education, and job placement services.
+Эти услуги направлены на то, чтобы помочь травмированным сотрудникам вернуться к оплачиваемой работе. Это может включать переквалификацию, образование и услуги по трудоустройству.
 
-### Death Benefits
+### Льготы в случае смерти
 
-If an employee dies due to a work-related injury, their dependents may be entitled to death benefits. This usually includes a lump-sum payment or ongoing benefits.
+Если сотрудник умирает из-за связанной с работой травмы, его иждивенцы могут иметь право на льготы в случае смерти. Это обычно включает единовременную выплату или постоянные льготы.
 
-## Administrative System
+## Административная система
 
-### Claims Process
+### Процесс подачи заявлений
 
-The process for filing a workers' compensation claim typically involves notifying the employer of the injury, seeking medical treatment, and then filing a formal claim with the state's workers' compensation agency. Each state has its own procedures and timelines for filing a claim.
+Процесс подачи заявления на компенсацию работникам обычно включает уведомление работодателя о травме, обращение за медицинским лечением, а затем подачу формального заявления в агентство по компенсации работникам штата. Каждый штат имеет свои собственные процедуры и сроки для подачи заявления.
 
-### Dispute Resolution
+### Разрешение споров
 
-Disputes can arise over issues such as the extent of the injury, the level of benefits, or whether an injury is work-related. These disputes are usually resolved through administrative hearings or mediation. In some cases, appeals can be made to higher administrative bodies or even state courts.
+Споры могут возникать по таким вопросам, как степень травмы, уровень льгот или является ли травма связанной с работой. Эти споры обычно разрешаются через административные слушания или медиацию. В некоторых случаях апелляции могут быть поданы в вышестоящие административные органы или даже в суды штата.
 
-### Role of Insurers
+### Роль страховщиков
 
-In most jurisdictions, employers are required to buy workers' compensation insurance from private insurers or state-run funds. In some cases, large employers can self-insure, meaning they pay for benefits themselves. Insurers play a key role in evaluating claims, paying benefits, and managing the administrative process.
+В большинстве юрисдикций работодатели обязаны приобретать страхование компенсации работникам у частных страховщиков или государственных фондов. В некоторых случаях крупные работодатели могут самостраховаться, что означает, что они платят за льготы сами. Страховщики играют ключевую роль в оценке заявлений, выплате льгот и управлении административным процессом.
 
-## Impact and Challenges
+## Влияние и вызовы
 
-### Fraud and Abuse
+### Мошенничество и злоупотребления
 
-One challenge facing the workers' compensation system is fraud and abuse. This can include employees exaggerating injuries, employers underreporting payroll to reduce premiums, or providers overbilling for services. Measures to combat fraud and abuse include thorough investigations, penalties, and use of data analytics.
+Одной из проблем, с которыми сталкивается система компенсации работникам, является мошенничество и злоупотребления. Это может включать преувеличение травм сотрудниками, занижение работодателями фонда заработной платы для снижения премий или чрезмерное выставление счетов поставщиками за услуги. Меры по борьбе с мошенничеством и злоупотреблениями включают тщательные расследования, штрафы и использование аналитики данных.
 
-### Rising Costs
+### Растущие затраты
 
-The cost of workers' compensation insurance can be a significant burden for employers. Factors contributing to rising costs include high medical expenses, litigation, and an aging workforce. Various reform efforts have been made to contain costs, such as fee schedules for medical services and restrictions on attorney fees.
+Стоимость страхования компенсации работникам может быть значительным бременем для работодателей. Факторы, способствующие росту затрат, включают высокие медицинские расходы, судебные разбирательства и стареющую рабочую силу. Были предприняты различные усилия по реформированию для сдерживания затрат, такие как тарифы на медицинские услуги и ограничения на гонорары адвокатов.
 
-### State Variation
+### Вариативность штатов
 
-Because workers' compensation is governed at the state level, there is significant variation in laws, benefits, and administrative processes. This complexity can be challenging for employers operating in multiple states. Efforts to standardize certain aspects of the system, such as medical billing codes, have been made to address this issue.
+Поскольку компенсация работникам регулируется на уровне штата, существует значительная вариативность в законах, льготах и административных процессах. Эта сложность может быть проблемой для работодателей, работающих в нескольких штатах. Усилия по стандартизации определенных аспектов системы, таких как коды медицинского биллинга, были предприняты для решения этой проблемы.
 
-## Technological Advancements
+## Технологические достижения
 
-### Digital Claims Management
+### Цифровое управление заявлениями
 
-Modern technology is transforming the way workers' compensation claims are managed. Digital platforms allow for more efficient filing, tracking, and resolution of claims. These systems can integrate with other HR and payroll software to streamline processes.
+Современные технологии трансформируют способ управления заявлениями о компенсации работникам. Цифровые платформы позволяют более эффективно подавать, отслеживать и разрешать заявления. Эти системы могут интегрироваться с другим программным обеспечением HR и заработной платы для упрощения процессов.
 
-### Data Analytics
+### Аналитика данных
 
-Data analytics is playing an increasingly important role in identifying trends, preventing fraud, and managing costs. Predictive analytics can help insurers and employers identify high-risk cases and intervene early to prevent costly complications.
+Аналитика данных играет все более важную роль в выявлении трендов, предотвращении мошенничества и управлении затратами. Предиктивная аналитика может помочь страховщикам и работодателям выявлять случаи с высоким риском и рано вмешиваться для предотвращения дорогостоящих осложнений.
 
-### Telemedicine
+### Телемедицина
 
-Telemedicine is emerging as a valuable tool in the medical management of workers' compensation claims. It allows for quick medical consultations, reducing the need for travel and accelerating care. This can be especially beneficial for minor injuries or follow-up appointments.
+Телемедицина становится ценным инструментом в медицинском управлении заявлениями о компенсации работникам. Она позволяет быстро проводить медицинские консультации, сокращая необходимость в поездках и ускоряя уход. Это может быть особенно полезно для незначительных травм или повторных визитов.
 
-## Global Perspectives
+## Глобальные перспективы
 
-### Germany
+### Германия
 
-Germany's system, which started it all, is characterized by comprehensive coverage and a high level of benefits. The German system is largely employer-funded, with contributions also coming from the state.
+Система Германии, которая все это начала, характеризуется комплексным охватом и высоким уровнем льгот. Немецкая система в основном финансируется работодателями, с взносами также от государства.
 
-### Canada
+### Канада
 
-Canada has a federally regulated system with significant provincial variation. Similar to the U.S., it features a mixture of public and private insurers. Provinces like Ontario have robust systems with comprehensive coverage.
+Канада имеет федерально регулируемую систему со значительной вариативностью провинций. Подобно США, она включает смесь государственных и частных страховщиков. Провинции, такие как Онтарио, имеют надежные системы с комплексным охватом.
 
-### Australia
+### Австралия
 
-Australia's workers' compensation system is divided by states and territories, each with its own regulations. Some regions have privatized their systems, while others maintain state-run schemes.
+Система компенсации работникам Австралии разделена по штатам и территориям, каждый со своими собственными правилами. Некоторые регионы приватизировали свои системы, в то время как другие поддерживают государственные схемы.
 
-## Conclusion
+## Заключение
 
-Workers' compensation is a critical component of modern labor law, providing essential protections for workers and employers alike. While the system faces challenges such as fraud, rising costs, and variation across jurisdictions, ongoing reforms and technological advancements offer promising solutions. The principles of no-fault compensation and the exclusive remedy remain foundational to the system, ensuring that workers receive timely and adequate support for work-related injuries and illnesses.
+Компенсация работникам является критически важным компонентом современного трудового законодательства, обеспечивающим существенную защиту как для работников, так и для работодателей. Хотя система сталкивается с такими проблемами, как мошенничество, растущие затраты и вариативность по юрисдикциям, продолжающиеся реформы и технологические достижения предлагают многообещающие решения. Принципы компенсации без виновности и исключительного средства остаются фундаментальными для системы, обеспечивая получение работниками своевременной и адекватной поддержки при связанных с работой травмах и заболеваниях.

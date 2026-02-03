@@ -1,69 +1,69 @@
-# Valuation Principles
+# Принципы оценки
 
-Algorithmic trading (or alqotrade) is the usage of computer algorithms to execute trading strategies at high speed and volumes, often in a quest to capitalize on very short-lived market opportunities. An essential component of successful algorithmic trading is the robust valuation of assets, which guides the decision-making process. Valuation principles in algorithmic trading cover a broad range of techniques and theories dedicated to determining the fair value of securities. This ensures that trades are executed based on scientifically grounded criteria rather than random metrics or emotional bias.
+Алгоритмическая торговля — это использование компьютерных алгоритмов для выполнения торговых стратегий на высокой скорости и в больших объемах, часто в попытке извлечь выгоду из очень краткосрочных рыночных возможностей. Важным компонентом успешной алгоритмической торговли является надежная оценка активов, которая направляет процесс принятия решений. Принципы оценки в алгоритмической торговле охватывают широкий спектр техник и теорий, посвященных определению справедливой стоимости ценных бумаг. Это гарантирует, что сделки выполняются на основе научно обоснованных критериев, а не случайных метрик или эмоциональных предубеждений.
 
-#### Fundamental Analysis
+#### Фундаментальный анализ
 
-Fundamental analysis involves evaluating a security based on its intrinsic value, which is derived from examining related economic, financial, and other qualitative and quantitative factors. It's the cornerstone of long-term investment strategies, but in algorithmic trading, fundamental data can still be incredibly relevant. Fundamental analysis incorporates evaluating aspects like earnings, dividends, growth rates, economic indicators, competitive position, and management quality. Though traditionally used by long-term investors, fundamental indicators can be integrated into algorithmic models to optimize buy/sell signals.
+Фундаментальный анализ включает оценку ценной бумаги на основе ее внутренней стоимости, которая выводится из изучения связанных экономических, финансовых и других качественных и количественных факторов. Это краеугольный камень долгосрочных инвестиционных стратегий, но в алгоритмической торговле фундаментальные данные все еще могут быть чрезвычайно релевантными. Фундаментальный анализ включает оценку таких аспектов, как прибыль, дивиденды, темпы роста, экономические индикаторы, конкурентное положение и качество управления. Хотя традиционно используются долгосрочными инвесторами, фундаментальные индикаторы могут быть интегрированы в алгоритмические модели для оптимизации сигналов покупки/продажи.
 
-- **Earnings and Revenue Growth**: Algorithms can be programmed to monitor quarterly reports and calculate price targets based on earning surprise potential.
-- **Sector Analysis**: By comparing fundamental values between sectors, algorithms can predict sector rotations.
-- **Economic Indicators**: Macroeconomic data like GDP growth rates, inflation rates, or unemployment figures can guide which sectors or companies are likely to outperform.
+- **Рост прибыли и выручки**: Алгоритмы могут быть запрограммированы на мониторинг квартальных отчетов и расчет целевых цен на основе потенциала неожиданности прибыли.
+- **Отраслевой анализ**: Сравнивая фундаментальные значения между секторами, алгоритмы могут предсказывать секторальные ротации.
+- **Экономические индикаторы**: Макроэкономические данные, такие как темпы роста ВВП, уровень инфляции или показатели безработицы, могут указывать, какие сектора или компании, вероятно, будут показывать лучшие результаты.
 
-#### Technical Analysis
+#### Технический анализ
 
-Technical analysis mainly involves forecasting price movements by studying past market data primarily price and volume. The principle behind technical analysis is that all known fundamentals are already reflected in the prices, hence they use patterns and signals from the historical data to predict future movements.
+Технический анализ в основном включает прогнозирование движения цен путем изучения прошлых рыночных данных, преимущественно цены и объема. Принцип технического анализа заключается в том, что все известные фундаментальные показатели уже отражены в ценах, поэтому они используют паттерны и сигналы из исторических данных для прогнозирования будущих движений.
 
-- **Price Patterns**: Recognition of patterns like head and shoulders, double tops, or triangles is mathematically programmed into the trading algorithms.
-- **Moving Averages**: Use of simple, exponential, or weighted moving averages can help in smoothing out price data to better identify trends.
-- **Volume Analysis**: Includes tracking trading volumes over different periods, as volume spikes often precede price movements.
+- **Ценовые паттерны**: Распознавание паттернов, таких как голова и плечи, двойные вершины или треугольники, математически программируется в торговые алгоритмы.
+- **Скользящие средние**: Использование простых, экспоненциальных или взвешенных скользящих средних может помочь в сглаживании ценовых данных для лучшей идентификации трендов.
+- **Анализ объема**: Включает отслеживание торговых объемов за различные периоды, поскольку скачки объема часто предшествуют движению цен.
 
-#### Quantitative Analysis
+#### Количественный анализ
 
-Quantitative analysis utilizes mathematical and statistical models to evaluate securities. It forms the backbone of algorithmic trading where models are built to exploit inefficiencies in the market. Algorithms leveraging quantitative techniques constantly run simulations using vast historical data sets to forecast future price movements or price anomalies.
+Количественный анализ использует математические и статистические модели для оценки ценных бумаг. Он формирует основу алгоритмической торговли, где модели создаются для эксплуатации неэффективностей на рынке. Алгоритмы, использующие количественные методы, постоянно проводят симуляции, используя обширные наборы исторических данных для прогнозирования будущих движений цен или ценовых аномалий.
 
-- **Factor Models**: These models aim to explain returns based on various factors like momentum, value, size, etc. Factors are statistically derived and quantified to shape trading decisions.
-- **Statistical Arbitrage**: Involves simultaneous buying and selling related securities when there are discrepancies in prices, expecting them to revert to the mean.
-- **Machine Learning Models**: Algorithms can be designed to learn from the data patterns and improve their accuracy over time using techniques like neural networks or reinforcement learning.
+- **Факторные модели**: Эти модели направлены на объяснение доходности на основе различных факторов, таких как моментум, стоимость, размер и т.д. Факторы статистически выводятся и количественно определяются для формирования торговых решений.
+- **Статистический арбитраж**: Включает одновременную покупку и продажу связанных ценных бумаг при наличии расхождений в ценах, ожидая их возврата к среднему.
+- **Модели машинного обучения**: Алгоритмы могут быть разработаны для обучения на паттернах данных и улучшения своей точности со временем с использованием таких техник, как нейронные сети или обучение с подкреплением.
 
-#### Sentiment Analysis
+#### Анализ настроений
 
-Sentiment analysis captures investors' feelings and attitudes about the security or the market using text analytics and natural language processing on news, social media, and other data sources. Although this leans more on the qualitative side, advancements in AI/ML have enabled quantifying sentiments to drive algo-trading decisions.
+Анализ настроений фиксирует чувства и отношения инвесторов к ценной бумаге или рынку, используя текстовую аналитику и обработку естественного языка на новостях, социальных медиа и других источниках данных. Хотя это больше склоняется к качественной стороне, достижения в области ИИ/МО позволили количественно определять настроения для управления решениями алго-трейдинга.
 
-- **News Analytics**: Real-time news feeds can trigger trading actions based on pre-defined sentiment thresholds.
-- **Social Media Metrics**: Algorithms can track and analyze the social media mention frequencies and sentiment towards a particular stock or market situation to predict price movements.
-- **Natural Language Processing (NLP)**: Advanced NLP engines can gauge the overall tone and sentiment of thousands of news articles or tweets in real time.
+- **Новостная аналитика**: Новостные ленты в реальном времени могут запускать торговые действия на основе предопределенных пороговых значений настроений.
+- **Метрики социальных медиа**: Алгоритмы могут отслеживать и анализировать частоту упоминаний в социальных медиа и настроения в отношении конкретной акции или рыночной ситуации для прогнозирования движения цен.
+- **Обработка естественного языка (NLP)**: Продвинутые движки NLP могут оценивать общий тон и настроение тысяч новостных статей или твитов в реальном времени.
 
-#### Risk Management Techniques
+#### Методы управления рисками
 
-Valuation is closely tied to risk management, as each trading strategy must account for potential risk factors. Effective valuation models incorporate risk assessment to gauge whether the trade offers sufficient potential reward to justify the risk.
+Оценка тесно связана с управлением рисками, поскольку каждая торговая стратегия должна учитывать потенциальные факторы риска. Эффективные модели оценки включают оценку рисков, чтобы определить, предлагает ли сделка достаточное потенциальное вознаграждение для оправдания риска.
 
-- **Value at Risk (VaR)**: Statistical method to measure the risk of loss for investments.
-- **Stress Testing**: Simulating extreme market conditions to understand the impact on portfolio valuation.
-- **Limit Orders**: Ensuring trades are executed at predefined maximum loss levels to prevent excessive losses.
+- **Стоимость под риском (VaR)**: Статистический метод для измерения риска убытков для инвестиций.
+- **Стресс-тестирование**: Симуляция экстремальных рыночных условий для понимания влияния на оценку портфеля.
+- **Лимитные ордера**: Обеспечение выполнения сделок на предопределенных максимальных уровнях убытков для предотвращения чрезмерных потерь.
 
-#### Discounted Cash Flow (DCF) Analysis
+#### Анализ дисконтированных денежных потоков (DCF)
 
-DCF valuation is a method used to estimate the value of an investment based on its expected future cash flows. While it's more prevalent in traditional equity valuation, it can be adapted for algorithmic trading models to identify mispriced securities.
+Оценка DCF — это метод, используемый для оценки стоимости инвестиции на основе ее ожидаемых будущих денежных потоков. Хотя он более распространен в традиционной оценке акций, он может быть адаптирован для моделей алгоритмической торговли для выявления неверно оцененных ценных бумаг.
 
-- **Expected Cash Flows**: Determining the future cash flows expected to be generated by a security.
-- **Discount Rate**: Selecting an appropriate discount rate to bring these future cash flows back to their present value.
-- **Intrinsic Value Calculation**: The sum of the present values of expected future cash flows provides the intrinsic value which can be compared against the current market price.
+- **Ожидаемые денежные потоки**: Определение будущих денежных потоков, которые ожидается сгенерировать ценной бумагой.
+- **Ставка дисконтирования**: Выбор соответствующей ставки дисконтирования для приведения этих будущих денежных потоков к их текущей стоимости.
+- **Расчет внутренней стоимости**: Сумма текущих стоимостей ожидаемых будущих денежных потоков обеспечивает внутреннюю стоимость, которую можно сравнить с текущей рыночной ценой.
 
-#### Real-Time Data Integration
+#### Интеграция данных в реальном времени
 
-In algorithmic trading, it's critical to adapt valuation principles in real-time. This is achieved by integrating real-time data feeds, advanced computing techniques, and high-frequency trading infrastructures.
+В алгоритмической торговле критически важно адаптировать принципы оценки в реальном времени. Это достигается путем интеграции потоков данных в реальном времени, передовых вычислительных методов и инфраструктур высокочастотной торговли.
 
-- **Tick Data Analytics**: Processing tick-by-tick data to comprehend market dynamics at the micro level.
-- **Latency Considerations**: Minimizing latency in data transmission and processing to ensure timely decision-making.
-- **Algorithm Tuning**: Continuously refining and tuning the algorithms based on real-time performance data.
+- **Аналитика тиковых данных**: Обработка данных тик за тиком для понимания рыночной динамики на микроуровне.
+- **Соображения задержки**: Минимизация задержки при передаче и обработке данных для обеспечения своевременного принятия решений.
+- **Настройка алгоритма**: Непрерывное уточнение и настройка алгоритмов на основе данных о производительности в реальном времени.
 
-#### Companies and Tools
-Various companies offer platforms and tools that help in the valuation and execution of algorithmic trading strategies.
+#### Компании и инструменты
+Различные компании предлагают платформы и инструменты, которые помогают в оценке и выполнении стратегий алгоритмической торговли.
 
 - **QuantConnect**: quantconnect.com
 - **Alpaca Markets**: alpaca.markets
 - **Numerai**: numer.ai
-- **Bloomberg Terminal**: Offers real-time data analytics, which can be essential for valuation in algorithmic trading. bloomberg.com/professional/solution/bloomberg-terminal
+- **Bloomberg Terminal**: Предлагает аналитику данных в реальном времени, которая может быть существенной для оценки в алгоритмической торговле. bloomberg.com/professional/solution/bloomberg-terminal
 
-In conclusion, valuation principles in algorithmic trading are multifaceted, intertwining fundamental, technical, and quantitative analyses along with real-time data processing to derive fair valuation metrics and making informed trading decisions. By leveraging these principles effectively, traders aim to identify lucrative opportunities and maintain a competitive edge in fast-moving markets.
+В заключение, принципы оценки в алгоритмической торговле являются многогранными, переплетая фундаментальный, технический и количественный анализ вместе с обработкой данных в реальном времени для получения справедливых метрик оценки и принятия обоснованных торговых решений. Эффективно используя эти принципы, трейдеры стремятся выявлять прибыльные возможности и поддерживать конкурентное преимущество на быстро меняющихся рынках.

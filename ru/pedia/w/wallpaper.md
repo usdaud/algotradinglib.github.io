@@ -1,102 +1,102 @@
-# Wallpaper Stock / Wallpaper Bonds
+# Обои (Wallpaper Stock / Wallpaper Bonds)
 
-## Definition
-"Wallpaper stock" or "wallpaper bonds" are colloquial terms used to describe stocks or bonds that have become worthless or nearly worthless, often due to company bankruptcy or severe financial distress.
+## Определение
+"Акции-обои" (wallpaper stock) или "облигации-обои" (wallpaper bonds) — это разговорные термины, используемые для описания акций или облигаций, которые стали бесполезными или почти бесполезными, часто из-за банкротства компании или серьезных финансовых затруднений.
 
-## Key Characteristics
+## Ключевые характеристики
 
-### 1. Minimal Value
-- The securities have little to no monetary value
-- Often traded for pennies, if traded at all
+### 1. Минимальная стоимость
+- Ценные бумаги имеют незначительную или нулевую денежную стоимость
+- Часто торгуются за копейки, если вообще торгуются
 
-### 2. Historical Context
-- Typically refers to physical stock or bond certificates
-- Named because the certificates are only useful as decorative wallpaper
+### 2. Исторический контекст
+- Обычно относится к физическим сертификатам акций или облигаций
+- Названы так, потому что сертификаты полезны только как декоративные обои
 
-### 3. Failed Investments
-- Result of significant company or economic failures
-- Often associated with market crashes or industry collapses
+### 3. Неудачные инвестиции
+- Результат значительных неудач компании или экономики
+- Часто связаны с обвалами рынка или крахом отраслей
 
-## Historical Significance
+## Историческая значимость
 
-1. **Great Depression Era**
- - Many stocks became "wallpaper" after the 1929 stock market crash
- - Symbolized lost fortunes and economic devastation
+1. **Эра Великой депрессии**
+ - Многие акции стали "обоями" после краха фондового рынка 1929 года
+ - Символизировали потерянные состояния и экономическую разруху
 
-2. **Dot-com Bubble**
- - Tech stocks that became worthless after the 2000 bubble burst
- - Modern example of "wallpaper stocks"
+2. **Пузырь доткомов**
+ - Технологические акции, которые стали бесполезными после лопнувшего пузыря 2000 года
+ - Современный пример "акций-обоев"
 
-3. **2008 Financial Crisis**
- - Some financial institution stocks and mortgage-backed securities became nearly worthless
+3. **Финансовый кризис 2008 года**
+ - Некоторые акции финансовых учреждений и ценные бумаги, обеспеченные ипотекой, стали почти бесполезными
 
-## Financial Implications
+## Финансовые последствия
 
-### 1. Total Loss for Investors
-- Represents a complete or near-complete loss of investment
+### 1. Полная потеря для инвесторов
+- Представляет собой полную или почти полную потерю инвестиций
 
-### 2. Tax Considerations
-- May be used for tax loss harvesting
-- Can be written off as capital losses in some jurisdictions
+### 2. Налоговые соображения
+- Могут использоваться для сбора налоговых убытков
+- Могут быть списаны как капитальные убытки в некоторых юрисдикциях
 
-### 3. Potential for Fraud
-- Worthless securities sometimes used in "pump and dump" schemes
-- Regulators warn investors about risks of trading in extremely low-value stocks
+### 3. Потенциал для мошенничества
+- Бесполезные ценные бумаги иногда используются в схемах "накачка и сброс"
+- Регуляторы предупреждают инвесторов о рисках торговли акциями с чрезвычайно низкой стоимостью
 
-## Psychological Impact
+## Психологическое воздействие
 
-1. **Investor Sentiment**
- - Can lead to long-term investor distrust in certain sectors or markets
- - Often used as cautionary tales in investment education
+1. **Настроения инвесторов**
+ - Может привести к долгосрочному недоверию инвесторов к определенным секторам или рынкам
+ - Часто используется как предостерегающие истории в инвестиционном образовании
 
-2. **Market Psychology**
- - Contributes to fear during market downturns
- - Can influence risk perception in future investments
+2. **Психология рынка**
+ - Способствует страху во время рыночных спадов
+ - Может влиять на восприятие рисков в будущих инвестициях
 
-## Modern Context
+## Современный контекст
 
-1. **Digital Era**
- - Less common with the shift to electronic trading and record-keeping
- - Term still used metaphorically for worthless digital assets
+1. **Цифровая эра**
+ - Менее распространено с переходом на электронную торговлю и ведение записей
+ - Термин все еще используется метафорически для бесполезных цифровых активов
 
-2. **Cryptocurrency**
- - Some failed cryptocurrencies likened to "digital wallpaper"
- - Highlights volatility and risk in new financial technologies
+2. **Криптовалюта**
+ - Некоторые неудачные криптовалюты сравнивают с "цифровыми обоями"
+ - Подчеркивает волатильность и риск новых финансовых технологий
 
-## Related Concepts
+## Связанные концепции
 
-1. Penny stocks
-2. Delisted securities
-3. Bankruptcy proceedings
-4. Market bubbles and crashes
-5. Value investing (as a contrasting strategy)
+1. Грошовые акции
+2. Исключенные из листинга ценные бумаги
+3. Процедуры банкротства
+4. Рыночные пузыри и крахи
+5. Стоимостное инвестирование (как контрастная стратегия)
 
-## Practical checklist
-- Define the time horizon for Wallpaper Stock / Wallpaper Bonds and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для акций-обоев / облигаций-обоев и рыночный контекст.
+- Определите входные данные, которым доверяете, такие как цена, объем или даты расписания.
+- Запишите четкое правило входа и выхода перед размещением капитала.
+- Размер позиции должен быть таким, чтобы одна ошибка не повредила счет.
+- Документируйте результат для улучшения повторяемости.
 
-## Common pitfalls
-- Treating Wallpaper Stock / Wallpaper Bonds as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ошибки
+- Рассматривать акции-обои / облигации-обои как самостоятельный сигнал вместо контекста.
+- Игнорировать ликвидность, спреды и трение исполнения.
+- Использование правила на другом таймфрейме, чем тот, для которого оно было разработано.
+- Переобучение на небольшой выборке прошлых примеров.
+- Предположение о том же поведении при аномальной волатильности.
 
-## Data and measurement
-Good analysis starts with consistent data. For Wallpaper Stock / Wallpaper Bonds, confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Данные и измерения
+Хороший анализ начинается с последовательных данных. Для акций-обоев / облигаций-обоев подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от дат расчета или расписания, совместите календарь с правилами биржи. Если она зависит от ценового действия, рассмотрите использование скорректированных данных для обработки корпоративных действий.
 
-## Risk management notes
-Risk control is essential when applying Wallpaper Stock / Wallpaper Bonds. Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Примечания по управлению рисками
+Контроль рисков необходим при применении акций-обоев / облигаций-обоев. Определите максимальную потерю на сделку, общую экспозицию по связанным позициям и условия, которые делают идею недействительной. План быстрого выхода полезен, когда рынки движутся резко.
 
-## Variations and related terms
-Many traders use Wallpaper Stock / Wallpaper Bonds alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
+## Вариации и связанные термины
+Многие трейдеры используют акции-обои / облигации-обои наряду с более широкими концепциями, такими как анализ тренда, режимы волатильности и условия ликвидности. Подобные инструменты могут существовать с разными названиями или немного отличающимися определениями, поэтому четкая документация предотвращает путаницу.
 
-## Practical checklist
-- Define the time horizon for Wallpaper Stock / Wallpaper Bonds and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для акций-обоев / облигаций-обоев и рыночный контекст.
+- Определите входные данные, которым доверяете, такие как цена, объем или даты расписания.
+- Запишите четкое правило входа и выхода перед размещением капитала.
+- Размер позиции должен быть таким, чтобы одна ошибка не повредила счет.
+- Документируйте результат для улучшения повторяемости.

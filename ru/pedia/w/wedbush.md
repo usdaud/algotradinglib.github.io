@@ -1,59 +1,59 @@
 # Wedbush
 
-## Overview
-Wedbush Securities is a leading financial services and investment firm based in Los Angeles, California. Established in 1955, Wedbush offers a comprehensive range of services including brokerage, wealth management, investment banking, research, and trading. The firm caters to individual investors, institutional clients, and corporations, providing personalized financial solutions and advanced trading capabilities.
+## Обзор
+Wedbush Securities - ведущая компания по предоставлению финансовых услуг и инвестиций, базирующаяся в Лос-Анджелесе, Калифорния. Основанная в 1955 году, Wedbush предлагает широкий спектр услуг, включая брокерские услуги, управление капиталом, инвестиционный банкинг, исследования и торговлю. Компания обслуживает индивидуальных инвесторов, институциональных клиентов и корпорации, предоставляя персонализированные финансовые решения и расширенные торговые возможности.
 
-## Key Features
-1. **Brokerage Services**: Wedbush provides full-service brokerage services, offering access to a wide range of investment products including stocks, bonds, mutual funds, ETFs, and options.
+## Ключевые особенности
+1. **Брокерские услуги**: Wedbush предоставляет полный спектр брокерских услуг, обеспечивая доступ к широкому ассортименту инвестиционных продуктов, включая акции, облигации, взаимные фонды, ETF и опционы.
 
-2. **Wealth Management**: The firm offers personalized wealth management services, including financial planning, retirement planning, estate planning, and portfolio management, tailored to meet the unique needs of individual clients.
+2. **Управление капиталом**: Компания предлагает персонализированные услуги по управлению капиталом, включая финансовое планирование, пенсионное планирование, планирование имущества и управление портфелем, адаптированные к уникальным потребностям отдельных клиентов.
 
-3. **Investment Banking**: Wedbush’s investment banking division provides advisory services for mergers and acquisitions, capital raising, and corporate finance, serving middle-market companies across various industries.
+3. **Инвестиционный банкинг**: Подразделение инвестиционного банкинга Wedbush предоставляет консультационные услуги по слияниям и поглощениям, привлечению капитала и корпоративным финансам, обслуживая компании среднего рыночного сегмента в различных отраслях.
 
-4. **Research**: Wedbush provides in-depth equity research and market analysis, covering a wide range of sectors and companies. Their research team offers valuable insights to help clients make informed investment decisions.
+4. **Исследования**: Wedbush предоставляет углубленные исследования акций и анализ рынка, охватывающие широкий спектр секторов и компаний. Их исследовательская команда предлагает ценные идеи, помогающие клиентам принимать обоснованные инвестиционные решения.
 
-5. **Trading Services**: Wedbush offers advanced trading services, including equities, options, and fixed income trading. The firm provides direct market access (DMA) and algorithmic trading solutions for institutional clients.
+5. **Торговые услуги**: Wedbush предлагает передовые торговые услуги, включая торговлю акциями, опционами и инструментами с фиксированным доходом. Компания предоставляет прямой доступ к рынку (DMA) и алгоритмические торговые решения для институциональных клиентов.
 
-6. **Clearing Services**: As a self-clearing firm, Wedbush provides clearing and settlement services for introducing brokers and other financial institutions, ensuring efficient and secure transaction processing.
+6. **Клиринговые услуги**: Являясь самоклиринговой компанией, Wedbush предоставляет услуги клиринга и расчетов для представляющих брокеров и других финансовых учреждений, обеспечивая эффективную и безопасную обработку транзакций.
 
-7. **Technology and Tools**: Wedbush provides clients with access to advanced trading platforms, market data, and analytical tools to enhance their trading and investment activities.
+7. **Технологии и инструменты**: Wedbush предоставляет клиентам доступ к передовым торговым платформам, рыночным данным и аналитическим инструментам для улучшения их торговой и инвестиционной деятельности.
 
-8. **Corporate Services**: Wedbush offers corporate services such as stock plan administration, corporate cash management, and executive services, helping businesses manage their financial needs.
+8. **Корпоративные услуги**: Wedbush предлагает корпоративные услуги, такие как администрирование планов акций, управление корпоративными денежными средствами и услуги для руководителей, помогая предприятиям управлять их финансовыми потребностями.
 
-## Benefits
-- **Comprehensive Services**: Wedbush offers a full suite of financial services, allowing clients to manage all their investment and financial needs in one place.
-- **Personalized Solutions**: The firm provides tailored financial solutions to meet the unique goals and needs of individual and institutional clients.
-- **Expert Research**: In-depth equity research and market analysis provide valuable insights for informed decision-making.
-- **Advanced Technology**: Access to state-of-the-art trading platforms and tools enhances the trading experience and execution quality.
-- **Experienced Professionals**: A team of experienced financial professionals and advisors offers expert guidance and support.
+## Преимущества
+- **Комплексные услуги**: Wedbush предлагает полный набор финансовых услуг, позволяя клиентам управлять всеми своими инвестиционными и финансовыми потребностями в одном месте.
+- **Персонализированные решения**: Компания предоставляет индивидуальные финансовые решения для достижения уникальных целей и потребностей индивидуальных и институциональных клиентов.
+- **Экспертные исследования**: Углубленные исследования акций и анализ рынка предоставляют ценные идеи для принятия обоснованных решений.
+- **Передовые технологии**: Доступ к самым современным торговым платформам и инструментам улучшает торговый опыт и качество исполнения.
+- **Опытные профессионалы**: Команда опытных финансовых специалистов и консультантов предлагает экспертное руководство и поддержку.
 
-## Use Cases
-- **Individual Investors**: Access to a wide range of investment products and personalized wealth management services to achieve financial goals.
-- **Institutional Clients**: Advanced trading services, direct market access, and algorithmic trading solutions for efficient trade execution.
-- **Corporations**: Investment banking services, stock plan administration, and corporate cash management to support corporate financial needs.
-- **Introducing Brokers**: Clearing and settlement services to ensure efficient and secure transaction processing.
+## Варианты использования
+- **Индивидуальные инвесторы**: Доступ к широкому спектру инвестиционных продуктов и персонализированным услугам по управлению капиталом для достижения финансовых целей.
+- **Институциональные клиенты**: Передовые торговые услуги, прямой доступ к рынку и алгоритмические торговые решения для эффективного исполнения сделок.
+- **Корпорации**: Услуги инвестиционного банкинга, администрирование планов акций и управление корпоративными денежными средствами для поддержки корпоративных финансовых потребностей.
+- **Представляющие брокеры**: Услуги клиринга и расчетов для обеспечения эффективной и безопасной обработки транзакций.
 
-## Integration and APIs
-Wedbush provides various technology solutions and APIs to facilitate seamless integration with clients’ trading systems:
-- **FIX API**: Industry-standard API for high-speed, low-latency trading.
-- **Web API**: Flexible API for accessing market data and executing trades.
-- **Trading Platforms**: Integration with advanced trading platforms and analytical tools for enhanced trading capabilities.
+## Интеграция и API
+Wedbush предоставляет различные технологические решения и API для облегчения бесшовной интеграции с торговыми системами клиентов:
+- **FIX API**: Отраслевой стандартный API для высокоскоростной торговли с низкой задержкой.
+- **Web API**: Гибкий API для доступа к рыночным данным и исполнения сделок.
+- **Торговые платформы**: Интеграция с передовыми торговыми платформами и аналитическими инструментами для расширенных торговых возможностей.
 
-## Clients and Partners
-Wedbush serves a diverse range of clients, including:
-- **Individual Investors**: Retail investors utilizing Wedbush’s brokerage and wealth management services.
-- **Institutional Clients**: Hedge funds, asset managers, and trading firms leveraging Wedbush’s trading and research services.
-- **Corporations**: Middle-market companies seeking investment banking and corporate services.
-- **Introducing Brokers**: Financial institutions partnering with Wedbush for clearing and settlement services.
+## Клиенты и партнеры
+Wedbush обслуживает разнообразный круг клиентов, включая:
+- **Индивидуальные инвесторы**: Розничные инвесторы, использующие брокерские услуги и услуги по управлению капиталом Wedbush.
+- **Институциональные клиенты**: Хедж-фонды, управляющие активами и торговые фирмы, использующие торговые и исследовательские услуги Wedbush.
+- **Корпорации**: Компании среднего рыночного сегмента, ищущие услуги инвестиционного банкинга и корпоративные услуги.
+- **Представляющие брокеры**: Финансовые учреждения, сотрудничающие с Wedbush для получения услуг клиринга и расчетов.
 
-## Regulatory Compliance
-Wedbush Securities is regulated by several financial authorities, ensuring compliance with industry standards and protecting client interests:
-- **Financial Industry Regulatory Authority (FINRA)**
-- **Securities and Exchange Commission (SEC)**
-- **Commodity Futures Trading Commission (CFTC)** for specific services
+## Регуляторное соответствие
+Wedbush Securities регулируется несколькими финансовыми органами, обеспечивая соответствие отраслевым стандартам и защиту интересов клиентов:
+- **Финансовый регуляторный орган индустрии (FINRA)**
+- **Комиссия по ценным бумагам и биржам (SEC)**
+- **Комиссия по торговле товарными фьючерсами (CFTC)** для конкретных услуг
 
-## Security Measures
-Wedbush employs robust security protocols to safeguard client data and funds:
-- **Data Encryption**: Advanced encryption technologies to protect sensitive information.
-- **Secure Data Centers**: Physical and cyber security measures to ensure the integrity of trading infrastructure.
-- **Regular Audits**: Compliance with regulatory requirements through regular internal and external audits.
+## Меры безопасности
+Wedbush применяет надежные протоколы безопасности для защиты данных и средств клиентов:
+- **Шифрование данных**: Передовые технологии шифрования для защиты конфиденциальной информации.
+- **Безопасные центры обработки данных**: Физические и кибербезопасности для обеспечения целостности торговой инфраструктуры.
+- **Регулярные аудиты**: Соблюдение регуляторных требований посредством регулярных внутренних и внешних аудитов.

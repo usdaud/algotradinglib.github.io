@@ -1,110 +1,102 @@
-# White-Collar Crime
+# Беловоротничковая преступность
 
-White-collar crime refers to non-violent criminal offenses committed by individuals or entities in the course of their professional lives, typically for financial gain. The term was first coined by sociologist Edwin Sutherland in 1939, and since then, it has grown to encompass a wide range of illicit activities, from fraud and embezzlement to insider trading, money laundering, and beyond. White-collar crimes can have devastating effects on businesses, economies, and societies at large, often leading to significant financial losses and eroding public trust in institutions.
+Беловоротничковая преступность относится к ненасильственным уголовным правонарушениям, совершаемым физическими или юридическими лицами в ходе их профессиональной деятельности, как правило, с целью получения финансовой выгоды. Термин был впервые введен социологом Эдвином Сазерлендом в 1939 году, и с тех пор он расширился, охватывая широкий спектр незаконных действий - от мошенничества и растраты до инсайдерской торговли, отмывания денег и других преступлений.
 
-## Definition and Characteristics
+## Определение и характеристики
 
-### Definition
-White-collar crime can be broadly defined as illegal acts committed using deceit and concealment, rather than the application or threat of physical force or violence. These crimes are typically characterized by:
+### Определение
+Беловоротничковую преступность можно широко определить как противоправные действия, совершаемые с использованием обмана и сокрытия, а не применения или угрозы физической силы или насилия. Эти преступления обычно характеризуются:
 
-- **Deception**: Using false statements, misrepresentations, or nondisclosure to gain an unfair advantage.
-- **Breach of Trust**: Violating trust placed by clients, employers, or the public.
-- **Economic Gain**: The primary motive is financial benefit, either direct or indirect.
-- **Professional Context**: Offenses are generally committed within a business or professional setting.
+- **Обман**: Использование ложных заявлений, искажения информации или неразглашения для получения несправедливого преимущества.
+- **Нарушение доверия**: Нарушение доверия, оказанного клиентами, работодателями или общественностью.
+- **Экономическая выгода**: Основным мотивом является финансовая выгода, прямая или косвенная.
+- **Профессиональный контекст**: Правонарушения, как правило, совершаются в деловой или профессиональной среде.
 
-### Characteristics
-- **Non-violent Nature**: White-collar crimes are non-violent and do not involve physical harm.
-- **Complex Schemes**: These crimes often involve complex and sophisticated methods, making detection challenging.
-- **Abuse of Power**: They frequently exploit positions of authority, trust, or access to confidential information.
-- **Economic Impact**: While lacking in physical violence, the financial impact can be significant, affecting many people and entities.
-- **Regulatory Breaches**: Many white-collar crimes involve violations of fiduciary duties, regulatory laws, or corporate policies.
+### Характеристики
+- **Ненасильственный характер**: Беловоротничковые преступления являются ненасильственными и не связаны с причинением физического вреда.
+- **Сложные схемы**: Эти преступления часто включают сложные и изощренные методы, что затрудняет их обнаружение.
+- **Злоупотребление властью**: Они часто эксплуатируют положения власти, доверия или доступа к конфиденциальной информации.
+- **Экономическое воздействие**: При отсутствии физического насилия финансовые последствия могут быть значительными.
+- **Нарушения регуляторных норм**: Многие беловоротничковые преступления связаны с нарушениями фидуциарных обязанностей, регуляторных законов или корпоративных политик.
 
-## Typologies
+## Типология
 
-### Fraud
-Fraud is any deliberate deception intended to secure an unfair or unlawful gain. Common types of fraud include:
+### Мошенничество
+Мошенничество - это любой преднамеренный обман с целью получения несправедливой или незаконной выгоды. Распространенные виды мошенничества включают:
 
-- **Securities Fraud**: This involves misrepresenting information investors use to make decisions. Insider trading is a notable example wherein individuals trade stocks based on non-public, material information.
-- **Accounting Fraud**: Manipulating financial statements to present a false picture of a company's financial health.
-- **Bank Fraud**: Involves schemes like check fraud, mortgage fraud, and other deceptive activities aimed at defrauding financial institutions.
+- **Мошенничество с ценными бумагами**: Включает искажение информации, используемой инвесторами для принятия решений.
+- **Бухгалтерское мошенничество**: Манипулирование финансовой отчетностью для представления ложной картины финансового состояния компании.
+- **Банковское мошенничество**: Включает такие схемы, как чековое мошенничество, ипотечное мошенничество и другие мошеннические действия.
 
-### Embezzlement
-Embezzlement occurs when someone entrusted with managing assets or property takes those for personal use. Examples include:
-- **Employee Theft**: Where a worker illegally takes money or property from their employer.
-- **Corporate Embezzlement**: Executives divert corporate funds to personal accounts.
+### Растрата
+Растрата происходит, когда лицо, которому доверено управление активами или имуществом, присваивает их для личного использования.
 
-### Insider Trading
-Insider trading involves buying or selling securities based on material, non-public information about a company. It undermines market fairness and can lead to significant financial distortions. High-profile cases include those involving corporate officers, lawyers, and board members who leverage their privileged access to confidential information.
+### Инсайдерская торговля
+Инсайдерская торговля включает покупку или продажу ценных бумаг на основе существенной непубличной информации о компании.
 
-### Money Laundering
-Money laundering is the process of making illegally-gained proceeds appear legal. It often involves three steps:
-- **Placement**: Introducing illegal profits into the financial system.
-- **Layering**: Concealing the source through complex transactions.
-- **Integration**: Moving laundered money back into the legal economy.
+### Отмывание денег
+Отмывание денег - это процесс придания законного вида незаконно полученным доходам. Он часто включает три этапа:
+- **Размещение**: Введение незаконных доходов в финансовую систему.
+- **Наслоение**: Сокрытие источника через сложные транзакции.
+- **Интеграция**: Возвращение отмытых денег в легальную экономику.
 
-### Bribery and Corruption
-Bribery involves offering, giving, receiving, or soliciting something of value to influence an official action. Corruption is a broader term that includes bribery, but also other types of unethical behavior by officials.
+### Взяточничество и коррупция
+Взяточничество включает предложение, дачу, получение или вымогательство чего-либо ценного для влияния на официальные действия.
 
-### Cybercrime
-With digital transformation, many white-collar crimes have shifted to the cyber realm. Examples include:
-- **Phishing and Spoofing**: Deceptive emails and websites to steal sensitive data.
-- **Identity Theft**: Using someone else's identity for financial gain.
-- **Ransomware**: Encrypting data and demanding payment for its release.
+### Киберпреступность
+С цифровой трансформацией многие беловоротничковые преступления переместились в киберпространство.
 
-## Economic and Social Impact
+## Экономическое и социальное воздействие
 
-### Financial Loss
-White-collar crimes lead to substantial financial losses for businesses, individuals, and economies. According to the Association of Certified Fraud Examiners (ACFE), organizations lose about 5% of their revenue to fraud each year.
+### Финансовые потери
+Беловоротничковые преступления приводят к существенным финансовым потерям для бизнеса, частных лиц и экономик.
 
-### Market Distortions
-Crimes like securities fraud and insider trading can distort financial markets, leading to mistrust among investors and inefficient capital allocation.
+### Искажения рынка
+Такие преступления, как мошенничество с ценными бумагами и инсайдерская торговля, могут искажать финансовые рынки.
 
-### Legal and Compliance Costs
-Organizations spend considerable resources on legal fees, compliance programs, and internal controls to prevent and address white-collar crimes.
+### Юридические и комплаенс-расходы
+Организации тратят значительные ресурсы на юридические сборы, программы комплаенса и внутренний контроль.
 
-### Reputational Damage
-Firms involved in white-collar crimes often suffer reputational damage, leading to a loss of customer trust, employee morale, and market value. For example, the Enron scandal led to the company’s bankruptcy and significantly impacted the broader accounting and energy markets.
+### Репутационный ущерб
+Фирмы, причастные к беловоротничковым преступлениям, часто несут репутационный ущерб.
 
-### Social Trust and Ethical Implications
-White-collar crimes erode trust in institutions and can lead to widespread cynicism and skepticism towards business and government entities. This social impact is often long-lasting and challenging to repair.
+### Социальное доверие и этические последствия
+Беловоротничковые преступления подрывают доверие к институтам и могут привести к широко распространенному цинизму и скептицизму в отношении бизнеса и государственных структур.
 
-## Deterrence and Legal Framework
+## Сдерживание и правовая база
 
-### Regulatory Bodies
-Various agencies globally work to prevent, detect, and punish white-collar crimes:
-- **Securities and Exchange Commission (SEC)**: Regulates securities markets and enforces laws against market manipulation and insider trading.
-- **Federal Bureau of Investigation (FBI)**: Investigates large-scale fraud, public corruption, and money laundering.
-- **Financial Conduct Authority (FCA)**: Supervises financial markets in the UK to prevent financial crimes.
+### Регулирующие органы
+Различные агентства по всему миру работают над предотвращением, обнаружением и наказанием беловоротничковых преступлений:
+- **Комиссия по ценным бумагам и биржам (SEC)**: Регулирует рынки ценных бумаг.
+- **Федеральное бюро расследований (ФБР)**: Расследует крупномасштабное мошенничество.
+- **Управление по финансовому регулированию и надзору (FCA)**: Осуществляет надзор за финансовыми рынками в Великобритании.
 
-### Legislation
-A robust legal framework is crucial for deterring white-collar crimes. Key legislations include:
-- **Sarbanes-Oxley Act (2002)**: Enacted to protect investors from fraudulent financial reporting by corporations.
-- **Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)**: Aimed at reducing risks in the financial industry.
-- **Foreign Corrupt Practices Act (FCPA)**: Prohibits U.S. businesses and individuals from bribing foreign officials.
+### Законодательство
+Ключевые законы включают:
+- **Закон Сарбейнса-Оксли (2002)**: Принят для защиты инвесторов от мошеннической финансовой отчетности корпораций.
+- **Закон Додда-Франка (2010)**: Направлен на снижение рисков в финансовой индустрии.
+- **Закон о противодействии коррупции за рубежом (FCPA)**: Запрещает американским компаниям давать взятки иностранным должностным лицам.
 
-### Compliance Programs
-Companies increasingly invest in compliance programs to mitigate the risk of white-collar crimes. These programs include internal controls, training, and dedicated compliance officers to ensure adherence to legal and regulatory standards.
+### Программы комплаенса
+Компании все чаще инвестируют в программы комплаенса для снижения риска беловоротничковых преступлений.
 
-## High-Profile Cases
+## Громкие случаи
 
 ### Enron
-Enron's collapse is one of the most well-known white-collar crimes. The energy company engaged in accounting fraud to hide its financial losses, leading to its bankruptcy and the dissolution of Arthur Andersen, one of the largest audit firms at the time.
+Крах Enron является одним из самых известных беловоротничковых преступлений. Энергетическая компания занималась бухгалтерским мошенничеством для сокрытия своих финансовых потерь.
 
-### Bernie Madoff
-Bernie Madoff orchestrated the largest Ponzi scheme in history, defrauding thousands of investors out of billions of dollars. The scheme collapsed in 2008, resulting in a 150-year prison sentence for Madoff.
+### Берни Мэдофф
+Берни Мэдофф организовал крупнейшую финансовую пирамиду в истории, обманув тысячи инвесторов на миллиарды долларов.
 
 ### WorldCom
-WorldCom engaged in accounting fraud similar to Enron, falsely inflating its assets by billions of dollars. The scandal resulted in the company filing for bankruptcy in 2002, leading to changes in regulatory practices.
+WorldCom занималась бухгалтерским мошенничеством, ложно завышая свои активы на миллиарды долларов.
 
 ### Wells Fargo
-In 2016, it was discovered that Wells Fargo employees had created millions of fake accounts to meet sales targets. The scandal led to significant fines, the resignation of top executives, and a loss of customer trust.
+В 2016 году выяснилось, что сотрудники Wells Fargo создали миллионы поддельных счетов для выполнения планов продаж.
 
 ### J.P. Morgan Chase
-In the infamous "London Whale" case, J.P. Morgan Chase suffered over $6 billion in trading losses due to risky bets made by a trader in their London office. The incident highlighted weaknesses in the bank's risk management and internal controls.
+В деле Лондонского кита J.P. Morgan Chase понес убытки более 6 миллиардов долларов из-за рискованных ставок.
 
-### Link and Resources
-For further information on preventing and understanding white-collar crimes, you can visit relevant resources offered by regulatory bodies:
+## Заключение
 
-- SEC- FBI- FCA
-## Conclusion
-White-collar crime remains a pervasive issue with far-reaching consequences. While it lacks the immediate, visible damage of violent crimes, its impact on financial systems, businesses, and social trust can be profound and long-lasting. Efforts to understand, detect, and prevent these crimes continue to evolve, driven by advances in technology, regulatory changes, and an increasing focus on ethical business practices.
+Беловоротничковая преступность остается распространенной проблемой с далеко идущими последствиями. Хотя она лишена непосредственного, видимого ущерба от насильственных преступлений, ее воздействие на финансовые системы, бизнес и социальное доверие может быть глубоким и долгосрочным. Усилия по пониманию, обнаружению и предотвращению этих преступлений продолжают развиваться благодаря технологическим достижениям, регуляторным изменениям и растущему вниманию к этическим деловым практикам.

@@ -1,105 +1,105 @@
-# World Trade Organization (WTO)
+# Всемирная торговая организация (ВТО)
 
-The World Trade Organization (WTO) is an intergovernmental organization that regulates and facilitates international trade between nations. It was established on January 1, 1995, under the Marrakesh Agreement, succeeding the General Agreement on Tariffs and Trade (GATT), which was created in 1948. The WTO is headquartered in Geneva, Switzerland, and its primary purpose is to ensure that trade flows as smoothly, predictably, and freely as possible.
+Всемирная торговая организация (ВТО) — это межправительственная организация, которая регулирует и содействует международной торговле между странами. Она была создана 1 января 1995 года в соответствии с Марракешским соглашением, сменив Генеральное соглашение по тарифам и торговле (ГАТТ), которое было создано в 1948 году. Штаб-квартира ВТО находится в Женеве, Швейцария, и её основная цель — обеспечить максимально беспрепятственное, предсказуемое и свободное движение торговых потоков.
 
-## Objectives and Functions
+## Цели и функции
 
-### Objectives
-The main objectives of the WTO are:
-* Promoting international trade by reducing trade barriers and creating a global trading framework.
-* Encouraging economic growth and stability.
-* Enhancing the competitiveness of smaller and developing nations.
-* Providing a platform for trade negotiations and dispute resolution.
-* Ensuring that trade policies are transparent and predictable.
+### Цели
+Основные цели ВТО:
+* Содействие международной торговле путём снижения торговых барьеров и создания глобальной торговой структуры.
+* Поощрение экономического роста и стабильности.
+* Повышение конкурентоспособности малых и развивающихся стран.
+* Предоставление платформы для торговых переговоров и разрешения споров.
+* Обеспечение прозрачности и предсказуемости торговой политики.
 
-### Core Functions
-1. **Trade Negotiations:** The WTO facilitates negotiations among its members to create new trade agreements and update existing ones to improve international trade rules.
-2. **Implementation and Monitoring:** WTO agreements cover goods, services, and intellectual property. The organization conducts regular reviews of trade policies to ensure members fulfill their obligations.
-3. **Dispute Settlement:** The WTO has a structured process for resolving trade disputes between members. This mechanism ensures that trade conflicts are handled efficiently and legally.
-4. **Building Trade Capacity:** WTO assists developing nations in building their trade capacities to ensure they can participate effectively in the global trading system.
-5. **Outreach:** The organization engages with various stakeholders, including businesses, non-governmental organizations, and other international bodies, to promote and explain its activities.
+### Основные функции
+1. **Торговые переговоры:** ВТО способствует проведению переговоров между своими членами для создания новых торговых соглашений и обновления существующих с целью улучшения международных торговых правил.
+2. **Реализация и мониторинг:** Соглашения ВТО охватывают товары, услуги и интеллектуальную собственность. Организация проводит регулярные обзоры торговой политики, чтобы убедиться, что члены выполняют свои обязательства.
+3. **Разрешение споров:** ВТО имеет структурированный процесс для разрешения торговых споров между членами. Этот механизм обеспечивает эффективное и законное урегулирование торговых конфликтов.
+4. **Наращивание торгового потенциала:** ВТО помогает развивающимся странам в наращивании их торгового потенциала, чтобы обеспечить их эффективное участие в глобальной торговой системе.
+5. **Информационно-разъяснительная работа:** Организация взаимодействует с различными заинтересованными сторонами, включая предприятия, неправительственные организации и другие международные органы, для содействия и разъяснения своей деятельности.
 
-## Structure and Decision-Making
+## Структура и процесс принятия решений
 
-### Structure
-The WTO is composed of several key bodies:
-* **Ministerial Conference:** The highest decision-making body, which meets at least once every two years. It is composed of government ministers from all member states.
-* **General Council:** Operates under the Ministerial Conference; oversees the day-to-day operations. It meets as needed and is composed of representatives from all member countries.
-* **Dispute Settlement Body:** A subsidiary of the General Council, it administers dispute resolution proceedings.
-* **Trade Policy Review Body:** Also a subsidiary of the General Council, it conducts regular reviews of national trade policies.
+### Структура
+ВТО состоит из нескольких ключевых органов:
+* **Конференция министров:** Высший орган по принятию решений, который собирается не реже одного раза в два года. Она состоит из правительственных министров всех государств-членов.
+* **Генеральный совет:** Действует под руководством Конференции министров; осуществляет надзор за повседневной деятельностью. Он собирается по мере необходимости и состоит из представителей всех стран-членов.
+* **Орган по разрешению споров:** Вспомогательный орган Генерального совета, он управляет процедурами разрешения споров.
+* **Орган по обзору торговой политики:** Также вспомогательный орган Генерального совета, он проводит регулярные обзоры национальной торговой политики.
 
-### Decision-Making Process
-The WTO usually makes decisions by consensus. This means that all member countries must agree to a decision. However, there are provisions for voting in cases where consensus cannot be reached. Voting can occur on important issues such as admitting new members or modifying trade agreements.
+### Процесс принятия решений
+ВТО обычно принимает решения на основе консенсуса. Это означает, что все страны-члены должны согласиться с решением. Однако существуют положения о голосовании в случаях, когда консенсус не может быть достигнут. Голосование может проводиться по важным вопросам, таким как приём новых членов или изменение торговых соглашений.
 
-## Major Agreements
+## Основные соглашения
 
-The WTO administers a number of key agreements that govern international trade rules. Some of the most important include:
+ВТО управляет рядом ключевых соглашений, регулирующих правила международной торговли. Некоторые из наиболее важных включают:
 
-### General Agreement on Tariffs and Trade (GATT)
-The foundational treaty of the WTO, GATT was created in 1948 and provides a framework for international trade in goods, focusing on the reduction of tariffs and other trade barriers.
+### Генеральное соглашение по тарифам и торговле (ГАТТ)
+Основополагающий договор ВТО, ГАТТ был создан в 1948 году и обеспечивает основу для международной торговли товарами, сосредоточиваясь на снижении тарифов и других торговых барьеров.
 
-### General Agreement on Trade in Services (GATS)
-This agreement provides a set of rules for international trade in services. It is the first and only set of multilateral rules on trade in services and covers areas like financial services, telecommunications, and tourism.
+### Генеральное соглашение по торговле услугами (ГАТС)
+Это соглашение предоставляет набор правил для международной торговли услугами. Это первый и единственный набор многосторонних правил по торговле услугами, охватывающий такие области, как финансовые услуги, телекоммуникации и туризм.
 
-### Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)
-TRIPS sets down minimum standards for many forms of intellectual property regulation as they apply to nationals of other WTO members.
+### Соглашение по торговым аспектам прав интеллектуальной собственности (ТРИПС)
+ТРИПС устанавливает минимальные стандарты для многих форм регулирования интеллектуальной собственности применительно к гражданам других членов ВТО.
 
-### The Agreement on Agriculture (AoA)
-This agreement aims to reform trade in the agricultural sector and to make policies more market-oriented. It contains provisions on market access, export subsidies, and domestic support.
+### Соглашение по сельскому хозяйству (СХ)
+Это соглашение направлено на реформирование торговли в сельскохозяйственном секторе и придание политике большей рыночной ориентации. Оно содержит положения о доступе к рынку, экспортных субсидиях и внутренней поддержке.
 
-### The Agreement on the Application of Sanitary and Phytosanitary Measures (SPS)
-This provision sets out the basic rules for food safety and animal and plant health standards. It allows countries to set their own standards but mandates that these regulations should be based on science.
+### Соглашение о применении санитарных и фитосанитарных мер (СФС)
+Это положение устанавливает основные правила для стандартов безопасности пищевых продуктов, здоровья животных и растений. Оно позволяет странам устанавливать свои собственные стандарты, но требует, чтобы эти нормы основывались на научных данных.
 
-## Key Principles
+## Ключевые принципы
 
-The WTO operates based on several core principles, including:
+ВТО действует на основе нескольких основных принципов, включая:
 
-### Most-Favored-Nation (MFN)
-Under the MFN principle, WTO members must treat all other members equally in terms of trade tariffs and barriers. Essentially, a trading advantage offered to one member must be extended to all members.
+### Режим наибольшего благоприятствования (РНБ)
+В соответствии с принципом РНБ, члены ВТО должны относиться ко всем другим членам одинаково в отношении торговых тарифов и барьеров. По сути, торговое преимущество, предоставленное одному члену, должно быть распространено на всех членов.
 
-### National Treatment
-This principle requires that foreign goods, services, and intellectual property should be treated equally to domestic ones after they have entered the market.
+### Национальный режим
+Этот принцип требует, чтобы с иностранными товарами, услугами и интеллектуальной собственностью обращались так же, как с отечественными, после того как они вышли на рынок.
 
-### Reciprocity
-The WTO encourages reciprocity whereby members reduce their trade barriers and tariffs mutually to benefit from each other's market access.
+### Взаимность
+ВТО поощряет взаимность, при которой члены взаимно снижают свои торговые барьеры и тарифы, чтобы получить выгоду от доступа друг друга к рынкам.
 
-### Transparency
-WTO members are required to publish their trade regulations and to notify changes, ensuring that rules and practices are transparent.
+### Прозрачность
+Члены ВТО обязаны публиковать свои торговые правила и уведомлять об изменениях, обеспечивая прозрачность правил и практики.
 
-## Membership
+## Членство
 
-The WTO has 164 members as of 2023, representing over 98% of global trade. Membership is open to any state or customs territory that conducts international trade and can accept the organization’s agreements. New members are admitted through a process of negotiation and agreement among existing members.
+По состоянию на 2023 год ВТО насчитывает 164 члена, представляющих более 98% мировой торговли. Членство открыто для любого государства или таможенной территории, которая ведёт международную торговлю и может принять соглашения организации. Новые члены принимаются в процессе переговоров и соглашения между существующими членами.
 
-### Accession Process
-The procedure for joining the WTO involves several steps:
-1. **Application:** The country submits an application to the WTO.
-2. **Working Party Formation:** A working party, composed of interested WTO members, is created to examine the application.
-3. **Bilateral Negotiations:** The applicant country engages in bilateral trade negotiations with any WTO member that expresses an interest in the accession process.
-4. **Protocol of Accession:** Once the negotiations are successfully completed, a Protocol of Accession is drafted and must be ratified by the applicant.
-5. **Membership Approval:** The General Council or Ministerial Conference approves the membership.
+### Процесс присоединения
+Процедура вступления в ВТО включает несколько этапов:
+1. **Заявка:** Страна подаёт заявку в ВТО.
+2. **Формирование рабочей группы:** Создаётся рабочая группа, состоящая из заинтересованных членов ВТО, для рассмотрения заявки.
+3. **Двусторонние переговоры:** Страна-заявитель вступает в двусторонние торговые переговоры с любым членом ВТО, выразившим заинтересованность в процессе присоединения.
+4. **Протокол о присоединении:** После успешного завершения переговоров составляется Протокол о присоединении, который должен быть ратифицирован заявителем.
+5. **Утверждение членства:** Генеральный совет или Конференция министров утверждает членство.
 
-## Trade Dispute Resolution
+## Разрешение торговых споров
 
-One of the most critical functions of the WTO is its role in resolving trade disputes. Since 1995, the WTO’s dispute settlement system has adjudicated hundreds of disputes, making it one of the organization's most frequently used mechanisms.
+Одна из наиболее критических функций ВТО — её роль в разрешении торговых споров. С 1995 года система разрешения споров ВТО разрешила сотни споров, что делает её одним из наиболее часто используемых механизмов организации.
 
-### Dispute Settlement Process
-1. **Consultation:** The first stage involves direct consultations between the disputing nations. This stage can last up to 60 days.
-2. **Panel Formation:** If consultations fail, the complaining country can request the formation of a dispute panel to hear the case.
-3. **Panel Report:** The panel examines the case and issues a report, which can take six months to prepare.
-4. **Appeal:** Either party can appeal the panel's decision to the Appellate Body.
-5. **Adoption and Implementation:** The report is adopted unless all WTO members oppose it. If the panel rules in favor of the complaining nation, the offending country must comply with the ruling or face sanctions.
+### Процесс разрешения споров
+1. **Консультация:** Первый этап включает прямые консультации между спорящими странами. Этот этап может длиться до 60 дней.
+2. **Формирование группы:** Если консультации не удаются, страна-заявитель может запросить формирование группы для рассмотрения дела.
+3. **Доклад группы:** Группа изучает дело и выносит доклад, подготовка которого может занять шесть месяцев.
+4. **Апелляция:** Любая сторона может обжаловать решение группы в Апелляционном органе.
+5. **Принятие и реализация:** Доклад принимается, если все члены ВТО не возражают против него. Если группа выносит решение в пользу страны-заявителя, нарушившая сторона должна выполнить решение или столкнуться с санкциями.
 
-## WTO in the Modern Era
+## ВТО в современную эпоху
 
-The WTO continues to play a pivotal role in global trade. However, the organization faces several challenges in the modern era, including rising protectionism, trade wars, and the need to update its rules to better reflect the changing nature of global trade, especially with the rise of digital economies and services.
+ВТО продолжает играть ключевую роль в мировой торговле. Однако организация сталкивается с рядом проблем в современную эпоху, включая растущий протекционизм, торговые войны и необходимость обновления своих правил, чтобы лучше отражать меняющийся характер мировой торговли, особенно с ростом цифровой экономики и услуг.
 
-### Contemporary Issues
-1. **Digital Trade:** With the explosion of digital services and e-commerce, there is an urgent need to develop new rules and frameworks that adequately address these areas.
-2. **Trade Wars:** The recent rise in trade tensions and tariff battles between major economies like the U.S. and China poses challenges to the WTO’s principles and functionality.
-3. **Developing Countries:** Issues related to the trade capacities of developing countries continue to be a topic of significant focus, requiring ongoing support and adjustment of rules to ensure fair participation.
+### Современные проблемы
+1. **Цифровая торговля:** С взрывным ростом цифровых услуг и электронной коммерции существует острая необходимость в разработке новых правил и рамок, которые адекватно регулировали бы эти области.
+2. **Торговые войны:** Недавний рост торговой напряжённости и тарифных войн между крупными экономиками, такими как США и Китай, создаёт проблемы для принципов и функционирования ВТО.
+3. **Развивающиеся страны:** Вопросы, связанные с торговым потенциалом развивающихся стран, продолжают оставаться темой значительного внимания, требуя постоянной поддержки и корректировки правил для обеспечения справедливого участия.
 
-## Conclusion
+## Заключение
 
-The WTO remains a cornerstone of the global trading system, facilitating international trade through established rules and agreements. Despite facing numerous challenges, its role in maintaining trade order and promoting economic stability worldwide cannot be underestimated. Continuous efforts to update its mechanisms and address modern trade issues will be vital for the WTO's relevance and effectiveness in the future.
+ВТО остаётся краеугольным камнем глобальной торговой системы, содействуя международной торговле через установленные правила и соглашения. Несмотря на многочисленные проблемы, её роль в поддержании торгового порядка и содействии экономической стабильности во всём мире невозможно недооценить. Постоянные усилия по обновлению её механизмов и решению современных торговых вопросов будут жизненно важны для актуальности и эффективности ВТО в будущем.
 
-For more detailed information about the WTO,
+Для получения более подробной информации о ВТО,

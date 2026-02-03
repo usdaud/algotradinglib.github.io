@@ -1,64 +1,64 @@
-# Volatility Arbitrage
+# Арбитраж волатильности
 
-Volatility arbitrage (vol arb) is a type of statistical arbitrage strategy that seeks to exploit discrepancies between the forecasted future volatility of an asset and the implied volatility embedded in the asset’s options. Traders using this strategy assume that the market has incorrectly priced the options based on assumptions about future volatility, providing opportunities for profit by taking positions that will benefit when the actual volatility deviates from what was implied by option prices.
+Арбитраж волатильности (vol arb) — это тип стратегии статистического арбитража, которая стремится использовать расхождения между прогнозируемой будущей волатильностью актива и подразумеваемой волатильностью, встроенной в опционы актива. Трейдеры, использующие эту стратегию, предполагают, что рынок неправильно оценил опционы на основе предположений о будущей волатильности, предоставляя возможности для получения прибыли путем занятия позиций, которые принесут выгоду, когда фактическая волатильность отклонится от того, что было подразумевано ценами опционов.
 
-### Core Concepts of Volatility Arbitrage
+### Основные концепции арбитража волатильности
 
-#### Implied vs. Realized Volatility
+#### Подразумеваемая и реализованная волатильность
 
-Implied volatility is derived from the prices of options and represents the market's expectation of the future volatility of the underlying asset. Realized or historical volatility, on the other hand, measures the actual movement in the asset’s price over a specified period. Volatility arbitrage traders analyze the gap between implied and realized volatility to predict the future movement of the asset and identify mispriced options.
+Подразумеваемая волатильность выводится из цен опционов и представляет собой ожидание рынком будущей волатильности базового актива. Реализованная или историческая волатильность, с другой стороны, измеряет фактическое движение цены актива за указанный период. Трейдеры арбитража волатильности анализируют разрыв между подразумеваемой и реализованной волатильностью для прогнозирования будущего движения актива и выявления неправильно оцененных опционов.
 
-#### Delta-Neutral Positions
+#### Дельта-нейтральные позиции
 
-A delta-neutral position consists of offsetting positions in an option and its underlying asset to ensure that the delta (the sensitivity of the option's price to changes in the price of the underlying asset) is zero. This strategy minimizes exposure to the direction of the asset's price movement, allowing traders to focus purely on volatility.
+Дельта-нейтральная позиция состоит из компенсирующих позиций в опционе и его базовом активе, чтобы гарантировать, что дельта (чувствительность цены опциона к изменениям цены базового актива) равна нулю. Эта стратегия минимизирует подверженность направлению движения цены актива, позволяя трейдерам сосредоточиться исключительно на волатильности.
 
-#### Gamma and Vega
+#### Гамма и вега
 
-Gamma measures the rate of change in delta relative to the change in the price of the underlying asset. High gamma means the delta is very sensitive to price changes, which affects the stability of a delta-neutral position. Vega, on the other hand, measures the sensitivity of the option’s price to changes in the implied volatility. Understanding both gamma and vega is essential for managing the risks associated with volatility arbitrage strategies.
+Гамма измеряет скорость изменения дельты относительно изменения цены базового актива. Высокая гамма означает, что дельта очень чувствительна к изменениям цены, что влияет на стабильность дельта-нейтральной позиции. Вега, с другой стороны, измеряет чувствительность цены опциона к изменениям подразумеваемой волатильности. Понимание как гаммы, так и веги необходимо для управления рисками, связанными со стратегиями арбитража волатильности.
 
-### Practical Application of Volatility Arbitrage
+### Практическое применение арбитража волатильности
 
-#### Identifying Mispricing
+#### Выявление неправильной оценки
 
-Traders use complex mathematical models and algorithms to identify options that are under- or over-priced based on their volatility forecasts. Tools such as the Black-Scholes model, GARCH models, and machine learning algorithms play a significant role in these analyses.
+Трейдеры используют сложные математические модели и алгоритмы для выявления опционов, которые недооценены или переоценены на основе их прогнозов волатильности. Инструменты, такие как модель Блэка-Шоулза, модели GARCH и алгоритмы машинного обучения, играют значительную роль в этих анализах.
 
-#### Execution
+#### Исполнение
 
-Once a potential opportunity is identified, a trader will typically buy undervalued options and/or sell overvalued options and hedge the position by trading the underlying asset to maintain delta neutrality. The goal is to profit from the convergence of implied volatility to the realized volatility or the correction of the mispricing.
+После выявления потенциальной возможности трейдер обычно покупает недооцененные опционы и/или продает переоцененные опционы и хеджирует позицию путем торговли базовым активом для поддержания дельта-нейтральности. Цель состоит в том, чтобы получить прибыль от схождения подразумеваемой волатильности к реализованной волатильности или исправления неправильной оценки.
 
-#### Risk Management
+#### Управление рисками
 
-Effective risk management is critical in volatility arbitrage. It involves monitoring gamma and vega exposures, ensuring delta neutrality through frequent adjustments (re-hedging), and having a clear exit strategy to avoid unexpected losses due to rapid market changes.
+Эффективное управление рисками имеет критическое значение в арбитраже волатильности. Это включает мониторинг экспозиций гаммы и веги, обеспечение дельта-нейтральности посредством частых корректировок (перехеджирование) и наличие четкой стратегии выхода для избежания неожиданных убытков из-за быстрых рыночных изменений.
 
-### Examples of Volatility Arbitrage Strategies
+### Примеры стратегий арбитража волатильности
 
-#### Long Straddle
+#### Длинный стрэддл
 
-A long straddle involves buying both a call and a put option at the same strike price with the same expiration date. This strategy profits from significant moves in the underlying asset’s price, regardless of direction, as long as the magnitude of the movement exceeds the cost of the options.
+Длинный стрэддл включает покупку как опциона колл, так и опциона пут по одинаковой цене страйк с одинаковой датой истечения. Эта стратегия приносит прибыль от значительных движений цены базового актива, независимо от направления, при условии, что величина движения превышает стоимость опционов.
 
-#### Short Straddle
+#### Короткий стрэддл
 
-Conversely, a short straddle involves selling both a call and a put option at the same strike price. This strategy profits when the underlying asset’s price remains stable and the options expire worthless. However, it carries high risk if the asset’s price makes a large move.
+И наоборот, короткий стрэддл включает продажу как опциона колл, так и опциона пут по одинаковой цене страйк. Эта стратегия приносит прибыль, когда цена базового актива остается стабильной, и опционы истекают бесполезными. Однако она несет высокий риск, если цена актива совершает большое движение.
 
-#### Calendar Spread
+#### Календарный спред
 
-A calendar spread involves buying and selling options with different expiration dates. A trader might, for example, buy a longer-dated option and sell a shorter-dated option. This strategy profits from the rapid decay of the shorter-dated option's premium or changes in volatility over time.
+Календарный спред включает покупку и продажу опционов с разными датами истечения. Трейдер может, например, купить опцион с более длительным сроком и продать опцион с более коротким сроком. Эта стратегия приносит прибыль от быстрого распада премии опциона с более коротким сроком или изменений волатильности с течением времени.
 
-### Institutions and Tools
+### Институты и инструменты
 
-#### Trading Firms
+#### Торговые фирмы
 
-Several trading firms and hedge funds specialize in volatility arbitrage, using sophisticated algorithms and advanced trading platforms to execute their strategies. Notable firms include:
+Несколько торговых фирм и хедж-фондов специализируются на арбитраже волатильности, используя сложные алгоритмы и передовые торговые платформы для исполнения своих стратегий. Известные фирмы включают:
 
-- **Citadel LLC**: Citadel is a global financial institution involved in hedge fund management and market making, known for its expertise in volatility arbitrage.
-- **DE Shaw Group**: DE Shaw uses computational techniques and quantitative strategies for trading, including vol arb.
-- **Two Sigma Investments**: Two Sigma employs machine learning and advanced statistical analysis in its vol arb strategies.
+- **Citadel LLC**: Citadel — это глобальная финансовая организация, занимающаяся управлением хедж-фондами и маркет-мейкингом, известная своим опытом в арбитраже волатильности.
+- **DE Shaw Group**: DE Shaw использует вычислительные методы и количественные стратегии для торговли, включая vol arb.
+- **Two Sigma Investments**: Two Sigma использует машинное обучение и продвинутый статистический анализ в своих стратегиях vol arb.
 
-#### Software and Models
+#### Программное обеспечение и модели
 
-- **QuantConnect**: QuantConnect offers an open-source algorithmic trading platform supporting multiple assets and strategies, including vol arb.
-- **OptionVue**: OptionVue provides tools for option pricing, analytics, and backtesting, essential for volatility arbitrage.
+- **QuantConnect**: QuantConnect предлагает платформу алгоритмического трейдинга с открытым исходным кодом, поддерживающую множество активов и стратегий, включая vol arb.
+- **OptionVue**: OptionVue предоставляет инструменты для ценообразования опционов, аналитики и бэктестинга, необходимые для арбитража волатильности.
 
-### Conclusion
+### Заключение
 
-Volatility arbitrage is a sophisticated trading strategy that offers the potential for significant profits by exploiting the differences between implied and realized volatility. Successful implementation requires a deep understanding of options, strong computational tools, and effective risk management practices. The strategy’s complexity and reliance on advanced theoretical models make it predominantly the domain of institutional investors and experienced traders.
+Арбитраж волатильности — это сложная торговая стратегия, которая предлагает потенциал для значительной прибыли путем использования различий между подразумеваемой и реализованной волатильностью. Успешное внедрение требует глубокого понимания опционов, мощных вычислительных инструментов и эффективных практик управления рисками. Сложность стратегии и зависимость от продвинутых теоретических моделей делают ее преимущественно областью институциональных инвесторов и опытных трейдеров.

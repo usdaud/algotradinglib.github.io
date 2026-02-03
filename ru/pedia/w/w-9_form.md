@@ -1,85 +1,85 @@
-# W-9 Form
+# Форма W-9
 
-The W-9 form, also known as the Request for Taxpayer Identification Number and Certification, is a crucial document in the United States tax system. This form is mandated by the Internal Revenue Service (IRS) and is used for several purposes, primarily in the realm of business and finance. It facilitates the collection of the Taxpayer Identification Number (TIN), which the IRS uses to track income and other taxable events. This extensive guide explores the various aspects of the W-9 form, including its purpose, instructions for completion, implications, and how it intersects with other financial practices such as trading and fintech.
+Форма W-9, также известная как Запрос идентификационного номера налогоплательщика и сертификация, является важным документом в налоговой системе Соединенных Штатов. Эта форма требуется Налоговой службой (IRS) и используется для различных целей, в первую очередь в сфере бизнеса и финансов. Она облегчает сбор идентификационного номера налогоплательщика (TIN), который IRS использует для отслеживания доходов и других налогооблагаемых событий. Данное подробное руководство рассматривает различные аспекты формы W-9, включая её назначение, инструкции по заполнению, последствия и то, как она пересекается с другими финансовыми практиками, такими как торговля и финтех.
 
-## What is a W-9 Form?
+## Что такое форма W-9?
 
-The W-9 form is utilized by individuals and entities to provide their TIN to individuals, businesses, or other entities that need to report certain types of income paid to them. This includes income from independent contractor work, dividends, interest, rent, and other taxable income. Essentially, it serves as a declaration of your TIN, which could be your Social Security Number (SSN) or your Employer Identification Number (EIN).
+Форма W-9 используется физическими лицами и организациями для предоставления своего TIN физическим лицам, предприятиям или другим организациям, которым необходимо сообщать об определенных видах доходов, выплаченных им. Это включает доходы от работы независимого подрядчика, дивиденды, проценты, аренду и другие налогооблагаемые доходы. По сути, она служит декларацией вашего TIN, которым может быть ваш номер социального страхования (SSN) или ваш идентификационный номер работодателя (EIN).
 
-### Key Components of the W-9 Form
+### Ключевые компоненты формы W-9
 
-1. **Identification Information:** This includes the name and business name (if applicable) of the individual or entity providing the information.
-2. **Tax Classification:** A declaration of the business structure, such as individual/sole proprietor, partnership, C corporation, S corporation, trust/estate, limited liability company (LLC), or any other applicable classification.
-3. **Exemptions:** If any, these pertain to FATCA (Foreign Account Tax Compliance Act) reporting codes and codes for payees.
-4. **Address:** Where the 1099 form will be mailed after the tax year.
-5. **Taxpayer Identification Number (TIN):** The SSN or EIN that will be used to report income.
-6. **Certification:** A signature under penalty of perjury stating that the information provided is accurate.
+1. **Идентификационная информация:** Это включает имя и название предприятия (если применимо) физического лица или организации, предоставляющей информацию.
+2. **Налоговая классификация:** Декларация о структуре бизнеса, такой как физическое лицо/индивидуальный предприниматель, партнерство, корпорация типа C, корпорация типа S, траст/имущество, общество с ограниченной ответственностью (LLC) или любая другая применимая классификация.
+3. **Освобождения:** Если есть, они относятся к кодам отчетности FATCA (Закон о налоговом соответствии по иностранным счетам) и кодам для получателей платежей.
+4. **Адрес:** Куда будет отправлена форма 1099 после налогового года.
+5. **Идентификационный номер налогоплательщика (TIN):** SSN или EIN, который будет использоваться для отчетности о доходах.
+6. **Сертификация:** Подпись под страхом наказания за лжесвидетельство, подтверждающая точность предоставленной информации.
 
-## Why is the W-9 Form Important?
+## Почему форма W-9 важна?
 
-### For Individuals and Independent Contractors
+### Для физических лиц и независимых подрядчиков
 
-For freelancers, gig economy workers, and independent contractors, the W-9 form is essential for ensuring proper tax reporting. It provides the client or business with the necessary information to issue a 1099 form at the end of the year, which is required to report any payments made to the IRS.
+Для фрилансеров, работников экономики подработок и независимых подрядчиков форма W-9 необходима для обеспечения надлежащей налоговой отчетности. Она предоставляет клиенту или бизнесу необходимую информацию для выдачи формы 1099 в конце года, что требуется для отчета о любых платежах, произведенных в IRS.
 
-### For Businesses and Employers
+### Для предприятий и работодателей
 
-Businesses use the information provided on the W-9 to fulfill their tax reporting obligations, ensuring they accurately report payments made to non-employees such as freelancers or vendors. The W-9 form is also important for avoiding backup withholding, a situation where the payer must withhold tax from payments made to the payee if they fail to provide a correct TIN.
+Предприятия используют информацию, предоставленную в форме W-9, для выполнения своих обязательств по налоговой отчетности, обеспечивая точную отчетность о платежах, произведенных не-сотрудникам, таким как фрилансеры или поставщики. Форма W-9 также важна для избежания резервного удержания, ситуации, когда плательщик должен удержать налог с платежей, произведенных получателю платежа, если он не предоставит правильный TIN.
 
-## Completing and Submitting the W-9 Form
+## Заполнение и подача формы W-9
 
-Here is a step-by-step guide to completing the W-9 form:
+Вот пошаговое руководство по заполнению формы W-9:
 
-1. **Enter Your Name:** Enter your full legal name. If you are submitting the form as an individual, this should be your personal name. If you are submitting it on behalf of a business, this should be the business's full legal name.
-2. **Enter Your Business Name (if applicable):** If you're submitting the W-9 on behalf of a business, enter the business's name as it appears on your tax return.
-3. **Check the Appropriate Tax Classification Box:** Select the appropriate tax classification for your entity (e.g., individual/sole proprietor, LLC, C corporation, etc.).
-4. **Enter Exemptions (if applicable):** If you are exempt from backup withholding or FATCA reporting, enter the relevant exemption code.
-5. **Enter Your Address:** Provide your address where any tax documents, such as a 1099, should be mailed.
-6. **Provide Your TIN:** Enter your nine-digit SSN or EIN without any dashes or spaces.
-7. **Sign and Date the Form:** Ensure you sign and date the form to certify the accuracy of the information provided.
+1. **Введите ваше имя:** Введите ваше полное официальное имя. Если вы подаете форму как физическое лицо, это должно быть ваше личное имя. Если вы подаете её от имени предприятия, это должно быть полное официальное название предприятия.
+2. **Введите название вашего предприятия (если применимо):** Если вы подаете W-9 от имени предприятия, введите название предприятия, как оно указано в вашей налоговой декларации.
+3. **Отметьте соответствующий квадрат налоговой классификации:** Выберите соответствующую налоговую классификацию для вашей организации (например, физическое лицо/индивидуальный предприниматель, LLC, корпорация типа C и т.д.).
+4. **Введите освобождения (если применимо):** Если вы освобождены от резервного удержания или отчетности FATCA, введите соответствующий код освобождения.
+5. **Введите ваш адрес:** Укажите адрес, куда должны быть отправлены любые налоговые документы, такие как форма 1099.
+6. **Предоставьте ваш TIN:** Введите ваш девятизначный SSN или EIN без каких-либо дефисов или пробелов.
+7. **Подпишите и датируйте форму:** Убедитесь, что вы подписали и датировали форму, чтобы подтвердить точность предоставленной информации.
 
-## Legal and Financial Implications
+## Юридические и финансовые последствия
 
-### Backup Withholding
+### Резервное удержание
 
-Upon failing to provide a correct TIN or meeting other certain conditions, the IRS mandates backup withholding at a rate of 24%. This essentially means that the payer must withhold 24% of the payment for tax purposes, ensuring the IRS still receives tax revenue from the payee.
+При непредоставлении правильного TIN или при соблюдении других определенных условий IRS требует резервного удержания по ставке 24%. Это, по сути, означает, что плательщик должен удержать 24% платежа для целей налогообложения, обеспечивая, чтобы IRS все еще получала налоговые доходы от получателя платежа.
 
-### FATCA Reporting
+### Отчетность FATCA
 
-For individuals and entities with foreign account holdings, FATCA requires additional reporting standards to ensure tax compliance. The W-9 form includes sections for FATCA exemptions, which can be vital for entities engaged in international finances.
+Для физических лиц и организаций с иностранными счетами FATCA требует дополнительных стандартов отчетности для обеспечения налогового соответствия. Форма W-9 включает разделы для освобождений FATCA, которые могут быть жизненно важными для организаций, занимающихся международными финансами.
 
-## Intersection with Trading and Fintech
+## Пересечение с торговлей и финтехом
 
-In the realm of trading and fintech, the W-9 form often becomes part of the onboarding process for trading platforms, crowdfunding websites, and other financial tech services. Companies such as Robinhood, E*TRADE, and Coinbase require new users to submit a completed W-9 form as part of their account setup process. This is because these companies need to report any trading profits or losses to the IRS and must have a valid TIN on file to do so.
+В сфере торговли и финтеха форма W-9 часто становится частью процесса адаптации для торговых платформ, сайтов краудфандинга и других финансово-технологических сервисов. Компании, такие как Robinhood, E*TRADE и Coinbase, требуют от новых пользователей предоставления заполненной формы W-9 в рамках процесса настройки аккаунта. Это происходит потому, что эти компании должны сообщать о любых торговых прибылях или убытках в IRS и должны иметь действительный TIN в файле для этого.
 
-### Algorithmic Trading and the W-9 Form
+### Алгоритмическая торговля и форма W-9
 
-In algorithmic trading, where trades are executed by algorithms and computer programs, individuals and entities still need to provide their TIN for tax reporting purposes. Transactions processed through high-frequency trading (HFT) platforms trigger taxable events that must be reported to the IRS, necessitating the collection of W-9 forms from all participants.
+В алгоритмической торговле, где сделки выполняются алгоритмами и компьютерными программами, физические лица и организации все еще должны предоставлять свой TIN для целей налоговой отчетности. Транзакции, обработанные через платформы высокочастотной торговли (HFT), вызывают налогооблагаемые события, которые должны быть сообщены в IRS, что требует сбора форм W-9 от всех участников.
 
-### Fintech Startups and Tax Compliance
+### Финтех стартапы и налоговое соответствие
 
-Fintech startups often innovate in areas such as peer-to-peer lending, digital wallets, and investment platforms. These companies must ensure compliance with tax reporting regulations. Therefore, they require users to submit a W-9 to accurately report any returns, dividends, or interest earned through their platforms.
+Финтех стартапы часто внедряют инновации в таких областях, как одноранговое кредитование, цифровые кошельки и инвестиционные платформы. Эти компании должны обеспечить соблюдение правил налоговой отчетности. Поэтому они требуют от пользователей подачи формы W-9 для точной отчетности о любых доходах, дивидендах или процентах, полученных через их платформы.
 
-## W-9 Form and International Entities
+## Форма W-9 и международные организации
 
-While the W-9 is a U.S.-centric form, its principles extend to non-U.S. entities dealing with U.S. taxpayers. Non-U.S. entities must often go through similar processes to ensure they adhere to IRS regulations, though they might use different forms such as the W-8BEN.
+Хотя форма W-9 является документом, ориентированным на США, её принципы распространяются на не-американские организации, работающие с налогоплательщиками США. Не-американские организации часто должны проходить через аналогичные процессы для обеспечения соблюдения правил IRS, хотя они могут использовать различные формы, такие как W-8BEN.
 
-## Frequently Asked Questions (FAQs)
+## Часто задаваемые вопросы (FAQ)
 
-1. **Who needs to fill out a W-9 form?**
- - Any U.S. individual or entity receiving income that needs to be reported to the IRS must fill out a W-9 form.
+1. **Кто должен заполнить форму W-9?**
+   - Любое американское физическое лицо или организация, получающая доход, о котором необходимо сообщить в IRS, должны заполнить форму W-9.
 
-2. **When do I need to submit a W-9?**
- - A W-9 should be submitted whenever requested for tax reporting purposes, typically during the onboarding process for new jobs, contracts, or financial accounts.
+2. **Когда мне нужно подать форму W-9?**
+   - Форму W-9 следует подавать всякий раз, когда это запрашивается для целей налоговой отчетности, как правило, во время процесса адаптации для новых рабочих мест, контрактов или финансовых счетов.
 
-3. **Can I decline to fill out a W-9 form?**
- - Yes, you can, but the payer may then be required to apply backup withholding on future payments.
+3. **Могу ли я отказаться от заполнения формы W-9?**
+   - Да, вы можете, но тогда плательщик может быть обязан применить резервное удержание к будущим платежам.
 
-4. **Where do I send the completed W-9 form?**
- - Send the completed W-9 form to the requesting party (e.g., employer, client, financial institution) rather than the IRS.
+4. **Куда мне отправить заполненную форму W-9?**
+   - Отправьте заполненную форму W-9 запрашивающей стороне (например, работодателю, клиенту, финансовому учреждению), а не в IRS.
 
-5. **How do I update my W-9 form?**
- - If any information changes (name, address, TIN), you must fill out a new W-9 form and submit it to the requesting party.
+5. **Как обновить мою форму W-9?**
+   - Если какая-либо информация меняется (имя, адрес, TIN), вы должны заполнить новую форму W-9 и подать её запрашивающей стороне.
 
-## Conclusion
+## Заключение
 
-The W-9 form serves as a fundamental component of the United States tax system, ensuring proper identification and tax reporting for a wide range of financial transactions. Understanding how to correctly complete and submit this form can help individuals and businesses fulfill their tax obligations while avoiding penalties such as backup withholding. Whether you're a freelancer, business owner, or engaged in sophisticated financial activities like algorithmic trading, knowing the ins and outs of the W-9 form is essential for maintaining compliance and ensuring smooth operations.
+Форма W-9 служит фундаментальным компонентом налоговой системы Соединенных Штатов, обеспечивая надлежащую идентификацию и налоговую отчетность для широкого спектра финансовых транзакций. Понимание того, как правильно заполнять и подавать эту форму, может помочь физическим лицам и предприятиям выполнять свои налоговые обязательства, избегая при этом штрафов, таких как резервное удержание. Независимо от того, являетесь ли вы фрилансером, владельцем бизнеса или участвуете в сложной финансовой деятельности, такой как алгоритмическая торговля, знание всех тонкостей формы W-9 необходимо для поддержания соответствия и обеспечения бесперебойных операций.

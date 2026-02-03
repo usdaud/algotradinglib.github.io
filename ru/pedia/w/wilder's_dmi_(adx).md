@@ -1,120 +1,120 @@
-# Wilder's DMI (ADX)
+# Индекс направленного движения Уайлдера (DMI/ADX)
 
-Wilder's Directional Movement Index (DMI), often known simply as ADX (Average Directional Index.md)), is a technical analysis indicator designed by J. Welles Wilder. It is primarily used to quantify the strength of a trend in a financial market, be it an upward (bullish) or downward (bearish) trend. Traders and analysts use ADX extensively because of its ability to reflect the dynamism or stability of trading patterns in diverse financial instruments, including stocks, commodities, forex, and more.
+Индекс направленного движения Уайлдера (DMI), часто известный просто как ADX (средний индекс направленности), представляет собой индикатор технического анализа, разработанный Дж. Уэллсом Уайлдером. Он в первую очередь используется для количественной оценки силы тренда на финансовом рынке, будь то восходящий (бычий) или нисходящий (медвежий) тренд. Трейдеры и аналитики широко используют ADX благодаря его способности отражать динамизм или стабильность торговых паттернов в различных финансовых инструментах, включая акции, товары, форекс и другие.
 
-The ADX forms part of a comprehensive set of indicators introduced by Wilder in his seminal book, "New Concepts in Technical Trading Systems," published in 1978. Besides ADX, Wilder also introduced the Relative Strength Index (RSI), Parabolic SAR, and more, which have become indispensable tools in modern technical analysis.
+ADX является частью комплексного набора индикаторов, представленных Уайлдером в его основополагающей книге "Новые концепции в технических торговых системах", опубликованной в 1978 году. Помимо ADX, Уайлдер также представил индекс относительной силы (RSI), параболический SAR и другие инструменты, которые стали незаменимыми в современном техническом анализе.
 
-## Components of the DMI
+## Компоненты DMI
 
-The Directional Movement Index is comprised of three lines:
+Индекс направленного движения состоит из трех линий:
 
-1. **Plus Directional Indicator (+DI)** - Represents positive directional movement.
-2. **Minus Directional Indicator (-DI)** - Represents negative directional movement.
-3. **Average Directional Index.md) (ADX)** - Represents the strength of the trend, regardless of the direction.
+1. **Положительный индикатор направления (+DI)** — представляет положительное направленное движение.
+2. **Отрицательный индикатор направления (-DI)** — представляет отрицательное направленное движение.
+3. **Средний индекс направленности (ADX)** — представляет силу тренда независимо от направления.
 
-### Calculating the DI Lines
+### Расчет линий DI
 
-The calculations for the +DI and -DI lines are relatively straightforward and consist of several steps:
+Расчеты для линий +DI и -DI относительно просты и состоят из нескольких шагов:
 
-1. **True Range (TR)**: The true range is the greatest of the following:
- - Current high minus current low
- - Absolute value of the current high minus the previous close
- - Absolute value of the current low minus the previous close
+1. **Истинный диапазон (TR)**: Истинный диапазон — это наибольшее из следующих значений:
+   - Текущий максимум минус текущий минимум
+   - Абсолютное значение текущего максимума минус предыдущее закрытие
+   - Абсолютное значение текущего минимума минус предыдущее закрытие
 
- \[
- TR = \max[(\text{current high} - \text{current low}), \|(\text{current high} - \text{previous close})\|, \|(\text{current low} - \text{previous close})\|]
- \]
+   \[
+   TR = \max[(\text{текущий максимум} - \text{текущий минимум}), |(\text{текущий максимум} - \text{предыдущее закрытие})|, |(\text{текущий минимум} - \text{предыдущее закрытие})|]
+   \]
 
-2. **Directional Movement (DM)**:
- - Positive Directional Movement (+DM): If the current high minus the previous high is greater than the previous low minus the current low, and greater than zero, then +DM is the current high minus the previous high. Otherwise, +DM is zero.
- - Negative Directional Movement (-DM): If the previous low minus the current low is greater than the current high minus the previous high, and greater than zero, then -DM is the previous low minus the current low. Otherwise, -DM is zero.
+2. **Направленное движение (DM)**:
+   - Положительное направленное движение (+DM): Если текущий максимум минус предыдущий максимум больше, чем предыдущий минимум минус текущий минимум, и больше нуля, то +DM равен текущему максимуму минус предыдущий максимум. В противном случае +DM равен нулю.
+   - Отрицательное направленное движение (-DM): Если предыдущий минимум минус текущий минимум больше, чем текущий максимум минус предыдущий максимум, и больше нуля, то -DM равен предыдущему минимуму минус текущий минимум. В противном случае -DM равен нулю.
 
- \[
- +DM = (\text{current high} - \text{previous high}) \, \text{(if \, it too \, is \, greater \, than \, the \, other)}
- \]
+   \[
+   +DM = (\text{текущий максимум} - \text{предыдущий максимум}) \, \text{(если оно также больше другого)}
+   \]
 
- \[
- -DM = (\text{previous low} - \text{current low}) \, \text{(if \, it \, is \, greater \, than \, the \, other)}
- \]
+   \[
+   -DM = (\text{предыдущий минимум} - \text{текущий минимум}) \, \text{(если оно больше другого)}
+   \]
 
-3. **Smoothen the DI**: Calculate the smooth average of the Directional Movement over a set period (usually 14 days):
+3. **Сглаживание DI**: Вычисляется скользящее среднее направленного движения за установленный период (обычно 14 дней):
 
- \[
- +DI = 100 \times (\operatorname{Smoothed +DM}/\operatorname{ATR})
- \]
+   \[
+   +DI = 100 \times (\text{Сглаженный +DM}/\text{ATR})
+   \]
 
- \[
- -DI = 100 \times (\operatorname{Smoothed -DM}/\operatorname{ATR})
- \]
+   \[
+   -DI = 100 \times (\text{Сглаженный -DM}/\text{ATR})
+   \]
 
- Where ATR (Average True Range.md)) is the smoothened True Range over the same period.
+   Где ATR (средний истинный диапазон) — это сглаженный истинный диапазон за тот же период.
 
-### Calculating the ADX
+### Расчет ADX
 
-After obtaining +DI and -DI, the ADX itself can be calculated through the following steps:
+После получения +DI и -DI сам ADX можно рассчитать следующим образом:
 
-1. **Directional Movement (DX)**: This computes the absolute difference between the +DI and -DI lines, divided by the sum of the +DI and -DI lines, then multiplied by 100:
+1. **Направленное движение (DX)**: Вычисляется абсолютная разница между линиями +DI и -DI, деленная на сумму линий +DI и -DI, затем умноженная на 100:
 
- \[
- DX = \frac{\left|(+DI) - (-DI)\right|}{(+DI) + (-DI)} \times 100
- \]
+   \[
+   DX = \frac{\left|(+DI) - (-DI)\right|}{(+DI) + (-DI)} \times 100
+   \]
 
-2. **Average DX (ADX)**:
- Smooth the DX values over a set period (default is usually 14 days). The ADX values indicate the strength of the trend:
+2. **Средний DX (ADX)**:
+   Сглаживаются значения DX за установленный период (по умолчанию обычно 14 дней). Значения ADX указывают на силу тренда:
 
- \[
- ADX = \operatorname{Smooth\ Average\ of\ } DX
- \]
+   \[
+   ADX = \text{Сглаженное среднее } DX
+   \]
 
-## Interpreting ADX Values
+## Интерпретация значений ADX
 
-The ADX values generally range from 0 to 100 but rarely exceed 60. These values provide insight into the strength of a trend:
+Значения ADX обычно варьируются от 0 до 100, но редко превышают 60. Эти значения дают представление о силе тренда:
 
-- **0-20**: A weak or non-existent trend.
-- **20-40**: An emerging or moderate trend.
-- **40-60**: A strong trend.
-- **60-100**: An extremely strong trend.
+- **0-20**: Слабый или отсутствующий тренд.
+- **20-40**: Формирующийся или умеренный тренд.
+- **40-60**: Сильный тренд.
+- **60-100**: Чрезвычайно сильный тренд.
 
-Importantly, ADX does not indicate the direction of the trend, only its strength. For instance, an ADX above 40 could indicate either a strong upward or downward trend.
+Важно отметить, что ADX не указывает направление тренда, только его силу. Например, ADX выше 40 может указывать либо на сильный восходящий, либо на сильный нисходящий тренд.
 
-## Practical Applications of ADX
+## Практическое применение ADX
 
-### Identifying Trends
+### Определение трендов
 
-One of the primary uses of ADX is to determine whether a market is trending or ranging. When ADX is above 20, it suggests that the market is trending, and thus, trend-following strategies might be effective. Conversely, an ADX below 20 implies a ranging market where mean-reversion strategies may be more suitable.
+Одно из основных применений ADX — определение того, находится ли рынок в тренде или в диапазоне. Когда ADX выше 20, это предполагает, что рынок находится в тренде, и, следовательно, стратегии следования за трендом могут быть эффективными. И наоборот, ADX ниже 20 подразумевает рынок в диапазоне, где стратегии возврата к среднему могут быть более подходящими.
 
-### Momentum Confirmation
+### Подтверждение импульса
 
-Traders often use ADX to confirm momentum. For example, if a stock breaks out of a consolidation phase with ADX rising above 20, it suggests that the breakout is backed by strong momentum, increasing the probability of a sustained move.
+Трейдеры часто используют ADX для подтверждения импульса. Например, если акция выходит из фазы консолидации с ростом ADX выше 20, это предполагает, что прорыв подкреплен сильным импульсом, увеличивая вероятность устойчивого движения.
 
-### Divergence Analysis
+### Анализ дивергенции
 
-Although less common, ADX can also be used in conjunction with +DI and -DI lines for divergence analysis. For instance, if prices reach new highs while ADX is declining, it may indicate that the upward trend is losing strength.
+Хотя это менее распространено, ADX также может использоваться в сочетании с линиями +DI и -DI для анализа дивергенции. Например, если цены достигают новых максимумов, в то время как ADX снижается, это может указывать на то, что восходящий тренд теряет силу.
 
-## Real-World Example
+## Пример из реальной практики
 
-Let's consider a real-world application of ADX in stock trading:
+Рассмотрим практическое применение ADX в торговле акциями:
 
-Suppose a trader is monitoring the stock of Tesla, Inc.. The trader can add the ADX indicator to their technical analysis chart. If the ADX line crosses above 20 while the +DI line is above the -DI line, the trader may interpret this as a signal to go long, expecting the stock's uptrend to continue.
+Предположим, трейдер отслеживает акции Tesla, Inc. Трейдер может добавить индикатор ADX на свой график технического анализа. Если линия ADX пересекает уровень выше 20, в то время как линия +DI находится выше линии -DI, трейдер может интерпретировать это как сигнал для открытия длинной позиции, ожидая продолжения восходящего тренда акции.
 
-Similarly, if the ADX crosses below 20, it could signal a weakening trend, prompting the trader to exit their position or implement risk management strategies.
+Аналогично, если ADX пересекает уровень ниже 20, это может сигнализировать об ослаблении тренда, побуждая трейдера выйти из своей позиции или применить стратегии управления рисками.
 
-## Integration with Algorithmic Trading
+## Интеграция с алгоритмической торговлей
 
-In the realm of algorithmic trading, ADX can be utilized in developing automated trading strategies. Here's how:
+В области алгоритмической торговли ADX может использоваться при разработке автоматизированных торговых стратегий. Вот как:
 
-### Coded Strategies
+### Закодированные стратегии
 
-By integrating ADX within trading algorithms, traders can automate entries and exits based on predetermined ADX thresholds. For instance, an algorithm could be programmed to initiate buy orders when the ADX rises above 20 and the +DI is greater than the -DI, and sell orders when the ADX declines below 20.
+Интегрируя ADX в торговые алгоритмы, трейдеры могут автоматизировать входы и выходы на основе заранее определенных пороговых значений ADX. Например, алгоритм может быть запрограммирован на инициирование ордеров на покупку, когда ADX поднимается выше 20 и +DI больше -DI, и ордеров на продажу, когда ADX падает ниже 20.
 
-### Backtesting
+### Бэктестирование
 
-Algorithms can backtest strategies that incorporate ADX to gauge their historical performance. This helps in refining the parameters and improving the strategy's robustness before deploying it in live trading.
+Алгоритмы могут проводить бэктестирование стратегий, включающих ADX, для оценки их исторической эффективности. Это помогает в уточнении параметров и повышении надежности стратегии перед развертыванием в реальной торговле.
 
-### Optimization
+### Оптимизация
 
-Algorithmic traders often use optimized ADX parameters tailored to specific financial instruments or market conditions. Machine learning techniques can further enhance the adaptive nature of these strategies, allowing them to dynamically adjust to changing market environments.
+Алгоритмические трейдеры часто используют оптимизированные параметры ADX, адаптированные к конкретным финансовым инструментам или рыночным условиям. Методы машинного обучения могут дополнительно усилить адаптивную природу этих стратегий, позволяя им динамически подстраиваться под изменяющиеся рыночные условия.
 
-## Conclusion
+## Заключение
 
-Wilder's DMI (ADX) remains a cornerstone in the toolkit of technical analysts and traders worldwide. Its ability to quantitatively depict trend strength makes it invaluable for making informed trading decisions. Whether used in manual trading or as part of sophisticated algorithmic strategies, ADX serves as a reliable gauge of market dynamics, contributing to more effective and profitable trading outcomes.
+Индекс направленного движения Уайлдера (ADX) остается краеугольным камнем в наборе инструментов технических аналитиков и трейдеров по всему миру. Его способность количественно отображать силу тренда делает его бесценным для принятия обоснованных торговых решений. Независимо от того, используется ли он в ручной торговле или как часть сложных алгоритмических стратегий, ADX служит надежным индикатором рыночной динамики, способствуя более эффективным и прибыльным торговым результатам.

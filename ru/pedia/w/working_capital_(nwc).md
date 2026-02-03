@@ -1,126 +1,126 @@
-# Working Capital (NWC)
+# Оборотный капитал (NWC)
 
-## Definition and Importance
+## Определение и значение
 
-Working Capital, also known as Net Working Capital (NWC), is a financial metric that represents the difference between a company's current assets and current liabilities. It is an essential measure of a company's short-term financial health and operational efficiency. Positive working capital indicates that a company can cover its short-term liabilities with its short-term assets, while negative working capital suggests potential liquidity problems.
+Оборотный капитал, также известный как чистый оборотный капитал (NWC), является финансовым показателем, представляющим разницу между текущими активами и текущими обязательствами компании. Это важная мера краткосрочного финансового здоровья и операционной эффективности компании. Положительный оборотный капитал указывает на то, что компания может покрыть свои краткосрочные обязательства своими краткосрочными активами, в то время как отрицательный оборотный капитал предполагает потенциальные проблемы с ликвидностью.
 
-## Formula
+## Формула
 
-The basic formula for calculating Working Capital is:
+Базовая формула для расчета оборотного капитала:
 
-\[ \text{Working Capital} = \text{Current Assets} - \text{Current Liabilities} \]
+\[ \text{Оборотный капитал} = \text{Текущие активы} - \text{Текущие обязательства} \]
 
-### Current Assets
+### Текущие активы
 
-Current assets are all the assets a company expects to convert to cash or use within one year. These include:
+Текущие активы — это все активы, которые компания ожидает конвертировать в денежные средства или использовать в течение одного года. К ним относятся:
 
-- **Cash and cash equivalents**: Currency, bank balances, and other liquid investments.
-- **Accounts receivable**: Money owed to the company by customers for products and services sold.
-- **Inventory**: Raw materials, work-in-progress, and finished goods.
-- **Short-term investments**: Investments that are expected to be liquidated within one year.
-- **Prepaid expenses**: Payments made for services or products to be received within a year.
+- **Денежные средства и их эквиваленты**: Валюта, банковские балансы и другие ликвидные инвестиции.
+- **Дебиторская задолженность**: Деньги, причитающиеся компании от клиентов за проданные товары и услуги.
+- **Товарно-материальные запасы**: Сырье, незавершенное производство и готовая продукция.
+- **Краткосрочные инвестиции**: Инвестиции, которые ожидаются к ликвидации в течение одного года.
+- **Предоплаченные расходы**: Платежи, осуществленные за услуги или продукты, которые будут получены в течение года.
 
-### Current Liabilities
+### Текущие обязательства
 
-Current liabilities are the company’s debts or obligations due within one year. These include:
+Текущие обязательства — это долги или обязательства компании, подлежащие погашению в течение одного года. К ним относятся:
 
-- **Accounts payable**: Money a company owes to its suppliers.
-- **Short-term debt**: Loans and other borrowings due within a year.
-- **Accrued liabilities**: Expenses incurred but not yet paid.
-- **Current portion of long-term debt**: Part of long-term debt that must be paid within the year.
+- **Кредиторская задолженность**: Деньги, которые компания должна своим поставщикам.
+- **Краткосрочная задолженность**: Займы и другие заимствования, подлежащие погашению в течение года.
+- **Начисленные обязательства**: Расходы, понесенные, но еще не оплаченные.
+- **Текущая часть долгосрочной задолженности**: Часть долгосрочной задолженности, которая должна быть погашена в течение года.
 
-## Analysis and Interpretation
+## Анализ и интерпретация
 
-### Positive Working Capital
+### Положительный оборотный капитал
 
-A positive working capital indicates good financial health, suggesting that a company can cover its short-term obligations. It reflects operational efficiency and the ability to manage receivables, inventory, and payables effectively.
+Положительный оборотный капитал указывает на хорошее финансовое здоровье, предполагая, что компания может покрыть свои краткосрочные обязательства. Это отражает операционную эффективность и способность эффективно управлять дебиторской задолженностью, запасами и кредиторской задолженностью.
 
-### Negative Working Capital
+### Отрицательный оборотный капитал
 
-Negative working capital is a red flag, indicating potential liquidity issues and suggesting that a company might struggle to meet its short-term obligations. It can be a sign of financial distress, operational inefficiency, or poor management of assets and liabilities.
+Отрицательный оборотный капитал является тревожным сигналом, указывающим на потенциальные проблемы с ликвидностью и предполагающим, что компания может испытывать трудности с выполнением своих краткосрочных обязательств. Это может быть признаком финансовых трудностей, операционной неэффективности или плохого управления активами и обязательствами.
 
-### Optimal Working Capital
+### Оптимальный оборотный капитал
 
-The optimal level of working capital varies by industry and business model. High working capital may indicate inefficiency, locking up resources in non-productive assets. Conversely, too low working capital could signal that the company is not prepared for unforeseen expenses or investment opportunities.
+Оптимальный уровень оборотного капитала варьируется в зависимости от отрасли и бизнес-модели. Высокий оборотный капитал может указывать на неэффективность, блокируя ресурсы в непродуктивных активах. Напротив, слишком низкий оборотный капитал может сигнализировать о том, что компания не готова к непредвиденным расходам или инвестиционным возможностям.
 
-## Working Capital Management
+## Управление оборотным капиталом
 
-Effective working capital management ensures a company has sufficient liquidity to meet its short-term obligations and operate efficiently. This involves managing the components of working capital:
+Эффективное управление оборотным капиталом обеспечивает достаточную ликвидность компании для выполнения своих краткосрочных обязательств и эффективной работы. Это включает управление компонентами оборотного капитала:
 
-### Inventory Management
+### Управление запасами
 
-- **Just-in-Time (JIT)**: Production strategy to reduce inventory carrying costs.
-- **Economic Order Quantity (EOQ)**: Minimizes ordering and holding costs.
+- **Точно в срок (JIT)**: Производственная стратегия для снижения затрат на хранение запасов.
+- **Экономичный размер заказа (EOQ)**: Минимизирует затраты на заказ и хранение.
 
-### Accounts Receivable Management
+### Управление дебиторской задолженностью
 
-- **Credit Policies**: Set terms for credit sales to optimize cash flow.
-- **Collections Processes**: Efficient processes for collecting receivables.
+- **Кредитная политика**: Установление условий для продаж в кредит для оптимизации денежного потока.
+- **Процессы взыскания**: Эффективные процессы для взыскания дебиторской задолженности.
 
-### Accounts Payable Management
+### Управление кредиторской задолженностью
 
-- **Payment Terms**: Negotiating favorable terms with suppliers.
-- **Cash Discounts**: Taking advantage of early payment discounts.
+- **Условия оплаты**: Согласование выгодных условий с поставщиками.
+- **Скидки за наличный расчет**: Использование скидок за досрочную оплату.
 
-### Cash Management
+### Управление денежными средствами
 
-- **Cash Flow Forecasting**: Predicting cash inflows and outflows.
-- **Liquidity Buffers**: Maintaining a buffer for emergency liquidity.
+- **Прогнозирование денежного потока**: Прогнозирование притоков и оттоков денежных средств.
+- **Буферы ликвидности**: Поддержание буфера для экстренной ликвидности.
 
-## Measuring and Improving Working Capital
+## Измерение и улучшение оборотного капитала
 
-### Working Capital Ratio
+### Коэффициент оборотного капитала
 
-\[ \text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}} \]
+\[ \text{Коэффициент текущей ликвидности} = \frac{\text{Текущие активы}}{\text{Текущие обязательства}} \]
 
-A ratio above 1 indicates more current assets than liabilities, suggesting good liquidity. However, industry norms should be considered.
+Коэффициент выше 1 указывает на большее количество текущих активов, чем обязательств, что предполагает хорошую ликвидность. Однако следует учитывать отраслевые нормы.
 
-### Quick Ratio
+### Коэффициент быстрой ликвидности
 
-\[ \text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventory}}{\text{Current Liabilities}} \]
+\[ \text{Коэффициент быстрой ликвидности} = \frac{\text{Текущие активы} - \text{Запасы}}{\text{Текущие обязательства}} \]
 
-Also known as the acid-test ratio, it excludes inventory, providing a more stringent measure of liquidity.
+Также известный как коэффициент кислотного теста, он исключает запасы, обеспечивая более строгую меру ликвидности.
 
-### Cash Conversion Cycle (CCC)
+### Цикл конверсии денежных средств (CCC)
 
-\[ \text{CCC} = \text{Days Inventory Outstanding (DIO)} + \text{Days Sales Outstanding (DSO)} - \text{Days Payable Outstanding (DPO)} \]
+\[ \text{CCC} = \text{Дни оборота запасов (DIO)} + \text{Дни оборота дебиторской задолженности (DSO)} - \text{Дни оборота кредиторской задолженности (DPO)} \]
 
-CCC measures the time it takes for a company to convert its inventory and receivables into cash, minus the time it takes to pay its suppliers.
+CCC измеряет время, необходимое компании для конвертации своих запасов и дебиторской задолженности в денежные средства, за вычетом времени, необходимого для оплаты своим поставщикам.
 
-## Importance in Valuation and Investment
+## Значение в оценке и инвестировании
 
-### Financial Health and Stability
+### Финансовое здоровье и стабильность
 
-Investors and creditors analyze working capital to assess a company's liquidity and short-term financial health. Strong working capital management indicates a company is well-managed and capable of sustaining operations.
+Инвесторы и кредиторы анализируют оборотный капитал для оценки ликвидности и краткосрочного финансового здоровья компании. Сильное управление оборотным капиталом указывает на то, что компания хорошо управляется и способна поддерживать операции.
 
-### Impact on Valuation
+### Влияние на оценку
 
-Working capital impacts various valuation models, including discounted cash flow (DCF) analysis. Changes in working capital influence free cash flow, affecting the overall valuation.
+Оборотный капитал влияет на различные модели оценки, включая анализ дисконтированных денежных потоков (DCF). Изменения в оборотном капитале влияют на свободный денежный поток, воздействуя на общую оценку.
 
-### Risk and Creditworthiness
+### Риск и кредитоспособность
 
-Lenders often use working capital as a key criterion for extending credit. Positive working capital suggests lower risk, enhancing a company’s creditworthiness.
+Кредиторы часто используют оборотный капитал в качестве ключевого критерия для предоставления кредита. Положительный оборотный капитал предполагает меньший риск, повышая кредитоспособность компании.
 
-## Industry-Specific Considerations
+## Отраслевые соображения
 
-Different industries have varying working capital needs. For instance:
+Различные отрасли имеют разные потребности в оборотном капитале. Например:
 
-- **Retail**: High inventory turnover, requiring efficient inventory management.
-- **Manufacturing**: Significant raw material and work-in-progress inventories.
-- **Tech**: Often have high receivables due to sales terms.
+- **Розничная торговля**: Высокая оборачиваемость запасов, требующая эффективного управления запасами.
+- **Производство**: Значительные запасы сырья и незавершенного производства.
+- **Технологии**: Часто имеют высокую дебиторскую задолженность из-за условий продаж.
 
-## Real-World Examples
+## Реальные примеры
 
 ### Amazon
 
-Amazon manages its working capital by efficiently turning over inventory and maintaining favorable payment terms with suppliers. Their lower CCC helps them hold less cash while still meeting short-term obligations.
+Amazon управляет своим оборотным капиталом, эффективно оборачивая запасы и поддерживая выгодные условия оплаты с поставщиками. Их более низкий CCC помогает им удерживать меньше денежных средств, при этом все равно выполняя краткосрочные обязательства.
 
 ### Apple
 
-Apple’s high inventory turnover and efficient receivables management contribute to robust working capital. Their large cash reserves and low debt levels are strategic choices that bolster liquidity.
+Высокая оборачиваемость запасов Apple и эффективное управление дебиторской задолженностью способствуют устойчивому оборотному капиталу. Их большие денежные резервы и низкие уровни задолженности являются стратегическим выбором, который укрепляет ликвидность.
 
-For a deeper dive into their financial practices, you can visit Amazon's company filings and Apple's company filings.
+Для более глубокого погружения в их финансовые практики вы можете посетить финансовые отчеты Amazon и финансовые отчеты Apple.
 
-## Conclusion
+## Заключение
 
-Working capital is a critical financial metric to gauge a company's short-term health and operational effectiveness. Proper management ensures liquidity, enhances operational efficiency, and supports overall financial stability. By understanding and optimizing working capital, businesses can improve their financial performance and investor appeal.
+Оборотный капитал является критическим финансовым показателем для оценки краткосрочного здоровья и операционной эффективности компании. Правильное управление обеспечивает ликвидность, повышает операционную эффективность и поддерживает общую финансовую стабильность. Понимая и оптимизируя оборотный капитал, компании могут улучшить свои финансовые показатели и привлекательность для инвесторов.

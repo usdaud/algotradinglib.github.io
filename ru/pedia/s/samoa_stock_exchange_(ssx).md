@@ -1,73 +1,73 @@
 # Фондовая биржа Самоа (SSX)
 
-The Samoa Stock [Exchange](../e/exchange.md) (SSX) is the [principal](../p/principal.md) securities [exchange](../e/exchange.md) of Samoa, a small island nation in the South Pacific. Despite its modest size and relative youth compared to other global exchanges, the SSX plays a critical role in the local financial [market](../m/market.md) by providing a platform for the listing and trading of securities, thereby supporting [business](../b/business.md) growth and economic development in Samoa. The [exchange](../e/exchange.md) facilitates the mobilization of [capital](../c/capital.md) for entrepreneurs and offers investment opportunities to both domestic and international investors.
+Фондовая биржа Самоа (SSX) — это основная биржа ценных бумаг Самоа, небольшого островного государства в южной части Тихого океана. Несмотря на скромные размеры и относительную молодость по сравнению с другими мировыми биржами, SSX играет важнейшую роль на местном финансовом рынке, предоставляя платформу для листинга и торговли ценными бумагами, тем самым поддерживая рост бизнеса и экономическое развитие Самоа. Биржа способствует мобилизации капитала для предпринимателей и предлагает инвестиционные возможности как отечественным, так и международным инвесторам.
 
-## Overview of SSX
+## Обзор SSX
 
-The SSX was officially launched in 2010, making it one of the newer entrants in the global financial [market](../m/market.md). It emerged as part of a larger initiative by the Samoan government to modernize the country's [financial sector](../f/financial_sector.md) and make it more attractive for [foreign investment](../f/foreign_investment.md). The [exchange](../e/exchange.md) is regulated by the Central [Bank](../b/bank.md) of Samoa, ensuring that it adheres to international standards of [transparency](../t/transparency.md) and financial integrity.
+SSX была официально запущена в 2010 году, что делает её одним из новых участников глобального финансового рынка. Она появилась как часть более широкой инициативы правительства Самоа по модернизации финансового сектора страны и повышению его привлекательности для иностранных инвестиций. Биржа регулируется Центральным банком Самоа, что обеспечивает её соответствие международным стандартам прозрачности и финансовой целостности.
 
-## Mission and Objectives
+## Миссия и цели
 
-The primary mission of the SSX is to provide a secure and efficient marketplace for the trading of securities while fostering confidence among investors. The objectives include:
+Основная миссия SSX — обеспечение безопасной и эффективной площадки для торговли ценными бумагами при одновременном укреплении доверия инвесторов. Цели включают:
 
-- **[Capital](../c/capital.md) Formation:** Enabling businesses to raise [capital](../c/capital.md) by issuing [shares](../s/shares.md) and bonds.
-- **Investment Opportunities:** Providing investors with a [range](../r/range.md) of investment opportunities.
-- **[Market Efficiency](../m/market_efficiency.md):** Ensuring efficient [price discovery](../p/price_discovery.md) and [liquidity](../l/liquidity.md).
-- **Regulation and Oversight:** Adhering to strict regulatory standards to protect investors and maintain [market](../m/market.md) integrity.
+- **Формирование капитала:** Предоставление компаниям возможности привлекать капитал путём выпуска акций и облигаций.
+- **Инвестиционные возможности:** Предоставление инвесторам широкого спектра инвестиционных возможностей.
+- **Рыночная эффективность:** Обеспечение эффективного ценообразования и ликвидности.
+- **Регулирование и надзор:** Соблюдение строгих регуляторных стандартов для защиты инвесторов и поддержания рыночной целостности.
 
-## Market Segments and Products
+## Рыночные сегменты и продукты
 
-The SSX offers a variety of [market](../m/market.md) segments and financial products. These include:
+SSX предлагает разнообразные рыночные сегменты и финансовые продукты. К ним относятся:
 
-- **Equities:** [Shares](../s/shares.md) of public companies that [offer](../o/offer.md) ownership stakes to investors.
-- **[Fixed Income Securities](../f/fixed_income_securities.md):** Bonds and other [debt](../d/debt.md) instruments issued by corporations and the government.
-- **[Exchange](../e/exchange.md)-Traded Funds (ETFs):** Investment funds traded on the [exchange](../e/exchange.md), representing a basket of assets.
-- **Mutual Funds:** Pooled investment vehicles that provide access to a diversified portfolio of securities.
+- **Акции:** Акции публичных компаний, предлагающие инвесторам доли собственности.
+- **Ценные бумаги с фиксированным доходом:** Облигации и другие долговые инструменты, выпущенные корпорациями и правительством.
+- **Биржевые инвестиционные фонды (ETF):** Инвестиционные фонды, торгуемые на бирже и представляющие корзину активов.
+- **Паевые инвестиционные фонды:** Объединённые инвестиционные инструменты, предоставляющие доступ к диверсифицированному портфелю ценных бумаг.
 
-## Listing Requirements
+## Требования к листингу
 
-To list on the SSX, companies must meet specific criteria established by the [exchange](../e/exchange.md). These requirements are designed to ensure that [listed](../l/listed.md) companies are financially sound and compliant with governance standards. Key criteria include:
+Для листинга на SSX компании должны соответствовать определённым критериям, установленным биржей. Эти требования призваны обеспечить финансовую устойчивость и соответствие компаний стандартам корпоративного управления. Ключевые критерии включают:
 
-- **[Financial Health](../f/financial_health.md):** Companies must demonstrate financial stability and profitability over a specified period.
-- **[Corporate Governance](../c/corporate_governance.md):** Adherence to [best practices](../b/best_practices.md) in [corporate governance](../c/corporate_governance.md), including board composition and [transparency](../t/transparency.md).
-- **Public [Disclosure](../d/disclosure.md):** Full and accurate [disclosure](../d/disclosure.md) of financial information and material events to investors.
+- **Финансовое здоровье:** Компании должны демонстрировать финансовую стабильность и прибыльность в течение определённого периода.
+- **Корпоративное управление:** Соблюдение лучших практик корпоративного управления, включая состав совета директоров и прозрачность.
+- **Публичное раскрытие информации:** Полное и точное раскрытие финансовой информации и существенных событий для инвесторов.
 
-## Trading Mechanism
+## Механизм торговли
 
-The SSX employs a modern electronic [trading platform](../t/trading_platform.md) that facilitates seamless transactions between buyers and sellers. The trading system supports various types of orders, including [market](../m/market.md) orders, limit orders, and stop orders, to cater to different [trading strategies](../t/trading_strategies.md) and [investor](../i/investor.md) preferences. The platform provides [real-time market data](../r/real-time_market_data.md), trading analytics, and [robust](../r/robust.md) [security](../s/security.md) measures to ensure the integrity of transactions.
+SSX использует современную электронную торговую платформу, обеспечивающую бесперебойные транзакции между покупателями и продавцами. Торговая система поддерживает различные типы ордеров, включая рыночные ордера, лимитные ордера и стоп-ордера, для удовлетворения различных торговых стратегий и предпочтений инвесторов. Платформа предоставляет рыночные данные в реальном времени, торговую аналитику и надёжные меры безопасности для обеспечения целостности транзакций.
 
-## Investor Protection and Regulation
+## Защита инвесторов и регулирование
 
-The SSX operates under a stringent regulatory framework overseen by the Central [Bank](../b/bank.md) of Samoa. Key regulatory measures include:
+SSX функционирует в рамках строгой нормативной базы под надзором Центрального банка Самоа. Ключевые регуляторные меры включают:
 
-- **[Market](../m/market.md) Surveillance:** Continuous monitoring of trading activities to detect and prevent [market manipulation](../m/market_manipulation.md) and [insider trading](../i/insider.md).
-- **[Investor](../i/investor.md) Education:** Programs designed to educate investors about the risks and opportunities associated with [investing](../i/investing.md) in securities.
-- **Dispute Resolution:** Mechanisms for resolving conflicts between investors and brokers or [listed](../l/listed.md) companies.
+- **Рыночный надзор:** Непрерывный мониторинг торговой деятельности для выявления и предотвращения рыночных манипуляций и инсайдерской торговли.
+- **Образование инвесторов:** Программы, направленные на информирование инвесторов о рисках и возможностях, связанных с инвестированием в ценные бумаги.
+- **Разрешение споров:** Механизмы урегулирования конфликтов между инвесторами и брокерами или листинговыми компаниями.
 
-## Impact on Local Economy
+## Влияние на местную экономику
 
-The establishment of the SSX has had a transformative impact on Samoa's [economy](../e/economy.md) by:
+Создание SSX оказало преобразующее воздействие на экономику Самоа благодаря:
 
-- **Supporting Entrepreneurship:** Providing a viable avenue for local businesses to access [capital](../c/capital.md) and expand operations.
-- **Job Creation:** Stimulating job growth in the [financial sector](../f/financial_sector.md) and related industries.
-- **[Economic Growth](../e/economic_growth.md):** Contributing to overall economic development through increased investment and [business](../b/business.md) activity.
+- **Поддержке предпринимательства:** Предоставление жизнеспособного канала для местного бизнеса по привлечению капитала и расширению операций.
+- **Созданию рабочих мест:** Стимулирование роста занятости в финансовом секторе и смежных отраслях.
+- **Экономическому росту:** Содействие общему экономическому развитию за счёт увеличения инвестиций и деловой активности.
 
-## Challenges and Opportunities
+## Проблемы и возможности
 
-While the SSX has made significant strides, it faces several challenges and opportunities:
+Хотя SSX добилась значительных успехов, она сталкивается с рядом проблем и возможностей:
 
-- **[Market](../m/market.md) Size:** The small size of Samoa's [economy](../e/economy.md) limits the breadth and depth of the financial [market](../m/market.md).
-- **[Liquidity](../l/liquidity.md):** Ensuring sufficient [liquidity](../l/liquidity.md) in the [market](../m/market.md) can be challenging, particularly during periods of low trading [volume](../v/volume.md).
-- **Global Integration:** Increasing integration with global [financial markets](../f/financial_market.md) presents both risks and opportunities for growth.
+- **Размер рынка:** Небольшой размер экономики Самоа ограничивает широту и глубину финансового рынка.
+- **Ликвидность:** Обеспечение достаточной ликвидности на рынке может быть сложной задачей, особенно в периоды низких объёмов торгов.
+- **Глобальная интеграция:** Усиление интеграции с глобальными финансовыми рынками создаёт как риски, так и возможности для роста.
 
-## Future Outlook
+## Перспективы на будущее
 
-The future outlook for the SSX is cautiously optimistic. The [exchange](../e/exchange.md) aims to:
+Перспективы SSX осторожно оптимистичны. Биржа стремится:
 
-- **Expand Listings:** Attract more local and international companies to list on the [exchange](../e/exchange.md).
-- **Enhance Technology:** Continuously [upgrade](../u/upgrade.md) its [trading platform](../t/trading_platform.md) to improve [efficiency](../e/efficiency.md) and [security](../s/security.md).
-- **Develop New Products:** Introduce new financial instruments to diversify investment [options](../o/options.md) and enhance [market depth](../m/market_depth.md).
+- **Расширить листинг:** Привлечь больше местных и международных компаний для листинга на бирже.
+- **Улучшить технологии:** Постоянно совершенствовать торговую платформу для повышения эффективности и безопасности.
+- **Разрабатывать новые продукты:** Внедрять новые финансовые инструменты для диверсификации инвестиционных возможностей и повышения глубины рынка.
 
-## Contact Information
+## Контактная информация
 
-./e/exchange.md): Samoa Stock Exchange
+Биржа: Фондовая биржа Самоа

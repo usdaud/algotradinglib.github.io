@@ -1,93 +1,93 @@
-# Walrasian Market
+# Вальрасовский рынок
 
-A Walrasian market, named after the economist Léon Walras, is an idealized framework for analyzing how competitive markets operate to achieve a state of general equilibrium. In a Walrasian market, prices adjust so that supply equals demand for every commodity, leading to an efficient allocation of resources where no individual can be made better off without making someone else worse off. This concept lies at the heart of much of modern economic theory and has significant implications for market design, policy analysis, and computational economics.
+Вальрасовский рынок, названный в честь экономиста Леона Вальраса, представляет собой идеализированную структуру для анализа того, как конкурентные рынки функционируют для достижения состояния общего равновесия. На вальрасовском рынке цены корректируются таким образом, чтобы предложение равнялось спросу на каждый товар, что приводит к эффективному распределению ресурсов, при котором ни один человек не может улучшить свое положение, не ухудшив положение кого-то другого. Эта концепция лежит в основе большей части современной экономической теории и имеет значительные последствия для рыночного дизайна, анализа политики и вычислительной экономики.
 
-### Key Concepts of the Walrasian Market
+### Ключевые концепции вальрасовского рынка
 
-**1. General Equilibrium:**
- - General equilibrium in a Walrasian market is a state where every market in the economy is in equilibrium simultaneously. This implies that at the equilibrium prices, the quantity supplied equals the quantity demanded for every good and service.
+**1. Общее равновесие:**
+ - Общее равновесие на вальрасовском рынке - это состояние, когда каждый рынок в экономике находится в равновесии одновременно. Это означает, что при равновесных ценах объем предложения равен объему спроса на каждый товар и услугу.
 
-**2. Walras’ Law:**
- - Walras' Law states that if all but one of the markets in the economy are in equilibrium, then the last market must also be in equilibrium. This fundamental law underpins the analysis of general equilibrium by ensuring that the excess demand in any one market must sum to zero when considering the entire economy.
+**2. Закон Вальраса:**
+ - Закон Вальраса утверждает, что если все рынки в экономике, кроме одного, находятся в равновесии, то последний рынок также должен быть в равновесии. Этот фундаментальный закон лежит в основе анализа общего равновесия, обеспечивая, чтобы избыточный спрос на любом одном рынке в сумме равнялся нулю при рассмотрении всей экономики.
 
-**3. tâtonnement Process:**
- - The tâtonnement process is a hypothetical auctioneer mechanism proposed by Walras to explain how markets might reach equilibrium. In this process, an auctioneer adjusts prices up or down based on excess supply or excess demand until no excess exists in any market.
+**3. Процесс нащупывания (tâtonnement):**
+ - Процесс нащупывания - это гипотетический механизм аукциониста, предложенный Вальрасом для объяснения того, как рынки могут достичь равновесия. В этом процессе аукционист корректирует цены вверх или вниз в зависимости от избыточного предложения или избыточного спроса до тех пор, пока не исчезнет избыток на любом рынке.
 
-**4. Competitive Markets and Price Taking:**
- - In a Walrasian market, agents are price takers, meaning no single buyer or seller can influence market prices. They accept prices as given and make their supply and demand decisions accordingly.
+**4. Конкурентные рынки и принятие цен:**
+ - На вальрасовском рынке агенты являются ценополучателями, что означает, что ни один покупатель или продавец не может влиять на рыночные цены. Они принимают цены как данность и принимают решения о своем предложении и спросе соответственно.
 
-**5. Pareto Efficiency:**
- - A Walrasian equilibrium is Pareto efficient if no individual can be made better off without making someone else worse off. This efficiency criterion is a fundamental benchmark for evaluating economic outcomes.
+**5. Эффективность по Парето:**
+ - Вальрасовское равновесие эффективно по Парето, если ни один человек не может улучшить свое положение, не ухудшив положение кого-то другого. Этот критерий эффективности является фундаментальным эталоном для оценки экономических результатов.
 
-### Mathematical Representation
+### Математическое представление
 
-The formal mathematical representation of a Walrasian market involves several components:
+Формальное математическое представление вальрасовского рынка включает несколько компонентов:
 
-#### Commodities and Agents
-- Let there be \( n \) commodities and \( m \) agents in the economy.
-- Each agent \( i \) has an initial endowment \( \omega_i \) and a utility function \( u_i(x_i) \) where \( x_i \) represents the consumption bundle for agent \( i \).
+#### Товары и агенты
+- Пусть в экономике существует \( n \) товаров и \( m \) агентов.
+- Каждый агент \( i \) имеет начальный запас \( \omega_i \) и функцию полезности \( u_i(x_i) \), где \( x_i \) представляет потребительский набор для агента \( i \).
 
-#### Budget Constraints
-- Each agent's consumption must not exceed their budget, which is determined by the prices of commodities and their initial endowments. This can be expressed as:
+#### Бюджетные ограничения
+- Потребление каждого агента не должно превышать его бюджет, который определяется ценами товаров и их начальными запасами. Это можно выразить как:
  \[ p \cdot x_i \leq p \cdot \omega_i \]
- where \( p \) is the price vector of commodities.
+ где \( p \) - вектор цен товаров.
 
-#### Market Clearing Conditions
-- The supply and demand for each commodity must be in balance at equilibrium prices:
+#### Условия очистки рынка
+- Предложение и спрос на каждый товар должны быть в балансе при равновесных ценах:
  \[ \sum_{i=1}^{m} x_{ij}(p) = \sum_{i=1}^{m} \omega_{ij} \]
- for all \( j = 1, 2, \ldots, n \).
+ для всех \( j = 1, 2, \ldots, n \).
 
-### Computational Approaches
+### Вычислительные подходы
 
-In practice, finding the Walrasian equilibrium involves solving a complex system of equations that represent the interactions between supply, demand, and prices. Various computational techniques have been developed to approximate or find these equilibria.
+На практике нахождение вальрасовского равновесия включает решение сложной системы уравнений, которые представляют взаимодействия между предложением, спросом и ценами. Были разработаны различные вычислительные методы для приближения или нахождения этих равновесий.
 
-**1. Simultaneous Equations Solvers:**
- - Numerical algorithms that solve nonlinear systems of simultaneous equations can be employed to find equilibrium prices and allocations. Methods like the Newton-Raphson method are commonly used in this context.
+**1. Решатели одновременных уравнений:**
+ - Численные алгоритмы, которые решают нелинейные системы одновременных уравнений, могут использоваться для нахождения равновесных цен и распределений. Методы, такие как метод Ньютона-Рафсона, обычно используются в этом контексте.
 
-**2. Fixed Point Algorithms:**
- - Fixed point theorems, such as Brouwer's Fixed Point Theorem, provide a foundation for algorithms that iteratively search for equilibria. These algorithms ensure that under certain conditions, an equilibrium exists and can be found.
+**2. Алгоритмы неподвижной точки:**
+ - Теоремы о неподвижной точке, такие как теорема Брауэра о неподвижной точке, обеспечивают основу для алгоритмов, которые итеративно ищут равновесия. Эти алгоритмы обеспечивают, что при определенных условиях равновесие существует и может быть найдено.
 
-**3. Computational General Equilibrium (CGE) Models:**
- - CGE models use real-world data to calibrate economic models and predict the effects of policy changes or external shocks on the economy. These models are widely used in economic policy analysis and research.
+**3. Вычислимые модели общего равновесия (CGE):**
+ - Модели CGE используют реальные данные для калибровки экономических моделей и прогнозирования последствий изменений политики или внешних шоков на экономику. Эти модели широко используются в анализе экономической политики и исследованиях.
 
-**4. Decentralized Algorithms:**
- - Research in distributed computing and algorithm design has led to the development of decentralized algorithms where multiple agents or nodes work together to find equilibrium. These algorithms are particularly relevant for large-scale, multi-agent systems and markets.
+**4. Децентрализованные алгоритмы:**
+ - Исследования в области распределенных вычислений и проектирования алгоритмов привели к разработке децентрализованных алгоритмов, где несколько агентов или узлов работают вместе для нахождения равновесия. Эти алгоритмы особенно актуальны для крупномасштабных многоагентных систем и рынков.
 
-### Applications in Modern Finance and Trading
+### Применение в современных финансах и трейдинге
 
-**1. Financial Markets:**
- - The principles of Walrasian markets are applied in designing electronic trading platforms where automated systems adjust prices based on buy and sell orders to ensure market clearing.
+**1. Финансовые рынки:**
+ - Принципы вальрасовских рынков применяются при проектировании электронных торговых платформ, где автоматизированные системы корректируют цены на основе заявок на покупку и продажу для обеспечения клиринга рынка.
 
-**2. Blockchain and Decentralized Finance (DeFi):**
- - In decentralized finance, the concept of an automated market maker (AMM) draws parallels to the Walrasian auctioneer, continuously adjusting token prices to balance supply and demand in liquidity pools.
+**2. Блокчейн и децентрализованные финансы (DeFi):**
+ - В децентрализованных финансах концепция автоматизированного маркет-мейкера (AMM) проводит параллели с вальрасовским аукционистом, непрерывно корректируя цены токенов для балансировки предложения и спроса в пулах ликвидности.
 
-**3. Algorithmic Trading:**
- - High-frequency trading algorithms rely on rapidly finding equilibria in financial markets to execute trades that exploit small price discrepancies. These algorithms use principles derived from Walrasian market theory to maintain market efficiency.
+**3. Алгоритмическая торговля:**
+ - Высокочастотные торговые алгоритмы полагаются на быстрое нахождение равновесий на финансовых рынках для выполнения сделок, которые используют небольшие расхождения в ценах. Эти алгоритмы используют принципы, выведенные из теории вальрасовского рынка, для поддержания эффективности рынка.
 
-**4. Policy Analysis:**
- - Governments and international organizations use general equilibrium models to assess the economic impact of policy interventions, trade agreements, and regulatory changes, ensuring that resource allocations are efficient and welfare-enhancing.
+**4. Анализ политики:**
+ - Правительства и международные организации используют модели общего равновесия для оценки экономического воздействия политических вмешательств, торговых соглашений и регулятивных изменений, обеспечивая эффективность распределения ресурсов и повышение благосостояния.
 
-### Limitations and Criticisms
+### Ограничения и критика
 
-Despite its elegance and analytical power, the Walrasian market model has several limitations:
+Несмотря на свою элегантность и аналитическую силу, модель вальрасовского рынка имеет несколько ограничений:
 
-**1. Idealized Assumptions:**
- - The assumption of perfect competition, where all agents are price takers, is rarely met in real-world markets. Market power, information asymmetries, and other imperfections can lead to deviations from equilibrium.
+**1. Идеализированные предположения:**
+ - Предположение о совершенной конкуренции, где все агенты являются ценополучателями, редко выполняется на реальных рынках. Рыночная власть, информационная асимметрия и другие несовершенства могут привести к отклонениям от равновесия.
 
-**2. Static Nature:**
- - The Walrasian model is inherently static, focusing on equilibrium states rather than the dynamic processes through which economies evolve over time. Real-world markets are continually changing, influenced by innovation, policy changes, and external shocks.
+**2. Статическая природа:**
+ - Вальрасовская модель по своей природе статична, фокусируясь на равновесных состояниях, а не на динамических процессах, через которые экономики эволюционируют со временем. Реальные рынки постоянно меняются под влиянием инноваций, изменений политики и внешних шоков.
 
-**3. Computational Complexity:**
- - Finding exact equilibrium solutions in large, complex economies can be computationally infeasible. Approximations and heuristic methods are often necessary, but they may not capture all nuances of market interactions.
+**3. Вычислительная сложность:**
+ - Нахождение точных равновесных решений в крупных, сложных экономиках может быть вычислительно невыполнимым. Приближения и эвристические методы часто необходимы, но они могут не захватывать все нюансы рыночных взаимодействий.
 
-**4. Behavioral Considerations:**
- - The model assumes rational behavior and well-defined preferences, but real-world decision-making often involves bounded rationality, heuristics, and other psychological factors.
+**4. Поведенческие соображения:**
+ - Модель предполагает рациональное поведение и четко определенные предпочтения, но реальное принятие решений часто включает ограниченную рациональность, эвристики и другие психологические факторы.
 
-### Conclusion
+### Заключение
 
-The Walrasian market remains a cornerstone of economic theory, providing a rigorous framework for analyzing how markets coordinate the allocation of resources. Its principles underpin much of modern finance, policy analysis, and computational economics, driving innovations in trading platforms, decentralized finance, and economic modeling. While its idealized assumptions may limit its applicability in certain contexts, the insights it offers into the nature of equilibrium and efficiency continue to inform and inspire economic research and practice.
+Вальрасовский рынок остается краеугольным камнем экономической теории, обеспечивая строгую основу для анализа того, как рынки координируют распределение ресурсов. Его принципы лежат в основе большей части современных финансов, анализа политики и вычислительной экономики, стимулируя инновации в торговых платформах, децентрализованных финансах и экономическом моделировании. Хотя его идеализированные предположения могут ограничивать его применимость в определенных контекстах, понимание, которое он предлагает в отношении природы равновесия и эффективности, продолжает информировать и вдохновлять экономические исследования и практику.
 
-For further reading and resources on Walrasian markets and general equilibrium theory, consider visiting:
+Для дополнительного чтения и ресурсов по вальрасовским рынкам и теории общего равновесия, рассмотрите посещение:
 
-- National Bureau of Economic Research (NBER)
-- Federation of International Trade Associations (FITA)
+- Национальное бюро экономических исследований (NBER)
+- Федерация международных торговых ассоциаций (FITA)

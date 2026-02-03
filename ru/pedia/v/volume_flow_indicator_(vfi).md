@@ -1,80 +1,37 @@
-# Volume Flow Indicator (VFI)
+# Индикатор потока объема (VFI)
 
-The volume flow indicator is a technical indicator that estimates the direction of money flow using price and volume data. It aims to identify accumulation and distribution.
+Индикатор потока объема — это технический индикатор, который оценивает направление денежного потока с использованием данных о цене и объеме. Он нацелен на выявление накопления и распределения.
 
-## Concept
-- Combines price change, volatility filters, and volume to estimate flow.
-- Positive values suggest accumulation.
-- Negative values suggest distribution.
+## Концепция
+- Объединяет изменение цены, фильтры волатильности и объем для оценки потока.
+- Положительные значения предполагают накопление.
+- Отрицательные значения предполагают распределение.
 
-## Example
-A stock rises with strong volume and the VFI turns positive, indicating buying pressure. A divergence between price and VFI can signal weakening momentum.
+## Пример
+Акция растет при сильном объеме, и VFI становится положительным, указывая на давление покупок. Расхождение между ценой и VFI может сигнализировать об ослаблении импульса.
 
-## Practical notes
-VFI calculations vary across platforms. Understanding the specific formula used is important for consistent interpretation.
+## Практические заметки
+Расчеты VFI варьируются на разных платформах. Понимание конкретной используемой формулы важно для последовательной интерпретации.
 
-## Practical checklist
-- Define the time horizon for Volume Flow Indicator (VFI) and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
+## Практический контрольный список
+- Определите временной горизонт для индикатора потока объема (VFI) и рыночный контекст.
+- Определите входные данные, которым вы доверяете, такие как цена, объем или даты расписания.
+- Напишите четкое правило входа и выхода перед выделением капитала.
+- Определите размер позиции так, чтобы одна ошибка не повредила счету.
+- Документируйте результат для повышения повторяемости.
 
-## Common pitfalls
-- Treating Volume Flow Indicator (VFI) as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
+## Распространенные ошибки
+- Рассмотрение индикатора потока объема (VFI) как самостоятельного сигнала вместо контекста.
+- Игнорирование ликвидности, спредов и фрикционных издержек исполнения.
+- Использование правила на временном фрейме, отличном от того, для которого оно было разработано.
+- Переобучение на небольшой выборке прошлых примеров.
+- Предположение одинакового поведения при аномальной волатильности.
 
-## Data and measurement
-Good analysis starts with consistent data. For Volume Flow Indicator (VFI), confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
+## Данные и измерение
+Хороший анализ начинается с согласованных данных. Для индикатора потока объема (VFI) подтвердите источник данных, часовой пояс и частоту выборки. Если концепция зависит от дат расчета или расписания, согласуйте календарь с правилами биржи. Если она зависит от ценового действия, рассмотрите использование скорректированных данных для учета корпоративных действий.
 
-## Risk management notes
-Risk control is essential when applying Volume Flow Indicator (VFI). Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Заметки по управлению рисками
+Контроль рисков необходим при применении индикатора потока объема (VFI). Определите максимальный убыток на сделку, общую экспозицию по связанным позициям и условия, которые делают идею недействительной. План быстрого выхода полезен, когда рынки движутся резко.
 
-## Variations and related terms
-Many traders use Volume Flow Indicator (VFI) alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volume Flow Indicator (VFI) and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volume Flow Indicator (VFI) as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volume Flow Indicator (VFI), confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volume Flow Indicator (VFI). Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
-
-## Variations and related terms
-Many traders use Volume Flow Indicator (VFI) alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Volume Flow Indicator (VFI) and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
-
-## Common pitfalls
-- Treating Volume Flow Indicator (VFI) as a standalone signal instead of context.
-- Ignoring liquidity, spreads, and execution friction.
-- Using a rule on a different timeframe than it was designed for.
-- Overfitting a small sample of past examples.
-- Assuming the same behavior in abnormal volatility.
-
-## Data and measurement
-Good analysis starts with consistent data. For Volume Flow Indicator (VFI), confirm the data source, the time zone, and the sampling frequency. If the concept depends on settlement or schedule dates, align the calendar with the exchange rules. If it depends on price action, consider using adjusted data to handle corporate actions.
-
-## Risk management notes
-Risk control is essential when applying Volume Flow Indicator (VFI). Define the maximum loss per trade, the total exposure across related positions, and the conditions that invalidate the idea. A plan for fast exits is useful when markets move sharply.
+## Вариации и связанные термины
+Многие трейдеры используют индикатор потока объема (VFI) наряду с более широкими концепциями, такими как анализ трендов, режимы волатильности и условия ликвидности. Аналогичные инструменты могут существовать под разными названиями или с немного отличающимися определениями, поэтому четкая документация предотвращает путаницу.

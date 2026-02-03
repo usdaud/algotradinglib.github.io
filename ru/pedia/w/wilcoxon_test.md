@@ -1,160 +1,160 @@
-# Wilcoxon Test
+# Тест Уилкоксона
 
-The Wilcoxon Test is a non-parametric statistical test used to compare two paired groups. Unlike parametric tests such as the t-test, non-parametric tests do not make any assumptions about the underlying distribution of the data. This makes the Wilcoxon Test particularly useful in situations where the data does not meet the normality assumption or when dealing with ordinal data or ranks. The test is named after Frank Wilcoxon, who developed it in the 1940s.
+Тест Уилкоксона — это непараметрический статистический тест, используемый для сравнения двух парных групп. В отличие от параметрических тестов, таких как t-тест, непараметрические тесты не делают никаких предположений о базовом распределении данных. Это делает тест Уилкоксона особенно полезным в ситуациях, когда данные не соответствуют предположению о нормальности или при работе с порядковыми данными или рангами. Тест назван в честь Фрэнка Уилкоксона, который разработал его в 1940-х годах.
 
-## Types of Wilcoxon Tests
+## Типы Тестов Уилкоксона
 
-There are two main types of Wilcoxon Tests:
+Существует два основных типа тестов Уилкоксона:
 
-1. **Wilcoxon Signed-Rank Test:** Used for comparing two related samples, matched samples, or repeated measurements on a single sample to assess whether their population mean ranks differ.
-2. **Wilcoxon Rank-Sum Test (also known as Mann-Whitney U Test):** Used for comparing two independent samples to determine whether there is a difference in their population mean ranks.
+1. **Знаковый Ранговый Тест Уилкоксона**: Используется для сравнения двух связанных выборок, сопоставленных выборок или повторных измерений на одной выборке для оценки того, различаются ли их средние ранги популяции.
+2. **Тест Ранговых Сумм Уилкоксона (также известный как U-тест Манна-Уитни)**: Используется для сравнения двух независимых выборок для определения того, существует ли разница в их средних рангах популяции.
 
-### Wilcoxon Signed-Rank Test
+### Знаковый Ранговый Тест Уилкоксона
 
-The Wilcoxon Signed-Rank Test is the non-parametric counterpart to the paired samples t-test. It assesses whether the median of the differences between pairs of observations is zero or not.
+Знаковый ранговый тест Уилкоксона является непараметрическим аналогом парного t-теста для выборок. Он оценивает, является ли медиана разностей между парами наблюдений нулевой или нет.
 
-#### When to Use
+#### Когда Использовать
 
-Use the Wilcoxon Signed-Rank Test when:
-- The differences between pairs are continuous, ordinal, or approximately interval.
-- The differences between pairs are symmetrically distributed about a median.
-- The sample size is small and the data do not meet the assumptions of the paired t-test.
+Используйте знаковый ранговый тест Уилкоксона, когда:
+- Разности между парами являются непрерывными, порядковыми или приблизительно интервальными.
+- Разности между парами симметрично распределены относительно медианы.
+- Размер выборки мал, и данные не соответствуют предположениям парного t-теста.
 
-#### Assumptions
+#### Предположения
 
-1. The pairs are chosen randomly and independently.
-2. The pairs are related.
-3. The measurement scale is at least ordinal.
+1. Пары выбраны случайно и независимо.
+2. Пары связаны.
+3. Шкала измерения по крайней мере порядковая.
 
-#### Procedure
+#### Процедура
 
-1. **Calculate the Differences:** Compute the differences between each pair of observations.
-2. **Ignore Zero Differences:** If any differences are zero, they are excluded from the test.
-3. **Rank the Absolute Differences:** Rank the absolute values of the remaining differences.
-4. **Assign Signs to the Ranks:** Assign a positive or negative sign to the ranks based on the sign of the differences.
-5. **Sum the Ranks:** Calculate the sum of the ranks for the positive differences and the sum for the negative differences.
-6. **Compute the Test Statistic:** The test statistic is the smaller of the absolute values of these two sums.
-7. **Determine the P-Value:** Use the test statistic to find the corresponding p-value, which will help in accepting or rejecting the null hypothesis.
+1. **Вычислите Разности**: Вычислите разности между каждой парой наблюдений.
+2. **Игнорируйте Нулевые Разности**: Если какие-либо разности равны нулю, они исключаются из теста.
+3. **Ранжируйте Абсолютные Разности**: Ранжируйте абсолютные значения оставшихся разностей.
+4. **Присвойте Знаки Рангам**: Присвойте положительный или отрицательный знак рангам на основе знака разностей.
+5. **Суммируйте Ранги**: Вычислите сумму рангов для положительных разностей и сумму для отрицательных разностей.
+6. **Вычислите Тестовую Статистику**: Тестовая статистика — это меньшая из абсолютных значений этих двух сумм.
+7. **Определите P-Значение**: Используйте тестовую статистику, чтобы найти соответствующее p-значение, которое поможет принять или отклонить нулевую гипотезу.
 
-### Example Calculation
+### Пример Расчета
 
-Following is a step-by-step example:
+Ниже приведен пошаговый пример:
 
-1. Suppose we have pairs of data:
- - Pair 1: (5, 7)
- - Pair 2: (9, 13)
- - Pair 3: (4, 4)
- - Pair 4: (6, 8)
- - Pair 5: (6, 5)
+1. Предположим, у нас есть пары данных:
+ - Пара 1: (5, 7)
+ - Пара 2: (9, 13)
+ - Пара 3: (4, 4)
+ - Пара 4: (6, 8)
+ - Пара 5: (6, 5)
 
-2. Differences:
- - Pair 1: -2
- - Pair 2: -4
- - Pair 3: 0 (ignored)
- - Pair 4: -2
- - Pair 5: 1
+2. Разности:
+ - Пара 1: -2
+ - Пара 2: -4
+ - Пара 3: 0 (игнорируется)
+ - Пара 4: -2
+ - Пара 5: 1
 
-3. Absolute Differences:
- - Pair 1: 2
- - Pair 2: 4
- - Pair 4: 2
- - Pair 5: 1
+3. Абсолютные Разности:
+ - Пара 1: 2
+ - Пара 2: 4
+ - Пара 4: 2
+ - Пара 5: 1
 
-4. Ranks:
- - Rank 1: 1
- - Rank 2: 2.5 (for both Pair 1 and Pair 4)
- - Rank 4: 4
+4. Ранги:
+ - Ранг 1: 1
+ - Ранг 2: 2.5 (для Пары 1 и Пары 4)
+ - Ранг 4: 4
 
-5. Assign Signs and Sum the Ranks:
- - Positive Ranks Sum: 1 (for Pair 5)
- - Negative Ranks Sum: 2.5 + 2.5 + 4 = 9
+5. Присвойте Знаки и Суммируйте Ранги:
+ - Сумма Положительных Рангов: 1 (для Пары 5)
+ - Сумма Отрицательных Рангов: 2.5 + 2.5 + 4 = 9
 
-6. Test Statistic: Minimum of 1 and 9 = 1
+6. Тестовая Статистика: Минимум из 1 и 9 = 1
 
-7. Compare with critical value or determine p-value to conclude.
+7. Сравните с критическим значением или определите p-значение для заключения.
 
-### Wilcoxon Rank-Sum Test (Mann-Whitney U Test)
+### Тест Ранговых Сумм Уилкоксона (U-тест Манна-Уитни)
 
-The Wilcoxon Rank-Sum Test is designed to test the null hypothesis that two populations are equal in terms of their central tendency.
+Тест ранговых сумм Уилкоксона разработан для проверки нулевой гипотезы о том, что две популяции равны с точки зрения их центральной тенденции.
 
-#### When to Use
+#### Когда Использовать
 
-Use the Wilcoxon Rank-Sum Test when:
-- The data from both samples are continuous, ordinal, or approximately interval.
-- The distributions are not necessarily normal, and sample sizes might be different.
+Используйте тест ранговых сумм Уилкоксона, когда:
+- Данные из обеих выборок являются непрерывными, порядковыми или приблизительно интервальными.
+- Распределения не обязательно нормальны, и размеры выборок могут быть разными.
 
-#### Assumptions
+#### Предположения
 
-1. The samples are independent.
-2. The measurement scale is at least ordinal.
+1. Выборки независимы.
+2. Шкала измерения по крайней мере порядковая.
 
-#### Procedure
+#### Процедура
 
-1. **Combine and Rank:** Combine the data from both samples and rank them from smallest to largest. Assign ranks, with average ranks for ties.
-2. **Separate Ranks:** Separate the ranks back into their respective samples.
-3. **Sum the Ranks:** Calculate the sum of the ranks for each sample.
-4. **Compute U:** Use the rank sums to compute the U statistic.
-5. **Determine the P-Value:** Use the U statistic to find the corresponding p-value to make a conclusion about the null hypothesis.
+1. **Объедините и Ранжируйте**: Объедините данные из обеих выборок и ранжируйте их от наименьшего к наибольшему. Присвойте ранги, со средними рангами для связей.
+2. **Разделите Ранги**: Разделите ранги обратно на их соответствующие выборки.
+3. **Суммируйте Ранги**: Вычислите сумму рангов для каждой выборки.
+4. **Вычислите U**: Используйте суммы рангов для вычисления статистики U.
+5. **Определите P-Значение**: Используйте статистику U, чтобы найти соответствующее p-значение для вывода о нулевой гипотезе.
 
-### Example Calculation
+### Пример Расчета
 
-1. Suppose we have two samples:
- - Sample 1: 10, 15, 20
- - Sample 2: 15, 20, 25, 30
+1. Предположим, у нас есть две выборки:
+ - Выборка 1: 10, 15, 20
+ - Выборка 2: 15, 20, 25, 30
 
-2. Combine and Rank:
+2. Объедините и Ранжируйте:
  - 10 (1.0), 15 (2.5), 15 (2.5)
  - 20 (4.5), 20 (4.5), 25 (6.0), 30 (7.0)
 
-3. Separate Ranks:
- - Sample 1 Ranks: 1, 2.5, 4.5
- - Sample 2 Ranks: 2.5, 4.5, 6, 7
+3. Разделите Ранги:
+ - Ранги Выборки 1: 1, 2.5, 4.5
+ - Ранги Выборки 2: 2.5, 4.5, 6, 7
 
-4. Sum the Ranks:
- - Sum of Ranks of Sample 1: 1 + 2.5 + 4.5 = 8
- - Sum of Ranks of Sample 2: 2.5 + 4.5 + 6 + 7 = 20
+4. Суммируйте Ранги:
+ - Сумма Рангов Выборки 1: 1 + 2.5 + 4.5 = 8
+ - Сумма Рангов Выборки 2: 2.5 + 4.5 + 6 + 7 = 20
 
-5. Compute U:
+5. Вычислите U:
  - U1 = R1 - ((n1 * (n1 + 1)) / 2)
  - U2 = R2 - ((n2 * (n2 + 1)) / 2)
- - Then, U is the smaller value of U1 and U2. Calculate accordingly.
+ - Затем U — это меньшее значение U1 и U2. Вычислите соответственно.
 
-## Application in Finance and Trading
+## Применение в Финансах и Трейдинге
 
-Wilcoxon Tests, especially the Wilcoxon Signed-Rank Test, are often used in finance and trading contexts to compare the performance of different trading algorithms, financial models, or investment strategies when the performance data does not meet normality assumptions.
+Тесты Уилкоксона, особенно знаковый ранговый тест Уилкоксона, часто используются в финансовом и торговом контекстах для сравнения производительности различных торговых алгоритмов, финансовых моделей или инвестиционных стратегий, когда данные о производительности не соответствуют предположениям о нормальности.
 
-### Algorithmic Trading
+### Алгоритмическая Торговля
 
-In algorithmic trading, Wilcoxon Tests can be used to:
+В алгоритмической торговле тесты Уилкоксона могут использоваться для:
 
-- Compare the performance of two trading strategies on different assets or time periods.
-- Evaluate the effectiveness of an adaptation or new version of a trading algorithm.
-- Statistically validate quant trading hypotheses without assuming normality.
+- Сравнения производительности двух торговых стратегий на разных активах или временных периодах.
+- Оценки эффективности адаптации или новой версии торгового алгоритма.
+- Статистической валидации гипотез количественной торговли без предположения о нормальности.
 
-### Fintech Applications
+### Приложения Финтех
 
-FinTech companies apply Wilcoxon Tests for:
+Финтех-компании применяют тесты Уилкоксона для:
 
-- Model validation: By comparing predictive models on test datasets with non-normal distributions.
-- A/B testing: Evaluating different financial products or user interface changes where response metrics may not be normally distributed.
-- Risk assessment: Comparing historical returns distributions to assess risk models.
+- Валидации моделей: Сравнивая прогностические модели на тестовых наборах данных с ненормальными распределениями.
+- A/B тестирования: Оценивая различные финансовые продукты или изменения пользовательского интерфейса, где метрики ответа могут быть не нормально распределены.
+- Оценки риска: Сравнивая распределения исторической доходности для оценки моделей риска.
 
-### Practical Example
+### Практический Пример
 
-For instance, a FinTech company like Robinhood might use the Wilcoxon Signed-Rank Test to evaluate a new feature in their trading app that is designed to help users improve trading performance. They could compare the trading performance metrics (such as daily returns) of a sample of users before and after introducing the new feature, checking if the new feature has a statistically significant impact.
+Например, финтех-компания, такая как Robinhood, может использовать знаковый ранговый тест Уилкоксона для оценки новой функции в своем торговом приложении, которая разработана для помощи пользователям в улучшении торговой производительности. Они могли бы сравнить метрики торговой производительности (такие как ежедневная доходность) выборки пользователей до и после введения новой функции, проверяя, оказывает ли новая функция статистически значимое влияние.
 
-## Advantages and Limitations
+## Преимущества и Ограничения
 
-### Advantages
+### Преимущества
 
-1. **No assumptions about normality:** The tests are non-parametric and do not assume a normal distribution.
-2. **Robust to outliers:** Less affected by outliers compared to parametric tests.
-3. **Small sample sizes:** Works well even with small sample sizes where parametric tests might fail.
+1. **Нет предположений о нормальности**: Тесты являются непараметрическими и не предполагают нормальное распределение.
+2. **Устойчивы к выбросам**: Меньше подвержены влиянию выбросов по сравнению с параметрическими тестами.
+3. **Малые размеры выборок**: Хорошо работают даже с малыми размерами выборок, где параметрические тесты могут потерпеть неудачу.
 
-### Limitations
+### Ограничения
 
-1. **Less Power:** Wilcoxon Tests are generally less powerful than their parametric counterparts if the underlying distribution is normal.
-2. **Scalability Issues:** May become cumbersome with very large datasets.
-3. **Interpretation:** Results can be less intuitive compared to parametric tests.
+1. **Меньшая Мощность**: Тесты Уилкоксона обычно менее мощны, чем их параметрические аналоги, если базовое распределение нормальное.
+2. **Проблемы Масштабируемости**: Могут стать громоздкими с очень большими наборами данных.
+3. **Интерпретация**: Результаты могут быть менее интуитивными по сравнению с параметрическими тестами.
 
-In conclusion, the Wilcoxon Test is a versatile statistical tool that provides a robust alternative to parametric tests, especially when dealing with non-normal distributions or ordinal data. Its applications in finance and trading, particularly in algorithmic trading and FinTech, highlight its importance in practical, real-world scenarios. Whether comparing trading algorithms or evaluating financial models, the Wilcoxon Test remains a valuable tool for data scientists and financial analysts.
+В заключение, тест Уилкоксона — это универсальный статистический инструмент, который предоставляет надежную альтернативу параметрическим тестам, особенно при работе с ненормальными распределениями или порядковыми данными. Его приложения в финансах и торговле, особенно в алгоритмической торговле и финтехе, подчеркивают его важность в практических, реальных сценариях. Будь то сравнение торговых алгоритмов или оценка финансовых моделей, тест Уилкоксона остается ценным инструментом для аналитиков данных и финансовых аналитиков.

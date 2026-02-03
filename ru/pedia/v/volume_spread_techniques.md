@@ -1,81 +1,81 @@
-# Volume Spread Techniques
+# Техники объема и спреда
 
-Volume Spread Analysis (VSA) is a trading methodology that focuses on analyzing the relationship between trading volume and the price spreads (the difference between the high and low prices during a specific period). VSA was initially developed by Richard D. Wyckoff in the early 1900s and later refined by Tom Williams, a former professional trader and syndicate manager. The core idea behind VSA is that the actions of smart money (large institutional investors, market makers, and other professionals) can be detected through the analysis of price and volume.
+Анализ объема и спреда (VSA) - это торговая методология, которая фокусируется на анализе взаимосвязи между торговым объемом и ценовыми спредами (разница между максимальной и минимальной ценами в течение определенного периода). VSA был первоначально разработан Ричардом Д. Вайкоффом в начале 1900-х годов и позже усовершенствован Томом Уильямсом, бывшим профессиональным трейдером и менеджером синдиката. Основная идея VSA заключается в том, что действия умных денег (крупные институциональные инвесторы, маркет-мейкеры и другие профессионалы) могут быть обнаружены через анализ цены и объема.
 
-## Core Concepts of VSA
+## Основные концепции VSA
 
-### Volume
-Volume represents the total number of shares, contracts, or units traded in a given security over a specific period. High volume often indicates institutional activity, as large market players are capable of moving the market more significantly than individual traders.
+### Объем
+Объем представляет общее количество акций, контрактов или единиц, торгованных в данной ценной бумаге за определенный период. Высокий объем часто указывает на институциональную активность, поскольку крупные игроки рынка способны двигать рынок более значительно, чем отдельные трейдеры.
 
-### Spread
-The spread is the difference between the high and low prices for a given period. Narrow spreads suggest less volatility or a lack of strong buying and selling interest, while wide spreads indicate higher volatility or strong buying/selling interest.
+### Спред
+Спред - это разница между максимальной и минимальной ценами за данный период. Узкие спреды предполагают меньшую волатильность или отсутствие сильного покупательского и продающего интереса, в то время как широкие спреды указывают на более высокую волатильность или сильный покупательский/продающий интерес.
 
-### Effort vs. Result
-This principle examines the effort (volume) put into moving a security's price versus the result (price movement) of that effort. This analysis helps determine if the market is being efficiently influenced or if there are anomalies.
+### Усилие против результата
+Этот принцип исследует усилие (объем), вложенное в движение цены ценной бумаги, по сравнению с результатом (движение цены) этого усилия. Этот анализ помогает определить, влияет ли на рынок эффективно или существуют аномалии.
 
-### No Demand and No Supply
-- **No Demand** occurs when trading volume is lower than average and the spreads are narrow. This pattern indicates that there is little buying interest, making it unlikely for prices to rise.
-- **No Supply** happens when volume is low, and the spread narrows signify a lack of selling interest, suggesting it’s unlikely for prices to fall.
+### Отсутствие спроса и предложения
+- **Отсутствие спроса** происходит, когда торговый объем ниже среднего, а спреды узкие. Этот паттерн указывает на то, что покупательского интереса мало, что делает маловероятным рост цен.
+- **Отсутствие предложения** происходит, когда объем низкий, а узкий спред означает отсутствие продающего интереса, предполагая, что маловероятно падение цен.
 
-## Volume Spread Techniques Analysis
+## Анализ техник объема и спреда
 
-### Bottom Reversals
-Volume and spread techniques seek key reversal points where the price tends to reverse direction after a trend. This includes identifying:
-- **Climactic Volume**: Extremely high volume that usually signifies the end of a trend.
-- **Stopping Volume**: Less volume compared to climactic volume but still high, indicating potential reversal.
-- **Accumulation/Distribution**: Accumulation signifies buying into weakness (raising the price) and distribution signifies selling into strength (lowering the price).
+### Развороты снизу
+Техники объема и спреда ищут ключевые точки разворота, где цена имеет тенденцию менять направление после тренда. Это включает в себя определение:
+- **Кульминационный объем**: чрезвычайно высокий объем, который обычно означает конец тренда.
+- **Останавливающий объем**: меньший объем по сравнению с кульминационным объемом, но все еще высокий, указывающий на потенциальный разворот.
+- **Накопление/распределение**: накопление означает покупку на слабости (повышение цены), а распределение означает продажу на силе (понижение цены).
 
-### Trend Analysis
-- **Up Trend**: Increasing price and volume, indicating strong buying interest.
-- **Down Trend**: Decreasing price and increasing volume, indicating strong selling interest.
-- **Sideways Trend**: Price remains within a range, with volume not showing significant trends.
+### Анализ тренда
+- **Восходящий тренд**: растущая цена и объем, указывающие на сильный покупательский интерес.
+- **Нисходящий тренд**: падающая цена и увеличивающийся объем, указывающие на сильный продающий интерес.
+- **Боковой тренд**: цена остается в диапазоне, при этом объем не показывает значительных трендов.
 
-### Effort vs. Result Analysis
-One core technique involves analyzing whether the effort (volume) matches the result (price movement):
-- **Volume up, price up**: Indicates strength and continuity.
-- **Volume up, price neutral/falling**: Indicates possible weakness or distribution.
-- **Volume down, price up**: Positive divergence suggesting lack of supply.
-- **Volume down, price down**: Weakness as demand has failed to increase.
+### Анализ усилия против результата
+Одна основная техника включает анализ того, соответствует ли усилие (объем) результату (движение цены):
+- **Объем вверх, цена вверх**: указывает на силу и непрерывность.
+- **Объем вверх, цена нейтрально/падает**: указывает на возможную слабость или распределение.
+- **Объем вниз, цена вверх**: положительная дивергенция, предполагающая отсутствие предложения.
+- **Объем вниз, цена вниз**: слабость, поскольку спрос не смог увеличиться.
 
-### Strength and Weakness Spots
-- **End of a Rising Market**: High volume on up bars with little overall price movement indicates the market is topping out, attributed to distribution by smart money.
-- **End of a Declining Market**: High volume on down bars with little overall price movement suggests the market is bottoming out due to smart money accumulation.
+### Точки силы и слабости
+- **Конец растущего рынка**: высокий объем на растущих барах с небольшим общим движением цены указывает на то, что рынок достигает вершины, что приписывается распределению умными деньгами.
+- **Конец падающего рынка**: высокий объем на падающих барах с небольшим общим движением цены предполагает, что рынок достигает дна из-за накопления умными деньгами.
 
-### Test and Spring
-- **Tests**: Used to confirm market strength by pushing prices down with low volume, then seeing prices quickly return higher.
-- **Springs**: Prices quickly drop below support levels with low volume and then rise again, indicating smart money taking advantage of weak hands.
+### Тест и пружина
+- **Тесты**: используются для подтверждения силы рынка путем толкания цен вниз с низким объемом, затем наблюдая, как цены быстро возвращаются выше.
+- **Пружины**: цены быстро падают ниже уровней поддержки с низким объемом, а затем снова растут, указывая на то, что умные деньги используют слабые руки.
 
-## Practical Applications
+## Практические применения
 
-### Identification of Accumulation/Distribution
-Volume Spread Techniques enable identification of accumulation and distribution phases. Accumulation occurs when smart money buys large quantities of stocks at low prices without causing a significant price increase. In contrast, distribution takes place when smart money sells large quantities without causing a sharp price decline.
+### Определение накопления/распределения
+Техники объема и спреда позволяют определить фазы накопления и распределения. Накопление происходит, когда умные деньги покупают большие количества акций по низким ценам без значительного повышения цены. Напротив, распределение происходит, когда умные деньги продают большие количества без резкого падения цены.
 
-### Spotting Divergence
-Monitoring divergences between volume and price movement can provide early signals of potential trend reversals. A bullish divergence occurs when prices hit new lows, but the volume is receding, while bearish divergence happens when prices hit new highs, but the volume is falling.
+### Выявление дивергенций
+Мониторинг дивергенций между объемом и движением цены может предоставить ранние сигналы потенциальных разворотов тренда. Бычья дивергенция происходит, когда цены достигают новых минимумов, но объем снижается, в то время как медвежья дивергенция происходит, когда цены достигают новых максимумов, но объем падает.
 
-### Confirming Breakouts
-Volume Spread Techniques can confirm if breakouts from critical levels (e.g., support and resistance) are genuine. A breakout accompanied by high volume suggests strength and continuity, while a breakout on low volume may be a false signal.
+### Подтверждение пробоев
+Техники объема и спреда могут подтвердить, являются ли пробои от критических уровней (например, поддержки и сопротивления) подлинными. Пробой, сопровождаемый высоким объемом, предполагает силу и непрерывность, в то время как пробой на низком объеме может быть ложным сигналом.
 
-### Institutional Behavior
-VSA helps traders understand the movements of large institutional players. Institutions often leave footprints in the form of increased volume before significant price changes, which can be a valuable indicator for retail traders.
+### Поведение институциональных игроков
+VSA помогает трейдерам понять движения крупных институциональных игроков. Институции часто оставляют следы в виде увеличенного объема перед значительными изменениями цен, что может быть ценным индикатором для розничных трейдеров.
 
-### Risk Management
-Using Volume Spread Techniques allows traders to refine their entry and exit points, improving overall trade efficiency and risk management. By identifying phases of accumulation or distribution, traders can better time their trades and position sizes.
+### Управление рисками
+Использование техник объема и спреда позволяет трейдерам уточнить свои точки входа и выхода, улучшая общую эффективность торговли и управление рисками. Определяя фазы накопления или распределения, трейдеры могут лучше рассчитывать время своих сделок и размеры позиций.
 
-## Software Tools and Platforms
+## Программные инструменты и платформы
 
 ### TradeGuider
-TradeGuider ( provides a suite of tools for implementing Volume Spread Analysis. Their VSA tools can be integrated with various trading platforms to give real-time analysis and alerts based on VSA principles.
+TradeGuider предоставляет набор инструментов для внедрения анализа объема и спреда. Их инструменты VSA могут быть интегрированы с различными торговыми платформами для предоставления анализа и предупреждений в реальном времени на основе принципов VSA.
 
 ### TradingView
-TradingView ( features a range of VSA-based indicators and scripts developed by the community, allowing customization and integration into your trading strategy.
+TradingView предлагает ряд индикаторов и скриптов на основе VSA, разработанных сообществом, позволяя настройку и интеграцию в вашу торговую стратегию.
 
 ### MetaStock
-MetaStock ( offers plugins and systems designed around VSA concepts, providing backtesting, screening, and real-time advice based on volume spread techniques.
+MetaStock предлагает плагины и системы, разработанные вокруг концепций VSA, обеспечивая бэктестирование, скрининг и советы в реальном времени на основе техник объема и спреда.
 
 ### Sierra Chart
-Sierra Chart ( is another platform that supports various VSA indicators and tools, enabling traders to analyze volume and price spreads efficiently.
+Sierra Chart - это еще одна платформа, которая поддерживает различные индикаторы и инструменты VSA, позволяя трейдерам эффективно анализировать объем и ценовые спреды.
 
-## Conclusion
+## Заключение
 
-Volume Spread Techniques provide a nuanced way to analyze market movements, particularly looking for the footprints of smart money. By examining the relationships between volume and price spreads, traders can infer the underlying strength or weakness in a market, identify potential reversals, and better manage their trades. Platforms like TradeGuider, TradingView, MetaStock, and Sierra Chart offer sophisticated tools to apply these techniques in real-time trading.
+Техники объема и спреда обеспечивают нюансированный способ анализа рыночных движений, особенно ища следы умных денег. Исследуя взаимосвязь между объемом и ценовыми спредами, трейдеры могут сделать вывод о базовой силе или слабости на рынке, определить потенциальные развороты и лучше управлять своими сделками. Платформы, такие как TradeGuider, TradingView, MetaStock и Sierra Chart, предлагают сложные инструменты для применения этих техник в торговле в реальном времени.

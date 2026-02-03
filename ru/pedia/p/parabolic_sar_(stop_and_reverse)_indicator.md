@@ -1,70 +1,70 @@
-# параболический SAR (стоп и реверс) индикатор
+# Индикатор Parabolic SAR (Stop and Reverse)
 
-The параболический SAR (стоп и реверс) is a technical анализ индикатор developed by J. Welles Wilder, a mechanical engineer turned technical analyst. The индикатор is principally used to determine potential reversals in the direction of цена movement in financial markets. Its primary use is in the realm of trend following and trend identification.
+Parabolic SAR (Stop and Reverse) — это индикатор технического анализа, разработанный Дж. Уэллсом Уайлдером, инженером-механиком, ставшим техническим аналитиком. Индикатор в основном используется для определения потенциальных разворотов в направлении ценового движения на финансовых рынках. Его основное применение — в сфере следования за трендом и идентификации тренда.
 
-## Mechanics of параболический SAR
+## Механика Parabolic SAR
 
-The параболический SAR is plotted on the цена chart itself rather than in a separate pane. It appears as a series of dots placed either above or below the цена bars. These dots serve as trailing stop loss points and also help to signal potential trend reversals.
+Parabolic SAR отображается непосредственно на ценовом графике, а не в отдельной панели. Он появляется в виде серии точек, размещенных либо выше, либо ниже ценовых баров. Эти точки служат точками трейлинг-стоп-лосса, а также помогают сигнализировать о потенциальных разворотах тренда.
 
-### Calculation
+### Расчет
 
-The параболический SAR is calculated using the following formula:
+Parabolic SAR рассчитывается по следующей формуле:
 
-\ SAR_{n+1} = SAR_n + \[alpha ( EP - SAR_n ) \]
+\[ SAR_{n+1} = SAR_n + \alpha ( EP - SAR_n ) \]
 
-Where:
-- \( SAR_{n+1} \) = the SAR value for the next period.
-- \( SAR_n \) = the current period's SAR value.
-- \( EP \) = Extreme Point, the highest high (for long positions) or the lowest low (for short positions) reached during the current trend.
-- \( \alpha \) = Acceleration Factor, which typically starts at 0.02 and increases by 0.02 up to a maximum of 0.20 each time a new high or low is reached during the trend.
+Где:
+- \( SAR_{n+1} \) = значение SAR для следующего периода.
+- \( SAR_n \) = значение SAR текущего периода.
+- \( EP \) = Экстремальная точка, самый высокий максимум (для длинных позиций) или самый низкий минимум (для коротких позиций), достигнутый во время текущего тренда.
+- \( \alpha \) = Фактор ускорения, который обычно начинается с 0.02 и увеличивается на 0.02 до максимума 0.20 каждый раз, когда достигается новый максимум или минимум во время тренда.
 
-### Reversal
+### Разворот
 
-A reversal occurs when the цена closes below the SAR value (in an uptrend) or above it (in a downtrend). When this happens, the SAR switches sides.
+Разворот происходит, когда цена закрывается ниже значения SAR (в восходящем тренде) или выше него (в нисходящем тренде). Когда это происходит, SAR переключается на другую сторону.
 
-## Parameters and Customization
+## Параметры и настройка
 
-The default Acceleration Factor (\(\alpha\)) starts at 0.02 and ends at a maximum of 0.20. However, these values can be customized to suit different trading styles:
+Фактор ускорения по умолчанию (\(\alpha\)) начинается с 0.02 и заканчивается максимумом 0.20. Однако эти значения могут быть настроены для различных торговых стилей:
 
-- **Lower \(\alpha\) Values:** Yield fewer signals and are suitable for long-term trading.
-- **Higher \(\alpha\) Values:** Yield more signals and are suitable for short-term trading.
+- **Более низкие значения \(\alpha\):** Дают меньше сигналов и подходят для долгосрочной торговли.
+- **Более высокие значения \(\alpha\):** Дают больше сигналов и подходят для краткосрочной торговли.
 
-## Usage in Trading
+## Использование в торговле
 
-### Trend Identification
+### Идентификация тренда
 
-The primary use of the параболический SAR is identifying the direction of the trend. When the dots are below the цена, it signals an uptrend. Conversely, when the dots are above the цена, it signals a downtrend.
+Основное использование Parabolic SAR — идентификация направления тренда. Когда точки находятся ниже цены, это сигнализирует о восходящем тренде. И наоборот, когда точки находятся выше цены, это сигнализирует о нисходящем тренде.
 
-### Entry and Exit Points
+### Точки входа и выхода
 
-- **Entry Points:** Traders might enter a long position when the dots движение below the цена, and a short position when the dots движение above the цена.
-- **Exit Points:** Traders might use the dots as trailing stop-loss points to lock in profits. When the цена crosses the SAR, it may signal an exit point.
+- **Точки входа:** Трейдеры могут войти в длинную позицию, когда точки перемещаются ниже цены, и в короткую позицию, когда точки перемещаются выше цены.
+- **Точки выхода:** Трейдеры могут использовать точки в качестве трейлинг-стоп-лосс точек для фиксации прибыли. Когда цена пересекает SAR, это может сигнализировать о точке выхода.
 
-### Combination with Other Indicators
+### Комбинация с другими индикаторами
 
-The параболический SAR is often used in combination with other technical indicators to improve the reliability of trading signals. For example, combining the SAR with moving averages or the Relative Strength Index (RSI) can provide additional layers of confirmation.
+Parabolic SAR часто используется в комбинации с другими техническими индикаторами для повышения надежности торговых сигналов. Например, комбинирование SAR со скользящими средними или индексом относительной силы (RSI) может предоставить дополнительные уровни подтверждения.
 
-## Advantages and Limitations
+## Преимущества и ограничения
 
-### Advantages
+### Преимущества
 
-- **Simplicity:** The параболический SAR is easy to understand and straightforward to plot.
-- **Clear Signals:** It provides clear signals for trend reversals, which can be valuable for creating stop-loss and take-profit strategies.
+- **Простота:** Parabolic SAR легко понять и просто построить.
+- **Четкие сигналы:** Он предоставляет четкие сигналы для разворотов тренда, что может быть ценным для создания стратегий стоп-лосса и фиксации прибыли.
 
-### Limitations
+### Ограничения
 
-- **Whipsaws:** In sideways or choppy markets, the индикатор can generate false signals or whipsaws.
-- **Lag:** Since it is a trend-following индикатор, it may lag and produce signals after a substantial portion of the движение has already occurred.
+- **Пилообразные движения:** На боковых или изменчивых рынках индикатор может генерировать ложные сигналы или пилообразные движения.
+- **Запаздывание:** Поскольку это индикатор следования за трендом, он может запаздывать и давать сигналы после того, как значительная часть движения уже произошла.
 
-## Implementation in Algorithmic Trading
+## Реализация в алгоритмической торговле
 
-Algorithmic traders often incorporate the параболический SAR into automated trading systems due to its clear and straightforward rules. Here’s a simple Python code snippet using the popular TA-Lib library to compute the параболический SAR:
+Алгоритмические трейдеры часто включают Parabolic SAR в автоматизированные торговые системы из-за его четких и прямолинейных правил. Вот простой фрагмент кода Python с использованием популярной библиотеки TA-Lib для вычисления Parabolic SAR:
 
 ```python
 import talib
 import pandas as pd
 
-# Sample DataFrame
+# Пример DataFrame
 data = {
     'high': [104, 105, 106, 107, 108],
     'low': [100, 101, 102, 103, 104],
@@ -72,14 +72,14 @@ data = {
 }
 df = pd.DataFrame(data)
 
-# Compute параболический SAR
+# Вычисление Parabolic SAR
 df['SAR'] = talib.SAR(df['high'], df['low'], acceleration=0.02, maximum=0.20)
 
 print(df)
 ```
 
-## Final Thoughts
+## Заключительные мысли
 
-The параболический SAR remains a popular tool among traders for identifying trends and potential reversals. While it may not be foolproof, its simplicity and эффективность make it a valuable component of any trader's technical анализ toolkit, especially when used in conjunction with other indicators and анализ techniques.
+Parabolic SAR остается популярным инструментом среди трейдеров для идентификации трендов и потенциальных разворотов. Хотя он может быть не безошибочным, его простота и эффективность делают его ценным компонентом набора инструментов технического анализа любого трейдера, особенно при использовании в сочетании с другими индикаторами и методами анализа.
 
-For more detailed information on the параболический SAR, you can refer to resources provided by TradingView and Investopedia.
+Для получения более подробной информации о Parabolic SAR вы можете обратиться к ресурсам, предоставленным TradingView и Investopedia.
