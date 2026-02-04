@@ -1,6 +1,6 @@
 # Visual Basic for Applications (VBA)
 
-Visual Basic for Applications (VBA) — это событийно-ориентированный язык программирования от Microsoft, который преимущественно используется для разработки приложений в пакете Microsoft Office. Он позволяет пользователям создавать макросы для автоматизации повторяющихся задач, манипулирования данными и интеграции приложений Office с базами данных или внешними системами. Несмотря на свой возраст, VBA остается важным инструментом для создания индивидуальных решений эффективно в Excel, Access, Word и других приложениях Office.
+Visual Basic for Applications (VBA) — это событийно-ориентированный язык программирования от Microsoft, который преимущественно используется для разработки приложений в пакете Microsoft Office. Он позволяет пользователям создавать макросы для автоматизации повторяющихся задач, манипулирования данными и интеграции приложений Office с базами данных или внешними системами. Несмотря на свой возраст, VBA остается важным инструментом для эффективного создания индивидуальных решений в Excel, Access, Word и других приложениях Office.
 
 ## Понимание VBA
 
@@ -16,7 +16,7 @@ Visual Basic for Applications (VBA) — это событийно-ориенти
 
 4. **Управляющие структуры**: Они включают условные операторы (`If...Then...Else`) и циклы (`For...Next`, `While...Wend`), которые определяют поток программы.
 
-5. **Обработка ошибок**: Методы для изящного управления ошибками и исключениями с использованием `On Error Resume Next`, `On Error GoTo [line]` и объекта `Err`.
+5. **Обработка ошибок**: Техники для изящного управления ошибками и исключениями с использованием `On Error Resume Next`, `On Error GoTo [line]` и объекта `Err`.
 
 ## Применение VBA в торговле и финансах
 
@@ -36,6 +36,132 @@ VBA обычно используется для разработки сложн
 
 ### 5. Управление рисками
 VBA облегчает автоматизацию процессов управления рисками, включая агрегацию данных о рисках, расчет уровней экспозиции, стресс-тестирование и генерацию отчетов о соответствии и регулировании.
+
+## Практический пример: автоматизация торговой стратегии в VBA
+
+Ниже приведен упрощенный пример того, как VBA может быть использован для реализации торговой стратегии на основе пересечения скользящих средних в Excel.
+
+**Шаги:**
+
+1. **Подготовка данных**: Импорт исторических данных о ценах акций в Excel.
+2. **Расчет скользящих средних**: Использование VBA для расчета краткосрочных и долгосрочных скользящих средних.
+3. **Генерация сигналов на покупку/продажу**: Использование логики VBA для определения точек пересечения и генерации торговых сигналов.
+4. **Бэктестинг стратегии**: Оценка производительности стратегии путем применения сигналов на исторических данных.
+
+### Подготовка данных
+
+Убедитесь, что ваши исторические цены акций (дата, открытие, максимум, минимум, закрытие, объем) находятся в листе Excel с названием `StockData`.
+
+```vba
+Sub ImportStockData()
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Sheets("StockData")
+
+    ' Обычно вы получали бы эти данные из внешнего файла или веб-сервиса
+    ' Для демонстрации мы предполагаем, что данные уже находятся в листе
+End Sub
+```
+
+### Расчет скользящих средних
+
+Создайте новый модуль для расчета скользящих средних.
+
+```vba
+Sub CalculateMovingAverages()
+    Dim ws As Worksheet
+    Dim lastRow As Long
+
+    Set ws = ThisWorkbook.Sheets("StockData")
+
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+
+    ' Предполагается, что цены закрытия находятся в столбце E
+    For i = 21 To lastRow
+        ws.Cells(i, 7).Value = WorksheetFunction.Average(ws.Range("E" & i - 9 & ":E" & i))   ' 10-дневная MA
+        ws.Cells(i, 8).Value = WorksheetFunction.Average(ws.Range("E" & i - 19 & ":E" & i))  ' 20-дневная MA
+    Next i
+End Sub
+```
+
+### Генерация сигналов на покупку/продажу
+
+Добавьте логику для определения пересечений и генерации торговых сигналов.
+
+```vba
+Sub GenerateSignals()
+    Dim ws As Worksheet
+    Dim lastRow As Long
+
+    Set ws = ThisWorkbook.Sheets("StockData")
+
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+
+    For i = 22 To lastRow
+        If ws.Cells(i, 7).Value > ws.Cells(i, 8).Value And _
+           ws.Cells(i - 1, 7).Value <= ws.Cells(i - 1, 8).Value Then
+
+            ws.Cells(i, 9).Value = "BUY"
+
+        ElseIf ws.Cells(i, 7).Value < ws.Cells(i, 8).Value And _
+                 ws.Cells(i - 1, 7).Value >= ws.Cells(i - 1, 8).Value Then
+
+            ws.Cells(i, 9).Value = "SELL"
+
+        Else
+            ws.Cells(i, 9).Value = "HOLD"
+        End If
+    Next i
+End Sub
+```
+
+### Бэктестинг стратегии
+
+Наконец, оцените производительность стратегии.
+
+```vba
+Sub BacktestStrategy()
+    Dim ws As Worksheet
+    Dim lastRow As Long
+    Dim initialCapital As Double
+    Dim shares As Double
+    Dim cash As Double
+    Dim buyPrice As Double
+
+    initialCapital = 100000
+    shares = 0
+    cash = initialCapital
+
+    Set ws = ThisWorkbook.Sheets("StockData")
+
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+
+    For i = 22 To lastRow
+        Select Case ws.Cells(i, 9).Value
+            Case "BUY"
+                If cash > ws.Cells(i, 5).Value Then
+                    shares = cash / ws.Cells(i, 5).Value
+                    buyPrice = ws.Cells(i, 5).Value
+                    cash = 0
+                End If
+
+            Case "SELL"
+                If shares > 0 Then
+                    cash = shares * ws.Cells(i, 5).Value
+                    shares = 0
+                End If
+
+        End Select
+    Next i
+
+    ' Итоговая стоимость портфеля
+    If shares > 0 Then
+        cash = shares * ws.Cells(lastRow, 5).Value
+    End If
+
+    ' Вывод итоговой стоимости портфеля
+    MsgBox "Итоговая стоимость портфеля: " & Format(cash, "Currency")
+End Sub
+```
 
 ## Преимущества и ограничения использования VBA
 
