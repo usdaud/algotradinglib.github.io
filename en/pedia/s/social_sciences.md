@@ -130,10 +130,3 @@ Risk control is essential when applying Social Sciences. Define the maximum loss
 
 ## Variations and related terms
 Many traders use Social Sciences alongside broader concepts such as trend analysis, volatility regimes, and liquidity conditions. Similar tools may exist with different names or slightly different definitions, so clear documentation prevents confusion.
-
-## Practical checklist
-- Define the time horizon for Social Sciences and the market context.
-- Identify the data inputs you trust, such as price, volume, or schedule dates.
-- Write a clear entry and exit rule before committing capital.
-- Size the position so a single error does not damage the account.
-- Document the result to improve repeatability.
