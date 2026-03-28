@@ -57,7 +57,7 @@
 - name: OS Engine
   description: Catalog site dedicated to open-source algorithmic trading engine, featuring tools, resources, and a personal blog on algorithmic trading
   logo: /assets/images/logos/osaengine.png
-  website: https://osaengine.ru/
+  website: https://osaengine.com/
   pedia_link: /en/pedia/o/osengine.html
   filters: [Russian]
 
